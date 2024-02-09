@@ -19,7 +19,7 @@ jobs:
   getlistformatrix:
     env:
       concurrentjobs: ${{ github.event.inputs.concurrent || '10' }}
-      packagesperjob: ${{ github.event.inputs.perjob || '5' }}
+      packagesperjob: ${{ github.event.inputs.perjob || '15' }}
     concurrency:
       group: dispatch
       cancel-in-progress: false
@@ -155,16 +155,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - uses: actions/checkout@v4
+      # - name: Free root space
+      #   uses: almahmoud/free-root-space@main
+      #   with:
+      #     verbose: true
 
-      - name: Free space check
-        run: |
-          echo "Free space:"
-          df -h
+      - uses: actions/checkout@v4
 
       - name: Get R, OS, and Bioc versions
         id: versions
         run: |
+          echo "Free space:"
+          df -h
           echo os=$(cat bioc_build/os) >> $GITHUB_OUTPUT
           echo r=$(cat bioc_build/r) >> $GITHUB_OUTPUT
           echo bioc=$(cat bioc_build/bioc) >> $GITHUB_OUTPUT
@@ -173,7 +175,7 @@ jobs:
           echo sanitizedplatform=$(cat platform | sed "s/[^[:alnum:]]/-/g") >> $GITHUB_OUTPUT
           echo arch=$(cat arch) >> $GITHUB_OUTPUT
           echo runstart=$(cat runstarttime) >> $GITHUB_OUTPUT
-          echo dispatchlistpath=$(echo "logs/$(cat runstarttime)/logs/dispatchlists/${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}") >> $GITHUB_OUTPUT
+          echo dispatchlistpath=$(echo "${{github.workspace}}/logs/$(cat runstarttime)/logs/dispatchlists/${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}") >> $GITHUB_OUTPUT
 
       - name: Get Current Job Log URL
         uses: Tiryoh/gha-jobid-action@v0
@@ -270,9 +272,6 @@ jobs:
         shell: bash
         run: |
           set -x
-          CONT_ID=$(docker run -d --user root -v ${{github.workspace}}:${{github.workspace}} -v /tmp:/tmp ghcr.io/bioconductor/bioconductor:3.18 sleep 21600)
-          echo contid=$CONT_ID >> $GITHUB_OUTPUT
-
           DISPATCHPATH=${{steps.versions.outputs.dispatchlistpath}}
 
           # Prepare libraries for each package and add the restored dep libraries
@@ -287,7 +286,7 @@ jobs:
           cat $DISPATCHPATH | xargs -i bash /tmp/tempscripts/prepare_libraries.sh {}
 
           # Remove libraries from outside, as they were copied into each of the to build package libraries
-          (cd ${{steps.versions.outputs.library}} && ls > /tmp/allLibraries && comm -23 <(sort /tmp/allLibraries) <(sort $DISPATCHPATH) | xargs rm)
+          (cd ${{steps.versions.outputs.library}} && ls > /tmp/allLibraries && comm -23 <(sort /tmp/allLibraries) <(sort $DISPATCHPATH) | xargs -r -i rm -r {})
 
           mkdir -p /tmp/results
           cat << "EOF" > /tmp/tempscripts/run_build.sh
@@ -295,6 +294,9 @@ jobs:
           CONT_ID="$2"
           docker exec $CONT_ID bash ${{github.workspace}}/.github/scripts/build_package.sh "$PKG" "${{steps.versions.outputs.library}}/$PKG" "${{github.workspace}}/lists" && echo "GHABBSBUILDPASSED" > /tmp/results/$PKG || echo "GHABBSBUILDFAILED" > /tmp/results/$PKG
           EOF
+
+          CONT_ID=$(docker run -d --user root -v ${{github.workspace}}:${{github.workspace}} -v /tmp:/tmp ghcr.io/bioconductor/bioconductor:3.18 sleep 21600)
+          echo contid=$CONT_ID >> $GITHUB_OUTPUT
 
           cat $DISPATCHPATH | xargs -i bash /tmp/tempscripts/run_build.sh "{}" "$CONT_ID"
 
