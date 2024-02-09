@@ -3,8 +3,11 @@ on:
   workflow_dispatch:
     inputs:
       concurrent:
-        description: "Number of jobs to concurrently run to pick up lists"
+        description: "Max number of jobs to concurrently run to pick up lists"
         default: "10"
+      perjob:
+        description: "Max number of packages to build in each job before reporting back"
+        default: "15"
   push:
     paths:
       - tobuild.txt
@@ -159,6 +162,19 @@ jobs:
           echo "Free space:"
           df -h
 
+      - name: Get R, OS, and Bioc versions
+        id: versions
+        run: |
+          echo os=$(cat bioc_build/os) >> $GITHUB_OUTPUT
+          echo r=$(cat bioc_build/r) >> $GITHUB_OUTPUT
+          echo bioc=$(cat bioc_build/bioc) >> $GITHUB_OUTPUT
+          echo library=$(echo "tmp/built") >> $GITHUB_OUTPUT
+          echo platform=$(cat platform) >> $GITHUB_OUTPUT
+          echo sanitizedplatform=$(cat platform | sed "s/[^[:alnum:]]/-/g") >> $GITHUB_OUTPUT
+          echo arch=$(cat arch) >> $GITHUB_OUTPUT
+          echo runstart=$(cat runstarttime) >> $GITHUB_OUTPUT
+          echo dispatchlistpath=$(echo "DISPATCHPATH=logs/$(cat runstarttime)/logs/dispatchlists/${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}") >> $GITHUB_OUTPUT
+
       - name: Get Current Job Log URL
         uses: Tiryoh/gha-jobid-action@v0
         continue-on-error: true
@@ -200,19 +216,6 @@ jobs:
             git add logs/$(cat runstarttime)
             git commit -m "Push run_id for ${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}"
             git push
-
-      - name: Get R, OS, and Bioc versions
-        id: versions
-        run: |
-          echo os=$(cat bioc_build/os) >> $GITHUB_OUTPUT
-          echo r=$(cat bioc_build/r) >> $GITHUB_OUTPUT
-          echo bioc=$(cat bioc_build/bioc) >> $GITHUB_OUTPUT
-          echo library=$(echo "tmp/built") >> $GITHUB_OUTPUT
-          echo platform=$(cat platform) >> $GITHUB_OUTPUT
-          echo sanitizedplatform=$(cat platform | sed "s/[^[:alnum:]]/-/g") >> $GITHUB_OUTPUT
-          echo arch=$(cat arch) >> $GITHUB_OUTPUT
-          echo runstart=$(cat runstarttime) >> $GITHUB_OUTPUT
-          echo dispatchlistpath=$(echo "DISPATCHPATH=logs/$(cat runstarttime)/logs/dispatchlists/${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}") >> $GITHUB_OUTPUT
 
       - name: Get deps list
         id: deps
