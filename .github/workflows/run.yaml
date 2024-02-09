@@ -267,7 +267,7 @@ jobs:
         shell: bash
         run: |
           set -x
-          CONT_ID=$(docker run -d --user root -v ${{github.workspace}}:${{github.workspace}} -v /tmp:/tmp &bioc.CONTAINER_BASE_IMAGE "sleep 21600")
+          CONT_ID=$(docker run -d --user root -v ${{github.workspace}}:${{github.workspace}} -v /tmp:/tmp ghcr.io/bioconductor/bioconductor:3.18 "sleep 21600")
           echo contid=$CONT_ID >> $GITHUB_OUTPUT
 
           DISPATCHPATH=${{steps.versions.outputs.dispatchlistpath}}
