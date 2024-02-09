@@ -15,9 +15,9 @@ sed -n "/^    \"$PKG\"/,/^    \"/p" uniquedeps.json | grep '^        "' | awk -F
 
 # Build package, and exit with code 0 only on success
 # Redirect all stout/stderr to log
-(time Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); if(BiocManager::install('$PKG', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)" 2>&1 ) 2>&1 | tee /tmp/pkglogs/$PKG
+(time Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); if(BiocManager::install('$PKG', INSTALL_opts = '--build', update = FALSE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)" 2>&1 ) 2>&1 | tee /tmp/pkglogs/$PKG
   
-cat /tmp/uniquedeps | xargs -i Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); BiocManager::install('{}', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE)" 2>&1 >> /tmp/pkglogs/$PKG
+cat /tmp/uniquedeps | xargs -i Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); BiocManager::install('{}', INSTALL_opts = '--build', update = FALSE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE)" 2>&1 >> /tmp/pkglogs/$PKG
 
 mv *.tar.gz /tmp/tars/ || true
 
