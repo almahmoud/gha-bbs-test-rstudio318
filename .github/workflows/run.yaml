@@ -56,7 +56,7 @@ jobs:
           mkdir -p /tmp
           head -n$(($concurrentjobs*$packagesperjob)) tobuild.txt > /tmp/pkglist
           split -l $packagesperjob --numeric-suffixes /tmp/pkglist /tmp/dispatchlists
-          ls /tmp/dispatchlists* > /tmp/alllists
+          ls /tmp/dispatchlists* | xargs -i basename {} > /tmp/alllists
           # Output it as json parsable list "['pkgs1', 'pkgs2']"
           echo dispatchlists=$(echo "['$(cat /tmp/alllists |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
           # Remove lines from to build
