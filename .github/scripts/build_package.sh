@@ -2,10 +2,10 @@
 set -x
 PKG="$1"
 LIBRARY="$2"
-LISTPATH="$3"
+WORKPATH="$3"
 
-runstart=$(cat runstarttime)
-containername=$(cat containername)
+runstart=$(cat $WORKPATH/runstarttime)
+containername=$(cat $WORKPATH/containername)
 mkdir -p $LIBRARY
 mkdir -p /tmp/tars/
 mkdir -p /tmp/pkglogs/
@@ -21,6 +21,6 @@ cat /tmp/uniquedeps | xargs -i Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER
 
 mv *.tar.gz /tmp/tars/ || true
 
-cd $(dirname $LISTPATH)
+cd $WORKPATH
 
 ls /tmp/tars | awk -F'_' '{print $1}' | grep -v "$PKG" | xargs -i bash -c 'if grep -q "tar.gz$" lists/{}; then rm /tmp/tars/$(cat lists/{}); else echo "{} tar not found."; fi'

@@ -292,7 +292,7 @@ jobs:
           cat << "EOF" > /tmp/tempscripts/run_build.sh
           PKG="$1"
           CONT_ID="$2"
-          docker exec $CONT_ID bash ${{github.workspace}}/.github/scripts/build_package.sh "$PKG" "${{steps.versions.outputs.library}}/$PKG" "${{github.workspace}}/lists" && echo "GHABBSBUILDPASSED" > /tmp/results/$PKG || echo "GHABBSBUILDFAILED" > /tmp/results/$PKG
+          docker exec $CONT_ID bash ${{github.workspace}}/.github/scripts/build_package.sh "$PKG" "${{steps.versions.outputs.library}}/$PKG" "${{github.workspace}}" && echo "GHABBSBUILDPASSED" > /tmp/results/$PKG || echo "GHABBSBUILDFAILED" > /tmp/results/$PKG
           EOF
 
           CONT_ID=$(docker run -d --user root -v ${{github.workspace}}:${{github.workspace}} -v /tmp:/tmp ghcr.io/bioconductor/bioconductor:3.18 sleep 21600)
