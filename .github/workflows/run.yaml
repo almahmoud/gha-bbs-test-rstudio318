@@ -25,7 +25,7 @@ jobs:
       matrix: ${{ steps.matrix.outputs.dispatchlists }}
       time: ${{ steps.uniq.outputs.time }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Get timestamp for list
         id: uniq
@@ -34,7 +34,7 @@ jobs:
 
       - name: Initialize to build list
         id: claim
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 20
@@ -68,13 +68,13 @@ jobs:
           echo tok=$(echo "$TOK") >> $GITHUB_OUTPUT
 
       - name: Checkout with new token
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ steps.tokenlist.outputs.tok }}
           persist-credentials: true
 
       - name: Switch to self-hosted
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 50
@@ -96,7 +96,7 @@ jobs:
             git push
 
       - name: Add write_packages log
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 50
@@ -121,7 +121,7 @@ jobs:
 
 
       - name: Update list
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 50
@@ -152,7 +152,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Free space check
         run: |
@@ -169,7 +169,7 @@ jobs:
           per_page: 100
 
       - name: Push run_id
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 50
@@ -305,7 +305,7 @@ jobs:
           echo pkg=$(ls /tmp/tars/ | grep "^${{matrix.pkg}}_" | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
 
       - name: Push failed packages
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 50
@@ -334,7 +334,7 @@ jobs:
           input-list: "${{steps.deps.outputs.dispatchpkgs}}"
 
       - name: Install rclone & add rclone conf file
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         env:
             RCLONE_CONF: ${{secrets.RCLONE_CONF}}
         with:
@@ -352,7 +352,7 @@ jobs:
             fi
 
       - name: Rclone push package
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 20
           max_attempts: 3
@@ -378,13 +378,13 @@ jobs:
           echo tok=$(echo "$TOK") >> $GITHUB_OUTPUT
 
       - name: Checkout with token
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ steps.tokenbuilt.outputs.tok }}
           persist-credentials: true
 
       - name: Rclone mark as pushed
-        uses: nick-fields/retry@v2
+        uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 50
