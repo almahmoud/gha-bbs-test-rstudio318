@@ -85,7 +85,22 @@ jobs:
             cp bioc_build/containername containername
             cp bioc_build/arch arch
 
-            bash .github/scripts/reset_packages.sh
+            python3 -c """
+            import json
+            with open('packages.json', 'r') as f:
+                pkgs = json.load(f)
+            for pkg in pkgs:
+                pkglist = pkgs.get(pkg)
+                pkglist = [] if not pkglist else pkglist
+                if pkg in pkglist:
+                    pkglist.remove(pkg)
+                pkglist.sort()
+                pkgs[pkg] = pkglist
+            with open('packages.json', 'w') as f:
+                f.write(json.dumps(pkgs, indent=4))
+            """
+            echo "$(TZ=EST date '+%Y-%m-%d-%H-%M')" > runstarttime
+
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.email "action@github.com"
             git config user.name "GitHub Action"
