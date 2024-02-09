@@ -334,8 +334,8 @@ jobs:
         id: save
         name: Multi-save cache + artifact
         with:
-          key-prefix: "${{steps.versions.outputs.runstart}}-"
-          path-prefix: "${{steps.versions.outputs.library}}/"
+          key-prefix: "${{steps.versions.outputs.runstart}}"
+          path-prefix: "${{steps.versions.outputs.library}}"
           input-list: "${{steps.deps.outputs.dispatchpkgs}}"
 
       - name: Install rclone & add rclone conf file
