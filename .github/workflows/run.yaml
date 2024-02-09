@@ -173,7 +173,7 @@ jobs:
           echo sanitizedplatform=$(cat platform | sed "s/[^[:alnum:]]/-/g") >> $GITHUB_OUTPUT
           echo arch=$(cat arch) >> $GITHUB_OUTPUT
           echo runstart=$(cat runstarttime) >> $GITHUB_OUTPUT
-          echo dispatchlistpath=$(echo "DISPATCHPATH=logs/$(cat runstarttime)/logs/dispatchlists/${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}") >> $GITHUB_OUTPUT
+          echo dispatchlistpath=$(echo "logs/$(cat runstarttime)/logs/dispatchlists/${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}") >> $GITHUB_OUTPUT
 
       - name: Get Current Job Log URL
         uses: Tiryoh/gha-jobid-action@v0
