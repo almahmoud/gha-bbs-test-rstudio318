@@ -200,8 +200,7 @@
     ],
     "ASAFE": [],
     "ASICS": [
-        "PepsNMR",
-        "ropls"
+        "PepsNMR"
     ],
     "ASpli": [
         "BiocStyle",
@@ -213,30 +212,23 @@
     ],
     "ATACCoGAPS": [
         "GeneOverlap",
-        "chromVAR",
-        "motifmatchr"
+        "chromVAR"
     ],
     "ATACseqQC": [
         "BiocVersion",
         "ChIPpeakAnno",
         "GenomicScores",
-        "InteractionSet",
-        "motifStack"
+        "InteractionSet"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atena": [
         "BiocVersion"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [
         "GOstats"
     ],
     "AUCell": [],
-    "autonomics": [],
     "AWFisher": [],
     "ballgown": [
         "sva"
@@ -366,9 +358,7 @@
         "pathview"
     ],
     "BioQC": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [
         "metapod",
         "scran"
@@ -642,7 +632,6 @@
         "BiocVersion",
         "gwascat"
     ],
-    "CircSeqAlignTk": [],
     "CiteFuse": [
         "metapod",
         "scran"
@@ -879,9 +868,7 @@
         "cytomapper"
     ],
     "dada2": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [],
     "DaMiRseq": [
         "sva"
@@ -974,7 +961,6 @@
         "InteractionSet"
     ],
     "DESpace": [],
-    "DEsubs": [],
     "DExMA": [
         "sva"
     ],
@@ -1086,9 +1072,7 @@
     "EMDomics": [
         "preprocessCore"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "BiocVersion",
         "illuminaio",
@@ -1108,7 +1092,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "motifmatchr",
         "treeio"
     ],
     "enrichViewNet": [
@@ -1151,20 +1134,16 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erccdashboard": [],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "motifmatchr",
         "treeio"
     ],
     "escape": [
         "GSVA"
     ],
-    "escheR": [],
     "EWCE": [
         "BiocVersion",
         "ggtree",
@@ -1370,7 +1349,6 @@
     "GEOexplorer": [
         "sva"
     ],
-    "GEOmetadb": [],
     "GEOsubmission": [
         "preprocessCore"
     ],
@@ -1590,15 +1568,12 @@
         "xcms"
     ],
     "iSEEde": [],
-    "iSEEhex": [],
     "iSEEhub": [
         "BiocVersion"
     ],
     "iSEEindex": [],
     "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "isobar": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
@@ -1643,9 +1618,7 @@
         "ggtree",
         "treeio"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "spicyR"
     ],
@@ -2044,12 +2017,9 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "MotifDb",
-        "motifStack"
+        "MotifDb"
     ],
     "MotifDb": [],
-    "motifmatchr": [],
-    "motifStack": [],
     "MPFE": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
@@ -2153,9 +2123,7 @@
         "MSstats",
         "preprocessCore"
     ],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "karyoploteR",
         "plyranges"
@@ -2202,7 +2170,6 @@
         "InteractionSet",
         "csaw",
         "metapod",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -2340,9 +2307,7 @@
     "PAA": [
         "sva"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PAIRADISE": [],
     "pairedGSEA": [
         "DEXSeq",
@@ -2412,9 +2377,7 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Heatplus"
     ],
@@ -2725,8 +2688,7 @@
         "baySeq"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "rifiComparative": [],
     "RImmPort": [],
@@ -2802,8 +2764,6 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
-    "ROSeq": [],
     "RPA": [
         "BiocStyle",
         "preprocessCore"
@@ -2811,9 +2771,7 @@
     "Rqc": [
         "BiocStyle"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RRHO": [],
     "rsemmed": [],
     "RTCGAToolbox": [],
@@ -2932,7 +2890,6 @@
         "metapod"
     ],
     "screenCounter": [],
-    "ScreenR": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3140,8 +3097,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
-        "motifmatchr"
+        "InteractionSet"
     ],
     "speckle": [],
     "specL": [],
@@ -3188,8 +3144,6 @@
     "STATegRa": [
         "preprocessCore"
     ],
-    "Statial": [],
-    "stepNorm": [],
     "stJoincount": [],
     "STRINGdb": [],
     "supraHex": [],
