@@ -25,7 +25,6 @@
     "affycoretools": [
         "ReportingTools",
         "gcrma",
-        "ggbio",
         "preprocessCore"
     ],
     "affyILM": [
@@ -50,7 +49,6 @@
         "ReportingTools",
         "affycoretools",
         "gcrma",
-        "ggbio",
         "preprocessCore"
     ],
     "AHMassBank": [
@@ -367,7 +365,6 @@
         "vsn"
     ],
     "BOBaFIT": [
-        "ggbio",
         "plyranges"
     ],
     "borealis": [
@@ -379,8 +376,7 @@
     "brainflowprobes": [
         "BiocVersion",
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "BubbleTree": [
         "BiocStyle"
@@ -396,7 +392,6 @@
         "plyranges"
     ],
     "CAFE": [
-        "ggbio",
         "preprocessCore"
     ],
     "CAGEfightR": [
@@ -407,7 +402,6 @@
     "cageminer": [
         "BioNERO",
         "GENIE3",
-        "ggbio",
         "minet",
         "preprocessCore"
     ],
@@ -639,7 +633,6 @@
     "comapr": [
         "Gviz"
     ],
-    "combi": [],
     "coMET": [
         "Gviz"
     ],
@@ -867,8 +860,7 @@
     ],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
     "DEScan2": [
         "ChIPpeakAnno",
@@ -1101,7 +1093,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "ggbio",
         "metapod",
         "scater",
         "scran"
@@ -1174,11 +1165,9 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRcore",
         "gDRimport",
         "piano"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
@@ -1211,9 +1200,7 @@
         "Gviz",
         "InteractionSet"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [
         "plyranges"
     ],
@@ -1239,7 +1226,6 @@
         "vsn"
     ],
     "GEWIST": [],
-    "ggbio": [],
     "ggmsa": [
         "ggtree",
         "treeio"
@@ -1352,7 +1338,6 @@
     "HTqPCR": [
         "preprocessCore"
     ],
-    "HTSeqGenie": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "BiocStyle"
@@ -1402,9 +1387,7 @@
     ],
     "INPower": [],
     "INTACT": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interacCircos": [],
     "InteractionSet": [],
     "IntEREst": [
@@ -1743,7 +1726,6 @@
         "treeio"
     ],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
@@ -1805,7 +1787,6 @@
         "preprocessCore"
     ],
     "mistyR": [],
-    "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1870,9 +1851,7 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "msImpute": [
         "metapod",
         "scran"
@@ -2351,9 +2330,7 @@
         "preprocessCore"
     ],
     "QuaternaryProd": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx",
@@ -2397,7 +2374,6 @@
         "BiocStyle",
         "dir.expiry"
     ],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
@@ -2439,11 +2415,8 @@
         "preprocessCore",
         "vsn"
     ],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "ResidualMatrix": [],
-    "RESOLVE": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -2458,9 +2431,7 @@
         "BiocVersion"
     ],
     "RgnTX": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "riboSeqR": [
         "baySeq"
     ],
@@ -2653,9 +2624,7 @@
     ],
     "screenCounter": [],
     "scRNAseqApp": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
@@ -2723,7 +2692,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "SIAMCAT": [],
     "signatureSearch": [
         "BiocVersion",
         "clusterProfiler",
@@ -2802,9 +2770,7 @@
     "soGGi": [
         "preprocessCore"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [
         "BiocVersion",
         "annotatr"
@@ -2958,7 +2924,6 @@
         "InteractionSet"
     ],
     "tradeSeq": [],
-    "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
         "Heatplus"
@@ -3092,8 +3057,7 @@
     "xmapbridge": [],
     "yamss": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "illuminaio",
