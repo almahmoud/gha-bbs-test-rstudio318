@@ -104,9 +104,7 @@
         "GenomicRanges",
         "Glimma",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -170,9 +168,7 @@
         "GenomicRanges",
         "Glimma",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -204,7 +200,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -214,7 +209,6 @@
         "rtracklayer"
     ],
     "airpart": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedArray",
@@ -456,7 +450,6 @@
         "SummarizedExperiment"
     ],
     "ANCOMBC": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -523,7 +516,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -575,10 +567,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "apComplex": [
-        "RBGL",
-        "Rgraphviz"
-    ],
+    "apComplex": [],
     "apeglm": [
         "DelayedArray",
         "GenomicRanges",
@@ -607,7 +596,6 @@
         "GenomicScores",
         "HDF5Array",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -746,7 +734,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -779,7 +766,6 @@
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -847,8 +833,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RBGL",
-        "Rgraphviz",
         "annotate",
         "genefilter",
         "limma"
@@ -996,7 +980,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1017,7 +1000,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1056,7 +1038,6 @@
         "dir.expiry"
     ],
     "batchelor": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1079,7 +1060,6 @@
         "sva"
     ],
     "BayesSpace": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1182,7 +1162,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "BiocNeighbors",
         "BiocSingular",
         "DESeq2",
         "DelayedArray",
@@ -1245,7 +1224,6 @@
         "GenomicRanges"
     ],
     "BiGGR": [
-        "Rgraphviz",
         "hyperdraw",
         "hypergraph",
         "rsbml"
@@ -1325,11 +1303,9 @@
     ],
     "BioCartaImage": [],
     "BiocCheck": [
-        "RBGL",
         "biocViews"
     ],
     "biocGraph": [
-        "Rgraphviz",
         "annotate",
         "geneplotter"
     ],
@@ -1344,7 +1320,6 @@
         "ExperimentHub"
     ],
     "BiocIO": [],
-    "BiocNeighbors": [],
     "BiocOncoTK": [
         "AnnotationHub",
         "BiocIO",
@@ -1357,7 +1332,6 @@
         "GenomicRanges",
         "HDF5Array",
         "MultiAssayExperiment",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1371,7 +1345,6 @@
         "annotate"
     ],
     "BiocPkgTools": [
-        "RBGL",
         "biocViews"
     ],
     "BiocSet": [
@@ -1396,9 +1369,7 @@
     ],
     "BiocStyle": [],
     "BiocVersion": [],
-    "biocViews": [
-        "RBGL"
-    ],
+    "biocViews": [],
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
@@ -1414,8 +1385,7 @@
         "rhdf5"
     ],
     "BioMVCClass": [
-        "MVCClass",
-        "Rgraphviz"
+        "MVCClass"
     ],
     "biomvRCNS": [
         "AnnotationFilter",
@@ -1455,12 +1425,9 @@
         "preprocessCore",
         "sva"
     ],
-    "BioNet": [
-        "RBGL"
-    ],
+    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
-        "Rgraphviz",
         "pathview"
     ],
     "BioQC": [
@@ -1479,7 +1446,6 @@
         "ropls"
     ],
     "BioTIP": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1539,7 +1505,6 @@
         "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1596,7 +1561,6 @@
         "KEGGgraph",
         "PADOG",
         "ROntoTools",
-        "Rgraphviz",
         "limma"
     ],
     "BloodGen3Module": [
@@ -1612,9 +1576,7 @@
         "limma",
         "preprocessCore"
     ],
-    "bluster": [
-        "BiocNeighbors"
-    ],
+    "bluster": [],
     "bnbc": [
         "DelayedArray",
         "GenomicRanges",
@@ -1633,8 +1595,6 @@
     "bnem": [
         "CellNOptR",
         "Linnorm",
-        "RBGL",
-        "Rgraphviz",
         "annotate",
         "edgeR",
         "epiNEM",
@@ -1655,7 +1615,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1704,7 +1663,6 @@
         "GenomicFiles",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1899,7 +1857,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1947,7 +1904,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2002,7 +1958,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -2023,7 +1978,6 @@
         "GenomicRanges",
         "Heatplus",
         "MultiAssayExperiment",
-        "RBGL",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rsamtools",
@@ -2079,7 +2033,6 @@
         "rtracklayer"
     ],
     "CATALYST": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedArray",
@@ -2099,7 +2052,6 @@
     ],
     "Category": [
         "GSEABase",
-        "RBGL",
         "annotate",
         "genefilter"
     ],
@@ -2108,9 +2060,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RBGL",
-        "RCy3",
-        "Rgraphviz",
         "annotate",
         "genefilter"
     ],
@@ -2193,7 +2142,6 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "ccmap": [],
     "CCPlotR": [
         "ComplexHeatmap"
     ],
@@ -2220,7 +2168,6 @@
         "SummarizedExperiment"
     ],
     "celda": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedArray",
@@ -2267,7 +2214,6 @@
     "cellHTS2": [
         "Category",
         "GSEABase",
-        "RBGL",
         "annotate",
         "genefilter",
         "limma",
@@ -2276,7 +2222,6 @@
         "vsn"
     ],
     "CelliD": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2297,7 +2242,6 @@
     "CellMapper": [],
     "cellmigRation": [],
     "CellMixS": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2312,10 +2256,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CellNOptR": [
-        "RBGL",
-        "Rgraphviz"
-    ],
+    "CellNOptR": [],
     "CellScore": [
         "DelayedArray",
         "GenomicRanges",
@@ -2374,7 +2315,6 @@
         "DelayedArray",
         "GOSemSim",
         "GenomicRanges",
-        "RCy3",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -2528,7 +2468,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2602,7 +2541,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "InteractionSet",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2716,7 +2654,6 @@
     ],
     "ChromSCape": [
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2768,7 +2705,6 @@
         "rtracklayer"
     ],
     "CHRONOS": [
-        "RBGL",
         "biomaRt"
     ],
     "cicero": [
@@ -2780,7 +2716,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2840,7 +2775,6 @@
         "rtracklayer"
     ],
     "CiteFuse": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2894,7 +2828,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3021,24 +2954,16 @@
         "rtracklayer"
     ],
     "CNORdt": [
-        "CellNOptR",
-        "RBGL",
-        "Rgraphviz"
+        "CellNOptR"
     ],
     "CNORfeeder": [
-        "CellNOptR",
-        "RBGL",
-        "Rgraphviz"
+        "CellNOptR"
     ],
     "CNORfuzzy": [
-        "CellNOptR",
-        "RBGL",
-        "Rgraphviz"
+        "CellNOptR"
     ],
     "CNORode": [
-        "CellNOptR",
-        "RBGL",
-        "Rgraphviz"
+        "CellNOptR"
     ],
     "CNTools": [
         "annotate",
@@ -3310,7 +3235,6 @@
         "SparseArray"
     ],
     "condiments": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -3330,7 +3254,6 @@
         "sparseMatrixStats"
     ],
     "CONFESS": [
-        "Rgraphviz",
         "SamSPECTRAL",
         "flowClust",
         "flowCore",
@@ -3883,7 +3806,6 @@
         "tkWidgets"
     ],
     "cydar": [
-        "BiocNeighbors",
         "DelayedArray",
         "GenomicRanges",
         "S4Arrays",
@@ -3909,7 +3831,6 @@
         "limma"
     ],
     "cytofQC": [
-        "BiocNeighbors",
         "BiocSingular",
         "BiocStyle",
         "CATALYST",
@@ -3953,8 +3874,6 @@
     ],
     "CytoML": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowClust",
@@ -3969,8 +3888,6 @@
         "ComplexHeatmap",
         "DelayedArray",
         "PeacoQC",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowAI",
@@ -3984,8 +3901,6 @@
         "CytoPipeline",
         "DelayedArray",
         "PeacoQC",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowAI",
@@ -4092,8 +4007,6 @@
     "DCATS": [],
     "dce": [
         "Linnorm",
-        "RBGL",
-        "Rgraphviz",
         "edgeR",
         "epiNEM",
         "graphite",
@@ -4123,7 +4036,6 @@
         "GenomicRanges",
         "Harman",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -4155,7 +4067,6 @@
         "rtracklayer"
     ],
     "decontX": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedArray",
@@ -4259,10 +4170,7 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RBGL",
-        "RCy3",
-        "Rgraphviz"
+        "NCIgraph"
     ],
     "DEGreport": [
         "ComplexHeatmap",
@@ -4418,7 +4326,6 @@
         "GenomicFiles",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4444,7 +4351,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "InteractionSet",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4484,7 +4390,6 @@
         "DESeq2",
         "DelayedArray",
         "GenomicRanges",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -4614,7 +4519,6 @@
         "rtracklayer"
     ],
     "Dino": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -4645,7 +4549,6 @@
         "SummarizedExperiment"
     ],
     "distinct": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -4855,7 +4758,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SPIA",
         "SingleCellExperiment",
@@ -4867,7 +4769,6 @@
         "graphite",
         "limma",
         "pathview",
-        "safe",
         "sparseMatrixStats",
         "variancePartition",
         "zenith"
@@ -4994,7 +4895,6 @@
         "genomeIntervals",
         "limma"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2",
         "DelayedArray",
@@ -5051,7 +4951,6 @@
         "HDF5Array",
         "KEGGgraph",
         "PADOG",
-        "Rgraphviz",
         "S4Arrays",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -5065,7 +4964,6 @@
         "limma",
         "pathview",
         "rhdf5",
-        "safe",
         "sparseMatrixStats",
         "topGO"
     ],
@@ -5159,7 +5057,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SPIA",
         "SparseArray",
@@ -5168,8 +5065,7 @@
         "edgeR",
         "graphite",
         "limma",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE",
@@ -5204,7 +5100,6 @@
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -5353,7 +5248,6 @@
         "Gviz",
         "HDF5Array",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5376,8 +5270,6 @@
     ],
     "epiNEM": [
         "Linnorm",
-        "RBGL",
-        "Rgraphviz",
         "limma",
         "minet",
         "mnem"
@@ -5414,7 +5306,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5434,7 +5325,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5452,7 +5342,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5469,7 +5358,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5495,7 +5383,6 @@
         "GenomicFiles",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5545,7 +5432,6 @@
         "treeio"
     ],
     "escape": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -5593,7 +5479,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SGSeq",
@@ -5670,7 +5555,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5817,10 +5701,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "fedup": [
-        "RCy3"
-    ],
-    "FELLA": [],
+    "fedup": [],
     "fenr": [
         "biomaRt"
     ],
@@ -5852,9 +5733,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "fgga": [
-        "RBGL"
-    ],
+    "fgga": [],
     "FGNet": [],
     "FilterFFPE": [
         "GenomicRanges",
@@ -5874,7 +5753,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "DelayedArray",
         "GenomicRanges",
@@ -5894,7 +5772,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -5908,7 +5785,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedArray",
@@ -5920,7 +5796,6 @@
         "HDF5Array",
         "MultiAssayExperiment",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -5985,8 +5860,6 @@
     ],
     "flowGate": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -6002,7 +5875,6 @@
         "flowCore"
     ],
     "flowMerge": [
-        "Rgraphviz",
         "flowClust",
         "flowCore"
     ],
@@ -6018,8 +5890,6 @@
     ],
     "flowStats": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -6040,8 +5910,6 @@
     ],
     "flowVS": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -6052,8 +5920,6 @@
     ],
     "flowWorkspace": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -6201,8 +6067,7 @@
         "flowViz"
     ],
     "gatom": [
-        "BioNet",
-        "RBGL"
+        "BioNet"
     ],
     "GBScleanR": [
         "GenomicRanges",
@@ -6240,7 +6105,6 @@
         "GenomicDataCommons",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -6312,7 +6176,6 @@
     ],
     "gDRstyle": [
         "BiocCheck",
-        "RBGL",
         "biocViews"
     ],
     "gDRutils": [
@@ -6375,9 +6238,7 @@
         "annotate",
         "genefilter"
     ],
-    "GeneNetworkBuilder": [
-        "Rgraphviz"
-    ],
+    "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [
@@ -6514,7 +6375,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6551,7 +6411,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6626,8 +6485,7 @@
         "rtracklayer"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "GEOquery",
@@ -6641,9 +6499,7 @@
         "GEOquery",
         "limma"
     ],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOquery": [
         "limma"
     ],
@@ -6667,7 +6523,6 @@
     "gespeR": [
         "Category",
         "GSEABase",
-        "RBGL",
         "annotate",
         "biomaRt",
         "cellHTS2",
@@ -6704,7 +6559,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6717,8 +6571,6 @@
     ],
     "ggcyto": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -6847,8 +6699,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RBGL",
-        "Rgraphviz",
         "annotate",
         "genefilter",
         "preprocessCore"
@@ -6927,7 +6777,6 @@
         "rtracklayer"
     ],
     "GOSim": [
-        "RBGL",
         "annotate",
         "topGO"
     ],
@@ -6947,8 +6796,6 @@
         "AnnotationForge",
         "Category",
         "GSEABase",
-        "RBGL",
-        "Rgraphviz",
         "annotate",
         "genefilter"
     ],
@@ -6968,7 +6815,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "goTools": [],
     "GPA": [],
     "GRaNIE": [
         "AnnotationFilter",
@@ -7042,7 +6888,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SPIA",
         "SparseArray",
@@ -7051,8 +6896,7 @@
         "edgeR",
         "graphite",
         "limma",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "gsean": [
         "PPInfer",
@@ -7066,7 +6910,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7110,7 +6953,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "InteractionSet",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7506,7 +7348,6 @@
         "BiocStyle"
     ],
     "hyperdraw": [
-        "Rgraphviz",
         "hypergraph"
     ],
     "hypergraph": [],
@@ -7598,8 +7439,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "RBGL",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7677,7 +7516,6 @@
         "rtracklayer"
     ],
     "imcRtools": [
-        "BiocNeighbors",
         "DelayedArray",
         "DelayedMatrixStats",
         "GenomicRanges",
@@ -7698,8 +7536,6 @@
     ],
     "ImmuneSpaceR": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -7725,9 +7561,7 @@
         "HDF5Array",
         "OrganismDbi",
         "Pigengene",
-        "RBGL",
         "ReactomePA",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7818,7 +7652,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7844,7 +7677,6 @@
     "interactiveDisplay": [
         "Category",
         "GSEABase",
-        "RBGL",
         "annotate",
         "genefilter"
     ],
@@ -7919,7 +7751,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -8141,12 +7972,9 @@
         "siggenes"
     ],
     "kebabs": [],
-    "KEGGgraph": [
-        "Rgraphviz"
-    ],
+    "KEGGgraph": [],
     "KEGGlincs": [
-        "KEGGgraph",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "keggorthology": [],
     "kissDE": [
@@ -8195,7 +8023,6 @@
         "SummarizedExperiment"
     ],
     "lemur": [
-        "BiocNeighbors",
         "DelayedArray",
         "DelayedMatrixStats",
         "GenomicRanges",
@@ -8299,7 +8126,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -8476,7 +8302,6 @@
         "ExperimentHub",
         "GOSemSim",
         "KEGGgraph",
-        "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -8516,7 +8341,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -8704,7 +8528,6 @@
         "GenomicRanges",
         "Gviz",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8793,7 +8616,6 @@
         "wateRmelon"
     ],
     "MEB": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -8840,13 +8662,11 @@
         "universalmotif"
     ],
     "Mergeomics": [],
-    "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
         "BiocVersion",
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -8855,15 +8675,12 @@
         "BiocStyle",
         "Category",
         "GSEABase",
-        "MeSHDbi",
-        "RBGL",
         "annotate",
         "genefilter"
     ],
     "MesKit": [
         "ComplexHeatmap"
     ],
-    "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
@@ -8904,7 +8721,6 @@
         "GenomicRanges",
         "KEGGgraph",
         "MWASTools",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8946,7 +8762,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -8967,7 +8782,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -9131,7 +8945,6 @@
         "GenomicRanges",
         "HDF5Array",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9328,7 +9141,6 @@
     ],
     "mgsa": [],
     "mia": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9359,7 +9171,6 @@
         "treeio"
     ],
     "miaViz": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9410,7 +9221,6 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DESeq2",
@@ -9487,7 +9297,6 @@
         "SummarizedExperiment"
     ],
     "miloR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "GenomicRanges",
@@ -9526,8 +9335,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "RBGL",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9622,8 +9429,7 @@
     "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
-        "ROntoTools",
-        "Rgraphviz"
+        "ROntoTools"
     ],
     "miRLAB": [
         "AnnotationForge",
@@ -9632,8 +9438,6 @@
         "GOstats",
         "GSEABase",
         "GenomicRanges",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -9737,7 +9541,6 @@
     ],
     "mnem": [
         "Linnorm",
-        "Rgraphviz",
         "limma"
     ],
     "moanin": [
@@ -9787,9 +9590,7 @@
         "dir.expiry",
         "rhdf5"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "annotate",
@@ -9834,7 +9635,6 @@
         "rtracklayer"
     ],
     "monocle": [
-        "RBGL",
         "biocViews",
         "limma"
     ],
@@ -10047,7 +9847,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -10065,7 +9864,6 @@
         "rtracklayer"
     ],
     "msImpute": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -10318,7 +10116,6 @@
         "preprocessCore"
     ],
     "mumosa": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -10355,7 +10152,6 @@
         "rtracklayer"
     ],
     "muscat": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DESeq2",
@@ -10375,7 +10171,6 @@
         "sparseMatrixStats",
         "variancePartition"
     ],
-    "muscle": [],
     "musicatk": [
         "BSgenome",
         "BiocIO",
@@ -10415,7 +10210,6 @@
         "DelayedArray",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment"
@@ -10466,8 +10260,6 @@
         "Gviz",
         "HDF5Array",
         "InteractionSet",
-        "RBGL",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10509,7 +10301,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringNCTools": [],
     "nanotatoR": [
         "GenomicRanges"
     ],
@@ -10549,10 +10340,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RBGL",
-        "RCy3",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "ncRNAtools": [
         "GenomicRanges"
@@ -10582,8 +10370,6 @@
     ],
     "nempi": [
         "Linnorm",
-        "RBGL",
-        "Rgraphviz",
         "epiNEM",
         "limma",
         "minet",
@@ -10616,14 +10402,12 @@
     ],
     "netOmics": [
         "RandomWalkRestartMH",
-        "Rgraphviz",
         "minet",
         "supraHex"
     ],
     "NetPathMiner": [],
     "netresponse": [
         "BiocStyle",
-        "Rgraphviz",
         "minet"
     ],
     "NetSAM": [
@@ -10631,7 +10415,6 @@
         "preprocessCore"
     ],
     "netSmooth": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -10668,9 +10451,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "RBGL",
-        "RCy3",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "STRINGdb",
@@ -10972,24 +10752,19 @@
     "OncoScore": [
         "biomaRt"
     ],
-    "OncoSimulR": [
-        "Rgraphviz"
-    ],
+    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
         "BiocVersion",
         "DelayedArray",
         "GenomicRanges",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment"
     ],
     "openCyto": [
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowClust",
@@ -11081,7 +10856,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11211,9 +10985,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "paircompviz": [
-        "Rgraphviz"
-    ],
+    "paircompviz": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -11306,12 +11078,9 @@
         "phyloseq",
         "rhdf5"
     ],
-    "pathRender": [
-        "Rgraphviz"
-    ],
+    "pathRender": [],
     "pathview": [
-        "KEGGgraph",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "paxtoolsr": [],
     "pcaExplorer": [
@@ -11322,8 +11091,6 @@
         "GOstats",
         "GSEABase",
         "GenomicRanges",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -11370,8 +11137,6 @@
     "PeacoQC": [
         "ComplexHeatmap",
         "DelayedArray",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "flowCore",
@@ -11391,7 +11156,6 @@
         "preprocessCore"
     ],
     "peco": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -11458,7 +11222,6 @@
     "phemd": [
         "DelayedArray",
         "GenomicRanges",
-        "RBGL",
         "S4Arrays",
         "SingleCellExperiment",
         "SparseArray",
@@ -11491,13 +11254,11 @@
         "Category",
         "GSEABase",
         "Heatplus",
-        "RBGL",
         "annotate",
         "biomaRt",
         "genefilter",
         "limma"
     ],
-    "PhenStat": [],
     "philr": [
         "ggtree",
         "treeio"
@@ -11535,7 +11296,6 @@
     ],
     "Pi": [
         "GenomicRanges",
-        "Rgraphviz",
         "supraHex"
     ],
     "piano": [
@@ -11557,7 +11317,6 @@
         "DOSE",
         "GOSemSim",
         "ReactomePA",
-        "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -11586,7 +11345,6 @@
         "rtracklayer"
     ],
     "pipeComp": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedArray",
@@ -11634,8 +11392,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RBGL",
-        "Rgraphviz",
         "annotate",
         "genefilter"
     ],
@@ -11704,7 +11460,6 @@
         "BiocVersion",
         "DelayedArray",
         "GenomicRanges",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -12128,7 +11883,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12259,7 +12013,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12368,7 +12121,6 @@
         "biomaRt"
     ],
     "RandomWalkRestartMH": [
-        "Rgraphviz",
         "supraHex"
     ],
     "RAREsim": [],
@@ -12404,7 +12156,6 @@
         "SummarizedExperiment",
         "dada2"
     ],
-    "RBGL": [],
     "RBioFormats": [],
     "RBM": [
         "limma",
@@ -12467,7 +12218,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCy3": [],
     "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
@@ -12581,7 +12331,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "InteractionSet",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12605,7 +12354,6 @@
     ],
     "RegionalST": [
         "BayesSpace",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -12696,7 +12444,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "RCy3",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12769,8 +12516,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12883,7 +12628,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Rgraphviz": [],
     "rGREAT": [
         "BiocIO",
         "DelayedArray",
@@ -12971,7 +12715,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13057,7 +12800,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "Spectra",
@@ -13190,7 +12932,6 @@
     "RNAinteract": [
         "Category",
         "GSEABase",
-        "RBGL",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -13378,8 +13119,7 @@
         "SummarizedExperiment"
     ],
     "ROntoTools": [
-        "KEGGgraph",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "ropls": [
         "DelayedArray",
@@ -13567,7 +13307,6 @@
     ],
     "RVS": [],
     "S4Arrays": [],
-    "safe": [],
     "sagenhaft": [],
     "SAIGEgds": [
         "GenomicRanges",
@@ -13613,7 +13352,6 @@
         "DelayedArray",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -13726,7 +13464,6 @@
         "sparseMatrixStats"
     ],
     "scater": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -13812,7 +13549,6 @@
     ],
     "scDblFinder": [
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -13836,7 +13572,6 @@
         "sparseMatrixStats"
     ],
     "scDD": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -13888,7 +13623,6 @@
         "AUCell",
         "AnnotationFilter",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -13966,7 +13700,6 @@
         "SummarizedExperiment"
     ],
     "scMerge": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -14124,7 +13857,6 @@
         "sparseMatrixStats"
     ],
     "scran": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -14193,7 +13925,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -14230,10 +13961,7 @@
         "GOstats",
         "GSEABase",
         "GenomicRanges",
-        "MeSHDbi",
-        "RBGL",
         "ReactomePA",
-        "Rgraphviz",
         "S4Arrays",
         "SingleCellExperiment",
         "SparseArray",
@@ -14262,7 +13990,6 @@
     "scTreeViz": [
         "AnnotationFilter",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -14270,7 +13997,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -14305,7 +14031,6 @@
         "sparseMatrixStats"
     ],
     "scviR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -14531,8 +14256,6 @@
         "GOstats",
         "GSEABase",
         "GenomicRanges",
-        "RBGL",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -14635,7 +14358,6 @@
     "sigFeature": [
         "DelayedArray",
         "GenomicRanges",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -14801,7 +14523,6 @@
         "SummarizedExperiment"
     ],
     "SingleCellSignalR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -14824,7 +14545,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "BiocVersion",
         "ComplexHeatmap",
@@ -14898,7 +14618,6 @@
         "rtracklayer"
     ],
     "SingleR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -15003,7 +14722,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15073,7 +14791,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15112,7 +14829,6 @@
     ],
     "SpacePAC": [],
     "Spaniel": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -15195,8 +14911,7 @@
         "dir.expiry"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "DelayedArray",
@@ -15207,7 +14922,6 @@
         "SummarizedExperiment"
     ],
     "SpatialFeatureExperiment": [
-        "BiocNeighbors",
         "DelayedArray",
         "GenomicRanges",
         "S4Arrays",
@@ -15217,7 +14931,6 @@
         "SummarizedExperiment"
     ],
     "spatialHeatmap": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -15241,7 +14954,6 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
         "RBioFormats"
     ],
     "spatzie": [
@@ -15295,8 +15007,7 @@
         "rhdf5"
     ],
     "SPIA": [
-        "KEGGgraph",
-        "Rgraphviz"
+        "KEGGgraph"
     ],
     "SPIAT": [
         "DelayedArray",
@@ -15384,7 +15095,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15545,7 +15255,6 @@
     "staRank": [
         "Category",
         "GSEABase",
-        "RBGL",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -15600,9 +15309,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [
-        "RBGL"
-    ],
+    "Streamer": [],
     "STRINGdb": [],
     "struct": [
         "DelayedArray",
@@ -15932,7 +15639,6 @@
         "DelayedArray",
         "ExperimentHub",
         "GenomicRanges",
-        "Rgraphviz",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -16065,7 +15771,6 @@
         "GenomicRanges",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -16208,7 +15913,6 @@
         "GenomicRanges",
         "Gviz",
         "InteractionSet",
-        "Rgraphviz",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16290,9 +15994,7 @@
         "limma",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [
         "GenomicRanges"
     ],
@@ -16372,7 +16074,6 @@
         "rtracklayer"
     ],
     "tricycle": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -16427,9 +16128,7 @@
         "rtracklayer",
         "tRNA"
     ],
-    "TRONCO": [
-        "Rgraphviz"
-    ],
+    "TRONCO": [],
     "TSCAN": [
         "DelayedArray",
         "GenomicRanges",
@@ -16513,7 +16212,6 @@
     ],
     "TypeInfo": [],
     "UCell": [
-        "BiocNeighbors",
         "DelayedArray",
         "GenomicRanges",
         "S4Arrays",
@@ -16570,7 +16268,6 @@
         "GenomicRanges",
         "Gviz",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16605,13 +16302,11 @@
     "universalmotif": [],
     "updateObject": [],
     "uSORT": [
-        "RBGL",
         "biocViews",
         "limma",
         "monocle"
     ],
     "VAExprs": [
-        "BiocNeighbors",
         "BiocSingular",
         "DeepPINCS",
         "DelayedArray",
@@ -16697,7 +16392,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16813,7 +16507,6 @@
         "annotate"
     ],
     "Voyager": [
-        "BiocNeighbors",
         "DelayedArray",
         "GenomicRanges",
         "S4Arrays",
@@ -16877,7 +16570,6 @@
         "GenomicRanges",
         "GreyListChIP",
         "InteractionSet",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -17067,7 +16759,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "OrganismDbi",
-        "RBGL",
         "Rsamtools",
         "S4Arrays",
         "SomaticSignatures",
@@ -17126,7 +16817,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGgraph",
-        "Rgraphviz",
         "S4Arrays",
         "SPIA",
         "SparseArray",
@@ -17136,7 +16826,6 @@
         "graphite",
         "limma",
         "pathview",
-        "safe",
         "variancePartition"
     ],
     "zFPKM": [
