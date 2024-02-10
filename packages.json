@@ -985,10 +985,7 @@
     "gDNAx": [
         "BiocVersion"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "genArise": [],
     "GeneOverlap": [],
     "geneplast": [],
@@ -2608,7 +2605,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
