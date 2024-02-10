@@ -542,7 +542,6 @@
     ],
     "Cardinal": [],
     "CARNIVAL": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "scater",
@@ -1318,7 +1317,6 @@
         "HDF5Array"
     ],
     "escheR": [],
-    "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
         "BiocVersion",
@@ -1381,7 +1379,6 @@
         "preprocessCore"
     ],
     "FGNet": [],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1632,7 +1629,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSRI": [],
     "GSVA": [
         "HDF5Array"
     ],
@@ -2061,7 +2057,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "BiocVersion",
         "KEGGgraph",
@@ -2352,7 +2347,6 @@
         "TFBSTools"
     ],
     "MPFE": [],
-    "mpra": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -2553,7 +2547,6 @@
         "BiocStyle",
         "preprocessCore"
     ],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH",
         "minet",
@@ -2585,7 +2578,6 @@
         "yarn"
     ],
     "NewWave": [],
-    "nipalsMCIA": [],
     "nnNorm": [],
     "nnSVG": [],
     "nondetects": [
@@ -2668,7 +2660,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "OVESEG": [],
     "PAA": [
         "sva"
     ],
@@ -2913,7 +2904,6 @@
     "puma": [
         "preprocessCore"
     ],
-    "PureCN": [],
     "pvac": [
         "preprocessCore"
     ],
@@ -3302,8 +3292,6 @@
         "scran",
         "scuttle"
     ],
-    "scGPS": [],
-    "scHOT": [],
     "scider": [],
     "scMerge": [
         "ResidualMatrix",
@@ -3543,7 +3531,6 @@
         "dir.expiry"
     ],
     "snm": [],
-    "SNPhood": [],
     "soGGi": [
         "chipseq",
         "preprocessCore"
@@ -3701,7 +3688,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "BiocVersion",
         "ontoProc",
@@ -3750,7 +3736,6 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [],
     "trackViewer": [
         "Gviz",
         "InteractionSet",
