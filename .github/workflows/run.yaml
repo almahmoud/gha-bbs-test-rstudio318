@@ -277,7 +277,7 @@ jobs:
           set -x
           DISPATCHPATH=${{steps.versions.outputs.dispatchlistpath}}
 
-          ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -r -i bash -c "tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo '{}' | sed 's/.tar.gz//g') && rm ${{steps.versions.outputs.library}}/{}"
+          ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -r -i bash -c 'tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo "{}" | sed "s/.tar.gz//g") && rm ${{steps.versions.outputs.library}}/{}' || true
 
           # Prepare libraries for each package and add the restored dep libraries
           mkdir -p /tmp/tempscripts
