@@ -241,6 +241,8 @@ jobs:
           fi
           echo alldepscache=$ALLDEPSCACHE >> $GITHUB_OUTPUT
 
+          mkdir -p ${{steps.versions.outputs.library}}
+
       - uses: almahmoud/multi-cache-restore-action@outputs
         if: steps.deps.outputs.alldepscache != ''
         id: cache
@@ -266,6 +268,7 @@ jobs:
         with:
           pattern: "${{steps.artdeps.outputs.difflist}}"
           path: "${{steps.versions.outputs.library}}"
+          merge-multiple: 'true'
 
       - name: Start container and build packages
         id: pkgbuild
@@ -273,6 +276,8 @@ jobs:
         run: |
           set -x
           DISPATCHPATH=${{steps.versions.outputs.dispatchlistpath}}
+
+          ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -i bash -c "tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo '{}' | sed 's/.tar.gz//g') && rm ${{steps.versions.outputs.library}}/{}"
 
           # Prepare libraries for each package and add the restored dep libraries
           mkdir -p /tmp/tempscripts
@@ -308,6 +313,7 @@ jobs:
         run: |
           set -x
           echo pkg=$(ls /tmp/tars/ | grep "^${{matrix.pkg}}_" | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
+          ls ${{steps.versions.outputs.library}}/ | grep -v 'tar.gz' | xargs -i bash -c "tar -zcvf ${{steps.versions.outputs.library}}/{}.tar.gz ${{steps.versions.outputs.library}}/{}"
 
       - name: Push failed packages
         uses: nick-fields/retry@v3
