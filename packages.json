@@ -275,9 +275,7 @@
     "beadarray": [
         "illuminaio"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "Maaslin2",
@@ -301,7 +299,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler",
@@ -353,7 +350,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "BioQC": [],
     "biosigner": [],
     "BioTIP": [
         "metapod",
@@ -365,7 +361,6 @@
         "CGHcall",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [
@@ -400,8 +395,7 @@
         "plyranges"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "BPRMeth": [
         "BiocStyle"
@@ -412,7 +406,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "BiocStyle"
     ],
@@ -459,7 +452,6 @@
     ],
     "canceR": [
         "Heatplus",
-        "RTCGAToolbox",
         "cBioPortalData",
         "geNetClassifier",
         "minet",
@@ -479,16 +471,13 @@
         "GOstats"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "CBEA": [
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "BiocVersion",
         "clusterProfiler",
@@ -575,7 +564,6 @@
         "BiocVersion",
         "DMRcate",
         "Gviz",
-        "bsseq",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -676,8 +664,7 @@
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "cogeqc": [
         "ggtree",
@@ -756,7 +743,6 @@
     ],
     "COSNet": [],
     "COTAN": [],
-    "countsimQC": [],
     "cqn": [
         "preprocessCore"
     ],
@@ -842,17 +828,14 @@
     "cytomapper": [],
     "CytoML": [
         "flowViz",
-        "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "cytoviewer": [
         "cytomapper"
@@ -919,10 +902,8 @@
         "NCIgraph"
     ],
     "DEGreport": [],
-    "DelayedTensor": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "sva"
     ],
     "demuxmix": [],
@@ -989,7 +970,6 @@
     "DMRcate": [
         "BiocVersion",
         "Gviz",
-        "bsseq",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -998,8 +978,7 @@
     ],
     "dmrseq": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "doppelgangR": [
         "sva"
@@ -1025,10 +1004,7 @@
         "ArrayExpress",
         "preprocessCore"
     ],
-    "DSS": [
-        "bsseq"
-    ],
-    "dyebias": [],
+    "DSS": [],
     "DynDoc": [],
     "easier": [
         "BiocVersion",
@@ -1220,9 +1196,7 @@
     "flowFP": [
         "flowViz"
     ],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowGraph": [],
     "flowPeaks": [],
     "FlowSOM": [],
@@ -1250,7 +1224,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "GA4GHshiny": [],
     "GAprediction": [],
     "GARS": [
         "DaMiRseq",
@@ -1346,9 +1319,7 @@
         "vsn"
     ],
     "GEWIST": [],
-    "gg4way": [],
     "ggbio": [],
-    "ggcyto": [],
     "ggmsa": [
         "ggtree",
         "treeio"
@@ -1373,7 +1344,6 @@
         "preprocessCore"
     ],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "GOSim": [],
@@ -1583,8 +1553,7 @@
         "KEGGgraph"
     ],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [
         "cqn",
@@ -1793,7 +1762,6 @@
     "metapod": [],
     "metaseqR2": [
         "DSS",
-        "bsseq",
         "preprocessCore",
         "vsn"
     ],
@@ -1816,7 +1784,6 @@
         "preprocessCore"
     ],
     "methylCC": [
-        "bsseq",
         "illuminaio",
         "minfi",
         "plyranges",
@@ -1846,13 +1813,11 @@
         "methylKit"
     ],
     "methylKit": [],
-    "methylMnM": [],
     "methylPipe": [
         "Gviz"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "illuminaio",
@@ -1936,9 +1901,7 @@
         "illuminaio",
         "preprocessCore"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -1959,7 +1922,6 @@
         "Maaslin2"
     ],
     "mnem": [],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -2151,9 +2113,7 @@
         "metapod",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
@@ -2360,7 +2320,6 @@
         "ggtree",
         "treeio"
     ],
-    "PhIPData": [],
     "PhosR": [
         "preprocessCore"
     ],
@@ -2613,7 +2572,6 @@
         "BiocStyle",
         "derfinder"
     ],
-    "regsplice": [],
     "regutools": [
         "BiocVersion",
         "Gviz"
@@ -2743,7 +2701,6 @@
     "rqt": [],
     "RRHO": [],
     "rsemmed": [],
-    "RTCGAToolbox": [],
     "RTN": [
         "minet"
     ],
@@ -2760,7 +2717,6 @@
         "MotifDb"
     ],
     "RUVSeq": [],
-    "Rvisdiff": [],
     "sagenhaft": [],
     "sampleClassifier": [
         "MGFR"
@@ -2836,8 +2792,7 @@
     ],
     "scmeth": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SCnorm": [],
     "scone": [
@@ -2957,9 +2912,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "similaRpeak": [],
     "SIMLR": [],
@@ -3031,8 +2984,7 @@
     ],
     "SOMNiBUS": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "Spaniel": [
         "DropletUtils",
@@ -3083,7 +3035,6 @@
     "SPsimSeq": [
         "preprocessCore"
     ],
-    "SRAdb": [],
     "srnadiff": [
         "BiocStyle",
         "Gviz",
