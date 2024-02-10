@@ -19,7 +19,6 @@
         "tilingArray",
         "vsn"
     ],
-    "ADAMgui": [],
     "adductomicsR": [
         "BiocVersion"
     ],
@@ -179,7 +178,6 @@
     ],
     "AMOUNTAIN": [],
     "amplican": [],
-    "Anaquin": [],
     "ANCOMBC": [
         "BiocSingular",
         "TreeSummarizedExperiment",
@@ -906,8 +904,6 @@
         "preprocessCore"
     ],
     "cn.mops": [],
-    "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNORode": [],
     "CNTools": [],
@@ -2151,7 +2147,6 @@
         "preprocessCore"
     ],
     "INPower": [],
-    "INSPEcT": [],
     "INTACT": [],
     "InTAD": [],
     "intansv": [
@@ -2409,7 +2404,6 @@
         "sva"
     ],
     "mbkmeans": [],
-    "mBPCR": [],
     "MBQN": [
         "preprocessCore"
     ],
@@ -3032,7 +3026,6 @@
         "bsseq"
     ],
     "NanoTube": [],
-    "NBAMSeq": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
@@ -3305,7 +3298,6 @@
         "GEOquery",
         "edgeR"
     ],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "marray",
@@ -3727,7 +3719,6 @@
     "RiboCrypt": [
         "ORFik"
     ],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -4024,7 +4015,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
@@ -4446,7 +4436,6 @@
     "svaRetro": [
         "StructuralVariantAnnotation"
     ],
-    "SVMDO": [],
     "SwathXtend": [],
     "switchde": [],
     "synapter": [
