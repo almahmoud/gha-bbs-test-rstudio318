@@ -2409,7 +2409,6 @@
         "preprocessCore"
     ],
     "FGNet": [],
-    "FilterFFPE": [],
     "FindIT2": [
         "MultiAssayExperiment"
     ],
@@ -2487,7 +2486,6 @@
         "flowClust"
     ],
     "flowPeaks": [],
-    "flowPloidy": [],
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
@@ -2619,7 +2617,6 @@
     ],
     "gemma.R": [],
     "genArise": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
@@ -2630,12 +2627,10 @@
     "genefu": [
         "limma"
     ],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [],
-    "geneRxCluster": [],
     "GeneSelectMMD": [
         "limma"
     ],
@@ -2666,7 +2661,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "AnnotationFilter",
@@ -2817,7 +2811,6 @@
         "GSEABase",
         "preprocessCore"
     ],
-    "gmoviz": [],
     "GMRP": [],
     "GNOSIS": [
         "MultiAssayExperiment",
@@ -2934,7 +2927,6 @@
         "preprocessCore"
     ],
     "HDF5Array": [],
-    "heatmaps": [],
     "Heatplus": [],
     "HelloRanges": [
         "VariantAnnotation"
@@ -2986,7 +2978,6 @@
         "InteractionSet"
     ],
     "hierGWAS": [],
-    "HilbertCurve": [],
     "HilbertVisGUI": [],
     "hipathia": [
         "BiocVersion",
@@ -3072,7 +3063,6 @@
         "pcaExplorer"
     ],
     "IdeoViz": [],
-    "idiogram": [],
     "idr2d": [],
     "IFAA": [],
     "iGC": [],
@@ -3417,9 +3407,7 @@
         "pathview",
         "treeio"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAI": [],
     "MAIT": [
         "AnnotationFilter",
@@ -4544,9 +4532,7 @@
     "omicsViewer": [],
     "OmnipathR": [],
     "oncomix": [],
-    "oncoscanR": [],
     "OncoScore": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
         "BiocVersion"
@@ -4787,7 +4773,6 @@
         "marray"
     ],
     "pickgene": [],
-    "PICS": [],
     "Pigengene": [
         "BiocStyle",
         "ReactomePA",
@@ -4800,7 +4785,6 @@
     "PING": [
         "AnnotationFilter",
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -5906,7 +5890,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "heatmaps",
         "seqArchR",
         "treeio"
     ],
@@ -6312,7 +6295,6 @@
         "phyloseq",
         "preprocessCore"
     ],
-    "sRACIPE": [],
     "SRAdb": [
         "GEOquery",
         "limma"
@@ -6634,7 +6616,6 @@
     ],
     "TREG": [],
     "Trendy": [],
-    "TRESS": [],
     "tricycle": [
         "BiocSingular",
         "DelayedMatrixStats",
