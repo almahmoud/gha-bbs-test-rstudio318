@@ -449,7 +449,6 @@
     ],
     "bioCancer": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -691,7 +690,6 @@
         "Category",
         "Heatplus",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
@@ -719,7 +717,6 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
@@ -729,7 +726,6 @@
     ],
     "cBioPortalData": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -885,7 +881,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [],
     "ChIPexoQual": [
         "AnnotationFilter",
@@ -940,7 +935,6 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "AnnotationFilter",
         "Gviz",
@@ -1041,7 +1035,6 @@
     "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "edgeR"
     ],
     "CNVrd2": [],
@@ -1196,18 +1189,12 @@
     "cqn": [
         "preprocessCore"
     ],
-    "crisprBase": [],
-    "crisprBowtie": [
-        "crisprBase"
-    ],
-    "crisprBwa": [
-        "crisprBase"
-    ],
+    "crisprBowtie": [],
+    "crisprBwa": [],
     "crisprDesign": [
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "dir.expiry"
@@ -1227,7 +1214,6 @@
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -1242,7 +1228,6 @@
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -1318,7 +1303,6 @@
         "HDF5Array",
         "SpatialExperiment"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowViz",
@@ -1937,7 +1921,6 @@
         "scran",
         "scuttle"
     ],
-    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -2061,7 +2044,6 @@
     ],
     "gDRutils": [],
     "GDSArray": [],
-    "gemma.R": [],
     "genArise": [],
     "GeneBreak": [
         "CGHbase",
@@ -2121,7 +2103,6 @@
         "BiocVersion",
         "HDF5Array"
     ],
-    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -2210,7 +2191,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
@@ -2363,7 +2343,6 @@
         "edgeR"
     ],
     "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
     "hypeR": [
         "BiocStyle"
     ],
@@ -3550,9 +3529,7 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [],
     "OmnipathR": [],
     "oncomix": [],
@@ -3832,7 +3809,6 @@
         "vsn"
     ],
     "proActiv": [],
-    "proBAMr": [],
     "PROcess": [
         "Icens"
     ],
@@ -3987,7 +3963,6 @@
         "piano"
     ],
     "raer": [],
-    "RaggedExperiment": [],
     "RAIDS": [
         "AnnotationFilter",
         "GENESIS",
@@ -4221,7 +4196,6 @@
         "BiocStyle",
         "apeglm"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GEOquery",
         "GenomicFiles",
@@ -4328,7 +4302,6 @@
         "ShortRead"
     ],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RTN": [
@@ -4366,7 +4339,6 @@
         "BiocStyle"
     ],
     "SARC": [
-        "RaggedExperiment",
         "plyranges"
     ],
     "satuRn": [],
@@ -4603,7 +4575,6 @@
         "edgeR"
     ],
     "selectKSigs": [],
-    "SemDist": [],
     "seq2pathway": [
         "preprocessCore"
     ],
@@ -4971,7 +4942,6 @@
     "StructuralVariantAnnotation": [],
     "supersigs": [],
     "supraHex": [],
-    "surfaltr": [],
     "survtype": [],
     "sva": [
         "edgeR"
@@ -5029,9 +4999,7 @@
         "edgeR"
     ],
     "TCGAbiolinks": [],
-    "TCGAutils": [
-        "RaggedExperiment"
-    ],
+    "TCGAutils": [],
     "TCseq": [
         "edgeR"
     ],
@@ -5054,7 +5022,6 @@
         "restfulSE"
     ],
     "terraTCGAdata": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [],
@@ -5099,7 +5066,6 @@
         "HDF5Array",
         "beachmat"
     ],
-    "TnT": [],
     "TOAST": [],
     "TOP": [
         "ClassifyR"
@@ -5293,7 +5259,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vsn": [
         "preprocessCore"
