@@ -23,7 +23,6 @@
         "preprocessCore"
     ],
     "affycoretools": [
-        "Glimma",
         "ReportingTools",
         "gcrma",
         "ggbio",
@@ -48,7 +47,6 @@
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "gcrma",
@@ -255,7 +253,6 @@
     ],
     "bayNorm": [],
     "baySeq": [],
-    "beachmat.hdf5": [],
     "beadarray": [
         "illuminaio"
     ],
@@ -528,7 +525,6 @@
     "CGHcall": [
         "CGHbase"
     ],
-    "cghMCR": [],
     "CGHnormaliter": [
         "CGHbase",
         "CGHcall"
@@ -662,8 +658,7 @@
     ],
     "condiments": [
         "distinct",
-        "scater",
-        "slingshot"
+        "scater"
     ],
     "CONFESS": [
         "SamSPECTRAL",
@@ -673,9 +668,7 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "consICA": [],
     "conumee": [
         "illuminaio",
@@ -692,9 +685,7 @@
         "preprocessCore"
     ],
     "CORREP": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -791,7 +782,6 @@
         "FlowSOM",
         "scater"
     ],
-    "cytomapper": [],
     "CytoML": [
         "flowViz",
         "openCyto"
@@ -800,9 +790,7 @@
     "CytoPipelineGUI": [
         "CytoPipeline"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [],
     "dagLogo": [],
     "DaMiRseq": [],
@@ -969,9 +957,7 @@
     "EDIRquery": [
         "InteractionSet"
     ],
-    "EGAD": [],
     "EGSEA": [
-        "GSVA",
         "KEGGgraph",
         "pathview"
     ],
@@ -1037,11 +1023,7 @@
         "minet"
     ],
     "EpiTxDb": [],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1049,9 +1031,7 @@
         "ggtree",
         "treeio"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "EWCE": [
         "BiocVersion",
         "ggtree",
@@ -1171,8 +1151,7 @@
     ],
     "GAprediction": [],
     "GARS": [
-        "DaMiRseq",
-        "MLSeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "flowFP",
@@ -1277,7 +1256,6 @@
         "treeio"
     ],
     "girafe": [],
-    "Glimma": [],
     "globalSeq": [],
     "GmicR": [
         "preprocessCore"
@@ -1311,7 +1289,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno",
         "InteractionSet"
@@ -1376,7 +1353,6 @@
         "preprocessCore"
     ],
     "HTSeqGenie": [],
-    "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "BiocStyle"
@@ -1399,9 +1375,7 @@
     "IdeoViz": [],
     "iGC": [],
     "illuminaio": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1832,7 +1806,6 @@
     ],
     "mistyR": [],
     "mitoClone2": [],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1855,7 +1828,6 @@
         "dir.expiry"
     ],
     "MOMA": [],
-    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
@@ -2094,7 +2066,6 @@
     ],
     "octad": [
         "BiocVersion",
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -2124,9 +2095,7 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "orthogene": [
         "ggtree",
         "treeio"
@@ -2531,7 +2500,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "cellHTS2",
         "preprocessCore",
@@ -2649,7 +2617,6 @@
     ],
     "scFeatures": [
         "AUCell",
-        "GSVA",
         "SingleCellSignalR",
         "metapod",
         "scran"
@@ -2685,9 +2652,7 @@
         "metapod"
     ],
     "screenCounter": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -2704,7 +2669,6 @@
         "BiocStyle"
     ],
     "scTreeViz": [
-        "epivizr",
         "metapod",
         "scater",
         "scran"
@@ -2768,7 +2732,6 @@
         "treeio"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SimBindProfiles": [
@@ -2785,9 +2748,7 @@
     "SimFFPE": [],
     "similaRpeak": [],
     "SIMLR": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
@@ -2796,7 +2757,6 @@
     ],
     "singleCellTK": [
         "BiocVersion",
-        "GSVA",
         "ResidualMatrix",
         "basilisk",
         "basilisk.utils",
@@ -2825,7 +2785,6 @@
         "preprocessCore",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMAD": [],
     "SMAP": [],
     "SMITE": [],
@@ -2941,8 +2900,7 @@
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TCC": [
         "baySeq"
@@ -2961,7 +2919,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [],
     "TFHAZ": [],
     "tidybulk": [
         "preprocessCore"
@@ -2986,9 +2943,7 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "topdownr": [
         "MSnbase",
         "preprocessCore",
@@ -3002,18 +2957,14 @@
         "Gviz",
         "InteractionSet"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
         "Heatplus"
     ],
     "TransView": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treeio": [],
     "treekoR": [
         "FlowSOM",
@@ -3130,7 +3081,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "xcore": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
