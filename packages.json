@@ -538,7 +538,6 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "condiments": [],
     "CONFESS": [
         "SamSPECTRAL",
         "flowPeaks"
@@ -647,7 +646,6 @@
         "flowViz",
         "openCyto"
     ],
-    "CytoPipelineGUI": [],
     "dada2": [],
     "DAPAR": [
         "DynDoc",
@@ -988,12 +986,9 @@
         "BiocVersion"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "genArise": [],
     "GeneOverlap": [],
     "geneplast": [],
@@ -1155,7 +1150,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "ideal": [],
     "IdeoViz": [],
     "iGC": [],
     "illuminaio": [],
@@ -1756,7 +1750,6 @@
     "NetSAM": [
         "preprocessCore"
     ],
-    "netSmooth": [],
     "netZooR": [
         "STRINGdb",
         "illuminaio",
@@ -1860,7 +1853,6 @@
         "KEGGgraph"
     ],
     "paxtoolsr": [],
-    "PDATK": [],
     "pdInfoBuilder": [
         "preprocessCore"
     ],
@@ -1875,7 +1867,6 @@
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -2033,7 +2024,6 @@
     ],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
-    "RadioGx": [],
     "RandomWalkRestartMH": [
         "supraHex"
     ],
@@ -2148,7 +2138,6 @@
     "Rmmquant": [
         "BiocStyle"
     ],
-    "RNAAgeCalc": [],
     "RNAinteract": [
         "cellHTS2",
         "preprocessCore",
@@ -2156,7 +2145,6 @@
         "vsn"
     ],
     "rnaseqcomp": [],
-    "RnaSeqSampleSize": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -2516,7 +2504,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "InteractionSet"
     ],
@@ -2621,15 +2608,12 @@
         "preprocessCore",
         "vsn"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
     "xmapbridge": [],
     "yamss": [],
-    "YAPSA": [],
     "yarn": [
         "illuminaio",
         "minfi",
