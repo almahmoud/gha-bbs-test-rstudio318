@@ -179,7 +179,6 @@
         "scuttle",
         "treeio"
     ],
-    "animalcules": [],
     "annmap": [],
     "AnnotationHub": [
         "BiocVersion"
@@ -203,7 +202,6 @@
         "preprocessCore"
     ],
     "arrayMvout": [
-        "GEOquery",
         "HDF5Array",
         "affyContam",
         "bumphunter",
@@ -329,7 +327,6 @@
     ],
     "bayNorm": [],
     "baySeq": [],
-    "BBCAnalyzer": [],
     "beachmat.hdf5": [
         "HDF5Array"
     ],
@@ -361,7 +358,6 @@
     "BiFET": [],
     "BiGGR": [],
     "bigmelon": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -703,7 +699,6 @@
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "biovizBase",
@@ -749,7 +744,6 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
-        "GEOquery",
         "frma",
         "preprocessCore"
     ],
@@ -885,7 +879,6 @@
     ],
     "CONFESS": [
         "SamSPECTRAL",
-        "flowMerge",
         "flowPeaks"
     ],
     "consensus": [],
@@ -901,7 +894,6 @@
     "consICA": [],
     "contiBAIT": [],
     "conumee": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -992,7 +984,6 @@
         "preprocessCore"
     ],
     "crossmeta": [
-        "GEOquery",
         "preprocessCore",
         "sva"
     ],
@@ -1125,7 +1116,6 @@
         "scuttle"
     ],
     "deconvR": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -1188,7 +1178,6 @@
     "destiny": [],
     "DEsubs": [],
     "DExMA": [
-        "GEOquery",
         "sva"
     ],
     "DEXSeq": [],
@@ -1232,7 +1221,6 @@
     "DMCHMM": [],
     "DMRcate": [
         "BiocVersion",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "biovizBase",
@@ -1282,7 +1270,6 @@
     "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
         "preprocessCore"
     ],
     "DSS": [
@@ -1309,9 +1296,7 @@
     "EDIRquery": [
         "InteractionSet"
     ],
-    "EGAD": [
-        "GEOquery"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "GSVA",
         "HDF5Array",
@@ -1333,7 +1318,6 @@
     ],
     "ENmix": [
         "BiocVersion",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -1383,7 +1367,6 @@
     ],
     "epimutacions": [
         "BiocVersion",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "biovizBase",
@@ -1426,8 +1409,7 @@
     ],
     "escape": [
         "GSVA",
-        "HDF5Array",
-        "UCell"
+        "HDF5Array"
     ],
     "escheR": [
         "SpatialExperiment"
@@ -1489,7 +1471,6 @@
         "TrajectoryUtils"
     ],
     "ffpe": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -1544,7 +1525,6 @@
         "ggcyto"
     ],
     "flowGraph": [],
-    "flowMerge": [],
     "flowPeaks": [],
     "FlowSOM": [],
     "flowStats": [
@@ -1573,7 +1553,6 @@
         "preprocessCore"
     ],
     "funtooNorm": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -1684,13 +1663,9 @@
     "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
-        "GEOquery",
         "sva"
     ],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
-    "GEOquery": [],
+    "GEOmetadb": [],
     "GEOsubmission": [
         "preprocessCore"
     ],
@@ -1738,9 +1713,7 @@
     "glmGamPoi": [
         "HDF5Array"
     ],
-    "glmSparseNet": [],
     "globalSeq": [],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1863,7 +1836,6 @@
         "preprocessCore"
     ],
     "HTSeqGenie": [
-        "VariantTools",
         "chipseq",
         "gmapR"
     ],
@@ -1878,7 +1850,6 @@
         "metapod"
     ],
     "iCheck": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -1915,7 +1886,6 @@
     "immunotation": [],
     "iNETgrate": [
         "BiocStyle",
-        "GEOquery",
         "HDF5Array",
         "Pigengene",
         "ReactomePA",
@@ -2031,7 +2001,6 @@
     ],
     "LineagePulse": [],
     "lineagespot": [],
-    "LinkHD": [],
     "LinTInd": [
         "ggtree",
         "treeio"
@@ -2065,7 +2034,6 @@
         "BiocVersion"
     ],
     "lumi": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2099,7 +2067,6 @@
         "preprocessCore"
     ],
     "MAGAR": [
-        "GEOquery",
         "HDF5Array",
         "RnBeads",
         "bumphunter",
@@ -2185,7 +2152,6 @@
         "biovizBase"
     ],
     "MEAL": [
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "biovizBase",
@@ -2199,7 +2165,6 @@
     ],
     "MeasurementError.cor": [],
     "MEAT": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2293,7 +2258,6 @@
         "HDF5Array"
     ],
     "MethylAid": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2301,7 +2265,6 @@
         "preprocessCore"
     ],
     "methylCC": [
-        "GEOquery",
         "HDF5Array",
         "bsseq",
         "bumphunter",
@@ -2315,7 +2278,6 @@
         "BiocCheck",
         "BiocVersion",
         "ExperimentHubData",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2323,7 +2285,6 @@
         "preprocessCore"
     ],
     "methylGSA": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "clusterProfiler",
@@ -2354,7 +2315,6 @@
         "bsseq"
     ],
     "methylumi": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2439,7 +2399,6 @@
     "mina": [],
     "MineICA": [
         "Category",
-        "GEOquery",
         "GOstats",
         "HDF5Array",
         "bumphunter",
@@ -2452,7 +2411,6 @@
     ],
     "minet": [],
     "minfi": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2477,7 +2435,6 @@
         "GOstats"
     ],
     "missMethyl": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2527,14 +2484,12 @@
     "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
-        "GEOquery",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
         "treeio"
     ],
     "MoonlightR": [
-        "GEOquery",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2671,7 +2626,6 @@
         "marray",
         "preprocessCore"
     ],
-    "MuData": [],
     "MultiBaC": [
         "ropls"
     ],
@@ -2761,7 +2715,6 @@
         "minet",
         "mnem"
     ],
-    "NetActivity": [],
     "netboost": [
         "BiocStyle",
         "preprocessCore"
@@ -2790,7 +2743,6 @@
     ],
     "netZooR": [
         "Category",
-        "GEOquery",
         "GOstats",
         "HDF5Array",
         "STRINGdb",
@@ -2978,9 +2930,7 @@
     "pepStat": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "phantasus": [
-        "GEOquery"
-    ],
+    "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
         "marray",
@@ -3145,7 +3095,6 @@
     ],
     "psichomics": [
         "BiocVersion",
-        "GEOquery",
         "bumphunter",
         "derfinder",
         "recount"
@@ -3203,7 +3152,6 @@
         "preprocessCore"
     ],
     "quantro": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -3277,12 +3225,10 @@
         "phyloseq"
     ],
     "recount": [
-        "GEOquery",
         "bumphunter",
         "derfinder"
     ],
     "recountmethylation": [
-        "GEOquery",
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
@@ -3321,7 +3267,6 @@
     ],
     "REMP": [
         "BiocVersion",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -3407,7 +3352,6 @@
         "BiocStyle"
     ],
     "RNAAgeCalc": [
-        "GEOquery",
         "bumphunter",
         "derfinder",
         "recount"
@@ -3444,13 +3388,11 @@
     "rnaseqcomp": [],
     "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
-        "GEOquery",
         "bumphunter",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -3524,7 +3466,6 @@
     ],
     "SBMLR": [],
     "SCAN.UPC": [
-        "GEOquery",
         "preprocessCore",
         "sva"
     ],
@@ -3630,7 +3571,6 @@
         "metapod",
         "scuttle"
     ],
-    "scReClassify": [],
     "screenCounter": [],
     "ScreenR": [],
     "scRepertoire": [],
@@ -3719,7 +3659,6 @@
         "GOstats"
     ],
     "shinyepico": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -3727,7 +3666,6 @@
         "preprocessCore"
     ],
     "shinyMethyl": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -3816,13 +3754,11 @@
     ],
     "SingleR": [],
     "singscore": [],
-    "SiPSiC": [],
     "sitePath": [
         "ggtree",
         "treeio"
     ],
     "skewr": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -3942,9 +3878,7 @@
         "phyloseq",
         "preprocessCore"
     ],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "BiocStyle",
         "Gviz",
@@ -4093,7 +4027,6 @@
         "piano"
     ],
     "TPP": [],
-    "TPP2D": [],
     "trackViewer": [
         "Gviz",
         "InteractionSet",
@@ -4162,7 +4095,6 @@
         "BiocVersion"
     ],
     "TypeInfo": [],
-    "UCell": [],
     "Ularcirc": [
         "BiocVersion",
         "plotgardener",
@@ -4203,7 +4135,6 @@
         "HDF5Array",
         "biovizBase"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown",
         "sva"
@@ -4228,7 +4159,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vsn": [
         "preprocessCore"
     ],
@@ -4246,7 +4176,6 @@
     ],
     "waddR": [],
     "wateRmelon": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -4291,7 +4220,6 @@
         "ggbio"
     ],
     "yarn": [
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
