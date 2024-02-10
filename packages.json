@@ -176,7 +176,6 @@
         "scuttle",
         "treeio"
     ],
-    "annmap": [],
     "AnnotationHub": [
         "BiocVersion"
     ],
@@ -437,7 +436,6 @@
         "bsseq",
         "dmrseq"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -486,7 +484,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "BRGenomics": [],
     "bsseq": [
         "HDF5Array"
     ],
@@ -663,9 +660,7 @@
     "CGHcall": [
         "CGHbase"
     ],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [
         "CGHbase",
         "CGHcall"
@@ -731,7 +726,6 @@
         "scran",
         "scuttle"
     ],
-    "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -745,9 +739,7 @@
         "BiocVersion",
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [
         "metapod",
         "scran",
@@ -790,8 +782,6 @@
     "cn.farms": [
         "preprocessCore"
     ],
-    "CNORode": [],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -907,7 +897,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "covRNA": [],
     "cqn": [
         "preprocessCore"
     ],
@@ -1189,7 +1178,6 @@
         "annotatr",
         "bsseq"
     ],
-    "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [
         "sva"
@@ -1235,7 +1223,6 @@
     ],
     "easylift": [],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EDASeq": [],
     "edge": [
         "snm",
@@ -1294,7 +1281,6 @@
         "treeio"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
         "enrichplot",
@@ -1478,8 +1464,7 @@
         "flowViz"
     ],
     "FRASER": [
-        "HDF5Array",
-        "OUTRIDER"
+        "HDF5Array"
     ],
     "frenchFISH": [],
     "frma": [
@@ -1564,7 +1549,6 @@
     "geNetClassifier": [
         "minet"
     ],
-    "GeneTonic": [],
     "geneXtendeR": [
         "BiocStyle"
     ],
@@ -2001,7 +1985,6 @@
         "pathview",
         "treeio"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2716,7 +2699,6 @@
         "GSVA",
         "HDF5Array"
     ],
-    "ORFik": [],
     "orthogene": [
         "ggtree",
         "treeio"
@@ -2729,7 +2711,6 @@
         "dir.expiry"
     ],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -3171,10 +3152,7 @@
         "BiocVersion"
     ],
     "RgnTX": [],
-    "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -3480,7 +3458,6 @@
     "segmentSeq": [
         "baySeq"
     ],
-    "selectKSigs": [],
     "seq2pathway": [
         "preprocessCore"
     ],
@@ -3807,9 +3784,7 @@
     ],
     "terraTCGAdata": [],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidybulk": [
         "preprocessCore"
