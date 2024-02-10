@@ -420,7 +420,6 @@
         "edgeR",
         "limma"
     ],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -596,7 +595,6 @@
         "preprocessCore",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "DOSE",
         "MultiAssayExperiment",
@@ -638,7 +636,6 @@
     "BiocPkgTools": [
         "biocViews"
     ],
-    "BiocSet": [],
     "BiocSingular": [
         "beachmat"
     ],
@@ -729,9 +726,7 @@
         "marray",
         "regioneR"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter",
@@ -962,7 +957,6 @@
         "genefilter"
     ],
     "CBEA": [
-        "BiocSet",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "treeio"
@@ -1143,7 +1137,6 @@
         "edgeR",
         "ensembldb",
         "genefilter",
-        "globaltest",
         "goseq",
         "illuminaio",
         "limma",
@@ -1454,7 +1447,6 @@
         "AnnotationFilter",
         "Spectra"
     ],
-    "concordexR": [],
     "condiments": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -2071,7 +2063,6 @@
         "missMethyl",
         "preprocessCore"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "BiocVersion",
         "DelayedMatrixStats",
@@ -2204,7 +2195,6 @@
         "SingleCellExperiment",
         "beachmat",
         "edgeR",
-        "globaltest",
         "limma",
         "pathview"
     ],
@@ -2744,7 +2734,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [],
@@ -2918,11 +2907,9 @@
         "MultiAssayExperiment"
     ],
     "GlobalAncova": [
-        "GSEABase",
-        "globaltest"
+        "GSEABase"
     ],
     "globalSeq": [],
-    "globaltest": [],
     "GloScope": [
         "SingleCellExperiment"
     ],
@@ -3529,7 +3516,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation",
         "preprocessCore"
@@ -3663,7 +3649,6 @@
         "ensembldb",
         "limma"
     ],
-    "MDTS": [],
     "MEAL": [
         "AnnotationFilter",
         "DelayedMatrixStats",
@@ -3809,7 +3794,6 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "fastseg",
         "limma",
@@ -4703,9 +4687,7 @@
         "tkWidgets"
     ],
     "OmaDB": [],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "OmicCircos": [],
     "omicplotR": [
         "ALDEx2"
@@ -4715,7 +4697,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "made4",
         "omicade4",
         "sva"
     ],
@@ -5041,7 +5022,6 @@
     "pmm": [],
     "pmp": [],
     "PoDCall": [],
-    "podkat": [],
     "pogos": [
         "BiocVersion",
         "ontoProc"
@@ -5319,7 +5299,6 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "ramwas": [],
     "RandomWalkRestartMH": [
         "supraHex"
     ],
@@ -6228,7 +6207,6 @@
     "sigFeature": [
         "biocViews"
     ],
-    "SigFuge": [],
     "signatureSearch": [
         "BiocVersion",
         "DOSE",
@@ -6260,9 +6238,7 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
@@ -6454,7 +6430,6 @@
         "scuttle"
     ],
     "sparrow": [
-        "BiocSet",
         "DelayedMatrixStats",
         "GSEABase",
         "edgeR",
@@ -6705,7 +6680,6 @@
         "ggtree",
         "treeio"
     ],
-    "target": [],
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
@@ -7141,7 +7115,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "wavClusteR": [],
     "weaver": [],
     "webbioc": [
         "gcrma",
