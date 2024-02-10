@@ -240,7 +240,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AlpsNMR": [],
     "altcdfenvs": [
         "makecdfenv",
         "preprocessCore"
@@ -962,7 +961,6 @@
     "CAMERA": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -994,10 +992,7 @@
         "ggtree",
         "treeio"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "CARNIVAL": [],
     "casper": [
         "limma"
@@ -1338,9 +1333,7 @@
         "limma",
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "CINdex": [],
     "circRNAprofiler": [
         "BiocVersion",
@@ -1386,7 +1379,6 @@
     "cliqueMS": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1568,7 +1560,6 @@
     ],
     "CompoundDb": [
         "AnnotationFilter",
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "concordexR": [],
@@ -1679,7 +1670,6 @@
     "cosmiq": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2078,7 +2068,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "DepecheR": [],
     "DEqMS": [
         "limma"
     ],
@@ -2722,7 +2711,6 @@
         "AnnotationFilter",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2816,7 +2804,6 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "DelayedMatrixStats",
@@ -3166,8 +3153,7 @@
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "GOexpress": [],
     "GOfuncR": [],
@@ -3563,7 +3549,6 @@
         "AnnotationFilter",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3652,7 +3637,6 @@
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "maftools",
         "plyranges"
     ],
     "KCsmart": [],
@@ -3731,7 +3715,6 @@
         "AnnotationFilter",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3804,7 +3787,6 @@
         "VariantAnnotation",
         "preprocessCore"
     ],
-    "maftools": [],
     "MAGAR": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -3840,7 +3822,6 @@
         "AnnotationFilter",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3871,7 +3852,6 @@
     "marray": [
         "limma"
     ],
-    "martini": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -4026,12 +4006,10 @@
         "AnnotationFilter",
         "BiocVersion",
         "CompoundDb",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
         "struct"
@@ -4058,7 +4036,6 @@
         "AnnotationFilter",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4080,7 +4057,6 @@
         "treeio"
     ],
     "metapod": [],
-    "metapone": [],
     "metaseqR2": [
         "ABSSeq",
         "DESeq2",
@@ -4099,7 +4075,6 @@
         "vsn"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methimpute": [],
@@ -4471,7 +4446,6 @@
     "MobilityTransformR": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4570,23 +4544,18 @@
     "MPRAnalyze": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsDataHub": [
@@ -4594,7 +4563,6 @@
     ],
     "MsExperiment": [
         "AnnotationFilter",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
@@ -4663,7 +4631,6 @@
         "preprocessCore",
         "sva"
     ],
-    "msPurity": [],
     "msqrob2": [
         "AnnotationFilter",
         "MultiAssayExperiment",
@@ -4672,7 +4639,6 @@
     ],
     "MsQuality": [
         "AnnotationFilter",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
         "QFeatures",
@@ -4815,8 +4781,7 @@
     ],
     "musicatk": [
         "VariantAnnotation",
-        "decompTumor2Sig",
-        "maftools"
+        "decompTumor2Sig"
     ],
     "MutationalPatterns": [
         "VariantAnnotation"
@@ -4874,7 +4839,6 @@
     "ncGTW": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -5612,7 +5576,6 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "qckitfastq": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
@@ -5669,8 +5632,7 @@
         "rhdf5"
     ],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [
         "GenomicFiles",
@@ -5920,7 +5882,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [
@@ -5985,7 +5946,6 @@
     "Risa": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -6200,7 +6160,6 @@
         "edgeR",
         "limma"
     ],
-    "RVS": [],
     "sagenhaft": [],
     "SAIGEgds": [
         "SeqArray"
@@ -6910,7 +6869,6 @@
         "regioneR",
         "rhdf5"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -6995,9 +6953,7 @@
         "limma"
     ],
     "specL": [],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "InteractionSet",
@@ -7173,7 +7129,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "SynExtend": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -7299,7 +7254,6 @@
         "limma",
         "marray"
     ],
-    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -7694,7 +7648,6 @@
     "xcms": [
         "AnnotationFilter",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
