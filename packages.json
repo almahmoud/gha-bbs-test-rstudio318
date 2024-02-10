@@ -438,7 +438,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "mixOmics"
     ],
@@ -801,7 +800,6 @@
         "annotate",
         "biomaRt",
         "chromVAR",
-        "fgsea",
         "limma",
         "motifmatchr",
         "projectR",
@@ -947,7 +945,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "bacon": [],
     "BadRegionFinder": [
         "BSgenome",
         "BiocIO",
@@ -1237,7 +1234,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "BEclear": [],
     "beer": [
         "DelayedArray",
         "GenomicRanges",
@@ -1394,7 +1390,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geNetClassifier",
         "ggtree",
         "graphite",
@@ -1523,7 +1518,6 @@
         "rtracklayer"
     ],
     "BioNAR": [
-        "fgsea",
         "preprocessCore"
     ],
     "BioNERO": [
@@ -2179,12 +2173,9 @@
         "treeio"
     ],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "CARNIVAL": [],
     "casper": [
         "BiocIO",
@@ -2299,7 +2290,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "graphite",
         "treeio"
@@ -2416,7 +2406,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "beachmat",
-        "fgsea",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -2466,7 +2455,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "preprocessCore",
         "treeio"
@@ -2512,7 +2500,6 @@
         "SummarizedExperiment",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "snpStats",
         "treeio"
@@ -2797,7 +2784,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "rtracklayer",
         "treeio"
@@ -3139,7 +3125,6 @@
         "DOSE",
         "GOSemSim",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -3155,8 +3140,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SparseArray",
-        "SummarizedExperiment",
-        "fgsea"
+        "SummarizedExperiment"
     ],
     "cmapR": [
         "DelayedArray",
@@ -3365,7 +3349,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
-        "fgsea",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3685,7 +3668,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "limma",
         "marray",
         "piano"
@@ -4028,7 +4010,6 @@
     "cTRAP": [
         "AnnotationHub",
         "BiocVersion",
-        "fgsea",
         "limma",
         "rhdf5",
         "rhdf5filters"
@@ -4315,7 +4296,6 @@
         "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "limma",
         "mzR",
@@ -4337,7 +4317,6 @@
         "minet",
         "mnem"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "SamSPECTRAL",
         "flowCore",
@@ -4369,7 +4348,6 @@
         "clusterProfiler",
         "edgeR",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "ggtree",
         "limma",
@@ -4639,7 +4617,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "DEqMS": [
         "limma"
     ],
@@ -5097,8 +5074,7 @@
         "vsn"
     ],
     "DOSE": [
-        "GOSemSim",
-        "fgsea"
+        "GOSemSim"
     ],
     "doseR": [
         "DelayedArray",
@@ -5465,7 +5441,6 @@
     "enrichplot": [
         "DOSE",
         "GOSemSim",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -5488,7 +5463,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "motifmatchr",
         "pipeFrame",
@@ -5500,7 +5474,6 @@
         "GOSemSim",
         "RCy3",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -5572,7 +5545,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "genomation",
         "ggtree",
         "rtracklayer",
@@ -5853,7 +5825,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "motifmatchr",
         "pipeFrame",
@@ -5921,7 +5892,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
-        "fgsea",
         "limma",
         "rhdf5",
         "rhdf5filters",
@@ -6078,7 +6048,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -6192,7 +6161,6 @@
         "RBGL"
     ],
     "FGNet": [],
-    "fgsea": [],
     "FilterFFPE": [
         "GenomicRanges",
         "Rhtslib",
@@ -6404,9 +6372,7 @@
         "ncdfFlow"
     ],
     "fmcsR": [],
-    "fobitools": [
-        "fgsea"
-    ],
+    "fobitools": [],
     "FRASER": [
         "BSgenome",
         "BiocIO",
@@ -6604,7 +6570,6 @@
         "clusterProfiler",
         "edgeR",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "limma",
         "pathview",
@@ -6639,7 +6604,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "gDRcore",
         "gDRimport",
         "gDRutils",
@@ -6667,7 +6631,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "gDRutils",
         "limma",
         "marray",
@@ -7328,7 +7291,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "goProfiles",
         "treeio"
@@ -7457,8 +7419,7 @@
     "gsean": [
         "PPInfer",
         "STRINGdb",
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "GSReg": [
         "BiocIO",
@@ -8176,7 +8137,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "ggtree",
         "graphite",
@@ -8352,7 +8312,6 @@
         "rhdf5filters"
     ],
     "iPAC": [],
-    "iPath": [],
     "ipdDb": [
         "AnnotationHub",
         "BiocVersion",
@@ -8730,7 +8689,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "limma",
         "ropls"
     ],
@@ -8955,7 +8913,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "pathview",
         "treeio"
@@ -8976,7 +8933,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "magrene": [],
     "MAI": [
         "DelayedArray",
         "GenomicRanges",
@@ -9127,7 +9083,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "matter": [],
     "MBASED": [
         "DelayedArray",
         "GenomicRanges",
@@ -9204,7 +9159,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "fgsea",
         "limma",
         "rtracklayer"
     ],
@@ -9346,7 +9300,6 @@
         "GOSemSim",
         "MeSHDbi",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -9476,14 +9429,11 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
     "metapod": [],
-    "metapone": [
-        "fgsea"
-    ],
+    "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
         "ABSSeq",
@@ -9692,7 +9642,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "ggtree",
         "illuminaio",
@@ -9985,7 +9934,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -10415,7 +10363,6 @@
         "SummarizedExperiment",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "limma",
         "rtracklayer",
@@ -10434,7 +10381,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "limma",
         "treeio"
@@ -10869,7 +10815,6 @@
     "multiGSEA": [
         "AnnotationHub",
         "BiocVersion",
-        "fgsea",
         "graphite"
     ],
     "multiHiCcompare": [
@@ -11123,7 +11068,6 @@
         "GenomicRanges"
     ],
     "NanoTube": [
-        "fgsea",
         "limma"
     ],
     "NBAMSeq": [
@@ -11327,8 +11271,7 @@
         "MultiAssayExperiment",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "fgsea"
+        "SummarizedExperiment"
     ],
     "nnNorm": [
         "limma",
@@ -11389,7 +11332,6 @@
         "bamsignals",
         "rtracklayer"
     ],
-    "NPARC": [],
     "npGSEA": [
         "GSEABase",
         "annotate"
@@ -11582,8 +11524,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "fgsea"
+        "SummarizedExperiment"
     ],
     "OmnipathR": [],
     "ompBAM": [],
@@ -11867,7 +11808,6 @@
         "annotate",
         "biomaRt",
         "edgeR",
-        "fgsea",
         "genefilter",
         "geneplotter",
         "limma",
@@ -11894,7 +11834,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "limma",
         "preprocessCore",
@@ -11910,8 +11849,7 @@
         "GOSemSim",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "fgsea"
+        "dir.expiry"
     ],
     "partCNV": [
         "AnnotationHub",
@@ -11981,7 +11919,6 @@
         "limma",
         "topGO"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedArray",
@@ -12002,7 +11939,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
-        "fgsea",
         "genefu",
         "limma",
         "marray",
@@ -12089,7 +12025,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "edgeR",
-        "fgsea",
         "limma",
         "rhdf5",
         "rhdf5filters"
@@ -12109,7 +12044,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "limma",
         "marray",
         "piano"
@@ -12200,7 +12134,6 @@
         "supraHex"
     ],
     "piano": [
-        "fgsea",
         "limma",
         "marray"
     ],
@@ -12223,7 +12156,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "graphite",
         "preprocessCore",
@@ -12410,8 +12342,7 @@
     ],
     "PPInfer": [
         "STRINGdb",
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "pqsfinder": [
         "GenomicRanges"
@@ -12567,7 +12498,6 @@
         "biomaRt",
         "chipseq",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "preprocessCore",
         "rGREAT",
@@ -12638,7 +12568,6 @@
         "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "limma",
         "mzR",
@@ -13024,7 +12953,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "limma",
         "marray",
         "piano"
@@ -13208,7 +13136,6 @@
         "DOSE",
         "GOSemSim",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "graphite",
         "treeio"
@@ -13360,7 +13287,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "fgsea",
         "limma",
         "metapod",
         "rhdf5",
@@ -14699,7 +14625,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "SCFA": [],
     "scFeatures": [
         "AUCell",
         "AnnotationFilter",
@@ -14979,7 +14904,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "scRecover": [],
     "screenCounter": [
         "DelayedArray",
         "GenomicRanges",
@@ -15073,7 +14997,6 @@
         "SummarizedExperiment",
         "annotate",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "ggtree",
         "graphite",
@@ -15093,7 +15016,6 @@
         "annotate",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationFilter",
         "BiocIO",
@@ -15193,7 +15115,6 @@
         "bamsignals",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "rtracklayer",
         "treeio"
@@ -15256,7 +15177,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "heatmaps",
         "rtracklayer",
@@ -15518,7 +15438,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "rhdf5",
         "rhdf5filters",
@@ -16621,8 +16540,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "fgsea"
+        "SummarizedExperiment"
     ],
     "SWATH2stats": [
         "biomaRt"
@@ -16826,7 +16744,6 @@
         "STRINGdb",
         "TDbasedUFE",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "treeio"
     ],
@@ -16869,7 +16786,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "BiocIO",
         "DelayedArray",
@@ -17005,7 +16921,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggtree",
         "tkWidgets",
         "treeio"
@@ -17125,7 +17040,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "limma",
         "marray",
         "piano"
@@ -17772,7 +17686,6 @@
         "AnnotationForge",
         "GOSemSim",
         "biomaRt",
-        "fgsea",
         "topGO"
     ],
     "vissE": [
@@ -18010,7 +17923,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "fgsea",
         "limma",
         "marray",
         "piano"
