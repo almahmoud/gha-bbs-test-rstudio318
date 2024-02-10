@@ -460,7 +460,6 @@
     "ANCOMBC": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedArray",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -508,7 +507,6 @@
         "genefilter"
     ],
     "annotate": [],
-    "AnnotationDbi": [],
     "AnnotationFilter": [
         "GenomicRanges"
     ],
@@ -553,7 +551,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2",
         "DelayedArray",
@@ -721,7 +718,6 @@
         "rtracklayer"
     ],
     "AssessORF": [
-        "DECIPHER",
         "GenomicRanges"
     ],
     "ASSIGN": [
@@ -1191,7 +1187,6 @@
         "ANCOMBC",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1336,7 +1331,6 @@
         "RBGL",
         "biocViews"
     ],
-    "BiocFHIR": [],
     "biocGraph": [
         "Rgraphviz",
         "annotate",
@@ -1489,7 +1483,6 @@
         "limma",
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1704,7 +1697,6 @@
         "BiocStyle",
         "GenomicRanges"
     ],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -4162,7 +4154,6 @@
         "sva",
         "treeio"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "BSgenome",
         "BiocIO",
@@ -5601,9 +5592,7 @@
         "SpatialExperiment",
         "SummarizedExperiment"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [
         "GenomicRanges",
         "Rsamtools"
@@ -5992,7 +5981,6 @@
         "flowViz",
         "limma"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "flowCore"
     ],
@@ -6496,7 +6484,6 @@
     "GenomAutomorphism": [
         "GenomicRanges"
     ],
-    "GenomeInfoDb": [],
     "genomeIntervals": [
         "GenomicRanges"
     ],
@@ -7247,7 +7234,6 @@
         "Rsamtools",
         "rhdf5"
     ],
-    "hapFabia": [],
     "Harman": [],
     "HarmonizR": [
         "DelayedArray",
@@ -8196,7 +8182,6 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "KEGGREST": [],
     "kissDE": [
         "BSgenome",
         "BiocIO",
@@ -9386,7 +9371,6 @@
     "mia": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedArray",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -9418,7 +9402,6 @@
     "miaViz": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedArray",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -9471,7 +9454,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
-        "DECIPHER",
         "DESeq2",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9518,7 +9500,6 @@
         "ggtreeExtra",
         "treeio"
     ],
-    "microRNA": [],
     "microSTASIS": [
         "DelayedArray",
         "GenomicRanges",
@@ -9766,7 +9747,6 @@
         "annotate",
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2",
         "DelayedArray",
@@ -11079,11 +11059,9 @@
         "ncdfFlow"
     ],
     "openPrimeR": [
-        "DECIPHER",
         "GenomicRanges"
     ],
     "openPrimeRui": [
-        "DECIPHER",
         "GenomicRanges",
         "openPrimeR"
     ],
@@ -12984,7 +12962,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "RGraph2js": [],
     "Rgraphviz": [],
     "rGREAT": [
         "BiocIO",
@@ -13686,7 +13663,6 @@
     "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BiocStyle",
-        "DECIPHER",
         "sangerseqR"
     ],
     "sangerseqR": [],
@@ -14059,7 +14035,6 @@
         "SummarizedExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "flowCore",
         "sangerseqR"
     ],
@@ -15848,9 +15823,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "SynMut": [],
     "syntenet": [
         "BiocIO",
@@ -16236,7 +16209,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedArray",
@@ -16404,7 +16376,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "anota",
         "edgeR",
         "limma",
         "topGO"
