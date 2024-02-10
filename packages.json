@@ -3,7 +3,6 @@
         "BiocStyle"
     ],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -56,9 +55,7 @@
         "BiocCheck",
         "BiocVersion"
     ],
-    "airpart": [
-        "scater"
-    ],
+    "airpart": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -147,7 +144,6 @@
     "ANCOMBC": [
         "TreeSummarizedExperiment",
         "mia",
-        "scater",
         "treeio"
     ],
     "AnnotationHub": [
@@ -246,11 +242,9 @@
     "BatchQC": [],
     "BayesSpace": [
         "metapod",
-        "scater",
         "scran"
     ],
     "bayNorm": [],
-    "baySeq": [],
     "beadarray": [
         "illuminaio"
     ],
@@ -260,7 +254,6 @@
         "Maaslin2",
         "TreeSummarizedExperiment",
         "mia",
-        "scater",
         "treeio"
     ],
     "bgx": [
@@ -334,7 +327,6 @@
     ],
     "biscuiteer": [
         "BiocVersion",
-        "CGHbase",
         "CGHcall",
         "QDNAseq",
         "annotatr",
@@ -375,7 +367,6 @@
     ],
     "brainflowprobes": [
         "BiocVersion",
-        "derfinder",
         "derfinderPlot"
     ],
     "BubbleTree": [
@@ -433,8 +424,7 @@
     "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [
-        "FlowSOM",
-        "scater"
+        "FlowSOM"
     ],
     "categoryCompare": [],
     "cbaf": [
@@ -464,7 +454,6 @@
     "CCPROMISE": [],
     "celda": [
         "metapod",
-        "scater",
         "scran"
     ],
     "CellBarcode": [],
@@ -474,13 +463,9 @@
         "splots",
         "vsn"
     ],
-    "CelliD": [
-        "scater"
-    ],
+    "CelliD": [],
     "cellmigRation": [],
-    "CellMixS": [
-        "scater"
-    ],
+    "CellMixS": [],
     "CellScore": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -493,7 +478,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot",
@@ -501,7 +485,6 @@
         "treeio"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -515,17 +498,11 @@
         "dir.expiry"
     ],
     "CGEN": [],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
@@ -565,7 +542,6 @@
         "ResidualMatrix",
         "batchelor",
         "metapod",
-        "scater",
         "scran"
     ],
     "cicero": [
@@ -607,9 +583,7 @@
         "ggtree",
         "treeio"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "cmapR": [],
     "cn.farms": [
         "preprocessCore"
@@ -650,8 +624,7 @@
         "Spectra"
     ],
     "condiments": [
-        "distinct",
-        "scater"
+        "distinct"
     ],
     "CONFESS": [
         "SamSPECTRAL",
@@ -671,9 +644,7 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "Cormotif": [
         "preprocessCore"
     ],
@@ -772,8 +743,7 @@
     "cytofQC": [
         "BiocStyle",
         "CATALYST",
-        "FlowSOM",
-        "scater"
+        "FlowSOM"
     ],
     "CytoML": [
         "flowViz",
@@ -824,7 +794,6 @@
     "decontX": [
         "celda",
         "metapod",
-        "scater",
         "scran"
     ],
     "deconvR": [
@@ -858,10 +827,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DEScan2": [
         "ChIPpeakAnno",
         "InteractionSet"
@@ -896,9 +862,7 @@
     "DiscoRhythm": [
         "BiocStyle"
     ],
-    "distinct": [
-        "scater"
-    ],
+    "distinct": [],
     "dittoSeq": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -1094,7 +1058,6 @@
         "basilisk.utils",
         "dir.expiry",
         "metapod",
-        "scater",
         "scran"
     ],
     "flowBin": [
@@ -1127,7 +1090,6 @@
         "flowStats",
         "flowViz"
     ],
-    "FRASER": [],
     "frenchFISH": [],
     "frma": [
         "preprocessCore"
@@ -1165,20 +1127,17 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "gDRstyle": [
         "BiocCheck"
     ],
     "genArise": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -1409,7 +1368,6 @@
         "vsn",
         "xcms"
     ],
-    "iSEEde": [],
     "iSEEhub": [
         "BiocVersion"
     ],
@@ -1583,9 +1541,7 @@
         "preprocessCore",
         "wateRmelon"
     ],
-    "MEB": [
-        "scater"
-    ],
+    "MEB": [],
     "MEDIPS": [
         "preprocessCore"
     ],
@@ -1711,7 +1667,6 @@
     "mgsa": [],
     "mia": [
         "TreeSummarizedExperiment",
-        "scater",
         "treeio"
     ],
     "miaSim": [
@@ -1722,7 +1677,6 @@
         "TreeSummarizedExperiment",
         "ggtree",
         "mia",
-        "scater",
         "treeio"
     ],
     "microbiome": [],
@@ -1732,7 +1686,6 @@
         "TreeSummarizedExperiment",
         "ggtree",
         "mia",
-        "scater",
         "treeio"
     ],
     "MicrobiomeProfiler": [
@@ -1955,9 +1908,7 @@
         "metapod",
         "scran"
     ],
-    "muscat": [
-        "scater"
-    ],
+    "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -2014,8 +1965,7 @@
         "preprocessCore"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "scater"
+        "clusterExperiment"
     ],
     "netZooR": [
         "STRINGdb",
@@ -2059,7 +2009,6 @@
         "tkWidgets"
     ],
     "omicRexposome": [],
-    "OMICsPCA": [],
     "omicsViewer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -2129,8 +2078,7 @@
     "paxtoolsr": [],
     "pcaExplorer": [],
     "PDATK": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "pdInfoBuilder": [
         "preprocessCore"
@@ -2143,15 +2091,12 @@
     "PECA": [
         "preprocessCore"
     ],
-    "peco": [
-        "scater"
-    ],
+    "peco": [],
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -2175,7 +2120,6 @@
     "Pi": [
         "supraHex"
     ],
-    "piano": [],
     "pickgene": [],
     "Pigengene": [
         "BiocStyle",
@@ -2191,7 +2135,6 @@
     ],
     "pipeComp": [
         "metapod",
-        "scater",
         "scran"
     ],
     "plier": [
@@ -2281,7 +2224,6 @@
     ],
     "psichomics": [
         "BiocVersion",
-        "derfinder",
         "recount"
     ],
     "PSMatch": [],
@@ -2308,7 +2250,6 @@
         "STRINGdb"
     ],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "qpcrNorm": [
@@ -2333,8 +2274,7 @@
     "R3CPET": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [],
     "RandomWalkRestartMH": [
@@ -2374,9 +2314,7 @@
         "BiocStyle",
         "dir.expiry"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -2393,12 +2331,10 @@
     "RegionalST": [
         "BayesSpace",
         "metapod",
-        "scater",
         "scran"
     ],
     "regionReport": [
-        "BiocStyle",
-        "derfinder"
+        "BiocStyle"
     ],
     "regutools": [
         "BiocVersion",
@@ -2432,9 +2368,7 @@
     ],
     "RgnTX": [],
     "RiboProfiling": [],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "RUVSeq"
     ],
@@ -2468,7 +2402,6 @@
         "BiocStyle"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAinteract": [
@@ -2493,9 +2426,7 @@
         "RNAmodR"
     ],
     "rnaseqcomp": [],
-    "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -2565,7 +2496,6 @@
         "BiocVersion"
     ],
     "SCArray.sat": [],
-    "scater": [],
     "scatterHatch": [],
     "scBFA": [],
     "SCBN": [],
@@ -2574,12 +2504,9 @@
         "treeio"
     ],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDblFinder": [
         "metapod",
-        "scater",
         "scran"
     ],
     "scDD": [
@@ -2592,12 +2519,10 @@
         "metapod",
         "scran"
     ],
-    "scider": [],
     "scMerge": [
         "ResidualMatrix",
         "batchelor",
         "metapod",
-        "scater",
         "scran"
     ],
     "scMET": [
@@ -2639,14 +2564,12 @@
     ],
     "scTreeViz": [
         "metapod",
-        "scater",
         "scran"
     ],
     "scviR": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "scater"
+        "dir.expiry"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -2654,9 +2577,7 @@
         "ggtree",
         "treeio"
     ],
-    "segmentSeq": [
-        "baySeq"
-    ],
+    "segmentSeq": [],
     "seq2pathway": [
         "preprocessCore"
     ],
@@ -2735,7 +2656,6 @@
         "metapod",
         "scDblFinder",
         "scMerge",
-        "scater",
         "scran",
         "treeio",
         "zellkonverter"
@@ -2777,20 +2697,16 @@
     ],
     "Spaniel": [
         "metapod",
-        "scater",
         "scran"
     ],
-    "sparrow": [],
     "sparsenetgls": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "metapod",
-        "scater",
         "scran"
     ],
     "spatzie": [
@@ -2810,7 +2726,6 @@
     "SPIAT": [
         "dittoSeq"
     ],
-    "splatter": [],
     "SpliceWiz": [
         "BiocVersion"
     ],
@@ -2823,8 +2738,7 @@
     ],
     "srnadiff": [
         "BiocStyle",
-        "Gviz",
-        "baySeq"
+        "Gviz"
     ],
     "standR": [
         "RUVSeq"
@@ -2868,9 +2782,7 @@
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
-    "TCC": [
-        "baySeq"
-    ],
+    "TCC": [],
     "TDbasedUFEadv": [
         "STRINGdb",
         "enrichplot",
@@ -2885,7 +2797,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TFHAZ": [],
     "tidybulk": [
         "preprocessCore"
     ],
@@ -2916,8 +2827,7 @@
         "vsn"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz",
@@ -2940,9 +2850,7 @@
     "TreeSummarizedExperiment": [
         "treeio"
     ],
-    "tricycle": [
-        "scater"
-    ],
+    "tricycle": [],
     "trigger": [],
     "tripr": [],
     "TRONCO": [],
@@ -2979,7 +2887,6 @@
     ],
     "VAExprs": [
         "DeepPINCS",
-        "scater",
         "ttgsea"
     ],
     "VanillaICE": [
@@ -3006,9 +2913,7 @@
     "vissE": [
         "BiocVersion"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsn": [
         "preprocessCore"
     ],
@@ -3048,8 +2953,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [
         "STRINGdb"
