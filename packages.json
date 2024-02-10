@@ -611,7 +611,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "branchpointer": [],
     "breakpointR": [],
     "BRGenomics": [],
     "bsseq": [
@@ -888,7 +887,6 @@
     ],
     "ChIPanalyser": [],
     "ChIPComp": [],
-    "chipenrich": [],
     "ChIPexoQual": [
         "AnnotationFilter",
         "biovizBase",
@@ -1193,7 +1191,6 @@
     "countsimQC": [
         "edgeR"
     ],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
     "cqn": [
@@ -1327,21 +1324,18 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [
         "HDF5Array",
@@ -1562,7 +1556,6 @@
         "scuttle"
     ],
     "dittoSeq": [],
-    "DMCFB": [],
     "DMCHMM": [],
     "DMRcaller": [],
     "DMRcate": [
@@ -1843,7 +1836,6 @@
         "orthogene",
         "treeio"
     ],
-    "ExCluster": [],
     "ExiMiR": [
         "preprocessCore"
     ],
@@ -1964,8 +1956,7 @@
     ],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowGraph": [],
     "flowMerge": [
@@ -1976,8 +1967,7 @@
     "flowSpecs": [],
     "flowStats": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTime": [],
     "flowTrans": [
@@ -1988,12 +1978,9 @@
     "flowVS": [
         "flowStats",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "FRASER": [
         "HDF5Array",
         "OUTRIDER"
@@ -2178,8 +2165,7 @@
         "ensembldb"
     ],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggmanh": [],
     "ggmsa": [
@@ -2228,7 +2214,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOfuncR": [],
     "GOpro": [],
     "GOSim": [],
     "goSorensen": [
@@ -2430,7 +2415,6 @@
     ],
     "ImmuneSpaceR": [
         "flowWorkspace",
-        "ncdfFlow",
         "preprocessCore"
     ],
     "immunoClust": [],
@@ -2479,7 +2463,6 @@
         "edgeR",
         "geneplotter"
     ],
-    "InterMineR": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -2609,7 +2592,6 @@
         "vsn",
         "xcms"
     ],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array"
     ],
@@ -3423,7 +3405,6 @@
     ],
     "NanoTube": [],
     "NBAMSeq": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "AnnotationFilter",
         "MSnbase",
@@ -3583,8 +3564,7 @@
     "openCyto": [
         "flowClust",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "openPrimeR": [],
     "openPrimeRui": [
@@ -3696,8 +3676,7 @@
         "preprocessCore"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase",
@@ -3824,7 +3803,6 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "pqsfinder": [],
     "pram": [],
     "prebs": [
         "BiocStyle",
@@ -4204,7 +4182,6 @@
         "edgeR",
         "motifStack"
     ],
-    "rifi": [],
     "rifiComparative": [],
     "RImmPort": [],
     "Ringo": [
@@ -4819,7 +4796,6 @@
         "tilingArray",
         "vsn"
     ],
-    "snapcount": [],
     "snifter": [
         "basilisk",
         "basilisk.utils",
@@ -5167,7 +5143,6 @@
         "Heatplus",
         "edgeR"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traviz": [
         "TrajectoryUtils",
@@ -5184,7 +5159,6 @@
     "TreeSummarizedExperiment": [
         "treeio"
     ],
-    "Trendy": [],
     "tricycle": [
         "BiocSingular",
         "beachmat",
