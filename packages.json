@@ -407,7 +407,6 @@
     ],
     "BLMA": [
         "KEGGgraph",
-        "PADOG",
         "ROntoTools"
     ],
     "BloodGen3Module": [
@@ -568,7 +567,6 @@
         "scater"
     ],
     "CellScore": [],
-    "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot",
@@ -736,7 +734,6 @@
         "MIRA",
         "bsseq"
     ],
-    "codelink": [],
     "cogeqc": [
         "ggtree",
         "treeio"
@@ -769,7 +766,6 @@
         "Spectra"
     ],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "scater",
         "slingshot"
@@ -895,7 +891,6 @@
     "customCMPdb": [
         "BiocVersion"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity",
         "flowViz"
@@ -1142,7 +1137,6 @@
     "EGSEA": [
         "GSVA",
         "KEGGgraph",
-        "PADOG",
         "pathview"
     ],
     "eisaR": [],
@@ -1236,7 +1230,6 @@
         "GSVA"
     ],
     "escheR": [],
-    "EventPointer": [],
     "EWCE": [
         "BiocVersion",
         "ggtree",
@@ -1286,8 +1279,7 @@
     "fcScan": [],
     "fdrame": [],
     "FEAST": [
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "ffpe": [
         "illuminaio",
@@ -1364,10 +1356,7 @@
         "minfi",
         "preprocessCore"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GAprediction": [],
     "GARS": [
         "DaMiRseq",
@@ -1634,7 +1623,6 @@
     ],
     "IdeoViz": [],
     "iGC": [],
-    "igvR": [],
     "illuminaio": [],
     "imcRtools": [
         "cytomapper"
@@ -1693,25 +1681,14 @@
         "vsn",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
     "iSEEhub": [
-        "BiocVersion",
-        "iSEE"
+        "BiocVersion"
     ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "isobar": [],
@@ -1723,7 +1700,6 @@
         "BiocVersion",
         "DEXSeq",
         "pfamAnalyzeR",
-        "satuRn",
         "sva",
         "tximeta"
     ],
@@ -1756,7 +1732,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [],
     "LinTInd": [
         "ggtree",
@@ -2181,7 +2156,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "mogsa": [],
     "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [],
@@ -2513,7 +2487,6 @@
     "PAA": [
         "sva"
     ],
-    "PADOG": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -2777,7 +2750,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "qsea": [],
     "qsmooth": [
         "sva"
     ],
@@ -3065,7 +3037,6 @@
     "SARC": [
         "plyranges"
     ],
-    "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -3158,7 +3129,6 @@
     "screenCounter": [],
     "ScreenR": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -3290,7 +3260,6 @@
         "ResidualMatrix",
         "SingleR",
         "TSCAN",
-        "TrajectoryUtils",
         "basilisk",
         "basilisk.utils",
         "batchelor",
@@ -3324,9 +3293,7 @@
         "preprocessCore",
         "wateRmelon"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMAD": [],
     "SMAP": [],
     "SMITE": [],
@@ -3401,7 +3368,6 @@
     "SpliceWiz": [
         "BiocVersion"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
@@ -3495,7 +3461,6 @@
     ],
     "terraTCGAdata": [],
     "TFHAZ": [],
-    "TFutils": [],
     "tidybulk": [
         "preprocessCore"
     ],
@@ -3539,10 +3504,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptR": [
         "chipseq"
     ],
@@ -3554,7 +3517,6 @@
     ],
     "TransView": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treeio": [],
@@ -3577,9 +3539,7 @@
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TRONCO": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "ttgsea": [],
     "TurboNorm": [
         "convert",
