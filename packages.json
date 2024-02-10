@@ -26,7 +26,6 @@
         "CGHcall",
         "GenomicRanges",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "limma",
         "marray"
@@ -60,8 +59,7 @@
     "adductomicsR": [
         "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
-        "mzR"
+        "ExperimentHub"
     ],
     "ADImpute": [
         "DelayedArray",
@@ -109,7 +107,6 @@
         "RBGL",
         "ReportingTools",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -176,7 +173,6 @@
         "RBGL",
         "ReportingTools",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -209,7 +205,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -246,7 +241,6 @@
         "GenomicRanges",
         "HDF5Array",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -267,27 +261,23 @@
         "alabaster.vcf",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "alabaster.base": [
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.bumpy": [
         "BumpyMatrix",
         "alabaster.base",
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.files": [
         "BiocIO",
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -295,7 +285,6 @@
         "alabaster.base",
         "alabaster.schemas",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "alabaster.mae": [
@@ -311,8 +300,7 @@
         "alabaster.ranges",
         "alabaster.schemas",
         "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.matrix": [
         "DelayedArray",
@@ -321,15 +309,13 @@
         "SparseArray",
         "alabaster.base",
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.ranges": [
         "GenomicRanges",
         "alabaster.base",
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.sce": [
         "DelayedArray",
@@ -344,8 +330,7 @@
         "alabaster.ranges",
         "alabaster.schemas",
         "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.schemas": [],
     "alabaster.se": [
@@ -359,8 +344,7 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.spatial": [
         "DelayedArray",
@@ -377,14 +361,12 @@
         "alabaster.sce",
         "alabaster.schemas",
         "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.string": [
         "alabaster.base",
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.vcf": [
         "BSgenome",
@@ -394,7 +376,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -408,7 +389,6 @@
         "alabaster.string",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ALDEx2": [
@@ -427,7 +407,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -457,15 +436,13 @@
         "SparseArray",
         "SummarizedExperiment",
         "limma",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "AMOUNTAIN": [],
     "amplican": [
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -507,7 +484,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -527,7 +503,6 @@
     "annaffy": [],
     "annmap": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "annotate",
         "genefilter"
@@ -553,7 +528,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -571,7 +545,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -599,7 +572,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -641,7 +613,6 @@
         "HDF5Array",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -649,7 +620,6 @@
         "VariantAnnotation",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ArrayExpress": [
@@ -672,7 +642,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -689,7 +658,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -740,7 +708,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -786,7 +753,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -801,7 +767,6 @@
         "projectR",
         "rGREAT",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ATACseqQC": [
@@ -821,7 +786,6 @@
         "HDF5Array",
         "InteractionSet",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -835,7 +799,6 @@
         "motifStack",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ATACseqTFEA": [
@@ -846,7 +809,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -863,7 +825,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -878,7 +839,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -935,7 +895,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -948,7 +907,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -962,7 +920,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -981,7 +938,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -990,8 +946,7 @@
         "rtracklayer"
     ],
     "bamsignals": [
-        "GenomicRanges",
-        "Rhtslib"
+        "GenomicRanges"
     ],
     "BANDITS": [
         "DRIMSeq",
@@ -1013,7 +968,6 @@
         "biomaRt",
         "genefilter",
         "limma",
-        "mzR",
         "pRoloc",
         "preprocessCore",
         "vsn"
@@ -1030,7 +984,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -1043,7 +996,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1090,7 +1042,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -1099,7 +1050,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1152,7 +1102,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle",
@@ -1178,7 +1127,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1200,8 +1148,7 @@
         "S4Arrays",
         "SparseArray",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "beadarray": [
         "GenomicRanges",
@@ -1222,7 +1169,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -1272,7 +1218,6 @@
         "mia",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -1285,14 +1230,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BgeeDB": [
@@ -1324,7 +1267,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1340,7 +1282,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -1353,7 +1294,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1375,7 +1315,6 @@
         "RTCGAToolbox",
         "RaggedExperiment",
         "ReactomePA",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1428,14 +1367,12 @@
         "HDF5Array",
         "MultiAssayExperiment",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BioCor": [
@@ -1485,8 +1422,7 @@
     "biodbUniprot": [],
     "biomaRt": [],
     "biomformat": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "BioMVCClass": [
         "MVCClass",
@@ -1501,7 +1437,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1591,7 +1526,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1618,7 +1552,6 @@
         "OrganismDbi",
         "QDNAseq",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1634,7 +1567,6 @@
         "marray",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -1643,7 +1575,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1658,7 +1589,6 @@
         "DEXSeq",
         "DelayedArray",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1710,7 +1640,6 @@
         "limma",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "sva"
     ],
     "bnem": [
@@ -1739,7 +1668,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1761,7 +1689,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1770,7 +1697,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -1792,7 +1718,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1815,7 +1740,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1827,7 +1751,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1839,7 +1762,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1851,7 +1773,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1864,7 +1785,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1879,7 +1799,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1887,7 +1806,6 @@
         "beachmat",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -1900,7 +1818,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1929,7 +1846,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1957,7 +1873,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -1999,7 +1914,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2025,7 +1939,6 @@
         "GenomicRanges",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2049,7 +1962,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2083,7 +1995,6 @@
         "Gviz",
         "InteractionSet",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2112,7 +2023,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -2131,7 +2041,6 @@
         "RBGL",
         "RTCGAToolbox",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2154,7 +2063,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2163,7 +2071,6 @@
         "biomaRt",
         "ggtree",
         "rtracklayer",
-        "snpStats",
         "treeio"
     ],
     "Cardinal": [
@@ -2177,7 +2084,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2233,7 +2139,6 @@
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2267,7 +2172,6 @@
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2357,7 +2261,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -2366,7 +2269,6 @@
     ],
     "cellbaseR": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "CellBench": [
@@ -2478,7 +2380,6 @@
         "SummarizedExperiment",
         "annotate",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "CeTF": [
@@ -2495,7 +2396,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "snpStats",
         "treeio"
     ],
     "CexoR": [
@@ -2504,7 +2404,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2518,7 +2417,6 @@
         "CGHcall",
         "GenomicRanges",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "limma",
         "marray"
@@ -2529,7 +2427,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2589,7 +2486,6 @@
         "GenomicRanges",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2615,14 +2511,12 @@
         "missMethyl",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [
         "DelayedArray",
         "GenomicRanges",
@@ -2637,8 +2531,7 @@
         "HDF5Array",
         "S4Arrays",
         "SparseArray",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "chimeraviz": [
         "AnnotationFilter",
@@ -2651,7 +2544,6 @@
         "GenomicRanges",
         "Gviz",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2668,7 +2560,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2681,7 +2572,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2694,7 +2584,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2709,7 +2598,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2730,7 +2618,6 @@
         "GenomicRanges",
         "InteractionSet",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2750,7 +2637,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "GreyListChIP",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -2771,7 +2657,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2786,7 +2671,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -2797,7 +2681,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -2808,7 +2691,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -2836,7 +2718,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2857,7 +2738,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "ResidualMatrix",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -2880,7 +2760,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2895,7 +2774,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2918,7 +2796,6 @@
         "GenomicRanges",
         "Gviz",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2933,7 +2810,6 @@
         "rtracklayer"
     ],
     "CIMICE": [
-        "Rhtslib",
         "maftools"
     ],
     "CINdex": [
@@ -2949,7 +2825,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -2960,7 +2835,6 @@
         "gwascat",
         "limma",
         "rtracklayer",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -2971,7 +2845,6 @@
         "GenomicRanges",
         "Rbowtie2",
         "Rhisat2",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SGSeq",
@@ -2998,7 +2871,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -3019,7 +2891,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3039,7 +2910,6 @@
         "GenomicRanges",
         "KEGGgraph",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3055,7 +2925,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3078,7 +2947,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -3089,7 +2957,6 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -3111,7 +2978,6 @@
         "limma",
         "mbkmeans",
         "rhdf5",
-        "rhdf5filters",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -3143,8 +3009,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "flowCore",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "cn.farms": [
         "DelayedArray",
@@ -3158,7 +3023,6 @@
     ],
     "cn.mops": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "exomeCopy"
     ],
@@ -3167,7 +3031,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3208,7 +3071,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3223,7 +3085,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "cnvGSA": [
@@ -3238,7 +3099,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3253,7 +3113,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "CNVMetrics": [
@@ -3261,7 +3120,6 @@
     ],
     "CNVPanelizer": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "exomeCopy"
     ],
@@ -3285,7 +3143,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3305,7 +3162,6 @@
         "GenomicRanges",
         "HDF5Array",
         "MIRA",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3314,7 +3170,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -3328,7 +3183,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3343,8 +3197,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "cogeqc": [
         "ggtree",
@@ -3356,7 +3209,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3376,7 +3228,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3396,8 +3247,7 @@
         "biomformat",
         "limma",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "coMET": [
         "AnnotationFilter",
@@ -3408,7 +3258,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3428,7 +3277,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3454,7 +3302,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3523,7 +3370,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -3554,7 +3400,6 @@
         "genefu",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "consensusSeekeR": [
@@ -3562,7 +3407,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3585,7 +3429,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3604,7 +3447,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3618,7 +3460,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -3635,7 +3476,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3650,7 +3490,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "coRdon": [],
@@ -3713,7 +3552,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -3753,7 +3591,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3771,7 +3608,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3795,7 +3631,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3809,7 +3644,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3827,7 +3661,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3856,20 +3689,17 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "CrispRVariants": [
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3887,7 +3717,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3918,7 +3747,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3969,7 +3797,6 @@
     "csaw": [
         "DelayedArray",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -3987,7 +3814,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4005,8 +3831,7 @@
         "AnnotationHub",
         "BiocVersion",
         "limma",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "ctsGE": [
         "limma"
@@ -4029,7 +3854,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4048,8 +3872,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -4062,7 +3885,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4146,8 +3968,7 @@
         "SparseArray",
         "SpatialExperiment",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "cytoMEM": [
         "flowCore"
@@ -4205,14 +4026,12 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "cytomapper",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "dada2": [
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -4227,7 +4046,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4246,7 +4064,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4265,7 +4082,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -4290,7 +4106,6 @@
         "enrichplot",
         "ggtree",
         "limma",
-        "mzR",
         "preprocessCore",
         "tkWidgets",
         "treeio",
@@ -4355,7 +4170,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4397,7 +4211,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4413,7 +4226,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -4423,7 +4235,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4440,7 +4251,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4465,7 +4275,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4520,8 +4329,7 @@
         "ScaledMatrix",
         "SparseArray",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "DELocal": [
         "DESeq2",
@@ -4549,7 +4357,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4561,7 +4368,6 @@
         "genefilter",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
         "sva"
@@ -4575,7 +4381,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -4602,7 +4407,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -4618,7 +4422,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4642,7 +4445,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4669,7 +4471,6 @@
         "GenomicRanges",
         "InteractionSet",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4730,14 +4531,12 @@
         "edgeR",
         "genefilter",
         "limma",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
         "DESeq2",
         "DelayedArray",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4747,9 +4546,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "BSgenome",
         "BiocIO",
@@ -4758,7 +4555,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "GreyListChIP",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -4809,7 +4605,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4819,7 +4614,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "diffUTR": [
@@ -4832,7 +4626,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4915,7 +4708,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4927,7 +4719,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4952,7 +4743,6 @@
         "GenomicRanges",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -4974,7 +4764,6 @@
         "missMethyl",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -4993,7 +4782,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5006,7 +4794,6 @@
         "limma",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -5017,7 +4804,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5036,7 +4822,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5081,7 +4866,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MSA2dist",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5133,7 +4917,6 @@
         "edgeR",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -5144,7 +4927,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5177,7 +4959,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5186,7 +4967,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -5221,7 +5001,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5232,7 +5011,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -5259,7 +5037,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -5315,7 +5092,6 @@
         "limma",
         "pathview",
         "rhdf5",
-        "rhdf5filters",
         "safe",
         "sparseMatrixStats",
         "topGO"
@@ -5341,7 +5117,6 @@
         "GenomicRanges",
         "Gviz",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5364,7 +5139,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5386,7 +5160,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5401,7 +5174,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -5443,7 +5215,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5473,7 +5244,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5488,7 +5258,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5504,7 +5273,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5527,7 +5295,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5545,7 +5312,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5555,7 +5321,6 @@
     "epigenomix": [
         "DelayedArray",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5571,7 +5336,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "GreyListChIP",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5582,7 +5346,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "EpiMix": [
@@ -5594,7 +5357,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5620,7 +5382,6 @@
         "HDF5Array",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5637,7 +5398,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -5664,7 +5424,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Modstrings",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5684,7 +5443,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5705,7 +5463,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5724,7 +5481,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5742,7 +5498,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5769,7 +5524,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5802,7 +5556,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Rbowtie2",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -5837,7 +5590,6 @@
         "annotate",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "escheR": [
@@ -5854,7 +5606,6 @@
     ],
     "eudysbiome": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "evaluomeR": [
@@ -5873,7 +5624,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SGSeq",
@@ -5882,7 +5632,6 @@
         "biomaRt",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "EWCE": [
@@ -5905,7 +5654,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5918,7 +5666,6 @@
     ],
     "exomeCopy": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "exomePeak2": [
@@ -5929,7 +5676,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -5955,7 +5701,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6000,7 +5745,6 @@
         "GenomicRanges",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6021,7 +5765,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6047,7 +5790,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -6064,7 +5806,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6080,7 +5821,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6124,7 +5864,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6140,7 +5879,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -6151,7 +5889,6 @@
     "FGNet": [],
     "FilterFFPE": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "FindIT2": [
@@ -6161,7 +5898,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6196,7 +5932,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -6218,7 +5953,6 @@
         "MultiAssayExperiment",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -6240,7 +5974,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scater",
         "scran",
@@ -6372,14 +6105,12 @@
         "GenomicRanges",
         "HDF5Array",
         "OUTRIDER",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -6401,7 +6132,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6416,7 +6146,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6430,7 +6159,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -6449,7 +6177,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6466,7 +6193,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6489,7 +6215,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MLSeq",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -6522,14 +6247,12 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "gcatest": [],
     "gCrisprTools": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -6573,7 +6296,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6660,7 +6382,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6673,7 +6394,6 @@
         "CGHcall",
         "GenomicRanges",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "limma",
         "marray"
@@ -6687,9 +6407,7 @@
     ],
     "GeneGeneInteR": [
         "GenomicRanges",
-        "Rhtslib",
-        "Rsamtools",
-        "snpStats"
+        "Rsamtools"
     ],
     "GeneMeta": [
         "annotate",
@@ -6726,7 +6444,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6755,7 +6472,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6770,7 +6486,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6788,7 +6503,6 @@
     "GenomicAlignments": [
         "DelayedArray",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6805,7 +6519,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6820,7 +6533,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6843,7 +6555,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6861,7 +6572,6 @@
         "GenomicRanges",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6882,7 +6592,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6903,7 +6612,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RCAS",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6925,8 +6633,7 @@
         "HDF5Array",
         "S4Arrays",
         "SparseArray",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "GenomicSuperSignature": [
         "ComplexHeatmap",
@@ -6950,7 +6657,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -6996,8 +6702,7 @@
     "gep2pep": [
         "GSEABase",
         "annotate",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "gespeR": [
         "Category",
@@ -7040,7 +6745,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7103,7 +6807,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -7137,7 +6840,6 @@
         "SummarizedExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "glmSparseNet": [
@@ -7173,7 +6875,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7200,7 +6901,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7228,7 +6928,6 @@
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7261,7 +6960,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7304,7 +7002,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -7325,7 +7022,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7349,7 +7045,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7368,7 +7063,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7377,8 +7071,7 @@
     ],
     "GSAR": [],
     "GSCA": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "GSEABase": [
         "annotate"
@@ -7417,7 +7110,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7445,7 +7137,6 @@
         "annotate",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "gtrellis": [
@@ -7463,7 +7154,6 @@
         "GenomicRanges",
         "InteractionSet",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7473,7 +7163,6 @@
         "limma",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Guitar": [
@@ -7482,7 +7171,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7498,7 +7186,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7521,15 +7208,13 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "GWASTools": [],
     "gwasurvivr": [
@@ -7540,7 +7225,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SNPRelate",
@@ -7560,10 +7244,8 @@
     ],
     "h5vc": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "hapFabia": [],
     "Harman": [],
@@ -7589,8 +7271,7 @@
         "DelayedArray",
         "S4Arrays",
         "SparseArray",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "heatmaps": [
         "GenomicRanges"
@@ -7603,7 +7284,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7639,7 +7319,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7648,8 +7327,7 @@
     ],
     "HiCBricks": [
         "GenomicRanges",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCcompare": [
         "DelayedArray",
@@ -7658,8 +7336,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCDCPlus": [
         "AnnotationFilter",
@@ -7672,7 +7349,6 @@
         "GenomicRanges",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7694,8 +7370,7 @@
         "edgeR",
         "limma",
         "multiHiCcompare",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCExperiment": [
         "BiocIO",
@@ -7705,8 +7380,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiContacts": [
         "BiocIO",
@@ -7717,8 +7391,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCool": [
         "BiocIO",
@@ -7732,8 +7405,7 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "hicVennDiagram": [
         "BiocIO",
@@ -7741,7 +7413,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7760,7 +7431,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7794,7 +7464,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7808,7 +7477,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7843,7 +7511,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -7904,7 +7571,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -7928,7 +7594,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7944,7 +7609,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -7959,7 +7623,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -7982,7 +7645,6 @@
         "GenomicRanges",
         "RBGL",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8001,7 +7663,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8037,7 +7698,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8054,7 +7714,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "IVAS",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8076,7 +7735,6 @@
         "beachmat",
         "cytomapper",
         "rhdf5",
-        "rhdf5filters",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -8115,7 +7773,6 @@
         "RBGL",
         "ReactomePA",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8133,7 +7790,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -8159,7 +7815,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8179,7 +7834,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8194,7 +7848,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8211,7 +7864,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8255,7 +7907,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8290,14 +7941,12 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "iPAC": [],
     "ipdDb": [
@@ -8323,7 +7972,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -8437,7 +8085,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8483,7 +8130,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8509,7 +8155,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8529,7 +8174,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8563,7 +8207,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8572,7 +8215,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -8614,7 +8256,6 @@
         "glmGamPoi",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "limma": [],
@@ -8637,7 +8278,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8715,7 +8355,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -8735,8 +8374,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "LPE": [],
     "LPEadj": [
@@ -8758,7 +8396,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8773,7 +8410,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -8792,7 +8428,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8844,7 +8479,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8854,9 +8488,7 @@
         "preprocessCore",
         "rtracklayer"
     ],
-    "maftools": [
-        "Rhtslib"
-    ],
+    "maftools": [],
     "MAGAR": [
         "BiocIO",
         "DelayedArray",
@@ -8866,7 +8498,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "RnBeads",
         "Rsamtools",
         "S4Arrays",
@@ -8884,10 +8515,8 @@
         "oligoClasses",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "snpStats",
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
@@ -8911,7 +8540,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8945,7 +8573,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -8953,7 +8580,6 @@
     "makecdfenv": [
         "preprocessCore"
     ],
-    "MANOR": [],
     "maPredictDSC": [
         "gcrma",
         "limma",
@@ -8967,7 +8593,6 @@
         "GenomicRanges",
         "HDF5Array",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -8975,7 +8600,6 @@
         "plotgardener",
         "plyranges",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "marr": [
@@ -8988,9 +8612,7 @@
     "marray": [
         "limma"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationFilter",
         "BSgenome",
@@ -9000,7 +8622,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9061,7 +8682,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9088,7 +8708,6 @@
         "limma",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "sva"
     ],
     "mbkmeans": [
@@ -9137,7 +8756,6 @@
         "Gviz",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9153,7 +8771,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9172,7 +8789,6 @@
         "Gviz",
         "HDF5Array",
         "MultiDataSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9192,7 +8808,6 @@
         "missMethyl",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -9208,7 +8823,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9224,7 +8838,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -9254,7 +8867,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9347,7 +8959,6 @@
         "KEGGgraph",
         "MWASTools",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9368,7 +8979,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9397,7 +9007,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -9435,7 +9044,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -9450,7 +9058,6 @@
         "limma",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
         "vsn"
@@ -9468,7 +9075,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9499,13 +9105,11 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -9519,7 +9123,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9533,7 +9136,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9548,7 +9150,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9565,7 +9166,6 @@
         "plyranges",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9588,7 +9188,6 @@
         "HDF5Array",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9603,7 +9202,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9619,7 +9217,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9638,7 +9235,6 @@
         "missMethyl",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -9649,7 +9245,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9664,7 +9259,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9689,7 +9283,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9715,7 +9308,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9733,7 +9325,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9742,7 +9333,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -9755,7 +9345,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -9769,7 +9358,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9854,8 +9442,7 @@
     "microbiome": [
         "biomformat",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "microbiomeDASim": [
         "Wrench",
@@ -9863,8 +9450,7 @@
         "limma",
         "metagenomeSeq",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "microbiomeExplorer": [
         "DESeq2",
@@ -9877,8 +9463,7 @@
         "biomformat",
         "limma",
         "metagenomeSeq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -9910,7 +9495,6 @@
         "mia",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -10004,7 +9588,6 @@
         "HDF5Array",
         "RBGL",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10021,7 +9604,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -10036,7 +9618,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10049,7 +9630,6 @@
         "limma",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -10060,7 +9640,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10089,7 +9668,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10098,7 +9676,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -10137,7 +9714,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10152,7 +9728,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -10173,7 +9748,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10209,7 +9783,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10254,7 +9827,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -10275,8 +9847,7 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MOGAMUN": [
         "RCy3"
@@ -10295,8 +9866,7 @@
         "SparseArray",
         "SpatialExperiment",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MOMA": [
         "ComplexHeatmap",
@@ -10317,7 +9887,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10342,7 +9911,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10375,7 +9943,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10389,7 +9956,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10410,7 +9976,6 @@
         "GenomicRanges",
         "Gviz",
         "MotifDb",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10430,7 +9995,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10445,7 +10009,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10462,7 +10025,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10557,7 +10119,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -10599,7 +10160,6 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -10609,14 +10169,12 @@
         "edgeR",
         "limma",
         "msmsEDA",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
     "MSnbase": [
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -10630,7 +10188,6 @@
         "limma",
         "msmsEDA",
         "msmsTests",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -10647,9 +10204,7 @@
         "preprocessCore",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "AnnotationFilter",
         "DelayedArray",
@@ -10706,7 +10261,6 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "qcmetrics",
         "vsn"
@@ -10716,7 +10270,6 @@
         "MSstatsQC",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "qcmetrics",
         "vsn"
@@ -10743,8 +10296,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MultiAssayExperiment": [
         "DelayedArray",
@@ -10773,7 +10325,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10787,7 +10338,6 @@
         "plyranges",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "MultiDataSet": [
@@ -10813,8 +10363,7 @@
         "SummarizedExperiment",
         "edgeR",
         "limma",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MultiMed": [],
     "multiMiR": [],
@@ -10876,7 +10425,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10915,7 +10463,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10933,7 +10480,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10959,7 +10505,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10974,7 +10519,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -10983,7 +10527,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
@@ -11004,7 +10547,6 @@
         "InteractionSet",
         "RBGL",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11022,7 +10564,6 @@
         "motifStack",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "trackViewer"
     ],
@@ -11035,7 +10576,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -11045,7 +10585,6 @@
         "bsseq",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -11085,7 +10624,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -11106,7 +10644,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11193,7 +10730,6 @@
         "limma",
         "mbkmeans",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -11215,7 +10751,6 @@
         "RBGL",
         "RCy3",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "STRINGdb",
@@ -11232,7 +10767,6 @@
         "preprocessCore",
         "quantro",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -11283,7 +10817,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11310,7 +10843,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11328,7 +10860,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -11342,7 +10873,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11368,7 +10898,6 @@
         "GenomicRanges",
         "HDF5Array",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -11382,7 +10911,6 @@
         "edgeR",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -11401,7 +10929,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11487,7 +11014,6 @@
         "GenomicRanges",
         "HelloRanges",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11513,7 +11039,6 @@
         "SummarizedExperiment"
     ],
     "OmnipathR": [],
-    "ompBAM": [],
     "oncomix": [
         "DelayedArray",
         "GenomicRanges",
@@ -11581,7 +11106,6 @@
         "annotate",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "oppti": [
@@ -11598,7 +11122,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11613,7 +11136,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11628,7 +11150,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11643,7 +11164,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11671,15 +11191,13 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Oscope": [],
     "OTUbase": [
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -11693,7 +11211,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11709,7 +11226,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Repitools",
-        "Rhtslib",
         "Ringo",
         "Rsamtools",
         "S4Arrays",
@@ -11761,7 +11277,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11786,7 +11301,6 @@
         "DEXSeq",
         "DelayedArray",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11808,7 +11322,6 @@
     ],
     "panelcn.mops": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "cn.mops",
         "exomeCopy"
@@ -11828,7 +11341,6 @@
     "panp": [
         "preprocessCore"
     ],
-    "PANR": [],
     "PanViz": [],
     "pareg": [
         "DOSE",
@@ -11852,7 +11364,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -11875,8 +11386,7 @@
         "edgeR",
         "limma",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "pathRender": [
         "Rgraphviz"
@@ -11955,7 +11465,6 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -11992,7 +11501,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12011,8 +11519,7 @@
         "SummarizedExperiment",
         "edgeR",
         "limma",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "phantasusLite": [
         "DelayedArray",
@@ -12110,8 +11617,7 @@
     ],
     "phyloseq": [
         "biomformat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Pi": [
         "GenomicRanges",
@@ -12127,7 +11633,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12156,7 +11661,6 @@
         "GenomicRanges",
         "Gviz",
         "PICS",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12195,7 +11699,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12227,7 +11730,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12244,7 +11746,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12257,7 +11758,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12279,7 +11779,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12336,7 +11835,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12349,7 +11847,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "RPA",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12357,8 +11854,7 @@
         "biomformat",
         "phyloseq",
         "preprocessCore",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "preciseTAD": [
         "BiocIO",
@@ -12366,7 +11862,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12397,7 +11892,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12409,14 +11903,12 @@
         "biovizBase",
         "ensembldb",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -12427,7 +11919,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12441,7 +11932,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12473,7 +11963,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -12505,7 +11994,6 @@
         "biomaRt",
         "genefilter",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -12522,7 +12010,6 @@
         "biomaRt",
         "genefilter",
         "limma",
-        "mzR",
         "pRoloc",
         "preprocessCore",
         "vsn"
@@ -12554,7 +12041,6 @@
         "enrichplot",
         "ggtree",
         "limma",
-        "mzR",
         "preprocessCore",
         "tkWidgets",
         "treeio",
@@ -12568,7 +12054,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12599,7 +12084,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12634,10 +12118,8 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "vsn"
     ],
     "puma": [
@@ -12657,7 +12139,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12665,7 +12146,6 @@
         "VariantAnnotation",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "pvac": [
@@ -12685,7 +12165,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12704,15 +12183,12 @@
         "STRINGdb",
         "biomaRt"
     ],
-    "qckitfastq": [
-        "seqTools"
-    ],
+    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "limma",
         "marray"
@@ -12747,7 +12223,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12760,7 +12235,6 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -12770,7 +12244,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12830,7 +12303,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12844,7 +12316,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -12862,7 +12333,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -12886,7 +12356,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12903,7 +12372,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -12917,7 +12385,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -12948,7 +12415,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -12974,7 +12440,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SNPRelate",
@@ -12995,7 +12460,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13018,7 +12482,6 @@
         "GenomicRanges",
         "GenomicScores",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13026,7 +12489,6 @@
         "VariantAnnotation",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "RbcBook1": [],
@@ -13034,7 +12496,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -13051,7 +12512,6 @@
     ],
     "Rbowtie2": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "RCAS": [
@@ -13061,7 +12521,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13077,7 +12536,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13093,8 +12551,7 @@
         "edgeR",
         "limma",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Rcpi": [
         "GOSemSim"
@@ -13114,7 +12571,6 @@
     "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
-    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
@@ -13138,8 +12594,7 @@
     "reconsi": [
         "biomformat",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "recount": [
         "BSgenome",
@@ -13150,7 +12605,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13168,7 +12622,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13184,7 +12637,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13201,7 +12653,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -13213,7 +12664,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13232,7 +12682,6 @@
         "GenomicRanges",
         "InteractionSet",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13273,7 +12722,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle",
@@ -13285,7 +12733,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13298,7 +12745,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13317,7 +12763,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13352,7 +12797,6 @@
         "GenomicRanges",
         "Gviz",
         "RCy3",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13375,7 +12819,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13389,7 +12832,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -13400,7 +12842,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Ringo",
         "Rsamtools",
         "S4Arrays",
@@ -13430,7 +12871,6 @@
         "OrganismDbi",
         "RBGL",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13448,13 +12888,11 @@
     ],
     "RepViz": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt"
     ],
     "ReQON": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "seqbias"
     ],
@@ -13471,7 +12909,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MutationalPatterns",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13500,12 +12937,9 @@
     ],
     "rexposome": [],
     "rfaRm": [],
-    "Rfastp": [
-        "Rhtslib"
-    ],
+    "Rfastp": [],
     "rfPred": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "rGADEM": [
@@ -13514,7 +12948,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13530,7 +12963,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13544,7 +12976,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13561,7 +12992,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13576,7 +13006,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13585,22 +13014,18 @@
         "goseq",
         "rtracklayer"
     ],
-    "rhdf5": [
-        "rhdf5filters"
-    ],
+    "rhdf5": [],
     "rhdf5client": [
         "DelayedArray",
         "S4Arrays",
         "SparseArray"
     ],
-    "rhdf5filters": [],
     "Rhisat2": [
         "BiocIO",
         "DelayedArray",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SGSeq",
@@ -13609,7 +13034,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Rhtslib": [],
     "RiboCrypt": [
         "BSgenome",
         "BiocIO",
@@ -13619,7 +13043,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "ORFik",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13634,7 +13057,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13652,7 +13074,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13665,12 +13086,10 @@
         "rtracklayer"
     ],
     "ribor": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "riboSeqR": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "baySeq",
         "edgeR",
@@ -13687,7 +13106,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -13706,7 +13124,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13718,7 +13135,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13751,7 +13167,6 @@
         "SummarizedExperiment",
         "biocViews",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -13764,7 +13179,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "STRINGdb",
@@ -13780,7 +13194,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13799,7 +13212,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13809,11 +13221,9 @@
         "rtracklayer"
     ],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -13825,7 +13235,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13839,7 +13248,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13855,7 +13263,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13875,7 +13282,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13908,7 +13314,6 @@
         "GenomicRanges",
         "Gviz",
         "Modstrings",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13930,7 +13335,6 @@
         "Gviz",
         "Modstrings",
         "RNAmodR",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13952,7 +13356,6 @@
         "Gviz",
         "Modstrings",
         "RNAmodR",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -13974,7 +13377,6 @@
         "Gviz",
         "Modstrings",
         "RNAmodR",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14006,7 +13408,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14030,7 +13431,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14045,7 +13445,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -14059,7 +13458,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14106,8 +13504,7 @@
         "biomformat",
         "phyloseq",
         "preprocessCore",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "rprimer": [],
     "Rqc": [
@@ -14120,7 +13517,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -14149,8 +13545,7 @@
         "GOSemSim"
     ],
     "Rsamtools": [
-        "GenomicRanges",
-        "Rhtslib"
+        "GenomicRanges"
     ],
     "rsbml": [],
     "rScudo": [
@@ -14165,7 +13560,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -14181,7 +13575,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14228,7 +13621,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14242,7 +13634,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "MotifDb",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14264,7 +13655,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -14279,9 +13669,7 @@
         "edgeR",
         "limma"
     ],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "S4Arrays": [],
     "safe": [],
     "sagenhaft": [],
@@ -14309,7 +13697,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14386,7 +13773,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14411,7 +13797,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14494,7 +13879,6 @@
         "edgeR",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -14512,7 +13896,6 @@
         "annotate",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "sccomp": [
@@ -14540,7 +13923,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -14621,7 +14003,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -14638,7 +14019,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scran",
         "scuttle",
@@ -14734,7 +14114,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14746,7 +14125,6 @@
         "limma",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -14766,7 +14144,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -14777,7 +14154,6 @@
         "edgeR",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Sconify": [
@@ -14789,7 +14165,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -14803,15 +14178,13 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "scp": [
         "AnnotationFilter",
@@ -14840,7 +14213,6 @@
         "GenomicRanges",
         "HDF5Array",
         "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -14854,7 +14226,6 @@
         "edgeR",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scuttle",
         "sparseMatrixStats"
@@ -14911,7 +14282,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SingleCellExperiment",
@@ -14931,7 +14301,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -15009,7 +14378,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -15088,7 +14456,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15104,7 +14471,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -15122,7 +14488,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HiLDA",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15150,7 +14515,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15169,8 +14533,7 @@
         "GenomicRanges"
     ],
     "seqbias": [
-        "GenomicRanges",
-        "Rhtslib"
+        "GenomicRanges"
     ],
     "seqCAT": [
         "BSgenome",
@@ -15179,7 +14542,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15188,7 +14550,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "seqCNA": [],
     "SeqGate": [
         "DelayedArray",
         "GenomicRanges",
@@ -15213,7 +14574,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15228,7 +14588,6 @@
         "GenomicRanges",
         "SNPRelate"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "GenomicRanges",
         "SeqArray"
@@ -15267,7 +14626,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15295,7 +14653,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15312,7 +14669,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15326,7 +14682,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -15340,7 +14695,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15354,7 +14708,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -15363,7 +14716,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15372,12 +14724,10 @@
     "SIAMCAT": [
         "biomformat",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SICtools": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "SigCheck": [
@@ -15421,7 +14771,6 @@
         "enrichplot",
         "ggtree",
         "rhdf5",
-        "rhdf5filters",
         "treeio"
     ],
     "signeR": [
@@ -15431,7 +14780,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15453,7 +14801,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -15469,7 +14816,6 @@
         "genefu",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -15480,7 +14826,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15493,9 +14838,7 @@
         "annotate",
         "globaltest"
     ],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "annotate",
@@ -15516,7 +14859,6 @@
         "dir.expiry",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "SIMD": [
@@ -15526,7 +14868,6 @@
     ],
     "SimFFPE": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "similaRpeak": [],
@@ -15544,8 +14885,7 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "cytomapper",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "simplifyEnrichment": [
         "ComplexHeatmap",
@@ -15556,7 +14896,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15610,7 +14949,6 @@
         "HDF5Array",
         "MAST",
         "ResidualMatrix",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ScaledMatrix",
@@ -15636,7 +14974,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scDblFinder",
         "scMerge",
@@ -15659,7 +14996,6 @@
         "GenomicFiles",
         "GenomicRanges",
         "QuasR",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -15707,7 +15043,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15728,7 +15063,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15744,7 +15078,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -15779,7 +15112,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15818,7 +15150,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15828,13 +15159,11 @@
         "rtracklayer"
     ],
     "SNPRelate": [],
-    "snpStats": [],
     "soGGi": [
         "BiocIO",
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -15854,7 +15183,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15877,7 +15205,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -15889,7 +15216,6 @@
         "limma",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -15915,7 +15241,6 @@
         "limma",
         "metapod",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle",
@@ -15946,7 +15271,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16044,7 +15368,6 @@
         "GenomicRanges",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16081,8 +15404,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SPIA": [
         "KEGGgraph",
@@ -16120,7 +15442,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16152,16 +15473,13 @@
         "GenomicAlignments",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
         "genefilter",
-        "ompBAM",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -16179,7 +15497,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16201,7 +15518,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16221,8 +15537,7 @@
         "SparseArray",
         "SpatialExperiment",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SPOTlight": [
         "DelayedArray",
@@ -16252,8 +15567,7 @@
         "limma",
         "phyloseq",
         "preprocessCore",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SQLDataFrame": [],
     "sRACIPE": [
@@ -16278,7 +15592,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16312,7 +15625,6 @@
     ],
     "ssviz": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "stageR": [
@@ -16330,7 +15642,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -16375,7 +15686,6 @@
         "SummarizedExperiment",
         "limma"
     ],
-    "statTarget": [],
     "stepNorm": [
         "limma",
         "marray"
@@ -16395,7 +15705,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16430,7 +15739,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16485,7 +15793,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16502,7 +15809,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16539,7 +15845,6 @@
         "MsCoreUtils",
         "cleaver",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -16552,7 +15857,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16563,7 +15867,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -16589,7 +15892,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16608,8 +15910,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "tanggle": [
         "ggtree",
@@ -16622,7 +15923,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16633,9 +15933,7 @@
     "target": [
         "GenomicRanges"
     ],
-    "TargetDecoy": [
-        "mzR"
-    ],
+    "TargetDecoy": [],
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
@@ -16660,7 +15958,6 @@
         "genefilter",
         "limma",
         "rhdf5",
-        "rhdf5filters",
         "singscore",
         "sparseMatrixStats",
         "sva"
@@ -16693,7 +15990,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16705,7 +16001,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16762,7 +16057,6 @@
     ],
     "TEQC": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "terraTCGAdata": [
@@ -16774,7 +16068,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "RaggedExperiment",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16794,7 +16087,6 @@
         "DirichletMultinomial",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16808,7 +16100,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16825,7 +16116,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "ORFik",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16836,7 +16126,6 @@
     "TFutils": [
         "GSEABase",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "annotate"
     ],
@@ -16921,7 +16210,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16940,7 +16228,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -16966,7 +16253,6 @@
         "annotate",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "TnT": [
@@ -17003,7 +16289,6 @@
         "MSnbase",
         "MsCoreUtils",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -17029,7 +16314,6 @@
     ],
     "tracktables": [
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools"
     ],
     "trackViewer": [
@@ -17043,7 +16327,6 @@
         "Gviz",
         "InteractionSet",
         "Rgraphviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17053,7 +16336,6 @@
         "biovizBase",
         "ensembldb",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "tradeSeq": [
@@ -17087,7 +16369,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -17109,7 +16390,6 @@
         "beachmat",
         "glmGamPoi",
         "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "transite": [
@@ -17133,8 +16413,7 @@
         "RCy3"
     ],
     "TransView": [
-        "GenomicRanges",
-        "Rhtslib"
+        "GenomicRanges"
     ],
     "traseR": [
         "BSgenome",
@@ -17142,7 +16421,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17159,7 +16437,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TreeAndLeaf": [],
     "treeio": [],
     "treekoR": [
         "ComplexHeatmap",
@@ -17206,7 +16483,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17262,7 +16538,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "Modstrings",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17306,7 +16581,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17332,7 +16606,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17349,7 +16622,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17379,7 +16651,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Organism.dplyr",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17398,7 +16669,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Rbowtie2",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -17420,7 +16690,6 @@
         "Gviz",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17444,7 +16713,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17485,7 +16753,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17503,7 +16770,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17520,7 +16786,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17553,7 +16818,6 @@
         "Gviz",
         "HDF5Array",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17563,7 +16827,6 @@
         "biovizBase",
         "ensembldb",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "VariantTools": [
@@ -17573,7 +16836,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17587,7 +16849,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17609,7 +16870,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17688,7 +16948,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17716,7 +16975,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17724,8 +16982,7 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "vulcan": [
         "AnnotationFilter",
@@ -17741,7 +16998,6 @@
         "GreyListChIP",
         "InteractionSet",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "ShortRead",
@@ -17775,7 +17031,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17791,7 +17046,6 @@
         "minfi",
         "preprocessCore",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -17802,7 +17056,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17833,7 +17086,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17869,7 +17121,6 @@
         "Spectra",
         "SummarizedExperiment",
         "limma",
-        "mzR",
         "preprocessCore",
         "vsn"
     ],
@@ -17914,7 +17165,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17927,8 +17177,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "limma",
-        "mzR"
+        "limma"
     ],
     "YAPSA": [
         "AnnotationFilter",
@@ -17941,7 +17190,6 @@
         "GenomicRanges",
         "OrganismDbi",
         "RBGL",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SomaticSignatures",
@@ -17964,7 +17212,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
@@ -17980,7 +17227,6 @@
         "preprocessCore",
         "quantro",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -18041,7 +17287,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rhtslib",
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
