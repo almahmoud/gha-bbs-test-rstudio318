@@ -170,7 +170,7 @@ jobs:
           echo os=$(cat bioc_build/os) >> $GITHUB_OUTPUT
           echo r=$(cat bioc_build/r) >> $GITHUB_OUTPUT
           echo bioc=$(cat bioc_build/bioc) >> $GITHUB_OUTPUT
-          echo library=$(echo "tmp/built") >> $GITHUB_OUTPUT
+          echo library=$(echo "/tmp/built") >> $GITHUB_OUTPUT
           echo platform=$(cat platform) >> $GITHUB_OUTPUT
           echo sanitizedplatform=$(cat platform | sed "s/[^[:alnum:]]/-/g") >> $GITHUB_OUTPUT
           echo arch=$(cat arch) >> $GITHUB_OUTPUT
