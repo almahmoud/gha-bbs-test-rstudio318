@@ -293,7 +293,6 @@
     "beadarray": [
         "illuminaio"
     ],
-    "BEAT": [],
     "beer": [
         "PhIPData"
     ],
@@ -335,7 +334,6 @@
     ],
     "BioCartaImage": [],
     "BiocCheck": [],
-    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -640,17 +638,13 @@
         "InteractionSet"
     ],
     "ChIPQC": [
-        "DiffBind",
-        "chipseq",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot",
         "ggtree",
         "treeio"
     ],
-    "chipseq": [],
-    "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
         "frma",
@@ -774,7 +768,6 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -932,7 +925,6 @@
     ],
     "DAMEfinder": [],
     "DaMiRseq": [
-        "EDASeq",
         "sva"
     ],
     "DAPAR": [
@@ -1031,9 +1023,7 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcoexp": [
         "preprocessCore"
     ],
@@ -1122,7 +1112,6 @@
     ],
     "easylift": [],
     "easyRNASeq": [],
-    "EDASeq": [],
     "edge": [
         "snm",
         "sva"
@@ -1354,7 +1343,6 @@
     "GAprediction": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "sva"
     ],
@@ -1582,9 +1570,7 @@
     "HTqPCR": [
         "preprocessCore"
     ],
-    "HTSeqGenie": [
-        "chipseq"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [
@@ -1928,7 +1914,6 @@
     "metapod": [],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq",
         "preprocessCore",
         "vsn"
@@ -1987,7 +1972,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -2393,7 +2377,6 @@
     ],
     "npGSEA": [],
     "NTW": [],
-    "nucleR": [],
     "nuCpos": [],
     "nullranges": [
         "InteractionSet",
@@ -2401,7 +2384,6 @@
     ],
     "octad": [
         "BiocVersion",
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -2636,7 +2618,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "ggtree",
         "preprocessCore",
@@ -2821,7 +2802,6 @@
         "scater",
         "scran"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "BiocStyle",
         "DEFormats",
@@ -2876,7 +2856,6 @@
         "baySeq"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -2898,7 +2877,6 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [
         "BiocVersion"
@@ -2977,7 +2955,6 @@
     ],
     "RRHO": [],
     "rsemmed": [],
-    "RSVSim": [],
     "RTCGAToolbox": [],
     "RTN": [
         "minet"
@@ -2994,9 +2971,7 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "Rvisdiff": [],
     "sagenhaft": [],
     "sampleClassifier": [
@@ -3081,7 +3056,6 @@
     ],
     "SCnorm": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -3281,7 +3255,6 @@
     ],
     "snm": [],
     "soGGi": [
-        "chipseq",
         "preprocessCore"
     ],
     "SomaticSignatures": [
@@ -3358,7 +3331,6 @@
     ],
     "sSNAPPY": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -3386,7 +3358,6 @@
         "vsn"
     ],
     "syntenet": [],
-    "systemPipeR": [],
     "systemPipeTools": [
         "ggtree",
         "treeio"
@@ -3476,9 +3447,7 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -3593,8 +3562,7 @@
         "DiffBind",
         "InteractionSet",
         "csaw",
-        "metapod",
-        "systemPipeR"
+        "metapod"
     ],
     "wateRmelon": [
         "illuminaio",
