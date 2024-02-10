@@ -179,9 +179,7 @@
         "HDF5Array"
     ],
     "AMOUNTAIN": [],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [],
     "ANCOMBC": [
         "BiocSingular",
@@ -325,9 +323,7 @@
         "vsn"
     ],
     "banocc": [],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "BASiCS": [
         "BiocSingular",
         "edgeR",
@@ -382,9 +378,7 @@
         "illuminaio"
     ],
     "BEARscc": [],
-    "BEAT": [
-        "ShortRead"
-    ],
+    "BEAT": [],
     "beer": [
         "PhIPData",
         "edgeR"
@@ -441,9 +435,7 @@
     ],
     "BioCartaImage": [],
     "BiocCheck": [],
-    "biocGraph": [
-        "geneplotter"
-    ],
+    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -522,8 +514,7 @@
     ],
     "BiSeq": [],
     "blacksheepr": [
-        "DEXSeq",
-        "geneplotter"
+        "DEXSeq"
     ],
     "blima": [
         "beadarray",
@@ -576,7 +567,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "breakpointR": [],
     "BRGenomics": [],
     "bsseq": [
         "HDF5Array"
@@ -711,9 +701,7 @@
         "scran",
         "scuttle"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
@@ -834,7 +822,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "ShortRead",
         "apeglm",
         "chipseq",
         "systemPipeR"
@@ -844,15 +831,9 @@
         "ggtree",
         "treeio"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
-    "ChIPseqR": [
-        "ShortRead"
-    ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "chipseq": [],
+    "ChIPseqR": [],
+    "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
         "frma",
@@ -885,8 +866,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "ShortRead"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "BiocSingular",
@@ -960,7 +940,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
@@ -979,7 +958,6 @@
         "ggtree",
         "treeio"
     ],
-    "cola": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -1028,7 +1006,6 @@
     "consensusDE": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "edgeR"
     ],
     "consensusOV": [
@@ -1037,7 +1014,6 @@
         "HDF5Array",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -1229,9 +1205,7 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1241,7 +1215,6 @@
     ],
     "DaMiRseq": [
         "EDASeq",
-        "ShortRead",
         "edgeR",
         "sva"
     ],
@@ -1380,11 +1353,8 @@
         "edgeR",
         "sva"
     ],
-    "DEXSeq": [
-        "geneplotter"
-    ],
+    "DEXSeq": [],
     "DiffBind": [
-        "ShortRead",
         "apeglm",
         "systemPipeR"
     ],
@@ -1409,8 +1379,7 @@
     ],
     "diffUTR": [
         "DEXSeq",
-        "edgeR",
-        "geneplotter"
+        "edgeR"
     ],
     "Dino": [
         "BiocSingular",
@@ -1431,7 +1400,6 @@
     ],
     "dittoSeq": [],
     "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "BiocVersion",
         "GEOquery",
@@ -1511,13 +1479,10 @@
     ],
     "easylift": [],
     "easyRNASeq": [
-        "ShortRead",
         "edgeR"
     ],
     "EBSEA": [],
-    "EDASeq": [
-        "ShortRead"
-    ],
+    "EDASeq": [],
     "edge": [
         "edgeR",
         "snm",
@@ -1559,7 +1524,6 @@
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "geneplotter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -1655,7 +1619,6 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "ShortRead",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1722,9 +1685,7 @@
     "fastLiquidAssociation": [
         "preprocessCore"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fastseg": [],
     "fCCAC": [
         "genomation"
@@ -1842,7 +1803,6 @@
         "DaMiRseq",
         "EDASeq",
         "MLSeq",
-        "ShortRead",
         "edgeR",
         "sva"
     ],
@@ -1904,7 +1864,6 @@
     "GeneMeta": [],
     "GeneOverlap": [],
     "geneplast": [],
-    "geneplotter": [],
     "GeneSelectMMD": [],
     "GENESIS": [
         "SeqVarTools"
@@ -1923,7 +1882,6 @@
     "GENIE3": [],
     "genoCN": [],
     "genomation": [],
-    "GenomAutomorphism": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
@@ -2008,9 +1966,7 @@
         "ggtree",
         "treeio"
     ],
-    "girafe": [
-        "ShortRead"
-    ],
+    "girafe": [],
     "GISPA": [],
     "Glimma": [
         "edgeR"
@@ -2045,16 +2001,13 @@
         "Category"
     ],
     "GOsummaries": [],
-    "GOTHiC": [
-        "ShortRead"
-    ],
+    "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
         "BiocVersion"
     ],
     "graper": [],
     "GRENITS": [],
-    "GRmetrics": [],
     "GSAR": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
@@ -2164,7 +2117,6 @@
         "preprocessCore"
     ],
     "HTSeqGenie": [
-        "ShortRead",
         "VariantTools",
         "chipseq",
         "gmapR"
@@ -2179,7 +2131,6 @@
     "hyperdraw": [],
     "Icens": [],
     "icetea": [
-        "ShortRead",
         "csaw",
         "edgeR",
         "metapod"
@@ -2265,15 +2216,12 @@
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
-        "edgeR",
-        "geneplotter"
+        "edgeR"
     ],
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "IONiseR": [
-        "ShortRead"
-    ],
+    "IONiseR": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -2319,7 +2267,6 @@
         "BiocVersion",
         "DEXSeq",
         "edgeR",
-        "geneplotter",
         "pfamAnalyzeR",
         "satuRn",
         "sva",
@@ -2632,7 +2579,6 @@
         "DSS",
         "EDASeq",
         "HDF5Array",
-        "ShortRead",
         "bsseq",
         "edgeR",
         "preprocessCore",
@@ -2714,9 +2660,7 @@
         "biovizBase",
         "marray"
     ],
-    "MethylSeekR": [
-        "geneplotter"
-    ],
+    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
@@ -2980,7 +2924,6 @@
     ],
     "MsFeatures": [],
     "msgbsR": [
-        "ShortRead",
         "biovizBase",
         "easyRNASeq",
         "edgeR",
@@ -3253,9 +3196,7 @@
     "normr": [],
     "npGSEA": [],
     "NTW": [],
-    "nucleR": [
-        "ShortRead"
-    ],
+    "nucleR": [],
     "nuCpos": [],
     "nullranges": [
         "InteractionSet",
@@ -3268,7 +3209,6 @@
         "GSVA",
         "HDF5Array",
         "RUVSeq",
-        "ShortRead",
         "edgeR"
     ],
     "OGRE": [
@@ -3335,9 +3275,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
@@ -3362,7 +3300,6 @@
     "pairedGSEA": [
         "DEXSeq",
         "edgeR",
-        "geneplotter",
         "sva"
     ],
     "panelcn.mops": [
@@ -3571,7 +3508,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "ShortRead",
         "chipseq",
         "enrichplot",
         "ggtree",
@@ -3695,8 +3631,7 @@
     ],
     "QuartPAC": [],
     "QuasR": [
-        "GenomicFiles",
-        "ShortRead"
+        "GenomicFiles"
     ],
     "QuaternaryProd": [],
     "qusage": [],
@@ -3704,9 +3639,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "R453Plus1Toolbox": [
-        "ShortRead"
-    ],
+    "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx",
         "marray",
@@ -3727,7 +3660,6 @@
         "HDF5Array"
     ],
     "Rbec": [
-        "ShortRead",
         "dada2"
     ],
     "RBM": [
@@ -3888,7 +3820,6 @@
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "TFBSTools",
         "edgeR",
         "motifStack"
@@ -3912,9 +3843,7 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [
         "BiocVersion",
@@ -3942,7 +3871,6 @@
     "RNAinteract": [
         "Category",
         "cellHTS2",
-        "geneplotter",
         "preprocessCore",
         "splots",
         "vsn"
@@ -4011,7 +3939,6 @@
     "Rqc": [
         "BiocStyle",
         "GenomicFiles",
-        "ShortRead",
         "biovizBase"
     ],
     "rqt": [
@@ -4020,9 +3947,7 @@
     ],
     "RRHO": [],
     "rsemmed": [],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
@@ -4044,7 +3969,6 @@
     ],
     "RUVSeq": [
         "EDASeq",
-        "ShortRead",
         "edgeR"
     ],
     "Rvisdiff": [
@@ -4070,7 +3994,6 @@
     ],
     "SBMLR": [],
     "SC3": [],
-    "Scale4C": [],
     "SCAN.UPC": [
         "GEOquery",
         "edgeR",
@@ -4085,7 +4008,6 @@
     "scAnnotatR": [
         "BiocVersion"
     ],
-    "SCANVIS": [],
     "SCArray": [
         "BiocSingular"
     ],
@@ -4182,7 +4104,6 @@
     "scone": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "edgeR"
     ],
     "Sconify": [],
@@ -4217,7 +4138,6 @@
         "slingshot"
     ],
     "scruff": [
-        "ShortRead",
         "biovizBase",
         "ggbio"
     ],
@@ -4267,7 +4187,6 @@
         "treeio"
     ],
     "segmentSeq": [
-        "ShortRead",
         "baySeq",
         "edgeR"
     ],
@@ -4323,7 +4242,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "ShortRead": [],
     "SIAMCAT": [
         "biomformat",
         "phyloseq"
@@ -4416,8 +4334,7 @@
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
-        "QuasR",
-        "ShortRead"
+        "QuasR"
     ],
     "SingleR": [
         "BiocSingular"
@@ -4462,7 +4379,6 @@
     "snm": [],
     "SNPhood": [],
     "soGGi": [
-        "ShortRead",
         "chipseq",
         "preprocessCore"
     ],
@@ -4586,7 +4502,6 @@
     "standR": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "SpatialExperiment",
         "edgeR"
     ],
@@ -4611,7 +4526,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "Streamer": [],
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
@@ -4636,9 +4550,7 @@
         "vsn"
     ],
     "syntenet": [],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeTools": [
         "ggtree",
         "treeio"
@@ -4675,10 +4587,8 @@
     "TCseq": [
         "edgeR"
     ],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "STRINGdb",
-        "TDbasedUFE",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -4697,7 +4607,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -4766,7 +4675,6 @@
     "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
-        "ShortRead",
         "chipseq"
     ],
     "transformGamPoi": [
@@ -4843,7 +4751,6 @@
         "plyranges"
     ],
     "UMI4Cats": [
-        "ShortRead",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -4925,7 +4832,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "InteractionSet",
-        "ShortRead",
         "apeglm",
         "csaw",
         "edgeR",
