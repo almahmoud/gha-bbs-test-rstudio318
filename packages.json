@@ -1392,7 +1392,6 @@
         "ggtree",
         "treeio"
     ],
-    "ggspavis": [],
     "ggtree": [
         "treeio"
     ],
@@ -1571,7 +1570,6 @@
     ],
     "interacCircos": [],
     "InteractionSet": [],
-    "interactiveDisplay": [],
     "IntEREst": [
         "DEXSeq"
     ],
@@ -2044,7 +2042,6 @@
         "ggtree",
         "treeio"
     ],
-    "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
         "MotifDb",
@@ -2407,7 +2404,6 @@
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
