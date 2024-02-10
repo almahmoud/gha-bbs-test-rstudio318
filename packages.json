@@ -1455,7 +1455,6 @@
         "zlibbioc"
     ],
     "ASAFE": [],
-    "ASEB": [],
     "ASICS": [
         "Biobase",
         "BiocBaseUtils",
@@ -2878,7 +2877,6 @@
         "zlibbioc"
     ],
     "BiocStyle": [],
-    "biocthis": [],
     "BiocVersion": [],
     "biocViews": [
         "Biobase",
@@ -5666,7 +5664,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "Biobase",
         "BiocGenerics",
@@ -6418,7 +6415,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "coGPS": [],
     "COHCAP": [],
     "cola": [
         "BiocGenerics",
@@ -9116,8 +9112,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "DiffLogo": [],
-    "diffuStats": [],
     "diffUTR": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -10093,7 +10087,6 @@
         "BiocParallel",
         "preprocessCore"
     ],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
@@ -11996,7 +11989,6 @@
         "zlibbioc"
     ],
     "frenchFISH": [],
-    "FRGEpistasis": [],
     "frma": [
         "Biobase",
         "BiocGenerics",
@@ -14004,7 +13996,6 @@
     "graph": [
         "BiocGenerics"
     ],
-    "GraphAlignment": [],
     "GraphAT": [
         "BiocGenerics",
         "graph"
@@ -15063,9 +15054,7 @@
         "limma",
         "zlibbioc"
     ],
-    "HubPub": [
-        "biocthis"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "Biobase",
         "BiocGenerics",
@@ -22386,7 +22375,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "OSAT": [],
     "Oscope": [
         "BiocParallel",
         "EBSeq"
@@ -23538,7 +23526,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "plotGrouper": [],
     "PLPE": [
         "Biobase",
         "BiocGenerics",
@@ -24486,7 +24473,6 @@
         "biomaRt",
         "graph",
         "interactiveDisplayBase",
-        "rBiopaxParser",
         "zlibbioc"
     ],
     "qckitfastq": [
@@ -25160,7 +25146,6 @@
         "BiocGenerics",
         "graph"
     ],
-    "rBiopaxParser": [],
     "RBM": [
         "limma",
         "marray"
@@ -25268,7 +25253,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "Rcollectl": [],
     "Rcpi": [
         "AnnotationDbi",
         "Biobase",
@@ -25963,7 +25947,6 @@
         "rhdf5client",
         "zlibbioc"
     ],
-    "retrofit": [],
     "ReUseData": [
         "BiocGenerics",
         "BiocParallel",
@@ -29038,7 +29021,6 @@
         "annotate",
         "zlibbioc"
     ],
-    "seq.hotSPOT": [],
     "seq2pathway": [
         "AnnotationDbi",
         "Biobase",
