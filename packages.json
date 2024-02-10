@@ -8,7 +8,6 @@
         "genefilter",
         "limma"
     ],
-    "ABarray": [],
     "abseqR": [
         "BiocStyle"
     ],
@@ -40,7 +39,6 @@
     "ADImpute": [
         "SingleCellExperiment"
     ],
-    "adSplit": [],
     "adverSCarial": [],
     "AffiXcan": [
         "MultiAssayExperiment"
@@ -2821,7 +2819,6 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "fobitools": [],
     "FRASER": [
         "DESeq2",
@@ -2997,7 +2994,6 @@
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -3381,7 +3377,6 @@
     ],
     "HIREewas": [],
     "HiTC": [],
-    "hmdbQuery": [],
     "hoodscanR": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -4435,7 +4430,6 @@
         "genefilter",
         "limma"
     ],
-    "miRNAtap": [],
     "missMethyl": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -4783,7 +4777,6 @@
         "rhdf5"
     ],
     "MultiMed": [],
-    "multiMiR": [],
     "MultimodalExperiment": [
         "MultiAssayExperiment"
     ],
@@ -5156,7 +5149,6 @@
         "dir.expiry",
         "rhdf5"
     ],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -5627,7 +5619,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "BiocVersion",
         "STRINGdb"
@@ -6161,7 +6152,6 @@
         "preprocessCore",
         "rhdf5"
     ],
-    "rprimer": [],
     "Rqc": [
         "AnnotationFilter",
         "BiocStyle",
@@ -6208,7 +6198,6 @@
     "RTopper": [
         "limma"
     ],
-    "Rtreemix": [],
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
@@ -6244,7 +6233,6 @@
         "RaggedExperiment",
         "plyranges"
     ],
-    "sarks": [],
     "satuRn": [
         "limma"
     ],
@@ -6371,7 +6359,6 @@
         "scuttle"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [
@@ -7051,9 +7038,7 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spiky": [],
     "splatter": [
         "DelayedMatrixStats",
@@ -7146,8 +7131,7 @@
         "vsn"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap"
+        "SpidermiR"
     ],
     "STATegRa": [
         "edgeR",
