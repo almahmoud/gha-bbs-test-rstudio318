@@ -138,7 +138,6 @@
     ],
     "airpart": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -264,14 +263,12 @@
     ],
     "AlpsNMR": [],
     "altcdfenvs": [
-        "hypergraph",
         "makecdfenv",
         "preprocessCore"
     ],
     "AMARETTO": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
@@ -432,7 +429,6 @@
         "sva"
     ],
     "ASURAT": [
-        "ComplexHeatmap",
         "SingleCellExperiment"
     ],
     "ATACCoGAPS": [
@@ -629,7 +625,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "BCRANK": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -697,8 +692,7 @@
     ],
     "BiFET": [],
     "BiGGR": [
-        "hyperdraw",
-        "hypergraph"
+        "hyperdraw"
     ],
     "bigmelon": [
         "DelayedMatrixStats",
@@ -718,14 +712,12 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [
-        "ComplexHeatmap",
         "GenomicFeatures",
         "biomaRt"
     ],
     "bioassayR": [],
     "bioCancer": [
         "DOSE",
-        "GOSemSim",
         "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
@@ -763,7 +755,6 @@
     "BiocOncoTK": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "ExperimentHub",
         "GenomicFeatures",
         "HDF5Array",
@@ -794,9 +785,7 @@
         "BiocStyle"
     ],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
-    "biodbMirbase": [],
     "biodbNcbi": [],
     "biomaRt": [],
     "biomformat": [
@@ -818,7 +807,6 @@
         "preprocessCore"
     ],
     "BioNERO": [
-        "ComplexHeatmap",
         "GENIE3",
         "edgeR",
         "genefilter",
@@ -892,7 +880,6 @@
         "globaltest"
     ],
     "blacksheepr": [
-        "ComplexHeatmap",
         "DESeq2",
         "DEXSeq",
         "biomaRt",
@@ -913,7 +900,6 @@
     "BloodGen3Module": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "ExperimentHub",
         "limma",
         "preprocessCore"
@@ -1059,7 +1045,6 @@
     "cageminer": [
         "AnnotationFilter",
         "BioNERO",
-        "ComplexHeatmap",
         "GENIE3",
         "GenomicFeatures",
         "OrganismDbi",
@@ -1142,7 +1127,6 @@
     ],
     "CATALYST": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -1193,7 +1177,6 @@
         "BiocVersion",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1211,9 +1194,7 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "CCPlotR": [
-        "ComplexHeatmap"
-    ],
+    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
@@ -1227,7 +1208,6 @@
     ],
     "celda": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -1286,7 +1266,6 @@
     ],
     "CEMiTool": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1294,7 +1273,6 @@
         "treeio"
     ],
     "censcyt": [
-        "ComplexHeatmap",
         "FlowSOM",
         "diffcyt",
         "edgeR",
@@ -1309,10 +1287,8 @@
         "rhdf5"
     ],
     "CeTF": [
-        "ComplexHeatmap",
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1453,7 +1429,6 @@
     ],
     "ChIPseeker": [
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "biomaRt",
         "enrichplot",
@@ -1613,7 +1588,6 @@
     "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -1703,7 +1677,6 @@
     ],
     "CoCiteStats": [],
     "COCOA": [
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "HDF5Array",
         "MIRA",
@@ -1729,9 +1702,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "cola": [
-        "ComplexHeatmap"
-    ],
+    "cola": [],
     "comapr": [
         "AnnotationFilter",
         "GenomicFeatures",
@@ -1785,7 +1756,6 @@
         "methylPipe",
         "topGO"
     ],
-    "ComplexHeatmap": [],
     "CompoundDb": [
         "AnnotationFilter",
         "MetaboCoreUtils",
@@ -1884,7 +1854,6 @@
         "regioneR",
         "rhdf5"
     ],
-    "coRdon": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "limma",
@@ -1933,7 +1902,6 @@
     "COSNet": [],
     "COTAN": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "PCAtools",
         "ScaledMatrix",
@@ -2064,7 +2032,6 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
         "BiocVersion",
@@ -2120,7 +2087,6 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "ComplexHeatmap",
         "FlowSOM",
         "diffcyt",
         "edgeR",
@@ -2131,7 +2097,6 @@
         "BiocSingular",
         "BiocStyle",
         "CATALYST",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -2141,9 +2106,7 @@
         "scater",
         "scuttle"
     ],
-    "cytoKernel": [
-        "ComplexHeatmap"
-    ],
+    "cytoKernel": [],
     "cytomapper": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -2163,7 +2126,6 @@
         "openCyto"
     ],
     "CytoPipeline": [
-        "ComplexHeatmap",
         "PeacoQC",
         "flowAI",
         "flowCore",
@@ -2172,7 +2134,6 @@
         "ncdfFlow"
     ],
     "CytoPipelineGUI": [
-        "ComplexHeatmap",
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
@@ -2220,7 +2181,6 @@
     "DAPAR": [
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
@@ -2254,7 +2214,6 @@
     "debrowser": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "Harman",
         "KEGGgraph",
         "apeglm",
@@ -2275,7 +2234,6 @@
     ],
     "decontX": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -2328,7 +2286,6 @@
         "NCIgraph"
     ],
     "DEGreport": [
-        "ComplexHeatmap",
         "DESeq2",
         "edgeR",
         "limma"
@@ -2380,7 +2337,6 @@
         "dir.expiry"
     ],
     "DEP": [
-        "ComplexHeatmap",
         "MSnbase",
         "limma",
         "preprocessCore",
@@ -2465,7 +2421,6 @@
         "preprocessCore"
     ],
     "diffcyt": [
-        "ComplexHeatmap",
         "FlowSOM",
         "edgeR",
         "flowCore",
@@ -2489,7 +2444,6 @@
     ],
     "diffUTR": [
         "AnnotationFilter",
-        "ComplexHeatmap",
         "DESeq2",
         "DEXSeq",
         "GenomicFeatures",
@@ -2602,9 +2556,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "DOSE": [
-        "GOSemSim"
-    ],
+    "DOSE": [],
     "doseR": [
         "edgeR",
         "limma"
@@ -2741,7 +2693,6 @@
     ],
     "ELMER": [
         "AnnotationFilter",
-        "ComplexHeatmap",
         "GenomicFeatures",
         "Gviz",
         "MultiAssayExperiment",
@@ -2778,9 +2729,7 @@
         "preprocessCore",
         "rhdf5"
     ],
-    "EnrichedHeatmap": [
-        "ComplexHeatmap"
-    ],
+    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -2792,7 +2741,6 @@
     ],
     "enrichplot": [
         "DOSE",
-        "GOSemSim",
         "ggtree",
         "treeio"
     ],
@@ -2800,7 +2748,6 @@
         "CNEr",
         "DOSE",
         "DirichletMultinomial",
-        "GOSemSim",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -2811,7 +2758,6 @@
     ],
     "enrichViewNet": [
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -2838,7 +2784,6 @@
         "ChIPseeker",
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "biomaRt",
         "enrichplot",
@@ -2965,7 +2910,6 @@
         "ChIPseeker",
         "DOSE",
         "DirichletMultinomial",
-        "GOSemSim",
         "GenomicFeatures",
         "Rbowtie2",
         "ShortRead",
@@ -3057,7 +3001,6 @@
     ],
     "extraChIPs": [
         "AnnotationFilter",
-        "ComplexHeatmap",
         "EnrichedHeatmap",
         "GenomicFeatures",
         "GenomicInteractions",
@@ -3080,7 +3023,6 @@
     ],
     "famat": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3094,7 +3036,6 @@
     ],
     "fastseg": [],
     "fCCAC": [
-        "ComplexHeatmap",
         "genomation",
         "seqPattern"
     ],
@@ -3160,7 +3101,6 @@
     "FLAMES": [
         "AnnotationFilter",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomicFeatures",
@@ -3353,7 +3293,6 @@
     ],
     "gcapc": [],
     "gCrisprTools": [
-        "ComplexHeatmap",
         "limma"
     ],
     "gcrma": [
@@ -3362,7 +3301,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "GenomicDataCommons",
         "KEGGgraph",
         "biomaRt",
@@ -3442,13 +3380,11 @@
     "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [],
-    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GeneSelectMMD": [
         "limma"
     ],
     "GENESIS": [
-        "GWASTools",
         "SeqArray",
         "SeqVarTools"
     ],
@@ -3465,7 +3401,6 @@
         "minet"
     ],
     "GeneTonic": [
-        "ComplexHeatmap",
         "DESeq2"
     ],
     "geneXtendeR": [
@@ -3515,7 +3450,6 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "ComplexHeatmap",
         "GenomicFeatures",
         "RCAS",
         "biomaRt",
@@ -3531,9 +3465,7 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "GenomicSuperSignature": [
-        "ComplexHeatmap"
-    ],
+    "GenomicSuperSignature": [],
     "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS",
@@ -3677,7 +3609,6 @@
         "preprocessCore"
     ],
     "gmoviz": [
-        "ComplexHeatmap",
         "GenomicFeatures",
         "biomaRt"
     ],
@@ -3701,7 +3632,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "GOSemSim": [],
     "goseq": [
         "GenomicFeatures",
         "biomaRt"
@@ -3711,7 +3641,6 @@
     ],
     "goSorensen": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3736,7 +3665,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "DESeq2",
         "GenomicFeatures",
         "biomaRt",
@@ -3829,9 +3757,7 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt"
@@ -3851,7 +3777,6 @@
     ],
     "Harshlight": [
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv",
         "preprocessCore"
     ],
@@ -3866,7 +3791,6 @@
         "biomaRt"
     ],
     "hermes": [
-        "ComplexHeatmap",
         "DESeq2",
         "MultiAssayExperiment",
         "biomaRt",
@@ -3947,7 +3871,6 @@
     "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
@@ -3980,10 +3903,7 @@
     "hypeR": [
         "BiocStyle"
     ],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "iasva": [],
     "Icens": [],
     "icetea": [
@@ -4082,7 +4002,6 @@
         "DOSE",
         "DelayedMatrixStats",
         "GEOquery",
-        "GOSemSim",
         "GenomicFeatures",
         "HDF5Array",
         "OrganismDbi",
@@ -4140,16 +4059,13 @@
     ],
     "interacCircos": [],
     "InteractionSet": [],
-    "InteractiveComplexHeatmap": [
-        "ComplexHeatmap"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
         "genefilter"
     ],
     "InterCellar": [
-        "ComplexHeatmap",
         "biomaRt"
     ],
     "IntEREst": [
@@ -4193,11 +4109,9 @@
         "xcms"
     ],
     "iSEE": [
-        "ComplexHeatmap",
         "SingleCellExperiment"
     ],
     "iSEEde": [
-        "ComplexHeatmap",
         "DESeq2",
         "SingleCellExperiment",
         "edgeR",
@@ -4205,30 +4119,25 @@
         "limma"
     ],
     "iSEEhex": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEhub": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "ExperimentHub",
         "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEindex": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEpathways": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEu": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "iSEE",
         "iSEEhex"
@@ -4261,7 +4170,6 @@
         "tximeta"
     ],
     "isomiRs": [
-        "ComplexHeatmap",
         "DEGreport",
         "DESeq2",
         "edgeR",
@@ -4300,7 +4208,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -4337,7 +4244,6 @@
         "limma"
     ],
     "LineagePulse": [
-        "ComplexHeatmap",
         "SingleCellExperiment"
     ],
     "lineagespot": [
@@ -4485,7 +4391,6 @@
         "BiocVersion",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -4564,7 +4469,6 @@
     "MatrixQCvis": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "ExperimentHub",
         "limma",
         "preprocessCore",
@@ -4594,7 +4498,6 @@
         "beachmat"
     ],
     "mBPCR": [
-        "GWASTools",
         "oligoClasses"
     ],
     "MBQN": [
@@ -4692,7 +4595,6 @@
         "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -4703,9 +4605,7 @@
         "GSEABase",
         "genefilter"
     ],
-    "MesKit": [
-        "ComplexHeatmap"
-    ],
+    "MesKit": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
@@ -4722,12 +4622,10 @@
         "MultiAssayExperiment",
         "struct"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationFilter",
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "ExperimentHub",
         "GenomicFeatures",
         "KEGGgraph",
@@ -4767,7 +4665,6 @@
     ],
     "MetaPhOR": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -4875,7 +4772,6 @@
         "DOSE",
         "DelayedMatrixStats",
         "GEOquery",
-        "GOSemSim",
         "GenomicFeatures",
         "HDF5Array",
         "biomaRt",
@@ -5020,7 +4916,6 @@
         "ALDEx2",
         "ANCOMBC",
         "BiocSingular",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -5045,7 +4940,6 @@
     ],
     "MicrobiomeProfiler": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -5151,7 +5045,6 @@
         "genefilter",
         "limma"
     ],
-    "miRNAmeConverter": [],
     "miRNAtap": [],
     "missMethyl": [
         "DelayedMatrixStats",
@@ -5242,13 +5135,11 @@
         "rhdf5"
     ],
     "MOMA": [
-        "ComplexHeatmap",
         "MultiAssayExperiment",
         "limma"
     ],
     "monaLisa": [
         "CNEr",
-        "ComplexHeatmap",
         "DirichletMultinomial",
         "TFBSTools"
     ],
@@ -5259,10 +5150,8 @@
     "Moonlight2R": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "DOSE",
         "GEOquery",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -5272,7 +5161,6 @@
     "MoonlightR": [
         "DOSE",
         "GEOquery",
-        "GOSemSim",
         "TCGAbiolinks",
         "biomaRt",
         "clusterProfiler",
@@ -5539,7 +5427,6 @@
         "MultiAssayExperiment"
     ],
     "MultiRNAflow": [
-        "ComplexHeatmap",
         "DESeq2",
         "DynDoc",
         "Mfuzz",
@@ -5571,7 +5458,6 @@
     ],
     "muscat": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -5584,7 +5470,6 @@
         "variancePartition"
     ],
     "musicatk": [
-        "ComplexHeatmap",
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
@@ -5598,7 +5483,6 @@
     ],
     "MVCClass": [],
     "MWASTools": [
-        "ComplexHeatmap",
         "KEGGgraph"
     ],
     "mygene": [
@@ -5765,7 +5649,6 @@
         "beachmat"
     ],
     "nipalsMCIA": [
-        "ComplexHeatmap",
         "MultiAssayExperiment"
     ],
     "nnNorm": [
@@ -5810,7 +5693,6 @@
         "InteractionSet",
         "plyranges"
     ],
-    "OCplus": [],
     "octad": [
         "AnnotationHub",
         "BiocSingular",
@@ -6028,7 +5910,6 @@
     ],
     "PanomiR": [
         "DOSE",
-        "GOSemSim",
         "GSEABase",
         "clusterProfiler",
         "enrichplot",
@@ -6043,7 +5924,6 @@
     "PanViz": [],
     "pareg": [
         "DOSE",
-        "GOSemSim",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -6059,7 +5939,6 @@
     "PathNet": [],
     "PathoStat": [
         "BiocStyle",
-        "ComplexHeatmap",
         "DESeq2",
         "biomformat",
         "edgeR",
@@ -6103,7 +5982,6 @@
         "preprocessCore"
     ],
     "PeacoQC": [
-        "ComplexHeatmap",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -6211,7 +6089,6 @@
     "Pigengene": [
         "BiocStyle",
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -6232,7 +6109,6 @@
     ],
     "pipeComp": [
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -6280,7 +6156,6 @@
         "limma"
     ],
     "POMA": [
-        "ComplexHeatmap",
         "DESeq2",
         "limma"
     ],
@@ -6355,10 +6230,8 @@
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
-        "ComplexHeatmap",
         "DOSE",
         "EnrichedHeatmap",
-        "GOSemSim",
         "GenomicFeatures",
         "ShortRead",
         "biomaRt",
@@ -6409,7 +6282,6 @@
         "DAPAR",
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
@@ -6614,7 +6486,6 @@
     "RAIDS": [
         "AnnotationFilter",
         "GENESIS",
-        "GWASTools",
         "GenomicFeatures",
         "SeqArray",
         "SeqVarTools",
@@ -6671,9 +6542,7 @@
         "phyloseq",
         "rhdf5"
     ],
-    "Rcpi": [
-        "GOSemSim"
-    ],
+    "Rcpi": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -6691,7 +6560,6 @@
     "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "graphite",
@@ -6736,7 +6604,6 @@
         "rhdf5"
     ],
     "recoup": [
-        "ComplexHeatmap",
         "GenomicFeatures",
         "biomaRt"
     ],
@@ -6984,7 +6851,6 @@
     "RLSeq": [
         "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
         "GenomicFeatures",
         "biomaRt",
         "regioneR"
@@ -7156,9 +7022,7 @@
     ],
     "rRDP": [],
     "RRHO": [],
-    "rrvgo": [
-        "GOSemSim"
-    ],
+    "rrvgo": [],
     "rScudo": [],
     "rsemmed": [],
     "RSVSim": [
@@ -7526,7 +7390,6 @@
         "SingleCellExperiment"
     ],
     "scRNAseqApp": [
-        "ComplexHeatmap",
         "SingleCellExperiment",
         "TrajectoryUtils",
         "slingshot"
@@ -7555,7 +7418,6 @@
         "BiocVersion",
         "Category",
         "DOSE",
-        "GOSemSim",
         "GOstats",
         "GSEABase",
         "ReactomePA",
@@ -7615,14 +7477,10 @@
         "scuttle"
     ],
     "SDAMS": [],
-    "sechm": [
-        "ComplexHeatmap"
-    ],
+    "sechm": [],
     "segmenter": [
         "ChIPseeker",
-        "ComplexHeatmap",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "bamsignals",
         "biomaRt",
@@ -7651,7 +7509,6 @@
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "biomaRt",
         "clusterProfiler",
@@ -7694,7 +7551,6 @@
         "preprocessCore"
     ],
     "SEtools": [
-        "ComplexHeatmap",
         "DESeq2",
         "edgeR",
         "genefilter",
@@ -7764,7 +7620,6 @@
         "BiocVersion",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "GSEABase",
         "HDF5Array",
         "clusterProfiler",
@@ -7781,7 +7636,6 @@
     "signifinder": [
         "AnnotationFilter",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -7830,9 +7684,7 @@
     "SimFFPE": [],
     "similaRpeak": [],
     "SIMLR": [],
-    "simona": [
-        "ComplexHeatmap"
-    ],
+    "simona": [],
     "simpleSeg": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -7840,10 +7692,7 @@
         "cytomapper",
         "rhdf5"
     ],
-    "simplifyEnrichment": [
-        "ComplexHeatmap",
-        "GOSemSim"
-    ],
+    "simplifyEnrichment": [],
     "sincell": [],
     "single": [],
     "SingleCellExperiment": [],
@@ -7865,7 +7714,6 @@
         "AnnotationHub",
         "BiocSingular",
         "BiocVersion",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "DropletUtils",
@@ -8039,7 +7887,6 @@
     ],
     "sparrow": [
         "BiocSet",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "GSEABase",
         "edgeR",
@@ -8305,8 +8152,7 @@
         "biomaRt"
     ],
     "SVMDO": [
-        "DOSE",
-        "GOSemSim"
+        "DOSE"
     ],
     "SWATH2stats": [
         "biomaRt"
@@ -8361,7 +8207,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "BiocSingular",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "GSEABase",
@@ -8400,7 +8245,6 @@
     "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "DOSE",
-        "GOSemSim",
         "STRINGdb",
         "TDbasedUFE",
         "enrichplot",
@@ -8474,7 +8318,6 @@
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "Mfuzz",
         "MultiAssayExperiment",
         "biomaRt",
@@ -8589,7 +8432,6 @@
     "transite": [],
     "tRanslatome": [
         "DESeq2",
-        "GOSemSim",
         "Heatplus",
         "edgeR",
         "limma",
@@ -8605,7 +8447,6 @@
     ],
     "treeio": [],
     "treekoR": [
-        "ComplexHeatmap",
         "FlowSOM",
         "SingleCellExperiment",
         "diffcyt",
@@ -8835,7 +8676,6 @@
         "limma"
     ],
     "ViSEAGO": [
-        "GOSemSim",
         "biomaRt",
         "topGO"
     ],
@@ -8953,7 +8793,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "ComplexHeatmap",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -8971,7 +8810,6 @@
     ],
     "YAPSA": [
         "AnnotationFilter",
-        "ComplexHeatmap",
         "GenomicFeatures",
         "OrganismDbi",
         "SomaticSignatures",
