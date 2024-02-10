@@ -194,7 +194,6 @@
     "atena": [
         "BiocVersion"
     ],
-    "attract": [],
     "AUCell": [],
     "bandle": [
         "BiocStyle",
@@ -395,7 +394,6 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "categoryCompare": [],
     "cbaf": [],
     "CBEA": [
         "TreeSummarizedExperiment",
@@ -528,7 +526,6 @@
         "vsn"
     ],
     "clustComp": [],
-    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "enrichplot",
@@ -564,9 +561,7 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "CONFESS": [
         "SamSPECTRAL",
         "flowPeaks"
@@ -584,7 +579,6 @@
         "preprocessCore"
     ],
     "CORREP": [],
-    "coseq": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -777,7 +771,6 @@
     "DiscoRhythm": [
         "BiocStyle"
     ],
-    "distinct": [],
     "dittoSeq": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -936,7 +929,6 @@
     "FastqCleaner": [],
     "fcScan": [],
     "fdrame": [],
-    "FEAST": [],
     "ffpe": [
         "illuminaio",
         "lumi",
@@ -1197,13 +1189,10 @@
         "minfi",
         "preprocessCore"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "IdeoViz": [],
     "iGC": [],
     "illuminaio": [],
-    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1804,9 +1793,7 @@
     "NetSAM": [
         "preprocessCore"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "STRINGdb",
         "illuminaio",
@@ -1910,7 +1897,6 @@
         "KEGGgraph"
     ],
     "paxtoolsr": [],
-    "pcaExplorer": [],
     "PDATK": [],
     "pdInfoBuilder": [
         "preprocessCore"
@@ -1923,7 +1909,6 @@
     "PECA": [
         "preprocessCore"
     ],
-    "peco": [],
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "pgca": [],
@@ -2323,8 +2308,6 @@
         "metapod"
     ],
     "screenCounter": [],
-    "scRNAseqApp": [],
-    "scruff": [],
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
@@ -2406,7 +2389,6 @@
     "SimFFPE": [],
     "similaRpeak": [],
     "SIMLR": [],
-    "simpleSeg": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
@@ -2458,7 +2440,6 @@
     "soGGi": [
         "preprocessCore"
     ],
-    "SomaticSignatures": [],
     "SOMNiBUS": [
         "BiocVersion",
         "annotatr"
@@ -2576,7 +2557,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TNBC.CMS": [],
     "topdownr": [
         "MSnbase",
         "preprocessCore",
@@ -2586,7 +2566,6 @@
     "trackViewer": [
         "InteractionSet"
     ],
-    "tradeSeq": [],
     "tRanslatome": [
         "Heatplus"
     ],
@@ -2698,9 +2677,7 @@
     ],
     "xmapbridge": [],
     "yamss": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "illuminaio",
         "minfi",
