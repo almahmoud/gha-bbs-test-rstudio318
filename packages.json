@@ -2,7 +2,6 @@
     "abseqR": [
         "BiocStyle"
     ],
-    "ACE": [],
     "ADaCGH2": [
         "preprocessCore",
         "snapCGH",
@@ -439,7 +438,6 @@
         "ggtree",
         "treeio"
     ],
-    "cfdnakit": [],
     "cfDNAPro": [
         "plyranges"
     ],
@@ -526,8 +524,6 @@
     "cn.farms": [
         "preprocessCore"
     ],
-    "CNVfilteR": [],
-    "CNViz": [],
     "CNVrd2": [],
     "cogeqc": [
         "ggtree",
@@ -539,7 +535,6 @@
     "COMPASS": [
         "BiocStyle"
     ],
-    "compEpiTools": [],
     "CompoundDb": [
         "Spectra"
     ],
@@ -1000,7 +995,6 @@
         "PharmacoGx"
     ],
     "genArise": [],
-    "GeneBreak": [],
     "GeneOverlap": [],
     "geneplast": [],
     "geNetClassifier": [
