@@ -79,8 +79,6 @@
         "S4Vectors",
         "XVector",
         "aCGH",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -181,13 +179,10 @@
         "XVector"
     ],
     "affy": [
-        "affyio",
         "preprocessCore"
     ],
     "affycomp": [],
     "affyContam": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "affycoretools": [
@@ -222,8 +217,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -244,12 +237,9 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "gcrma",
         "preprocessCore"
     ],
-    "affyio": [],
     "affylmGUI": [
         "AnnotationDbi",
         "Biostrings",
@@ -258,9 +248,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "affy",
         "affyPLM",
-        "affyio",
         "gcrma",
         "limma",
         "preprocessCore"
@@ -271,14 +259,10 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "gcrma",
         "preprocessCore"
     ],
     "AffyRNADegradation": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "AGDEX": [
@@ -339,9 +323,7 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
         "affycoretools",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -696,8 +678,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "hypergraph",
         "makecdfenv",
@@ -1082,7 +1062,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "limma",
         "oligo",
         "oligoClasses",
@@ -1110,9 +1089,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "affyContam",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -1144,9 +1121,7 @@
         "MatrixGenerics",
         "S4Vectors",
         "XVector",
-        "affy",
         "affyPLM",
-        "affyio",
         "annotate",
         "beadarray",
         "gcrma",
@@ -1615,8 +1590,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -2053,8 +2026,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "gcrma",
         "preprocessCore"
     ],
@@ -2107,8 +2078,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -2153,7 +2122,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "biobroom": [],
     "bioCancer": [
         "AnnotationDbi",
         "BiocIO",
@@ -2336,34 +2304,15 @@
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
@@ -2746,8 +2695,6 @@
         "Rgraphviz",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "edgeR",
         "epiNEM",
@@ -2933,7 +2880,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "BiocIO",
         "Biostrings",
@@ -3173,8 +3119,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -3312,8 +3256,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "limma",
         "multtest",
@@ -3746,8 +3688,6 @@
         "RBGL",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "graph",
@@ -4070,8 +4010,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -4400,8 +4338,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "frma",
         "limma",
         "oligo",
@@ -4780,8 +4716,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "multtest",
         "mzID",
@@ -4791,17 +4725,12 @@
         "xcms"
     ],
     "Clomial": [],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -4878,7 +4807,6 @@
         "XVector",
         "fgsea"
     ],
-    "CMA": [],
     "cmapR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -4907,7 +4835,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses",
         "preprocessCore"
@@ -5678,8 +5605,6 @@
         "piano"
     ],
     "Cormotif": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -5749,8 +5674,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "multtest",
         "mzID",
@@ -5809,7 +5732,6 @@
         "genefilter",
         "limma"
     ],
-    "covEB": [],
     "CoverageView": [
         "BiocIO",
         "Biostrings",
@@ -6100,7 +6022,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "illuminaio",
         "limma",
         "oligoClasses",
@@ -6121,8 +6042,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "edgeR",
         "genefilter",
@@ -6634,8 +6553,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -7097,8 +7014,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -7774,8 +7689,6 @@
         "sva"
     ],
     "Doscheda": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore",
         "vsn"
@@ -7936,8 +7849,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "limma",
@@ -9045,8 +8956,6 @@
         "rtracklayer"
     ],
     "ExiMiR": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -9396,8 +9305,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -9490,8 +9397,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "limma",
         "multtest",
@@ -9784,15 +9689,11 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "oligo",
         "oligoClasses",
         "preprocessCore"
     ],
     "frmaTools": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "FunChIP": [
@@ -10024,8 +9925,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "GDCRNATools": [
@@ -10230,8 +10129,6 @@
         "limma",
         "marray"
     ],
-    "geneClassifiers": [],
-    "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
         "Biostrings",
@@ -10750,8 +10647,6 @@
         "limma"
     ],
     "GEOsubmission": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "GeoTcgaData": [
@@ -10794,8 +10689,6 @@
         "RBGL",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "cellHTS2",
@@ -11791,8 +11684,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "altcdfenvs",
         "graph",
         "hypergraph",
@@ -12184,8 +12075,6 @@
     ],
     "HPiP": [],
     "HTqPCR": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -12280,7 +12169,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "iBMQ": [],
     "Icens": [],
     "icetea": [
         "AnnotationDbi",
@@ -12335,8 +12223,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -12488,7 +12374,6 @@
         "BSgenome",
         "BiocIO",
         "Biostrings",
-        "BrowserViz",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -12930,8 +12815,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "limma",
         "multtest",
@@ -13169,7 +13052,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses",
         "preprocessCore"
@@ -13565,8 +13447,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "limma",
         "multtest",
@@ -13656,8 +13536,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -13826,7 +13704,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -13929,8 +13806,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "limma",
         "multtest",
@@ -13941,8 +13816,6 @@
         "xcms"
     ],
     "makecdfenv": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "MANOR": [],
@@ -13954,8 +13827,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "gcrma",
         "limma",
         "preprocessCore"
@@ -14038,8 +13909,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "gcrma",
         "preprocessCore"
     ],
@@ -14100,8 +13969,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "interactiveDisplayBase",
         "limma",
         "preprocessCore",
@@ -14197,7 +14064,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligoClasses"
     ],
     "MBQN": [
@@ -14350,8 +14216,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -14647,8 +14511,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "graph",
         "limma",
         "multtest",
@@ -14723,8 +14585,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -15499,9 +15359,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
         "affyPLM",
-        "affyio",
         "gcrma",
         "oligo",
         "oligoClasses",
@@ -15536,8 +15394,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -15612,7 +15468,6 @@
         "SummarizedExperiment",
         "VanillaICE",
         "XVector",
-        "affyio",
         "crlmm",
         "illuminaio",
         "limma",
@@ -15620,7 +15475,6 @@
         "preprocessCore",
         "rtracklayer"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -15918,8 +15772,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "multtest",
         "mzID",
@@ -16466,8 +16318,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -16479,8 +16329,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "edgeR",
         "limma",
         "msmsEDA",
@@ -16493,8 +16341,6 @@
         "IRanges",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -16514,8 +16360,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "edgeR",
         "interactiveDisplayBase",
         "limma",
@@ -16628,8 +16472,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -16643,8 +16485,6 @@
         "MSstatsQC",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -16687,7 +16527,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Mulcom": [],
     "MultiAssayExperiment": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -17207,8 +17046,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "multtest",
         "mzID",
@@ -17428,7 +17265,6 @@
         "limma",
         "minfi",
         "multtest",
-        "pandaR",
         "preprocessCore",
         "quantro",
         "rhdf5",
@@ -17497,8 +17333,6 @@
     "NOISeq": [],
     "nondetects": [
         "HTqPCR",
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -17538,15 +17372,11 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore",
         "vsn"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "Biostrings",
@@ -17722,7 +17552,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligoClasses",
         "preprocessCore"
     ],
@@ -17737,8 +17566,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "affyio"
+        "XVector"
     ],
     "OLIN": [
         "limma",
@@ -18208,8 +18036,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "edgeR",
@@ -18361,7 +18187,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "Biostrings",
         "GenomeInfoDb",
@@ -18397,8 +18222,6 @@
         "treeio"
     ],
     "panp": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "PANR": [],
@@ -18418,7 +18241,6 @@
         "dir.expiry",
         "fgsea"
     ],
-    "parglms": [],
     "partCNV": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -18589,7 +18411,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses",
         "preprocessCore"
@@ -18616,8 +18437,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -18633,8 +18452,6 @@
         "MatrixGenerics",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -18776,7 +18593,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "biodb",
         "biodbChebi",
         "limma",
         "ropls"
@@ -19021,8 +18837,6 @@
         "XVector"
     ],
     "plier": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "PloGO2": [
@@ -19257,8 +19071,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -19286,8 +19098,6 @@
         "SummarizedExperiment",
         "XVector",
         "aCGH",
-        "affy",
-        "affyio",
         "biomaRt",
         "limma",
         "multtest",
@@ -19351,8 +19161,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -19485,8 +19293,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -19513,8 +19319,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -19571,8 +19375,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -19632,8 +19434,6 @@
         "MatrixGenerics",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -19710,8 +19510,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -19732,8 +19530,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "oligo",
         "oligoClasses",
         "preprocessCore"
@@ -19765,13 +19561,9 @@
         "rtracklayer"
     ],
     "pvac": [
-        "affy",
-        "affyio",
         "preprocessCore"
     ],
     "pvca": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore",
         "vsn"
@@ -19877,8 +19669,6 @@
         "limma"
     ],
     "qpcrNorm": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -19915,8 +19705,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -20424,8 +20212,6 @@
         "SummarizedExperiment",
         "XVector",
         "aCGH",
-        "affy",
-        "affyio",
         "biomaRt",
         "limma",
         "multtest",
@@ -20473,7 +20259,6 @@
         "graph"
     ],
     "RCyjs": [
-        "BrowserViz",
         "graph"
     ],
     "rDGIdb": [],
@@ -20497,7 +20282,6 @@
         "graphite",
         "treeio"
     ],
-    "ReadqPCR": [],
     "REBET": [],
     "rebook": [
         "BiocStyle",
@@ -20899,8 +20683,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "edgeR",
         "genefilter",
@@ -21399,8 +21181,6 @@
         "MatrixGenerics",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -21428,8 +21208,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "biocViews",
         "graph",
         "limma",
@@ -21517,7 +21295,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
         "ChemmineR",
@@ -21525,8 +21302,6 @@
         "MSnbase",
         "MsCoreUtils",
         "S4Vectors",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -21644,8 +21419,6 @@
         "RBGL",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -21863,8 +21636,6 @@
         "sparseMatrixStats"
     ],
     "Rnits": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -21950,8 +21721,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -22421,8 +22190,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "edgeR",
         "genefilter",
@@ -24123,8 +23890,6 @@
         "Ringo",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -24457,8 +24222,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -24548,8 +24311,6 @@
         "S4Vectors",
         "XVector",
         "aCGH",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -25399,8 +25160,6 @@
         "RBGL",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -25424,8 +25183,6 @@
         "miRNAtap"
     ],
     "STATegRa": [
-        "affy",
-        "affyio",
         "edgeR",
         "limma",
         "preprocessCore"
@@ -25733,8 +25490,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "cleaver",
         "limma",
         "multtest",
@@ -26283,8 +26038,6 @@
         "MatrixGenerics",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "limma",
@@ -26497,8 +26250,6 @@
         "MsCoreUtils",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "mzID",
         "mzR",
@@ -26535,7 +26286,6 @@
         "piano"
     ],
     "TPP": [
-        "biobroom",
         "limma"
     ],
     "TPP2D": [
@@ -26970,8 +26720,6 @@
         "XVector"
     ],
     "TurboNorm": [
-        "affy",
-        "affyio",
         "convert",
         "limma",
         "marray",
@@ -27172,8 +26920,6 @@
     "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -27268,7 +27014,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "crlmm",
         "illuminaio",
         "limma",
@@ -27594,8 +27339,6 @@
         "limma"
     ],
     "vsn": [
-        "affy",
-        "affyio",
         "limma",
         "preprocessCore"
     ],
@@ -27706,8 +27449,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -27756,8 +27497,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "affy",
-        "affyio",
         "annaffy",
         "gcrma",
         "limma",
@@ -27836,8 +27575,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "affy",
-        "affyio",
         "limma",
         "multtest",
         "mzID",
