@@ -551,7 +551,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio",
@@ -825,7 +824,6 @@
     ],
     "ClassifyR": [],
     "clevRvis": [],
-    "clippda": [],
     "clipper": [
         "KEGGgraph"
     ],
@@ -848,7 +846,6 @@
     "clusterExperiment": [
         "HDF5Array",
         "edgeR",
-        "mbkmeans",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -1694,7 +1691,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "gcrma": [
         "preprocessCore"
     ],
@@ -1744,7 +1740,6 @@
     "genefu": [],
     "GeneOverlap": [],
     "geneplast": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "SeqVarTools"
     ],
@@ -1849,7 +1844,6 @@
         "HDF5Array"
     ],
     "glmSparseNet": [],
-    "GlobalAncova": [],
     "globalSeq": [],
     "GloScope": [],
     "gmapR": [],
@@ -1894,7 +1888,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSReg": [],
     "GSRI": [],
     "GSVA": [
         "HDF5Array"
@@ -2000,7 +1993,6 @@
     ],
     "iCheck": [
         "GEOquery",
-        "GeneSelectMMD",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
@@ -2177,7 +2169,6 @@
         "SpatialExperiment",
         "spicyR"
     ],
-    "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -2310,7 +2301,6 @@
         "phyloseq",
         "sva"
     ],
-    "mbkmeans": [],
     "MBQN": [
         "preprocessCore"
     ],
@@ -2635,7 +2625,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "missRows": [],
     "mistyR": [],
     "mitoClone2": [
         "deepSNV"
@@ -2957,7 +2946,6 @@
         "HDF5Array",
         "clusterExperiment",
         "edgeR",
-        "mbkmeans",
         "scater",
         "scuttle",
         "zinbwave"
@@ -3059,7 +3047,6 @@
     ],
     "optimalFlow": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "orthogene": [
         "ggtree",
         "treeio"
@@ -3562,7 +3549,6 @@
         "BiocVersion"
     ],
     "RgnTX": [],
-    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
@@ -3726,7 +3712,6 @@
         "edgeR"
     ],
     "sagenhaft": [],
-    "SAIGEgds": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -3820,7 +3805,6 @@
     "scider": [
         "SpatialExperiment"
     ],
-    "scmap": [],
     "scMerge": [
         "ResidualMatrix",
         "batchelor",
@@ -3994,7 +3978,6 @@
         "consensusOV",
         "genefu"
     ],
-    "SigsPack": [],
     "SimBindProfiles": [
         "Ringo",
         "preprocessCore",
@@ -4223,7 +4206,6 @@
         "splots",
         "vsn"
     ],
-    "StarBioTrek": [],
     "STATegRa": [
         "edgeR",
         "preprocessCore"
@@ -4439,7 +4421,6 @@
     "UCell": [],
     "Ularcirc": [
         "BiocVersion",
-        "Organism.dplyr",
         "plotgardener",
         "plyranges"
     ],
