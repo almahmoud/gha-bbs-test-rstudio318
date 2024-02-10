@@ -80,7 +80,6 @@
     ],
     "airpart": [
         "BiocSingular",
-        "apeglm",
         "scater",
         "scuttle"
     ],
@@ -207,7 +206,6 @@
     ],
     "APAlyzer": [],
     "apComplex": [],
-    "apeglm": [],
     "APL": [],
     "appreci8R": [
         "BiocVersion",
@@ -339,7 +337,6 @@
         "scran",
         "scuttle"
     ],
-    "BasicSTARRseq": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -405,9 +402,7 @@
     ],
     "BicARE": [],
     "BiFET": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "GEOquery",
         "HDF5Array",
@@ -584,7 +579,6 @@
         "plyranges"
     ],
     "BUSseq": [],
-    "CAEN": [],
     "CAFE": [
         "biovizBase",
         "ggbio",
@@ -817,7 +811,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "apeglm",
         "chipseq",
         "systemPipeR"
     ],
@@ -944,7 +937,6 @@
         "bsseq"
     ],
     "codelink": [],
-    "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [
         "ggtree",
@@ -1238,7 +1230,6 @@
     "debrowser": [
         "Harman",
         "KEGGgraph",
-        "apeglm",
         "clusterProfiler",
         "edgeR",
         "enrichplot",
@@ -1281,10 +1272,8 @@
     "DEGreport": [
         "edgeR"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array"
     ],
     "DELocal": [],
@@ -1342,7 +1331,6 @@
     ],
     "DEXSeq": [],
     "DiffBind": [
-        "apeglm",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1599,7 +1587,6 @@
         "GenomicFiles"
     ],
     "ERSSA": [
-        "apeglm",
         "edgeR"
     ],
     "esATAC": [
@@ -1742,7 +1729,6 @@
     "flowMerge": [],
     "flowPeaks": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace"
@@ -1890,9 +1876,7 @@
         "ttgsea"
     ],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "GEOquery",
         "edgeR",
@@ -1901,7 +1885,6 @@
     "GEOmetadb": [
         "GEOquery"
     ],
-    "GeomxTools": [],
     "GEOquery": [],
     "GEOsubmission": [
         "preprocessCore"
@@ -2086,7 +2069,6 @@
     "HIPPO": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
@@ -2109,7 +2091,6 @@
     "hypeR": [
         "BiocStyle"
     ],
-    "hyperdraw": [],
     "Icens": [],
     "icetea": [
         "csaw",
@@ -2128,9 +2109,7 @@
         "preprocessCore"
     ],
     "iChip": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "iCOBRA": [],
     "ideal": [
         "Category",
@@ -2138,7 +2117,6 @@
         "pcaExplorer"
     ],
     "IdeoViz": [],
-    "IFAA": [],
     "iGC": [],
     "igvR": [],
     "illuminaio": [],
@@ -2352,7 +2330,6 @@
         "metagenomeSeq",
         "preprocessCore"
     ],
-    "macat": [],
     "maCorrPlot": [],
     "MACSr": [
         "BiocVersion",
@@ -2521,8 +2498,7 @@
         "BiocVersion",
         "KEGGgraph",
         "MWASTools",
-        "hpar",
-        "mygene"
+        "hpar"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -3042,7 +3018,6 @@
     "MWASTools": [
         "KEGGgraph"
     ],
-    "mygene": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -3438,7 +3413,6 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "pram": [],
     "prebs": [
         "BiocStyle",
         "RPA",
@@ -3809,8 +3783,7 @@
         "vsn"
     ],
     "Rmmquant": [
-        "BiocStyle",
-        "apeglm"
+        "BiocStyle"
     ],
     "RNAAgeCalc": [
         "GEOquery",
@@ -4294,7 +4267,6 @@
         "edgeR"
     ],
     "SiPSiC": [],
-    "sitadela": [],
     "sitePath": [
         "ggtree",
         "treeio"
@@ -4366,9 +4338,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
@@ -4381,9 +4351,7 @@
         "scran",
         "scuttle"
     ],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -4542,8 +4510,7 @@
         "treeio"
     ],
     "TEKRABber": [
-        "SCBN",
-        "apeglm"
+        "SCBN"
     ],
     "TENxIO": [],
     "tenXplore": [
@@ -4776,7 +4743,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "InteractionSet",
-        "apeglm",
         "csaw",
         "edgeR",
         "metapod",
