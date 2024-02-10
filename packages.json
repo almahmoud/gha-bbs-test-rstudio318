@@ -18712,7 +18712,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROTS",
         "S4Vectors",
         "XVector",
         "affy",
@@ -22005,7 +22004,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "ROTS",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -22043,7 +22041,6 @@
         "edgeR",
         "limma"
     ],
-    "ROTS": [],
     "RPA": [
         "BiocStyle",
         "Biostrings",
@@ -25671,7 +25668,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "subSeq": [],
     "SUITOR": [],
     "SummarizedBenchmark": [
         "DelayedArray",
