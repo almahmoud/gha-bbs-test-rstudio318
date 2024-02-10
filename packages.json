@@ -395,7 +395,6 @@
         "treeio",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "bgx": [
         "gcrma",
         "preprocessCore"
@@ -522,7 +521,6 @@
         "preprocessCore"
     ],
     "bnbc": [
-        "HiCBricks",
         "edgeR",
         "preprocessCore",
         "sva"
@@ -1075,7 +1073,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CRISPRseek": [],
     "CrispRVariants": [],
     "crisprVerse": [
         "BiocVersion",
@@ -1564,7 +1561,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1974,7 +1970,6 @@
     "graper": [],
     "GRENITS": [],
     "GSAR": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
         "EnrichmentBrowser",
@@ -1994,7 +1989,6 @@
         "HDF5Array"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "InteractionSet"
     ],
@@ -2009,7 +2003,6 @@
     "GWENA": [
         "preprocessCore"
     ],
-    "h5vc": [],
     "Harman": [],
     "HarmonizR": [
         "edgeR",
@@ -2027,7 +2020,6 @@
         "edgeR"
     ],
     "HERON": [],
-    "HiCBricks": [],
     "HiCcompare": [
         "InteractionSet"
     ],
@@ -2968,7 +2960,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "biovizBase",
         "karyoploteR",
         "plyranges"
@@ -3565,7 +3556,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles"
     ],
@@ -3742,7 +3732,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "riboSeqR": [
         "baySeq",
         "edgeR"
@@ -4445,7 +4434,6 @@
         "SpatialExperiment"
     ],
     "STRINGdb": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "supraHex": [],
     "survtype": [],
@@ -4626,13 +4614,8 @@
         "sva"
     ],
     "tripr": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
