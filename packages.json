@@ -123,7 +123,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "AllelicImbalance": [],
     "altcdfenvs": [
         "makecdfenv",
         "preprocessCore"
@@ -284,7 +283,6 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "biomvRCNS": [],
     "BioNAR": [
         "preprocessCore"
     ],
@@ -476,7 +474,6 @@
     "ChIPpeakAnno": [
         "InteractionSet"
     ],
-    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot",
         "ggtree",
@@ -535,27 +532,20 @@
     "cn.farms": [
         "preprocessCore"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVrd2": [],
     "cogeqc": [
         "ggtree",
         "treeio"
     ],
-    "comapr": [],
     "coMethDMR": [
         "BiocVersion"
     ],
     "COMPASS": [
         "BiocStyle"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CompoundDb": [
         "Spectra"
     ],
@@ -565,14 +555,12 @@
         "flowPeaks"
     ],
     "consensus": [],
-    "consensusDE": [],
     "consICA": [],
     "conumee": [
         "illuminaio",
         "minfi",
         "preprocessCore"
     ],
-    "CopyNumberPlots": [],
     "Cormotif": [
         "preprocessCore"
     ],
@@ -819,7 +807,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "ELMER": [],
     "EMDomics": [
         "preprocessCore"
     ],
@@ -1025,7 +1012,6 @@
     ],
     "GeneOverlap": [],
     "geneplast": [],
-    "GeneStructureTools": [],
     "geNetClassifier": [
         "minet"
     ],
@@ -1351,7 +1337,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "maser": [],
     "maskBAD": [
         "gcrma",
         "preprocessCore"
@@ -1373,7 +1358,6 @@
     "MCbiclust": [
         "preprocessCore"
     ],
-    "mCSEA": [],
     "MEAL": [
         "illuminaio",
         "methylumi",
@@ -1489,7 +1473,6 @@
         "methylKit"
     ],
     "methylKit": [],
-    "methylPipe": [],
     "methylumi": [
         "illuminaio",
         "minfi",
@@ -2291,7 +2274,6 @@
         "annotatr"
     ],
     "SCnorm": [],
-    "scone": [],
     "Sconify": [],
     "scoreInvHap": [],
     "scPipe": [
@@ -2472,7 +2454,6 @@
     "SpliceWiz": [
         "BiocVersion"
     ],
-    "SPLINTER": [],
     "splots": [],
     "SPsimSeq": [
         "preprocessCore"
@@ -2480,7 +2461,6 @@
     "srnadiff": [
         "BiocStyle"
     ],
-    "standR": [],
     "staRank": [
         "cellHTS2",
         "preprocessCore",
@@ -2580,7 +2560,6 @@
     "TurboNorm": [
         "preprocessCore"
     ],
-    "TVTB": [],
     "tweeDEseq": [
         "cqn",
         "preprocessCore"
