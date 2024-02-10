@@ -186,7 +186,6 @@
         "scuttle",
         "treeio"
     ],
-    "AneuFinder": [],
     "animalcules": [],
     "annmap": [],
     "AnnotationHub": [
@@ -310,7 +309,6 @@
     ],
     "bandle": [
         "BiocStyle",
-        "MLInterfaces",
         "MSnbase",
         "pRoloc",
         "preprocessCore",
@@ -730,9 +728,7 @@
         "ggtree",
         "treeio"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
@@ -903,23 +899,18 @@
     "cn.farms": [
         "preprocessCore"
     ],
-    "cn.mops": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "edgeR"
@@ -1009,7 +1000,6 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [
@@ -1270,7 +1260,6 @@
         "HDF5Array"
     ],
     "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "HDF5Array",
@@ -1316,7 +1305,6 @@
     "DEsubs": [
         "edgeR"
     ],
-    "DEWSeq": [],
     "DExMA": [
         "GEOquery",
         "edgeR",
@@ -1524,7 +1512,6 @@
         "BiocVersion",
         "ChIPseeker",
         "enrichplot",
-        "genomation",
         "ggtree",
         "treeio"
     ],
@@ -1610,7 +1597,6 @@
     "ExiMiR": [
         "preprocessCore"
     ],
-    "exomePeak2": [],
     "ExperimentHub": [
         "BiocVersion"
     ],
@@ -1650,9 +1636,7 @@
         "preprocessCore"
     ],
     "FastqCleaner": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcScan": [],
     "fdrame": [],
     "FEAST": [
@@ -1821,7 +1805,6 @@
         "marray"
     ],
     "genefu": [],
-    "GeneMeta": [],
     "GeneOverlap": [],
     "geneplast": [],
     "GeneSelectMMD": [],
@@ -1841,7 +1824,6 @@
     ],
     "GENIE3": [],
     "genoCN": [],
-    "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
@@ -1856,7 +1838,6 @@
     "GenomicPlot": [
         "RCAS",
         "edgeR",
-        "genomation",
         "plyranges"
     ],
     "GenomicScores": [
@@ -2749,7 +2730,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MLSeq": [
         "edgeR"
     ],
@@ -3115,7 +3095,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "normr": [],
     "npGSEA": [],
     "NTW": [],
     "nucleR": [],
@@ -3150,12 +3129,10 @@
         "marray",
         "tkWidgets"
     ],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "edgeR",
-        "omicade4",
         "sva"
     ],
     "OMICsPCA": [
@@ -3223,9 +3200,7 @@
         "edgeR",
         "sva"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
@@ -3421,7 +3396,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "proActiv": [],
     "PROcess": [
         "Icens"
     ],
@@ -3436,13 +3410,11 @@
     ],
     "projectR": [],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase",
         "preprocessCore",
         "vsn"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "pRoloc",
         "preprocessCore",
@@ -3583,9 +3555,7 @@
     "RBM": [
         "marray"
     ],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [
         "preprocessCore"
     ],
@@ -4107,7 +4077,6 @@
         "treeio"
     ],
     "seqCAT": [],
-    "SeqGSEA": [],
     "seqsetvis": [],
     "SeqSQC": [
         "BiocVersion"
@@ -4149,9 +4118,7 @@
         "biomformat",
         "phyloseq"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "sigFeature": [],
     "signatureSearch": [
         "BiocVersion",
@@ -4171,7 +4138,6 @@
         "genefu"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SimBindProfiles": [
         "Ringo",
         "preprocessCore",
@@ -4753,9 +4719,7 @@
     "xcore": [
         "edgeR"
     ],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
