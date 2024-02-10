@@ -314,7 +314,6 @@
     ],
     "BicARE": [],
     "BiFET": [],
-    "BiGGR": [],
     "bigmelon": [
         "illuminaio",
         "lumi",
@@ -1107,7 +1106,6 @@
     ],
     "DRIMSeq": [],
     "DropletUtils": [],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "preprocessCore"
@@ -1383,22 +1381,17 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
         "piano"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
         "piano"
     ],
     "gDRstyle": [
         "BiocCheck"
     ],
-    "gDRutils": [],
     "genArise": [],
     "GeneBreak": [
         "CGHbase",
@@ -1440,8 +1433,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
-    "GeoDiff": [],
     "GEOexplorer": [
         "sva"
     ],
@@ -1611,7 +1602,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "iCNV": [],
     "ideal": [
         "GOstats",
         "pcaExplorer"
@@ -2068,7 +2058,6 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM",
@@ -3318,14 +3307,12 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "metapod",
         "scater",
         "scran"
     ],
-    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
