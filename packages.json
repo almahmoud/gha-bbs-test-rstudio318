@@ -86,8 +86,7 @@
     "AHMassBank": [
         "AnnotationHubData",
         "BiocCheck",
-        "BiocVersion",
-        "biocViews"
+        "BiocVersion"
     ],
     "airpart": [
         "BiocSingular",
@@ -221,8 +220,7 @@
     ],
     "AnnotationHubData": [
         "BiocCheck",
-        "BiocVersion",
-        "biocViews"
+        "BiocVersion"
     ],
     "annotatr": [
         "BiocVersion",
@@ -345,7 +343,6 @@
         "edgeR",
         "sva"
     ],
-    "bambu": [],
     "BANDITS": [
         "DRIMSeq",
         "edgeR"
@@ -486,9 +483,7 @@
         "treeio"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "biocGraph": [
         "geneplotter"
     ],
@@ -508,9 +503,7 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSingular": [
         "beachmat"
     ],
@@ -521,7 +514,6 @@
     ],
     "BiocStyle": [],
     "BiocVersion": [],
-    "biocViews": [],
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
@@ -545,7 +537,6 @@
         "preprocessCore",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -913,7 +904,6 @@
         "bumphunter",
         "edgeR",
         "ensembldb",
-        "goseq",
         "illuminaio",
         "lumi",
         "marray",
@@ -998,7 +988,6 @@
     "cicero": [
         "AnnotationFilter",
         "Gviz",
-        "biocViews",
         "biovizBase",
         "ensembldb",
         "monocle"
@@ -1011,7 +1000,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "ShortRead"
     ],
@@ -1170,7 +1158,6 @@
     "CONFESS": [
         "SamSPECTRAL",
         "flowClust",
-        "flowMeans",
         "flowMerge",
         "flowPeaks"
     ],
@@ -1727,8 +1714,7 @@
     "easylift": [],
     "easyRNASeq": [
         "ShortRead",
-        "edgeR",
-        "genomeIntervals"
+        "edgeR"
     ],
     "EBSEA": [],
     "EDASeq": [
@@ -1855,7 +1841,6 @@
         "minet",
         "mnem"
     ],
-    "epistack": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -1894,7 +1879,6 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "clusterProfiler",
@@ -1915,7 +1899,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment"
     ],
@@ -1937,8 +1920,7 @@
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
-        "BiocVersion",
-        "biocViews"
+        "BiocVersion"
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
@@ -1961,8 +1943,7 @@
         "metapod"
     ],
     "factR": [
-        "drawProteins",
-        "wiggleplotr"
+        "drawProteins"
     ],
     "famat": [
         "clusterProfiler",
@@ -2021,7 +2002,6 @@
         "DropletUtils",
         "HDF5Array",
         "MultiAssayExperiment",
-        "bambu",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -2058,7 +2038,6 @@
         "ncdfFlow"
     ],
     "flowGraph": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -2123,9 +2102,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [],
     "gCrisprTools": [],
     "gcrma": [
@@ -2167,8 +2144,7 @@
         "piano"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "gDRutils": [
         "MultiAssayExperiment"
@@ -2208,7 +2184,6 @@
     "genoCN": [],
     "genomation": [],
     "GenomAutomorphism": [],
-    "genomeIntervals": [],
     "GenomicDistributions": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
@@ -2307,8 +2282,7 @@
         "treeio"
     ],
     "girafe": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "GSEABase"
@@ -2346,7 +2320,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -2538,7 +2511,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "goseq",
         "pcaExplorer"
     ],
     "IdeoViz": [],
@@ -2547,9 +2519,7 @@
     "iGC": [],
     "igvR": [],
     "illuminaio": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "HDF5Array",
         "SpatialExperiment",
@@ -2685,7 +2655,6 @@
         "oligo",
         "preprocessCore"
     ],
-    "IVAS": [],
     "karyoploteR": [
         "AnnotationFilter",
         "biovizBase",
@@ -3069,7 +3038,6 @@
         "ExperimentHubData",
         "GEOquery",
         "HDF5Array",
-        "biocViews",
         "bumphunter",
         "illuminaio",
         "minfi",
@@ -3335,9 +3303,7 @@
     "monaLisa": [
         "TFBSTools"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
         "GEOquery",
@@ -3408,7 +3374,6 @@
         "easyRNASeq",
         "edgeR",
         "ensembldb",
-        "genomeIntervals",
         "ggbio"
     ],
     "msImpute": [
@@ -3750,7 +3715,6 @@
         "tkWidgets"
     ],
     "omicade4": [],
-    "OmicCircos": [],
     "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
@@ -3792,9 +3756,7 @@
         "beachmat"
     ],
     "oppti": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "ORFik": [],
     "Organism.dplyr": [
         "AnnotationFilter"
@@ -3932,7 +3894,6 @@
         "piano"
     ],
     "phemd": [
-        "biocViews",
         "destiny",
         "monocle"
     ],
@@ -4246,7 +4207,6 @@
     "RBM": [
         "marray"
     ],
-    "Rbowtie2": [],
     "RCAS": [
         "genomation"
     ],
@@ -4291,7 +4251,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "GEOquery",
         "HDF5Array",
@@ -4373,7 +4332,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -4397,9 +4355,7 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
@@ -4439,7 +4395,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "biocViews",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -4922,9 +4877,7 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "signatureSearch": [
         "BiocVersion",
         "GSEABase",
@@ -5055,10 +5008,7 @@
     ],
     "SMAD": [],
     "SMAP": [],
-    "SMITE": [
-        "BioNet",
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "preprocessCore",
         "tilingArray",
@@ -5166,7 +5116,6 @@
         "MultiAssayExperiment",
         "SpatialExperiment"
     ],
-    "spiky": [],
     "splatter": [
         "beachmat",
         "edgeR",
@@ -5506,7 +5455,6 @@
         "plyranges"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "ShortRead",
         "regioneR"
     ],
@@ -5522,7 +5470,6 @@
     ],
     "Uniquorn": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
@@ -5630,7 +5577,6 @@
         "vsn"
     ],
     "weitrix": [],
-    "wiggleplotr": [],
     "wppi": [
         "OmnipathR"
     ],
