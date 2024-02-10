@@ -55,7 +55,6 @@
         "BiocCheck",
         "BiocVersion"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -453,7 +452,6 @@
     ],
     "CelliD": [],
     "cellmigRation": [],
-    "CellMixS": [],
     "CellScore": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -720,7 +718,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline"
     ],
-    "cytoviewer": [],
     "dada2": [],
     "dagLogo": [],
     "DaMiRseq": [],
@@ -1731,7 +1728,6 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "msgbsR": [],
     "msImpute": [
         "metapod",
         "scran"
@@ -2058,7 +2054,6 @@
     "plier": [
         "preprocessCore"
     ],
-    "PloGO2": [],
     "plotgardener": [
         "plyranges"
     ],
@@ -2476,7 +2471,6 @@
         "ggtree",
         "treeio"
     ],
-    "segmentSeq": [],
     "seq2pathway": [
         "preprocessCore"
     ],
@@ -2672,7 +2666,6 @@
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
-    "TCC": [],
     "TDbasedUFEadv": [
         "STRINGdb",
         "enrichplot",
@@ -2723,7 +2716,6 @@
         "InteractionSet"
     ],
     "tradeSeq": [],
-    "transformGamPoi": [],
     "tRanslatome": [
         "Heatplus"
     ],
