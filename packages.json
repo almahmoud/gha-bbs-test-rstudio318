@@ -23,7 +23,6 @@
         "BiocVersion"
     ],
     "ADImpute": [],
-    "AffiXcan": [],
     "affy": [
         "preprocessCore"
     ],
@@ -57,7 +56,6 @@
     "AffyRNADegradation": [
         "preprocessCore"
     ],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
@@ -257,7 +255,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
         "TFBSTools",
         "chromVAR",
@@ -366,7 +363,6 @@
     "beadarray": [
         "illuminaio"
     ],
-    "BEARscc": [],
     "BEAT": [],
     "beer": [
         "PhIPData",
@@ -434,7 +430,6 @@
         "BiocVersion",
         "HDF5Array"
     ],
-    "BiocPkgTools": [],
     "BiocSingular": [],
     "BiocSklearn": [
         "basilisk",
@@ -659,7 +654,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -916,7 +910,6 @@
         "bsseq"
     ],
     "codelink": [],
-    "CoGAPS": [],
     "cogeqc": [
         "ggtree",
         "treeio"
@@ -1034,13 +1027,11 @@
     "cqn": [
         "preprocessCore"
     ],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
-        "crisprBowtie",
         "crisprScore",
         "dir.expiry"
     ],
@@ -1057,7 +1048,6 @@
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz",
@@ -1069,7 +1059,6 @@
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "dir.expiry"
@@ -1625,7 +1614,6 @@
     "fcScan": [],
     "fdrame": [],
     "FEAST": [
-        "SC3",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -1741,7 +1729,6 @@
     ],
     "gatom": [],
     "GBScleanR": [],
-    "gCrisprTools": [],
     "gcrma": [
         "preprocessCore"
     ],
@@ -2641,9 +2628,7 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [
         "BiocSingular",
@@ -3435,7 +3420,6 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "preprocessCore",
@@ -3590,7 +3574,6 @@
     "RegionalST": [
         "BayesSpace",
         "BiocSingular",
-        "TOAST",
         "edgeR",
         "metapod",
         "scater",
@@ -3835,7 +3818,6 @@
         "pathview"
     ],
     "SBMLR": [],
-    "SC3": [],
     "SCAN.UPC": [
         "GEOquery",
         "edgeR",
@@ -4043,7 +4025,6 @@
         "treeio"
     ],
     "seqCAT": [],
-    "seqsetvis": [],
     "SeqSQC": [
         "BiocVersion"
     ],
@@ -4367,7 +4348,6 @@
         "StructuralVariantAnnotation"
     ],
     "SwathXtend": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "preprocessCore",
@@ -4468,7 +4448,6 @@
         "GSVA",
         "HDF5Array"
     ],
-    "TOAST": [],
     "TOP": [
         "ClassifyR"
     ],
@@ -4664,7 +4643,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "weitrix": [],
     "wppi": [
         "OmnipathR"
     ],
