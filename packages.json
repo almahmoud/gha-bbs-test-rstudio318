@@ -203,7 +203,6 @@
     "atena": [
         "BiocVersion"
     ],
-    "atSNP": [],
     "attract": [],
     "AUCell": [],
     "ballgown": [],
@@ -353,9 +352,7 @@
     "BOBaFIT": [
         "plyranges"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "BPRMeth": [
         "BiocStyle"
     ],
@@ -780,9 +777,7 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -846,7 +841,6 @@
         "BiocVersion",
         "annotatr"
     ],
-    "doppelgangR": [],
     "Doscheda": [
         "preprocessCore",
         "vsn"
@@ -867,7 +861,6 @@
         "ArrayExpress",
         "preprocessCore"
     ],
-    "DSS": [],
     "DynDoc": [],
     "easier": [
         "BiocVersion",
@@ -889,7 +882,6 @@
     "EMDomics": [
         "preprocessCore"
     ],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "BiocVersion",
         "illuminaio",
@@ -1352,9 +1344,7 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "KnowSeq": [
         "cqn",
         "preprocessCore"
@@ -1366,8 +1356,6 @@
         "ggtree",
         "treeio"
     ],
-    "lipidr": [],
-    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -1543,7 +1531,6 @@
     ],
     "metapod": [],
     "metaseqR2": [
-        "DSS",
         "preprocessCore",
         "vsn"
     ],
@@ -1595,9 +1582,7 @@
     ],
     "methylKit": [],
     "methylPipe": [],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi",
@@ -1821,7 +1806,6 @@
         "MSstats",
         "preprocessCore"
     ],
-    "MultiBaC": [],
     "multicrispr": [
         "plyranges"
     ],
@@ -2039,7 +2023,6 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "phenomis": [],
     "phenoTest": [
         "Heatplus"
     ],
@@ -2136,7 +2119,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DynDoc",
@@ -2191,7 +2173,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "qsmooth": [],
     "qsvaR": [],
     "quantiseqr": [
         "preprocessCore"
@@ -2516,7 +2497,6 @@
         "illuminaio",
         "preprocessCore"
     ],
-    "SEtools": [],
     "sevenC": [
         "InteractionSet"
     ],
