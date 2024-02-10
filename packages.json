@@ -339,7 +339,6 @@
     "BOBaFIT": [
         "plyranges"
     ],
-    "borealis": [],
     "BPRMeth": [
         "BiocStyle"
     ],
@@ -751,7 +750,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -1302,7 +1300,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "kissDE": [],
     "KnowSeq": [
         "cqn",
         "preprocessCore"
@@ -1536,7 +1533,6 @@
     ],
     "methylKit": [],
     "methylPipe": [],
-    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi",
