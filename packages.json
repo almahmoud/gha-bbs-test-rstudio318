@@ -200,8 +200,7 @@
         "BiocVersion"
     ],
     "annotatr": [
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "anota2seq": [
         "edgeR"
@@ -280,8 +279,7 @@
         "InteractionSet",
         "TFBSTools",
         "edgeR",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "TFBSTools",
@@ -509,8 +507,7 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "marray",
-        "regioneR"
+        "marray"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -621,7 +618,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -817,8 +813,7 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "ChIPQC": [
         "DiffBind",
@@ -884,7 +879,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -930,15 +924,13 @@
         "CopyNumberPlots",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVPanelizer": [],
     "CNVRanger": [
@@ -1032,8 +1024,7 @@
     "CopyNumberPlots": [
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [
         "marray",
@@ -1054,7 +1045,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -1245,7 +1235,6 @@
         "flowPeaks",
         "flowViz"
     ],
-    "debCAM": [],
     "debrowser": [
         "Harman",
         "KEGGgraph",
@@ -1272,7 +1261,6 @@
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "fastseg",
         "illuminaio",
         "methylKit",
         "minfi",
@@ -1336,8 +1324,7 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "DESpace": [
         "SpatialExperiment",
@@ -1420,8 +1407,7 @@
         "HDF5Array",
         "annotatr",
         "bsseq",
-        "bumphunter",
-        "regioneR"
+        "bumphunter"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -1509,7 +1495,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "EMDomics": [
@@ -1686,7 +1671,6 @@
         "preprocessCore"
     ],
     "FastqCleaner": [],
-    "fastseg": [],
     "fCCAC": [
         "genomation"
     ],
@@ -1714,7 +1698,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -1793,7 +1776,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [],
     "GA4GHshiny": [
         "GA4GHclient"
@@ -2031,8 +2013,7 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "Gviz": [
         "biovizBase"
@@ -2195,7 +2176,6 @@
     "infercnv": [
         "edgeR"
     ],
-    "infinityFlow": [],
     "InPAS": [
         "plyranges",
         "preprocessCore"
@@ -2229,7 +2209,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -2280,8 +2259,7 @@
         "preprocessCore"
     ],
     "karyoploteR": [
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "plyranges"
@@ -2329,7 +2307,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -2411,7 +2388,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -2559,7 +2535,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -2588,7 +2563,6 @@
         "Spectra"
     ],
     "methInheritSim": [
-        "fastseg",
         "methylKit"
     ],
     "MethReg": [
@@ -2645,12 +2619,9 @@
         "treeio"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit"
     ],
-    "methylKit": [
-        "fastseg"
-    ],
+    "methylKit": [],
     "MethylMix": [],
     "methylMnM": [
         "edgeR"
@@ -2681,7 +2652,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mgsa": [],
     "mia": [
@@ -2801,8 +2771,7 @@
     ],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "TCGAbiolinks"
+        "GOstats"
     ],
     "missMethyl": [
         "GEOquery",
@@ -2837,7 +2806,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -2874,7 +2842,6 @@
     ],
     "MoonlightR": [
         "GEOquery",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2922,7 +2889,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -3029,8 +2995,7 @@
         "CRISPRseek",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
-        "regioneR"
+        "plyranges"
     ],
     "MultiDataSet": [],
     "multiGSEA": [
@@ -3093,7 +3058,6 @@
         "edgeR",
         "metapod",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -3106,7 +3070,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -3289,7 +3252,6 @@
         "edgeR",
         "sva"
     ],
-    "packFinder": [],
     "padma": [],
     "PADOG": [],
     "pageRank": [
@@ -3722,8 +3684,7 @@
     ],
     "REDseq": [
         "ChIPpeakAnno",
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "regionalpcs": [
         "BiocSingular",
@@ -3739,10 +3700,7 @@
         "scran",
         "scuttle"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "BiocStyle",
         "DEFormats",
@@ -3799,9 +3757,7 @@
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
@@ -3833,7 +3789,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
@@ -3846,8 +3801,7 @@
     "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "RMassBank": [
         "MSnbase",
@@ -3894,7 +3848,6 @@
         "RNAmodR",
         "biovizBase"
     ],
-    "RNAsense": [],
     "rnaseqcomp": [],
     "RNAseqCovarImpute": [
         "edgeR"
@@ -3977,7 +3930,6 @@
     "sagenhaft": [],
     "SAIGEgds": [],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "SamSPECTRAL": [],
@@ -4097,8 +4049,7 @@
         "BiocVersion",
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SCnorm": [],
     "scone": [
@@ -4390,8 +4341,7 @@
         "BiocVersion",
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "Spaniel": [
         "BiocSingular",
@@ -4529,7 +4479,6 @@
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
-    "supersigs": [],
     "supraHex": [],
     "survtype": [],
     "sva": [
@@ -4582,7 +4531,6 @@
         "baySeq",
         "edgeR"
     ],
-    "TCGAbiolinks": [],
     "TCGAutils": [],
     "TCseq": [
         "edgeR"
@@ -4710,7 +4658,6 @@
         "edgeR",
         "sva"
     ],
-    "triplex": [],
     "tripr": [],
     "tRNA": [],
     "tRNAdbImport": [
@@ -4750,9 +4697,7 @@
         "plotgardener",
         "plyranges"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
@@ -4777,7 +4722,6 @@
         "illuminaio",
         "preprocessCore"
     ],
-    "VarCon": [],
     "variancePartition": [],
     "VariantExperiment": [
         "GDSArray"
@@ -4836,7 +4780,6 @@
         "csaw",
         "edgeR",
         "metapod",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
@@ -4864,7 +4807,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "preprocessCore",
