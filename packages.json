@@ -2062,7 +2062,6 @@
         "gcrma",
         "preprocessCore"
     ],
-    "BHC": [],
     "BicARE": [
         "AnnotationDbi",
         "Biostrings",
@@ -2117,7 +2116,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "gdsfmt",
         "genefilter",
         "illuminaio",
         "limma",
@@ -4877,7 +4875,6 @@
         "edgeR",
         "limma"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [],
     "clustifyr": [
         "DelayedArray",
@@ -5109,7 +5106,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "gdsfmt",
         "limma"
     ],
     "CNVrd2": [
@@ -7727,10 +7723,7 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "AnnotationDbi",
         "BiocIO",
@@ -8068,7 +8061,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "Biostrings",
@@ -8558,7 +8550,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
         "Biostrings",
@@ -10031,8 +10022,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "gcapc": [
         "BSgenome",
@@ -10228,10 +10218,8 @@
         "SNPRelate",
         "SeqArray",
         "SparseArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
-    "gdsfmt": [],
     "gemma.R": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -10374,8 +10362,7 @@
         "SNPRelate",
         "SeqArray",
         "SeqVarTools",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "GeneStructureTools": [
         "AnnotationDbi",
@@ -10872,7 +10859,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "geva": [],
     "GEWIST": [],
     "gg4way": [
         "DESeq2",
@@ -10951,8 +10937,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "ggmsa": [
         "Biostrings",
@@ -11002,7 +10987,6 @@
         "ggtree",
         "treeio"
     ],
-    "GIGSEA": [],
     "girafe": [
         "Biostrings",
         "DelayedArray",
@@ -11512,7 +11496,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "GSALightning": [],
     "GSAR": [],
     "GSCA": [
         "S4Vectors",
@@ -11764,9 +11747,7 @@
         "rtracklayer",
         "snpStats"
     ],
-    "GWASTools": [
-        "gdsfmt"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "AnnotationDbi",
         "BSgenome",
@@ -11791,7 +11772,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "gdsfmt",
         "rtracklayer"
     ],
     "GWENA": [
@@ -12108,7 +12088,6 @@
         "rtracklayer"
     ],
     "hierGWAS": [],
-    "hierinf": [],
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -12216,7 +12195,6 @@
     "hmdbQuery": [
         "S4Vectors"
     ],
-    "HMMcopy": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -14158,7 +14136,6 @@
         "interactiveDisplayBase",
         "limma"
     ],
-    "matchBox": [],
     "MatrixGenerics": [],
     "MatrixQCvis": [
         "AnnotationDbi",
@@ -14277,7 +14254,6 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "gdsfmt",
         "oligoClasses"
     ],
     "MBQN": [
@@ -15527,7 +15503,6 @@
     ],
     "MICSQTL": [
         "DelayedArray",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -17975,7 +17950,6 @@
         "XVector",
         "fgsea"
     ],
-    "Omixer": [],
     "OmnipathR": [],
     "ompBAM": [],
     "oncomix": [
@@ -20049,7 +20023,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HMMcopy",
         "IRanges",
         "MatrixGenerics",
         "Rhtslib",
@@ -20384,7 +20357,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "gdsfmt",
         "rtracklayer"
     ],
     "rain": [
@@ -20817,7 +20789,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -22406,8 +22377,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sampleClassifier": [
         "AnnotationDbi",
@@ -22654,7 +22624,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "SCArray.sat": [
@@ -22674,7 +22643,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "scater": [
@@ -23729,8 +23697,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "seqbias": [
         "Biostrings",
@@ -23835,7 +23802,6 @@
         "S4Vectors",
         "SNPRelate",
         "XVector",
-        "gdsfmt",
         "interactiveDisplayBase"
     ],
     "seqTools": [],
@@ -23846,8 +23812,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sesame": [
         "AnnotationDbi",
@@ -24745,9 +24710,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [],
     "soGGi": [
         "BiocIO",
@@ -25898,7 +25861,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "synergyfinder": [],
     "SynExtend": [
         "Biostrings",
         "DECIPHER",
@@ -26602,7 +26564,6 @@
     ],
     "TOAST": [
         "DelayedArray",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -27496,8 +27457,7 @@
         "SeqArray",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "VariantFiltering": [
         "AnnotationDbi",
