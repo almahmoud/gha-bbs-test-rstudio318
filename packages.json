@@ -201,7 +201,6 @@
     "anota2seq": [
         "edgeR"
     ],
-    "APAlyzer": [],
     "apComplex": [],
     "APL": [],
     "appreci8R": [
@@ -257,7 +256,6 @@
         "edgeR",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "GeneOverlap",
@@ -436,7 +434,6 @@
         "BiocVersion",
         "HDF5Array"
     ],
-    "BioCor": [],
     "BiocPkgTools": [],
     "BiocSingular": [],
     "BiocSklearn": [
@@ -546,7 +543,6 @@
     ],
     "brainflowprobes": [
         "BiocVersion",
-        "GenomicFiles",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -579,7 +575,6 @@
         "preprocessCore"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -597,7 +592,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -984,9 +978,7 @@
         "genefu"
     ],
     "consICA": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "GEOquery",
         "HDF5Array",
@@ -1009,7 +1001,6 @@
     "Cormotif": [
         "preprocessCore"
     ],
-    "corral": [],
     "CORREP": [],
     "coseq": [
         "HTSFilter",
@@ -1130,7 +1121,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt",
@@ -1283,11 +1273,9 @@
     ],
     "DEqMS": [],
     "derfinder": [
-        "GenomicFiles",
         "bumphunter"
     ],
     "derfinderPlot": [
-        "GenomicFiles",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -1505,7 +1493,6 @@
         "ggtree",
         "treeio"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
@@ -1562,9 +1549,7 @@
     "erccdashboard": [
         "edgeR"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "ERSSA": [
         "edgeR"
     ],
@@ -1770,8 +1755,7 @@
         "treeio"
     ],
     "gDNAx": [
-        "BiocVersion",
-        "GenomicFiles"
+        "BiocVersion"
     ],
     "gDR": [
         "CoreGx",
@@ -1824,7 +1808,6 @@
     ],
     "GENIE3": [],
     "genoCN": [],
-    "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
@@ -2079,7 +2062,6 @@
     ],
     "iChip": [],
     "iCNV": [],
-    "iCOBRA": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -2141,7 +2123,6 @@
     ],
     "IntEREst": [
         "DEXSeq",
-        "GenomicFiles",
         "edgeR"
     ],
     "IntramiRExploreR": [
@@ -2230,7 +2211,6 @@
         "HDF5Array",
         "glmGamPoi"
     ],
-    "limmaGUI": [],
     "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
@@ -2484,7 +2464,6 @@
         "vsn",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
@@ -2703,7 +2682,6 @@
         "illuminaio",
         "preprocessCore"
     ],
-    "miQC": [],
     "MIRA": [
         "HDF5Array",
         "bsseq"
@@ -3188,7 +3166,6 @@
         "edgeR",
         "sva"
     ],
-    "padma": [],
     "PADOG": [],
     "pageRank": [
         "TFBSTools",
@@ -3360,7 +3337,6 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [],
     "POWSC": [
         "MAST"
@@ -3451,7 +3427,6 @@
     "psichomics": [
         "BiocVersion",
         "GEOquery",
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "edgeR",
@@ -3520,11 +3495,8 @@
         "minfi",
         "preprocessCore"
     ],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "QuaternaryProd": [],
-    "qusage": [],
     "R3CPET": [
         "biovizBase",
         "ggbio"
@@ -3593,7 +3565,6 @@
     ],
     "recount": [
         "GEOquery",
-        "GenomicFiles",
         "bumphunter",
         "derfinder"
     ],
@@ -3630,7 +3601,6 @@
     "regionReport": [
         "BiocStyle",
         "DEFormats",
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "edgeR"
@@ -3737,7 +3707,6 @@
     ],
     "RNAAgeCalc": [
         "GEOquery",
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "recount"
@@ -3777,7 +3746,6 @@
     ],
     "RnaSeqSampleSize": [
         "GEOquery",
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "edgeR",
@@ -3814,7 +3782,6 @@
     ],
     "Rqc": [
         "BiocStyle",
-        "GenomicFiles",
         "biovizBase"
     ],
     "rqt": [
@@ -3936,7 +3903,6 @@
         "edgeR"
     ],
     "scDesign3": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "BiocSingular",
@@ -4193,7 +4159,6 @@
         "scDblFinder",
         "scMerge",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
@@ -4202,7 +4167,6 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "SingleR": [
@@ -4583,8 +4547,7 @@
     ],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "tweeDEseq": [
         "cqn",
@@ -4645,9 +4608,7 @@
         "sva"
     ],
     "vbmp": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "VDJdive": [],
     "velociraptor": [
         "BiocSingular",
