@@ -438,9 +438,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "altcdfenvs": [
         "hypergraph",
         "makecdfenv",
@@ -593,8 +591,6 @@
         "edgeR",
         "limma"
     ],
-    "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -1274,7 +1270,6 @@
         "limma",
         "metagenomeSeq",
         "mia",
-        "mixOmics",
         "phyloseq",
         "rhdf5",
         "rhdf5filters",
@@ -1838,7 +1833,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "brendaDb": [],
     "BRGenomics": [
         "BiocIO",
         "DESeq2",
@@ -4103,7 +4097,6 @@
     ],
     "CyTOFpower": [
         "ComplexHeatmap",
-        "CytoGLMM",
         "DelayedArray",
         "FlowSOM",
         "GenomicRanges",
@@ -4136,7 +4129,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CytoGLMM": [],
     "cytoKernel": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -4614,9 +4606,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "DEqMS": [
         "limma"
     ],
@@ -4696,7 +4686,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "DEsingle": [],
     "DESpace": [
         "DelayedArray",
         "GenomicRanges",
@@ -5668,7 +5657,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "epistasisGA": [],
     "EpiTxDb": [
         "BiocIO",
         "DelayedArray",
@@ -8565,7 +8553,6 @@
     ],
     "keggorthology": [],
     "KEGGREST": [],
-    "KinSwingR": [],
     "kissDE": [
         "BSgenome",
         "BiocIO",
@@ -10196,7 +10183,6 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "DelayedArray",
         "GenomicRanges",
@@ -11995,7 +11981,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "pengls": [],
     "PepsNMR": [],
     "pepStat": [
         "GenomicRanges",
@@ -12323,8 +12308,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "limma",
-        "mixOmics"
+        "limma"
     ],
     "POWSC": [
         "DelayedArray",
@@ -13237,7 +13221,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationFilter",
         "BSgenome",
@@ -14274,7 +14257,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "RUVcorr": [],
     "RUVSeq": [
         "BiocIO",
         "DelayedArray",
@@ -14974,7 +14956,6 @@
         "SummarizedExperiment",
         "beachmat"
     ],
-    "scShapes": [],
     "scTensor": [
         "AnnotationForge",
         "AnnotationHub",
@@ -16395,7 +16376,6 @@
         "limma"
     ],
     "statTarget": [],
-    "STdeconvolve": [],
     "stepNorm": [
         "limma",
         "marray"
@@ -16460,7 +16440,6 @@
         "rtracklayer"
     ],
     "SubCellBarCode": [],
-    "SUITOR": [],
     "SummarizedBenchmark": [
         "DelayedArray",
         "GenomicRanges",
@@ -16903,9 +16882,7 @@
         "limma",
         "marray"
     ],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "DelayedArray",
