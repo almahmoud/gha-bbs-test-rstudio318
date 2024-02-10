@@ -17,7 +17,6 @@
     "adductomicsR": [
         "BiocVersion"
     ],
-    "ADImpute": [],
     "affy": [
         "preprocessCore"
     ],
@@ -262,7 +261,6 @@
     "AUCell": [],
     "autonomics": [],
     "AWFisher": [],
-    "BadRegionFinder": [],
     "ballgown": [
         "sva"
     ],
@@ -418,7 +416,6 @@
         "scran",
         "scuttle"
     ],
-    "biotmle": [],
     "biovizBase": [],
     "biscuiteer": [
         "BiocVersion",
@@ -1070,7 +1067,6 @@
     "DelayedTensor": [
         "HDF5Array"
     ],
-    "DELocal": [],
     "DeMixT": [
         "DSS",
         "HDF5Array",
@@ -1091,7 +1087,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "DEqMS": [],
     "derfinder": [],
     "derfinderPlot": [
         "biovizBase",
@@ -1301,16 +1296,10 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erccdashboard": [],
     "erma": [],
@@ -2564,7 +2553,6 @@
         "BiocStyle",
         "preprocessCore"
     ],
-    "netDx": [],
     "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH",
@@ -2640,7 +2628,6 @@
         "OLIN",
         "tkWidgets"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "sva"
     ],
@@ -2752,7 +2739,6 @@
         "scuttle"
     ],
     "PepsNMR": [],
-    "pepStat": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "phantasus": [],
@@ -2906,7 +2892,6 @@
         "vsn"
     ],
     "proteinProfiles": [],
-    "ProteoDisco": [],
     "ProteoMM": [],
     "protGear": [
         "preprocessCore",
@@ -3090,7 +3075,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ReQON": [],
     "ResidualMatrix": [],
     "RESOLVE": [
         "MutationalPatterns"
@@ -3235,7 +3219,6 @@
         "RTNduals",
         "minet"
     ],
-    "RTopper": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -3297,7 +3280,6 @@
         "Cepo",
         "HDF5Array"
     ],
-    "sccomp": [],
     "scDataviz": [],
     "scDblFinder": [
         "metapod",
@@ -3310,7 +3292,6 @@
         "scran",
         "scuttle"
     ],
-    "scDDboost": [],
     "scde": [],
     "scFeatures": [
         "AUCell",
@@ -3390,7 +3371,6 @@
     ],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
         "metapod",
         "scater",
         "scran",
@@ -3460,7 +3440,6 @@
         "phyloseq"
     ],
     "SigCheck": [],
-    "sigFeature": [],
     "signatureSearch": [
         "BiocVersion",
         "HDF5Array",
