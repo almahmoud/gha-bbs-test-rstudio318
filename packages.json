@@ -1232,7 +1232,6 @@
     ],
     "antiProfiles": [],
     "AnVIL": [],
-    "AnVILBilling": [],
     "AnVILPublish": [
         "AnVIL"
     ],
@@ -4818,7 +4817,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "cellxgenedp": [],
     "CEMiTool": [
         "AnnotationDbi",
         "Biobase",
@@ -4956,7 +4954,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "CFAssay": [],
     "cfdnakit": [
         "Biobase",
         "BiocGenerics",
@@ -5464,7 +5461,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "MatrixGenerics",
         "Rhtslib",
@@ -9503,7 +9499,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "dks": [],
     "DMCFB": [
         "Biobase",
         "BiocGenerics",
@@ -10945,7 +10940,6 @@
         "bumphunter",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "limma",
         "rtracklayer",
@@ -10981,7 +10975,6 @@
         "biomaRt",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "rtracklayer",
         "zlibbioc"
@@ -11015,12 +11008,10 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "epivizrServer",
         "graph",
         "rtracklayer",
         "zlibbioc"
     ],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -11053,7 +11044,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "limma",
         "rtracklayer",
@@ -11600,7 +11590,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "rWikiPathways",
         "treeio",
         "zlibbioc"
     ],
@@ -12288,7 +12277,6 @@
         "BiocGenerics",
         "ChemmineR"
     ],
-    "fmrs": [],
     "fobitools": [
         "BiocParallel",
         "fgsea"
@@ -12523,7 +12511,6 @@
         "graph"
     ],
     "GAprediction": [],
-    "garfield": [],
     "GARS": [
         "AnnotationDbi",
         "Biobase",
@@ -12559,7 +12546,6 @@
         "genefilter",
         "limma",
         "rtracklayer",
-        "sSeq",
         "sva",
         "zlibbioc"
     ],
@@ -15240,16 +15226,12 @@
         "BiocGenerics",
         "GenomeInfoDb",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "S4Vectors",
         "XVector",
         "zlibbioc"
     ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -15544,7 +15526,6 @@
         "zlibbioc"
     ],
     "iBBiG": [],
-    "ibh": [],
     "iBMQ": [
         "Biobase",
         "BiocGenerics"
@@ -15702,7 +15683,6 @@
         "goseq",
         "graph",
         "limma",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO",
@@ -15823,8 +15803,7 @@
         "zlibbioc"
     ],
     "IHW": [
-        "BiocGenerics",
-        "lpsymphony"
+        "BiocGenerics"
     ],
     "illuminaio": [],
     "IMAS": [
@@ -16927,7 +16906,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "LBE": [],
     "ldblock": [
         "BiocGenerics"
     ],
@@ -17231,7 +17209,6 @@
         "LPE"
     ],
     "lpNet": [],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
@@ -18914,7 +18891,6 @@
         "limma",
         "minfi",
         "multtest",
-        "planet",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -20025,7 +20001,6 @@
         "XVector",
         "edgeR",
         "limma",
-        "sSeq",
         "zlibbioc"
     ],
     "MMDiff2": [
@@ -22184,7 +22159,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "rWikiPathways",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -24068,7 +24042,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "planet": [],
     "planttfhunter": [
         "Biobase",
         "BiocGenerics",
@@ -26773,7 +26746,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "rgoslin": [],
     "RGraph2js": [
         "BiocGenerics",
         "graph"
@@ -28208,7 +28180,6 @@
         "snpStats",
         "zlibbioc"
     ],
-    "rWikiPathways": [],
     "S4Arrays": [
         "BiocGenerics",
         "IRanges",
@@ -29583,7 +29554,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "limma",
         "metapod",
@@ -31995,7 +31965,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
@@ -33298,7 +33267,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "rWikiPathways",
         "tkWidgets",
         "treeio",
         "widgetTools",
