@@ -23,7 +23,6 @@
         "preprocessCore"
     ],
     "affycoretools": [
-        "GOstats",
         "Glimma",
         "ReportingTools",
         "gcrma",
@@ -49,7 +48,6 @@
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
-        "GOstats",
         "Glimma",
         "ReportingTools",
         "affycoretools",
@@ -217,9 +215,7 @@
         "BiocVersion"
     ],
     "atSNP": [],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "AUCell": [],
     "ballgown": [],
     "BANDITS": [],
@@ -270,8 +266,7 @@
         "TreeSummarizedExperiment",
         "mia",
         "scater",
-        "treeio",
-        "zinbwave"
+        "treeio"
     ],
     "bgx": [
         "gcrma",
@@ -450,9 +445,7 @@
         "FlowSOM",
         "scater"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "cBioPortalData"
     ],
@@ -617,9 +610,7 @@
         "vsn"
     ],
     "clustComp": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "enrichplot",
@@ -691,7 +682,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "karyoploteR"
     ],
@@ -806,12 +796,9 @@
         "flowViz",
         "openCyto"
     ],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC"
+        "CytoPipeline"
     ],
     "cytoviewer": [
         "cytomapper"
@@ -964,7 +951,6 @@
         "pathview",
         "zenith"
     ],
-    "DropletUtils": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "preprocessCore"
@@ -989,7 +975,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "eisaR": [],
     "ELMER": [
         "Gviz"
     ],
@@ -1133,7 +1118,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1232,7 +1216,6 @@
     ],
     "GeneOverlap": [],
     "geneplast": [],
-    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz"
     ],
@@ -1297,7 +1280,6 @@
     "Glimma": [],
     "globalSeq": [],
     "GmicR": [
-        "GOstats",
         "preprocessCore"
     ],
     "GNOSIS": [
@@ -1310,7 +1292,6 @@
         "ggtree",
         "treeio"
     ],
-    "GOstats": [],
     "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
@@ -1413,7 +1394,6 @@
         "preprocessCore"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "IdeoViz": [],
@@ -1476,7 +1456,6 @@
     "iSEEhub": [
         "BiocVersion"
     ],
-    "iSEEindex": [],
     "iSEEu": [],
     "isobar": [],
     "IsoCorrectoR": [],
@@ -1526,7 +1505,6 @@
         "vsn",
         "xcms"
     ],
-    "LoomExperiment": [],
     "LPE": [],
     "LPEadj": [
         "LPE"
@@ -1617,7 +1595,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "MatrixRider": [],
     "MBCB": [
         "preprocessCore"
     ],
@@ -1817,7 +1794,6 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "miloR": [],
     "mimager": [
         "affyPLM",
         "gcrma",
@@ -1825,7 +1801,6 @@
     ],
     "mina": [],
     "MineICA": [
-        "GOstats",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -1848,9 +1823,7 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "illuminaio",
         "methylumi",
@@ -2091,11 +2064,9 @@
     ],
     "netSmooth": [
         "clusterExperiment",
-        "scater",
-        "zinbwave"
+        "scater"
     ],
     "netZooR": [
-        "GOstats",
         "STRINGdb",
         "illuminaio",
         "minfi",
@@ -2208,9 +2179,7 @@
         "KEGGgraph"
     ],
     "paxtoolsr": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
         "CoreGx",
         "piano"
@@ -2218,7 +2187,6 @@
     "pdInfoBuilder": [
         "preprocessCore"
     ],
-    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "preprocessCore",
@@ -2281,9 +2249,7 @@
     "plier": [
         "preprocessCore"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotgardener": [
         "plyranges"
     ],
@@ -2424,9 +2390,7 @@
         "CoreGx",
         "piano"
     ],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [
         "supraHex"
     ],
@@ -2437,7 +2401,6 @@
     "Rbec": [
         "dada2"
     ],
-    "RBM": [],
     "rCGH": [
         "preprocessCore"
     ],
@@ -2508,7 +2471,6 @@
         "vsn"
     ],
     "ReportingTools": [
-        "GOstats",
         "ggbio"
     ],
     "ResidualMatrix": [],
@@ -2666,17 +2628,13 @@
     "SCArray.sat": [],
     "scater": [],
     "scatterHatch": [],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "SCBN": [],
     "scBubbletree": [
         "ggtree",
         "treeio"
     ],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "Cepo"
     ],
@@ -2689,7 +2647,6 @@
         "metapod",
         "scran"
     ],
-    "scde": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -2720,7 +2677,6 @@
     "scoreInvHap": [],
     "scp": [],
     "scPipe": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -2738,7 +2694,6 @@
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
-        "GOstats",
         "ReactomePA",
         "enrichplot",
         "ggtree",
@@ -2793,9 +2748,7 @@
     "sevenC": [
         "InteractionSet"
     ],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [
         "illuminaio",
         "minfi",
@@ -2843,7 +2796,6 @@
     ],
     "singleCellTK": [
         "BiocVersion",
-        "DropletUtils",
         "GSVA",
         "ResidualMatrix",
         "basilisk",
@@ -2858,8 +2810,7 @@
         "scater",
         "scran",
         "treeio",
-        "zellkonverter",
-        "zinbwave"
+        "zellkonverter"
     ],
     "SingleMoleculeFootprinting": [],
     "sitePath": [
@@ -2900,7 +2851,6 @@
         "annotatr"
     ],
     "Spaniel": [
-        "DropletUtils",
         "metapod",
         "scater",
         "scran"
@@ -2966,7 +2916,6 @@
     "STRINGdb": [],
     "supraHex": [],
     "survtype": [],
-    "svaNUMT": [],
     "SwathXtend": [],
     "synapter": [
         "MSnbase",
@@ -3083,7 +3032,6 @@
     "TRONCO": [],
     "ttgsea": [],
     "TurboNorm": [
-        "convert",
         "preprocessCore"
     ],
     "TVTB": [
@@ -3139,7 +3087,6 @@
     ],
     "veloviz": [],
     "VERSO": [],
-    "vidger": [],
     "vissE": [
         "BiocVersion"
     ],
@@ -3214,6 +3161,5 @@
         "KEGGgraph",
         "SPIA",
         "pathview"
-    ],
-    "zinbwave": []
+    ]
 }
