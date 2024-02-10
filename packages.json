@@ -9,8 +9,7 @@
     "ACE": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
     "ADaCGH2": [
         "preprocessCore",
@@ -78,7 +77,6 @@
     ],
     "alabaster": [
         "HDF5Array",
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
@@ -137,7 +135,6 @@
     ],
     "alabaster.spatial": [
         "HDF5Array",
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -204,16 +201,13 @@
     "arrayMvout": [
         "HDF5Array",
         "affyContam",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
         "preprocessCore"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
@@ -225,7 +219,6 @@
     "ARRmNormalization": [],
     "artMS": [
         "MSstats",
-        "marray",
         "preprocessCore"
     ],
     "ASAFE": [],
@@ -359,7 +352,6 @@
     "BiGGR": [],
     "bigmelon": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -370,7 +362,6 @@
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
@@ -444,9 +435,7 @@
         "QDNAseq",
         "annotatr",
         "bsseq",
-        "bumphunter",
-        "dmrseq",
-        "marray"
+        "dmrseq"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -493,7 +482,6 @@
     "brainflowprobes": [
         "BiocVersion",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -510,7 +498,6 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "bumphunter": [],
     "BUS": [
         "minet"
     ],
@@ -557,7 +544,6 @@
         "Category",
         "Heatplus",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
         "minet",
@@ -582,7 +568,6 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [
@@ -590,8 +575,7 @@
         "treeio"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "BiocVersion",
@@ -612,7 +596,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [],
     "celda": [
         "metapod",
@@ -664,8 +647,7 @@
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
     "cfDNAPro": [
         "plyranges"
@@ -677,24 +659,19 @@
         "dir.expiry"
     ],
     "CGEN": [],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools"
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "BiocVersion",
@@ -703,10 +680,8 @@
         "HDF5Array",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "illuminaio",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -854,8 +829,7 @@
         "biovizBase"
     ],
     "coMethDMR": [
-        "BiocVersion",
-        "bumphunter"
+        "BiocVersion"
     ],
     "COMPASS": [
         "BiocStyle"
@@ -864,7 +838,6 @@
     "compEpiTools": [
         "Gviz",
         "biovizBase",
-        "marray",
         "methylPipe"
     ],
     "CompoundDb": [
@@ -895,20 +868,16 @@
     "contiBAIT": [],
     "conumee": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "CopyNumberPlots": [
         "biovizBase",
         "karyoploteR"
     ],
     "CoreGx": [
-        "marray",
         "piano"
     ],
     "Cormotif": [
@@ -939,11 +908,9 @@
     ],
     "countsimQC": [],
     "covRNA": [],
-    "cpvSNP": [],
     "cqn": [
         "preprocessCore"
     ],
-    "crisprBwa": [],
     "crisprDesign": [
         "BiocVersion",
         "basilisk",
@@ -1000,9 +967,7 @@
         "BiocVersion"
     ],
     "ctsGE": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -1035,29 +1000,24 @@
         "scuttle"
     ],
     "cytomapper": [
-        "HDF5Array",
-        "SpatialExperiment"
+        "HDF5Array"
     ],
     "CytoML": [
         "flowViz",
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "cytoviewer": [
         "HDF5Array",
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [],
@@ -1065,9 +1025,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DAMEfinder": [
-        "bumphunter"
-    ],
+    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq",
         "sva"
@@ -1117,7 +1075,6 @@
     ],
     "deconvR": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "methylKit",
         "minfi",
@@ -1159,12 +1116,9 @@
         "vsn"
     ],
     "DEqMS": [],
-    "derfinder": [
-        "bumphunter"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "ggbio"
     ],
@@ -1172,9 +1126,7 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "destiny": [],
     "DEsubs": [],
     "DExMA": [
@@ -1225,7 +1177,6 @@
         "HDF5Array",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -1236,8 +1187,7 @@
         "BiocVersion",
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "bumphunter"
+        "bsseq"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -1276,9 +1226,7 @@
         "HDF5Array",
         "bsseq"
     ],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "DynDoc": [],
     "easier": [
         "BiocVersion",
@@ -1319,7 +1267,6 @@
     "ENmix": [
         "BiocVersion",
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -1370,7 +1317,6 @@
         "Gviz",
         "HDF5Array",
         "biovizBase",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -1383,7 +1329,6 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
@@ -1391,7 +1336,6 @@
     ],
     "epivizrData": [],
     "epivizrStandalone": [
-        "bumphunter",
         "epivizr",
         "epivizrData"
     ],
@@ -1411,9 +1355,7 @@
         "GSVA",
         "HDF5Array"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
@@ -1434,7 +1376,6 @@
         "BiocVersion"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
         "TreeSummarizedExperiment",
         "treeio"
     ],
@@ -1472,7 +1413,6 @@
     ],
     "ffpe": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -1521,15 +1461,13 @@
         "flowViz"
     ],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowGraph": [],
     "flowPeaks": [],
     "FlowSOM": [],
     "flowStats": [
-        "flowViz",
-        "flowWorkspace"
+        "flowViz"
     ],
     "flowTrans": [
         "flowViz"
@@ -1537,10 +1475,8 @@
     "flowViz": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
-        "flowWorkspace"
+        "flowViz"
     ],
-    "flowWorkspace": [],
     "FRASER": [
         "HDF5Array",
         "OUTRIDER"
@@ -1554,7 +1490,6 @@
     ],
     "funtooNorm": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -1594,7 +1529,6 @@
         "gDRcore",
         "gDRimport",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRcore": [
@@ -1604,7 +1538,6 @@
         "CoreGx",
         "PharmacoGx",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRstyle": [
@@ -1616,8 +1549,7 @@
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
     "genefu": [],
     "GeneOverlap": [],
@@ -1686,17 +1618,13 @@
     "ggbio": [
         "biovizBase"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmsa": [
         "ggtree",
         "treeio"
     ],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtree": [
         "treeio"
     ],
@@ -1722,7 +1650,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "GOSim": [],
@@ -1785,7 +1712,6 @@
     "Heatplus": [],
     "HelloRanges": [],
     "hermes": [],
-    "HERON": [],
     "HiCcompare": [
         "InteractionSet"
     ],
@@ -1825,9 +1751,7 @@
     ],
     "HIPPO": [],
     "HIREewas": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "hpar": [
         "BiocVersion"
     ],
@@ -1851,14 +1775,12 @@
     ],
     "iCheck": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
         "preprocessCore"
     ],
-    "iChip": [],
     "iCNV": [],
     "ideal": [
         "Category",
@@ -1871,7 +1793,6 @@
     "illuminaio": [],
     "imcRtools": [
         "HDF5Array",
-        "SpatialExperiment",
         "cytomapper",
         "scuttle"
     ],
@@ -1879,7 +1800,6 @@
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "flowWorkspace",
         "preprocessCore"
     ],
     "immunoClust": [],
@@ -1889,7 +1809,6 @@
         "HDF5Array",
         "Pigengene",
         "ReactomePA",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2009,7 +1928,6 @@
         "ropls"
     ],
     "lisaClust": [
-        "SpatialExperiment",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -2035,7 +1953,6 @@
     ],
     "lumi": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -2069,7 +1986,6 @@
     "MAGAR": [
         "HDF5Array",
         "RnBeads",
-        "bumphunter",
         "crlmm",
         "illuminaio",
         "methylumi",
@@ -2110,7 +2026,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "marray": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -2155,7 +2070,6 @@
         "Gviz",
         "HDF5Array",
         "biovizBase",
-        "bumphunter",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -2166,7 +2080,6 @@
     "MeasurementError.cor": [],
     "MEAT": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -2259,7 +2172,6 @@
     ],
     "MethylAid": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -2267,7 +2179,6 @@
     "methylCC": [
         "HDF5Array",
         "bsseq",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "plyranges",
@@ -2279,14 +2190,12 @@
         "BiocVersion",
         "ExperimentHubData",
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
     ],
     "methylGSA": [
         "HDF5Array",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2301,12 +2210,10 @@
         "methylKit"
     ],
     "methylKit": [],
-    "MethylMix": [],
     "methylMnM": [],
     "methylPipe": [
         "Gviz",
-        "biovizBase",
-        "marray"
+        "biovizBase"
     ],
     "MethylSeekR": [],
     "methylSig": [
@@ -2316,7 +2223,6 @@
     ],
     "methylumi": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -2401,10 +2307,8 @@
         "Category",
         "GOstats",
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "preprocessCore"
@@ -2412,7 +2316,6 @@
     "minet": [],
     "minfi": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "preprocessCore"
     ],
@@ -2436,7 +2339,6 @@
     ],
     "missMethyl": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -2474,9 +2376,7 @@
         "dir.expiry"
     ],
     "mogsa": [],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
         "TFBSTools"
@@ -2582,25 +2482,21 @@
         "Spectra"
     ],
     "MSstats": [
-        "marray",
         "preprocessCore"
     ],
     "MSstatsBig": [
         "MSstats",
-        "marray",
         "preprocessCore"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "marray",
         "preprocessCore"
     ],
     "MSstatsPTM": [
         "MSstats",
         "MSstatsTMT",
-        "marray",
         "preprocessCore"
     ],
     "MSstatsQC": [
@@ -2618,12 +2514,10 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "marray",
         "preprocessCore"
     ],
     "MSstatsTMT": [
         "MSstats",
-        "marray",
         "preprocessCore"
     ],
     "MultiBaC": [
@@ -2746,7 +2640,6 @@
         "GOstats",
         "HDF5Array",
         "STRINGdb",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore",
@@ -2755,12 +2648,8 @@
     ],
     "NewWave": [],
     "nipalsMCIA": [],
-    "nnNorm": [
-        "marray"
-    ],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnNorm": [],
+    "nnSVG": [],
     "nondetects": [
         "HTqPCR",
         "preprocessCore"
@@ -2795,13 +2684,10 @@
     "oligo": [
         "preprocessCore"
     ],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
         "DynDoc",
         "OLIN",
-        "marray",
         "tkWidgets"
     ],
     "omicplotR": [],
@@ -2820,8 +2706,7 @@
         "BiocVersion"
     ],
     "openCyto": [
-        "flowViz",
-        "flowWorkspace"
+        "flowViz"
     ],
     "openPrimeR": [],
     "openPrimeRui": [
@@ -2905,15 +2790,12 @@
     "PDATK": [
         "CoreGx",
         "genefu",
-        "marray",
         "piano"
     ],
     "pdInfoBuilder": [
         "preprocessCore"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "preprocessCore",
@@ -2933,7 +2815,6 @@
     "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "phemd": [
@@ -2966,9 +2847,7 @@
     "Pi": [
         "supraHex"
     ],
-    "piano": [
-        "marray"
-    ],
+    "piano": [],
     "pickgene": [],
     "Pigengene": [
         "BiocStyle",
@@ -3013,7 +2892,6 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "POMA": [],
     "POWSC": [],
     "ppcseq": [],
     "PPInfer": [
@@ -3095,7 +2973,6 @@
     ],
     "psichomics": [
         "BiocVersion",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
@@ -3128,8 +3005,7 @@
     ],
     "QDNAseq": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "QFeatures": [],
     "qmtools": [],
@@ -3153,7 +3029,6 @@
     ],
     "quantro": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -3167,7 +3042,6 @@
     "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "RAIDS": [
@@ -3186,9 +3060,7 @@
     "Rbec": [
         "dada2"
     ],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "RCAS": [],
     "rCGH": [
         "preprocessCore"
@@ -3225,14 +3097,12 @@
         "phyloseq"
     ],
     "recount": [
-        "bumphunter",
         "derfinder"
     ],
     "recountmethylation": [
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
-        "bumphunter",
         "dir.expiry",
         "illuminaio",
         "minfi",
@@ -3256,7 +3126,6 @@
     "regionReport": [
         "BiocStyle",
         "DEFormats",
-        "bumphunter",
         "derfinder"
     ],
     "regsplice": [],
@@ -3268,7 +3137,6 @@
     "REMP": [
         "BiocVersion",
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -3352,13 +3220,10 @@
         "BiocStyle"
     ],
     "RNAAgeCalc": [
-        "bumphunter",
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -3388,13 +3253,11 @@
     "rnaseqcomp": [],
     "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
-        "bumphunter",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -3425,9 +3288,7 @@
     "RRHO": [],
     "rsemmed": [],
     "RSVSim": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTN": [
         "minet"
     ],
@@ -3527,11 +3388,8 @@
         "scuttle"
     ],
     "scGPS": [],
-    "schex": [],
     "scHOT": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scMerge": [
         "ResidualMatrix",
         "batchelor",
@@ -3592,15 +3450,12 @@
         "enrichplot",
         "ggtree",
         "meshr",
-        "schex",
         "treeio"
     ],
     "scTGIF": [
-        "BiocStyle",
-        "schex"
+        "BiocStyle"
     ],
     "scTreeViz": [
-        "bumphunter",
         "epivizr",
         "epivizrData",
         "metapod",
@@ -3660,14 +3515,12 @@
     ],
     "shinyepico": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
     ],
     "shinyMethyl": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -3689,7 +3542,6 @@
     "signifinder": [
         "GSVA",
         "HDF5Array",
-        "SpatialExperiment",
         "consensusOV",
         "genefu"
     ],
@@ -3713,7 +3565,6 @@
     "SIMLR": [],
     "simpleSeg": [
         "HDF5Array",
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [],
@@ -3760,7 +3611,6 @@
     ],
     "skewr": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -3810,20 +3660,14 @@
     ],
     "sparrow": [],
     "sparsenetgls": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
     "spatialDE": [
-        "SpatialExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
     "SpatialDecon": [],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "metapod",
         "scater",
@@ -3850,12 +3694,9 @@
         "KEGGgraph"
     ],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
-    "spicyR": [
-        "SpatialExperiment"
-    ],
+    "spicyR": [],
     "splatter": [
         "scuttle"
     ],
@@ -3869,9 +3710,7 @@
         "biovizBase"
     ],
     "splots": [],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [
         "biomformat",
@@ -3888,8 +3727,7 @@
     "sSNAPPY": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "Category",
@@ -3901,15 +3739,9 @@
     "STATegRa": [
         "preprocessCore"
     ],
-    "Statial": [
-        "SpatialExperiment"
-    ],
-    "stepNorm": [
-        "marray"
-    ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
+    "stepNorm": [],
+    "stJoincount": [],
     "STRINGdb": [],
     "StructuralVariantAnnotation": [],
     "supraHex": [],
@@ -3957,7 +3789,6 @@
     "TCC": [
         "baySeq"
     ],
-    "TCGAutils": [],
     "TCseq": [],
     "TDbasedUFEadv": [
         "STRINGdb",
@@ -3974,9 +3805,7 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [
         "ORFik"
@@ -3985,15 +3814,12 @@
     "tidybulk": [
         "preprocessCore"
     ],
-    "tidySingleCellExperiment": [],
     "TileDBArray": [],
     "tilingArray": [
         "preprocessCore",
         "vsn"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
@@ -4007,7 +3833,6 @@
         "preprocessCore"
     ],
     "TissueEnrich": [],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc"
     ],
@@ -4023,7 +3848,6 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "TPP": [],
@@ -4080,7 +3904,6 @@
     "ttgsea": [],
     "TurboNorm": [
         "convert",
-        "marray",
         "preprocessCore"
     ],
     "TVTB": [
@@ -4156,7 +3979,6 @@
         "BiocVersion"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vsn": [
@@ -4177,7 +3999,6 @@
     "waddR": [],
     "wateRmelon": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -4206,7 +4027,6 @@
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
-        "marray",
         "piano"
     ],
     "XINA": [
@@ -4221,7 +4041,6 @@
     ],
     "yarn": [
         "HDF5Array",
-        "bumphunter",
         "illuminaio",
         "minfi",
         "preprocessCore",
