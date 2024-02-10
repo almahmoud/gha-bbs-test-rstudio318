@@ -2,9 +2,7 @@
     "abseqR": [
         "BiocStyle"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "preprocessCore",
         "snapCGH",
@@ -301,7 +299,6 @@
     ],
     "biscuiteer": [
         "BiocVersion",
-        "QDNAseq",
         "annotatr",
         "dmrseq"
     ],
@@ -442,9 +439,7 @@
         "ggtree",
         "treeio"
     ],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "cfDNAPro": [
         "plyranges"
     ],
@@ -455,7 +450,6 @@
         "dir.expiry"
     ],
     "CGEN": [],
-    "CGHnormaliter": [],
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
@@ -1005,11 +999,8 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "gDRstyle": [],
     "genArise": [],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "GeneOverlap": [],
     "geneplast": [],
     "geNetClassifier": [
@@ -2030,7 +2021,6 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "QDNAseq": [],
     "qpcrNorm": [
         "preprocessCore"
     ],
@@ -2171,9 +2161,6 @@
         "splots",
         "vsn"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "rnaseqcomp": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [
@@ -2352,7 +2339,6 @@
         "ggtree",
         "treeio"
     ],
-    "signifinder": [],
     "SimBindProfiles": [
         "Ringo",
         "preprocessCore",
