@@ -234,7 +234,6 @@
     "alabaster": [
         "BSgenome",
         "BiocIO",
-        "BumpyMatrix",
         "DelayedArray",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -268,7 +267,6 @@
         "rhdf5"
     ],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "alabaster.base",
         "alabaster.schemas",
         "rhdf5"
@@ -956,7 +954,6 @@
         "GenomicRanges",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -1405,7 +1402,6 @@
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
@@ -1413,7 +1409,6 @@
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "biomaRt": [],
     "biomformat": [
         "rhdf5"
@@ -1846,7 +1841,6 @@
         "limma",
         "rtracklayer"
     ],
-    "BumpyMatrix": [],
     "BUS": [
         "minet"
     ],
@@ -2004,7 +1998,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2929,7 +2922,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2944,10 +2936,8 @@
         "xcms"
     ],
     "Clomial": [],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
@@ -3121,7 +3111,6 @@
         "GenomicRanges",
         "RaggedExperiment",
         "S4Arrays",
-        "SNPRelate",
         "SeqArray",
         "SparseArray",
         "SummarizedExperiment",
@@ -3313,7 +3302,6 @@
         "AnnotationFilter",
         "GenomicRanges",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "concordexR": [
@@ -3486,7 +3474,6 @@
     ],
     "coRdon": [],
     "CoreGx": [
-        "BumpyMatrix",
         "DelayedArray",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -3534,7 +3521,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4093,7 +4079,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -4169,7 +4154,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [],
     "decontX": [
         "BiocNeighbors",
         "BiocSingular",
@@ -4393,7 +4377,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MSnbase",
-        "MsCoreUtils",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -4630,7 +4613,6 @@
         "limma",
         "rtracklayer"
     ],
-    "diggit": [],
     "Dino": [
         "BiocNeighbors",
         "BiocSingular",
@@ -5087,7 +5069,6 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eiR": [],
     "eisaR": [
         "DelayedArray",
         "GenomicRanges",
@@ -5772,7 +5753,6 @@
         "treeio"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "preprocessCore"
     ],
     "FastqCleaner": [
@@ -5910,7 +5890,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -6293,7 +6272,6 @@
         "rtracklayer"
     ],
     "gDR": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomicRanges",
@@ -6310,7 +6288,6 @@
         "piano"
     ],
     "gDRcore": [
-        "BumpyMatrix",
         "DelayedArray",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -6320,7 +6297,6 @@
         "gDRutils"
     ],
     "gDRimport": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomicRanges",
@@ -6340,7 +6316,6 @@
         "biocViews"
     ],
     "gDRutils": [
-        "BumpyMatrix",
         "DelayedArray",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -6352,7 +6327,6 @@
         "DelayedArray",
         "GenomicRanges",
         "S4Arrays",
-        "SNPRelate",
         "SeqArray",
         "SparseArray"
     ],
@@ -6419,7 +6393,6 @@
     "GENESIS": [
         "GWASTools",
         "GenomicRanges",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools"
     ],
@@ -6758,7 +6731,6 @@
         "SeqArray"
     ],
     "ggmsa": [
-        "R4RNA",
         "ggtree",
         "treeio"
     ],
@@ -7022,9 +6994,7 @@
     "graper": [],
     "GraphAT": [],
     "graphite": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
@@ -7214,7 +7184,6 @@
         "GenomicRanges",
         "Rsamtools",
         "S4Arrays",
-        "SNPRelate",
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -7934,7 +7903,6 @@
         "SummarizedExperiment",
         "rhdf5"
     ],
-    "iPAC": [],
     "ipdDb": [
         "AnnotationHub",
         "BiocVersion",
@@ -7947,7 +7915,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -8304,7 +8271,6 @@
         "limma",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "DelayedArray",
@@ -8329,7 +8295,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -8547,7 +8512,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -8909,7 +8873,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "S4Arrays",
@@ -8917,9 +8880,7 @@
         "Spectra",
         "SummarizedExperiment"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "DelayedArray",
         "GenomicRanges",
@@ -8981,7 +8942,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -9049,7 +9009,6 @@
     ],
     "MetCirc": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "methimpute": [
@@ -9797,7 +9756,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -9929,7 +9887,6 @@
         "SummarizedExperiment"
     ],
     "mosbi": [],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -10039,30 +9996,24 @@
     ],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
-    "MsCoreUtils": [],
     "MsDataHub": [
         "AnnotationHub",
         "BiocVersion",
@@ -10073,7 +10024,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "S4Arrays",
@@ -10084,7 +10034,6 @@
     "MsFeatures": [
         "DelayedArray",
         "GenomicRanges",
-        "MsCoreUtils",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment"
@@ -10138,14 +10087,12 @@
     "mslp": [],
     "msmsEDA": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
-        "MsCoreUtils",
         "edgeR",
         "limma",
         "msmsEDA",
@@ -10153,7 +10100,6 @@
         "vsn"
     ],
     "MSnbase": [
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
@@ -10163,7 +10109,6 @@
         "BiocStyle",
         "BiocVersion",
         "MSnbase",
-        "MsCoreUtils",
         "edgeR",
         "limma",
         "msmsEDA",
@@ -10189,7 +10134,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "GenomicRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "S4Arrays",
@@ -10202,7 +10146,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
         "QFeatures",
@@ -10239,7 +10182,6 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "qcmetrics",
@@ -10248,7 +10190,6 @@
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "qcmetrics",
@@ -10594,7 +10535,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -11404,7 +11344,6 @@
         "sparseMatrixStats"
     ],
     "PDATK": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomicRanges",
@@ -11441,7 +11380,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
@@ -11506,7 +11444,6 @@
         "rhdf5client"
     ],
     "PharmacoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomicRanges",
@@ -11540,7 +11477,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biodbChebi",
         "limma",
         "ropls"
     ],
@@ -11885,7 +11821,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
@@ -11964,7 +11899,6 @@
         "GenomicRanges",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -11980,7 +11914,6 @@
         "GenomicRanges",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -12014,7 +11947,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -12080,7 +12012,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "GenomicRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "S4Arrays",
@@ -12094,7 +12025,6 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "rhdf5",
@@ -12175,7 +12105,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "GenomicRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "S4Arrays",
         "SparseArray",
@@ -12184,7 +12113,6 @@
     "qmtools": [
         "DelayedArray",
         "GenomicRanges",
-        "MsCoreUtils",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -12211,7 +12139,6 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
@@ -12300,8 +12227,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "BSgenome",
@@ -12372,9 +12298,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomicRanges",
@@ -12420,7 +12344,6 @@
         "GenomicRanges",
         "Rsamtools",
         "S4Arrays",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "SparseArray",
@@ -12483,7 +12406,6 @@
     ],
     "RBGL": [],
     "RBioFormats": [],
-    "RBioinf": [],
     "RBM": [
         "limma",
         "marray"
@@ -12914,7 +12836,6 @@
         "dir.expiry"
     ],
     "rexposome": [],
-    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [
         "GenomicRanges",
@@ -13132,7 +13053,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -13199,7 +13119,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
@@ -14165,7 +14084,6 @@
         "AnnotationFilter",
         "DelayedArray",
         "GenomicRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "S4Arrays",
@@ -14560,8 +14478,7 @@
         "AnnotationHub",
         "BiocVersion",
         "ExperimentHub",
-        "GenomicRanges",
-        "SNPRelate"
+        "GenomicRanges"
     ],
     "SeqVarTools": [
         "GenomicRanges",
@@ -15133,7 +15050,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [],
     "soGGi": [
         "BiocIO",
         "DelayedArray",
@@ -15194,9 +15110,7 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "BiocNeighbors",
         "BiocSingular",
@@ -15368,8 +15282,7 @@
     ],
     "specL": [],
     "Spectra": [
-        "MetaboCoreUtils",
-        "MsCoreUtils"
+        "MetaboCoreUtils"
     ],
     "SpectralTAD": [
         "DelayedArray",
@@ -15817,7 +15730,6 @@
     "synapsis": [],
     "synapter": [
         "MSnbase",
-        "MsCoreUtils",
         "cleaver",
         "limma",
         "preprocessCore",
@@ -16259,14 +16171,12 @@
     ],
     "topdownr": [
         "MSnbase",
-        "MsCoreUtils",
         "limma",
         "preprocessCore",
         "vsn"
     ],
     "topGO": [],
     "ToxicoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DelayedArray",
         "GenomicRanges",
@@ -16770,7 +16680,6 @@
         "GDSArray",
         "GenomicRanges",
         "S4Arrays",
-        "SNPRelate",
         "SeqArray",
         "SparseArray",
         "SummarizedExperiment"
@@ -17082,7 +16991,6 @@
         "GenomicRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -17112,7 +17020,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BumpyMatrix",
         "ComplexHeatmap",
         "CoreGx",
         "DelayedArray",
