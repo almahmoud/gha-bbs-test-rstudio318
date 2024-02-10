@@ -202,7 +202,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "affxparser": [],
     "affy": [
         "affyio",
         "preprocessCore",
@@ -272,7 +271,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "gcrma",
@@ -875,7 +873,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "mia",
         "scater",
         "scuttle",
@@ -1210,7 +1207,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "limma",
         "oligo",
@@ -1255,7 +1251,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "parody",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -2227,7 +2222,6 @@
         "biomformat",
         "bluster",
         "dearseq",
-        "decontam",
         "edgeR",
         "genefilter",
         "limma",
@@ -2403,7 +2397,6 @@
     ],
     "Biobase": [],
     "biobroom": [],
-    "biobtreeR": [],
     "bioCancer": [
         "AnVIL",
         "AnnotationDbi",
@@ -4891,7 +4884,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "frma",
@@ -5460,7 +5452,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -6138,7 +6129,6 @@
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats",
-        "survcomp",
         "zlibbioc"
     ],
     "consensusSeekeR": [
@@ -6813,7 +6803,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -7542,7 +7531,6 @@
     "DeconRNASeq": [
         "pcaMethods"
     ],
-    "decontam": [],
     "decontX": [
         "BiocNeighbors",
         "BiocParallel",
@@ -8852,7 +8840,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -10020,7 +10007,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "biomaRt",
         "fgsea",
         "graph",
@@ -10709,7 +10695,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "flowCyBar": [],
     "flowDensity": [
         "Rhdf5lib",
         "S4Vectors",
@@ -10918,7 +10903,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -11445,7 +11429,6 @@
         "biomaRt",
         "impute",
         "limma",
-        "survcomp",
         "zlibbioc"
     ],
     "GeneGA": [],
@@ -11499,7 +11482,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affxparser",
         "zlibbioc"
     ],
     "geneRxCluster": [
@@ -12837,7 +12819,6 @@
         "zlibbioc"
     ],
     "GSEAlm": [],
-    "GSEAmining": [],
     "gsean": [
         "AnnotationDbi",
         "BiocParallel",
@@ -13180,7 +13161,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "HDTD": [],
     "heatmaps": [
         "Biostrings",
         "EBImage",
@@ -13281,7 +13261,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "HIBAG": [],
     "HiCBricks": [
         "BiocParallel",
         "GenomeInfoDb",
@@ -13795,7 +13774,6 @@
     "iChip": [
         "limma"
     ],
-    "iClusterPlus": [],
     "iCNV": [
         "BSgenome",
         "BiocIO",
@@ -14691,7 +14669,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -16453,7 +16430,6 @@
         "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
-        "survcomp",
         "vsn",
         "zlibbioc"
     ],
@@ -17015,7 +16991,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -17065,7 +17040,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "ggtree",
         "mia",
         "scater",
@@ -17160,7 +17134,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "decontam",
         "edgeR",
         "ggtree",
         "limma",
@@ -17302,7 +17275,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyPLM",
         "affyio",
@@ -19815,7 +19787,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligoClasses",
         "preprocessCore",
@@ -20574,9 +20545,7 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [],
     "pareg": [
         "AnnotationDbi",
@@ -20596,7 +20565,6 @@
         "zlibbioc"
     ],
     "parglms": [],
-    "parody": [],
     "partCNV": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -20772,7 +20740,6 @@
         "limma",
         "marray",
         "piano",
-        "survcomp",
         "switchBox",
         "zlibbioc"
     ],
@@ -20788,7 +20755,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -20887,7 +20853,6 @@
         "limma",
         "zlibbioc"
     ],
-    "pepXMLTab": [],
     "periodicDNA": [
         "BSgenome",
         "BiocIO",
@@ -22074,7 +22039,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -22714,7 +22678,6 @@
         "supraHex"
     ],
     "randPack": [],
-    "randRotation": [],
     "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
@@ -22913,10 +22876,7 @@
     ],
     "rDGIdb": [],
     "Rdisop": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -23091,7 +23051,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RedeR": [],
     "RedisParam": [
         "BiocParallel"
     ],
@@ -24725,7 +24684,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -24743,7 +24701,6 @@
         "IRanges",
         "MatrixGenerics",
         "RTN",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -24762,7 +24719,6 @@
         "MatrixGenerics",
         "RTN",
         "RTNduals",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -25074,7 +25030,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -25467,7 +25422,6 @@
     "SCFA": [
         "BiocParallel"
     ],
-    "scFeatureFilter": [],
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
@@ -26910,7 +26864,6 @@
         "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
-        "survcomp",
         "zlibbioc"
     ],
     "SigsPack": [
@@ -28605,7 +28558,6 @@
         "msa",
         "zlibbioc"
     ],
-    "survcomp": [],
     "survtype": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -29749,7 +29701,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RedeR",
         "S4Vectors",
         "XVector",
         "biomaRt",
@@ -29898,9 +29849,7 @@
         "slingshot",
         "zlibbioc"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [],
     "treekoR": [
         "ComplexHeatmap",
