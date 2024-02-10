@@ -56,7 +56,7 @@ jobs:
           mkdir -p /tmp
           head -n$(($concurrentjobs*$packagesperjob)) tobuild.txt > /tmp/pkglist
           split -l $packagesperjob --numeric-suffixes /tmp/pkglist /tmp/dispatchlists
-          ls /tmp/dispatchlists* | xargs -i basename {} > /tmp/alllists
+          ls /tmp/dispatchlists* | xargs -r -i basename {} > /tmp/alllists
           # Output it as json parsable list "['pkgs1', 'pkgs2']"
           echo dispatchlists=$(echo "['$(cat /tmp/alllists |  paste -d, -s | sed s/,/\',\'/g)']") >> $GITHUB_OUTPUT
           # Remove lines from to build
@@ -136,8 +136,8 @@ jobs:
             cp /tmp/newtobuild tobuild.txt
             mkdir -p logs/$(cat runstarttime)/logs/dispatchlists
             mkdir -p lists
-            cat /tmp/alllists | xargs -i cp /tmp/{} logs/$(cat runstarttime)/logs/dispatchlists/${{ steps.uniq.outputs.time }}_{}
-            cat /tmp/pkglist | xargs -i sed -i 's/readytobuild/claimed/g' "lists/{}"
+            cat /tmp/alllists | xargs -r -i cp /tmp/{} logs/$(cat runstarttime)/logs/dispatchlists/${{ steps.uniq.outputs.time }}_{}
+            cat /tmp/pkglist | xargs -r -i sed -i 's/readytobuild/claimed/g' "lists/{}"
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
@@ -213,7 +213,7 @@ jobs:
 
             mkdir -p logs/$(cat runstarttime)/$(cat containername)/$(cat arch)/run_ids
 
-            cat $DISPATCHPATH | xargs -i bash /tmp/tempscripts/record_runids.sh {}
+            cat $DISPATCHPATH | xargs -r -i bash /tmp/tempscripts/record_runids.sh {}
 
             git add logs/$(cat runstarttime)
             git commit -m "Push run_id for ${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}"
@@ -231,7 +231,7 @@ jobs:
           cat /tmp/biocdeps_$PKG >> /tmp/allcurrdeps
           EOF
 
-          cat $DISPATCHPATH | xargs -i bash /tmp/tempscripts/get_deps.sh {}
+          cat $DISPATCHPATH | xargs -r -i bash /tmp/tempscripts/get_deps.sh {}
 
           echo dispatchpkgs=$(echo "'$(cat $DISPATCHPATH | paste -d, -s | sed s/,/\',\'/g)'") >> $GITHUB_OUTPUT
 
@@ -277,18 +277,18 @@ jobs:
           set -x
           DISPATCHPATH=${{steps.versions.outputs.dispatchlistpath}}
 
-          ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -i bash -c "tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo '{}' | sed 's/.tar.gz//g') && rm ${{steps.versions.outputs.library}}/{}"
+          ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -r -i bash -c "tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo '{}' | sed 's/.tar.gz//g') && rm ${{steps.versions.outputs.library}}/{}"
 
           # Prepare libraries for each package and add the restored dep libraries
           mkdir -p /tmp/tempscripts
           cat << "EOF" > /tmp/tempscripts/prepare_libraries.sh
           PKG="$1"
           mkdir -p ${{steps.versions.outputs.library}}/$PKG
-          cat /tmp/biocdeps_$PKG | xargs -i cp -r ${{steps.versions.outputs.library}}/{}/* ${{steps.versions.outputs.library}}/$PKG/
+          cat /tmp/biocdeps_$PKG | xargs -r -i cp -r ${{steps.versions.outputs.library}}/{}/* ${{steps.versions.outputs.library}}/$PKG/
           cat /tmp/biocdeps_$PKG >> /tmp/allcurrdeps
           EOF
 
-          cat $DISPATCHPATH | xargs -i bash /tmp/tempscripts/prepare_libraries.sh {}
+          cat $DISPATCHPATH | xargs -r -i bash /tmp/tempscripts/prepare_libraries.sh {}
 
           # Remove libraries from outside, as they were copied into each of the to build package libraries
           (cd ${{steps.versions.outputs.library}} && ls > /tmp/allLibraries && comm -23 <(sort /tmp/allLibraries) <(sort $DISPATCHPATH) | xargs -r -i rm -r {})
@@ -303,7 +303,7 @@ jobs:
           CONT_ID=$(docker run -d --user root -v ${{github.workspace}}:${{github.workspace}} -v /tmp:/tmp ghcr.io/bioconductor/bioconductor:3.18 sleep 21600)
           echo contid=$CONT_ID >> $GITHUB_OUTPUT
 
-          cat $DISPATCHPATH | xargs -i bash /tmp/tempscripts/run_build.sh "{}" "$CONT_ID"
+          cat $DISPATCHPATH | xargs -r -i bash /tmp/tempscripts/run_build.sh "{}" "$CONT_ID"
 
           if (ls /tmp/tars | grep -q "^${{matrix.pkg}}_"); then exit 0; else exit 1; fi
         continue-on-error: true
@@ -313,7 +313,7 @@ jobs:
         run: |
           set -x
           echo pkg=$(ls /tmp/tars/ | grep "^${{matrix.pkg}}_" | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
-          ls ${{steps.versions.outputs.library}}/ | grep -v 'tar.gz' | xargs -i bash -c "tar -zcvf ${{steps.versions.outputs.library}}/{}.tar.gz ${{steps.versions.outputs.library}}/{}"
+          ls ${{steps.versions.outputs.library}}/ | grep -v 'tar.gz' | xargs -r -i bash -c "tar -zcvf ${{steps.versions.outputs.library}}/{}.tar.gz ${{steps.versions.outputs.library}}/{}"
 
       - name: Push failed packages
         uses: nick-fields/retry@v3
@@ -329,7 +329,7 @@ jobs:
               git config user.email github-actions@github.com
 
               mkdir -p lists/failed
-              cat /tmp/results/allfailed | xargs -i bash -c "cp /tmp/pkglogs/{} lists/failed/{} && echo 'failed' > lists/{}"
+              cat /tmp/results/allfailed | xargs -r -i bash -c "cp /tmp/pkglogs/{} lists/failed/{} && echo 'failed' > lists/{}"
 
               git add lists
               git commit -m "Marked failed pkgs ${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}"
@@ -371,7 +371,7 @@ jobs:
           command: |
             set -x
             # Push binaries
-            ls /tmp/tars/ | sed 's#/tmp/tars/##g' | xargs -i rclone copy /tmp/tars/{} js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib/ -vvvvvv
+            ls /tmp/tars/ | sed 's#/tmp/tars/##g' | xargs -r -i rclone copy /tmp/tars/{} js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib/ -vvvvvv
 
       - name: Set token depending on whether a new workflow is needed
         id: tokenbuilt
@@ -407,7 +407,7 @@ jobs:
               git config user.name github-actions
               git config user.email github-actions@github.com
 
-              ls /tmp/tars/ | sed 's#/tmp/tars/##g' | awk -F'_' '{print $1}' | xargs -i bash -c 'bash .github/scripts/mark_done.sh {} packages.json && ls /tmp/tars/ | sed "s#/tmp/tars/##g" | grep "^{}_" > lists/{}'
+              ls /tmp/tars/ | sed 's#/tmp/tars/##g' | awk -F'_' '{print $1}' | xargs -r -i bash -c 'bash .github/scripts/mark_done.sh {} packages.json && ls /tmp/tars/ | sed "s#/tmp/tars/##g" | grep "^{}_" > lists/{}'
 
               git add lists
               git commit -m "Marked successful pkgs ${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}"
