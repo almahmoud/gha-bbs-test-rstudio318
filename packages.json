@@ -1662,7 +1662,6 @@
     "cqn": [
         "preprocessCore"
     ],
-    "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -2184,7 +2183,6 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "DNAshapeR": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -2347,7 +2345,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -2443,7 +2440,6 @@
     ],
     "epistack": [],
     "EpiTxDb": [
-        "Modstrings",
         "tRNA",
         "tRNAdbImport"
     ],
@@ -2569,7 +2565,6 @@
     ],
     "extraChIPs": [
         "AnnotationFilter",
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -3566,7 +3561,6 @@
         "preprocessCore",
         "sva"
     ],
-    "LACE": [],
     "lefser": [],
     "lemur": [
         "DelayedMatrixStats",
@@ -3776,7 +3770,6 @@
         "BiocVersion",
         "limma",
         "preprocessCore",
-        "proDA",
         "vsn"
     ],
     "MatrixRider": [
@@ -3907,8 +3900,7 @@
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [
-        "MultiAssayExperiment",
-        "struct"
+        "MultiAssayExperiment"
     ],
     "MetaboSignal": [
         "AnnotationFilter",
@@ -4341,7 +4333,6 @@
         "preprocessCore"
     ],
     "ModCon": [],
-    "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
@@ -4952,7 +4943,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "ORFik": [
         "DESeq2"
     ],
@@ -5059,7 +5049,6 @@
         "limma",
         "phyloseq"
     ],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -5312,11 +5301,9 @@
         "Icens"
     ],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -5476,7 +5463,6 @@
         "sva"
     ],
     "QTLExperiment": [],
-    "Qtlizer": [],
     "quantiseqr": [
         "preprocessCore"
     ],
@@ -5859,7 +5845,6 @@
     "RNAmodR": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -5867,7 +5852,6 @@
     "RNAmodR.AlkAnilineSeq": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5876,7 +5860,6 @@
     "RNAmodR.ML": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5885,7 +5868,6 @@
     "RNAmodR.RiboMethSeq": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5928,7 +5910,6 @@
         "limma"
     ],
     "ROCpAI": [],
-    "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
@@ -6728,7 +6709,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -6870,7 +6850,6 @@
         "limma"
     ],
     "ssPATHS": [],
-    "ssviz": [],
     "stageR": [],
     "standR": [
         "EDASeq",
@@ -6915,10 +6894,7 @@
     "strandCheckR": [],
     "Streamer": [],
     "STRINGdb": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -7225,15 +7201,11 @@
     "trio": [],
     "triplex": [],
     "tripr": [],
-    "tRNA": [
-        "Modstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
-        "Modstrings",
         "tRNA"
     ],
     "TRONCO": [],
@@ -7364,7 +7336,6 @@
     "VDJdive": [
         "SingleCellExperiment"
     ],
-    "VegaMC": [],
     "velociraptor": [
         "BiocSingular",
         "DelayedMatrixStats",
