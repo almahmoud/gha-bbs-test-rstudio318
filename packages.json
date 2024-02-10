@@ -189,7 +189,6 @@
         "BiocStyle"
     ],
     "AssessORF": [],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
@@ -205,7 +204,6 @@
     "attract": [],
     "AUCell": [],
     "ballgown": [],
-    "BANDITS": [],
     "bandle": [
         "BiocStyle",
         "MSnbase",
@@ -234,7 +232,6 @@
     "batchelor": [
         "ResidualMatrix"
     ],
-    "BatchQC": [],
     "BayesSpace": [
         "metapod",
         "scran"
@@ -243,7 +240,6 @@
     "beadarray": [
         "illuminaio"
     ],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
@@ -575,9 +571,7 @@
         "CopyNumberPlots"
     ],
     "CNVrd2": [],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cogeqc": [
         "ggtree",
         "treeio"
@@ -634,7 +628,6 @@
         "CARNIVAL"
     ],
     "COSNet": [],
-    "COTAN": [],
     "cqn": [
         "preprocessCore"
     ],
@@ -720,7 +713,6 @@
     ],
     "dada2": [],
     "dagLogo": [],
-    "DaMiRseq": [],
     "DAPAR": [
         "DynDoc",
         "MSnbase",
@@ -794,7 +786,6 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "DExMA": [],
     "DEXSeq": [],
     "diffcoexp": [
         "preprocessCore"
@@ -802,9 +793,7 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffGeneAnalysis": [],
     "diffHic": [
         "InteractionSet",
@@ -1027,7 +1016,6 @@
     "flowFP": [
         "flowViz"
     ],
-    "flowGate": [],
     "flowGraph": [],
     "flowPeaks": [],
     "FlowSOM": [],
@@ -1055,9 +1043,7 @@
         "preprocessCore"
     ],
     "GAprediction": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "flowFP",
         "flowViz"
@@ -1318,7 +1304,6 @@
     "iSEEhub": [
         "BiocVersion"
     ],
-    "iSEEu": [],
     "isobar": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
@@ -1654,7 +1639,6 @@
         "illuminaio",
         "preprocessCore"
     ],
-    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -1925,7 +1909,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "omicRexposome": [],
     "omicsViewer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -2168,7 +2151,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "qsvaR": [],
     "quantiseqr": [
         "preprocessCore"
     ],
@@ -2233,7 +2215,6 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2392,7 +2373,6 @@
     "scAnnotatR": [
         "BiocVersion"
     ],
-    "SCArray.sat": [],
     "scatterHatch": [],
     "scBFA": [],
     "SCBN": [],
@@ -2663,9 +2643,7 @@
     ],
     "TargetScore": [],
     "TargetSearch": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TDbasedUFEadv": [
         "STRINGdb",
         "enrichplot",
@@ -2732,7 +2710,6 @@
         "treeio"
     ],
     "tricycle": [],
-    "trigger": [],
     "tripr": [],
     "TRONCO": [],
     "ttgsea": [],
