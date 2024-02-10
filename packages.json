@@ -197,13 +197,11 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "ATACseqTFEA": [],
     "atena": [
         "BiocVersion"
     ],
     "attract": [],
     "AUCell": [],
-    "ballgown": [],
     "bandle": [
         "BiocStyle",
         "MSnbase",
@@ -261,7 +259,6 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
         "geNetClassifier",
@@ -308,7 +305,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [],
     "BioTIP": [
         "metapod",
         "scran"
@@ -396,7 +392,6 @@
     ],
     "canceR": [
         "Heatplus",
-        "cBioPortalData",
         "geNetClassifier",
         "minet",
         "phenoTest"
@@ -411,14 +406,11 @@
         "FlowSOM"
     ],
     "categoryCompare": [],
-    "cbaf": [
-        "cBioPortalData"
-    ],
+    "cbaf": [],
     "CBEA": [
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "cBioPortalData": [],
     "CBNplot": [
         "BiocVersion",
         "clusterProfiler",
@@ -712,7 +704,6 @@
         "CytoPipeline"
     ],
     "dada2": [],
-    "dagLogo": [],
     "DAPAR": [
         "DynDoc",
         "MSnbase",
@@ -1105,7 +1096,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GEOexplorer": [],
     "GEOsubmission": [
         "preprocessCore"
     ],
@@ -1140,9 +1130,7 @@
     "GmicR": [
         "preprocessCore"
     ],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -1180,7 +1168,6 @@
         "preprocessCore"
     ],
     "Harman": [],
-    "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs",
         "makecdfenv",
@@ -1315,7 +1302,6 @@
         "pfamAnalyzeR",
         "tximeta"
     ],
-    "isomiRs": [],
     "ITALICS": [
         "preprocessCore"
     ],
@@ -1436,7 +1422,6 @@
     "MBCB": [
         "preprocessCore"
     ],
-    "MBECS": [],
     "MBQN": [
         "preprocessCore"
     ],
@@ -1829,7 +1814,6 @@
         "metapod",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
@@ -1941,8 +1925,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "PAA": [],
-    "pageRank": [],
     "PAIRADISE": [],
     "pairedGSEA": [
         "DEXSeq"
@@ -2328,7 +2310,6 @@
     "Rqc": [
         "BiocStyle"
     ],
-    "rqt": [],
     "RRHO": [],
     "rsemmed": [],
     "RTN": [
@@ -2505,7 +2486,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SIMD": [],
     "SimFFPE": [],
     "similaRpeak": [],
     "SIMLR": [],
@@ -2532,7 +2512,6 @@
         "treeio",
         "zellkonverter"
     ],
-    "SingleMoleculeFootprinting": [],
     "sitePath": [
         "ggtree",
         "treeio"
@@ -2751,9 +2730,7 @@
     "VariantFiltering": [
         "BiocVersion"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "vbmp": [],
     "velociraptor": [
         "basilisk",
