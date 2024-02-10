@@ -394,7 +394,6 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "cbaf": [],
     "CBEA": [
         "TreeSummarizedExperiment",
         "treeio"
@@ -543,7 +542,6 @@
         "CopyNumberPlots"
     ],
     "CNVrd2": [],
-    "COCOA": [],
     "cogeqc": [
         "ggtree",
         "treeio"
@@ -752,7 +750,6 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [],
     "diffGeneAnalysis": [],
     "diffHic": [
         "InteractionSet",
@@ -996,7 +993,6 @@
         "preprocessCore"
     ],
     "GAprediction": [],
-    "GARS": [],
     "GateFinder": [
         "flowFP",
         "flowViz"
@@ -1086,7 +1082,6 @@
     "GmicR": [
         "preprocessCore"
     ],
-    "GNOSIS": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -2519,7 +2514,6 @@
     ],
     "TargetScore": [],
     "TargetSearch": [],
-    "TBSignatureProfiler": [],
     "TDbasedUFEadv": [
         "STRINGdb",
         "enrichplot",
@@ -2620,7 +2614,6 @@
     "VariantFiltering": [
         "BiocVersion"
     ],
-    "VaSP": [],
     "vbmp": [],
     "velociraptor": [
         "basilisk",
