@@ -658,7 +658,6 @@
         "XVector",
         "multtest"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1472,8 +1471,7 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
-        "pcaMethods"
+        "limma"
     ],
     "AWFisher": [
         "edgeR",
@@ -1626,7 +1624,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -1793,7 +1790,6 @@
         "limma",
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2718,7 +2714,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HiCBricks",
@@ -3325,7 +3320,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -3401,7 +3395,6 @@
     ],
     "Cardinal": [
         "CardinalIO",
-        "EBImage",
         "S4Vectors",
         "matter"
     ],
@@ -4796,7 +4789,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -4816,7 +4808,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -5451,7 +5442,6 @@
         "sparseMatrixStats"
     ],
     "CONFESS": [
-        "EBImage",
         "Rgraphviz",
         "S4Vectors",
         "SamSPECTRAL",
@@ -5494,7 +5484,6 @@
         "edgeR",
         "ensembldb",
         "limma",
-        "pcaMethods",
         "rtracklayer"
     ],
     "consensusOV": [
@@ -5769,7 +5758,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -5884,7 +5872,6 @@
         "preprocessCore"
     ],
     "CRImage": [
-        "EBImage",
         "aCGH",
         "multtest"
     ],
@@ -6436,7 +6423,6 @@
     "cytolib": [],
     "cytomapper": [
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -6520,7 +6506,6 @@
     ],
     "cytoviewer": [
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -6663,7 +6648,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "tkWidgets",
         "treeio",
@@ -6779,9 +6763,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [
-        "pcaMethods"
-    ],
+    "DeconRNASeq": [],
     "decontX": [
         "BiocNeighbors",
         "BiocSingular",
@@ -7124,7 +7106,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -7274,8 +7255,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "DEsubs": [
         "DESeq2",
@@ -7391,7 +7371,6 @@
         "SummarizedExperiment",
         "XVector",
         "multtest",
-        "pcaMethods",
         "preprocessCore"
     ],
     "diffcyt": [
@@ -8088,7 +8067,6 @@
     "EBcoexpress": [
         "EBarrays"
     ],
-    "EBImage": [],
     "EBSEA": [
         "DESeq2",
         "DelayedArray",
@@ -9485,9 +9463,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "FISHalyseR": [
-        "EBImage"
-    ],
+    "FISHalyseR": [],
     "fishpond": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -9530,7 +9506,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -9608,11 +9583,8 @@
         "flowViz",
         "limma"
     ],
-    "flowcatchR": [
-        "EBImage"
-    ],
+    "flowcatchR": [],
     "flowCHIC": [
-        "EBImage",
         "S4Vectors",
         "cytolib",
         "flowCore"
@@ -9803,7 +9775,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -11854,7 +11825,6 @@
     ],
     "heatmaps": [
         "Biostrings",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -12274,7 +12244,6 @@
         "edgeR",
         "limma"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -12581,7 +12550,6 @@
         "BiocNeighbors",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -12753,7 +12721,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "plgem",
         "rtracklayer"
     ],
     "INTACT": [],
@@ -12984,7 +12951,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -13222,7 +13188,6 @@
         "oligoClasses",
         "preprocessCore"
     ],
-    "iterativeBMA": [],
     "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
@@ -13557,7 +13522,6 @@
         "XVector",
         "fgsea",
         "limma",
-        "pcaMethods",
         "ropls"
     ],
     "LiquidAssociation": [
@@ -13623,7 +13587,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -13957,8 +13920,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "MAIT": [
         "AnnotationFilter",
@@ -13989,7 +13951,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -14159,7 +14120,6 @@
         "affyio",
         "interactiveDisplayBase",
         "limma",
-        "pcaMethods",
         "preprocessCore",
         "proDA",
         "vsn"
@@ -14611,7 +14571,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "struct"
     ],
     "metabomxtr": [
@@ -14711,7 +14670,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -14833,7 +14791,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -15985,7 +15942,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -16046,7 +16002,6 @@
     ],
     "MoleculeExperiment": [
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -16534,7 +16489,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -16550,7 +16504,6 @@
         "msmsEDA",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -16563,7 +16516,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -16589,7 +16541,6 @@
         "msmsTests",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -16611,7 +16562,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "pcaMethods",
         "preprocessCore",
         "sva"
     ],
@@ -16701,7 +16651,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "qcmetrics",
         "vsn"
@@ -16717,7 +16666,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "qcmetrics",
         "vsn"
@@ -16784,7 +16732,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "pcaMethods",
         "ropls"
     ],
     "multiClust": [],
@@ -17285,7 +17232,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -17893,7 +17839,6 @@
         "limma",
         "made4",
         "omicade4",
-        "pcaMethods",
         "rexposome",
         "sva"
     ],
@@ -18091,10 +18036,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BiocIO",
@@ -18262,7 +18204,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "pcaMethods",
         "rtracklayer"
     ],
     "OutSplice": [
@@ -18614,7 +18555,6 @@
         "limma",
         "topGO"
     ],
-    "pcaMethods": [],
     "PCAN": [],
     "PCAtools": [
         "BiocSingular",
@@ -18701,7 +18641,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -18841,8 +18780,7 @@
         "destiny",
         "graph",
         "limma",
-        "monocle",
-        "pcaMethods"
+        "monocle"
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
@@ -18928,7 +18866,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "pcaMethods",
         "preprocessCore"
     ],
     "PhyloProfile": [
@@ -19103,7 +19040,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "plgem": [],
     "plier": [
         "affy",
         "affyio",
@@ -19199,8 +19135,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "PoDCall": [],
     "podkat": [
@@ -19441,7 +19376,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -19579,7 +19513,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -19609,7 +19542,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -19670,7 +19602,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "tkWidgets",
         "treeio",
@@ -19804,7 +19735,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -20010,7 +19940,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -20451,7 +20380,6 @@
         "graph"
     ],
     "RBioFormats": [
-        "EBImage",
         "S4Vectors"
     ],
     "RBioinf": [
@@ -20471,7 +20399,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "rbsurv": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -21131,8 +21058,7 @@
         "dir.expiry"
     ],
     "rexposome": [
-        "S4Vectors",
-        "pcaMethods"
+        "S4Vectors"
     ],
     "rfaRm": [
         "Biostrings",
@@ -21531,7 +21457,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn",
         "xcms"
@@ -21626,7 +21551,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -22010,7 +21934,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "rols": [],
     "ROntoTools": [
         "Biostrings",
         "GenomeInfoDb",
@@ -22112,7 +22035,6 @@
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rRDP": [
         "Biostrings",
         "GenomeInfoDb",
@@ -22173,7 +22095,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "RTCA": [],
     "RTCGA": [],
     "RTCGAToolbox": [
         "AnnotationDbi",
@@ -22843,8 +22764,7 @@
     ],
     "scde": [
         "edgeR",
-        "limma",
-        "pcaMethods"
+        "limma"
     ],
     "scDesign3": [
         "DelayedArray",
@@ -23661,7 +23581,6 @@
         "ChIPseeker",
         "DOSE",
         "DelayedArray",
-        "EBImage",
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -24079,7 +23998,6 @@
     "siggenes": [
         "multtest"
     ],
-    "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -24282,7 +24200,6 @@
     ],
     "simpleSeg": [
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -24759,7 +24676,6 @@
         "ensembldb",
         "ggbio",
         "graph",
-        "pcaMethods",
         "rtracklayer"
     ],
     "SOMNiBUS": [
@@ -25003,7 +24919,6 @@
     ],
     "SpatialOmicsOverlay": [
         "Biostrings",
-        "EBImage",
         "GenomeInfoDb",
         "GeomxTools",
         "IRanges",
@@ -25611,8 +25526,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "rols"
+        "XVector"
     ],
     "Structstrings": [
         "Biostrings",
@@ -25632,7 +25546,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -25835,9 +25748,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "synapsis": [
-        "EBImage"
-    ],
+    "synapsis": [],
     "synapter": [
         "Biostrings",
         "GenomeInfoDb",
@@ -25853,7 +25764,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -26617,7 +26527,6 @@
         "limma",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -27129,7 +27038,6 @@
         "limma",
         "preprocessCore"
     ],
-    "twilight": [],
     "twoddpcr": [
         "S4Vectors"
     ],
@@ -27959,7 +27867,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "preprocessCore",
         "vsn"
     ],
@@ -28043,7 +27950,6 @@
     ],
     "yamss": [
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -28088,7 +27994,6 @@
         "ggbio",
         "graph",
         "gtrellis",
-        "pcaMethods",
         "rtracklayer"
     ],
     "yarn": [
