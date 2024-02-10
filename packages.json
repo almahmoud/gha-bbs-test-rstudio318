@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "abseqR": [
         "BiocStyle"
     ],
@@ -28,7 +25,6 @@
         "preprocessCore"
     ],
     "affycoretools": [
-        "Category",
         "GOstats",
         "Glimma",
         "ReportingTools",
@@ -56,7 +52,6 @@
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
-        "Category",
         "GOstats",
         "Glimma",
         "ReportingTools",
@@ -262,7 +257,6 @@
         "motifStack"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "AUCell": [],
@@ -538,7 +532,6 @@
         "xcms"
     ],
     "canceR": [
-        "Category",
         "Heatplus",
         "RTCGAToolbox",
         "cBioPortalData",
@@ -558,9 +551,7 @@
         "scater",
         "scuttle"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -602,9 +593,7 @@
     ],
     "CellBarcode": [],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
-        "Category",
         "preprocessCore",
         "splots",
         "vsn"
@@ -851,8 +840,7 @@
     ],
     "consensusOV": [
         "GSVA",
-        "HDF5Array",
-        "genefu"
+        "HDF5Array"
     ],
     "consICA": [],
     "contiBAIT": [],
@@ -955,7 +943,6 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "ctsGE": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -1365,7 +1352,6 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [
         "BiocStyle"
     ],
@@ -1536,12 +1522,9 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "genefu": [],
     "GeneOverlap": [],
     "geneplast": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -1589,9 +1572,7 @@
         "cqn",
         "preprocessCore"
     ],
-    "gep2pep": [],
     "gespeR": [
-        "Category",
         "cellHTS2",
         "preprocessCore",
         "splots",
@@ -1628,7 +1609,6 @@
     "globalSeq": [],
     "gmapR": [],
     "GmicR": [
-        "Category",
         "GOstats",
         "preprocessCore"
     ],
@@ -1643,9 +1623,7 @@
         "ggtree",
         "treeio"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
@@ -1679,7 +1657,6 @@
     "gwascat": [
         "BiocVersion"
     ],
-    "gwasurvivr": [],
     "GWENA": [
         "preprocessCore"
     ],
@@ -1694,7 +1671,6 @@
     ],
     "HDF5Array": [],
     "Heatplus": [],
-    "HelloRanges": [],
     "hermes": [],
     "HiCcompare": [
         "InteractionSet"
@@ -1733,7 +1709,6 @@
         "BiocVersion",
         "preprocessCore"
     ],
-    "HIPPO": [],
     "HIREewas": [],
     "hoodscanR": [],
     "hpar": [
@@ -1767,7 +1742,6 @@
     ],
     "iCNV": [],
     "ideal": [
-        "Category",
         "GOstats",
         "pcaExplorer"
     ],
@@ -1814,9 +1788,7 @@
     ],
     "interacCircos": [],
     "InteractionSet": [],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "IntEREst": [
         "DEXSeq"
     ],
@@ -2090,8 +2062,7 @@
         "treeio"
     ],
     "meshr": [
-        "BiocStyle",
-        "Category"
+        "BiocStyle"
     ],
     "MesKit": [],
     "metabinR": [],
@@ -2287,7 +2258,6 @@
     ],
     "mina": [],
     "MineICA": [
-        "Category",
         "GOstats",
         "HDF5Array",
         "illuminaio",
@@ -2317,7 +2287,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "Category",
         "GOstats"
     ],
     "missMethyl": [
@@ -2549,7 +2518,6 @@
     "MWASTools": [
         "KEGGgraph"
     ],
-    "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
@@ -2619,7 +2587,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "HDF5Array",
         "STRINGdb",
@@ -2677,10 +2644,7 @@
     "omicRexposome": [
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
-    "omicsPrint": [],
+    "OMICsPCA": [],
     "omicsViewer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -2764,13 +2728,11 @@
     ],
     "paxtoolsr": [],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "genefu",
         "piano"
     ],
     "pdInfoBuilder": [
@@ -2807,7 +2769,6 @@
         "ropls"
     ],
     "phenoTest": [
-        "Category",
         "Heatplus"
     ],
     "philr": [
@@ -2853,7 +2814,6 @@
         "preprocessCore"
     ],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "plotgardener": [
@@ -2989,7 +2949,6 @@
         "CGHcall"
     ],
     "QFeatures": [],
-    "qmtools": [],
     "qpcrNorm": [
         "preprocessCore"
     ],
@@ -3026,8 +2985,7 @@
         "piano"
     ],
     "RAIDS": [
-        "GENESIS",
-        "SeqVarTools"
+        "GENESIS"
     ],
     "RandomWalkRestartMH": [
         "supraHex"
@@ -3128,7 +3086,6 @@
         "vsn"
     ],
     "ReportingTools": [
-        "Category",
         "GOstats",
         "biovizBase",
         "ggbio"
@@ -3203,7 +3160,6 @@
     ],
     "rnaEditr": [],
     "RNAinteract": [
-        "Category",
         "cellHTS2",
         "preprocessCore",
         "splots",
@@ -3422,7 +3378,6 @@
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
-        "Category",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -3474,7 +3429,6 @@
     "SeqSQC": [
         "BiocVersion"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "BiocVersion",
         "illuminaio",
@@ -3487,7 +3441,6 @@
         "InteractionSet"
     ],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "shinyepico": [
@@ -3519,8 +3472,7 @@
     "signifinder": [
         "GSVA",
         "HDF5Array",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SimBindProfiles": [
         "Ringo",
@@ -3707,7 +3659,6 @@
         "RUVSeq"
     ],
     "staRank": [
-        "Category",
         "cellHTS2",
         "preprocessCore",
         "splots",
@@ -3720,16 +3671,11 @@
     "stepNorm": [],
     "stJoincount": [],
     "STRINGdb": [],
-    "StructuralVariantAnnotation": [],
     "supraHex": [],
     "survtype": [],
     "sva": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SwathXtend": [],
     "synapter": [
         "MSnbase",
