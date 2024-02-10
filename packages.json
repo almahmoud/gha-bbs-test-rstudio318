@@ -168,8 +168,7 @@
     ],
     "apComplex": [],
     "appreci8R": [
-        "BiocVersion",
-        "GenomicScores"
+        "BiocVersion"
     ],
     "ArrayExpress": [
         "preprocessCore"
@@ -182,7 +181,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
@@ -212,7 +210,6 @@
     "ATACseqQC": [
         "BiocVersion",
         "ChIPpeakAnno",
-        "GenomicScores",
         "InteractionSet"
     ],
     "ATACseqTFEA": [],
@@ -241,7 +238,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "metapod",
         "scran"
     ],
@@ -375,7 +371,6 @@
     "bnem": [
         "epiNEM",
         "minet",
-        "mnem",
         "preprocessCore",
         "vsn"
     ],
@@ -667,7 +662,6 @@
     "COMPASS": [
         "BiocStyle"
     ],
-    "compcodeR": [],
     "compEpiTools": [
         "Gviz",
         "methylPipe"
@@ -785,7 +779,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "CuratedAtlasQueryR": [],
     "customCMPdb": [
         "BiocVersion"
     ],
@@ -842,8 +835,7 @@
     "DCATS": [],
     "dce": [
         "epiNEM",
-        "minet",
-        "mnem"
+        "minet"
     ],
     "ddPCRclust": [
         "SamSPECTRAL",
@@ -1057,8 +1049,7 @@
         "preprocessCore"
     ],
     "epiNEM": [
-        "minet",
-        "mnem"
+        "minet"
     ],
     "EpiTxDb": [],
     "epivizr": [],
@@ -1122,9 +1113,7 @@
     "FastqCleaner": [],
     "fcScan": [],
     "fdrame": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "illuminaio",
         "lumi",
@@ -1306,7 +1295,6 @@
     ],
     "girafe": [],
     "Glimma": [],
-    "glmGamPoi": [],
     "globalSeq": [],
     "GmicR": [
         "GOstats",
@@ -1521,9 +1509,7 @@
         "preprocessCore"
     ],
     "lefser": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "LinTInd": [
         "ggtree",
@@ -1734,7 +1720,6 @@
         "preprocessCore",
         "sesame"
     ],
-    "methrix": [],
     "MethylAid": [
         "illuminaio",
         "minfi",
@@ -1878,7 +1863,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1897,7 +1881,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [],
     "monocle": [],
@@ -2062,7 +2045,6 @@
         "ATACseqQC",
         "BiocVersion",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "InteractionSet",
         "csaw",
@@ -2088,8 +2070,7 @@
     ],
     "nempi": [
         "epiNEM",
-        "minet",
-        "mnem"
+        "minet"
     ],
     "netboost": [
         "BiocStyle",
@@ -2152,10 +2133,8 @@
     "oligo": [
         "preprocessCore"
     ],
-    "OLIN": [],
     "OLINgui": [
         "DynDoc",
-        "OLIN",
         "tkWidgets"
     ],
     "omicRexposome": [],
@@ -2337,7 +2316,6 @@
     "preprocessCore": [],
     "primirTSS": [
         "BiocVersion",
-        "GenomicScores",
         "Gviz"
     ],
     "PrInCE": [
@@ -2367,7 +2345,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "PROPER": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
@@ -2455,8 +2432,7 @@
     ],
     "RAREsim": [],
     "RareVariantVis": [
-        "BiocVersion",
-        "GenomicScores"
+        "BiocVersion"
     ],
     "Rbec": [
         "dada2"
@@ -2551,7 +2527,6 @@
         "BiocVersion"
     ],
     "RgnTX": [],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -2871,7 +2846,6 @@
         "DropletUtils",
         "GSVA",
         "ResidualMatrix",
-        "TSCAN",
         "basilisk",
         "basilisk.utils",
         "batchelor",
@@ -2888,7 +2862,6 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [],
-    "singscore": [],
     "sitePath": [
         "ggtree",
         "treeio"
@@ -2950,7 +2923,6 @@
         "Gviz",
         "InteractionSet"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [
@@ -2971,7 +2943,6 @@
         "Gviz"
     ],
     "splots": [],
-    "SpotClean": [],
     "SPsimSeq": [
         "preprocessCore"
     ],
@@ -2996,7 +2967,6 @@
     "supraHex": [],
     "survtype": [],
     "svaNUMT": [],
-    "svaRetro": [],
     "SwathXtend": [],
     "synapter": [
         "MSnbase",
@@ -3023,8 +2993,7 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
-        "singscore"
+        "GSVA"
     ],
     "TCC": [
         "baySeq"
@@ -3088,9 +3057,7 @@
         "slingshot"
     ],
     "transcriptR": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "Heatplus"
     ],
@@ -3114,7 +3081,6 @@
     "trigger": [],
     "tripr": [],
     "TRONCO": [],
-    "TSCAN": [],
     "ttgsea": [],
     "TurboNorm": [
         "convert",
@@ -3159,7 +3125,6 @@
     ],
     "VariantFiltering": [
         "BiocVersion",
-        "GenomicScores",
         "Gviz"
     ],
     "VaSP": [
