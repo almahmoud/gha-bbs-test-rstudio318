@@ -3,7 +3,6 @@
         "BiocStyle"
     ],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -22,7 +21,6 @@
         "preprocessCore"
     ],
     "affycoretools": [
-        "ReportingTools",
         "gcrma",
         "preprocessCore"
     ],
@@ -45,7 +43,6 @@
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools",
         "gcrma",
         "preprocessCore"
@@ -307,7 +304,6 @@
     ],
     "biscuiteer": [
         "BiocVersion",
-        "CGHcall",
         "QDNAseq",
         "annotatr",
         "dmrseq"
@@ -454,7 +450,6 @@
         "treeio"
     ],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
     "cfDNAPro": [
@@ -467,10 +462,7 @@
         "dir.expiry"
     ],
     "CGEN": [],
-    "CGHcall": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "BiocVersion",
@@ -546,7 +538,6 @@
         "ggtree",
         "treeio"
     ],
-    "clusterSeq": [],
     "cmapR": [],
     "cn.farms": [
         "preprocessCore"
@@ -585,7 +576,6 @@
     ],
     "consensus": [],
     "consensusDE": [],
-    "consensusOV": [],
     "consICA": [],
     "conumee": [
         "illuminaio",
@@ -912,7 +902,6 @@
         "ggtree",
         "treeio"
     ],
-    "escape": [],
     "EWCE": [
         "BiocVersion",
         "ggtree",
@@ -1055,7 +1044,6 @@
     "gDRstyle": [],
     "genArise": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "GeneOverlap": [],
@@ -1073,7 +1061,6 @@
     "GenomicInteractions": [
         "InteractionSet"
     ],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "plyranges"
     ],
@@ -1432,7 +1419,6 @@
         "preprocessCore",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEDIPS": [
         "preprocessCore"
     ],
@@ -1611,7 +1597,6 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "miRLAB": [],
     "missMethyl": [
         "illuminaio",
         "methylumi",
@@ -2102,9 +2087,7 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qpcrNorm": [
         "preprocessCore"
     ],
@@ -2199,7 +2182,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "ReportingTools": [],
     "ResidualMatrix": [],
     "restfulSE": [
         "BiocVersion"
@@ -2215,8 +2197,6 @@
         "BiocVersion"
     ],
     "RgnTX": [],
-    "RiboProfiling": [],
-    "riboSeqR": [],
     "rifiComparative": [],
     "RImmPort": [],
     "Ringo": [
@@ -2327,14 +2307,12 @@
         "BiocVersion"
     ],
     "scatterHatch": [],
-    "scBFA": [],
     "SCBN": [],
     "scBubbletree": [
         "ggtree",
         "treeio"
     ],
     "scCB2": [],
-    "scClassify": [],
     "scDblFinder": [
         "metapod",
         "scran"
@@ -2427,7 +2405,6 @@
     "sevenC": [
         "InteractionSet"
     ],
-    "SGCP": [],
     "shinyepico": [
         "illuminaio",
         "minfi",
@@ -2445,9 +2422,7 @@
         "ggtree",
         "treeio"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SimBindProfiles": [
         "Ringo",
         "preprocessCore",
@@ -2659,7 +2634,6 @@
     "TreeSummarizedExperiment": [
         "treeio"
     ],
-    "tricycle": [],
     "tripr": [],
     "TRONCO": [],
     "ttgsea": [],
@@ -2713,7 +2687,6 @@
     "vissE": [
         "BiocVersion"
     ],
-    "Voyager": [],
     "vsn": [
         "preprocessCore"
     ],
