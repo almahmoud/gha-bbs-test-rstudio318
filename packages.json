@@ -129,9 +129,7 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "AllelicImbalance": [],
     "altcdfenvs": [
         "makecdfenv",
         "preprocessCore"
@@ -189,8 +187,7 @@
         "PepsNMR"
     ],
     "ASpli": [
-        "BiocStyle",
-        "Gviz"
+        "BiocStyle"
     ],
     "AssessORF": [],
     "ASSIGN": [],
@@ -251,7 +248,6 @@
     "beer": [],
     "benchdamic": [
         "ANCOMBC",
-        "Maaslin2",
         "TreeSummarizedExperiment",
         "mia",
         "treeio"
@@ -305,9 +301,7 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "biomvRCNS": [
-        "Gviz"
-    ],
+    "biomvRCNS": [],
     "BioNAR": [
         "preprocessCore"
     ],
@@ -387,7 +381,6 @@
     ],
     "CAGEfightR": [
         "GenomicInteractions",
-        "Gviz",
         "InteractionSet"
     ],
     "cageminer": [
@@ -399,7 +392,6 @@
     "CAGEr": [
         "CAGEfightR",
         "GenomicInteractions",
-        "Gviz",
         "InteractionSet"
     ],
     "CAMERA": [
@@ -451,7 +443,6 @@
         "SIMLR"
     ],
     "CCPlotR": [],
-    "CCPROMISE": [],
     "celda": [
         "metapod",
         "scran"
@@ -506,7 +497,6 @@
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
-        "Gviz",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -517,16 +507,12 @@
     ],
     "Chicago": [],
     "chimeraviz": [
-        "BiocStyle",
-        "Gviz"
+        "BiocStyle"
     ],
-    "ChIPexoQual": [],
     "ChIPpeakAnno": [
         "InteractionSet"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot",
         "ggtree",
@@ -545,7 +531,6 @@
         "scran"
     ],
     "cicero": [
-        "Gviz",
         "monocle"
     ],
     "CIMICE": [],
@@ -589,12 +574,10 @@
         "preprocessCore"
     ],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNVrd2": [],
     "COCOA": [
@@ -604,12 +587,8 @@
         "ggtree",
         "treeio"
     ],
-    "comapr": [
-        "Gviz"
-    ],
-    "coMET": [
-        "Gviz"
-    ],
+    "comapr": [],
+    "coMET": [],
     "coMethDMR": [
         "BiocVersion"
     ],
@@ -617,7 +596,6 @@
         "BiocStyle"
     ],
     "compEpiTools": [
-        "Gviz",
         "methylPipe"
     ],
     "CompoundDb": [
@@ -631,9 +609,7 @@
         "flowPeaks"
     ],
     "consensus": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [],
     "consICA": [],
     "conumee": [
@@ -641,9 +617,7 @@
         "minfi",
         "preprocessCore"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "CoreGx": [],
     "Cormotif": [
         "preprocessCore"
@@ -685,7 +659,6 @@
     "CrispRVariants": [],
     "crisprVerse": [
         "BiocVersion",
-        "Gviz",
         "basilisk",
         "basilisk.utils",
         "crisprDesign",
@@ -695,7 +668,6 @@
     ],
     "crisprViz": [
         "BiocVersion",
-        "Gviz",
         "basilisk",
         "basilisk.utils",
         "crisprDesign",
@@ -721,9 +693,7 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "cummeRbund": [],
     "customCMPdb": [
         "BiocVersion"
     ],
@@ -834,7 +804,6 @@
     ],
     "DExMA": [],
     "DEXSeq": [],
-    "DiffBind": [],
     "diffcoexp": [
         "preprocessCore"
     ],
@@ -867,7 +836,6 @@
     "DMCHMM": [],
     "DMRcate": [
         "BiocVersion",
-        "Gviz",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -917,9 +885,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "ELMER": [
-        "Gviz"
-    ],
+    "ELMER": [],
     "EMDomics": [
         "preprocessCore"
     ],
@@ -970,7 +936,6 @@
     ],
     "epimutacions": [
         "BiocVersion",
-        "Gviz",
         "illuminaio",
         "minfi",
         "preprocessCore"
@@ -978,7 +943,6 @@
     "epiNEM": [
         "minet"
     ],
-    "EpiTxDb": [],
     "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
@@ -1014,7 +978,6 @@
     ],
     "extraChIPs": [
         "GenomicInteractions",
-        "Gviz",
         "InteractionSet",
         "csaw",
         "metapod"
@@ -1143,9 +1106,7 @@
     ],
     "GeneOverlap": [],
     "geneplast": [],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
     "geNetClassifier": [
         "minet"
     ],
@@ -1156,7 +1117,6 @@
     "genoCN": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
-        "Gviz",
         "InteractionSet"
     ],
     "GenomicOZone": [],
@@ -1238,7 +1198,6 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "Gviz": [],
     "gwascat": [
         "BiocVersion"
     ],
@@ -1258,7 +1217,6 @@
     ],
     "HiCDCPlus": [
         "GenomicInteractions",
-        "Gviz",
         "InteractionSet"
     ],
     "HiCDOC": [
@@ -1387,7 +1345,6 @@
     "ITALICS": [
         "preprocessCore"
     ],
-    "karyoploteR": [],
     "katdetectr": [
         "plyranges"
     ],
@@ -1441,9 +1398,7 @@
     "m6Aboost": [
         "BiocVersion"
     ],
-    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
         "preprocessCore"
     ],
     "maCorrPlot": [],
@@ -1495,9 +1450,7 @@
         "plotgardener",
         "plyranges"
     ],
-    "maser": [
-        "Gviz"
-    ],
+    "maser": [],
     "maskBAD": [
         "gcrma",
         "preprocessCore"
@@ -1517,15 +1470,11 @@
     "MBQN": [
         "preprocessCore"
     ],
-    "mbQTL": [],
     "MCbiclust": [
         "preprocessCore"
     ],
-    "mCSEA": [
-        "Gviz"
-    ],
+    "mCSEA": [],
     "MEAL": [
-        "Gviz",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -1645,9 +1594,7 @@
         "methylKit"
     ],
     "methylKit": [],
-    "methylPipe": [
-        "Gviz"
-    ],
+    "methylPipe": [],
     "methylSig": [
         "DSS"
     ],
@@ -1679,8 +1626,6 @@
         "mia",
         "treeio"
     ],
-    "microbiome": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
@@ -1740,9 +1685,7 @@
         "preprocessCore"
     ],
     "mistyR": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1777,7 +1720,6 @@
         "treeio"
     ],
     "motifbreakR": [
-        "Gviz",
         "MotifDb"
     ],
     "MotifDb": [],
@@ -1836,7 +1778,6 @@
     "MSPrep": [
         "preprocessCore"
     ],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
         "Spectra"
@@ -1882,7 +1823,6 @@
     ],
     "MultiBaC": [],
     "multicrispr": [
-        "karyoploteR",
         "plyranges"
     ],
     "multiGSEA": [
@@ -1920,7 +1860,6 @@
         "ATACseqQC",
         "BiocVersion",
         "ChIPpeakAnno",
-        "Gviz",
         "InteractionSet",
         "csaw",
         "metapod",
@@ -1994,12 +1933,10 @@
         "plyranges"
     ],
     "octad": [
-        "BiocVersion",
-        "RUVSeq"
+        "BiocVersion"
     ],
     "OGRE": [
-        "BiocVersion",
-        "Gviz"
+        "BiocVersion"
     ],
     "oligo": [
         "preprocessCore"
@@ -2130,9 +2067,7 @@
         "preprocessCore",
         "treeio"
     ],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "pipeComp": [
         "metapod",
         "scran"
@@ -2172,8 +2107,7 @@
     ],
     "preprocessCore": [],
     "primirTSS": [
-        "BiocVersion",
-        "Gviz"
+        "BiocVersion"
     ],
     "PrInCE": [
         "MSnbase",
@@ -2226,7 +2160,6 @@
         "BiocVersion",
         "recount"
     ],
-    "PSMatch": [],
     "ptairMS": [
         "MSnbase",
         "preprocessCore",
@@ -2242,9 +2175,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "pwOmics": [
         "BiocVersion",
         "STRINGdb"
@@ -2290,7 +2221,6 @@
     "rCGH": [
         "preprocessCore"
     ],
-    "RCM": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -2337,8 +2267,7 @@
         "BiocStyle"
     ],
     "regutools": [
-        "BiocVersion",
-        "Gviz"
+        "BiocVersion"
     ],
     "REMP": [
         "BiocVersion",
@@ -2369,9 +2298,7 @@
     "RgnTX": [],
     "RiboProfiling": [],
     "riboSeqR": [],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "rifiComparative": [],
     "RImmPort": [],
     "Ringo": [
@@ -2410,19 +2337,14 @@
         "splots",
         "vsn"
     ],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "rnaseqcomp": [],
@@ -2467,7 +2389,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "RUVSeq": [],
     "sagenhaft": [],
     "sampleClassifier": [
         "MGFR"
@@ -2533,12 +2454,9 @@
         "annotatr"
     ],
     "SCnorm": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "Sconify": [],
     "scoreInvHap": [],
-    "scp": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
@@ -2711,7 +2629,6 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
         "InteractionSet"
     ],
     "specL": [],
@@ -2729,20 +2646,15 @@
     "SpliceWiz": [
         "BiocVersion"
     ],
-    "SPLINTER": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
     "splots": [],
     "SPsimSeq": [
         "preprocessCore"
     ],
     "srnadiff": [
-        "BiocStyle",
-        "Gviz"
+        "BiocStyle"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "cellHTS2",
         "preprocessCore",
@@ -2766,9 +2678,7 @@
         "ggtree",
         "treeio"
     ],
-    "tadar": [
-        "Gviz"
-    ],
+    "tadar": [],
     "TADCompare": [
         "HiCcompare",
         "InteractionSet"
@@ -2830,7 +2740,6 @@
         "CoreGx"
     ],
     "trackViewer": [
-        "Gviz",
         "InteractionSet"
     ],
     "tradeSeq": [],
@@ -2858,9 +2767,7 @@
     "TurboNorm": [
         "preprocessCore"
     ],
-    "TVTB": [
-        "Gviz"
-    ],
+    "TVTB": [],
     "tweeDEseq": [
         "cqn",
         "preprocessCore"
@@ -2875,9 +2782,7 @@
         "plyranges"
     ],
     "UMI4Cats": [],
-    "uncoverappLib": [
-        "Gviz"
-    ],
+    "uncoverappLib": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "preprocessCore"
@@ -2895,8 +2800,7 @@
         "preprocessCore"
     ],
     "VariantFiltering": [
-        "BiocVersion",
-        "Gviz"
+        "BiocVersion"
     ],
     "VaSP": [
         "ballgown"
@@ -2923,7 +2827,6 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
         "InteractionSet",
         "csaw",
         "metapod"
