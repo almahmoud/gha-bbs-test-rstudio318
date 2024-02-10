@@ -455,7 +455,6 @@
         "vsn"
     ],
     "banocc": [],
-    "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
     ],
@@ -779,7 +778,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "Linnorm",
         "edgeR",
         "epiNEM",
@@ -1075,7 +1073,6 @@
         "scater",
         "scuttle"
     ],
-    "CellNOptR": [],
     "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment"
@@ -1245,7 +1242,6 @@
         "preprocessCore"
     ],
     "chromDraw": [],
-    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
         "BiocSingular",
@@ -1377,18 +1373,10 @@
     ],
     "cn.mops": [],
     "CNEr": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -1403,7 +1391,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationFilter",
         "CopyNumberPlots",
@@ -2724,7 +2711,6 @@
     "GBScleanR": [
         "SeqArray"
     ],
-    "gcapc": [],
     "gCrisprTools": [
         "limma"
     ],
@@ -3019,7 +3005,6 @@
         "ggtree",
         "treeio"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase",
@@ -3076,7 +3061,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "AnnotationFilter",
         "CRISPRseek",
@@ -4823,7 +4807,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -5098,7 +5081,6 @@
         "scuttle"
     ],
     "pipeFrame": [],
-    "planttfhunter": [],
     "plier": [
         "preprocessCore"
     ],
@@ -5401,7 +5383,6 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
         "supraHex"
@@ -6813,7 +6794,6 @@
         "ggtree",
         "treeio"
     ],
-    "TAPseq": [],
     "target": [],
     "TargetScore": [],
     "TargetSearch": [],
@@ -6876,7 +6856,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "CNEr"
     ],
@@ -6893,7 +6872,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
@@ -7012,7 +6990,6 @@
     ],
     "transomics2cytoscape": [],
     "TransView": [],
-    "traseR": [],
     "traviz": [
         "SingleCellExperiment",
         "TrajectoryUtils",
@@ -7066,7 +7043,6 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TTMap": [],
     "TurboNorm": [
         "convert",
         "limma",
@@ -7324,8 +7300,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "gtrellis"
+        "ggbio"
     ],
     "yarn": [
         "DelayedMatrixStats",
