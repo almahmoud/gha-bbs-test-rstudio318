@@ -510,7 +510,6 @@
     ],
     "CCPlotR": [],
     "CCPROMISE": [],
-    "celaref": [],
     "celda": [
         "metapod",
         "scater",
@@ -549,7 +548,6 @@
         "ggtree",
         "treeio"
     ],
-    "CexoR": [],
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
@@ -727,7 +725,6 @@
         "GSVA"
     ],
     "consICA": [],
-    "contiBAIT": [],
     "conumee": [
         "illuminaio",
         "minfi",
@@ -762,9 +759,7 @@
         "CARNIVAL"
     ],
     "COSNet": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [],
     "cqn": [
         "preprocessCore"
@@ -1188,7 +1183,6 @@
         "preprocessCore"
     ],
     "FastqCleaner": [],
-    "fCCAC": [],
     "fcScan": [],
     "fdrame": [],
     "FEAST": [
@@ -2227,7 +2221,6 @@
         "quantro",
         "yarn"
     ],
-    "NewWave": [],
     "nnNorm": [],
     "nnSVG": [],
     "nondetects": [
@@ -2313,7 +2306,6 @@
         "DEXSeq",
         "sva"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
@@ -2346,7 +2338,6 @@
     "pcaExplorer": [
         "GOstats"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx",
         "piano"
@@ -2438,7 +2429,6 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "POWSC": [],
     "ppcseq": [],
     "PPInfer": [
         "STRINGdb"
@@ -2562,7 +2552,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "QuasR": [],
     "QuaternaryProd": [],
     "R3CPET": [
         "ggbio"
@@ -2630,9 +2619,7 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2820,10 +2807,7 @@
     "scAnnotatR": [
         "BiocVersion"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scater": [],
     "scatterHatch": [],
     "scBFA": [
@@ -2896,7 +2880,6 @@
     "scruff": [
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
@@ -2971,7 +2954,6 @@
         "preprocessCore"
     ],
     "SIAMCAT": [],
-    "SigCheck": [],
     "signatureSearch": [
         "BiocVersion",
         "clusterProfiler",
@@ -3013,7 +2995,6 @@
         "DropletUtils",
         "GSVA",
         "ResidualMatrix",
-        "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -3031,10 +3012,7 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
-    "SingleR": [],
+    "SingleMoleculeFootprinting": [],
     "singscore": [],
     "sitePath": [
         "ggtree",
@@ -3328,7 +3306,6 @@
         "sva"
     ],
     "vbmp": [],
-    "VCFArray": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -3382,7 +3359,6 @@
         "vsn"
     ],
     "xcore": [],
-    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
