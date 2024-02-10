@@ -1,17 +1,13 @@
 {
     "a4": [
         "a4Base",
-        "a4Classif",
-        "annaffy",
         "genefilter",
         "limma"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter",
         "limma"
     ],
-    "a4Classif": [],
     "ABarray": [],
     "abseqR": [
         "BiocStyle"
@@ -39,9 +35,7 @@
         "ADAM"
     ],
     "adductomicsR": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "ADImpute": [
         "SingleCellExperiment"
@@ -123,7 +117,6 @@
         "preprocessCore"
     ],
     "AHMassBank": [
-        "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
         "BiocVersion",
@@ -255,9 +248,7 @@
         "preprocessCore"
     ],
     "AMARETTO": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
         "limma",
@@ -292,7 +283,6 @@
         "MultiAssayExperiment",
         "limma"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -301,14 +291,12 @@
         "BiocVersion"
     ],
     "AnnotationHubData": [
-        "AnnotationHub",
         "BiocCheck",
         "BiocVersion",
         "OrganismDbi",
         "biocViews"
     ],
     "annotatr": [
-        "AnnotationHub",
         "BiocVersion",
         "regioneR"
     ],
@@ -324,11 +312,9 @@
     "apComplex": [],
     "apeglm": [],
     "APL": [
-        "SingleCellExperiment",
-        "topGO"
+        "SingleCellExperiment"
     ],
     "appreci8R": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicScores",
         "HDF5Array",
@@ -422,7 +408,6 @@
     ],
     "ATACseqQC": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
@@ -444,7 +429,6 @@
         "motifmatchr"
     ],
     "atena": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "atSNP": [
@@ -636,9 +620,7 @@
     "BgeeCall": [
         "rhdf5"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "bgx": [
         "gcrma",
         "preprocessCore"
@@ -666,7 +648,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "GenomicDataCommons",
@@ -696,14 +677,10 @@
         "dir.expiry"
     ],
     "BiocHubsShiny": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "BiocOncoTK": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
         "rhdf5"
@@ -730,7 +707,6 @@
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
-    "biodbKegg": [],
     "biomformat": [
         "rhdf5"
     ],
@@ -793,12 +769,10 @@
         "ensembldb"
     ],
     "biscuiteer": [
-        "AnnotationHub",
         "BiocVersion",
         "CGHbase",
         "CGHcall",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
@@ -834,9 +808,7 @@
         "limma"
     ],
     "BloodGen3Module": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "limma",
         "preprocessCore"
     ],
@@ -886,7 +858,6 @@
     ],
     "brainflowprobes": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFiles",
         "OrganismDbi",
@@ -1042,7 +1013,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "flowCore",
         "scater",
         "scuttle"
     ],
@@ -1079,10 +1049,8 @@
         "TCGAutils"
     ],
     "CBNplot": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "ExperimentHub",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1150,10 +1118,7 @@
         "scater",
         "scuttle"
     ],
-    "cellity": [
-        "topGO"
-    ],
-    "CellMapper": [],
+    "cellity": [],
     "cellmigRation": [],
     "CellMixS": [
         "BiocSingular",
@@ -1181,7 +1146,6 @@
         "FlowSOM",
         "diffcyt",
         "edgeR",
-        "flowCore",
         "limma"
     ],
     "Cepo": [
@@ -1214,9 +1178,7 @@
         "plyranges"
     ],
     "cfTools": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1249,11 +1211,9 @@
     ],
     "ChAMP": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DMRcate",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -1387,7 +1347,6 @@
     ],
     "CINdex": [],
     "circRNAprofiler": [
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
         "VariantAnnotation",
@@ -1480,7 +1439,6 @@
         "SingleCellExperiment"
     ],
     "cmapR": [
-        "flowCore",
         "rhdf5"
     ],
     "cn.farms": [
@@ -1592,9 +1550,7 @@
         "ensembldb"
     ],
     "coMethDMR": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "bumphunter",
         "limma"
     ],
@@ -1613,8 +1569,7 @@
         "ensembldb",
         "limma",
         "marray",
-        "methylPipe",
-        "topGO"
+        "methylPipe"
     ],
     "CompoundDb": [
         "AnnotationFilter",
@@ -1638,7 +1593,6 @@
     "CONFESS": [
         "SamSPECTRAL",
         "flowClust",
-        "flowCore",
         "flowMeans",
         "flowMerge",
         "flowPeaks",
@@ -1669,9 +1623,7 @@
         "rhdf5"
     ],
     "consensusSeekeR": [],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1727,9 +1679,7 @@
         "limma"
     ],
     "CoSIA": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "cosmiq": [
         "AnnotationFilter",
@@ -1782,9 +1732,7 @@
         "crisprBase"
     ],
     "crisprDesign": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
@@ -1794,9 +1742,7 @@
         "dir.expiry"
     ],
     "crisprScore": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1807,9 +1753,7 @@
     "CrispRVariants": [],
     "crisprVerse": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "Gviz",
         "VariantAnnotation",
         "basilisk",
@@ -1825,9 +1769,7 @@
     ],
     "crisprViz": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "Gviz",
         "VariantAnnotation",
         "basilisk",
@@ -1867,12 +1809,9 @@
     ],
     "CSSQ": [],
     "CTdata": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "cTRAP": [
-        "AnnotationHub",
         "BiocVersion",
         "limma",
         "rhdf5"
@@ -1897,7 +1836,6 @@
         "rhdf5"
     ],
     "customCMPdb": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "customProDB": [
@@ -1905,7 +1843,6 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
@@ -1915,17 +1852,13 @@
         "tkWidgets"
     ],
     "cydar": [
-        "SingleCellExperiment",
-        "flowCore"
+        "SingleCellExperiment"
     ],
-    "CytoDx": [
-        "flowCore"
-    ],
+    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt",
         "edgeR",
-        "flowCore",
         "limma"
     ],
     "cytofQC": [
@@ -1937,7 +1870,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "flowCore",
         "scater",
         "scuttle"
     ],
@@ -1948,12 +1880,9 @@
         "SpatialExperiment",
         "rhdf5"
     ],
-    "cytoMEM": [
-        "flowCore"
-    ],
+    "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -1963,7 +1892,6 @@
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -1972,7 +1900,6 @@
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -1990,7 +1917,6 @@
     "dagLogo": [
         "CNEr",
         "TFBSTools",
-        "UniProt.ws",
         "motifStack"
     ],
     "DAMEfinder": [
@@ -2033,7 +1959,6 @@
     ],
     "ddPCRclust": [
         "SamSPECTRAL",
-        "flowCore",
         "flowDensity",
         "flowPeaks",
         "flowViz"
@@ -2232,7 +2157,6 @@
     "diffcyt": [
         "FlowSOM",
         "edgeR",
-        "flowCore",
         "limma"
     ],
     "DifferentialRegulation": [
@@ -2298,10 +2222,8 @@
     "DMRcaller": [],
     "DMRcate": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -2323,7 +2245,6 @@
     ],
     "DMRScan": [],
     "dmrseq": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -2393,7 +2314,6 @@
     ],
     "drugTargetInteractions": [
         "AnnotationFilter",
-        "UniProt.ws",
         "ensembldb"
     ],
     "DrugVsDisease": [
@@ -2419,10 +2339,8 @@
     ],
     "DynDoc": [],
     "easier": [
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
-        "ExperimentHub",
         "preprocessCore",
         "quantiseqr"
     ],
@@ -2436,7 +2354,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [
         "ShortRead"
     ],
@@ -2472,8 +2389,7 @@
         "globaltest",
         "limma",
         "pathview",
-        "rhdf5",
-        "topGO"
+        "rhdf5"
     ],
     "eisaR": [
         "edgeR",
@@ -2497,10 +2413,8 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
@@ -2553,7 +2467,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "AnnotationHub",
         "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
@@ -2581,17 +2494,13 @@
         "rhdf5"
     ],
     "EpiMix": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "limma"
     ],
     "epimutacions": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -2703,9 +2612,7 @@
         "rhdf5"
     ],
     "EWCE": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "SingleCellExperiment",
         "ggtree",
         "limma",
@@ -2722,15 +2629,12 @@
         "DESeq2"
     ],
     "ExperimentHub": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "ExperimentHubData": [
-        "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
         "BiocVersion",
-        "ExperimentHub",
         "OrganismDbi",
         "biocViews"
     ],
@@ -2862,94 +2766,59 @@
         "scran",
         "scuttle"
     ],
-    "flowAI": [
-        "flowCore"
-    ],
-    "flowBeads": [
-        "flowCore"
-    ],
+    "flowAI": [],
+    "flowBeads": [],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz",
         "limma"
     ],
-    "flowCHIC": [
-        "flowCore"
-    ],
-    "flowClean": [
-        "flowCore"
-    ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowCHIC": [],
+    "flowClean": [],
+    "flowClust": [],
     "flowCut": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowGraph": [],
-    "flowMatch": [
-        "flowCore"
-    ],
-    "flowMeans": [
-        "flowCore"
-    ],
+    "flowMatch": [],
+    "flowMeans": [],
     "flowMerge": [
-        "flowClust",
-        "flowCore"
+        "flowClust"
     ],
     "flowPeaks": [],
-    "flowPloidy": [
-        "flowCore"
-    ],
-    "FlowSOM": [
-        "flowCore"
-    ],
-    "flowSpecs": [
-        "flowCore"
-    ],
+    "flowPloidy": [],
+    "FlowSOM": [],
+    "flowSpecs": [],
     "flowStats": [
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [
-        "flowCore"
-    ],
+    "flowTime": [],
     "flowTrans": [
         "flowClust",
-        "flowCore",
         "flowViz"
     ],
-    "flowViz": [
-        "flowCore"
-    ],
+    "flowViz": [],
     "flowVS": [
-        "flowCore",
         "flowStats",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "flowCore",
         "ncdfFlow"
     ],
     "fmcsR": [],
@@ -3005,7 +2874,6 @@
         "sva"
     ],
     "GateFinder": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
@@ -3036,7 +2904,6 @@
         "treeio"
     ],
     "gDNAx": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFiles",
         "VariantAnnotation"
@@ -3161,7 +3028,6 @@
         "seqPattern"
     ],
     "GenomicScores": [
-        "AnnotationHub",
         "BiocVersion",
         "HDF5Array",
         "rhdf5"
@@ -3229,7 +3095,6 @@
         "ensembldb"
     ],
     "ggcyto": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -3319,9 +3184,7 @@
         "MultiAssayExperiment"
     ],
     "goseq": [],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -3344,12 +3207,10 @@
     "GPA": [],
     "GRaNIE": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
         "ensembldb",
-        "limma",
-        "topGO"
+        "limma"
     ],
     "graper": [],
     "GraphAT": [],
@@ -3364,10 +3225,8 @@
     ],
     "GSEABase": [],
     "GSEABenchmarkeR": [
-        "AnnotationHub",
         "BiocVersion",
         "EnrichmentBrowser",
-        "ExperimentHub",
         "GSEABase",
         "KEGGgraph",
         "SPIA",
@@ -3418,7 +3277,6 @@
         "limma"
     ],
     "gwascat": [
-        "AnnotationHub",
         "BiocVersion",
         "VariantAnnotation"
     ],
@@ -3510,7 +3368,6 @@
     "HilbertVisGUI": [],
     "HiLDA": [],
     "hipathia": [
-        "AnnotationHub",
         "BiocVersion",
         "MultiAssayExperiment",
         "limma",
@@ -3530,9 +3387,7 @@
         "SpatialExperiment"
     ],
     "hpar": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "HPiP": [],
     "HTqPCR": [
@@ -3600,8 +3455,7 @@
         "genefilter",
         "goseq",
         "limma",
-        "pcaExplorer",
-        "topGO"
+        "pcaExplorer"
     ],
     "IdeoViz": [],
     "idiogram": [],
@@ -3630,14 +3484,11 @@
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow",
         "preprocessCore"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "immunotation": [],
     "iNETgrate": [
         "BiocStyle",
@@ -3665,9 +3516,7 @@
         "edgeR",
         "limma"
     ],
-    "infinityFlow": [
-        "flowCore"
-    ],
+    "infinityFlow": [],
     "InPAS": [
         "cleanUpdTSeq",
         "limma",
@@ -3719,7 +3568,6 @@
         "rhdf5"
     ],
     "ipdDb": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "IPO": [
@@ -3752,9 +3600,7 @@
         "iSEE"
     ],
     "iSEEhub": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "SingleCellExperiment",
         "iSEE"
     ],
@@ -3780,7 +3626,6 @@
     ],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
         "DEXSeq",
@@ -3921,9 +3766,7 @@
     ],
     "lpNet": [],
     "LRcell": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "lumi": [
         "DelayedMatrixStats",
@@ -3943,9 +3786,7 @@
         "treeio"
     ],
     "m6Aboost": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "Maaslin2": [
         "Wrench",
@@ -3964,9 +3805,7 @@
     "macat": [],
     "maCorrPlot": [],
     "MACSr": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -3994,10 +3833,8 @@
         "rhdf5"
     ],
     "MAGeCKFlute": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "ExperimentHub",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -4061,18 +3898,14 @@
         "SingleCellExperiment"
     ],
     "mastR": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GSEABase",
         "SingleCellExperiment",
         "edgeR",
         "limma"
     ],
     "MatrixQCvis": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "limma",
         "preprocessCore",
         "proDA",
@@ -4187,7 +4020,6 @@
     "memes": [],
     "Mergeomics": [],
     "meshes": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
         "enrichplot",
@@ -4204,7 +4036,6 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CompoundDb",
         "MetaboCoreUtils",
@@ -4219,9 +4050,7 @@
     ],
     "MetaboSignal": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "KEGGgraph",
         "MWASTools",
         "ensembldb",
@@ -4230,8 +4059,7 @@
     ],
     "metaCCA": [],
     "MetaCyto": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "metagene2": [],
     "metagenomeSeq": [
@@ -4265,7 +4093,6 @@
     ],
     "metapod": [],
     "metapone": [],
-    "metaSeq": [],
     "metaseqR2": [
         "ABSSeq",
         "DESeq2",
@@ -4294,9 +4121,7 @@
         "methylKit"
     ],
     "MethReg": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "illuminaio",
         "preprocessCore",
         "sesame"
@@ -4334,12 +4159,10 @@
         "rhdf5"
     ],
     "methylclock": [
-        "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "ExperimentHubData",
         "GEOquery",
         "HDF5Array",
@@ -4600,7 +4423,6 @@
         "limma",
         "rhdf5"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -4657,8 +4479,7 @@
     ],
     "moanin": [
         "edgeR",
-        "limma",
-        "topGO"
+        "limma"
     ],
     "MobilityTransformR": [
         "AnnotationFilter",
@@ -4710,7 +4531,6 @@
         "limma"
     ],
     "Moonlight2R": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
         "GEOquery",
@@ -4746,7 +4566,6 @@
         "ensembldb",
         "motifStack"
     ],
-    "motifcounter": [],
     "MotifDb": [],
     "motifmatchr": [
         "CNEr",
@@ -4784,9 +4603,7 @@
         "Spectra"
     ],
     "MsDataHub": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "MsExperiment": [
         "AnnotationFilter",
@@ -4843,7 +4660,6 @@
         "vsn"
     ],
     "MSnID": [
-        "AnnotationHub",
         "BiocStyle",
         "BiocVersion",
         "MSnbase",
@@ -4957,7 +4773,6 @@
         "limma"
     ],
     "multiGSEA": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "multiHiCcompare": [
@@ -5032,7 +4847,6 @@
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
@@ -5071,9 +4885,7 @@
         "DESeq2",
         "genefilter"
     ],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "AnnotationFilter",
         "MSnbase",
@@ -5218,13 +5030,11 @@
         "plyranges"
     ],
     "octad": [
-        "AnnotationHub",
         "BiocSingular",
         "BiocVersion",
         "DESeq2",
         "DelayedMatrixStats",
         "EDASeq",
-        "ExperimentHub",
         "GSEABase",
         "GSVA",
         "HDF5Array",
@@ -5240,7 +5050,6 @@
     "odseq": [],
     "OGRE": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "Gviz",
         "VariantAnnotation",
@@ -5263,9 +5072,7 @@
         "marray",
         "tkWidgets"
     ],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicade4": [
         "made4"
     ],
@@ -5299,12 +5106,10 @@
     "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "openCyto": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
@@ -5329,7 +5134,6 @@
         "limma"
     ],
     "optimalFlow": [
-        "flowCore",
         "flowMeans"
     ],
     "ORFhunteR": [],
@@ -5345,9 +5149,7 @@
         "treeio"
     ],
     "orthos": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
@@ -5428,7 +5230,6 @@
         "dir.expiry"
     ],
     "partCNV": [
-        "AnnotationHub",
         "BiocVersion",
         "SingleCellExperiment"
     ],
@@ -5456,8 +5257,7 @@
         "GOstats",
         "GSEABase",
         "genefilter",
-        "limma",
-        "topGO"
+        "limma"
     ],
     "PCAtools": [
         "BiocSingular",
@@ -5479,7 +5279,6 @@
         "preprocessCore"
     ],
     "PeacoQC": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -5562,12 +5361,9 @@
         "preprocessCore"
     ],
     "PhyloProfile": [
-        "AnnotationHub",
         "BiocStyle",
         "BiocVersion",
-        "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "phyloseq": [
         "biomformat",
@@ -5641,7 +5437,6 @@
     "PoDCall": [],
     "podkat": [],
     "pogos": [
-        "AnnotationHub",
         "BiocVersion",
         "ontoProc"
     ],
@@ -5683,7 +5478,6 @@
     "preprocessCore": [],
     "primirTSS": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CNEr",
         "GenomicScores",
@@ -5784,7 +5578,6 @@
         "vsn"
     ],
     "psichomics": [
-        "AnnotationHub",
         "BiocVersion",
         "GEOquery",
         "GenomicFiles",
@@ -5801,8 +5594,7 @@
         "QFeatures"
     ],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [
         "MSnbase",
@@ -5837,7 +5629,6 @@
     ],
     "PWMEnrich": [],
     "pwOmics": [
-        "AnnotationHub",
         "BiocVersion",
         "STRINGdb"
     ],
@@ -5942,7 +5733,6 @@
         "VariantAnnotation",
         "ensembldb"
     ],
-    "rain": [],
     "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
@@ -5950,7 +5740,6 @@
     ],
     "RAREsim": [],
     "RareVariantVis": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicScores",
         "HDF5Array",
@@ -6090,7 +5879,6 @@
     ],
     "regutools": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "Gviz",
         "VariantAnnotation",
@@ -6098,7 +5886,6 @@
         "ensembldb"
     ],
     "REMP": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "GEOquery",
@@ -6144,9 +5931,7 @@
         "VariantAnnotation"
     ],
     "restfulSE": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "rhdf5client"
     ],
     "ReUseData": [
@@ -6160,7 +5945,6 @@
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "RGMQL": [],
@@ -6238,15 +6022,13 @@
         "AnnotationFilter",
         "BgeeDB",
         "STRINGdb",
-        "ensembldb",
-        "topGO"
+        "ensembldb"
     ],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
     "RLassoCox": [],
     "RLSeq": [
-        "AnnotationHub",
         "BiocVersion",
         "regioneR"
     ],
@@ -6395,7 +6177,6 @@
         "limma",
         "ropls"
     ],
-    "rRDP": [],
     "RRHO": [],
     "rrvgo": [],
     "rScudo": [],
@@ -6490,13 +6271,11 @@
     "scanMiR": [],
     "scanMiRApp": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "ensembldb",
         "scanMiR"
     ],
     "scAnnotatR": [
-        "AnnotationHub",
         "BiocVersion",
         "SingleCellExperiment"
     ],
@@ -6562,8 +6341,7 @@
         "SingleCellExperiment"
     ],
     "scDataviz": [
-        "SingleCellExperiment",
-        "flowCore"
+        "SingleCellExperiment"
     ],
     "scDblFinder": [
         "BiocSingular",
@@ -6642,7 +6420,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "flowCore",
         "sangerseqR"
     ],
     "scmap": [
@@ -6669,7 +6446,6 @@
         "SingleCellExperiment"
     ],
     "scmeth": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -6692,9 +6468,7 @@
         "limma",
         "rhdf5"
     ],
-    "Sconify": [
-        "flowCore"
-    ],
+    "Sconify": [],
     "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation"
@@ -6768,7 +6542,6 @@
         "beachmat"
     ],
     "scTensor": [
-        "AnnotationHub",
         "BiocStyle",
         "BiocVersion",
         "Category",
@@ -6878,17 +6651,13 @@
         "limma"
     ],
     "SeqSQC": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "SeqVarTools": [
         "SeqArray"
     ],
     "sesame": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "illuminaio",
         "preprocessCore"
     ],
@@ -6951,10 +6720,8 @@
     ],
     "SigFuge": [],
     "signatureSearch": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "ExperimentHub",
         "GSEABase",
         "HDF5Array",
         "clusterProfiler",
@@ -7040,13 +6807,11 @@
     ],
     "singleCellTK": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocSingular",
         "BiocVersion",
         "DESeq2",
         "DelayedMatrixStats",
         "DropletUtils",
-        "ExperimentHub",
         "GSEABase",
         "GSVA",
         "HDF5Array",
@@ -7168,7 +6933,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -7300,10 +7064,8 @@
         "scuttle"
     ],
     "SpliceWiz": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "HDF5Array",
         "genefilter",
         "rhdf5"
@@ -7532,9 +7294,7 @@
         "SingleCellExperiment"
     ],
     "tenXplore": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "ontoProc",
         "restfulSE",
         "rhdf5client"
@@ -7632,7 +7392,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "topGO": [],
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
@@ -7667,8 +7426,7 @@
         "SingleCellExperiment"
     ],
     "transcriptogramer": [
-        "limma",
-        "topGO"
+        "limma"
     ],
     "transcriptR": [
         "ShortRead",
@@ -7687,8 +7445,7 @@
         "DESeq2",
         "Heatplus",
         "edgeR",
-        "limma",
-        "topGO"
+        "limma"
     ],
     "transomics2cytoscape": [],
     "TransView": [],
@@ -7704,7 +7461,6 @@
         "SingleCellExperiment",
         "diffcyt",
         "edgeR",
-        "flowCore",
         "ggtree",
         "limma",
         "treeio"
@@ -7776,7 +7532,6 @@
     "txcutr": [],
     "tximeta": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "ensembldb"
     ],
@@ -7786,7 +7541,6 @@
     ],
     "Ularcirc": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "Organism.dplyr",
         "plotgardener",
@@ -7811,7 +7565,6 @@
         "limma",
         "preprocessCore"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
@@ -7850,7 +7603,6 @@
     ],
     "VariantFiltering": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicScores",
         "Gviz",
@@ -7898,13 +7650,9 @@
         "edgeR",
         "limma"
     ],
-    "ViSEAGO": [
-        "topGO"
-    ],
+    "ViSEAGO": [],
     "vissE": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GSEABase"
     ],
     "Voyager": [
@@ -7923,7 +7671,6 @@
         "preprocessCore"
     ],
     "vtpnet": [
-        "AnnotationHub",
         "BiocVersion",
         "VariantAnnotation",
         "gwascat"
@@ -7965,7 +7712,6 @@
     "wavClusteR": [],
     "weaver": [],
     "webbioc": [
-        "annaffy",
         "gcrma",
         "limma",
         "preprocessCore",
