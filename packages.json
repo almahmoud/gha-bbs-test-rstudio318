@@ -873,7 +873,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -1001,7 +1000,6 @@
     "CardinalIO": [],
     "CARNIVAL": [],
     "casper": [
-        "gaga",
         "limma"
     ],
     "CATALYST": [
@@ -1377,7 +1375,6 @@
         "genefilter"
     ],
     "cleanUpdTSeq": [],
-    "cleaver": [],
     "clevRvis": [],
     "clippda": [
         "limma"
@@ -2857,7 +2854,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "gaga": [],
     "GAprediction": [],
     "GARS": [
         "DESeq2",
@@ -3094,7 +3090,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [
         "SeqArray"
     ],
@@ -3209,7 +3204,6 @@
         "limma"
     ],
     "graper": [],
-    "GraphAT": [],
     "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [],
@@ -4006,7 +4000,6 @@
         "limma",
         "preprocessCore"
     ],
-    "MEDME": [],
     "megadepth": [],
     "Melissa": [
         "BPRMeth",
@@ -4633,7 +4626,6 @@
         "scran",
         "scuttle"
     ],
-    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "limma",
@@ -5005,7 +4997,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
@@ -5013,7 +5004,6 @@
         "GSEABase"
     ],
     "NTW": [],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -5559,8 +5549,7 @@
     ],
     "proteinProfiles": [],
     "ProteoDisco": [
-        "VariantAnnotation",
-        "cleaver"
+        "VariantAnnotation"
     ],
     "ProteoMM": [],
     "protGear": [
@@ -5773,7 +5762,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomeGSA": [],
@@ -6198,10 +6186,8 @@
     "RTopper": [
         "limma"
     ],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [],
     "RUVSeq": [
@@ -6225,10 +6211,8 @@
     ],
     "SamSPECTRAL": [],
     "sangeranalyseR": [
-        "BiocStyle",
-        "sangerseqR"
+        "BiocStyle"
     ],
-    "sangerseqR": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
@@ -6406,9 +6390,7 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "scifer": [
-        "sangerseqR"
-    ],
+    "scifer": [],
     "scmap": [
         "SingleCellExperiment"
     ],
@@ -6607,7 +6589,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SELEX": [],
     "SemDist": [],
     "seq2pathway": [
         "preprocessCore"
@@ -6656,7 +6637,6 @@
         "sechm",
         "sva"
     ],
-    "sevenbridges": [],
     "sevenC": [
         "InteractionSet"
     ],
@@ -7161,7 +7141,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
     "supraHex": [],
@@ -7190,7 +7169,6 @@
     ],
     "synapter": [
         "MSnbase",
-        "cleaver",
         "limma",
         "preprocessCore",
         "vsn"
