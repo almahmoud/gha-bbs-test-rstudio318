@@ -277,7 +277,7 @@ jobs:
           set -x
           DISPATCHPATH=${{steps.versions.outputs.dispatchlistpath}}
 
-          ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -r -i bash -c 'tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo "{}" | sed "s/.tar.gz//g") && rm ${{steps.versions.outputs.library}}/{}' || true
+          #ls ${{steps.versions.outputs.library}}/ | grep 'tar.gz$' | xargs -r -i bash -c 'tar -xvf ${{steps.versions.outputs.library}}/{} ${{steps.versions.outputs.library}}/$(echo "{}" | sed "s/.tar.gz//g") && rm ${{steps.versions.outputs.library}}/{}' || true
 
           # Prepare libraries for each package and add the restored dep libraries
           mkdir -p /tmp/tempscripts
@@ -313,7 +313,7 @@ jobs:
         run: |
           set -x
           echo pkg=$(ls /tmp/tars/ | grep "^${{matrix.pkg}}_" | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
-          ls ${{steps.versions.outputs.library}}/ | grep -v 'tar.gz' | xargs -r -i bash -c "tar -zcvf ${{steps.versions.outputs.library}}/{}.tar.gz ${{steps.versions.outputs.library}}/{}"
+          #ls ${{steps.versions.outputs.library}}/ | grep -v 'tar.gz' | xargs -r -i bash -c "tar -zcvf ${{steps.versions.outputs.library}}/{}.tar.gz ${{steps.versions.outputs.library}}/{}"
 
       - name: Push failed packages
         uses: nick-fields/retry@v3
@@ -409,6 +409,7 @@ jobs:
 
               ls /tmp/tars/ | sed 's#/tmp/tars/##g' | awk -F'_' '{print $1}' | xargs -r -i bash -c 'bash .github/scripts/mark_done.sh {} packages.json && ls /tmp/tars/ | sed "s#/tmp/tars/##g" | grep "^{}_" > lists/{}'
 
+              git add packages.json
               git add lists
               git commit -m "Marked successful pkgs ${{needs.getlistformatrix.outputs.time }}_${{matrix.dispatchlist}}"
               git push
