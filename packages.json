@@ -1,5 +1,4 @@
 {
-    "a4": [],
     "abseqR": [
         "BiocStyle"
     ],
@@ -167,7 +166,6 @@
     "annotatr": [
         "BiocVersion"
     ],
-    "anota2seq": [],
     "apComplex": [],
     "appreci8R": [
         "BiocVersion",
@@ -233,9 +231,7 @@
     "ballgown": [
         "sva"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "BiocStyle",
         "MSnbase",
@@ -817,7 +813,6 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -864,7 +859,6 @@
     ],
     "dada2": [],
     "dagLogo": [],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "sva"
     ],
@@ -920,7 +914,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -968,8 +961,7 @@
         "FlowSOM"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
-        "DRIMSeq"
+        "BANDITS"
     ],
     "diffGeneAnalysis": [],
     "diffHic": [
@@ -1016,7 +1008,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "doseR": [],
     "doubletrouble": [
         "MSA2dist",
         "syntenet"
@@ -1029,7 +1020,6 @@
         "pathview",
         "zenith"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [],
     "DrugVsDisease": [
         "ArrayExpress",
@@ -1046,7 +1036,6 @@
         "quantiseqr"
     ],
     "easylift": [],
-    "easyRNASeq": [],
     "edge": [
         "snm",
         "sva"
@@ -1474,7 +1463,6 @@
         "preprocessCore"
     ],
     "HIREewas": [],
-    "hoodscanR": [],
     "hpar": [
         "BiocVersion"
     ],
@@ -1613,9 +1601,7 @@
         "treeio"
     ],
     "lipidr": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -2038,7 +2024,6 @@
         "Spectra"
     ],
     "msgbsR": [
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [
@@ -2221,7 +2206,6 @@
         "quantro",
         "yarn"
     ],
-    "nnNorm": [],
     "nnSVG": [],
     "nondetects": [
         "HTqPCR",
@@ -2429,7 +2413,6 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -2628,7 +2611,6 @@
     ],
     "regionReport": [
         "BiocStyle",
-        "DEFormats",
         "derfinder"
     ],
     "regsplice": [],
@@ -3060,7 +3042,6 @@
     ],
     "sparrow": [],
     "sparsenetgls": [],
-    "spaSim": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -3090,7 +3071,6 @@
     "SPIAT": [
         "dittoSeq"
     ],
-    "spicyR": [],
     "splatter": [],
     "SpliceWiz": [
         "BiocVersion"
@@ -3162,7 +3142,6 @@
     "TCC": [
         "baySeq"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "STRINGdb",
         "enrichplot",
@@ -3206,7 +3185,6 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [],
     "topdownr": [
         "MSnbase",
         "preprocessCore",
