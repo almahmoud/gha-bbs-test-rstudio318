@@ -302,7 +302,6 @@
         "Maaslin2",
         "TreeSummarizedExperiment",
         "biomformat",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "scater",
@@ -1207,16 +1206,13 @@
         "minet",
         "mnem"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [],
     "epivizrChart": [],
     "epivizrStandalone": [
         "epivizr"
     ],
     "erccdashboard": [],
-    "erma": [],
     "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
@@ -1435,7 +1431,6 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
         "plyranges"
     ],
     "GenomicScores": [
@@ -1775,12 +1770,9 @@
     "m6Aboost": [
         "BiocVersion"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "Maaslin2",
-        "metagenomeSeq",
         "preprocessCore"
     ],
     "maCorrPlot": [],
@@ -1861,9 +1853,7 @@
     "MBQN": [
         "preprocessCore"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MCbiclust": [
         "preprocessCore"
     ],
@@ -1929,7 +1919,6 @@
     "MetaCyto": [
         "FlowSOM"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2049,19 +2038,16 @@
     ],
     "microbiomeDASim": [
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "biomformat",
-        "metagenomeSeq"
+        "biomformat"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
         "biomformat",
         "ggtree",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "scater",
@@ -2082,7 +2068,6 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2132,8 +2117,7 @@
     ],
     "MLSeq": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [],
@@ -2790,7 +2774,6 @@
         "dada2"
     ],
     "RBM": [],
-    "RCAS": [],
     "rCGH": [
         "preprocessCore"
     ],
@@ -3536,8 +3519,6 @@
         "sva"
     ],
     "tripr": [],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [],
     "ttgsea": [],
