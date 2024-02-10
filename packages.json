@@ -241,9 +241,7 @@
         "scuttle",
         "treeio"
     ],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [
         "MultiAssayExperiment",
         "limma"
@@ -417,7 +415,6 @@
         "sva"
     ],
     "bambu": [],
-    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq",
         "edgeR",
@@ -436,7 +433,6 @@
     "basecallQC": [
         "ShortRead"
     ],
-    "Basic4Cseq": [],
     "BASiCS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -575,7 +571,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "DOSE",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -937,7 +932,6 @@
     ],
     "CBNplot": [
         "BiocVersion",
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1016,7 +1010,6 @@
         "SingleCellExperiment"
     ],
     "CEMiTool": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1036,7 +1029,6 @@
         "SingleCellExperiment"
     ],
     "CeTF": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1155,7 +1147,6 @@
         "systemPipeR"
     ],
     "ChIPseeker": [
-        "DOSE",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -1176,7 +1167,6 @@
         "oligo",
         "preprocessCore"
     ],
-    "chromDraw": [],
     "chromPlot": [],
     "ChromSCape": [
         "BiocSingular",
@@ -1192,9 +1182,7 @@
         "scran",
         "scuttle"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -1222,7 +1210,6 @@
     "CircSeqAlignTk": [
         "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
         "ShortRead"
     ],
     "CiteFuse": [
@@ -1239,7 +1226,6 @@
     "ClassifyR": [
         "MultiAssayExperiment"
     ],
-    "cleanUpdTSeq": [],
     "clevRvis": [],
     "clippda": [
         "limma"
@@ -1280,7 +1266,6 @@
     ],
     "ClusterJudge": [],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -1309,7 +1294,6 @@
         "AnnotationFilter",
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1320,7 +1304,6 @@
         "AnnotationFilter",
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1469,7 +1452,6 @@
     "CopyNumberPlots": [
         "AnnotationFilter",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1730,7 +1712,6 @@
         "sva"
     ],
     "DAPAR": [
-        "DOSE",
         "DynDoc",
         "MSnbase",
         "Mfuzz",
@@ -1761,7 +1742,6 @@
     ],
     "debCAM": [],
     "debrowser": [
-        "DOSE",
         "Harman",
         "KEGGgraph",
         "apeglm",
@@ -1981,7 +1961,6 @@
     "dittoSeq": [
         "SingleCellExperiment"
     ],
-    "divergence": [],
     "DMCFB": [],
     "DMCHMM": [],
     "DMRcaller": [],
@@ -2017,9 +1996,7 @@
         "limma",
         "regioneR"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -2033,7 +2010,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "DOSE": [],
     "doseR": [
         "edgeR",
         "limma"
@@ -2181,13 +2157,11 @@
         "pathview"
     ],
     "enrichplot": [
-        "DOSE",
         "ggtree",
         "treeio"
     ],
     "enrichTF": [
         "CNEr",
-        "DOSE",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -2197,7 +2171,6 @@
         "treeio"
     ],
     "enrichViewNet": [
-        "DOSE",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -2215,7 +2188,6 @@
         "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
-        "DOSE",
         "enrichplot",
         "genomation",
         "ggtree",
@@ -2229,7 +2201,6 @@
     ],
     "epigraHMM": [
         "GreyListChIP",
-        "bamsignals",
         "csaw",
         "edgeR",
         "limma",
@@ -2312,7 +2283,6 @@
     "esATAC": [
         "CNEr",
         "ChIPseeker",
-        "DOSE",
         "Rbowtie2",
         "ShortRead",
         "TFBSTools",
@@ -2342,7 +2312,6 @@
         "MultiAssayExperiment"
     ],
     "EventPointer": [
-        "SGSeq",
         "limma"
     ],
     "EWCE": [
@@ -2400,7 +2369,6 @@
         "wiggleplotr"
     ],
     "famat": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2601,7 +2569,6 @@
         "preprocessCore"
     ],
     "GDCRNATools": [
-        "DOSE",
         "KEGGgraph",
         "clusterProfiler",
         "edgeR",
@@ -2852,7 +2819,6 @@
     ],
     "gmoviz": [],
     "GMRP": [],
-    "GNET2": [],
     "GNOSIS": [
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -2868,7 +2834,6 @@
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3140,7 +3105,6 @@
     "immunotation": [],
     "iNETgrate": [
         "BiocStyle",
-        "DOSE",
         "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
@@ -3164,7 +3128,6 @@
     ],
     "infinityFlow": [],
     "InPAS": [
-        "cleanUpdTSeq",
         "limma",
         "plyranges",
         "preprocessCore"
@@ -3190,7 +3153,6 @@
         "Category",
         "GSEABase"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
@@ -3288,7 +3250,6 @@
     "karyoploteR": [
         "AnnotationFilter",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "ensembldb",
         "regioneR"
@@ -3449,7 +3410,6 @@
     ],
     "MAGeCKFlute": [
         "BiocVersion",
-        "DOSE",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -3524,7 +3484,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MBASED": [],
     "MBCB": [
         "preprocessCore"
     ],
@@ -3619,7 +3578,6 @@
     "Mergeomics": [],
     "meshes": [
         "BiocVersion",
-        "DOSE",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -3678,7 +3636,6 @@
         "SingleCellExperiment"
     ],
     "MetaPhOR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3757,7 +3714,6 @@
         "preprocessCore"
     ],
     "methylGSA": [
-        "DOSE",
         "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
@@ -3897,7 +3853,6 @@
         "treeio"
     ],
     "MicrobiomeProfiler": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -4073,7 +4028,6 @@
     ],
     "Moonlight2R": [
         "BiocVersion",
-        "DOSE",
         "GEOquery",
         "clusterProfiler",
         "enrichplot",
@@ -4082,7 +4036,6 @@
         "treeio"
     ],
     "MoonlightR": [
-        "DOSE",
         "GEOquery",
         "TCGAbiolinks",
         "clusterProfiler",
@@ -4116,7 +4069,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MPFE": [],
     "mpra": [
         "limma"
@@ -4289,7 +4241,6 @@
         "AnnotationFilter",
         "CRISPRseek",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "ensembldb",
         "karyoploteR",
@@ -4517,9 +4468,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "npGSEA": [
         "GSEABase"
     ],
@@ -4688,7 +4637,6 @@
         "cn.mops"
     ],
     "PanomiR": [
-        "DOSE",
         "GSEABase",
         "clusterProfiler",
         "enrichplot",
@@ -4702,7 +4650,6 @@
     ],
     "PanViz": [],
     "pareg": [
-        "DOSE",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -4843,7 +4790,6 @@
     "PICS": [],
     "Pigengene": [
         "BiocStyle",
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -4892,7 +4838,6 @@
     ],
     "plyranges": [],
     "pmm": [],
-    "pmp": [],
     "PoDCall": [],
     "pogos": [
         "BiocVersion",
@@ -4957,7 +4902,6 @@
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
-        "DOSE",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -4999,7 +4943,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DOSE",
         "DynDoc",
         "MSnbase",
         "Mfuzz",
@@ -5211,7 +5154,6 @@
     "Rdisop": [],
     "ReactomeGSA": [],
     "ReactomePA": [
-        "DOSE",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -5220,7 +5162,6 @@
         "BiocStyle",
         "dir.expiry"
     ],
-    "receptLoss": [],
     "reconsi": [
         "biomformat",
         "phyloseq"
@@ -5247,7 +5188,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "recoup": [],
     "REDseq": [
         "AnnotationFilter",
         "ChIPpeakAnno",
@@ -5364,9 +5304,7 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -5892,7 +5830,6 @@
         "BiocStyle",
         "BiocVersion",
         "Category",
-        "DOSE",
         "GOstats",
         "GSEABase",
         "ReactomePA",
@@ -5948,8 +5885,6 @@
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
-        "DOSE",
-        "bamsignals",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -5968,7 +5903,6 @@
     "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -6010,7 +5944,6 @@
         "GOstats",
         "GSEABase"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -6045,7 +5978,6 @@
     ],
     "signatureSearch": [
         "BiocVersion",
-        "DOSE",
         "GSEABase",
         "HDF5Array",
         "clusterProfiler",
@@ -6372,7 +6304,6 @@
     "SPOTlight": [
         "SingleCellExperiment"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "SingleCellExperiment",
         "biomformat",
@@ -6464,9 +6395,7 @@
         "StructuralVariantAnnotation",
         "VariantAnnotation"
     ],
-    "SVMDO": [
-        "DOSE"
-    ],
+    "SVMDO": [],
     "SWATH2stats": [],
     "SwathXtend": [],
     "switchde": [
@@ -6533,7 +6462,6 @@
     ],
     "TDbasedUFE": [],
     "TDbasedUFEadv": [
-        "DOSE",
         "STRINGdb",
         "TDbasedUFE",
         "enrichplot",
@@ -6585,7 +6513,6 @@
         "marray"
     ],
     "TimiRGeN": [
-        "DOSE",
         "DynDoc",
         "Mfuzz",
         "MultiAssayExperiment",
