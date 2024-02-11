@@ -166,12 +166,9 @@
         "scran"
     ],
     "basilisk": [
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
-    "basilisk.utils": [
-        "dir.expiry"
-    ],
+    "basilisk.utils": [],
     "batchelor": [
         "ResidualMatrix"
     ],
@@ -208,8 +205,7 @@
     "BioCartaImage": [],
     "BiocHail": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BiocHubsShiny": [
         "BiocVersion"
@@ -219,8 +215,7 @@
     ],
     "BiocSklearn": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BiocVersion": [],
     "BiocWorkflowTools": [],
@@ -299,9 +294,7 @@
     ],
     "Cardinal": [],
     "CARNIVAL": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "CBEA": [
         "TreeSummarizedExperiment"
     ],
@@ -313,15 +306,13 @@
     ],
     "cbpManager": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "ccImpute": [],
     "CCPlotR": [],
     "celda": [
         "scran"
     ],
-    "cellbaseR": [],
     "cellHTS2": [
         "vsn"
     ],
@@ -331,7 +322,6 @@
         "ggtree"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -345,8 +335,7 @@
     "cfTools": [
         "BiocVersion",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "CGEN": [],
     "ChAMP": [
@@ -422,7 +411,6 @@
     "CONFESS": [
         "SamSPECTRAL"
     ],
-    "consICA": [],
     "conumee": [
         "illuminaio",
         "minfi"
@@ -446,14 +434,12 @@
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
-        "crisprScore",
-        "dir.expiry"
+        "crisprScore"
     ],
     "crisprScore": [
         "BiocVersion",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "CrispRVariants": [],
     "crisprVerse": [
@@ -462,16 +448,14 @@
         "basilisk.utils",
         "crisprDesign",
         "crisprScore",
-        "crisprViz",
-        "dir.expiry"
+        "crisprViz"
     ],
     "crisprViz": [
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "crisprDesign",
-        "crisprScore",
-        "dir.expiry"
+        "crisprScore"
     ],
     "crlmm": [
         "illuminaio"
@@ -497,12 +481,10 @@
         "tkWidgets"
     ],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "CytoML": [
         "flowViz",
@@ -552,8 +534,7 @@
     "demuxSNP": [],
     "densvis": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "DEP": [
         "MSnbase",
@@ -564,9 +545,7 @@
     ],
     "DEXSeq": [],
     "diffcoexp": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "diffGeneAnalysis": [],
     "diffHic": [
         "csaw"
@@ -577,10 +556,8 @@
     "Dino": [
         "scran"
     ],
-    "dir.expiry": [],
     "DiscoRhythm": [],
     "dittoSeq": [],
-    "DMCHMM": [],
     "DMRcate": [
         "BiocVersion",
         "illuminaio",
@@ -720,7 +697,6 @@
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "scran"
     ],
     "flowBin": [
@@ -739,7 +715,6 @@
         "flowViz"
     ],
     "flowGraph": [],
-    "FlowSOM": [],
     "flowStats": [
         "flowViz"
     ],
@@ -774,7 +749,6 @@
     "gDNAx": [
         "BiocVersion"
     ],
-    "genArise": [],
     "GeneOverlap": [],
     "geNetClassifier": [],
     "geneXtendeR": [],
@@ -861,8 +835,7 @@
     "HiCool": [
         "HiCExperiment",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "hicVennDiagram": [],
     "hipathia": [
@@ -901,7 +874,6 @@
         "plyranges"
     ],
     "INTACT": [],
-    "interacCircos": [],
     "IntEREst": [
         "DEXSeq"
     ],
@@ -972,8 +944,7 @@
     "MACSr": [
         "BiocVersion",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "MADSEQ": [],
     "MAGAR": [
@@ -1003,7 +974,6 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "mapscape": [],
     "mariner": [
         "plotgardener",
         "plyranges"
@@ -1058,9 +1028,7 @@
         "hpar"
     ],
     "metaCCA": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1184,11 +1152,9 @@
         "xcms"
     ],
     "MODA": [],
-    "ModCon": [],
     "MOFA2": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "MOMA": [],
     "monocle": [],
@@ -1386,18 +1352,14 @@
     "openCyto": [
         "flowViz"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "orthogene": [
         "ggtree"
     ],
     "orthos": [
         "BiocVersion",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "OTUbase": [],
     "OutSplice": [
@@ -1418,8 +1380,7 @@
     "PanViz": [],
     "pareg": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "partCNV": [
         "BiocVersion"
@@ -1471,7 +1432,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "PoDCall": [],
     "pogos": [
         "BiocVersion",
         "ontoProc"
@@ -1555,28 +1515,22 @@
     "rCGH": [],
     "Rcwl": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RcwlPipelines": [
         "Rcwl",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "rDGIdb": [],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "enrichplot",
         "ggtree"
     ],
-    "rebook": [
-        "dir.expiry"
-    ],
+    "rebook": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "illuminaio",
         "minfi"
     ],
@@ -1608,8 +1562,7 @@
         "Rcwl",
         "RcwlPipelines",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "rGenomeTracks": [
         "BiocVersion"
@@ -1653,7 +1606,6 @@
     ],
     "RPA": [],
     "Rqc": [],
-    "RRHO": [],
     "rsemmed": [],
     "RTNduals": [],
     "RTNsurvival": [
@@ -1674,7 +1626,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SBMLR": [],
     "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
@@ -1715,8 +1666,7 @@
     "scoreInvHap": [],
     "scPipe": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "scran": [],
     "scTensor": [
@@ -1732,8 +1682,7 @@
     ],
     "scviR": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -1777,8 +1726,7 @@
     ],
     "SimBu": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "SimFFPE": [],
     "simplifyEnrichment": [],
@@ -1793,7 +1741,6 @@
         "basilisk.utils",
         "batchelor",
         "celda",
-        "dir.expiry",
         "ggtree",
         "scDblFinder",
         "scMerge",
@@ -1810,7 +1757,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMAD": [],
     "SMITE": [],
     "snapCGH": [
         "tilingArray",
@@ -1818,8 +1764,7 @@
     ],
     "snifter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "snm": [],
     "soGGi": [],
@@ -1833,8 +1778,7 @@
     "sparsenetgls": [],
     "spatialDE": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "spatialHeatmap": [
         "scran"
@@ -1913,7 +1857,6 @@
     ],
     "TransView": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt",
         "ggtree"
     ],
@@ -1950,7 +1893,6 @@
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zellkonverter"
     ],
     "veloviz": [],
@@ -1994,8 +1936,7 @@
     ],
     "zellkonverter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "zenith": [
         "EnrichmentBrowser",
