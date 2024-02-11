@@ -55,7 +55,6 @@
     "ANCOMBC": [
         "mia"
     ],
-    "AnnotationHubData": [],
     "annotatr": [],
     "apComplex": [],
     "appreci8R": [],
@@ -65,8 +64,7 @@
         "minfi"
     ],
     "arrayQualityMetrics": [
-        "affyPLM",
-        "beadarray"
+        "affyPLM"
     ],
     "artMS": [],
     "ASICS": [
@@ -85,7 +83,6 @@
         "BASiCS"
     ],
     "BayesSpace": [],
-    "beadarray": [],
     "benchdamic": [
         "ANCOMBC",
         "mia"
@@ -118,9 +115,7 @@
         "dmrseq"
     ],
     "blacksheepr": [],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
@@ -193,9 +188,7 @@
         "monocle"
     ],
     "CIMICE": [],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CiteFuse": [],
     "clevRvis": [],
     "clipper": [
@@ -247,7 +240,6 @@
         "crisprScore"
     ],
     "crlmm": [],
-    "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
     "cyanoFilter": [],
@@ -308,7 +300,6 @@
     ],
     "DrugVsDisease": [],
     "easier": [],
-    "edge": [],
     "EGSEA": [
         "KEGGgraph",
         "pathview"
@@ -333,9 +324,7 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
@@ -349,7 +338,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [],
     "famat": [
@@ -384,7 +372,6 @@
         "enrichplot",
         "pathview"
     ],
-    "gDNAx": [],
     "GenomicPlot": [
         "plyranges"
     ],
@@ -411,7 +398,6 @@
         "pathview"
     ],
     "GUIDEseq": [],
-    "gwascat": [],
     "Harshlight": [
         "altcdfenvs"
     ],
@@ -445,7 +431,6 @@
     ],
     "INTACT": [],
     "IntEREst": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -476,7 +461,6 @@
         "xcms"
     ],
     "lpNet": [],
-    "LRcell": [],
     "lumi": [
         "methylumi",
         "minfi"
@@ -553,9 +537,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "MethylAid": [
         "minfi"
     ],
@@ -648,7 +630,6 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "Spectra"
     ],
@@ -732,7 +713,6 @@
         "yarn"
     ],
     "nondetects": [],
-    "normalize450K": [],
     "NormalyzerDE": [],
     "nullranges": [
         "plyranges"
@@ -858,7 +838,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rGenomeTracks": [],
     "RImmPort": [],
     "Ringo": [],
     "Risa": [
@@ -931,7 +910,6 @@
         "seqArchR"
     ],
     "SeqSQC": [],
-    "sesame": [],
     "shinyepico": [
         "minfi"
     ],
@@ -980,7 +958,6 @@
         "KEGGgraph"
     ],
     "SPIAT": [],
-    "SpliceWiz": [],
     "staRank": [
         "cellHTS2"
     ],
@@ -1031,9 +1008,7 @@
     "veloviz": [],
     "VERSO": [],
     "vissE": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
         "lumi",
