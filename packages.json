@@ -75,7 +75,6 @@
         "makecdfenv"
     ],
     "AMARETTO": [],
-    "amplican": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
         "mia"
@@ -180,9 +179,7 @@
         "annotatr",
         "dmrseq"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [
         "beadarray"
     ],
@@ -361,7 +358,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "CrispRVariants": [],
     "crisprVerse": [
         "basilisk",
         "basilisk.utils",
@@ -441,16 +437,13 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DEXSeq": [],
     "diffcoexp": [],
     "diffcyt": [],
     "diffGeneAnalysis": [],
     "diffHic": [
         "csaw"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [
         "scran"
     ],
@@ -466,9 +459,7 @@
     "Doscheda": [
         "vsn"
     ],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -554,7 +545,6 @@
     ],
     "fastLiquidAssociation": [],
     "FastqCleaner": [],
-    "fcScan": [],
     "fdrame": [],
     "ffpe": [
         "lumi",
@@ -632,7 +622,6 @@
     "ggtreeExtra": [
         "ggtree"
     ],
-    "girafe": [],
     "globalSeq": [],
     "GmicR": [],
     "goSorensen": [
@@ -641,8 +630,6 @@
         "ggtree"
     ],
     "GRaNIE": [],
-    "graper": [],
-    "GRENITS": [],
     "GSAR": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -708,11 +695,8 @@
         "plyranges"
     ],
     "INTACT": [],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "IntramiRExploreR": [],
-    "IONiseR": [],
     "ipdDb": [],
     "IPO": [
         "CAMERA",
@@ -725,7 +709,6 @@
     "iSEEhub": [],
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "tximeta"
     ],
     "ITALICS": [],
@@ -1074,7 +1057,6 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "ndexr": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -1126,9 +1108,7 @@
         "vsn"
     ],
     "PAIRADISE": [],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
@@ -1453,7 +1433,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMITE": [],
     "snapCGH": [
         "tilingArray",
         "vsn"
@@ -1502,7 +1481,6 @@
         "MSnbase",
         "vsn"
     ],
-    "syntenet": [],
     "systemPipeTools": [
         "ggtree"
     ],
