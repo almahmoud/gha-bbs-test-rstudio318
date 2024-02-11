@@ -5,26 +5,17 @@
         "vsn"
     ],
     "adductomicsR": [],
-    "affy": [],
     "affyContam": [],
-    "affycoretools": [
-        "gcrma"
-    ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affycoretools": [],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "agilp": [],
     "AgiMicroRna": [
-        "affycoretools",
-        "gcrma"
+        "affycoretools"
     ],
     "AHMassBank": [],
     "alabaster": [
@@ -84,7 +75,6 @@
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
-        "gcrma",
         "vsn"
     ],
     "artMS": [
@@ -112,10 +102,7 @@
         "BASiCS",
         "scran"
     ],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [],
     "BayesSpace": [
         "scran"
@@ -126,9 +113,7 @@
         "TreeSummarizedExperiment",
         "mia"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BiFET": [],
     "bigmelon": [
         "lumi",
@@ -144,14 +129,12 @@
     ],
     "BioCartaImage": [],
     "BiocHail": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BiocSklearn": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BioNAR": [],
     "BioNERO": [],
@@ -187,15 +170,12 @@
         "plyranges"
     ],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -223,8 +203,7 @@
         "ggtree"
     ],
     "cbpManager": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CCPlotR": [],
     "celda": [
@@ -250,8 +229,7 @@
         "plyranges"
     ],
     "cfTools": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ChAMP": [
         "DMRcate",
@@ -317,7 +295,6 @@
     "conumee": [
         "minfi"
     ],
-    "Cormotif": [],
     "CoSIA": [],
     "cosmiq": [
         "MSnbase",
@@ -332,30 +309,25 @@
     "cqn": [],
     "crisprDesign": [
         "basilisk",
-        "basilisk.utils",
         "crisprScore"
     ],
     "crisprScore": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "crisprVerse": [
         "basilisk",
-        "basilisk.utils",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "basilisk",
-        "basilisk.utils",
         "crisprDesign",
         "crisprScore"
     ],
     "crlmm": [],
     "crossmeta": [],
     "csaw": [],
-    "csdR": [],
     "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
@@ -406,8 +378,7 @@
     ],
     "demuxSNP": [],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "MSnbase",
@@ -510,7 +481,6 @@
         "TreeSummarizedExperiment"
     ],
     "extraChIPs": [
-        "GenomicInteractions",
         "csaw"
     ],
     "famat": [
@@ -535,7 +505,6 @@
     ],
     "FLAMES": [
         "basilisk",
-        "basilisk.utils",
         "scran"
     ],
     "flowBin": [
@@ -560,7 +529,6 @@
     "GateFinder": [
         "flowFP"
     ],
-    "gcrma": [],
     "GDCRNATools": [
         "KEGGgraph",
         "clusterProfiler",
@@ -569,7 +537,6 @@
         "pathview"
     ],
     "gDNAx": [],
-    "GenomicInteractions": [],
     "GenomicPlot": [
         "plyranges"
     ],
@@ -594,7 +561,6 @@
         "ggtree"
     ],
     "globalSeq": [],
-    "GmicR": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
@@ -613,16 +579,13 @@
         "ChIPpeakAnno"
     ],
     "gwascat": [],
-    "GWENA": [],
     "Harshlight": [
         "altcdfenvs",
         "makecdfenv"
     ],
     "Heatplus": [],
     "HiCcompare": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "HiCcompare",
         "multiHiCcompare"
@@ -633,13 +596,11 @@
     ],
     "HiCool": [
         "HiCExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "hipathia": [],
     "hpar": [],
     "HPiP": [],
-    "HTqPCR": [],
     "icetea": [
         "csaw"
     ],
@@ -714,8 +675,7 @@
     "m6Aboost": [],
     "Macarron": [],
     "MACSr": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "MADSEQ": [],
     "MAGAR": [
@@ -740,21 +700,16 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "plotgardener",
         "plyranges"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "mastR": [],
     "MatrixQCvis": [
         "vsn"
     ],
-    "MBCB": [],
     "MBQN": [],
     "MCbiclust": [],
     "MEAL": [
@@ -863,8 +818,7 @@
         "TreeSummarizedExperiment"
     ],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "lumi",
@@ -893,8 +847,7 @@
     ],
     "MODA": [],
     "MOFA2": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "monocle": [],
     "Moonlight2R": [
@@ -1037,9 +990,7 @@
         "quantro",
         "yarn"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "normalize450K": [],
     "NormalyzerDE": [
         "vsn"
@@ -1049,7 +1000,6 @@
     ],
     "octad": [],
     "OGRE": [],
-    "oligo": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [],
@@ -1059,8 +1009,7 @@
         "ggtree"
     ],
     "orthos": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "OutSplice": [
         "Repitools",
@@ -1077,8 +1026,7 @@
     "panp": [],
     "PanViz": [],
     "pareg": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "partCNV": [],
     "pathifier": [],
@@ -1169,7 +1117,6 @@
         "vsn"
     ],
     "puma": [],
-    "pvac": [],
     "pvca": [
         "vsn"
     ],
@@ -1186,16 +1133,13 @@
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "Rbec": [],
     "rCGH": [],
     "Rcwl": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "rDGIdb": [],
     "ReactomePA": [
@@ -1205,7 +1149,6 @@
     "rebook": [],
     "recountmethylation": [
         "basilisk",
-        "basilisk.utils",
         "minfi"
     ],
     "REDseq": [
@@ -1227,8 +1170,7 @@
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "rGenomeTracks": [],
     "RImmPort": [],
@@ -1263,10 +1205,7 @@
     ],
     "RPA": [],
     "rsemmed": [],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "rTRMui": [],
     "sampleClassifier": [
         "MGFR"
@@ -1278,7 +1217,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -1306,8 +1244,7 @@
         "annotatr"
     ],
     "scPipe": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "scran": [],
     "scTensor": [
@@ -1319,8 +1256,7 @@
         "scran"
     ],
     "scviR": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -1355,8 +1291,7 @@
         "vsn"
     ],
     "SimBu": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "simplifyEnrichment": [],
     "sincell": [],
@@ -1365,7 +1300,6 @@
     ],
     "singleCellTK": [
         "basilisk",
-        "basilisk.utils",
         "batchelor",
         "celda",
         "ggtree",
@@ -1388,8 +1322,7 @@
         "vsn"
     ],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "soGGi": [],
     "SOMNiBUS": [
@@ -1400,15 +1333,12 @@
     ],
     "sparsenetgls": [],
     "spatialDE": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "spatialHeatmap": [
         "scran"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [
@@ -1424,7 +1354,6 @@
         "cellHTS2",
         "vsn"
     ],
-    "STATegRa": [],
     "synapter": [
         "MSnbase",
         "vsn"
@@ -1472,7 +1401,6 @@
         "ggtree"
     ],
     "TreeSummarizedExperiment": [],
-    "TurboNorm": [],
     "tweeDEseq": [
         "cqn"
     ],
@@ -1482,9 +1410,7 @@
         "plyranges"
     ],
     "UMI4Cats": [],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "uSORT": [
         "monocle"
     ],
@@ -1495,7 +1421,6 @@
     "VariantFiltering": [],
     "velociraptor": [
         "basilisk",
-        "basilisk.utils",
         "zellkonverter"
     ],
     "veloviz": [],
@@ -1515,7 +1440,6 @@
         "minfi"
     ],
     "webbioc": [
-        "gcrma",
         "vsn"
     ],
     "xcms": [
@@ -1529,8 +1453,7 @@
         "quantro"
     ],
     "zellkonverter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zenith": [
         "EnrichmentBrowser",
