@@ -38,9 +38,7 @@
     "ANCOMBC": [],
     "apComplex": [],
     "appreci8R": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASICS": [
         "PepsNMR"
     ],
@@ -51,7 +49,6 @@
     ],
     "BiFET": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [],
@@ -92,8 +89,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "Chicago": [],
@@ -140,9 +135,7 @@
     ],
     "diffGeneAnalysis": [],
     "diffUTR": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -165,9 +158,7 @@
     "esATAC": [],
     "famat": [],
     "fdrame": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flagme": [
         "CAMERA",
         "MsExperiment",
@@ -196,9 +187,7 @@
     "Heatplus": [],
     "HiCDOC": [],
     "HPiP": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "IdeoViz": [],
     "immunotation": [],
     "iNETgrate": [
@@ -231,10 +220,7 @@
         "xcms"
     ],
     "lpNet": [],
-    "lumi": [],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [
         "KEGGgraph",
         "pathview"
@@ -249,11 +235,8 @@
         "plotgardener",
         "plyranges"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "Melissa": [],
@@ -281,23 +264,18 @@
     "methylCC": [
         "plyranges"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MGFR": [],
     "miaViz": [],
     "microbiomeMarker": [
         "ANCOMBC"
     ],
     "MicrobiomeProfiler": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
     ],
-    "missMethyl": [],
     "MobilityTransformR": [
         "MsExperiment",
         "Spectra",
@@ -366,9 +344,7 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "nullranges": [
         "plyranges"
     ],
@@ -420,7 +396,6 @@
     ],
     "RLassoCox": [],
     "RLSeq": [],
-    "RnBeads": [],
     "ROCpAI": [],
     "ROntoTools": [
         "KEGGgraph"
@@ -455,7 +430,6 @@
     "sincell": [],
     "singleCellTK": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "sparsenetgls": [],
@@ -482,14 +456,11 @@
     "VAExprs": [],
     "veloviz": [],
     "VERSO": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "xcms": [
         "MsExperiment",
         "Spectra"
     ],
-    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "KEGGgraph",
