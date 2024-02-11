@@ -1,7 +1,6 @@
 {
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "affylmGUI": [],
     "agilp": [],
@@ -59,11 +58,7 @@
     ],
     "banocc": [],
     "basecallQC": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
-    "BayesSpace": [],
+    "BASiCStan": [],
     "benchdamic": [
         "ANCOMBC",
         "mia"
@@ -94,7 +89,6 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "bnem": [],
     "BOBaFIT": [
         "plyranges"
     ],
@@ -110,7 +104,6 @@
         "Heatplus",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [],
     "CARNIVAL": [],
     "CBEA": [],
@@ -118,8 +111,6 @@
         "clusterProfiler"
     ],
     "CCPlotR": [],
-    "celda": [],
-    "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -193,9 +184,7 @@
         "pathview"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "DeepBlueR": [],
     "DEGraph": [
         "KEGGgraph",
@@ -211,7 +200,6 @@
         "missMethyl"
     ],
     "dmrseq": [],
-    "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -245,7 +233,6 @@
         "clusterProfiler"
     ],
     "EWCE": [],
-    "extraChIPs": [],
     "famat": [
         "clusterProfiler"
     ],
@@ -261,7 +248,6 @@
         "xcms"
     ],
     "FLAMES": [],
-    "flowBin": [],
     "frenchFISH": [],
     "funtooNorm": [],
     "GDCRNATools": [
@@ -273,9 +259,7 @@
         "plyranges"
     ],
     "GenProSeq": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [],
     "globalSeq": [],
     "goSorensen": [
@@ -288,7 +272,6 @@
         "SPIA",
         "pathview"
     ],
-    "GUIDEseq": [],
     "Harshlight": [],
     "Heatplus": [],
     "HiCDOC": [
@@ -296,7 +279,6 @@
     ],
     "HiCool": [],
     "HPiP": [],
-    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -360,7 +342,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "MatrixQCvis": [],
     "MEAL": [
         "methylumi",
         "missMethyl"
@@ -562,7 +543,6 @@
     "phenoTest": [
         "Heatplus"
     ],
-    "philr": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -600,9 +580,7 @@
     "ReactomePA": [],
     "recountmethylation": [],
     "REDseq": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "REMP": [],
     "Repitools": [
         "Ringo"
@@ -620,9 +598,7 @@
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RnBeads": [
         "methylumi"
     ],
@@ -655,7 +631,6 @@
     "scTensor": [
         "ReactomePA"
     ],
-    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker"
     ],
@@ -678,7 +653,6 @@
     "sincell": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "celda",
         "scDblFinder",
         "scMerge"
     ],
@@ -687,9 +661,7 @@
         "methylumi",
         "wateRmelon"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "SOMNiBUS": [],
     "Spaniel": [],
     "sparsenetgls": [],
@@ -699,15 +671,12 @@
         "KEGGgraph"
     ],
     "SPIAT": [],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "synapter": [],
     "TADCompare": [],
     "TargetSearch": [],
     "TDbasedUFEadv": [],
     "tenXplore": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
