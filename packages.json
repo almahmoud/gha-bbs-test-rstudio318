@@ -40,9 +40,7 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "apComplex": [],
     "appreci8R": [],
     "arrayMvout": [
@@ -60,8 +58,7 @@
     "basecallQC": [],
     "BASiCStan": [],
     "benchdamic": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "BiFET": [],
     "bigmelon": [
@@ -72,7 +69,6 @@
     "bioCancer": [],
     "BioCartaImage": [],
     "BiocOncoTK": [],
-    "BiocSklearn": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -100,11 +96,9 @@
     ],
     "Cardinal": [],
     "CARNIVAL": [],
-    "CBEA": [],
     "CBNplot": [],
     "CCPlotR": [],
     "CEMiTool": [],
-    "censcyt": [],
     "CeTF": [],
     "cfDNAPro": [
         "plyranges"
@@ -119,7 +113,6 @@
     "Chicago": [],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromSCape": [],
     "cicero": [
         "monocle"
     ],
@@ -154,7 +147,6 @@
     ],
     "crisprViz": [],
     "cycle": [],
-    "CytoML": [],
     "DAPAR": [],
     "dcanr": [],
     "debrowser": [
@@ -185,7 +177,6 @@
         "pathview",
         "zenith"
     ],
-    "easier": [],
     "EGSEA": [
         "KEGGgraph",
         "pathview"
@@ -213,7 +204,6 @@
         "Spectra",
         "xcms"
     ],
-    "FLAMES": [],
     "frenchFISH": [],
     "funtooNorm": [],
     "GDCRNATools": [
@@ -236,10 +226,7 @@
         "pathview"
     ],
     "Heatplus": [],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
-    "HiCool": [],
+    "HiCDOC": [],
     "HPiP": [],
     "iCheck": [
         "lumi",
@@ -281,7 +268,6 @@
     "lumi": [
         "methylumi"
     ],
-    "MACSr": [],
     "MAGAR": [
         "RnBeads",
         "methylumi"
@@ -341,14 +327,9 @@
     ],
     "methylumi": [],
     "MGFR": [],
-    "mia": [],
-    "miaSim": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [],
     "MicrobiotaProcess": [],
@@ -424,7 +405,6 @@
     "multicrispr": [
         "plyranges"
     ],
-    "multiHiCcompare": [],
     "MultiMed": [],
     "MultiRNAflow": [],
     "multiWGCNA": [
@@ -471,7 +451,6 @@
     "pairedGSEA": [],
     "PanomiR": [],
     "PanViz": [],
-    "pareg": [],
     "pathifier": [],
     "PathNet": [],
     "pathview": [
@@ -558,7 +537,6 @@
     "scFeatures": [
         "SingleCellSignalR"
     ],
-    "scMerge": [],
     "scTensor": [],
     "segmenter": [],
     "seqArchR": [],
@@ -576,8 +554,7 @@
     "sincell": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "scDblFinder",
-        "scMerge"
+        "scDblFinder"
     ],
     "skewr": [
         "lumi",
@@ -595,7 +572,6 @@
     "SPIAT": [],
     "staRank": [],
     "synapter": [],
-    "TADCompare": [],
     "TargetSearch": [],
     "tenXplore": [],
     "TimiRGeN": [],
