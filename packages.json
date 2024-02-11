@@ -41,7 +41,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "altcdfenvs": [],
     "ANCOMBC": [
         "mia"
     ],
@@ -80,7 +79,6 @@
         "clusterProfiler"
     ],
     "BioCartaImage": [],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNetStat": [
@@ -119,7 +117,6 @@
     "CBNplot": [
         "clusterProfiler"
     ],
-    "cbpManager": [],
     "CCPlotR": [],
     "celda": [],
     "cellHTS2": [],
@@ -176,21 +173,15 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "cycle": [],
-    "cytofQC": [],
     "CytoML": [],
     "DAPAR": [
         "clusterProfiler"
@@ -229,7 +220,6 @@
         "pathview",
         "zenith"
     ],
-    "DrugVsDisease": [],
     "easier": [],
     "EGSEA": [
         "KEGGgraph",
@@ -299,9 +289,7 @@
         "pathview"
     ],
     "GUIDEseq": [],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "Heatplus": [],
     "HiCDOC": [
         "multiHiCcompare"
@@ -516,7 +504,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "mumosa": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -550,7 +537,6 @@
     ],
     "omicsViewer": [],
     "onlineFDR": [],
-    "orthos": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -609,10 +595,7 @@
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "rDGIdb": [],
     "ReactomePA": [],
     "recountmethylation": [],
@@ -625,7 +608,6 @@
         "Ringo"
     ],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "RImmPort": [],
@@ -670,12 +652,10 @@
     ],
     "scMerge": [],
     "scmeth": [],
-    "scPipe": [],
     "scTensor": [
         "ReactomePA"
     ],
     "scTreeViz": [],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker"
     ],
@@ -694,7 +674,6 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [],
@@ -714,10 +693,8 @@
     "SOMNiBUS": [],
     "Spaniel": [],
     "sparsenetgls": [],
-    "spatialDE": [],
     "specL": [],
     "Spectra": [],
-    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -739,7 +716,6 @@
         "Heatplus"
     ],
     "TransView": [],
-    "treekoR": [],
     "Ularcirc": [
         "plotgardener",
         "plyranges"
