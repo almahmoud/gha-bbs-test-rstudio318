@@ -325,7 +325,6 @@
     "celda": [
         "scran"
     ],
-    "CellBarcode": [],
     "cellbaseR": [],
     "cellHTS2": [
         "vsn"
@@ -516,7 +515,6 @@
         "flowViz",
         "openCyto"
     ],
-    "dada2": [],
     "DAPAR": [
         "MSnbase",
         "Mfuzz",
@@ -550,7 +548,6 @@
     ],
     "deconvR": [
         "illuminaio",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -838,7 +835,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "GOTHiC": [],
     "GRaNIE": [
         "BiocVersion"
     ],
@@ -1120,9 +1116,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -1151,10 +1145,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -1605,9 +1596,7 @@
     "RareVariantVis": [
         "BiocVersion"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "rCGH": [],
     "Rcwl": [
         "basilisk",
