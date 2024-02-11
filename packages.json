@@ -233,7 +233,6 @@
         "enrichplot",
         "geNetClassifier",
         "ggtree",
-        "minet",
         "treeio"
     ],
     "BioCartaImage": [],
@@ -260,7 +259,6 @@
         "preprocessCore"
     ],
     "BioNERO": [
-        "minet",
         "preprocessCore"
     ],
     "BioNetStat": [
@@ -296,7 +294,6 @@
     ],
     "bnem": [
         "epiNEM",
-        "minet",
         "preprocessCore",
         "vsn"
     ],
@@ -308,13 +305,8 @@
         "BiocVersion"
     ],
     "BubbleTree": [],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
-    "BUS": [
-        "minet"
-    ],
+    "BufferedMatrixMethods": [],
+    "BUS": [],
     "BUSpaRse": [
         "plyranges"
     ],
@@ -327,7 +319,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "minet",
         "preprocessCore"
     ],
     "CAGEr": [
@@ -346,7 +337,6 @@
     "canceR": [
         "Heatplus",
         "geNetClassifier",
-        "minet",
         "phenoTest"
     ],
     "cardelino": [
@@ -484,7 +474,6 @@
         "ggtree",
         "treeio"
     ],
-    "cmapR": [],
     "cn.farms": [
         "preprocessCore"
     ],
@@ -617,10 +606,8 @@
         "vsn"
     ],
     "dcanr": [],
-    "DCATS": [],
     "dce": [
-        "epiNEM",
-        "minet"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "SamSPECTRAL",
@@ -797,9 +784,7 @@
         "minfi",
         "preprocessCore"
     ],
-    "epiNEM": [
-        "minet"
-    ],
+    "epiNEM": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -933,11 +918,8 @@
     "genArise": [],
     "GeneOverlap": [],
     "geneplast": [],
-    "geNetClassifier": [
-        "minet"
-    ],
+    "geNetClassifier": [],
     "geneXtendeR": [],
-    "genoCN": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "InteractionSet"
@@ -1103,7 +1085,6 @@
         "plyranges",
         "preprocessCore"
     ],
-    "INPower": [],
     "INTACT": [],
     "interacCircos": [],
     "InteractionSet": [],
@@ -1427,7 +1408,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "minet": [],
     "minfi": [
         "illuminaio",
         "preprocessCore"
@@ -1638,21 +1618,16 @@
         "plyranges"
     ],
     "nempi": [
-        "epiNEM",
-        "minet"
+        "epiNEM"
     ],
     "netboost": [
         "preprocessCore"
     ],
     "netOmics": [
-        "RandomWalkRestartMH",
-        "minet",
-        "supraHex"
+        "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netresponse": [
-        "minet"
-    ],
+    "netresponse": [],
     "NetSAM": [
         "preprocessCore"
     ],
@@ -1694,7 +1669,6 @@
         "tkWidgets"
     ],
     "omicsViewer": [],
-    "OmnipathR": [],
     "OncoScore": [],
     "onlineFDR": [],
     "ontoProc": [
@@ -1754,7 +1728,6 @@
     "pathview": [
         "KEGGgraph"
     ],
-    "paxtoolsr": [],
     "pdInfoBuilder": [
         "preprocessCore"
     ],
@@ -1768,7 +1741,6 @@
     ],
     "PepsNMR": [],
     "pfamAnalyzeR": [],
-    "pgca": [],
     "phemd": [
         "monocle"
     ],
@@ -1786,10 +1758,7 @@
     "PhyloProfile": [
         "BiocVersion"
     ],
-    "Pi": [
-        "supraHex"
-    ],
-    "pickgene": [],
+    "Pi": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
@@ -1814,7 +1783,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmm": [],
     "PoDCall": [],
     "pogos": [
         "BiocVersion",
@@ -1914,9 +1882,7 @@
     ],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
-    "RandomWalkRestartMH": [
-        "supraHex"
-    ],
+    "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "BiocVersion"
     ],
@@ -2045,17 +2011,13 @@
     "Rqc": [],
     "RRHO": [],
     "rsemmed": [],
-    "RTN": [
-        "minet"
-    ],
+    "RTN": [],
     "RTNduals": [
-        "RTN",
-        "minet"
+        "RTN"
     ],
     "RTNsurvival": [
         "RTN",
-        "RTNduals",
-        "minet"
+        "RTNduals"
     ],
     "rTRMui": [
         "MotifDb"
@@ -2203,7 +2165,6 @@
         "dir.expiry"
     ],
     "SimFFPE": [],
-    "similaRpeak": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
@@ -2306,7 +2267,6 @@
     "STATegRa": [
         "preprocessCore"
     ],
-    "supraHex": [],
     "SwathXtend": [],
     "synapter": [
         "MSnbase",
@@ -2393,7 +2353,6 @@
     "tximeta": [
         "BiocVersion"
     ],
-    "TypeInfo": [],
     "Ularcirc": [
         "BiocVersion",
         "plotgardener",
@@ -2418,7 +2377,6 @@
     "VariantFiltering": [
         "BiocVersion"
     ],
-    "vbmp": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -2455,9 +2413,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
