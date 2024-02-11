@@ -98,7 +98,6 @@
     "AMARETTO": [
         "BiocVersion"
     ],
-    "AMOUNTAIN": [],
     "amplican": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
@@ -146,8 +145,7 @@
     ],
     "ATACseqQC": [
         "BiocVersion",
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "atena": [
         "BiocVersion"
@@ -275,16 +273,14 @@
     ],
     "CAFE": [],
     "CAGEfightR": [
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "cageminer": [
         "BioNERO"
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "CAMERA": [
         "MSnbase",
@@ -365,9 +361,7 @@
     ],
     "Chicago": [],
     "chimeraviz": [],
-    "ChIPpeakAnno": [
-        "InteractionSet"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPseeker": [
         "enrichplot",
         "ggtree"
@@ -376,7 +370,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "chromPlot": [],
     "ChromSCape": [
         "ResidualMatrix",
         "batchelor",
@@ -556,10 +549,7 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "demuxmix": [],
-    "demuxSNP": [
-        "demuxmix"
-    ],
+    "demuxSNP": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -570,8 +560,7 @@
         "vsn"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "DEXSeq": [],
     "diffcoexp": [],
@@ -580,7 +569,6 @@
     ],
     "diffGeneAnalysis": [],
     "diffHic": [
-        "InteractionSet",
         "csaw"
     ],
     "diffUTR": [
@@ -625,13 +613,10 @@
         "BiocVersion",
         "quantiseqr"
     ],
-    "easylift": [],
     "edge": [
         "snm"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "EGSEA": [
         "KEGGgraph",
         "pathview"
@@ -705,7 +690,6 @@
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
-        "InteractionSet",
         "csaw"
     ],
     "factR": [],
@@ -795,9 +779,7 @@
     "geNetClassifier": [],
     "geneXtendeR": [],
     "GenomicInteractionNodes": [],
-    "GenomicInteractions": [
-        "InteractionSet"
-    ],
+    "GenomicInteractions": [],
     "GenomicPlot": [
         "plyranges"
     ],
@@ -852,8 +834,7 @@
         "PPInfer"
     ],
     "GUIDEseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "gwascat": [
         "BiocVersion"
@@ -865,36 +846,25 @@
         "makecdfenv"
     ],
     "Heatplus": [],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [
-        "InteractionSet"
-    ],
+    "HiCExperiment": [],
     "HiContacts": [
-        "HiCExperiment",
-        "InteractionSet"
+        "HiCExperiment"
     ],
     "HiCool": [
         "HiCExperiment",
-        "InteractionSet",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
-    "HilbertVisGUI": [],
+    "hicVennDiagram": [],
     "hipathia": [
         "BiocVersion"
     ],
@@ -903,7 +873,6 @@
     ],
     "HPiP": [],
     "HTqPCR": [],
-    "HumanTranscriptomeCompendium": [],
     "hypeR": [],
     "icetea": [
         "csaw"
@@ -918,7 +887,6 @@
     "illuminaio": [],
     "IMMAN": [],
     "ImmuneSpaceR": [],
-    "immunoClust": [],
     "immunotation": [],
     "iNETgrate": [
         "Pigengene",
@@ -934,7 +902,6 @@
     ],
     "INTACT": [],
     "interacCircos": [],
-    "InteractionSet": [],
     "IntEREst": [
         "DEXSeq"
     ],
@@ -959,7 +926,6 @@
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DEXSeq",
-        "pfamAnalyzeR",
         "tximeta"
     ],
     "ITALICS": [],
@@ -1039,7 +1005,6 @@
     ],
     "mapscape": [],
     "mariner": [
-        "InteractionSet",
         "plotgardener",
         "plyranges"
     ],
@@ -1074,7 +1039,6 @@
         "BPRMeth"
     ],
     "memes": [],
-    "Mergeomics": [],
     "meshes": [
         "BiocVersion",
         "enrichplot",
@@ -1189,7 +1153,6 @@
         "affyPLM",
         "gcrma"
     ],
-    "mina": [],
     "MineICA": [
         "illuminaio",
         "lumi",
@@ -1220,9 +1183,7 @@
         "vsn",
         "xcms"
     ],
-    "MODA": [
-        "AMOUNTAIN"
-    ],
+    "MODA": [],
     "ModCon": [],
     "MOFA2": [
         "basilisk",
@@ -1333,8 +1294,7 @@
         "BiocVersion"
     ],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "MultiMed": [],
     "MultiRNAflow": [
@@ -1359,7 +1319,6 @@
         "ATACseqQC",
         "BiocVersion",
         "ChIPpeakAnno",
-        "InteractionSet",
         "csaw",
         "trackViewer"
     ],
@@ -1404,10 +1363,8 @@
         "vsn"
     ],
     "npGSEA": [],
-    "NTW": [],
     "nuCpos": [],
     "nullranges": [
-        "InteractionSet",
         "plyranges"
     ],
     "octad": [
@@ -1481,7 +1438,6 @@
     ],
     "PECA": [],
     "PepsNMR": [],
-    "pfamAnalyzeR": [],
     "phemd": [
         "monocle"
     ],
@@ -1512,7 +1468,6 @@
     ],
     "PLPE": [],
     "plyinteractions": [
-        "InteractionSet",
         "plyranges"
     ],
     "plyranges": [],
@@ -1626,8 +1581,7 @@
         "minfi"
     ],
     "REDseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "RegionalST": [
         "BayesSpace",
@@ -1708,7 +1662,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "sagenhaft": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -1766,7 +1719,6 @@
         "dir.expiry"
     ],
     "scran": [],
-    "screenCounter": [],
     "scTensor": [
         "BiocVersion",
         "ReactomePA",
@@ -1804,9 +1756,7 @@
         "BiocVersion",
         "illuminaio"
     ],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "shinyepico": [
         "illuminaio",
         "minfi"
@@ -1890,14 +1840,12 @@
         "scran"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPIA": [
         "KEGGgraph"
@@ -1924,8 +1872,7 @@
         "ggtree"
     ],
     "TADCompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "tanggle": [
         "ggtree"
@@ -1960,9 +1907,7 @@
         "MSnbase",
         "vsn"
     ],
-    "trackViewer": [
-        "InteractionSet"
-    ],
+    "trackViewer": [],
     "tRanslatome": [
         "Heatplus"
     ],
@@ -1973,7 +1918,6 @@
         "ggtree"
     ],
     "TreeSummarizedExperiment": [],
-    "tripr": [],
     "TurboNorm": [],
     "tweeDEseq": [
         "cqn"
@@ -2021,7 +1965,6 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "InteractionSet",
         "csaw"
     ],
     "wateRmelon": [
