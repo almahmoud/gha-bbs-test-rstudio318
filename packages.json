@@ -185,8 +185,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "BiocWorkflowTools": [],
-    "BioMVCClass": [],
     "BioNAR": [],
     "BioNERO": [],
     "BioNetStat": [
@@ -221,7 +219,6 @@
     ],
     "BPRMeth": [],
     "brainflowprobes": [],
-    "BubbleTree": [],
     "BufferedMatrixMethods": [],
     "BUS": [],
     "BUSpaRse": [
@@ -268,7 +265,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "ccImpute": [],
     "CCPlotR": [],
     "celda": [
         "scran"
@@ -411,8 +407,7 @@
         "flowDensity"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "CyTOFpower": [
         "diffcyt"
@@ -429,7 +424,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "tkWidgets",
         "vsn"
     ],
     "dcanr": [],
@@ -485,7 +479,6 @@
     "Dino": [
         "scran"
     ],
-    "DiscoRhythm": [],
     "dittoSeq": [],
     "DMRcate": [
         "methylumi",
@@ -639,7 +632,6 @@
     ],
     "gDNAx": [],
     "geNetClassifier": [],
-    "geneXtendeR": [],
     "GenomicInteractions": [],
     "GenomicPlot": [
         "plyranges"
@@ -719,7 +711,6 @@
     "hpar": [],
     "HPiP": [],
     "HTqPCR": [],
-    "hypeR": [],
     "icetea": [
         "csaw"
     ],
@@ -760,7 +751,6 @@
     ],
     "iSEEhub": [],
     "isobar": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta"
@@ -789,7 +779,6 @@
         "vsn",
         "xcms"
     ],
-    "LPEadj": [],
     "lpNet": [],
     "LRcell": [],
     "lumi": [
@@ -924,9 +913,7 @@
         "minfi"
     ],
     "MetNet": [],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment"
@@ -1089,8 +1076,7 @@
     ],
     "MultiMed": [],
     "MultiRNAflow": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "multiWGCNA": [
         "dcanr"
@@ -1154,9 +1140,7 @@
     "octad": [],
     "OGRE": [],
     "oligo": [],
-    "OLINgui": [
-        "tkWidgets"
-    ],
+    "OLINgui": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [],
@@ -1250,7 +1234,6 @@
         "MSnbase",
         "vsn"
     ],
-    "PROcess": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
@@ -1273,7 +1256,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "tkWidgets",
         "vsn"
     ],
     "protGear": [
@@ -1383,7 +1365,6 @@
         "KEGGgraph"
     ],
     "RPA": [],
-    "Rqc": [],
     "rsemmed": [],
     "RTNduals": [],
     "RTNsurvival": [
@@ -1552,7 +1533,6 @@
     ],
     "SpliceWiz": [],
     "SPsimSeq": [],
-    "srnadiff": [],
     "staRank": [
         "cellHTS2",
         "vsn"
@@ -1590,11 +1570,9 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "tkWidgets"
+        "ggtree"
     ],
     "TIN": [],
-    "tkWidgets": [],
     "topdownr": [
         "MSnbase",
         "vsn"
