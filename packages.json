@@ -10,7 +10,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AffyRNADegradation": [],
     "agilp": [],
     "AgiMicroRna": [
         "affycoretools"
@@ -131,7 +130,6 @@
         "ROntoTools"
     ],
     "BloodGen3Module": [],
-    "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
         "plyranges"
@@ -140,7 +138,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [
         "BioNERO"
@@ -174,9 +171,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -264,9 +259,7 @@
     "customCMPdb": [],
     "cyanoFilter": [],
     "cycle": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [],
     "DAPAR": [
@@ -300,7 +293,6 @@
         "MSnbase"
     ],
     "DEScan2": [],
-    "diffcyt": [],
     "diffGeneAnalysis": [],
     "diffHic": [],
     "diffUTR": [],
@@ -391,12 +383,8 @@
     "FLAMES": [],
     "flowBin": [],
     "flowCut": [],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "frenchFISH": [],
-    "frmaTools": [],
     "funtooNorm": [
         "minfi"
     ],
@@ -538,7 +526,6 @@
     "maskBAD": [],
     "mastR": [],
     "MatrixQCvis": [],
-    "MCbiclust": [],
     "MEAL": [
         "methylumi",
         "minfi",
@@ -567,7 +554,6 @@
         "hpar"
     ],
     "metaCCA": [],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -583,7 +569,6 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -757,7 +742,6 @@
     "nearBynding": [
         "plyranges"
     ],
-    "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -811,7 +795,6 @@
         "Heatplus"
     ],
     "philr": [],
-    "PhosR": [],
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
@@ -839,8 +822,7 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "pRoloc": [
         "MSnbase"
@@ -860,7 +842,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [],
     "pvca": [],
     "pwOmics": [],
     "qPLEXanalyzer": [
@@ -1008,7 +989,6 @@
         "tilingArray"
     ],
     "snifter": [],
-    "soGGi": [],
     "SOMNiBUS": [
         "annotatr"
     ],
@@ -1043,7 +1023,6 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TEKRABber": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
@@ -1061,9 +1040,7 @@
         "Heatplus"
     ],
     "TransView": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tweeDEseq": [],
     "tximeta": [],
     "Ularcirc": [
