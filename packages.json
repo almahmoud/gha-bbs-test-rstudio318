@@ -38,15 +38,11 @@
     "BiocOncoTK": [],
     "BioNetStat": [],
     "blacksheepr": [],
-    "BLMA": [
-        "ROntoTools"
-    ],
-    "BUSpaRse": [],
+    "BLMA": [],
     "CAMERA": [
         "xcms"
     ],
     "canceR": [],
-    "cfDNAPro": [],
     "ChAMP": [],
     "ChIPsim": [],
     "ChIPXpress": [],
@@ -59,7 +55,6 @@
     "cosmiq": [
         "xcms"
     ],
-    "cosmosR": [],
     "debrowser": [],
     "decompTumor2Sig": [],
     "DeepBlueR": [],
@@ -67,13 +62,10 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "zenith"
     ],
     "EGSEA": [],
-    "EnrichmentBrowser": [
-        "SPIA"
-    ],
+    "EnrichmentBrowser": [],
     "ffpe": [],
     "flagme": [
         "CAMERA",
@@ -82,8 +74,7 @@
     "GDCRNATools": [],
     "GenProSeq": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "iCheck": [],
     "iNETgrate": [
@@ -93,7 +84,6 @@
         "CAMERA",
         "xcms"
     ],
-    "KEGGlincs": [],
     "LOBSTAHS": [
         "CAMERA",
         "xcms"
@@ -110,38 +100,29 @@
     "Melissa": [],
     "memes": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "metaMS": [
         "CAMERA",
         "xcms"
     ],
-    "methylCC": [],
     "methylGSA": [],
     "microbiomeMarker": [],
     "MineICA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "MobilityTransformR": [
         "xcms"
     ],
     "monocle": [],
-    "MsBackendMgf": [],
     "MsQuality": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "MWASTools": [],
     "ncGTW": [
         "xcms"
     ],
-    "nearBynding": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "nullranges": [],
     "omicsViewer": [],
     "OutSplice": [],
     "pairedGSEA": [],
@@ -150,16 +131,12 @@
     ],
     "Pi": [],
     "Pigengene": [],
-    "plyinteractions": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "Risa": [
         "xcms"
     ],
     "RLSeq": [],
-    "ROntoTools": [],
-    "sampleClassifier": [],
-    "SARC": [],
     "SBGNview": [],
     "scanMiR": [],
     "scanMiRApp": [
@@ -172,8 +149,6 @@
     ],
     "SeqSQC": [],
     "skewr": [],
-    "SPIA": [],
-    "tRanslatome": [],
     "Ularcirc": [],
     "UMI4Cats": [],
     "uSORT": [
@@ -181,7 +156,6 @@
     ],
     "xcms": [],
     "zenith": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ]
 }
