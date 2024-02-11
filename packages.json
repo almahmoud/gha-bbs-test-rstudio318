@@ -50,7 +50,6 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "ATACseqQC": [],
     "bandle": [
         "pRoloc"
     ],
@@ -117,7 +116,6 @@
         "monocle"
     ],
     "CIMICE": [],
-    "CiteFuse": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph"
@@ -161,10 +159,8 @@
         "NCIgraph"
     ],
     "DEP": [],
-    "DEScan2": [],
     "diffGeneAnalysis": [],
     "diffUTR": [],
-    "Dino": [],
     "DMRcate": [
         "methylumi",
         "missMethyl"
@@ -256,7 +252,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "KnowSeq": [],
     "lefser": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -373,7 +368,6 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "msImpute": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -387,21 +381,16 @@
         "Spectra"
     ],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "multicrispr": [
         "plyranges"
     ],
@@ -416,9 +405,7 @@
     "MWASTools": [
         "KEGGgraph"
     ],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "ncGTW": [
         "MsExperiment",
         "Spectra",
@@ -444,8 +431,7 @@
     "omicsViewer": [],
     "onlineFDR": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAIRADISE": [],
     "pairedGSEA": [],
@@ -474,7 +460,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "preciseTAD": [],
     "PrInCE": [],
     "profileplyr": [],
     "pRoloc": [],
@@ -492,15 +477,11 @@
     "RandomWalkRestartMH": [],
     "rDGIdb": [],
     "recountmethylation": [],
-    "REDseq": [],
     "RegionalST": [],
     "REMP": [],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReUseData": [],
     "RImmPort": [],
-    "Ringo": [],
     "Risa": [
         "MsExperiment",
         "Spectra",
@@ -533,10 +514,7 @@
         "scanMiR"
     ],
     "scatterHatch": [],
-    "scDblFinder": [],
-    "scFeatures": [
-        "SingleCellSignalR"
-    ],
+    "scFeatures": [],
     "scTensor": [],
     "segmenter": [],
     "seqArchR": [],
@@ -547,22 +525,16 @@
     "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simplifyEnrichment": [],
     "sincell": [],
-    "SingleCellSignalR": [],
-    "singleCellTK": [
-        "scDblFinder"
-    ],
+    "singleCellTK": [],
     "skewr": [
         "lumi",
         "methylumi",
         "wateRmelon"
     ],
     "snapCGH": [],
-    "Spaniel": [],
     "sparsenetgls": [],
     "specL": [],
     "Spectra": [],
@@ -591,7 +563,6 @@
     "VAExprs": [],
     "veloviz": [],
     "VERSO": [],
-    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
