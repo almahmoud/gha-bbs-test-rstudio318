@@ -73,16 +73,12 @@
         "affyPLM",
         "beadarray"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "PepsNMR"
     ],
     "ATACCoGAPS": [],
-    "ATACseqQC": [
-        "ChIPpeakAnno"
-    ],
+    "ATACseqQC": [],
     "atena": [],
     "bandle": [
         "MSnbase",
@@ -114,8 +110,7 @@
     "bioCancer": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "BioCartaImage": [],
     "BiocHail": [
@@ -126,7 +121,6 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "BioNAR": [],
     "BioNERO": [],
     "BioNetStat": [
         "KEGGgraph",
@@ -173,9 +167,7 @@
         "Heatplus",
         "phenoTest"
     ],
-    "cardelino": [
-        "ggtree"
-    ],
+    "cardelino": [],
     "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [],
@@ -184,8 +176,7 @@
     ],
     "CBNplot": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "cbpManager": [
         "basilisk"
@@ -195,16 +186,14 @@
     "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "censcyt": [
         "diffcyt"
     ],
     "CeTF": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "cfDNAPro": [
         "plyranges"
@@ -221,15 +210,11 @@
         "wateRmelon"
     ],
     "Chicago": [],
-    "ChIPpeakAnno": [],
     "ChIPseeker": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [
         "batchelor"
     ],
@@ -257,13 +242,10 @@
     ],
     "ClusterJudge": [],
     "clusterProfiler": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "cn.farms": [],
-    "cogeqc": [
-        "ggtree"
-    ],
+    "cogeqc": [],
     "coMethDMR": [],
     "CompoundDb": [
         "Spectra"
@@ -281,7 +263,6 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "cqn": [],
     "crisprDesign": [
         "basilisk",
         "crisprScore"
@@ -302,13 +283,10 @@
     ],
     "crlmm": [],
     "crossmeta": [],
-    "csaw": [],
     "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "cycle": [],
     "CyTOFpower": [
         "diffcyt"
@@ -322,18 +300,14 @@
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "dcanr": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "pathview"
     ],
     "decompTumor2Sig": [],
@@ -355,14 +329,10 @@
     "DEP": [
         "MSnbase"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "diffcyt": [],
     "diffGeneAnalysis": [],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [],
     "Dino": [],
     "DMRcate": [
@@ -403,29 +373,22 @@
         "SPIA",
         "pathview"
     ],
-    "enrichplot": [
-        "ggtree"
-    ],
+    "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "enrichViewNet": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EpiCompare": [
         "ChIPseeker",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "epigenomix": [
         "beadarray"
     ],
-    "epigraHMM": [
-        "csaw"
-    ],
+    "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
         "minfi"
@@ -433,11 +396,9 @@
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EWCE": [
-        "ggtree",
         "orthogene"
     ],
     "ExiMiR": [],
@@ -445,13 +406,10 @@
     "ExperimentSubset": [
         "TreeSummarizedExperiment"
     ],
-    "extraChIPs": [
-        "csaw"
-    ],
+    "extraChIPs": [],
     "famat": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "fastLiquidAssociation": [],
     "fdrame": [],
@@ -470,33 +428,22 @@
     "FLAMES": [
         "basilisk"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
-    "flowFP": [],
+    "flowBin": [],
+    "flowCut": [],
     "flowStats": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats"
     ],
     "frenchFISH": [],
-    "frma": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "pathview"
     ],
     "gDNAx": [],
@@ -504,28 +451,18 @@
         "plyranges"
     ],
     "GenProSeq": [],
-    "GeoTcgaData": [
-        "cqn"
-    ],
+    "GeoTcgaData": [],
     "gespeR": [
         "cellHTS2"
     ],
     "GEWIST": [],
-    "ggmsa": [
-        "ggtree"
-    ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggmsa": [],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "globalSeq": [],
     "goSorensen": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "GRaNIE": [],
     "GSAR": [],
@@ -535,9 +472,7 @@
         "SPIA",
         "pathview"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "gwascat": [],
     "Harshlight": [
         "altcdfenvs",
@@ -557,23 +492,19 @@
     "hipathia": [],
     "hpar": [],
     "HPiP": [],
-    "icetea": [
-        "csaw"
-    ],
+    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
         "minfi"
     ],
     "IdeoViz": [],
-    "ImmuneSpaceR": [],
     "immunotation": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "minfi"
     ],
     "InPAS": [
@@ -602,13 +533,9 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "KnowSeq": [
-        "cqn"
-    ],
+    "KnowSeq": [],
     "lefser": [],
-    "LinTInd": [
-        "ggtree"
-    ],
+    "LinTInd": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -622,11 +549,8 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [
-        "ggtree"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [],
-    "Macarron": [],
     "MACSr": [
         "basilisk"
     ],
@@ -640,7 +564,6 @@
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "pathview"
     ],
     "MAIT": [
@@ -659,7 +582,6 @@
     "maskBAD": [],
     "mastR": [],
     "MatrixQCvis": [],
-    "MBQN": [],
     "MCbiclust": [],
     "MEAL": [
         "methylumi",
@@ -676,8 +598,7 @@
     "Melissa": [],
     "memes": [],
     "meshes": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MesKit": [],
     "MetaboAnnotation": [
@@ -700,8 +621,7 @@
     ],
     "MetaPhOR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "metaseqR2": [],
     "MetCirc": [
@@ -724,7 +644,6 @@
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -741,22 +660,18 @@
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
-        "ggtree",
         "mia"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
-        "ggtree",
         "mia"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MicrobiotaProcess": [
-        "ggtree",
         "ggtreeExtra"
     ],
     "microSTASIS": [
@@ -796,13 +711,11 @@
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MoonlightR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "motifbreakR": [],
     "MPFE": [],
@@ -843,17 +756,12 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -864,13 +772,10 @@
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "multicrispr": [
         "plyranges"
     ],
@@ -894,8 +799,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
-        "csaw",
         "trackViewer"
     ],
     "ncGTW": [
@@ -934,9 +837,7 @@
     "ontoProc": [],
     "openCyto": [],
     "openPrimeRui": [],
-    "orthogene": [
-        "ggtree"
-    ],
+    "orthogene": [],
     "orthos": [
         "basilisk"
     ],
@@ -948,8 +849,7 @@
     "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "panp": [],
     "PanViz": [],
@@ -973,17 +873,14 @@
     "phenoTest": [
         "Heatplus"
     ],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhosR": [],
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "pipeComp": [],
     "plier": [],
@@ -1008,7 +905,6 @@
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
-        "ggtree",
         "soGGi"
     ],
     "pRoloc": [
@@ -1022,8 +918,7 @@
         "DAPAR",
         "MSnbase",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "protGear": [],
     "psichomics": [],
@@ -1053,17 +948,14 @@
     ],
     "rDGIdb": [],
     "ReactomePA": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "rebook": [],
     "recountmethylation": [
         "basilisk",
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -1125,9 +1017,7 @@
     ],
     "scAnnotatR": [],
     "scatterHatch": [],
-    "scBubbletree": [
-        "ggtree"
-    ],
+    "scBubbletree": [],
     "scDblFinder": [],
     "scDD": [],
     "scFeatures": [
@@ -1144,8 +1034,7 @@
     ],
     "scTensor": [
         "ReactomePA",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "scTreeViz": [],
     "scviR": [
@@ -1153,8 +1042,7 @@
     ],
     "segmenter": [
         "ChIPseeker",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "seq2pathway": [],
     "seqArchR": [],
@@ -1162,7 +1050,6 @@
         "ChIPseeker",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "seqArchR"
     ],
     "SeqSQC": [],
@@ -1176,8 +1063,7 @@
     ],
     "signatureSearch": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "SimBindProfiles": [
         "Ringo"
@@ -1192,14 +1078,11 @@
         "basilisk",
         "batchelor",
         "celda",
-        "ggtree",
         "scDblFinder",
         "scMerge",
         "zellkonverter"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -1240,31 +1123,24 @@
     "synapter": [
         "MSnbase"
     ],
-    "systemPipeTools": [
-        "ggtree"
-    ],
+    "systemPipeTools": [],
     "TADCompare": [
         "HiCcompare"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TargetSearch": [],
     "TDbasedUFEadv": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "TEKRABber": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
     ],
-    "tidybulk": [],
     "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "topdownr": [
         "MSnbase"
@@ -1275,13 +1151,10 @@
     ],
     "TransView": [],
     "treekoR": [
-        "diffcyt",
-        "ggtree"
+        "diffcyt"
     ],
     "TreeSummarizedExperiment": [],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "tximeta": [],
     "Ularcirc": [
         "plotgardener",
@@ -1307,10 +1180,7 @@
     "vtpnet": [
         "gwascat"
     ],
-    "vulcan": [
-        "ChIPpeakAnno",
-        "csaw"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
