@@ -352,7 +352,6 @@
         "vsn"
     ],
     "dcanr": [],
-    "dce": [],
     "ddPCRclust": [
         "flowDensity"
     ],
@@ -574,7 +573,6 @@
         "SPIA",
         "pathview"
     ],
-    "gsean": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -978,7 +976,6 @@
     "nearBynding": [
         "plyranges"
     ],
-    "nempi": [],
     "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
