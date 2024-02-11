@@ -385,9 +385,7 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -399,7 +397,6 @@
     ],
     "DAPAR": [
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -886,7 +883,6 @@
     "methylumi": [
         "minfi"
     ],
-    "Mfuzz": [],
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment"
@@ -1048,9 +1044,7 @@
         "HiCcompare"
     ],
     "MultiMed": [],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "multiWGCNA": [
         "dcanr"
     ],
@@ -1113,7 +1107,6 @@
     "octad": [],
     "OGRE": [],
     "oligo": [],
-    "OLINgui": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [],
@@ -1224,7 +1217,6 @@
     "Prostar": [
         "DAPAR",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1535,7 +1527,6 @@
         "vsn"
     ],
     "TimiRGeN": [
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
