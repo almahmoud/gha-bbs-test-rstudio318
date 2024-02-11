@@ -77,7 +77,6 @@
         "TreeSummarizedExperiment",
         "mia"
     ],
-    "AnnotationHub": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "apComplex": [],
@@ -322,7 +321,6 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "CONFESS": [],
     "conumee": [
         "minfi"
     ],
@@ -582,7 +580,6 @@
     "GenomicPlot": [
         "plyranges"
     ],
-    "GenomicScores": [],
     "GenProSeq": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
@@ -1196,7 +1193,6 @@
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [],
     "Rbec": [],
     "rCGH": [],
     "Rcwl": [
