@@ -1,5 +1,4 @@
 {
-    "agilp": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -35,7 +34,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "apComplex": [],
     "appreci8R": [],
     "ASICS": [
         "PepsNMR"
@@ -43,7 +41,6 @@
     "banocc": [],
     "basecallQC": [],
     "benchdamic": [],
-    "BiFET": [],
     "bigmelon": [
         "wateRmelon"
     ],
@@ -58,12 +55,8 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "BOBaFIT": [
-        "plyranges"
-    ],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BOBaFIT": [],
+    "BUSpaRse": [],
     "CAMERA": [
         "MsExperiment",
         "Spectra",
@@ -76,14 +69,11 @@
     "Cardinal": [],
     "CARNIVAL": [],
     "CCPlotR": [],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
         "wateRmelon"
     ],
-    "Chicago": [],
     "ChIPsim": [],
     "ChIPXpress": [],
     "cicero": [
@@ -124,7 +114,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "diffGeneAnalysis": [],
     "diffUTR": [],
     "DMRcate": [],
     "doubletrouble": [],
@@ -157,13 +146,10 @@
         "KEGGgraph",
         "pathview"
     ],
-    "GenomicPlot": [
-        "plyranges"
-    ],
+    "GenomicPlot": [],
     "GenProSeq": [],
     "GEWIST": [],
     "globalSeq": [],
-    "GSAR": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -173,14 +159,11 @@
     "Heatplus": [],
     "HPiP": [],
     "iCheck": [],
-    "IdeoViz": [],
     "immunotation": [],
     "iNETgrate": [
         "Pigengene"
     ],
-    "InPAS": [
-        "plyranges"
-    ],
+    "InPAS": [],
     "INTACT": [],
     "IntEREst": [],
     "IPO": [
@@ -190,14 +173,11 @@
         "xcms"
     ],
     "isobar": [],
-    "katdetectr": [
-        "plyranges"
-    ],
+    "katdetectr": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "lefser": [],
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
@@ -217,8 +197,7 @@
         "xcms"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "MEAL": [],
     "MEAT": [
@@ -226,7 +205,6 @@
     ],
     "Melissa": [],
     "memes": [],
-    "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "Spectra"
@@ -245,11 +223,8 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methylCC": [
-        "plyranges"
-    ],
+    "methylCC": [],
     "methylGSA": [],
-    "MGFR": [],
     "microbiomeMarker": [],
     "MineICA": [],
     "mirIntegrator": [
@@ -286,9 +261,7 @@
         "Spectra"
     ],
     "MSstatsLiP": [],
-    "multicrispr": [
-        "plyranges"
-    ],
+    "multicrispr": [],
     "MultiMed": [],
     "MultiRNAflow": [],
     "multiWGCNA": [
@@ -308,23 +281,18 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
     "netZooR": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "OutSplice": [],
     "PAIRADISE": [],
     "pairedGSEA": [],
-    "PanViz": [],
     "pathifier": [],
     "PathNet": [],
     "pathview": [
@@ -340,17 +308,11 @@
     ],
     "Pi": [],
     "Pigengene": [],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
+    "plyinteractions": [],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "rDGIdb": [],
     "RImmPort": [],
     "Risa": [
         "MsExperiment",
@@ -359,17 +321,12 @@
     ],
     "RLassoCox": [],
     "RLSeq": [],
-    "ROCpAI": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
     "rsemmed": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
-    "SARC": [
-        "plyranges"
-    ],
+    "sampleClassifier": [],
+    "SARC": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -401,10 +358,8 @@
     "tRanslatome": [
         "Heatplus"
     ],
-    "TransView": [],
     "Ularcirc": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [],
     "uSORT": [
