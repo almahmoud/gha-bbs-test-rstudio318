@@ -51,7 +51,6 @@
         "lumi",
         "methylumi"
     ],
-    "arrayQualityMetrics": [],
     "ASICS": [
         "PepsNMR"
     ],
@@ -104,7 +103,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "MsExperiment",
         "Spectra",
@@ -207,7 +205,6 @@
     "decontX": [
         "celda"
     ],
-    "deconvR": [],
     "DeepBlueR": [],
     "DEGraph": [
         "KEGGgraph",
@@ -415,7 +412,6 @@
     "methylCC": [
         "plyranges"
     ],
-    "methylclock": [],
     "methylGSA": [
         "clusterProfiler",
         "methylumi",
