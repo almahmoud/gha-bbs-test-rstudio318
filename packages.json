@@ -58,7 +58,6 @@
     ],
     "ATACseqQC": [],
     "bandle": [
-        "MSnbase",
         "pRoloc"
     ],
     "banocc": [],
@@ -91,7 +90,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "BioTIP": [],
     "biscuiteer": [
         "dmrseq"
     ],
@@ -111,7 +109,6 @@
     "cageminer": [],
     "CAGEr": [],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -170,26 +167,21 @@
         "KEGGgraph"
     ],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
     ],
     "Clomial": [],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "enrichplot"
     ],
-    "cogeqc": [],
     "CompoundDb": [
         "Spectra"
     ],
     "conumee": [],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -210,18 +202,15 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "cyanoFilter": [],
     "cycle": [],
     "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [],
     "DAPAR": [
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
     "dcanr": [],
-    "ddPCRclust": [],
     "debrowser": [
         "KEGGgraph",
         "clusterProfiler",
@@ -239,9 +228,7 @@
         "NCIgraph"
     ],
     "densvis": [],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "DEScan2": [],
     "diffGeneAnalysis": [],
     "diffHic": [],
@@ -293,9 +280,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExperimentSubset": [],
     "extraChIPs": [],
     "famat": [
@@ -309,7 +294,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -320,7 +304,6 @@
     "flowVS": [],
     "frenchFISH": [],
     "funtooNorm": [],
-    "GateFinder": [],
     "GDCRNATools": [
         "KEGGgraph",
         "clusterProfiler",
@@ -335,9 +318,7 @@
         "cellHTS2"
     ],
     "GEWIST": [],
-    "ggmsa": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "globalSeq": [],
     "goSorensen": [
         "clusterProfiler",
@@ -381,7 +362,6 @@
     "IntEREst": [],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -400,7 +380,6 @@
     "LinTInd": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -423,7 +402,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -459,7 +437,6 @@
     "metaCCA": [],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -499,9 +476,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microSTASIS": [],
     "mimager": [],
     "MineICA": [
@@ -519,7 +494,6 @@
         "methylumi"
     ],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -554,16 +528,11 @@
         "Spectra"
     ],
     "msImpute": [],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -571,7 +540,6 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM",
         "MSstatsTMT"
@@ -579,11 +547,8 @@
     "MSstatsPTM": [
         "MSstatsTMT"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC"
     ],
     "MSstatsShiny": [
@@ -611,7 +576,6 @@
         "ATACseqQC"
     ],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -630,13 +594,11 @@
         "quantro",
         "yarn"
     ],
-    "NormalyzerDE": [],
     "nullranges": [
         "plyranges"
     ],
     "omicsViewer": [],
     "onlineFDR": [],
-    "orthogene": [],
     "orthos": [],
     "OutSplice": [
         "Repitools",
@@ -655,9 +617,7 @@
     "pathview": [
         "KEGGgraph"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PepsNMR": [],
     "phemd": [
         "monocle"
@@ -683,34 +643,22 @@
     "pogos": [],
     "prebs": [],
     "preciseTAD": [],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot"
     ],
-    "pRoloc": [
-        "MSnbase"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MSnbase",
         "pRoloc"
     ],
     "Prostar": [
         "DAPAR",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
-    "protGear": [],
-    "ptairMS": [
-        "MSnbase"
-    ],
-    "pvca": [],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
+    "qPLEXanalyzer": [],
     "quantro": [],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
@@ -739,16 +687,13 @@
     "RImmPort": [],
     "Ringo": [],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
     ],
     "RLassoCox": [],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "RNAinteract": [
         "cellHTS2"
     ],
@@ -820,7 +765,6 @@
         "scDblFinder",
         "scMerge"
     ],
-    "sitePath": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -844,10 +788,7 @@
     "staRank": [
         "cellHTS2"
     ],
-    "synapter": [
-        "MSnbase"
-    ],
-    "systemPipeTools": [],
+    "synapter": [],
     "TADCompare": [],
     "tanggle": [],
     "TargetSearch": [],
@@ -860,9 +801,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "tRanslatome": [
         "Heatplus"
     ],
@@ -890,7 +829,6 @@
     ],
     "webbioc": [],
     "xcms": [
-        "MSnbase",
         "MsExperiment",
         "Spectra"
     ],
