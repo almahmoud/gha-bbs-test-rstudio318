@@ -22,7 +22,6 @@
         "gcrma"
     ],
     "AffyRNADegradation": [],
-    "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "affycoretools",
@@ -108,7 +107,6 @@
         "ChIPpeakAnno"
     ],
     "atena": [],
-    "AUCell": [],
     "bandle": [
         "MSnbase",
         "pRoloc",
@@ -131,7 +129,6 @@
     "BayesSpace": [
         "scran"
     ],
-    "bayNorm": [],
     "beadarray": [],
     "benchdamic": [
         "ANCOMBC",
@@ -323,7 +320,6 @@
         "ggtree"
     ],
     "cn.farms": [],
-    "CNVrd2": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -447,7 +443,6 @@
     "Dino": [
         "scran"
     ],
-    "dittoSeq": [],
     "DMRcate": [
         "methylumi",
         "minfi",
@@ -544,14 +539,12 @@
         "ggtree"
     ],
     "fastLiquidAssociation": [],
-    "FastqCleaner": [],
     "fdrame": [],
     "ffpe": [
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -723,7 +716,6 @@
         "cqn"
     ],
     "lefser": [],
-    "lineagespot": [],
     "LinTInd": [
         "ggtree"
     ],
@@ -930,7 +922,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "MOMA": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -1082,7 +1073,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "npGSEA": [],
     "nullranges": [
         "plyranges"
     ],
@@ -1101,7 +1091,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "OTUbase": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -1275,7 +1264,6 @@
         "basilisk.utils"
     ],
     "rGenomeTracks": [],
-    "RgnTX": [],
     "RImmPort": [],
     "Ringo": [
         "vsn"
@@ -1341,7 +1329,6 @@
         "scran"
     ],
     "scFeatures": [
-        "AUCell",
         "SingleCellSignalR",
         "scran"
     ],
@@ -1352,8 +1339,6 @@
     "scmeth": [
         "annotatr"
     ],
-    "SCnorm": [],
-    "scoreInvHap": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils"
@@ -1467,9 +1452,7 @@
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "SpliceWiz": [],
     "SPsimSeq": [],
     "staRank": [
@@ -1577,7 +1560,6 @@
         "Spectra",
         "vsn"
     ],
-    "yamss": [],
     "yarn": [
         "minfi",
         "quantro"
