@@ -35,7 +35,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ANCOMBC": [],
     "apComplex": [],
     "appreci8R": [],
     "arrayMvout": [],
@@ -44,9 +43,7 @@
     ],
     "banocc": [],
     "basecallQC": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "BiFET": [],
     "bigmelon": [
         "wateRmelon"
@@ -121,7 +118,6 @@
         "CARNIVAL"
     ],
     "cycle": [],
-    "DAPAR": [],
     "dcanr": [],
     "debrowser": [
         "KEGGgraph",
@@ -154,9 +150,6 @@
         "pathview"
     ],
     "enrichTF": [],
-    "EpiCompare": [],
-    "esATAC": [],
-    "famat": [],
     "fdrame": [],
     "ffpe": [],
     "flagme": [
@@ -185,7 +178,6 @@
         "pathview"
     ],
     "Heatplus": [],
-    "HiCDOC": [],
     "HPiP": [],
     "iCheck": [],
     "IdeoViz": [],
@@ -257,7 +249,6 @@
         "Spectra",
         "xcms"
     ],
-    "MetaPhOR": [],
     "MetCirc": [
         "Spectra"
     ],
@@ -267,9 +258,7 @@
     "methylGSA": [],
     "MGFR": [],
     "miaViz": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [],
     "MineICA": [],
     "mirIntegrator": [
@@ -307,13 +296,8 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
+    "MSstatsShiny": [],
     "multicrispr": [
         "plyranges"
     ],
@@ -350,12 +334,9 @@
     ],
     "omicsViewer": [],
     "onlineFDR": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "PAIRADISE": [],
     "pairedGSEA": [],
-    "PanomiR": [],
     "PanViz": [],
     "pathifier": [],
     "PathNet": [],
@@ -379,15 +360,11 @@
         "plyranges"
     ],
     "plyranges": [],
-    "profileplyr": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "rDGIdb": [],
-    "Repitools": [],
     "RImmPort": [],
     "Risa": [
         "MsExperiment",
@@ -418,13 +395,11 @@
     "scatterHatch": [],
     "scFeatures": [],
     "scTensor": [],
-    "segmenter": [],
     "seqArchR": [],
     "seqArchRplus": [
         "seqArchR"
     ],
     "SeqSQC": [],
-    "signatureSearch": [],
     "SimBindProfiles": [],
     "simplifyEnrichment": [],
     "sincell": [],
@@ -440,7 +415,6 @@
     ],
     "SPIAT": [],
     "TargetSearch": [],
-    "TimiRGeN": [],
     "tRanslatome": [
         "Heatplus"
     ],
