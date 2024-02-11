@@ -56,14 +56,12 @@
     ],
     "AMARETTO": [],
     "ANCOMBC": [
-        "TreeSummarizedExperiment",
         "mia"
     ],
     "AnnotationHubData": [],
     "annotatr": [],
     "apComplex": [],
     "appreci8R": [],
-    "ArrayExpress": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -90,13 +88,10 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "basilisk": [],
-    "batchelor": [],
     "BayesSpace": [],
     "beadarray": [],
     "benchdamic": [
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "mia"
     ],
     "bgx": [],
@@ -113,14 +108,10 @@
         "enrichplot"
     ],
     "BioCartaImage": [],
-    "BiocHail": [
-        "basilisk"
-    ],
+    "BiocHail": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
-    "BiocSklearn": [
-        "basilisk"
-    ],
+    "BiocSklearn": [],
     "BioNERO": [],
     "BioNetStat": [
         "KEGGgraph",
@@ -170,17 +161,12 @@
     "cardelino": [],
     "Cardinal": [],
     "CARNIVAL": [],
-    "CATALYST": [],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "CBNplot": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [
-        "basilisk"
-    ],
+    "cbpManager": [],
     "CCPlotR": [],
     "celda": [],
     "cellHTS2": [],
@@ -198,9 +184,7 @@
     "cfDNAPro": [
         "plyranges"
     ],
-    "cfTools": [
-        "basilisk"
-    ],
+    "cfTools": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -215,9 +199,7 @@
     ],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromSCape": [
-        "batchelor"
-    ],
+    "ChromSCape": [],
     "cicero": [
         "monocle"
     ],
@@ -264,25 +246,19 @@
         "CARNIVAL"
     ],
     "crisprDesign": [
-        "basilisk",
         "crisprScore"
     ],
-    "crisprScore": [
-        "basilisk"
-    ],
+    "crisprScore": [],
     "crisprVerse": [
-        "basilisk",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
-        "basilisk",
         "crisprDesign",
         "crisprScore"
     ],
     "crlmm": [],
-    "crossmeta": [],
     "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
@@ -291,12 +267,8 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "cytofQC": [],
+    "CytoML": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -323,9 +295,7 @@
         "NCIgraph"
     ],
     "demuxSNP": [],
-    "densvis": [
-        "basilisk"
-    ],
+    "densvis": [],
     "DEP": [
         "MSnbase"
     ],
@@ -352,14 +322,11 @@
         "pathview",
         "zenith"
     ],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "easier": [
         "quantiseqr"
     ],
     "edge": [],
-    "EDIRquery": [],
     "EGSEA": [
         "KEGGgraph",
         "pathview"
@@ -401,17 +368,13 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExiMiR": [],
     "ExperimentHubData": [],
-    "ExperimentSubset": [
-        "TreeSummarizedExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [],
     "famat": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "fdrame": [],
     "ffpe": [
         "lumi",
@@ -425,9 +388,7 @@
         "Spectra",
         "xcms"
     ],
-    "FLAMES": [
-        "basilisk"
-    ],
+    "FLAMES": [],
     "flowBin": [],
     "flowCut": [],
     "flowStats": [],
@@ -486,9 +447,7 @@
         "multiHiCcompare"
     ],
     "HiContacts": [],
-    "HiCool": [
-        "basilisk"
-    ],
+    "HiCool": [],
     "hipathia": [],
     "hpar": [],
     "HPiP": [],
@@ -512,7 +471,6 @@
     ],
     "INTACT": [],
     "IntEREst": [],
-    "IntramiRExploreR": [],
     "ipdDb": [],
     "IPO": [
         "CAMERA",
@@ -551,9 +509,7 @@
     ],
     "LymphoSeq": [],
     "m6Aboost": [],
-    "MACSr": [
-        "basilisk"
-    ],
+    "MACSr": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
@@ -652,19 +608,13 @@
         "minfi"
     ],
     "MGFR": [],
-    "mia": [
-        "TreeSummarizedExperiment"
-    ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "mia": [],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "mia"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "mia"
     ],
     "MicrobiomeProfiler": [
@@ -674,9 +624,7 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "microSTASIS": [
-        "TreeSummarizedExperiment"
-    ],
+    "microSTASIS": [],
     "mimager": [
         "affyPLM"
     ],
@@ -705,9 +653,7 @@
         "xcms"
     ],
     "MODA": [],
-    "MOFA2": [
-        "basilisk"
-    ],
+    "MOFA2": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -788,9 +734,7 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "mumosa": [
-        "batchelor"
-    ],
+    "mumosa": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -818,7 +762,6 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "NetSAM": [],
     "netZooR": [
         "minfi",
         "quantro",
@@ -835,12 +778,8 @@
     "omicsViewer": [],
     "onlineFDR": [],
     "ontoProc": [],
-    "openCyto": [],
-    "openPrimeRui": [],
     "orthogene": [],
-    "orthos": [
-        "basilisk"
-    ],
+    "orthos": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -853,9 +792,7 @@
     ],
     "panp": [],
     "PanViz": [],
-    "pareg": [
-        "basilisk"
-    ],
+    "pareg": [],
     "partCNV": [],
     "pathifier": [],
     "PathNet": [],
@@ -894,9 +831,7 @@
     "pogos": [
         "ontoProc"
     ],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [],
     "primirTSS": [],
     "PrInCE": [
@@ -928,7 +863,6 @@
     "puma": [],
     "pvca": [],
     "pwOmics": [],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -939,20 +873,15 @@
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "Rcwl": [
-        "basilisk"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "Rcwl",
-        "basilisk"
+        "Rcwl"
     ],
     "rDGIdb": [],
     "ReactomePA": [
         "enrichplot"
     ],
-    "rebook": [],
     "recountmethylation": [
-        "basilisk",
         "minfi"
     ],
     "REDseq": [],
@@ -969,8 +898,7 @@
     "restfulSE": [],
     "ReUseData": [
         "Rcwl",
-        "RcwlPipelines",
-        "basilisk"
+        "RcwlPipelines"
     ],
     "rGenomeTracks": [],
     "RImmPort": [],
@@ -997,7 +925,6 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "RPA": [],
     "rsemmed": [],
     "RTNsurvival": [],
     "rTRMui": [],
@@ -1023,28 +950,21 @@
     "scFeatures": [
         "SingleCellSignalR"
     ],
-    "scMerge": [
-        "batchelor"
-    ],
+    "scMerge": [],
     "scmeth": [
         "annotatr"
     ],
-    "scPipe": [
-        "basilisk"
-    ],
+    "scPipe": [],
     "scTensor": [
         "ReactomePA",
         "enrichplot"
     ],
     "scTreeViz": [],
-    "scviR": [
-        "basilisk"
-    ],
+    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
     ],
-    "seq2pathway": [],
     "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -1068,19 +988,14 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [
-        "basilisk"
-    ],
+    "SimBu": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "basilisk",
-        "batchelor",
         "celda",
         "scDblFinder",
-        "scMerge",
-        "zellkonverter"
+        "scMerge"
     ],
     "sitePath": [],
     "skewr": [
@@ -1092,18 +1007,14 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "snifter": [
-        "basilisk"
-    ],
+    "snifter": [],
     "soGGi": [],
     "SOMNiBUS": [
         "annotatr"
     ],
     "Spaniel": [],
     "sparsenetgls": [],
-    "spatialDE": [
-        "basilisk"
-    ],
+    "spatialDE": [],
     "spatialHeatmap": [],
     "spatzie": [],
     "specL": [],
@@ -1153,7 +1064,6 @@
     "treekoR": [
         "diffcyt"
     ],
-    "TreeSummarizedExperiment": [],
     "tweeDEseq": [],
     "tximeta": [],
     "Ularcirc": [
@@ -1170,10 +1080,7 @@
         "crlmm"
     ],
     "VariantFiltering": [],
-    "velociraptor": [
-        "basilisk",
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "veloviz": [],
     "VERSO": [],
     "vissE": [],
@@ -1195,9 +1102,6 @@
     "yarn": [
         "minfi",
         "quantro"
-    ],
-    "zellkonverter": [
-        "basilisk"
     ],
     "zenith": [
         "EnrichmentBrowser",
