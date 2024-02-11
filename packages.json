@@ -45,7 +45,6 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "bandle": [],
     "banocc": [],
     "basecallQC": [],
     "benchdamic": [
@@ -328,10 +327,7 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MsQuality": [
         "MsExperiment",
         "Spectra"
@@ -340,7 +336,6 @@
         "MSstatsPTM"
     ],
     "MSstatsPTM": [],
-    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
@@ -412,7 +407,6 @@
     ],
     "plyranges": [],
     "profileplyr": [],
-    "pRolocGUI": [],
     "Prostar": [
         "DAPAR"
     ],
