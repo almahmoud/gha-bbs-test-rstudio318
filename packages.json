@@ -131,7 +131,6 @@
         "illuminaio",
         "vsn"
     ],
-    "ARRmNormalization": [],
     "artMS": [
         "MSstats"
     ],
@@ -139,10 +138,7 @@
         "PepsNMR"
     ],
     "ASpli": [],
-    "AssessORF": [],
-    "ATACCoGAPS": [
-        "GeneOverlap"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "BiocVersion",
         "ChIPpeakAnno"
@@ -337,7 +333,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "CGEN": [],
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
@@ -473,8 +468,7 @@
         "BiocVersion"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cycle": [
         "Mfuzz",
@@ -487,7 +481,6 @@
         "CATALYST"
     ],
     "CytoML": [
-        "flowViz",
         "openCyto"
     ],
     "DAPAR": [
@@ -505,8 +498,7 @@
     ],
     "ddPCRclust": [
         "SamSPECTRAL",
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "debrowser": [
         "Harman",
@@ -573,7 +565,6 @@
         "vsn"
     ],
     "doubletrouble": [
-        "MSA2dist",
         "syntenet"
     ],
     "dreamlet": [
@@ -700,31 +691,19 @@
         "scran"
     ],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCHIC": [],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGraph": [],
-    "flowStats": [
-        "flowViz"
-    ],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowStats": [],
+    "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowViz"
+        "flowStats"
     ],
     "frenchFISH": [],
     "frma": [],
@@ -733,10 +712,8 @@
         "illuminaio",
         "minfi"
     ],
-    "GAprediction": [],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "gcrma": [],
     "GDCRNATools": [
@@ -749,10 +726,8 @@
     "gDNAx": [
         "BiocVersion"
     ],
-    "GeneOverlap": [],
     "geNetClassifier": [],
     "geneXtendeR": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [],
     "GenomicPlot": [
         "plyranges"
@@ -785,7 +760,6 @@
     "girafe": [],
     "globalSeq": [],
     "GmicR": [],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
@@ -1087,7 +1061,6 @@
         "tkWidgets"
     ],
     "MGFR": [],
-    "mgsa": [],
     "mia": [
         "TreeSummarizedExperiment"
     ],
@@ -1174,7 +1147,6 @@
     ],
     "MotifDb": [],
     "MPFE": [],
-    "MSA2dist": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -1344,14 +1316,11 @@
         "tkWidgets"
     ],
     "omicsViewer": [],
-    "OncoScore": [],
     "onlineFDR": [],
     "ontoProc": [
         "BiocVersion"
     ],
-    "openCyto": [
-        "flowViz"
-    ],
+    "openCyto": [],
     "openPrimeRui": [],
     "orthogene": [
         "ggtree"
@@ -1385,7 +1354,6 @@
     "partCNV": [
         "BiocVersion"
     ],
-    "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
     "PathoStat": [],
@@ -1476,7 +1444,6 @@
         "tkWidgets",
         "vsn"
     ],
-    "ProteoMM": [],
     "protGear": [
         "vsn"
     ],
@@ -1636,7 +1603,6 @@
         "BiocVersion"
     ],
     "scatterHatch": [],
-    "SCBN": [],
     "scBubbletree": [
         "ggtree"
     ],
@@ -1728,7 +1694,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "SimFFPE": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
@@ -1826,9 +1791,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "TEKRABber": [
-        "SCBN"
-    ],
+    "TEKRABber": [],
     "tenXplore": [
         "BiocVersion",
         "ontoProc",
