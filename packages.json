@@ -38,13 +38,11 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "banocc": [],
     "basecallQC": [],
     "benchdamic": [],
     "bigmelon": [
         "wateRmelon"
     ],
-    "BioCartaImage": [],
     "BiocOncoTK": [],
     "BioNetStat": [
         "KEGGgraph",
@@ -63,11 +61,8 @@
         "xcms"
     ],
     "canceR": [
-        "Heatplus",
         "phenoTest"
     ],
-    "Cardinal": [],
-    "CARNIVAL": [],
     "CCPlotR": [],
     "cfDNAPro": [],
     "ChAMP": [
@@ -79,7 +74,6 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph"
@@ -89,7 +83,6 @@
         "Spectra",
         "xcms"
     ],
-    "Clomial": [],
     "ClusterJudge": [],
     "CompoundDb": [
         "Spectra"
@@ -99,9 +92,7 @@
         "Spectra",
         "xcms"
     ],
-    "cosmosR": [
-        "CARNIVAL"
-    ],
+    "cosmosR": [],
     "cycle": [],
     "dcanr": [],
     "debrowser": [
@@ -156,10 +147,8 @@
         "SPIA",
         "pathview"
     ],
-    "Heatplus": [],
     "HPiP": [],
     "iCheck": [],
-    "immunotation": [],
     "iNETgrate": [
         "Pigengene"
     ],
@@ -263,7 +252,6 @@
     "MSstatsLiP": [],
     "multicrispr": [],
     "MultiMed": [],
-    "MultiRNAflow": [],
     "multiWGCNA": [
         "dcanr"
     ],
@@ -286,7 +274,6 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netZooR": [],
     "nullranges": [],
     "omicsViewer": [],
     "onlineFDR": [],
@@ -294,7 +281,6 @@
     "PAIRADISE": [],
     "pairedGSEA": [],
     "pathifier": [],
-    "PathNet": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -302,10 +288,7 @@
     "phemd": [
         "monocle"
     ],
-    "PhenoGeneRanker": [],
-    "phenoTest": [
-        "Heatplus"
-    ],
+    "phenoTest": [],
     "Pi": [],
     "Pigengene": [],
     "plotgardener": [],
@@ -313,13 +296,11 @@
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "RImmPort": [],
     "Risa": [
         "MsExperiment",
         "Spectra",
         "xcms"
     ],
-    "RLassoCox": [],
     "RLSeq": [],
     "ROntoTools": [
         "KEGGgraph"
@@ -355,9 +336,7 @@
     ],
     "SPIAT": [],
     "TargetSearch": [],
-    "tRanslatome": [
-        "Heatplus"
-    ],
+    "tRanslatome": [],
     "Ularcirc": [
         "plotgardener"
     ],
@@ -365,7 +344,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VAExprs": [],
     "veloviz": [],
     "VERSO": [],
     "wateRmelon": [],
