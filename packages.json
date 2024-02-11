@@ -54,7 +54,6 @@
     "ANCOMBC": [
         "mia"
     ],
-    "annotatr": [],
     "apComplex": [],
     "appreci8R": [],
     "arrayMvout": [
@@ -70,7 +69,6 @@
         "PepsNMR"
     ],
     "ATACseqQC": [],
-    "atena": [],
     "bandle": [
         "MSnbase",
         "pRoloc"
@@ -101,7 +99,6 @@
     ],
     "BioCartaImage": [],
     "BiocHail": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNetStat": [
@@ -110,7 +107,6 @@
     ],
     "BioTIP": [],
     "biscuiteer": [
-        "annotatr",
         "dmrseq"
     ],
     "blacksheepr": [],
@@ -123,7 +119,6 @@
     "BOBaFIT": [
         "plyranges"
     ],
-    "brainflowprobes": [],
     "BUSpaRse": [
         "plyranges"
     ],
@@ -237,7 +232,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "cTRAP": [],
     "cyanoFilter": [],
     "cycle": [],
@@ -283,9 +277,7 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
@@ -385,7 +377,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GRaNIE": [],
     "GSAR": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -432,11 +423,8 @@
         "Spectra",
         "xcms"
     ],
-    "iSEEhub": [],
     "isobar": [],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "katdetectr": [
         "plyranges"
     ],
@@ -464,7 +452,6 @@
     "MACSr": [],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "methylumi",
         "minfi"
     ],
@@ -487,7 +474,6 @@
         "plyranges"
     ],
     "maskBAD": [],
-    "mastR": [],
     "MatrixQCvis": [],
     "MEAL": [
         "methylumi",
@@ -579,8 +565,7 @@
     ],
     "minfi": [],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "mirIntegrator": [
         "KEGGgraph",
@@ -725,7 +710,6 @@
     ],
     "PanViz": [],
     "pareg": [],
-    "partCNV": [],
     "pathifier": [],
     "PathNet": [],
     "pathview": [
@@ -743,7 +727,6 @@
         "Heatplus"
     ],
     "philr": [],
-    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -781,12 +764,10 @@
         "enrichplot"
     ],
     "protGear": [],
-    "psichomics": [],
     "ptairMS": [
         "MSnbase"
     ],
     "pvca": [],
-    "pwOmics": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -811,7 +792,6 @@
     "RegionalST": [
         "BayesSpace"
     ],
-    "regutools": [],
     "REMP": [
         "minfi"
     ],
@@ -849,7 +829,6 @@
     ],
     "rsemmed": [],
     "RTNsurvival": [],
-    "rTRMui": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -873,9 +852,7 @@
         "SingleCellSignalR"
     ],
     "scMerge": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scPipe": [],
     "scTensor": [
         "ReactomePA",
@@ -928,9 +905,7 @@
         "tilingArray"
     ],
     "snifter": [],
-    "SOMNiBUS": [
-        "annotatr"
-    ],
+    "SOMNiBUS": [],
     "Spaniel": [],
     "sparsenetgls": [],
     "spatialDE": [],
@@ -972,7 +947,6 @@
     "TransView": [],
     "treekoR": [],
     "tweeDEseq": [],
-    "tximeta": [],
     "Ularcirc": [
         "plotgardener",
         "plyranges"
@@ -983,9 +957,7 @@
         "monocle"
     ],
     "VAExprs": [],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "velociraptor": [],
     "veloviz": [],
     "VERSO": [],
