@@ -255,9 +255,7 @@
     ],
     "BiocVersion": [],
     "BiocWorkflowTools": [],
-    "BioMVCClass": [
-        "MVCClass"
-    ],
+    "BioMVCClass": [],
     "BioNAR": [
         "preprocessCore"
     ],
@@ -390,7 +388,6 @@
         "vsn"
     ],
     "cellmigRation": [],
-    "CellScore": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot",
@@ -504,8 +501,7 @@
         "Spectra"
     ],
     "CONFESS": [
-        "SamSPECTRAL",
-        "flowPeaks"
+        "SamSPECTRAL"
     ],
     "consensus": [],
     "consICA": [],
@@ -629,7 +625,6 @@
     "ddPCRclust": [
         "SamSPECTRAL",
         "flowDensity",
-        "flowPeaks",
         "flowViz"
     ],
     "debrowser": [
@@ -654,9 +649,7 @@
         "preprocessCore"
     ],
     "DeepBlueR": [],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -724,7 +717,6 @@
         "MSA2dist",
         "syntenet"
     ],
-    "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -841,9 +833,7 @@
         "csaw",
         "metapod"
     ],
-    "factR": [
-        "drawProteins"
-    ],
+    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
@@ -897,7 +887,6 @@
         "flowViz"
     ],
     "flowGraph": [],
-    "flowPeaks": [],
     "FlowSOM": [],
     "flowStats": [
         "flowViz"
@@ -960,8 +949,7 @@
         "BiocVersion"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GEOsubmission": [
         "preprocessCore"
@@ -1067,7 +1055,6 @@
     "hicVennDiagram": [
         "InteractionSet"
     ],
-    "hierGWAS": [],
     "HilbertVisGUI": [],
     "hipathia": [
         "BiocVersion",
@@ -1094,7 +1081,6 @@
         "preprocessCore"
     ],
     "IdeoViz": [],
-    "iGC": [],
     "illuminaio": [],
     "IMMAN": [],
     "ImmuneSpaceR": [
@@ -1144,10 +1130,7 @@
         "BiocVersion"
     ],
     "isobar": [],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DEXSeq",
@@ -1280,7 +1263,6 @@
         "missMethyl",
         "preprocessCore"
     ],
-    "MeasurementError.cor": [],
     "MEAT": [
         "illuminaio",
         "lumi",
@@ -1627,7 +1609,6 @@
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "KEGGgraph"
     ],
@@ -1889,7 +1870,6 @@
         "treeio",
         "vsn"
     ],
-    "proteinProfiles": [],
     "ProteoMM": [],
     "protGear": [
         "preprocessCore",
@@ -1937,7 +1917,6 @@
     "RandomWalkRestartMH": [
         "supraHex"
     ],
-    "RAREsim": [],
     "RareVariantVis": [
         "BiocVersion"
     ],
@@ -2047,7 +2026,6 @@
         "splots",
         "vsn"
     ],
-    "rnaseqcomp": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -2329,7 +2307,6 @@
         "preprocessCore"
     ],
     "supraHex": [],
-    "survtype": [],
     "SwathXtend": [],
     "synapter": [
         "MSnbase",
@@ -2367,7 +2344,6 @@
     "tidybulk": [
         "preprocessCore"
     ],
-    "TileDBArray": [],
     "tilingArray": [
         "preprocessCore",
         "vsn"
@@ -2407,8 +2383,6 @@
         "treeio"
     ],
     "tripr": [],
-    "TRONCO": [],
-    "ttgsea": [],
     "TurboNorm": [
         "preprocessCore"
     ],
@@ -2434,8 +2408,7 @@
         "monocle"
     ],
     "VAExprs": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "VanillaICE": [
         "crlmm",
