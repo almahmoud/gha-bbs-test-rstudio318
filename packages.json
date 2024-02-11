@@ -35,9 +35,7 @@
         "alabaster.string"
     ],
     "appreci8R": [],
-    "ASICS": [
-        "PepsNMR"
-    ],
+    "ASICS": [],
     "basecallQC": [],
     "bigmelon": [
         "wateRmelon"
@@ -62,7 +60,6 @@
     "CCPlotR": [],
     "cfDNAPro": [],
     "ChAMP": [
-        "DMRcate",
         "wateRmelon"
     ],
     "ChIPsim": [],
@@ -75,7 +72,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "ClusterJudge": [],
     "CompoundDb": [],
     "cosmiq": [
         "MsExperiment",
@@ -92,7 +88,6 @@
         "NCIgraph"
     ],
     "diffUTR": [],
-    "DMRcate": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -107,7 +102,6 @@
         "SPIA",
         "pathview"
     ],
-    "fdrame": [],
     "ffpe": [],
     "flagme": [
         "CAMERA",
@@ -120,20 +114,16 @@
     ],
     "GenomicPlot": [],
     "GenProSeq": [],
-    "globalSeq": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
         "pathview"
     ],
-    "HPiP": [],
     "iCheck": [],
     "iNETgrate": [
         "Pigengene"
     ],
     "InPAS": [],
-    "INTACT": [],
-    "IntEREst": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -171,7 +161,6 @@
     "MetaboSignal": [
         "MWASTools"
     ],
-    "metaCCA": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -190,7 +179,6 @@
         "xcms"
     ],
     "monocle": [],
-    "MPFE": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -217,16 +205,13 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetPathMiner": [],
     "nullranges": [],
     "omicsViewer": [],
     "onlineFDR": [],
     "OutSplice": [],
     "PAIRADISE": [],
     "pairedGSEA": [],
-    "pathifier": [],
     "pathview": [],
-    "PepsNMR": [],
     "phemd": [
         "monocle"
     ],
@@ -264,7 +249,6 @@
         "wateRmelon"
     ],
     "sparsenetgls": [],
-    "specL": [],
     "SPIA": [],
     "tRanslatome": [],
     "Ularcirc": [
@@ -274,7 +258,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VERSO": [],
     "wateRmelon": [],
     "xcms": [
         "MsExperiment"
