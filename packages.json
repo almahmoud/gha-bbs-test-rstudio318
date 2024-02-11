@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "agilp": [],
     "alabaster": [
         "alabaster.bumpy",
@@ -50,7 +48,6 @@
     "bandle": [],
     "banocc": [],
     "basecallQC": [],
-    "BASiCStan": [],
     "benchdamic": [
         "ANCOMBC"
     ],
@@ -66,7 +63,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biscuiteer": [],
     "blacksheepr": [],
     "BLMA": [
         "KEGGgraph",
@@ -131,10 +127,7 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "cycle": [],
     "DAPAR": [],
     "dcanr": [],
@@ -143,7 +136,6 @@
         "pathview"
     ],
     "decompTumor2Sig": [],
-    "decontX": [],
     "DeepBlueR": [],
     "DEGraph": [
         "KEGGgraph",
@@ -194,7 +186,6 @@
         "plyranges"
     ],
     "GenProSeq": [],
-    "gespeR": [],
     "GEWIST": [],
     "globalSeq": [],
     "goSorensen": [],
@@ -305,7 +296,6 @@
     "MineICA": [
         "lumi"
     ],
-    "MinimumDistance": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -430,9 +420,7 @@
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "rDGIdb": [],
-    "RegionalST": [],
     "Repitools": [],
-    "ReUseData": [],
     "RImmPort": [],
     "Risa": [
         "MsExperiment",
@@ -441,7 +429,6 @@
     ],
     "RLassoCox": [],
     "RLSeq": [],
-    "RNAinteract": [],
     "RnBeads": [],
     "ROCpAI": [],
     "ROntoTools": [
@@ -480,7 +467,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "snapCGH": [],
     "sparsenetgls": [],
     "specL": [],
     "Spectra": [],
@@ -488,7 +474,6 @@
         "KEGGgraph"
     ],
     "SPIAT": [],
-    "staRank": [],
     "TargetSearch": [],
     "TimiRGeN": [],
     "tRanslatome": [
