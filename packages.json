@@ -39,25 +39,21 @@
         "PepsNMR"
     ],
     "basecallQC": [],
-    "benchdamic": [],
     "bigmelon": [
         "wateRmelon"
     ],
     "BiocOncoTK": [],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "blacksheepr": [],
     "BLMA": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "BOBaFIT": [],
     "BUSpaRse": [],
     "CAMERA": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -74,35 +70,25 @@
     "cicero": [
         "monocle"
     ],
-    "clevRvis": [],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliqueMS": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "ClusterJudge": [],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "cosmiq": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "cosmosR": [],
     "cycle": [],
-    "dcanr": [],
     "debrowser": [
-        "KEGGgraph",
         "pathview"
     ],
     "decompTumor2Sig": [],
     "DeepBlueR": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph"
     ],
     "diffUTR": [],
@@ -110,17 +96,14 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "zenith"
     ],
     "EGSEA": [
-        "KEGGgraph",
         "pathview"
     ],
     "EnrichmentBrowser": [
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -129,21 +112,17 @@
     "flagme": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "frenchFISH": [],
     "GDCRNATools": [
-        "KEGGgraph",
         "pathview"
     ],
     "GenomicPlot": [],
     "GenProSeq": [],
-    "GEWIST": [],
     "globalSeq": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -158,31 +137,23 @@
     "IPO": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "isobar": [],
     "katdetectr": [],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
-    "lpNet": [],
     "MAGAR": [],
     "MAGeCKFlute": [
-        "KEGGgraph",
         "pathview"
     ],
     "MAIT": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "mariner": [
@@ -195,80 +166,53 @@
     "Melissa": [],
     "memes": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools"
     ],
     "metaCCA": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methylCC": [],
     "methylGSA": [],
     "microbiomeMarker": [],
     "MineICA": [],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "MobilityTransformR": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "monocle": [],
     "MPFE": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsLiP": [],
     "multicrispr": [],
     "MultiMed": [],
-    "multiWGCNA": [
-        "dcanr"
-    ],
+    "multiWGCNA": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "ncGTW": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
-    "NCIgraph": [
-        "KEGGgraph"
-    ],
+    "NCIgraph": [],
     "nearBynding": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -281,9 +225,7 @@
     "PAIRADISE": [],
     "pairedGSEA": [],
     "pathifier": [],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "PepsNMR": [],
     "phemd": [
         "monocle"
@@ -293,23 +235,17 @@
     "Pigengene": [],
     "plotgardener": [],
     "plyinteractions": [],
-    "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "Risa": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "RLSeq": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
-    "rsemmed": [],
+    "ROntoTools": [],
     "sampleClassifier": [],
     "SARC": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "scanMiR": [],
@@ -324,18 +260,12 @@
     ],
     "SeqSQC": [],
     "simplifyEnrichment": [],
-    "sincell": [],
     "skewr": [
         "wateRmelon"
     ],
     "sparsenetgls": [],
     "specL": [],
-    "Spectra": [],
-    "SPIA": [
-        "KEGGgraph"
-    ],
-    "SPIAT": [],
-    "TargetSearch": [],
+    "SPIA": [],
     "tRanslatome": [],
     "Ularcirc": [
         "plotgardener"
@@ -344,16 +274,13 @@
     "uSORT": [
         "monocle"
     ],
-    "veloviz": [],
     "VERSO": [],
     "wateRmelon": [],
     "xcms": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ]
