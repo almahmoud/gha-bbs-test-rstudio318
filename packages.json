@@ -1,7 +1,6 @@
 {
     "abseqR": [],
     "ADaCGH2": [
-        "preprocessCore",
         "snapCGH",
         "tilingArray",
         "vsn"
@@ -9,38 +8,27 @@
     "adductomicsR": [
         "BiocVersion"
     ],
-    "affy": [
-        "preprocessCore"
-    ],
-    "affyContam": [
-        "preprocessCore"
-    ],
+    "affy": [],
+    "affyContam": [],
     "affycoretools": [
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "affyILM": [
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "affylmGUI": [
         "affyPLM",
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "affyPLM": [
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
-    "AffyRNADegradation": [
-        "preprocessCore"
-    ],
+    "AffyRNADegradation": [],
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "affycoretools",
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "AHMassBank": [
         "BiocVersion"
@@ -105,8 +93,7 @@
         "alabaster.string"
     ],
     "altcdfenvs": [
-        "makecdfenv",
-        "preprocessCore"
+        "makecdfenv"
     ],
     "AMARETTO": [
         "BiocVersion"
@@ -115,8 +102,7 @@
     "amplican": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
-        "mia",
-        "treeio"
+        "mia"
     ],
     "AnnotationHub": [
         "BiocVersion"
@@ -131,31 +117,25 @@
     "appreci8R": [
         "BiocVersion"
     ],
-    "ArrayExpress": [
-        "preprocessCore"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "affyContam",
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
         "gcrma",
         "illuminaio",
-        "preprocessCore",
         "vsn"
     ],
     "ARRmNormalization": [],
     "artMS": [
-        "MSstats",
-        "preprocessCore"
+        "MSstats"
     ],
-    "ASAFE": [],
     "ASICS": [
         "PepsNMR"
     ],
@@ -176,18 +156,15 @@
     "bandle": [
         "MSnbase",
         "pRoloc",
-        "preprocessCore",
         "vsn"
     ],
     "banocc": [],
     "basecallQC": [],
     "BASiCS": [
-        "metapod",
         "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "metapod",
         "scran"
     ],
     "basilisk": [
@@ -201,7 +178,6 @@
         "ResidualMatrix"
     ],
     "BayesSpace": [
-        "metapod",
         "scran"
     ],
     "bayNorm": [],
@@ -211,12 +187,10 @@
     "benchdamic": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
-        "mia",
-        "treeio"
+        "mia"
     ],
     "bgx": [
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "BiFET": [],
     "bigmelon": [
@@ -224,7 +198,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "preprocessCore",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -232,8 +205,7 @@
         "clusterProfiler",
         "enrichplot",
         "geNetClassifier",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "BioCartaImage": [],
     "BiocHail": [
@@ -255,18 +227,13 @@
     "BiocVersion": [],
     "BiocWorkflowTools": [],
     "BioMVCClass": [],
-    "BioNAR": [
-        "preprocessCore"
-    ],
-    "BioNERO": [
-        "preprocessCore"
-    ],
+    "BioNAR": [],
+    "BioNERO": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
     ],
     "BioTIP": [
-        "metapod",
         "scran"
     ],
     "biscuiteer": [
@@ -286,15 +253,11 @@
         "ROntoTools"
     ],
     "BloodGen3Module": [
-        "BiocVersion",
-        "preprocessCore"
+        "BiocVersion"
     ],
-    "bnbc": [
-        "preprocessCore"
-    ],
+    "bnbc": [],
     "bnem": [
         "epiNEM",
-        "preprocessCore",
         "vsn"
     ],
     "BOBaFIT": [
@@ -310,16 +273,13 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAFE": [
-        "preprocessCore"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions",
         "InteractionSet"
     ],
     "cageminer": [
-        "BioNERO",
-        "preprocessCore"
+        "BioNERO"
     ],
     "CAGEr": [
         "CAGEfightR",
@@ -330,7 +290,6 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
@@ -340,8 +299,7 @@
         "phenoTest"
     ],
     "cardelino": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Cardinal": [],
     "CARNIVAL": [],
@@ -349,15 +307,13 @@
         "FlowSOM"
     ],
     "CBEA": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "CBNplot": [
         "BiocVersion",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "cbpManager": [
         "basilisk",
@@ -367,23 +323,17 @@
     "ccImpute": [],
     "CCPlotR": [],
     "celda": [
-        "metapod",
         "scran"
     ],
     "CellBarcode": [],
     "cellbaseR": [],
     "cellHTS2": [
-        "preprocessCore",
-        "splots",
         "vsn"
     ],
-    "cellmigRation": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "preprocessCore",
-        "treeio"
+        "ggtree"
     ],
     "censcyt": [
         "FlowSOM",
@@ -392,8 +342,7 @@
     "CeTF": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "cfDNAPro": [
         "plyranges"
@@ -413,7 +362,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "preprocessCore",
         "wateRmelon"
     ],
     "Chicago": [],
@@ -423,19 +371,16 @@
     ],
     "ChIPseeker": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ChIPsim": [],
     "ChIPXpress": [
-        "frma",
-        "preprocessCore"
+        "frma"
     ],
     "chromPlot": [],
     "ChromSCape": [
         "ResidualMatrix",
         "batchelor",
-        "metapod",
         "scran"
     ],
     "cicero": [
@@ -447,7 +392,6 @@
         "gwascat"
     ],
     "CiteFuse": [
-        "metapod",
         "scran"
     ],
     "clevRvis": [],
@@ -458,29 +402,23 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
     "Clomial": [],
     "CluMSID": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "ClusterJudge": [],
     "clusterProfiler": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "cn.farms": [
-        "preprocessCore"
-    ],
+    "cn.farms": [],
     "CNVrd2": [],
     "cogeqc": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "coMethDMR": [
         "BiocVersion"
@@ -492,17 +430,12 @@
     "CONFESS": [
         "SamSPECTRAL"
     ],
-    "consensus": [],
     "consICA": [],
     "conumee": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
-    "Cormotif": [
-        "preprocessCore"
-    ],
-    "CORREP": [],
+    "Cormotif": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -510,16 +443,13 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
     "cosmosR": [
         "CARNIVAL"
     ],
-    "cqn": [
-        "preprocessCore"
-    ],
+    "cqn": [],
     "crisprDesign": [
         "BiocVersion",
         "basilisk",
@@ -552,18 +482,11 @@
         "dir.expiry"
     ],
     "crlmm": [
-        "illuminaio",
-        "preprocessCore"
+        "illuminaio"
     ],
-    "crossmeta": [
-        "preprocessCore"
-    ],
-    "csaw": [
-        "metapod"
-    ],
-    "csdR": [
-        "preprocessCore"
-    ],
+    "crossmeta": [],
+    "csaw": [],
+    "csdR": [],
     "CTdata": [
         "BiocVersion"
     ],
@@ -600,9 +523,7 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "preprocessCore",
         "tkWidgets",
-        "treeio",
         "vsn"
     ],
     "dcanr": [],
@@ -620,20 +541,17 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "pathview",
-        "treeio"
+        "pathview"
     ],
     "decompTumor2Sig": [],
     "decontX": [
         "celda",
-        "metapod",
         "scran"
     ],
     "deconvR": [
         "illuminaio",
         "methylKit",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "DeepBlueR": [],
     "DeepPINCS": [],
@@ -652,7 +570,6 @@
     ],
     "DEP": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "DEScan2": [
@@ -660,27 +577,22 @@
         "InteractionSet"
     ],
     "DEXSeq": [],
-    "diffcoexp": [
-        "preprocessCore"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM"
     ],
     "diffGeneAnalysis": [],
     "diffHic": [
         "InteractionSet",
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "diffUTR": [
         "DEXSeq"
     ],
     "Dino": [
-        "metapod",
         "scran"
     ],
     "dir.expiry": [],
-    "Director": [],
     "DiscoRhythm": [],
     "dittoSeq": [],
     "DMCHMM": [],
@@ -689,15 +601,13 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "preprocessCore"
+        "missMethyl"
     ],
     "dmrseq": [
         "BiocVersion",
         "annotatr"
     ],
     "Doscheda": [
-        "preprocessCore",
         "vsn"
     ],
     "doubletrouble": [
@@ -712,12 +622,10 @@
         "zenith"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "preprocessCore"
+        "ArrayExpress"
     ],
     "easier": [
         "BiocVersion",
-        "preprocessCore",
         "quantiseqr"
     ],
     "easylift": [],
@@ -731,14 +639,11 @@
         "KEGGgraph",
         "pathview"
     ],
-    "EMDomics": [
-        "preprocessCore"
-    ],
+    "EMDomics": [],
     "ENmix": [
         "BiocVersion",
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "EnrichmentBrowser": [
         "KEGGgraph",
@@ -746,34 +651,29 @@
         "pathview"
     ],
     "enrichplot": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "enrichTF": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "enrichViewNet": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EpiCompare": [
         "BiocVersion",
         "ChIPseeker",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "epigenomix": [
         "beadarray",
         "illuminaio"
     ],
     "epigraHMM": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "EpiMix": [
         "BiocVersion"
@@ -781,26 +681,21 @@
     "epimutacions": [
         "BiocVersion",
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "epiNEM": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "EWCE": [
         "BiocVersion",
         "ggtree",
-        "orthogene",
-        "treeio"
+        "orthogene"
     ],
-    "ExiMiR": [
-        "preprocessCore"
-    ],
+    "ExiMiR": [],
     "ExperimentHub": [
         "BiocVersion"
     ],
@@ -808,26 +703,21 @@
         "BiocVersion"
     ],
     "ExperimentSubset": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
         "InteractionSet",
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "fastLiquidAssociation": [
-        "preprocessCore"
-    ],
+    "fastLiquidAssociation": [],
     "FastqCleaner": [],
     "fcScan": [],
     "fdrame": [],
@@ -835,17 +725,14 @@
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
-    "FGNet": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
@@ -853,7 +740,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "metapod",
         "scran"
     ],
     "flowBin": [
@@ -885,39 +771,30 @@
         "flowViz"
     ],
     "frenchFISH": [],
-    "frma": [
-        "preprocessCore"
-    ],
-    "frmaTools": [
-        "preprocessCore"
-    ],
+    "frma": [],
+    "frmaTools": [],
     "funtooNorm": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "GAprediction": [],
     "GateFinder": [
         "flowFP",
         "flowViz"
     ],
-    "gcrma": [
-        "preprocessCore"
-    ],
+    "gcrma": [],
     "GDCRNATools": [
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "pathview",
-        "treeio"
+        "pathview"
     ],
     "gDNAx": [
         "BiocVersion"
     ],
     "genArise": [],
     "GeneOverlap": [],
-    "geneplast": [],
     "geNetClassifier": [],
     "geneXtendeR": [],
     "GenomicInteractionNodes": [],
@@ -933,46 +810,33 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GEOsubmission": [
-        "preprocessCore"
-    ],
+    "GEOsubmission": [],
     "GeoTcgaData": [
-        "cqn",
-        "preprocessCore"
+        "cqn"
     ],
     "gespeR": [
         "cellHTS2",
-        "preprocessCore",
-        "splots",
         "vsn"
     ],
     "GEWIST": [],
     "ggmsa": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "girafe": [],
     "globalSeq": [],
-    "GmicR": [
-        "preprocessCore"
-    ],
+    "GmicR": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "GOTHiC": [],
     "GRaNIE": [
@@ -998,14 +862,11 @@
     "gwascat": [
         "BiocVersion"
     ],
-    "GWENA": [
-        "preprocessCore"
-    ],
+    "GWENA": [],
     "Harman": [],
     "Harshlight": [
         "altcdfenvs",
-        "makecdfenv",
-        "preprocessCore"
+        "makecdfenv"
     ],
     "Heatplus": [],
     "HiCcompare": [
@@ -1039,35 +900,28 @@
     ],
     "HilbertVisGUI": [],
     "hipathia": [
-        "BiocVersion",
-        "preprocessCore"
+        "BiocVersion"
     ],
     "hpar": [
         "BiocVersion"
     ],
     "HPiP": [],
-    "HTqPCR": [
-        "preprocessCore"
-    ],
+    "HTqPCR": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [],
     "icetea": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "iCheck": [
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "IdeoViz": [],
     "illuminaio": [],
     "IMMAN": [],
-    "ImmuneSpaceR": [
-        "preprocessCore"
-    ],
+    "ImmuneSpaceR": [],
     "immunoClust": [],
     "immunotation": [],
     "iNETgrate": [
@@ -1077,13 +931,10 @@
         "enrichplot",
         "ggtree",
         "illuminaio",
-        "minfi",
-        "preprocessCore",
-        "treeio"
+        "minfi"
     ],
     "InPAS": [
-        "plyranges",
-        "preprocessCore"
+        "plyranges"
     ],
     "INTACT": [],
     "interacCircos": [],
@@ -1091,9 +942,7 @@
     "IntEREst": [
         "DEXSeq"
     ],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "IONiseR": [],
     "ipdDb": [
         "BiocVersion"
@@ -1103,7 +952,6 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
@@ -1118,9 +966,7 @@
         "pfamAnalyzeR",
         "tximeta"
     ],
-    "ITALICS": [
-        "preprocessCore"
-    ],
+    "ITALICS": [],
     "katdetectr": [
         "plyranges"
     ],
@@ -1129,21 +975,18 @@
         "KEGGgraph"
     ],
     "KnowSeq": [
-        "cqn",
-        "preprocessCore"
+        "cqn"
     ],
     "lefser": [],
     "lineagespot": [],
     "LinTInd": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
@@ -1155,35 +998,28 @@
     "lumi": [
         "illuminaio",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "m6Aboost": [
         "BiocVersion"
     ],
-    "Macarron": [
-        "preprocessCore"
-    ],
+    "Macarron": [],
     "MACSr": [
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MADSEQ": [
-        "preprocessCore"
-    ],
+    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
         "illuminaio",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "BiocVersion",
@@ -1191,24 +1027,19 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "pathview",
-        "treeio"
+        "pathview"
     ],
     "MAIT": [
         "CAMERA",
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [
-        "preprocessCore"
-    ],
+    "makecdfenv": [],
     "maPredictDSC": [
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "mapscape": [],
     "mariner": [
@@ -1217,44 +1048,32 @@
         "plyranges"
     ],
     "maskBAD": [
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "mastR": [
         "BiocVersion"
     ],
     "MatrixQCvis": [
         "BiocVersion",
-        "preprocessCore",
         "vsn"
     ],
-    "MBCB": [
-        "preprocessCore"
-    ],
-    "MBQN": [
-        "preprocessCore"
-    ],
-    "MCbiclust": [
-        "preprocessCore"
-    ],
+    "MBCB": [],
+    "MBQN": [],
+    "MCbiclust": [],
     "MEAL": [
         "illuminaio",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "preprocessCore"
+        "missMethyl"
     ],
     "MEAT": [
         "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
-        "preprocessCore",
         "wateRmelon"
     ],
-    "MEDIPS": [
-        "preprocessCore"
-    ],
+    "MEDIPS": [],
     "Melissa": [
         "BPRMeth"
     ],
@@ -1263,12 +1082,10 @@
     "meshes": [
         "BiocVersion",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "meshr": [],
     "MesKit": [],
-    "metabinR": [],
     "MetaboAnnotation": [
         "BiocVersion",
         "CompoundDb",
@@ -1289,19 +1106,15 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "metapod": [],
     "metaseqR2": [
-        "preprocessCore",
         "vsn"
     ],
     "MetCirc": [
@@ -1313,25 +1126,21 @@
     "MethReg": [
         "BiocVersion",
         "illuminaio",
-        "preprocessCore",
         "sesame"
     ],
     "MethylAid": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "methylCC": [
         "illuminaio",
         "minfi",
-        "plyranges",
-        "preprocessCore"
+        "plyranges"
     ],
     "methylclock": [
         "BiocVersion",
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "methylGSA": [
         "clusterProfiler",
@@ -1340,9 +1149,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "preprocessCore",
-        "treeio"
+        "missMethyl"
     ],
     "methylInheritance": [
         "methylKit"
@@ -1350,8 +1157,7 @@
     "methylKit": [],
     "methylumi": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "MetNet": [],
     "Mfuzz": [
@@ -1360,63 +1166,52 @@
     "MGFR": [],
     "mgsa": [],
     "mia": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "miaSim": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
         "ggtree",
-        "mia",
-        "treeio"
+        "mia"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
         "ggtree",
-        "mia",
-        "treeio"
+        "mia"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MicrobiotaProcess": [
         "ggtree",
-        "ggtreeExtra",
-        "treeio"
+        "ggtreeExtra"
     ],
     "microSTASIS": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "mimager": [
         "affyPLM",
-        "gcrma",
-        "preprocessCore"
+        "gcrma"
     ],
     "mina": [],
     "MineICA": [
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "minfi": [
-        "illuminaio",
-        "preprocessCore"
+        "illuminaio"
     ],
     "MinimumDistance": [
         "VanillaICE",
         "crlmm",
-        "illuminaio",
-        "preprocessCore"
+        "illuminaio"
     ],
     "mirIntegrator": [
         "KEGGgraph",
@@ -1425,20 +1220,17 @@
     "missMethyl": [
         "illuminaio",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
     "MODA": [
-        "AMOUNTAIN",
-        "preprocessCore"
+        "AMOUNTAIN"
     ],
     "ModCon": [],
     "MOFA2": [
@@ -1452,14 +1244,12 @@
         "BiocVersion",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MoonlightR": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "motifbreakR": [
         "MotifDb"
@@ -1489,22 +1279,18 @@
         "Spectra"
     ],
     "msImpute": [
-        "metapod",
         "scran"
     ],
     "msmsEDA": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
-        "preprocessCore",
         "vsn"
     ],
     "MSnbase": [
-        "preprocessCore",
         "vsn"
     ],
     "MSnID": [
@@ -1512,54 +1298,42 @@
         "MSnbase",
         "msmsEDA",
         "msmsTests",
-        "preprocessCore",
         "vsn"
     ],
-    "MSPrep": [
-        "preprocessCore"
-    ],
+    "MSPrep": [],
     "MsQuality": [
         "MsExperiment",
         "Spectra"
     ],
-    "MSstats": [
-        "preprocessCore"
-    ],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "preprocessCore"
+        "MSstats"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "preprocessCore"
+        "MSstatsTMT"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "preprocessCore"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "preprocessCore",
         "vsn"
     ],
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "preprocessCore"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "preprocessCore"
+        "MSstats"
     ],
     "multicrispr": [
         "plyranges"
@@ -1577,13 +1351,11 @@
         "tkWidgets"
     ],
     "multiWGCNA": [
-        "dcanr",
-        "preprocessCore"
+        "dcanr"
     ],
     "mumosa": [
         "ResidualMatrix",
         "batchelor",
-        "metapod",
         "scran"
     ],
     "musicatk": [
@@ -1598,14 +1370,12 @@
         "ChIPpeakAnno",
         "InteractionSet",
         "csaw",
-        "metapod",
         "trackViewer"
     ],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
@@ -1620,33 +1390,26 @@
     "nempi": [
         "epiNEM"
     ],
-    "netboost": [
-        "preprocessCore"
-    ],
+    "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
     "netresponse": [],
-    "NetSAM": [
-        "preprocessCore"
-    ],
+    "NetSAM": [],
     "netZooR": [
         "illuminaio",
         "minfi",
-        "preprocessCore",
         "quantro",
         "yarn"
     ],
     "nondetects": [
-        "HTqPCR",
-        "preprocessCore"
+        "HTqPCR"
     ],
     "normalize450K": [
         "illuminaio"
     ],
     "NormalyzerDE": [
-        "preprocessCore",
         "vsn"
     ],
     "npGSEA": [],
@@ -1662,9 +1425,7 @@
     "OGRE": [
         "BiocVersion"
     ],
-    "oligo": [
-        "preprocessCore"
-    ],
+    "oligo": [],
     "OLINgui": [
         "tkWidgets"
     ],
@@ -1682,8 +1443,7 @@
         "openPrimeR"
     ],
     "orthogene": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "orthos": [
         "BiocVersion",
@@ -1695,7 +1455,6 @@
     "OutSplice": [
         "Repitools",
         "Ringo",
-        "preprocessCore",
         "vsn"
     ],
     "PAIRADISE": [],
@@ -1705,13 +1464,9 @@
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "preprocessCore",
-        "treeio"
+        "ggtree"
     ],
-    "panp": [
-        "preprocessCore"
-    ],
+    "panp": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1728,17 +1483,12 @@
     "pathview": [
         "KEGGgraph"
     ],
-    "pdInfoBuilder": [
-        "preprocessCore"
-    ],
+    "pdInfoBuilder": [],
     "peakPantheR": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
-    "PECA": [
-        "preprocessCore"
-    ],
+    "PECA": [],
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "phemd": [
@@ -1749,12 +1499,9 @@
         "Heatplus"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "PhosR": [
-        "preprocessCore"
-    ],
+    "PhosR": [],
     "PhyloProfile": [
         "BiocVersion"
     ],
@@ -1763,17 +1510,12 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "preprocessCore",
-        "treeio"
+        "ggtree"
     ],
     "pipeComp": [
-        "metapod",
         "scran"
     ],
-    "plier": [
-        "preprocessCore"
-    ],
+    "plier": [],
     "plotgardener": [
         "plyranges"
     ],
@@ -1790,20 +1532,16 @@
     ],
     "PPInfer": [],
     "prebs": [
-        "RPA",
-        "preprocessCore"
+        "RPA"
     ],
     "preciseTAD": [
-        "preprocessCore",
         "rCGH"
     ],
-    "preprocessCore": [],
     "primirTSS": [
         "BiocVersion"
     ],
     "PrInCE": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "PROcess": [],
@@ -1811,19 +1549,15 @@
         "ChIPseeker",
         "enrichplot",
         "ggtree",
-        "preprocessCore",
-        "soGGi",
-        "treeio"
+        "soGGi"
     ],
     "pRoloc": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "pRolocGUI": [
         "MSnbase",
         "pRoloc",
-        "preprocessCore",
         "vsn"
     ],
     "Prostar": [
@@ -1833,14 +1567,11 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "preprocessCore",
         "tkWidgets",
-        "treeio",
         "vsn"
     ],
     "ProteoMM": [],
     "protGear": [
-        "preprocessCore",
         "vsn"
     ],
     "psichomics": [
@@ -1848,37 +1579,25 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
-    "puma": [
-        "preprocessCore"
-    ],
-    "pvac": [
-        "preprocessCore"
-    ],
+    "puma": [],
+    "pvac": [],
     "pvca": [
-        "preprocessCore",
         "vsn"
     ],
     "pwOmics": [
         "BiocVersion"
     ],
-    "qpcrNorm": [
-        "preprocessCore"
-    ],
+    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
-    "quantiseqr": [
-        "preprocessCore"
-    ],
+    "quantiseqr": [],
     "quantro": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
@@ -1889,9 +1608,7 @@
     "Rbec": [
         "dada2"
     ],
-    "rCGH": [
-        "preprocessCore"
-    ],
+    "rCGH": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -1904,12 +1621,10 @@
         "dir.expiry"
     ],
     "rDGIdb": [],
-    "Rdisop": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "rebook": [
         "dir.expiry"
@@ -1919,8 +1634,7 @@
         "basilisk.utils",
         "dir.expiry",
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "REDseq": [
         "ChIPpeakAnno",
@@ -1928,7 +1642,6 @@
     ],
     "RegionalST": [
         "BayesSpace",
-        "metapod",
         "scran"
     ],
     "regionReport": [],
@@ -1938,12 +1651,10 @@
     "REMP": [
         "BiocVersion",
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "Repitools": [
         "Ringo",
-        "preprocessCore",
         "vsn"
     ],
     "ResidualMatrix": [],
@@ -1964,14 +1675,12 @@
     "rifiComparative": [],
     "RImmPort": [],
     "Ringo": [
-        "preprocessCore",
         "vsn"
     ],
     "Risa": [
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn",
         "xcms"
     ],
@@ -1982,41 +1691,29 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "Rmmquant": [],
     "RNAinteract": [
         "cellHTS2",
-        "preprocessCore",
-        "splots",
         "vsn"
     ],
     "RnBeads": [
         "illuminaio",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
-    "Rnits": [
-        "preprocessCore"
-    ],
+    "Rnits": [],
     "ROCpAI": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "RPA": [
-        "preprocessCore"
-    ],
+    "RPA": [],
     "Rqc": [],
     "RRHO": [],
     "rsemmed": [],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "rTRMui": [
@@ -2036,9 +1733,7 @@
         "pathview"
     ],
     "SBMLR": [],
-    "SCAN.UPC": [
-        "preprocessCore"
-    ],
+    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "BiocVersion",
@@ -2050,27 +1745,22 @@
     "scatterHatch": [],
     "SCBN": [],
     "scBubbletree": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scDblFinder": [
-        "metapod",
         "scran"
     ],
     "scDD": [
-        "metapod",
         "scran"
     ],
     "scFeatures": [
         "AUCell",
         "SingleCellSignalR",
-        "metapod",
         "scran"
     ],
     "scMerge": [
         "ResidualMatrix",
         "batchelor",
-        "metapod",
         "scran"
     ],
     "scMET": [],
@@ -2086,21 +1776,17 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scran": [
-        "metapod"
-    ],
+    "scran": [],
     "screenCounter": [],
     "scTensor": [
         "BiocVersion",
         "ReactomePA",
         "enrichplot",
         "ggtree",
-        "meshr",
-        "treeio"
+        "meshr"
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "metapod",
         "scran"
     ],
     "scviR": [
@@ -2111,52 +1797,43 @@
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "seq2pathway": [
-        "preprocessCore"
-    ],
+    "seq2pathway": [],
     "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "seqArchR",
-        "treeio"
+        "seqArchR"
     ],
     "SeqSQC": [
         "BiocVersion"
     ],
     "sesame": [
         "BiocVersion",
-        "illuminaio",
-        "preprocessCore"
+        "illuminaio"
     ],
     "sevenC": [
         "InteractionSet"
     ],
     "shinyepico": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "shinyMethyl": [
         "illuminaio",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "signatureSearch": [
         "BiocVersion",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "SimBindProfiles": [
         "Ringo",
-        "preprocessCore",
         "vsn"
     ],
     "SimBu": [
@@ -2168,7 +1845,6 @@
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
-        "metapod",
         "scran"
     ],
     "singleCellTK": [
@@ -2180,30 +1856,24 @@
         "celda",
         "dir.expiry",
         "ggtree",
-        "metapod",
         "scDblFinder",
         "scMerge",
         "scran",
-        "treeio",
         "zellkonverter"
     ],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
-        "preprocessCore",
         "wateRmelon"
     ],
     "SMAD": [],
-    "SMAP": [],
     "SMITE": [],
     "snapCGH": [
-        "preprocessCore",
         "tilingArray",
         "vsn"
     ],
@@ -2213,15 +1883,12 @@
         "dir.expiry"
     ],
     "snm": [],
-    "soGGi": [
-        "preprocessCore"
-    ],
+    "soGGi": [],
     "SOMNiBUS": [
         "BiocVersion",
         "annotatr"
     ],
     "Spaniel": [
-        "metapod",
         "scran"
     ],
     "sparsenetgls": [],
@@ -2231,7 +1898,6 @@
         "dir.expiry"
     ],
     "spatialHeatmap": [
-        "metapod",
         "scran"
     ],
     "spatzie": [
@@ -2253,45 +1919,32 @@
     "SpliceWiz": [
         "BiocVersion"
     ],
-    "splots": [],
-    "SPsimSeq": [
-        "preprocessCore"
-    ],
+    "SPsimSeq": [],
     "srnadiff": [],
     "staRank": [
         "cellHTS2",
-        "preprocessCore",
-        "splots",
         "vsn"
     ],
-    "STATegRa": [
-        "preprocessCore"
-    ],
-    "SwathXtend": [],
+    "STATegRa": [],
     "synapter": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "syntenet": [],
     "systemPipeTools": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TADCompare": [
         "HiCcompare",
         "InteractionSet"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "TargetScore": [],
     "TargetSearch": [],
     "TDbasedUFEadv": [
         "enrichplot",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TEKRABber": [
         "SCBN"
@@ -2301,11 +1954,8 @@
         "ontoProc",
         "restfulSE"
     ],
-    "tidybulk": [
-        "preprocessCore"
-    ],
+    "tidybulk": [],
     "tilingArray": [
-        "preprocessCore",
         "vsn"
     ],
     "TimiRGeN": [
@@ -2313,16 +1963,12 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "tkWidgets",
-        "treeio"
+        "tkWidgets"
     ],
-    "TIN": [
-        "preprocessCore"
-    ],
+    "TIN": [],
     "tkWidgets": [],
     "topdownr": [
         "MSnbase",
-        "preprocessCore",
         "vsn"
     ],
     "trackViewer": [
@@ -2332,23 +1978,16 @@
         "Heatplus"
     ],
     "TransView": [],
-    "treeio": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "TreeSummarizedExperiment": [
-        "treeio"
-    ],
+    "TreeSummarizedExperiment": [],
     "tripr": [],
-    "TurboNorm": [
-        "preprocessCore"
-    ],
+    "TurboNorm": [],
     "tweeDEseq": [
-        "cqn",
-        "preprocessCore"
+        "cqn"
     ],
     "tximeta": [
         "BiocVersion"
@@ -2360,8 +1999,7 @@
     ],
     "UMI4Cats": [],
     "unifiedWMWqPCR": [
-        "HTqPCR",
-        "preprocessCore"
+        "HTqPCR"
     ],
     "uSORT": [
         "monocle"
@@ -2371,8 +2009,7 @@
     ],
     "VanillaICE": [
         "crlmm",
-        "illuminaio",
-        "preprocessCore"
+        "illuminaio"
     ],
     "VariantFiltering": [
         "BiocVersion"
@@ -2388,9 +2025,7 @@
     "vissE": [
         "BiocVersion"
     ],
-    "vsn": [
-        "preprocessCore"
-    ],
+    "vsn": [],
     "vtpnet": [
         "BiocVersion",
         "gwascat"
@@ -2398,19 +2033,16 @@
     "vulcan": [
         "ChIPpeakAnno",
         "InteractionSet",
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "wateRmelon": [
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "preprocessCore"
+        "minfi"
     ],
     "webbioc": [
         "gcrma",
-        "preprocessCore",
         "vsn"
     ],
     "wppi": [],
@@ -2418,7 +2050,6 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "preprocessCore",
         "vsn"
     ],
     "XINA": [],
@@ -2427,7 +2058,6 @@
     "yarn": [
         "illuminaio",
         "minfi",
-        "preprocessCore",
         "quantro"
     ],
     "zellkonverter": [
