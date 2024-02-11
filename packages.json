@@ -1,7 +1,5 @@
 {
-    "abseqR": [
-        "BiocStyle"
-    ],
+    "abseqR": [],
     "ADaCGH2": [
         "preprocessCore",
         "snapCGH",
@@ -54,69 +52,55 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [
-        "alabaster.schemas"
-    ],
+    "alabaster.base": [],
     "alabaster.bumpy": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.files": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.mae": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se"
     ],
     "alabaster.matrix": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.ranges": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.sce": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se"
     ],
-    "alabaster.schemas": [],
     "alabaster.se": [
         "alabaster.base",
         "alabaster.matrix",
-        "alabaster.ranges",
-        "alabaster.schemas"
+        "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se"
     ],
     "alabaster.string": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.vcf": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.string"
     ],
@@ -175,9 +159,7 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "ASpli": [
-        "BiocStyle"
-    ],
+    "ASpli": [],
     "AssessORF": [],
     "ATACCoGAPS": [
         "GeneOverlap"
@@ -192,7 +174,6 @@
     ],
     "AUCell": [],
     "bandle": [
-        "BiocStyle",
         "MSnbase",
         "pRoloc",
         "preprocessCore",
@@ -272,11 +253,8 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocStyle": [],
     "BiocVersion": [],
-    "BiocWorkflowTools": [
-        "BiocStyle"
-    ],
+    "BiocWorkflowTools": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -284,7 +262,6 @@
         "preprocessCore"
     ],
     "BioNERO": [
-        "GENIE3",
         "minet",
         "preprocessCore"
     ],
@@ -328,15 +305,11 @@
     "BOBaFIT": [
         "plyranges"
     ],
-    "BPRMeth": [
-        "BiocStyle"
-    ],
+    "BPRMeth": [],
     "brainflowprobes": [
         "BiocVersion"
     ],
-    "BubbleTree": [
-        "BiocStyle"
-    ],
+    "BubbleTree": [],
     "BufferedMatrix": [],
     "BufferedMatrixMethods": [
         "BufferedMatrix"
@@ -356,7 +329,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "GENIE3",
         "minet",
         "preprocessCore"
     ],
@@ -404,9 +376,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "CCPlotR": [],
     "celda": [
         "metapod",
@@ -460,9 +430,7 @@
         "wateRmelon"
     ],
     "Chicago": [],
-    "chimeraviz": [
-        "BiocStyle"
-    ],
+    "chimeraviz": [],
     "ChIPpeakAnno": [
         "InteractionSet"
     ],
@@ -513,7 +481,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "clustComp": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "enrichplot",
@@ -532,9 +499,7 @@
     "coMethDMR": [
         "BiocVersion"
     ],
-    "COMPASS": [
-        "BiocStyle"
-    ],
+    "COMPASS": [],
     "CompoundDb": [
         "Spectra"
     ],
@@ -567,7 +532,6 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "COSNet": [],
     "cqn": [
         "preprocessCore"
     ],
@@ -629,7 +593,6 @@
         "flowViz"
     ],
     "cycle": [
-        "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
@@ -638,7 +601,6 @@
         "diffcyt"
     ],
     "cytofQC": [
-        "BiocStyle",
         "CATALYST",
         "FlowSOM"
     ],
@@ -648,7 +610,6 @@
     ],
     "dada2": [],
     "DAPAR": [
-        "DynDoc",
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
@@ -740,9 +701,7 @@
     ],
     "dir.expiry": [],
     "Director": [],
-    "DiscoRhythm": [
-        "BiocStyle"
-    ],
+    "DiscoRhythm": [],
     "dittoSeq": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -777,7 +736,6 @@
         "ArrayExpress",
         "preprocessCore"
     ],
-    "DynDoc": [],
     "easier": [
         "BiocVersion",
         "preprocessCore",
@@ -876,9 +834,7 @@
         "TreeSummarizedExperiment",
         "treeio"
     ],
-    "ExpressionAtlas": [
-        "BiocStyle"
-    ],
+    "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
         "InteractionSet",
@@ -991,10 +947,7 @@
     "geNetClassifier": [
         "minet"
     ],
-    "geneXtendeR": [
-        "BiocStyle"
-    ],
-    "GENIE3": [],
+    "geneXtendeR": [],
     "genoCN": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
@@ -1052,7 +1005,6 @@
         "treeio"
     ],
     "GOTHiC": [],
-    "GPA": [],
     "GRaNIE": [
         "BiocVersion"
     ],
@@ -1067,8 +1019,7 @@
         "pathview"
     ],
     "gsean": [
-        "PPInfer",
-        "STRINGdb"
+        "PPInfer"
     ],
     "GUIDEseq": [
         "ChIPpeakAnno",
@@ -1122,7 +1073,6 @@
         "BiocVersion",
         "preprocessCore"
     ],
-    "HIREewas": [],
     "hpar": [
         "BiocVersion"
     ],
@@ -1131,10 +1081,7 @@
         "preprocessCore"
     ],
     "HumanTranscriptomeCompendium": [],
-    "hypeR": [
-        "BiocStyle"
-    ],
-    "Icens": [],
+    "hypeR": [],
     "icetea": [
         "csaw",
         "metapod"
@@ -1149,16 +1096,13 @@
     "IdeoViz": [],
     "iGC": [],
     "illuminaio": [],
-    "IMMAN": [
-        "STRINGdb"
-    ],
+    "IMMAN": [],
     "ImmuneSpaceR": [
         "preprocessCore"
     ],
     "immunoClust": [],
     "immunotation": [],
     "iNETgrate": [
-        "BiocStyle",
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
@@ -1239,10 +1183,7 @@
         "vsn",
         "xcms"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [],
     "LRcell": [
         "BiocVersion"
@@ -1263,7 +1204,6 @@
     "Macarron": [
         "preprocessCore"
     ],
-    "maCorrPlot": [],
     "MACSr": [
         "BiocVersion",
         "basilisk",
@@ -1353,8 +1293,7 @@
         "preprocessCore"
     ],
     "Melissa": [
-        "BPRMeth",
-        "BiocStyle"
+        "BPRMeth"
     ],
     "memes": [],
     "Mergeomics": [],
@@ -1364,9 +1303,7 @@
         "ggtree",
         "treeio"
     ],
-    "meshr": [
-        "BiocStyle"
-    ],
+    "meshr": [],
     "MesKit": [],
     "metabinR": [],
     "MetaboAnnotation": [
@@ -1453,11 +1390,8 @@
         "minfi",
         "preprocessCore"
     ],
-    "MetNet": [
-        "GENIE3"
-    ],
+    "MetNet": [],
     "Mfuzz": [
-        "DynDoc",
         "tkWidgets"
     ],
     "MGFR": [],
@@ -1532,7 +1466,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "mistyR": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1613,7 +1546,6 @@
         "vsn"
     ],
     "MSnID": [
-        "BiocStyle",
         "BiocVersion",
         "MSnbase",
         "msmsEDA",
@@ -1679,7 +1611,6 @@
     ],
     "MultiMed": [],
     "MultiRNAflow": [
-        "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
@@ -1730,7 +1661,6 @@
         "minet"
     ],
     "netboost": [
-        "BiocStyle",
         "preprocessCore"
     ],
     "netOmics": [
@@ -1740,14 +1670,12 @@
     ],
     "NetPathMiner": [],
     "netresponse": [
-        "BiocStyle",
         "minet"
     ],
     "NetSAM": [
         "preprocessCore"
     ],
     "netZooR": [
-        "STRINGdb",
         "illuminaio",
         "minfi",
         "preprocessCore",
@@ -1782,7 +1710,6 @@
         "preprocessCore"
     ],
     "OLINgui": [
-        "DynDoc",
         "tkWidgets"
     ],
     "omicsViewer": [],
@@ -1842,9 +1769,7 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "PathoStat": [
-        "BiocStyle"
-    ],
+    "PathoStat": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -1878,7 +1803,6 @@
         "preprocessCore"
     ],
     "PhyloProfile": [
-        "BiocStyle",
         "BiocVersion"
     ],
     "Pi": [
@@ -1886,7 +1810,6 @@
     ],
     "pickgene": [],
     "Pigengene": [
-        "BiocStyle",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -1904,9 +1827,7 @@
     "plotgardener": [
         "plyranges"
     ],
-    "PLPE": [
-        "LPE"
-    ],
+    "PLPE": [],
     "plyinteractions": [
         "InteractionSet",
         "plyranges"
@@ -1918,11 +1839,8 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "PPInfer": [
-        "STRINGdb"
-    ],
+    "PPInfer": [],
     "prebs": [
-        "BiocStyle",
         "RPA",
         "preprocessCore"
     ],
@@ -1939,9 +1857,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "PROcess": [
-        "Icens"
-    ],
+    "PROcess": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
@@ -1963,7 +1879,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DynDoc",
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
@@ -1999,8 +1914,7 @@
         "vsn"
     ],
     "pwOmics": [
-        "BiocVersion",
-        "STRINGdb"
+        "BiocVersion"
     ],
     "qpcrNorm": [
         "preprocessCore"
@@ -2053,7 +1967,6 @@
         "treeio"
     ],
     "rebook": [
-        "BiocStyle",
         "dir.expiry"
     ],
     "recountmethylation": [
@@ -2073,9 +1986,7 @@
         "metapod",
         "scran"
     ],
-    "regionReport": [
-        "BiocStyle"
-    ],
+    "regionReport": [],
     "regutools": [
         "BiocVersion"
     ],
@@ -2119,9 +2030,7 @@
         "vsn",
         "xcms"
     ],
-    "RITAN": [
-        "STRINGdb"
-    ],
+    "RITAN": [],
     "RLassoCox": [],
     "RLSeq": [
         "BiocVersion"
@@ -2131,9 +2040,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "Rmmquant": [
-        "BiocStyle"
-    ],
+    "Rmmquant": [],
     "RNAinteract": [
         "cellHTS2",
         "preprocessCore",
@@ -2155,12 +2062,9 @@
         "KEGGgraph"
     ],
     "RPA": [
-        "BiocStyle",
         "preprocessCore"
     ],
-    "Rqc": [
-        "BiocStyle"
-    ],
+    "Rqc": [],
     "RRHO": [],
     "rsemmed": [],
     "RTN": [
@@ -2183,9 +2087,7 @@
         "MGFR"
     ],
     "SamSPECTRAL": [],
-    "sangeranalyseR": [
-        "BiocStyle"
-    ],
+    "sangeranalyseR": [],
     "SARC": [
         "plyranges"
     ],
@@ -2231,9 +2133,7 @@
         "metapod",
         "scran"
     ],
-    "scMET": [
-        "BiocStyle"
-    ],
+    "scMET": [],
     "scmeth": [
         "BiocVersion",
         "annotatr"
@@ -2251,7 +2151,6 @@
     ],
     "screenCounter": [],
     "scTensor": [
-        "BiocStyle",
         "BiocVersion",
         "ReactomePA",
         "enrichplot",
@@ -2259,9 +2158,7 @@
         "meshr",
         "treeio"
     ],
-    "scTGIF": [
-        "BiocStyle"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "metapod",
         "scran"
@@ -2329,7 +2226,6 @@
     ],
     "SimFFPE": [],
     "similaRpeak": [],
-    "SIMLR": [],
     "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
@@ -2422,9 +2318,7 @@
     "SPsimSeq": [
         "preprocessCore"
     ],
-    "srnadiff": [
-        "BiocStyle"
-    ],
+    "srnadiff": [],
     "staRank": [
         "cellHTS2",
         "preprocessCore",
@@ -2434,7 +2328,6 @@
     "STATegRa": [
         "preprocessCore"
     ],
-    "STRINGdb": [],
     "supraHex": [],
     "survtype": [],
     "SwathXtend": [],
@@ -2459,7 +2352,6 @@
     "TargetScore": [],
     "TargetSearch": [],
     "TDbasedUFEadv": [
-        "STRINGdb",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -2481,7 +2373,6 @@
         "vsn"
     ],
     "TimiRGeN": [
-        "DynDoc",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
@@ -2492,9 +2383,7 @@
     "TIN": [
         "preprocessCore"
     ],
-    "tkWidgets": [
-        "DynDoc"
-    ],
+    "tkWidgets": [],
     "topdownr": [
         "MSnbase",
         "preprocessCore",
@@ -2588,7 +2477,6 @@
         "minfi",
         "preprocessCore"
     ],
-    "weaver": [],
     "webbioc": [
         "gcrma",
         "preprocessCore",
@@ -2604,9 +2492,7 @@
         "preprocessCore",
         "vsn"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "xmapbridge": [],
     "yamss": [],
     "yarn": [
