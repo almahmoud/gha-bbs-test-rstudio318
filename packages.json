@@ -1,6 +1,5 @@
 {
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.ranges",
         "alabaster.sce",
@@ -9,8 +8,6 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.ranges",
         "alabaster.se"
@@ -37,9 +34,7 @@
     "appreci8R": [],
     "ASICS": [],
     "basecallQC": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BiocOncoTK": [],
     "BioNetStat": [
         "pathview"
@@ -57,11 +52,8 @@
     "canceR": [
         "phenoTest"
     ],
-    "CCPlotR": [],
     "cfDNAPro": [],
-    "ChAMP": [
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "ChIPsim": [],
     "ChIPXpress": [],
     "cicero": [
@@ -78,7 +70,6 @@
         "xcms"
     ],
     "cosmosR": [],
-    "cycle": [],
     "debrowser": [
         "pathview"
     ],
@@ -108,7 +99,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "frenchFISH": [],
     "GDCRNATools": [
         "pathview"
     ],
@@ -129,7 +119,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "isobar": [],
     "katdetectr": [],
     "KEGGlincs": [],
     "LOBSTAHS": [
@@ -150,9 +139,7 @@
         "plotgardener"
     ],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "Melissa": [],
     "memes": [],
     "MetaboAnnotation": [
@@ -188,9 +175,7 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsLiP": [],
     "multicrispr": [],
-    "MultiMed": [],
     "multiWGCNA": [],
     "musicatk": [
         "decompTumor2Sig"
@@ -207,9 +192,7 @@
     ],
     "nullranges": [],
     "omicsViewer": [],
-    "onlineFDR": [],
     "OutSplice": [],
-    "PAIRADISE": [],
     "pairedGSEA": [],
     "pathview": [],
     "phemd": [
@@ -237,18 +220,13 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scatterHatch": [],
     "scTensor": [],
     "seqArchR": [],
     "seqArchRplus": [
         "seqArchR"
     ],
     "SeqSQC": [],
-    "simplifyEnrichment": [],
-    "skewr": [
-        "wateRmelon"
-    ],
-    "sparsenetgls": [],
+    "skewr": [],
     "SPIA": [],
     "tRanslatome": [],
     "Ularcirc": [
@@ -258,7 +236,6 @@
     "uSORT": [
         "monocle"
     ],
-    "wateRmelon": [],
     "xcms": [
         "MsExperiment"
     ],
