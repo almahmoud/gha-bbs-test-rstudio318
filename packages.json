@@ -14,7 +14,6 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "AHMassBank": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -120,7 +119,6 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "BloodGen3Module": [],
     "bnem": [],
     "BOBaFIT": [
         "plyranges"
@@ -241,7 +239,6 @@
     ],
     "crlmm": [],
     "cTRAP": [],
-    "customCMPdb": [],
     "cyanoFilter": [],
     "cycle": [],
     "CyTOFpower": [],
@@ -407,8 +404,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hipathia": [],
-    "hpar": [],
     "HPiP": [],
     "icetea": [],
     "iCheck": [
@@ -517,8 +512,7 @@
     ],
     "MetaboSignal": [
         "KEGGgraph",
-        "MWASTools",
-        "hpar"
+        "MWASTools"
     ],
     "metaCCA": [],
     "metaMS": [
@@ -612,7 +606,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "motifbreakR": [],
     "MPFE": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -716,11 +709,8 @@
     "nullranges": [
         "plyranges"
     ],
-    "octad": [],
-    "OGRE": [],
     "omicsViewer": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "orthogene": [],
     "orthos": [],
     "OutSplice": [
@@ -767,12 +757,9 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "prebs": [],
     "preciseTAD": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase"
     ],
@@ -969,7 +956,6 @@
         "enrichplot"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "tilingArray": [],
@@ -1000,7 +986,6 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "VariantFiltering": [],
     "velociraptor": [],
     "veloviz": [],
     "VERSO": [],
