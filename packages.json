@@ -4,16 +4,9 @@
         "tilingArray"
     ],
     "adductomicsR": [],
-    "affycoretools": [],
-    "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "agilp": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -61,9 +54,7 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
+    "arrayQualityMetrics": [],
     "artMS": [],
     "ASICS": [
         "PepsNMR"
@@ -84,7 +75,6 @@
         "ANCOMBC",
         "mia"
     ],
-    "bgx": [],
     "BiFET": [],
     "bigmelon": [
         "lumi",
@@ -122,11 +112,8 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAGEfightR": [],
     "cageminer": [],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
@@ -389,7 +376,6 @@
         "altcdfenvs"
     ],
     "Heatplus": [],
-    "HiCDCPlus": [],
     "HiCDOC": [
         "multiHiCcompare"
     ],
@@ -468,12 +454,10 @@
         "Spectra",
         "xcms"
     ],
-    "maPredictDSC": [],
     "mariner": [
         "plotgardener",
         "plyranges"
     ],
-    "maskBAD": [],
     "MatrixQCvis": [],
     "MEAL": [
         "methylumi",
@@ -555,9 +539,7 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "lumi",
         "methylumi",
@@ -689,7 +671,6 @@
         "quantro",
         "yarn"
     ],
-    "nondetects": [],
     "NormalyzerDE": [],
     "nullranges": [
         "plyranges"
@@ -828,7 +809,6 @@
         "KEGGgraph"
     ],
     "rsemmed": [],
-    "RTNsurvival": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -909,7 +889,6 @@
     "Spaniel": [],
     "sparsenetgls": [],
     "spatialDE": [],
-    "spatzie": [],
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [],
@@ -952,7 +931,6 @@
         "plyranges"
     ],
     "UMI4Cats": [],
-    "unifiedWMWqPCR": [],
     "uSORT": [
         "monocle"
     ],
