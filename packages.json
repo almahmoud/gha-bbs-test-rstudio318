@@ -36,22 +36,16 @@
     "basecallQC": [],
     "bigmelon": [],
     "BiocOncoTK": [],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "blacksheepr": [],
     "BLMA": [
         "ROntoTools"
     ],
-    "BOBaFIT": [],
     "BUSpaRse": [],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cfDNAPro": [],
     "ChAMP": [],
     "ChIPsim": [],
@@ -59,20 +53,14 @@
     "cicero": [
         "monocle"
     ],
-    "clipper": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
-    "CompoundDb": [],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "cosmosR": [],
-    "debrowser": [
-        "pathview"
-    ],
+    "debrowser": [],
     "decompTumor2Sig": [],
     "DeepBlueR": [],
     "diffUTR": [],
@@ -80,30 +68,22 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "zenith"
     ],
-    "EGSEA": [
-        "pathview"
-    ],
+    "EGSEA": [],
     "EnrichmentBrowser": [
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "ffpe": [],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
-    "GDCRNATools": [
-        "pathview"
-    ],
+    "GDCRNATools": [],
     "GenProSeq": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "iCheck": [],
     "iNETgrate": [
@@ -111,44 +91,32 @@
     ],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
-    "katdetectr": [],
     "KEGGlincs": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MAGAR": [],
-    "MAGeCKFlute": [
-        "pathview"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "MEAL": [],
     "MEAT": [],
     "Melissa": [],
     "memes": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools"
     ],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
-    "MetCirc": [],
     "methylCC": [],
     "methylGSA": [],
     "microbiomeMarker": [],
@@ -157,27 +125,16 @@
         "ROntoTools"
     ],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "monocle": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
-    "MsExperiment": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
-    "multicrispr": [],
-    "multiWGCNA": [],
+    "MsQuality": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
     "MWASTools": [],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "nearBynding": [],
@@ -188,28 +145,22 @@
     "omicsViewer": [],
     "OutSplice": [],
     "pairedGSEA": [],
-    "pathview": [],
     "phemd": [
         "monocle"
     ],
-    "phenoTest": [],
     "Pi": [],
     "Pigengene": [],
-    "plotgardener": [],
     "plyinteractions": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RLSeq": [],
     "ROntoTools": [],
     "sampleClassifier": [],
     "SARC": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -223,19 +174,14 @@
     "skewr": [],
     "SPIA": [],
     "tRanslatome": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uSORT": [
         "monocle"
     ],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ]
 }
