@@ -164,14 +164,10 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz"
     ],
-    "crisprViz": [
-        "crisprDesign"
-    ],
+    "crisprViz": [],
     "cycle": [],
     "CytoML": [],
     "DAPAR": [
@@ -272,7 +268,6 @@
         "SPIA",
         "pathview"
     ],
-    "Harshlight": [],
     "Heatplus": [],
     "HiCDOC": [
         "multiHiCcompare"
@@ -575,7 +570,6 @@
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "RcwlPipelines": [],
     "rDGIdb": [],
     "ReactomePA": [],
     "recountmethylation": [],
@@ -585,9 +579,7 @@
     "Repitools": [
         "Ringo"
     ],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RImmPort": [],
     "Ringo": [],
     "Risa": [
