@@ -1,5 +1,4 @@
 {
-    "abseqR": [],
     "ADaCGH2": [
         "snapCGH",
         "tilingArray",
@@ -149,7 +148,6 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
         "ggtree"
     ],
     "BioCartaImage": [],
@@ -187,7 +185,6 @@
     "BloodGen3Module": [],
     "bnbc": [],
     "bnem": [
-        "epiNEM",
         "vsn"
     ],
     "BOBaFIT": [
@@ -217,7 +214,6 @@
     ],
     "canceR": [
         "Heatplus",
-        "geNetClassifier",
         "phenoTest"
     ],
     "cardelino": [
@@ -274,7 +270,6 @@
         "wateRmelon"
     ],
     "Chicago": [],
-    "chimeraviz": [],
     "ChIPpeakAnno": [],
     "ChIPseeker": [
         "enrichplot",
@@ -324,7 +319,6 @@
         "ggtree"
     ],
     "coMethDMR": [],
-    "COMPASS": [],
     "CompoundDb": [
         "Spectra"
     ],
@@ -395,9 +389,7 @@
         "vsn"
     ],
     "dcanr": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity"
     ],
@@ -510,7 +502,6 @@
     "epimutacions": [
         "minfi"
     ],
-    "epiNEM": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -527,12 +518,10 @@
     "ExperimentSubset": [
         "TreeSummarizedExperiment"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
         "csaw"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
@@ -589,7 +578,6 @@
         "pathview"
     ],
     "gDNAx": [],
-    "geNetClassifier": [],
     "GenomicInteractions": [],
     "GenomicPlot": [
         "plyranges"
@@ -630,9 +618,7 @@
         "SPIA",
         "pathview"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -673,7 +659,6 @@
         "minfi"
     ],
     "IdeoViz": [],
-    "IMMAN": [],
     "ImmuneSpaceR": [],
     "immunotation": [],
     "iNETgrate": [
@@ -800,7 +785,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "meshr": [],
     "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -1051,15 +1035,12 @@
     "nearBynding": [
         "plyranges"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netresponse": [],
     "NetSAM": [],
     "netZooR": [
         "minfi",
@@ -1112,7 +1093,6 @@
     "partCNV": [],
     "pathifier": [],
     "PathNet": [],
-    "PathoStat": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -1156,7 +1136,6 @@
     "pogos": [
         "ontoProc"
     ],
-    "PPInfer": [],
     "prebs": [
         "RPA"
     ],
@@ -1247,7 +1226,6 @@
         "BayesSpace",
         "scran"
     ],
-    "regionReport": [],
     "regutools": [],
     "REMP": [
         "minfi"
@@ -1281,7 +1259,6 @@
         "MSnbase",
         "vsn"
     ],
-    "Rmmquant": [],
     "RNAinteract": [
         "cellHTS2",
         "vsn"
@@ -1347,8 +1324,7 @@
     "scTensor": [
         "ReactomePA",
         "enrichplot",
-        "ggtree",
-        "meshr"
+        "ggtree"
     ],
     "scTreeViz": [
         "scran"
@@ -1553,7 +1529,6 @@
         "gcrma",
         "vsn"
     ],
-    "wppi": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
