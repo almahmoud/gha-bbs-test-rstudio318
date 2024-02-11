@@ -2,9 +2,7 @@
     "ADaCGH2": [
         "snapCGH"
     ],
-    "affylmGUI": [],
     "agilp": [],
-    "AgiMicroRna": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -44,8 +42,7 @@
     "apComplex": [],
     "appreci8R": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASICS": [
         "PepsNMR"
@@ -60,7 +57,6 @@
     "BiFET": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [],
@@ -103,7 +99,6 @@
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -128,7 +123,6 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "conumee": [],
     "cosmiq": [
         "MsExperiment",
         "Spectra",
@@ -158,7 +152,6 @@
     "diffGeneAnalysis": [],
     "diffUTR": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "doubletrouble": [],
@@ -173,7 +166,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "ENmix": [],
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
@@ -181,13 +173,11 @@
     ],
     "enrichTF": [],
     "EpiCompare": [],
-    "epimutacions": [],
     "esATAC": [],
     "famat": [],
     "fdrame": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "flagme": [
         "CAMERA",
@@ -196,7 +186,6 @@
         "xcms"
     ],
     "frenchFISH": [],
-    "funtooNorm": [],
     "GDCRNATools": [
         "KEGGgraph",
         "pathview"
@@ -220,8 +209,7 @@
     "HiCDOC": [],
     "HPiP": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "IdeoViz": [],
     "immunotation": [],
@@ -255,12 +243,9 @@
         "xcms"
     ],
     "lpNet": [],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [
         "KEGGgraph",
@@ -277,12 +262,10 @@
         "plyranges"
     ],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "Melissa": [],
@@ -307,34 +290,27 @@
     "MetCirc": [
         "Spectra"
     ],
-    "MethylAid": [],
     "methylCC": [
         "plyranges"
     ],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
-    "methylumi": [],
     "MGFR": [],
     "miaViz": [],
     "microbiomeMarker": [
         "ANCOMBC"
     ],
     "MicrobiomeProfiler": [],
-    "mimager": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MinimumDistance": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
     ],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "MobilityTransformR": [
         "MsExperiment",
         "Spectra",
@@ -409,7 +385,6 @@
     ],
     "NetPathMiner": [],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "nullranges": [
@@ -451,14 +426,11 @@
     "Prostar": [
         "DAPAR"
     ],
-    "quantro": [],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "rDGIdb": [],
-    "recountmethylation": [],
     "RegionalST": [],
-    "REMP": [],
     "Repitools": [],
     "ReUseData": [],
     "RImmPort": [],
@@ -470,9 +442,7 @@
     "RLassoCox": [],
     "RLSeq": [],
     "RNAinteract": [],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "ROCpAI": [],
     "ROntoTools": [
         "KEGGgraph"
@@ -501,8 +471,6 @@
         "seqArchR"
     ],
     "SeqSQC": [],
-    "shinyepico": [],
-    "shinyMethyl": [],
     "signatureSearch": [],
     "SimBindProfiles": [],
     "simplifyEnrichment": [],
@@ -510,7 +478,6 @@
     "singleCellTK": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "snapCGH": [],
@@ -523,7 +490,6 @@
     "SPIAT": [],
     "staRank": [],
     "TargetSearch": [],
-    "tenXplore": [],
     "TimiRGeN": [],
     "tRanslatome": [
         "Heatplus"
@@ -541,16 +507,13 @@
     "veloviz": [],
     "VERSO": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "xcms": [
         "MsExperiment",
         "Spectra"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "KEGGgraph",
