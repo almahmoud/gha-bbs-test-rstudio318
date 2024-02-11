@@ -5,9 +5,7 @@
         "tilingArray",
         "vsn"
     ],
-    "adductomicsR": [
-        "BiocVersion"
-    ],
+    "adductomicsR": [],
     "affy": [],
     "affyContam": [],
     "affycoretools": [
@@ -30,9 +28,7 @@
         "affycoretools",
         "gcrma"
     ],
-    "AHMassBank": [
-        "BiocVersion"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -95,31 +91,20 @@
     "altcdfenvs": [
         "makecdfenv"
     ],
-    "AMARETTO": [
-        "BiocVersion"
-    ],
+    "AMARETTO": [],
     "amplican": [],
     "ANCOMBC": [
         "TreeSummarizedExperiment",
         "mia"
     ],
-    "AnnotationHub": [
-        "BiocVersion"
-    ],
-    "AnnotationHubData": [
-        "BiocVersion"
-    ],
-    "annotatr": [
-        "BiocVersion"
-    ],
+    "AnnotationHub": [],
+    "AnnotationHubData": [],
+    "annotatr": [],
     "apComplex": [],
-    "appreci8R": [
-        "BiocVersion"
-    ],
+    "appreci8R": [],
     "ArrayExpress": [],
     "arrayMvout": [
         "affyContam",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -128,7 +113,6 @@
         "affyPLM",
         "beadarray",
         "gcrma",
-        "illuminaio",
         "vsn"
     ],
     "artMS": [
@@ -140,12 +124,9 @@
     "ASpli": [],
     "ATACCoGAPS": [],
     "ATACseqQC": [
-        "BiocVersion",
         "ChIPpeakAnno"
     ],
-    "atena": [
-        "BiocVersion"
-    ],
+    "atena": [],
     "AUCell": [],
     "bandle": [
         "MSnbase",
@@ -165,16 +146,12 @@
         "basilisk.utils"
     ],
     "basilisk.utils": [],
-    "batchelor": [
-        "ResidualMatrix"
-    ],
+    "batchelor": [],
     "BayesSpace": [
         "scran"
     ],
     "bayNorm": [],
-    "beadarray": [
-        "illuminaio"
-    ],
+    "beadarray": [],
     "benchdamic": [
         "ANCOMBC",
         "TreeSummarizedExperiment",
@@ -185,7 +162,6 @@
     ],
     "BiFET": [],
     "bigmelon": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -203,17 +179,12 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "BiocHubsShiny": [
-        "BiocVersion"
-    ],
-    "BiocOncoTK": [
-        "BiocVersion"
-    ],
+    "BiocHubsShiny": [],
+    "BiocOncoTK": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils"
     ],
-    "BiocVersion": [],
     "BiocWorkflowTools": [],
     "BioMVCClass": [],
     "BioNAR": [],
@@ -226,7 +197,6 @@
         "scran"
     ],
     "biscuiteer": [
-        "BiocVersion",
         "annotatr",
         "dmrseq"
     ],
@@ -234,16 +204,13 @@
         "DEXSeq"
     ],
     "blima": [
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
     ],
-    "BloodGen3Module": [
-        "BiocVersion"
-    ],
+    "BloodGen3Module": [],
     "bnbc": [],
     "bnem": [
         "epiNEM",
@@ -253,9 +220,7 @@
         "plyranges"
     ],
     "BPRMeth": [],
-    "brainflowprobes": [
-        "BiocVersion"
-    ],
+    "brainflowprobes": [],
     "BubbleTree": [],
     "BufferedMatrixMethods": [],
     "BUS": [],
@@ -295,7 +260,6 @@
         "TreeSummarizedExperiment"
     ],
     "CBNplot": [
-        "BiocVersion",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -329,14 +293,11 @@
         "plyranges"
     ],
     "cfTools": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils"
     ],
     "ChAMP": [
-        "BiocVersion",
         "DMRcate",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -355,7 +316,6 @@
         "frma"
     ],
     "ChromSCape": [
-        "ResidualMatrix",
         "batchelor",
         "scran"
     ],
@@ -364,7 +324,6 @@
     ],
     "CIMICE": [],
     "circRNAprofiler": [
-        "BiocVersion",
         "gwascat"
     ],
     "CiteFuse": [
@@ -396,24 +355,17 @@
     "cogeqc": [
         "ggtree"
     ],
-    "coMethDMR": [
-        "BiocVersion"
-    ],
+    "coMethDMR": [],
     "COMPASS": [],
     "CompoundDb": [
         "Spectra"
     ],
-    "CONFESS": [
-        "SamSPECTRAL"
-    ],
+    "CONFESS": [],
     "conumee": [
-        "illuminaio",
         "minfi"
     ],
     "Cormotif": [],
-    "CoSIA": [
-        "BiocVersion"
-    ],
+    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -426,19 +378,16 @@
     ],
     "cqn": [],
     "crisprDesign": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "crisprScore"
     ],
     "crisprScore": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils"
     ],
     "CrispRVariants": [],
     "crisprVerse": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "crisprDesign",
@@ -446,27 +395,18 @@
         "crisprViz"
     ],
     "crisprViz": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [
-        "illuminaio"
-    ],
+    "crlmm": [],
     "crossmeta": [],
     "csaw": [],
     "csdR": [],
-    "CTdata": [
-        "BiocVersion"
-    ],
-    "cTRAP": [
-        "BiocVersion"
-    ],
-    "customCMPdb": [
-        "BiocVersion"
-    ],
+    "CTdata": [],
+    "cTRAP": [],
+    "customCMPdb": [],
     "cyanoFilter": [
         "flowDensity"
     ],
@@ -497,11 +437,9 @@
         "epiNEM"
     ],
     "ddPCRclust": [
-        "SamSPECTRAL",
         "flowDensity"
     ],
     "debrowser": [
-        "Harman",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -514,7 +452,6 @@
         "scran"
     ],
     "deconvR": [
-        "illuminaio",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -551,14 +488,11 @@
     "DiscoRhythm": [],
     "dittoSeq": [],
     "DMRcate": [
-        "BiocVersion",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "BiocVersion",
         "annotatr"
     ],
     "Doscheda": [
@@ -578,12 +512,9 @@
         "ArrayExpress"
     ],
     "easier": [
-        "BiocVersion",
         "quantiseqr"
     ],
-    "edge": [
-        "snm"
-    ],
+    "edge": [],
     "EDIRquery": [],
     "EGSEA": [
         "KEGGgraph",
@@ -591,8 +522,6 @@
     ],
     "EMDomics": [],
     "ENmix": [
-        "BiocVersion",
-        "illuminaio",
         "minfi"
     ],
     "EnrichmentBrowser": [
@@ -613,24 +542,18 @@
         "ggtree"
     ],
     "EpiCompare": [
-        "BiocVersion",
         "ChIPseeker",
         "enrichplot",
         "ggtree"
     ],
     "epigenomix": [
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "epigraHMM": [
         "csaw"
     ],
-    "EpiMix": [
-        "BiocVersion"
-    ],
+    "EpiMix": [],
     "epimutacions": [
-        "BiocVersion",
-        "illuminaio",
         "minfi"
     ],
     "epiNEM": [],
@@ -641,17 +564,12 @@
         "ggtree"
     ],
     "EWCE": [
-        "BiocVersion",
         "ggtree",
         "orthogene"
     ],
     "ExiMiR": [],
-    "ExperimentHub": [
-        "BiocVersion"
-    ],
-    "ExperimentHubData": [
-        "BiocVersion"
-    ],
+    "ExperimentHub": [],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "TreeSummarizedExperiment"
     ],
@@ -671,7 +589,6 @@
     "fcScan": [],
     "fdrame": [],
     "ffpe": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -693,13 +610,11 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCHIC": [],
     "flowCut": [
         "flowDensity"
     ],
     "flowDensity": [],
     "flowFP": [],
-    "flowGraph": [],
     "flowStats": [],
     "flowTrans": [],
     "flowVS": [
@@ -709,7 +624,6 @@
     "frma": [],
     "frmaTools": [],
     "funtooNorm": [
-        "illuminaio",
         "minfi"
     ],
     "GateFinder": [
@@ -723,18 +637,14 @@
         "ggtree",
         "pathview"
     ],
-    "gDNAx": [
-        "BiocVersion"
-    ],
+    "gDNAx": [],
     "geNetClassifier": [],
     "geneXtendeR": [],
     "GenomicInteractions": [],
     "GenomicPlot": [
         "plyranges"
     ],
-    "GenomicScores": [
-        "BiocVersion"
-    ],
+    "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -765,14 +675,11 @@
         "enrichplot",
         "ggtree"
     ],
-    "GRaNIE": [
-        "BiocVersion"
-    ],
+    "GRaNIE": [],
     "graper": [],
     "GRENITS": [],
     "GSAR": [],
     "GSEABenchmarkeR": [
-        "BiocVersion",
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
@@ -784,11 +691,8 @@
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "gwascat": [
-        "BiocVersion"
-    ],
+    "gwascat": [],
     "GWENA": [],
-    "Harman": [],
     "Harshlight": [
         "altcdfenvs",
         "makecdfenv"
@@ -812,12 +716,8 @@
         "basilisk.utils"
     ],
     "hicVennDiagram": [],
-    "hipathia": [
-        "BiocVersion"
-    ],
-    "hpar": [
-        "BiocVersion"
-    ],
+    "hipathia": [],
+    "hpar": [],
     "HPiP": [],
     "HTqPCR": [],
     "hypeR": [],
@@ -825,13 +725,11 @@
         "csaw"
     ],
     "iCheck": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
     ],
     "IdeoViz": [],
-    "illuminaio": [],
     "IMMAN": [],
     "ImmuneSpaceR": [],
     "immunotation": [],
@@ -841,7 +739,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "illuminaio",
         "minfi"
     ],
     "InPAS": [
@@ -853,9 +750,7 @@
     ],
     "IntramiRExploreR": [],
     "IONiseR": [],
-    "ipdDb": [
-        "BiocVersion"
-    ],
+    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -864,13 +759,10 @@
         "vsn",
         "xcms"
     ],
-    "iSEEhub": [
-        "BiocVersion"
-    ],
+    "iSEEhub": [],
     "isobar": [],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
-        "BiocVersion",
         "DEXSeq",
         "tximeta"
     ],
@@ -900,23 +792,17 @@
     ],
     "LPEadj": [],
     "lpNet": [],
-    "LRcell": [
-        "BiocVersion"
-    ],
+    "LRcell": [],
     "lumi": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
     "LymphoSeq": [
         "ggtree"
     ],
-    "m6Aboost": [
-        "BiocVersion"
-    ],
+    "m6Aboost": [],
     "Macarron": [],
     "MACSr": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils"
     ],
@@ -924,12 +810,10 @@
     "MAGAR": [
         "RnBeads",
         "crlmm",
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
     "MAGeCKFlute": [
-        "BiocVersion",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -955,24 +839,19 @@
     "maskBAD": [
         "gcrma"
     ],
-    "mastR": [
-        "BiocVersion"
-    ],
+    "mastR": [],
     "MatrixQCvis": [
-        "BiocVersion",
         "vsn"
     ],
     "MBCB": [],
     "MBQN": [],
     "MCbiclust": [],
     "MEAL": [
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "MEAT": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -984,19 +863,16 @@
     ],
     "memes": [],
     "meshes": [
-        "BiocVersion",
         "enrichplot",
         "ggtree"
     ],
     "meshr": [],
     "MesKit": [],
     "MetaboAnnotation": [
-        "BiocVersion",
         "CompoundDb",
         "Spectra"
     ],
     "MetaboSignal": [
-        "BiocVersion",
         "KEGGgraph",
         "MWASTools",
         "hpar"
@@ -1024,36 +900,28 @@
     ],
     "methInheritSim": [],
     "MethReg": [
-        "BiocVersion",
-        "illuminaio",
         "sesame"
     ],
     "MethylAid": [
-        "illuminaio",
         "minfi"
     ],
     "methylCC": [
-        "illuminaio",
         "minfi",
         "plyranges"
     ],
     "methylclock": [
-        "BiocVersion",
-        "illuminaio",
         "minfi"
     ],
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "methylInheritance": [],
     "methylumi": [
-        "illuminaio",
         "minfi"
     ],
     "MetNet": [],
@@ -1095,25 +963,20 @@
         "gcrma"
     ],
     "MineICA": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "minfi": [
-        "illuminaio"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "illuminaio"
+        "crlmm"
     ],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
     ],
     "missMethyl": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -1132,7 +995,6 @@
     "MOMA": [],
     "monocle": [],
     "Moonlight2R": [
-        "BiocVersion",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1142,10 +1004,7 @@
         "enrichplot",
         "ggtree"
     ],
-    "motifbreakR": [
-        "MotifDb"
-    ],
-    "MotifDb": [],
+    "motifbreakR": [],
     "MPFE": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -1162,9 +1021,7 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [
-        "BiocVersion"
-    ],
+    "MsDataHub": [],
     "MsExperiment": [
         "Spectra"
     ],
@@ -1184,7 +1041,6 @@
         "vsn"
     ],
     "MSnID": [
-        "BiocVersion",
         "MSnbase",
         "msmsEDA",
         "msmsTests",
@@ -1228,9 +1084,7 @@
     "multicrispr": [
         "plyranges"
     ],
-    "multiGSEA": [
-        "BiocVersion"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare"
     ],
@@ -1243,7 +1097,6 @@
         "dcanr"
     ],
     "mumosa": [
-        "ResidualMatrix",
         "batchelor",
         "scran"
     ],
@@ -1255,7 +1108,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "BiocVersion",
         "ChIPpeakAnno",
         "csaw",
         "trackViewer"
@@ -1270,7 +1122,6 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "ncRNAtools": [],
     "ndexr": [],
     "nearBynding": [
         "plyranges"
@@ -1286,7 +1137,6 @@
     "netresponse": [],
     "NetSAM": [],
     "netZooR": [
-        "illuminaio",
         "minfi",
         "quantro",
         "yarn"
@@ -1294,39 +1144,29 @@
     "nondetects": [
         "HTqPCR"
     ],
-    "normalize450K": [
-        "illuminaio"
-    ],
+    "normalize450K": [],
     "NormalyzerDE": [
         "vsn"
     ],
     "npGSEA": [],
-    "nuCpos": [],
     "nullranges": [
         "plyranges"
     ],
-    "octad": [
-        "BiocVersion"
-    ],
-    "OGRE": [
-        "BiocVersion"
-    ],
+    "octad": [],
+    "OGRE": [],
     "oligo": [],
     "OLINgui": [
         "tkWidgets"
     ],
     "omicsViewer": [],
     "onlineFDR": [],
-    "ontoProc": [
-        "BiocVersion"
-    ],
+    "ontoProc": [],
     "openCyto": [],
     "openPrimeRui": [],
     "orthogene": [
         "ggtree"
     ],
     "orthos": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils"
     ],
@@ -1351,9 +1191,7 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "partCNV": [
-        "BiocVersion"
-    ],
+    "partCNV": [],
     "pathifier": [],
     "PathNet": [],
     "PathoStat": [],
@@ -1378,9 +1216,7 @@
         "ggtree"
     ],
     "PhosR": [],
-    "PhyloProfile": [
-        "BiocVersion"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1401,7 +1237,6 @@
     ],
     "plyranges": [],
     "pogos": [
-        "BiocVersion",
         "ontoProc"
     ],
     "PPInfer": [],
@@ -1411,9 +1246,7 @@
     "preciseTAD": [
         "rCGH"
     ],
-    "primirTSS": [
-        "BiocVersion"
-    ],
+    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "vsn"
@@ -1447,9 +1280,7 @@
     "protGear": [
         "vsn"
     ],
-    "psichomics": [
-        "BiocVersion"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "vsn"
@@ -1459,9 +1290,7 @@
     "pvca": [
         "vsn"
     ],
-    "pwOmics": [
-        "BiocVersion"
-    ],
+    "pwOmics": [],
     "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -1469,15 +1298,12 @@
     ],
     "quantiseqr": [],
     "quantro": [
-        "illuminaio",
         "minfi"
     ],
     "QuaternaryProd": [],
     "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [
-        "BiocVersion"
-    ],
+    "RareVariantVis": [],
     "Rbec": [],
     "rCGH": [],
     "Rcwl": [
@@ -1498,7 +1324,6 @@
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
-        "illuminaio",
         "minfi"
     ],
     "REDseq": [
@@ -1509,33 +1334,23 @@
         "scran"
     ],
     "regionReport": [],
-    "regutools": [
-        "BiocVersion"
-    ],
+    "regutools": [],
     "REMP": [
-        "BiocVersion",
-        "illuminaio",
         "minfi"
     ],
     "Repitools": [
         "Ringo",
         "vsn"
     ],
-    "ResidualMatrix": [],
-    "restfulSE": [
-        "BiocVersion"
-    ],
+    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
         "basilisk",
         "basilisk.utils"
     ],
-    "rGenomeTracks": [
-        "BiocVersion"
-    ],
+    "rGenomeTracks": [],
     "RgnTX": [],
-    "rifiComparative": [],
     "RImmPort": [],
     "Ringo": [
         "vsn"
@@ -1549,9 +1364,7 @@
     ],
     "RITAN": [],
     "RLassoCox": [],
-    "RLSeq": [
-        "BiocVersion"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase",
         "vsn"
@@ -1562,7 +1375,6 @@
         "vsn"
     ],
     "RnBeads": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -1578,13 +1390,10 @@
     "RTNsurvival": [
         "RTNduals"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "sampleClassifier": [
         "MGFR"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [
         "plyranges"
@@ -1596,12 +1405,9 @@
     "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
-        "BiocVersion",
         "scanMiR"
     ],
-    "scAnnotatR": [
-        "BiocVersion"
-    ],
+    "scAnnotatR": [],
     "scatterHatch": [],
     "scBubbletree": [
         "ggtree"
@@ -1618,17 +1424,14 @@
         "scran"
     ],
     "scMerge": [
-        "ResidualMatrix",
         "batchelor",
         "scran"
     ],
     "scMET": [],
     "scmeth": [
-        "BiocVersion",
         "annotatr"
     ],
     "SCnorm": [],
-    "Sconify": [],
     "scoreInvHap": [],
     "scPipe": [
         "basilisk",
@@ -1636,7 +1439,6 @@
     ],
     "scran": [],
     "scTensor": [
-        "BiocVersion",
         "ReactomePA",
         "enrichplot",
         "ggtree",
@@ -1664,24 +1466,16 @@
         "ggtree",
         "seqArchR"
     ],
-    "SeqSQC": [
-        "BiocVersion"
-    ],
-    "sesame": [
-        "BiocVersion",
-        "illuminaio"
-    ],
+    "SeqSQC": [],
+    "sesame": [],
     "sevenC": [],
     "shinyepico": [
-        "illuminaio",
         "minfi"
     ],
     "shinyMethyl": [
-        "illuminaio",
         "minfi"
     ],
     "signatureSearch": [
-        "BiocVersion",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -1700,8 +1494,6 @@
         "scran"
     ],
     "singleCellTK": [
-        "BiocVersion",
-        "ResidualMatrix",
         "basilisk",
         "basilisk.utils",
         "batchelor",
@@ -1716,7 +1508,6 @@
         "ggtree"
     ],
     "skewr": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -1731,10 +1522,8 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "snm": [],
     "soGGi": [],
     "SOMNiBUS": [
-        "BiocVersion",
         "annotatr"
     ],
     "Spaniel": [
@@ -1762,9 +1551,7 @@
     "SPIAT": [
         "dittoSeq"
     ],
-    "SpliceWiz": [
-        "BiocVersion"
-    ],
+    "SpliceWiz": [],
     "SPsimSeq": [],
     "srnadiff": [],
     "staRank": [
@@ -1793,7 +1580,6 @@
     ],
     "TEKRABber": [],
     "tenXplore": [
-        "BiocVersion",
         "ontoProc",
         "restfulSE"
     ],
@@ -1828,11 +1614,8 @@
     "tweeDEseq": [
         "cqn"
     ],
-    "tximeta": [
-        "BiocVersion"
-    ],
+    "tximeta": [],
     "Ularcirc": [
-        "BiocVersion",
         "plotgardener",
         "plyranges"
     ],
@@ -1847,12 +1630,9 @@
         "DeepPINCS"
     ],
     "VanillaICE": [
-        "crlmm",
-        "illuminaio"
+        "crlmm"
     ],
-    "VariantFiltering": [
-        "BiocVersion"
-    ],
+    "VariantFiltering": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -1860,12 +1640,9 @@
     ],
     "veloviz": [],
     "VERSO": [],
-    "vissE": [
-        "BiocVersion"
-    ],
+    "vissE": [],
     "vsn": [],
     "vtpnet": [
-        "BiocVersion",
         "gwascat"
     ],
     "vulcan": [
@@ -1873,7 +1650,6 @@
         "csaw"
     ],
     "wateRmelon": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -1890,10 +1666,8 @@
         "vsn"
     ],
     "XINA": [],
-    "xmapbridge": [],
     "yamss": [],
     "yarn": [
-        "illuminaio",
         "minfi",
         "quantro"
     ],
