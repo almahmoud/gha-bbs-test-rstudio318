@@ -75,9 +75,7 @@
     ],
     "decompTumor2Sig": [],
     "DeepBlueR": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "diffUTR": [],
     "doubletrouble": [],
     "dreamlet": [
@@ -102,7 +100,6 @@
     "GDCRNATools": [
         "pathview"
     ],
-    "GenomicPlot": [],
     "GenProSeq": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -113,7 +110,6 @@
     "iNETgrate": [
         "Pigengene"
     ],
-    "InPAS": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -185,7 +181,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [],
     "netOmics": [
         "RandomWalkRestartMH"
