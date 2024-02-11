@@ -106,7 +106,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "cageminer": [],
     "CAGEr": [],
     "CAMERA": [
         "MsExperiment",
@@ -141,7 +140,6 @@
     "cfDNAPro": [
         "plyranges"
     ],
-    "cfTools": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -203,7 +201,6 @@
         "crisprScore"
     ],
     "cycle": [],
-    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [],
     "DAPAR": [
@@ -227,7 +224,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "densvis": [],
     "DEP": [],
     "DEScan2": [],
     "diffGeneAnalysis": [],
@@ -281,7 +277,6 @@
         "enrichplot"
     ],
     "EWCE": [],
-    "ExperimentSubset": [],
     "extraChIPs": [],
     "famat": [
         "clusterProfiler",
@@ -301,7 +296,6 @@
     "FLAMES": [],
     "flowBin": [],
     "flowCut": [],
-    "flowVS": [],
     "frenchFISH": [],
     "funtooNorm": [],
     "GDCRNATools": [
@@ -477,7 +471,6 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "microSTASIS": [],
     "mimager": [],
     "MineICA": [
         "lumi",
@@ -498,7 +491,6 @@
         "Spectra",
         "xcms"
     ],
-    "MOFA2": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -641,7 +633,6 @@
     ],
     "plyranges": [],
     "pogos": [],
-    "prebs": [],
     "preciseTAD": [],
     "PrInCE": [],
     "profileplyr": [
@@ -773,7 +764,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "snifter": [],
     "SOMNiBUS": [],
     "Spaniel": [],
     "sparsenetgls": [],
@@ -818,7 +808,6 @@
     ],
     "VAExprs": [],
     "VanillaICE": [],
-    "velociraptor": [],
     "veloviz": [],
     "VERSO": [],
     "vtpnet": [],
