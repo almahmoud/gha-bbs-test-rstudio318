@@ -50,9 +50,7 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "altcdfenvs": [
-        "makecdfenv"
-    ],
+    "altcdfenvs": [],
     "AMARETTO": [],
     "ANCOMBC": [
         "mia"
@@ -74,7 +72,6 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "ATACCoGAPS": [],
     "ATACseqQC": [],
     "atena": [],
     "bandle": [
@@ -111,7 +108,6 @@
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "BioNERO": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -139,9 +135,7 @@
         "plyranges"
     ],
     "CAGEfightR": [],
-    "cageminer": [
-        "BioNERO"
-    ],
+    "cageminer": [],
     "CAGEr": [
         "CAGEfightR"
     ],
@@ -221,7 +215,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "cn.farms": [],
     "cogeqc": [],
     "coMethDMR": [],
     "CompoundDb": [
@@ -287,7 +280,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "demuxSNP": [],
     "densvis": [],
     "DEP": [
         "MSnbase"
@@ -315,15 +307,12 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "easier": [
-        "quantiseqr"
-    ],
+    "easier": [],
     "edge": [],
     "EGSEA": [
         "KEGGgraph",
         "pathview"
     ],
-    "EMDomics": [],
     "ENmix": [
         "minfi"
     ],
@@ -424,14 +413,11 @@
     "GUIDEseq": [],
     "gwascat": [],
     "Harshlight": [
-        "altcdfenvs",
-        "makecdfenv"
+        "altcdfenvs"
     ],
     "Heatplus": [],
-    "HiCcompare": [],
     "HiCDCPlus": [],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiContacts": [],
@@ -517,7 +503,6 @@
         "Spectra",
         "xcms"
     ],
-    "makecdfenv": [],
     "maPredictDSC": [],
     "mariner": [
         "plotgardener",
@@ -537,7 +522,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEDIPS": [],
     "Melissa": [],
     "memes": [],
     "meshes": [
@@ -637,7 +621,6 @@
         "Spectra",
         "xcms"
     ],
-    "MODA": [],
     "MOFA2": [],
     "monocle": [],
     "Moonlight2R": [
@@ -711,9 +694,7 @@
         "plyranges"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiMed": [],
     "MultiRNAflow": [],
     "multiWGCNA": [
@@ -727,8 +708,7 @@
         "KEGGgraph"
     ],
     "NADfinder": [
-        "ATACseqQC",
-        "trackViewer"
+        "ATACseqQC"
     ],
     "ncGTW": [
         "MSnbase",
@@ -774,7 +754,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "PanViz": [],
     "pareg": [],
     "partCNV": [],
@@ -803,7 +782,6 @@
         "enrichplot"
     ],
     "pipeComp": [],
-    "plier": [],
     "plotgardener": [
         "plyranges"
     ],
@@ -847,7 +825,6 @@
     "qPLEXanalyzer": [
         "MSnbase"
     ],
-    "quantiseqr": [],
     "quantro": [
         "minfi"
     ],
@@ -955,7 +932,6 @@
     ],
     "SeqSQC": [],
     "sesame": [],
-    "sevenC": [],
     "shinyepico": [
         "minfi"
     ],
@@ -999,15 +975,12 @@
     "spatzie": [],
     "specL": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
     "SPIAT": [],
     "SpliceWiz": [],
-    "SPsimSeq": [],
     "staRank": [
         "cellHTS2"
     ],
@@ -1015,9 +988,7 @@
         "MSnbase"
     ],
     "systemPipeTools": [],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "TargetSearch": [],
     "TDbasedUFEadv": [
@@ -1035,7 +1006,6 @@
     "topdownr": [
         "MSnbase"
     ],
-    "trackViewer": [],
     "tRanslatome": [
         "Heatplus"
     ],
