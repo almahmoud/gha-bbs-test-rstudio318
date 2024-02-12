@@ -32,7 +32,6 @@
     "BiocOncoTK": [],
     "BioNetStat": [],
     "blacksheepr": [],
-    "BLMA": [],
     "CAMERA": [
         "xcms"
     ],
@@ -53,20 +52,16 @@
     "diffUTR": [],
     "doubletrouble": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "EGSEA": [],
-    "EnrichmentBrowser": [],
     "flagme": [
         "CAMERA",
         "xcms"
     ],
     "GDCRNATools": [],
     "GenProSeq": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "iCheck": [],
     "iNETgrate": [
         "Pigengene"
@@ -87,14 +82,12 @@
     "mariner": [],
     "memes": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [],
     "metaMS": [
         "CAMERA",
         "xcms"
     ],
     "methylGSA": [],
     "MineICA": [],
-    "mirIntegrator": [],
     "MobilityTransformR": [
         "xcms"
     ],
@@ -137,7 +130,5 @@
         "monocle"
     ],
     "xcms": [],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
