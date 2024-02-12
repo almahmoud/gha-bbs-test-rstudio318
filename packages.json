@@ -5,7 +5,6 @@
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
@@ -25,15 +24,12 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "appreci8R": [],
     "ASICS": [],
-    "basecallQC": [],
     "bigmelon": [],
     "BiocOncoTK": [],
     "BioNetStat": [],
@@ -44,7 +40,6 @@
     ],
     "canceR": [],
     "ChAMP": [],
-    "ChIPsim": [],
     "ChIPXpress": [],
     "cicero": [
         "monocle"
@@ -66,7 +61,6 @@
     ],
     "EGSEA": [],
     "EnrichmentBrowser": [],
-    "ffpe": [],
     "flagme": [
         "CAMERA",
         "xcms"
@@ -88,16 +82,13 @@
         "CAMERA",
         "xcms"
     ],
-    "MAGAR": [],
     "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "xcms"
     ],
     "mariner": [],
-    "MEAL": [],
     "MEAT": [],
-    "Melissa": [],
     "memes": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
@@ -106,7 +97,6 @@
         "xcms"
     ],
     "methylGSA": [],
-    "microbiomeMarker": [],
     "MineICA": [],
     "mirIntegrator": [],
     "MobilityTransformR": [
@@ -131,7 +121,6 @@
     ],
     "Pi": [],
     "Pigengene": [],
-    "R453Plus1Toolbox": [],
     "RandomWalkRestartMH": [],
     "Risa": [
         "xcms"
@@ -142,7 +131,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scTensor": [],
     "seqArchR": [],
     "seqArchRplus": [
         "seqArchR"
@@ -150,7 +138,6 @@
     "SeqSQC": [],
     "skewr": [],
     "Ularcirc": [],
-    "UMI4Cats": [],
     "uSORT": [
         "monocle"
     ],
