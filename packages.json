@@ -31,46 +31,32 @@
     "appreci8R": [],
     "BiocOncoTK": [],
     "blacksheepr": [],
-    "CAMERA": [],
     "ChIPXpress": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
-    "cosmiq": [],
     "decompTumor2Sig": [],
     "DeepBlueR": [],
     "diffUTR": [],
     "doubletrouble": [],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "GenProSeq": [],
     "iCheck": [],
     "iNETgrate": [
         "Pigengene"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "IPO": [],
+    "LOBSTAHS": [],
+    "MAIT": [],
     "memes": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "methylGSA": [],
     "MineICA": [],
-    "MobilityTransformR": [],
     "monocle": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -83,7 +69,6 @@
     "Pi": [],
     "Pigengene": [],
     "RandomWalkRestartMH": [],
-    "Risa": [],
     "RLSeq": [],
     "scanMiR": [],
     "scanMiRApp": [
