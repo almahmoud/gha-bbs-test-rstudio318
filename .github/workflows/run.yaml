@@ -155,10 +155,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      # - name: Free root space
-      #   uses: almahmoud/free-root-space@main
-      #   with:
-      #     verbose: true
+      - name: Free root space
+        uses: almahmoud/free-root-space@main
+        with:
+          verbose: true
 
       - uses: actions/checkout@v4
 
@@ -252,7 +252,7 @@ jobs:
           paths: "'${{steps.versions.outputs.library}}'"
 
       - name: Get list for artifacts (that failed cache)
-        if: steps.deps.outputs.deplist != ''
+        if: steps.deps.outputs.alldepscache != ''
         id: artdeps
         run: |
           set -x
@@ -264,7 +264,7 @@ jobs:
           echo difflist=$DIFFLIST >> $GITHUB_OUTPUT
 
       - uses: actions/download-artifact@v4
-        if: steps.deps.outputs.deplist != '' && steps.artdeps.outputs.difflist != ''
+        if: steps.deps.outputs.alldepscache != '' && steps.artdeps.outputs.difflist != ''
         with:
           pattern: "${{steps.artdeps.outputs.difflist}}"
           path: "${{steps.versions.outputs.library}}"

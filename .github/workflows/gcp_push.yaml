@@ -1,0 +1,193 @@
+name: Copy GCS packages
+on:
+  push:
+    paths:
+      - lists/write_PACKAGES
+jobs:
+  gcscopy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Free root space
+        uses: almahmoud/free-root-space@main
+        with:
+          verbose: true
+ 
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          persist-credentials: true
+
+      - id: variables
+        run: |
+          echo arch=$(cat bioc_build/arch) >> $GITHUB_OUTPUT
+          biocver=$(cat bioc_build/bioc | sed 's/ /./g')
+          echo biocver=$biocver >> $GITHUB_OUTPUT
+          echo containername=$(cat bioc_build/containername | sed "s#-$biocver##") >> $GITHUB_OUTPUT
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+
+      - name: Start a local k8s cluster
+        uses: jupyterhub/action-k3s-helm@v3
+        with:
+          k3s-channel: latest
+          metrics-enabled: false
+          traefik-enabled: false
+
+      - name: Install rclone & add rclone conf file
+        uses: nick-fields/retry@v2
+        env:
+            RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+            GCP_SA: ${{secrets.GCP_SA}}
+        with:
+          timeout_minutes: 20
+          max_attempts: 10
+          shell: bash
+          command: |
+            set -xe
+            curl https://rclone.org/install.sh | sudo bash || true
+            echo "$RCLONE_CONF" > ~/.rclone.conf
+            mkdir -p /tmp/
+            echo "$GCP_SA" > /tmp/gcs
+            if ! command -v rclone &> /dev/null
+            then
+                echo "rclone could not be found"
+                exit 1;
+            fi
+
+      - name: Copy js2 to gcp
+        id: rclonecopy
+        run: |
+          mkdir -p /tmp/
+          rclone copyto js2-s3:/s3://gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
+          grep "Removing failed copy" /tmp/js2s3log | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/failedlist
+          cat /tmp/failedlist | xargs -i rclone copy js2:/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}-${{ steps.variables.outputs.biocver }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/ -vvvvv
+          grep "s differ" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/differ
+          grep "Unchanged skipping" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/skipped
+          grep "Copied (new)" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/new
+          echo diffcount=$(cat /tmp/differ | wc -l) >> $GITHUB_OUTPUT
+          echo skipcount=$(cat /tmp/skipped | wc -l) >> $GITHUB_OUTPUT
+          echo newcount=$(cat /tmp/new | wc -l) >> $GITHUB_OUTPUT
+          echo totalcount=$(cat /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq | wc -l) >> $GITHUB_OUTPUT
+
+      - name: Notify slack channel with summary of binaries copied to GCS
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
+          slack-message: |
+            Bioc container binaries for ${{ steps.variables.outputs.containername }} ${{ steps.variables.outputs.biocver }} successfully pushed.
+            Total binaries pushed: ${{ steps.rclonecopy.outputs.totalcount }}
+            Skipped: ${{ steps.rclonecopy.outputs.skipcount }}
+            Modified: ${{ steps.rclonecopy.outputs.diffcount }}
+            New: ${{ steps.rclonecopy.outputs.newcount }}
+
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        if: env.SLACK_BOT_TOKEN != null && env.SLACK_CHANNEL_ID != null
+        continue-on-error: true
+
+
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+          
+          git clone --depth=1 https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner.git
+          
+          cat << "EOF" > local.yaml
+          classes:
+          - name: local-storage
+            hostDir: /mnt/disks
+            volumeMode: Block
+            storageClass: true
+          EOF
+          
+          kubectl create ns rclone
+          helm install -n rclone static ./sig-storage-local-static-provisioner/helm/provisioner -f local.yaml
+  
+          helm repo add wunderio https://storage.googleapis.com/charts.wdr.io
+          cat << "EOF" > rclone-vals.yaml
+          params:
+            remote: "google cloud storage"
+            remotePath: "/GCPHOLDERPATH"
+          EOF
+          sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib#g" rclone-vals.yaml
+          helm upgrade --install --create-namespace -n rclone rclone wunderio/csi-rclone -f rclone-vals.yaml --set-file params.gcs-service-account-credentials="/tmp/gcs" --wait
+          kubectl -n rclone apply -f .github/scripts/k8s/k8s-resources.yaml
+          while [[ $(kubectl get pods -n rclone package-file --no-headers -o custom-columns=":status.phase") != "Running" ]]; do
+             
+            kubectl get events -n rclone > events.log
+            awk '{$1=""}1' events.log > newevents.log
+            if [ ! -f "oldevents.log" ]; then cat events.log && cp newevents.log oldevents.log; fi
+            # If different, cat new events
+            cmp --silent oldevents.log newevents.log || cat events.log
+            cp newevents.log oldevents.log
+            
+            kubectl logs -n rclone package-file -c copy-packages > copy.log || true
+            if [ -f "copy.log" ]; then
+              if [ ! -f "oldcopy.log" ]; then cat copy.log && cp copy.log oldcopy.log; fi
+              grep -A 99999999999 "$(tail -n 1 oldcopy.log)" copy.log || true
+              cp copy.log oldcopy.log
+            fi
+            kubectl logs -n rclone package-file -c sleep || true
+            sleep 10
+          done
+          mkdir -p /tmp
+          kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.gz /tmp/GCPPACKAGES.gz
+          kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.rds /tmp/GCPPACKAGES.rds
+          kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES /tmp/GCPPACKAGES
+
+      - run: |
+          rclone copyto /tmp/GCPPACKAGES gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES -vvvvv
+          rclone copyto /tmp/GCPPACKAGES.gz gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES.gz -vvvvv
+          rclone copyto /tmp/GCPPACKAGES.rds gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES.rds -vvvvv
+
+      - name: Get PACKAGES info
+        id: packages
+        run: |
+          cat /tmp/GCPPACKAGES | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/pkgslist
+          echo countpkgslist=$(cat /tmp/pkgslist | wc -l) >> $GITHUB_OUTPUT
+
+      - name: Notify slack channel that GCS index has been changed
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
+          slack-message: |
+            Index changed for ${{ steps.variables.outputs.containername }} ${{ steps.variables.outputs.biocver }} Bioc container binaries
+            Total binaries in new PACKAGES index: ${{ steps.packages.outputs.countpkgslist }}
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        if: env.SLACK_BOT_TOKEN != null && env.SLACK_CHANNEL_ID != null
+        continue-on-error: true
+
+      - name: Add PACAKGES file and copy old run to trigger new cycle
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git pull origin main || git reset --hard origin/main
+            STARTTIME="$(cat runstarttime)" || true
+            cp /tmp/GCPPACKAGES ./"${STARTIME}-GCPPACKAGES"
+            LOGDIR="logs/$STARTTIME" || true
+            echo "${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib" > "$LOGDIR/copied"
+            mv runstarttime "$LOGDIR"/ || true
+            mv uniquedeps.json "$LOGDIR"/ || true
+            mv packages.json "$LOGDIR"/ || true
+            mv biocdeps.json "$LOGDIR"/ || true
+            mv tobuild.txt "$LOGDIR"/ || true
+            mv lists "$LOGDIR"/lists || true
+            mv bioc_build "$LOGDIR"/bioc_build || true
+
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add ./GCPPACKAGES
+            git add $LOGDIR
+            git add .
+            git commit -m "Add GCPPACKAGES file and trigger a new cycle"
+            git push

@@ -1,0 +1,73 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: data-rclone
+  labels:
+    name: data-rclone
+spec:
+  accessModes:
+  - ReadWriteMany
+  capacity:
+    storage: 50Gi
+  storageClassName: rclone
+  csi:
+    driver: csi-rclone
+    volumeHandle: data
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: data-rclone
+spec:
+  accessModes:
+  - ReadWriteMany
+  resources:
+    requests:
+      storage: 50Gi
+  storageClassName: rclone
+  selector:
+    matchLabels:
+      name: data-rclone
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: package-file
+spec:
+  securityContext:
+    runAsUser: 0
+  volumes:
+  - name: data
+    persistentVolumeClaim:
+      claimName: data-rclone
+  - name: results
+    emptyDir: {}
+  initContainers:
+  - image: &bioc.CONTAINER_BASE_IMAGE
+    imagePullPolicy: Always
+    name: copy-packages
+    securityContext:
+      runAsUser: 0
+    volumeMounts:
+      - mountPath: /mnt/pkgs
+        name: data
+      - mountPath: /mnt/results
+        name: results
+    command: ['/bin/sh']
+    args:
+    - "-c"
+    - set -x; mkdir -p /tmp/pkglinks/ && ls /mnt/pkgs | grep ".tar.gz$" | wc -l && ls /mnt/pkgs/* | grep ".tar.gz$" | sed 's#/mnt/pkgs/##g' | xargs -i bash -c "ln -s /mnt/pkgs/{} /tmp/pkglinks/{}"; Rscript -e 'tools::write_PACKAGES("/tmp/pkglinks", addFiles = TRUE, verbose = TRUE, latestOnly = TRUE)' && cp /tmp/pkglinks/PACKAGES* /mnt/results/
+  containers:
+  - image: &bioc.CONTAINER_BASE_IMAGE
+    imagePullPolicy: IfNotPresent
+    name: sleep
+    securityContext:
+      runAsUser: 0
+    volumeMounts:
+      - mountPath: /mnt/results
+        name: results
+    command: ['/bin/sh']
+    args:
+    - "-c"
+    - sleep 10000
+---
