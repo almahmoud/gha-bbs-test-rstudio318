@@ -30,72 +30,48 @@
     ],
     "appreci8R": [],
     "BiocOncoTK": [],
-    "BioNetStat": [],
     "blacksheepr": [],
-    "CAMERA": [
-        "xcms"
-    ],
-    "canceR": [],
+    "CAMERA": [],
     "ChIPXpress": [],
     "cicero": [
         "monocle"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
-    "cosmiq": [
-        "xcms"
-    ],
-    "debrowser": [],
+    "cliqueMS": [],
+    "cosmiq": [],
     "decompTumor2Sig": [],
     "DeepBlueR": [],
     "diffUTR": [],
     "doubletrouble": [],
     "dreamlet": [],
-    "EGSEA": [],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
-    "GDCRNATools": [],
     "GenProSeq": [],
     "iCheck": [],
     "iNETgrate": [
         "Pigengene"
     ],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
-    "MAGeCKFlute": [],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
-    "mariner": [],
     "memes": [],
-    "MetaboAnnotation": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "methylGSA": [],
     "MineICA": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "monocle": [],
-    "MsQuality": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -108,11 +84,8 @@
     "Pi": [],
     "Pigengene": [],
     "RandomWalkRestartMH": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
-    "SBGNview": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -122,9 +95,7 @@
         "seqArchR"
     ],
     "SeqSQC": [],
-    "Ularcirc": [],
     "uSORT": [
         "monocle"
-    ],
-    "xcms": []
+    ]
 }
