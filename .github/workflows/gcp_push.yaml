@@ -114,7 +114,7 @@ jobs:
           EOF
           sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib#g" rclone-vals.yaml
           helm upgrade --install --create-namespace -n rclone rclone wunderio/csi-rclone -f rclone-vals.yaml --set-file params.gcs-service-account-credentials="/tmp/gcs" --wait
-          kubectl -n rclone apply -f .github/scripts/k8s/k8s-resources.yaml
+          kubectl -n rclone apply -f .github/scripts/k8s-resources.yaml
           while [[ $(kubectl get pods -n rclone package-file --no-headers -o custom-columns=":status.phase") != "Running" ]]; do
              
             kubectl get events -n rclone > events.log
