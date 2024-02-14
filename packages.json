@@ -279,9 +279,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [
         "DESeq2",
         "MultiAssayExperiment"
@@ -445,7 +443,6 @@
         "sva"
     ],
     "bambu": [],
-    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
     ],
@@ -826,7 +823,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
@@ -878,7 +874,6 @@
         "SingleCellExperiment"
     ],
     "CaDrA": [],
-    "CAEN": [],
     "CAFE": [
         "AnnotationFilter",
         "OrganismDbi",
@@ -1112,7 +1107,6 @@
         "sparseMatrixStats"
     ],
     "CellNOptR": [],
-    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment"
     ],
@@ -1307,9 +1301,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -1338,7 +1330,6 @@
     "CircSeqAlignTk": [
         "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
         "ShortRead"
     ],
     "cisPath": [],
@@ -1463,7 +1454,6 @@
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1480,7 +1470,6 @@
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1650,7 +1639,6 @@
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -2313,9 +2301,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DNAshapeR": [],
     "DominoEffect": [
         "VariantAnnotation"
@@ -2537,7 +2523,6 @@
     "epigraHMM": [
         "GreyListChIP",
         "Rhdf5lib",
-        "bamsignals",
         "csaw",
         "metapod",
         "rhdf5",
@@ -2568,7 +2553,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistack": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "Modstrings",
@@ -2659,7 +2643,6 @@
     ],
     "EventPointer": [
         "Rhdf5lib",
-        "SGSeq",
         "affxparser",
         "fgsea",
         "qvalue",
@@ -3568,7 +3551,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [
         "hypergraph"
@@ -3835,7 +3817,6 @@
         "AnnotationFilter",
         "ProtGenerics",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "ensembldb",
         "regioneR"
@@ -4178,9 +4159,7 @@
     ],
     "MEDIPS": [],
     "megadepth": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "universalmotif"
     ],
@@ -4944,7 +4923,6 @@
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "ensembldb",
         "karyoploteR",
@@ -5202,7 +5180,6 @@
         "vsn"
     ],
     "normr": [
-        "bamsignals",
         "qvalue"
     ],
     "NPARC": [],
@@ -5353,7 +5330,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -5631,7 +5607,6 @@
         "fgsea"
     ],
     "pqsfinder": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "Rhdf5lib",
@@ -6002,7 +5977,6 @@
     "recoup": [
         "ComplexHeatmap"
     ],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationFilter",
         "ChIPpeakAnno",
@@ -6140,9 +6114,7 @@
         "Rhdf5lib"
     ],
     "Rhdf5lib": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "DESeq2",
         "ORFik"
@@ -6534,7 +6506,6 @@
         "sparseMatrixStats"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [],
@@ -6788,7 +6759,6 @@
         "ComplexHeatmap",
         "DOSE",
         "GOSemSim",
-        "bamsignals",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -6804,7 +6774,6 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -6814,7 +6783,6 @@
         "fgsea",
         "heatmaps",
         "qvalue",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [
@@ -6858,7 +6826,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -7528,9 +7495,7 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "tigre": [],
-    "TileDBArray": [],
     "tilingArray": [
         "genefilter",
         "vsn"
@@ -7571,7 +7536,6 @@
     "tLOH": [
         "VariantAnnotation"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -7721,7 +7685,6 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TTMap": [],
     "TurboNorm": [],
     "TVTB": [
         "AnnotationFilter",
