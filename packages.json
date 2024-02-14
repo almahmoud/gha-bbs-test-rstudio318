@@ -844,7 +844,6 @@
         "chromVAR",
         "fgsea",
         "motifmatchr",
-        "projectR",
         "rGREAT",
         "rhdf5",
         "rhdf5filters",
@@ -1204,7 +1203,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocNeighbors",
         "BiocParallel",
@@ -1567,7 +1565,6 @@
     "biocViews": [
         "RBGL"
     ],
-    "BiocWorkflowTools": [],
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
@@ -3374,7 +3371,6 @@
         "SummarizedExperiment",
         "fgsea"
     ],
-    "CMA": [],
     "cmapR": [
         "DelayedArray",
         "GenomicRanges",
@@ -5465,7 +5461,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "BiocIO",
         "BiocParallel",
@@ -8127,7 +8122,6 @@
         "pathview",
         "safe"
     ],
-    "GSEAlm": [],
     "gsean": [
         "BiocParallel",
         "PPInfer",
@@ -12081,7 +12075,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [],
     "nanotatoR": [
         "GenomicRanges"
@@ -13461,7 +13454,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "BiocParallel",
         "STRINGdb",
@@ -13643,7 +13635,6 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [],
     "pRoloc": [
         "BiocParallel",
         "DelayedArray",
