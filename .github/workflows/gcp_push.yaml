@@ -59,7 +59,7 @@ jobs:
         id: rclonecopy
         run: |
           mkdir -p /tmp/
-          rclone copyto js2-s3:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
+          rclone copyto js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
           grep "Removing failed copy" /tmp/js2s3log | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/failedlist
           cat /tmp/failedlist | xargs -i rclone copy js2:/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}-${{ steps.variables.outputs.biocver }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/ -vvvvv
           grep "s differ" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/differ
