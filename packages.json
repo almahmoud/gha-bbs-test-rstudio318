@@ -182,7 +182,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute",
@@ -489,7 +488,6 @@
     "bioCancer": [
         "DOSE",
         "GOSemSim",
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "ReactomePA",
         "TCGAutils",
@@ -739,7 +737,6 @@
     "canceR": [
         "Category",
         "GSEABase",
-        "GenomicDataCommons",
         "Heatplus",
         "RTCGAToolbox",
         "TCGAutils",
@@ -788,7 +785,6 @@
         "genefilter"
     ],
     "cbaf": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
@@ -799,7 +795,6 @@
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils"
     ],
@@ -1177,7 +1172,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationFilter",
         "CopyNumberPlots",
@@ -2159,8 +2153,7 @@
         "qvalue"
     ],
     "EWCE": [
-        "SingleCellExperiment",
-        "orthogene"
+        "SingleCellExperiment"
     ],
     "ExCluster": [],
     "exomeCopy": [],
@@ -2492,7 +2485,6 @@
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
-        "GenomicDataCommons",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2582,13 +2574,11 @@
     ],
     "GenomAutomorphism": [],
     "genomeIntervals": [],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
     "genomicInstability": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "AnnotationFilter",
         "Gviz",
@@ -2720,7 +2710,6 @@
     ],
     "GNET2": [],
     "GNOSIS": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
@@ -2758,7 +2747,6 @@
     ],
     "GreyListChIP": [],
     "GRmetrics": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
@@ -2909,7 +2897,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iasva": [],
     "iCARE": [],
     "icetea": [
         "ShortRead",
@@ -3148,7 +3135,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "LEA": [],
     "lefser": [],
     "lemur": [
@@ -3498,7 +3484,6 @@
         "ProtGenerics",
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "methylKit",
         "qvalue"
@@ -4325,7 +4310,6 @@
         "AnnotationFilter"
     ],
     "OrganismDbi": [],
-    "orthogene": [],
     "orthos": [
         "HDF5Array",
         "basilisk",
@@ -4449,7 +4433,6 @@
         "scater",
         "scuttle"
     ],
-    "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
     "pfamAnalyzeR": [],
@@ -4560,7 +4543,6 @@
         "STRINGdb",
         "fgsea"
     ],
-    "pqsfinder": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -5154,7 +5136,6 @@
         "impute",
         "qvalue"
     ],
-    "ROCpAI": [],
     "RolDE": [
         "qvalue"
     ],
@@ -5188,7 +5169,6 @@
         "ShortRead"
     ],
     "RTCGAToolbox": [
-        "GenomicDataCommons",
         "TCGAutils"
     ],
     "RTN": [],
@@ -5202,7 +5182,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "RUVcorr": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead"
@@ -6009,7 +5988,6 @@
         "msa"
     ],
     "survcomp": [],
-    "survtype": [],
     "sva": [
         "genefilter"
     ],
@@ -6086,9 +6064,7 @@
     ],
     "TCC": [],
     "TCGAbiolinks": [],
-    "TCGAutils": [
-        "GenomicDataCommons"
-    ],
+    "TCGAutils": [],
     "TCseq": [],
     "TDbasedUFE": [],
     "TDbasedUFEadv": [
@@ -6113,7 +6089,6 @@
         "rhdf5client"
     ],
     "terraTCGAdata": [
-        "GenomicDataCommons",
         "TCGAutils"
     ],
     "TFARM": [],
