@@ -261,7 +261,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "gcrma",
         "genefilter",
         "vsn"
@@ -424,7 +423,6 @@
     "beachmat.hdf5": [
         "HDF5Array"
     ],
-    "beadarray": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -593,9 +591,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG",
         "ROntoTools"
@@ -610,7 +606,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "genefilter",
         "sva",
@@ -875,7 +870,6 @@
         "scater",
         "scuttle"
     ],
-    "CellNOptR": [],
     "CellTrails": [
         "SingleCellExperiment"
     ],
@@ -1102,7 +1096,6 @@
         "vsn",
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "ProtGenerics",
@@ -1140,23 +1133,13 @@
         "flowCore"
     ],
     "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNAnorm": [],
     "CNEr": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -1168,7 +1151,6 @@
         "biovizBase",
         "cn.mops",
         "ensembldb",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -1180,14 +1162,11 @@
         "biovizBase",
         "cn.mops",
         "ensembldb",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
     "CNVMetrics": [],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -1301,8 +1280,7 @@
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "exomeCopy"
+        "VariantAnnotation"
     ],
     "conumee": [
         "DelayedMatrixStats",
@@ -1319,7 +1297,6 @@
         "biovizBase",
         "cn.mops",
         "ensembldb",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -1722,7 +1699,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1855,7 +1831,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -1926,7 +1901,6 @@
         "progeny",
         "quantiseqr"
     ],
-    "easylift": [],
     "easyRNASeq": [
         "ShortRead",
         "genomeIntervals"
@@ -1970,7 +1944,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "EMDomics": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "CNEr",
@@ -2044,9 +2017,7 @@
         "seqPattern"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "csaw",
@@ -2156,7 +2127,6 @@
         "SingleCellExperiment"
     ],
     "ExCluster": [],
-    "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -2776,7 +2746,6 @@
         "ScaledMatrix",
         "SingleCellExperiment"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "AnnotationFilter",
         "CRISPRseek",
@@ -2928,7 +2897,6 @@
     ],
     "idiogram": [],
     "idr2d": [],
-    "IgGeneUsage": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -3309,7 +3277,6 @@
         "ProtGenerics"
     ],
     "MBAmethyl": [],
-    "MBASED": [],
     "MBECS": [
         "biomformat",
         "genefilter",
@@ -3834,7 +3801,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
@@ -4349,8 +4315,7 @@
     ],
     "pairkat": [],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -4643,7 +4608,6 @@
     "ProteoDisco": [
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [
         "genefilter",
         "vsn"
@@ -6095,7 +6059,6 @@
     "TFBSTools": [
         "CNEr"
     ],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -6435,7 +6398,6 @@
     ],
     "widgetTools": [],
     "wiggleplotr": [],
-    "wpm": [],
     "wppi": [
         "OmnipathR"
     ],
@@ -6485,8 +6447,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "gtrellis"
+        "ggbio"
     ],
     "yarn": [
         "DelayedMatrixStats",
