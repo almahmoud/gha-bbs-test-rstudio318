@@ -5804,7 +5804,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "cqn": [],
     "CRImage": [
         "EBImage",
         "aCGH",
@@ -10753,7 +10752,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "cqn",
         "zlibbioc"
     ],
     "gep2pep": [
@@ -13325,7 +13323,6 @@
         "MatrixGenerics",
         "XVector",
         "annotate",
-        "cqn",
         "genefilter",
         "sva",
         "zlibbioc"
@@ -14107,7 +14104,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "MBCB": [],
     "MBECS": [
         "AnnotationDbi",
         "BiocParallel",
@@ -17179,7 +17175,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "ndexr": [],
     "nearBynding": [
         "AnnotationDbi",
         "BiocIO",
@@ -26944,9 +26939,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twoddpcr": [],
     "txcutr": [
         "AnnotationDbi",
