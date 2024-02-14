@@ -1,5 +1,6 @@
 name: Copy GCS packages
 on:
+  workflow_dispatch:
   push:
     paths:
       - lists/write_PACKAGES
