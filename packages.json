@@ -111,7 +111,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "ReportingTools",
         "Rgraphviz",
         "Rhtslib",
@@ -173,7 +172,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "ReportingTools",
         "Rgraphviz",
         "Rhtslib",
@@ -206,7 +204,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -463,8 +460,7 @@
         "mixOmics"
     ],
     "altcdfenvs": [
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "AMARETTO": [
         "AnnotationHub",
@@ -584,7 +580,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -648,7 +643,6 @@
         "rtracklayer"
     ],
     "apComplex": [
-        "RBGL",
         "Rgraphviz"
     ],
     "apeglm": [
@@ -682,7 +676,6 @@
         "HDF5Array",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -824,7 +817,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -861,7 +853,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -938,7 +929,6 @@
         "GOstats",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "annotate",
         "genefilter"
@@ -1473,7 +1463,6 @@
     ],
     "BioCartaImage": [],
     "BiocCheck": [
-        "RBGL",
         "biocViews"
     ],
     "BiocFHIR": [],
@@ -1527,7 +1516,6 @@
     ],
     "BiocParallel": [],
     "BiocPkgTools": [
-        "RBGL",
         "biocViews"
     ],
     "BiocSet": [
@@ -1553,16 +1541,12 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biocViews": [
-        "RBGL"
-    ],
+    "biocViews": [],
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "biomaRt": [],
@@ -1616,9 +1600,7 @@
         "impute",
         "sva"
     ],
-    "BioNet": [
-        "RBGL"
-    ],
+    "BioNet": [],
     "BioNetStat": [
         "BiocParallel",
         "KEGGgraph",
@@ -1703,7 +1685,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "QDNAseq",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -1803,7 +1784,6 @@
         "BiocParallel",
         "CellNOptR",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "annotate",
         "epiNEM",
@@ -1824,7 +1804,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -1880,7 +1859,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -2109,7 +2087,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -2163,7 +2140,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -2225,7 +2201,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -2250,7 +2225,6 @@
         "Heatplus",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "RBGL",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rhtslib",
@@ -2342,7 +2316,6 @@
     "Category": [
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "genefilter"
     ],
@@ -2352,7 +2325,6 @@
         "GOstats",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "RCy3",
         "Rgraphviz",
         "annotate",
@@ -2531,7 +2503,6 @@
         "Category",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "genefilter",
         "splots",
@@ -2580,7 +2551,6 @@
         "sparseMatrixStats"
     ],
     "CellNOptR": [
-        "RBGL",
         "Rgraphviz"
     ],
     "CellScore": [
@@ -2905,7 +2875,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3095,7 +3064,6 @@
         "rtracklayer"
     ],
     "CHRONOS": [
-        "RBGL",
         "biomaRt"
     ],
     "cicero": [
@@ -3110,7 +3078,6 @@
         "Gviz",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3396,22 +3363,18 @@
     ],
     "CNORdt": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNORfeeder": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNORfuzzy": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNORode": [
         "CellNOptR",
-        "RBGL",
         "Rgraphviz"
     ],
     "CNTools": [
@@ -4475,7 +4438,6 @@
     "CytoML": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -4496,7 +4458,6 @@
         "DelayedArray",
         "MatrixGenerics",
         "PeacoQC",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -4516,7 +4477,6 @@
         "DelayedArray",
         "MatrixGenerics",
         "PeacoQC",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -4644,7 +4604,6 @@
         "widgetTools"
     ],
     "dce": [
-        "RBGL",
         "Rgraphviz",
         "epiNEM",
         "graphite",
@@ -4713,7 +4672,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [],
     "decontam": [],
     "decontX": [
         "BiocNeighbors",
@@ -4833,7 +4791,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RBGL",
         "RCy3",
         "Rgraphviz"
     ],
@@ -5025,7 +4982,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -5055,7 +5011,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -5104,7 +5059,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -6068,7 +6022,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -6090,7 +6043,6 @@
         "sparseMatrixStats"
     ],
     "epiNEM": [
-        "RBGL",
         "Rgraphviz",
         "mnem"
     ],
@@ -6136,7 +6088,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6159,7 +6110,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6181,7 +6131,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6202,7 +6151,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6229,7 +6177,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6343,7 +6290,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -6428,7 +6374,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6598,7 +6543,6 @@
     "fedup": [
         "RCy3"
     ],
-    "FELLA": [],
     "fenr": [
         "biomaRt"
     ],
@@ -6631,9 +6575,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "fgga": [
-        "RBGL"
-    ],
+    "fgga": [],
     "FGNet": [],
     "fgsea": [
         "BiocParallel"
@@ -6689,7 +6631,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -6720,7 +6661,6 @@
         "MultiAssayExperiment",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -6820,7 +6760,6 @@
     "flowGate": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -6875,7 +6814,6 @@
     "flowStats": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -6910,7 +6848,6 @@
     "flowVS": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -6926,7 +6863,6 @@
     "flowWorkspace": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -7101,8 +7037,7 @@
         "flowViz"
     ],
     "gatom": [
-        "BioNet",
-        "RBGL"
+        "BioNet"
     ],
     "GBScleanR": [
         "GenomicRanges",
@@ -7226,7 +7161,6 @@
     ],
     "gDRstyle": [
         "BiocCheck",
-        "RBGL",
         "biocViews"
     ],
     "gDRutils": [
@@ -7472,7 +7406,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -7517,7 +7450,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -7601,8 +7533,7 @@
         "rtracklayer"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "BiocParallel",
@@ -7613,9 +7544,7 @@
         "sva"
     ],
     "GEOmetadb": [],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
         "DelayedArray",
@@ -7636,7 +7565,6 @@
         "Category",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "biomaRt",
         "cellHTS2",
@@ -7676,7 +7604,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -7691,7 +7618,6 @@
     "ggcyto": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -7834,7 +7760,6 @@
         "GOstats",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "annotate",
         "genefilter",
@@ -7925,7 +7850,6 @@
         "rtracklayer"
     ],
     "GOSim": [
-        "RBGL",
         "annotate",
         "topGO"
     ],
@@ -7947,7 +7871,6 @@
         "Category",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "annotate",
         "genefilter"
@@ -8080,7 +8003,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8134,7 +8056,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -8263,8 +8184,7 @@
     ],
     "Harshlight": [
         "altcdfenvs",
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "HDF5Array": [
         "DelayedArray",
@@ -8691,7 +8611,6 @@
         "GenomicRanges",
         "IHW",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -8806,7 +8725,6 @@
     "ImmuneSpaceR": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -8839,7 +8757,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "Pigengene",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "Rhdf5lib",
@@ -8945,7 +8862,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8974,7 +8890,6 @@
         "Category",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "genefilter"
     ],
@@ -9065,7 +8980,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -9487,7 +9401,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -9723,7 +9636,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -9735,7 +9647,6 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [],
     "MANOR": [
         "GLAD"
     ],
@@ -9937,7 +9848,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -10098,7 +10008,6 @@
         "GSEABase",
         "MatrixGenerics",
         "MeSHDbi",
-        "RBGL",
         "annotate",
         "genefilter"
     ],
@@ -10208,7 +10117,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -10415,7 +10323,6 @@
         "HDF5Array",
         "MatrixGenerics",
         "OrganismDbi",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -10846,7 +10753,6 @@
         "GenomicRanges",
         "HDF5Array",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "Rhdf5lib",
         "Rhtslib",
@@ -10957,7 +10863,6 @@
         "GSEABase",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "SparseArray",
@@ -10970,7 +10875,6 @@
     ],
     "miRNAmeConverter": [],
     "miRNApath": [],
-    "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
         "BiocParallel",
@@ -11185,7 +11089,6 @@
         "rtracklayer"
     ],
     "monocle": [
-        "RBGL",
         "biocViews"
     ],
     "Moonlight2R": [
@@ -11443,7 +11346,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -11924,7 +11826,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rgraphviz",
         "Rhdf5lib",
         "Rhtslib",
@@ -11972,7 +11873,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringNCTools": [],
     "nanotatoR": [
         "GenomicRanges"
     ],
@@ -12026,7 +11926,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RBGL",
         "RCy3",
         "Rgraphviz"
     ],
@@ -12060,7 +11959,6 @@
         "SummarizedExperiment"
     ],
     "nempi": [
-        "RBGL",
         "Rgraphviz",
         "epiNEM",
         "mnem"
@@ -12144,7 +12042,6 @@
         "GenomicRanges",
         "HDF5Array",
         "MatrixGenerics",
-        "RBGL",
         "RCy3",
         "Rgraphviz",
         "Rhdf5lib",
@@ -12288,7 +12185,6 @@
         "rtracklayer"
     ],
     "occugene": [],
-    "OCplus": [],
     "octad": [
         "AnnotationHub",
         "BiocIO",
@@ -12463,7 +12359,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "ompBAM": [],
     "oncomix": [
         "DelayedArray",
         "GenomicRanges",
@@ -12495,7 +12390,6 @@
     "openCyto": [
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -12612,7 +12506,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -12879,7 +12772,6 @@
         "GSEABase",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "SparseArray",
@@ -12938,7 +12830,6 @@
         "ComplexHeatmap",
         "DelayedArray",
         "MatrixGenerics",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
@@ -13046,7 +12937,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "S4Arrays",
         "SingleCellExperiment",
         "SparseArray",
@@ -13080,7 +12970,6 @@
         "GSEABase",
         "Heatplus",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "biomaRt",
         "genefilter"
@@ -13227,7 +13116,6 @@
         "GOstats",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "annotate",
         "genefilter"
@@ -13838,7 +13726,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "BiocParallel",
         "DelayedArray",
@@ -13936,7 +13823,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -14113,7 +13999,6 @@
         "SummarizedExperiment",
         "dada2"
     ],
-    "RBGL": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RBM": [],
@@ -14315,7 +14200,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -14522,7 +14406,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -14661,7 +14544,6 @@
         "rtracklayer"
     ],
     "rgoslin": [],
-    "RGraph2js": [],
     "Rgraphviz": [],
     "rGREAT": [
         "BiocIO",
@@ -14778,7 +14660,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -14878,7 +14759,6 @@
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
-        "RBGL",
         "Rhdf5lib",
         "S4Arrays",
         "SparseArray",
@@ -15041,7 +14921,6 @@
         "Category",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -16163,7 +16042,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -16207,7 +16085,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "MeSHDbi",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "S4Arrays",
@@ -16252,7 +16129,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -16382,7 +16258,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SELEX": [],
     "SemDist": [
         "annotate"
     ],
@@ -16548,7 +16423,6 @@
         "GSEABase",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "SparseArray",
@@ -16668,7 +16542,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -17077,7 +16950,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "MatrixGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -17161,7 +17033,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -17300,8 +17171,7 @@
         "dir.expiry"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "DelayedArray",
@@ -17349,7 +17219,6 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
         "RBioFormats"
     ],
     "spatzie": [
@@ -17442,9 +17311,7 @@
         "annotate",
         "genefilter"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spikeLI": [],
     "spiky": [
         "BSgenome",
@@ -17495,7 +17362,6 @@
         "SummarizedExperiment",
         "annotate",
         "genefilter",
-        "ompBAM",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17610,7 +17476,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "SRAdb": [],
     "srnadiff": [
         "AnnotationFilter",
         "BSgenome",
@@ -17694,7 +17559,6 @@
         "Category",
         "GSEABase",
         "MatrixGenerics",
-        "RBGL",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -17703,8 +17567,7 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
-        "miRNAtap"
+        "graphite"
     ],
     "STATegRa": [],
     "Statial": [
@@ -17751,9 +17614,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [
-        "RBGL"
-    ],
+    "Streamer": [],
     "STRINGdb": [],
     "struct": [
         "DelayedArray",
@@ -18456,7 +18317,6 @@
         "fgsea",
         "piano"
     ],
-    "TPP": [],
     "TPP2D": [
         "BiocParallel"
     ],
@@ -18883,7 +18743,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -18922,7 +18781,6 @@
     ],
     "updateObject": [],
     "uSORT": [
-        "RBGL",
         "biocViews",
         "monocle"
     ],
@@ -19026,7 +18884,6 @@
         "HDF5Array",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -19228,7 +19085,6 @@
         "InteractionSet",
         "MatrixGenerics",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -19442,7 +19298,6 @@
         "MatrixGenerics",
         "OrganismDbi",
         "ProtGenerics",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
