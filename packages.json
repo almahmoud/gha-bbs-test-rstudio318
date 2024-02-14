@@ -94,8 +94,7 @@
     "AHMassBank": [
         "AnnotationHubData",
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "airpart": [
         "BiocSingular",
@@ -235,8 +234,7 @@
     "AnnotationFilter": [],
     "AnnotationHubData": [
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "annotatr": [
         "regioneR"
@@ -356,7 +354,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "awst": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -416,7 +413,6 @@
     "batchelor": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "scuttle"
@@ -524,9 +520,7 @@
         "qvalue"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "biocGraph": [
         "geneplotter"
     ],
@@ -544,9 +538,7 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSingular": [
         "ScaledMatrix"
     ],
@@ -555,7 +547,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biocViews": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
@@ -1083,7 +1074,6 @@
     "ChromSCape": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -1103,7 +1093,6 @@
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
-        "biocViews",
         "biovizBase",
         "ensembldb",
         "monocle"
@@ -1676,7 +1665,6 @@
     "dce": [
         "epiNEM"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -1685,7 +1673,6 @@
         "flowViz"
     ],
     "dearseq": [],
-    "debCAM": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -2238,8 +2225,7 @@
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "ExperimentSubset": [
         "SingleCellExperiment",
@@ -2601,8 +2587,7 @@
         "piano"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "gDRutils": [
         "MultiAssayExperiment"
@@ -2930,7 +2915,6 @@
         "ComplexHeatmap",
         "MultiAssayExperiment"
     ],
-    "HERON": [],
     "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
@@ -3222,7 +3206,6 @@
     "iterativeBMAsurv": [],
     "IVAS": [],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "AnnotationFilter",
         "ProtGenerics",
@@ -3309,7 +3292,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment"
@@ -3403,7 +3385,6 @@
         "InteractionSet",
         "plotgardener"
     ],
-    "marr": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -3654,7 +3635,6 @@
         "ExperimentHubData",
         "HDF5Array",
         "OrganismDbi",
-        "biocViews",
         "bumphunter",
         "genefilter",
         "impute",
@@ -3933,9 +3913,7 @@
         "ComplexHeatmap",
         "TFBSTools"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "ComplexHeatmap",
         "DOSE",
@@ -4185,7 +4163,6 @@
     "mumosa": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -4611,7 +4588,6 @@
         "scater",
         "scuttle"
     ],
-    "pengls": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
@@ -4631,7 +4607,6 @@
     ],
     "phemd": [
         "SingleCellExperiment",
-        "biocViews",
         "destiny",
         "monocle"
     ],
@@ -4972,7 +4947,6 @@
         "ensembldb",
         "gdsfmt"
     ],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
@@ -5132,10 +5106,7 @@
         "genefilter",
         "ggbio"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
-    "ResidualMatrix": [],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -5217,7 +5188,6 @@
         "ProtGenerics",
         "QFeatures",
         "Spectra",
-        "biocViews",
         "impute",
         "mzID",
         "mzR",
@@ -5339,7 +5309,6 @@
         "impute",
         "qvalue"
     ],
-    "roar": [],
     "ROCpAI": [],
     "RolDE": [
         "qvalue"
@@ -5560,7 +5529,6 @@
     "scMerge": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -5752,7 +5720,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -5813,9 +5780,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "SigFuge": [],
     "siggenes": [],
     "sights": [
@@ -5913,7 +5878,6 @@
         "HDF5Array",
         "MAST",
         "ProtGenerics",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SingleR",
@@ -6213,7 +6177,6 @@
     "subSeq": [
         "qvalue"
     ],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
     "surfaltr": [
@@ -6327,7 +6290,6 @@
         "restfulSE",
         "rhdf5client"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "MultiAssayExperiment",
@@ -6560,7 +6522,6 @@
     ],
     "universalmotif": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
