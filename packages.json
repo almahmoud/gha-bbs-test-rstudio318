@@ -5671,7 +5671,6 @@
         "biomaRt",
         "genomeIntervals"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "BiocParallel",
         "DESeq2",
@@ -13742,7 +13741,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
         "GenomicRanges",
@@ -13750,8 +13748,7 @@
         "biomaRt"
     ],
     "qckitfastq": [
-        "RSeqAn",
-        "seqTools"
+        "RSeqAn"
     ],
     "qcmetrics": [],
     "QDNAseq": [
@@ -16496,7 +16493,6 @@
         "SNPRelate",
         "gdsfmt"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "GenomicRanges",
         "SeqArray",
