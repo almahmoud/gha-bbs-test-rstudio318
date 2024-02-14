@@ -436,7 +436,6 @@
         "MultiAssayExperiment"
     ],
     "awst": [],
-    "BaalChIP": [],
     "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -562,7 +561,6 @@
     "BEAT": [
         "ShortRead"
     ],
-    "BEclear": [],
     "beer": [
         "PhIPData"
     ],
@@ -1714,7 +1712,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -2746,7 +2743,6 @@
     "fedup": [
         "RCy3"
     ],
-    "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -2845,7 +2841,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -3544,7 +3539,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "HilbertCurve": [],
     "HiLDA": [],
     "hipathia": [
         "MultiAssayExperiment"
@@ -3902,7 +3896,6 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -3938,7 +3931,6 @@
         "vsn",
         "xcms"
     ],
-    "loci2path": [],
     "logicFS": [],
     "LOLA": [],
     "LoomExperiment": [
@@ -4227,7 +4219,6 @@
         "MultiAssayExperiment",
         "struct"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationFilter",
         "ComplexHeatmap",
@@ -5320,7 +5311,6 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oposSOM": [],
     "oppar": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -6104,7 +6094,6 @@
         "genefilter",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -6747,7 +6736,6 @@
         "SingleCellExperiment",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationFilter",
         "BiocNeighbors",
@@ -6844,7 +6832,6 @@
         "DESeq2"
     ],
     "seqPattern": [],
-    "seqsetvis": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -7457,7 +7444,6 @@
         "rhdf5filters"
     ],
     "TAPseq": [],
-    "target": [],
     "TargetDecoy": [
         "ProtGenerics",
         "Rhdf5lib",
