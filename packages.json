@@ -432,7 +432,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationFilter",
         "BSgenome",
@@ -570,7 +569,6 @@
         "genefilter"
     ],
     "annotate": [],
-    "AnnotationDbi": [],
     "AnnotationFilter": [
         "GenomicRanges"
     ],
@@ -1651,7 +1649,6 @@
         "SummarizedExperiment",
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "BiocNeighbors",
         "BiocParallel",
@@ -3618,7 +3615,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogena": [],
     "cogeqc": [],
     "Cogito": [
         "BiocIO",
@@ -4695,7 +4691,6 @@
     "dcGSA": [
         "BiocParallel"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -7466,7 +7461,6 @@
         "BiocParallel",
         "GenomicRanges"
     ],
-    "GenomeInfoDb": [],
     "genomeIntervals": [
         "GenomicRanges"
     ],
@@ -9395,7 +9389,6 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "KEGGREST": [],
     "KinSwingR": [
         "BiocParallel"
     ],
@@ -12294,7 +12287,6 @@
         "MatrixGenerics",
         "S4Arrays",
         "ScaledMatrix",
-        "SharedObject",
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
@@ -12934,7 +12926,6 @@
         "qvalue"
     ],
     "panp": [],
-    "PANR": [],
     "PanViz": [],
     "pareg": [
         "BiocParallel",
@@ -15456,7 +15447,6 @@
         "SummarizedExperiment",
         "ropls"
     ],
-    "rqubic": [],
     "rRDP": [],
     "RRHO": [],
     "rrvgo": [
@@ -15581,7 +15571,6 @@
     "RUVcorr": [
         "BiocParallel"
     ],
-    "RUVnormalize": [],
     "RUVSeq": [
         "BiocIO",
         "BiocParallel",
@@ -16729,7 +16718,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "BiocIO",
         "BiocParallel",
@@ -18586,7 +18574,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "tomoseqr": [],
     "TOP": [
         "BiocParallel",
         "ClassifyR",
