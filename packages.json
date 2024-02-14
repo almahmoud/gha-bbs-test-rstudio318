@@ -2025,7 +2025,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "beadarraySNP": [],
     "BeadDataPackR": [],
     "BEARscc": [
         "DelayedArray",
@@ -3207,7 +3206,6 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [
         "Biostrings",
         "DelayedArray",
@@ -8043,7 +8041,6 @@
         "IRanges",
         "S4Vectors"
     ],
-    "discordant": [],
     "DiscoRhythm": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -9841,7 +9838,6 @@
         "zlibbioc"
     ],
     "fabia": [],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "BiocIO",
@@ -11075,7 +11071,6 @@
         "annotate",
         "zlibbioc"
     ],
-    "geneRecommender": [],
     "GeneRegionScan": [
         "Biostrings",
         "GenomeInfoDb",
@@ -14180,7 +14175,6 @@
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
-    "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocIO",
@@ -15101,7 +15095,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "Biostrings",
         "GenomeInfoDb",
@@ -15655,7 +15648,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "struct",
         "zlibbioc"
     ],
@@ -16335,7 +16327,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "mfa": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets",
@@ -18851,9 +18842,7 @@
         "vsn",
         "zlibbioc"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "BiocParallel",
@@ -21105,7 +21094,6 @@
         "zlibbioc"
     ],
     "ProtGenerics": [],
-    "PSEA": [],
     "psichomics": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -22034,7 +22022,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "ReadqPCR": [],
     "REBET": [
         "ASSET"
     ],
@@ -22746,7 +22733,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "AnnotationDbi",
         "BiocIO",
@@ -23085,7 +23071,6 @@
         "topGO",
         "zlibbioc"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "BiocIO",
         "BiocParallel",
@@ -23562,7 +23547,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "rols": [],
     "ROntoTools": [
         "Biostrings",
         "GenomeInfoDb",
@@ -25910,7 +25894,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "sigsquared": [],
     "SIM": [
         "AnnotationDbi",
         "Biostrings",
@@ -26923,7 +26906,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "spkTools": [],
     "splatter": [
         "BiocParallel",
         "DelayedArray",
@@ -27401,7 +27383,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "zlibbioc"
     ],
     "Structstrings": [
@@ -27423,7 +27404,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "struct",
         "zlibbioc"
     ],
