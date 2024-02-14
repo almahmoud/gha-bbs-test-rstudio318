@@ -1955,7 +1955,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -1974,7 +1973,6 @@
         "VariantAnnotation"
     ],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
@@ -2161,7 +2159,6 @@
     ],
     "divergence": [],
     "dks": [],
-    "DMCFB": [],
     "DMRcaller": [],
     "DMRcate": [
         "AnnotationFilter",
@@ -2585,7 +2582,6 @@
         "ShortRead"
     ],
     "fastreeR": [],
-    "fastseg": [],
     "fCCAC": [
         "ComplexHeatmap",
         "genomation",
@@ -3058,7 +3054,6 @@
     "GenomicSuperSignature": [
         "ComplexHeatmap"
     ],
-    "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -3195,7 +3190,6 @@
         "fgsea",
         "qvalue"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase",
@@ -3392,7 +3386,6 @@
         "hiAnnotator"
     ],
     "HIREewas": [],
-    "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
@@ -3791,7 +3784,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -3863,7 +3855,6 @@
         "rhdf5filters"
     ],
     "marr": [],
-    "martini": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -4102,7 +4093,6 @@
     ],
     "methimpute": [],
     "methInheritSim": [
-        "fastseg",
         "methylKit",
         "qvalue"
     ],
@@ -4182,12 +4172,10 @@
         "sparseMatrixStats"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit",
         "qvalue"
     ],
     "methylKit": [
-        "fastseg",
         "qvalue"
     ],
     "MethylMix": [
@@ -5020,9 +5008,7 @@
         "widgetTools"
     ],
     "OmaDB": [],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "OmicCircos": [],
     "omicplotR": [
         "ALDEx2"
@@ -5031,7 +5017,6 @@
         "MultiDataSet",
         "genefilter",
         "impute",
-        "made4",
         "omicade4",
         "qvalue",
         "rexposome",
@@ -5053,8 +5038,6 @@
     "OmnipathR": [],
     "oncomix": [],
     "oncoscanR": [],
-    "OncoScore": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [],
     "openCyto": [
@@ -5195,7 +5178,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -5279,7 +5261,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -6416,7 +6397,6 @@
         "ScaledMatrix",
         "SingleCellExperiment"
     ],
-    "scShapes": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -6854,7 +6834,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -6986,7 +6965,6 @@
         "rhdf5filters"
     ],
     "SQUADD": [],
-    "sRACIPE": [],
     "srnadiff": [
         "AnnotationFilter",
         "Gviz",
