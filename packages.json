@@ -959,7 +959,6 @@
         "zlibbioc"
     ],
     "AnVILBilling": [],
-    "AnVILPublish": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
@@ -1445,7 +1444,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "zlibbioc"
     ],
     "AWFisher": [],
@@ -1506,7 +1504,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BAGS": [],
     "ballgown": [
         "AnnotationDbi",
         "BiocIO",
@@ -1600,7 +1597,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -2130,7 +2126,6 @@
         "zlibbioc"
     ],
     "bioassayR": [],
-    "biobroom": [],
     "bioCancer": [
         "AnnotationDbi",
         "BiocIO",
@@ -2138,7 +2133,6 @@
         "Biostrings",
         "DOSE",
         "DelayedArray",
-        "EBarrays",
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -2165,7 +2159,6 @@
         "enrichplot",
         "fgsea",
         "geNetClassifier",
-        "ggtree",
         "graphite",
         "qvalue",
         "rtracklayer",
@@ -2999,7 +2992,6 @@
     "BumpyMatrix": [
         "IRanges"
     ],
-    "BUS": [],
     "BUScorrect": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -3250,7 +3242,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -3262,7 +3253,6 @@
         "Biostrings",
         "Category",
         "DelayedArray",
-        "EBarrays",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -3316,7 +3306,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "ggtree",
         "rtracklayer",
         "snpStats",
         "zlibbioc"
@@ -3340,7 +3329,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "EBarrays",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3515,7 +3503,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graphite",
         "qvalue",
         "zlibbioc"
@@ -3789,7 +3776,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "impute",
         "qvalue",
         "zlibbioc"
@@ -3863,7 +3849,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "snpStats",
         "zlibbioc"
@@ -4270,7 +4255,6 @@
         "biomaRt",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -4731,7 +4715,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -4752,7 +4735,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -4797,7 +4779,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -5173,7 +5154,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "Cogito": [
@@ -5437,7 +5417,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "pcaMethods",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -5714,7 +5693,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -6623,12 +6601,10 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "impute",
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "tkWidgets",
         "vsn",
@@ -6702,7 +6678,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "pathview",
         "qvalue",
         "sva",
@@ -6740,9 +6715,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "DeconRNASeq": [
-        "pcaMethods"
-    ],
+    "DeconRNASeq": [],
     "decontam": [],
     "decontX": [
         "BiocNeighbors",
@@ -7092,7 +7065,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -7247,7 +7219,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "zlibbioc"
     ],
     "DEsubs": [
@@ -7366,7 +7337,6 @@
         "XVector",
         "impute",
         "multtest",
-        "pcaMethods",
         "zlibbioc"
     ],
     "diffcyt": [
@@ -8053,10 +8023,7 @@
         "genomeIntervals",
         "zlibbioc"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBImage": [],
     "EBSEA": [
         "BiocParallel",
@@ -8327,7 +8294,6 @@
         "KEGGREST",
         "XVector",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -8359,7 +8325,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "qvalue",
@@ -8379,7 +8344,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -8488,7 +8452,6 @@
         "enrichplot",
         "fgsea",
         "genomation",
-        "ggtree",
         "impute",
         "qvalue",
         "rtracklayer",
@@ -8878,7 +8841,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "qvalue",
@@ -9013,7 +8975,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
         "orthogene",
         "zlibbioc"
     ],
@@ -9208,7 +9169,6 @@
         "wiggleplotr",
         "zlibbioc"
     ],
-    "FamAgg": [],
     "famat": [
         "AnnotationDbi",
         "BiocParallel",
@@ -9222,7 +9182,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rWikiPathways",
         "zlibbioc"
@@ -9495,7 +9454,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -9789,7 +9747,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9936,9 +9893,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "gaga": [
-        "EBarrays"
-    ],
+    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
@@ -10079,7 +10034,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "pathview",
         "qvalue",
         "zlibbioc"
@@ -10383,9 +10337,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "geNetClassifier": [
-        "EBarrays"
-    ],
+    "geNetClassifier": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
@@ -10940,7 +10892,6 @@
         "IRanges",
         "R4RNA",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "GGPA": [],
@@ -10971,13 +10922,8 @@
         "XVector",
         "zlibbioc"
     ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "BiocParallel",
@@ -11319,7 +11265,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "goProfiles",
         "qvalue",
         "zlibbioc"
@@ -12263,7 +12208,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -12653,7 +12597,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graphite",
         "impute",
         "minfi",
@@ -12966,7 +12909,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -13404,7 +13346,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "lapmix": [],
     "LEA": [],
     "lefser": [
         "DelayedArray",
@@ -13503,7 +13444,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "lionessR": [
@@ -13533,7 +13473,6 @@
         "XVector",
         "fgsea",
         "impute",
-        "pcaMethods",
         "ropls",
         "zlibbioc"
     ],
@@ -13601,7 +13540,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -13706,7 +13644,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "ggtree",
         "msa",
         "zlibbioc"
     ],
@@ -13884,7 +13821,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "pathview",
         "qvalue",
         "zlibbioc"
@@ -13927,7 +13863,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "zlibbioc"
     ],
     "MAIT": [
@@ -13961,7 +13896,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -14125,7 +14059,6 @@
         "affy",
         "affyio",
         "impute",
-        "pcaMethods",
         "proDA",
         "vsn",
         "zlibbioc"
@@ -14499,7 +14432,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -14674,7 +14606,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -14706,7 +14637,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -15005,7 +14935,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -15309,7 +15238,6 @@
         "beachmat",
         "bluster",
         "decontam",
-        "ggtree",
         "mia",
         "scater",
         "scuttle",
@@ -15395,7 +15323,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "ggtree",
         "metagenomeSeq",
         "mia",
         "multtest",
@@ -15420,7 +15347,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -15435,7 +15361,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
         "ggtreeExtra",
         "zlibbioc"
     ],
@@ -15936,7 +15861,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -16084,7 +16008,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -16111,7 +16034,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -16490,7 +16412,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -16507,7 +16428,6 @@
         "msmsEDA",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn",
         "zlibbioc"
@@ -16523,7 +16443,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -16547,7 +16466,6 @@
         "msmsTests",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn",
         "zlibbioc"
@@ -16568,7 +16486,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "pcaMethods",
         "sva",
         "zlibbioc"
     ],
@@ -16656,7 +16573,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn",
         "zlibbioc"
@@ -16674,7 +16590,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn",
         "zlibbioc"
@@ -16711,7 +16626,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "Mulcom": [],
     "MultiAssayExperiment": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -16736,7 +16650,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "ropls",
         "zlibbioc"
     ],
@@ -16863,7 +16776,6 @@
         "widgetTools",
         "zlibbioc"
     ],
-    "multiscan": [],
     "multiWGCNA": [
         "AnnotationDbi",
         "Biostrings",
@@ -17250,7 +17162,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -17771,7 +17682,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "omada": [],
     "OmaDB": [
         "AnnotationDbi",
         "Biostrings",
@@ -17838,7 +17748,6 @@
         "impute",
         "made4",
         "omicade4",
-        "pcaMethods",
         "qvalue",
         "rexposome",
         "sva",
@@ -18144,7 +18053,6 @@
         "S4Arrays",
         "SparseArray",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "orthos": [
@@ -18214,7 +18122,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "pcaMethods",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -18417,7 +18324,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "multtest",
         "qvalue",
         "zlibbioc"
@@ -18555,7 +18461,6 @@
         "topGO",
         "zlibbioc"
     ],
-    "pcaMethods": [],
     "PCAN": [
         "BiocParallel"
     ],
@@ -18649,7 +18554,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -18788,7 +18692,6 @@
         "biocViews",
         "destiny",
         "monocle",
-        "pcaMethods",
         "zlibbioc"
     ],
     "phenomis": [
@@ -18837,9 +18740,7 @@
         "zlibbioc"
     ],
     "PhenStat": [],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhIPData": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -18862,7 +18763,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "zlibbioc"
     ],
     "PhyloProfile": [
@@ -18937,7 +18837,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graphite",
         "impute",
         "qvalue",
@@ -19131,7 +19030,6 @@
         "SummarizedExperiment",
         "XVector",
         "impute",
-        "pcaMethods",
         "zlibbioc"
     ],
     "podkat": [
@@ -19369,7 +19267,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -19470,7 +19367,6 @@
         "chipseq",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rGREAT",
         "rtracklayer",
@@ -19508,7 +19404,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -19540,7 +19435,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -19592,12 +19486,10 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "impute",
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "tkWidgets",
         "vsn",
@@ -19731,7 +19623,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters",
         "vsn",
@@ -19939,7 +19830,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -20504,7 +20394,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graphite",
         "qvalue",
         "zlibbioc"
@@ -21050,8 +20939,7 @@
         "dir.expiry"
     ],
     "rexposome": [
-        "impute",
-        "pcaMethods"
+        "impute"
     ],
     "rfaRm": [
         "Biostrings",
@@ -21461,7 +21349,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -21558,7 +21445,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -22106,7 +21992,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "RTCA": [],
     "RTCGAToolbox": [
         "AnnotationDbi",
         "BiocIO",
@@ -22609,9 +22494,7 @@
         "zlibbioc"
     ],
     "SCBN": [],
-    "scBubbletree": [
-        "ggtree"
-    ],
+    "scBubbletree": [],
     "scCB2": [
         "BiocParallel",
         "DelayedArray",
@@ -22762,8 +22645,7 @@
         "zlibbioc"
     ],
     "scde": [
-        "BiocParallel",
-        "pcaMethods"
+        "BiocParallel"
     ],
     "scDesign3": [
         "BiocParallel",
@@ -23333,7 +23215,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graphite",
         "meshr",
         "qvalue",
@@ -23500,7 +23381,6 @@
         "biomaRt",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -23614,7 +23494,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "heatmaps",
         "qvalue",
         "rtracklayer",
@@ -24045,7 +23924,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rhdf5",
         "rhdf5filters",
@@ -24358,7 +24236,6 @@
         "dir.expiry",
         "ensembldb",
         "genefilter",
-        "ggtree",
         "metapod",
         "multtest",
         "rhdf5",
@@ -24477,9 +24354,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "AnnotationDbi",
         "BiocIO",
@@ -24699,7 +24574,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "pcaMethods",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -25795,7 +25669,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn",
         "zlibbioc"
@@ -25867,7 +25740,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "tadar": [
@@ -25918,9 +25790,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TAPseq": [
         "AnnotationDbi",
         "BSgenome",
@@ -26089,7 +25959,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -26388,7 +26257,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rWikiPathways",
         "tkWidgets",
@@ -26575,7 +26443,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -26607,9 +26474,7 @@
         "piano",
         "zlibbioc"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "TPP2D": [
         "BiocParallel"
     ],
@@ -26848,7 +26713,6 @@
         "cytolib",
         "diffcyt",
         "flowCore",
-        "ggtree",
         "zlibbioc"
     ],
     "TreeSummarizedExperiment": [
@@ -27239,7 +27103,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
@@ -27907,7 +27770,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "zlibbioc"
     ],
@@ -28036,7 +27898,6 @@
         "ensembldb",
         "ggbio",
         "gtrellis",
-        "pcaMethods",
         "rtracklayer",
         "zlibbioc"
     ],
