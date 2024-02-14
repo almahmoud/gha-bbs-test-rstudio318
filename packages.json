@@ -11,7 +11,6 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "genefilter",
@@ -28,7 +27,6 @@
         "S4Vectors",
         "XVector",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "genefilter",
@@ -36,11 +34,9 @@
         "zlibbioc"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -198,7 +194,6 @@
         "affyio",
         "zlibbioc"
     ],
-    "affycomp": [],
     "affyContam": [
         "affy",
         "affyio",
@@ -407,7 +402,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocParallel",
@@ -1034,7 +1028,6 @@
     ],
     "AnVILBilling": [],
     "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
@@ -2327,7 +2320,6 @@
         "zlibbioc"
     ],
     "BioCartaImage": [],
-    "BiocBook": [],
     "BiocCheck": [
         "RBGL",
         "biocViews",
@@ -5856,7 +5848,6 @@
         "zlibbioc"
     ],
     "consensusOV": [
-        "AIMS",
         "AnnotationDbi",
         "BiocParallel",
         "BiocSingular",
@@ -11000,7 +10991,6 @@
         "marray",
         "zlibbioc"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
@@ -11015,7 +11005,6 @@
         "zlibbioc"
     ],
     "genefu": [
-        "AIMS",
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
@@ -12211,7 +12200,6 @@
         "zlibbioc"
     ],
     "GPA": [],
-    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -12747,8 +12735,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "HELP": [],
-    "HEM": [],
     "hermes": [
         "AnnotationDbi",
         "BiocParallel",
@@ -12983,7 +12969,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -14397,7 +14382,6 @@
         "zlibbioc"
     ],
     "lapmix": [],
-    "ldblock": [],
     "LEA": [],
     "lefser": [
         "DelayedArray",
@@ -14648,7 +14632,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -15891,7 +15874,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -16772,7 +16754,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -19932,7 +19913,6 @@
     ],
     "pcxn": [],
     "PDATK": [
-        "AIMS",
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
@@ -21896,7 +21876,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "rbsurv": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -25821,7 +25800,6 @@
         "zlibbioc"
     ],
     "signifinder": [
-        "AIMS",
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocIO",
