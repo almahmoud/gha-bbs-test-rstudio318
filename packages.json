@@ -12356,7 +12356,6 @@
         "SummarizedExperiment",
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "BiocParallel",
@@ -13611,7 +13610,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "PROcess": [],
     "procoil": [
         "kebabs"
     ],
