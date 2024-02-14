@@ -1,0 +1,5 @@
+classes:
+- name: local-storage
+  hostDir: /mnt/disks
+  volumeMode: Block
+  storageClass: true

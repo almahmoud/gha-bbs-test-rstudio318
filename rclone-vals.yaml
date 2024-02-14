@@ -1,0 +1,3 @@
+params:
+  remote: "google cloud storage"
+  remotePath: "/bioconductor-packages/3.18/container-binaries/bioconductor_docker/src/contrib"
