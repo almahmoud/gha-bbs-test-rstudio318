@@ -30,12 +30,10 @@
     ],
     "ADImpute": [],
     "adSplit": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
         "GSEABase",
-        "Glimma",
         "ReportingTools",
         "biovizBase",
         "gcrma",
@@ -61,7 +59,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -200,9 +197,7 @@
     ],
     "ASAFE": [],
     "ASEB": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "Gviz",
         "biovizBase"
@@ -310,7 +305,6 @@
     "benchdamic": [
         "ANCOMBC",
         "MAST",
-        "Maaslin2",
         "biomformat",
         "dearseq",
         "genefilter",
@@ -396,12 +390,8 @@
         "impute",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
-    "biosigner": [
-        "ropls"
-    ],
+    "BioNetStat": [],
+    "biosigner": [],
     "BioTIP": [
         "metapod",
         "scran"
@@ -792,7 +782,6 @@
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -1142,7 +1131,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "pathview",
         "sva"
     ],
     "decompTumor2Sig": [],
@@ -1219,7 +1207,6 @@
     ],
     "destiny": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -1304,7 +1291,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "SPIA",
-        "pathview",
         "zenith"
     ],
     "DriverNet": [],
@@ -1346,8 +1332,7 @@
         "HDF5Array",
         "PADOG",
         "gage",
-        "globaltest",
-        "pathview"
+        "globaltest"
     ],
     "ELMER": [
         "ComplexHeatmap",
@@ -1373,8 +1358,7 @@
     ],
     "EnrichmentBrowser": [
         "GSEABase",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "enrichplot": [
         "DOSE",
@@ -1740,8 +1724,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDNAx": [
         "GenomicFiles"
@@ -1889,7 +1872,6 @@
     ],
     "GLAD": [],
     "GladiaTOX": [],
-    "Glimma": [],
     "glmGamPoi": [
         "HDF5Array"
     ],
@@ -1944,8 +1926,7 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "GSEABase",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "gsean": [
         "PPInfer",
@@ -2239,8 +2220,7 @@
     "lineagespot": [],
     "LinkHD": [],
     "lipidr": [
-        "impute",
-        "ropls"
+        "impute"
     ],
     "LiquidAssociation": [],
     "lisaClust": [
@@ -2280,9 +2260,7 @@
         "msa"
     ],
     "m6Aboost": [],
-    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
         "impute"
     ],
     "MACSQuantifyR": [],
@@ -2306,8 +2284,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [],
     "MAIT": [
@@ -2370,7 +2347,6 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -2641,9 +2617,7 @@
     ],
     "MLSeq": [],
     "MMDiff2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
@@ -2828,9 +2802,7 @@
     ],
     "MSstatsTMT": [],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multiClust": [],
     "multicrispr": [
         "CRISPRseek",
@@ -2842,7 +2814,6 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "ComplexHeatmap",
         "DynDoc",
@@ -3043,7 +3014,6 @@
     ],
     "OPWeight": [],
     "ORFhunteR": [],
-    "ORFik": [],
     "Organism.dplyr": [],
     "orthos": [
         "HDF5Array",
@@ -3103,7 +3073,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -3152,9 +3121,7 @@
         "destiny",
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -3321,7 +3288,6 @@
         "mzR",
         "vsn"
     ],
-    "puma": [],
     "PureCN": [],
     "pvac": [],
     "pvca": [
@@ -3537,9 +3503,7 @@
     "rgoslin": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "biovizBase",
@@ -3647,7 +3611,6 @@
         "impute"
     ],
     "RolDE": [],
-    "ropls": [],
     "RPA": [
         "biomformat",
         "phyloseq"
@@ -3658,9 +3621,7 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RRHO": [],
     "rrvgo": [
         "GOSemSim"
@@ -3686,9 +3647,7 @@
     ],
     "sampleClassifier": [],
     "SARC": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SC3": [],
     "SCAN.UPC": [
         "genefilter",
@@ -4075,7 +4034,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
@@ -4156,7 +4114,6 @@
         "splots",
         "vsn"
     ],
-    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
@@ -4249,9 +4206,7 @@
     "TFBSTools": [
         "CNEr"
     ],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [
         "GSEABase"
     ],
@@ -4482,7 +4437,6 @@
         "mzR",
         "vsn"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter",
@@ -4522,8 +4476,7 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "zinbwave": [
         "genefilter"
