@@ -50,17 +50,9 @@
         "genefilter"
     ],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
-    "alabaster.vcf": [],
+    "alabaster.spatial": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -1196,14 +1188,7 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEEde": [],
-    "iSEEhex": [],
-    "iSEEhub": [],
-    "iSEEindex": [],
-    "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -1211,7 +1196,6 @@
         "sva"
     ],
     "ISoLDE": [],
-    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
