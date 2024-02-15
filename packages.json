@@ -236,7 +236,6 @@
         "metapod",
         "scran"
     ],
-    "BBCAnalyzer": [],
     "BCRANK": [],
     "beachmat.hdf5": [],
     "benchdamic": [
@@ -559,7 +558,6 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [],
     "cisPath": [],
     "CiteFuse": [
         "metapod",
@@ -707,7 +705,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "cpvSNP": [],
     "CRImage": [
         "aCGH"
     ],
@@ -757,7 +754,6 @@
         "Gviz"
     ],
     "CuratedAtlasQueryR": [],
-    "customProDB": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -991,7 +987,6 @@
         "annotatr",
         "bsseq"
     ],
-    "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -1075,7 +1070,6 @@
         "RCy3",
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -1566,7 +1560,6 @@
         "hypergraph"
     ],
     "Heatplus": [],
-    "HelloRanges": [],
     "hermes": [
         "ComplexHeatmap"
     ],
@@ -1618,7 +1611,6 @@
         "siggenes"
     ],
     "iClusterPlus": [],
-    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1852,7 +1844,6 @@
     ],
     "MassArray": [],
     "MassSpecWavelet": [],
-    "mastR": [],
     "MatrixQCvis": [
         "ComplexHeatmap",
         "impute",
@@ -2272,7 +2263,6 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -2356,9 +2346,7 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2470,13 +2458,11 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [],
     "phenoTest": [
         "Category",
         "Heatplus",
         "genefilter"
     ],
-    "PhyloProfile": [],
     "Pi": [],
     "piano": [],
     "pickgene": [],
@@ -2589,7 +2575,6 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -2858,10 +2843,7 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "RUVSeq": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -3352,8 +3334,7 @@
     "TSCAN": [],
     "ttgsea": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
@@ -3469,6 +3450,5 @@
     ],
     "zinbwave": [
         "genefilter"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
