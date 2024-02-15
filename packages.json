@@ -316,7 +316,6 @@
         "CGHcall",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq",
         "impute"
     ],
@@ -347,8 +346,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "BRAIN": [],
     "brainflowprobes": [
@@ -356,7 +354,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [],
     "CAFE": [
         "ggbio"
@@ -516,7 +513,6 @@
     "ChAMP": [
         "DMRcate",
         "Gviz",
-        "bsseq",
         "genefilter",
         "impute",
         "lumi",
@@ -528,7 +524,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz"
     ],
@@ -620,8 +615,7 @@
     "CNVrd2": [],
     "COCOA": [
         "ComplexHeatmap",
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "coGPS": [],
     "COHCAP": [],
@@ -749,7 +743,6 @@
         "impute"
     ],
     "cTRAP": [],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -800,7 +793,6 @@
     "cytolib": [
         "RProtoBufLib"
     ],
-    "cytomapper": [],
     "cytoMEM": [
         "RProtoBufLib",
         "cytolib",
@@ -840,9 +832,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "TFBSTools",
         "UniProt.ws",
@@ -910,7 +900,6 @@
     "DelayedTensor": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "genefilter",
         "sva"
     ],
@@ -933,7 +922,6 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -976,7 +964,6 @@
     "dks": [],
     "DMRcate": [
         "Gviz",
-        "bsseq",
         "genefilter",
         "methylumi",
         "minfi",
@@ -984,8 +971,7 @@
         "siggenes"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "doppelgangR": [
         "genefilter",
@@ -1003,14 +989,11 @@
         "zenith"
     ],
     "DriverNet": [],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "dStruct": [],
     "DTA": [],
     "dyebias": [],
@@ -1115,7 +1098,6 @@
         "AnnotationHubData",
         "BiocCheck"
     ],
-    "ExperimentSubset": [],
     "ExploreModelMatrix": [],
     "extraChIPs": [
         "ComplexHeatmap",
@@ -1172,7 +1154,6 @@
     ],
     "FLAMES": [
         "ComplexHeatmap",
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1478,7 +1459,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "ggspavis": [],
     "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [],
@@ -1619,9 +1599,7 @@
         "pcaExplorer"
     ],
     "IHW": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1742,8 +1720,7 @@
     ],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [
         "genefilter",
@@ -1780,7 +1757,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "LoomExperiment": [],
     "lpNet": [],
     "LRBaseDbi": [],
     "lumi": [
@@ -1942,7 +1918,6 @@
     "metapod": [],
     "metaseqR2": [
         "DSS",
-        "bsseq",
         "genefilter",
         "survcomp",
         "vsn"
@@ -1958,7 +1933,6 @@
         "siggenes"
     ],
     "methylCC": [
-        "bsseq",
         "genefilter",
         "minfi",
         "siggenes"
@@ -1995,8 +1969,7 @@
         "geneplotter"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "genefilter",
@@ -2048,9 +2021,7 @@
         "VanillaICE",
         "crlmm"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -2095,7 +2066,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [],
     "MOMA": [
         "ComplexHeatmap"
     ],
@@ -2260,9 +2230,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -2315,7 +2283,6 @@
         "ComplexHeatmap"
     ],
     "nnNorm": [],
-    "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -2869,9 +2836,7 @@
     ],
     "SCBN": [],
     "scBubbletree": [],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "Cepo"
     ],
@@ -2895,7 +2860,6 @@
         "metapod",
         "scran"
     ],
-    "scider": [],
     "scifer": [
         "RProtoBufLib",
         "cytolib",
@@ -2906,8 +2870,7 @@
         "scran"
     ],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "RUVSeq"
@@ -2920,7 +2883,6 @@
     "SCOPE": [],
     "scp": [],
     "scPipe": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -3048,9 +3010,7 @@
     "simona": [
         "ComplexHeatmap"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [
         "ComplexHeatmap",
         "GOSemSim"
@@ -3062,7 +3022,6 @@
     ],
     "singleCellTK": [
         "ComplexHeatmap",
-        "DropletUtils",
         "GSVA",
         "TSCAN",
         "basilisk",
@@ -3113,14 +3072,12 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [
         "iPAC"
     ],
     "Spaniel": [
-        "DropletUtils",
         "metapod",
         "scran"
     ],
@@ -3152,7 +3109,6 @@
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [],
-    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3186,7 +3142,6 @@
         "splots",
         "vsn"
     ],
-    "Statial": [],
     "statTarget": [
         "impute"
     ],
