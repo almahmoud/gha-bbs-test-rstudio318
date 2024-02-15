@@ -439,7 +439,6 @@
         "PROMISE"
     ],
     "ccrepe": [],
-    "celaref": [],
     "celda": [
         "ComplexHeatmap",
         "metapod",
@@ -529,9 +528,7 @@
     ],
     "ChIPexoQual": [],
     "ChIPpeakAnno": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -932,7 +929,6 @@
         "geneplotter"
     ],
     "DIAlignR": [],
-    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -1551,9 +1547,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [
         "basilisk",
@@ -1925,7 +1919,6 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [],
     "methrix": [],
     "MethylAid": [
         "genefilter",
@@ -1958,7 +1951,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -2190,7 +2182,6 @@
         "CRISPRseek",
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "MultiRNAflow": [
         "ComplexHeatmap",
         "DynDoc",
@@ -2466,7 +2457,6 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -2908,7 +2898,6 @@
         "genefilter",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "metapod",
         "scran"
@@ -3108,7 +3097,6 @@
     ],
     "specL": [],
     "Spectra": [],
-    "SpectralTAD": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3181,7 +3169,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TADCompare": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -3342,7 +3329,6 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
         "csaw",
         "metapod"
     ],
