@@ -1366,7 +1366,6 @@
         "scran"
     ],
     "dir.expiry": [],
-    "DiscoRhythm": [],
     "distinct": [],
     "dittoSeq": [],
     "dks": [],
@@ -1612,9 +1611,7 @@
         "csaw",
         "metapod"
     ],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -3282,7 +3279,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "oncomix": [],
-    "oncoscanR": [],
     "onlineFDR": [],
     "ontoProc": [],
     "openCyto": [
@@ -3328,12 +3324,10 @@
         "genefilter",
         "vsn"
     ],
-    "OVESEG": [],
     "PAA": [
         "genefilter",
         "sva"
     ],
-    "packFinder": [],
     "padma": [],
     "PADOG": [],
     "pageRank": [
@@ -3440,7 +3434,6 @@
         "Heatplus",
         "genefilter"
     ],
-    "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
     ],
@@ -3870,7 +3863,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -4026,7 +4018,6 @@
         "pathview"
     ],
     "SC3": [],
-    "Scale4C": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -4306,7 +4297,6 @@
         "dir.expiry",
         "phyloseq"
     ],
-    "SIMD": [],
     "simona": [
         "ComplexHeatmap"
     ],
@@ -4480,7 +4470,6 @@
         "HDF5Array",
         "genefilter"
     ],
-    "SplicingGraphs": [],
     "splineTimeR": [
         "GSEABase"
     ],
@@ -4533,7 +4522,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [
@@ -4755,14 +4743,12 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
         "ensemblVEP"
     ],
-    "txcutr": [],
     "tximeta": [],
     "UCell": [],
     "Ularcirc": [
@@ -4869,7 +4855,6 @@
     ],
     "weitrix": [],
     "widgetTools": [],
-    "wiggleplotr": [],
     "wppi": [
         "OmnipathR"
     ],
