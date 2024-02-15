@@ -46,7 +46,6 @@
         "gcrma"
     ],
     "AffyRNADegradation": [],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -181,7 +180,6 @@
         "ComplexHeatmap"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
         "TFBSTools",
         "chromVAR",
@@ -297,7 +295,6 @@
     "BiocOncoTK": [
         "ComplexHeatmap"
     ],
-    "BioCor": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -486,7 +483,6 @@
         "splots",
         "vsn"
     ],
-    "CelliD": [],
     "cellmigRation": [],
     "CEMiTool": [
         "DOSE",
@@ -663,7 +659,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "coGPS": [],
     "COHCAP": [],
     "cola": [
@@ -1395,10 +1390,7 @@
         "minfi",
         "siggenes"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "gaga": [],
     "gage": [],
     "gaggle": [],
@@ -1706,7 +1698,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "igvR": [],
     "IHW": [],
     "IMAS": [],
     "imcRtools": [
@@ -2039,7 +2030,6 @@
         "enrichplot"
     ],
     "metapod": [],
-    "metapone": [],
     "metaseqR2": [
         "DSS",
         "bsseq",
@@ -2051,7 +2041,6 @@
         "Spectra"
     ],
     "methInheritSim": [],
-    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "genefilter",
@@ -2323,7 +2312,6 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "MultiBaC": [],
     "multiClust": [],
     "multicrispr": [
         "CRISPRseek",
@@ -2435,7 +2423,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "npGSEA": [],
     "occugene": [],
     "octad": [
         "GSVA",
@@ -2982,7 +2969,6 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [],
     "RRHO": [],
     "rrvgo": [
         "GOSemSim"
@@ -3188,7 +3174,6 @@
         "survcomp"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
@@ -3246,7 +3231,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMAP": [],
     "snapCGH": [
@@ -3408,7 +3392,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
     "TFutils": [],
@@ -3440,7 +3423,6 @@
         "DynDoc",
         "widgetTools"
     ],
-    "tLOH": [],
     "TNBC.CMS": [
         "GSVA"
     ],
