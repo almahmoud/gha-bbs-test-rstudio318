@@ -8,7 +8,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "acde": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -132,7 +131,6 @@
     "arrayMvout": [
         "genefilter",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi",
         "siggenes"
@@ -753,7 +751,6 @@
         "csaw",
         "metapod"
     ],
-    "DiffLogo": [],
     "diffuStats": [],
     "diffUTR": [
         "ComplexHeatmap",
@@ -1317,7 +1314,6 @@
         "flowCore"
     ],
     "impute": [],
-    "INDEED": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -1413,7 +1409,6 @@
         "genefilter",
         "sva"
     ],
-    "LEA": [],
     "lfa": [],
     "LineagePulse": [
         "ComplexHeatmap"
@@ -1436,7 +1431,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "lpNet": [],
     "LRBaseDbi": [],
     "lumi": [
         "genefilter",
@@ -1510,7 +1504,6 @@
     "MCbiclust": [
         "impute"
     ],
-    "mdqc": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -1822,7 +1815,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netprioR": [],
     "NetSAM": [
         "impute"
     ],
@@ -1924,7 +1916,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "pathifier": [],
     "PathoStat": [
         "ComplexHeatmap"
     ],
@@ -1956,7 +1947,6 @@
     "PECA": [
         "genefilter"
     ],
-    "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "phemd": [
