@@ -25,7 +25,6 @@
         "vsn"
     ],
     "ADAMgui": [],
-    "adSplit": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -290,7 +289,6 @@
         "sva",
         "vsn"
     ],
-    "BRAIN": [],
     "cageminer": [
         "BioNERO",
         "ComplexHeatmap",
@@ -307,7 +305,6 @@
     ],
     "canceR": [
         "Category",
-        "Heatplus",
         "genefilter",
         "phenoTest"
     ],
@@ -442,7 +439,6 @@
     "cicero": [
         "monocle"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "metapod",
         "scran"
@@ -517,7 +513,6 @@
         "minfi",
         "siggenes"
     ],
-    "coRdon": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -799,7 +794,6 @@
     ],
     "dStruct": [],
     "DTA": [],
-    "dyebias": [],
     "easier": [
         "decoupleR",
         "progeny"
@@ -1146,7 +1140,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneticsPed": [],
     "GeneTonic": [
         "ComplexHeatmap"
     ],
@@ -1196,7 +1189,6 @@
     "ggmsa": [
         "R4RNA"
     ],
-    "GGPA": [],
     "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [],
@@ -1264,7 +1256,6 @@
         "altcdfenvs",
         "hypergraph"
     ],
-    "Heatplus": [],
     "hermes": [
         "ComplexHeatmap"
     ],
@@ -1346,7 +1337,6 @@
         "cytolib",
         "flowCore"
     ],
-    "interacCircos": [],
     "InteractiveComplexHeatmap": [
         "ComplexHeatmap"
     ],
@@ -1685,7 +1675,6 @@
         "minfi",
         "siggenes"
     ],
-    "mitch": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -1784,7 +1773,6 @@
         "qcmetrics",
         "vsn"
     ],
-    "multiClust": [],
     "multicrispr": [
         "CRISPRseek"
     ],
@@ -1870,7 +1858,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "occugene": [],
     "odseq": [
         "msa"
     ],
@@ -1943,7 +1930,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
         "ComplexHeatmap"
@@ -1984,7 +1970,6 @@
     ],
     "phenoTest": [
         "Category",
-        "Heatplus",
         "genefilter"
     ],
     "Pi": [],
@@ -2473,7 +2458,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "SMAP": [],
     "snapCGH": [
         "GLAD",
         "aCGH",
@@ -2608,8 +2592,7 @@
     ],
     "transcriptogramer": [],
     "tRanslatome": [
-        "GOSemSim",
-        "Heatplus"
+        "GOSemSim"
     ],
     "transomics2cytoscape": [
         "RCy3"
@@ -2701,7 +2684,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "xmapbridge": [],
     "YAPSA": [
         "ComplexHeatmap"
     ],
