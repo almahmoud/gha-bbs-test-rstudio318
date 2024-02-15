@@ -25,7 +25,6 @@
         "vsn"
     ],
     "ADAMgui": [],
-    "adductomicsR": [],
     "adSplit": [],
     "affycoretools": [
         "Category",
@@ -2763,7 +2762,6 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
@@ -2955,7 +2953,6 @@
         "impute"
     ],
     "rfaRm": [],
-    "RgnTX": [],
     "rgoslin": [],
     "RiboCrypt": [],
     "RiboProfiling": [
@@ -3208,7 +3205,6 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [],
     "seq2pathway": [
         "impute"
     ],
@@ -3711,7 +3707,6 @@
         "STRINGdb"
     ],
     "xmapbridge": [],
-    "yamss": [],
     "YAPSA": [
         "ComplexHeatmap",
         "SomaticSignatures",
