@@ -957,7 +957,6 @@
         "vsn",
         "widgetTools"
     ],
-    "dce": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -2479,7 +2478,6 @@
         "RCy3"
     ],
     "nearBynding": [],
-    "nempi": [],
     "netboost": [
         "impute"
     ],
@@ -2605,7 +2603,6 @@
         "geneplotter",
         "sva"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
