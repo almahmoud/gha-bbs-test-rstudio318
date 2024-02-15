@@ -1263,7 +1263,6 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "PharmacoGx",
         "gDRcore",
         "gDRimport",
         "gDRutils"
@@ -1272,7 +1271,6 @@
         "gDRutils"
     ],
     "gDRimport": [
-        "PharmacoGx",
         "gDRutils"
     ],
     "gDRstyle": [
@@ -2252,7 +2250,6 @@
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -2417,7 +2414,6 @@
         "ggbio"
     ],
     "R4RNA": [],
-    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2993,7 +2989,6 @@
         "impute",
         "vsn"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
     ],
@@ -3105,8 +3100,7 @@
         "siggenes"
     ],
     "Xeva": [
-        "ComplexHeatmap",
-        "PharmacoGx"
+        "ComplexHeatmap"
     ],
     "XINA": [
         "STRINGdb"
