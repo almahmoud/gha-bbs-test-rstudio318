@@ -583,9 +583,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "RProtoBufLib",
         "cytolib",
@@ -669,7 +667,6 @@
         "DOSE",
         "GOSemSim",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "impute",
@@ -1607,7 +1604,6 @@
         "siggenes"
     ],
     "MetID": [],
-    "Mfuzz": [],
     "mgsa": [],
     "microbiomeMarker": [
         "ComplexHeatmap"
@@ -1760,8 +1756,7 @@
         "CRISPRseek"
     ],
     "MultiRNAflow": [
-        "ComplexHeatmap",
-        "Mfuzz"
+        "ComplexHeatmap"
     ],
     "multiWGCNA": [
         "impute"
@@ -2024,7 +2019,6 @@
         "DOSE",
         "GOSemSim",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "impute",
@@ -2546,7 +2540,6 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "Mfuzz",
         "RCy3",
         "clusterProfiler",
         "enrichplot",
