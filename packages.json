@@ -626,7 +626,6 @@
         "karyoploteR"
     ],
     "coRdon": [],
-    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -1264,7 +1263,6 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
@@ -1274,7 +1272,6 @@
         "gDRutils"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx",
         "gDRutils"
     ],
@@ -1981,7 +1978,6 @@
     "motifStack": [],
     "msa": [],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -2232,7 +2228,6 @@
     ],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "impute",
         "survcomp"
@@ -2257,9 +2252,7 @@
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -2424,9 +2417,7 @@
         "ggbio"
     ],
     "R4RNA": [],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2674,7 +2665,6 @@
         "metapod",
         "scran"
     ],
-    "scmeth": [],
     "scone": [],
     "Sconify": [
         "RProtoBufLib",
@@ -3003,9 +2993,7 @@
         "impute",
         "vsn"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
     ],
@@ -3118,7 +3106,6 @@
     ],
     "Xeva": [
         "ComplexHeatmap",
-        "CoreGx",
         "PharmacoGx"
     ],
     "XINA": [
