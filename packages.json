@@ -599,7 +599,6 @@
     "comapr": [
         "Gviz"
     ],
-    "combi": [],
     "coMET": [
         "Gviz"
     ],
@@ -1024,7 +1023,6 @@
         "siggenes"
     ],
     "EpiTxDb": [],
-    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
         "ChIPseeker",
@@ -1894,8 +1892,6 @@
         "widgetTools"
     ],
     "mgsa": [],
-    "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [
         "ComplexHeatmap"
     ],
@@ -2337,9 +2333,7 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "aCGH",
         "rCGH"
@@ -2477,7 +2471,6 @@
     "RareVariantVis": [
         "GenomicScores"
     ],
-    "Rbec": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RCAS": [
@@ -2487,7 +2480,6 @@
     "rCGH": [
         "aCGH"
     ],
-    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -2514,7 +2506,6 @@
     "rebook": [
         "dir.expiry"
     ],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
@@ -2530,7 +2521,6 @@
         "ComplexHeatmap"
     ],
     "REDseq": [],
-    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2652,7 +2642,6 @@
     "Rnits": [
         "impute"
     ],
-    "RPA": [],
     "rprimer": [],
     "RProtoBufLib": [],
     "Rqc": [],
@@ -2817,7 +2806,6 @@
         "minfi",
         "siggenes"
     ],
-    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -3004,7 +2992,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "ComplexHeatmap",
