@@ -301,7 +301,6 @@
         "impute",
         "sva"
     ],
-    "BioNetStat": [],
     "BioTIP": [
         "metapod",
         "scran"
@@ -373,7 +372,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -385,7 +383,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO"
     ],
@@ -549,7 +546,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -616,9 +612,7 @@
         "methylPipe"
     ],
     "ComplexHeatmap": [],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [
         "slingshot"
     ],
@@ -651,9 +645,7 @@
         "karyoploteR"
     ],
     "coRdon": [],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -661,7 +653,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -851,7 +842,6 @@
         "genefilter",
         "sva"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "ComplexHeatmap",
         "celda",
@@ -1117,7 +1107,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -1317,8 +1306,7 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRcore": [
         "gDRutils"
@@ -1326,8 +1314,7 @@
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRstyle": [
         "BiocCheck"
@@ -1596,7 +1583,6 @@
         "cytolib",
         "flowCore"
     ],
-    "InPAS": [],
     "INTACT": [],
     "intansv": [
         "ggbio"
@@ -1626,7 +1612,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -1712,7 +1697,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -1739,7 +1723,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
@@ -1760,7 +1743,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -1843,8 +1825,7 @@
     "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [
         "ComplexHeatmap",
@@ -1862,7 +1843,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -1881,9 +1861,7 @@
         "survcomp",
         "vsn"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methrix": [],
     "MethylAid": [
         "genefilter",
@@ -2003,7 +1981,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -2054,24 +2031,12 @@
     "motifmatchr": [],
     "motifStack": [],
     "msa": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "easyRNASeq",
         "ggbio"
@@ -2112,8 +2077,7 @@
     "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsLiP": [],
     "MSstatsQC": [
@@ -2149,14 +2113,12 @@
         "metapod",
         "scran"
     ],
-    "MungeSumstats": [],
     "muscat": [
         "ComplexHeatmap"
     ],
     "muscle": [],
     "musicatk": [
-        "ComplexHeatmap",
-        "decompTumor2Sig"
+        "ComplexHeatmap"
     ],
     "MWASTools": [
         "ComplexHeatmap"
@@ -2184,7 +2146,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -2334,7 +2295,6 @@
         "CoreGx",
         "genefu",
         "impute",
-        "piano",
         "survcomp"
     ],
     "pdInfoBuilder": [],
@@ -2357,10 +2317,8 @@
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "phantasus": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -2371,7 +2329,6 @@
         "genefilter"
     ],
     "Pi": [],
-    "piano": [],
     "pickgene": [],
     "Pigengene": [
         "DOSE",
@@ -2469,7 +2426,6 @@
         "vsn",
         "widgetTools"
     ],
-    "ProteoDisco": [],
     "protGear": [
         "genefilter",
         "vsn"
@@ -2533,8 +2489,7 @@
     ],
     "R4RNA": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [
         "GENESIS",
@@ -2670,7 +2625,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn",
         "xcms"
@@ -2748,7 +2702,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -3033,7 +2986,6 @@
         "motifmatchr"
     ],
     "specL": [],
-    "Spectra": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3043,7 +2995,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -3073,7 +3024,6 @@
     "stepNorm": [],
     "stJoincount": [],
     "STRINGdb": [],
-    "StructuralVariantAnnotation": [],
     "surfaltr": [
         "msa"
     ],
@@ -3081,12 +3031,8 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "GOSemSim"
@@ -3145,7 +3091,6 @@
     "TIN": [
         "impute"
     ],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
         "widgetTools"
@@ -3163,8 +3108,7 @@
         "vsn"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz"
@@ -3283,7 +3227,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "vsn"
     ],
@@ -3295,8 +3238,7 @@
     "Xeva": [
         "ComplexHeatmap",
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [
         "STRINGdb"
