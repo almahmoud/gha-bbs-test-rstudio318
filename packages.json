@@ -141,7 +141,6 @@
     "AnnotationHubData": [
         "BiocCheck"
     ],
-    "annotatr": [],
     "AnVILBilling": [],
     "appreci8R": [
         "GenomicScores"
@@ -179,7 +178,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "GenomicScores",
         "motifStack"
     ],
@@ -309,7 +307,6 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "annotatr",
         "dmrseq",
         "impute"
     ],
@@ -516,7 +513,6 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
@@ -613,9 +609,7 @@
     ],
     "ComplexHeatmap": [],
     "CompoundDb": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "RProtoBufLib",
         "cytolib",
@@ -887,9 +881,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -899,7 +891,6 @@
         "genefilter",
         "geneplotter"
     ],
-    "DIAlignR": [],
     "diffcoexp": [
         "impute"
     ],
@@ -937,9 +928,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -952,7 +941,6 @@
         "GOSemSim"
     ],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "DriverNet": [],
@@ -999,7 +987,6 @@
     "EnrichedHeatmap": [
         "ComplexHeatmap"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -1038,9 +1025,7 @@
         "minfi",
         "siggenes"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
@@ -1087,9 +1072,7 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "fedup": [
         "RCy3"
     ],
@@ -1455,9 +1438,7 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
@@ -1468,8 +1449,7 @@
     ],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
-        "ChIPpeakAnno"
+        "CRISPRseek"
     ],
     "Gviz": [],
     "GWASTools": [
@@ -1505,7 +1485,6 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -2074,8 +2053,6 @@
         "genefilter",
         "sva"
     ],
-    "msPurity": [],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -2125,7 +2102,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
         "csaw",
@@ -2558,16 +2534,13 @@
     "recoup": [
         "ComplexHeatmap"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
         "scran"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "derfinder"
     ],
@@ -2753,9 +2726,7 @@
         "metapod",
         "scran"
     ],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
@@ -2765,7 +2736,6 @@
         "flowCore"
     ],
     "SCOPE": [],
-    "scp": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
@@ -2775,8 +2745,7 @@
         "metapod"
     ],
     "scRNAseqApp": [
-        "ComplexHeatmap",
-        "slingshot"
+        "ComplexHeatmap"
     ],
     "scruff": [
         "ggbio"
@@ -2877,7 +2846,6 @@
         "impute",
         "survcomp"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
@@ -2904,7 +2872,6 @@
     "singleCellTK": [
         "ComplexHeatmap",
         "GSVA",
-        "TSCAN",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -2929,7 +2896,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD",
@@ -2951,9 +2917,7 @@
     "SomaticSignatures": [
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "annotatr"
-    ],
+    "SOMNiBUS": [],
     "SpacePAC": [
         "iPAC"
     ],
@@ -3113,9 +3077,7 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [],
     "transcriptR": [],
     "transformGamPoi": [
@@ -3129,9 +3091,7 @@
     "transomics2cytoscape": [
         "RCy3"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "ComplexHeatmap",
         "FlowSOM",
@@ -3148,15 +3108,11 @@
         "siggenes"
     ],
     "tripr": [],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TSAR": [],
-    "TSCAN": [],
     "ttgsea": [],
     "TVTB": [
         "Gviz"
     ],
-    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz"
     ],
@@ -3204,7 +3160,6 @@
     "vsn": [],
     "vtpnet": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "csaw",
         "metapod"
     ],
@@ -3260,9 +3215,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "zinbwave": [
         "genefilter"
     ]
