@@ -52,7 +52,6 @@
         "gcrma",
         "genefilter"
     ],
-    "AHMassBank": [],
     "airpart": [
         "ComplexHeatmap"
     ],
@@ -130,7 +129,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [],
     "AnVILBilling": [],
     "arrayMvout": [
         "genefilter",
@@ -297,7 +295,6 @@
         "vsn"
     ],
     "BRAIN": [],
-    "brainflowprobes": [],
     "cageminer": [
         "BioNERO",
         "ComplexHeatmap",
@@ -507,7 +504,6 @@
         "ComplexHeatmap",
         "impute"
     ],
-    "compEpiTools": [],
     "ComplexHeatmap": [],
     "CONFESS": [
         "RProtoBufLib",
@@ -1136,7 +1132,6 @@
     "gDRimport": [
         "gDRutils"
     ],
-    "gDRstyle": [],
     "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
@@ -2302,9 +2297,6 @@
         "splots",
         "vsn"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
