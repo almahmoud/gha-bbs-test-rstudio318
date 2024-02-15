@@ -298,7 +298,6 @@
     ],
     "BRAIN": [],
     "brainflowprobes": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "ComplexHeatmap",
@@ -306,9 +305,7 @@
         "impute",
         "sva"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
@@ -1303,7 +1300,6 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCDCPlus": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -2126,7 +2122,6 @@
         "genefilter",
         "vsn"
     ],
-    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -2313,7 +2308,6 @@
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -2579,7 +2573,6 @@
     "SpatialOmicsOverlay": [
         "RBioFormats"
     ],
-    "spatzie": [],
     "specL": [],
     "spicyR": [
         "ClassifyR",
