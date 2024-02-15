@@ -142,7 +142,6 @@
     ],
     "amplican": [],
     "Anaquin": [],
-    "ANCOMBC": [],
     "animalcules": [],
     "annmap": [
         "genefilter"
@@ -152,7 +151,6 @@
     ],
     "annotatr": [],
     "anota": [],
-    "anota2seq": [],
     "AnVILBilling": [],
     "APAlyzer": [],
     "APL": [],
@@ -260,9 +258,7 @@
     "beachmat.hdf5": [],
     "BEARscc": [],
     "BEAT": [],
-    "beer": [],
     "benchdamic": [
-        "ANCOMBC",
         "dearseq",
         "genefilter",
         "phyloseq",
@@ -395,7 +391,6 @@
         "biovizBase"
     ],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -484,7 +479,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [],
     "CCPlotR": [
         "ComplexHeatmap"
     ],
@@ -597,8 +591,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -990,7 +983,6 @@
     ],
     "deconvR": [
         "genefilter",
-        "methylKit",
         "minfi",
         "siggenes"
     ],
@@ -1051,9 +1043,7 @@
         "geneplotter"
     ],
     "DIAlignR": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -1715,14 +1705,12 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiContacts": [],
@@ -2062,7 +2050,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEB": [],
     "MeSHDbi": [],
     "meshes": [
         "DOSE",
@@ -2128,9 +2115,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -2165,10 +2150,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -2204,7 +2186,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
         "ComplexHeatmap",
         "phyloseq"
     ],
@@ -2430,9 +2411,7 @@
         "karyoploteR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [
         "ComplexHeatmap",
         "DynDoc",
@@ -2884,7 +2863,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [],
     "R4RNA": [],
     "RadioGx": [
@@ -3022,7 +3000,6 @@
     "RgnTX": [],
     "rgoslin": [],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -3156,7 +3133,6 @@
         "genefilter",
         "sva"
     ],
-    "scanMiRApp": [],
     "scAnnotatR": [],
     "SCArray": [
         "gdsfmt"
@@ -3236,7 +3212,6 @@
     "scran": [
         "metapod"
     ],
-    "scReClassify": [],
     "scRNAseqApp": [
         "ComplexHeatmap",
         "slingshot"
@@ -3383,7 +3358,6 @@
         "ComplexHeatmap",
         "DropletUtils",
         "GSVA",
-        "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -3402,7 +3376,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "SingleR": [],
     "singscore": [],
     "skewr": [
         "genefilter",
@@ -3477,12 +3450,9 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [],
     "spicyR": [
         "ClassifyR",
@@ -3560,14 +3530,11 @@
         "RankProd"
     ],
     "SynMut": [],
-    "systemPipeR": [],
     "tadar": [
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TargetDecoy": [
         "mzID"
     ],
@@ -3755,8 +3722,7 @@
         "ChIPpeakAnno",
         "DiffBind",
         "csaw",
-        "metapod",
-        "systemPipeR"
+        "metapod"
     ],
     "wateRmelon": [
         "genefilter",
