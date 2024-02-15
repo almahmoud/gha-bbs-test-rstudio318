@@ -200,7 +200,6 @@
     ],
     "BCRANK": [],
     "benchdamic": [
-        "dearseq",
         "genefilter",
         "zinbwave"
     ],
@@ -519,7 +518,6 @@
         "impute",
         "survcomp"
     ],
-    "CONSTANd": [],
     "conumee": [
         "genefilter",
         "minfi",
@@ -600,10 +598,8 @@
         "flowViz"
     ],
     "cycle": [
-        "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "RProtoBufLib",
@@ -686,7 +682,6 @@
     ],
     "DAPAR": [
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
@@ -694,8 +689,7 @@
         "enrichplot",
         "impute",
         "tkWidgets",
-        "vsn",
-        "widgetTools"
+        "vsn"
     ],
     "ddPCRclust": [
         "RProtoBufLib",
@@ -704,7 +698,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "dearseq": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -814,7 +807,6 @@
     "dStruct": [],
     "DTA": [],
     "dyebias": [],
-    "DynDoc": [],
     "easier": [
         "decoupleR",
         "progeny"
@@ -907,7 +899,6 @@
         "LiquidAssociation",
         "impute"
     ],
-    "fastreeR": [],
     "fCCAC": [
         "ComplexHeatmap",
         "genomation",
@@ -1367,7 +1358,6 @@
         "cytolib",
         "flowCore"
     ],
-    "INTACT": [],
     "interacCircos": [],
     "InteractiveComplexHeatmap": [
         "ComplexHeatmap"
@@ -1545,11 +1535,9 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "MBttest": [],
     "MCbiclust": [
         "impute"
     ],
-    "mdp": [],
     "mdqc": [],
     "MEAL": [
         "genefilter",
@@ -1660,9 +1648,7 @@
     ],
     "MetID": [],
     "Mfuzz": [
-        "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "mgsa": [],
     "microbiomeMarker": [
@@ -1774,9 +1760,7 @@
         "metapod",
         "scran"
     ],
-    "mslp": [
-        "RankProd"
-    ],
+    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "impute",
@@ -1822,10 +1806,8 @@
     ],
     "MultiRNAflow": [
         "ComplexHeatmap",
-        "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "multiWGCNA": [
         "impute"
@@ -1910,10 +1892,8 @@
     ],
     "OLIN": [],
     "OLINgui": [
-        "DynDoc",
         "OLIN",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omicRexposome": [
         "genefilter",
@@ -2044,14 +2024,11 @@
         "GOstats",
         "genefilter"
     ],
-    "plotGrouper": [],
-    "pmm": [],
     "pmp": [
         "impute"
     ],
     "POMA": [
         "ComplexHeatmap",
-        "RankProd",
         "impute"
     ],
     "PPInfer": [
@@ -2099,7 +2076,6 @@
     "Prostar": [
         "DAPAR",
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
@@ -2107,8 +2083,7 @@
         "enrichplot",
         "impute",
         "tkWidgets",
-        "vsn",
-        "widgetTools"
+        "vsn"
     ],
     "protGear": [
         "genefilter",
@@ -2171,7 +2146,6 @@
     ],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RankProd": [],
     "RAREsim": [],
     "RBioFormats": [],
     "RBioinf": [],
@@ -2274,7 +2248,6 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [
         "ComplexHeatmap"
@@ -2312,7 +2285,6 @@
     "rrvgo": [
         "GOSemSim"
     ],
-    "rsemmed": [],
     "RSeqAn": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -2493,7 +2465,6 @@
         "ComplexHeatmap",
         "GOSemSim"
     ],
-    "sincell": [],
     "SingleCellSignalR": [
         "metapod",
         "scran"
@@ -2576,7 +2547,6 @@
     "SPsimSeq": [
         "impute"
     ],
-    "SQUADD": [],
     "ssize": [],
     "staRank": [
         "Category",
@@ -2609,9 +2579,7 @@
         "impute",
         "vsn"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "SynMut": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -2637,23 +2605,18 @@
     "timescape": [],
     "TimiRGeN": [
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "Mfuzz",
         "RCy3",
         "clusterProfiler",
         "enrichplot",
         "rWikiPathways",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "TIN": [
         "impute"
     ],
-    "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
-    ],
+    "tkWidgets": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -2666,8 +2629,7 @@
     "transcriptogramer": [],
     "tRanslatome": [
         "GOSemSim",
-        "Heatplus",
-        "RankProd"
+        "Heatplus"
     ],
     "transomics2cytoscape": [
         "RCy3"
@@ -2739,7 +2701,6 @@
         "gcrma",
         "vsn"
     ],
-    "widgetTools": [],
     "wppi": [
         "OmnipathR"
     ],
