@@ -869,7 +869,6 @@
         "csaw",
         "metapod"
     ],
-    "factR": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -1186,7 +1185,6 @@
     ],
     "ggtreeExtra": [],
     "GIGSEA": [],
-    "girafe": [],
     "GISPA": [
         "genefilter"
     ],
@@ -1293,11 +1291,9 @@
     "ideal": [
         "Category",
         "GOstats",
-        "IHW",
         "genefilter",
         "pcaExplorer"
     ],
-    "IHW": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1481,7 +1477,6 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "maser": [],
     "maskBAD": [
         "gcrma"
     ],
@@ -1626,7 +1621,6 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "MICSQTL": [],
     "midasHLA": [],
     "mimager": [
         "affyPLM",
@@ -2549,7 +2543,6 @@
         "vsn"
     ],
     "timecourse": [],
-    "timescape": [],
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
