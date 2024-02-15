@@ -166,8 +166,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "ATACseqQC": [],
-    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -1829,7 +1827,6 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "motifbreakR": [],
     "motifcounter": [],
     "msa": [],
     "msgbsR": [
@@ -1910,7 +1907,6 @@
         "ComplexHeatmap"
     ],
     "NADfinder": [
-        "ATACseqQC",
         "csaw",
         "metapod",
         "trackViewer"
@@ -2335,7 +2331,6 @@
     "rgoslin": [],
     "RiboProfiling": [],
     "ribor": [],
-    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
