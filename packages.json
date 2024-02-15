@@ -149,10 +149,8 @@
         "BiocCheck"
     ],
     "annotatr": [],
-    "anota": [],
     "AnVILBilling": [],
     "APAlyzer": [],
-    "APL": [],
     "appreci8R": [
         "GenomicScores"
     ],
@@ -250,7 +248,6 @@
         "metapod",
         "scran"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [],
     "BCRANK": [],
     "beachmat.hdf5": [],
@@ -259,7 +256,6 @@
     "benchdamic": [
         "dearseq",
         "genefilter",
-        "phyloseq",
         "zinbwave"
     ],
     "bgx": [
@@ -500,7 +496,6 @@
     ],
     "CelliD": [],
     "cellmigRation": [],
-    "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
         "DOSE",
@@ -575,7 +570,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -692,9 +686,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -765,8 +757,7 @@
     ],
     "COSNet": [],
     "COTAN": [
-        "ComplexHeatmap",
-        "PCAtools"
+        "ComplexHeatmap"
     ],
     "countsimQC": [
         "genefilter"
@@ -778,11 +769,9 @@
     "CRImage": [
         "aCGH"
     ],
-    "crisprBowtie": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
-        "crisprBowtie",
         "crisprScore",
         "dir.expiry"
     ],
@@ -797,7 +786,6 @@
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz",
@@ -808,7 +796,6 @@
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "dir.expiry"
@@ -987,7 +974,6 @@
     "DEGreport": [
         "ComplexHeatmap"
     ],
-    "DEGseq": [],
     "DelayedTensor": [],
     "DeMixT": [
         "DSS",
@@ -1780,7 +1766,6 @@
         "minfi",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -1788,7 +1773,6 @@
     ],
     "InPAS": [],
     "INTACT": [],
-    "InTAD": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -1993,7 +1977,6 @@
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
-        "phyloseq",
         "sva"
     ],
     "mbkmeans": [],
@@ -2157,16 +2140,11 @@
     ],
     "mgsa": [],
     "miaViz": [],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ComplexHeatmap",
-        "phyloseq"
+        "ComplexHeatmap"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -2201,7 +2179,6 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2509,7 +2486,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "genefilter",
         "impute",
@@ -2592,15 +2568,13 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
-        "ComplexHeatmap",
-        "phyloseq"
+        "ComplexHeatmap"
     ],
     "pcaExplorer": [
         "Category",
         "GOstats",
         "genefilter"
     ],
-    "PCAtools": [],
     "pcxn": [],
     "PDATK": [
         "CoreGx",
@@ -2644,7 +2618,6 @@
         "genefilter"
     ],
     "PhyloProfile": [],
-    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "pickgene": [],
@@ -2687,8 +2660,7 @@
         "STRINGdb"
     ],
     "prebs": [
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "aCGH",
@@ -2852,9 +2824,7 @@
     "rCGH": [
         "aCGH"
     ],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -2881,9 +2851,7 @@
     "rebook": [
         "dir.expiry"
     ],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -2902,9 +2870,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -3005,7 +2971,6 @@
         "recount"
     ],
     "RNAdecay": [],
-    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -3049,9 +3014,7 @@
         "impute"
     ],
     "RolDE": [],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "rprimer": [],
     "RProtoBufLib": [],
     "Rqc": [
@@ -3085,7 +3048,6 @@
         "genefilter",
         "sva"
     ],
-    "scAnnotatR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -3252,9 +3214,7 @@
         "minfi",
         "siggenes"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -3286,8 +3246,7 @@
     "SimBu": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "phyloseq"
+        "dir.expiry"
     ],
     "simona": [
         "ComplexHeatmap"
@@ -3421,8 +3380,7 @@
     "splots": [],
     "SpotClean": [],
     "SPsimSeq": [
-        "impute",
-        "phyloseq"
+        "impute"
     ],
     "SQUADD": [],
     "srnadiff": [
@@ -3568,8 +3526,7 @@
     "tRanslatome": [
         "GOSemSim",
         "Heatplus",
-        "RankProd",
-        "anota"
+        "RankProd"
     ],
     "transomics2cytoscape": [
         "RCy3"
@@ -3642,7 +3599,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "VDJdive": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
