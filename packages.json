@@ -47,7 +47,6 @@
     ],
     "AffyRNADegradation": [],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -140,7 +139,6 @@
         "impute"
     ],
     "amplican": [],
-    "Anaquin": [],
     "animalcules": [],
     "annmap": [
         "genefilter"
@@ -251,7 +249,6 @@
     "BBCAnalyzer": [],
     "BCRANK": [],
     "beachmat.hdf5": [],
-    "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
         "dearseq",
@@ -384,7 +381,6 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -632,7 +628,6 @@
     ],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -713,7 +708,6 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -916,7 +910,6 @@
     "daMA": [],
     "DAMEfinder": [],
     "DaMiRseq": [
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -1095,7 +1088,6 @@
         "progeny"
     ],
     "easyRNASeq": [],
-    "EDASeq": [],
     "edge": [
         "genefilter",
         "sva"
@@ -1188,8 +1180,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "EventPointer": [],
@@ -1220,7 +1211,6 @@
         "LiquidAssociation",
         "impute"
     ],
-    "FastqCleaner": [],
     "fastreeR": [],
     "fCCAC": [
         "ComplexHeatmap",
@@ -1422,7 +1412,6 @@
     "garfield": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -1974,7 +1963,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "gdsfmt"
@@ -2063,7 +2051,6 @@
     "metapone": [],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq",
         "genefilter",
         "survcomp",
@@ -2433,7 +2420,6 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -2460,10 +2446,8 @@
         "vsn"
     ],
     "npGSEA": [],
-    "nullranges": [],
     "occugene": [],
     "octad": [
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -2558,8 +2542,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "partCNV": [],
-    "PAST": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
@@ -2922,7 +2904,6 @@
     ],
     "ribor": [],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -2958,7 +2939,6 @@
         "impute",
         "vsn"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
@@ -2993,7 +2973,6 @@
         "RNAmodR",
         "biovizBase"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "derfinder",
@@ -3029,9 +3008,7 @@
         "RTNduals"
     ],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -3085,7 +3062,6 @@
         "metapod",
         "scran"
     ],
-    "scHOT": [],
     "scider": [],
     "scifer": [
         "RProtoBufLib",
@@ -3101,7 +3077,6 @@
         "bsseq"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [
@@ -3383,7 +3358,6 @@
     ],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -3553,7 +3527,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "UCell": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
@@ -3606,7 +3579,6 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vsn": [],
     "vtpnet": [
         "gwascat"
