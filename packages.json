@@ -586,8 +586,7 @@
         "flowViz"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "RProtoBufLib",
@@ -676,7 +675,6 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "tkWidgets",
         "vsn"
     ],
     "ddPCRclust": [
@@ -1621,9 +1619,7 @@
         "siggenes"
     ],
     "MetID": [],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "mgsa": [],
     "microbiomeMarker": [
         "ComplexHeatmap"
@@ -1778,8 +1774,7 @@
     ],
     "MultiRNAflow": [
         "ComplexHeatmap",
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "multiWGCNA": [
         "impute"
@@ -1863,8 +1858,7 @@
     ],
     "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "tkWidgets"
+        "OLIN"
     ],
     "omicRexposome": [
         "genefilter",
@@ -2050,7 +2044,6 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "tkWidgets",
         "vsn"
     ],
     "protGear": [
@@ -2574,13 +2567,11 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "rWikiPathways",
-        "tkWidgets"
+        "rWikiPathways"
     ],
     "TIN": [
         "impute"
     ],
-    "tkWidgets": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
