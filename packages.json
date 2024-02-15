@@ -221,7 +221,6 @@
         "genefilter",
         "sva"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -477,7 +476,6 @@
         "cBioPortalData",
         "genefilter"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
@@ -1063,7 +1061,6 @@
     ],
     "DESpace": [],
     "destiny": [],
-    "DEsubs": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -1087,9 +1084,7 @@
         "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "csaw",
         "metapod"
@@ -1240,16 +1235,10 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erccdashboard": [],
     "erma": [
@@ -1927,8 +1916,7 @@
         "genefilter",
         "geneplotter",
         "pfamAnalyzeR",
-        "sva",
-        "tximeta"
+        "sva"
     ],
     "ISoLDE": [],
     "isomiRs": [
@@ -2130,7 +2118,6 @@
         "CompoundDb",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "ComplexHeatmap",
         "MWASTools",
@@ -2562,7 +2549,6 @@
         "RandomWalkRestartMH"
     ],
     "netprioR": [],
-    "netresponse": [],
     "NetSAM": [
         "impute"
     ],
@@ -2653,7 +2639,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "Organism.dplyr": [],
     "orthos": [
         "basilisk",
         "basilisk.utils",
@@ -2745,7 +2730,6 @@
     "pfamAnalyzeR": [],
     "pgca": [],
     "phantasus": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -3071,7 +3055,6 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "restfulSE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -3245,7 +3228,6 @@
     "scClassify": [
         "Cepo"
     ],
-    "sccomp": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -3269,7 +3251,6 @@
         "metapod",
         "scran"
     ],
-    "scGPS": [],
     "schex": [],
     "scHOT": [],
     "scider": [],
@@ -3336,7 +3317,6 @@
     ],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
         "metapod",
         "scran"
     ],
@@ -3389,7 +3369,6 @@
         "sva"
     ],
     "sevenbridges": [],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -3573,7 +3552,6 @@
     ],
     "spikeLI": [],
     "spiky": [],
-    "splatter": [],
     "SpliceWiz": [
         "genefilter"
     ],
@@ -3674,9 +3652,7 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
@@ -3780,11 +3756,8 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tximeta": [],
     "UCell": [],
-    "Ularcirc": [
-        "Organism.dplyr"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
