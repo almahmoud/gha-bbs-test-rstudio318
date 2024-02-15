@@ -175,22 +175,18 @@
     ],
     "ATACCoGAPS": [
         "GeneOverlap",
-        "TFBSTools",
         "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
-        "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [
@@ -318,7 +314,6 @@
         "dmrseq",
         "impute"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "ComplexHeatmap",
         "DEXSeq",
@@ -434,9 +429,7 @@
     "CCPlotR": [
         "ComplexHeatmap"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "celda": [
         "ComplexHeatmap",
@@ -533,19 +526,15 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "metapod",
         "scran"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [],
     "cisPath": [],
     "CiteFuse": [
@@ -605,7 +594,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "ComplexHeatmap",
         "MIRA"
@@ -826,7 +814,6 @@
     ],
     "cytoviewer": [],
     "dagLogo": [
-        "TFBSTools",
         "UniProt.ws",
         "motifStack"
     ],
@@ -982,7 +969,6 @@
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
-    "DrugVsDisease": [],
     "DSS": [],
     "dStruct": [],
     "DTA": [],
@@ -1011,7 +997,6 @@
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -1032,7 +1017,6 @@
     "enrichTF": [
         "DOSE",
         "GOSemSim",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -1043,7 +1027,6 @@
         "RCy3",
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "DOSE",
@@ -1074,7 +1057,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -1083,7 +1065,6 @@
         "GSVA"
     ],
     "escheR": [],
-    "EventPointer": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -1115,7 +1096,6 @@
         "genomation",
         "impute"
     ],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "TSCAN"
@@ -1717,7 +1697,6 @@
     "LineagePulse": [
         "ComplexHeatmap"
     ],
-    "lineagespot": [],
     "LinkHD": [],
     "lipidr": [
         "impute"
@@ -1807,9 +1786,7 @@
         "impute",
         "vsn"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
@@ -2049,8 +2026,7 @@
         "ComplexHeatmap"
     ],
     "monaLisa": [
-        "ComplexHeatmap",
-        "TFBSTools"
+        "ComplexHeatmap"
     ],
     "monocle": [],
     "Moonlight2R": [
@@ -2072,16 +2048,11 @@
     "MOSim": [],
     "motifbreakR": [
         "Gviz",
-        "TFBSTools",
         "motifStack"
     ],
     "motifcounter": [],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "msa": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -2187,7 +2158,6 @@
         "ComplexHeatmap",
         "decompTumor2Sig"
     ],
-    "MutationalPatterns": [],
     "MWASTools": [
         "ComplexHeatmap"
     ],
@@ -2196,7 +2166,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
-        "TFBSTools",
         "csaw",
         "metapod",
         "motifStack",
@@ -2328,7 +2297,6 @@
     "padma": [],
     "PADOG": [],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "pairedGSEA": [
@@ -2432,7 +2400,6 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [],
     "POMA": [
         "ComplexHeatmap",
         "RankProd",
@@ -2450,8 +2417,7 @@
     ],
     "primirTSS": [
         "GenomicScores",
-        "Gviz",
-        "TFBSTools"
+        "Gviz"
     ],
     "PrInCE": [
         "MSnbase",
@@ -2485,7 +2451,6 @@
         "pRoloc",
         "vsn"
     ],
-    "PROMISE": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -2672,9 +2637,7 @@
         "genefilter",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -2694,7 +2657,6 @@
     "ribor": [],
     "ribosomeProfilingQC": [
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "rifiComparative": [
@@ -2716,7 +2678,6 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [
@@ -3007,7 +2968,6 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "singscore": [],
     "skewr": [
         "genefilter",
         "lumi",
@@ -3070,7 +3030,6 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "TFBSTools",
         "motifmatchr"
     ],
     "specL": [],
@@ -3153,7 +3112,6 @@
         "ComplexHeatmap",
         "GSVA",
         "genefilter",
-        "singscore",
         "sva"
     ],
     "TDbasedUFEadv": [
@@ -3165,7 +3123,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "TFBSTools": [],
     "tigre": [],
     "tilingArray": [
         "genefilter",
