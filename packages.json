@@ -168,7 +168,6 @@
         "GeneOverlap"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [
         "Category",
@@ -851,7 +850,6 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "dreamlet": [],
     "DriverNet": [],
     "drugTargetInteractions": [
         "UniProt.ws"
@@ -880,7 +878,6 @@
         "ComplexHeatmap"
     ],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "genefilter",
         "geneplotter",
@@ -1653,7 +1650,6 @@
     "messina": [],
     "metabCombiner": [],
     "metabinR": [],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "ComplexHeatmap",
         "MWASTools",
@@ -1876,7 +1872,6 @@
         "genefilter",
         "sva"
     ],
-    "MsQuality": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -2038,7 +2033,6 @@
     ],
     "padma": [],
     "PADOG": [],
-    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
