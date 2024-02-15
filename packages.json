@@ -210,7 +210,6 @@
         "ComplexHeatmap"
     ],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "GeneOverlap",
         "TFBSTools",
@@ -218,7 +217,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
@@ -227,13 +225,11 @@
         "regioneR"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
     "atena": [],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -309,7 +305,6 @@
         "zinbwave"
     ],
     "BgeeCall": [],
-    "BgeeDB": [],
     "bgx": [
         "gcrma"
     ],
@@ -354,7 +349,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [
         "ComplexHeatmap",
         "HDF5Array"
@@ -700,7 +694,6 @@
         "scran"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "cicero": [
@@ -768,7 +761,6 @@
     "cn.farms": [],
     "cn.mops": [],
     "CNAnorm": [],
-    "CNEr": [],
     "CNORfuzzy": [],
     "CNTools": [
         "genefilter"
@@ -800,8 +792,6 @@
         "MIRA",
         "bsseq"
     ],
-    "codelink": [],
-    "CODEX": [],
     "CoGAPS": [],
     "coGPS": [],
     "COHCAP": [],
@@ -1073,7 +1063,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "UniProt.ws",
         "motifStack"
@@ -1259,7 +1248,6 @@
         "bsseq",
         "regioneR"
     ],
-    "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
@@ -1325,7 +1313,6 @@
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -1349,7 +1336,6 @@
         "GOSemSim"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "GOSemSim",
         "TFBSTools",
@@ -1412,7 +1398,6 @@
     ],
     "ERSSA": [],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
@@ -1690,7 +1675,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -1881,7 +1865,6 @@
     ],
     "GOpro": [],
     "GOSemSim": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "GOSemSim",
@@ -2022,9 +2005,7 @@
         "siggenes"
     ],
     "iClusterPlus": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -2109,7 +2090,6 @@
     ],
     "IONiseR": [],
     "iPAC": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -2312,7 +2292,6 @@
         "vsn"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "matter": [],
@@ -2629,7 +2608,6 @@
         "ComplexHeatmap"
     ],
     "monaLisa": [
-        "CNEr",
         "ComplexHeatmap",
         "TFBSTools"
     ],
@@ -2652,7 +2630,6 @@
     ],
     "MOSim": [],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -2660,11 +2637,9 @@
     ],
     "motifcounter": [],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "msa": [],
@@ -2746,14 +2721,10 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -2772,10 +2743,8 @@
         "vsn"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [],
     "multiClust": [],
@@ -2822,7 +2791,6 @@
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
@@ -3008,7 +2976,6 @@
     "padma": [],
     "PADOG": [],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -3162,7 +3129,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -3246,9 +3212,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -3278,7 +3242,6 @@
         "impute"
     ],
     "QFeatures": [],
-    "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -3461,7 +3424,6 @@
         "impute"
     ],
     "rfaRm": [],
-    "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [
         "regioneR"
@@ -3478,7 +3440,6 @@
     "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "TFBSTools",
@@ -3505,7 +3466,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "STRINGdb"
     ],
     "RJMCMCNucleosomes": [],
@@ -3984,7 +3944,6 @@
         "GSEABase"
     ],
     "sparsenetgls": [],
-    "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -4007,7 +3966,6 @@
         "RBioFormats"
     ],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -4115,7 +4073,6 @@
         "mzR",
         "vsn"
     ],
-    "SynExtend": [],
     "synlet": [
         "RankProd"
     ],
@@ -4159,9 +4116,7 @@
         "restfulSE"
     ],
     "terraTCGAdata": [],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFHAZ": [],
     "TFutils": [
         "GSEABase"
