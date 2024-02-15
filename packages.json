@@ -1432,12 +1432,9 @@
     "DynDoc": [],
     "easier": [
         "decoupleR",
-        "progeny",
-        "quantiseqr"
+        "progeny"
     ],
-    "easyRNASeq": [
-        "genomeIntervals"
-    ],
+    "easyRNASeq": [],
     "EBSEA": [],
     "EDASeq": [],
     "edge": [
@@ -1956,7 +1953,6 @@
     "genomation": [
         "impute"
     ],
-    "genomeIntervals": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2034,9 +2030,7 @@
     ],
     "ggtreeExtra": [],
     "GIGSEA": [],
-    "girafe": [
-        "genomeIntervals"
-    ],
+    "girafe": [],
     "GISPA": [
         "GSEABase",
         "genefilter"
@@ -2800,9 +2794,7 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2980,7 +2972,6 @@
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
-        "genomeIntervals",
         "ggbio"
     ],
     "msImpute": [
@@ -3276,7 +3267,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "oncomix": [],
     "onlineFDR": [],
     "ontoProc": [],
     "openCyto": [
@@ -3650,7 +3640,6 @@
         "sva"
     ],
     "Qtlizer": [],
-    "quantiseqr": [],
     "quantro": [
         "HDF5Array",
         "genefilter",
@@ -3774,7 +3763,6 @@
     ],
     "RegionalST": [
         "BayesSpace",
-        "TOAST",
         "fgsea",
         "metapod",
         "scran"
@@ -4202,7 +4190,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGate": [],
     "SeqGSEA": [],
     "SeqSQC": [
         "SNPRelate",
@@ -4514,7 +4501,6 @@
     "statTarget": [
         "impute"
     ],
-    "STdeconvolve": [],
     "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
@@ -4662,7 +4648,6 @@
         "GSVA",
         "HDF5Array"
     ],
-    "TOAST": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
