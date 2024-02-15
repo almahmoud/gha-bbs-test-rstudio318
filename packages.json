@@ -49,7 +49,6 @@
         "gcrma",
         "genefilter"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
@@ -96,7 +95,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
@@ -162,7 +160,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioassayR": [],
     "bioCancer": [
         "DOSE",
@@ -209,7 +206,6 @@
     "BLMA": [
         "PADOG"
     ],
-    "BloodGen3Module": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -406,7 +402,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [],
     "coGPS": [],
     "cola": [
         "impute"
@@ -1010,7 +1005,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneTonic": [],
     "genoCN": [],
     "genomation": [
         "impute"
@@ -1066,7 +1060,6 @@
         "genefilter",
         "impute"
     ],
-    "gmoviz": [],
     "GOSemSim": [],
     "goSorensen": [
         "DOSE",
@@ -1231,7 +1224,6 @@
         "sva"
     ],
     "lfa": [],
-    "LineagePulse": [],
     "lipidr": [
         "impute"
     ],
@@ -1348,7 +1340,6 @@
         "MeSHDbi",
         "genefilter"
     ],
-    "MesKit": [],
     "messina": [],
     "metabCombiner": [],
     "metabinR": [],
@@ -1420,7 +1411,6 @@
     ],
     "MetID": [],
     "mgsa": [],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
@@ -1448,9 +1438,7 @@
         "genefilter",
         "siggenes"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1557,7 +1545,6 @@
     "multicrispr": [
         "CRISPRseek"
     ],
-    "MultiRNAflow": [],
     "multiWGCNA": [
         "impute"
     ],
@@ -2153,7 +2140,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simona": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -2338,7 +2324,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [
         "GDSArray",
         "SNPRelate",
@@ -2394,7 +2379,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "YAPSA": [],
     "yarn": [
         "genefilter",
         "minfi",
