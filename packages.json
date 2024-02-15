@@ -118,7 +118,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "AllelicImbalance": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -263,7 +262,6 @@
     "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
-    "biomvRCNS": [],
     "BioNAR": [
         "impute"
     ],
@@ -312,9 +310,7 @@
         "derfinderPlot"
     ],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "ComplexHeatmap",
@@ -323,8 +319,7 @@
         "sva"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -459,7 +454,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "chimeraviz": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -935,7 +929,6 @@
     "extraChIPs": [
         "ComplexHeatmap",
         "EnrichedHeatmap",
-        "GenomicInteractions",
         "csaw",
         "metapod"
     ],
@@ -1212,7 +1205,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneStructureTools": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "ComplexHeatmap"
@@ -1221,7 +1213,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicPlot": [
         "ComplexHeatmap",
@@ -1343,9 +1334,7 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1714,7 +1703,6 @@
     "MethylSeekR": [
         "geneplotter"
     ],
-    "methylSig": [],
     "methylumi": [
         "genefilter",
         "minfi",
@@ -2097,7 +2085,6 @@
         "enrichplot",
         "impute"
     ],
-    "PING": [],
     "pipeComp": [
         "ComplexHeatmap",
         "metapod",
@@ -2180,9 +2167,7 @@
         "genefilter",
         "vsn"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -2279,7 +2264,6 @@
     "rebook": [
         "dir.expiry"
     ],
-    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -2360,8 +2344,7 @@
         "vsn"
     ],
     "RNAAgeCalc": [
-        "impute",
-        "recount"
+        "impute"
     ],
     "RNAdecay": [],
     "RNAinteract": [
@@ -2382,9 +2365,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -2470,7 +2451,6 @@
     "scRNAseqApp": [
         "ComplexHeatmap"
     ],
-    "scruff": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -2653,9 +2633,7 @@
     "SpatialOmicsOverlay": [
         "RBioFormats"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "spicyR": [
         "ClassifyR",
@@ -2709,7 +2687,6 @@
         "RankProd"
     ],
     "SynMut": [],
-    "tadar": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "ComplexHeatmap",
@@ -2788,7 +2765,6 @@
     "tripr": [],
     "TSAR": [],
     "ttgsea": [],
-    "TVTB": [],
     "uncoverappLib": [],
     "UniProt.ws": [],
     "uSORT": [
