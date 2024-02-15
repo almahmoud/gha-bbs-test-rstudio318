@@ -269,7 +269,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CCPlotR": [],
     "ccrepe": [],
     "celda": [
         "metapod",
@@ -498,7 +497,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [],
     "cydar": [
         "RProtoBufLib",
         "cytolib",
@@ -614,7 +612,6 @@
         "NCIgraph",
         "RCy3"
     ],
-    "DEGreport": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -702,7 +699,6 @@
         "PADOG",
         "gage"
     ],
-    "ELMER": [],
     "EnhancedVolcano": [],
     "ENmix": [
         "genefilter",
@@ -964,7 +960,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -1025,7 +1020,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1085,7 +1079,6 @@
         "genefilter"
     ],
     "GPA": [],
-    "GRaNIE": [],
     "graper": [],
     "GraphPAC": [
         "iPAC"
@@ -1120,7 +1113,6 @@
         "altcdfenvs",
         "hypergraph"
     ],
-    "hermes": [],
     "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
@@ -1193,7 +1185,6 @@
         "cytolib",
         "flowCore"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -1227,9 +1218,7 @@
         "sva"
     ],
     "ISoLDE": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1364,7 +1353,6 @@
     "metabCombiner": [],
     "metabinR": [],
     "MetaboSignal": [
-        "MWASTools",
         "hpar"
     ],
     "MetaCyto": [
@@ -1501,7 +1489,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "DOSE",
@@ -1579,8 +1566,6 @@
         "scran"
     ],
     "muscle": [],
-    "musicatk": [],
-    "MWASTools": [],
     "NADfinder": [
         "csaw",
         "metapod"
@@ -1630,7 +1615,6 @@
         "yarn"
     ],
     "ngsReports": [],
-    "nipalsMCIA": [],
     "nnNorm": [],
     "NoRCE": [
         "rWikiPathways"
@@ -2222,7 +2206,6 @@
         "metapod",
         "scran"
     ],
-    "sparrow": [],
     "sparsenetgls": [],
     "spatialDE": [
         "basilisk",
@@ -2408,7 +2391,6 @@
         "genefilter",
         "siggenes"
     ],
-    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
