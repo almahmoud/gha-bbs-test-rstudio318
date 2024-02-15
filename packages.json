@@ -453,7 +453,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "COTAN": [],
     "countsimQC": [
         "genefilter"
     ],
@@ -533,7 +532,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytolib": [
         "RProtoBufLib"
     ],
@@ -721,7 +719,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -767,7 +764,6 @@
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "csaw",
         "metapod"
     ],
@@ -947,7 +943,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "FRASER": [],
     "frenchFISH": [],
     "frmaTools": [],
     "funtooNorm": [
@@ -1150,7 +1145,6 @@
     ],
     "HIREewas": [],
     "hmdbQuery": [],
-    "hoodscanR": [],
     "hpar": [],
     "HTSFilter": [],
     "hyperdraw": [
@@ -1213,7 +1207,6 @@
         "Category",
         "genefilter"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "genefilter"
@@ -1228,24 +1221,12 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -1529,7 +1510,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MOMA": [],
     "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -1607,7 +1587,6 @@
         "metapod",
         "scran"
     ],
-    "muscat": [],
     "muscle": [],
     "musicatk": [],
     "MWASTools": [],
@@ -1736,7 +1715,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "PathoStat": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -1813,7 +1791,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "GOSemSim",
         "enrichplot"
     ],
@@ -1954,7 +1931,6 @@
         "minfi",
         "siggenes"
     ],
-    "recoup": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2105,7 +2081,6 @@
     "scran": [
         "metapod"
     ],
-    "scRNAseqApp": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -2126,7 +2101,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -2159,7 +2133,6 @@
     ],
     "SEtools": [
         "genefilter",
-        "sechm",
         "sva"
     ],
     "sevenbridges": [],
