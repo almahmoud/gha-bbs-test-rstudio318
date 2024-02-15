@@ -163,7 +163,6 @@
     "amplican": [],
     "Anaquin": [],
     "ANCOMBC": [],
-    "AneuFinder": [],
     "animalcules": [],
     "annmap": [
         "genefilter"
@@ -199,7 +198,6 @@
         "genefilter",
         "vsn"
     ],
-    "artMS": [],
     "ASAFE": [],
     "ASEB": [],
     "ASICS": [
@@ -209,7 +207,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AssessORF": [],
     "ASSET": [],
     "ASSIGN": [
         "genefilter",
@@ -467,7 +464,6 @@
     ],
     "branchpointer": [],
     "BRGenomics": [],
-    "BSgenomeForge": [],
     "bsseq": [
         "HDF5Array"
     ],
@@ -505,7 +501,6 @@
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -607,7 +602,6 @@
         "vsn"
     ],
     "CelliD": [],
-    "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
     "CellTrails": [],
@@ -699,7 +693,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
@@ -708,7 +701,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -756,7 +748,6 @@
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -862,7 +853,6 @@
     ],
     "ComplexHeatmap": [],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "condiments": [
@@ -919,7 +909,6 @@
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -1244,7 +1233,6 @@
         "mzR"
     ],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1421,7 +1409,6 @@
     ],
     "epigenomix": [],
     "epigraHMM": [
-        "GreyListChIP",
         "csaw",
         "metapod"
     ],
@@ -1477,7 +1464,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [],
@@ -1543,7 +1529,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -1954,7 +1939,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GreyListChIP": [],
     "GSCA": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
@@ -2168,7 +2152,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2270,7 +2253,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2332,7 +2314,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2445,11 +2426,9 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "MetaboCoreUtils",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "ComplexHeatmap",
@@ -2466,7 +2445,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2497,7 +2475,6 @@
         "vsn"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methInheritSim": [
@@ -2574,8 +2551,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MGFM": [],
-    "MGFR": [],
     "mgsa": [],
     "miaSim": [],
     "miaViz": [],
@@ -2672,7 +2647,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2746,28 +2720,22 @@
     ],
     "msa": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsDataHub": [],
     "MsExperiment": [
-        "MetaboCoreUtils",
         "QFeatures",
         "Spectra"
     ],
@@ -2825,7 +2793,6 @@
         "QFeatures"
     ],
     "MsQuality": [
-        "MetaboCoreUtils",
         "MsExperiment",
         "QFeatures",
         "Spectra"
@@ -2938,7 +2905,6 @@
     "ncGTW": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -3174,7 +3140,6 @@
     ],
     "peco": [],
     "pepXMLTab": [],
-    "periodicDNA": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "phantasus": [],
@@ -3261,7 +3226,6 @@
         "aCGH",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "CNEr",
         "GenomicScores",
@@ -3600,7 +3564,6 @@
     "Risa": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -3721,10 +3684,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [
-        "MGFM",
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SARC": [],
     "SBGNview": [
         "pathview"
@@ -4138,9 +4098,7 @@
     ],
     "speckle": [],
     "specL": [],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare"
     ],
@@ -4255,7 +4213,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "TAPseq": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
@@ -4442,7 +4399,6 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "VarCon": [],
     "VariantExperiment": [
         "GDSArray",
         "SNPRelate",
@@ -4491,7 +4447,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "csaw",
         "metapod",
         "regioneR",
@@ -4518,7 +4473,6 @@
     "xcms": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
