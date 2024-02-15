@@ -172,15 +172,12 @@
     ],
     "ATACCoGAPS": [
         "GeneOverlap",
-        "chromVAR",
-        "motifmatchr"
+        "chromVAR"
     ],
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -363,7 +360,6 @@
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -415,7 +411,6 @@
     "CCPlotR": [
         "ComplexHeatmap"
     ],
-    "CCPROMISE": [],
     "ccrepe": [],
     "celda": [
         "ComplexHeatmap",
@@ -532,7 +527,6 @@
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -598,7 +592,6 @@
         "methylPipe"
     ],
     "ComplexHeatmap": [],
-    "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
         "RProtoBufLib",
@@ -632,7 +625,6 @@
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -865,7 +857,6 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -924,9 +915,7 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "DriverNet": [],
     "drugTargetInteractions": [
         "UniProt.ws"
@@ -957,9 +946,7 @@
         "Gviz"
     ],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "genefilter",
         "geneplotter",
@@ -978,8 +965,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1008,15 +994,13 @@
         "minfi",
         "siggenes"
     ],
-    "EpiTxDb": [],
     "erma": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "escape": [],
     "ExperimentHubData": [
@@ -1068,7 +1052,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -1561,7 +1544,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -1644,7 +1626,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -1690,7 +1671,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -1771,9 +1751,7 @@
     "messina": [],
     "metabCombiner": [],
     "metabinR": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "ComplexHeatmap",
         "MWASTools",
@@ -1789,7 +1767,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -1808,7 +1785,6 @@
         "survcomp",
         "vsn"
     ],
-    "MetCirc": [],
     "MethylAid": [
         "genefilter",
         "minfi",
@@ -1924,7 +1900,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -1972,14 +1947,9 @@
         "motifStack"
     ],
     "motifcounter": [],
-    "motifmatchr": [],
     "motifStack": [],
     "msa": [],
-    "MsBackendMassbank": [],
-    "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
     "msgbsR": [
         "easyRNASeq",
         "ggbio"
@@ -2017,9 +1987,7 @@
         "genefilter",
         "sva"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
@@ -2084,7 +2052,6 @@
     "ncGTW": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -2191,9 +2158,7 @@
     ],
     "padma": [],
     "PADOG": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -2295,7 +2260,6 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "prebs": [],
     "preciseTAD": [
         "aCGH",
         "rCGH"
@@ -2476,7 +2440,6 @@
     "recoup": [
         "ComplexHeatmap"
     ],
-    "REDseq": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2537,7 +2500,6 @@
     "Risa": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn",
         "xcms"
@@ -2872,8 +2834,7 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "specL": [],
     "spicyR": [
@@ -2917,7 +2878,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [],
     "svaRetro": [],
     "SVMDO": [
         "DOSE",
@@ -2992,7 +2952,6 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [],
     "transcriptogramer": [],
     "transformGamPoi": [],
     "tRanslatome": [
@@ -3090,7 +3049,6 @@
     "xcms": [
         "MSnbase",
         "MassSpecWavelet",
-        "MsExperiment",
         "impute",
         "vsn"
     ],
@@ -3122,7 +3080,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "zenith": [],
     "zinbwave": [
         "genefilter"
     ]
