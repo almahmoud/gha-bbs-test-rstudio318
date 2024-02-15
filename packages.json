@@ -52,10 +52,7 @@
         "gcrma",
         "genefilter"
     ],
-    "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck"
-    ],
+    "AHMassBank": [],
     "airpart": [
         "ComplexHeatmap"
     ],
@@ -133,9 +130,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [
-        "BiocCheck"
-    ],
+    "AnnotationHubData": [],
     "AnVILBilling": [],
     "arrayMvout": [
         "genefilter",
@@ -153,7 +148,6 @@
     ],
     "ASAFE": [],
     "ASEB": [],
-    "ASpli": [],
     "ASSET": [],
     "ASSIGN": [
         "genefilter",
@@ -241,7 +235,6 @@
         "enrichplot"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [],
     "biocGraph": [
         "geneplotter"
     ],
@@ -303,12 +296,9 @@
         "sva",
         "vsn"
     ],
-    "BOBaFIT": [],
     "borealis": [],
     "BRAIN": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [
@@ -529,11 +519,8 @@
         "ComplexHeatmap",
         "impute"
     ],
-    "comapr": [],
     "coMET": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "ComplexHeatmap": [],
     "CONFESS": [
         "RProtoBufLib",
@@ -622,7 +609,6 @@
     "csdR": [
         "impute"
     ],
-    "cummeRbund": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -783,7 +769,6 @@
         "impute",
         "vsn"
     ],
-    "derfinderPlot": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -920,10 +905,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot"
-    ],
-    "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck"
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
@@ -1169,9 +1150,7 @@
     "gDRimport": [
         "gDRutils"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
@@ -1213,7 +1192,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "ComplexHeatmap",
         "RCAS",
@@ -1676,9 +1654,6 @@
         "siggenes"
     ],
     "methylclock": [
-        "AnnotationHubData",
-        "BiocCheck",
-        "ExperimentHubData",
         "genefilter",
         "impute",
         "minfi",
@@ -1699,7 +1674,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylPipe": [],
     "MethylSeekR": [
         "geneplotter"
     ],
@@ -1896,8 +1870,7 @@
     ],
     "NADfinder": [
         "csaw",
-        "metapod",
-        "trackViewer"
+        "metapod"
     ],
     "NBAMSeq": [
         "genefilter"
@@ -1959,7 +1932,6 @@
     "odseq": [
         "msa"
     ],
-    "OGRE": [],
     "OLIN": [],
     "OLINgui": [
         "DynDoc",
@@ -2177,7 +2149,6 @@
     "pvca": [
         "vsn"
     ],
-    "Pviz": [],
     "pwOmics": [
         "STRINGdb"
     ],
@@ -2215,7 +2186,6 @@
         "iPAC"
     ],
     "QUBIC": [],
-    "R3CPET": [],
     "R4RNA": [],
     "RAIDS": [
         "GENESIS",
@@ -2355,16 +2325,9 @@
         "splots",
         "vsn"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
@@ -2608,7 +2571,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [],
     "SpacePAC": [
         "iPAC"
     ],
@@ -2650,7 +2612,6 @@
         "impute"
     ],
     "SQUADD": [],
-    "srnadiff": [],
     "ssize": [],
     "staRank": [
         "Category",
@@ -2737,7 +2698,6 @@
         "impute",
         "vsn"
     ],
-    "trackViewer": [],
     "transcriptogramer": [],
     "tRanslatome": [
         "GOSemSim",
@@ -2839,8 +2799,7 @@
     ],
     "xmapbridge": [],
     "YAPSA": [
-        "ComplexHeatmap",
-        "SomaticSignatures"
+        "ComplexHeatmap"
     ],
     "yarn": [
         "genefilter",
