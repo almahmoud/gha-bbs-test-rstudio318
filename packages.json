@@ -432,8 +432,7 @@
     ],
     "blima": [],
     "BLMA": [
-        "PADOG",
-        "ROntoTools"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "ComplexHeatmap"
@@ -721,9 +720,7 @@
     "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromHeatMap": [],
     "ChromSCape": [
         "batchelor",
@@ -894,7 +891,6 @@
         "impute",
         "survcomp"
     ],
-    "consICA": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -1485,7 +1481,6 @@
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -1714,7 +1709,6 @@
         "OUTRIDER"
     ],
     "frenchFISH": [],
-    "frma": [],
     "frmaTools": [],
     "funtooNorm": [
         "HDF5Array",
@@ -2003,7 +1997,6 @@
     "GWENA": [
         "impute"
     ],
-    "h5vc": [],
     "hapFabia": [],
     "HarmonizR": [
         "genefilter",
@@ -2646,9 +2639,7 @@
         "HDF5Array",
         "bsseq"
     ],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -3581,7 +3572,6 @@
     ],
     "rgoslin": [],
     "rgsepd": [],
-    "rhdf5": [],
     "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
@@ -3694,7 +3684,6 @@
         "impute"
     ],
     "RolDE": [],
-    "ROntoTools": [],
     "ropls": [],
     "RPA": [
         "biomformat",
