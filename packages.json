@@ -51,7 +51,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -62,48 +61,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -218,9 +201,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "biocGraph": [
-        "geneplotter"
-    ],
+    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -254,8 +235,7 @@
     ],
     "blacksheepr": [
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "BLMA": [
         "PADOG"
@@ -688,8 +668,7 @@
         "sva"
     ],
     "DEXSeq": [
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "diffcoexp": [
         "impute"
@@ -707,8 +686,7 @@
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "diggit": [],
     "Dino": [
@@ -761,7 +739,6 @@
     "EnhancedVolcano": [],
     "ENmix": [
         "genefilter",
-        "geneplotter",
         "impute",
         "minfi",
         "siggenes"
@@ -1067,7 +1044,6 @@
     ],
     "GeneOverlap": [],
     "geneplast": [],
-    "geneplotter": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -1133,7 +1109,6 @@
         "impute"
     ],
     "gmoviz": [],
-    "GOpro": [],
     "GOSemSim": [],
     "goSorensen": [
         "DOSE",
@@ -1263,10 +1238,8 @@
     "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
-    "IntramiRExploreR": [],
     "iPAC": [],
     "IPO": [
         "CAMERA",
@@ -1300,7 +1273,6 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "pfamAnalyzeR",
         "sva"
     ],
@@ -1503,9 +1475,7 @@
     "MethylMix": [
         "impute"
     ],
-    "MethylSeekR": [
-        "geneplotter"
-    ],
+    "MethylSeekR": [],
     "methylumi": [
         "genefilter",
         "minfi",
@@ -1561,7 +1531,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MMDiff2": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
@@ -1611,7 +1580,6 @@
         "metapod",
         "scran"
     ],
-    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "impute",
@@ -1775,7 +1743,6 @@
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "sva"
     ],
     "PanomiR": [
@@ -2082,7 +2049,6 @@
         "Category",
         "cellHTS2",
         "genefilter",
-        "geneplotter",
         "splots",
         "vsn"
     ],
@@ -2135,7 +2101,6 @@
         "metapod",
         "scran"
     ],
-    "scDesign3": [],
     "scFeatures": [
         "SingleCellSignalR",
         "metapod",
@@ -2155,7 +2120,6 @@
         "cytolib",
         "flowCore"
     ],
-    "SCOPE": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
@@ -2377,7 +2341,6 @@
         "impute",
         "vsn"
     ],
-    "synlet": [],
     "SynMut": [],
     "TBSignatureProfiler": [
         "ASSIGN",
