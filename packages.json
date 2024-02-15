@@ -199,7 +199,6 @@
         "GOstats",
         "genefilter"
     ],
-    "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
         "sva"
@@ -249,7 +248,6 @@
         "gcrma"
     ],
     "BHC": [],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw",
         "hypergraph"
@@ -1005,7 +1003,6 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "zenith"
@@ -1462,7 +1459,6 @@
         "impute",
         "sva"
     ],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2",
@@ -1498,7 +1494,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
-    "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1632,7 +1627,6 @@
         "pcaExplorer"
     ],
     "IHW": [],
-    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1751,7 +1745,6 @@
     ],
     "iterativeBMAsurv": [],
     "karyoploteR": [],
-    "katdetectr": [],
     "KCsmart": [
         "siggenes"
     ],
@@ -2028,7 +2021,6 @@
     "mgsa": [],
     "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ComplexHeatmap"
     ],
@@ -2368,7 +2360,6 @@
         "HelloRanges"
     ],
     "omicsPrint": [],
-    "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
     "onlineFDR": [],
@@ -2604,7 +2595,6 @@
         "impute",
         "vsn"
     ],
-    "PureCN": [],
     "pvac": [],
     "pvca": [
         "vsn"
@@ -2776,7 +2766,6 @@
     ],
     "rfaRm": [],
     "rgoslin": [],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -3008,7 +2997,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqCAT": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -3135,7 +3123,6 @@
         "dir.expiry"
     ],
     "SNPediaR": [],
-    "SNPhood": [],
     "SNPRelate": [
         "gdsfmt"
     ],
@@ -3277,7 +3264,6 @@
         "SCBN"
     ],
     "TFBSTools": [],
-    "TFHAZ": [],
     "tigre": [],
     "tilingArray": [
         "genefilter",
@@ -3374,7 +3360,6 @@
         "Gviz"
     ],
     "UniProt.ws": [],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
