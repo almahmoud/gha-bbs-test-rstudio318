@@ -28,7 +28,6 @@
     "adductomicsR": [
         "mzR"
     ],
-    "ADImpute": [],
     "adSplit": [],
     "affycoretools": [
         "Category",
@@ -465,7 +464,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -699,7 +697,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -851,7 +848,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1134,7 +1130,6 @@
         "mzR",
         "vsn"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -1344,7 +1339,6 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1447,7 +1441,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1905,12 +1898,8 @@
         "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
     "HiCool": [
-        "HiCExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -2042,7 +2031,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2142,7 +2130,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2200,7 +2187,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2303,7 +2289,6 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -2324,7 +2309,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2429,7 +2413,6 @@
         "widgetTools"
     ],
     "mgsa": [],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [
         "phyloseq"
@@ -2517,7 +2500,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2598,7 +2580,6 @@
         "Spectra"
     ],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "MsFeatures": [],
@@ -2651,12 +2632,9 @@
     "msPurity": [
         "mzR"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsLiP": [
@@ -2683,7 +2661,6 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "MuData": [],
     "MultiBaC": [],
     "multiClust": [],
     "multicrispr": [
@@ -2759,7 +2736,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2771,11 +2747,9 @@
         "RCy3"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM"
     ],
-    "NetActivity": [],
     "netboost": [
         "impute"
     ],
@@ -3022,7 +2996,6 @@
         "genefilter"
     ],
     "plotGrouper": [],
-    "plyinteractions": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -3126,9 +3099,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
@@ -3158,7 +3129,6 @@
         "CGHcall",
         "impute"
     ],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -3372,7 +3342,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -3555,7 +3524,6 @@
         "metapod",
         "scran"
     ],
-    "scMET": [],
     "scmeth": [
         "HDF5Array",
         "annotatr",
@@ -3574,9 +3542,7 @@
     ],
     "SCOPE": [],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPCA": [],
     "scPipe": [
         "DropletUtils",
@@ -3589,7 +3555,6 @@
         "metapod"
     ],
     "scReClassify": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "ComplexHeatmap",
         "TrajectoryUtils",
@@ -3626,7 +3591,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SDAMS": [],
     "sechm": [
         "ComplexHeatmap"
     ],
@@ -4004,7 +3968,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "restfulSE"
     ],
@@ -4101,7 +4064,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "sva"
@@ -4110,13 +4072,8 @@
         "siggenes"
     ],
     "tripr": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [
         "TrajectoryUtils"
@@ -4226,7 +4183,6 @@
         "MassSpecWavelet",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
