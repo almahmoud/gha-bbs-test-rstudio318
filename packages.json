@@ -246,7 +246,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "batchelor": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -264,7 +263,6 @@
     "beer": [],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
         "dearseq",
         "genefilter",
         "phyloseq",
@@ -428,7 +426,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -496,9 +493,7 @@
     ],
     "ccrepe": [],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "ComplexHeatmap",
         "metapod",
@@ -614,7 +609,6 @@
     "ChIPseqR": [],
     "ChIPXpress": [],
     "ChromSCape": [
-        "batchelor",
         "metapod",
         "scran"
     ],
@@ -644,7 +638,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -776,7 +769,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1049,7 +1041,6 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "destiny": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -1226,7 +1217,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles"
     ],
@@ -1301,7 +1291,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1641,7 +1630,6 @@
     "GladiaTOX": [],
     "glmGamPoi": [],
     "GlobalAncova": [],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1859,7 +1847,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1952,7 +1939,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1998,13 +1984,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2028,7 +2012,6 @@
     ],
     "MassArray": [],
     "MassSpecWavelet": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [
         "ComplexHeatmap",
@@ -2118,7 +2101,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2292,7 +2274,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2371,7 +2352,6 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -2464,7 +2444,6 @@
         "impute"
     ],
     "mumosa": [
-        "batchelor",
         "metapod",
         "scran"
     ],
@@ -2511,7 +2490,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2562,7 +2540,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "normr": [],
     "npGSEA": [],
     "nullranges": [],
     "occugene": [],
@@ -2714,7 +2691,6 @@
         "piano"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [],
@@ -2762,9 +2738,7 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -3071,7 +3045,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -3220,7 +3193,6 @@
     ],
     "scDDboost": [],
     "scDesign3": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -3228,7 +3200,6 @@
         "metapod",
         "scran"
     ],
-    "schex": [],
     "scHOT": [],
     "scider": [],
     "scifer": [
@@ -3237,7 +3208,6 @@
         "flowCore"
     ],
     "scMerge": [
-        "batchelor",
         "metapod",
         "scran"
     ],
@@ -3245,7 +3215,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -3285,12 +3254,9 @@
         "ReactomePA",
         "enrichplot",
         "genefilter",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "metapod",
@@ -3417,19 +3383,16 @@
         "ComplexHeatmap",
         "DropletUtils",
         "GSVA",
-        "MAST",
         "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
-        "batchelor",
         "celda",
         "dir.expiry",
         "genefilter",
         "metapod",
         "scDblFinder",
         "scMerge",
-        "scds",
         "scran",
         "sva",
         "zellkonverter",
@@ -3565,7 +3528,6 @@
     "stepNorm": [],
     "stJoincount": [],
     "STRINGdb": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "subSeq": [],
     "surfaltr": [
@@ -3637,7 +3599,6 @@
         "vsn"
     ],
     "timecourse": [],
-    "timeOmics": [],
     "timescape": [],
     "TimiRGeN": [
         "DOSE",
@@ -3797,7 +3758,6 @@
         "metapod",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "genefilter",
         "lumi",
@@ -3818,7 +3778,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "impute",
         "mzID",
