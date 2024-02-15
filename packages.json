@@ -392,7 +392,6 @@
         "GSEABase"
     ],
     "BiocPkgTools": [],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -2771,7 +2770,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -4031,7 +4029,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scater": [],
     "scatterHatch": [],
     "scBFA": [
         "genefilter",
