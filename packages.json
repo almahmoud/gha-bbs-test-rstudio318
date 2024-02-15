@@ -619,9 +619,7 @@
         "flowMerge"
     ],
     "consensus": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [
         "GSVA",
         "genefu",
@@ -1249,7 +1247,6 @@
         "minfi",
         "siggenes"
     ],
-    "GA4GHshiny": [],
     "gaga": [],
     "gage": [],
     "gaggle": [],
@@ -2169,8 +2166,7 @@
     ],
     "occugene": [],
     "octad": [
-        "GSVA",
-        "RUVSeq"
+        "GSVA"
     ],
     "odseq": [
         "msa"
@@ -2363,8 +2359,7 @@
         "DOSE",
         "EnrichedHeatmap",
         "GOSemSim",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "progeny": [
         "decoupleR"
@@ -2584,7 +2579,6 @@
     ],
     "ribor": [],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "rifiComparative": [
@@ -2669,7 +2663,6 @@
     "rsemmed": [],
     "RSeqAn": [],
     "RTNsurvival": [],
-    "RUVSeq": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -2727,9 +2720,7 @@
         "scran"
     ],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
@@ -2913,7 +2904,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -2972,9 +2962,7 @@
         "Gviz"
     ],
     "ssize": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -3079,7 +3067,6 @@
     ],
     "tradeSeq": [],
     "transcriptogramer": [],
-    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
