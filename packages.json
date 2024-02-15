@@ -206,7 +206,6 @@
     "bgx": [
         "gcrma"
     ],
-    "BHC": [],
     "BiGGR": [
         "hyperdraw",
         "hypergraph"
@@ -231,7 +230,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BioCartaImage": [],
     "biocGraph": [
         "geneplotter"
     ],
@@ -249,7 +247,6 @@
         "dir.expiry"
     ],
     "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
     "BioNAR": [
@@ -314,7 +311,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "CARNIVAL": [],
     "casper": [
         "gaga"
     ],
@@ -498,7 +494,6 @@
         "ComplexHeatmap"
     ],
     "coGPS": [],
-    "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
         "impute"
@@ -512,7 +507,6 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensus": [],
     "consensusOV": [
         "genefu",
         "impute",
@@ -535,7 +529,6 @@
         "xcms"
     ],
     "cosmosR": [
-        "CARNIVAL",
         "decoupleR"
     ],
     "COSNet": [],
@@ -896,7 +889,6 @@
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "impute"
     ],
     "fCCAC": [
@@ -915,8 +907,6 @@
         "minfi",
         "siggenes"
     ],
-    "FGNet": [],
-    "FISHalyseR": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1249,8 +1239,7 @@
         "STRINGdb"
     ],
     "GSRI": [
-        "genefilter",
-        "les"
+        "genefilter"
     ],
     "GUIDEseq": [
         "CRISPRseek"
@@ -1303,7 +1292,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iCARE": [],
     "icetea": [
         "csaw",
         "metapod"
@@ -1374,9 +1362,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "iPAC": [],
     "IPO": [
         "CAMERA",
@@ -1440,7 +1426,6 @@
         "sva"
     ],
     "LEA": [],
-    "les": [],
     "lfa": [],
     "LineagePulse": [
         "ComplexHeatmap"
@@ -1449,7 +1434,6 @@
     "lipidr": [
         "impute"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -2004,7 +1988,6 @@
         "genefilter"
     ],
     "Pi": [],
-    "pickgene": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -2281,7 +2264,6 @@
     ],
     "rprimer": [],
     "RProtoBufLib": [],
-    "RRHO": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -2302,7 +2284,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "genefilter",
         "zinbwave"
@@ -2573,7 +2554,6 @@
     ],
     "SwathXtend": [],
     "swfdr": [],
-    "synapsis": [],
     "synapter": [
         "MSnbase",
         "impute",
