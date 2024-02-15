@@ -51,46 +51,25 @@
     ],
     "airpart": [],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix",
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
-        "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AlpsNMR": [
         "MassSpecWavelet",
@@ -201,7 +180,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -1475,7 +1453,6 @@
     "MethylMix": [
         "impute"
     ],
-    "MethylSeekR": [],
     "methylumi": [
         "genefilter",
         "minfi",
