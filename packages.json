@@ -179,7 +179,6 @@
         "GenomicScores",
         "HDF5Array"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
         "HDF5Array",
         "genefilter",
@@ -247,7 +246,6 @@
     "AUCell": [
         "GSEABase"
     ],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -305,7 +303,6 @@
     "benchdamic": [
         "ANCOMBC",
         "MAST",
-        "biomformat",
         "dearseq",
         "genefilter",
         "phyloseq",
@@ -343,7 +340,6 @@
         "GOSemSim",
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot"
@@ -366,7 +362,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -376,7 +371,6 @@
     "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
-    "biomformat": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -453,7 +447,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "BRGenomics": [],
     "bsseq": [
         "HDF5Array"
     ],
@@ -506,7 +499,6 @@
         "GSEABase",
         "Heatplus",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "genefilter",
         "phenoTest"
@@ -543,14 +535,12 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "genefilter"
     ],
     "CBEA": [],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "DOSE",
@@ -779,8 +769,6 @@
     "cn.mops": [],
     "CNAnorm": [],
     "CNEr": [],
-    "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNTools": [
         "genefilter"
@@ -799,7 +787,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -827,7 +814,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -1300,9 +1286,7 @@
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "HDF5Array",
         "bsseq"
@@ -1383,7 +1367,6 @@
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
@@ -1840,7 +1823,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "gg4way": [],
     "ggbio": [
         "biovizBase"
     ],
@@ -1895,7 +1877,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "GOpro": [],
@@ -2337,7 +2318,6 @@
     "matter": [],
     "MBAmethyl": [],
     "MBECS": [
-        "biomformat",
         "genefilter",
         "phyloseq",
         "sva"
@@ -2531,20 +2511,15 @@
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
         "ComplexHeatmap",
-        "biomformat",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2898,7 +2873,6 @@
     "netboost": [
         "impute"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -2972,12 +2946,10 @@
         "widgetTools"
     ],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "genefilter",
         "impute",
-        "omicade4",
         "rexposome",
         "sva"
     ],
@@ -3070,7 +3042,6 @@
     "pathifier": [],
     "PathoStat": [
         "ComplexHeatmap",
-        "biomformat",
         "phyloseq"
     ],
     "pcaExplorer": [
@@ -3131,9 +3102,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "pickgene": [],
@@ -3186,7 +3155,6 @@
     ],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -3383,7 +3351,6 @@
         "aCGH"
     ],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcpi": [
@@ -3413,7 +3380,6 @@
         "dir.expiry"
     ],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -3612,7 +3578,6 @@
     ],
     "RolDE": [],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "rprimer": [],
@@ -3629,9 +3594,7 @@
     "rsemmed": [],
     "RSeqAn": [],
     "RSVSim": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
@@ -3646,7 +3609,6 @@
         "gdsfmt"
     ],
     "sampleClassifier": [],
-    "SARC": [],
     "SBGNview": [],
     "SC3": [],
     "SCAN.UPC": [
@@ -3863,7 +3825,6 @@
         "siggenes"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [
@@ -3908,7 +3869,6 @@
     "SimBu": [
         "basilisk",
         "basilisk.utils",
-        "biomformat",
         "dir.expiry",
         "phyloseq"
     ],
@@ -4090,7 +4050,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "biomformat",
         "impute",
         "phyloseq"
     ],
@@ -4185,7 +4144,6 @@
         "sva"
     ],
     "TCC": [],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
@@ -4200,9 +4158,7 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [
         "CNEr"
     ],
