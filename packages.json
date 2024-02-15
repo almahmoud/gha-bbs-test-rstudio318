@@ -305,7 +305,6 @@
         "impute",
         "sva"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
@@ -493,8 +492,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [],
-    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
