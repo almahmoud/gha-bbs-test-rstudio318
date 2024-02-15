@@ -1027,7 +1027,6 @@
         "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "csaw",
         "metapod"
@@ -1175,11 +1174,7 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [
         "GenomicFiles"
     ],
@@ -3147,7 +3142,6 @@
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "epivizr",
         "metapod",
         "scran"
     ],
@@ -3459,7 +3453,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
@@ -3561,7 +3554,6 @@
         "ensemblVEP"
     ],
     "UCell": [],
-    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
