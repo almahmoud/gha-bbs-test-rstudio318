@@ -296,10 +296,8 @@
         "sva",
         "vsn"
     ],
-    "borealis": [],
     "BRAIN": [],
     "brainflowprobes": [],
-    "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
@@ -498,12 +496,8 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -519,7 +513,6 @@
         "ComplexHeatmap",
         "impute"
     ],
-    "coMET": [],
     "compEpiTools": [],
     "ComplexHeatmap": [],
     "CONFESS": [
@@ -542,7 +535,6 @@
         "minfi",
         "siggenes"
     ],
-    "CopyNumberPlots": [],
     "coRdon": [],
     "coseq": [
         "HTSFilter"
@@ -1252,7 +1244,6 @@
     "gmoviz": [
         "ComplexHeatmap"
     ],
-    "GNOSIS": [],
     "GOpro": [],
     "GOSemSim": [],
     "goSorensen": [
@@ -1389,7 +1380,6 @@
         "flowCore"
     ],
     "INTACT": [],
-    "intansv": [],
     "interacCircos": [],
     "InteractiveComplexHeatmap": [
         "ComplexHeatmap"
@@ -1467,7 +1457,6 @@
         "siggenes"
     ],
     "KEGGlincs": [],
-    "kissDE": [],
     "KnowSeq": [
         "genefilter",
         "sva"
@@ -1572,7 +1561,6 @@
     "MCbiclust": [
         "impute"
     ],
-    "mCSEA": [],
     "mdp": [],
     "mdqc": [],
     "MEAL": [
@@ -2085,7 +2073,6 @@
         "aCGH",
         "rCGH"
     ],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "impute",
@@ -2250,7 +2237,6 @@
         "metapod",
         "scran"
     ],
-    "regionReport": [],
     "regutools": [
         "RCy3"
     ],
@@ -2283,7 +2269,6 @@
     ],
     "rfaRm": [],
     "rgoslin": [],
-    "RiboProfiling": [],
     "ribor": [],
     "rifiComparative": [
         "DTA"
@@ -2545,7 +2530,6 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [],
     "skewr": [
         "genefilter",
         "lumi",
@@ -2606,7 +2590,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SPLINTER": [],
     "splots": [],
     "SPsimSeq": [
         "impute"
@@ -2725,7 +2708,6 @@
     "tripr": [],
     "TSAR": [],
     "ttgsea": [],
-    "uncoverappLib": [],
     "UniProt.ws": [],
     "uSORT": [
         "monocle"
@@ -2743,7 +2725,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [],
     "VaSP": [
         "ballgown",
         "genefilter",
