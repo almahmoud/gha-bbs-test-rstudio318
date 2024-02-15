@@ -205,7 +205,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "TFBSTools",
         "motifStack"
@@ -271,7 +270,6 @@
         "phyloseq",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "bgx": [
         "gcrma"
     ],
@@ -374,7 +372,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "genefilter",
         "sva",
         "vsn"
@@ -671,7 +668,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [],
     "cmapR": [
@@ -679,8 +675,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.farms": [],
-    "cn.mops": [],
     "CNAnorm": [],
     "CNORfuzzy": [],
     "CNTools": [
@@ -689,13 +683,11 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVRanger": [
@@ -770,7 +762,6 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "coRdon": [],
@@ -981,9 +972,7 @@
         "vsn",
         "widgetTools"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -1153,7 +1142,6 @@
         "progeny"
     ],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EDASeq": [],
     "edge": [
         "genefilter",
@@ -1216,7 +1204,6 @@
         "genomation",
         "impute"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "csaw",
         "metapod"
@@ -1231,7 +1218,6 @@
         "minfi",
         "siggenes"
     ],
-    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -1654,7 +1640,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [],
@@ -1841,7 +1826,6 @@
         "flowCore"
     ],
     "InPAS": [],
-    "INSPEcT": [],
     "INTACT": [],
     "InTAD": [],
     "intansv": [
@@ -2295,7 +2279,6 @@
         "minfi",
         "siggenes"
     ],
-    "missRows": [],
     "mitch": [],
     "mitoClone2": [
         "deepSNV"
@@ -2539,9 +2522,7 @@
         "RCy3"
     ],
     "nearBynding": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netboost": [
         "impute"
     ],
@@ -2668,9 +2649,7 @@
         "geneplotter",
         "sva"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
@@ -2809,7 +2788,6 @@
         "mzID",
         "vsn"
     ],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "ComplexHeatmap",
@@ -3069,7 +3047,6 @@
     "rfaRm": [],
     "RgnTX": [],
     "rgoslin": [],
-    "rgsepd": [],
     "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
@@ -3390,7 +3367,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [],
     "siggenes": [],
     "sights": [],
     "signatureSearch": [
@@ -3623,7 +3599,6 @@
     ],
     "SynMut": [],
     "systemPipeR": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "biovizBase"
