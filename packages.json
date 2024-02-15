@@ -138,7 +138,6 @@
         "BiocCheck"
     ],
     "AnVILBilling": [],
-    "appreci8R": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -342,7 +341,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "Cardinal": [],
     "CARNIVAL": [],
     "casper": [
         "gaga"
@@ -931,7 +929,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "escape": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -1511,7 +1508,6 @@
         "sva"
     ],
     "LEA": [],
-    "lemur": [],
     "les": [],
     "lfa": [],
     "LineagePulse": [
@@ -1976,7 +1972,6 @@
         "vsn"
     ],
     "occugene": [],
-    "octad": [],
     "odseq": [
         "msa"
     ],
@@ -2008,7 +2003,6 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2254,7 +2248,6 @@
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
-    "RareVariantVis": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RCAS": [
@@ -2437,7 +2430,6 @@
     ],
     "SCBN": [],
     "scBubbletree": [],
-    "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -2764,7 +2756,6 @@
         "DynDoc",
         "widgetTools"
     ],
-    "TNBC.CMS": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -2776,7 +2767,6 @@
     ],
     "trackViewer": [],
     "transcriptogramer": [],
-    "transformGamPoi": [],
     "tRanslatome": [
         "GOSemSim",
         "Heatplus",
@@ -2839,7 +2829,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "Voyager": [],
     "vsn": [],
     "vulcan": [
         "csaw",
