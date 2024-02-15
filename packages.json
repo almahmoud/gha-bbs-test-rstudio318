@@ -398,7 +398,6 @@
         "ComplexHeatmap"
     ],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
@@ -1095,7 +1094,6 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DEFormats": [],
     "DEGraph": [
         "NCIgraph",
         "RCy3"
@@ -1107,8 +1105,6 @@
     "DelayedTensor": [
         "HDF5Array"
     ],
-    "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "HDF5Array",
@@ -1229,7 +1225,6 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "zenith"
     ],
     "DriverNet": [],
@@ -1290,9 +1285,7 @@
     "EnrichedHeatmap": [
         "ComplexHeatmap"
     ],
-    "EnrichmentBrowser": [
-        "SPIA"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -1374,7 +1367,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [],
     "ExperimentHubData": [
@@ -1620,7 +1612,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "genefilter",
         "sva"
     ],
@@ -1698,7 +1689,6 @@
     "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [],
-    "GeneRegionScan": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -1831,10 +1821,8 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GSCA": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer",
@@ -1887,7 +1875,6 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1907,7 +1894,6 @@
     "hicVennDiagram": [],
     "hierinf": [],
     "HiLDA": [],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -2492,7 +2478,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [],
     "MobilityTransformR": [
@@ -3265,7 +3250,6 @@
         "regioneR"
     ],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
@@ -3293,7 +3277,6 @@
         "genefilter",
         "ggbio"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
@@ -3323,7 +3306,6 @@
         "ggbio"
     ],
     "ribor": [],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -3622,7 +3604,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -3762,7 +3743,6 @@
         "TrajectoryUtils"
     ],
     "SMAP": [],
-    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "aCGH",
@@ -3840,7 +3820,6 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
         "dittoSeq"
@@ -3958,7 +3937,6 @@
         "singscore",
         "sva"
     ],
-    "TCC": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
@@ -4226,8 +4204,7 @@
         "dir.expiry"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "zinbwave": [
         "genefilter"
