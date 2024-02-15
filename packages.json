@@ -332,11 +332,9 @@
     ],
     "BRAIN": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
-    "BubbleTree": [],
     "CAFE": [
         "ggbio"
     ],
@@ -498,8 +496,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPexoQual": [],
-    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -572,8 +568,7 @@
         "gdsfmt"
     ],
     "COCOA": [
-        "ComplexHeatmap",
-        "MIRA"
+        "ComplexHeatmap"
     ],
     "coGPS": [],
     "COHCAP": [],
@@ -774,7 +769,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [],
     "dagLogo": [
         "UniProt.ws",
         "motifStack"
@@ -852,9 +846,7 @@
         "impute",
         "vsn"
     ],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "DExMA": [
@@ -1244,7 +1236,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDNAx": [],
     "gDR": [
         "gDRcore",
         "gDRimport",
@@ -1438,7 +1429,6 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1876,7 +1866,6 @@
         "VanillaICE",
         "crlmm"
     ],
-    "MIRA": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1892,7 +1881,6 @@
         "siggenes"
     ],
     "mitch": [],
-    "mitoClone2": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -2118,7 +2106,6 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [],
     "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2321,7 +2308,6 @@
         "vsn"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "ptairMS": [
@@ -2372,7 +2358,6 @@
         "SpacePAC",
         "iPAC"
     ],
-    "QuasR": [],
     "QUBIC": [],
     "R3CPET": [
         "ggbio"
@@ -2426,9 +2411,7 @@
     "rebook": [
         "dir.expiry"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -2445,9 +2428,7 @@
         "metapod",
         "scran"
     ],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [
         "Gviz",
         "RCy3"
@@ -2519,7 +2500,6 @@
         "vsn"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "impute",
         "recount"
     ],
@@ -2548,7 +2528,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -2593,7 +2572,6 @@
     ],
     "SCBN": [],
     "scBubbletree": [],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
@@ -2751,7 +2729,6 @@
     "simona": [
         "ComplexHeatmap"
     ],
-    "simpleSeg": [],
     "simplifyEnrichment": [
         "ComplexHeatmap",
         "GOSemSim"
@@ -2776,9 +2753,7 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "genefilter",
         "lumi",
@@ -3012,7 +2987,6 @@
         "genefilter",
         "sva"
     ],
-    "VCFArray": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -3026,7 +3000,6 @@
     ],
     "Voyager": [],
     "vsn": [],
-    "vtpnet": [],
     "vulcan": [
         "csaw",
         "metapod"
