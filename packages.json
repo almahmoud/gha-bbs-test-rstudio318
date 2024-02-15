@@ -165,16 +165,11 @@
         "ComplexHeatmap"
     ],
     "ATACCoGAPS": [
-        "GeneOverlap",
-        "chromVAR"
+        "GeneOverlap"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -290,7 +285,6 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "dmrseq",
         "impute"
     ],
     "blacksheepr": [
@@ -480,7 +474,6 @@
         "metapod",
         "scran"
     ],
-    "chromVAR": [],
     "cicero": [
         "monocle"
     ],
@@ -553,7 +546,6 @@
         "methylPipe"
     ],
     "ComplexHeatmap": [],
-    "condiments": [],
     "CONFESS": [
         "RProtoBufLib",
         "cytolib",
@@ -563,7 +555,6 @@
         "flowMerge"
     ],
     "consensus": [],
-    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute",
@@ -729,8 +720,7 @@
         "ncdfFlow"
     ],
     "dagLogo": [
-        "UniProt.ws",
-        "motifStack"
+        "UniProt.ws"
     ],
     "daMA": [],
     "DaMiRseq": [
@@ -850,7 +840,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "dmrseq": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -977,7 +966,6 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [],
     "fedup": [
         "RCy3"
     ],
@@ -1324,7 +1312,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
@@ -1614,7 +1601,6 @@
         "impute",
         "vsn"
     ],
-    "MatrixRider": [],
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
@@ -1851,13 +1837,9 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "motifbreakR": [
-        "motifStack"
-    ],
+    "motifbreakR": [],
     "motifcounter": [],
-    "motifStack": [],
     "msa": [],
-    "MsBackendSql": [],
     "msgbsR": [
         "easyRNASeq"
     ],
@@ -1940,7 +1922,6 @@
         "ATACseqQC",
         "csaw",
         "metapod",
-        "motifStack",
         "trackViewer"
     ],
     "NBAMSeq": [
@@ -2352,7 +2333,6 @@
         "GOstats",
         "genefilter"
     ],
-    "RESOLVE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -2368,9 +2348,7 @@
     "rgoslin": [],
     "RiboProfiling": [],
     "ribor": [],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -2494,7 +2472,6 @@
         "metapod",
         "scran"
     ],
-    "scone": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
@@ -2671,7 +2648,6 @@
         "gdsfmt"
     ],
     "SomaticSignatures": [],
-    "SOMNiBUS": [],
     "SpacePAC": [
         "iPAC"
     ],
@@ -2717,7 +2693,6 @@
     "SQUADD": [],
     "srnadiff": [],
     "ssize": [],
-    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -2737,7 +2712,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "GOSemSim"
@@ -2817,7 +2791,6 @@
     "transomics2cytoscape": [
         "RCy3"
     ],
-    "traviz": [],
     "treekoR": [
         "ComplexHeatmap",
         "FlowSOM",
