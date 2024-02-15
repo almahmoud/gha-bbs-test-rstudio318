@@ -143,7 +143,6 @@
     ],
     "annotatr": [],
     "AnVILBilling": [],
-    "APAlyzer": [],
     "appreci8R": [
         "GenomicScores"
     ],
@@ -547,9 +546,7 @@
         "monocle"
     ],
     "CIMICE": [],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "cisPath": [],
     "CiteFuse": [
         "metapod",
@@ -584,7 +581,6 @@
         "enrichplot"
     ],
     "ClusterSignificance": [],
-    "clustifyr": [],
     "cmapR": [
         "RProtoBufLib",
         "cytolib",
@@ -739,7 +735,6 @@
     "csdR": [
         "impute"
     ],
-    "cTRAP": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -836,7 +831,6 @@
         "motifStack"
     ],
     "daMA": [],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -1293,7 +1287,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -1423,7 +1416,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "genefilter",
@@ -1464,7 +1456,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1514,7 +1505,6 @@
         "ChIPpeakAnno"
     ],
     "Gviz": [],
-    "gwascat": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -1564,9 +1554,7 @@
         "ComplexHeatmap"
     ],
     "hpar": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [],
     "hyperdraw": [
         "hypergraph"
@@ -2034,7 +2022,6 @@
         "genefilter"
     ],
     "MMDiff2": [],
-    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
@@ -2157,10 +2144,7 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -2174,9 +2158,7 @@
         "qcmetrics",
         "vsn"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multiClust": [],
     "multicrispr": [
         "CRISPRseek",
@@ -2209,7 +2191,6 @@
     "MWASTools": [
         "ComplexHeatmap"
     ],
-    "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
@@ -2585,7 +2566,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
@@ -2975,7 +2955,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "ComplexHeatmap",
         "GSVA",
@@ -2984,7 +2963,6 @@
         "impute",
         "survcomp"
     ],
-    "SigsPack": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
@@ -3210,7 +3188,6 @@
     "TIN": [
         "impute"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
@@ -3324,9 +3301,7 @@
         "SpatialFeatureExperiment"
     ],
     "vsn": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "csaw",
