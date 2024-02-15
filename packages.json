@@ -49,10 +49,7 @@
         "gcrma",
         "genefilter"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -1188,7 +1185,6 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
