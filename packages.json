@@ -103,7 +103,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNERO": [
@@ -128,9 +127,7 @@
         "genefilter",
         "sva"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "Category",
         "genefilter",
@@ -157,7 +154,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -207,10 +203,7 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
-    "CluMSID": [],
+    "cliqueMS": [],
     "clusterExperiment": [
         "genefilter",
         "zinbwave"
@@ -238,27 +231,20 @@
         "minfi",
         "siggenes"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "countsimQC": [
         "genefilter"
     ],
     "covRNA": [
         "genefilter"
     ],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [
         "genefilter",
@@ -349,8 +335,6 @@
         "genefilter",
         "sva"
     ],
-    "densvis": [],
-    "DEP": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -438,8 +422,7 @@
         "siggenes"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "flowAI": [
         "flowCore"
@@ -607,7 +590,6 @@
         "genefilter",
         "sva"
     ],
-    "HiCool": [],
     "hierinf": [],
     "hmdbQuery": [],
     "iCheck": [
@@ -655,8 +637,7 @@
     ],
     "iPAC": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -681,8 +662,7 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "lumi": [
         "genefilter",
@@ -706,8 +686,7 @@
         "enrichplot"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MANOR": [
         "GLAD"
@@ -753,8 +732,7 @@
         "flowCore"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -836,10 +814,7 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
-    "MOFA2": [],
+    "MobilityTransformR": [],
     "mogsa": [
         "genefilter"
     ],
@@ -880,9 +855,7 @@
     "ncdfFlow": [
         "flowCore"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -976,7 +949,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1035,10 +1007,7 @@
     "Rcpi": [
         "GOSemSim"
     ],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -1068,16 +1037,13 @@
     ],
     "retrofit": [],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "ribor": [],
     "Ringo": [
         "genefilter"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAinteract": [
@@ -1124,7 +1090,6 @@
         "genefilter",
         "meshr"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -1199,11 +1164,9 @@
         "genefilter",
         "tilingArray"
     ],
-    "snifter": [],
     "SpacePAC": [
         "iPAC"
     ],
-    "spatialDE": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -1255,7 +1218,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "topdownr": [],
     "tRanslatome": [
         "GOSemSim"
     ],
@@ -1295,7 +1257,6 @@
     "webbioc": [
         "gcrma"
     ],
-    "xcms": [],
     "XDE": [
         "GeneMeta",
         "genefilter",
