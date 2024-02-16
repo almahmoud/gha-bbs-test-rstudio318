@@ -88,10 +88,7 @@
         "BASiCS",
         "scran"
     ],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -126,13 +123,11 @@
         "enrichplot"
     ],
     "BiocHail": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocOncoTK": [],
     "BiocSklearn": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BioNAR": [],
     "BioNERO": [
@@ -195,8 +190,7 @@
         "enrichplot"
     ],
     "cbpManager": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "celda": [
         "scran"
@@ -230,8 +224,7 @@
         "QDNAseq"
     ],
     "cfTools": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "cghMCR": [
         "CNTools",
@@ -324,23 +317,19 @@
     "CRImage": [],
     "crisprDesign": [
         "basilisk",
-        "basilisk.utils",
         "crisprScore"
     ],
     "crisprScore": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "crisprVerse": [
         "basilisk",
-        "basilisk.utils",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "basilisk",
-        "basilisk.utils",
         "crisprDesign",
         "crisprScore"
     ],
@@ -451,8 +440,7 @@
         "sva"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "MSnbase"
@@ -489,7 +477,6 @@
         "genefilter",
         "sva"
     ],
-    "Doscheda": [],
     "DOSE": [
         "GOSemSim"
     ],
@@ -530,7 +517,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
         "genefilter",
@@ -569,7 +555,6 @@
     ],
     "FLAMES": [
         "basilisk",
-        "basilisk.utils",
         "scran"
     ],
     "flowAI": [
@@ -803,14 +788,12 @@
         "altcdfenvs"
     ],
     "HiCool": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "hierinf": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "hyperdraw": [],
-    "icetea": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -899,8 +882,7 @@
     "LymphoSeq": [],
     "MACSQuantifyR": [],
     "MACSr": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "MAGAR": [
         "RnBeads",
@@ -1058,8 +1040,7 @@
         "xcms"
     ],
     "MOFA2": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "mogsa": [
         "genefilter"
@@ -1147,7 +1128,6 @@
         "yarn"
     ],
     "NoRCE": [],
-    "NormalyzerDE": [],
     "odseq": [],
     "omicRexposome": [
         "genefilter",
@@ -1168,8 +1148,7 @@
         "flowMeans"
     ],
     "orthos": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "OutSplice": [
         "Repitools",
@@ -1194,8 +1173,7 @@
     "pareg": [
         "DOSE",
         "GOSemSim",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "pcaExplorer": [
         "Category",
@@ -1285,7 +1263,6 @@
     ],
     "pvca": [],
     "pwOmics": [],
-    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [],
     "qPLEXanalyzer": [
@@ -1325,13 +1302,11 @@
         "GOSemSim"
     ],
     "Rcwl": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ReactomePA": [
         "DOSE",
@@ -1344,7 +1319,6 @@
     "rebook": [],
     "recountmethylation": [
         "basilisk",
-        "basilisk.utils",
         "genefilter",
         "minfi",
         "siggenes"
@@ -1371,8 +1345,7 @@
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ribor": [],
     "Ringo": [
@@ -1442,8 +1415,7 @@
         "flowCore"
     ],
     "scPipe": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "scran": [],
     "scTensor": [
@@ -1460,8 +1432,7 @@
         "scran"
     ],
     "scviR": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -1525,8 +1496,7 @@
         "genefilter"
     ],
     "SimBu": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "simplifyEnrichment": [
         "GOSemSim"
@@ -1536,7 +1506,6 @@
     ],
     "singleCellTK": [
         "basilisk",
-        "basilisk.utils",
         "celda",
         "genefilter",
         "scDblFinder",
@@ -1560,8 +1529,7 @@
         "tilingArray"
     ],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SNPRelate": [],
     "SpacePAC": [
@@ -1571,8 +1539,7 @@
         "scran"
     ],
     "spatialDE": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "spatialHeatmap": [
         "genefilter",
@@ -1669,13 +1636,11 @@
     ],
     "velociraptor": [
         "basilisk",
-        "basilisk.utils",
         "zellkonverter"
     ],
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vulcan": [],
     "wateRmelon": [
         "genefilter",
         "lumi",
@@ -1686,7 +1651,6 @@
     "webbioc": [
         "gcrma"
     ],
-    "wppi": [],
     "xcms": [
         "MSnbase"
     ],
@@ -1703,8 +1667,7 @@
         "siggenes"
     ],
     "zellkonverter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zinbwave": [
         "genefilter"
