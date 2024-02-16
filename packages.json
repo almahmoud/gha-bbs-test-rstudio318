@@ -198,9 +198,7 @@
         "genefilter",
         "phenoTest"
     ],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "RProtoBufLib",
@@ -213,7 +211,6 @@
     "categoryCompare": [
         "Category",
         "GOstats",
-        "RCy3",
         "genefilter"
     ],
     "cbaf": [
@@ -230,7 +227,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccrepe": [],
     "celda": [
         "metapod",
         "scran"
@@ -259,7 +255,6 @@
     "CeTF": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -295,7 +290,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -537,8 +531,7 @@
         "ttgsea"
     ],
     "DEGraph": [
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DeMixT": [
         "genefilter",
@@ -633,7 +626,6 @@
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot"
     ],
     "EpiCompare": [
@@ -676,9 +668,7 @@
         "genomation"
     ],
     "fdrame": [],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -783,7 +773,6 @@
         "cytolib",
         "flowCore"
     ],
-    "flowPlots": [],
     "FlowSOM": [
         "RProtoBufLib",
         "cytolib",
@@ -842,7 +831,6 @@
         "minfi",
         "siggenes"
     ],
-    "gaga": [],
     "GARS": [
         "DaMiRseq",
         "genefilter",
@@ -885,7 +873,6 @@
         "SeqArray"
     ],
     "GEM": [],
-    "gemini": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -923,7 +910,6 @@
         "vsn"
     ],
     "geva": [],
-    "GEWIST": [],
     "ggcyto": [
         "RProtoBufLib",
         "cytolib",
@@ -958,7 +944,6 @@
         "Category",
         "genefilter"
     ],
-    "GPA": [],
     "graper": [],
     "GraphPAC": [
         "iPAC"
@@ -1104,9 +1089,7 @@
         "minfi",
         "siggenes"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [],
     "Macarron": [],
     "MACSQuantifyR": [],
@@ -1143,7 +1126,6 @@
     "maskBAD": [
         "gcrma"
     ],
-    "MassArray": [],
     "MatrixQCvis": [
         "vsn"
     ],
@@ -1173,16 +1155,13 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot"
     ],
     "meshr": [
         "Category",
-        "MeSHDbi",
         "genefilter"
     ],
     "messina": [],
@@ -1205,7 +1184,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1227,7 +1205,6 @@
     "methylclock": [
         "genefilter",
         "minfi",
-        "planet",
         "siggenes"
     ],
     "methylGSA": [
@@ -1247,7 +1224,6 @@
         "minfi",
         "siggenes"
     ],
-    "MetID": [],
     "mgsa": [],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -1302,9 +1278,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "genefilter"
     ],
@@ -1325,7 +1299,6 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "msa": [],
     "msgbsR": [
         "easyRNASeq"
     ],
@@ -1392,9 +1365,7 @@
         "vsn",
         "xcms"
     ],
-    "NCIgraph": [
-        "RCy3"
-    ],
+    "NCIgraph": [],
     "nearBynding": [],
     "netboost": [],
     "netOmics": [
@@ -1409,7 +1380,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "RCy3",
         "STRINGdb",
         "genefilter",
         "minfi",
@@ -1417,14 +1387,11 @@
         "siggenes",
         "yarn"
     ],
-    "ngsReports": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN"
@@ -1530,7 +1497,6 @@
         "metapod",
         "scran"
     ],
-    "planet": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -1661,7 +1627,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCy3": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -1686,9 +1651,7 @@
         "metapod",
         "scran"
     ],
-    "regutools": [
-        "RCy3"
-    ],
+    "regutools": [],
     "REMP": [
         "genefilter",
         "minfi",
@@ -1732,7 +1695,6 @@
     "RLMM": [],
     "RLSeq": [],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "vsn"
     ],
@@ -1818,7 +1780,6 @@
         "DOSE",
         "GOSemSim",
         "GOstats",
-        "MeSHDbi",
         "ReactomePA",
         "enrichplot",
         "genefilter",
@@ -1986,11 +1947,8 @@
         "vsn"
     ],
     "statTarget": [],
-    "stepNorm": [],
     "STRINGdb": [],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "sva": [
         "genefilter"
     ],
@@ -2026,7 +1984,6 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2043,9 +2000,7 @@
     "tRanslatome": [
         "GOSemSim"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "treekoR": [
         "FlowSOM",
         "RProtoBufLib",
