@@ -464,7 +464,6 @@
         "CAMERA",
         "xcms"
     ],
-    "FLAMES": [],
     "flowAI": [
         "flowCore"
     ],
@@ -892,12 +891,8 @@
     "msgbsR": [
         "easyRNASeq"
     ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MSPrep": [
@@ -1016,7 +1011,6 @@
         "GOstats",
         "genefilter"
     ],
-    "preciseTAD": [],
     "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
@@ -1342,7 +1336,6 @@
         "genefilter",
         "sva"
     ],
-    "velociraptor": [],
     "ViSEAGO": [
         "GOSemSim"
     ],
