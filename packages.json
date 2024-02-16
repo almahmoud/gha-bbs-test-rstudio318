@@ -155,7 +155,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [],
     "CeTF": [
         "DOSE",
         "GOSemSim",
@@ -201,7 +200,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "CONFESS": [],
     "conumee": [
         "genefilter",
         "minfi",
@@ -217,21 +215,10 @@
         "genefilter",
         "sva"
     ],
-    "cyanoFilter": [],
-    "CyTOFpower": [],
-    "cytofQC": [],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "CytoPipeline"
     ],
     "DaMiRseq": [
         "genefilter",
@@ -243,7 +230,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -344,15 +330,8 @@
         "minfi",
         "siggenes"
     ],
-    "flowBin": [],
-    "flowCut": [],
-    "flowGate": [
-        "ggcyto"
-    ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowGate": [],
+    "flowVS": [],
     "frenchFISH": [],
     "funtooNorm": [
         "genefilter",
@@ -364,7 +343,6 @@
         "genefilter",
         "sva"
     ],
-    "GateFinder": [],
     "gcatest": [
         "lfa"
     ],
@@ -388,7 +366,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "ggcyto": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -435,7 +412,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "ImmuneSpaceR": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -671,7 +647,6 @@
         "genefilter",
         "sva"
     ],
-    "openCyto": [],
     "OpenStats": [],
     "OutSplice": [
         "Repitools",
@@ -703,7 +678,6 @@
         "genefilter"
     ],
     "pdInfoBuilder": [],
-    "PeacoQC": [],
     "PECA": [
         "genefilter"
     ],
@@ -975,7 +949,6 @@
     "tRanslatome": [
         "GOSemSim"
     ],
-    "treekoR": [],
     "trigger": [
         "genefilter",
         "sva"
