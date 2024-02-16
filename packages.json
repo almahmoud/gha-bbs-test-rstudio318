@@ -81,21 +81,16 @@
         "genefilter",
         "pRoloc"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "scran"
+        "BASiCS"
     ],
     "basilisk": [],
     "BatchQC": [
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "benchdamic": [
         "genefilter",
         "zinbwave"
@@ -103,9 +98,7 @@
     "bgx": [
         "gcrma"
     ],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "genefilter",
         "lumi",
@@ -134,9 +127,7 @@
         "genefilter",
         "sva"
     ],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biscuiteer": [
         "QDNAseq"
     ],
@@ -192,9 +183,7 @@
     "cbpManager": [
         "basilisk"
     ],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -247,15 +236,11 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "ChromSCape": [
-        "scran"
-    ],
+    "ChromSCape": [],
     "cicero": [
         "monocle"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -287,7 +272,6 @@
         "SNPRelate",
         "SeqArray"
     ],
-    "cola": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -295,9 +279,7 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusOV": [
-        "genefu"
-    ],
+    "consensusOV": [],
     "conumee": [
         "genefilter",
         "minfi",
@@ -424,8 +406,7 @@
         "sva"
     ],
     "decontX": [
-        "celda",
-        "scran"
+        "celda"
     ],
     "deconvR": [
         "genefilter",
@@ -463,9 +444,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "DMRcate": [
         "genefilter",
         "methylumi",
@@ -517,7 +496,6 @@
         "enrichplot",
         "genomation"
     ],
-    "EpiMix": [],
     "epimutacions": [
         "genefilter",
         "minfi",
@@ -554,8 +532,7 @@
         "xcms"
     ],
     "FLAMES": [
-        "basilisk",
-        "scran"
+        "basilisk"
     ],
     "flowAI": [
         "cytolib",
@@ -712,7 +689,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -793,7 +769,6 @@
     "hierinf": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
-    "hyperdraw": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -989,7 +964,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "MethylMix": [],
     "methylumi": [
         "genefilter",
         "minfi",
@@ -1062,9 +1036,7 @@
     "msgbsR": [
         "easyRNASeq"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "msmsEDA": [
         "MSnbase"
     ],
@@ -1092,10 +1064,7 @@
         "qcmetrics"
     ],
     "multicrispr": [],
-    "multiWGCNA": [],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "NADfinder": [],
     "NBAMSeq": [
         "genefilter"
@@ -1108,11 +1077,9 @@
         "MSnbase",
         "xcms"
     ],
-    "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
@@ -1127,7 +1094,6 @@
         "siggenes",
         "yarn"
     ],
-    "NoRCE": [],
     "odseq": [],
     "omicRexposome": [
         "genefilter",
@@ -1180,9 +1146,7 @@
         "GOstats",
         "genefilter"
     ],
-    "PDATK": [
-        "genefu"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
@@ -1211,15 +1175,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "PloGO2": [
         "Category",
         "GOstats",
         "genefilter"
     ],
-    "POMA": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -1262,7 +1223,6 @@
         "MSnbase"
     ],
     "pvca": [],
-    "pwOmics": [],
     "qcmetrics": [],
     "QDNAseq": [],
     "qPLEXanalyzer": [
@@ -1324,8 +1284,7 @@
         "siggenes"
     ],
     "RegionalST": [
-        "BayesSpace",
-        "scran"
+        "BayesSpace"
     ],
     "REMP": [
         "genefilter",
@@ -1393,23 +1352,16 @@
         "cytolib",
         "flowCore"
     ],
-    "scDblFinder": [
-        "scran"
-    ],
-    "scDD": [
-        "scran"
-    ],
+    "scDblFinder": [],
+    "scDD": [],
     "scFeatures": [
-        "SingleCellSignalR",
-        "scran"
+        "SingleCellSignalR"
     ],
     "scifer": [
         "cytolib",
         "flowCore"
     ],
-    "scMerge": [
-        "scran"
-    ],
+    "scMerge": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -1417,7 +1369,6 @@
     "scPipe": [
         "basilisk"
     ],
-    "scran": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -1428,9 +1379,7 @@
         "genefilter",
         "meshr"
     ],
-    "scTreeViz": [
-        "scran"
-    ],
+    "scTreeViz": [],
     "scviR": [
         "basilisk"
     ],
@@ -1488,8 +1437,7 @@
         "enrichplot"
     ],
     "signifinder": [
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SimBindProfiles": [
         "Ringo",
@@ -1501,16 +1449,13 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "basilisk",
         "celda",
         "genefilter",
         "scDblFinder",
         "scMerge",
-        "scran",
         "sva",
         "zellkonverter",
         "zinbwave"
@@ -1535,17 +1480,13 @@
     "SpacePAC": [
         "iPAC"
     ],
-    "Spaniel": [
-        "scran"
-    ],
+    "Spaniel": [],
     "spatialDE": [
         "basilisk"
     ],
     "spatialHeatmap": [
-        "genefilter",
-        "scran"
+        "genefilter"
     ],
-    "SpatialOmicsOverlay": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -1553,14 +1494,12 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SPsimSeq": [],
     "ssize": [],
     "staRank": [
         "Category",
         "cellHTS2",
         "genefilter"
     ],
-    "surfaltr": [],
     "sva": [
         "genefilter"
     ],
