@@ -126,7 +126,6 @@
         "genefilter",
         "sva"
     ],
-    "CAMERA": [],
     "canceR": [
         "Category",
         "genefilter",
@@ -224,21 +223,16 @@
         "minfi",
         "siggenes"
     ],
-    "cosmiq": [],
     "countsimQC": [
         "genefilter"
     ],
     "covRNA": [
         "genefilter"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz"
     ],
-    "crisprViz": [
-        "crisprDesign"
-    ],
+    "crisprViz": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -396,9 +390,7 @@
         "minfi",
         "siggenes"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP",
@@ -563,9 +555,7 @@
         "genefilter"
     ],
     "iPAC": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -588,9 +578,7 @@
         "genefilter",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -611,9 +599,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "MANOR": [
         "GLAD"
     ],
@@ -656,9 +642,7 @@
     "MetaCyto": [
         "FlowSOM"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -739,7 +723,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MobilityTransformR": [],
     "mogsa": [
         "genefilter"
     ],
@@ -778,7 +761,6 @@
         "genefilter"
     ],
     "ncdfFlow": [],
-    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -924,7 +906,6 @@
     "Rcpi": [
         "GOSemSim"
     ],
-    "RcwlPipelines": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -953,14 +934,11 @@
         "genefilter"
     ],
     "retrofit": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "ribor": [],
     "Ringo": [
         "genefilter"
     ],
-    "Risa": [],
     "RLSeq": [],
     "RNAinteract": [
         "Category",
