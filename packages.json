@@ -11,8 +11,7 @@
     "ACE": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "impute"
+        "QDNAseq"
     ],
     "aCGH": [],
     "ADaCGH2": [
@@ -49,16 +48,9 @@
         "gcrma",
         "genefilter"
     ],
-    "AlpsNMR": [
-        "MassSpecWavelet",
-        "impute"
-    ],
-    "altcdfenvs": [
-        "hypergraph"
-    ],
-    "AMARETTO": [
-        "impute"
-    ],
+    "AlpsNMR": [],
+    "altcdfenvs": [],
+    "AMARETTO": [],
     "annmap": [
         "genefilter"
     ],
@@ -99,7 +91,6 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "impute",
         "pRoloc",
         "vsn"
     ],
@@ -136,8 +127,7 @@
         "gcrma"
     ],
     "BiGGR": [
-        "hyperdraw",
-        "hypergraph"
+        "hyperdraw"
     ],
     "bigmelon": [
         "gdsfmt",
@@ -169,12 +159,9 @@
     ],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
-    "BioNAR": [
-        "impute"
-    ],
+    "BioNAR": [],
     "BioNERO": [
         "genefilter",
-        "impute",
         "sva"
     ],
     "BioTIP": [
@@ -184,8 +171,7 @@
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "impute"
+        "QDNAseq"
     ],
     "blacksheepr": [
         "DEXSeq",
@@ -206,13 +192,10 @@
     "cageminer": [
         "BioNERO",
         "genefilter",
-        "impute",
         "sva"
     ],
     "CAMERA": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -270,8 +253,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "impute"
+        "enrichplot"
     ],
     "censcyt": [
         "FlowSOM",
@@ -289,14 +271,12 @@
         "enrichplot"
     ],
     "CexoR": [
-        "genomation",
-        "impute"
+        "genomation"
     ],
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "impute"
+        "QDNAseq"
     ],
     "cfTools": [
         "basilisk",
@@ -305,8 +285,7 @@
     ],
     "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "impute"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools",
@@ -314,8 +293,7 @@
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "impute"
+        "CGHcall"
     ],
     "CGHregions": [
         "CGHbase"
@@ -323,7 +301,6 @@
     "ChAMP": [
         "DMRcate",
         "genefilter",
-        "impute",
         "lumi",
         "methylumi",
         "minfi",
@@ -354,14 +331,11 @@
     ],
     "cliqueMS": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
     "CluMSID": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "clusterExperiment": [
@@ -391,9 +365,7 @@
         "gdsfmt"
     ],
     "coGPS": [],
-    "cola": [
-        "impute"
-    ],
+    "cola": [],
     "CONFESS": [
         "RProtoBufLib",
         "cytolib",
@@ -404,7 +376,6 @@
     ],
     "consensusOV": [
         "genefu",
-        "impute",
         "survcomp"
     ],
     "conumee": [
@@ -417,8 +388,6 @@
     ],
     "cosmiq": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -469,9 +438,7 @@
     "csaw": [
         "metapod"
     ],
-    "csdR": [
-        "impute"
-    ],
+    "csdR": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -547,7 +514,6 @@
     "dagLogo": [
         "UniProt.ws"
     ],
-    "daMA": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -558,7 +524,6 @@
         "MSnbase",
         "clusterProfiler",
         "enrichplot",
-        "impute",
         "vsn"
     ],
     "ddPCRclust": [
@@ -606,20 +571,16 @@
     ],
     "DEP": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "DExMA": [
         "genefilter",
-        "impute",
         "sva"
     ],
     "DEXSeq": [
         "genefilter"
     ],
-    "diffcoexp": [
-        "impute"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "RProtoBufLib",
@@ -651,7 +612,6 @@
     ],
     "doppelgangR": [
         "genefilter",
-        "impute",
         "sva"
     ],
     "Doscheda": [
@@ -665,7 +625,6 @@
         "UniProt.ws"
     ],
     "dStruct": [],
-    "DTA": [],
     "easier": [
         "decoupleR",
         "progeny"
@@ -675,9 +634,7 @@
         "genefilter",
         "sva"
     ],
-    "EGAD": [
-        "impute"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "PADOG",
         "gage"
@@ -685,7 +642,6 @@
     "EnhancedVolcano": [],
     "ENmix": [
         "genefilter",
-        "impute",
         "minfi",
         "siggenes"
     ],
@@ -710,16 +666,13 @@
         "DOSE",
         "GOSemSim",
         "enrichplot",
-        "genomation",
-        "impute"
+        "genomation"
     ],
     "epigraHMM": [
         "csaw",
         "metapod"
     ],
-    "EpiMix": [
-        "impute"
-    ],
+    "EpiMix": [],
     "epimutacions": [
         "genefilter",
         "minfi",
@@ -741,15 +694,11 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "rWikiPathways"
+        "enrichplot"
     ],
-    "fastLiquidAssociation": [
-        "impute"
-    ],
+    "fastLiquidAssociation": [],
     "fCCAC": [
-        "genomation",
-        "impute"
+        "genomation"
     ],
     "fdrame": [],
     "fedup": [
@@ -765,8 +714,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -923,7 +870,6 @@
     "gaga": [],
     "gage": [],
     "gaggle": [],
-    "garfield": [],
     "GARS": [
         "DaMiRseq",
         "genefilter",
@@ -973,19 +919,16 @@
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "impute"
+        "QDNAseq"
     ],
     "genefilter": [],
     "genefu": [
-        "impute",
         "survcomp"
     ],
     "GeneMeta": [
         "genefilter"
     ],
     "GeneOverlap": [],
-    "geneplast": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -994,13 +937,10 @@
         "gdsfmt"
     ],
     "genoCN": [],
-    "genomation": [
-        "impute"
-    ],
+    "genomation": [],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "impute"
+        "genomation"
     ],
     "GenProSeq": [
         "DeepPINCS",
@@ -1009,7 +949,6 @@
     "GeoDiff": [],
     "GEOexplorer": [
         "genefilter",
-        "impute",
         "sva"
     ],
     "gespeR": [
@@ -1045,8 +984,7 @@
     "GmicR": [
         "Category",
         "GOstats",
-        "genefilter",
-        "impute"
+        "genefilter"
     ],
     "GOSemSim": [],
     "goSorensen": [
@@ -1082,22 +1020,18 @@
         "SNPRelate",
         "gdsfmt"
     ],
-    "GWENA": [
-        "impute"
-    ],
+    "GWENA": [],
     "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
     ],
     "Harshlight": [
-        "altcdfenvs",
-        "hypergraph"
+        "altcdfenvs"
     ],
     "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
-    "HIBAG": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1111,10 +1045,7 @@
     "hmdbQuery": [],
     "hpar": [],
     "HTSFilter": [],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "icetea": [
         "csaw",
         "metapod"
@@ -1148,7 +1079,6 @@
         "cytolib",
         "flowCore"
     ],
-    "impute": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -1157,7 +1087,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "impute",
         "minfi",
         "siggenes"
     ],
@@ -1178,8 +1107,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -1203,9 +1130,7 @@
         "sva"
     ],
     "lfa": [],
-    "lipidr": [
-        "impute"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -1214,8 +1139,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -1230,9 +1153,7 @@
         "msa"
     ],
     "m6Aboost": [],
-    "Macarron": [
-        "impute"
-    ],
+    "Macarron": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
@@ -1242,7 +1163,6 @@
     "MAGAR": [
         "RnBeads",
         "genefilter",
-        "impute",
         "methylumi",
         "minfi",
         "siggenes"
@@ -1256,8 +1176,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -1272,9 +1190,7 @@
         "gcrma"
     ],
     "MassArray": [],
-    "MassSpecWavelet": [],
     "MatrixQCvis": [
-        "impute",
         "vsn"
     ],
     "MBAmethyl": [],
@@ -1286,9 +1202,7 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "MCbiclust": [
-        "impute"
-    ],
+    "MCbiclust": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -1300,7 +1214,6 @@
     "MeasurementError.cor": [],
     "MEAT": [
         "genefilter",
-        "impute",
         "lumi",
         "methylumi",
         "minfi",
@@ -1334,8 +1247,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -1364,7 +1275,6 @@
     ],
     "methylclock": [
         "genefilter",
-        "impute",
         "minfi",
         "planet",
         "siggenes"
@@ -1380,9 +1290,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "MethylMix": [
-        "impute"
-    ],
+    "MethylMix": [],
     "methylumi": [
         "genefilter",
         "minfi",
@@ -1420,8 +1328,7 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "genefilter",
-        "impute"
+        "genefilter"
     ],
     "miRNAmeConverter": [],
     "miRNApath": [],
@@ -1436,14 +1343,10 @@
     ],
     "MobilityTransformR": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
-    "MODA": [
-        "impute"
-    ],
+    "MODA": [],
     "MOFA2": [
         "basilisk",
         "basilisk.utils",
@@ -1472,7 +1375,6 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "motifcounter": [],
     "msa": [],
     "msgbsR": [
         "easyRNASeq"
@@ -1483,22 +1385,18 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
-        "impute",
         "msmsEDA",
         "vsn"
     ],
     "MSnbase": [
-        "impute",
         "vsn"
     ],
     "MSnID": [
         "MSnbase",
-        "impute",
         "msmsEDA",
         "msmsTests",
         "vsn"
@@ -1509,23 +1407,19 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "impute",
         "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "impute",
         "qcmetrics",
         "vsn"
     ],
     "multicrispr": [
         "CRISPRseek"
     ],
-    "multiWGCNA": [
-        "impute"
-    ],
+    "multiWGCNA": [],
     "mumosa": [
         "metapod",
         "scran"
@@ -1545,8 +1439,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -1554,15 +1446,11 @@
         "RCy3"
     ],
     "nearBynding": [],
-    "netboost": [
-        "impute"
-    ],
+    "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetSAM": [
-        "impute"
-    ],
+    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
@@ -1581,9 +1469,7 @@
     ],
     "ngsReports": [],
     "nnNorm": [],
-    "NoRCE": [
-        "rWikiPathways"
-    ],
+    "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
     ],
@@ -1596,11 +1482,9 @@
     ],
     "omicRexposome": [
         "genefilter",
-        "impute",
         "rexposome",
         "sva"
     ],
-    "Omixer": [],
     "OmnipathR": [],
     "onlineFDR": [],
     "openCyto": [
@@ -1647,7 +1531,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PanViz": [],
     "pareg": [
         "DOSE",
         "GOSemSim",
@@ -1663,7 +1546,6 @@
     "pcxn": [],
     "PDATK": [
         "genefu",
-        "impute",
         "survcomp"
     ],
     "pdInfoBuilder": [],
@@ -1676,7 +1558,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "PECA": [
@@ -1697,8 +1578,7 @@
         "GOSemSim",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "impute"
+        "enrichplot"
     ],
     "pipeComp": [
         "metapod",
@@ -1710,12 +1590,8 @@
         "GOstats",
         "genefilter"
     ],
-    "pmp": [
-        "impute"
-    ],
-    "POMA": [
-        "impute"
-    ],
+    "pmp": [],
+    "POMA": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -1725,7 +1601,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "profileplyr": [
@@ -1741,14 +1616,12 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "impute",
         "vsn"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "impute",
         "pRoloc",
         "vsn"
     ],
@@ -1763,7 +1636,6 @@
         "MSnbase",
         "clusterProfiler",
         "enrichplot",
-        "impute",
         "vsn"
     ],
     "protGear": [
@@ -1772,7 +1644,6 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "pvac": [],
@@ -1788,12 +1659,10 @@
     "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
-        "CGHcall",
-        "impute"
+        "CGHcall"
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "qsea": [],
@@ -1826,13 +1695,11 @@
         "gdsfmt"
     ],
     "RandomWalkRestartMH": [],
-    "randRotation": [],
     "RAREsim": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RCAS": [
-        "genomation",
-        "impute"
+        "genomation"
     ],
     "rCGH": [
         "aCGH"
@@ -1881,7 +1748,6 @@
     ],
     "REMP": [
         "genefilter",
-        "impute",
         "minfi",
         "siggenes"
     ],
@@ -1903,23 +1769,17 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "rexposome": [
-        "impute"
-    ],
+    "rexposome": [],
     "rfaRm": [],
     "rgoslin": [],
     "ribor": [],
-    "rifiComparative": [
-        "DTA"
-    ],
+    "rifiComparative": [],
     "Ringo": [
         "genefilter",
         "vsn"
     ],
     "Risa": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn",
         "xcms"
     ],
@@ -1931,12 +1791,9 @@
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
-        "impute",
         "vsn"
     ],
-    "RNAAgeCalc": [
-        "impute"
-    ],
+    "RNAAgeCalc": [],
     "RNAdecay": [],
     "RNAinteract": [
         "Category",
@@ -1951,15 +1808,12 @@
         "minfi",
         "siggenes"
     ],
-    "Rnits": [
-        "impute"
-    ],
+    "Rnits": [],
     "RProtoBufLib": [],
     "rrvgo": [
         "GOSemSim"
     ],
     "RSeqAn": [],
-    "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
         "gdsfmt"
@@ -2047,9 +1901,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "seq2pathway": [
-        "impute"
-    ],
+    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -2105,7 +1957,6 @@
     "signifinder": [
         "consensusOV",
         "genefu",
-        "impute",
         "survcomp"
     ],
     "SimBindProfiles": [
@@ -2189,15 +2040,12 @@
         "ClassifyR",
         "genefilter"
     ],
-    "spikeLI": [],
     "spiky": [],
     "SpliceWiz": [
         "genefilter"
     ],
     "splots": [],
-    "SPsimSeq": [
-        "impute"
-    ],
+    "SPsimSeq": [],
     "ssize": [],
     "staRank": [
         "Category",
@@ -2206,9 +2054,7 @@
         "splots",
         "vsn"
     ],
-    "statTarget": [
-        "impute"
-    ],
+    "statTarget": [],
     "stepNorm": [],
     "STRINGdb": [],
     "surfaltr": [
@@ -2226,7 +2072,6 @@
     "swfdr": [],
     "synapter": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "SynMut": [],
@@ -2249,25 +2094,20 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [],
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
         "RCy3",
         "clusterProfiler",
-        "enrichplot",
-        "rWikiPathways"
+        "enrichplot"
     ],
-    "TIN": [
-        "impute"
-    ],
+    "TIN": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
     ],
     "topdownr": [
         "MSnbase",
-        "impute",
         "vsn"
     ],
     "transcriptogramer": [],
@@ -2345,8 +2185,6 @@
     ],
     "xcms": [
         "MSnbase",
-        "MassSpecWavelet",
-        "impute",
         "vsn"
     ],
     "XDE": [
