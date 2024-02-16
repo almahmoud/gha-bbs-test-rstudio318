@@ -42,8 +42,6 @@
         "gcrma",
         "genefilter"
     ],
-    "AlpsNMR": [],
-    "altcdfenvs": [],
     "annmap": [
         "genefilter"
     ],
@@ -65,7 +63,6 @@
         "genefilter",
         "sva"
     ],
-    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats",
@@ -122,7 +119,6 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "BioNAR": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -206,9 +202,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "QDNAseq"
     ],
@@ -268,9 +262,7 @@
         "genefilter"
     ],
     "CNVRanger": [
-        "GDSArray",
-        "SNPRelate",
-        "SeqArray"
+        "GDSArray"
     ],
     "CONFESS": [
         "cytolib",
@@ -433,7 +425,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -459,14 +450,12 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "drugTargetInteractions": [],
     "easier": [],
     "easyRNASeq": [],
     "edge": [
         "genefilter",
         "sva"
     ],
-    "EGAD": [],
     "EGSEA": [],
     "EnhancedVolcano": [],
     "ENmix": [
@@ -493,8 +482,7 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epimutacions": [
         "genefilter",
@@ -515,10 +503,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [
-        "genomation"
-    ],
-    "fedup": [],
+    "fCCAC": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -662,9 +647,7 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [
-        "SeqArray"
-    ],
+    "GBScleanR": [],
     "gcatest": [
         "lfa"
     ],
@@ -681,10 +664,7 @@
     ],
     "gDRcore": [],
     "gDRimport": [],
-    "GDSArray": [
-        "SNPRelate",
-        "SeqArray"
-    ],
+    "GDSArray": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -693,14 +673,10 @@
         "genefilter"
     ],
     "GENESIS": [
-        "SNPRelate",
-        "SeqArray",
         "SeqVarTools"
     ],
-    "genomation": [],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenProSeq": [
         "DeepPINCS"
@@ -720,9 +696,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [
-        "SeqArray"
-    ],
+    "ggmanh": [],
     "ggmsa": [],
     "ggtreeExtra": [],
     "GISPA": [
@@ -753,16 +727,12 @@
         "genefilter"
     ],
     "GUIDEseq": [],
-    "gwasurvivr": [
-        "SNPRelate"
-    ],
+    "gwasurvivr": [],
     "HarmonizR": [
         "genefilter",
         "sva"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HiCool": [
         "basilisk"
     ],
@@ -854,7 +824,6 @@
         "minfi",
         "siggenes"
     ],
-    "LymphoSeq": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk"
@@ -1094,7 +1063,6 @@
         "siggenes",
         "yarn"
     ],
-    "odseq": [],
     "omicRexposome": [
         "genefilter",
         "sva"
@@ -1249,14 +1217,10 @@
     ],
     "RAIDS": [
         "GENESIS",
-        "SNPRelate",
-        "SeqArray",
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [],
     "Rcpi": [
         "GOSemSim"
@@ -1332,17 +1296,12 @@
     "rrvgo": [
         "GOSemSim"
     ],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [
         "genefilter",
         "zinbwave"
@@ -1396,16 +1355,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SeqArray": [],
     "seqCNA": [
         "GLAD"
     ],
-    "SeqSQC": [
-        "SNPRelate"
-    ],
-    "SeqVarTools": [
-        "SeqArray"
-    ],
+    "SeqSQC": [],
+    "SeqVarTools": [],
     "SEtools": [
         "genefilter",
         "sva"
@@ -1476,7 +1430,6 @@
     "snifter": [
         "basilisk"
     ],
-    "SNPRelate": [],
     "SpacePAC": [
         "iPAC"
     ],
@@ -1564,9 +1517,7 @@
         "DeepPINCS"
     ],
     "VariantExperiment": [
-        "GDSArray",
-        "SNPRelate",
-        "SeqArray"
+        "GDSArray"
     ],
     "VaSP": [
         "ballgown",
@@ -1598,7 +1549,6 @@
         "genefilter",
         "siggenes"
     ],
-    "XINA": [],
     "yarn": [
         "genefilter",
         "minfi",
