@@ -218,10 +218,7 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -365,7 +362,6 @@
         "minfi",
         "siggenes"
     ],
-    "flagme": [],
     "flowBin": [
         "flowFP"
     ],
@@ -497,7 +493,6 @@
         "genefilter"
     ],
     "iPAC": [],
-    "IPO": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -520,7 +515,6 @@
         "genefilter",
         "spicyR"
     ],
-    "LOBSTAHS": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -541,7 +535,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [],
     "MANOR": [
         "GLAD"
     ],
@@ -582,7 +575,6 @@
     ],
     "messina": [],
     "MetaCyto": [],
-    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -860,7 +852,6 @@
         "genefilter"
     ],
     "retrofit": [],
-    "ReUseData": [],
     "ribor": [],
     "Ringo": [
         "genefilter"
