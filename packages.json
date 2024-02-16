@@ -365,7 +365,6 @@
         "genefilter",
         "sva"
     ],
-    "csaw": [],
     "csdR": [],
     "cyanoFilter": [
         "cytolib",
@@ -492,9 +491,7 @@
         "cytolib",
         "flowCore"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq",
         "genefilter"
@@ -518,9 +515,7 @@
         "GOSemSim"
     ],
     "drugTargetInteractions": [],
-    "easier": [
-        "progeny"
-    ],
+    "easier": [],
     "easyRNASeq": [],
     "edge": [
         "genefilter",
@@ -558,9 +553,7 @@
         "enrichplot",
         "genomation"
     ],
-    "epigraHMM": [
-        "csaw"
-    ],
+    "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
         "genefilter",
@@ -574,9 +567,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "extraChIPs": [
-        "csaw"
-    ],
+    "extraChIPs": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -861,9 +852,7 @@
     "hpar": [],
     "HTSFilter": [],
     "hyperdraw": [],
-    "icetea": [
-        "csaw"
-    ],
+    "icetea": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -1182,9 +1171,7 @@
     "mumosa": [
         "scran"
     ],
-    "NADfinder": [
-        "csaw"
-    ],
+    "NADfinder": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1329,7 +1316,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "progeny": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -1768,9 +1754,7 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vulcan": [
-        "csaw"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "genefilter",
         "lumi",
