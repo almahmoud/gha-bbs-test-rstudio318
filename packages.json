@@ -116,7 +116,6 @@
         "genefilter",
         "sva"
     ],
-    "BioTIP": [],
     "biscuiteer": [
         "QDNAseq"
     ],
@@ -189,7 +188,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [],
     "cfdnakit": [
         "QDNAseq"
     ],
@@ -198,7 +196,6 @@
         "CNTools",
         "genefilter"
     ],
-    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "genefilter",
@@ -241,9 +238,7 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CONFESS": [
         "flowClust",
         "flowCore",
@@ -365,7 +360,6 @@
         "siggenes"
     ],
     "DeepBlueR": [],
-    "DEGraph": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -452,7 +446,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -567,7 +560,6 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [],
     "gcatest": [
         "lfa"
     ],
@@ -579,7 +571,6 @@
         "enrichplot"
     ],
     "gDR": [],
-    "GDSArray": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -630,7 +621,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "gsean": [],
     "GSRI": [
         "genefilter"
     ],
@@ -906,7 +896,6 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "mumosa": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1005,7 +994,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -1144,15 +1132,11 @@
     "scDataviz": [
         "flowCore"
     ],
-    "scDblFinder": [],
     "scDD": [],
-    "scFeatures": [
-        "SingleCellSignalR"
-    ],
+    "scFeatures": [],
     "scifer": [
         "flowCore"
     ],
-    "scMerge": [],
     "Sconify": [
         "flowCore"
     ],
@@ -1167,7 +1151,6 @@
         "genefilter",
         "meshr"
     ],
-    "scTreeViz": [],
     "scviR": [],
     "segmenter": [
         "ChIPseeker",
@@ -1228,12 +1211,9 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "celda",
         "genefilter",
-        "scDblFinder",
-        "scMerge",
         "sva",
         "zinbwave"
     ],
@@ -1328,9 +1308,7 @@
         "monocle"
     ],
     "VAExprs": [],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VaSP": [
         "ballgown",
         "genefilter",
