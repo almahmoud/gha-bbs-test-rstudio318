@@ -101,7 +101,6 @@
     "BayesSpace": [
         "scran"
     ],
-    "BCRANK": [],
     "benchdamic": [
         "genefilter",
         "zinbwave"
@@ -153,9 +152,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -306,7 +303,6 @@
         "SNPRelate",
         "SeqArray"
     ],
-    "coGPS": [],
     "cola": [],
     "CONFESS": [
         "cytolib",
@@ -323,9 +319,7 @@
         "minfi",
         "siggenes"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "xcms"
@@ -347,7 +341,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "CRISPRseek": [],
     "crisprVerse": [
         "basilisk",
         "basilisk.utils",
@@ -522,9 +515,7 @@
         "sva"
     ],
     "EGAD": [],
-    "EGSEA": [
-        "PADOG"
-    ],
+    "EGSEA": [],
     "EnhancedVolcano": [],
     "ENmix": [
         "genefilter",
@@ -707,7 +698,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmrs": [],
     "frenchFISH": [],
     "funtooNorm": [
         "genefilter",
@@ -771,7 +761,6 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -790,9 +779,7 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -823,9 +810,7 @@
     "GSRI": [
         "genefilter"
     ],
-    "GUIDEseq": [
-        "CRISPRseek"
-    ],
+    "GUIDEseq": [],
     "GWASTools": [],
     "gwasurvivr": [
         "GWASTools",
@@ -839,18 +824,13 @@
     "Harshlight": [
         "altcdfenvs"
     ],
-    "hiAnnotator": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils"
     ],
     "hierinf": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "hmdbQuery": [],
-    "hpar": [],
-    "HTSFilter": [],
     "hyperdraw": [],
     "icetea": [],
     "iCheck": [
@@ -860,7 +840,6 @@
         "minfi",
         "siggenes"
     ],
-    "iClusterPlus": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1010,10 +989,7 @@
         "genefilter"
     ],
     "messina": [],
-    "metabinR": [],
-    "MetaboSignal": [
-        "hpar"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "cytolib",
@@ -1164,9 +1140,7 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "multicrispr": [
-        "CRISPRseek"
-    ],
+    "multicrispr": [],
     "multiWGCNA": [],
     "mumosa": [
         "scran"
@@ -1239,7 +1213,6 @@
         "genefilter",
         "sva"
     ],
-    "PADOG": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -1374,7 +1347,6 @@
         "SpacePAC",
         "iPAC"
     ],
-    "R4RNA": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1383,7 +1355,6 @@
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
-    "RBioinf": [],
     "RCAS": [
         "genomation"
     ],
@@ -1443,7 +1414,6 @@
         "basilisk.utils"
     ],
     "rexposome": [],
-    "rfaRm": [],
     "ribor": [],
     "rifiComparative": [],
     "Ringo": [
@@ -1658,7 +1628,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "spiky": [],
     "SpliceWiz": [
         "genefilter"
     ],
