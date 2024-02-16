@@ -9,7 +9,6 @@
     ],
     "a4Classif": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -145,7 +144,6 @@
         "scran"
     ],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq"
     ],
     "blacksheepr": [
@@ -231,22 +229,17 @@
         "genomation"
     ],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
     "cfTools": [
         "basilisk",
         "basilisk.utils"
     ],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
-    "CGHregions": [],
+    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "genefilter",
@@ -420,7 +413,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -457,9 +449,7 @@
     ],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -565,7 +555,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "fCCAC": [
         "genomation"
     ],
@@ -739,7 +728,6 @@
         "SeqArray"
     ],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "genefilter": [],
@@ -748,7 +736,6 @@
         "genefilter"
     ],
     "GENESIS": [
-        "GWASTools",
         "SNPRelate",
         "SeqArray",
         "SeqVarTools"
@@ -804,19 +791,14 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSRI": [
         "genefilter"
     ],
     "GUIDEseq": [],
-    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
         "SNPRelate"
     ],
-    "GWENA": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -903,7 +885,6 @@
         "sva"
     ],
     "lfa": [],
-    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -921,7 +902,6 @@
         "siggenes"
     ],
     "LymphoSeq": [],
-    "Macarron": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
@@ -959,10 +939,7 @@
         "genefilter",
         "sva"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
-    "MCbiclust": [],
+    "mBPCR": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -1157,7 +1134,6 @@
         "MSnbase",
         "xcms"
     ],
-    "NCIgraph": [],
     "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -1276,7 +1252,6 @@
     ],
     "pmp": [],
     "POMA": [],
-    "PPInfer": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -1322,9 +1297,7 @@
     "pwOmics": [],
     "qckitfastq": [],
     "qcmetrics": [],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -1349,7 +1322,6 @@
     ],
     "RAIDS": [
         "GENESIS",
-        "GWASTools",
         "SNPRelate",
         "SeqArray",
         "SeqVarTools"
@@ -1391,7 +1363,6 @@
         "BayesSpace",
         "scran"
     ],
-    "regutools": [],
     "REMP": [
         "genefilter",
         "minfi",
@@ -1440,7 +1411,6 @@
         "minfi",
         "siggenes"
     ],
-    "Rnits": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -1513,7 +1483,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -1638,7 +1607,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "statTarget": [],
     "surfaltr": [],
     "sva": [
         "genefilter"
