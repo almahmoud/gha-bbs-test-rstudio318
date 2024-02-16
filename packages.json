@@ -8,9 +8,7 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "GLAD",
         "genefilter",
@@ -77,10 +75,7 @@
         "genefilter",
         "pRoloc"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -92,7 +87,6 @@
     "bgx": [
         "gcrma"
     ],
-    "BiGGR": [],
     "bigmelon": [
         "genefilter",
         "lumi",
@@ -116,9 +110,7 @@
         "genefilter",
         "sva"
     ],
-    "biscuiteer": [
-        "QDNAseq"
-    ],
+    "biscuiteer": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter"
@@ -166,7 +158,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "celda": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -188,9 +179,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "cfTools": [],
     "cghMCR": [
         "CNTools",
@@ -215,7 +204,6 @@
     "cicero": [
         "monocle"
     ],
-    "CiteFuse": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -245,7 +233,6 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusOV": [],
     "conumee": [
         "genefilter",
         "minfi",
@@ -351,9 +338,7 @@
         "genefilter",
         "sva"
     ],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "genefilter",
         "minfi",
@@ -381,7 +366,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "Dino": [],
     "DMRcate": [
         "genefilter",
         "methylumi",
@@ -571,16 +555,12 @@
         "enrichplot"
     ],
     "gDR": [],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
         "genefilter"
     ],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GenProSeq": [],
     "GEOexplorer": [
         "genefilter",
@@ -596,7 +576,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -743,7 +722,6 @@
         "genefilter",
         "sva"
     ],
-    "mBPCR": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -968,7 +946,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [
         "flowCore",
@@ -1031,7 +1008,6 @@
     ],
     "ptairMS": [],
     "qcmetrics": [],
-    "QDNAseq": [],
     "qPLEXanalyzer": [],
     "qsea": [],
     "qsmooth": [
@@ -1053,8 +1029,7 @@
         "iPAC"
     ],
     "RAIDS": [
-        "GENESIS",
-        "SeqVarTools"
+        "GENESIS"
     ],
     "RandomWalkRestartMH": [],
     "Rcpi": [
@@ -1123,7 +1098,6 @@
         "genefilter",
         "sva"
     ],
-    "SCArray.sat": [],
     "scBFA": [
         "genefilter",
         "zinbwave"
@@ -1132,7 +1106,6 @@
     "scDataviz": [
         "flowCore"
     ],
-    "scDD": [],
     "scFeatures": [],
     "scifer": [
         "flowCore"
@@ -1169,7 +1142,6 @@
         "GLAD"
     ],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "SEtools": [
         "genefilter",
         "sva"
@@ -1200,9 +1172,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -1212,7 +1182,6 @@
         "GOSemSim"
     ],
     "singleCellTK": [
-        "celda",
         "genefilter",
         "sva",
         "zinbwave"
@@ -1234,7 +1203,6 @@
     "SpacePAC": [
         "iPAC"
     ],
-    "Spaniel": [],
     "spatialDE": [],
     "spatialHeatmap": [
         "genefilter"
