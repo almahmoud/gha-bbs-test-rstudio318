@@ -12,10 +12,8 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "GLAD",
-        "aCGH",
         "genefilter",
         "snapCGH",
         "tilingArray",
@@ -311,7 +309,6 @@
         "cytolib",
         "flowCore"
     ],
-    "CNORfuzzy": [],
     "CNTools": [
         "genefilter"
     ],
@@ -353,9 +350,7 @@
     "covRNA": [
         "genefilter"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
@@ -483,9 +478,7 @@
         "siggenes"
     ],
     "DeepBlueR": [],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -522,7 +515,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "diggit": [],
     "Dino": [
         "scran"
     ],
@@ -812,8 +804,7 @@
         "genomation"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GeoDiff": [],
     "GEOexplorer": [
@@ -878,7 +869,6 @@
         "SNPRelate"
     ],
     "GWENA": [],
-    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -886,7 +876,6 @@
     "Harshlight": [
         "altcdfenvs"
     ],
-    "Herper": [],
     "hiAnnotator": [],
     "HiCool": [
         "basilisk",
@@ -1032,7 +1021,6 @@
     "MatrixQCvis": [
         "vsn"
     ],
-    "MBAmethyl": [],
     "MBECS": [
         "genefilter",
         "sva"
@@ -1191,10 +1179,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [
-        "QUBIC"
-    ],
-    "MOSim": [],
+    "mosbi": [],
     "msgbsR": [
         "easyRNASeq"
     ],
@@ -1258,7 +1243,6 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [],
     "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -1289,7 +1273,6 @@
         "rexposome",
         "sva"
     ],
-    "OmnipathR": [],
     "openCyto": [
         "cytolib",
         "flowClust",
@@ -1318,7 +1301,6 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "PADOG": [],
     "pairedGSEA": [
         "DEXSeq",
@@ -1386,7 +1368,6 @@
     "POMA": [],
     "PPInfer": [],
     "preciseTAD": [
-        "aCGH",
         "rCGH"
     ],
     "PrInCE": [
@@ -1434,7 +1415,6 @@
         "MSnbase",
         "vsn"
     ],
-    "pvac": [],
     "pvca": [
         "vsn"
     ],
@@ -1469,7 +1449,6 @@
         "SpacePAC",
         "iPAC"
     ],
-    "QUBIC": [],
     "R4RNA": [],
     "RAIDS": [
         "GENESIS",
@@ -1483,9 +1462,7 @@
     "RCAS": [
         "genomation"
     ],
-    "rCGH": [
-        "aCGH"
-    ],
+    "rCGH": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -1669,7 +1646,6 @@
         "genefilter",
         "sva"
     ],
-    "sevenbridges": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -1737,7 +1713,6 @@
     ],
     "snapCGH": [
         "GLAD",
-        "aCGH",
         "genefilter",
         "tilingArray",
         "vsn"
@@ -1754,7 +1729,6 @@
     "Spaniel": [
         "scran"
     ],
-    "sparsenetgls": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils"
@@ -1845,13 +1819,11 @@
         "siggenes"
     ],
     "tripr": [],
-    "ttgsea": [],
     "uSORT": [
         "monocle"
     ],
     "VAExprs": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "VariantExperiment": [
         "GDSArray",
@@ -1887,9 +1859,7 @@
         "gcrma",
         "vsn"
     ],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [
         "MSnbase",
         "vsn"
