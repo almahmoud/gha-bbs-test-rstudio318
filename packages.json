@@ -66,7 +66,6 @@
         "genefilter",
         "vsn"
     ],
-    "ASAFE": [],
     "ASEB": [],
     "ASSET": [],
     "ASSIGN": [
@@ -98,12 +97,9 @@
         "scran"
     ],
     "basilisk": [
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
-    "basilisk.utils": [
-        "dir.expiry"
-    ],
+    "basilisk.utils": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -140,14 +136,12 @@
     ],
     "BiocHail": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BiocOncoTK": [],
     "BiocSklearn": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BioNAR": [],
     "BioNERO": [
@@ -195,7 +189,6 @@
     "casper": [],
     "CATALYST": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -218,8 +211,7 @@
     ],
     "cbpManager": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "celda": [
         "scran"
@@ -228,7 +220,6 @@
     "cellHTS2": [
         "Category",
         "genefilter",
-        "splots",
         "vsn"
     ],
     "CEMiTool": [
@@ -239,7 +230,6 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -260,8 +250,7 @@
     ],
     "cfTools": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "CGHcall": [],
     "cghMCR": [
@@ -319,7 +308,6 @@
         "enrichplot"
     ],
     "cmapR": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -335,7 +323,6 @@
     "coGPS": [],
     "cola": [],
     "CONFESS": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -372,13 +359,11 @@
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
-        "crisprScore",
-        "dir.expiry"
+        "crisprScore"
     ],
     "crisprScore": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "CRISPRseek": [],
     "crisprVerse": [
@@ -386,15 +371,13 @@
         "basilisk.utils",
         "crisprDesign",
         "crisprScore",
-        "crisprViz",
-        "dir.expiry"
+        "crisprViz"
     ],
     "crisprViz": [
         "basilisk",
         "basilisk.utils",
         "crisprDesign",
-        "crisprScore",
-        "dir.expiry"
+        "crisprScore"
     ],
     "crossmeta": [
         "genefilter",
@@ -403,7 +386,6 @@
     "csaw": [],
     "csdR": [],
     "cyanoFilter": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -411,18 +393,15 @@
         "flowViz"
     ],
     "cydar": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -430,20 +409,15 @@
     "cytofQC": [
         "CATALYST",
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
-    "cytolib": [
-        "RProtoBufLib"
-    ],
+    "cytolib": [],
     "cytoMEM": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -455,7 +429,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "RProtoBufLib",
         "cytolib",
         "flowAI",
         "flowCore",
@@ -466,7 +439,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "RProtoBufLib",
         "cytolib",
         "flowAI",
         "flowCore",
@@ -488,7 +460,6 @@
         "vsn"
     ],
     "ddPCRclust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -524,8 +495,7 @@
     ],
     "densvis": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "DEP": [
         "MSnbase",
@@ -541,7 +511,6 @@
     "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -557,7 +526,6 @@
     "Dino": [
         "scran"
     ],
-    "dir.expiry": [],
     "DMRcate": [
         "genefilter",
         "methylumi",
@@ -576,7 +544,6 @@
         "GOSemSim"
     ],
     "drugTargetInteractions": [],
-    "dStruct": [],
     "easier": [
         "progeny"
     ],
@@ -646,7 +613,6 @@
     "fCCAC": [
         "genomation"
     ],
-    "fdrame": [],
     "fedup": [],
     "ffpe": [
         "genefilter",
@@ -664,66 +630,54 @@
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "scran"
     ],
     "flowAI": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowCHIC": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowCore": [
-        "RProtoBufLib",
         "cytolib"
     ],
     "flowCut": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -731,38 +685,31 @@
         "ncdfFlow"
     ],
     "flowMatch": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz",
@@ -770,24 +717,20 @@
         "ncdfFlow"
     ],
     "flowTime": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowStats",
@@ -796,7 +739,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "ncdfFlow"
@@ -814,7 +756,6 @@
         "sva"
     ],
     "GateFinder": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowFP",
@@ -883,11 +824,9 @@
         "Category",
         "cellHTS2",
         "genefilter",
-        "splots",
         "vsn"
     ],
     "ggcyto": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -951,14 +890,12 @@
     "hiAnnotator": [],
     "HiCool": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HIREewas": [],
     "hmdbQuery": [],
     "hpar": [],
     "HTSFilter": [],
@@ -982,14 +919,12 @@
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1005,7 +940,6 @@
         "siggenes"
     ],
     "infinityFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1027,7 +961,6 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
-        "pfamAnalyzeR",
         "sva"
     ],
     "ISoLDE": [],
@@ -1066,8 +999,7 @@
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "MAGAR": [
         "RnBeads",
@@ -1117,7 +1049,6 @@
         "siggenes",
         "sva"
     ],
-    "MeasurementError.cor": [],
     "MEAT": [
         "genefilter",
         "lumi",
@@ -1142,7 +1073,6 @@
     ],
     "MetaCyto": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1194,7 +1124,6 @@
         "minfi",
         "siggenes"
     ],
-    "mgsa": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
@@ -1226,7 +1155,6 @@
         "GOstats",
         "genefilter"
     ],
-    "miRNAmeConverter": [],
     "missMethyl": [
         "genefilter",
         "methylumi",
@@ -1244,8 +1172,7 @@
     "MODA": [],
     "MOFA2": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "MOGAMUN": [],
     "mogsa": [
@@ -1322,7 +1249,6 @@
         "genefilter"
     ],
     "ncdfFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1365,7 +1291,6 @@
     ],
     "OmnipathR": [],
     "openCyto": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -1375,15 +1300,13 @@
     ],
     "OpenStats": [],
     "optimalFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowMeans"
     ],
     "orthos": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "OutSplice": [
         "Repitools",
@@ -1412,8 +1335,7 @@
         "DOSE",
         "GOSemSim",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "pcaExplorer": [
         "Category",
@@ -1425,7 +1347,6 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -1438,7 +1359,6 @@
     "PECA": [
         "genefilter"
     ],
-    "pfamAnalyzeR": [],
     "phemd": [
         "monocle"
     ],
@@ -1571,14 +1491,12 @@
     ],
     "Rcwl": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RcwlPipelines": [
         "Rcwl",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "ReactomePA": [
         "DOSE",
@@ -1588,13 +1506,10 @@
     "REBET": [
         "ASSET"
     ],
-    "rebook": [
-        "dir.expiry"
-    ],
+    "rebook": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "genefilter",
         "minfi",
         "siggenes"
@@ -1624,12 +1539,10 @@
         "Rcwl",
         "RcwlPipelines",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "rexposome": [],
     "rfaRm": [],
-    "rgoslin": [],
     "ribor": [],
     "rifiComparative": [],
     "Ringo": [
@@ -1652,7 +1565,6 @@
         "Category",
         "cellHTS2",
         "genefilter",
-        "splots",
         "vsn"
     ],
     "RnBeads": [
@@ -1662,7 +1574,6 @@
         "siggenes"
     ],
     "Rnits": [],
-    "RProtoBufLib": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -1683,9 +1594,7 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scBubbletree": [],
     "scDataviz": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1700,7 +1609,6 @@
         "scran"
     ],
     "scifer": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1708,14 +1616,12 @@
         "scran"
     ],
     "Sconify": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "scPipe": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "scran": [],
     "scTensor": [
@@ -1733,8 +1639,7 @@
     ],
     "scviR": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -1802,8 +1707,7 @@
     ],
     "SimBu": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "simplifyEnrichment": [
         "GOSemSim"
@@ -1815,7 +1719,6 @@
         "basilisk",
         "basilisk.utils",
         "celda",
-        "dir.expiry",
         "genefilter",
         "scDblFinder",
         "scMerge",
@@ -1841,8 +1744,7 @@
     ],
     "snifter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "SNPediaR": [],
     "SNPRelate": [],
@@ -1855,8 +1757,7 @@
     "sparsenetgls": [],
     "spatialDE": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "spatialHeatmap": [
         "genefilter",
@@ -1871,14 +1772,12 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "splots": [],
     "SPsimSeq": [],
     "ssize": [],
     "staRank": [
         "Category",
         "cellHTS2",
         "genefilter",
-        "splots",
         "vsn"
     ],
     "statTarget": [],
@@ -1909,7 +1808,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "tigre": [],
     "tilingArray": [
         "genefilter",
         "vsn"
@@ -1929,14 +1827,12 @@
         "MSnbase",
         "vsn"
     ],
-    "transcriptogramer": [],
     "tRanslatome": [
         "GOSemSim"
     ],
     "transomics2cytoscape": [],
     "treekoR": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -1970,7 +1866,6 @@
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zellkonverter"
     ],
     "vidger": [],
@@ -2013,8 +1908,7 @@
     ],
     "zellkonverter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "zinbwave": [
         "genefilter"
