@@ -8,7 +8,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "ACE": [],
     "ADaCGH2": [
         "GLAD",
         "genefilter",
@@ -75,7 +74,6 @@
         "genefilter",
         "pRoloc"
     ],
-    "BASiCStan": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -108,7 +106,6 @@
         "genefilter",
         "sva"
     ],
-    "biscuiteer": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter"
@@ -171,7 +168,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cfdnakit": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
@@ -212,7 +208,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVRanger": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -294,7 +289,6 @@
         "genefilter",
         "sva"
     ],
-    "decontX": [],
     "deconvR": [
         "genefilter",
         "minfi",
@@ -464,12 +458,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
         "genefilter"
     ],
-    "GENESIS": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -742,10 +734,7 @@
     "msgbsR": [
         "easyRNASeq"
     ],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MSPrep": [
         "genefilter",
         "sva"
@@ -899,9 +888,7 @@
         "SpacePAC",
         "iPAC"
     ],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
@@ -964,7 +951,6 @@
     ],
     "SCBN": [],
     "scDataviz": [],
-    "scFeatures": [],
     "Sconify": [],
     "scTensor": [
         "Category",
@@ -1023,7 +1009,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -1120,7 +1105,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantExperiment": [],
     "VaSP": [
         "ballgown",
         "genefilter",
