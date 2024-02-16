@@ -131,7 +131,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -277,7 +276,6 @@
         "minfi",
         "siggenes"
     ],
-    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "xcms"
@@ -456,7 +454,6 @@
         "genefilter",
         "sva"
     ],
-    "EGSEA": [],
     "EnhancedVolcano": [],
     "ENmix": [
         "genefilter",
@@ -697,7 +694,6 @@
         "ncdfFlow"
     ],
     "ggmanh": [],
-    "ggmsa": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -726,7 +722,6 @@
     "GSRI": [
         "genefilter"
     ],
-    "GUIDEseq": [],
     "gwasurvivr": [],
     "HarmonizR": [
         "genefilter",
@@ -737,7 +732,6 @@
         "basilisk"
     ],
     "hierinf": [],
-    "hiReadsProcessor": [],
     "hmdbQuery": [],
     "iCheck": [
         "genefilter",
@@ -887,7 +881,6 @@
         "genefilter"
     ],
     "messina": [],
-    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "cytolib",
@@ -1032,7 +1025,6 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "multicrispr": [],
     "mumosa": [],
     "NADfinder": [],
     "NBAMSeq": [
