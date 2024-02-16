@@ -249,7 +249,6 @@
         "flowViz"
     ],
     "cydar": [],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -258,7 +257,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowViz",
@@ -269,7 +267,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -277,7 +274,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -403,13 +399,11 @@
     "flagme": [
         "CAMERA"
     ],
-    "flowAI": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
@@ -427,7 +421,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
         "flowClust"
@@ -440,7 +433,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowClust",
         "flowViz"
@@ -995,7 +987,6 @@
     "SCBN": [],
     "scDataviz": [],
     "scFeatures": [],
-    "scifer": [],
     "Sconify": [],
     "scTensor": [
         "Category",
