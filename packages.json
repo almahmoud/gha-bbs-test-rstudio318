@@ -682,7 +682,6 @@
     "msgbsR": [
         "easyRNASeq"
     ],
-    "MSnID": [],
     "MSPrep": [
         "genefilter",
         "sva"
@@ -829,7 +828,6 @@
         "SpacePAC",
         "iPAC"
     ],
-    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
