@@ -9,7 +9,6 @@
     ],
     "a4Classif": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -130,7 +129,6 @@
         "hyperdraw"
     ],
     "bigmelon": [
-        "gdsfmt",
         "genefilter",
         "lumi",
         "methylumi",
@@ -169,7 +167,6 @@
         "scran"
     ],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -274,7 +271,6 @@
         "genomation"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -283,21 +279,15 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "genefilter",
@@ -342,13 +332,11 @@
         "genefilter",
         "zinbwave"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
         "GOSemSim",
         "enrichplot"
     ],
-    "ClusterSignificance": [],
     "cmapR": [
         "RProtoBufLib",
         "cytolib",
@@ -361,8 +349,7 @@
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "coGPS": [],
     "cola": [],
@@ -511,9 +498,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "dagLogo": [
-        "UniProt.ws"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -602,7 +587,6 @@
         "scran"
     ],
     "dir.expiry": [],
-    "dks": [],
     "DMRcate": [
         "genefilter",
         "methylumi",
@@ -620,10 +604,7 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "DriverNet": [],
-    "drugTargetInteractions": [
-        "UniProt.ws"
-    ],
+    "drugTargetInteractions": [],
     "dStruct": [],
     "easier": [
         "decoupleR",
@@ -869,7 +850,6 @@
     ],
     "gaga": [],
     "gage": [],
-    "gaggle": [],
     "GARS": [
         "DaMiRseq",
         "genefilter",
@@ -883,8 +863,7 @@
         "flowViz"
     ],
     "GBScleanR": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "gcatest": [
         "lfa"
@@ -910,14 +889,11 @@
     "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
-    "gdsfmt": [],
     "GEM": [],
     "gemini": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -933,8 +909,7 @@
         "GWASTools",
         "SNPRelate",
         "SeqArray",
-        "SeqVarTools",
-        "gdsfmt"
+        "SeqVarTools"
     ],
     "genoCN": [],
     "genomation": [],
@@ -968,8 +943,7 @@
         "ncdfFlow"
     ],
     "ggmanh": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "ggmsa": [
         "R4RNA"
@@ -980,7 +954,6 @@
         "genefilter"
     ],
     "GLAD": [],
-    "GladiaTOX": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1012,13 +985,10 @@
     "GUIDEseq": [
         "CRISPRseek"
     ],
-    "GWASTools": [
-        "gdsfmt"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "GWASTools",
-        "SNPRelate",
-        "gdsfmt"
+        "SNPRelate"
     ],
     "GWENA": [],
     "hapFabia": [],
@@ -1199,8 +1169,7 @@
         "sva"
     ],
     "mBPCR": [
-        "GWASTools",
-        "gdsfmt"
+        "GWASTools"
     ],
     "MCbiclust": [],
     "MEAL": [
@@ -1233,7 +1202,6 @@
         "genefilter"
     ],
     "messina": [],
-    "metabCombiner": [],
     "metabinR": [],
     "MetaboSignal": [
         "hpar"
@@ -1468,7 +1436,6 @@
         "yarn"
     ],
     "ngsReports": [],
-    "nnNorm": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
@@ -1543,7 +1510,6 @@
         "GOstats",
         "genefilter"
     ],
-    "pcxn": [],
     "PDATK": [
         "genefu",
         "survcomp"
@@ -1658,7 +1624,6 @@
     ],
     "qcmetrics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "qPLEXanalyzer": [
@@ -1691,11 +1656,9 @@
         "GWASTools",
         "SNPRelate",
         "SeqArray",
-        "SeqVarTools",
-        "gdsfmt"
+        "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
-    "RAREsim": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RCAS": [
@@ -1815,19 +1778,15 @@
     ],
     "RSeqAn": [],
     "SAIGEgds": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "SCAN.UPC": [
         "genefilter",
         "sva"
     ],
-    "SCArray": [
-        "gdsfmt"
-    ],
+    "SCArray": [],
     "SCArray.sat": [
-        "SCArray",
-        "gdsfmt"
+        "SCArray"
     ],
     "scBFA": [
         "genefilter",
@@ -1909,19 +1868,15 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SeqArray": [
-        "gdsfmt"
-    ],
+    "SeqArray": [],
     "seqCNA": [
         "GLAD"
     ],
     "SeqSQC": [
-        "SNPRelate",
-        "gdsfmt"
+        "SNPRelate"
     ],
     "SeqVarTools": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "SEtools": [
         "genefilter",
@@ -2011,9 +1966,7 @@
         "dir.expiry"
     ],
     "SNPediaR": [],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "SpacePAC": [
         "iPAC"
     ],
@@ -2132,9 +2085,7 @@
         "siggenes"
     ],
     "tripr": [],
-    "TSAR": [],
     "ttgsea": [],
-    "UniProt.ws": [],
     "uSORT": [
         "monocle"
     ],
@@ -2145,8 +2096,7 @@
     "VariantExperiment": [
         "GDSArray",
         "SNPRelate",
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "VaSP": [
         "ballgown",
@@ -2159,7 +2109,6 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "veloviz": [],
     "vidger": [],
     "ViSEAGO": [
         "GOSemSim"
