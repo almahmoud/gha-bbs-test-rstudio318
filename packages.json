@@ -591,7 +591,6 @@
     "GENESIS": [
         "SeqVarTools"
     ],
-    "GenomicPlot": [],
     "GenProSeq": [],
     "GEOexplorer": [
         "genefilter",
@@ -1096,7 +1095,6 @@
         "minfi",
         "siggenes"
     ],
-    "RegionalST": [],
     "REMP": [
         "genefilter",
         "minfi",
