@@ -91,12 +91,10 @@
         "vsn"
     ],
     "BASiCS": [
-        "metapod",
         "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "metapod",
         "scran"
     ],
     "basilisk": [
@@ -111,7 +109,6 @@
         "sva"
     ],
     "BayesSpace": [
-        "metapod",
         "scran"
     ],
     "BCRANK": [],
@@ -152,15 +149,12 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biodbLipidmaps": [],
-    "biodbUniprot": [],
     "BioNAR": [],
     "BioNERO": [
         "genefilter",
         "sva"
     ],
     "BioTIP": [
-        "metapod",
         "scran"
     ],
     "biscuiteer": [
@@ -228,7 +222,6 @@
         "dir.expiry"
     ],
     "celda": [
-        "metapod",
         "scran"
     ],
     "CellaRepertorium": [],
@@ -296,14 +289,12 @@
         "enrichplot"
     ],
     "ChromSCape": [
-        "metapod",
         "scran"
     ],
     "cicero": [
         "monocle"
     ],
     "CiteFuse": [
-        "metapod",
         "scran"
     ],
     "ClassifyR": [
@@ -367,9 +358,7 @@
         "vsn",
         "xcms"
     ],
-    "cosmosR": [
-        "decoupleR"
-    ],
+    "cosmosR": [],
     "COSNet": [],
     "countsimQC": [
         "genefilter"
@@ -411,9 +400,7 @@
         "genefilter",
         "sva"
     ],
-    "csaw": [
-        "metapod"
-    ],
+    "csaw": [],
     "csdR": [],
     "cyanoFilter": [
         "RProtoBufLib",
@@ -517,7 +504,6 @@
     ],
     "decontX": [
         "celda",
-        "metapod",
         "scran"
     ],
     "deconvR": [
@@ -525,7 +511,6 @@
         "minfi",
         "siggenes"
     ],
-    "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
         "ttgsea"
@@ -561,8 +546,7 @@
         "flowCore"
     ],
     "diffHic": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "diffuStats": [],
     "diffUTR": [
@@ -571,7 +555,6 @@
     ],
     "diggit": [],
     "Dino": [
-        "metapod",
         "scran"
     ],
     "dir.expiry": [],
@@ -595,7 +578,6 @@
     "drugTargetInteractions": [],
     "dStruct": [],
     "easier": [
-        "decoupleR",
         "progeny"
     ],
     "easyRNASeq": [],
@@ -636,8 +618,7 @@
         "genomation"
     ],
     "epigraHMM": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "EpiMix": [],
     "epimutacions": [
@@ -652,10 +633,8 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ExploreModelMatrix": [],
     "extraChIPs": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "famat": [
         "DOSE",
@@ -686,7 +665,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "metapod",
         "scran"
     ],
     "flowAI": [
@@ -825,7 +803,6 @@
     ],
     "fmrs": [],
     "frenchFISH": [],
-    "frmaTools": [],
     "funtooNorm": [
         "genefilter",
         "minfi",
@@ -909,7 +886,6 @@
         "splots",
         "vsn"
     ],
-    "geva": [],
     "ggcyto": [
         "RProtoBufLib",
         "cytolib",
@@ -949,8 +925,7 @@
         "iPAC"
     ],
     "gsean": [
-        "PPInfer",
-        "STRINGdb"
+        "PPInfer"
     ],
     "GSRI": [
         "genefilter"
@@ -989,8 +964,7 @@
     "HTSFilter": [],
     "hyperdraw": [],
     "icetea": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "iCheck": [
         "genefilter",
@@ -1006,9 +980,7 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "IMMAN": [
-        "STRINGdb"
-    ],
+    "IMMAN": [],
     "ImmuneSpaceR": [
         "RProtoBufLib",
         "cytolib",
@@ -1062,7 +1034,6 @@
     "ITALICS": [
         "GLAD"
     ],
-    "iterativeBMAsurv": [],
     "KCsmart": [
         "siggenes"
     ],
@@ -1187,7 +1158,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapod": [],
     "metaseqR2": [
         "genefilter",
         "vsn"
@@ -1238,7 +1208,6 @@
         "affyPLM",
         "gcrma"
     ],
-    "mina": [],
     "MineICA": [
         "Category",
         "GOstats",
@@ -1303,7 +1272,6 @@
         "easyRNASeq"
     ],
     "msImpute": [
-        "metapod",
         "scran"
     ],
     "msmsEDA": [
@@ -1344,13 +1312,11 @@
     ],
     "multiWGCNA": [],
     "mumosa": [
-        "metapod",
         "scran"
     ],
     "muscle": [],
     "NADfinder": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "NBAMSeq": [
         "genefilter"
@@ -1380,7 +1346,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "STRINGdb",
         "genefilter",
         "minfi",
         "quantro",
@@ -1392,10 +1357,7 @@
         "vsn"
     ],
     "odseq": [],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "omicRexposome": [
         "genefilter",
         "rexposome",
@@ -1477,7 +1439,6 @@
         "genefilter"
     ],
     "pfamAnalyzeR": [],
-    "pgca": [],
     "phemd": [
         "monocle"
     ],
@@ -1494,7 +1455,6 @@
         "enrichplot"
     ],
     "pipeComp": [
-        "metapod",
         "scran"
     ],
     "PloGO2": [
@@ -1504,9 +1464,7 @@
     ],
     "pmp": [],
     "POMA": [],
-    "PPInfer": [
-        "STRINGdb"
-    ],
+    "PPInfer": [],
     "preciseTAD": [
         "aCGH",
         "rCGH"
@@ -1521,9 +1479,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -1562,9 +1518,7 @@
     "pvca": [
         "vsn"
     ],
-    "pwOmics": [
-        "STRINGdb"
-    ],
+    "pwOmics": [],
     "qckitfastq": [
         "RSeqAn"
     ],
@@ -1605,7 +1559,6 @@
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
-    "RBioFormats": [],
     "RBioinf": [],
     "RCAS": [
         "genomation"
@@ -1648,7 +1601,6 @@
     ],
     "RegionalST": [
         "BayesSpace",
-        "metapod",
         "scran"
     ],
     "regutools": [],
@@ -1689,10 +1641,7 @@
         "vsn",
         "xcms"
     ],
-    "RITAN": [
-        "STRINGdb"
-    ],
-    "RLMM": [],
+    "RITAN": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
@@ -1741,16 +1690,13 @@
         "flowCore"
     ],
     "scDblFinder": [
-        "metapod",
         "scran"
     ],
     "scDD": [
-        "metapod",
         "scran"
     ],
     "scFeatures": [
         "SingleCellSignalR",
-        "metapod",
         "scran"
     ],
     "scifer": [
@@ -1759,7 +1705,6 @@
         "flowCore"
     ],
     "scMerge": [
-        "metapod",
         "scran"
     ],
     "Sconify": [
@@ -1772,9 +1717,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scran": [
-        "metapod"
-    ],
+    "scran": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -1786,7 +1729,6 @@
         "meshr"
     ],
     "scTreeViz": [
-        "metapod",
         "scran"
     ],
     "scviR": [
@@ -1867,7 +1809,6 @@
         "GOSemSim"
     ],
     "SingleCellSignalR": [
-        "metapod",
         "scran"
     ],
     "singleCellTK": [
@@ -1876,7 +1817,6 @@
         "celda",
         "dir.expiry",
         "genefilter",
-        "metapod",
         "scDblFinder",
         "scMerge",
         "scran",
@@ -1910,7 +1850,6 @@
         "iPAC"
     ],
     "Spaniel": [
-        "metapod",
         "scran"
     ],
     "sparsenetgls": [],
@@ -1921,13 +1860,9 @@
     ],
     "spatialHeatmap": [
         "genefilter",
-        "metapod",
         "scran"
     ],
-    "SpatialOmicsOverlay": [
-        "RBioFormats"
-    ],
-    "specL": [],
+    "SpatialOmicsOverlay": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -1947,7 +1882,6 @@
         "vsn"
     ],
     "statTarget": [],
-    "STRINGdb": [],
     "surfaltr": [],
     "sva": [
         "genefilter"
@@ -1970,7 +1904,6 @@
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
-        "STRINGdb",
         "enrichplot"
     ],
     "TEKRABber": [
@@ -2046,8 +1979,7 @@
     ],
     "vsn": [],
     "vulcan": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "wateRmelon": [
         "genefilter",
@@ -2072,9 +2004,7 @@
         "genefilter",
         "siggenes"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "yarn": [
         "genefilter",
         "minfi",
