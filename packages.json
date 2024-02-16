@@ -53,7 +53,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnVILBilling": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -74,9 +73,7 @@
         "genefilter",
         "sva"
     ],
-    "ATACCoGAPS": [
-        "GeneOverlap"
-    ],
+    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats",
@@ -245,7 +242,6 @@
         "splots",
         "vsn"
     ],
-    "cellmigRation": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -362,8 +358,7 @@
         "flowMerge"
     ],
     "consensusOV": [
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "conumee": [
         "genefilter",
@@ -617,8 +612,7 @@
     ],
     "EGAD": [],
     "EGSEA": [
-        "PADOG",
-        "gage"
+        "PADOG"
     ],
     "EnhancedVolcano": [],
     "ENmix": [
@@ -849,7 +843,6 @@
         "siggenes"
     ],
     "gaga": [],
-    "gage": [],
     "GARS": [
         "DaMiRseq",
         "genefilter",
@@ -898,20 +891,16 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [
-        "survcomp"
-    ],
+    "genefu": [],
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneOverlap": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
         "SeqArray",
         "SeqVarTools"
     ],
-    "genoCN": [],
     "genomation": [],
     "GenomicPlot": [
         "RCAS",
@@ -949,7 +938,6 @@
         "R4RNA"
     ],
     "ggtreeExtra": [],
-    "GIGSEA": [],
     "GISPA": [
         "genefilter"
     ],
@@ -1000,7 +988,6 @@
         "altcdfenvs"
     ],
     "Herper": [],
-    "HGC": [],
     "hiAnnotator": [],
     "HiCool": [
         "basilisk",
@@ -1080,7 +1067,6 @@
         "vsn",
         "xcms"
     ],
-    "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -1112,7 +1098,6 @@
         "vsn",
         "xcms"
     ],
-    "logicFS": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -1152,7 +1137,6 @@
     "MANOR": [
         "GLAD"
     ],
-    "MantelCorr": [],
     "maPredictDSC": [
         "gcrma"
     ],
@@ -1228,7 +1212,6 @@
     "metapod": [],
     "metaseqR2": [
         "genefilter",
-        "survcomp",
         "vsn"
     ],
     "MethylAid": [
@@ -1299,7 +1282,6 @@
         "genefilter"
     ],
     "miRNAmeConverter": [],
-    "miRNApath": [],
     "missMethyl": [
         "genefilter",
         "methylumi",
@@ -1453,7 +1435,6 @@
         "sva"
     ],
     "OmnipathR": [],
-    "onlineFDR": [],
     "openCyto": [
         "RProtoBufLib",
         "cytolib",
@@ -1511,8 +1492,7 @@
         "genefilter"
     ],
     "PDATK": [
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -1757,7 +1737,6 @@
         "vsn"
     ],
     "RNAAgeCalc": [],
-    "RNAdecay": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -1911,8 +1890,7 @@
     ],
     "signifinder": [
         "consensusOV",
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "SimBindProfiles": [
         "Ringo",
@@ -2013,7 +1991,6 @@
     "surfaltr": [
         "msa"
     ],
-    "survcomp": [],
     "sva": [
         "genefilter"
     ],
@@ -2022,7 +1999,6 @@
         "GOSemSim"
     ],
     "SwathXtend": [],
-    "swfdr": [],
     "synapter": [
         "MSnbase",
         "vsn"
