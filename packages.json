@@ -4,12 +4,10 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools"
     ],
     "affylmGUI": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools"
     ],
@@ -19,13 +17,9 @@
     ],
     "arrayQualityMetrics": [],
     "ASSIGN": [],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "ballgown": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BatchQC": [],
     "benchdamic": [],
     "bigmelon": [
@@ -46,17 +40,12 @@
     "cageminer": [
         "BioNERO"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "canceR": [],
+    "categoryCompare": [],
     "CBNplot": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
@@ -143,24 +132,18 @@
         "enrichplot"
     ],
     "GEOexplorer": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "gespeR": [],
+    "GmicR": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [],
     "HarmonizR": [],
     "iCheck": [
         "lumi",
         "methylumi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "iNETgrate": [
@@ -169,7 +152,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "interactiveDisplay": [],
     "IntEREst": [],
     "IsoformSwitchAnalyzeR": [],
     "KnowSeq": [],
@@ -200,7 +182,6 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
@@ -221,13 +202,10 @@
     ],
     "mimager": [],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi"
     ],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi"
     ],
@@ -249,7 +227,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "quantro",
         "yarn"
     ],
@@ -264,30 +241,22 @@
         "enrichplot"
     ],
     "pareg": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "phemd": [
         "monocle"
     ],
-    "phenoTest": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
@@ -305,23 +274,17 @@
     "recountmethylation": [],
     "REMP": [],
     "Repitools": [],
-    "ReportingTools": [
-        "GOstats"
-    ],
+    "ReportingTools": [],
     "RLSeq": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RnBeads": [
         "methylumi"
     ],
     "SCAN.UPC": [],
     "scBFA": [],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
-        "enrichplot",
-        "meshr"
+        "enrichplot"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -334,12 +297,9 @@
     ],
     "SeqSQC": [],
     "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -353,9 +313,7 @@
     ],
     "snapCGH": [],
     "spicyR": [],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "SVMDO": [],
     "TBSignatureProfiler": [
         "ASSIGN"
