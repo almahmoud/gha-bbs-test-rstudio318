@@ -21,10 +21,7 @@
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
-    "BioNERO": [],
-    "cageminer": [
-        "BioNERO"
-    ],
+    "cageminer": [],
     "canceR": [],
     "categoryCompare": [],
     "CBNplot": [
@@ -54,12 +51,10 @@
     "debrowser": [
         "clusterProfiler"
     ],
-    "deconvR": [],
     "DeepBlueR": [],
     "DMRcate": [
         "missMethyl"
     ],
-    "doppelgangR": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -81,7 +76,6 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GEOexplorer": [],
     "gespeR": [],
     "GmicR": [],
     "goSorensen": [
@@ -117,8 +111,6 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "methylCC": [],
-    "methylclock": [],
     "methylGSA": [
         "clusterProfiler",
         "missMethyl"
@@ -138,8 +130,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MSPrep": [],
-    "MSstatsQCgui": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -147,11 +137,9 @@
     "netZooR": [
         "yarn"
     ],
-    "omicRexposome": [],
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pareg": [],
     "pcaExplorer": [],
     "phemd": [
         "monocle"
@@ -176,7 +164,6 @@
     "RLSeq": [],
     "RNAinteract": [],
     "RnBeads": [],
-    "scBFA": [],
     "scTensor": [
         "ReactomePA"
     ],
@@ -188,19 +175,15 @@
         "clusterProfiler"
     ],
     "SeqSQC": [],
-    "SEtools": [],
     "SGCP": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
-    "SimBindProfiles": [],
-    "singleCellTK": [],
     "skewr": [
         "lumi",
         "wateRmelon"
     ],
     "staRank": [],
-    "SVMDO": [],
     "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
     "TimiRGeN": [
