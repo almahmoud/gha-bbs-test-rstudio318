@@ -8,7 +8,6 @@
         "tilingArray"
     ],
     "affycoretools": [
-        "Category",
         "GOstats",
         "ReportingTools"
     ],
@@ -18,7 +17,6 @@
     ],
     "affyPLM": [],
     "AgiMicroRna": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "affycoretools"
@@ -36,14 +34,12 @@
         "sva"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "ballgown": [
         "sva"
     ],
     "bandle": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "BatchQC": [
@@ -83,12 +79,9 @@
         "sva"
     ],
     "canceR": [
-        "Category",
         "phenoTest"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [],
@@ -97,9 +90,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -142,7 +133,6 @@
     "conumee": [
         "minfi"
     ],
-    "countsimQC": [],
     "covRNA": [],
     "crossmeta": [
         "sva"
@@ -234,7 +224,6 @@
         "DaMiRseq",
         "sva"
     ],
-    "gcatest": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
@@ -245,12 +234,10 @@
         "sva"
     ],
     "gespeR": [
-        "Category",
         "cellHTS2"
     ],
     "GISPA": [],
     "GmicR": [
-        "Category",
         "GOstats"
     ],
     "goSorensen": [
@@ -258,9 +245,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GraphPAC": [],
     "GSRI": [],
     "HarmonizR": [
@@ -272,7 +257,6 @@
         "minfi"
     ],
     "ideal": [
-        "Category",
         "GOstats",
         "pcaExplorer"
     ],
@@ -284,9 +268,7 @@
         "enrichplot",
         "minfi"
     ],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "IntEREst": [
         "DEXSeq"
     ],
@@ -339,9 +321,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -378,7 +358,6 @@
         "affyPLM"
     ],
     "MineICA": [
-        "Category",
         "GOstats",
         "lumi",
         "methylumi",
@@ -386,14 +365,12 @@
     ],
     "minfi": [],
     "miRLAB": [
-        "Category",
         "GOstats"
     ],
     "missMethyl": [
         "methylumi",
         "minfi"
     ],
-    "MLInterfaces": [],
     "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -414,7 +391,6 @@
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
-    "NBAMSeq": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -423,7 +399,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "minfi",
         "quantro",
@@ -452,16 +427,13 @@
         "DOSE"
     ],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PECA": [],
     "phemd": [
         "monocle"
     ],
-    "phenoTest": [
-        "Category"
-    ],
+    "phenoTest": [],
     "Pi": [],
     "Pigengene": [
         "DOSE",
@@ -470,7 +442,6 @@
         "enrichplot"
     ],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "profileplyr": [
@@ -478,11 +449,8 @@
         "DOSE",
         "enrichplot"
     ],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "PROPS": [
@@ -525,13 +493,11 @@
         "Ringo"
     ],
     "ReportingTools": [
-        "Category",
         "GOstats"
     ],
     "Ringo": [],
     "RLSeq": [],
     "RNAinteract": [
-        "Category",
         "cellHTS2"
     ],
     "RnBeads": [
@@ -546,7 +512,6 @@
         "zinbwave"
     ],
     "scTensor": [
-        "Category",
         "DOSE",
         "GOstats",
         "ReactomePA",
@@ -570,7 +535,6 @@
         "sva"
     ],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "shinyepico": [
@@ -579,9 +543,7 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -611,7 +573,6 @@
     ],
     "SpliceWiz": [],
     "staRank": [
-        "Category",
         "cellHTS2"
     ],
     "sva": [],
