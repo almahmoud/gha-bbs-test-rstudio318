@@ -4,11 +4,8 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -28,8 +25,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIPseeker": [],
@@ -45,9 +40,7 @@
         "clusterProfiler"
     ],
     "DeepBlueR": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -62,9 +55,7 @@
     "famat": [
         "clusterProfiler"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "frenchFISH": [],
     "GDCRNATools": [
         "clusterProfiler"
@@ -72,9 +63,7 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "ideal": [],
     "iNETgrate": [
         "Pigengene",
@@ -82,18 +71,12 @@
         "clusterProfiler"
     ],
     "lisaClust": [],
-    "lumi": [],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "meshes": [],
@@ -101,16 +84,12 @@
         "clusterProfiler"
     ],
     "methylGSA": [
-        "clusterProfiler",
-        "missMethyl"
+        "clusterProfiler"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MineICA": [
-        "lumi"
-    ],
-    "missMethyl": [],
+    "MineICA": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler"
@@ -146,7 +125,6 @@
     "RandomWalkRestartMH": [],
     "ReactomePA": [],
     "RLSeq": [],
-    "RnBeads": [],
     "scTensor": [
         "ReactomePA"
     ],
@@ -162,7 +140,6 @@
         "clusterProfiler"
     ],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "TBSignatureProfiler": [],
@@ -174,8 +151,6 @@
         "monocle"
     ],
     "VaSP": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "yarn": []
 }
