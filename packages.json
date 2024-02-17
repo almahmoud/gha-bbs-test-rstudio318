@@ -1,13 +1,11 @@
 {
     "a4": [
         "a4Base",
-        "a4Classif",
         "genefilter"
     ],
     "a4Base": [
         "genefilter"
     ],
-    "a4Classif": [],
     "ADaCGH2": [
         "GLAD",
         "genefilter",
@@ -46,8 +44,7 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQualityMetrics": [
         "affyPLM",
@@ -55,7 +52,6 @@
         "genefilter"
     ],
     "ASEB": [],
-    "ASSET": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -90,7 +86,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "bioassayR": [],
@@ -172,7 +167,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva",
         "wateRmelon"
     ],
@@ -202,8 +196,7 @@
     ],
     "conumee": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "countsimQC": [
         "genefilter"
@@ -235,8 +228,7 @@
     ],
     "deconvR": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "DeepBlueR": [],
     "DeMixT": [
@@ -258,8 +250,7 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "doppelgangR": [
         "genefilter",
@@ -268,7 +259,6 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "easyRNASeq": [],
     "edge": [
         "genefilter",
         "sva"
@@ -276,8 +266,7 @@
     "EnhancedVolcano": [],
     "ENmix": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "enrichplot": [
         "DOSE",
@@ -302,8 +291,7 @@
     ],
     "epimutacions": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -322,23 +310,19 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "frenchFISH": [],
     "funtooNorm": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "GARS": [
         "DaMiRseq",
         "genefilter",
         "sva"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -359,7 +343,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
     ],
@@ -380,9 +363,7 @@
         "Category",
         "genefilter"
     ],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GSRI": [
         "genefilter"
     ],
@@ -390,14 +371,11 @@
         "genefilter",
         "sva"
     ],
-    "hierinf": [],
-    "hmdbQuery": [],
     "iCheck": [
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "ideal": [
         "Category",
@@ -413,8 +391,7 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "interactiveDisplay": [
         "Category",
@@ -424,24 +401,19 @@
         "DEXSeq",
         "genefilter"
     ],
-    "iPAC": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
         "sva"
     ],
-    "ISoLDE": [],
     "ITALICS": [
         "GLAD"
     ],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KnowSeq": [
         "genefilter",
         "sva"
     ],
-    "lfa": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -450,16 +422,14 @@
     "lumi": [
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MACSQuantifyR": [],
     "MAGAR": [
         "RnBeads",
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "DOSE",
@@ -485,7 +455,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva"
     ],
     "MEAT": [
@@ -493,7 +462,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "meshes": [
@@ -505,7 +473,6 @@
         "Category",
         "genefilter"
     ],
-    "messina": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -517,18 +484,15 @@
     ],
     "MethylAid": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylclock": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylGSA": [
         "DOSE",
@@ -538,13 +502,11 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "methylumi": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -552,9 +514,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -565,12 +525,10 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "minfi": [
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "miRLAB": [
         "Category",
@@ -580,8 +538,7 @@
     "missMethyl": [
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MLInterfaces": [
         "genefilter"
@@ -602,19 +559,14 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "msgbsR": [
-        "easyRNASeq"
-    ],
+    "msgbsR": [],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "MSstatsQC": [
-        "qcmetrics"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "qcmetrics"
+        "MSstatsQC"
     ],
     "NBAMSeq": [
         "genefilter"
@@ -633,14 +585,12 @@
         "genefilter",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "omicRexposome": [
         "genefilter",
         "sva"
     ],
-    "OpenStats": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -670,7 +620,6 @@
         "GOstats",
         "genefilter"
     ],
-    "pdInfoBuilder": [],
     "PECA": [
         "genefilter"
     ],
@@ -724,7 +673,6 @@
         "genefilter"
     ],
     "ptairMS": [],
-    "qcmetrics": [],
     "qsea": [],
     "qsmooth": [
         "genefilter",
@@ -736,13 +684,11 @@
     ],
     "quantro": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "RandomWalkRestartMH": [],
     "Rcpi": [
@@ -753,18 +699,14 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "recountmethylation": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "REMP": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "Ringo",
@@ -776,7 +718,6 @@
         "genefilter"
     ],
     "retrofit": [],
-    "ribor": [],
     "Ringo": [
         "genefilter"
     ],
@@ -789,8 +730,7 @@
     "RnBeads": [
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "rrvgo": [
         "GOSemSim"
@@ -842,19 +782,16 @@
     ],
     "shinyepico": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
     ],
-    "siggenes": [],
     "signatureSearch": [
         "DOSE",
         "GOSemSim",
@@ -878,7 +815,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "snapCGH": [
@@ -886,9 +822,7 @@
         "genefilter",
         "tilingArray"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -946,9 +880,7 @@
         "genefilter",
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tripr": [],
     "uSORT": [
         "monocle"
@@ -965,22 +897,19 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "webbioc": [
         "gcrma"
     ],
     "XDE": [
         "GeneMeta",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "yarn": [
         "genefilter",
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zinbwave": [
         "genefilter"
