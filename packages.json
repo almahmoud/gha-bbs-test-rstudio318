@@ -12,8 +12,7 @@
         "affycoretools"
     ],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "arrayQualityMetrics": [],
     "ASSIGN": [],
@@ -24,7 +23,6 @@
     "benchdamic": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -54,11 +52,9 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cghMCR": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -74,7 +70,6 @@
         "enrichplot"
     ],
     "conumee": [],
-    "crossmeta": [],
     "DAPAR": [
         "clusterProfiler",
         "enrichplot"
@@ -85,15 +80,10 @@
     ],
     "deconvR": [],
     "DeepBlueR": [],
-    "DeMixT": [],
-    "DExMA": [],
-    "diffUTR": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "doppelgangR": [],
-    "edge": [],
     "ENmix": [],
     "enrichplot": [],
     "enrichTF": [
@@ -118,8 +108,7 @@
         "enrichplot"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "frenchFISH": [],
     "funtooNorm": [],
@@ -134,10 +123,8 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "HarmonizR": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [
         "pcaExplorer"
@@ -149,29 +136,22 @@
         "enrichplot"
     ],
     "IsoformSwitchAnalyzeR": [],
-    "KnowSeq": [],
     "lisaClust": [
         "spicyR"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "MBECS": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "meshes": [
@@ -187,22 +167,17 @@
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
-        "methylumi",
         "missMethyl"
     ],
-    "methylumi": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "miRLAB": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -248,7 +223,6 @@
         "enrichplot"
     ],
     "pRolocGUI": [],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
@@ -262,14 +236,11 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "recountmethylation": [],
     "REMP": [],
     "ReportingTools": [],
     "RLSeq": [],
     "RNAinteract": [],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "SCAN.UPC": [],
     "scBFA": [],
     "scTensor": [
@@ -288,7 +259,6 @@
     "SeqSQC": [],
     "SEtools": [],
     "SGCP": [],
-    "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [
         "clusterProfiler",
@@ -298,7 +268,6 @@
     "singleCellTK": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "snapCGH": [],
@@ -315,8 +284,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TOP": [],
-    "trigger": [],
     "uSORT": [
         "monocle"
     ],
@@ -324,8 +291,7 @@
         "ballgown"
     ],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "XDE": [],
     "yarn": [
