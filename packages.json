@@ -1,168 +1,120 @@
 {
     "a4": [
-        "a4Base",
-        "genefilter"
+        "a4Base"
     ],
-    "a4Base": [
-        "genefilter"
-    ],
+    "a4Base": [],
     "ADaCGH2": [
-        "GLAD",
-        "genefilter",
         "snapCGH",
         "tilingArray"
     ],
     "affycoretools": [
         "Category",
         "GOstats",
-        "ReportingTools",
-        "gcrma",
-        "genefilter"
+        "ReportingTools"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
         "ReportingTools",
-        "affycoretools",
-        "gcrma",
-        "genefilter"
+        "affycoretools"
     ],
-    "annmap": [
-        "genefilter"
-    ],
+    "annmap": [],
     "arrayMvout": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi"
     ],
     "arrayQualityMetrics": [
-        "affyPLM",
-        "gcrma",
-        "genefilter"
+        "affyPLM"
     ],
-    "ASEB": [],
     "ASSIGN": [
-        "genefilter",
         "sva"
     ],
     "attract": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "ballgown": [
-        "genefilter",
         "sva"
     ],
     "bandle": [
         "MLInterfaces",
-        "genefilter",
         "pRoloc"
     ],
     "BatchQC": [
-        "genefilter",
         "sva"
     ],
     "benchdamic": [
-        "genefilter",
         "zinbwave"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "bigmelon": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
         "wateRmelon"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
     ],
     "BiocOncoTK": [],
     "BioNERO": [
-        "genefilter",
         "sva"
     ],
     "blacksheepr": [
-        "DEXSeq",
-        "genefilter"
+        "DEXSeq"
     ],
     "bnbc": [
-        "genefilter",
         "sva"
     ],
     "bnem": [
-        "genefilter",
         "sva"
     ],
     "cageminer": [
         "BioNERO",
-        "genefilter",
         "sva"
     ],
     "canceR": [
         "Category",
-        "genefilter",
         "phenoTest"
     ],
-    "Category": [
-        "genefilter"
-    ],
+    "Category": [],
     "categoryCompare": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
-    "cbaf": [
-        "genefilter"
-    ],
+    "cbaf": [],
     "CBNplot": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "cellHTS2": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "CEMiTool": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "CeTF": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "cghMCR": [
-        "CNTools",
-        "genefilter"
+        "CNTools"
     ],
     "ChAMP": [
         "DMRcate",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -172,207 +124,149 @@
     ],
     "ChIPseeker": [
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "cicero": [
         "monocle"
     ],
-    "ClassifyR": [
-        "genefilter"
-    ],
+    "ClassifyR": [],
     "cliqueMS": [],
     "clusterExperiment": [
-        "genefilter",
         "zinbwave"
     ],
     "clusterProfiler": [
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
-    "CNTools": [
-        "genefilter"
-    ],
+    "CNTools": [],
     "conumee": [
-        "genefilter",
         "minfi"
     ],
-    "countsimQC": [
-        "genefilter"
-    ],
-    "covRNA": [
-        "genefilter"
-    ],
+    "countsimQC": [],
+    "covRNA": [],
     "crossmeta": [
-        "genefilter",
         "sva"
     ],
     "DaMiRseq": [
-        "genefilter",
         "sva"
     ],
     "DAPAR": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "debrowser": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "genefilter",
         "sva"
     ],
     "deconvR": [
-        "genefilter",
         "minfi"
     ],
     "DeepBlueR": [],
     "DeMixT": [
-        "genefilter",
         "sva"
     ],
     "DExMA": [
-        "genefilter",
         "sva"
     ],
-    "DEXSeq": [
-        "genefilter"
-    ],
+    "DEXSeq": [],
     "diffUTR": [
-        "DEXSeq",
-        "genefilter"
+        "DEXSeq"
     ],
     "DMRcate": [
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "doppelgangR": [
-        "genefilter",
         "sva"
     ],
-    "DOSE": [
-        "GOSemSim"
-    ],
+    "DOSE": [],
     "edge": [
-        "genefilter",
         "sva"
     ],
-    "EnhancedVolcano": [],
     "ENmix": [
-        "genefilter",
         "minfi"
     ],
     "enrichplot": [
-        "DOSE",
-        "GOSemSim"
+        "DOSE"
     ],
     "enrichTF": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "enrichViewNet": [
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "EpiCompare": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "epimutacions": [
-        "genefilter",
         "minfi"
     ],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "famat": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "ffpe": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi"
     ],
     "frenchFISH": [],
     "funtooNorm": [
-        "genefilter",
         "minfi"
     ],
     "GARS": [
         "DaMiRseq",
-        "genefilter",
         "sva"
     ],
     "gcatest": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
-    "genefilter": [],
-    "GeneMeta": [
-        "genefilter"
-    ],
+    "GeneMeta": [],
     "GEOexplorer": [
-        "genefilter",
         "sva"
     ],
     "gespeR": [
         "Category",
-        "cellHTS2",
-        "genefilter"
+        "cellHTS2"
     ],
-    "GISPA": [
-        "genefilter"
-    ],
-    "GLAD": [],
+    "GISPA": [],
     "GmicR": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
-    "GOSemSim": [],
     "goSorensen": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "GOstats": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "GraphPAC": [],
-    "GSRI": [
-        "genefilter"
-    ],
+    "GSRI": [],
     "HarmonizR": [
-        "genefilter",
         "sva"
     ],
     "iCheck": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi"
@@ -380,85 +274,62 @@
     "ideal": [
         "Category",
         "GOstats",
-        "genefilter",
         "pcaExplorer"
     ],
     "iNETgrate": [
         "DOSE",
-        "GOSemSim",
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "genefilter",
         "minfi"
     ],
     "interactiveDisplay": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "IntEREst": [
-        "DEXSeq",
-        "genefilter"
+        "DEXSeq"
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "genefilter",
         "sva"
     ],
-    "ITALICS": [
-        "GLAD"
-    ],
+    "ITALICS": [],
     "KCsmart": [],
     "KnowSeq": [
-        "genefilter",
         "sva"
     ],
     "lisaClust": [
         "ClassifyR",
-        "genefilter",
         "spicyR"
     ],
     "lumi": [
-        "genefilter",
         "methylumi",
         "minfi"
     ],
-    "MACSQuantifyR": [],
     "MAGAR": [
         "RnBeads",
-        "genefilter",
         "methylumi",
         "minfi"
     ],
     "MAGeCKFlute": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
-    "MANOR": [
-        "GLAD"
-    ],
-    "maPredictDSC": [
-        "gcrma"
-    ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "MANOR": [],
+    "maPredictDSC": [],
+    "maskBAD": [],
     "MBECS": [
-        "genefilter",
         "sva"
     ],
     "MEAL": [
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl",
         "sva"
     ],
     "MEAT": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -466,224 +337,171 @@
     ],
     "meshes": [
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "meshr": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "MetaPhOR": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [
-        "genefilter"
-    ],
+    "metaseqR2": [],
     "MethylAid": [
-        "genefilter",
         "minfi"
     ],
     "methylCC": [
-        "genefilter",
         "minfi"
     ],
     "methylclock": [
-        "genefilter",
         "minfi"
     ],
     "methylGSA": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "methylumi": [
-        "genefilter",
         "minfi"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
         "GOstats",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "minfi": [
-        "genefilter"
-    ],
+    "minfi": [],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "missMethyl": [
-        "genefilter",
         "methylumi",
         "minfi"
     ],
-    "MLInterfaces": [
-        "genefilter"
-    ],
-    "mogsa": [
-        "genefilter"
-    ],
+    "MLInterfaces": [],
+    "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "MoonlightR": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "msgbsR": [],
     "MSPrep": [
-        "genefilter",
         "sva"
     ],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
-    "NBAMSeq": [
-        "genefilter"
-    ],
+    "NBAMSeq": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "netSmooth": [
         "clusterExperiment",
-        "genefilter",
         "zinbwave"
     ],
     "netZooR": [
         "Category",
         "GOstats",
-        "genefilter",
         "minfi",
         "quantro",
         "yarn"
     ],
     "omicRexposome": [
-        "genefilter",
         "sva"
     ],
     "OutSplice": [
         "Repitools",
-        "Ringo",
-        "genefilter"
+        "Ringo"
     ],
     "PAA": [
-        "genefilter",
         "sva"
     ],
     "pairedGSEA": [
         "DEXSeq",
-        "genefilter",
         "sva"
     ],
     "PanomiR": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "pareg": [
-        "DOSE",
-        "GOSemSim"
+        "DOSE"
     ],
     "pcaExplorer": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
-    "PECA": [
-        "genefilter"
-    ],
+    "PECA": [],
     "phemd": [
         "monocle"
     ],
     "phenoTest": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "Pi": [],
     "Pigengene": [
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
     ],
     "PloGO2": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "pRoloc": [
-        "MLInterfaces",
-        "genefilter"
+        "MLInterfaces"
     ],
     "pRolocGUI": [
         "MLInterfaces",
-        "genefilter",
         "pRoloc"
     ],
     "PROPS": [
-        "genefilter",
         "sva"
     ],
     "Prostar": [
         "DAPAR",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
-    "protGear": [
-        "genefilter"
-    ],
-    "ptairMS": [],
-    "qsea": [],
+    "protGear": [],
     "qsmooth": [
-        "genefilter",
         "sva"
     ],
     "qsvaR": [
-        "genefilter",
         "sva"
     ],
     "quantro": [
-        "genefilter",
         "minfi"
     ],
     "QuartPAC": [
@@ -691,227 +509,158 @@
         "SpacePAC"
     ],
     "RandomWalkRestartMH": [],
-    "Rcpi": [
-        "GOSemSim"
-    ],
+    "Rcpi": [],
     "ReactomePA": [
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "REBET": [],
     "recountmethylation": [
-        "genefilter",
         "minfi"
     ],
     "REMP": [
-        "genefilter",
         "minfi"
     ],
     "Repitools": [
-        "Ringo",
-        "genefilter"
+        "Ringo"
     ],
     "ReportingTools": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
-    "retrofit": [],
-    "Ringo": [
-        "genefilter"
-    ],
+    "Ringo": [],
     "RLSeq": [],
     "RNAinteract": [
         "Category",
-        "cellHTS2",
-        "genefilter"
+        "cellHTS2"
     ],
     "RnBeads": [
-        "genefilter",
         "methylumi",
         "minfi"
     ],
-    "rrvgo": [
-        "GOSemSim"
-    ],
+    "rrvgo": [],
     "SCAN.UPC": [
-        "genefilter",
         "sva"
     ],
     "scBFA": [
-        "genefilter",
         "zinbwave"
     ],
-    "SCBN": [],
     "scTensor": [
         "Category",
         "DOSE",
-        "GOSemSim",
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "genefilter",
         "meshr"
     ],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqCNA": [
-        "GLAD"
-    ],
+    "seqCNA": [],
     "SeqSQC": [],
     "SEtools": [
-        "genefilter",
         "sva"
     ],
     "SGCP": [
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "shinyepico": [
-        "genefilter",
         "minfi"
     ],
     "shinyMethyl": [
-        "genefilter",
         "minfi"
     ],
     "SigCheck": [
-        "MLInterfaces",
-        "genefilter"
+        "MLInterfaces"
     ],
     "signatureSearch": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "SimBindProfiles": [
-        "Ringo",
-        "genefilter"
+        "Ringo"
     ],
-    "simplifyEnrichment": [
-        "GOSemSim"
-    ],
+    "simplifyEnrichment": [],
     "singleCellTK": [
-        "genefilter",
         "sva",
         "zinbwave"
     ],
     "skewr": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
         "wateRmelon"
     ],
     "snapCGH": [
-        "GLAD",
-        "genefilter",
         "tilingArray"
     ],
     "SpacePAC": [],
-    "spatialHeatmap": [
-        "genefilter"
-    ],
+    "spatialHeatmap": [],
     "spicyR": [
-        "ClassifyR",
-        "genefilter"
+        "ClassifyR"
     ],
-    "SpliceWiz": [
-        "genefilter"
-    ],
-    "ssize": [],
+    "SpliceWiz": [],
     "staRank": [
         "Category",
-        "cellHTS2",
-        "genefilter"
+        "cellHTS2"
     ],
-    "sva": [
-        "genefilter"
-    ],
+    "sva": [],
     "SVMDO": [
-        "DOSE",
-        "GOSemSim"
+        "DOSE"
     ],
-    "SynMut": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "genefilter",
         "sva"
     ],
     "TDbasedUFEadv": [
         "DOSE",
-        "GOSemSim",
         "enrichplot"
     ],
-    "TEKRABber": [
-        "SCBN"
-    ],
-    "tilingArray": [
-        "genefilter"
-    ],
+    "TEKRABber": [],
+    "tilingArray": [],
     "TimiRGeN": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
     "TOP": [
-        "ClassifyR",
-        "genefilter"
+        "ClassifyR"
     ],
-    "tRanslatome": [
-        "GOSemSim"
-    ],
+    "tRanslatome": [],
     "trigger": [
-        "genefilter",
         "sva"
     ],
     "trio": [],
-    "tripr": [],
     "uSORT": [
         "monocle"
     ],
     "VaSP": [
         "ballgown",
-        "genefilter",
         "sva"
     ],
-    "ViSEAGO": [
-        "GOSemSim"
-    ],
+    "ViSEAGO": [],
     "wateRmelon": [
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "webbioc": [
-        "gcrma"
-    ],
+    "webbioc": [],
     "XDE": [
-        "GeneMeta",
-        "genefilter"
+        "GeneMeta"
     ],
     "yarn": [
-        "genefilter",
         "minfi",
         "quantro"
     ],
-    "zinbwave": [
-        "genefilter"
-    ]
+    "zinbwave": []
 }
