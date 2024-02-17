@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "ADaCGH2": [
         "snapCGH",
         "tilingArray"
@@ -12,10 +9,7 @@
         "ReportingTools"
     ],
     "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
@@ -27,9 +21,7 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
+    "arrayQualityMetrics": [],
     "ASSIGN": [
         "sva"
     ],
@@ -45,10 +37,7 @@
     "BatchQC": [
         "sva"
     ],
-    "benchdamic": [
-        "zinbwave"
-    ],
-    "bgx": [],
+    "benchdamic": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -56,7 +45,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
@@ -65,9 +53,7 @@
     "BioNERO": [
         "sva"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "bnbc": [
         "sva"
     ],
@@ -84,20 +70,16 @@
     "categoryCompare": [
         "GOstats"
     ],
-    "cbaf": [],
     "CBNplot": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "cellHTS2": [],
     "CEMiTool": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "CeTF": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -114,7 +96,6 @@
         "wateRmelon"
     ],
     "ChIPseeker": [
-        "DOSE",
         "enrichplot"
     ],
     "cicero": [
@@ -122,11 +103,8 @@
     ],
     "ClassifyR": [],
     "cliqueMS": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot"
     ],
     "CNTools": [],
@@ -141,12 +119,10 @@
         "sva"
     ],
     "DAPAR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "debrowser": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "sva"
@@ -161,10 +137,7 @@
     "DExMA": [
         "sva"
     ],
-    "DEXSeq": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "DMRcate": [
         "methylumi",
         "minfi",
@@ -173,28 +146,22 @@
     "doppelgangR": [
         "sva"
     ],
-    "DOSE": [],
     "edge": [
         "sva"
     ],
     "ENmix": [
         "minfi"
     ],
-    "enrichplot": [
-        "DOSE"
-    ],
+    "enrichplot": [],
     "enrichTF": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "enrichViewNet": [
-        "DOSE",
         "enrichplot"
     ],
     "EpiCompare": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "epimutacions": [
@@ -202,12 +169,10 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "famat": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -225,7 +190,6 @@
         "sva"
     ],
     "GDCRNATools": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -241,7 +205,6 @@
         "GOstats"
     ],
     "goSorensen": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -261,7 +224,6 @@
         "pcaExplorer"
     ],
     "iNETgrate": [
-        "DOSE",
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
@@ -269,11 +231,8 @@
         "minfi"
     ],
     "interactiveDisplay": [],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "sva"
     ],
     "ITALICS": [],
@@ -295,12 +254,10 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "MANOR": [],
-    "maPredictDSC": [],
     "maskBAD": [],
     "MBECS": [
         "sva"
@@ -318,12 +275,10 @@
         "wateRmelon"
     ],
     "meshes": [
-        "DOSE",
         "enrichplot"
     ],
     "meshr": [],
     "MetaPhOR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -338,7 +293,6 @@
         "minfi"
     ],
     "methylGSA": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -349,14 +303,11 @@
         "minfi"
     ],
     "MicrobiomeProfiler": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "GOstats",
         "lumi",
@@ -371,15 +322,12 @@
         "methylumi",
         "minfi"
     ],
-    "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "MoonlightR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -387,16 +335,12 @@
     "MSPrep": [
         "sva"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "GOstats",
@@ -415,28 +359,22 @@
         "sva"
     ],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "PanomiR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "pareg": [
-        "DOSE"
-    ],
+    "pareg": [],
     "pcaExplorer": [
         "GOstats"
     ],
-    "PECA": [],
     "phemd": [
         "monocle"
     ],
     "phenoTest": [],
     "Pi": [],
     "Pigengene": [
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
@@ -446,7 +384,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "pRoloc": [],
@@ -458,7 +395,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -473,13 +409,11 @@
         "minfi"
     ],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "RandomWalkRestartMH": [],
     "Rcpi": [],
     "ReactomePA": [
-        "DOSE",
         "enrichplot"
     ],
     "REBET": [],
@@ -508,11 +442,8 @@
     "SCAN.UPC": [
         "sva"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scTensor": [
-        "DOSE",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -520,16 +451,13 @@
     ],
     "segmenter": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqCNA": [],
     "SeqSQC": [],
     "SEtools": [
         "sva"
@@ -545,7 +473,6 @@
     ],
     "SigCheck": [],
     "signatureSearch": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -554,8 +481,7 @@
     ],
     "simplifyEnrichment": [],
     "singleCellTK": [
-        "sva",
-        "zinbwave"
+        "sva"
     ],
     "skewr": [
         "lumi",
@@ -566,7 +492,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "SpacePAC": [],
     "spatialHeatmap": [],
     "spicyR": [
         "ClassifyR"
@@ -576,21 +501,16 @@
         "cellHTS2"
     ],
     "sva": [],
-    "SVMDO": [
-        "DOSE"
-    ],
+    "SVMDO": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "sva"
     ],
     "TDbasedUFEadv": [
-        "DOSE",
         "enrichplot"
     ],
-    "TEKRABber": [],
     "tilingArray": [],
     "TimiRGeN": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -601,7 +521,6 @@
     "trigger": [
         "sva"
     ],
-    "trio": [],
     "uSORT": [
         "monocle"
     ],
@@ -622,6 +541,5 @@
     "yarn": [
         "minfi",
         "quantro"
-    ],
-    "zinbwave": []
+    ]
 }
