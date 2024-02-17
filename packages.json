@@ -8,7 +8,6 @@
         "GOstats",
         "ReportingTools"
     ],
-    "affyILM": [],
     "affylmGUI": [],
     "AgiMicroRna": [
         "GOstats",
@@ -18,8 +17,7 @@
     "annmap": [],
     "arrayMvout": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "arrayQualityMetrics": [],
     "ASSIGN": [
@@ -41,7 +39,6 @@
     "bigmelon": [
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -83,14 +80,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
         "methylumi",
-        "minfi",
         "missMethyl",
         "sva",
         "wateRmelon"
@@ -107,11 +101,7 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "CNTools": [],
-    "conumee": [
-        "minfi"
-    ],
-    "covRNA": [],
+    "conumee": [],
     "crossmeta": [
         "sva"
     ],
@@ -127,9 +117,7 @@
         "enrichplot",
         "sva"
     ],
-    "deconvR": [
-        "minfi"
-    ],
+    "deconvR": [],
     "DeepBlueR": [],
     "DeMixT": [
         "sva"
@@ -140,7 +128,6 @@
     "diffUTR": [],
     "DMRcate": [
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
     "doppelgangR": [
@@ -149,9 +136,7 @@
     "edge": [
         "sva"
     ],
-    "ENmix": [
-        "minfi"
-    ],
+    "ENmix": [],
     "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
@@ -164,9 +149,7 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epimutacions": [
-        "minfi"
-    ],
+    "epimutacions": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -178,13 +161,10 @@
     ],
     "ffpe": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "frenchFISH": [],
-    "funtooNorm": [
-        "minfi"
-    ],
+    "funtooNorm": [],
     "GARS": [
         "DaMiRseq",
         "sva"
@@ -200,7 +180,6 @@
     "gespeR": [
         "cellHTS2"
     ],
-    "GISPA": [],
     "GmicR": [
         "GOstats"
     ],
@@ -209,15 +188,12 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GraphPAC": [],
-    "GSRI": [],
     "HarmonizR": [
         "sva"
     ],
     "iCheck": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "ideal": [
         "GOstats",
@@ -227,8 +203,7 @@
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "minfi"
+        "enrichplot"
     ],
     "interactiveDisplay": [],
     "IntEREst": [],
@@ -236,7 +211,6 @@
         "sva"
     ],
     "ITALICS": [],
-    "KCsmart": [],
     "KnowSeq": [
         "sva"
     ],
@@ -245,33 +219,28 @@
         "spicyR"
     ],
     "lumi": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "MAGAR": [
         "RnBeads",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot"
     ],
     "MANOR": [],
-    "maskBAD": [],
     "MBECS": [
         "sva"
     ],
     "MEAL": [
         "methylumi",
-        "minfi",
         "missMethyl",
         "sva"
     ],
     "MEAT": [
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "meshes": [
@@ -283,25 +252,16 @@
         "enrichplot"
     ],
     "metaseqR2": [],
-    "MethylAid": [
-        "minfi"
-    ],
-    "methylCC": [
-        "minfi"
-    ],
-    "methylclock": [
-        "minfi"
-    ],
+    "MethylAid": [],
+    "methylCC": [],
+    "methylclock": [],
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
-    "methylumi": [
-        "minfi"
-    ],
+    "methylumi": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -311,16 +271,13 @@
     "MineICA": [
         "GOstats",
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
-    "minfi": [],
     "miRLAB": [
         "GOstats"
     ],
     "missMethyl": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "monocle": [],
     "Moonlight2R": [
@@ -331,7 +288,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "msgbsR": [],
     "MSPrep": [
         "sva"
     ],
@@ -344,7 +300,6 @@
     ],
     "netZooR": [
         "GOstats",
-        "minfi",
         "quantro",
         "yarn"
     ],
@@ -352,8 +307,7 @@
         "sva"
     ],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [
         "sva"
@@ -398,45 +352,31 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "protGear": [],
     "qsmooth": [
         "sva"
     ],
     "qsvaR": [
         "sva"
     ],
-    "quantro": [
-        "minfi"
-    ],
-    "QuartPAC": [
-        "GraphPAC"
-    ],
+    "quantro": [],
+    "QuartPAC": [],
     "RandomWalkRestartMH": [],
-    "Rcpi": [],
     "ReactomePA": [
         "enrichplot"
     ],
     "REBET": [],
-    "recountmethylation": [
-        "minfi"
-    ],
-    "REMP": [
-        "minfi"
-    ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "recountmethylation": [],
+    "REMP": [],
+    "Repitools": [],
     "ReportingTools": [
         "GOstats"
     ],
-    "Ringo": [],
     "RLSeq": [],
     "RNAinteract": [
         "cellHTS2"
     ],
     "RnBeads": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "rrvgo": [],
     "SCAN.UPC": [
@@ -465,20 +405,14 @@
     "SGCP": [
         "GOstats"
     ],
-    "shinyepico": [
-        "minfi"
-    ],
-    "shinyMethyl": [
-        "minfi"
-    ],
+    "shinyepico": [],
+    "shinyMethyl": [],
     "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simplifyEnrichment": [],
     "singleCellTK": [
         "sva"
@@ -486,13 +420,11 @@
     "skewr": [
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "snapCGH": [
         "tilingArray"
     ],
-    "spatialHeatmap": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -517,7 +449,6 @@
     "TOP": [
         "ClassifyR"
     ],
-    "tRanslatome": [],
     "trigger": [
         "sva"
     ],
@@ -531,15 +462,13 @@
     "ViSEAGO": [],
     "wateRmelon": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "webbioc": [],
     "XDE": [
         "GeneMeta"
     ],
     "yarn": [
-        "minfi",
         "quantro"
     ]
 }
