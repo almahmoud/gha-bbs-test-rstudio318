@@ -1,8 +1,7 @@
 {
     "a4": [],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "affycoretools": [
         "GOstats",
@@ -14,27 +13,20 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "annmap": [],
     "arrayMvout": [
         "lumi",
         "methylumi"
     ],
     "arrayQualityMetrics": [],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "attract": [
         "GOstats"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bandle": [
         "pRoloc"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "benchdamic": [],
     "bigmelon": [
         "lumi",
@@ -47,19 +39,12 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "blacksheepr": [],
-    "bnbc": [
-        "sva"
-    ],
-    "bnem": [
-        "sva"
-    ],
+    "bnbc": [],
+    "bnem": [],
     "cageminer": [
-        "BioNERO",
-        "sva"
+        "BioNERO"
     ],
     "canceR": [
         "phenoTest"
@@ -86,7 +71,6 @@
         "lumi",
         "methylumi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "ChIPseeker": [
@@ -95,47 +79,33 @@
     "cicero": [
         "monocle"
     ],
-    "ClassifyR": [],
     "cliqueMS": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
     "conumee": [],
-    "crossmeta": [
-        "sva"
-    ],
-    "DaMiRseq": [
-        "sva"
-    ],
+    "crossmeta": [],
+    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler",
         "enrichplot"
     ],
     "debrowser": [
         "clusterProfiler",
-        "enrichplot",
-        "sva"
+        "enrichplot"
     ],
     "deconvR": [],
     "DeepBlueR": [],
-    "DeMixT": [
-        "sva"
-    ],
-    "DExMA": [
-        "sva"
-    ],
+    "DeMixT": [],
+    "DExMA": [],
     "diffUTR": [],
     "DMRcate": [
         "methylumi",
         "missMethyl"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
-    "edge": [
-        "sva"
-    ],
+    "doppelgangR": [],
+    "edge": [],
     "ENmix": [],
     "enrichplot": [],
     "enrichTF": [
@@ -166,17 +136,13 @@
     "frenchFISH": [],
     "funtooNorm": [],
     "GARS": [
-        "DaMiRseq",
-        "sva"
+        "DaMiRseq"
     ],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "GeneMeta": [],
-    "GEOexplorer": [
-        "sva"
-    ],
+    "GEOexplorer": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -188,9 +154,7 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "HarmonizR": [
-        "sva"
-    ],
+    "HarmonizR": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -207,15 +171,9 @@
     ],
     "interactiveDisplay": [],
     "IntEREst": [],
-    "IsoformSwitchAnalyzeR": [
-        "sva"
-    ],
-    "ITALICS": [],
-    "KnowSeq": [
-        "sva"
-    ],
+    "IsoformSwitchAnalyzeR": [],
+    "KnowSeq": [],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "lumi": [
@@ -229,14 +187,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MANOR": [],
-    "MBECS": [
-        "sva"
-    ],
+    "MBECS": [],
     "MEAL": [
         "methylumi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MEAT": [
         "lumi",
@@ -251,7 +205,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
@@ -266,7 +219,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "mimager": [],
     "MineICA": [
         "GOstats",
@@ -288,9 +240,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "MSstatsQCgui": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -303,18 +253,12 @@
         "quantro",
         "yarn"
     ],
-    "omicRexposome": [
-        "sva"
-    ],
+    "omicRexposome": [],
     "OutSplice": [
         "Repitools"
     ],
-    "PAA": [
-        "sva"
-    ],
-    "pairedGSEA": [
-        "sva"
-    ],
+    "PAA": [],
+    "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -344,27 +288,20 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
         "enrichplot"
     ],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantro": [],
     "QuartPAC": [],
     "RandomWalkRestartMH": [],
     "ReactomePA": [
         "enrichplot"
     ],
-    "REBET": [],
     "recountmethylation": [],
     "REMP": [],
     "Repitools": [],
@@ -378,10 +315,7 @@
     "RnBeads": [
         "methylumi"
     ],
-    "rrvgo": [],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scBFA": [],
     "scTensor": [
         "GOstats",
@@ -399,9 +333,7 @@
         "enrichplot"
     ],
     "SeqSQC": [],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGCP": [
         "GOstats"
     ],
@@ -413,61 +345,41 @@
         "enrichplot"
     ],
     "SimBindProfiles": [],
-    "simplifyEnrichment": [],
-    "singleCellTK": [
-        "sva"
-    ],
+    "singleCellTK": [],
     "skewr": [
         "lumi",
         "methylumi",
         "wateRmelon"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
-    "spicyR": [
-        "ClassifyR"
-    ],
-    "SpliceWiz": [],
+    "snapCGH": [],
+    "spicyR": [],
     "staRank": [
         "cellHTS2"
     ],
-    "sva": [],
     "SVMDO": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "sva"
+        "ASSIGN"
     ],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
-    "trigger": [
-        "sva"
-    ],
+    "TOP": [],
+    "trigger": [],
     "uSORT": [
         "monocle"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
-    "ViSEAGO": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
     ],
-    "webbioc": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "yarn": [
         "quantro"
     ]
