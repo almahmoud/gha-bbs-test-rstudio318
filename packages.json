@@ -75,7 +75,6 @@
     ],
     "conumee": [],
     "crossmeta": [],
-    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler",
         "enrichplot"
@@ -124,9 +123,7 @@
     ],
     "frenchFISH": [],
     "funtooNorm": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot"
@@ -152,7 +149,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "IntEREst": [],
     "IsoformSwitchAnalyzeR": [],
     "KnowSeq": [],
     "lisaClust": [
@@ -200,7 +196,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mimager": [],
     "MineICA": [
         "lumi",
         "methylumi"
@@ -231,9 +226,7 @@
         "yarn"
     ],
     "omicRexposome": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "PAA": [],
     "pairedGSEA": [],
     "PanomiR": [
@@ -273,7 +266,6 @@
     ],
     "recountmethylation": [],
     "REMP": [],
-    "Repitools": [],
     "ReportingTools": [],
     "RLSeq": [],
     "RNAinteract": [],
