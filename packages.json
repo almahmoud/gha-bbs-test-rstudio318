@@ -3,7 +3,6 @@
     "affycoretools": [
         "ReportingTools"
     ],
-    "affylmGUI": [],
     "AgiMicroRna": [
         "ReportingTools",
         "affycoretools"
@@ -11,10 +10,8 @@
     "arrayMvout": [
         "lumi"
     ],
-    "arrayQualityMetrics": [],
     "attract": [],
     "bandle": [],
-    "benchdamic": [],
     "bigmelon": [
         "lumi",
         "wateRmelon"
@@ -25,8 +22,6 @@
     ],
     "BiocOncoTK": [],
     "BioNERO": [],
-    "blacksheepr": [],
-    "bnbc": [],
     "cageminer": [
         "BioNERO"
     ],
@@ -52,9 +47,7 @@
         "monocle"
     ],
     "cliqueMS": [],
-    "clusterExperiment": [],
     "clusterProfiler": [],
-    "conumee": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -67,7 +60,6 @@
         "missMethyl"
     ],
     "doppelgangR": [],
-    "ENmix": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -75,7 +67,6 @@
     "EpiCompare": [
         "ChIPseeker"
     ],
-    "epimutacions": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler"
@@ -107,10 +98,7 @@
         "ReactomePA",
         "clusterProfiler"
     ],
-    "IsoformSwitchAnalyzeR": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lumi": [],
     "MAGAR": [
         "RnBeads"
@@ -155,14 +143,11 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "yarn"
     ],
     "omicRexposome": [],
-    "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -185,9 +170,6 @@
         "DAPAR",
         "clusterProfiler"
     ],
-    "qsmooth": [],
-    "qsvaR": [],
-    "QuartPAC": [],
     "RandomWalkRestartMH": [],
     "ReactomePA": [],
     "ReportingTools": [],
@@ -217,7 +199,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "spicyR": [],
     "staRank": [],
     "SVMDO": [],
     "TBSignatureProfiler": [],
