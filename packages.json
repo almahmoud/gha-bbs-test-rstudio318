@@ -1,8 +1,5 @@
 {
-    "AgiMicroRna": [],
-    "bigmelon": [],
     "BiocOncoTK": [],
-    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
@@ -10,7 +7,6 @@
     "DeepBlueR": [],
     "frenchFISH": [],
     "iNETgrate": [],
-    "MEAT": [],
     "monocle": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -23,7 +19,6 @@
     "RandomWalkRestartMH": [],
     "RLSeq": [],
     "SeqSQC": [],
-    "skewr": [],
     "uSORT": [
         "monocle"
     ]
