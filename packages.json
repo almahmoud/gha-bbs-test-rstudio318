@@ -1,17 +1,12 @@
 {
     "ADaCGH2": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "arrayMvout": [
         "lumi"
     ],
-    "attract": [],
-    "bandle": [],
     "bigmelon": [
         "lumi",
         "wateRmelon"
@@ -22,8 +17,6 @@
     ],
     "BiocOncoTK": [],
     "cageminer": [],
-    "canceR": [],
-    "categoryCompare": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -76,17 +69,13 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "gespeR": [],
-    "GmicR": [],
     "goSorensen": [
         "clusterProfiler"
     ],
     "iCheck": [
         "lumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -121,7 +110,6 @@
     "MineICA": [
         "lumi"
     ],
-    "miRLAB": [],
     "missMethyl": [],
     "monocle": [],
     "Moonlight2R": [
@@ -140,7 +128,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pcaExplorer": [],
     "phemd": [
         "monocle"
     ],
@@ -149,20 +136,16 @@
         "ReactomePA",
         "clusterProfiler"
     ],
-    "PloGO2": [],
     "profileplyr": [
         "ChIPseeker"
     ],
-    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
     ],
     "RandomWalkRestartMH": [],
     "ReactomePA": [],
-    "ReportingTools": [],
     "RLSeq": [],
-    "RNAinteract": [],
     "RnBeads": [],
     "scTensor": [
         "ReactomePA"
@@ -175,7 +158,6 @@
         "clusterProfiler"
     ],
     "SeqSQC": [],
-    "SGCP": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
@@ -183,7 +165,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "staRank": [],
     "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
     "TimiRGeN": [
