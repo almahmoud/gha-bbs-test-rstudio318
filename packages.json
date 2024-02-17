@@ -2,46 +2,27 @@
     "AgiMicroRna": [],
     "bigmelon": [],
     "BiocOncoTK": [],
-    "CEMiTool": [],
     "ChAMP": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
-    "DAPAR": [],
     "DeepBlueR": [],
-    "enrichTF": [],
-    "EpiCompare": [],
-    "esATAC": [],
-    "famat": [],
     "frenchFISH": [],
-    "iNETgrate": [
-        "Pigengene"
-    ],
-    "MAGeCKFlute": [],
+    "iNETgrate": [],
     "MEAT": [],
-    "MicrobiomeProfiler": [],
     "monocle": [],
-    "MoonlightR": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netZooR": [],
     "phemd": [
         "monocle"
     ],
     "Pi": [],
-    "Pigengene": [],
-    "profileplyr": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
-    "scTensor": [],
-    "seqArchRplus": [],
     "SeqSQC": [],
-    "signatureSearch": [],
     "skewr": [],
     "uSORT": [
         "monocle"
