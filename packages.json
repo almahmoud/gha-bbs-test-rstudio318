@@ -215,11 +215,7 @@
         "genefilter",
         "sva"
     ],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -330,8 +326,6 @@
         "minfi",
         "siggenes"
     ],
-    "flowGate": [],
-    "flowVS": [],
     "frenchFISH": [],
     "funtooNorm": [
         "genefilter",
