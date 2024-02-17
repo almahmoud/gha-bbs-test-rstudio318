@@ -1,21 +1,12 @@
 {
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
-    "arrayMvout": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "AgiMicroRna": [],
+    "bigmelon": [],
     "bioCancer": [],
     "BiocOncoTK": [],
     "CBNplot": [],
     "CEMiTool": [],
     "CeTF": [],
-    "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
@@ -23,30 +14,21 @@
     "DAPAR": [],
     "debrowser": [],
     "DeepBlueR": [],
-    "DMRcate": [],
     "enrichTF": [],
     "EpiCompare": [],
     "esATAC": [],
     "famat": [],
-    "ffpe": [],
     "frenchFISH": [],
     "GDCRNATools": [],
     "goSorensen": [],
-    "iCheck": [],
-    "ideal": [],
     "iNETgrate": [
         "Pigengene"
     ],
-    "MAGAR": [],
     "MAGeCKFlute": [],
-    "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaPhOR": [],
     "methylGSA": [],
     "MicrobiomeProfiler": [],
-    "MineICA": [],
     "monocle": [],
     "Moonlight2R": [],
     "MoonlightR": [],
@@ -71,12 +53,9 @@
     "seqArchRplus": [],
     "SeqSQC": [],
     "signatureSearch": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "TimiRGeN": [],
     "uSORT": [
         "monocle"
-    ],
-    "wateRmelon": []
+    ]
 }
