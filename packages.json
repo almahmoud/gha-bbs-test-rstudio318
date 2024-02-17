@@ -1,5 +1,4 @@
 {
-    "ADaCGH2": [],
     "affycoretools": [],
     "AgiMicroRna": [
         "affycoretools"
@@ -8,146 +7,76 @@
     "bigmelon": [
         "wateRmelon"
     ],
-    "bioCancer": [
-        "ReactomePA",
-        "clusterProfiler"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
+    "CEMiTool": [],
+    "CeTF": [],
     "ChAMP": [
         "DMRcate",
         "wateRmelon"
     ],
-    "ChIPseeker": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
-    "clusterProfiler": [],
-    "DAPAR": [
-        "clusterProfiler"
-    ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "DAPAR": [],
+    "debrowser": [],
     "DeepBlueR": [],
     "DMRcate": [],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
-    "enrichViewNet": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
-    "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
+    "EpiCompare": [],
+    "esATAC": [],
+    "famat": [],
     "ffpe": [],
     "frenchFISH": [],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
+    "goSorensen": [],
     "iCheck": [],
     "ideal": [],
     "iNETgrate": [
-        "Pigengene",
-        "ReactomePA",
-        "clusterProfiler"
+        "Pigengene"
     ],
     "MAGAR": [],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
-    "meshes": [],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
-    "methylGSA": [
-        "clusterProfiler"
-    ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
+    "methylGSA": [],
+    "MicrobiomeProfiler": [],
     "MineICA": [],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netZooR": [
-        "yarn"
-    ],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "netZooR": [],
+    "PanomiR": [],
     "phemd": [
         "monocle"
     ],
     "Pi": [],
-    "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler"
-    ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "Pigengene": [],
+    "profileplyr": [],
     "Prostar": [
-        "DAPAR",
-        "clusterProfiler"
+        "DAPAR"
     ],
     "RandomWalkRestartMH": [],
-    "ReactomePA": [],
     "RLSeq": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
-    "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
+    "scTensor": [],
+    "segmenter": [],
+    "seqArchRplus": [],
     "SeqSQC": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "skewr": [
         "wateRmelon"
     ],
-    "TBSignatureProfiler": [],
-    "TDbasedUFEadv": [],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "uSORT": [
         "monocle"
     ],
-    "VaSP": [],
-    "wateRmelon": [],
-    "yarn": []
+    "wateRmelon": []
 }
