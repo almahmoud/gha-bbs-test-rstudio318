@@ -1,8 +1,5 @@
 {
-    "a4": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools"
     ],
@@ -15,11 +12,8 @@
         "lumi"
     ],
     "arrayQualityMetrics": [],
-    "ASSIGN": [],
     "attract": [],
-    "ballgown": [],
     "bandle": [],
-    "BatchQC": [],
     "benchdamic": [],
     "bigmelon": [
         "lumi",
@@ -27,30 +21,25 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "BiocOncoTK": [],
     "BioNERO": [],
     "blacksheepr": [],
     "bnbc": [],
-    "bnem": [],
     "cageminer": [
         "BioNERO"
     ],
     "canceR": [],
     "categoryCompare": [],
     "CBNplot": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CEMiTool": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CeTF": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "ChAMP": [
         "DMRcate",
@@ -58,25 +47,19 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "ChIPseeker": [
-        "enrichplot"
-    ],
+    "ChIPseeker": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "clusterExperiment": [],
-    "clusterProfiler": [
-        "enrichplot"
-    ],
+    "clusterProfiler": [],
     "conumee": [],
     "DAPAR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "debrowser": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "deconvR": [],
     "DeepBlueR": [],
@@ -85,43 +68,33 @@
     ],
     "doppelgangR": [],
     "ENmix": [],
-    "enrichplot": [],
     "enrichTF": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
-    "enrichViewNet": [
-        "enrichplot"
-    ],
+    "enrichViewNet": [],
     "EpiCompare": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "epimutacions": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "famat": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "ffpe": [
         "lumi"
     ],
     "frenchFISH": [],
-    "funtooNorm": [],
     "GDCRNATools": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "GEOexplorer": [],
     "gespeR": [],
     "GmicR": [],
     "goSorensen": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "iCheck": [
         "lumi"
@@ -132,8 +105,7 @@
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "IsoformSwitchAnalyzeR": [],
     "lisaClust": [
@@ -144,8 +116,7 @@
         "RnBeads"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MEAL": [
         "missMethyl"
@@ -154,24 +125,18 @@
         "lumi",
         "wateRmelon"
     ],
-    "meshes": [
-        "enrichplot"
-    ],
+    "meshes": [],
     "MetaPhOR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
-    "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [
         "clusterProfiler",
-        "enrichplot",
         "missMethyl"
     ],
     "MicrobiomeProfiler": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MineICA": [
         "lumi"
@@ -180,12 +145,10 @@
     "missMethyl": [],
     "monocle": [],
     "Moonlight2R": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MoonlightR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MSPrep": [],
     "MSstatsQCgui": [],
@@ -196,15 +159,12 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "omicRexposome": [],
-    "PAA": [],
     "pairedGSEA": [],
     "PanomiR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "pareg": [],
     "pcaExplorer": [],
@@ -214,55 +174,42 @@
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PloGO2": [],
     "profileplyr": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "qsmooth": [],
     "qsvaR": [],
-    "quantro": [],
     "QuartPAC": [],
     "RandomWalkRestartMH": [],
-    "ReactomePA": [
-        "enrichplot"
-    ],
-    "REMP": [],
+    "ReactomePA": [],
     "ReportingTools": [],
     "RLSeq": [],
     "RNAinteract": [],
     "RnBeads": [],
-    "SCAN.UPC": [],
     "scBFA": [],
     "scTensor": [
-        "ReactomePA",
-        "enrichplot"
+        "ReactomePA"
     ],
     "segmenter": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "SeqSQC": [],
     "SEtools": [],
     "SGCP": [],
-    "shinyMethyl": [],
     "signatureSearch": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "SimBindProfiles": [],
     "singleCellTK": [],
@@ -270,31 +217,20 @@
         "lumi",
         "wateRmelon"
     ],
-    "snapCGH": [],
     "spicyR": [],
     "staRank": [],
     "SVMDO": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
-    "TDbasedUFEadv": [
-        "enrichplot"
-    ],
+    "TBSignatureProfiler": [],
+    "TDbasedUFEadv": [],
     "TimiRGeN": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "uSORT": [
         "monocle"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "wateRmelon": [
         "lumi"
     ],
-    "XDE": [],
-    "yarn": [
-        "quantro"
-    ]
+    "yarn": []
 }
