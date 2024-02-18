@@ -72,7 +72,6 @@
         "biocViews"
     ],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -83,55 +82,38 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
     ],
     "ALDEx2": [],
-    "AllelicImbalance": [],
     "AlphaBeta": [],
     "AlpsNMR": [
         "MassSpecWavelet",
@@ -1896,7 +1878,6 @@
     "GWENA": [
         "impute"
     ],
-    "h5vc": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -2077,7 +2058,6 @@
     "iSEEhex": [],
     "iSEEhub": [],
     "iSEEindex": [],
-    "iSEEpathways": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -2476,7 +2456,6 @@
         "genefilter",
         "siggenes"
     ],
-    "MinimumDistance": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2529,7 +2508,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [],
     "MOMA": [
         "qvalue"
     ],
@@ -3853,7 +3831,6 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "Statial": [],
     "statTarget": [
         "impute"
     ],
