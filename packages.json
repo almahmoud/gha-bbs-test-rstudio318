@@ -142,7 +142,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "ASpli": [],
     "AssessORF": [],
     "ASSET": [],
     "ASSIGN": [
@@ -212,7 +211,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "bgx": [
         "gcrma"
     ],
@@ -464,7 +462,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
@@ -555,7 +552,6 @@
     "circRNAprofiler": [
         "DESeq2"
     ],
-    "CircSeqAlignTk": [],
     "cisPath": [],
     "CiteFuse": [
         "metapod",
@@ -631,7 +627,6 @@
     "cola": [
         "impute"
     ],
-    "comapr": [],
     "coMethDMR": [
         "bumphunter"
     ],
@@ -759,7 +754,6 @@
     "CTSV": [
         "qvalue"
     ],
-    "cummeRbund": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -1190,7 +1184,6 @@
         "DESeq2"
     ],
     "ExperimentHubData": [],
-    "ExperimentSubset": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1783,10 +1776,7 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEhex": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -2473,7 +2463,6 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -2533,7 +2522,6 @@
         "sva"
     ],
     "pairkat": [],
-    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
@@ -2890,7 +2878,6 @@
         "ggbio"
     ],
     "ReQON": [],
-    "RESOLVE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -3066,7 +3053,6 @@
     "SCBN": [],
     "scCB2": [],
     "scClassify": [
-        "Cepo",
         "hopach"
     ],
     "scDataviz": [
@@ -3309,7 +3295,6 @@
         "scran"
     ],
     "sparsenetgls": [],
-    "spaSim": [],
     "SpatialCPie": [],
     "spatialDE": [
         "basilisk",
@@ -3359,7 +3344,6 @@
         "DESeq2"
     ],
     "ssize": [],
-    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -3580,7 +3564,6 @@
     "vsclust": [
         "qvalue"
     ],
-    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DESeq2",
