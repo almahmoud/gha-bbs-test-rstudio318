@@ -196,7 +196,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "amplican": [],
     "Anaquin": [
         "DESeq2",
         "qvalue"
@@ -387,7 +386,6 @@
     ],
     "beadarraySNP": [],
     "BEARscc": [],
-    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -727,7 +725,6 @@
         "metapod",
         "scran"
     ],
-    "CellBarcode": [],
     "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
@@ -855,8 +852,7 @@
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
-        "GreyListChIP",
-        "chipseq"
+        "GreyListChIP"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -864,7 +860,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "chipseq": [],
     "ChIPXpress": [
         "GEOquery"
     ],
@@ -1838,7 +1833,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [],
     "fastreeR": [],
     "fastseg": [],
     "fCCAC": [
@@ -2341,7 +2335,6 @@
         "RBGL",
         "genefilter"
     ],
-    "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
         "DESeq2"
@@ -2413,7 +2406,6 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [],
     "HDF5Array": [
         "Rhdf5lib",
         "rhdf5",
@@ -2479,7 +2471,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -2494,7 +2485,6 @@
     "hpar": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HTSFilter": [
@@ -2721,7 +2711,6 @@
     "lfa": [],
     "LineagePulse": [],
     "lineagespot": [],
-    "LinkHD": [],
     "lipidr": [
         "MultiDataSet",
         "impute",
@@ -3163,7 +3152,6 @@
     ],
     "microSTASIS": [],
     "MICSQTL": [],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM",
@@ -3714,7 +3702,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -3942,7 +3929,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "chipseq",
         "enrichplot",
         "qvalue",
         "rGREAT",
@@ -4079,7 +4065,6 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "R453Plus1Toolbox": [],
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
@@ -4631,7 +4616,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seq2pathway": [
         "impute"
@@ -4854,9 +4838,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "RBGL",
@@ -4949,7 +4931,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -5132,7 +5113,6 @@
     "TIN": [
         "impute"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
@@ -5180,9 +5160,7 @@
     ],
     "TrajectoryUtils": [],
     "transcriptogramer": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "HDF5Array",
         "Rhdf5lib",
