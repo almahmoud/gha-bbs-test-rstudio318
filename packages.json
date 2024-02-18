@@ -28,7 +28,6 @@
         "ADAM"
     ],
     "adductomicsR": [
-        "ProtGenerics",
         "Rhdf5lib",
         "mzR"
     ],
@@ -37,17 +36,14 @@
     ],
     "AffiXcan": [],
     "affycoretools": [
-        "AnnotationFilter",
         "Category",
         "DESeq2",
         "GOstats",
         "Glimma",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "ReportingTools",
         "biovizBase",
-        "ensembldb",
         "gcrma",
         "genefilter",
         "ggbio"
@@ -67,18 +63,15 @@
         "SingleCellExperiment"
     ],
     "AgiMicroRna": [
-        "AnnotationFilter",
         "Category",
         "DESeq2",
         "GOstats",
         "Glimma",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
-        "ensembldb",
         "gcrma",
         "genefilter",
         "ggbio"
@@ -210,11 +203,8 @@
     ],
     "ALDEx2": [],
     "AllelicImbalance": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "AlphaBeta": [],
     "AlpsNMR": [
@@ -254,7 +244,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationFilter": [],
     "AnnotationHubData": [
         "BiocCheck",
         "OrganismDbi",
@@ -325,11 +314,8 @@
         "ropls"
     ],
     "ASpli": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "AssessORF": [],
     "ASSET": [],
@@ -356,16 +342,13 @@
         "rhdf5filters"
     ],
     "ATACseqQC": [
-        "AnnotationFilter",
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhdf5lib",
         "TFBSTools",
-        "ensembldb",
         "motifStack",
         "rhdf5",
         "rhdf5filters"
@@ -400,7 +383,6 @@
     "bandle": [
         "MLInterfaces",
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "genefilter",
         "impute",
@@ -632,11 +614,8 @@
     ],
     "BioMVCClass": [],
     "biomvRCNS": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "BioNAR": [
         "impute"
@@ -669,11 +648,7 @@
         "scuttle"
     ],
     "biotmle": [],
-    "biovizBase": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "ensembldb"
-    ],
+    "biovizBase": [],
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
@@ -729,12 +704,9 @@
         "sva"
     ],
     "BOBaFIT": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio",
         "plyranges"
     ],
@@ -749,16 +721,13 @@
         "rhdf5filters"
     ],
     "brainflowprobes": [
-        "AnnotationFilter",
         "GenomicFiles",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
         "bumphunter",
         "derfinder",
         "derfinderPlot",
-        "ensembldb",
         "ggbio",
         "qvalue"
     ],
@@ -776,75 +745,55 @@
         "rhdf5filters"
     ],
     "BubbleTree": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
     "BUSpaRse": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "ensembldb",
         "plyranges"
     ],
     "BUSseq": [
         "SingleCellExperiment"
     ],
     "CAFE": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "CAGEfightR": [
-        "AnnotationFilter",
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "cageminer": [
-        "AnnotationFilter",
         "BioNERO",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "genefilter",
         "ggbio",
         "impute",
         "sva"
     ],
     "CAGEr": [
-        "AnnotationFilter",
         "CAGEfightR",
         "DelayedMatrixStats",
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "CAMERA": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -869,11 +818,9 @@
     "cardelino": [],
     "Cardinal": [
         "CardinalIO",
-        "ProtGenerics",
         "matter"
     ],
     "CardinalIO": [
-        "ProtGenerics",
         "matter"
     ],
     "CARNIVAL": [],
@@ -1070,19 +1017,16 @@
         "marray"
     ],
     "ChAMP": [
-        "AnnotationFilter",
         "DMRcate",
         "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "Rhdf5lib",
         "beachmat",
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "ensembldb",
         "genefilter",
         "impute",
         "lumi",
@@ -1107,25 +1051,16 @@
         "rhdf5filters"
     ],
     "chimeraviz": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "ChIPComp": [],
     "ChIPexoQual": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "ChIPpeakAnno": [
-        "AnnotationFilter",
         "InteractionSet",
-        "ProtGenerics",
-        "RBGL",
-        "ensembldb"
+        "RBGL"
     ],
     "ChIPQC": [
         "DESeq2",
@@ -1145,8 +1080,7 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
-        "GEOquery",
-        "frma"
+        "GEOquery"
     ],
     "ChromSCape": [
         "BiocNeighbors",
@@ -1169,20 +1103,16 @@
         "RBGL"
     ],
     "cicero": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "RBGL",
         "biocViews",
         "biovizBase",
-        "ensembldb",
         "monocle"
     ],
     "CIMICE": [],
     "circRNAprofiler": [
         "DESeq2",
-        "gwascat",
-        "universalmotif"
+        "gwascat"
     ],
     "CircSeqAlignTk": [
         "Rhisat2"
@@ -1209,13 +1139,11 @@
         "KEGGgraph"
     ],
     "cliqueMS": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -1227,7 +1155,6 @@
     "clstutils": [],
     "CluMSID": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -1289,13 +1216,10 @@
         "genefilter"
     ],
     "CNVfilteR": [
-        "AnnotationFilter",
         "CopyNumberPlots",
-        "ProtGenerics",
         "Rhdf5lib",
         "biovizBase",
         "cn.mops",
-        "ensembldb",
         "exomeCopy",
         "karyoploteR",
         "rhdf5",
@@ -1303,13 +1227,10 @@
     ],
     "cnvGSA": [],
     "CNViz": [
-        "AnnotationFilter",
         "CopyNumberPlots",
-        "ProtGenerics",
         "Rhdf5lib",
         "biovizBase",
         "cn.mops",
-        "ensembldb",
         "exomeCopy",
         "karyoploteR",
         "rhdf5",
@@ -1350,11 +1271,8 @@
         "impute"
     ],
     "comapr": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "combi": [
         "Rhdf5lib",
@@ -1364,28 +1282,20 @@
         "rhdf5filters"
     ],
     "coMET": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "coMethDMR": [
         "bumphunter"
     ],
     "compEpiTools": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "biovizBase",
-        "ensembldb",
         "marray",
         "methylPipe"
     ],
     "CompoundDb": [
-        "AnnotationFilter",
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "concordexR": [],
@@ -1412,12 +1322,9 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "AnnotationFilter",
         "DESeq2",
         "EDASeq",
-        "ProtGenerics",
-        "RUVSeq",
-        "ensembldb"
+        "RUVSeq"
     ],
     "consensusOV": [
         "BiocSingular",
@@ -1433,7 +1340,6 @@
         "rhdf5filters",
         "survcomp"
     ],
-    "consICA": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -1455,12 +1361,9 @@
         "marray"
     ],
     "CopyNumberPlots": [
-        "AnnotationFilter",
-        "ProtGenerics",
         "Rhdf5lib",
         "biovizBase",
         "cn.mops",
-        "ensembldb",
         "exomeCopy",
         "karyoploteR",
         "rhdf5",
@@ -1479,13 +1382,11 @@
     ],
     "CoSIA": [],
     "cosmiq": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -1541,9 +1442,7 @@
     ],
     "CrispRVariants": [],
     "crisprVerse": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "basilisk",
         "basilisk.utils",
         "biovizBase",
@@ -1552,13 +1451,10 @@
         "crisprDesign",
         "crisprScore",
         "crisprViz",
-        "dir.expiry",
-        "ensembldb"
+        "dir.expiry"
     ],
     "crisprViz": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "basilisk",
         "basilisk.utils",
         "biovizBase",
@@ -1566,8 +1462,7 @@
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
-        "dir.expiry",
-        "ensembldb"
+        "dir.expiry"
     ],
     "crossmeta": [
         "GEOquery",
@@ -1593,11 +1488,8 @@
         "qvalue"
     ],
     "cummeRbund": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "CuratedAtlasQueryR": [
         "HDF5Array",
@@ -1745,7 +1637,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "ProtGenerics",
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
@@ -1865,10 +1756,7 @@
         "sva"
     ],
     "demuxSNP": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "SingleCellExperiment",
-        "ensembldb"
+        "SingleCellExperiment"
     ],
     "densvis": [
         "basilisk",
@@ -1877,7 +1765,6 @@
     ],
     "DEP": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -1893,25 +1780,19 @@
         "qvalue"
     ],
     "derfinderPlot": [
-        "AnnotationFilter",
         "GenomicFiles",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "ensembldb",
         "ggbio",
         "qvalue"
     ],
     "DEScan2": [
-        "AnnotationFilter",
         "ChIPpeakAnno",
         "InteractionSet",
-        "ProtGenerics",
-        "RBGL",
-        "ensembldb"
+        "RBGL"
     ],
     "DESeq2": [],
     "DEsingle": [],
@@ -1942,7 +1823,6 @@
         "geneplotter"
     ],
     "DIAlignR": [
-        "ProtGenerics",
         "Rhdf5lib",
         "mzR"
     ],
@@ -1978,11 +1858,8 @@
     "DiffLogo": [],
     "diffuStats": [],
     "diffUTR": [
-        "AnnotationFilter",
         "DESeq2",
         "DEXSeq",
-        "ProtGenerics",
-        "ensembldb",
         "genefilter",
         "geneplotter"
     ],
@@ -2017,18 +1894,15 @@
     "DMCHMM": [],
     "DMRcaller": [],
     "DMRcate": [
-        "AnnotationFilter",
         "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "Rhdf5lib",
         "beachmat",
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "ensembldb",
         "genefilter",
         "methylumi",
         "minfi",
@@ -2088,11 +1962,7 @@
         "rhdf5filters",
         "scuttle"
     ],
-    "drugTargetInteractions": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "ensembldb"
-    ],
+    "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
@@ -2152,11 +2022,8 @@
         "rhdf5filters"
     ],
     "ELMER": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "EMDomics": [],
     "EnhancedVolcano": [],
@@ -2178,7 +2045,6 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
@@ -2204,10 +2070,6 @@
         "GOSemSim",
         "enrichplot",
         "qvalue"
-    ],
-    "ensembldb": [
-        "AnnotationFilter",
-        "ProtGenerics"
     ],
     "ensemblVEP": [],
     "epialleleR": [],
@@ -2238,18 +2100,15 @@
         "impute"
     ],
     "epimutacions": [
-        "AnnotationFilter",
         "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhdf5lib",
         "biovizBase",
         "bumphunter",
-        "ensembldb",
         "genefilter",
         "minfi",
         "rhdf5",
@@ -2265,36 +2124,24 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "bumphunter",
-        "ensembldb",
         "epivizrData"
     ],
     "epivizrChart": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
-        "ensembldb",
         "epivizrData"
     ],
     "epivizrData": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
-        "RBGL",
-        "ensembldb"
+        "RBGL"
     ],
     "epivizrStandalone": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "bumphunter",
-        "ensembldb",
         "epivizr",
         "epivizrData"
     ],
@@ -2370,15 +2217,11 @@
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
-        "AnnotationFilter",
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "biovizBase",
         "csaw",
-        "ensembldb",
         "metapod"
     ],
     "factDesign": [],
@@ -2437,14 +2280,12 @@
         "qvalue"
     ],
     "flagme": [
-        "AnnotationFilter",
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -2455,14 +2296,12 @@
         "xcms"
     ],
     "FLAMES": [
-        "AnnotationFilter",
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhdf5lib",
         "SingleCellExperiment",
@@ -2472,7 +2311,6 @@
         "biovizBase",
         "bluster",
         "dir.expiry",
-        "ensembldb",
         "ggbio",
         "metapod",
         "rhdf5",
@@ -2655,7 +2493,6 @@
         "rhdf5filters"
     ],
     "frenchFISH": [],
-    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "DelayedMatrixStats",
@@ -2779,11 +2616,8 @@
         "gdsfmt"
     ],
     "GeneStructureTools": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "GeneticsPed": [],
     "GeneTonic": [
@@ -2796,26 +2630,19 @@
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicDistributions": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [
         "RBGL"
     ],
     "GenomicInteractions": [
-        "AnnotationFilter",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "GenomicOZone": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "GenomicPlot": [
@@ -2867,12 +2694,9 @@
         "DESeq2"
     ],
     "ggbio": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "ggcyto": [
         "RBGL",
@@ -2961,10 +2785,7 @@
     "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
-        "AnnotationFilter",
-        "DESeq2",
-        "ProtGenerics",
-        "ensembldb"
+        "DESeq2"
     ],
     "graper": [],
     "GraphPAC": [
@@ -3007,23 +2828,17 @@
     ],
     "gtrellis": [],
     "GUIDEseq": [
-        "AnnotationFilter",
         "CRISPRseek",
         "ChIPpeakAnno",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhdf5lib",
-        "ensembldb",
         "rhdf5",
         "rhdf5filters"
     ],
     "Guitar": [],
     "Gviz": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "gwascat": [],
     "GWASTools": [
@@ -3073,13 +2888,10 @@
         "rhdf5filters"
     ],
     "HiCDCPlus": [
-        "AnnotationFilter",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "HiCDOC": [
         "HiCcompare",
@@ -3259,12 +3071,9 @@
         "qvalue"
     ],
     "intansv": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "interacCircos": [],
@@ -3295,14 +3104,12 @@
     "iPAC": [],
     "iPath": [],
     "IPO": [
-        "AnnotationFilter",
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3345,11 +3152,8 @@
     "ISLET": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
-        "AnnotationFilter",
         "DESeq2",
         "DEXSeq",
-        "ProtGenerics",
-        "ensembldb",
         "genefilter",
         "geneplotter",
         "pfamAnalyzeR",
@@ -3368,10 +3172,7 @@
     "iterativeBMAsurv": [],
     "ivygapSE": [],
     "karyoploteR": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "katdetectr": [
         "plyranges"
@@ -3432,14 +3233,12 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "AnnotationFilter",
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3515,14 +3314,12 @@
     "magrene": [],
     "MAI": [],
     "MAIT": [
-        "AnnotationFilter",
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3551,11 +3348,8 @@
     "marray": [],
     "martini": [],
     "maser": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "maSigPro": [],
     "maskBAD": [
@@ -3576,9 +3370,7 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "matter": [
-        "ProtGenerics"
-    ],
+    "matter": [],
     "MBAmethyl": [],
     "MBASED": [],
     "MBECS": [
@@ -3605,29 +3397,23 @@
         "impute"
     ],
     "mCSEA": [
-        "AnnotationFilter",
         "Gviz",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "mdp": [],
     "mdqc": [],
     "MDTS": [],
     "MEAL": [
-        "AnnotationFilter",
         "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
         "MultiDataSet",
-        "ProtGenerics",
         "Rhdf5lib",
         "biovizBase",
         "bumphunter",
-        "ensembldb",
         "genefilter",
         "methylumi",
         "minfi",
@@ -3665,9 +3451,7 @@
         "scuttle"
     ],
     "Melissa": [],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "MeSHDbi": [],
     "meshes": [
         "DOSE",
@@ -3686,10 +3470,8 @@
     "messina": [],
     "metabinR": [],
     "MetaboAnnotation": [
-        "AnnotationFilter",
         "CompoundDb",
         "MetaboCoreUtils",
-        "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
@@ -3699,11 +3481,8 @@
         "struct"
     ],
     "MetaboSignal": [
-        "AnnotationFilter",
         "KEGGgraph",
         "MWASTools",
-        "ProtGenerics",
-        "ensembldb",
         "hpar",
         "qvalue"
     ],
@@ -3715,14 +3494,12 @@
         "flowCore"
     ],
     "metaMS": [
-        "AnnotationFilter",
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3761,7 +3538,6 @@
     ],
     "MetCirc": [
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "methimpute": [],
@@ -3859,11 +3635,8 @@
         "impute"
     ],
     "methylPipe": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "biovizBase",
-        "ensembldb",
         "marray"
     ],
     "MethylSeekR": [
@@ -4084,13 +3857,11 @@
     "MMUPHin": [],
     "mnem": [],
     "MobilityTransformR": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -4152,13 +3923,10 @@
     ],
     "Motif2Site": [],
     "motifbreakR": [
-        "AnnotationFilter",
         "Gviz",
         "MotifDb",
-        "ProtGenerics",
         "TFBSTools",
         "biovizBase",
-        "ensembldb",
         "motifStack"
     ],
     "MotifDb": [],
@@ -4172,47 +3940,35 @@
     "MPRAnalyze": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendMgf": [
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendMsp": [
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsExperiment": [
-        "AnnotationFilter",
         "MetaboCoreUtils",
-        "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [
-        "ProtGenerics"
-    ],
+    "MsFeatures": [],
     "msgbsR": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
         "easyRNASeq",
-        "ensembldb",
         "ggbio"
     ],
     "msImpute": [
@@ -4231,7 +3987,6 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -4239,7 +3994,6 @@
     ],
     "msmsTests": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "msmsEDA",
@@ -4248,7 +4002,6 @@
         "qvalue"
     ],
     "MSnbase": [
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -4256,7 +4009,6 @@
     ],
     "MSnID": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "msmsEDA",
@@ -4270,20 +4022,15 @@
         "sva"
     ],
     "msPurity": [
-        "ProtGenerics",
         "Rhdf5lib",
         "mzR"
     ],
     "msqrob2": [
-        "AnnotationFilter",
-        "ProtGenerics",
         "QFeatures"
     ],
     "MsQuality": [
-        "AnnotationFilter",
         "MetaboCoreUtils",
         "MsExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
@@ -4307,7 +4054,6 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -4317,7 +4063,6 @@
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -4345,12 +4090,9 @@
         "ropls"
     ],
     "multicrispr": [
-        "AnnotationFilter",
         "CRISPRseek",
-        "ProtGenerics",
         "Rhdf5lib",
         "biovizBase",
-        "ensembldb",
         "karyoploteR",
         "plyranges",
         "rhdf5",
@@ -4409,28 +4151,22 @@
         "qvalue"
     ],
     "myvariant": [],
-    "mzID": [
-        "ProtGenerics"
-    ],
+    "mzID": [],
     "mzR": [
-        "ProtGenerics",
         "Rhdf5lib"
     ],
     "NADfinder": [
         "ATACseqQC",
-        "AnnotationFilter",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhdf5lib",
         "TFBSTools",
         "biovizBase",
         "csaw",
-        "ensembldb",
         "metapod",
         "motifStack",
         "rhdf5",
@@ -4460,13 +4196,11 @@
         "flowCore"
     ],
     "ncGTW": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -4588,11 +4322,8 @@
         "rhdf5filters"
     ],
     "OGRE": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "OLIN": [
         "marray"
@@ -4670,9 +4401,7 @@
     "ORFik": [
         "DESeq2"
     ],
-    "Organism.dplyr": [
-        "AnnotationFilter"
-    ],
+    "Organism.dplyr": [],
     "OrganismDbi": [
         "RBGL"
     ],
@@ -4790,7 +4519,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -4873,12 +4601,9 @@
         "qvalue"
     ],
     "PING": [
-        "AnnotationFilter",
         "Gviz",
         "PICS",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "pipeComp": [
         "BiocNeighbors",
@@ -4942,21 +4667,17 @@
     "preciseTAD": [],
     "PREDA": [],
     "primirTSS": [
-        "AnnotationFilter",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "Rhdf5lib",
         "TFBSTools",
         "biovizBase",
-        "ensembldb",
         "rhdf5",
         "rhdf5filters"
     ],
     "PrInCE": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -4969,7 +4690,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "GOSemSim",
         "chipseq",
         "enrichplot",
@@ -4984,7 +4704,6 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "genefilter",
         "impute",
@@ -4994,7 +4713,6 @@
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "genefilter",
         "impute",
@@ -5014,7 +4732,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "ProtGenerics",
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
@@ -5030,7 +4747,6 @@
     "protGear": [
         "genefilter"
     ],
-    "ProtGenerics": [],
     "PSEA": [],
     "psichomics": [
         "GEOquery",
@@ -5041,14 +4757,11 @@
         "recount"
     ],
     "PSMatch": [
-        "AnnotationFilter",
-        "ProtGenerics",
         "QFeatures"
     ],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -5062,11 +4775,8 @@
         "rhdf5filters"
     ],
     "Pviz": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "PWMEnrich": [],
     "pwOmics": [
@@ -5083,14 +4793,10 @@
         "impute",
         "marray"
     ],
-    "QFeatures": [
-        "AnnotationFilter",
-        "ProtGenerics"
-    ],
+    "QFeatures": [],
     "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -5129,12 +4835,9 @@
     "QUBIC": [],
     "qvalue": [],
     "R3CPET": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "r3Cseq": [
@@ -5151,14 +4854,11 @@
         "SingleCellExperiment"
     ],
     "RAIDS": [
-        "AnnotationFilter",
         "GENESIS",
         "GWASTools",
-        "ProtGenerics",
         "SNPRelate",
         "SeqArray",
         "SeqVarTools",
-        "ensembldb",
         "gdsfmt"
     ],
     "ramr": [],
@@ -5233,7 +4933,6 @@
         "derfinder",
         "qvalue"
     ],
-    "recount3": [],
     "recountmethylation": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -5251,12 +4950,9 @@
     ],
     "RedisParam": [],
     "REDseq": [
-        "AnnotationFilter",
         "ChIPpeakAnno",
         "InteractionSet",
-        "ProtGenerics",
-        "RBGL",
-        "ensembldb"
+        "RBGL"
     ],
     "regionalpcs": [
         "BiocSingular",
@@ -5291,11 +4987,8 @@
     ],
     "regsplice": [],
     "regutools": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "REMP": [
         "DelayedMatrixStats",
@@ -5315,15 +5008,12 @@
         "genefilter"
     ],
     "ReportingTools": [
-        "AnnotationFilter",
         "Category",
         "DESeq2",
         "GOstats",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "genefilter",
         "ggbio"
     ],
@@ -5375,12 +5065,9 @@
         "qvalue"
     ],
     "RiboProfiling": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "ribor": [
@@ -5402,13 +5089,11 @@
         "genefilter"
     ],
     "Risa": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -5420,10 +5105,7 @@
         "xcms"
     ],
     "RITAN": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "STRINGdb",
-        "ensembldb"
+        "STRINGdb"
     ],
     "RIVER": [],
     "RJMCMCNucleosomes": [],
@@ -5432,7 +5114,6 @@
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -5464,35 +5145,23 @@
         "splots"
     ],
     "RNAmodR": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "RNAmodR.AlkAnilineSeq": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "RNAmodR",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "RNAmodR.ML": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "RNAmodR",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "RNAmodR.RiboMethSeq": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "RNAmodR",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "RNAsense": [
         "qvalue"
@@ -5543,11 +5212,8 @@
     ],
     "RProtoBufLib": [],
     "Rqc": [
-        "AnnotationFilter",
         "GenomicFiles",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "rqt": [
         "MultiDataSet",
@@ -5608,9 +5274,6 @@
     ],
     "scanMiR": [],
     "scanMiRApp": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "ensembldb",
         "scanMiR"
     ],
     "scAnnotatR": [
@@ -5713,19 +5376,16 @@
     ],
     "scFeatures": [
         "AUCell",
-        "AnnotationFilter",
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "ProtGenerics",
         "Rhdf5lib",
         "SingleCellExperiment",
         "SingleCellSignalR",
         "beachmat",
         "bluster",
-        "ensembldb",
         "metapod",
         "rhdf5",
         "rhdf5filters",
@@ -5801,8 +5461,6 @@
     "SCOPE": [],
     "scoreInvHap": [],
     "scp": [
-        "AnnotationFilter",
-        "ProtGenerics",
         "QFeatures",
         "SingleCellExperiment"
     ],
@@ -5844,13 +5502,10 @@
         "slingshot"
     ],
     "scruff": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "SingleCellExperiment",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "scry": [
@@ -5879,18 +5534,15 @@
         "schex"
     ],
     "scTreeViz": [
-        "AnnotationFilter",
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "SingleCellExperiment",
         "beachmat",
         "bluster",
         "bumphunter",
-        "ensembldb",
         "epivizr",
         "epivizrData",
         "metapod",
@@ -6034,18 +5686,15 @@
     ],
     "signeR": [],
     "signifinder": [
-        "AnnotationFilter",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "ProtGenerics",
         "Rhdf5lib",
         "SingleCellExperiment",
         "SpatialExperiment",
         "beachmat",
         "consensusOV",
-        "ensembldb",
         "genefu",
         "impute",
         "rhdf5",
@@ -6056,7 +5705,6 @@
     "sigsquared": [],
     "SIM": [],
     "SIMAT": [
-        "ProtGenerics",
         "Rhdf5lib",
         "mzR"
     ],
@@ -6102,7 +5750,6 @@
         "scuttle"
     ],
     "singleCellTK": [
-        "AnnotationFilter",
         "BiocNeighbors",
         "BiocSingular",
         "DESeq2",
@@ -6111,7 +5758,6 @@
         "GSVA",
         "HDF5Array",
         "MAST",
-        "ProtGenerics",
         "Rhdf5lib",
         "SingleCellExperiment",
         "SingleR",
@@ -6124,7 +5770,6 @@
         "bluster",
         "celda",
         "dir.expiry",
-        "ensembldb",
         "genefilter",
         "metapod",
         "rhdf5",
@@ -6153,7 +5798,6 @@
     "SiPSiC": [
         "SingleCellExperiment"
     ],
-    "sitadela": [],
     "skewr": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -6202,12 +5846,9 @@
         "chipseq"
     ],
     "SomaticSignatures": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "biovizBase",
-        "ensembldb",
         "ggbio"
     ],
     "SOMNiBUS": [
@@ -6281,14 +5922,11 @@
     ],
     "SpatialOmicsOverlay": [],
     "spatzie": [
-        "AnnotationFilter",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "TFBSTools",
         "biovizBase",
-        "ensembldb",
         "motifmatchr"
     ],
     "speckle": [
@@ -6296,8 +5934,7 @@
     ],
     "specL": [],
     "Spectra": [
-        "MetaboCoreUtils",
-        "ProtGenerics"
+        "MetaboCoreUtils"
     ],
     "SpectralTAD": [
         "HiCcompare",
@@ -6341,11 +5978,8 @@
     ],
     "splineTimeR": [],
     "SPLINTER": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "splots": [],
     "SpotClean": [
@@ -6373,12 +6007,9 @@
         "GEOquery"
     ],
     "srnadiff": [
-        "AnnotationFilter",
         "DESeq2",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "ssize": [],
     "standR": [
@@ -6451,7 +6082,6 @@
     ],
     "synapter": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -6468,11 +6098,8 @@
         "DESeq2"
     ],
     "tadar": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -6483,7 +6110,6 @@
     ],
     "TAPseq": [],
     "TargetDecoy": [
-        "ProtGenerics",
         "Rhdf5lib",
         "mzID",
         "mzR"
@@ -6598,7 +6224,6 @@
     ],
     "topdownr": [
         "MSnbase",
-        "ProtGenerics",
         "Rhdf5lib",
         "impute",
         "mzID",
@@ -6612,13 +6237,10 @@
     "TPP": [],
     "tracktables": [],
     "trackViewer": [
-        "AnnotationFilter",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rhdf5lib",
         "biovizBase",
-        "ensembldb",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -6709,26 +6331,18 @@
         "marray"
     ],
     "TVTB": [
-        "AnnotationFilter",
         "Gviz",
-        "ProtGenerics",
         "biovizBase",
-        "ensemblVEP",
-        "ensembldb"
+        "ensemblVEP"
     ],
     "twilight": [],
     "txcutr": [],
-    "tximeta": [
-        "AnnotationFilter",
-        "ProtGenerics",
-        "ensembldb"
-    ],
+    "tximeta": [],
     "UCell": [
         "BiocNeighbors",
         "SingleCellExperiment"
     ],
     "Ularcirc": [
-        "AnnotationFilter",
         "Organism.dplyr",
         "plotgardener",
         "plyranges"
@@ -6737,17 +6351,13 @@
         "DESeq2"
     ],
     "uncoverappLib": [
-        "AnnotationFilter",
         "Gviz",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
-        "biovizBase",
-        "ensembldb"
+        "biovizBase"
     ],
     "unifiedWMWqPCR": [],
     "Uniquorn": [],
-    "universalmotif": [],
     "uSORT": [
         "RBGL",
         "biocViews",
@@ -6775,15 +6385,12 @@
         "gdsfmt"
     ],
     "VariantFiltering": [
-        "AnnotationFilter",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "RBGL",
         "Rhdf5lib",
         "biovizBase",
-        "ensembldb",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -6833,17 +6440,14 @@
         "gwascat"
     ],
     "vulcan": [
-        "AnnotationFilter",
         "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "apeglm",
         "csaw",
-        "ensembldb",
         "metapod",
         "systemPipeR"
     ],
@@ -6878,13 +6482,11 @@
         "OmnipathR"
     ],
     "xcms": [
-        "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "ProtGenerics",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -6910,18 +6512,14 @@
     "xmapbridge": [],
     "XNAString": [],
     "yamss": [
-        "ProtGenerics",
         "Rhdf5lib",
         "mzR"
     ],
     "YAPSA": [
-        "AnnotationFilter",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "SomaticSignatures",
         "biovizBase",
-        "ensembldb",
         "ggbio",
         "gtrellis"
     ],
