@@ -53,7 +53,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -343,7 +342,6 @@
         "mzR",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BASiCS": [
         "metapod",
         "scran"
@@ -460,7 +458,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BioCor": [],
     "BiocPkgTools": [
         "RBGL",
         "biocViews"
@@ -869,8 +866,6 @@
         "qvalue"
     ],
     "chipseq": [],
-    "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery"
     ],
@@ -1066,7 +1061,6 @@
     "consensus": [],
     "consensusDE": [
         "DESeq2",
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -1139,7 +1133,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "cpvSNP": [],
     "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
@@ -1326,7 +1319,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1337,7 +1329,6 @@
     ],
     "DaMiRseq": [
         "DESeq2",
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -1635,7 +1626,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EDASeq": [],
     "edge": [
         "genefilter",
         "qvalue",
@@ -1806,7 +1796,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "evaluomeR": [],
     "EventPointer": [
         "RBGL",
         "Rhdf5lib",
@@ -2111,7 +2100,6 @@
     "GARS": [
         "DESeq2",
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "genefilter",
         "sva"
@@ -2321,7 +2309,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [],
@@ -3000,7 +2987,6 @@
     "metaseqR2": [
         "DESeq2",
         "DSS",
-        "EDASeq",
         "HDF5Array",
         "Rhdf5lib",
         "bsseq",
@@ -3249,7 +3235,6 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "missRows": [],
     "mitch": [],
     "mitoClone2": [
         "deepSNV"
@@ -3635,15 +3620,12 @@
         "qvalue"
     ],
     "NPARC": [],
-    "npGSEA": [],
-    "nucleR": [],
     "nullranges": [
         "InteractionSet"
     ],
     "occugene": [],
     "octad": [
         "DESeq2",
-        "EDASeq",
         "GSVA",
         "HDF5Array",
         "RUVSeq",
@@ -3876,7 +3858,6 @@
         "genefilter",
         "hopach"
     ],
-    "PhyloProfile": [],
     "phyloseq": [
         "Rhdf5lib",
         "biomformat",
@@ -4133,9 +4114,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RBGL": [],
     "RBioinf": [],
     "RBM": [
@@ -4315,7 +4294,6 @@
     ],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -4451,7 +4429,6 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -4464,9 +4441,7 @@
         "MotifDb"
     ],
     "RUVcorr": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -4584,7 +4559,6 @@
     ],
     "SCnorm": [],
     "scone": [
-        "EDASeq",
         "RUVSeq",
         "Rhdf5lib",
         "rhdf5",
@@ -5015,7 +4989,6 @@
     ],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq",
         "SpatialExperiment"
     ],
