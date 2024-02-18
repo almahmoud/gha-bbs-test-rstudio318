@@ -52,7 +52,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
@@ -689,7 +688,6 @@
         "scran"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "RBGL",
@@ -703,7 +701,6 @@
     "CellNOptR": [
         "RBGL"
     ],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -888,7 +885,6 @@
         "qvalue"
     ],
     "ClusterSignificance": [],
-    "clustifyr": [],
     "cmapR": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -1691,7 +1687,6 @@
         "GSVA",
         "HDF5Array",
         "Rhdf5lib",
-        "UCell",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2407,7 +2402,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "ILoReg": [],
     "imcRtools": [
         "HDF5Array",
         "Rhdf5lib",
@@ -2465,7 +2459,6 @@
         "flowCore"
     ],
     "Informeasure": [],
-    "InPAS": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -2517,25 +2510,14 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEE": [],
     "iSEEde": [
-        "DESeq2",
-        "iSEE"
+        "DESeq2"
     ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoBayes": [],
@@ -2697,7 +2679,6 @@
         "HDF5Array",
         "InteractionSet",
         "Rhdf5lib",
-        "plotgardener",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2973,7 +2954,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "miaViz": [],
     "microbiome": [
         "Rhdf5lib",
         "biomformat",
@@ -3579,7 +3559,6 @@
         "qvalue"
     ],
     "parglms": [],
-    "partCNV": [],
     "PAST": [
         "qvalue"
     ],
@@ -3704,7 +3683,6 @@
         "RBGL",
         "genefilter"
     ],
-    "plotgardener": [],
     "plotGrouper": [],
     "PLPE": [],
     "plyinteractions": [
@@ -4287,7 +4265,6 @@
         "metapod",
         "scran"
     ],
-    "scDDboost": [],
     "scFeatures": [
         "GSVA",
         "HDF5Array",
@@ -4301,7 +4278,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scHOT": [],
     "scider": [
         "SpatialExperiment"
     ],
@@ -4398,7 +4374,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "selectKSigs": [],
     "seq2pathway": [
         "impute"
     ],
@@ -4969,10 +4944,7 @@
     ],
     "TVTB": [],
     "twilight": [],
-    "UCell": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [
         "DESeq2"
     ],
