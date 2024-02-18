@@ -697,7 +697,6 @@
     ],
     "ccfindR": [],
     "CCPlotR": [],
-    "CCPROMISE": [],
     "ccrepe": [],
     "CDI": [],
     "celaref": [],
@@ -1028,8 +1027,7 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "DESeq2",
-        "RUVSeq"
+        "DESeq2"
     ],
     "consensusOV": [
         "GSVA",
@@ -2085,12 +2083,10 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRcore",
         "gDRimport",
         "marray",
         "piano"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
@@ -3530,7 +3526,6 @@
         "DESeq2",
         "GSVA",
         "HDF5Array",
-        "RUVSeq",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -3999,7 +3994,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Rbec": [],
     "RBGL": [],
     "RBioinf": [],
     "RBM": [
@@ -4173,7 +4167,6 @@
         "rhdf5filters"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "rifiComparative": [
@@ -4314,7 +4307,6 @@
         "MotifDb"
     ],
     "RUVcorr": [],
-    "RUVSeq": [],
     "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -4426,7 +4418,6 @@
         "rhdf5filters"
     ],
     "scone": [
-        "RUVSeq",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -4838,7 +4829,6 @@
     ],
     "ssize": [],
     "standR": [
-        "RUVSeq",
         "SpatialExperiment"
     ],
     "staRank": [
