@@ -824,7 +824,6 @@
         "matter"
     ],
     "CARNIVAL": [],
-    "casper": [],
     "CATALYST": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1256,7 +1255,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "codelink": [],
     "CODEX": [],
     "CoGAPS": [
         "Rhdf5lib",
@@ -1936,9 +1934,7 @@
         "qvalue"
     ],
     "doseR": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "DelayedMatrixStats",
         "EnrichmentBrowser",
@@ -2493,7 +2489,6 @@
         "rhdf5filters"
     ],
     "frenchFISH": [],
-    "FunChIP": [],
     "funtooNorm": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -3311,7 +3306,6 @@
     "magpie": [
         "DESeq2"
     ],
-    "magrene": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -4424,12 +4418,10 @@
         "Ringo",
         "genefilter"
     ],
-    "OVESEG": [],
     "PAA": [
         "genefilter",
         "sva"
     ],
-    "packFinder": [],
     "padma": [],
     "PADOG": [],
     "pageRank": [
@@ -4590,7 +4582,6 @@
         "marray"
     ],
     "pickgene": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -4602,7 +4593,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [
@@ -4794,7 +4784,6 @@
         "marray"
     ],
     "QFeatures": [],
-    "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "Rhdf5lib",
@@ -5037,7 +5026,6 @@
     ],
     "rfaRm": [],
     "Rfastp": [],
-    "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [],
     "rgoslin": [],
@@ -5230,12 +5218,8 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "rTRMui": [
@@ -5885,7 +5869,6 @@
         "DelayedMatrixStats"
     ],
     "sparsenetgls": [],
-    "SparseSignatures": [],
     "spaSim": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -6092,7 +6075,6 @@
         "RankProd"
     ],
     "SynMut": [],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
@@ -6275,7 +6257,6 @@
         "anota",
         "qvalue"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traviz": [
         "SingleCellExperiment",
@@ -6336,7 +6317,6 @@
         "ensemblVEP"
     ],
     "twilight": [],
-    "txcutr": [],
     "tximeta": [],
     "UCell": [
         "BiocNeighbors",
