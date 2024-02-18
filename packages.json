@@ -410,7 +410,6 @@
     ],
     "barcodetrackR": [],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [
         "BiocNeighbors",
         "BiocSingular",
@@ -504,7 +503,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "MAST",
-        "Maaslin2",
         "Rhdf5lib",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -1321,7 +1319,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "exomeCopy"
     ],
@@ -1516,7 +1513,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -2423,7 +2419,6 @@
         "TrajectoryUtils"
     ],
     "FeatSeekR": [],
-    "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -2515,7 +2510,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -2684,7 +2678,6 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [],
     "GA4GHshiny": [
         "GA4GHclient"
@@ -3135,7 +3128,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "HilbertCurve": [],
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [
@@ -3494,9 +3486,7 @@
     ],
     "LymphoSeq": [],
     "m6Aboost": [],
-    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
         "impute"
     ],
     "MACSQuantifyR": [],
@@ -4104,11 +4094,8 @@
         "DESeq2"
     ],
     "MMDiff2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "mnem": [],
-    "moanin": [],
     "MobilityTransformR": [
         "AnnotationFilter",
         "MSnbase",
@@ -5088,7 +5075,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "puma": [],
     "PureCN": [
         "Rhdf5lib",
         "rhdf5",
@@ -5252,7 +5238,6 @@
     "rebook": [
         "dir.expiry"
     ],
-    "receptLoss": [],
     "reconsi": [
         "Rhdf5lib",
         "biomformat",
@@ -5361,7 +5346,6 @@
         "genefilter",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
@@ -5630,7 +5614,6 @@
         "MGFM",
         "MGFR"
     ],
-    "sangeranalyseR": [],
     "SARC": [
         "plyranges"
     ],
@@ -6119,7 +6102,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
         "HDF5Array",
@@ -6428,7 +6410,6 @@
         "ensembldb"
     ],
     "ssize": [],
-    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
