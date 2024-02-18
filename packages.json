@@ -166,7 +166,6 @@
         "XVector"
     ],
     "affxparser": [],
-    "affy": [],
     "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
@@ -219,7 +218,6 @@
         "affxparser",
         "gcrma"
     ],
-    "affyio": [],
     "affylmGUI": [
         "AnnotationDbi",
         "Biostrings",
