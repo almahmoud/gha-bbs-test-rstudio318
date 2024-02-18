@@ -62,24 +62,15 @@
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "ALDEx2": [],
     "AlphaBeta": [],
     "AlpsNMR": [
@@ -156,8 +147,6 @@
     "ATACseqQC": [
         "ChIPpeakAnno"
     ],
-    "ATACseqTFEA": [],
-    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -833,7 +822,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -1080,7 +1068,6 @@
         "pathview"
     ],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "GEOquery",
         "bumphunter",
@@ -1142,7 +1129,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "EpiTxDb": [],
     "epivizr": [
         "bumphunter",
         "epivizrData"
@@ -2514,7 +2500,6 @@
         "sva"
     ],
     "PADOG": [],
-    "pageRank": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -2908,7 +2893,6 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
