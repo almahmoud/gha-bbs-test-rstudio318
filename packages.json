@@ -185,7 +185,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "metapod",
         "scran"
     ],
@@ -206,7 +205,6 @@
         "scran"
     ],
     "BCRANK": [],
-    "beachmat.hdf5": [],
     "beadarraySNP": [],
     "benchdamic": [
         "ALDEx2",
@@ -668,7 +666,6 @@
         "DESeq2"
     ],
     "consensusOV": [
-        "GSVA",
         "genefu",
         "impute",
         "survcomp"
@@ -771,7 +768,6 @@
         "qvalue"
     ],
     "cummeRbund": [],
-    "CuratedAtlasQueryR": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -1099,12 +1095,10 @@
         "impute"
     ],
     "EGSEA": [
-        "GSVA",
         "KEGGgraph",
         "PADOG",
         "pathview"
     ],
-    "ELMER": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
     "ENmix": [
@@ -1197,9 +1191,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "esetVis": [],
     "EventPointer": [
         "qvalue"
@@ -1239,9 +1231,7 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "FeatSeekR": [],
     "ffpe": [
         "GEOquery",
@@ -1428,7 +1418,6 @@
         "minfi",
         "siggenes"
     ],
-    "GA4GHshiny": [],
     "garfield": [],
     "GARS": [
         "DESeq2",
@@ -1594,7 +1583,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "glmGamPoi": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1648,7 +1636,6 @@
         "genefilter",
         "les"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno",
         "InteractionSet"
@@ -1716,7 +1703,6 @@
     "hoodscanR": [],
     "hopach": [],
     "hpar": [],
-    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -1871,9 +1857,7 @@
     ],
     "LACE": [],
     "LEA": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "les": [],
     "lfa": [],
     "lipidr": [
@@ -2384,7 +2368,6 @@
         "MSstats",
         "marray"
     ],
-    "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -2503,8 +2486,7 @@
     ],
     "occugene": [],
     "octad": [
-        "DESeq2",
-        "GSVA"
+        "DESeq2"
     ],
     "OLIN": [
         "marray"
@@ -2548,9 +2530,7 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2936,7 +2916,6 @@
         "qvalue"
     ],
     "regsplice": [],
-    "regutools": [],
     "REMP": [
         "GEOquery",
         "bumphunter",
@@ -3152,7 +3131,6 @@
         "scran"
     ],
     "scFeatures": [
-        "GSVA",
         "SingleCellSignalR",
         "metapod",
         "scran"
@@ -3300,7 +3278,6 @@
         "qvalue"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "genefu",
         "impute",
@@ -3329,8 +3306,6 @@
     "singleCellTK": [
         "DESeq2",
         "DropletUtils",
-        "GSVA",
-        "TSCAN",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -3395,7 +3370,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter",
         "metapod",
@@ -3505,7 +3479,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSVA",
         "genefilter",
         "sva"
     ],
@@ -3565,9 +3538,7 @@
     "TMixClust": [
         "SPEM"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -3589,9 +3560,7 @@
     ],
     "tradeSeq": [],
     "transcriptogramer": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -3621,7 +3590,6 @@
     ],
     "tripr": [],
     "TSAR": [],
-    "TSCAN": [],
     "ttgsea": [],
     "TurboNorm": [
         "convert",
@@ -3629,7 +3597,6 @@
     ],
     "TVTB": [],
     "twilight": [],
-    "Ularcirc": [],
     "UMI4Cats": [
         "DESeq2"
     ],
@@ -3670,9 +3637,7 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [
         "qvalue"
     ],
