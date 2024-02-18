@@ -40,7 +40,6 @@
         "OrganismDbi",
         "RBGL",
         "ReportingTools",
-        "biovizBase",
         "gcrma",
         "genefilter",
         "ggbio"
@@ -66,7 +65,6 @@
         "RBGL",
         "ReportingTools",
         "affycoretools",
-        "biovizBase",
         "gcrma",
         "genefilter",
         "ggbio"
@@ -186,8 +184,7 @@
     ],
     "ALDEx2": [],
     "AllelicImbalance": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "AlphaBeta": [],
     "AlpsNMR": [
@@ -279,8 +276,7 @@
         "ropls"
     ],
     "ASpli": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "AssessORF": [],
     "ASSET": [],
@@ -346,7 +342,6 @@
         "Rhdf5lib",
         "genefilter",
         "impute",
-        "mzID",
         "mzR",
         "pRoloc"
     ],
@@ -516,8 +511,7 @@
     ],
     "BioMVCClass": [],
     "biomvRCNS": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "BioNAR": [
         "impute"
@@ -543,7 +537,6 @@
         "scran"
     ],
     "biotmle": [],
-    "biovizBase": [],
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
@@ -593,7 +586,6 @@
     "BOBaFIT": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "borealis": [
@@ -608,7 +600,6 @@
         "GenomicFiles",
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "bumphunter",
         "derfinder",
         "derfinderPlot",
@@ -626,9 +617,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BubbleTree": [
-        "biovizBase"
-    ],
+    "BubbleTree": [],
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
@@ -637,21 +626,18 @@
     "CAFE": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "CAGEfightR": [
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
-        "biovizBase"
+        "InteractionSet"
     ],
     "cageminer": [
         "BioNERO",
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "genefilter",
         "ggbio",
         "impute",
@@ -662,21 +648,17 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
-        "biovizBase"
+        "InteractionSet"
     ],
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -694,12 +676,9 @@
     ],
     "cardelino": [],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM",
@@ -850,7 +829,6 @@
         "Gviz",
         "HDF5Array",
         "Rhdf5lib",
-        "biovizBase",
         "bsseq",
         "bumphunter",
         "genefilter",
@@ -875,13 +853,10 @@
         "rhdf5filters"
     ],
     "chimeraviz": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "ChIPComp": [],
-    "ChIPexoQual": [
-        "biovizBase"
-    ],
+    "ChIPexoQual": [],
     "ChIPpeakAnno": [
         "InteractionSet",
         "RBGL"
@@ -921,7 +896,6 @@
         "Gviz",
         "RBGL",
         "biocViews",
-        "biovizBase",
         "monocle"
     ],
     "CIMICE": [],
@@ -951,12 +925,9 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -965,7 +936,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "clusterExperiment": [
@@ -1018,7 +988,6 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "Rhdf5lib",
-        "biovizBase",
         "cn.mops",
         "karyoploteR",
         "rhdf5",
@@ -1028,7 +997,6 @@
     "CNViz": [
         "CopyNumberPlots",
         "Rhdf5lib",
-        "biovizBase",
         "cn.mops",
         "karyoploteR",
         "rhdf5",
@@ -1062,8 +1030,7 @@
         "impute"
     ],
     "comapr": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "combi": [
         "Rhdf5lib",
@@ -1073,15 +1040,13 @@
         "rhdf5filters"
     ],
     "coMET": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "coMethDMR": [
         "bumphunter"
     ],
     "compEpiTools": [
         "Gviz",
-        "biovizBase",
         "marray",
         "methylPipe"
     ],
@@ -1140,7 +1105,6 @@
     ],
     "CopyNumberPlots": [
         "Rhdf5lib",
-        "biovizBase",
         "cn.mops",
         "karyoploteR",
         "rhdf5",
@@ -1160,12 +1124,9 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -1216,7 +1177,6 @@
         "Gviz",
         "basilisk",
         "basilisk.utils",
-        "biovizBase",
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
@@ -1228,7 +1188,6 @@
         "Gviz",
         "basilisk",
         "basilisk.utils",
-        "biovizBase",
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
@@ -1258,8 +1217,7 @@
         "qvalue"
     ],
     "cummeRbund": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "CuratedAtlasQueryR": [
         "HDF5Array",
@@ -1399,7 +1357,6 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "mzID",
         "mzR",
         "qvalue",
         "tkWidgets",
@@ -1507,7 +1464,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "DepecheR": [],
@@ -1520,7 +1476,6 @@
         "GenomicFiles",
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "bumphunter",
         "derfinder",
         "ggbio",
@@ -1611,7 +1566,6 @@
         "Gviz",
         "HDF5Array",
         "Rhdf5lib",
-        "biovizBase",
         "bsseq",
         "bumphunter",
         "genefilter",
@@ -1661,7 +1615,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
@@ -1713,8 +1666,7 @@
         "rhdf5filters"
     ],
     "ELMER": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
@@ -1791,7 +1743,6 @@
         "OrganismDbi",
         "RBGL",
         "Rhdf5lib",
-        "biovizBase",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -1892,7 +1843,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "biovizBase",
         "csaw",
         "metapod"
     ],
@@ -1954,13 +1904,10 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -1972,7 +1919,6 @@
         "Rhdf5lib",
         "basilisk",
         "basilisk.utils",
-        "biovizBase",
         "dir.expiry",
         "ggbio",
         "metapod",
@@ -2273,8 +2219,7 @@
         "gdsfmt"
     ],
     "GeneStructureTools": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "GeneticsPed": [],
     "GeneTonic": [
@@ -2293,13 +2238,11 @@
     ],
     "GenomicInteractions": [
         "Gviz",
-        "InteractionSet",
-        "biovizBase"
+        "InteractionSet"
     ],
     "GenomicOZone": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "GenomicPlot": [
@@ -2351,8 +2294,7 @@
     ],
     "ggbio": [
         "OrganismDbi",
-        "RBGL",
-        "biovizBase"
+        "RBGL"
     ],
     "ggcyto": [
         "RBGL",
@@ -2477,9 +2419,7 @@
         "rhdf5filters"
     ],
     "Guitar": [],
-    "Gviz": [
-        "biovizBase"
-    ],
+    "Gviz": [],
     "gwascat": [],
     "GWASTools": [
         "gdsfmt"
@@ -2530,8 +2470,7 @@
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
-        "biovizBase"
+        "InteractionSet"
     ],
     "HiCDOC": [
         "HiCcompare",
@@ -2693,7 +2632,6 @@
     "intansv": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "interacCircos": [],
@@ -2728,13 +2666,10 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -2767,8 +2702,7 @@
         "genefilter",
         "pfamAnalyzeR",
         "satuRn",
-        "sva",
-        "tximeta"
+        "sva"
     ],
     "ISoLDE": [],
     "isomiRs": [
@@ -2780,9 +2714,7 @@
     ],
     "iterativeBMAsurv": [],
     "ivygapSE": [],
-    "karyoploteR": [
-        "biovizBase"
-    ],
+    "karyoploteR": [],
     "katdetectr": [],
     "KCsmart": [
         "siggenes"
@@ -2835,13 +2767,10 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -2911,13 +2840,10 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -2939,8 +2865,7 @@
     "marray": [],
     "martini": [],
     "maser": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "maSigPro": [],
     "maskBAD": [
@@ -2957,7 +2882,6 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "matter": [],
     "MBAmethyl": [],
     "MBECS": [
         "Rhdf5lib",
@@ -2982,8 +2906,7 @@
     "mCSEA": [
         "Gviz",
         "OrganismDbi",
-        "RBGL",
-        "biovizBase"
+        "RBGL"
     ],
     "mdp": [],
     "mdqc": [],
@@ -2994,7 +2917,6 @@
         "HDF5Array",
         "MultiDataSet",
         "Rhdf5lib",
-        "biovizBase",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -3024,7 +2946,6 @@
     ],
     "MEB": [],
     "Melissa": [],
-    "memes": [],
     "MeSHDbi": [],
     "meshes": [
         "DOSE",
@@ -3045,7 +2966,6 @@
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
     "MetaboCoreUtils": [],
@@ -3072,13 +2992,10 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3198,7 +3115,6 @@
     ],
     "methylPipe": [
         "Gviz",
-        "biovizBase",
         "marray"
     ],
     "MethylSeekR": [],
@@ -3363,12 +3279,9 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3427,7 +3340,6 @@
         "Gviz",
         "MotifDb",
         "TFBSTools",
-        "biovizBase",
         "motifStack"
     ],
     "MotifDb": [],
@@ -3461,14 +3373,11 @@
     ],
     "MsExperiment": [
         "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "easyRNASeq",
         "ggbio"
     ],
@@ -3483,7 +3392,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "msmsTests": [
@@ -3491,14 +3399,12 @@
         "Rhdf5lib",
         "impute",
         "msmsEDA",
-        "mzID",
         "mzR",
         "qvalue"
     ],
     "MSnbase": [
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "MSnID": [
@@ -3507,7 +3413,6 @@
         "impute",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "mzR",
         "qvalue"
     ],
@@ -3519,13 +3424,10 @@
         "Rhdf5lib",
         "mzR"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstats": [
@@ -3550,7 +3452,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR",
         "qcmetrics"
     ],
@@ -3559,7 +3460,6 @@
         "MSstatsQC",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR",
         "qcmetrics"
     ],
@@ -3585,7 +3485,6 @@
     "multicrispr": [
         "CRISPRseek",
         "Rhdf5lib",
-        "biovizBase",
         "karyoploteR",
         "rhdf5",
         "rhdf5filters"
@@ -3629,7 +3528,6 @@
         "qvalue"
     ],
     "myvariant": [],
-    "mzID": [],
     "mzR": [
         "Rhdf5lib"
     ],
@@ -3643,7 +3541,6 @@
         "RBGL",
         "Rhdf5lib",
         "TFBSTools",
-        "biovizBase",
         "csaw",
         "metapod",
         "motifStack",
@@ -3675,12 +3572,9 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3774,8 +3668,7 @@
         "rhdf5filters"
     ],
     "OGRE": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "OLIN": [
         "marray"
@@ -3848,7 +3741,6 @@
     "ORFik": [
         "DESeq2"
     ],
-    "Organism.dplyr": [],
     "OrganismDbi": [
         "RBGL"
     ],
@@ -3957,7 +3849,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "PECA": [
@@ -4024,8 +3915,7 @@
         "qvalue"
     ],
     "PING": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "pipeComp": [
         "metapod",
@@ -4078,7 +3968,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "TFBSTools",
-        "biovizBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4086,7 +3975,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "proActiv": [
@@ -4113,7 +4001,6 @@
         "Rhdf5lib",
         "genefilter",
         "impute",
-        "mzID",
         "mzR"
     ],
     "pRolocGUI": [
@@ -4122,7 +4009,6 @@
         "Rhdf5lib",
         "genefilter",
         "impute",
-        "mzID",
         "mzR",
         "pRoloc"
     ],
@@ -4142,7 +4028,6 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "mzID",
         "mzR",
         "qvalue",
         "tkWidgets",
@@ -4161,15 +4046,12 @@
         "qvalue",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR",
         "rhdf5",
         "rhdf5filters"
@@ -4180,8 +4062,7 @@
         "rhdf5filters"
     ],
     "Pviz": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "PWMEnrich": [],
     "pwOmics": [
@@ -4198,12 +4079,10 @@
         "impute",
         "marray"
     ],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "qsea": [],
@@ -4240,7 +4119,6 @@
     "R3CPET": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "r3Cseq": [
@@ -4376,8 +4254,7 @@
     ],
     "regsplice": [],
     "regutools": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "REMP": [
         "GEOquery",
@@ -4401,7 +4278,6 @@
         "GOstats",
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "genefilter",
         "ggbio"
     ],
@@ -4449,7 +4325,6 @@
     "RiboProfiling": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "ribor": [
@@ -4475,14 +4350,11 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "RBGL",
         "Rhdf5lib",
         "Spectra",
         "biocViews",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -4498,7 +4370,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "Rmmquant": [
@@ -4525,23 +4396,19 @@
         "splots"
     ],
     "RNAmodR": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "Gviz",
-        "RNAmodR",
-        "biovizBase"
+        "RNAmodR"
     ],
     "RNAmodR.ML": [
         "Gviz",
-        "RNAmodR",
-        "biovizBase"
+        "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
         "Gviz",
-        "RNAmodR",
-        "biovizBase"
+        "RNAmodR"
     ],
     "RNAsense": [
         "qvalue"
@@ -4591,8 +4458,7 @@
     ],
     "RProtoBufLib": [],
     "Rqc": [
-        "GenomicFiles",
-        "biovizBase"
+        "GenomicFiles"
     ],
     "rqt": [
         "MultiDataSet",
@@ -4751,9 +4617,7 @@
         "flowCore"
     ],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
@@ -4777,7 +4641,6 @@
     "scruff": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "scry": [],
@@ -5053,7 +4916,6 @@
     "SomaticSignatures": [
         "OrganismDbi",
         "RBGL",
-        "biovizBase",
         "ggbio"
     ],
     "SOMNiBUS": [
@@ -5104,7 +4966,6 @@
         "Gviz",
         "InteractionSet",
         "TFBSTools",
-        "biovizBase",
         "motifmatchr"
     ],
     "speckle": [],
@@ -5146,8 +5007,7 @@
     ],
     "splineTimeR": [],
     "SPLINTER": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "splots": [],
     "SpotClean": [
@@ -5172,8 +5032,7 @@
     ],
     "srnadiff": [
         "DESeq2",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "ssize": [],
     "standR": [
@@ -5243,7 +5102,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR",
         "qvalue"
     ],
@@ -5256,8 +5114,7 @@
         "DESeq2"
     ],
     "tadar": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -5269,7 +5126,6 @@
     "TAPseq": [],
     "TargetDecoy": [
         "Rhdf5lib",
-        "mzID",
         "mzR"
     ],
     "TBSignatureProfiler": [
@@ -5367,7 +5223,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "ToxicoGx": [
@@ -5381,7 +5236,6 @@
         "Gviz",
         "InteractionSet",
         "Rhdf5lib",
-        "biovizBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5452,14 +5306,11 @@
     ],
     "TVTB": [
         "Gviz",
-        "biovizBase",
         "ensemblVEP"
     ],
     "twilight": [],
-    "tximeta": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [
@@ -5468,8 +5319,7 @@
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
-        "RBGL",
-        "biovizBase"
+        "RBGL"
     ],
     "Uniquorn": [],
     "uSORT": [
@@ -5497,7 +5347,6 @@
         "HDF5Array",
         "RBGL",
         "Rhdf5lib",
-        "biovizBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5575,12 +5424,9 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR"
     ],
     "xcore": [],
@@ -5608,7 +5454,6 @@
         "OrganismDbi",
         "RBGL",
         "SomaticSignatures",
-        "biovizBase",
         "ggbio"
     ],
     "yarn": [
