@@ -756,7 +756,6 @@
         "impute"
     ],
     "comapr": [],
-    "combi": [],
     "coMET": [],
     "coMethDMR": [
         "bumphunter"
@@ -827,7 +826,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -2413,8 +2411,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -3032,9 +3028,7 @@
         "STRINGdb"
     ],
     "pqsfinder": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores"
@@ -3196,7 +3190,6 @@
         "genomation",
         "impute"
     ],
-    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -3224,7 +3217,6 @@
     "rebook": [
         "dir.expiry"
     ],
-    "reconsi": [],
     "recount": [
         "GEOquery",
         "bumphunter",
@@ -3247,7 +3239,6 @@
         "InteractionSet",
         "RBGL"
     ],
-    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -3417,7 +3408,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "RPA": [],
     "RProtoBufLib": [],
     "Rqc": [],
     "rqt": [
@@ -3434,7 +3424,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -3641,7 +3630,6 @@
         "minfi",
         "siggenes"
     ],
-    "SIAMCAT": [],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
@@ -3792,7 +3780,6 @@
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
