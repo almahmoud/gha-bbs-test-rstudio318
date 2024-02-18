@@ -857,12 +857,9 @@
         "monocle"
     ],
     "circRNAprofiler": [
-        "DESeq2",
-        "gwascat"
+        "DESeq2"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "cisPath": [],
     "CiteFuse": [
         "Rhdf5lib",
@@ -911,7 +908,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [],
     "cmapR": [
@@ -2014,7 +2010,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "HDF5Array",
@@ -2035,10 +2030,7 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "garfield": [],
     "GARS": [
         "DESeq2",
@@ -2176,7 +2168,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GEOexplorer": [
         "GEOquery",
         "genefilter",
@@ -2246,7 +2237,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -2329,7 +2319,6 @@
     ],
     "Guitar": [],
     "Gviz": [],
-    "gwascat": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -2426,9 +2415,7 @@
     ],
     "hopach": [],
     "hpar": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -2465,7 +2452,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "igvR": [],
     "ILoReg": [],
     "imcRtools": [
         "HDF5Array",
@@ -2706,7 +2692,6 @@
         "dir.expiry"
     ],
     "made4": [],
-    "MADSEQ": [],
     "MAGAR": [
         "GEOquery",
         "HDF5Array",
@@ -2904,7 +2889,6 @@
         "qvalue"
     ],
     "metapod": [],
-    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "DSS",
@@ -3398,7 +3382,6 @@
         "KEGGgraph",
         "qvalue"
     ],
-    "myvariant": [],
     "mzR": [
         "Rhdf5lib"
     ],
@@ -4147,7 +4130,6 @@
         "Rhdf5lib"
     ],
     "Rhdf5lib": [],
-    "Rhisat2": [],
     "RiboCrypt": [
         "DESeq2",
         "ORFik"
@@ -4592,7 +4574,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "signeR": [],
     "signifinder": [
         "GSVA",
         "HDF5Array",
@@ -4605,7 +4586,6 @@
         "rhdf5filters",
         "survcomp"
     ],
-    "SigsPack": [],
     "sigsquared": [],
     "SIMAT": [
         "Rhdf5lib",
@@ -4978,12 +4958,10 @@
     "TIN": [
         "impute"
     ],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
         "widgetTools"
     ],
-    "tLOH": [],
     "TMixClust": [
         "SPEM"
     ],
@@ -5148,9 +5126,7 @@
     "vsclust": [
         "qvalue"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DESeq2",
