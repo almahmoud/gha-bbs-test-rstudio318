@@ -437,7 +437,6 @@
     ],
     "awst": [],
     "BaalChIP": [],
-    "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -510,7 +509,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -676,7 +674,6 @@
         "RBGL",
         "biocViews"
     ],
-    "BiocSet": [],
     "BiocSingular": [
         "ScaledMatrix",
         "beachmat"
@@ -1041,7 +1038,6 @@
         "genefilter"
     ],
     "CBEA": [
-        "BiocSet",
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
@@ -1324,7 +1320,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -1848,7 +1843,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -3131,7 +3125,6 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -3348,7 +3341,6 @@
         "genefilter",
         "impute"
     ],
-    "gmoviz": [],
     "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
@@ -3750,7 +3742,6 @@
         "RBGL",
         "genefilter"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DESeq2",
         "DEXSeq",
@@ -3849,7 +3840,6 @@
     "iterativeBMAsurv": [],
     "IVAS": [],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "AnnotationFilter",
         "ProtGenerics",
@@ -3951,7 +3941,6 @@
     ],
     "loci2path": [],
     "logicFS": [],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "Rhdf5lib",
@@ -4062,7 +4051,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "marr": [],
     "marray": [],
     "martini": [],
     "maser": [
@@ -4998,7 +4986,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -6116,7 +6103,6 @@
     "ReQON": [
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -6345,7 +6331,6 @@
         "impute",
         "qvalue"
     ],
-    "roar": [],
     "ROCpAI": [],
     "RolDE": [
         "qvalue"
@@ -6616,7 +6601,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -6820,7 +6804,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SemDist": [],
     "seq2pathway": [
         "impute"
     ],
@@ -7035,7 +7018,6 @@
         "HDF5Array",
         "MAST",
         "ProtGenerics",
-        "ResidualMatrix",
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -7184,7 +7166,6 @@
         "sparseMatrixStats"
     ],
     "sparrow": [
-        "BiocSet",
         "DelayedMatrixStats",
         "GSEABase",
         "sparseMatrixStats"
@@ -7403,7 +7384,6 @@
     "subSeq": [
         "qvalue"
     ],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
     "surfaltr": [],
@@ -7529,7 +7509,6 @@
         "restfulSE",
         "rhdf5client"
     ],
-    "TEQC": [],
     "ternarynet": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
@@ -7705,7 +7684,6 @@
         "SingleCellExperiment"
     ],
     "TREG": [],
-    "Trendy": [],
     "TRESS": [],
     "tricycle": [
         "BiocNeighbors",
