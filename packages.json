@@ -536,7 +536,6 @@
     "bayNorm": [
         "SingleCellExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -1218,7 +1217,6 @@
         "ensembldb",
         "genefilter",
         "globaltest",
-        "goseq",
         "impute",
         "lumi",
         "marray",
@@ -1298,7 +1296,6 @@
     ],
     "chromDraw": [],
     "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1421,9 +1418,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [
         "SingleCellExperiment"
@@ -1791,7 +1786,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [
         "Rhdf5lib",
         "rhdf5",
@@ -2541,7 +2535,6 @@
         "mnem"
     ],
     "epistack": [],
-    "epistasisGA": [],
     "EpiTxDb": [
         "Modstrings",
         "tRNA",
@@ -3018,7 +3011,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "gcapc": [],
     "gcatest": [
         "lfa"
     ],
@@ -3292,7 +3284,6 @@
         "genefilter",
         "impute"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -3308,7 +3299,6 @@
         "MultiAssayExperiment"
     ],
     "GOSemSim": [],
-    "goseq": [],
     "GOSim": [
         "RBGL"
     ],
@@ -3572,7 +3562,6 @@
         "GSEABase",
         "RBGL",
         "genefilter",
-        "goseq",
         "pcaExplorer"
     ],
     "IdeoViz": [],
@@ -4010,8 +3999,7 @@
         "SingleCellExperiment"
     ],
     "MatrixQCvis": [
-        "impute",
-        "proDA"
+        "impute"
     ],
     "MatrixRider": [
         "CNEr",
@@ -4041,7 +4029,6 @@
         "gdsfmt"
     ],
     "MBQN": [],
-    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -4649,7 +4636,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "mosaics": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -5111,7 +5097,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "nondetects": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -5583,7 +5568,6 @@
     ],
     "proBAMr": [],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -6015,7 +5999,6 @@
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
@@ -6023,8 +6006,7 @@
     "rGREAT": [],
     "RGSEA": [],
     "rgsepd": [
-        "DESeq2",
-        "goseq"
+        "DESeq2"
     ],
     "rhdf5": [
         "Rhdf5lib",
@@ -6061,9 +6043,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -6680,8 +6660,7 @@
         "qvalue"
     ],
     "segmentSeq": [
-        "ShortRead",
-        "baySeq"
+        "ShortRead"
     ],
     "selectKSigs": [
         "HiLDA"
@@ -6973,8 +6952,7 @@
     "SMAP": [],
     "SMITE": [
         "BioNet",
-        "RBGL",
-        "goseq"
+        "RBGL"
     ],
     "snapCGH": [
         "GLAD",
@@ -7181,7 +7159,6 @@
         "SingleCellExperiment",
         "sparseMatrixStats"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "Rhdf5lib",
         "SingleCellExperiment",
@@ -7202,7 +7179,6 @@
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
-        "baySeq",
         "biovizBase",
         "ensembldb"
     ],
@@ -7348,8 +7324,7 @@
         "sva"
     ],
     "TCC": [
-        "DESeq2",
-        "baySeq"
+        "DESeq2"
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [
@@ -7385,7 +7360,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "CNEr"
     ],
@@ -7530,7 +7504,6 @@
     ],
     "transomics2cytoscape": [],
     "TransView": [],
-    "traseR": [],
     "traviz": [
         "SingleCellExperiment",
         "TrajectoryUtils",
