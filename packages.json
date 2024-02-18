@@ -1672,7 +1672,6 @@
         "pathview",
         "qvalue"
     ],
-    "gDNAx": [],
     "gDR": [
         "CoreGx",
         "PharmacoGx",
@@ -2502,7 +2501,6 @@
         "siggenes"
     ],
     "mitch": [],
-    "mitoClone2": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -3179,7 +3177,6 @@
         "SpacePAC",
         "iPAC"
     ],
-    "QuasR": [],
     "QUBIC": [],
     "qvalue": [],
     "R3CPET": [
@@ -3736,9 +3733,7 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "GEOquery",
         "bumphunter",
@@ -3886,7 +3881,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [],
     "svaRetro": [],
     "SVMDO": [
         "DOSE",
@@ -4009,7 +4003,6 @@
         "slingshot"
     ],
     "transcriptogramer": [],
-    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -4089,7 +4082,6 @@
         "genefilter",
         "sva"
     ],
-    "VCFArray": [],
     "VegaMC": [],
     "velociraptor": [
         "basilisk",
