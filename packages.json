@@ -229,7 +229,6 @@
         "qvalue"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -348,9 +347,7 @@
     "CAFE": [
         "ggbio"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
@@ -359,8 +356,7 @@
         "sva"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -607,9 +603,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -1172,7 +1166,6 @@
     "ExperimentHubData": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
-        "GenomicInteractions",
         "csaw",
         "metapod"
     ],
@@ -1206,7 +1199,6 @@
         "minfi",
         "siggenes"
     ],
-    "fgga": [],
     "FGNet": [],
     "FilterFFPE": [],
     "FindIT2": [
@@ -1432,7 +1424,6 @@
         "marray",
         "piano"
     ],
-    "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1480,7 +1471,6 @@
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [
         "ggbio"
     ],
@@ -1558,7 +1548,6 @@
     ],
     "GOfuncR": [],
     "GOSemSim": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "GOSemSim",
@@ -1624,9 +1613,7 @@
     "hiAnnotator": [],
     "HIBAG": [],
     "HiCcompare": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "HiCcompare",
         "multiHiCcompare"
@@ -2126,7 +2113,6 @@
         "genefilter",
         "siggenes"
     ],
-    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -2464,7 +2450,6 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2940,7 +2925,6 @@
         "genefilter",
         "splots"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RNAsense": [
@@ -3069,7 +3053,6 @@
         "metapod",
         "scran"
     ],
-    "scmeth": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
@@ -3084,7 +3067,6 @@
         "metapod"
     ],
     "scRecover": [],
-    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -3290,9 +3272,7 @@
         "metapod",
         "scran"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
@@ -3544,7 +3524,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "Voyager": [],
     "vsclust": [
         "qvalue"
     ],
