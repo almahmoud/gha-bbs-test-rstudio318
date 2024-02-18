@@ -265,9 +265,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [
         "DESeq2",
         "MultiAssayExperiment"
@@ -432,7 +430,6 @@
         "sva"
     ],
     "bambu": [],
-    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
     ],
@@ -590,9 +587,7 @@
         "GSEABase"
     ],
     "BiFET": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -1282,9 +1277,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -1312,7 +1305,6 @@
     "CircSeqAlignTk": [
         "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
         "ShortRead"
     ],
     "cisPath": [],
@@ -1428,7 +1420,6 @@
         "CopyNumberPlots",
         "ProtGenerics",
         "Rhdf5lib",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1444,7 +1435,6 @@
         "CopyNumberPlots",
         "ProtGenerics",
         "Rhdf5lib",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -1607,7 +1597,6 @@
         "AnnotationFilter",
         "ProtGenerics",
         "Rhdf5lib",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -2232,9 +2221,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DNAshapeR": [],
     "DominoEffect": [],
     "doppelgangR": [
@@ -2437,7 +2424,6 @@
     "epigraHMM": [
         "GreyListChIP",
         "Rhdf5lib",
-        "bamsignals",
         "csaw",
         "metapod",
         "rhdf5",
@@ -2563,7 +2549,6 @@
     "EventPointer": [
         "RBGL",
         "Rhdf5lib",
-        "SGSeq",
         "qvalue",
         "rhdf5",
         "rhdf5filters"
@@ -3434,7 +3419,6 @@
         "DESeq2"
     ],
     "hummingbird": [],
-    "hyperdraw": [],
     "iasva": [],
     "iCARE": [],
     "icetea": [
@@ -3676,7 +3660,6 @@
     "karyoploteR": [
         "AnnotationFilter",
         "ProtGenerics",
-        "bamsignals",
         "biovizBase",
         "ensembldb",
         "regioneR"
@@ -3795,7 +3778,6 @@
         "Maaslin2",
         "impute"
     ],
-    "macat": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
@@ -4743,7 +4725,6 @@
         "CRISPRseek",
         "ProtGenerics",
         "Rhdf5lib",
-        "bamsignals",
         "biovizBase",
         "ensembldb",
         "karyoploteR",
@@ -4983,7 +4964,6 @@
         "ReadqPCR"
     ],
     "normr": [
-        "bamsignals",
         "qvalue"
     ],
     "NPARC": [],
@@ -5079,10 +5059,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [],
     "oppar": [
         "BiocSingular",
@@ -5875,9 +5852,7 @@
         "Rhdf5lib"
     ],
     "Rhdf5lib": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "DESeq2",
         "ORFik"
@@ -6502,7 +6477,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "bamsignals",
         "enrichplot",
         "qvalue"
     ],
@@ -6563,7 +6537,6 @@
         "RBGL",
         "genefilter"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -7203,7 +7176,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
@@ -7383,7 +7355,6 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TTMap": [],
     "TurboNorm": [
         "convert",
         "marray"
