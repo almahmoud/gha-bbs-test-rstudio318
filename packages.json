@@ -10,7 +10,6 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "genefilter",
@@ -25,18 +24,15 @@
         "MatrixGenerics",
         "XVector",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -886,7 +882,6 @@
     ],
     "AnVILBilling": [],
     "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
@@ -1348,7 +1343,6 @@
         "XVector",
         "pcaMethods"
     ],
-    "AWFisher": [],
     "awst": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -2032,7 +2026,6 @@
         "rtracklayer"
     ],
     "BioCartaImage": [],
-    "BiocBook": [],
     "BiocCheck": [
         "RBGL",
         "biocViews"
@@ -5028,7 +5021,6 @@
         "rtracklayer"
     ],
     "COMPASS": [],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -5514,7 +5506,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cqn": [],
     "CRImage": [
         "EBImage",
         "aCGH",
@@ -10236,8 +10227,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "cqn"
+        "XVector"
     ],
     "gep2pep": [
         "AnnotationDbi",
@@ -10778,7 +10768,6 @@
         "XVector"
     ],
     "GPA": [],
-    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -11240,8 +11229,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
-    "HEM": [],
     "hermes": [
         "AnnotationDbi",
         "BiocParallel",
@@ -11452,7 +11439,6 @@
         "IRanges",
         "XVector"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -11720,7 +11706,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "iChip": [],
     "iClusterPlus": [],
     "iCNV": [
         "BSgenome",
@@ -12681,7 +12666,6 @@
         "MatrixGenerics",
         "XVector",
         "annotate",
-        "cqn",
         "genefilter",
         "sva"
     ],
@@ -12701,7 +12685,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "LEA": [],
     "lefser": [
         "DelayedArray",
@@ -12921,7 +12904,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -14006,7 +13988,6 @@
         "qvalue",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -19266,7 +19247,6 @@
         "Rsamtools",
         "XVector"
     ],
-    "rbsurv": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -25579,9 +25559,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twilight": [],
     "twoddpcr": [],
     "txcutr": [
