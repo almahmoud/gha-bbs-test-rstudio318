@@ -2,15 +2,12 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "annotate",
         "genefilter"
     ],
     "a4Base": [
-        "annotate",
         "genefilter"
     ],
     "a4Classif": [],
-    "ABarray": [],
     "abseqR": [],
     "acde": [],
     "ACE": [
@@ -22,7 +19,6 @@
     ],
     "ADaCGH2": [
         "GLAD",
-        "annotate",
         "genefilter",
         "snapCGH",
         "tilingArray"
@@ -32,7 +28,6 @@
         "ADAM"
     ],
     "adductomicsR": [
-        "ExperimentHub",
         "ProtGenerics",
         "Rhdf5lib",
         "mzR"
@@ -56,7 +51,6 @@
         "RBGL",
         "ReportingTools",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "gcrma",
@@ -74,8 +68,7 @@
         "gcrma"
     ],
     "AGDEX": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "aggregateBioVar": [
         "SingleCellExperiment"
@@ -93,7 +86,6 @@
         "ReportingTools",
         "VariantAnnotation",
         "affycoretools",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "gcrma",
@@ -248,7 +240,6 @@
     ],
     "altcdfenvs": [],
     "AMARETTO": [
-        "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
         "Rhdf5lib",
@@ -287,10 +278,8 @@
         "MultiAssayExperiment"
     ],
     "annmap": [
-        "annotate",
         "genefilter"
     ],
-    "annotate": [],
     "AnnotationFilter": [],
     "AnnotationHubData": [
         "BiocCheck",
@@ -336,7 +325,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -353,7 +341,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "annotate",
         "beadarray",
         "gcrma",
         "genefilter"
@@ -380,7 +367,6 @@
     "AssessORF": [],
     "ASSET": [],
     "ASSIGN": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -396,7 +382,6 @@
         "Rhdf5lib",
         "SingleCellExperiment",
         "TFBSTools",
-        "annotate",
         "chromVAR",
         "fgsea",
         "motifmatchr",
@@ -416,7 +401,6 @@
         "RBGL",
         "Rhdf5lib",
         "TFBSTools",
-        "annotate",
         "ensembldb",
         "motifStack",
         "regioneR",
@@ -426,7 +410,6 @@
     "ATACseqTFEA": [
         "CNEr",
         "TFBSTools",
-        "annotate",
         "motifmatchr"
     ],
     "atena": [
@@ -435,7 +418,6 @@
     "atSNP": [
         "CNEr",
         "TFBSTools",
-        "annotate",
         "motifStack"
     ],
     "attract": [
@@ -443,13 +425,11 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "AUCell": [
         "DelayedMatrixStats",
         "GSEABase",
-        "annotate",
         "sparseMatrixStats"
     ],
     "autonomics": [
@@ -462,7 +442,6 @@
         "VariantAnnotation"
     ],
     "ballgown": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -474,10 +453,8 @@
     "bandle": [
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
-        "annotate",
         "genefilter",
         "impute",
         "mzID",
@@ -541,7 +518,6 @@
         "sparseMatrixStats"
     ],
     "BatchQC": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -604,7 +580,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "annotate",
         "beachmat",
         "biomformat",
         "bluster",
@@ -632,8 +607,7 @@
     ],
     "BHC": [],
     "BicARE": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "BiFET": [],
     "BiGGR": [
@@ -644,7 +618,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "gdsfmt",
         "genefilter",
@@ -672,7 +645,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "graphite",
         "qvalue"
     ],
     "BioCartaImage": [],
@@ -681,7 +653,6 @@
         "biocViews"
     ],
     "biocGraph": [
-        "annotate",
         "geneplotter"
     ],
     "BiocHail": [
@@ -689,12 +660,9 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocHubsShiny": [
-        "ExperimentHub"
-    ],
+    "BiocHubsShiny": [],
     "BiocNeighbors": [],
     "BiocOncoTK": [
-        "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
         "Rhdf5lib",
@@ -702,8 +670,7 @@
         "rhdf5filters"
     ],
     "BioCor": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "BiocPkgTools": [
         "RBGL",
@@ -769,7 +736,6 @@
         "impute"
     ],
     "BioNERO": [
-        "annotate",
         "genefilter",
         "impute",
         "sva"
@@ -810,7 +776,6 @@
         "CGHbase",
         "CGHcall",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
@@ -830,13 +795,11 @@
         "sparseMatrixStats"
     ],
     "BiSeq": [
-        "annotate",
         "globaltest"
     ],
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
-        "annotate",
         "genefilter",
         "geneplotter"
     ],
@@ -848,16 +811,13 @@
         "PADOG",
         "ROntoTools"
     ],
-    "BloodGen3Module": [
-        "ExperimentHub"
-    ],
+    "BloodGen3Module": [],
     "bluster": [
         "BiocNeighbors"
     ],
     "bnbc": [
         "HiCBricks",
         "Rhdf5lib",
-        "annotate",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -866,7 +826,6 @@
     "bnem": [
         "CellNOptR",
         "RBGL",
-        "annotate",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -953,7 +912,6 @@
         "ProtGenerics",
         "RBGL",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "ggbio"
@@ -976,7 +934,6 @@
         "ProtGenerics",
         "RBGL",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -1004,7 +961,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1028,7 +984,6 @@
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
-        "annotate",
         "cBioPortalData",
         "genefilter",
         "hopach",
@@ -1067,7 +1022,6 @@
     "Category": [
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "categoryCompare": [
@@ -1075,7 +1029,6 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "cbaf": [
@@ -1084,7 +1037,6 @@
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
-        "annotate",
         "cBioPortalData",
         "genefilter"
     ],
@@ -1102,12 +1054,10 @@
     ],
     "CBNplot": [
         "DOSE",
-        "ExperimentHub",
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "graphite",
         "qvalue"
     ],
     "cbpManager": [
@@ -1119,12 +1069,10 @@
         "SingleCellExperiment"
     ],
     "ccImpute": [],
-    "ccmap": [],
     "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
-        "PROMISE",
-        "annotate"
+        "PROMISE"
     ],
     "ccrepe": [],
     "CDI": [
@@ -1159,7 +1107,6 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter",
         "splots"
     ],
@@ -1176,7 +1123,6 @@
         "sparseMatrixStats"
     ],
     "cellity": [],
-    "CellMapper": [],
     "cellmigRation": [],
     "CellMixS": [
         "BiocNeighbors",
@@ -1219,7 +1165,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "SingleCellExperiment",
-        "annotate",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -1250,7 +1195,6 @@
         "plyranges"
     ],
     "cfTools": [
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1265,7 +1209,6 @@
     ],
     "cghMCR": [
         "CNTools",
-        "annotate",
         "genefilter"
     ],
     "CGHnormaliter": [
@@ -1282,14 +1225,12 @@
         "AnnotationFilter",
         "DMRcate",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "Gviz",
         "HDF5Array",
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "annotate",
         "beachmat",
         "biovizBase",
         "bsseq",
@@ -1377,9 +1318,7 @@
         "frma"
     ],
     "chromDraw": [],
-    "ChromHeatMap": [
-        "annotate"
-    ],
+    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
         "BiocNeighbors",
@@ -1402,8 +1341,7 @@
     ],
     "chromVAR": [
         "CNEr",
-        "TFBSTools",
-        "annotate"
+        "TFBSTools"
     ],
     "CHRONOS": [
         "RBGL"
@@ -1454,14 +1392,11 @@
     ],
     "ClassifyR": [
         "MultiAssayExperiment",
-        "annotate",
         "genefilter"
     ],
     "cleanUpdTSeq": [],
     "clipper": [
-        "KEGGgraph",
-        "annotate",
-        "qpgraph"
+        "KEGGgraph"
     ],
     "cliProfiler": [],
     "cliqueMS": [
@@ -1469,7 +1404,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1485,7 +1419,6 @@
     "clstutils": [],
     "CluMSID": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -1498,7 +1431,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "genefilter",
         "mbkmeans",
@@ -1534,9 +1466,7 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNEr": [
-        "annotate"
-    ],
+    "CNEr": [],
     "CNORdt": [
         "CellNOptR",
         "RBGL"
@@ -1554,7 +1484,6 @@
         "RBGL"
     ],
     "CNTools": [
-        "annotate",
         "genefilter"
     ],
     "CNVfilteR": [
@@ -1615,9 +1544,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "codelink": [
-        "annotate"
-    ],
+    "codelink": [],
     "CODEX": [],
     "CoGAPS": [
         "Rhdf5lib",
@@ -1656,7 +1583,6 @@
         "ensembldb"
     ],
     "coMethDMR": [
-        "ExperimentHub",
         "bumphunter"
     ],
     "compEpiTools": [
@@ -1672,7 +1598,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
@@ -1719,7 +1644,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "genefu",
         "impute",
@@ -1741,7 +1665,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -1782,15 +1705,12 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [
-        "ExperimentHub"
-    ],
+    "CoSIA": [],
     "cosmiq": [
         "AnnotationFilter",
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1806,7 +1726,6 @@
     "cosmosR": [
         "CARNIVAL",
         "GSEABase",
-        "annotate",
         "decoupleR"
     ],
     "COSNet": [],
@@ -1820,17 +1739,14 @@
     ],
     "countsimQC": [
         "DESeq2",
-        "annotate",
         "genefilter"
     ],
     "CoverageView": [],
     "covRNA": [
-        "annotate",
         "genefilter"
     ],
     "cpvSNP": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "CRImage": [],
     "crisprBase": [],
@@ -1841,7 +1757,6 @@
         "crisprBase"
     ],
     "crisprDesign": [
-        "ExperimentHub",
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
@@ -1851,7 +1766,6 @@
         "dir.expiry"
     ],
     "crisprScore": [
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1864,7 +1778,6 @@
     "CrispRVariants": [],
     "crisprVerse": [
         "AnnotationFilter",
-        "ExperimentHub",
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
@@ -1881,7 +1794,6 @@
     ],
     "crisprViz": [
         "AnnotationFilter",
-        "ExperimentHub",
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
@@ -1898,7 +1810,6 @@
     "crlmm": [],
     "crossmeta": [
         "GEOquery",
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -1910,9 +1821,7 @@
         "impute"
     ],
     "CSSQ": [],
-    "CTdata": [
-        "ExperimentHub"
-    ],
+    "CTdata": [],
     "cTRAP": [
         "Rhdf5lib",
         "fgsea",
@@ -2071,7 +1980,6 @@
     "dagLogo": [
         "CNEr",
         "TFBSTools",
-        "annotate",
         "motifStack"
     ],
     "daMA": [],
@@ -2083,7 +1991,6 @@
         "DESeq2",
         "EDASeq",
         "ShortRead",
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -2093,7 +2000,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "clusterProfiler",
@@ -2109,7 +2015,6 @@
     "dce": [
         "RBGL",
         "epiNEM",
-        "graphite",
         "mnem"
     ],
     "dcGSA": [],
@@ -2128,7 +2033,6 @@
         "DOSE",
         "GOSemSim",
         "KEGGgraph",
-        "annotate",
         "apeglm",
         "clusterProfiler",
         "enrichplot",
@@ -2162,7 +2066,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "fastseg",
         "genefilter",
@@ -2223,7 +2126,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "beachmat",
         "bsseq",
         "genefilter",
@@ -2246,7 +2148,6 @@
     ],
     "DEP": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -2305,14 +2206,12 @@
     ],
     "DExMA": [
         "GEOquery",
-        "annotate",
         "genefilter",
         "impute",
         "sva"
     ],
     "DEXSeq": [
         "DESeq2",
-        "annotate",
         "genefilter",
         "geneplotter"
     ],
@@ -2358,7 +2257,6 @@
         "DESeq2",
         "DEXSeq",
         "ProtGenerics",
-        "annotate",
         "ensembldb",
         "genefilter",
         "geneplotter"
@@ -2401,14 +2299,12 @@
     "DMRcate": [
         "AnnotationFilter",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "Gviz",
         "HDF5Array",
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "annotate",
         "beachmat",
         "biovizBase",
         "bsseq",
@@ -2445,7 +2341,6 @@
         "VariantAnnotation"
     ],
     "doppelgangR": [
-        "annotate",
         "genefilter",
         "impute",
         "sva"
@@ -2468,9 +2363,7 @@
         "KEGGgraph",
         "SPIA",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
-        "graphite",
         "pathview",
         "sparseMatrixStats",
         "variancePartition",
@@ -2497,7 +2390,6 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
-        "annotate",
         "qvalue"
     ],
     "DSS": [
@@ -2518,7 +2410,6 @@
     "DynDoc": [],
     "easier": [
         "DESeq2",
-        "ExperimentHub",
         "decoupleR",
         "progeny",
         "quantiseqr"
@@ -2536,7 +2427,6 @@
         "ShortRead"
     ],
     "edge": [
-        "annotate",
         "genefilter",
         "qvalue",
         "sva"
@@ -2559,7 +2449,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "globaltest",
         "pathview",
@@ -2583,16 +2472,13 @@
     "enhancerHomologSearch": [
         "CNEr",
         "TFBSTools",
-        "annotate",
         "motifmatchr"
     ],
     "ENmix": [
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "geneplotter",
@@ -2608,8 +2494,6 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "annotate",
-        "graphite",
         "pathview"
     ],
     "enrichplot": [
@@ -2623,7 +2507,6 @@
         "DOSE",
         "GOSemSim",
         "TFBSTools",
-        "annotate",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2675,13 +2558,11 @@
         "rhdf5filters"
     ],
     "EpiMix": [
-        "ExperimentHub",
         "impute"
     ],
     "epimutacions": [
         "AnnotationFilter",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -2690,7 +2571,6 @@
         "RBGL",
         "Rhdf5lib",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "bumphunter",
         "ensembldb",
@@ -2767,7 +2647,6 @@
         "Rbowtie2",
         "ShortRead",
         "TFBSTools",
-        "annotate",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2786,7 +2665,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "UCell",
-        "annotate",
         "beachmat",
         "rhdf5",
         "rhdf5filters",
@@ -2796,9 +2674,7 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment"
@@ -2813,7 +2689,6 @@
         "rhdf5filters"
     ],
     "EWCE": [
-        "ExperimentHub",
         "SingleCellExperiment",
         "orthogene"
     ],
@@ -2822,11 +2697,9 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHub": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
-        "ExperimentHub",
         "OrganismDbi",
         "RBGL",
         "biocViews"
@@ -2894,7 +2767,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -2925,7 +2797,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3156,7 +3027,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -3180,7 +3050,6 @@
         "EDASeq",
         "MLSeq",
         "ShortRead",
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -3271,24 +3140,19 @@
         "impute",
         "marray"
     ],
-    "genefilter": [
-        "annotate"
-    ],
+    "genefilter": [],
     "genefu": [
         "impute",
         "survcomp"
     ],
     "GeneGeneInteR": [],
     "GeneMeta": [
-        "annotate",
         "genefilter"
     ],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneplast": [],
-    "geneplotter": [
-        "annotate"
-    ],
+    "geneplotter": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -3321,7 +3185,6 @@
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -3375,7 +3238,6 @@
     ],
     "GEOexplorer": [
         "GEOquery",
-        "annotate",
         "genefilter",
         "impute",
         "sva"
@@ -3385,12 +3247,10 @@
     ],
     "GeomxTools": [],
     "GEOquery": [],
-    "GEOsubmission": [],
     "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase",
         "Rhdf5lib",
-        "annotate",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3398,7 +3258,6 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "annotate",
         "cellHTS2",
         "genefilter",
         "splots"
@@ -3450,7 +3309,6 @@
     ],
     "GISPA": [
         "GSEABase",
-        "annotate",
         "genefilter"
     ],
     "GLAD": [],
@@ -3473,12 +3331,9 @@
     ],
     "GlobalAncova": [
         "GSEABase",
-        "annotate",
         "globaltest"
     ],
-    "globaltest": [
-        "annotate"
-    ],
+    "globaltest": [],
     "GloScope": [
         "SingleCellExperiment"
     ],
@@ -3490,7 +3345,6 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter",
         "impute"
     ],
@@ -3514,8 +3368,7 @@
     "GOSemSim": [],
     "goseq": [],
     "GOSim": [
-        "RBGL",
-        "annotate"
+        "RBGL"
     ],
     "goSorensen": [
         "DOSE",
@@ -3530,7 +3383,6 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "GOTHiC": [
@@ -3544,7 +3396,6 @@
         "ensembldb"
     ],
     "graper": [],
-    "graphite": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -3556,17 +3407,12 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "GSEABase": [
-        "annotate"
-    ],
+    "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "ExperimentHub",
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "annotate",
-        "graphite",
         "pathview"
     ],
     "gsean": [
@@ -3580,7 +3426,6 @@
     ],
     "GSRI": [
         "GSEABase",
-        "annotate",
         "genefilter",
         "les"
     ],
@@ -3592,7 +3437,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "rhdf5",
         "rhdf5filters",
@@ -3641,7 +3485,6 @@
         "rhdf5filters"
     ],
     "HarmonizR": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -3742,10 +3585,7 @@
         "SpatialExperiment"
     ],
     "hopach": [],
-    "hpar": [
-        "ExperimentHub"
-    ],
-    "HTqPCR": [],
+    "hpar": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -3773,7 +3613,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -3794,15 +3633,12 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter",
         "goseq",
         "pcaExplorer"
     ],
     "IdeoViz": [],
-    "idiogram": [
-        "annotate"
-    ],
+    "idiogram": [],
     "idr2d": [],
     "IFAA": [],
     "IgGeneUsage": [],
@@ -3860,13 +3696,11 @@
         "RBGL",
         "ReactomePA",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
         "genefilter",
-        "graphite",
         "impute",
         "minfi",
         "qvalue",
@@ -3914,7 +3748,6 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "InterCellar": [],
@@ -3923,7 +3756,6 @@
         "DEXSeq",
         "GenomicFiles",
         "VariantAnnotation",
-        "annotate",
         "genefilter",
         "geneplotter"
     ],
@@ -3947,7 +3779,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3975,7 +3806,6 @@
         "iSEE"
     ],
     "iSEEhub": [
-        "ExperimentHub",
         "SingleCellExperiment",
         "iSEE"
     ],
@@ -4000,7 +3830,6 @@
         "DESeq2",
         "DEXSeq",
         "ProtGenerics",
-        "annotate",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -4056,7 +3885,6 @@
         "sparseMatrixStats"
     ],
     "KnowSeq": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -4099,7 +3927,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "annotate",
         "genefilter",
         "spicyR"
     ],
@@ -4109,7 +3936,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4134,15 +3960,12 @@
         "rhdf5filters"
     ],
     "lpNet": [],
-    "LRcell": [
-        "ExperimentHub"
-    ],
+    "LRcell": [],
     "lumi": [
         "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -4153,20 +3976,15 @@
         "sparseMatrixStats"
     ],
     "LymphoSeq": [],
-    "m6Aboost": [
-        "ExperimentHub"
-    ],
+    "m6Aboost": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2",
         "impute"
     ],
-    "macat": [
-        "annotate"
-    ],
+    "macat": [],
     "MACSQuantifyR": [],
     "MACSr": [
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -4182,7 +4000,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "RnBeads",
-        "annotate",
         "bumphunter",
         "crlmm",
         "genefilter",
@@ -4196,7 +4013,6 @@
     ],
     "MAGeCKFlute": [
         "DOSE",
-        "ExperimentHub",
         "GOSemSim",
         "KEGGgraph",
         "clusterProfiler",
@@ -4217,7 +4033,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4269,20 +4084,16 @@
         "SingleCellExperiment"
     ],
     "mastR": [
-        "ExperimentHub",
         "GSEABase",
-        "SingleCellExperiment",
-        "annotate"
+        "SingleCellExperiment"
     ],
     "MatrixQCvis": [
-        "ExperimentHub",
         "impute",
         "proDA"
     ],
     "MatrixRider": [
         "CNEr",
-        "TFBSTools",
-        "annotate"
+        "TFBSTools"
     ],
     "matter": [
         "ProtGenerics"
@@ -4291,7 +4102,6 @@
     "MBASED": [],
     "MBECS": [
         "Rhdf5lib",
-        "annotate",
         "biomformat",
         "genefilter",
         "phyloseq",
@@ -4338,7 +4148,6 @@
         "ProtGenerics",
         "Rhdf5lib",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "bumphunter",
         "ensembldb",
@@ -4359,7 +4168,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "impute",
@@ -4405,7 +4213,6 @@
         "GSEABase",
         "MeSHDbi",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "MesKit": [],
@@ -4415,15 +4222,12 @@
         "AnnotationFilter",
         "CompoundDb",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
         "rols",
@@ -4432,7 +4236,6 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationFilter",
-        "ExperimentHub",
         "KEGGgraph",
         "MWASTools",
         "ProtGenerics",
@@ -4455,7 +4258,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4492,7 +4294,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "ShortRead",
-        "annotate",
         "beachmat",
         "bsseq",
         "genefilter",
@@ -4504,7 +4305,6 @@
     ],
     "MetCirc": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
@@ -4515,7 +4315,6 @@
         "qvalue"
     ],
     "MethReg": [
-        "ExperimentHub",
         "sesame"
     ],
     "methrix": [
@@ -4526,13 +4325,11 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -4546,7 +4343,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "beachmat",
         "bsseq",
         "bumphunter",
@@ -4562,14 +4358,12 @@
         "AnnotationHubData",
         "BiocCheck",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "ExperimentHubData",
         "GEOquery",
         "HDF5Array",
         "OrganismDbi",
         "RBGL",
         "Rhdf5lib",
-        "annotate",
         "biocViews",
         "bumphunter",
         "genefilter",
@@ -4588,7 +4382,6 @@
         "GOSemSim",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
@@ -4626,7 +4419,6 @@
     ],
     "methylscaper": [],
     "MethylSeekR": [
-        "annotate",
         "geneplotter"
     ],
     "methylSig": [
@@ -4645,7 +4437,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -4661,12 +4452,8 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MGFM": [
-        "annotate"
-    ],
-    "MGFR": [
-        "annotate"
-    ],
+    "MGFM": [],
+    "MGFR": [],
     "mgsa": [],
     "mia": [
         "BiocNeighbors",
@@ -4790,7 +4577,6 @@
         "HDF5Array",
         "RBGL",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -4807,7 +4593,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "rhdf5",
@@ -4842,7 +4627,6 @@
         "GSEABase",
         "RBGL",
         "TCGAbiolinks",
-        "annotate",
         "genefilter",
         "impute"
     ],
@@ -4852,7 +4636,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -4872,10 +4655,8 @@
     ],
     "mixOmics": [],
     "MLInterfaces": [
-        "annotate",
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2"
     ],
@@ -4890,7 +4671,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4919,9 +4699,7 @@
     "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
-        "annotate",
-        "genefilter",
-        "graphite"
+        "genefilter"
     ],
     "MoleculeExperiment": [
         "Rhdf5lib",
@@ -4936,8 +4714,7 @@
     ],
     "monaLisa": [
         "CNEr",
-        "TFBSTools",
-        "annotate"
+        "TFBSTools"
     ],
     "monocle": [
         "RBGL",
@@ -4975,7 +4752,6 @@
         "ProtGenerics",
         "TFBSTools",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "motifStack"
@@ -4983,13 +4759,11 @@
     "MotifDb": [],
     "motifmatchr": [
         "CNEr",
-        "TFBSTools",
-        "annotate"
+        "TFBSTools"
     ],
     "motifStack": [
         "CNEr",
-        "TFBSTools",
-        "annotate"
+        "TFBSTools"
     ],
     "MouseFM": [],
     "mpra": [],
@@ -4997,49 +4771,39 @@
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
     "MsBackendMgf": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
     "MsBackendMsp": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics",
         "Spectra"
     ],
-    "MsCoreUtils": [],
-    "MsDataHub": [
-        "ExperimentHub"
-    ],
+    "MsDataHub": [],
     "MsExperiment": [
         "AnnotationFilter",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
     "MsFeatures": [
-        "MsCoreUtils",
         "ProtGenerics"
     ],
     "msgbsR": [
@@ -5073,7 +4837,6 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5082,7 +4845,6 @@
     ],
     "msmsTests": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5092,7 +4854,6 @@
         "qvalue"
     ],
     "MSnbase": [
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5101,7 +4862,6 @@
     ],
     "MSnID": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5112,7 +4872,6 @@
         "qvalue"
     ],
     "MSPrep": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -5123,7 +4882,6 @@
     ],
     "msqrob2": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures"
@@ -5131,7 +4889,6 @@
     "MsQuality": [
         "AnnotationFilter",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
         "ProtGenerics",
@@ -5158,7 +4915,6 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5169,7 +4925,6 @@
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5217,8 +4972,7 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "fgsea",
-        "graphite"
+        "fgsea"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -5308,7 +5062,6 @@
         "Rhdf5lib",
         "TFBSTools",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "csaw",
         "ensembldb",
@@ -5337,7 +5090,6 @@
     ],
     "NBAMSeq": [
         "DESeq2",
-        "annotate",
         "genefilter"
     ],
     "ncdfFlow": [
@@ -5351,7 +5103,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -5391,7 +5142,6 @@
     "netDx": [
         "MultiAssayExperiment"
     ],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -5410,7 +5160,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "clusterExperiment",
         "genefilter",
@@ -5432,7 +5181,6 @@
         "RBGL",
         "Rhdf5lib",
         "STRINGdb",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -5460,9 +5208,7 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -5476,8 +5222,7 @@
     ],
     "NPARC": [],
     "npGSEA": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "nucleR": [
         "ShortRead"
@@ -5492,7 +5237,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "EDASeq",
-        "ExperimentHub",
         "GSEABase",
         "GSVA",
         "HDF5Array",
@@ -5501,7 +5245,6 @@
         "ScaledMatrix",
         "ShortRead",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "rhdf5",
         "rhdf5filters",
@@ -5536,7 +5279,6 @@
     ],
     "omicRexposome": [
         "MultiDataSet",
-        "annotate",
         "genefilter",
         "impute",
         "made4",
@@ -5591,7 +5333,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "rhdf5",
         "rhdf5filters",
@@ -5622,7 +5363,6 @@
     ],
     "orthogene": [],
     "orthos": [
-        "ExperimentHub",
         "HDF5Array",
         "Rhdf5lib",
         "basilisk",
@@ -5641,12 +5381,10 @@
     "OutSplice": [
         "Repitools",
         "Ringo",
-        "annotate",
         "genefilter"
     ],
     "OVESEG": [],
     "PAA": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -5658,7 +5396,6 @@
     "pageRank": [
         "CNEr",
         "TFBSTools",
-        "annotate",
         "motifmatchr"
     ],
     "PAIRADISE": [],
@@ -5666,7 +5403,6 @@
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
-        "annotate",
         "fgsea",
         "genefilter",
         "geneplotter",
@@ -5681,7 +5417,6 @@
         "DOSE",
         "GOSemSim",
         "GSEABase",
-        "annotate",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -5724,7 +5459,6 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "PCAN": [],
@@ -5758,7 +5492,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5766,7 +5499,6 @@
         "mzR"
     ],
     "PECA": [
-        "annotate",
         "genefilter"
     ],
     "peco": [
@@ -5824,14 +5556,12 @@
         "GSEABase",
         "Heatplus",
         "RBGL",
-        "annotate",
         "genefilter",
         "hopach"
     ],
     "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
-        "ExperimentHub",
         "OmaDB"
     ],
     "phyloseq": [
@@ -5854,7 +5584,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "graphite",
         "impute",
         "qvalue"
     ],
@@ -5889,7 +5618,6 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "plotgardener": [
@@ -5938,9 +5666,7 @@
     "preciseTAD": [
         "rCGH"
     ],
-    "PREDA": [
-        "annotate"
-    ],
+    "PREDA": [],
     "primirTSS": [
         "AnnotationFilter",
         "CNEr",
@@ -5951,7 +5677,6 @@
         "Rhdf5lib",
         "TFBSTools",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "rhdf5",
@@ -5959,7 +5684,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -5992,10 +5716,8 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
-        "annotate",
         "genefilter",
         "impute",
         "mzID",
@@ -6004,10 +5726,8 @@
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
-        "annotate",
         "genefilter",
         "impute",
         "mzID",
@@ -6015,11 +5735,9 @@
         "pRoloc"
     ],
     "PROMISE": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "PROPS": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -6030,7 +5748,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "clusterProfiler",
@@ -6048,7 +5765,6 @@
     ],
     "ProteoMM": [],
     "protGear": [
-        "annotate",
         "genefilter"
     ],
     "ProtGenerics": [],
@@ -6064,7 +5780,6 @@
     ],
     "PSMatch": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures"
@@ -6074,7 +5789,6 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -6116,19 +5830,12 @@
     ],
     "QFeatures": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "ProtGenerics"
     ],
-    "qmtools": [
-        "MsCoreUtils"
-    ],
-    "qpgraph": [
-        "annotate"
-    ],
+    "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -6137,12 +5844,10 @@
     ],
     "qsea": [],
     "qsmooth": [
-        "annotate",
         "genefilter",
         "sva"
     ],
     "qsvaR": [
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -6154,7 +5859,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -6272,7 +5976,6 @@
         "GOSemSim",
         "enrichplot",
         "fgsea",
-        "graphite",
         "qvalue"
     ],
     "ReadqPCR": [],
@@ -6304,7 +6007,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "basilisk",
         "basilisk.utils",
         "bumphunter",
@@ -6382,7 +6084,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "impute",
@@ -6394,7 +6095,6 @@
     ],
     "Repitools": [
         "Ringo",
-        "annotate",
         "genefilter"
     ],
     "ReportingTools": [
@@ -6407,7 +6107,6 @@
         "ProtGenerics",
         "RBGL",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -6423,7 +6122,6 @@
         "VariantAnnotation"
     ],
     "restfulSE": [
-        "ExperimentHub",
         "rhdf5client"
     ],
     "retrofit": [],
@@ -6497,7 +6195,6 @@
         "RUVSeq",
         "ShortRead",
         "TFBSTools",
-        "annotate",
         "motifStack"
     ],
     "rifi": [],
@@ -6505,7 +6202,6 @@
         "DTA"
     ],
     "Ringo": [
-        "annotate",
         "genefilter"
     ],
     "Risa": [
@@ -6513,7 +6209,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -6546,7 +6241,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -6576,7 +6270,6 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "annotate",
         "cellHTS2",
         "genefilter",
         "geneplotter",
@@ -6639,7 +6332,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -6730,8 +6422,7 @@
     ],
     "sampleClassifier": [
         "MGFM",
-        "MGFR",
-        "annotate"
+        "MGFR"
     ],
     "sangeranalyseR": [],
     "SARC": [
@@ -6750,7 +6441,6 @@
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "GEOquery",
-        "annotate",
         "genefilter",
         "sva"
     ],
@@ -6798,7 +6488,6 @@
     "scBFA": [
         "DESeq2",
         "SingleCellExperiment",
-        "annotate",
         "genefilter",
         "zinbwave"
     ],
@@ -6822,7 +6511,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "SingleCellExperiment",
-        "annotate",
         "hopach",
         "rhdf5",
         "rhdf5filters",
@@ -6891,7 +6579,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SingleCellSignalR",
-        "annotate",
         "beachmat",
         "bluster",
         "ensembldb",
@@ -6980,7 +6667,6 @@
     ],
     "scp": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "ProtGenerics",
         "QFeatures",
@@ -7059,11 +6745,9 @@
         "RBGL",
         "ReactomePA",
         "SingleCellExperiment",
-        "annotate",
         "enrichplot",
         "fgsea",
         "genefilter",
-        "graphite",
         "meshr",
         "qvalue",
         "schex"
@@ -7071,7 +6755,6 @@
     "scTGIF": [
         "GSEABase",
         "SingleCellExperiment",
-        "annotate",
         "schex"
     ],
     "scTHI": [],
@@ -7137,9 +6820,7 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SemDist": [
-        "annotate"
-    ],
+    "SemDist": [],
     "seq2pathway": [
         "impute"
     ],
@@ -7173,7 +6854,6 @@
     "seqPattern": [],
     "seqsetvis": [],
     "SeqSQC": [
-        "ExperimentHub",
         "SNPRelate",
         "gdsfmt"
     ],
@@ -7182,12 +6862,9 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sesame": [
-        "ExperimentHub"
-    ],
+    "sesame": [],
     "SEtools": [
         "DESeq2",
-        "annotate",
         "genefilter",
         "sechm",
         "sva"
@@ -7200,7 +6877,6 @@
         "GOstats",
         "GSEABase",
         "RBGL",
-        "annotate",
         "genefilter"
     ],
     "SGSeq": [],
@@ -7209,7 +6885,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -7223,7 +6898,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -7243,7 +6917,6 @@
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
-        "annotate",
         "genefilter"
     ],
     "sigFeature": [
@@ -7257,12 +6930,10 @@
     ],
     "signatureSearch": [
         "DOSE",
-        "ExperimentHub",
         "GOSemSim",
         "GSEABase",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -7285,7 +6956,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "annotate",
         "beachmat",
         "consensusOV",
         "ensembldb",
@@ -7301,7 +6971,6 @@
     ],
     "sigsquared": [],
     "SIM": [
-        "annotate",
         "globaltest"
     ],
     "SIMAT": [
@@ -7311,7 +6980,6 @@
     ],
     "SimBindProfiles": [
         "Ringo",
-        "annotate",
         "genefilter"
     ],
     "SimBu": [
@@ -7325,7 +6993,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "SIMD": [],
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
@@ -7363,7 +7030,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "DropletUtils",
-        "ExperimentHub",
         "GSEABase",
         "GSVA",
         "HDF5Array",
@@ -7376,7 +7042,6 @@
         "SingleR",
         "TSCAN",
         "TrajectoryUtils",
-        "annotate",
         "basilisk",
         "basilisk.utils",
         "batchelor",
@@ -7415,8 +7080,7 @@
         "sparseMatrixStats"
     ],
     "singscore": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "SiPSiC": [
         "SingleCellExperiment"
@@ -7427,7 +7091,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -7441,8 +7104,7 @@
     ],
     "slalom": [
         "GSEABase",
-        "SingleCellExperiment",
-        "annotate"
+        "SingleCellExperiment"
     ],
     "slingshot": [
         "SingleCellExperiment",
@@ -7456,7 +7118,6 @@
     ],
     "snapCGH": [
         "GLAD",
-        "annotate",
         "genefilter",
         "tilingArray"
     ],
@@ -7526,7 +7187,6 @@
         "BiocSet",
         "DelayedMatrixStats",
         "GSEABase",
-        "annotate",
         "sparseMatrixStats"
     ],
     "sparseMatrixStats": [],
@@ -7561,7 +7221,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "bluster",
         "genefilter",
@@ -7583,7 +7242,6 @@
         "ProtGenerics",
         "TFBSTools",
         "VariantAnnotation",
-        "annotate",
         "biovizBase",
         "ensembldb",
         "motifmatchr"
@@ -7594,7 +7252,6 @@
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "ProtGenerics"
     ],
     "SpectralTAD": [
@@ -7618,7 +7275,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "annotate",
         "genefilter"
     ],
     "SpidermiR": [],
@@ -7634,10 +7290,8 @@
     ],
     "SpliceWiz": [
         "DelayedMatrixStats",
-        "ExperimentHub",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -7646,8 +7300,7 @@
     "SplicingFactory": [],
     "SplicingGraphs": [],
     "splineTimeR": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "SPLINTER": [
         "AnnotationFilter",
@@ -7695,9 +7348,7 @@
         "ensembldb"
     ],
     "ssize": [],
-    "sSNAPPY": [
-        "graphite"
-    ],
+    "sSNAPPY": [],
     "ssPATHS": [],
     "ssviz": [],
     "stageR": [],
@@ -7712,14 +7363,12 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "annotate",
         "cellHTS2",
         "genefilter",
         "splots"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "graphite"
+        "SpidermiR"
     ],
     "Statial": [
         "SingleCellExperiment",
@@ -7761,7 +7410,6 @@
     "survcomp": [],
     "survtype": [],
     "sva": [
-        "annotate",
         "genefilter"
     ],
     "svaNUMT": [
@@ -7786,7 +7434,6 @@
     ],
     "synapter": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -7821,7 +7468,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "tanggle": [],
     "TAPseq": [],
     "target": [],
     "TargetDecoy": [
@@ -7841,7 +7487,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "genefilter",
         "rhdf5",
@@ -7880,7 +7525,6 @@
         "SingleCellExperiment"
     ],
     "tenXplore": [
-        "ExperimentHub",
         "ontoProc",
         "restfulSE",
         "rhdf5client"
@@ -7895,8 +7539,7 @@
     ],
     "TFARM": [],
     "TFBSTools": [
-        "CNEr",
-        "annotate"
+        "CNEr"
     ],
     "TFEA.ChIP": [],
     "TFHAZ": [
@@ -7904,20 +7547,16 @@
         "ORFik"
     ],
     "TFutils": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
     "tidySummarizedExperiment": [],
-    "tigre": [
-        "annotate"
-    ],
+    "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
-        "annotate",
         "genefilter"
     ],
     "timecourse": [
@@ -7944,8 +7583,7 @@
         "impute"
     ],
     "TissueEnrich": [
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "TitanCNA": [
         "VariantAnnotation"
@@ -7969,7 +7607,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "annotate",
         "beachmat",
         "rhdf5",
         "rhdf5filters",
@@ -7981,12 +7618,10 @@
     "TOP": [
         "ClassifyR",
         "MultiAssayExperiment",
-        "annotate",
         "genefilter"
     ],
     "topdownr": [
         "MSnbase",
-        "MsCoreUtils",
         "ProtGenerics",
         "Rhdf5lib",
         "impute",
@@ -8084,7 +7719,6 @@
         "sparseMatrixStats"
     ],
     "trigger": [
-        "annotate",
         "genefilter",
         "qvalue",
         "sva"
@@ -8126,7 +7760,6 @@
         "ensemblVEP",
         "ensembldb"
     ],
-    "tweeDEseq": [],
     "twilight": [],
     "txcutr": [],
     "tximeta": [
@@ -8148,7 +7781,6 @@
         "DESeq2",
         "Rbowtie2",
         "ShortRead",
-        "annotate",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -8161,9 +7793,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
@@ -8217,7 +7847,6 @@
         "VariantAnnotation"
     ],
     "VaSP": [
-        "annotate",
         "ballgown",
         "genefilter",
         "sva"
@@ -8252,9 +7881,7 @@
         "fgsea"
     ],
     "vissE": [
-        "ExperimentHub",
-        "GSEABase",
-        "annotate"
+        "GSEABase"
     ],
     "Voyager": [
         "BiocNeighbors",
@@ -8297,7 +7924,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -8328,7 +7954,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -8345,7 +7970,6 @@
     ],
     "XDE": [
         "GeneMeta",
-        "annotate",
         "genefilter",
         "siggenes"
     ],
@@ -8384,7 +8008,6 @@
         "GEOquery",
         "HDF5Array",
         "Rhdf5lib",
-        "annotate",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -8405,15 +8028,12 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "annotate",
-        "graphite",
         "pathview",
         "variancePartition"
     ],
     "zFPKM": [],
     "zinbwave": [
         "SingleCellExperiment",
-        "annotate",
         "genefilter"
     ],
     "ZygosityPredictor": [
