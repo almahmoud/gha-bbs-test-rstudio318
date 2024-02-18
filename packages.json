@@ -693,9 +693,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
@@ -764,7 +762,6 @@
         "ggbio",
         "qvalue"
     ],
-    "branchpointer": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
@@ -1087,7 +1084,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "globaltest",
         "impute",
         "lumi",
         "marray",
@@ -2003,7 +1999,6 @@
     ],
     "dir.expiry": [],
     "discordant": [],
-    "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2152,7 +2147,6 @@
         "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
-        "globaltest",
         "pathview",
         "rhdf5",
         "rhdf5filters"
@@ -2267,7 +2261,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "Modstrings",
         "tRNA",
         "tRNAdbImport"
     ],
@@ -2389,9 +2382,7 @@
         "metapod"
     ],
     "factDesign": [],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -2928,10 +2919,7 @@
         "rhdf5filters"
     ],
     "glmSparseNet": [],
-    "GlobalAncova": [
-        "globaltest"
-    ],
-    "globaltest": [],
+    "GlobalAncova": [],
     "GloScope": [
         "SingleCellExperiment"
     ],
@@ -3676,7 +3664,6 @@
         "scater",
         "scuttle"
     ],
-    "megadepth": [],
     "Melissa": [],
     "memes": [
         "universalmotif"
@@ -4115,7 +4102,6 @@
     "MODA": [
         "impute"
     ],
-    "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
         "Rhdf5lib",
@@ -4125,7 +4111,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "genefilter"
     ],
@@ -4574,7 +4559,6 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "NormalyzerDE": [],
     "NormqPCR": [
         "ReadqPCR"
     ],
@@ -4643,7 +4627,6 @@
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
-    "oncoscanR": [],
     "OncoScore": [],
     "OncoSimulR": [],
     "onlineFDR": [],
@@ -4867,7 +4850,6 @@
         "hopach"
     ],
     "PhIPData": [],
-    "PhosR": [],
     "PhyloProfile": [],
     "phyloseq": [
         "Rhdf5lib",
@@ -5414,7 +5396,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -5486,7 +5467,6 @@
     "RNAmodR": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "ProtGenerics",
         "biovizBase",
         "ensembldb"
@@ -5494,7 +5474,6 @@
     "RNAmodR.AlkAnilineSeq": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "ProtGenerics",
         "RNAmodR",
         "biovizBase",
@@ -5503,7 +5482,6 @@
     "RNAmodR.ML": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "ProtGenerics",
         "RNAmodR",
         "biovizBase",
@@ -5512,7 +5490,6 @@
     "RNAmodR.RiboMethSeq": [
         "AnnotationFilter",
         "Gviz",
-        "Modstrings",
         "ProtGenerics",
         "RNAmodR",
         "biovizBase",
@@ -5625,7 +5602,6 @@
     "SC3": [
         "SingleCellExperiment"
     ],
-    "Scale4C": [],
     "SCAN.UPC": [
         "GEOquery",
         "genefilter",
@@ -5736,7 +5712,6 @@
     "scds": [
         "SingleCellExperiment"
     ],
-    "SCFA": [],
     "scFeatures": [
         "AUCell",
         "AnnotationFilter",
@@ -6080,9 +6055,7 @@
     ],
     "SigsPack": [],
     "sigsquared": [],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SIMAT": [
         "ProtGenerics",
         "Rhdf5lib",
@@ -6367,7 +6340,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
         "AnnotationFilter",
@@ -6440,7 +6412,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "Streamer": [
         "RBGL"
     ],
@@ -6721,15 +6692,11 @@
         "siggenes"
     ],
     "tripr": [],
-    "tRNA": [
-        "Modstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
-        "Modstrings",
         "tRNA"
     ],
     "TSAR": [],
@@ -6907,7 +6874,6 @@
         "DelayedMatrixStats"
     ],
     "widgetTools": [],
-    "wiggleplotr": [],
     "wpm": [],
     "wppi": [
         "OmnipathR"
