@@ -435,7 +435,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -559,7 +558,6 @@
     "BEAT": [
         "ShortRead"
     ],
-    "BEclear": [],
     "beer": [
         "PhIPData"
     ],
@@ -627,7 +625,6 @@
         "sparseMatrixStats",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioassayR": [],
     "bioCancer": [
         "DOSE",
@@ -899,7 +896,6 @@
     "BUSseq": [
         "SingleCellExperiment"
     ],
-    "CAEN": [],
     "CAFE": [
         "AnnotationFilter",
         "OrganismDbi",
@@ -3581,7 +3577,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [],
     "iasva": [],
@@ -3897,7 +3892,6 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -3932,7 +3926,6 @@
         "mzR",
         "xcms"
     ],
-    "loci2path": [],
     "logicFS": [],
     "LoomExperiment": [
         "HDF5Array",
@@ -4172,7 +4165,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "MEDIPS": [],
     "megadepth": [],
     "Melissa": [
         "BPRMeth"
@@ -4214,7 +4206,6 @@
         "rols",
         "struct"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationFilter",
         "KEGGgraph",
@@ -5302,7 +5293,6 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oposSOM": [],
     "oppar": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -5350,7 +5340,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -6527,7 +6516,6 @@
         "sparseMatrixStats"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [],
@@ -6729,7 +6717,6 @@
         "SingleCellExperiment",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationFilter",
         "BiocNeighbors",
@@ -6822,7 +6809,6 @@
         "DESeq2"
     ],
     "seqPattern": [],
-    "seqsetvis": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -7372,7 +7358,6 @@
     ],
     "SummarizedBenchmark": [],
     "supersigs": [],
-    "surfaltr": [],
     "survcomp": [],
     "survtype": [],
     "sva": [
@@ -7435,7 +7420,6 @@
         "rhdf5filters"
     ],
     "TAPseq": [],
-    "target": [],
     "TargetDecoy": [
         "ProtGenerics",
         "Rhdf5lib",
