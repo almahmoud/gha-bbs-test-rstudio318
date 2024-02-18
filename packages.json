@@ -155,8 +155,7 @@
         "rGREAT"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [],
     "atSNP": [],
@@ -285,7 +284,6 @@
         "biodb"
     ],
     "BioMVCClass": [],
-    "biomvRCNS": [],
     "BioNAR": [
         "impute"
     ],
@@ -364,8 +362,7 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "cageminer": [
         "BioNERO",
@@ -376,8 +373,7 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "CAMERA": [
         "MSnbase",
@@ -532,12 +528,8 @@
         "sva",
         "wateRmelon"
     ],
-    "chihaya": [],
-    "chimeraviz": [],
     "ChIPComp": [],
-    "ChIPpeakAnno": [
-        "InteractionSet"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
@@ -964,12 +956,10 @@
         "qvalue"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "DESeq2": [],
     "DEsingle": [],
-    "DESpace": [],
     "DEsubs": [
         "DESeq2",
         "qvalue"
@@ -1006,7 +996,6 @@
         "DRIMSeq"
     ],
     "diffHic": [
-        "InteractionSet",
         "csaw",
         "metapod"
     ],
@@ -1061,7 +1050,6 @@
     ],
     "DRIMSeq": [],
     "DriverNet": [],
-    "DropletUtils": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
@@ -1087,9 +1075,7 @@
         "qvalue",
         "sva"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "EGAD": [
         "GEOquery",
         "impute"
@@ -1208,7 +1194,6 @@
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
-        "InteractionSet",
         "csaw",
         "metapod"
     ],
@@ -1262,7 +1247,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1505,7 +1489,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneStructureTools": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "DESeq2"
@@ -1518,9 +1501,7 @@
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicInteractions": [
-        "InteractionSet"
-    ],
+    "GenomicInteractions": [],
     "GenomicOZone": [
         "ggbio"
     ],
@@ -1637,8 +1618,7 @@
         "les"
     ],
     "GUIDEseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "Guitar": [],
     "GWASTools": [
@@ -1664,35 +1644,25 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [
-        "InteractionSet"
-    ],
+    "HiCExperiment": [],
     "HiContacts": [
-        "HiCExperiment",
-        "InteractionSet"
+        "HiCExperiment"
     ],
     "HiCool": [
         "HiCExperiment",
-        "InteractionSet",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
+    "hicVennDiagram": [],
     "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -1700,7 +1670,6 @@
     "HIREewas": [],
     "HiTC": [],
     "hmdbQuery": [],
-    "hoodscanR": [],
     "hopach": [],
     "hpar": [],
     "HTSFilter": [
@@ -1783,7 +1752,6 @@
         "ggbio"
     ],
     "interacCircos": [],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
@@ -1816,8 +1784,6 @@
         "DESeq2"
     ],
     "iSEEhex": [],
-    "iSEEhub": [],
-    "iSEEindex": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -1881,7 +1847,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "LoomExperiment": [],
     "lpNet": [],
     "LRcell": [],
     "lumi": [
@@ -1943,9 +1908,7 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "mariner": [
-        "InteractionSet"
-    ],
+    "mariner": [],
     "marray": [],
     "martini": [],
     "maSigPro": [],
@@ -2375,8 +2338,7 @@
     "multicrispr": [],
     "MultiDataSet": [],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "MultiRNAflow": [
         "DESeq2",
@@ -2403,7 +2365,6 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "InteractionSet",
         "csaw",
         "metapod",
         "trackViewer"
@@ -2481,9 +2442,7 @@
         "qvalue"
     ],
     "NPARC": [],
-    "nullranges": [
-        "InteractionSet"
-    ],
+    "nullranges": [],
     "occugene": [],
     "octad": [
         "DESeq2"
@@ -2678,7 +2637,6 @@
         "impute",
         "qvalue"
     ],
-    "PING": [],
     "pipeComp": [
         "metapod",
         "scran"
@@ -2692,9 +2650,7 @@
     ],
     "plotGrouper": [],
     "PLPE": [],
-    "plyinteractions": [
-        "InteractionSet"
-    ],
+    "plyinteractions": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -2777,7 +2733,6 @@
         "MSnbase",
         "impute"
     ],
-    "Pviz": [],
     "PWMEnrich": [],
     "pwOmics": [
         "STRINGdb"
@@ -2900,8 +2855,7 @@
     ],
     "RedisParam": [],
     "REDseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "RegionalST": [
         "BayesSpace",
@@ -3110,9 +3064,7 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "Cepo",
         "hopach"
@@ -3138,7 +3090,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scider": [],
     "scifer": [
         "RProtoBufLib",
         "cytolib",
@@ -3155,7 +3106,6 @@
         "flowCore"
     ],
     "scPipe": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -3238,9 +3188,7 @@
         "genefilter",
         "sva"
     ],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -3305,7 +3253,6 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -3358,7 +3305,6 @@
         "iPAC"
     ],
     "Spaniel": [
-        "DropletUtils",
         "metapod",
         "scran"
     ],
@@ -3376,16 +3322,14 @@
         "scran"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "InteractionSet"
+        "GenomicInteractions"
     ],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPEM": [],
     "SPIA": [
@@ -3469,10 +3413,8 @@
     "systemPipeTools": [
         "DESeq2"
     ],
-    "tadar": [],
     "TADCompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "TAPseq": [],
     "TargetDecoy": [],
@@ -3555,9 +3497,7 @@
     ],
     "TPP": [],
     "tracktables": [],
-    "trackViewer": [
-        "InteractionSet"
-    ],
+    "trackViewer": [],
     "tradeSeq": [],
     "transcriptogramer": [],
     "transformGamPoi": [],
@@ -3595,7 +3535,6 @@
         "convert",
         "marray"
     ],
-    "TVTB": [],
     "twilight": [],
     "UMI4Cats": [
         "DESeq2"
@@ -3647,7 +3586,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "InteractionSet",
         "csaw",
         "metapod"
     ],
