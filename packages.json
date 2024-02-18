@@ -367,7 +367,6 @@
         "scran"
     ],
     "bayNorm": [],
-    "BBCAnalyzer": [],
     "BCRANK": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -848,7 +847,6 @@
         "metapod",
         "scran"
     ],
-    "chromstaR": [],
     "chromVAR": [],
     "CHRONOS": [
         "RBGL"
@@ -1180,7 +1178,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -1531,7 +1528,6 @@
         "rhdf5filters"
     ],
     "DNAshapeR": [],
-    "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -1650,8 +1646,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "ensemblVEP": [],
-    "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
@@ -1800,7 +1794,6 @@
         "genomation",
         "impute"
     ],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "SC3",
@@ -2367,7 +2360,6 @@
         "rhdf5filters"
     ],
     "Heatplus": [],
-    "HelloRanges": [],
     "hermes": [
         "DESeq2"
     ],
@@ -2854,7 +2846,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "Melissa": [],
     "MeSHDbi": [],
     "meshes": [
         "DOSE",
@@ -3131,9 +3122,7 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miQC": [],
     "MIRA": [
         "HDF5Array",
@@ -3409,7 +3398,6 @@
         "variancePartition"
     ],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MWASTools": [
         "KEGGgraph",
         "qvalue"
@@ -3442,7 +3430,6 @@
         "rhdf5filters"
     ],
     "nanotatoR": [],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -3577,9 +3564,7 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -3913,7 +3898,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "Rhdf5lib",
@@ -4140,9 +4124,7 @@
         "ggbio"
     ],
     "ReQON": [],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "restfulSE": [],
     "retrofit": [],
     "ReUseData": [
@@ -4217,7 +4199,6 @@
         "STRINGdb"
     ],
     "RIVER": [],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [],
@@ -5107,8 +5088,7 @@
         "marray"
     ],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "twilight": [],
     "UCell": [],
@@ -5132,7 +5112,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VanillaICE": [],
     "VarCon": [],
     "variancePartition": [],
     "VariantExperiment": [
@@ -5277,6 +5256,5 @@
     "zFPKM": [],
     "zinbwave": [
         "genefilter"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
