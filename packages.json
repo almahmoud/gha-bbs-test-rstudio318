@@ -668,7 +668,6 @@
         "hopach",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO"
     ],
@@ -1373,7 +1372,6 @@
         "qvalue",
         "sva"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "celda",
         "metapod",
@@ -1569,7 +1567,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "DNAfusion": [],
     "DNAshapeR": [],
     "DominoEffect": [],
     "doppelgangR": [
@@ -3485,14 +3482,11 @@
         "metapod",
         "scran"
     ],
-    "MungeSumstats": [],
     "muscat": [
         "DESeq2",
         "variancePartition"
     ],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MWASTools": [
         "KEGGgraph",
@@ -3995,7 +3989,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "ProteoDisco": [],
     "protGear": [
         "genefilter"
     ],
@@ -4292,7 +4285,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "RUVSeq",
         "TFBSTools",
@@ -4570,7 +4562,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scoreInvHap": [],
     "scp": [],
     "scPipe": [
         "DropletUtils",
@@ -5025,7 +5016,6 @@
         "rols",
         "struct"
     ],
-    "StructuralVariantAnnotation": [],
     "subSeq": [
         "qvalue"
     ],
@@ -5035,12 +5025,8 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "GOSemSim",
