@@ -30,7 +30,6 @@
         "Rhdf5lib",
         "mzR"
     ],
-    "ADImpute": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -312,7 +311,6 @@
         "RBGL",
         "genefilter"
     ],
-    "AUCell": [],
     "ballgown": [
         "genefilter",
         "sva"
@@ -428,7 +426,6 @@
         "RBGL",
         "biocViews"
     ],
-    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -591,7 +588,6 @@
     "bumphunter": [],
     "BUScorrect": [],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "RBGL",
@@ -1366,7 +1362,6 @@
         "rhdf5filters",
         "sva"
     ],
-    "demuxSNP": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -1378,7 +1373,6 @@
         "impute",
         "mzR"
     ],
-    "DepecheR": [],
     "derfinder": [
         "bumphunter",
         "qvalue"
@@ -2782,7 +2776,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEB": [],
     "MeSHDbi": [],
     "meshes": [
         "DOSE",
@@ -2980,7 +2973,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [
         "Rhdf5lib",
@@ -3386,7 +3378,6 @@
         "RBGL"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "RBGL",
         "epiNEM",
@@ -4235,7 +4226,6 @@
         "MGFM",
         "MGFR"
     ],
-    "SARC": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -4299,7 +4289,6 @@
     ],
     "scDDboost": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "HDF5Array",
         "Rhdf5lib",
@@ -4327,7 +4316,6 @@
         "metapod",
         "scran"
     ],
-    "scMET": [],
     "scmeth": [
         "HDF5Array",
         "Rhdf5lib",
@@ -4361,7 +4349,6 @@
     ],
     "scReClassify": [],
     "scRecover": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "TrajectoryUtils",
         "slingshot"
@@ -4650,7 +4637,6 @@
         "rhdf5filters",
         "scran"
     ],
-    "sparrow": [],
     "sparsenetgls": [],
     "spaSim": [
         "SpatialExperiment"
@@ -4851,7 +4837,6 @@
         "DESeq2",
         "SCBN"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "restfulSE"
     ],
@@ -4962,7 +4947,6 @@
         "flowCore",
         "hopach"
     ],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "qvalue",
