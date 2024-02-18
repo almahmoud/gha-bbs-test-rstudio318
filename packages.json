@@ -461,9 +461,7 @@
         "impute",
         "mixOmics"
     ],
-    "altcdfenvs": [
-        "hypergraph"
-    ],
+    "altcdfenvs": [],
     "AMARETTO": [
         "AnnotationHub",
         "DelayedArray",
@@ -1343,7 +1341,6 @@
         "dearseq",
         "decontam",
         "genefilter",
-        "metagenomeSeq",
         "mia",
         "mixOmics",
         "phyloseq",
@@ -1390,7 +1387,6 @@
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
         "rsbml"
     ],
     "bigmelon": [
@@ -2330,7 +2326,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biomaRt",
-        "gaga",
         "rtracklayer"
     ],
     "CATALYST": [
@@ -2370,7 +2365,6 @@
         "GSEABase",
         "MatrixGenerics",
         "RBGL",
-        "RCy3",
         "Rgraphviz",
         "annotate",
         "genefilter"
@@ -2666,7 +2660,6 @@
         "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
-        "RCy3",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -2803,7 +2796,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [
         "DelayedArray",
         "GenomicRanges",
@@ -4591,7 +4583,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TFBSTools",
-        "UniProt.ws",
         "annotate",
         "biomaRt",
         "motifStack",
@@ -4850,7 +4841,6 @@
         "KEGGgraph",
         "NCIgraph",
         "RBGL",
-        "RCy3",
         "Rgraphviz"
     ],
     "DEGreport": [
@@ -5586,7 +5576,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "UniProt.ws",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
@@ -5915,7 +5904,6 @@
         "BiocParallel",
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -6536,7 +6524,6 @@
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "impute"
     ],
     "FastqCleaner": [
@@ -6614,9 +6601,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "fenr": [
         "biomaRt"
     ],
@@ -7083,9 +7068,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gaga": [],
     "gage": [],
-    "gaggle": [],
     "garfield": [],
     "GARS": [
         "BiocIO",
@@ -8280,8 +8263,7 @@
         "sva"
     ],
     "Harshlight": [
-        "altcdfenvs",
-        "hypergraph"
+        "altcdfenvs"
     ],
     "HDF5Array": [
         "DelayedArray",
@@ -8611,10 +8593,8 @@
         "SummarizedExperiment"
     ],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [
         "BiocParallel",
         "DelayedArray",
@@ -9468,7 +9448,6 @@
         "impute",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "BiocParallel",
         "ClassifyR",
@@ -9570,9 +9549,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "AnnotationHub",
         "BSgenome",
@@ -9590,9 +9567,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "BiocParallel",
         "DelayedArray",
@@ -9602,8 +9577,7 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "impute",
-        "metagenomeSeq"
+        "impute"
     ],
     "macat": [
         "annotate"
@@ -9932,9 +9906,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "BiocParallel",
@@ -10122,7 +10094,6 @@
     ],
     "MesKit": [],
     "messina": [],
-    "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
@@ -10207,7 +10178,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "AnnotationFilter",
         "BiocParallel",
@@ -10249,7 +10219,6 @@
         "BiocParallel",
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -10629,7 +10598,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "MetID": [],
     "MetNet": [
         "BiocParallel",
         "DelayedArray",
@@ -10723,7 +10691,6 @@
     "microbiomeDASim": [
         "Rhdf5lib",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -10739,7 +10706,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biomformat",
-        "metagenomeSeq",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -10768,7 +10734,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -11093,8 +11058,7 @@
         "rtracklayer"
     ],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [
         "Rgraphviz"
@@ -11154,8 +11118,7 @@
         "rhdf5filters"
     ],
     "MOGAMUN": [
-        "BiocParallel",
-        "RCy3"
+        "BiocParallel"
     ],
     "mogsa": [
         "GSEABase",
@@ -11311,7 +11274,6 @@
         "motifStack",
         "rtracklayer"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "BiocIO",
         "BiocParallel",
@@ -11385,7 +11347,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "msa": [],
     "MSA2dist": [
         "GenomicRanges"
     ],
@@ -12053,7 +12014,6 @@
     "NCIgraph": [
         "KEGGgraph",
         "RBGL",
-        "RCy3",
         "Rgraphviz"
     ],
     "ncRNAtools": [
@@ -12172,7 +12132,6 @@
         "HDF5Array",
         "MatrixGenerics",
         "RBGL",
-        "RCy3",
         "Rgraphviz",
         "Rhdf5lib",
         "Rhtslib",
@@ -12207,7 +12166,6 @@
         "SummarizedExperiment",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "BiocParallel",
         "DelayedArray",
@@ -12355,8 +12313,7 @@
         "sparseMatrixStats"
     ],
     "odseq": [
-        "kebabs",
-        "msa"
+        "kebabs"
     ],
     "OGRE": [
         "AnnotationFilter",
@@ -14230,7 +14187,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCy3": [],
     "RCyjs": [],
     "ReactomePA": [
         "BiocParallel",
@@ -14493,7 +14449,6 @@
         "Gviz",
         "MatrixGenerics",
         "ProtGenerics",
-        "RCy3",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -15002,7 +14957,6 @@
     ],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
         "ProtGenerics",
@@ -17875,8 +17829,7 @@
         "SummarizedExperiment"
     ],
     "surfaltr": [
-        "biomaRt",
-        "msa"
+        "biomaRt"
     ],
     "survcomp": [],
     "survtype": [
@@ -17958,7 +17911,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "BiocParallel",
         "MSnbase",
@@ -18359,7 +18311,6 @@
         "MatrixGenerics",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -18627,9 +18578,7 @@
         "qvalue",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [
         "GenomicRanges",
         "Rhtslib"
@@ -18954,7 +18903,6 @@
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [
         "BSgenome",
         "BiocIO",
