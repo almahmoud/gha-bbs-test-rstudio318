@@ -2377,7 +2377,6 @@
     ],
     "ggtreeExtra": [],
     "GIGSEA": [],
-    "girafe": [],
     "GISPA": [
         "genefilter"
     ],
@@ -3358,7 +3357,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "MMUPHin": [],
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -3808,7 +3806,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -4074,7 +4071,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "preciseTAD": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores",
@@ -4427,7 +4423,6 @@
     ],
     "rfaRm": [],
     "Rfastp": [],
-    "RgnTX": [],
     "rgoslin": [],
     "rGREAT": [],
     "RGSEA": [],
@@ -4759,7 +4754,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
