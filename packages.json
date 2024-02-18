@@ -299,7 +299,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "gcrma",
         "genefilter"
     ],
@@ -468,7 +467,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "beadarray": [],
     "beadarraySNP": [],
     "BEARscc": [
         "SingleCellExperiment"
@@ -675,9 +673,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "PADOG",
@@ -1191,10 +1187,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNORdt": [
         "CellNOptR",
         "RBGL"
@@ -1219,7 +1212,6 @@
         "Rhdf5lib",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "rhdf5",
         "rhdf5filters"
@@ -1230,14 +1222,11 @@
         "Rhdf5lib",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "rhdf5",
         "rhdf5filters"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -1340,8 +1329,7 @@
     ],
     "CONSTANd": [],
     "contiBAIT": [
-        "GenomicFiles",
-        "exomeCopy"
+        "GenomicFiles"
     ],
     "conumee": [
         "DelayedMatrixStats",
@@ -1362,7 +1350,6 @@
         "Rhdf5lib",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "rhdf5",
         "rhdf5filters"
@@ -1378,7 +1365,6 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
@@ -1771,7 +1757,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "bumphunter",
@@ -1909,7 +1894,6 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -1984,7 +1968,6 @@
         "decoupleR",
         "progeny"
     ],
-    "easylift": [],
     "easyRNASeq": [],
     "EBcoexpress": [],
     "EBSEA": [
@@ -2021,7 +2004,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "EMDomics": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "TFBSTools",
@@ -2081,9 +2063,7 @@
         "qvalue"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "Rhdf5lib",
@@ -2195,7 +2175,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
     ],
@@ -2821,7 +2800,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -2984,7 +2962,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "IgGeneUsage": [],
     "igvR": [],
     "ILoReg": [
         "SingleCellExperiment"
@@ -3366,7 +3343,6 @@
     ],
     "matter": [],
     "MBAmethyl": [],
-    "MBASED": [],
     "MBECS": [
         "Rhdf5lib",
         "biomformat",
@@ -4438,8 +4414,7 @@
     ],
     "pairkat": [],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -4733,7 +4708,6 @@
         "widgetTools"
     ],
     "ProteoDisco": [],
-    "ProteoMM": [],
     "protGear": [
         "genefilter"
     ],
@@ -5706,7 +5680,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "simona": [],
     "simpleSeg": [
         "HDF5Array",
         "Rhdf5lib",
@@ -6336,7 +6309,6 @@
         "RBGL",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
         "RBGL",
@@ -6457,7 +6429,6 @@
         "DelayedMatrixStats"
     ],
     "widgetTools": [],
-    "wpm": [],
     "wppi": [
         "OmnipathR"
     ],
@@ -6500,8 +6471,7 @@
         "RBGL",
         "SomaticSignatures",
         "biovizBase",
-        "ggbio",
-        "gtrellis"
+        "ggbio"
     ],
     "yarn": [
         "DelayedMatrixStats",
