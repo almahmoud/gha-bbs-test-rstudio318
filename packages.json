@@ -58,7 +58,6 @@
         "genefilter",
         "ggbio"
     ],
-    "AHMassBank": [],
     "alabaster": [],
     "ALDEx2": [],
     "AlphaBeta": [],
@@ -79,7 +78,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [],
     "anota": [
         "qvalue"
     ],
@@ -91,7 +89,6 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "apComplex": [],
     "appreci8R": [],
     "ArrayExpress": [],
     "arrayMvout": [
@@ -306,7 +303,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -420,7 +416,6 @@
     ],
     "cellity": [],
     "cellmigRation": [],
-    "CellNOptR": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -568,24 +563,15 @@
         "cytolib",
         "flowCore"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
     "CNVfilteR": [],
     "cnvGSA": [],
-    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -942,7 +928,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
         "GreyListChIP"
@@ -1177,7 +1162,6 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [],
     "FeatSeekR": [],
     "ffpe": [
         "GEOquery",
@@ -1569,7 +1553,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSReg": [],
     "GSRI": [
         "genefilter",
         "les"
@@ -1860,7 +1843,6 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "mariner": [],
     "marray": [],
     "martini": [],
     "maSigPro": [],
@@ -2237,7 +2219,6 @@
         "genefilter",
         "sva"
     ],
-    "msPurity": [],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
@@ -2286,7 +2267,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "multicrispr": [],
     "MultiDataSet": [],
     "multiHiCcompare": [
         "HiCcompare"
@@ -2454,7 +2434,6 @@
     "ORFik": [
         "DESeq2"
     ],
-    "OrganismDbi": [],
     "orthogene": [],
     "orthos": [
         "basilisk",
@@ -2748,7 +2727,6 @@
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
-    "RareVariantVis": [],
     "RBioinf": [],
     "RBM": [
         "marray"
@@ -2915,7 +2893,6 @@
         "splots"
     ],
     "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RNAsense": [
         "qvalue"
     ],
@@ -3154,7 +3131,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [],
     "siggenes": [],
     "sights": [
         "qvalue"
@@ -3312,7 +3288,6 @@
     "stepNorm": [
         "marray"
     ],
-    "Streamer": [],
     "STRINGdb": [],
     "struct": [
         "rols"
@@ -3354,7 +3329,6 @@
         "HiCcompare"
     ],
     "TAPseq": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
