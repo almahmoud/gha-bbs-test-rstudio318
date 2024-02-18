@@ -31,7 +31,6 @@
         "mzR"
     ],
     "ADImpute": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -327,7 +326,6 @@
         "genefilter"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -416,7 +414,6 @@
         "gcrma"
     ],
     "BHC": [],
-    "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
         "GEOquery",
@@ -724,9 +721,7 @@
     ],
     "ccfindR": [],
     "CCPlotR": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "CDI": [],
     "celaref": [
@@ -865,8 +860,7 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -1516,8 +1510,7 @@
     ],
     "DiffBind": [
         "DESeq2",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffcoexp": [
         "impute"
@@ -2163,17 +2156,13 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
         "marray",
         "piano"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
         "marray",
         "piano"
     ],
@@ -2182,7 +2171,6 @@
         "RBGL",
         "biocViews"
     ],
-    "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -3497,7 +3485,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -3594,7 +3581,6 @@
     "netboost": [
         "impute"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -3633,7 +3619,6 @@
         "yarn"
     ],
     "NewWave": [],
-    "nipalsMCIA": [],
     "nnNorm": [
         "marray"
     ],
@@ -3766,7 +3751,6 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "PADOG": [],
     "pageRank": [
         "TFBSTools",
@@ -3938,7 +3922,6 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [],
     "POMA": [
         "DESeq2",
         "RankProd",
@@ -4011,7 +3994,6 @@
         "mzR",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -4866,7 +4848,6 @@
         "QuasR"
     ],
     "SingleR": [],
-    "singscore": [],
     "SiPSiC": [],
     "skewr": [
         "GEOquery",
@@ -5107,7 +5088,6 @@
         "RankProd"
     ],
     "SynMut": [],
-    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
     ],
@@ -5135,7 +5115,6 @@
         "genefilter",
         "rhdf5",
         "rhdf5filters",
-        "singscore",
         "sva"
     ],
     "TCC": [
@@ -5169,7 +5148,6 @@
         "DESeq2",
         "ORFik"
     ],
-    "TFutils": [],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tigre": [],
@@ -5372,7 +5350,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
@@ -5391,8 +5368,7 @@
         "InteractionSet",
         "RBGL",
         "csaw",
-        "metapod",
-        "systemPipeR"
+        "metapod"
     ],
     "waddR": [],
     "wateRmelon": [
@@ -5427,7 +5403,6 @@
         "impute",
         "mzR"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter",
