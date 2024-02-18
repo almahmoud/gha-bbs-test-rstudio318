@@ -3147,7 +3147,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -4521,7 +4520,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scater": [],
     "scatterHatch": [],
     "scBFA": [
         "DESeq2",
