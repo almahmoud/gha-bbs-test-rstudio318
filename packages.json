@@ -231,9 +231,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [
         "DESeq2",
         "qvalue"
@@ -426,9 +424,7 @@
         "pRoloc"
     ],
     "barcodetrackR": [],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "Basic4Cseq": [],
     "BASiCS": [
         "BiocNeighbors",
@@ -519,9 +515,7 @@
     "BEARscc": [
         "SingleCellExperiment"
     ],
-    "BEAT": [
-        "ShortRead"
-    ],
+    "BEAT": [],
     "beer": [
         "PhIPData"
     ],
@@ -1011,9 +1005,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "cellbaseR": [],
     "CellBench": [
         "SingleCellExperiment"
@@ -1196,7 +1188,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "ShortRead",
         "apeglm",
         "chipseq",
         "systemPipeR"
@@ -1207,15 +1198,9 @@
         "enrichplot",
         "qvalue"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
-    "ChIPseqR": [
-        "ShortRead"
-    ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "chipseq": [],
+    "ChIPseqR": [],
+    "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery",
         "frma"
@@ -1260,8 +1245,7 @@
         "universalmotif"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "ShortRead"
+        "Rhisat2"
     ],
     "cisPath": [],
     "CiteFuse": [
@@ -1505,7 +1489,6 @@
         "EDASeq",
         "ProtGenerics",
         "RUVSeq",
-        "ShortRead",
         "ensembldb"
     ],
     "consensusOV": [
@@ -1822,9 +1805,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
@@ -1837,7 +1818,6 @@
     "DaMiRseq": [
         "DESeq2",
         "EDASeq",
-        "ShortRead",
         "genefilter",
         "sva"
     ],
@@ -2059,7 +2039,6 @@
     "DiffBind": [
         "DESeq2",
         "GreyListChIP",
-        "ShortRead",
         "apeglm",
         "systemPipeR"
     ],
@@ -2176,14 +2155,12 @@
         "impute",
         "sva"
     ],
-    "Doscheda": [],
     "DOSE": [
         "GOSemSim",
         "qvalue"
     ],
     "doseR": [],
     "doubletrouble": [
-        "MSA2dist",
         "syntenet"
     ],
     "dreamlet": [
@@ -2244,16 +2221,13 @@
     ],
     "easylift": [],
     "easyRNASeq": [
-        "ShortRead",
         "genomeIntervals"
     ],
     "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
-    "EDASeq": [
-        "ShortRead"
-    ],
+    "EDASeq": [],
     "edge": [
         "genefilter",
         "qvalue",
@@ -2453,7 +2427,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "ShortRead",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -2538,9 +2511,7 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fastreeR": [],
     "fastseg": [],
     "fCCAC": [
@@ -2833,7 +2804,6 @@
         "DaMiRseq",
         "EDASeq",
         "MLSeq",
-        "ShortRead",
         "genefilter",
         "sva"
     ],
@@ -2927,7 +2897,6 @@
     "geneplast": [],
     "geneplotter": [],
     "geneRecommender": [],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -3022,7 +2991,6 @@
         "genefilter",
         "splots"
     ],
-    "getDEE2": [],
     "geva": [],
     "GEWIST": [],
     "gg4way": [
@@ -3063,7 +3031,6 @@
     "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
-        "ShortRead",
         "genomeIntervals"
     ],
     "GISPA": [
@@ -3128,9 +3095,7 @@
         "RBGL",
         "genefilter"
     ],
-    "GOTHiC": [
-        "ShortRead"
-    ],
+    "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
         "AnnotationFilter",
@@ -3143,7 +3108,6 @@
         "iPAC"
     ],
     "GreyListChIP": [],
-    "GRmetrics": [],
     "groHMM": [],
     "GSCA": [
         "Rhdf5lib",
@@ -3312,7 +3276,6 @@
     "hopach": [],
     "hpar": [],
     "HTSeqGenie": [
-        "ShortRead",
         "VariantTools",
         "chipseq",
         "gmapR"
@@ -3325,7 +3288,6 @@
     "iCARE": [],
     "icetea": [
         "DESeq2",
-        "ShortRead",
         "csaw",
         "metapod"
     ],
@@ -3472,7 +3434,6 @@
     ],
     "IONiseR": [
         "Rhdf5lib",
-        "ShortRead",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3702,8 +3663,7 @@
         "qvalue"
     ],
     "magpie": [
-        "DESeq2",
-        "TRESS"
+        "DESeq2"
     ],
     "magrene": [],
     "MAI": [],
@@ -3950,7 +3910,6 @@
         "EDASeq",
         "HDF5Array",
         "Rhdf5lib",
-        "ShortRead",
         "beachmat",
         "bsseq",
         "genefilter",
@@ -4404,7 +4363,6 @@
     "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
-    "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "ProtGenerics",
@@ -4430,7 +4388,6 @@
         "ProtGenerics",
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "AnnotationFilter",
         "MetaboCoreUtils",
@@ -4446,7 +4403,6 @@
         "OrganismDbi",
         "ProtGenerics",
         "RBGL",
-        "ShortRead",
         "biovizBase",
         "easyRNASeq",
         "ensembldb",
@@ -4822,9 +4778,7 @@
     ],
     "NPARC": [],
     "npGSEA": [],
-    "nucleR": [
-        "ShortRead"
-    ],
+    "nucleR": [],
     "nullranges": [
         "InteractionSet",
         "plyranges"
@@ -4840,7 +4794,6 @@
         "RUVSeq",
         "Rhdf5lib",
         "ScaledMatrix",
-        "ShortRead",
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
@@ -4864,7 +4817,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "OmaDB": [],
     "omicade4": [
         "made4"
     ],
@@ -4895,7 +4847,6 @@
     "OncoScore": [],
     "OncoSimulR": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "openCyto": [
         "RBGL",
         "RProtoBufLib",
@@ -4935,7 +4886,6 @@
     "OrderedList": [
         "twilight"
     ],
-    "ORFhunteR": [],
     "ORFik": [
         "DESeq2"
     ],
@@ -4955,9 +4905,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -5128,9 +5076,7 @@
     ],
     "PhIPData": [],
     "PhosR": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [
         "Rhdf5lib",
         "biomformat",
@@ -5198,9 +5144,7 @@
         "impute"
     ],
     "podkat": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "DESeq2",
         "RankProd",
@@ -5254,13 +5198,11 @@
         "DESeq2"
     ],
     "proBAMr": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
         "EnrichedHeatmap",
         "GOSemSim",
-        "ShortRead",
         "chipseq",
         "enrichplot",
         "qvalue",
@@ -5416,8 +5358,7 @@
         "iPAC"
     ],
     "QuasR": [
-        "GenomicFiles",
-        "ShortRead"
+        "GenomicFiles"
     ],
     "QUBIC": [],
     "qvalue": [],
@@ -5433,9 +5374,7 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "R453Plus1Toolbox": [
-        "ShortRead"
-    ],
+    "R453Plus1Toolbox": [],
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
@@ -5470,7 +5409,6 @@
         "rhdf5filters"
     ],
     "Rbec": [
-        "ShortRead",
         "dada2"
     ],
     "RBGL": [],
@@ -5658,7 +5596,6 @@
     ],
     "rfaRm": [],
     "Rfastp": [],
-    "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [
@@ -5707,7 +5644,6 @@
         "CNEr",
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "TFBSTools",
         "motifStack"
     ],
@@ -5761,7 +5697,6 @@
         "DESeq2",
         "apeglm"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GEOquery",
         "GenomicFiles",
@@ -5871,7 +5806,6 @@
         "AnnotationFilter",
         "GenomicFiles",
         "ProtGenerics",
-        "ShortRead",
         "biovizBase",
         "ensembldb"
     ],
@@ -5886,9 +5820,7 @@
     "rScudo": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -5908,8 +5840,7 @@
     "runibic": [],
     "RUVcorr": [],
     "RUVSeq": [
-        "EDASeq",
-        "ShortRead"
+        "EDASeq"
     ],
     "RVS": [],
     "rWikiPathways": [],
@@ -6142,7 +6073,6 @@
         "EDASeq",
         "RUVSeq",
         "Rhdf5lib",
-        "ShortRead",
         "SingleCellExperiment",
         "rhdf5",
         "rhdf5filters"
@@ -6208,7 +6138,6 @@
         "OrganismDbi",
         "ProtGenerics",
         "RBGL",
-        "ShortRead",
         "SingleCellExperiment",
         "biovizBase",
         "ensembldb",
@@ -6293,9 +6222,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "segmentSeq": [
-        "ShortRead"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA"
     ],
@@ -6373,7 +6300,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "ShortRead": [],
     "SIAMCAT": [
         "Rhdf5lib",
         "biomformat",
@@ -6525,8 +6451,7 @@
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
-        "QuasR",
-        "ShortRead"
+        "QuasR"
     ],
     "SingleR": [
         "BiocNeighbors",
@@ -6587,7 +6512,6 @@
         "gdsfmt"
     ],
     "soGGi": [
-        "ShortRead",
         "chipseq"
     ],
     "SomaticSignatures": [
@@ -6743,7 +6667,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
@@ -6793,7 +6716,6 @@
     "standR": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
@@ -6876,9 +6798,7 @@
     ],
     "SynMut": [],
     "syntenet": [],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
     ],
@@ -6946,7 +6866,6 @@
         "SingleCellExperiment"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE",
         "rhdf5client"
     ],
@@ -7060,7 +6979,6 @@
     ],
     "transcriptogramer": [],
     "transcriptR": [
-        "ShortRead",
         "chipseq"
     ],
     "transformGamPoi": [
@@ -7103,7 +7021,6 @@
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
     ],
-    "TRESS": [],
     "tricycle": [
         "BiocNeighbors",
         "BiocSingular",
@@ -7173,7 +7090,6 @@
     ],
     "UMI4Cats": [
         "DESeq2",
-        "ShortRead",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -7285,7 +7201,6 @@
         "InteractionSet",
         "ProtGenerics",
         "RBGL",
-        "ShortRead",
         "apeglm",
         "csaw",
         "ensembldb",
