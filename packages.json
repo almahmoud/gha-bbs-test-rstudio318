@@ -198,8 +198,6 @@
         "GeneOverlap",
         "OrganismDbi",
         "RBGL",
-        "chromVAR",
-        "motifmatchr",
         "projectR",
         "rGREAT"
     ],
@@ -207,15 +205,10 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "InteractionSet",
-        "RBGL",
-        "motifStack"
+        "RBGL"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "ATACseqTFEA": [],
+    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -532,7 +525,6 @@
     ],
     "CCPlotR": [],
     "ccrepe": [],
-    "celaref": [],
     "celda": [
         "metapod",
         "scran"
@@ -654,7 +646,6 @@
         "metapod",
         "scran"
     ],
-    "chromVAR": [],
     "CHRONOS": [
         "RBGL"
     ],
@@ -791,7 +782,6 @@
         "survcomp"
     ],
     "CONSTANd": [],
-    "contiBAIT": [],
     "conumee": [
         "GEOquery",
         "bumphunter",
@@ -979,9 +969,7 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -1251,9 +1239,7 @@
     ],
     "ELMER": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "GEOquery",
         "bumphunter",
@@ -1277,7 +1263,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
         "qvalue"
     ],
     "enrichViewNet": [
@@ -1319,9 +1304,7 @@
         "RBGL",
         "mnem"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "OrganismDbi",
         "RBGL",
@@ -1360,7 +1343,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
         "qvalue"
     ],
     "escape": [
@@ -2204,7 +2186,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "MatrixRider": [],
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
@@ -2507,7 +2488,6 @@
     "MOMA": [
         "qvalue"
     ],
-    "monaLisa": [],
     "monocle": [
         "RBGL",
         "biocViews"
@@ -2533,12 +2513,9 @@
     ],
     "Motif2Site": [],
     "motifbreakR": [
-        "MotifDb",
-        "motifStack"
+        "MotifDb"
     ],
     "MotifDb": [],
-    "motifmatchr": [],
-    "motifStack": [],
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
@@ -2685,7 +2662,6 @@
         "DESeq2",
         "variancePartition"
     ],
-    "musicatk": [],
     "MWASTools": [
         "KEGGgraph",
         "qvalue"
@@ -2699,7 +2675,6 @@
         "RBGL",
         "csaw",
         "metapod",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -2875,9 +2850,7 @@
         "sva"
     ],
     "PADOG": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -3022,7 +2995,6 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [],
     "ppcseq": [],
     "PPInfer": [
         "STRINGdb"
@@ -3048,8 +3020,7 @@
         "GOSemSim",
         "enrichplot",
         "qvalue",
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "progeny": [
         "decoupleR"
@@ -3309,9 +3280,7 @@
         "ggbio"
     ],
     "ribor": [],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -3409,7 +3378,6 @@
     ],
     "ROSeq": [],
     "RProtoBufLib": [],
-    "Rqc": [],
     "rqt": [
         "MultiDataSet",
         "ropls"
@@ -3547,7 +3515,6 @@
         "meshr",
         "qvalue"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "RBGL",
@@ -3732,7 +3699,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "RBGL",
@@ -3765,8 +3731,7 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "InteractionSet",
-        "motifmatchr"
+        "InteractionSet"
     ],
     "specL": [],
     "Spectra": [
@@ -3844,7 +3809,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "GOSemSim",
@@ -3999,8 +3963,6 @@
         "siggenes"
     ],
     "tripr": [],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
