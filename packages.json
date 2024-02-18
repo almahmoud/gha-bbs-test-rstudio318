@@ -34,8 +34,6 @@
         "DESeq2",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "gcrma",
         "genefilter",
@@ -56,21 +54,13 @@
         "DESeq2",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "affycoretools",
         "gcrma",
         "genefilter",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck",
-        "OrganismDbi",
-        "RBGL",
-        "biocViews"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
@@ -111,12 +101,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [
-        "BiocCheck",
-        "OrganismDbi",
-        "RBGL",
-        "biocViews"
-    ],
+    "AnnotationHubData": [],
     "anota": [
         "qvalue"
     ],
@@ -128,13 +113,9 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "apComplex": [
-        "RBGL"
-    ],
+    "apComplex": [],
     "appreci8R": [
-        "GenomicScores",
-        "OrganismDbi",
-        "RBGL"
+        "GenomicScores"
     ],
     "ArrayExpress": [],
     "arrayMvout": [
@@ -173,25 +154,20 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
-        "OrganismDbi",
-        "RBGL",
         "projectR",
         "rGREAT"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
-        "InteractionSet",
-        "RBGL"
+        "InteractionSet"
     ],
     "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
-        "RBGL",
         "genefilter"
     ],
     "ballgown": [
@@ -275,27 +251,18 @@
         "qvalue"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [
-        "RBGL",
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
     "BiocOncoTK": [],
-    "BiocPkgTools": [
-        "RBGL",
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
-    ],
-    "biocViews": [
-        "RBGL"
     ],
     "biodb": [],
     "biodbChebi": [
@@ -335,9 +302,7 @@
         "impute",
         "sva"
     ],
-    "BioNet": [
-        "RBGL"
-    ],
+    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -354,10 +319,7 @@
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
-        "OrganismDbi",
         "QDNAseq",
-        "RBGL",
-        "bsseq",
         "bumphunter",
         "dmrseq",
         "impute",
@@ -375,30 +337,23 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
     "bnem": [
         "CellNOptR",
-        "RBGL",
         "epiNEM",
         "genefilter",
         "mnem",
         "sva"
     ],
     "BOBaFIT": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
-        "OrganismDbi",
-        "RBGL",
         "bumphunter",
         "derfinder",
         "derfinderPlot",
@@ -410,13 +365,10 @@
         "DESeq2"
     ],
     "BSgenomeForge": [],
-    "bsseq": [],
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
     "CAFE": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "CAGEfightR": [
@@ -425,8 +377,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "OrganismDbi",
-        "RBGL",
         "genefilter",
         "ggbio",
         "impute",
@@ -442,7 +392,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
         "impute",
         "mzR",
@@ -452,7 +401,6 @@
         "Category",
         "GenomicDataCommons",
         "Heatplus",
-        "RBGL",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
@@ -460,7 +408,6 @@
         "hopach",
         "phenoTest"
     ],
-    "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM",
@@ -469,13 +416,11 @@
         "flowCore"
     ],
     "Category": [
-        "RBGL",
         "genefilter"
     ],
     "categoryCompare": [
         "Category",
         "GOstats",
-        "RBGL",
         "genefilter"
     ],
     "cbaf": [
@@ -511,15 +456,12 @@
     "cellbaseR": [],
     "cellHTS2": [
         "Category",
-        "RBGL",
         "genefilter",
         "splots"
     ],
     "cellity": [],
     "cellmigRation": [],
-    "CellNOptR": [
-        "RBGL"
-    ],
+    "CellNOptR": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -586,7 +528,6 @@
     "ChAMP": [
         "DMRcate",
         "GEOquery",
-        "bsseq",
         "bumphunter",
         "genefilter",
         "impute",
@@ -604,8 +545,7 @@
     "chimeraviz": [],
     "ChIPComp": [],
     "ChIPpeakAnno": [
-        "InteractionSet",
-        "RBGL"
+        "InteractionSet"
     ],
     "ChIPQC": [
         "DESeq2",
@@ -625,12 +565,8 @@
         "metapod",
         "scran"
     ],
-    "CHRONOS": [
-        "RBGL"
-    ],
+    "CHRONOS": [],
     "cicero": [
-        "RBGL",
-        "biocViews",
         "monocle"
     ],
     "circRNAprofiler": [
@@ -666,7 +602,6 @@
     ],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -683,20 +618,16 @@
         "flowCore"
     ],
     "CNORdt": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNORfeeder": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNORfuzzy": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNORode": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNTools": [
         "genefilter"
@@ -715,10 +646,8 @@
         "gdsfmt"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
-    "CoGAPS": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -857,7 +786,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "cTRAP": [],
     "CTSV": [
         "qvalue"
     ],
@@ -904,14 +832,12 @@
     "cytolib": [
         "RProtoBufLib"
     ],
-    "cytomapper": [],
     "cytoMEM": [
         "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowClust",
@@ -924,7 +850,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowAI",
@@ -936,7 +861,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowAI",
@@ -945,9 +869,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [
@@ -973,7 +895,6 @@
         "widgetTools"
     ],
     "dce": [
-        "RBGL",
         "epiNEM",
         "mnem"
     ],
@@ -1023,8 +944,7 @@
     "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RBGL"
+        "NCIgraph"
     ],
     "DEGreport": [
         "DESeq2"
@@ -1045,7 +965,6 @@
     ],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "genefilter",
         "sva"
     ],
@@ -1064,8 +983,6 @@
         "qvalue"
     ],
     "derfinderPlot": [
-        "OrganismDbi",
-        "RBGL",
         "bumphunter",
         "derfinder",
         "ggbio",
@@ -1073,15 +990,13 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "InteractionSet",
-        "RBGL"
+        "InteractionSet"
     ],
     "DESeq2": [],
     "DEsingle": [],
     "DESpace": [],
     "DEsubs": [
         "DESeq2",
-        "RBGL",
         "qvalue"
     ],
     "DEWSeq": [
@@ -1142,7 +1057,6 @@
     "DMRcaller": [],
     "DMRcate": [
         "GEOquery",
-        "bsseq",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -1151,7 +1065,6 @@
         "siggenes"
     ],
     "dmrseq": [
-        "bsseq",
         "bumphunter"
     ],
     "DNAshapeR": [],
@@ -1181,9 +1094,7 @@
         "GEOquery",
         "qvalue"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "DTA": [],
     "dyebias": [
         "marray"
@@ -1272,36 +1183,24 @@
     ],
     "epimutacions": [
         "GEOquery",
-        "OrganismDbi",
-        "RBGL",
         "bumphunter",
         "genefilter",
         "minfi",
         "siggenes"
     ],
     "epiNEM": [
-        "RBGL",
         "mnem"
     ],
     "EpiTxDb": [],
     "epivizr": [
-        "OrganismDbi",
-        "RBGL",
         "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
-        "OrganismDbi",
-        "RBGL",
         "epivizrData"
     ],
-    "epivizrData": [
-        "OrganismDbi",
-        "RBGL"
-    ],
+    "epivizrData": [],
     "epivizrStandalone": [
-        "OrganismDbi",
-        "RBGL",
         "bumphunter",
         "epivizr",
         "epivizrData"
@@ -1309,10 +1208,7 @@
     "erccdashboard": [
         "qvalue"
     ],
-    "erma": [
-        "OrganismDbi",
-        "RBGL"
-    ],
+    "erma": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -1330,7 +1226,6 @@
     "escheR": [],
     "esetVis": [],
     "EventPointer": [
-        "RBGL",
         "qvalue"
     ],
     "EWCE": [
@@ -1340,13 +1235,7 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck",
-        "OrganismDbi",
-        "RBGL",
-        "biocViews"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -1387,9 +1276,7 @@
         "minfi",
         "siggenes"
     ],
-    "fgga": [
-        "RBGL"
-    ],
+    "fgga": [],
     "FGNet": [],
     "FilterFFPE": [],
     "FindIT2": [
@@ -1404,7 +1291,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
         "impute",
         "mzR",
@@ -1412,8 +1298,6 @@
     ],
     "FLAMES": [
         "DropletUtils",
-        "OrganismDbi",
-        "RBGL",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1477,7 +1361,6 @@
         "flowViz"
     ],
     "flowGate": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -1518,7 +1401,6 @@
         "flowCore"
     ],
     "flowStats": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -1544,7 +1426,6 @@
         "flowCore"
     ],
     "flowVS": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -1554,7 +1435,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -1590,8 +1470,7 @@
         "flowViz"
     ],
     "gatom": [
-        "BioNet",
-        "RBGL"
+        "BioNet"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -1626,11 +1505,7 @@
         "marray",
         "piano"
     ],
-    "gDRstyle": [
-        "BiocCheck",
-        "RBGL",
-        "biocViews"
-    ],
+    "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1678,15 +1553,11 @@
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicInteractionNodes": [
-        "RBGL"
-    ],
+    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "InteractionSet"
     ],
     "GenomicOZone": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "GenomicPlot": [
@@ -1715,7 +1586,6 @@
     "gep2pep": [],
     "gespeR": [
         "Category",
-        "RBGL",
         "cellHTS2",
         "genefilter",
         "splots"
@@ -1725,12 +1595,8 @@
     "gg4way": [
         "DESeq2"
     ],
-    "ggbio": [
-        "OrganismDbi",
-        "RBGL"
-    ],
+    "ggbio": [],
     "ggcyto": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -1745,7 +1611,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "ggspavis": [],
     "ggtreeExtra": [],
     "GIGSEA": [],
     "GISPA": [
@@ -1760,7 +1625,6 @@
     "GmicR": [
         "Category",
         "GOstats",
-        "RBGL",
         "genefilter",
         "impute"
     ],
@@ -1773,9 +1637,7 @@
     ],
     "GOfuncR": [],
     "GOSemSim": [],
-    "GOSim": [
-        "RBGL"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "GOSemSim",
@@ -1786,7 +1648,6 @@
     "goSTAG": [],
     "GOstats": [
         "Category",
-        "RBGL",
         "genefilter"
     ],
     "GPA": [],
@@ -1799,7 +1660,6 @@
     ],
     "GreyListChIP": [],
     "groHMM": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1810,10 +1670,7 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSReg": [
-        "OrganismDbi",
-        "RBGL"
-    ],
+    "GSReg": [],
     "GSRI": [
         "genefilter",
         "les"
@@ -1822,8 +1679,7 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "InteractionSet",
-        "RBGL"
+        "InteractionSet"
     ],
     "Guitar": [],
     "GWASTools": [
@@ -1849,7 +1705,6 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCBricks": [],
     "HiCcompare": [
         "InteractionSet"
     ],
@@ -1915,20 +1770,16 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "RBGL",
         "genefilter",
         "pcaExplorer"
     ],
     "idr2d": [],
     "IFAA": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -1946,9 +1797,7 @@
         "DOSE",
         "GEOquery",
         "GOSemSim",
-        "OrganismDbi",
         "Pigengene",
-        "RBGL",
         "ReactomePA",
         "bumphunter",
         "clusterProfiler",
@@ -1973,8 +1822,6 @@
         "qvalue"
     ],
     "intansv": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "interacCircos": [],
@@ -1982,7 +1829,6 @@
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
-        "RBGL",
         "genefilter"
     ],
     "IntEREst": [
@@ -1995,7 +1841,6 @@
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "IONiseR": [],
     "iPAC": [],
     "iPath": [],
     "IPO": [
@@ -2004,7 +1849,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
         "impute",
         "mzR",
@@ -2048,8 +1892,7 @@
     ],
     "kissDE": [
         "DESeq2",
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [
         "genefilter",
@@ -2078,7 +1921,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
         "impute",
         "mzR",
@@ -2136,7 +1978,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
         "impute",
         "mzR",
@@ -2154,7 +1995,6 @@
     ],
     "marray": [],
     "martini": [],
-    "maser": [],
     "maSigPro": [],
     "maskBAD": [
         "gcrma"
@@ -2170,7 +2010,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "gdsfmt"
@@ -2179,10 +2018,7 @@
     "MCbiclust": [
         "impute"
     ],
-    "mCSEA": [
-        "OrganismDbi",
-        "RBGL"
-    ],
+    "mCSEA": [],
     "mdp": [],
     "mdqc": [],
     "MDTS": [],
@@ -2221,7 +2057,6 @@
     "meshr": [
         "Category",
         "MeSHDbi",
-        "RBGL",
         "genefilter"
     ],
     "MesKit": [],
@@ -2255,7 +2090,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
         "impute",
         "mzR",
@@ -2272,7 +2106,6 @@
     "metaseqR2": [
         "DESeq2",
         "DSS",
-        "bsseq",
         "genefilter",
         "qvalue",
         "survcomp"
@@ -2300,20 +2133,13 @@
     ],
     "methylCC": [
         "GEOquery",
-        "bsseq",
         "bumphunter",
         "genefilter",
         "minfi",
         "siggenes"
     ],
     "methylclock": [
-        "AnnotationHubData",
-        "BiocCheck",
-        "ExperimentHubData",
         "GEOquery",
-        "OrganismDbi",
-        "RBGL",
-        "biocViews",
         "bumphunter",
         "genefilter",
         "impute",
@@ -2351,8 +2177,7 @@
         "marray"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "GEOquery",
@@ -2397,7 +2222,6 @@
         "Category",
         "GEOquery",
         "GOstats",
-        "RBGL",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -2412,9 +2236,7 @@
         "genefilter",
         "siggenes"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -2422,7 +2244,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "RBGL",
         "genefilter",
         "impute"
     ],
@@ -2467,10 +2288,7 @@
     "MOMA": [
         "qvalue"
     ],
-    "monocle": [
-        "RBGL",
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "DOSE",
         "GEOquery",
@@ -2522,8 +2340,6 @@
         "Spectra"
     ],
     "msgbsR": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "msImpute": [
@@ -2651,14 +2467,11 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "InteractionSet",
-        "RBGL",
         "csaw",
         "metapod",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
@@ -2680,11 +2493,9 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RBGL"
+        "KEGGgraph"
     ],
     "nempi": [
-        "RBGL",
         "epiNEM",
         "mnem"
     ],
@@ -2707,14 +2518,12 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
         "Category",
         "GEOquery",
         "GOstats",
-        "RBGL",
         "STRINGdb",
         "bumphunter",
         "genefilter",
@@ -2726,7 +2535,6 @@
     "nnNorm": [
         "marray"
     ],
-    "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -2745,7 +2553,6 @@
         "DESeq2",
         "GSVA"
     ],
-    "OGRE": [],
     "OLIN": [
         "marray"
     ],
@@ -2779,7 +2586,6 @@
     "OncoSimulR": [],
     "onlineFDR": [],
     "openCyto": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowClust",
@@ -2807,9 +2613,7 @@
     "ORFik": [
         "DESeq2"
     ],
-    "OrganismDbi": [
-        "RBGL"
-    ],
+    "OrganismDbi": [],
     "orthogene": [],
     "orthos": [
         "basilisk",
@@ -2870,7 +2674,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "RBGL",
         "genefilter"
     ],
     "PCAN": [],
@@ -2885,7 +2688,6 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "RBGL",
         "RProtoBufLib",
         "cytolib",
         "flowCore",
@@ -2915,8 +2717,6 @@
         "piano"
     ],
     "phemd": [
-        "RBGL",
-        "biocViews",
         "monocle"
     ],
     "phenomis": [
@@ -2929,7 +2729,6 @@
     "phenoTest": [
         "Category",
         "Heatplus",
-        "RBGL",
         "genefilter",
         "hopach"
     ],
@@ -2957,7 +2756,6 @@
     "PloGO2": [
         "Category",
         "GOstats",
-        "RBGL",
         "genefilter"
     ],
     "plotGrouper": [],
@@ -3101,8 +2899,6 @@
     "QUBIC": [],
     "qvalue": [],
     "R3CPET": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "r3Cseq": [
@@ -3130,7 +2926,6 @@
     "RareVariantVis": [
         "GenomicScores"
     ],
-    "RBGL": [],
     "RBioinf": [],
     "RBM": [
         "marray"
@@ -3185,8 +2980,7 @@
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "InteractionSet",
-        "RBGL"
+        "InteractionSet"
     ],
     "RegionalST": [
         "BayesSpace",
@@ -3218,8 +3012,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "OrganismDbi",
-        "RBGL",
         "genefilter",
         "ggbio"
     ],
@@ -3253,8 +3045,6 @@
         "qvalue"
     ],
     "RiboProfiling": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "ribor": [],
@@ -3270,9 +3060,7 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "RBGL",
         "Spectra",
-        "biocViews",
         "impute",
         "mzR",
         "xcms"
@@ -3306,21 +3094,13 @@
     ],
     "RNAinteract": [
         "Category",
-        "RBGL",
         "cellHTS2",
         "genefilter",
         "splots"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RNAsense": [
         "qvalue"
     ],
@@ -3452,9 +3232,7 @@
         "metapod",
         "scran"
     ],
-    "scmeth": [
-        "bsseq"
-    ],
+    "scmeth": [],
     "scone": [],
     "Sconify": [
         "RProtoBufLib",
@@ -3475,8 +3253,6 @@
         "slingshot"
     ],
     "scruff": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
     "scShapes": [],
@@ -3486,7 +3262,6 @@
         "GOSemSim",
         "GOstats",
         "MeSHDbi",
-        "RBGL",
         "ReactomePA",
         "enrichplot",
         "genefilter",
@@ -3494,8 +3269,6 @@
         "qvalue"
     ],
     "scTreeViz": [
-        "OrganismDbi",
-        "RBGL",
         "bumphunter",
         "epivizr",
         "epivizrData",
@@ -3558,7 +3331,6 @@
     "SGCP": [
         "Category",
         "GOstats",
-        "RBGL",
         "genefilter"
     ],
     "shinyepico": [
@@ -3580,10 +3352,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "RBGL",
-        "biocViews"
-    ],
+    "sigFeature": [],
     "siggenes": [],
     "sights": [
         "qvalue"
@@ -3615,9 +3384,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -3657,8 +3424,7 @@
     "slingshot": [],
     "SMAP": [],
     "SMITE": [
-        "BioNet",
-        "RBGL"
+        "BioNet"
     ],
     "snapCGH": [
         "GLAD",
@@ -3678,13 +3444,9 @@
         "gdsfmt"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
-        "RBGL",
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "bsseq"
-    ],
+    "SOMNiBUS": [],
     "SpacePAC": [
         "iPAC"
     ],
@@ -3752,7 +3514,6 @@
     "standR": [],
     "staRank": [
         "Category",
-        "RBGL",
         "cellHTS2",
         "genefilter",
         "splots"
@@ -3767,9 +3528,7 @@
         "marray"
     ],
     "stJoincount": [],
-    "Streamer": [
-        "RBGL"
-    ],
+    "Streamer": [],
     "STRINGdb": [],
     "struct": [
         "rols"
@@ -3842,7 +3601,6 @@
         "DESeq2",
         "SCBN"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -3954,13 +3712,8 @@
     "UMI4Cats": [
         "DESeq2"
     ],
-    "uncoverappLib": [
-        "OrganismDbi",
-        "RBGL"
-    ],
+    "uncoverappLib": [],
     "uSORT": [
-        "RBGL",
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
@@ -3977,8 +3730,7 @@
         "gdsfmt"
     ],
     "VariantFiltering": [
-        "GenomicScores",
-        "RBGL"
+        "GenomicScores"
     ],
     "VaSP": [
         "ballgown",
@@ -4012,7 +3764,6 @@
         "DiffBind",
         "GreyListChIP",
         "InteractionSet",
-        "RBGL",
         "csaw",
         "metapod"
     ],
@@ -4062,8 +3813,6 @@
         "mzR"
     ],
     "YAPSA": [
-        "OrganismDbi",
-        "RBGL",
         "SomaticSignatures",
         "ggbio"
     ],
