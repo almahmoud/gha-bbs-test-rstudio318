@@ -71,7 +71,6 @@
         "RBGL",
         "biocViews"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -145,7 +144,6 @@
         "DESeq2",
         "qvalue"
     ],
-    "ANCOMBC": [],
     "animalcules": [
         "DESeq2"
     ],
@@ -283,14 +281,11 @@
         "metapod",
         "scran"
     ],
-    "bayNorm": [],
     "BCRANK": [],
     "beachmat.hdf5": [],
     "beadarraySNP": [],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
-        "ANCOMBC",
         "DESeq2",
         "dearseq",
         "genefilter",
@@ -553,7 +548,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [],
     "CCPlotR": [],
     "ccrepe": [],
     "celaref": [],
@@ -570,7 +564,6 @@
     ],
     "cellity": [],
     "cellmigRation": [],
-    "CellMixS": [],
     "CellNOptR": [
         "RBGL"
     ],
@@ -654,7 +647,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [],
     "ChIPComp": [],
@@ -853,9 +845,7 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -2030,7 +2020,6 @@
         "qvalue",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2235,7 +2224,6 @@
     "MassArray": [],
     "massiR": [],
     "MassSpecWavelet": [],
-    "mastR": [],
     "MatrixQCvis": [
         "impute"
     ],
@@ -2453,7 +2441,6 @@
     ],
     "microbiomeMarker": [
         "ALDEx2",
-        "ANCOMBC",
         "DESeq2"
     ],
     "MicrobiomeProfiler": [
@@ -2491,7 +2478,6 @@
         "siggenes"
     ],
     "MinimumDistance": [],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2964,7 +2950,6 @@
         "genefilter"
     ],
     "PCAN": [],
-    "PCAtools": [],
     "pcxn": [],
     "PDATK": [
         "CoreGx",
@@ -3287,9 +3272,7 @@
         "InteractionSet",
         "RBGL"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -3505,7 +3488,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scAnnotatR": [],
     "SCANVIS": [],
     "SCArray": [
         "gdsfmt"
@@ -3578,7 +3560,6 @@
     "scran": [
         "metapod"
     ],
-    "scReClassify": [],
     "scRecover": [],
     "scRNAseqApp": [
         "slingshot"
@@ -3741,7 +3722,6 @@
         "DESeq2",
         "DropletUtils",
         "GSVA",
-        "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -3759,7 +3739,6 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "SingleR": [],
     "skewr": [
         "GEOquery",
         "bumphunter",
@@ -3829,7 +3808,6 @@
         "InteractionSet",
         "motifmatchr"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
