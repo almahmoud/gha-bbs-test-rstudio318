@@ -214,7 +214,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "GeneOverlap",
@@ -289,7 +288,6 @@
     "BCRANK": [],
     "beachmat.hdf5": [],
     "beadarraySNP": [],
-    "BEARscc": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -471,7 +469,6 @@
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
-    "BUSpaRse": [],
     "CAFE": [
         "OrganismDbi",
         "RBGL",
@@ -563,7 +560,6 @@
     "ccfindR": [],
     "CCPlotR": [],
     "ccrepe": [],
-    "CDI": [],
     "celaref": [],
     "celda": [
         "metapod",
@@ -576,7 +572,6 @@
         "genefilter",
         "splots"
     ],
-    "CelliD": [],
     "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
@@ -748,7 +743,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.mops": [],
     "CNORdt": [
         "CellNOptR",
         "RBGL"
@@ -769,13 +763,11 @@
         "genefilter"
     ],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "cn.mops"
+        "CopyNumberPlots"
     ],
     "cnvGSA": [],
     "CNViz": [
-        "CopyNumberPlots",
-        "cn.mops"
+        "CopyNumberPlots"
     ],
     "CNVRanger": [
         "GDSArray",
@@ -846,14 +838,11 @@
     "convert": [
         "marray"
     ],
-    "CopyNumberPlots": [
-        "cn.mops"
-    ],
+    "CopyNumberPlots": [],
     "CoreGx": [
         "marray",
         "piano"
     ],
-    "corral": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -1838,7 +1827,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "ggsc": [],
     "ggspavis": [],
     "ggtreeExtra": [],
     "GIGSEA": [],
@@ -2162,7 +2150,6 @@
     ],
     "les": [],
     "lfa": [],
-    "LineagePulse": [],
     "lipidr": [
         "MultiDataSet",
         "impute",
@@ -2366,7 +2353,6 @@
         "mzR",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -2507,7 +2493,6 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "miloR": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -2969,9 +2954,7 @@
         "sva"
     ],
     "pairkat": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
@@ -3037,7 +3020,6 @@
     "PECA": [
         "genefilter"
     ],
-    "peco": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
@@ -3842,7 +3824,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMAP": [],
     "SMITE": [
@@ -4237,7 +4218,6 @@
         "gcrma",
         "qvalue"
     ],
-    "weitrix": [],
     "widgetTools": [],
     "wppi": [
         "OmnipathR"
