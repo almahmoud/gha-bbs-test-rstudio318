@@ -586,7 +586,6 @@
         "XVector",
         "multtest"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -4544,7 +4543,6 @@
         "baySeq"
     ],
     "ClusterSignificance": [],
-    "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
@@ -4882,7 +4880,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogena": [],
     "cogeqc": [
         "Biostrings",
         "GenomeInfoDb",
@@ -6292,7 +6289,6 @@
     "dcGSA": [
         "BiocParallel"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -6718,7 +6714,6 @@
     "DepInfeR": [
         "BiocParallel"
     ],
-    "DEqMS": [],
     "derfinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -9794,7 +9789,6 @@
         "IRanges",
         "XVector"
     ],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "BiocParallel",
         "Biostrings",
@@ -11676,7 +11670,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11743,7 +11736,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "IHW",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -11848,7 +11840,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "ILoReg": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -12721,7 +12712,6 @@
     ],
     "les": [],
     "lfa": [],
-    "limmaGUI": [],
     "LineagePulse": [
         "BiocParallel",
         "ComplexHeatmap",
@@ -16517,7 +16507,6 @@
         "MatrixGenerics",
         "S4Arrays",
         "ScaledMatrix",
-        "SharedObject",
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
@@ -17411,7 +17400,6 @@
         "qvalue"
     ],
     "panp": [],
-    "PANR": [],
     "PanViz": [],
     "pareg": [
         "AnnotationDbi",
@@ -20807,7 +20795,6 @@
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rRDP": [
         "Biostrings",
         "GenomeInfoDb",
@@ -20996,7 +20983,6 @@
     "RUVcorr": [
         "BiocParallel"
     ],
-    "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
         "BiocIO",
@@ -21021,7 +21007,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Rvisdiff": [],
     "RVS": [
         "snpStats"
     ],
@@ -22522,7 +22507,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "AnnotationDbi",
         "BiocIO",
@@ -25052,7 +25036,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "tomoseqr": [],
     "TOP": [
         "AnnotationDbi",
         "BiocParallel",
@@ -25323,7 +25306,6 @@
         "XVector",
         "slingshot"
     ],
-    "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
