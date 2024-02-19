@@ -26,10 +26,6 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "AlpsNMR": [],
-    "AMARETTO": [],
-    "Anaquin": [],
-    "APAlyzer": [],
     "arrayMvout": [
         "lumi",
         "methylumi"
@@ -38,9 +34,7 @@
     "arrayQualityMetrics": [
         "affyPLM"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [],
     "ASSIGN": [],
     "attract": [
@@ -206,7 +200,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CompoundDb": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -344,7 +337,6 @@
     ],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "DEGraph": [],
     "DelayedTensor": [],
     "DeMixT": [],
     "densvis": [],
@@ -357,7 +349,6 @@
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -554,8 +545,7 @@
     "frenchFISH": [],
     "funtooNorm": [],
     "GARS": [
-        "DaMiRseq",
-        "MLSeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "cytolib",
@@ -730,9 +720,7 @@
         "enrichplot"
     ],
     "meshr": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools"
@@ -755,7 +743,6 @@
     "metaseqR2": [
         "survcomp"
     ],
-    "MetCirc": [],
     "methInheritSim": [
         "methylKit"
     ],
@@ -781,7 +768,6 @@
         "tkWidgets"
     ],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "clusterProfiler",
@@ -802,7 +788,6 @@
     "missMethyl": [
         "methylumi"
     ],
-    "MLSeq": [],
     "MobilityTransformR": [
         "MSnbase",
         "xcms"
@@ -821,7 +806,6 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
     "msImpute": [],
@@ -840,17 +824,12 @@
     ],
     "MSPrep": [],
     "MsQuality": [],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -861,13 +840,10 @@
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MultiBaC": [],
     "MultiRNAflow": [
         "DynDoc",
@@ -875,7 +851,6 @@
         "tkWidgets"
     ],
     "mumosa": [],
-    "muscat": [],
     "MWASTools": [],
     "NADfinder": [],
     "ncdfFlow": [
@@ -1077,7 +1052,6 @@
     "RMassBank": [
         "MSnbase"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "recount"
     ],
@@ -1148,7 +1122,6 @@
         "enrichplot"
     ],
     "seqCNA": [],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "SeqVarTools": [],
     "SEtools": [],
