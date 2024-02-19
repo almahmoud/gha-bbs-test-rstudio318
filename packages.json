@@ -9,8 +9,7 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAMgui": [],
     "affycoretools": [
@@ -33,8 +32,6 @@
     "AMARETTO": [],
     "Anaquin": [],
     "animalcules": [],
-    "annmap": [],
-    "anota": [],
     "anota2seq": [],
     "APAlyzer": [],
     "arrayMvout": [
@@ -253,7 +250,6 @@
     "CiteFuse": [
         "scran"
     ],
-    "ClassifyR": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -277,8 +273,7 @@
     "CNTools": [],
     "CNVRanger": [
         "GDSArray",
-        "SNPRelate",
-        "SeqArray"
+        "SNPRelate"
     ],
     "cola": [],
     "coMethDMR": [],
@@ -448,7 +443,6 @@
     "DEFormats": [],
     "DEGraph": [],
     "DEGreport": [],
-    "DEGseq": [],
     "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
@@ -569,7 +563,6 @@
         "methylumi",
         "minfi"
     ],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -710,9 +703,7 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [
-        "SeqArray"
-    ],
+    "GBScleanR": [],
     "gcatest": [],
     "GDCRNATools": [
         "DOSE",
@@ -729,8 +720,7 @@
         "PharmacoGx"
     ],
     "GDSArray": [
-        "SNPRelate",
-        "SeqArray"
+        "SNPRelate"
     ],
     "GeneBreak": [
         "CGHbase",
@@ -744,7 +734,6 @@
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
-        "SeqArray",
         "SeqVarTools"
     ],
     "GeneTonic": [],
@@ -771,10 +760,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [
-        "SeqArray"
-    ],
-    "ggmsa": [],
+    "ggmanh": [],
     "GISPA": [],
     "Glimma": [],
     "GmicR": [
@@ -848,7 +834,6 @@
         "flowCore"
     ],
     "INSPEcT": [],
-    "InTAD": [],
     "interactiveDisplay": [],
     "IntEREst": [
         "DEXSeq"
@@ -867,7 +852,6 @@
     "isomiRs": [
         "DEGreport"
     ],
-    "ITALICS": [],
     "kissDE": [],
     "KnowSeq": [
         "sva"
@@ -876,7 +860,6 @@
         "ropls"
     ],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -1164,7 +1147,6 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "made4",
         "omicade4",
@@ -1322,7 +1304,6 @@
         "GENESIS",
         "GWASTools",
         "SNPRelate",
-        "SeqArray",
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
@@ -1406,14 +1387,11 @@
     "rqt": [
         "ropls"
     ],
-    "rrvgo": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
     "rTRMui": [],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "SBGNview": [],
     "SCAN.UPC": [
         "sva"
@@ -1488,15 +1466,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SeqArray": [],
     "seqCNA": [],
     "SeqGSEA": [],
     "SeqSQC": [
         "SNPRelate"
     ],
-    "SeqVarTools": [
-        "SeqArray"
-    ],
+    "SeqVarTools": [],
     "SEtools": [
         "sva"
     ],
@@ -1525,7 +1500,6 @@
     "SimBu": [
         "basilisk"
     ],
-    "simplifyEnrichment": [],
     "SingleCellSignalR": [
         "scran"
     ],
@@ -1545,9 +1519,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snifter": [
         "basilisk"
     ],
@@ -1565,9 +1537,7 @@
         "scran"
     ],
     "specL": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpliceWiz": [],
     "SPsimSeq": [],
     "srnadiff": [],
@@ -1607,7 +1577,6 @@
     "TFHAZ": [
         "ORFik"
     ],
-    "tilingArray": [],
     "timecourse": [],
     "TimiRGeN": [
         "DOSE",
@@ -1621,18 +1590,14 @@
         "DynDoc"
     ],
     "TMixClust": [],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [
         "MSnbase"
     ],
     "ToxicoGx": [
         "CoreGx"
     ],
-    "tRanslatome": [
-        "anota"
-    ],
+    "tRanslatome": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
@@ -1655,8 +1620,7 @@
     ],
     "VariantExperiment": [
         "GDSArray",
-        "SNPRelate",
-        "SeqArray"
+        "SNPRelate"
     ],
     "VaSP": [
         "ballgown",
@@ -1668,7 +1632,6 @@
     ],
     "veloviz": [],
     "vidger": [],
-    "ViSEAGO": [],
     "vsclust": [],
     "vulcan": [
         "DiffBind"
@@ -1678,7 +1641,6 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [],
     "xcms": [
         "MSnbase",
         "MsExperiment"
