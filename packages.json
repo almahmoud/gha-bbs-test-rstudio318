@@ -50,9 +50,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHail": [],
     "BiocOncoTK": [],
-    "BioNERO": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq"
@@ -62,9 +60,7 @@
     "brainflowprobes": [
         "derfinderPlot"
     ],
-    "cageminer": [
-        "BioNERO"
-    ],
+    "cageminer": [],
     "CAMERA": [
         "xcms"
     ],
@@ -131,7 +127,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "ChromSCape": [],
     "cicero": [
         "monocle"
     ],
@@ -148,9 +143,7 @@
         "cytolib",
         "flowCore"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "compEpiTools": [],
     "CONFESS": [
         "cytolib",
@@ -243,7 +236,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "DOSE",
         "DynDoc",
@@ -283,7 +275,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "doppelgangR": [],
     "DOSE": [],
     "dreamlet": [
         "zenith"
@@ -331,7 +322,6 @@
         "CAMERA",
         "xcms"
     ],
-    "FLAMES": [],
     "flowAI": [
         "cytolib",
         "flowCore"
@@ -446,9 +436,7 @@
     "FRASER": [],
     "frenchFISH": [],
     "funtooNorm": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "cytolib",
         "flowCore",
@@ -467,7 +455,6 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "GDSArray": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -481,7 +468,6 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GEOexplorer": [],
     "GEWIST": [],
     "ggcyto": [
         "cytolib",
@@ -503,7 +489,6 @@
     ],
     "GSEABenchmarkeR": [],
     "gsean": [],
-    "gwasurvivr": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -645,7 +630,6 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "msImpute": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -654,7 +638,6 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MSPrep": [],
     "MsQuality": [],
     "MSstatsBig": [],
     "MSstatsLiP": [
@@ -829,7 +812,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scBFA": [],
     "SCBN": [],
     "scDataviz": [
         "cytolib",
@@ -864,7 +846,6 @@
     ],
     "seqCNA": [],
     "SeqSQC": [],
-    "SEtools": [],
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
@@ -886,7 +867,6 @@
     ],
     "SpacePAC": [],
     "sparsenetgls": [],
-    "spatialHeatmap": [],
     "specL": [],
     "survcomp": [],
     "SVMDO": [
@@ -933,11 +913,8 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VaSP": [],
-    "velociraptor": [],
     "veloviz": [],
     "vulcan": [],
     "wateRmelon": [
