@@ -142,7 +142,6 @@
         "genefu",
         "survcomp"
     ],
-    "conumee": [],
     "coseq": [],
     "cosmiq": [
         "xcms"
@@ -260,7 +259,6 @@
         "zenith"
     ],
     "DynDoc": [],
-    "ENmix": [],
     "enrichplot": [
         "DOSE"
     ],
@@ -278,7 +276,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "epimutacions": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -411,7 +408,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "FRASER": [],
     "frenchFISH": [],
     "GARS": [],
     "GateFinder": [
@@ -529,7 +525,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -551,8 +546,6 @@
         "survcomp"
     ],
     "methInheritSim": [],
-    "methylCC": [],
-    "methylclock": [],
     "methylGSA": [
         "DOSE",
         "clusterProfiler",
@@ -601,24 +594,17 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MsQuality": [],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -722,9 +708,7 @@
         "enrichplot",
         "tkWidgets"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [],
     "QDNAseq": [],
     "qPLEXanalyzer": [],
@@ -739,8 +723,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "recount": [],
-    "RegionalST": [],
     "ReportingTools": [],
     "ReUseData": [],
     "RiboCrypt": [],
@@ -749,12 +731,8 @@
     ],
     "RLSeq": [],
     "RMassBank": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "RTCGAToolbox": [
         "TCGAutils"
@@ -783,7 +761,6 @@
         "ReactomePA",
         "enrichplot"
     ],
-    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -853,7 +830,6 @@
         "flowCore"
     ],
     "tripr": [],
-    "TurboNorm": [],
     "uSORT": [
         "monocle"
     ],
