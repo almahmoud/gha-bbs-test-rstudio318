@@ -12,7 +12,6 @@
     ],
     "ADAMgui": [],
     "affycoretools": [
-        "GOstats",
         "Glimma",
         "ReportingTools"
     ],
@@ -21,7 +20,6 @@
     ],
     "affyPLM": [],
     "AgiMicroRna": [
-        "GOstats",
         "Glimma",
         "ReportingTools",
         "affycoretools"
@@ -37,9 +35,7 @@
     "artMS": [],
     "ASICS": [],
     "ASSIGN": [],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "ballgown": [],
     "BANDITS": [],
     "bandle": [
@@ -100,9 +96,7 @@
         "cytolib",
         "flowCore"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -199,7 +193,6 @@
         "survcomp"
     ],
     "conumee": [],
-    "CoreGx": [],
     "coseq": [],
     "cosmiq": [
         "xcms"
@@ -363,7 +356,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "epigraHMM": [],
     "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [
@@ -520,12 +512,10 @@
         "enrichplot"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRimport"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "GDSArray": [],
@@ -559,9 +549,7 @@
     ],
     "ggmanh": [],
     "Glimma": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -572,19 +560,16 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [],
     "GSEABenchmarkeR": [],
     "gsean": [],
     "gwasurvivr": [],
     "HarmonizR": [],
     "HiCool": [],
-    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "ImmuneSpaceR": [
@@ -660,7 +645,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "meshr": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools"
@@ -714,13 +698,10 @@
         "affyPLM"
     ],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi"
     ],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi"
     ],
@@ -795,7 +776,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "quantro",
         "yarn"
     ],
@@ -829,9 +809,7 @@
     ],
     "OPWeight": [],
     "orthos": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "PAA": [],
     "pairedGSEA": [],
     "PanomiR": [
@@ -843,11 +821,8 @@
     "pareg": [
         "DOSE"
     ],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "survcomp"
     ],
@@ -858,9 +833,7 @@
         "ncdfFlow"
     ],
     "peakPantheR": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -875,9 +848,7 @@
         "enrichplot"
     ],
     "pipeComp": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
@@ -912,9 +883,7 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "SeqVarTools"
@@ -934,10 +903,7 @@
     "RegionalST": [],
     "regionReport": [],
     "REMP": [],
-    "Repitools": [],
-    "ReportingTools": [
-        "GOstats"
-    ],
+    "ReportingTools": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -965,7 +931,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "SAIGEgds": [],
     "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
@@ -996,10 +961,8 @@
     "scShapes": [],
     "scTensor": [
         "DOSE",
-        "GOstats",
         "ReactomePA",
-        "enrichplot",
-        "meshr"
+        "enrichplot"
     ],
     "scTreeViz": [],
     "scviR": [],
@@ -1018,9 +981,7 @@
     "SeqSQC": [],
     "SeqVarTools": [],
     "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "SigCheck": [],
@@ -1034,7 +995,6 @@
         "genefu",
         "survcomp"
     ],
-    "SimBindProfiles": [],
     "SimBu": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
@@ -1093,10 +1053,7 @@
     "TMixClust": [],
     "TOP": [],
     "topdownr": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
-    "tRanslatome": [],
+    "ToxicoGx": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
@@ -1130,7 +1087,6 @@
     "xcms": [],
     "XDE": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [],
