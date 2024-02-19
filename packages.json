@@ -28,9 +28,7 @@
     ],
     "attract": [],
     "BANDITS": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "bgx": [],
     "bigmelon": [
         "lumi",
@@ -53,9 +51,7 @@
     "BloodGen3Module": [],
     "brainflowprobes": [],
     "cageminer": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -97,7 +93,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [],
     "cfdnakit": [
         "QDNAseq"
     ],
@@ -108,7 +103,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "enrichplot"
@@ -116,9 +110,7 @@
     "cicero": [
         "monocle"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CluMSID": [],
     "ClusterJudge": [],
     "clusterProfiler": [
@@ -143,9 +135,7 @@
         "survcomp"
     ],
     "coseq": [],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "crisprVerse": [],
     "csdR": [],
     "cyanoFilter": [
@@ -235,10 +225,8 @@
         "enrichplot"
     ],
     "decontX": [],
-    "deconvR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "DEP": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -252,9 +240,7 @@
         "missMethyl"
     ],
     "DOSE": [],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "DynDoc": [],
     "enrichplot": [
         "DOSE"
@@ -284,15 +270,13 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [],
     "fdrame": [],
     "ffpe": [
         "lumi"
     ],
     "fishpond": [],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "flowAI": [
         "cytolib",
@@ -419,21 +403,16 @@
         "enrichplot"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GeneBreak": [
         "QDNAseq"
     ],
     "genefu": [
         "survcomp"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -485,15 +464,11 @@
         "cytolib",
         "flowCore"
     ],
-    "IntEREst": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
-    "IsoformSwitchAnalyzeR": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "lumi": [],
     "made4": [],
@@ -506,8 +481,7 @@
         "enrichplot"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MantelCorr": [],
     "mdp": [],
@@ -531,8 +505,7 @@
         "flowCore"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -567,9 +540,7 @@
     ],
     "miRLAB": [],
     "missMethyl": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -583,12 +554,8 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MSstatsLiP": [
@@ -612,9 +579,7 @@
         "cytolib",
         "flowCore"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -673,7 +638,6 @@
         "ncdfFlow"
     ],
     "peakPantheR": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -685,17 +649,13 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PloGO2": [],
     "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
         "enrichplot"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "DOSE",
@@ -712,19 +672,15 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "RadioGx": [],
     "RAIDS": [],
     "RandomWalkRestartMH": [],
-    "RCAS": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
     ],
     "ReportingTools": [],
     "RiboCrypt": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [],
@@ -838,11 +794,7 @@
     "wateRmelon": [
         "lumi"
     ],
-    "xcms": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [],
-    "yarn": [],
-    "zenith": []
+    "yarn": []
 }
