@@ -157,7 +157,6 @@
         "metapod",
         "scran"
     ],
-    "beadarraySNP": [],
     "benchdamic": [
         "ALDEx2",
         "DESeq2",
@@ -252,7 +251,6 @@
     "bnem": [
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [],
@@ -486,7 +484,6 @@
         "flowCore"
     ],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNTools": [
         "genefilter"
     ],
@@ -554,7 +551,6 @@
     "cosmosR": [
         "decoupleR"
     ],
-    "COSNet": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -717,8 +713,7 @@
         "tkWidgets"
     ],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "RProtoBufLib",
@@ -839,7 +834,6 @@
         "metapod"
     ],
     "DiffLogo": [],
-    "diffuStats": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
@@ -850,7 +844,6 @@
         "scran"
     ],
     "dir.expiry": [],
-    "discordant": [],
     "divergence": [],
     "DMCFB": [],
     "DMCHMM": [],
@@ -966,9 +959,7 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epivizr": [
         "bumphunter"
     ],
@@ -1022,7 +1013,6 @@
         "impute"
     ],
     "fdrame": [],
-    "FeatSeekR": [],
     "ffpe": [
         "GEOquery",
         "bumphunter",
@@ -1270,7 +1260,6 @@
     ],
     "GeneOverlap": [],
     "geneplast": [],
-    "geneRecommender": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -1368,7 +1357,6 @@
     "GRaNIE": [
         "DESeq2"
     ],
-    "graper": [],
     "GraphPAC": [],
     "groHMM": [],
     "GSEABenchmarkeR": [
@@ -1506,7 +1494,6 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
         "DEXSeq",
@@ -1630,7 +1617,6 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MDTS": [],
     "MEAL": [
         "GEOquery",
         "MultiDataSet",
@@ -1834,7 +1820,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
@@ -2022,8 +2007,7 @@
     ],
     "NCIgraph": [],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2"
@@ -2340,7 +2324,6 @@
         "STRINGdb"
     ],
     "qckitfastq": [
-        "RSeqAn",
         "seqTools"
     ],
     "qcmetrics": [],
@@ -2454,7 +2437,6 @@
         "derfinder",
         "qvalue"
     ],
-    "regsplice": [],
     "REMP": [
         "GEOquery",
         "bumphunter",
@@ -2575,7 +2557,6 @@
     "rrvgo": [
         "GOSemSim"
     ],
-    "RSeqAn": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -2890,7 +2871,6 @@
         "GOSemSim",
         "qvalue"
     ],
-    "SwathXtend": [],
     "swfdr": [],
     "synapter": [
         "MSnbase",
@@ -3028,7 +3008,6 @@
         "genefilter",
         "sva"
     ],
-    "VegaMC": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
