@@ -119,9 +119,7 @@
         "genefilter",
         "sva"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -138,7 +136,6 @@
         "metapod",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -817,8 +814,7 @@
         "flowCore"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
-        "DRIMSeq"
+        "BANDITS"
     ],
     "diffHic": [
         "csaw",
@@ -836,7 +832,6 @@
     "dir.expiry": [],
     "divergence": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "GEOquery",
         "bumphunter",
@@ -863,7 +858,6 @@
         "pathview",
         "zenith"
     ],
-    "DRIMSeq": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
@@ -970,7 +964,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "esetVis": [],
     "EventPointer": [
         "qvalue"
     ],
@@ -979,7 +972,6 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "csaw",
         "metapod"
@@ -1229,7 +1221,6 @@
         "SeqArray"
     ],
     "GEM": [],
-    "gemini": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -1340,7 +1331,6 @@
         "Category",
         "genefilter"
     ],
-    "GPA": [],
     "GRaNIE": [
         "DESeq2"
     ],
@@ -1463,7 +1453,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "IntOMICS": [],
     "IntramiRExploreR": [],
     "IPO": [
         "CAMERA",
@@ -1699,8 +1688,7 @@
         "bumphunter",
         "genefilter",
         "impute",
-        "minfi",
-        "planet"
+        "minfi"
     ],
     "methylGSA": [
         "DOSE",
@@ -1741,7 +1729,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MGFR": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -2077,9 +2064,7 @@
     "OPWeight": [
         "qvalue"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFik": [
         "DESeq2"
     ],
@@ -2161,7 +2146,6 @@
     "PECA": [
         "genefilter"
     ],
-    "periodicDNA": [],
     "pgca": [],
     "phantasus": [
         "DESeq2",
@@ -2202,14 +2186,12 @@
         "metapod",
         "scran"
     ],
-    "planet": [],
     "planttfhunter": [],
     "PloGO2": [
         "Category",
         "GOstats",
         "genefilter"
     ],
-    "PLPE": [],
     "pmp": [
         "impute"
     ],
@@ -2339,7 +2321,6 @@
         "SeqArray",
         "SeqVarTools"
     ],
-    "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RBioinf": [],
@@ -2513,7 +2494,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "ROSeq": [],
     "RProtoBufLib": [],
     "rqt": [
         "MultiDataSet",
@@ -2533,9 +2513,7 @@
     "SAIGEgds": [
         "SeqArray"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SBGNview": [
         "pathview"
     ],
@@ -2946,7 +2924,6 @@
         "convert",
         "marray"
     ],
-    "twilight": [],
     "UMI4Cats": [
         "DESeq2"
     ],
