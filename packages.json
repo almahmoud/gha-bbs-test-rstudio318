@@ -90,8 +90,7 @@
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "dmrseq"
+        "QDNAseq"
     ],
     "blacksheepr": [
         "DEXSeq"
@@ -101,7 +100,6 @@
     "bnbc": [],
     "bnem": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
     "BRGenomics": [],
@@ -225,7 +223,6 @@
         "GDSArray"
     ],
     "cola": [],
-    "coMethDMR": [],
     "compEpiTools": [
         "methylPipe"
     ],
@@ -342,7 +339,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [],
     "DAPAR": [
         "DOSE",
@@ -385,10 +381,7 @@
     "DEP": [
         "MSnbase"
     ],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
@@ -413,7 +406,6 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "doppelgangR": [],
     "DOSE": [],
     "dreamlet": [
@@ -456,10 +448,7 @@
     "epimutacions": [
         "minfi"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
@@ -692,7 +681,6 @@
     "gsean": [
         "PPInfer"
     ],
-    "GSRI": [],
     "gwasurvivr": [],
     "GWENA": [],
     "HarmonizR": [],
@@ -914,7 +902,6 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "motifbreakR": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -1126,7 +1113,6 @@
         "tkWidgets"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "ptairMS": [
@@ -1168,9 +1154,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "minfi"
     ],
@@ -1178,8 +1162,7 @@
         "BayesSpace"
     ],
     "regionReport": [
-        "DEFormats",
-        "derfinder"
+        "DEFormats"
     ],
     "REMP": [
         "minfi"
@@ -1208,15 +1191,12 @@
     ],
     "Rmmquant": [],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "cellHTS2"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -1228,7 +1208,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "rTRMui": [],
     "SAIGEgds": [],
     "SBGNview": [],
     "SCAN.UPC": [],
@@ -1267,9 +1246,7 @@
         "enrichplot",
         "meshr"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "scviR": [],
     "segmenter": [
         "ChIPseeker",
