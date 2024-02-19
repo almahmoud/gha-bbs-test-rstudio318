@@ -7,9 +7,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAMgui": [],
     "affycoretools": [
         "Glimma",
@@ -87,8 +85,7 @@
     "canceR": [
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CATALYST": [
         "FlowSOM",
@@ -112,7 +109,6 @@
     ],
     "cbpManager": [],
     "celda": [],
-    "cellHTS2": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -313,7 +309,6 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [],
     "diffUTR": [],
     "Dino": [],
     "DMRcate": [
@@ -326,7 +321,6 @@
         "zenith"
     ],
     "DynDoc": [],
-    "easier": [],
     "edge": [],
     "ENmix": [],
     "enrichplot": [
@@ -354,7 +348,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "extraChIPs": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -495,7 +488,6 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
@@ -516,9 +508,7 @@
     "genefu": [
         "survcomp"
     ],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GenomicPlot": [
         "RCAS"
     ],
@@ -526,9 +516,7 @@
         "DeepPINCS"
     ],
     "GEOexplorer": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [],
     "ggcyto": [
         "cytolib",
@@ -536,7 +524,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "Glimma": [],
     "GmicR": [],
     "GNOSIS": [
@@ -582,7 +569,6 @@
         "cytolib",
         "flowCore"
     ],
-    "interactiveDisplay": [],
     "IntEREst": [],
     "IPO": [
         "CAMERA",
@@ -592,9 +578,7 @@
     "isomiRs": [],
     "KnowSeq": [],
     "lipidr": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "xcms"
@@ -741,7 +725,6 @@
     ],
     "mumosa": [],
     "MWASTools": [],
-    "NADfinder": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -819,7 +802,6 @@
     ],
     "phenomis": [],
     "phenopath": [],
-    "phenoTest": [],
     "Pi": [],
     "Pigengene": [
         "DOSE",
@@ -865,8 +847,7 @@
     ],
     "RadioGx": [],
     "RAIDS": [
-        "GENESIS",
-        "SeqVarTools"
+        "GENESIS"
     ],
     "RandomWalkRestartMH": [],
     "RCAS": [],
@@ -897,9 +878,7 @@
     "RNAAgeCalc": [
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RnaSeqSampleSize": [
         "recount"
     ],
@@ -958,12 +937,10 @@
     ],
     "seqCNA": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "SEtools": [],
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "SigCheck": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -986,7 +963,6 @@
         "methylumi",
         "wateRmelon"
     ],
-    "snapCGH": [],
     "snifter": [],
     "SpacePAC": [],
     "Spaniel": [],
@@ -994,10 +970,7 @@
     "spatialDE": [],
     "spatialHeatmap": [],
     "specL": [],
-    "spicyR": [],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "survcomp": [],
     "SVMDO": [
         "DOSE"
@@ -1029,7 +1002,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TOP": [],
     "topdownr": [],
     "ToxicoGx": [],
     "treekoR": [
