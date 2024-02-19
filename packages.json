@@ -49,7 +49,6 @@
     ],
     "BloodGen3Module": [],
     "brainflowprobes": [],
-    "cageminer": [],
     "CAMERA": [],
     "canceR": [
         "RTCGAToolbox",
@@ -118,7 +117,6 @@
         "cytolib",
         "flowCore"
     ],
-    "CNVRanger": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -385,7 +383,6 @@
         "ncdfFlow"
     ],
     "frenchFISH": [],
-    "GARS": [],
     "GateFinder": [
         "cytolib",
         "flowCore",
@@ -774,7 +771,6 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "VariantExperiment": [],
     "veloviz": [],
     "wateRmelon": [
         "lumi"
