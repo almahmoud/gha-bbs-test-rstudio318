@@ -324,16 +324,13 @@
     "bumphunter": [],
     "BUScorrect": [],
     "CAFE": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
         "impute",
         "sva"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
@@ -568,7 +565,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -1562,7 +1558,6 @@
     "hiAnnotator": [],
     "HIBAG": [],
     "HiCcompare": [],
-    "HiCDCPlus": [],
     "HiCDOC": [
         "HiCcompare",
         "multiHiCcompare"
@@ -3194,7 +3189,6 @@
         "metapod",
         "scran"
     ],
-    "spatzie": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
