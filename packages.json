@@ -45,18 +45,12 @@
     "artMS": [
         "MSstats"
     ],
-    "ASICS": [
-        "ropls"
-    ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASICS": [],
+    "ASSIGN": [],
     "attract": [
         "GOstats"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "BANDITS": [],
     "bandle": [
         "MSnbase",
@@ -66,13 +60,9 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
-    "benchdamic": [
-        "zinbwave"
-    ],
+    "benchdamic": [],
     "bgx": [],
     "bigmelon": [
         "lumi",
@@ -93,13 +83,9 @@
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNAR": [],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "BioNetStat": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biscuiteer": [
         "CGHbase",
@@ -112,20 +98,15 @@
     ],
     "BLMA": [],
     "BloodGen3Module": [],
-    "bnbc": [
-        "sva"
-    ],
-    "bnem": [
-        "sva"
-    ],
+    "bnbc": [],
+    "bnem": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot"
     ],
     "BRGenomics": [],
     "cageminer": [
-        "BioNERO",
-        "sva"
+        "BioNERO"
     ],
     "CAMERA": [
         "MSnbase",
@@ -206,7 +187,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "ChIPQC": [
@@ -231,9 +211,7 @@
     "CluMSID": [
         "MSnbase"
     ],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
@@ -296,9 +274,7 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crossmeta": [
-        "sva"
-    ],
+    "crossmeta": [],
     "csdR": [],
     "cyanoFilter": [
         "cytolib",
@@ -367,9 +343,7 @@
         "ncdfFlow"
     ],
     "DAMEfinder": [],
-    "DaMiRseq": [
-        "sva"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "DOSE",
         "DynDoc",
@@ -389,8 +363,7 @@
     "debrowser": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "sva"
+        "enrichplot"
     ],
     "decontX": [
         "celda"
@@ -407,9 +380,7 @@
     "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
-    "DeMixT": [
-        "sva"
-    ],
+    "DeMixT": [],
     "densvis": [],
     "DEP": [
         "MSnbase"
@@ -420,9 +391,7 @@
     ],
     "DEsubs": [],
     "DEWSeq": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [],
     "diffcoexp": [],
@@ -445,9 +414,7 @@
         "missMethyl"
     ],
     "dmrseq": [],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "DOSE": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -458,9 +425,7 @@
     "DynDoc": [],
     "easier": [],
     "EBSEA": [],
-    "edge": [
-        "sva"
-    ],
+    "edge": [],
     "EGAD": [],
     "EGSEA": [],
     "ENmix": [
@@ -502,7 +467,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EventPointer": [],
     "extraChIPs": [],
     "famat": [
         "DOSE",
@@ -647,8 +611,7 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "MLSeq",
-        "sva"
+        "MLSeq"
     ],
     "GateFinder": [
         "cytolib",
@@ -681,9 +644,7 @@
     "genefu": [
         "survcomp"
     ],
-    "GeneMeta": [],
     "GENESIS": [
-        "GWASTools",
         "SeqVarTools"
     ],
     "GeneTonic": [],
@@ -695,9 +656,7 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GEOexplorer": [
-        "sva"
-    ],
+    "GEOexplorer": [],
     "GEOmetadb": [],
     "gespeR": [
         "cellHTS2"
@@ -734,14 +693,9 @@
         "PPInfer"
     ],
     "GSRI": [],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
+    "gwasurvivr": [],
     "GWENA": [],
-    "HarmonizR": [
-        "sva"
-    ],
+    "HarmonizR": [],
     "hermes": [],
     "HiCool": [],
     "HTSFilter": [],
@@ -791,19 +745,14 @@
     ],
     "iSEEde": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
-        "sva"
+        "DEXSeq"
     ],
     "isomiRs": [
         "DEGreport"
     ],
     "kissDE": [],
-    "KnowSeq": [
-        "sva"
-    ],
-    "lipidr": [
-        "ropls"
-    ],
+    "KnowSeq": [],
+    "lipidr": [],
     "lisaClust": [
         "spicyR"
     ],
@@ -837,23 +786,16 @@
         "MsExperiment",
         "xcms"
     ],
-    "MANOR": [],
     "MantelCorr": [],
-    "maPredictDSC": [],
     "MatrixQCvis": [],
-    "MBECS": [
-        "sva"
-    ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "MBECS": [],
+    "mBPCR": [],
     "MCbiclust": [],
     "mdp": [],
     "MEAL": [
         "methylumi",
         "minfi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MEAT": [
         "lumi",
@@ -993,9 +935,7 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -1027,9 +967,7 @@
     "MSstatsTMT": [
         "MSstats"
     ],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -1059,8 +997,7 @@
     "netresponse": [],
     "NetSAM": [],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "GOstats",
@@ -1083,8 +1020,7 @@
     ],
     "omicRexposome": [
         "made4",
-        "omicade4",
-        "sva"
+        "omicade4"
     ],
     "onlineFDR": [],
     "openCyto": [
@@ -1107,12 +1043,9 @@
     "OutSplice": [
         "Repitools"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "pairedGSEA": [
-        "DEXSeq",
-        "sva"
+        "DEXSeq"
     ],
     "PanomiR": [
         "DOSE",
@@ -1141,7 +1074,6 @@
     "peakPantheR": [
         "MSnbase"
     ],
-    "PECA": [],
     "phantasus": [],
     "PharmacoGx": [
         "CoreGx"
@@ -1149,9 +1081,7 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenopath": [],
     "phenoTest": [],
     "Pi": [],
@@ -1184,9 +1114,7 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DOSE",
@@ -1212,25 +1140,19 @@
     "qPLEXanalyzer": [
         "MSnbase"
     ],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantro": [
         "minfi"
     ],
     "QuartPAC": [
         "SpacePAC"
     ],
-    "r3Cseq": [],
     "RadioGx": [
         "CoreGx"
     ],
     "RAIDS": [
         "GENESIS",
-        "GWASTools",
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
@@ -1302,27 +1224,20 @@
         "minfi"
     ],
     "Rnits": [],
-    "ropls": [],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
     "rTRMui": [],
     "SAIGEgds": [],
     "SBGNview": [],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
     ],
     "SCArray.sat": [],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "SCBN": [],
     "scDataviz": [
         "cytolib",
@@ -1356,7 +1271,6 @@
         "epivizr"
     ],
     "scviR": [],
-    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -1373,9 +1287,7 @@
     "SeqGSEA": [],
     "SeqSQC": [],
     "SeqVarTools": [],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGCP": [
         "GOstats"
     ],
@@ -1402,9 +1314,7 @@
     "singleCellTK": [
         "celda",
         "scDblFinder",
-        "scMerge",
-        "sva",
-        "zinbwave"
+        "scMerge"
     ],
     "skewr": [
         "lumi",
@@ -1422,28 +1332,23 @@
     "spatialHeatmap": [],
     "specL": [],
     "spicyR": [],
-    "SpliceWiz": [],
     "SPsimSeq": [],
     "srnadiff": [],
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [],
     "statTarget": [],
     "stepNorm": [],
     "survcomp": [],
-    "sva": [],
     "SVMDO": [
         "DOSE"
     ],
     "synapter": [
         "MSnbase"
     ],
-    "synlet": [],
     "systemPipeTools": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "sva"
+        "ASSIGN"
     ],
     "TCC": [],
     "TCGAutils": [],
@@ -1487,9 +1392,7 @@
         "diffcyt",
         "flowCore"
     ],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "tripr": [],
     "TurboNorm": [
         "convert"
@@ -1505,8 +1408,7 @@
         "GDSArray"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "velociraptor": [],
     "veloviz": [],
@@ -1523,9 +1425,7 @@
         "MSnbase",
         "MsExperiment"
     ],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
@@ -1539,6 +1439,5 @@
     ],
     "zenith": [
         "EnrichmentBrowser"
-    ],
-    "zinbwave": []
+    ]
 }
