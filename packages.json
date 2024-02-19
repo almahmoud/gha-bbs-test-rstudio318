@@ -57,7 +57,6 @@
     ],
     "alabaster": [],
     "ALDEx2": [],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -214,34 +213,15 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "BioMVCClass": [],
     "BioNAR": [
         "impute"
@@ -806,9 +786,7 @@
     ],
     "decoupleR": [],
     "DeepBlueR": [],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "DEFormats": [
         "DESeq2"
     ],
@@ -1059,9 +1037,7 @@
     "EventPointer": [
         "qvalue"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExCluster": [],
     "exomePeak2": [
         "DESeq2"
@@ -1372,8 +1348,7 @@
     "GenomicSuperSignature": [],
     "GenomicTuples": [],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GEOexplorer": [
         "GEOquery",
@@ -1488,7 +1463,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
@@ -1630,7 +1604,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "LEA": [],
     "les": [],
     "lfa": [],
@@ -1724,7 +1697,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "MBAmethyl": [],
     "MBECS": [
         "genefilter",
         "sva"
@@ -1782,7 +1754,6 @@
     ],
     "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
-        "rols",
         "struct"
     ],
     "MetaboSignal": [
@@ -1824,7 +1795,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "fastseg",
         "methylKit",
@@ -1995,9 +1965,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "mosbi": [
-        "QUBIC"
-    ],
+    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "MotifDb"
@@ -2260,7 +2228,6 @@
     "ORFik": [
         "DESeq2"
     ],
-    "orthogene": [],
     "orthos": [
         "basilisk",
         "basilisk.utils",
@@ -2360,7 +2327,6 @@
     ],
     "phenomis": [
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -2409,7 +2375,6 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "pqsfinder": [],
     "PREDA": [],
     "PrInCE": [
         "MSnbase",
@@ -2514,7 +2479,6 @@
         "GraphPAC",
         "SpacePAC"
     ],
-    "QUBIC": [],
     "qvalue": [],
     "R3CPET": [],
     "r3Cseq": [
@@ -2663,7 +2627,6 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RIVER": [],
     "RLMM": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2711,11 +2674,9 @@
         "impute",
         "qvalue"
     ],
-    "ROCpAI": [],
     "RolDE": [
         "qvalue"
     ],
-    "rols": [],
     "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
@@ -2738,8 +2699,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "RUVcorr": [],
-    "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -3048,11 +3007,8 @@
         "marray"
     ],
     "STRINGdb": [],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "subSeq": [
@@ -3184,7 +3140,6 @@
     "trio": [],
     "tripr": [],
     "TSAR": [],
-    "ttgsea": [],
     "TurboNorm": [
         "convert",
         "marray"
@@ -3197,8 +3152,7 @@
         "monocle"
     ],
     "VAExprs": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "VarCon": [],
     "variancePartition": [],
