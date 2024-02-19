@@ -119,19 +119,11 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "biodbChebi": [],
-    "biodbExpasy": [],
-    "biodbKegg": [],
-    "biodbLipidmaps": [],
-    "biodbNci": [],
-    "biodbUniprot": [],
     "BioNAR": [],
     "BioNERO": [
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "ropls"
     ],
@@ -472,7 +464,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "pathview",
         "sva"
     ],
     "decontX": [
@@ -487,9 +478,7 @@
     "DeepPINCS": [],
     "DEFormats": [],
     "DegNorm": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [],
     "DEGseq": [],
     "DelayedRandomArray": [],
@@ -550,7 +539,6 @@
     "DOSE": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "pathview",
         "zenith"
     ],
     "DrugVsDisease": [],
@@ -564,15 +552,11 @@
         "sva"
     ],
     "EGAD": [],
-    "EGSEA": [
-        "pathview"
-    ],
+    "EGSEA": [],
     "ENmix": [
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE"
     ],
@@ -612,7 +596,6 @@
         "enrichplot"
     ],
     "EventPointer": [],
-    "EWCE": [],
     "exomePeak2": [],
     "extraChIPs": [
         "csaw"
@@ -783,8 +766,7 @@
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDR": [
         "CoreGx",
@@ -869,10 +851,8 @@
         "Category"
     ],
     "GRaNIE": [],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer"
@@ -955,7 +935,6 @@
         "DEGreport"
     ],
     "ITALICS": [],
-    "KCsmart": [],
     "kissDE": [],
     "KnowSeq": [
         "sva"
@@ -991,8 +970,7 @@
     "MAGeCKFlute": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [],
     "MAI": [],
@@ -1104,7 +1082,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1238,7 +1215,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "NCIgraph": [],
     "nempi": [
         "epiNEM"
     ],
@@ -1328,7 +1304,6 @@
     ],
     "PAST": [],
     "PathoStat": [],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "GOstats"
@@ -1359,7 +1334,6 @@
         "monocle"
     ],
     "phenomis": [
-        "biodbChebi",
         "ropls"
     ],
     "phenopath": [],
@@ -1442,7 +1416,6 @@
         "minfi"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "r3Cseq": [],
@@ -1476,7 +1449,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "REBET": [],
     "rebook": [],
     "recount": [
         "derfinder"
@@ -1563,9 +1535,7 @@
         "SeqArray"
     ],
     "sampleClassifier": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [
         "sva"
     ],
@@ -1581,7 +1551,6 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scClassify": [],
     "scDataviz": [
         "cytolib",
         "flowCore"
@@ -1816,7 +1785,6 @@
     "trigger": [
         "sva"
     ],
-    "trio": [],
     "tripr": [],
     "TurboNorm": [
         "convert"
@@ -1882,8 +1850,7 @@
         "basilisk.utils"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "zinbwave": []
 }
