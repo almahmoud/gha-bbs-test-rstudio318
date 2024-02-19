@@ -825,7 +825,6 @@
         "decoupleR",
         "progeny"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -2163,13 +2162,10 @@
         "MSnbase",
         "impute"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "STRINGdb"
     ],
-    "qckitfastq": [
-        "seqTools"
-    ],
+    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
@@ -2508,7 +2504,6 @@
     "SeqSQC": [
         "SNPRelate"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "SeqArray"
     ],
