@@ -214,7 +214,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decontX": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
     "diffcyt": [
@@ -561,7 +560,6 @@
         "RandomWalkRestartMH"
     ],
     "netresponse": [],
-    "netSmooth": [],
     "netZooR": [
         "yarn"
     ],
@@ -642,7 +640,6 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "ReactomePA": [
         "DOSE",
@@ -665,7 +662,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scFeatures": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -703,7 +699,6 @@
         "genefu",
         "survcomp"
     ],
-    "singleCellTK": [],
     "skewr": [
         "lumi",
         "wateRmelon"
