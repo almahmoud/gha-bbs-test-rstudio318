@@ -8,7 +8,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "acde": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -83,7 +82,6 @@
         "bumphunter",
         "genefilter",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi"
     ],
@@ -273,7 +271,6 @@
         "impute",
         "sva"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
@@ -458,7 +455,6 @@
         "impute",
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "impute"
@@ -828,7 +824,6 @@
         "csaw",
         "metapod"
     ],
-    "DiffLogo": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
@@ -1433,7 +1428,6 @@
         "flowCore"
     ],
     "impute": [],
-    "INDEED": [],
     "iNETgrate": [
         "DOSE",
         "GEOquery",
@@ -1509,7 +1503,6 @@
         "genefilter",
         "sva"
     ],
-    "LEA": [],
     "les": [],
     "lfa": [],
     "lipidr": [
@@ -1532,7 +1525,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "lpNet": [],
     "LRcell": [],
     "lumi": [
         "GEOquery",
@@ -1606,7 +1598,6 @@
         "impute"
     ],
     "mdp": [],
-    "mdqc": [],
     "MEAL": [
         "GEOquery",
         "MultiDataSet",
@@ -1877,9 +1868,7 @@
         "metapod",
         "scran"
     ],
-    "mslp": [
-        "RankProd"
-    ],
+    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "impute"
@@ -2005,7 +1994,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netprioR": [],
     "netresponse": [
         "qvalue"
     ],
@@ -2139,7 +2127,6 @@
     "PAST": [
         "qvalue"
     ],
-    "pathifier": [],
     "PathoStat": [
         "DESeq2"
     ],
@@ -2174,7 +2161,6 @@
     "PECA": [
         "genefilter"
     ],
-    "pepXMLTab": [],
     "periodicDNA": [],
     "pgca": [],
     "phantasus": [
@@ -2224,13 +2210,11 @@
         "genefilter"
     ],
     "PLPE": [],
-    "pmm": [],
     "pmp": [
         "impute"
     ],
     "POMA": [
         "DESeq2",
-        "RankProd",
         "impute"
     ],
     "ppcseq": [],
@@ -2340,7 +2324,6 @@
         "SpacePAC"
     ],
     "qvalue": [],
-    "R3CPET": [],
     "r3Cseq": [
         "qvalue"
     ],
@@ -2359,7 +2342,6 @@
     "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RankProd": [],
     "RBioinf": [],
     "RBM": [
         "marray"
@@ -2857,9 +2839,7 @@
         "impute",
         "qvalue"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "SynMut": [],
     "systemPipeTools": [
         "DESeq2"
@@ -2944,7 +2924,6 @@
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
-        "RankProd",
         "anota",
         "qvalue"
     ],
