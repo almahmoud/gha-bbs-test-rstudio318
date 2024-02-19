@@ -34,7 +34,6 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCStan": [],
     "bgx": [],
     "bigmelon": [
         "lumi",
@@ -161,14 +160,10 @@
     "cosmiq": [
         "xcms"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz"
     ],
-    "crisprViz": [
-        "crisprDesign"
-    ],
+    "crisprViz": [],
     "csdR": [],
     "cyanoFilter": [
         "cytolib",
@@ -776,7 +771,6 @@
     "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RCAS": [],
-    "RcwlPipelines": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
@@ -787,9 +781,7 @@
     "regionReport": [],
     "REMP": [],
     "ReportingTools": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RiboCrypt": [],
     "Risa": [
         "xcms"
@@ -873,7 +865,6 @@
         "DOSE"
     ],
     "synapter": [],
-    "TBSignatureProfiler": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
@@ -914,7 +905,6 @@
         "DeepPINCS"
     ],
     "VariantExperiment": [],
-    "VaSP": [],
     "veloviz": [],
     "vulcan": [],
     "wateRmelon": [
