@@ -4,7 +4,6 @@
     ],
     "a4Base": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -30,7 +29,6 @@
     "AlpsNMR": [],
     "AMARETTO": [],
     "Anaquin": [],
-    "anota2seq": [],
     "APAlyzer": [],
     "arrayMvout": [
         "lumi",
@@ -82,7 +80,6 @@
     "biosigner": [],
     "BioTIP": [],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -155,23 +152,16 @@
         "genomation"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
     "cfTools": [],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -191,7 +181,6 @@
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [],
     "CiteFuse": [],
     "cliqueMS": [
         "MSnbase",
@@ -356,7 +345,6 @@
     "DeepBlueR": [],
     "DeepPINCS": [],
     "DEGraph": [],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DeMixT": [],
     "densvis": [],
@@ -393,8 +381,6 @@
         "EnrichmentBrowser",
         "zenith"
     ],
-    "DrugVsDisease": [],
-    "dyebias": [],
     "DynDoc": [],
     "easier": [],
     "EBSEA": [],
@@ -422,7 +408,6 @@
         "genomation"
     ],
     "epigraHMM": [],
-    "EpiMix": [],
     "epimutacions": [],
     "epivizrStandalone": [],
     "ERSSA": [],
@@ -595,7 +580,6 @@
     ],
     "GDSArray": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -619,7 +603,6 @@
         "cellHTS2"
     ],
     "GEWIST": [],
-    "gg4way": [],
     "ggcyto": [
         "cytolib",
         "flowCore",
@@ -652,7 +635,6 @@
     "gwasurvivr": [],
     "GWENA": [],
     "HarmonizR": [],
-    "hermes": [],
     "HiCool": [],
     "HTSFilter": [],
     "icetea": [],
@@ -697,9 +679,7 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "kissDE": [],
     "KnowSeq": [],
     "lipidr": [],
@@ -894,7 +874,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "multiWGCNA": [],
     "mumosa": [],
     "muscat": [],
     "MWASTools": [],
@@ -908,7 +887,6 @@
         "xcms"
     ],
     "nempi": [],
-    "NetActivity": [],
     "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -923,7 +901,6 @@
         "quantro",
         "yarn"
     ],
-    "nnNorm": [],
     "NoRCE": [],
     "NormqPCR": [],
     "octad": [],
@@ -1010,7 +987,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "POMA": [],
     "PPInfer": [],
     "PrInCE": [
         "MSnbase"
@@ -1044,9 +1020,7 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "pwOmics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "qPLEXanalyzer": [
@@ -1312,7 +1286,6 @@
     ],
     "XINA": [],
     "XNAString": [],
-    "YAPSA": [],
     "yarn": [
         "quantro"
     ],
