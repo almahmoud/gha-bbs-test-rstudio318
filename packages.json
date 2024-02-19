@@ -139,11 +139,8 @@
     ],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "BioNAR": [
@@ -173,9 +170,7 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [
         "sva"
@@ -201,7 +196,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -329,12 +323,10 @@
         "scran"
     ],
     "ClassifyR": [],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -367,9 +359,7 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -400,7 +390,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -642,7 +631,6 @@
     "DOSE": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "pathview",
         "zenith"
     ],
@@ -670,7 +658,6 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "SPIA",
         "pathview"
     ],
     "enrichplot": [
@@ -752,7 +739,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1007,7 +993,6 @@
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "SPIA",
         "pathview"
     ],
     "gsean": [
@@ -1090,13 +1075,11 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "IntramiRExploreR": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1114,7 +1097,6 @@
     ],
     "ITALICS": [],
     "KCsmart": [],
-    "KEGGlincs": [],
     "kissDE": [
         "DESeq2"
     ],
@@ -1134,7 +1116,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1171,7 +1152,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1214,12 +1194,9 @@
         "Category"
     ],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -1233,7 +1210,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1246,9 +1222,7 @@
         "DESeq2",
         "survcomp"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methInheritSim": [
         "methylKit"
     ],
@@ -1311,9 +1285,7 @@
         "minfi"
     ],
     "minfi": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1331,7 +1303,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1358,24 +1329,12 @@
     "mosbi": [],
     "motifbreakR": [],
     "MPRAnalyze": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [],
     "msImpute": [
         "scran"
@@ -1403,8 +1362,7 @@
         "sva"
     ],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstats": [],
     "MSstatsBig": [
@@ -1469,7 +1427,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1810,7 +1767,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1846,7 +1802,6 @@
         "impute"
     ],
     "RolDE": [],
-    "ROntoTools": [],
     "ropls": [],
     "rqt": [
         "ropls"
@@ -2041,8 +1996,6 @@
         "scran"
     ],
     "specL": [],
-    "Spectra": [],
-    "SPIA": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -2065,10 +2018,7 @@
         "impute"
     ],
     "stepNorm": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "subSeq": [],
     "survcomp": [],
     "sva": [],
@@ -2197,12 +2147,10 @@
         "minfi"
     ],
     "webbioc": [],
-    "wppi": [],
     "xcms": [
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute"
     ],
     "XDE": [
@@ -2228,7 +2176,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
         "pathview"
     ],
     "zFPKM": [],
