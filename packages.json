@@ -34,8 +34,7 @@
         "Glimma",
         "ReportingTools",
         "gcrma",
-        "genefilter",
-        "ggbio"
+        "genefilter"
     ],
     "affyILM": [
         "gcrma"
@@ -55,8 +54,7 @@
         "ReportingTools",
         "affycoretools",
         "gcrma",
-        "genefilter",
-        "ggbio"
+        "genefilter"
     ],
     "alabaster": [],
     "ALDEx2": [],
@@ -221,7 +219,6 @@
         "dir.expiry"
     ],
     "BiocOncoTK": [],
-    "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -308,9 +305,7 @@
         "mnem",
         "sva"
     ],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "borealis": [
         "DSS"
     ],
@@ -318,7 +313,6 @@
         "bumphunter",
         "derfinder",
         "derfinderPlot",
-        "ggbio",
         "qvalue"
     ],
     "brendaDb": [],
@@ -329,14 +323,11 @@
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
-        "ggbio",
         "impute",
         "sva"
     ],
@@ -514,7 +505,6 @@
         "metapod",
         "scran"
     ],
-    "CHRONOS": [],
     "cicero": [
         "monocle"
     ],
@@ -597,7 +587,6 @@
         "Spectra"
     ],
     "concordexR": [],
-    "condiments": [],
     "CONFESS": [
         "RProtoBufLib",
         "cytolib",
@@ -903,7 +892,6 @@
     "derfinderPlot": [
         "bumphunter",
         "derfinder",
-        "ggbio",
         "qvalue"
     ],
     "DEScan2": [
@@ -1025,7 +1013,6 @@
         "qvalue",
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [
         "GEOquery",
         "impute"
@@ -1098,17 +1085,12 @@
         "mnem"
     ],
     "epivizr": [
-        "bumphunter",
-        "epivizrData"
+        "bumphunter"
     ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
         "bumphunter",
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erccdashboard": [
         "qvalue"
@@ -1194,7 +1176,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "ggbio",
         "metapod",
         "scran"
     ],
@@ -1443,10 +1424,7 @@
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicInteractionNodes": [],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -1480,7 +1458,6 @@
     "gg4way": [
         "DESeq2"
     ],
-    "ggbio": [],
     "ggcyto": [
         "RProtoBufLib",
         "cytolib",
@@ -1600,7 +1577,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [],
     "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -1640,7 +1616,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1686,9 +1661,7 @@
     "InTAD": [
         "qvalue"
     ],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interacCircos": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
@@ -2185,9 +2158,7 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "msImpute": [
         "metapod",
         "scran"
@@ -2592,7 +2563,6 @@
     ],
     "pqsfinder": [],
     "PREDA": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "impute"
@@ -2702,9 +2672,7 @@
     ],
     "QUBIC": [],
     "qvalue": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "r3Cseq": [
         "qvalue"
     ],
@@ -2811,8 +2779,7 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "genefilter",
-        "ggbio"
+        "genefilter"
     ],
     "ReQON": [],
     "retrofit": [],
@@ -2842,9 +2809,7 @@
         "DESeq2",
         "qvalue"
     ],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -2892,7 +2857,6 @@
         "genefilter",
         "splots"
     ],
-    "RNAmodR.ML": [],
     "RNAsense": [
         "qvalue"
     ],
@@ -3033,9 +2997,7 @@
         "metapod"
     ],
     "scRecover": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scShapes": [],
     "scTensor": [
         "Category",
@@ -3052,7 +3014,6 @@
     "scTreeViz": [
         "bumphunter",
         "epivizr",
-        "epivizrData",
         "metapod",
         "scran"
     ],
@@ -3106,7 +3067,6 @@
         "genefilter",
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -3149,7 +3109,6 @@
         "survcomp"
     ],
     "sigsquared": [],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -3214,9 +3173,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [],
     "SpacePAC": [
         "iPAC"
@@ -3391,7 +3348,6 @@
     "TMixClust": [
         "SPEM"
     ],
-    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -3467,7 +3423,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [],
     "VaSP": [
         "ballgown",
         "genefilter",
@@ -3541,8 +3496,7 @@
     "XNAString": [],
     "yamss": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "GEOquery",
