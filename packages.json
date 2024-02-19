@@ -249,7 +249,6 @@
         "Category"
     ],
     "cellity": [],
-    "cellmigRation": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -550,7 +549,6 @@
         "scran"
     ],
     "deconvR": [
-        "fastseg",
         "methylKit",
         "minfi"
     ],
@@ -736,7 +734,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "fastseg": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -946,7 +943,6 @@
     "GeneTonic": [
         "DESeq2"
     ],
-    "genoCN": [],
     "genomation": [
         "impute"
     ],
@@ -956,7 +952,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -983,7 +978,6 @@
         "SeqArray"
     ],
     "ggmsa": [],
-    "GIGSEA": [],
     "GISPA": [],
     "Glimma": [
         "DESeq2"
@@ -1004,7 +998,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category"
     ],
@@ -1107,7 +1100,6 @@
         "impute",
         "xcms"
     ],
-    "ISAnalytics": [],
     "iSEEde": [
         "DESeq2"
     ],
@@ -1146,8 +1138,6 @@
         "impute",
         "xcms"
     ],
-    "logicFS": [],
-    "LRcell": [],
     "lumi": [
         "methylumi",
         "minfi"
@@ -1188,7 +1178,6 @@
     "MANOR": [],
     "MantelCorr": [],
     "maPredictDSC": [],
-    "martini": [],
     "maskBAD": [],
     "MassSpecWavelet": [],
     "MatrixQCvis": [
@@ -1261,7 +1250,6 @@
         "Spectra"
     ],
     "methInheritSim": [
-        "fastseg",
         "methylKit"
     ],
     "MethReg": [
@@ -1286,12 +1274,9 @@
         "missMethyl"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit"
     ],
-    "methylKit": [
-        "fastseg"
-    ],
+    "methylKit": [],
     "MethylMix": [
         "impute"
     ],
@@ -1334,7 +1319,6 @@
         "GOstats",
         "impute"
     ],
-    "miRNApath": [],
     "missMethyl": [
         "methylumi",
         "minfi"
@@ -1543,8 +1527,6 @@
         "rexposome",
         "sva"
     ],
-    "OncoScore": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "openCyto": [
         "cytolib",
@@ -1846,7 +1828,6 @@
         "impute",
         "recount"
     ],
-    "RNAdecay": [],
     "rnaEditr": [],
     "RNAinteract": [
         "Category",
@@ -2052,7 +2033,6 @@
         "scran"
     ],
     "sparsenetgls": [],
-    "SpatialCPie": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils"
