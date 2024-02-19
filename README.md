@@ -1,12 +1,12 @@
 # Summary
 
-1214 Bioconductor sotware binaries built
+1215 Bioconductor sotware binaries built
 
-2559 Other dependency binaries built
+2560 Other dependency binaries built
 
 0 failed packages
 
-978 unclaimed packages
+977 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (978)
+## Unclaimed (977)
 | Package                   | Status    | Blocked By                                                                                                                                                           |
 |---------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                        | Unclaimed | Incomplete Bioc dependencies: a4Base, a4Classif, genefilter.                                                                                                         |
@@ -433,7 +433,6 @@
 | HGC                       | Unclaimed |                                                                                                                                                                      |
 | hiAnnotator               | Unclaimed |                                                                                                                                                                      |
 | HIBAG                     | Unclaimed |                                                                                                                                                                      |
-| HiCDOC                    | Unclaimed |                                                                                                                                                                      |
 | HiCool                    | Unclaimed | Incomplete Bioc dependencies: basilisk, basilisk.utils, dir.expiry.                                                                                                  |
 | hierinf                   | Unclaimed |                                                                                                                                                                      |
 | hiReadsProcessor          | Unclaimed | Incomplete Bioc dependencies: hiAnnotator.                                                                                                                           |
@@ -996,7 +995,7 @@
 | zFPKM                     | Unclaimed |                                                                                                                                                                      |
 | zinbwave                  | Unclaimed | Incomplete Bioc dependencies: genefilter.                                                                                                                            |
 
-## Bioconductor Software Binaries Built (1214)
+## Bioconductor Software Binaries Built (1215)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4Core                       | Succeeded | [a4Core_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/a4Core_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
@@ -1504,6 +1503,7 @@
 | HiCBricks                    | Succeeded | [HiCBricks_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiCBricks_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | HiCcompare                   | Succeeded | [HiCcompare_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiCcompare_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | HiCDCPlus                    | Succeeded | [HiCDCPlus_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiCDCPlus_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
+| HiCDOC                       | Succeeded | [HiCDOC_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiCDOC_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | HiCExperiment                | Succeeded | [HiCExperiment_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiCExperiment_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | HiContacts                   | Succeeded | [HiContacts_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiContacts_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | hicVennDiagram               | Succeeded | [hicVennDiagram_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/hicVennDiagram_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
@@ -2214,7 +2214,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1214)
+## Other Dependency Binaries (1215)
 | Package                               | Status    | Tarball                                                                                                                                                                                                                                                                              |
 |---------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
@@ -3480,6 +3480,7 @@
 | BiFET                                 | Succeeded | [BiFET_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/BiFET_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | BiocStyle                             | Succeeded | [BiocStyle_2.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/BiocStyle_2.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | scmap                                 | Succeeded | [scmap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/scmap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
+| HiCDOC                                | Succeeded | [HiCDOC_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/HiCDOC_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | pvca                                  | Succeeded | [pvca_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/pvca_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | tfruns                                | Succeeded | [tfruns_1.5.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/tfruns_1.5.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | compSPOT                              | Succeeded | [compSPOT_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-18-07-23/binaries/src/contrib/compSPOT_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
