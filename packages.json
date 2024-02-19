@@ -175,7 +175,6 @@
     "benchdamic": [
         "ALDEx2",
         "DESeq2",
-        "dearseq",
         "genefilter",
         "zinbwave"
     ],
@@ -543,7 +542,6 @@
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -589,7 +587,6 @@
         "impute",
         "survcomp"
     ],
-    "CONSTANd": [],
     "conumee": [
         "GEOquery",
         "bumphunter",
@@ -697,8 +694,7 @@
     "cycle": [
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "RProtoBufLib",
@@ -783,8 +779,7 @@
         "enrichplot",
         "impute",
         "qvalue",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "dce": [
         "epiNEM",
@@ -797,7 +792,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "dearseq": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -1112,7 +1106,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "fastreeR": [],
     "fastseg": [],
     "fCCAC": [
         "genomation",
@@ -1611,11 +1604,9 @@
         "cytolib",
         "flowCore"
     ],
-    "Informeasure": [],
     "INSPEcT": [
         "DESeq2"
     ],
-    "INTACT": [],
     "InTAD": [
         "qvalue"
     ],
@@ -1792,7 +1783,6 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "MBttest": [],
     "MCbiclust": [
         "impute"
     ],
@@ -1836,7 +1826,6 @@
         "MeSHDbi",
         "genefilter"
     ],
-    "MesKit": [],
     "messina": [],
     "metabinR": [],
     "MetaboAnnotation": [
@@ -1961,8 +1950,7 @@
     "mfa": [],
     "Mfuzz": [
         "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [],
     "MGFR": [],
@@ -2193,8 +2181,7 @@
         "DESeq2",
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "multiWGCNA": [
         "impute"
@@ -2298,8 +2285,7 @@
         "DynDoc",
         "OLIN",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omicade4": [
         "made4"
@@ -2487,7 +2473,6 @@
         "GOstats",
         "genefilter"
     ],
-    "plotGrouper": [],
     "PLPE": [],
     "pmm": [],
     "pmp": [
@@ -2552,8 +2537,7 @@
         "enrichplot",
         "impute",
         "qvalue",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "protGear": [
         "genefilter"
@@ -2687,7 +2671,6 @@
         "minfi",
         "siggenes"
     ],
-    "RedisParam": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2767,7 +2750,6 @@
         "STRINGdb"
     ],
     "RIVER": [],
-    "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2838,7 +2820,6 @@
     "rrvgo": [
         "GOSemSim"
     ],
-    "rsemmed": [],
     "RSeqAn": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
@@ -3057,7 +3038,6 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "sincell": [],
     "SingleCellSignalR": [
         "metapod",
         "scran"
@@ -3149,7 +3129,6 @@
     "SPsimSeq": [
         "impute"
     ],
-    "SQUADD": [],
     "sRACIPE": [],
     "SRAdb": [
         "GEOquery"
@@ -3260,15 +3239,13 @@
         "enrichplot",
         "qvalue",
         "rWikiPathways",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "TIN": [
         "impute"
     ],
     "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
+        "DynDoc"
     ],
     "TMixClust": [
         "SPEM"
@@ -3385,7 +3362,6 @@
         "gcrma",
         "qvalue"
     ],
-    "widgetTools": [],
     "wppi": [
         "OmnipathR"
     ],
