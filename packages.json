@@ -38,7 +38,6 @@
     "annmap": [],
     "anota": [],
     "anota2seq": [],
-    "AnVILBilling": [],
     "APAlyzer": [],
     "arrayMvout": [
         "lumi",
@@ -58,9 +57,7 @@
     "ASSIGN": [
         "sva"
     ],
-    "ATACCoGAPS": [
-        "GeneOverlap"
-    ],
+    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats"
@@ -335,7 +332,6 @@
     "cosmosR": [],
     "countsimQC": [],
     "covRNA": [],
-    "CRImage": [],
     "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
@@ -474,7 +470,6 @@
     "DeepBlueR": [],
     "DeepPINCS": [],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [],
     "DEGreport": [],
     "DEGseq": [],
@@ -520,7 +515,6 @@
     "Dino": [
         "scran"
     ],
-    "DMCFB": [],
     "DMRcate": [
         "methylumi",
         "minfi",
@@ -609,7 +603,6 @@
         "methylumi",
         "minfi"
     ],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "flagme": [
@@ -785,7 +778,6 @@
         "survcomp"
     ],
     "GeneMeta": [],
-    "GeneOverlap": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -858,13 +850,11 @@
         "sva"
     ],
     "hermes": [],
-    "HGC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils"
     ],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "HTSFilter": [],
     "icetea": [
         "csaw"
@@ -963,7 +953,6 @@
         "enrichplot"
     ],
     "magpie": [],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1032,9 +1021,7 @@
     "methInheritSim": [
         "methylKit"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1119,7 +1106,6 @@
     ],
     "mosbi": [],
     "motifbreakR": [],
-    "MPRAnalyze": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -1279,7 +1265,6 @@
         "DEXSeq",
         "sva"
     ],
-    "pairkat": [],
     "PanomiR": [
         "DOSE",
         "clusterProfiler",
@@ -1297,7 +1282,6 @@
         "Category",
         "GOstats"
     ],
-    "PCAN": [],
     "PDATK": [
         "CoreGx",
         "genefu",
@@ -1609,7 +1593,6 @@
     "SeqVarTools": [
         "SeqArray"
     ],
-    "sesame": [],
     "SEtools": [
         "sva"
     ],
@@ -1692,7 +1675,6 @@
     ],
     "SpliceWiz": [],
     "SPsimSeq": [],
-    "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [],
     "staRank": [
@@ -1709,7 +1691,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "swfdr": [],
     "synapter": [
         "MSnbase"
     ],
