@@ -302,9 +302,7 @@
         "minfi"
     ],
     "convert": [],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -313,7 +311,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "cosmosR": [],
     "countsimQC": [],
     "covRNA": [],
     "crisprBowtie": [],
@@ -508,9 +505,7 @@
     "DrugVsDisease": [],
     "dyebias": [],
     "DynDoc": [],
-    "easier": [
-        "progeny"
-    ],
+    "easier": [],
     "EBSEA": [],
     "edge": [
         "sva"
@@ -558,7 +553,6 @@
         "enrichplot"
     ],
     "EventPointer": [],
-    "exomePeak2": [],
     "extraChIPs": [],
     "famat": [
         "DOSE",
@@ -728,13 +722,11 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -1176,7 +1168,6 @@
     "omicRexposome": [
         "made4",
         "omicade4",
-        "rexposome",
         "sva"
     ],
     "onlineFDR": [],
@@ -1227,7 +1218,6 @@
     "PDATK": [
         "CoreGx",
         "genefu",
-        "piano",
         "survcomp"
     ],
     "PeacoQC": [
@@ -1242,8 +1232,7 @@
     "PECA": [],
     "phantasus": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -1254,7 +1243,6 @@
     "phenopath": [],
     "phenoTest": [],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -1279,7 +1267,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "progeny": [],
     "pRoloc": [
         "MSnbase"
     ],
@@ -1329,8 +1316,7 @@
     ],
     "r3Cseq": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [
         "GENESIS",
@@ -1383,7 +1369,6 @@
         "RcwlPipelines",
         "basilisk"
     ],
-    "rexposome": [],
     "rgsepd": [],
     "RiboCrypt": [
         "ORFik"
@@ -1394,7 +1379,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "RITAN": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase"
@@ -1586,7 +1570,6 @@
     ],
     "SpliceWiz": [],
     "SPsimSeq": [],
-    "SRAdb": [],
     "srnadiff": [],
     "staRank": [
         "cellHTS2"
@@ -1594,7 +1577,6 @@
     "StarBioTrek": [],
     "statTarget": [],
     "stepNorm": [],
-    "structToolbox": [],
     "subSeq": [],
     "survcomp": [],
     "sva": [],
@@ -1635,7 +1617,6 @@
         "enrichplot",
         "tkWidgets"
     ],
-    "TIN": [],
     "tkWidgets": [
         "DynDoc"
     ],
@@ -1647,8 +1628,7 @@
         "MSnbase"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "tRanslatome": [
         "anota"
@@ -1708,8 +1688,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [],
     "XNAString": [],
