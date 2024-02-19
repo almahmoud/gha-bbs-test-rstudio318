@@ -76,9 +76,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [],
@@ -208,14 +206,11 @@
     ],
     "conumee": [],
     "CoreGx": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "xcms"
     ],
     "crisprBowtie": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "crisprBowtie",
         "crisprScore"
@@ -334,10 +329,8 @@
     "densvis": [],
     "DEP": [],
     "derfinderPlot": [],
-    "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
@@ -348,9 +341,7 @@
         "BANDITS"
     ],
     "diffHic": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "DMRcate": [
         "methylumi",
@@ -600,17 +591,13 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GRaNIE": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "gwasurvivr": [],
     "HarmonizR": [],
     "HiCool": [],
-    "HTSFilter": [],
     "icetea": [],
     "iCheck": [
         "lumi",
@@ -642,18 +629,13 @@
         "flowCore"
     ],
     "interactiveDisplay": [],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "IPO": [
         "CAMERA",
         "xcms"
     ],
-    "IsoformSwitchAnalyzeR": [
-        "DEXSeq"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
-    "kissDE": [],
     "KnowSeq": [],
     "lipidr": [],
     "lisaClust": [
@@ -666,7 +648,6 @@
     "lumi": [
         "methylumi"
     ],
-    "Macarron": [],
     "MACSr": [],
     "made4": [],
     "MAGAR": [
@@ -685,7 +666,6 @@
     "MantelCorr": [],
     "MBECS": [],
     "mBPCR": [],
-    "MCbiclust": [],
     "mdp": [],
     "MEAL": [
         "methylumi",
@@ -702,7 +682,6 @@
     ],
     "meshr": [],
     "MetaboAnnotation": [],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -878,9 +857,7 @@
         "Repitools"
     ],
     "PAA": [],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "PanomiR": [
         "DOSE",
         "clusterProfiler",
@@ -925,7 +902,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "PPInfer": [],
     "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
@@ -1014,7 +990,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "Rnits": [],
     "rqt": [],
     "RTCGAToolbox": [
         "TCGAutils"
@@ -1037,7 +1012,6 @@
     "scFeatures": [
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -1104,7 +1078,6 @@
     ],
     "snapCGH": [],
     "snifter": [],
-    "SNPhood": [],
     "SpacePAC": [],
     "Spaniel": [],
     "sparsenetgls": [],
@@ -1117,7 +1090,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "statTarget": [],
     "survcomp": [],
     "SVMDO": [
         "DOSE"
@@ -1182,7 +1154,6 @@
     ],
     "velociraptor": [],
     "veloviz": [],
-    "vidger": [],
     "vulcan": [
         "DiffBind"
     ],
