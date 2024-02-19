@@ -49,7 +49,6 @@
         "genefilter"
     ],
     "alabaster": [],
-    "ALDEx2": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -158,7 +157,6 @@
         "scran"
     ],
     "benchdamic": [
-        "ALDEx2",
         "DESeq2",
         "genefilter",
         "zinbwave"
@@ -287,7 +285,6 @@
     "canceR": [
         "Category",
         "GenomicDataCommons",
-        "Heatplus",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
@@ -445,7 +442,6 @@
     "circRNAprofiler": [
         "DESeq2"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "metapod",
         "scran"
@@ -579,7 +575,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CrispRVariants": [],
     "crisprVerse": [
         "basilisk",
         "basilisk.utils",
@@ -945,7 +940,6 @@
         "impute",
         "qvalue"
     ],
-    "epidecodeR": [],
     "epigraHMM": [
         "csaw",
         "metapod"
@@ -1282,7 +1276,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicSuperSignature": [],
     "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS"
@@ -1318,7 +1311,6 @@
         "SeqArray"
     ],
     "ggmsa": [],
-    "GGPA": [],
     "GIGSEA": [],
     "GISPA": [
         "genefilter"
@@ -1384,7 +1376,6 @@
         "genefilter",
         "sva"
     ],
-    "Heatplus": [],
     "hermes": [
         "DESeq2"
     ],
@@ -1469,7 +1460,6 @@
         "qvalue"
     ],
     "intansv": [],
-    "interacCircos": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -1765,7 +1755,6 @@
         "DESeq2"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "DESeq2"
     ],
     "MicrobiomeProfiler": [
@@ -1813,7 +1802,6 @@
         "methylumi",
         "minfi"
     ],
-    "mitch": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -1860,7 +1848,6 @@
         "qvalue"
     ],
     "mosbi": [],
-    "Motif2Site": [],
     "motifbreakR": [
         "MotifDb"
     ],
@@ -2070,9 +2057,7 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
@@ -2154,7 +2139,6 @@
     "PAST": [
         "qvalue"
     ],
-    "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
         "DESeq2"
@@ -2213,7 +2197,6 @@
     "phenopath": [],
     "phenoTest": [
         "Category",
-        "Heatplus",
         "genefilter"
     ],
     "Pi": [],
@@ -2637,7 +2620,6 @@
     "scran": [
         "metapod"
     ],
-    "scRecover": [],
     "scShapes": [],
     "scTensor": [
         "Category",
@@ -2719,7 +2701,6 @@
         "genefilter",
         "minfi"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -2780,7 +2761,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMAP": [],
     "SMITE": [],
     "snapCGH": [
         "GLAD",
@@ -2964,7 +2944,6 @@
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
-        "Heatplus",
         "RankProd",
         "anota",
         "qvalue"
@@ -3062,7 +3041,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "xmapbridge": [],
     "XNAString": [],
     "YAPSA": [
         "SomaticSignatures"
