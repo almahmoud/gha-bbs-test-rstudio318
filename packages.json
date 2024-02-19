@@ -43,7 +43,6 @@
     "ballgown": [],
     "BANDITS": [],
     "bandle": [
-        "MSnbase",
         "pRoloc"
     ],
     "BASiCS": [],
@@ -87,12 +86,10 @@
     "brainflowprobes": [
         "derfinderPlot"
     ],
-    "BRGenomics": [],
     "cageminer": [
         "BioNERO"
     ],
     "CAMERA": [
-        "MSnbase",
         "xcms"
     ],
     "canceR": [
@@ -177,12 +174,9 @@
     ],
     "CiteFuse": [],
     "cliqueMS": [
-        "MSnbase",
         "xcms"
     ],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
@@ -218,7 +212,6 @@
         "HTSFilter"
     ],
     "cosmiq": [
-        "MSnbase",
         "xcms"
     ],
     "crisprBowtie": [],
@@ -311,7 +304,6 @@
     "DAPAR": [
         "DOSE",
         "DynDoc",
-        "MSnbase",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
@@ -340,9 +332,7 @@
     "DelayedTensor": [],
     "DeMixT": [],
     "densvis": [],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "derfinderPlot": [],
     "DEsubs": [],
     "DEWSeq": [],
@@ -376,7 +366,6 @@
     "easier": [],
     "EBSEA": [],
     "edge": [],
-    "EGSEA": [],
     "ENmix": [],
     "EnrichmentBrowser": [],
     "enrichplot": [
@@ -392,7 +381,6 @@
         "enrichplot"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "enrichplot",
@@ -401,7 +389,6 @@
     "epigraHMM": [],
     "epimutacions": [],
     "epivizrStandalone": [],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -414,7 +401,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "fCCAC": [
         "genomation"
     ],
@@ -426,7 +412,6 @@
     "fishpond": [],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "FLAMES": [],
@@ -623,7 +608,6 @@
         "PPInfer"
     ],
     "gwasurvivr": [],
-    "GWENA": [],
     "HarmonizR": [],
     "HiCool": [],
     "HTSFilter": [],
@@ -663,7 +647,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -678,7 +661,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "lumi": [
@@ -698,7 +680,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "MantelCorr": [],
@@ -732,7 +713,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "xcms"
     ],
     "MetaPhOR": [
@@ -767,7 +747,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "microbiomeExplorer": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "clusterProfiler",
@@ -781,7 +760,6 @@
         "lumi",
         "methylumi"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
     ],
@@ -789,7 +767,6 @@
         "methylumi"
     ],
     "MobilityTransformR": [
-        "MSnbase",
         "xcms"
     ],
     "MOFA2": [],
@@ -807,18 +784,12 @@
     ],
     "mosbi": [],
     "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "msImpute": [],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -832,11 +803,8 @@
     "MSstatsPTM": [
         "MSstatsTMT"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC"
     ],
     "MSstatsShiny": [
@@ -858,7 +826,6 @@
         "flowCore"
     ],
     "ncGTW": [
-        "MSnbase",
         "xcms"
     ],
     "nempi": [],
@@ -879,10 +846,8 @@
     "NoRCE": [],
     "NormqPCR": [],
     "octad": [],
-    "OLIN": [],
     "OLINgui": [
         "DynDoc",
-        "OLIN",
         "tkWidgets"
     ],
     "omicade4": [
@@ -939,9 +904,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -963,19 +926,14 @@
         "GOstats"
     ],
     "PPInfer": [],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
         "enrichplot"
     ],
-    "pRoloc": [
-        "MSnbase"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MSnbase",
         "pRoloc"
     ],
     "PROPS": [],
@@ -983,7 +941,6 @@
         "DAPAR",
         "DOSE",
         "DynDoc",
-        "MSnbase",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
@@ -992,15 +949,11 @@
     "psichomics": [
         "recount"
     ],
-    "ptairMS": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
     "QDNAseq": [
         "CGHcall"
     ],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "qsmooth": [],
     "qsvaR": [],
     "quantro": [],
@@ -1045,13 +998,10 @@
     ],
     "RiboDiPA": [],
     "Risa": [
-        "MSnbase",
         "xcms"
     ],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "RNAAgeCalc": [
         "recount"
     ],
@@ -1070,7 +1020,6 @@
         "TCGAutils"
     ],
     "SAIGEgds": [],
-    "SBGNview": [],
     "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
@@ -1114,7 +1063,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -1170,14 +1118,11 @@
         "cellHTS2"
     ],
     "statTarget": [],
-    "stepNorm": [],
     "survcomp": [],
     "SVMDO": [
         "DOSE"
     ],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "systemPipeTools": [],
     "TBSignatureProfiler": [
         "ASSIGN"
@@ -1196,7 +1141,6 @@
     "TFHAZ": [
         "ORFik"
     ],
-    "timecourse": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -1210,9 +1154,7 @@
     ],
     "TMixClust": [],
     "TOP": [],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "ToxicoGx": [
         "CoreGx"
     ],
@@ -1226,7 +1168,6 @@
     "trigger": [],
     "tripr": [],
     "TurboNorm": [],
-    "UMI4Cats": [],
     "uSORT": [
         "monocle"
     ],
@@ -1249,9 +1190,7 @@
         "lumi",
         "methylumi"
     ],
-    "xcms": [
-        "MSnbase"
-    ],
+    "xcms": [],
     "XDE": [],
     "Xeva": [
         "CoreGx",
