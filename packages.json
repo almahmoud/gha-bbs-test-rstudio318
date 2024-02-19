@@ -28,7 +28,6 @@
         "lumi",
         "methylumi"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
@@ -149,14 +148,11 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "enrichplot"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [],
     "cicero": [
         "monocle"
@@ -187,7 +183,6 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "survcomp"
@@ -302,19 +297,14 @@
     "decontX": [
         "celda"
     ],
-    "deconvR": [
-        "methylKit"
-    ],
+    "deconvR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "DelayedTensor": [],
     "DeMixT": [],
     "densvis": [],
     "DEP": [],
     "derfinderPlot": [],
-    "DEWSeq": [],
     "DExMA": [],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -536,7 +526,6 @@
         "DeepPINCS"
     ],
     "GEOexplorer": [],
-    "GEOmetadb": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -666,9 +655,7 @@
     "metaseqR2": [
         "survcomp"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
@@ -679,11 +666,7 @@
         "methylumi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
-    "MethylMix": [],
+    "methylInheritance": [],
     "methylumi": [],
     "Mfuzz": [
         "DynDoc",
@@ -771,7 +754,6 @@
         "RandomWalkRestartMH"
     ],
     "netresponse": [],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment"
     ],
@@ -779,9 +761,7 @@
         "quantro",
         "yarn"
     ],
-    "NoRCE": [],
     "NormqPCR": [],
-    "octad": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -909,7 +889,6 @@
         "RcwlPipelines"
     ],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "Risa": [
         "xcms"
     ],
@@ -1050,7 +1029,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TMixClust": [],
     "TOP": [],
     "topdownr": [],
     "ToxicoGx": [],
@@ -1077,9 +1055,7 @@
     ],
     "velociraptor": [],
     "veloviz": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
