@@ -47,7 +47,6 @@
     "biscuiteer": [
         "QDNAseq"
     ],
-    "blacksheepr": [],
     "BloodGen3Module": [],
     "brainflowprobes": [],
     "cageminer": [],
@@ -62,7 +61,6 @@
         "cytolib",
         "flowCore"
     ],
-    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -111,7 +109,6 @@
         "monocle"
     ],
     "cliqueMS": [],
-    "CluMSID": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
@@ -122,7 +119,6 @@
         "flowCore"
     ],
     "CNVRanger": [],
-    "compEpiTools": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -134,7 +130,6 @@
         "genefu",
         "survcomp"
     ],
-    "coseq": [],
     "cosmiq": [],
     "crisprVerse": [],
     "csdR": [],
@@ -424,7 +419,6 @@
         "ncdfFlow"
     ],
     "Glimma": [],
-    "GmicR": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -436,7 +430,6 @@
         "enrichplot"
     ],
     "GSEABenchmarkeR": [],
-    "gsean": [],
     "iCheck": [
         "lumi"
     ],
@@ -515,7 +508,6 @@
     "metaseqR2": [
         "survcomp"
     ],
-    "methInheritSim": [],
     "methylGSA": [
         "DOSE",
         "clusterProfiler",
@@ -538,7 +530,6 @@
     "MineICA": [
         "lumi"
     ],
-    "miRLAB": [],
     "missMethyl": [],
     "MobilityTransformR": [],
     "mogsa": [],
@@ -615,8 +606,6 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "OutSplice": [],
-    "pairedGSEA": [],
     "PanomiR": [
         "DOSE",
         "clusterProfiler",
@@ -649,7 +638,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -726,7 +714,6 @@
     ],
     "seqCNA": [],
     "SeqSQC": [],
-    "SGCP": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -773,7 +760,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "topdownr": [],
     "ToxicoGx": [],
     "treekoR": [
         "FlowSOM",
@@ -790,7 +776,6 @@
     ],
     "VariantExperiment": [],
     "veloviz": [],
-    "vulcan": [],
     "wateRmelon": [
         "lumi"
     ],
