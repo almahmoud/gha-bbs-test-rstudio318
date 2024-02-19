@@ -148,7 +148,6 @@
         "epiNEM",
         "sva"
     ],
-    "BOBaFIT": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot"
@@ -198,11 +197,9 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "ccrepe": [],
     "celda": [
         "scran"
     ],
-    "cellbaseR": [],
     "cellHTS2": [
         "Category"
     ],
@@ -481,10 +478,7 @@
     "DEGraph": [],
     "DEGreport": [],
     "DEGseq": [],
-    "DelayedRandomArray": [],
-    "DelayedTensor": [
-        "DelayedRandomArray"
-    ],
+    "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
@@ -698,7 +692,6 @@
         "cytolib",
         "flowCore"
     ],
-    "flowPlots": [],
     "FlowSOM": [
         "cytolib",
         "flowCore"
@@ -791,7 +784,6 @@
     "genefu": [
         "survcomp"
     ],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneOverlap": [],
     "GENESIS": [
@@ -802,7 +794,6 @@
     ],
     "GeneTonic": [],
     "genomation": [],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation"
@@ -836,7 +827,6 @@
         "Category",
         "GOstats"
     ],
-    "GNET2": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1136,7 +1126,6 @@
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
     "MsExperiment": [],
-    "msgbsR": [],
     "msImpute": [
         "scran"
     ],
@@ -1476,7 +1465,6 @@
         "Category",
         "GOstats"
     ],
-    "ReQON": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
@@ -1686,7 +1674,6 @@
     ],
     "SNPhood": [],
     "SNPRelate": [],
-    "SomaticSignatures": [],
     "SpacePAC": [],
     "Spaniel": [
         "scran"
@@ -1772,7 +1759,6 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [],
     "tRanslatome": [
         "anota"
     ],
@@ -1838,9 +1824,7 @@
     ],
     "XINA": [],
     "XNAString": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "minfi",
         "quantro"
