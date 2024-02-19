@@ -94,8 +94,7 @@
         "lumi",
         "mdqc",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQuality": [
         "marray"
@@ -116,7 +115,6 @@
         "ropls"
     ],
     "AssessORF": [],
-    "ASSET": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -190,7 +188,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "bioassayR": [],
@@ -256,7 +253,6 @@
         "sva"
     ],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [
@@ -283,7 +279,6 @@
         "genefilter"
     ],
     "BLMA": [
-        "KEGGgraph",
         "PADOG",
         "ROntoTools"
     ],
@@ -468,7 +463,6 @@
         "minfi",
         "missMethyl",
         "qvalue",
-        "siggenes",
         "sva",
         "wateRmelon"
     ],
@@ -505,9 +499,7 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
@@ -591,8 +583,7 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "convert": [
         "marray"
@@ -796,7 +787,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -816,8 +806,7 @@
         "genefilter",
         "methylKit",
         "minfi",
-        "qvalue",
-        "siggenes"
+        "qvalue"
     ],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -829,7 +818,6 @@
     ],
     "DegNorm": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph"
     ],
     "DEGreport": [
@@ -935,13 +923,11 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "dmrseq": [
         "bumphunter"
     ],
-    "DNAshapeR": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -954,7 +940,6 @@
     "doseR": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "variancePartition",
@@ -991,7 +976,6 @@
         "impute"
     ],
     "EGSEA": [
-        "KEGGgraph",
         "PADOG",
         "pathview"
     ],
@@ -1001,11 +985,9 @@
         "bumphunter",
         "genefilter",
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "EnrichmentBrowser": [
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1051,8 +1033,7 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "epiNEM": [
         "mnem"
@@ -1119,8 +1100,7 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "FGNet": [],
     "FilterFFPE": [],
@@ -1292,8 +1272,7 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "garfield": [],
     "GARS": [
@@ -1324,7 +1303,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicDataCommons",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview",
@@ -1438,7 +1416,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "ggtreeExtra": [],
     "GIGSEA": [],
     "GISPA": [
         "genefilter"
@@ -1480,14 +1457,11 @@
         "DESeq2"
     ],
     "graper": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GreyListChIP": [],
     "groHMM": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1528,13 +1502,11 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
     "HIREewas": [],
     "HiTC": [],
-    "hmdbQuery": [],
     "hopach": [],
     "hpar": [],
     "HTSFilter": [
@@ -1554,8 +1526,7 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "iClusterPlus": [],
     "ideal": [
@@ -1596,8 +1567,7 @@
         "genefilter",
         "impute",
         "minfi",
-        "qvalue",
-        "siggenes"
+        "qvalue"
     ],
     "infinityFlow": [
         "RProtoBufLib",
@@ -1622,12 +1592,10 @@
         "DEXSeq",
         "genefilter"
     ],
-    "InterMineR": [],
     "IntOMICS": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "iPAC": [],
     "iPath": [],
     "IPO": [
         "CAMERA",
@@ -1662,13 +1630,8 @@
     ],
     "iterativeBMAsurv": [],
     "ivygapSE": [],
-    "KCsmart": [
-        "siggenes"
-    ],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KCsmart": [],
+    "KEGGlincs": [],
     "kissDE": [
         "DESeq2"
     ],
@@ -1708,8 +1671,7 @@
         "bumphunter",
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "m6Aboost": [],
     "Macarron": [
@@ -1729,13 +1691,11 @@
         "genefilter",
         "impute",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview",
@@ -1798,7 +1758,6 @@
         "minfi",
         "missMethyl",
         "qvalue",
-        "siggenes",
         "sva"
     ],
     "MeasurementError.cor": [],
@@ -1810,7 +1769,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "MeSHDbi": [],
@@ -1839,7 +1797,6 @@
         "struct"
     ],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools",
         "hpar",
         "qvalue"
@@ -1891,15 +1848,13 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylclock": [
         "GEOquery",
@@ -1907,8 +1862,7 @@
         "genefilter",
         "impute",
         "minfi",
-        "planet",
-        "siggenes"
+        "planet"
     ],
     "methylGSA": [
         "DOSE",
@@ -1921,8 +1875,7 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "qvalue",
-        "siggenes"
+        "qvalue"
     ],
     "methylInheritance": [
         "fastseg",
@@ -1943,11 +1896,9 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MetNet": [],
-    "mfa": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -1969,9 +1920,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -1986,17 +1935,14 @@
         "lumi",
         "marray",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "minfi": [
         "GEOquery",
         "bumphunter",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -2011,8 +1957,7 @@
         "bumphunter",
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "mitch": [],
     "MLInterfaces": [
@@ -2195,7 +2140,6 @@
         "variancePartition"
     ],
     "MWASTools": [
-        "KEGGgraph",
         "qvalue"
     ],
     "NADfinder": [
@@ -2221,9 +2165,7 @@
         "impute",
         "xcms"
     ],
-    "NCIgraph": [
-        "KEGGgraph"
-    ],
+    "NCIgraph": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2258,7 +2200,6 @@
         "genefilter",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "nnNorm": [
@@ -2317,7 +2258,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "OpenStats": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2384,9 +2324,7 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -2542,7 +2480,6 @@
     "protGear": [
         "genefilter"
     ],
-    "PSEA": [],
     "psichomics": [
         "GEOquery",
         "bumphunter",
@@ -2587,13 +2524,11 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QUBIC": [],
     "qvalue": [],
@@ -2649,9 +2584,7 @@
         "qvalue"
     ],
     "ReadqPCR": [],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "dir.expiry"
     ],
@@ -2668,8 +2601,7 @@
         "bumphunter",
         "dir.expiry",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "RegionalST": [
         "BayesSpace",
@@ -2689,8 +2621,7 @@
         "bumphunter",
         "genefilter",
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "Ringo",
@@ -2792,8 +2723,7 @@
         "bumphunter",
         "genefilter",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Rnits": [
         "impute",
@@ -2804,9 +2734,7 @@
         "qvalue"
     ],
     "rols": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
     ],
@@ -2841,7 +2769,6 @@
     ],
     "satuRn": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "SCAN.UPC": [
@@ -2993,22 +2920,19 @@
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
         "GEOquery",
         "bumphunter",
         "genefilter",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
     ],
-    "siggenes": [],
     "sights": [
         "qvalue"
     ],
@@ -3064,7 +2988,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "SMAP": [],
@@ -3087,9 +3010,7 @@
         "gdsfmt"
     ],
     "SomaticSignatures": [],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "metapod",
         "scran"
@@ -3111,9 +3032,7 @@
         "MetaboCoreUtils"
     ],
     "SPEM": [],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3121,7 +3040,6 @@
     "SpidermiR": [],
     "spikeLI": [],
     "spiky": [],
-    "spkTools": [],
     "SpliceWiz": [
         "genefilter"
     ],
@@ -3136,7 +3054,6 @@
     "srnadiff": [
         "DESeq2"
     ],
-    "ssize": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -3174,7 +3091,6 @@
         "GOSemSim",
         "qvalue"
     ],
-    "SWATH2stats": [],
     "SwathXtend": [],
     "swfdr": [],
     "synapter": [
@@ -3290,9 +3206,7 @@
         "qvalue",
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tripr": [],
     "TSAR": [],
     "ttgsea": [],
@@ -3355,8 +3269,7 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "webbioc": [
         "gcrma",
@@ -3375,8 +3288,7 @@
     ],
     "XDE": [
         "GeneMeta",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "Xeva": [
         "CoreGx",
@@ -3397,8 +3309,7 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zellkonverter": [
         "basilisk",
@@ -3407,7 +3318,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "variancePartition"
