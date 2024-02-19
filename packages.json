@@ -31,9 +31,7 @@
     ],
     "artMS": [],
     "ASICS": [],
-    "ASSIGN": [],
     "attract": [],
-    "ballgown": [],
     "BANDITS": [],
     "bandle": [
         "pRoloc"
@@ -43,7 +41,6 @@
         "BASiCS"
     ],
     "BatchQC": [],
-    "benchdamic": [],
     "bgx": [],
     "bigmelon": [
         "lumi",
@@ -107,7 +104,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "celda": [],
     "CEMiTool": [
         "DOSE",
@@ -188,18 +184,13 @@
     "cosmiq": [
         "xcms"
     ],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [],
     "csdR": [],
@@ -717,7 +708,6 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "MultiBaC": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -771,7 +761,6 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "orthos": [],
     "OutSplice": [],
     "PAA": [],
     "pairedGSEA": [],
@@ -800,7 +789,6 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [],
     "phenopath": [],
     "Pi": [],
     "Pigengene": [
@@ -809,7 +797,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pipeComp": [],
     "PloGO2": [],
     "PrInCE": [],
     "profileplyr": [
@@ -851,10 +838,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RCAS": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
@@ -866,7 +850,6 @@
     "REMP": [],
     "ReportingTools": [],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "RiboCrypt": [],
@@ -902,7 +885,6 @@
         "flowCore"
     ],
     "scDblFinder": [],
-    "scDD": [],
     "scFeatures": [
         "SingleCellSignalR"
     ],
@@ -923,7 +905,6 @@
         "enrichplot"
     ],
     "scTreeViz": [],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -967,7 +948,6 @@
     "SpacePAC": [],
     "Spaniel": [],
     "sparsenetgls": [],
-    "spatialDE": [],
     "spatialHeatmap": [],
     "specL": [],
     "staRank": [],
@@ -976,9 +956,7 @@
         "DOSE"
     ],
     "synapter": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
@@ -1022,9 +1000,7 @@
     "VariantExperiment": [
         "GDSArray"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "velociraptor": [],
     "veloviz": [],
     "vulcan": [],
@@ -1033,7 +1009,6 @@
         "methylumi"
     ],
     "xcms": [],
-    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
