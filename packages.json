@@ -25,7 +25,6 @@
         "affyPLM"
     ],
     "BANDITS": [],
-    "bandle": [],
     "bgx": [],
     "bigmelon": [
         "lumi",
@@ -46,7 +45,6 @@
     ],
     "BloodGen3Module": [],
     "brainflowprobes": [],
-    "CAMERA": [],
     "canceR": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -90,11 +88,9 @@
     "cfdnakit": [
         "QDNAseq"
     ],
-    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIPseeker": [
@@ -224,11 +220,8 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DOSE": [],
-    "dreamlet": [],
     "DynDoc": [],
     "enrichplot": [
         "DOSE"
@@ -263,9 +256,7 @@
         "lumi"
     ],
     "fishpond": [],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "flowAI": [
         "cytolib",
         "flowCore"
@@ -445,12 +436,8 @@
         "cytolib",
         "flowCore"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "IPO": [],
+    "LOBSTAHS": [],
     "lumi": [],
     "made4": [],
     "MAGAR": [
@@ -461,14 +448,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "MantelCorr": [],
     "mdp": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "lumi",
         "wateRmelon"
@@ -485,9 +468,7 @@
         "cytolib",
         "flowCore"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -499,8 +480,7 @@
     "methylGSA": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "missMethyl"
+        "enrichplot"
     ],
     "Mfuzz": [
         "DynDoc",
@@ -517,7 +497,6 @@
     "MineICA": [
         "lumi"
     ],
-    "missMethyl": [],
     "MobilityTransformR": [],
     "mogsa": [],
     "monocle": [],
@@ -536,13 +515,8 @@
     "MSnID": [
         "msmsTests"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
+    "MSstatsShiny": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -553,14 +527,11 @@
         "cytolib",
         "flowCore"
     ],
-    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "netresponse": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NormqPCR": [],
     "OLINgui": [
         "DynDoc",
@@ -645,7 +616,6 @@
     ],
     "Risa": [],
     "RLSeq": [],
-    "RNAAgeCalc": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [],
     "RTCGAToolbox": [
@@ -748,6 +718,5 @@
         "lumi"
     ],
     "Xeva": [],
-    "XNAString": [],
-    "yarn": []
+    "XNAString": []
 }
