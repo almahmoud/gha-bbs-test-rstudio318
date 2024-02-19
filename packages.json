@@ -424,7 +424,6 @@
     "iCheck": [
         "lumi"
     ],
-    "ideal": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -541,7 +540,6 @@
         "MSstatsPTM"
     ],
     "MSstatsPTM": [],
-    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
