@@ -7,7 +7,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "ADaCGH2": [],
     "ADAMgui": [],
     "affycoretools": [
         "Glimma",
@@ -476,7 +475,6 @@
     "genefu": [
         "survcomp"
     ],
-    "GENESIS": [],
     "GenomicPlot": [
         "RCAS"
     ],
@@ -484,7 +482,6 @@
         "DeepPINCS"
     ],
     "GEOexplorer": [],
-    "gespeR": [],
     "GEWIST": [],
     "ggcyto": [
         "cytolib",
@@ -542,7 +539,6 @@
     ],
     "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
-    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "xcms"
@@ -794,9 +790,7 @@
         "SpacePAC"
     ],
     "RadioGx": [],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RCAS": [],
     "RcwlPipelines": [],
@@ -822,7 +816,6 @@
     "RNAAgeCalc": [
         "recount"
     ],
-    "RNAinteract": [],
     "RnaSeqSampleSize": [
         "recount"
     ],
@@ -895,7 +888,6 @@
     "sparsenetgls": [],
     "spatialHeatmap": [],
     "specL": [],
-    "staRank": [],
     "survcomp": [],
     "SVMDO": [
         "DOSE"
