@@ -56,8 +56,7 @@
         "impute"
     ],
     "Anaquin": [
-        "DESeq2",
-        "qvalue"
+        "DESeq2"
     ],
     "animalcules": [
         "DESeq2"
@@ -65,12 +64,9 @@
     "annmap": [
         "genefilter"
     ],
-    "anota": [
-        "qvalue"
-    ],
+    "anota": [],
     "anota2seq": [
-        "DESeq2",
-        "qvalue"
+        "DESeq2"
     ],
     "AnVILBilling": [],
     "APAlyzer": [
@@ -169,8 +165,7 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "BiocHail": [
         "basilisk",
@@ -240,15 +235,13 @@
     "brainflowprobes": [
         "bumphunter",
         "derfinder",
-        "derfinderPlot",
-        "qvalue"
+        "derfinderPlot"
     ],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
     ],
     "BSgenomeForge": [],
-    "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
     "CAFE": [],
@@ -301,8 +294,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "cbpManager": [
         "basilisk",
@@ -324,8 +316,7 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "impute",
-        "qvalue"
+        "impute"
     ],
     "censcyt": [
         "FlowSOM",
@@ -333,14 +324,12 @@
         "diffcyt",
         "flowCore"
     ],
-    "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "CexoR": [
         "genomation",
@@ -390,7 +379,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "qvalue",
         "sva",
         "wateRmelon"
     ],
@@ -402,8 +390,7 @@
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "ChIPXpress": [
         "GEOquery"
@@ -444,8 +431,7 @@
     "clusterProfiler": [
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "cmapR": [
         "cytolib",
@@ -473,7 +459,6 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "concordexR": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -571,9 +556,7 @@
         "impute"
     ],
     "CSSQ": [],
-    "CTSV": [
-        "qvalue"
-    ],
+    "CTSV": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -657,7 +640,6 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "qvalue",
         "tkWidgets"
     ],
     "dce": [
@@ -677,7 +659,6 @@
         "enrichplot",
         "genefilter",
         "pathview",
-        "qvalue",
         "sva"
     ],
     "decontX": [
@@ -690,8 +671,7 @@
         "fastseg",
         "genefilter",
         "methylKit",
-        "minfi",
-        "qvalue"
+        "minfi"
     ],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -706,9 +686,7 @@
     "DEGreport": [
         "DESeq2"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
@@ -732,18 +710,15 @@
         "impute"
     ],
     "derfinder": [
-        "bumphunter",
-        "qvalue"
+        "bumphunter"
     ],
     "derfinderPlot": [
         "bumphunter",
-        "derfinder",
-        "qvalue"
+        "derfinder"
     ],
     "DESeq2": [],
     "DEsubs": [
-        "DESeq2",
-        "qvalue"
+        "DESeq2"
     ],
     "DEWSeq": [
         "DESeq2"
@@ -802,8 +777,7 @@
         "sva"
     ],
     "DOSE": [
-        "GOSemSim",
-        "qvalue"
+        "GOSemSim"
     ],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -813,8 +787,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
-        "qvalue"
+        "GEOquery"
     ],
     "dyebias": [
         "marray"
@@ -830,7 +803,6 @@
     ],
     "edge": [
         "genefilter",
-        "qvalue",
         "sva"
     ],
     "EGAD": [
@@ -854,21 +826,18 @@
     ],
     "enrichplot": [
         "DOSE",
-        "GOSemSim",
-        "qvalue"
+        "GOSemSim"
     ],
     "enrichTF": [
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "EpiCompare": [
         "BRGenomics",
@@ -878,8 +847,7 @@
         "GOSemSim",
         "enrichplot",
         "genomation",
-        "impute",
-        "qvalue"
+        "impute"
     ],
     "epigraHMM": [
         "csaw"
@@ -901,9 +869,7 @@
         "bumphunter",
         "epivizr"
     ],
-    "erccdashboard": [
-        "qvalue"
-    ],
+    "erccdashboard": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -912,12 +878,9 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
-    "EventPointer": [
-        "qvalue"
-    ],
+    "EventPointer": [],
     "EWCE": [],
     "exomePeak2": [
         "DESeq2"
@@ -931,7 +894,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "qvalue",
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
@@ -952,12 +914,8 @@
         "minfi"
     ],
     "FilterFFPE": [],
-    "FindIT2": [
-        "qvalue"
-    ],
-    "fishpond": [
-        "qvalue"
-    ],
+    "FindIT2": [],
+    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1121,8 +1079,7 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "pathview",
-        "qvalue"
+        "pathview"
     ],
     "gDR": [
         "CoreGx",
@@ -1141,7 +1098,6 @@
         "SNPRelate",
         "SeqArray"
     ],
-    "GEM": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -1240,8 +1196,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "goSTAG": [],
     "GOstats": [
@@ -1281,16 +1236,12 @@
         "DESeq2"
     ],
     "HGC": [],
-    "hiAnnotator": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
-    "hpar": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -1307,7 +1258,6 @@
         "methylumi",
         "minfi"
     ],
-    "iClusterPlus": [],
     "ideal": [
         "Category",
         "DESeq2",
@@ -1341,8 +1291,7 @@
         "enrichplot",
         "genefilter",
         "impute",
-        "minfi",
-        "qvalue"
+        "minfi"
     ],
     "infinityFlow": [
         "cytolib",
@@ -1351,9 +1300,7 @@
     "INSPEcT": [
         "DESeq2"
     ],
-    "InTAD": [
-        "qvalue"
-    ],
+    "InTAD": [],
     "intansv": [],
     "interactiveDisplay": [
         "Category",
@@ -1433,7 +1380,6 @@
         "methylumi",
         "minfi"
     ],
-    "m6Aboost": [],
     "Macarron": [
         "impute"
     ],
@@ -1457,8 +1403,7 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "pathview",
-        "qvalue"
+        "pathview"
     ],
     "magpie": [
         "DESeq2"
@@ -1505,7 +1450,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "qvalue",
         "sva"
     ],
     "MEAT": [
@@ -1521,8 +1465,7 @@
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "meshr": [
         "Category",
@@ -1537,9 +1480,7 @@
         "struct"
     ],
     "MetaboSignal": [
-        "MWASTools",
-        "hpar",
-        "qvalue"
+        "MWASTools"
     ],
     "MetaCyto": [
         "FlowSOM",
@@ -1559,13 +1500,11 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "metaseqR2": [
         "DESeq2",
         "genefilter",
-        "qvalue",
         "survcomp"
     ],
     "MetCirc": [
@@ -1573,8 +1512,7 @@
     ],
     "methInheritSim": [
         "fastseg",
-        "methylKit",
-        "qvalue"
+        "methylKit"
     ],
     "MethReg": [
         "sesame"
@@ -1608,17 +1546,14 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "qvalue"
+        "missMethyl"
     ],
     "methylInheritance": [
         "fastseg",
-        "methylKit",
-        "qvalue"
+        "methylKit"
     ],
     "methylKit": [
-        "fastseg",
-        "qvalue"
+        "fastseg"
     ],
     "MethylMix": [
         "impute"
@@ -1647,8 +1582,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "MicrobiotaProcess": [],
     "mimager": [
@@ -1712,25 +1646,21 @@
     "mogsa": [
         "genefilter"
     ],
-    "MOMA": [
-        "qvalue"
-    ],
+    "MOMA": [],
     "monocle": [],
     "Moonlight2R": [
         "DOSE",
         "GEOquery",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "MoonlightR": [
         "DOSE",
         "GEOquery",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "mosbi": [],
     "motifbreakR": [
@@ -1769,8 +1699,7 @@
     "msmsTests": [
         "MSnbase",
         "impute",
-        "msmsEDA",
-        "qvalue"
+        "msmsEDA"
     ],
     "MSnbase": [
         "impute"
@@ -1779,8 +1708,7 @@
         "MSnbase",
         "impute",
         "msmsEDA",
-        "msmsTests",
-        "qvalue"
+        "msmsTests"
     ],
     "MSPrep": [
         "genefilter",
@@ -1849,9 +1777,7 @@
     "muscat": [
         "DESeq2"
     ],
-    "MWASTools": [
-        "qvalue"
-    ],
+    "MWASTools": [],
     "NADfinder": [
         "csaw"
     ],
@@ -1884,9 +1810,7 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [
-        "qvalue"
-    ],
+    "netresponse": [],
     "NetSAM": [
         "impute"
     ],
@@ -1912,12 +1836,8 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
-    "normr": [
-        "qvalue"
-    ],
+    "NormqPCR": [],
+    "normr": [],
     "NPARC": [],
     "occugene": [],
     "octad": [
@@ -1942,7 +1862,6 @@
         "impute",
         "made4",
         "omicade4",
-        "qvalue",
         "rexposome",
         "sva"
     ],
@@ -1962,9 +1881,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "OrderedList": [],
     "ORFik": [
         "DESeq2"
@@ -1996,20 +1913,16 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "PanViz": [],
     "pareg": [
         "DOSE",
         "GOSemSim",
         "basilisk",
-        "basilisk.utils",
-        "qvalue"
+        "basilisk.utils"
     ],
-    "PAST": [
-        "qvalue"
-    ],
+    "PAST": [],
     "PathoStat": [
         "DESeq2"
     ],
@@ -2075,8 +1988,7 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "impute",
-        "qvalue"
+        "impute"
     ],
     "pipeComp": [
         "scran"
@@ -2111,7 +2023,6 @@
         "DOSE",
         "GOSemSim",
         "enrichplot",
-        "qvalue",
         "rGREAT"
     ],
     "progeny": [
@@ -2145,7 +2056,6 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "qvalue",
         "tkWidgets"
     ],
     "protGear": [
@@ -2155,7 +2065,6 @@
         "GEOquery",
         "bumphunter",
         "derfinder",
-        "qvalue",
         "recount"
     ],
     "ptairMS": [
@@ -2196,10 +2105,7 @@
         "GraphPAC",
         "SpacePAC"
     ],
-    "qvalue": [],
-    "r3Cseq": [
-        "qvalue"
-    ],
+    "r3Cseq": [],
     "RadioGx": [
         "CoreGx",
         "marray",
@@ -2214,7 +2120,6 @@
     ],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RBioinf": [],
     "RBM": [
         "marray"
     ],
@@ -2237,17 +2142,14 @@
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
-    "ReadqPCR": [],
     "REBET": [],
     "rebook": [],
     "recount": [
         "GEOquery",
         "bumphunter",
-        "derfinder",
-        "qvalue"
+        "derfinder"
     ],
     "recountmethylation": [
         "GEOquery",
@@ -2265,8 +2167,7 @@
         "DEFormats",
         "DESeq2",
         "bumphunter",
-        "derfinder",
-        "qvalue"
+        "derfinder"
     ],
     "REMP": [
         "GEOquery",
@@ -2305,8 +2206,7 @@
         "ORFik"
     ],
     "RiboDiPA": [
-        "DESeq2",
-        "qvalue"
+        "DESeq2"
     ],
     "RiboProfiling": [],
     "rifiComparative": [],
@@ -2338,7 +2238,6 @@
         "bumphunter",
         "derfinder",
         "impute",
-        "qvalue",
         "recount"
     ],
     "RNAdecay": [],
@@ -2350,14 +2249,11 @@
         "cellHTS2",
         "genefilter"
     ],
-    "RNAsense": [
-        "qvalue"
-    ],
+    "RNAsense": [],
     "RnaSeqSampleSize": [
         "GEOquery",
         "bumphunter",
         "derfinder",
-        "qvalue",
         "recount"
     ],
     "RnBeads": [
@@ -2368,12 +2264,9 @@
         "minfi"
     ],
     "Rnits": [
-        "impute",
-        "qvalue"
+        "impute"
     ],
-    "RolDE": [
-        "qvalue"
-    ],
+    "RolDE": [],
     "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
@@ -2461,8 +2354,7 @@
         "ReactomePA",
         "enrichplot",
         "genefilter",
-        "meshr",
-        "qvalue"
+        "meshr"
     ],
     "scTreeViz": [
         "bumphunter",
@@ -2473,15 +2365,12 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "SDAMS": [
-        "qvalue"
-    ],
+    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "seq2pathway": [
         "impute"
@@ -2491,8 +2380,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "SeqArray": [],
     "seqCNA": [
@@ -2534,15 +2422,12 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "signifinder": [
         "consensusOV",
@@ -2596,7 +2481,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "SNPediaR": [],
     "SNPhood": [
         "DESeq2"
     ],
@@ -2624,9 +2508,7 @@
         "ClassifyR",
         "genefilter"
     ],
-    "SpidermiR": [],
     "spikeLI": [],
-    "spiky": [],
     "SpliceWiz": [
         "genefilter"
     ],
@@ -2645,9 +2527,7 @@
         "cellHTS2",
         "genefilter"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "statTarget": [
         "impute"
     ],
@@ -2659,9 +2539,7 @@
     "structToolbox": [
         "struct"
     ],
-    "subSeq": [
-        "qvalue"
-    ],
+    "subSeq": [],
     "SummarizedBenchmark": [],
     "survcomp": [],
     "sva": [
@@ -2669,14 +2547,12 @@
     ],
     "SVMDO": [
         "DOSE",
-        "GOSemSim",
-        "qvalue"
+        "GOSemSim"
     ],
     "swfdr": [],
     "synapter": [
         "MSnbase",
-        "impute",
-        "qvalue"
+        "impute"
     ],
     "synlet": [],
     "SynMut": [],
@@ -2698,8 +2574,7 @@
         "DOSE",
         "GOSemSim",
         "STRINGdb",
-        "enrichplot",
-        "qvalue"
+        "enrichplot"
     ],
     "TEKRABber": [
         "DESeq2",
@@ -2726,7 +2601,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "qvalue",
         "rWikiPathways",
         "tkWidgets"
     ],
@@ -2753,12 +2627,10 @@
         "piano"
     ],
     "TPP": [],
-    "transite": [],
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
-        "anota",
-        "qvalue"
+        "anota"
     ],
     "TransView": [],
     "treekoR": [
@@ -2769,7 +2641,6 @@
     ],
     "trigger": [
         "genefilter",
-        "qvalue",
         "sva"
     ],
     "trio": [],
@@ -2809,9 +2680,7 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vsclust": [
-        "qvalue"
-    ],
+    "vsclust": [],
     "vulcan": [
         "DESeq2",
         "DiffBind",
@@ -2825,9 +2694,7 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [
-        "qvalue"
-    ],
+    "webbioc": [],
     "wppi": [],
     "xcms": [
         "MSnbase",
