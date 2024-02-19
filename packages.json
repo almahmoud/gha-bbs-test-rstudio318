@@ -108,7 +108,6 @@
         "MSstats",
         "marray"
     ],
-    "ASAFE": [],
     "ASEB": [],
     "ASICS": [
         "MultiDataSet",
@@ -333,7 +332,6 @@
         "TCGAutils",
         "cBioPortalData",
         "genefilter",
-        "hopach",
         "phenoTest"
     ],
     "CARNIVAL": [],
@@ -384,8 +382,7 @@
     "cellbaseR": [],
     "cellHTS2": [
         "Category",
-        "genefilter",
-        "splots"
+        "genefilter"
     ],
     "cellity": [],
     "cellmigRation": [],
@@ -537,7 +534,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "cnvGSA": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -1393,8 +1389,7 @@
     "gespeR": [
         "Category",
         "cellHTS2",
-        "genefilter",
-        "splots"
+        "genefilter"
     ],
     "geva": [],
     "GEWIST": [],
@@ -1505,15 +1500,12 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HIREewas": [],
     "HiTC": [],
-    "hopach": [],
     "hpar": [],
     "HTSFilter": [
         "DESeq2"
     ],
     "hummingbird": [],
-    "iasva": [],
     "iCARE": [],
     "icetea": [
         "DESeq2",
@@ -1616,7 +1608,6 @@
         "DESeq2",
         "DEXSeq",
         "genefilter",
-        "pfamAnalyzeR",
         "satuRn",
         "sva"
     ],
@@ -1729,7 +1720,6 @@
         "gcrma"
     ],
     "MassArray": [],
-    "massiR": [],
     "MassSpecWavelet": [],
     "MatrixQCvis": [
         "impute"
@@ -1760,7 +1750,6 @@
         "qvalue",
         "sva"
     ],
-    "MeasurementError.cor": [],
     "MEAT": [
         "GEOquery",
         "bumphunter",
@@ -1905,7 +1894,6 @@
     ],
     "MGFM": [],
     "MGFR": [],
-    "mgsa": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -2245,7 +2233,6 @@
         "sva"
     ],
     "Omixer": [],
-    "OmnipathR": [],
     "OncoScore": [],
     "OncoSimulR": [],
     "onlineFDR": [],
@@ -2356,10 +2343,8 @@
     "PECA": [
         "genefilter"
     ],
-    "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
-    "pfamAnalyzeR": [],
     "pgca": [],
     "phantasus": [
         "DESeq2",
@@ -2383,8 +2368,7 @@
     "phenoTest": [
         "Category",
         "Heatplus",
-        "genefilter",
-        "hopach"
+        "genefilter"
     ],
     "Pi": [],
     "piano": [
@@ -2647,7 +2631,6 @@
     ],
     "rfaRm": [],
     "Rfastp": [],
-    "rgoslin": [],
     "rGREAT": [],
     "RGSEA": [],
     "rgsepd": [
@@ -2705,8 +2688,7 @@
     "RNAinteract": [
         "Category",
         "cellHTS2",
-        "genefilter",
-        "splots"
+        "genefilter"
     ],
     "RNAsense": [
         "qvalue"
@@ -2795,9 +2777,7 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scClassify": [
-        "hopach"
-    ],
+    "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -3043,7 +3023,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "splots": [],
     "SPsimSeq": [
         "impute"
     ],
@@ -3057,8 +3036,7 @@
     "staRank": [
         "Category",
         "cellHTS2",
-        "genefilter",
-        "splots"
+        "genefilter"
     ],
     "StarBioTrek": [
         "SpidermiR"
@@ -3082,7 +3060,6 @@
     ],
     "SummarizedBenchmark": [],
     "survcomp": [],
-    "survtype": [],
     "sva": [
         "genefilter"
     ],
@@ -3139,7 +3116,6 @@
         "ORFik"
     ],
     "tidybulk": [],
-    "tigre": [],
     "tilingArray": [
         "genefilter"
     ],
@@ -3198,8 +3174,7 @@
         "RProtoBufLib",
         "cytolib",
         "diffcyt",
-        "flowCore",
-        "hopach"
+        "flowCore"
     ],
     "trigger": [
         "genefilter",
@@ -3275,9 +3250,7 @@
         "gcrma",
         "qvalue"
     ],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [
         "MSnbase",
         "MassSpecWavelet",
