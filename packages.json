@@ -1069,7 +1069,6 @@
     "epivizr": [
         "bumphunter"
     ],
-    "epivizrChart": [],
     "epivizrStandalone": [
         "bumphunter",
         "epivizr"
@@ -1321,7 +1320,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -2948,7 +2946,6 @@
         "metapod"
     ],
     "scRecover": [],
-    "scruff": [],
     "scShapes": [],
     "scTensor": [
         "Category",
