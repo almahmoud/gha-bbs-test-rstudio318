@@ -52,7 +52,6 @@
     "ASSIGN": [
         "sva"
     ],
-    "ATACCoGAPS": [],
     "attract": [
         "GOstats"
     ],
@@ -953,7 +952,6 @@
     "methInheritSim": [
         "methylKit"
     ],
-    "MethReg": [],
     "MethylAid": [
         "minfi"
     ],
