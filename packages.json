@@ -710,7 +710,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erccdashboard": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -1716,7 +1715,6 @@
         "impute"
     ],
     "pwOmics": [],
-    "qckitfastq": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
