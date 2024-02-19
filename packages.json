@@ -59,7 +59,6 @@
         "BASiCS"
     ],
     "BatchQC": [],
-    "BayesSpace": [],
     "benchdamic": [],
     "bgx": [],
     "bigmelon": [
@@ -1080,9 +1079,7 @@
     ],
     "recount": [],
     "recountmethylation": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regionReport": [],
     "REMP": [],
     "Repitools": [],
