@@ -57,14 +57,12 @@
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNERO": [],
-    "BioTIP": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq"
     ],
     "blacksheepr": [],
     "BloodGen3Module": [],
-    "bnbc": [],
     "bnem": [],
     "brainflowprobes": [
         "derfinderPlot"
@@ -149,7 +147,6 @@
         "xcms"
     ],
     "CluMSID": [],
-    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
@@ -281,7 +278,6 @@
     "deconvR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "densvis": [],
     "DEP": [],
     "derfinderPlot": [],
     "DExMA": [],
@@ -521,7 +517,6 @@
     "GSEABenchmarkeR": [],
     "gsean": [],
     "gwasurvivr": [],
-    "HiCool": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -652,7 +647,6 @@
     "MobilityTransformR": [
         "xcms"
     ],
-    "MOFA2": [],
     "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -699,7 +693,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "mumosa": [],
     "MWASTools": [],
     "ncdfFlow": [
         "cytolib",
@@ -708,14 +701,11 @@
     "ncGTW": [
         "xcms"
     ],
-    "nempi": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "netresponse": [],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "quantro",
         "yarn"
@@ -811,8 +801,6 @@
         "CGHcall"
     ],
     "qPLEXanalyzer": [],
-    "qsmooth": [],
-    "qsvaR": [],
     "quantro": [],
     "QuartPAC": [
         "SpacePAC"
@@ -853,7 +841,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "rqt": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
@@ -869,15 +856,11 @@
         "cytolib",
         "flowCore"
     ],
-    "scDblFinder": [],
-    "scFeatures": [
-        "SingleCellSignalR"
-    ],
+    "scFeatures": [],
     "scifer": [
         "cytolib",
         "flowCore"
     ],
-    "scMerge": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -918,18 +901,14 @@
         "survcomp"
     ],
     "SimBu": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
-        "celda",
-        "scDblFinder",
-        "scMerge"
+        "celda"
     ],
     "skewr": [
         "lumi",
         "methylumi",
         "wateRmelon"
     ],
-    "snifter": [],
     "SpacePAC": [],
     "sparsenetgls": [],
     "spatialHeatmap": [],
