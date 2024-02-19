@@ -32,19 +32,13 @@
         "GOstats",
         "Glimma",
         "ReportingTools",
-        "gcrma",
         "genefilter"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
@@ -52,7 +46,6 @@
         "Glimma",
         "ReportingTools",
         "affycoretools",
-        "gcrma",
         "genefilter"
     ],
     "alabaster": [],
@@ -100,7 +93,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "gcrma",
         "genefilter"
     ],
     "artMS": [
@@ -166,7 +158,6 @@
         "metapod",
         "scran"
     ],
-    "BCRANK": [],
     "beadarraySNP": [],
     "benchdamic": [
         "ALDEx2",
@@ -174,9 +165,7 @@
         "genefilter",
         "zinbwave"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "bigmelon": [
         "GEOquery",
         "bumphunter",
@@ -256,7 +245,6 @@
         "genefilter"
     ],
     "BLMA": [
-        "PADOG",
         "ROntoTools"
     ],
     "BloodGen3Module": [],
@@ -515,7 +503,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "coGPS": [],
     "cola": [
         "impute"
     ],
@@ -880,7 +867,6 @@
     "dks": [],
     "DMCFB": [],
     "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "GEOquery",
         "bumphunter",
@@ -906,7 +892,6 @@
         "EnrichmentBrowser",
         "SPIA",
         "pathview",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -940,7 +925,6 @@
         "impute"
     ],
     "EGSEA": [
-        "PADOG",
         "pathview"
     ],
     "EnhancedVolcano": [],
@@ -1222,7 +1206,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmrs": [],
     "FRASER": [
         "DESeq2",
         "OUTRIDER"
@@ -1257,7 +1240,6 @@
         "lfa"
     ],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -1369,9 +1351,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "GGPA": [],
     "GIGSEA": [],
     "GISPA": [
@@ -1533,7 +1513,6 @@
     ],
     "intansv": [],
     "interacCircos": [],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -1663,15 +1642,11 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "marray": [],
     "martini": [],
     "maSigPro": [],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MassArray": [],
     "MassSpecWavelet": [],
     "MatrixQCvis": [
@@ -1726,7 +1701,6 @@
         "genefilter"
     ],
     "messina": [],
-    "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "Spectra"
@@ -1855,8 +1829,7 @@
     ],
     "MicrobiotaProcess": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "mina": [],
     "MineICA": [
@@ -2059,8 +2032,7 @@
         "scran"
     ],
     "muscat": [
-        "DESeq2",
-        "variancePartition"
+        "DESeq2"
     ],
     "MWASTools": [
         "qvalue"
@@ -2211,7 +2183,6 @@
         "genefilter",
         "sva"
     ],
-    "PADOG": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -2448,7 +2419,6 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "marray",
@@ -2546,7 +2516,6 @@
         "genefilter"
     ],
     "ReQON": [],
-    "retrofit": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
@@ -2557,10 +2526,8 @@
     "rexposome": [
         "impute"
     ],
-    "rfaRm": [],
     "Rfastp": [],
     "rGREAT": [],
-    "RGSEA": [],
     "rgsepd": [
         "DESeq2"
     ],
@@ -2682,7 +2649,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCANVIS": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -2848,7 +2814,6 @@
         "impute",
         "survcomp"
     ],
-    "sigsquared": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -3113,7 +3078,6 @@
         "DeepPINCS"
     ],
     "VarCon": [],
-    "variancePartition": [],
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
@@ -3159,7 +3123,6 @@
         "minfi"
     ],
     "webbioc": [
-        "gcrma",
         "qvalue"
     ],
     "wppi": [],
@@ -3203,8 +3166,7 @@
     "zenith": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
-        "variancePartition"
+        "pathview"
     ],
     "zFPKM": [],
     "zinbwave": [
