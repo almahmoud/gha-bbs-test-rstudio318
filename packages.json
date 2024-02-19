@@ -146,10 +146,7 @@
     "cosmiq": [
         "xcms"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "csdR": [],
     "cyanoFilter": [
         "cytolib",
@@ -724,7 +721,6 @@
         "enrichplot"
     ],
     "ReportingTools": [],
-    "ReUseData": [],
     "RiboCrypt": [],
     "Risa": [
         "xcms"
