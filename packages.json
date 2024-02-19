@@ -4,7 +4,6 @@
     ],
     "a4Base": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADAMgui": [],
@@ -22,13 +21,11 @@
         "affycoretools"
     ],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
-    "artMS": [],
     "attract": [],
     "BANDITS": [],
     "bandle": [
@@ -37,7 +34,6 @@
     "bgx": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -51,14 +47,11 @@
     ],
     "BiocOncoTK": [],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq"
     ],
     "blacksheepr": [],
     "BloodGen3Module": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "cageminer": [],
     "CAMERA": [
         "xcms"
@@ -106,18 +99,12 @@
     ],
     "CexoR": [],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
-    "CGHcall": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
-    "CGHregions": [],
+    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -256,7 +243,6 @@
     "DeepBlueR": [],
     "DeepPINCS": [],
     "DEP": [],
-    "derfinderPlot": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -267,7 +253,6 @@
     ],
     "diffUTR": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "DOSE": [],
@@ -294,7 +279,6 @@
         "enrichplot"
     ],
     "epimutacions": [],
-    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -309,8 +293,7 @@
     "fCCAC": [],
     "fdrame": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "fishpond": [],
     "flagme": [
@@ -430,7 +413,6 @@
     ],
     "FRASER": [],
     "frenchFISH": [],
-    "funtooNorm": [],
     "GARS": [],
     "GateFinder": [
         "cytolib",
@@ -451,7 +433,6 @@
         "PharmacoGx"
     ],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "genefu": [
@@ -485,8 +466,7 @@
     "GSEABenchmarkeR": [],
     "gsean": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [
         "pcaExplorer"
@@ -518,18 +498,14 @@
         "xcms"
     ],
     "IsoformSwitchAnalyzeR": [],
-    "isomiRs": [],
     "LOBSTAHS": [
         "CAMERA",
         "xcms"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "made4": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [
         "DOSE",
@@ -543,12 +519,10 @@
     "MantelCorr": [],
     "mdp": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "meshes": [
@@ -577,18 +551,15 @@
         "survcomp"
     ],
     "methInheritSim": [],
-    "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "methylumi",
         "missMethyl"
     ],
     "methylInheritance": [],
-    "methylumi": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -602,13 +573,10 @@
         "affyPLM"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "miRLAB": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "MobilityTransformR": [
         "xcms"
     ],
@@ -670,7 +638,6 @@
     "netresponse": [],
     "netSmooth": [],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "NormqPCR": [],
@@ -759,11 +726,8 @@
         "recount"
     ],
     "ptairMS": [],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qPLEXanalyzer": [],
-    "quantro": [],
     "QuartPAC": [
         "SpacePAC"
     ],
@@ -776,10 +740,7 @@
         "enrichplot"
     ],
     "recount": [],
-    "recountmethylation": [],
     "RegionalST": [],
-    "regionReport": [],
-    "REMP": [],
     "ReportingTools": [],
     "ReUseData": [],
     "RiboCrypt": [],
@@ -794,9 +755,7 @@
     "RnaSeqSampleSize": [
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
@@ -839,8 +798,6 @@
     "seqCNA": [],
     "SeqSQC": [],
     "SGCP": [],
-    "shinyepico": [],
-    "shinyMethyl": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -854,7 +811,6 @@
     "singleCellTK": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SpacePAC": [],
@@ -908,16 +864,13 @@
     "veloviz": [],
     "vulcan": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "xcms": [],
     "Xeva": [
         "PharmacoGx"
     ],
     "XNAString": [],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": []
 }
