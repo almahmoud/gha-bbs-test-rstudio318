@@ -35,8 +35,7 @@
     "APAlyzer": [],
     "arrayMvout": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "arrayQuality": [],
     "arrayQualityMetrics": [
@@ -67,7 +66,6 @@
     "bigmelon": [
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -82,7 +80,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "BioNAR": [],
     "BioNERO": [],
     "BioNetStat": [],
     "biosigner": [],
@@ -108,7 +105,6 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -183,7 +179,6 @@
         "DMRcate",
         "lumi",
         "methylumi",
-        "minfi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -203,7 +198,6 @@
     "CiteFuse": [],
     "cliqueMS": [
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "CluMSID": [
@@ -239,17 +233,13 @@
         "genefu",
         "survcomp"
     ],
-    "conumee": [
-        "minfi"
-    ],
-    "convert": [],
+    "conumee": [],
     "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
     "cosmiq": [
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "countsimQC": [],
@@ -365,17 +355,13 @@
         "celda"
     ],
     "deconvR": [
-        "methylKit",
-        "minfi"
+        "methylKit"
     ],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "DEFormats": [],
     "DEGraph": [],
     "DEGreport": [],
     "DelayedTensor": [],
-    "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [],
     "densvis": [],
     "DEP": [
@@ -403,7 +389,6 @@
     "Dino": [],
     "DMRcate": [
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
     "doppelgangR": [],
@@ -418,11 +403,8 @@
     "easier": [],
     "EBSEA": [],
     "edge": [],
-    "EGAD": [],
     "EGSEA": [],
-    "ENmix": [
-        "minfi"
-    ],
+    "ENmix": [],
     "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE"
@@ -445,9 +427,7 @@
     ],
     "epigraHMM": [],
     "EpiMix": [],
-    "epimutacions": [
-        "minfi"
-    ],
+    "epimutacions": [],
     "epivizrStandalone": [],
     "ERSSA": [],
     "esATAC": [
@@ -469,14 +449,12 @@
     "fdrame": [],
     "ffpe": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [],
@@ -595,9 +573,7 @@
         "OUTRIDER"
     ],
     "frenchFISH": [],
-    "funtooNorm": [
-        "minfi"
-    ],
+    "funtooNorm": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq"
@@ -636,7 +612,6 @@
     "GENESIS": [
         "SeqVarTools"
     ],
-    "GeneTonic": [],
     "genomation": [],
     "GenomicPlot": [
         "RCAS",
@@ -690,8 +665,7 @@
     "icetea": [],
     "iCheck": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "ideal": [
         "GOstats",
@@ -713,14 +687,12 @@
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "minfi"
+        "enrichplot"
     ],
     "infinityFlow": [
         "cytolib",
         "flowCore"
     ],
-    "INSPEcT": [],
     "interactiveDisplay": [],
     "IntEREst": [
         "DEXSeq"
@@ -728,7 +700,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEde": [],
@@ -747,20 +718,17 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "lumi": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "Macarron": [],
     "MACSr": [],
     "made4": [],
     "MAGAR": [
         "RnBeads",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "MAGeCKFlute": [
         "DOSE",
@@ -771,24 +739,20 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "MantelCorr": [],
-    "MatrixQCvis": [],
     "MBECS": [],
     "mBPCR": [],
     "MCbiclust": [],
     "mdp": [],
     "MEAL": [
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "meshes": [
@@ -811,7 +775,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [
@@ -826,21 +789,14 @@
     "methInheritSim": [
         "methylKit"
     ],
-    "MethylAid": [
-        "minfi"
-    ],
-    "methylCC": [
-        "minfi"
-    ],
-    "methylclock": [
-        "minfi"
-    ],
+    "MethylAid": [],
+    "methylCC": [],
+    "methylclock": [],
     "methylGSA": [
         "DOSE",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
     "methylInheritance": [
@@ -849,9 +805,7 @@
     "methylKit": [],
     "MethylMix": [],
     "methylPipe": [],
-    "methylumi": [
-        "minfi"
-    ],
+    "methylumi": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -869,22 +823,18 @@
     "MineICA": [
         "GOstats",
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
-    "minfi": [],
     "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
     ],
     "missMethyl": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "MLSeq": [],
     "MobilityTransformR": [
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "MODA": [],
@@ -902,12 +852,10 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
     "msImpute": [],
     "msmsEDA": [
         "MSnbase"
@@ -923,9 +871,7 @@
         "msmsTests"
     ],
     "MSPrep": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstats": [],
     "MSstatsBig": [
         "MSstats"
@@ -972,7 +918,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "nempi": [],
@@ -988,7 +933,6 @@
     ],
     "netZooR": [
         "GOstats",
-        "minfi",
         "quantro",
         "yarn"
     ],
@@ -1088,7 +1032,6 @@
     "PrInCE": [
         "MSnbase"
     ],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1128,9 +1071,7 @@
     ],
     "qsmooth": [],
     "qsvaR": [],
-    "quantro": [
-        "minfi"
-    ],
+    "quantro": [],
     "QuartPAC": [
         "SpacePAC"
     ],
@@ -1142,7 +1083,6 @@
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
-    "RBM": [],
     "RCAS": [
         "genomation"
     ],
@@ -1155,18 +1095,12 @@
         "enrichplot"
     ],
     "recount": [],
-    "recountmethylation": [
-        "minfi"
-    ],
+    "recountmethylation": [],
     "RegionalST": [
         "BayesSpace"
     ],
-    "regionReport": [
-        "DEFormats"
-    ],
-    "REMP": [
-        "minfi"
-    ],
+    "regionReport": [],
+    "REMP": [],
     "Repitools": [],
     "ReportingTools": [
         "GOstats"
@@ -1182,7 +1116,6 @@
     "RiboDiPA": [],
     "Risa": [
         "MSnbase",
-        "MsExperiment",
         "xcms"
     ],
     "RLSeq": [],
@@ -1200,8 +1133,7 @@
         "recount"
     ],
     "RnBeads": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "Rnits": [],
     "rqt": [],
@@ -1268,12 +1200,8 @@
     "SGCP": [
         "GOstats"
     ],
-    "shinyepico": [
-        "minfi"
-    ],
-    "shinyMethyl": [
-        "minfi"
-    ],
+    "shinyepico": [],
+    "shinyMethyl": [],
     "SigCheck": [],
     "signatureSearch": [
         "DOSE",
@@ -1296,7 +1224,6 @@
     "skewr": [
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "snapCGH": [],
@@ -1327,7 +1254,6 @@
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
-    "TCC": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
@@ -1371,9 +1297,7 @@
     ],
     "trigger": [],
     "tripr": [],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "UMI4Cats": [],
     "uSORT": [
         "monocle"
@@ -1395,12 +1319,10 @@
     ],
     "wateRmelon": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "xcms": [
-        "MSnbase",
-        "MsExperiment"
+        "MSnbase"
     ],
     "XDE": [],
     "Xeva": [
@@ -1411,7 +1333,6 @@
     "XNAString": [],
     "YAPSA": [],
     "yarn": [
-        "minfi",
         "quantro"
     ],
     "zenith": [
