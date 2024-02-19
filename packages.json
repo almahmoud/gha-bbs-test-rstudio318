@@ -104,7 +104,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -169,7 +168,6 @@
     "bigmelon": [
         "GEOquery",
         "bumphunter",
-        "gdsfmt",
         "genefilter",
         "lumi",
         "methylumi",
@@ -337,7 +335,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CCPlotR": [],
     "ccrepe": [],
     "celda": [
         "metapod",
@@ -485,7 +482,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "ClusterSignificance": [],
     "cmapR": [
         "RProtoBufLib",
         "cytolib",
@@ -500,8 +496,7 @@
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "cola": [
         "impute"
@@ -811,7 +806,6 @@
         "qvalue"
     ],
     "DESeq2": [],
-    "DEsingle": [],
     "DEsubs": [
         "DESeq2",
         "qvalue"
@@ -864,7 +858,6 @@
     "dir.expiry": [],
     "discordant": [],
     "divergence": [],
-    "dks": [],
     "DMCFB": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -895,7 +888,6 @@
         "zenith"
     ],
     "DRIMSeq": [],
-    "DriverNet": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
@@ -1233,8 +1225,7 @@
         "flowViz"
     ],
     "GBScleanR": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "gcatest": [
         "lfa"
@@ -1265,10 +1256,8 @@
     ],
     "GDSArray": [
         "SNPRelate",
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
-    "gdsfmt": [],
     "GEM": [],
     "gemini": [],
     "geneAttribution": [],
@@ -1295,8 +1284,7 @@
         "GWASTools",
         "SNPRelate",
         "SeqArray",
-        "SeqVarTools",
-        "gdsfmt"
+        "SeqVarTools"
     ],
     "GeneticsPed": [],
     "GeneTonic": [
@@ -1348,8 +1336,7 @@
         "ncdfFlow"
     ],
     "ggmanh": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "ggmsa": [],
     "GGPA": [],
@@ -1358,7 +1345,6 @@
         "genefilter"
     ],
     "GLAD": [],
-    "GladiaTOX": [],
     "Glimma": [
         "DESeq2"
     ],
@@ -1410,13 +1396,10 @@
         "genefilter",
         "les"
     ],
-    "GWASTools": [
-        "gdsfmt"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "GWASTools",
-        "SNPRelate",
-        "gdsfmt"
+        "SNPRelate"
     ],
     "GWENA": [
         "impute"
@@ -1467,7 +1450,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "idr2d": [],
     "IFAA": [],
     "IMMAN": [
         "STRINGdb"
@@ -1543,7 +1525,6 @@
         "DESeq2",
         "DEXSeq",
         "genefilter",
-        "satuRn",
         "sva"
     ],
     "ISoLDE": [],
@@ -1657,8 +1638,7 @@
         "sva"
     ],
     "mBPCR": [
-        "GWASTools",
-        "gdsfmt"
+        "GWASTools"
     ],
     "MCbiclust": [
         "impute"
@@ -2041,7 +2021,6 @@
         "csaw",
         "metapod"
     ],
-    "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -2403,7 +2382,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "quantro": [
         "GEOquery",
         "bumphunter",
@@ -2429,14 +2407,12 @@
         "GWASTools",
         "SNPRelate",
         "SeqArray",
-        "SeqVarTools",
-        "gdsfmt"
+        "SeqVarTools"
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
-    "RAREsim": [],
     "RBioinf": [],
     "RBM": [
         "marray"
@@ -2630,13 +2606,11 @@
     ],
     "rWikiPathways": [],
     "SAIGEgds": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "sampleClassifier": [
         "MGFR"
     ],
-    "satuRn": [],
     "SBGNview": [
         "pathview"
     ],
@@ -2649,12 +2623,9 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCArray": [
-        "gdsfmt"
-    ],
+    "SCArray": [],
     "SCArray.sat": [
-        "SCArray",
-        "gdsfmt"
+        "SCArray"
     ],
     "scBFA": [
         "DESeq2",
@@ -2752,9 +2723,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "SeqArray": [
-        "gdsfmt"
-    ],
+    "SeqArray": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -2762,13 +2731,11 @@
         "DESeq2"
     ],
     "SeqSQC": [
-        "SNPRelate",
-        "gdsfmt"
+        "SNPRelate"
     ],
     "seqTools": [],
     "SeqVarTools": [
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "sesame": [],
     "SEtools": [
@@ -2870,9 +2837,7 @@
     "SNPhood": [
         "DESeq2"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "SomaticSignatures": [],
     "SpacePAC": [],
     "Spaniel": [
@@ -3062,7 +3027,6 @@
     ],
     "trio": [],
     "tripr": [],
-    "TSAR": [],
     "TurboNorm": [
         "convert",
         "marray"
@@ -3077,13 +3041,11 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "VarCon": [],
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
         "SNPRelate",
-        "SeqArray",
-        "gdsfmt"
+        "SeqArray"
     ],
     "VaSP": [
         "ballgown",
