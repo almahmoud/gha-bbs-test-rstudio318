@@ -36,10 +36,7 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BatchQC": [],
     "bgx": [],
     "bigmelon": [
@@ -60,7 +57,6 @@
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNERO": [],
-    "biosigner": [],
     "BioTIP": [],
     "biscuiteer": [
         "CGHcall",
@@ -128,7 +124,6 @@
     ],
     "cfTools": [],
     "CGHcall": [],
-    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall"
     ],
@@ -192,7 +187,6 @@
     "crisprViz": [
         "crisprDesign"
     ],
-    "crossmeta": [],
     "csdR": [],
     "cyanoFilter": [
         "cytolib",
@@ -287,7 +281,6 @@
     "deconvR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
-    "DeMixT": [],
     "densvis": [],
     "DEP": [],
     "derfinderPlot": [],
@@ -301,7 +294,6 @@
         "BANDITS"
     ],
     "diffUTR": [],
-    "Dino": [],
     "DMRcate": [
         "methylumi",
         "missMethyl"
@@ -312,7 +304,6 @@
         "zenith"
     ],
     "DynDoc": [],
-    "edge": [],
     "ENmix": [],
     "enrichplot": [
         "DOSE"
@@ -530,7 +521,6 @@
     "GSEABenchmarkeR": [],
     "gsean": [],
     "gwasurvivr": [],
-    "HarmonizR": [],
     "HiCool": [],
     "iCheck": [
         "lumi",
@@ -567,8 +557,6 @@
     ],
     "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
-    "KnowSeq": [],
-    "lipidr": [],
     "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -593,8 +581,6 @@
         "xcms"
     ],
     "MantelCorr": [],
-    "MBECS": [],
-    "mBPCR": [],
     "mdp": [],
     "MEAL": [
         "methylumi",
@@ -808,7 +794,6 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DOSE",
@@ -946,7 +931,6 @@
     ],
     "snifter": [],
     "SpacePAC": [],
-    "Spaniel": [],
     "sparsenetgls": [],
     "spatialHeatmap": [],
     "specL": [],
@@ -988,7 +972,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "trigger": [],
     "tripr": [],
     "TurboNorm": [],
     "uSORT": [
