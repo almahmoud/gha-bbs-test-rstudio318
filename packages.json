@@ -77,7 +77,6 @@
         "QDNAseq"
     ],
     "blacksheepr": [],
-    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [],
     "bnem": [],
@@ -137,9 +136,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "CGHcall",
         "QDNAseq"
@@ -188,10 +185,7 @@
     "CNVRanger": [
         "GDSArray"
     ],
-    "cola": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -210,20 +204,16 @@
     "cosmiq": [
         "xcms"
     ],
-    "crisprBowtie": [],
     "crisprDesign": [
-        "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [],
     "crisprVerse": [
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore"
     ],
@@ -350,15 +340,12 @@
     "doppelgangR": [],
     "DOSE": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "DynDoc": [],
     "easier": [],
-    "EBSEA": [],
     "edge": [],
     "ENmix": [],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE"
     ],
@@ -374,8 +361,7 @@
     "EpiCompare": [
         "ChIPseeker",
         "DOSE",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigraHMM": [],
     "epimutacions": [],
@@ -392,9 +378,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fdrame": [],
     "ffpe": [
         "lumi",
@@ -555,10 +539,8 @@
     "GENESIS": [
         "SeqVarTools"
     ],
-    "genomation": [],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenProSeq": [
         "DeepPINCS"
@@ -591,9 +573,7 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [],
     "gwasurvivr": [],
     "HarmonizR": [],
@@ -720,7 +700,6 @@
     ],
     "methylKit": [],
     "MethylMix": [],
-    "methylPipe": [],
     "methylumi": [],
     "Mfuzz": [
         "DynDoc",
@@ -762,7 +741,6 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "MsBackendRawFileReader": [],
     "msImpute": [],
     "msmsEDA": [],
     "msmsTests": [
@@ -808,7 +786,6 @@
         "xcms"
     ],
     "nempi": [],
-    "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -851,7 +828,6 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "ORFik": [],
     "orthos": [],
     "OutSplice": [
         "Repitools"
@@ -944,9 +920,7 @@
         "SeqVarTools"
     ],
     "RandomWalkRestartMH": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -968,10 +942,7 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rgsepd": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "Risa": [
         "xcms"
@@ -1085,8 +1056,6 @@
     "spatialHeatmap": [],
     "specL": [],
     "spicyR": [],
-    "SPsimSeq": [],
-    "srnadiff": [],
     "staRank": [
         "cellHTS2"
     ],
@@ -1095,7 +1064,6 @@
         "DOSE"
     ],
     "synapter": [],
-    "systemPipeTools": [],
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
@@ -1110,9 +1078,7 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -1167,12 +1133,9 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "XINA": [],
     "XNAString": [],
     "yarn": [
         "quantro"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
