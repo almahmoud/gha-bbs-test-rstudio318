@@ -1,10 +1,8 @@
 {
     "a4": [
-        "a4Base",
-        "a4Classif"
+        "a4Base"
     ],
     "a4Base": [],
-    "a4Classif": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -37,7 +35,6 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "alabaster": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -84,8 +81,7 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "GeneOverlap",
-        "projectR"
+        "GeneOverlap"
     ],
     "attract": [
         "Category",
@@ -204,7 +200,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "CAFE": [],
     "cageminer": [
         "BioNERO",
         "impute",
@@ -781,7 +776,6 @@
     "extraChIPs": [
         "csaw"
     ],
-    "factDesign": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -957,9 +951,7 @@
     "GBScleanR": [
         "SeqArray"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -1114,7 +1106,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "hummingbird": [],
     "icetea": [
         "DESeq2",
         "csaw"
@@ -1131,7 +1122,6 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "IFAA": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1191,14 +1181,12 @@
         "DEXSeq",
         "sva"
     ],
-    "ISoLDE": [],
     "isomiRs": [
         "DEGreport",
         "DESeq2"
     ],
     "ITALICS": [],
     "iterativeBMAsurv": [],
-    "ivygapSE": [],
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
@@ -1207,7 +1195,6 @@
     "KnowSeq": [
         "sva"
     ],
-    "lfa": [],
     "lipidr": [
         "impute",
         "ropls"
@@ -1271,7 +1258,6 @@
     "maPredictDSC": [],
     "marray": [],
     "martini": [],
-    "maSigPro": [],
     "maskBAD": [],
     "MassSpecWavelet": [],
     "MatrixQCvis": [
@@ -1309,7 +1295,6 @@
     "meshr": [
         "Category"
     ],
-    "messina": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "Spectra"
@@ -1544,14 +1529,12 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "impute",
-        "qcmetrics"
+        "impute"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "impute",
-        "qcmetrics"
+        "impute"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -1732,7 +1715,6 @@
         "piano",
         "survcomp"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
         "flowCore",
@@ -1808,7 +1790,6 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -1848,7 +1829,6 @@
         "STRINGdb"
     ],
     "qckitfastq": [],
-    "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
@@ -2329,7 +2309,6 @@
         "DESeq2",
         "anota"
     ],
-    "TransView": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
