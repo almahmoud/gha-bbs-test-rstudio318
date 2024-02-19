@@ -26,7 +26,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -87,7 +86,6 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "appreci8R": [],
     "ArrayExpress": [],
     "arrayMvout": [
         "GEOquery",
@@ -261,7 +259,6 @@
         "impute",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -557,7 +554,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [],
     "cnvGSA": [],
     "CNVRanger": [
         "GDSArray",
@@ -775,7 +771,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -1115,7 +1110,6 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHubData": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "csaw",
@@ -1338,9 +1332,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -1726,7 +1718,6 @@
     ],
     "LACE": [],
     "LEA": [],
-    "lemur": [],
     "les": [],
     "lfa": [],
     "lipidr": [
@@ -2263,8 +2254,7 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "csaw",
-        "metapod",
-        "trackViewer"
+        "metapod"
     ],
     "NanoMethViz": [],
     "nanotatoR": [],
@@ -2339,7 +2329,6 @@
         "qvalue"
     ],
     "NPARC": [],
-    "nullranges": [],
     "occugene": [],
     "octad": [
         "DESeq2"
@@ -3113,7 +3102,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simpleSeg": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -3148,9 +3136,7 @@
         "wateRmelon"
     ],
     "SMAP": [],
-    "SMITE": [
-        "BioNet"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
@@ -3358,10 +3344,7 @@
     ],
     "TPP": [],
     "tracktables": [],
-    "trackViewer": [],
-    "tradeSeq": [],
     "transcriptogramer": [],
-    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -3488,7 +3471,6 @@
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
