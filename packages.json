@@ -128,27 +128,21 @@
         "pRoloc"
     ],
     "BASiCS": [
-        "metapod",
         "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "metapod",
         "scran"
     ],
     "basilisk": [
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
-    "basilisk.utils": [
-        "dir.expiry"
-    ],
+    "basilisk.utils": [],
     "BatchQC": [
         "genefilter",
         "sva"
     ],
     "BayesSpace": [
-        "metapod",
         "scran"
     ],
     "benchdamic": [
@@ -170,7 +164,6 @@
     "bioCancer": [
         "DOSE",
         "GOSemSim",
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "ReactomePA",
         "TCGAutils",
@@ -181,14 +174,12 @@
     ],
     "BiocHail": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BiocOncoTK": [],
     "BiocSklearn": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "biodbChebi": [],
     "biodbExpasy": [],
@@ -215,7 +206,6 @@
         "ropls"
     ],
     "BioTIP": [
-        "metapod",
         "scran"
     ],
     "biotmle": [],
@@ -278,7 +268,6 @@
     ],
     "canceR": [
         "Category",
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
@@ -287,7 +276,6 @@
     ],
     "CATALYST": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -300,14 +288,12 @@
         "genefilter"
     ],
     "cbaf": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
         "genefilter"
     ],
     "cBioPortalData": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils"
     ],
@@ -320,12 +306,10 @@
     ],
     "cbpManager": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "ccrepe": [],
     "celda": [
-        "metapod",
         "scran"
     ],
     "cellbaseR": [],
@@ -345,7 +329,6 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -372,8 +355,7 @@
     ],
     "cfTools": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "CGHbase": [
         "marray"
@@ -427,7 +409,6 @@
         "GEOquery"
     ],
     "ChromSCape": [
-        "metapod",
         "scran"
     ],
     "cicero": [
@@ -437,7 +418,6 @@
         "DESeq2"
     ],
     "CiteFuse": [
-        "metapod",
         "scran"
     ],
     "ClassifyR": [
@@ -468,7 +448,6 @@
         "qvalue"
     ],
     "cmapR": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -496,7 +475,6 @@
     ],
     "concordexR": [],
     "CONFESS": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -560,13 +538,11 @@
         "basilisk.utils",
         "crisprBase",
         "crisprBowtie",
-        "crisprScore",
-        "dir.expiry"
+        "crisprScore"
     ],
     "crisprScore": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "crisprVerse": [
         "basilisk",
@@ -575,8 +551,7 @@
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
-        "crisprViz",
-        "dir.expiry"
+        "crisprViz"
     ],
     "crisprViz": [
         "basilisk",
@@ -584,18 +559,14 @@
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
-        "dir.expiry"
+        "crisprScore"
     ],
     "crossmeta": [
         "GEOquery",
         "genefilter",
         "sva"
     ],
-    "CSAR": [],
-    "csaw": [
-        "metapod"
-    ],
+    "csaw": [],
     "csdR": [
         "impute"
     ],
@@ -604,7 +575,6 @@
         "qvalue"
     ],
     "cyanoFilter": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -617,18 +587,15 @@
         "tkWidgets"
     ],
     "cydar": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -636,20 +603,15 @@
     "cytofQC": [
         "CATALYST",
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
-    "cytolib": [
-        "RProtoBufLib"
-    ],
+    "cytolib": [],
     "cytoMEM": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -661,7 +623,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "RProtoBufLib",
         "cytolib",
         "flowAI",
         "flowCore",
@@ -672,7 +633,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "RProtoBufLib",
         "cytolib",
         "flowAI",
         "flowCore",
@@ -704,7 +664,6 @@
         "epiNEM"
     ],
     "ddPCRclust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -723,7 +682,6 @@
     ],
     "decontX": [
         "celda",
-        "metapod",
         "scran"
     ],
     "deconvR": [
@@ -767,8 +725,7 @@
     ],
     "densvis": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "DEP": [
         "MSnbase",
@@ -809,7 +766,6 @@
     ],
     "diffcyt": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -817,8 +773,7 @@
         "BANDITS"
     ],
     "diffHic": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "diffUTR": [
         "DESeq2",
@@ -826,10 +781,8 @@
         "genefilter"
     ],
     "Dino": [
-        "metapod",
         "scran"
     ],
-    "dir.expiry": [],
     "divergence": [],
     "DMCFB": [],
     "DMRcate": [
@@ -930,8 +883,7 @@
         "qvalue"
     ],
     "epigraHMM": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "EpiMix": [
         "impute"
@@ -968,13 +920,11 @@
         "qvalue"
     ],
     "EWCE": [],
-    "ExCluster": [],
     "exomePeak2": [
         "DESeq2"
     ],
     "extraChIPs": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "factDesign": [],
     "famat": [
@@ -1021,67 +971,54 @@
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "metapod",
         "scran"
     ],
     "flowAI": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowCHIC": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowCore": [
-        "RProtoBufLib",
         "cytolib"
     ],
     "flowCut": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -1089,39 +1026,32 @@
         "ncdfFlow"
     ],
     "flowMatch": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowPlots": [],
     "FlowSOM": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz",
@@ -1129,24 +1059,20 @@
         "ncdfFlow"
     ],
     "flowTime": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowStats",
@@ -1155,7 +1081,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "ncdfFlow"
@@ -1180,7 +1105,6 @@
         "sva"
     ],
     "GateFinder": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowFP",
@@ -1192,12 +1116,10 @@
     "gcatest": [
         "lfa"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "GenomicDataCommons",
         "clusterProfiler",
         "enrichplot",
         "pathview",
@@ -1255,7 +1177,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicDataCommons": [],
     "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
@@ -1281,13 +1202,11 @@
         "cellHTS2",
         "genefilter"
     ],
-    "geva": [],
     "GEWIST": [],
     "gg4way": [
         "DESeq2"
     ],
     "ggcyto": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -1313,7 +1232,6 @@
     ],
     "GNET2": [],
     "GNOSIS": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData"
@@ -1335,7 +1253,6 @@
         "DESeq2"
     ],
     "GraphPAC": [],
-    "groHMM": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1368,8 +1285,7 @@
     "hiAnnotator": [],
     "HiCool": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -1382,8 +1298,7 @@
     "hummingbird": [],
     "icetea": [
         "DESeq2",
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "iCheck": [
         "GEOquery",
@@ -1406,14 +1321,12 @@
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1433,7 +1346,6 @@
         "qvalue"
     ],
     "infinityFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1529,8 +1441,7 @@
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "made4": [],
     "MAGAR": [
@@ -1633,7 +1544,6 @@
     ],
     "MetaCyto": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -1653,7 +1563,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "metapod": [],
     "metaseqR2": [
         "DESeq2",
         "genefilter",
@@ -1799,8 +1708,7 @@
     ],
     "MOFA2": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "mogsa": [
         "genefilter"
@@ -1852,7 +1760,6 @@
     ],
     "msgbsR": [],
     "msImpute": [
-        "metapod",
         "scran"
     ],
     "mslp": [],
@@ -1938,7 +1845,6 @@
         "impute"
     ],
     "mumosa": [
-        "metapod",
         "scran"
     ],
     "muscat": [
@@ -1948,15 +1854,13 @@
         "qvalue"
     ],
     "NADfinder": [
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
     ],
     "ncdfFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -2047,7 +1951,6 @@
     "OncoSimulR": [],
     "onlineFDR": [],
     "openCyto": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -2056,7 +1959,6 @@
         "ncdfFlow"
     ],
     "optimalFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowMeans"
@@ -2070,8 +1972,7 @@
     ],
     "orthos": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "OUTRIDER": [
         "DESeq2"
@@ -2105,10 +2006,8 @@
         "GOSemSim",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "qvalue"
     ],
-    "parglms": [],
     "PAST": [
         "qvalue"
     ],
@@ -2133,7 +2032,6 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -2146,7 +2044,6 @@
     "PECA": [
         "genefilter"
     ],
-    "pgca": [],
     "phantasus": [
         "DESeq2",
         "GEOquery"
@@ -2183,7 +2080,6 @@
         "qvalue"
     ],
     "pipeComp": [
-        "metapod",
         "scran"
     ],
     "planttfhunter": [],
@@ -2199,7 +2095,6 @@
         "DESeq2",
         "impute"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -2336,14 +2231,12 @@
     ],
     "Rcwl": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RcwlPipelines": [
         "Rcwl",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "ReactomePA": [
         "DOSE",
@@ -2353,9 +2246,7 @@
     ],
     "ReadqPCR": [],
     "REBET": [],
-    "rebook": [
-        "dir.expiry"
-    ],
+    "rebook": [],
     "recount": [
         "GEOquery",
         "bumphunter",
@@ -2367,13 +2258,11 @@
         "basilisk",
         "basilisk.utils",
         "bumphunter",
-        "dir.expiry",
         "genefilter",
         "minfi"
     ],
     "RegionalST": [
         "BayesSpace",
-        "metapod",
         "scran"
     ],
     "regionReport": [
@@ -2405,8 +2294,7 @@
         "Rcwl",
         "RcwlPipelines",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "rexposome": [
         "impute"
@@ -2494,7 +2382,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "RProtoBufLib": [],
     "rqt": [
         "MultiDataSet",
         "ropls"
@@ -2503,7 +2390,6 @@
         "GOSemSim"
     ],
     "RTCGAToolbox": [
-        "GenomicDataCommons",
         "TCGAutils"
     ],
     "rTRMui": [
@@ -2538,48 +2424,38 @@
     "SCBN": [],
     "scClassify": [],
     "scDataviz": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "scDblFinder": [
-        "metapod",
         "scran"
     ],
     "scDD": [
-        "metapod",
         "scran"
     ],
     "scFeatures": [
         "SingleCellSignalR",
-        "metapod",
         "scran"
     ],
     "scGPS": [
         "DESeq2"
     ],
     "scifer": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "scMerge": [
-        "metapod",
         "scran"
     ],
     "Sconify": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "scPipe": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
-    "scran": [
-        "metapod"
-    ],
+    "scran": [],
     "scShapes": [],
     "scTensor": [
         "Category",
@@ -2595,13 +2471,11 @@
     "scTreeViz": [
         "bumphunter",
         "epivizr",
-        "metapod",
         "scran"
     ],
     "scviR": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "SDAMS": [
         "qvalue"
@@ -2687,14 +2561,12 @@
     ],
     "SimBu": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
     "SingleCellSignalR": [
-        "metapod",
         "scran"
     ],
     "singleCellTK": [
@@ -2702,9 +2574,7 @@
         "basilisk",
         "basilisk.utils",
         "celda",
-        "dir.expiry",
         "genefilter",
-        "metapod",
         "scDblFinder",
         "scMerge",
         "scran",
@@ -2729,8 +2599,7 @@
     ],
     "snifter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "SNPediaR": [],
     "SNPhood": [
@@ -2740,19 +2609,16 @@
     "SomaticSignatures": [],
     "SpacePAC": [],
     "Spaniel": [
-        "metapod",
         "scran"
     ],
     "sparsenetgls": [],
     "SpatialCPie": [],
     "spatialDE": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "spatialHeatmap": [
         "genefilter",
-        "metapod",
         "scran"
     ],
     "specL": [],
@@ -2832,10 +2698,7 @@
     "TCC": [
         "DESeq2"
     ],
-    "TCGAutils": [
-        "GenomicDataCommons"
-    ],
-    "TCseq": [],
+    "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
@@ -2848,7 +2711,6 @@
         "SCBN"
     ],
     "terraTCGAdata": [
-        "GenomicDataCommons",
         "TCGAutils"
     ],
     "TFHAZ": [
@@ -2882,7 +2744,6 @@
     "TMixClust": [
         "SPEM"
     ],
-    "TnT": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -2897,7 +2758,6 @@
         "piano"
     ],
     "TPP": [],
-    "transcriptogramer": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -2908,7 +2768,6 @@
     "TransView": [],
     "treekoR": [
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -2946,7 +2805,6 @@
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zellkonverter"
     ],
     "veloviz": [],
@@ -2962,8 +2820,7 @@
     "vulcan": [
         "DESeq2",
         "DiffBind",
-        "csaw",
-        "metapod"
+        "csaw"
     ],
     "wateRmelon": [
         "GEOquery",
@@ -3010,8 +2867,7 @@
     ],
     "zellkonverter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "zenith": [
         "EnrichmentBrowser",
