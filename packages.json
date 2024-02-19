@@ -8,8 +8,7 @@
     ],
     "ADAMgui": [],
     "affycoretools": [
-        "Glimma",
-        "ReportingTools"
+        "Glimma"
     ],
     "affylmGUI": [
         "affyPLM"
@@ -17,7 +16,6 @@
     "affyPLM": [],
     "AgiMicroRna": [
         "Glimma",
-        "ReportingTools",
         "affycoretools"
     ],
     "arrayMvout": [
@@ -26,7 +24,6 @@
     "arrayQualityMetrics": [
         "affyPLM"
     ],
-    "attract": [],
     "BANDITS": [],
     "bandle": [],
     "bgx": [],
@@ -228,7 +225,6 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffUTR": [],
     "DMRcate": [
         "missMethyl"
     ],
@@ -426,13 +422,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GSEABenchmarkeR": [],
     "iCheck": [
         "lumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -511,7 +504,6 @@
         "enrichplot",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -550,10 +542,7 @@
         "MSstatsPTM"
     ],
     "MSstatsPTM": [],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
@@ -612,7 +601,6 @@
     "pareg": [
         "DOSE"
     ],
-    "pcaExplorer": [],
     "PDATK": [
         "genefu",
         "survcomp"
@@ -623,7 +611,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [],
     "phemd": [
         "monocle"
     ],
@@ -651,9 +638,7 @@
         "tkWidgets"
     ],
     "psichomics": [],
-    "ptairMS": [],
     "QDNAseq": [],
-    "qPLEXanalyzer": [],
     "QuartPAC": [
         "SpacePAC"
     ],
@@ -663,11 +648,8 @@
         "DOSE",
         "enrichplot"
     ],
-    "ReportingTools": [],
-    "RiboCrypt": [],
     "Risa": [],
     "RLSeq": [],
-    "RMassBank": [],
     "RNAAgeCalc": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [],
@@ -733,7 +715,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "synapter": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
@@ -745,7 +726,6 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFHAZ": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -757,7 +737,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "ToxicoGx": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
