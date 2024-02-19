@@ -30,7 +30,6 @@
     "AlpsNMR": [],
     "AMARETTO": [],
     "Anaquin": [],
-    "animalcules": [],
     "anota2seq": [],
     "APAlyzer": [],
     "arrayMvout": [
@@ -81,7 +80,6 @@
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "BioNERO": [],
-    "BioNetStat": [],
     "biosigner": [],
     "BioTIP": [],
     "biscuiteer": [
@@ -242,7 +240,6 @@
         "MSnbase",
         "xcms"
     ],
-    "countsimQC": [],
     "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
@@ -569,9 +566,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [],
     "funtooNorm": [],
     "GARS": [
@@ -585,7 +580,6 @@
         "flowViz"
     ],
     "GBScleanR": [],
-    "gcatest": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
@@ -671,7 +665,6 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -702,7 +695,6 @@
         "MSnbase",
         "xcms"
     ],
-    "iSEEde": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq"
     ],
@@ -735,7 +727,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -837,7 +828,6 @@
         "MSnbase",
         "xcms"
     ],
-    "MODA": [],
     "MOFA2": [],
     "mogsa": [],
     "monocle": [],
@@ -852,7 +842,6 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -911,7 +900,6 @@
     "muscat": [],
     "MWASTools": [],
     "NADfinder": [],
-    "NBAMSeq": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -970,7 +958,6 @@
     "OPWeight": [],
     "ORFik": [],
     "orthos": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -987,7 +974,6 @@
     "pareg": [
         "DOSE"
     ],
-    "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -1005,7 +991,6 @@
     "peakPantheR": [
         "MSnbase"
     ],
-    "phantasus": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -1026,7 +1011,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "pmp": [],
     "POMA": [],
     "PPInfer": [],
     "PrInCE": [
