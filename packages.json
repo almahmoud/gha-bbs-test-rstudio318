@@ -79,7 +79,6 @@
     ],
     "cfdnakit": [],
     "ChAMP": [
-        "DMRcate",
         "wateRmelon"
     ],
     "ChIPseeker": [
@@ -207,7 +206,6 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "DMRcate": [],
     "DOSE": [],
     "DynDoc": [],
     "enrichplot": [
@@ -241,7 +239,6 @@
     "fdrame": [],
     "ffpe": [],
     "fishpond": [],
-    "flagme": [],
     "flowAI": [
         "cytolib",
         "flowCore"
@@ -413,8 +410,6 @@
         "cytolib",
         "flowCore"
     ],
-    "IPO": [],
-    "LOBSTAHS": [],
     "made4": [],
     "MAGAR": [],
     "MAGeCKFlute": [
@@ -422,10 +417,8 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [],
     "MantelCorr": [],
     "mdp": [],
-    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -441,7 +434,6 @@
         "cytolib",
         "flowCore"
     ],
-    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -482,8 +474,6 @@
     ],
     "mosbi": [],
     "MSnID": [],
-    "MSstatsLiP": [],
-    "MSstatsShiny": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -498,7 +488,6 @@
         "RandomWalkRestartMH"
     ],
     "netresponse": [],
-    "netZooR": [],
     "NormqPCR": [],
     "OLINgui": [
         "DynDoc",
