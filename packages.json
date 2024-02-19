@@ -7,8 +7,7 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "impute",
-        "marray"
+        "impute"
     ],
     "ADaCGH2": [
         "snapCGH",
@@ -57,22 +56,17 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
-        "GEOquery",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
     "artMS": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "ASICS": [
         "ropls"
@@ -120,7 +114,6 @@
     ],
     "bgx": [],
     "bigmelon": [
-        "GEOquery",
         "lumi",
         "methylumi",
         "minfi",
@@ -174,8 +167,7 @@
         "CGHcall",
         "QDNAseq",
         "dmrseq",
-        "impute",
-        "marray"
+        "impute"
     ],
     "blacksheepr": [
         "DESeq2",
@@ -284,20 +276,16 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "impute",
-        "marray"
+        "impute"
     ],
     "cfTools": [
         "basilisk",
         "basilisk.utils"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
         "CGHbase",
-        "impute",
-        "marray"
+        "impute"
     ],
     "cghMCR": [
         "CNTools"
@@ -305,26 +293,21 @@
     "CGHnormaliter": [
         "CGHbase",
         "CGHcall",
-        "impute",
-        "marray"
+        "impute"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "DMRcate",
-        "GEOquery",
         "impute",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "missMethyl",
         "sva",
         "wateRmelon"
     ],
-    "ChIPComp": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind"
@@ -333,9 +316,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "ChIPXpress": [
-        "GEOquery"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [
         "scran"
     ],
@@ -385,7 +366,6 @@
     ],
     "coMethDMR": [],
     "compEpiTools": [
-        "marray",
         "methylPipe"
     ],
     "CompoundDb": [
@@ -407,14 +387,10 @@
         "survcomp"
     ],
     "conumee": [
-        "GEOquery",
         "minfi"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "CoreGx": [
-        "marray",
         "piano"
     ],
     "coseq": [
@@ -429,25 +405,17 @@
         "impute",
         "xcms"
     ],
-    "cosmosR": [
-        "decoupleR"
-    ],
+    "cosmosR": [],
     "countsimQC": [
         "DESeq2"
     ],
     "covRNA": [],
     "CRImage": [],
-    "crisprBase": [],
-    "crisprBowtie": [
-        "crisprBase"
-    ],
-    "crisprBwa": [
-        "crisprBase"
-    ],
+    "crisprBowtie": [],
+    "crisprBwa": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
-        "crisprBase",
         "crisprBowtie",
         "crisprScore"
     ],
@@ -458,7 +426,6 @@
     "crisprVerse": [
         "basilisk",
         "basilisk.utils",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -467,13 +434,11 @@
     "crisprViz": [
         "basilisk",
         "basilisk.utils",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore"
     ],
     "crossmeta": [
-        "GEOquery",
         "sva"
     ],
     "csaw": [],
@@ -585,12 +550,10 @@
         "scran"
     ],
     "deconvR": [
-        "GEOquery",
         "fastseg",
         "methylKit",
         "minfi"
     ],
-    "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [],
     "DEFormats": [
@@ -637,7 +600,6 @@
         "DESeq2"
     ],
     "DExMA": [
-        "GEOquery",
         "impute",
         "sva"
     ],
@@ -670,7 +632,6 @@
     ],
     "DMCFB": [],
     "DMRcate": [
-        "GEOquery",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -687,17 +648,11 @@
         "pathview",
         "zenith"
     ],
-    "DrugVsDisease": [
-        "ArrayExpress",
-        "GEOquery"
-    ],
-    "dyebias": [
-        "marray"
-    ],
+    "DrugVsDisease": [],
+    "dyebias": [],
     "DynDoc": [],
     "easier": [
         "DESeq2",
-        "decoupleR",
         "progeny"
     ],
     "EBSEA": [
@@ -707,14 +662,12 @@
         "sva"
     ],
     "EGAD": [
-        "GEOquery",
         "impute"
     ],
     "EGSEA": [
         "pathview"
     ],
     "ENmix": [
-        "GEOquery",
         "impute",
         "minfi"
     ],
@@ -750,7 +703,6 @@
         "impute"
     ],
     "epimutacions": [
-        "GEOquery",
         "minfi"
     ],
     "epiNEM": [],
@@ -792,7 +744,6 @@
     ],
     "fdrame": [],
     "ffpe": [
-        "GEOquery",
         "lumi",
         "methylumi",
         "minfi"
@@ -932,7 +883,6 @@
     ],
     "frenchFISH": [],
     "funtooNorm": [
-        "GEOquery",
         "minfi"
     ],
     "garfield": [],
@@ -963,26 +913,22 @@
         "CoreGx",
         "PharmacoGx",
         "gDRimport",
-        "marray",
         "piano"
     ],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "marray",
         "piano"
     ],
     "GDSArray": [
         "SNPRelate",
         "SeqArray"
     ],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "impute",
-        "marray"
+        "impute"
     ],
     "genefu": [
         "impute",
@@ -1001,7 +947,6 @@
     "GeneTonic": [
         "DESeq2"
     ],
-    "geneXtendeR": [],
     "genoCN": [],
     "genomation": [
         "impute"
@@ -1017,14 +962,10 @@
         "DeepPINCS"
     ],
     "GEOexplorer": [
-        "GEOquery",
         "impute",
         "sva"
     ],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
-    "GEOquery": [],
+    "GEOmetadb": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1078,8 +1019,7 @@
         "pathview"
     ],
     "gsean": [
-        "PPInfer",
-        "STRINGdb"
+        "PPInfer"
     ],
     "GSRI": [],
     "GWASTools": [],
@@ -1111,7 +1051,6 @@
         "csaw"
     ],
     "iCheck": [
-        "GEOquery",
         "lumi",
         "methylumi",
         "minfi"
@@ -1122,9 +1061,7 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "IMMAN": [
-        "STRINGdb"
-    ],
+    "IMMAN": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -1138,7 +1075,6 @@
     "impute": [],
     "iNETgrate": [
         "DOSE",
-        "GEOquery",
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
@@ -1186,7 +1122,6 @@
         "DESeq2"
     ],
     "ITALICS": [],
-    "iterativeBMAsurv": [],
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
@@ -1215,7 +1150,6 @@
     "logicFS": [],
     "LRcell": [],
     "lumi": [
-        "GEOquery",
         "methylumi",
         "minfi"
     ],
@@ -1228,7 +1162,6 @@
     ],
     "made4": [],
     "MAGAR": [
-        "GEOquery",
         "RnBeads",
         "impute",
         "methylumi",
@@ -1256,7 +1189,6 @@
     "MANOR": [],
     "MantelCorr": [],
     "maPredictDSC": [],
-    "marray": [],
     "martini": [],
     "maskBAD": [],
     "MassSpecWavelet": [],
@@ -1274,14 +1206,12 @@
     ],
     "mdp": [],
     "MEAL": [
-        "GEOquery",
         "methylumi",
         "minfi",
         "missMethyl",
         "sva"
     ],
     "MEAT": [
-        "GEOquery",
         "impute",
         "lumi",
         "methylumi",
@@ -1339,21 +1269,17 @@
         "sesame"
     ],
     "MethylAid": [
-        "GEOquery",
         "minfi"
     ],
     "methylCC": [
-        "GEOquery",
         "minfi"
     ],
     "methylclock": [
-        "GEOquery",
         "impute",
         "minfi"
     ],
     "methylGSA": [
         "DOSE",
-        "GEOquery",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -1370,11 +1296,8 @@
     "MethylMix": [
         "impute"
     ],
-    "methylPipe": [
-        "marray"
-    ],
+    "methylPipe": [],
     "methylumi": [
-        "GEOquery",
         "minfi"
     ],
     "Mfuzz": [
@@ -1396,19 +1319,14 @@
     "mimager": [
         "affyPLM"
     ],
-    "mina": [],
     "MineICA": [
         "Category",
-        "GEOquery",
         "GOstats",
         "lumi",
-        "marray",
         "methylumi",
         "minfi"
     ],
-    "minfi": [
-        "GEOquery"
-    ],
+    "minfi": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1419,7 +1337,6 @@
     ],
     "miRNApath": [],
     "missMethyl": [
-        "GEOquery",
         "methylumi",
         "minfi"
     ],
@@ -1447,19 +1364,16 @@
     "monocle": [],
     "Moonlight2R": [
         "DOSE",
-        "GEOquery",
         "clusterProfiler",
         "enrichplot"
     ],
     "MoonlightR": [
         "DOSE",
-        "GEOquery",
         "clusterProfiler",
         "enrichplot"
     ],
     "mosbi": [],
     "motifbreakR": [],
-    "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -1509,23 +1423,18 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstats": [
-        "marray"
-    ],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -1539,12 +1448,10 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MultiBaC": [
         "ropls"
@@ -1606,16 +1513,12 @@
     ],
     "netZooR": [
         "Category",
-        "GEOquery",
         "GOstats",
-        "STRINGdb",
         "minfi",
         "quantro",
         "yarn"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -1624,13 +1527,10 @@
     "octad": [
         "DESeq2"
     ],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
         "DynDoc",
         "OLIN",
-        "marray",
         "tkWidgets"
     ],
     "omicade4": [
@@ -1711,7 +1611,6 @@
         "CoreGx",
         "genefu",
         "impute",
-        "marray",
         "piano",
         "survcomp"
     ],
@@ -1727,12 +1626,10 @@
     ],
     "PECA": [],
     "phantasus": [
-        "DESeq2",
-        "GEOquery"
+        "DESeq2"
     ],
     "PharmacoGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "phemd": [
@@ -1747,9 +1644,7 @@
         "Category"
     ],
     "Pi": [],
-    "piano": [
-        "marray"
-    ],
+    "piano": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -1771,9 +1666,7 @@
         "DESeq2",
         "impute"
     ],
-    "PPInfer": [
-        "STRINGdb"
-    ],
+    "PPInfer": [],
     "PREDA": [],
     "PrInCE": [
         "MSnbase",
@@ -1787,9 +1680,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -1817,7 +1708,6 @@
     ],
     "protGear": [],
     "psichomics": [
-        "GEOquery",
         "derfinder",
         "recount"
     ],
@@ -1825,15 +1715,12 @@
         "MSnbase",
         "impute"
     ],
-    "pwOmics": [
-        "STRINGdb"
-    ],
+    "pwOmics": [],
     "qckitfastq": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
-        "impute",
-        "marray"
+        "impute"
     ],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -1846,7 +1733,6 @@
         "sva"
     ],
     "quantro": [
-        "GEOquery",
         "minfi"
     ],
     "QuartPAC": [
@@ -1856,7 +1742,6 @@
     "r3Cseq": [],
     "RadioGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "RAIDS": [
@@ -1868,9 +1753,7 @@
     ],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "RCAS": [
         "genomation",
         "impute"
@@ -1892,11 +1775,9 @@
     "REBET": [],
     "rebook": [],
     "recount": [
-        "GEOquery",
         "derfinder"
     ],
     "recountmethylation": [
-        "GEOquery",
         "basilisk",
         "basilisk.utils",
         "minfi"
@@ -1911,7 +1792,6 @@
         "derfinder"
     ],
     "REMP": [
-        "GEOquery",
         "impute",
         "minfi"
     ],
@@ -1954,10 +1834,7 @@
         "impute",
         "xcms"
     ],
-    "RITAN": [
-        "STRINGdb"
-    ],
-    "RLMM": [],
+    "RITAN": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
@@ -1967,7 +1844,6 @@
         "DESeq2"
     ],
     "RNAAgeCalc": [
-        "GEOquery",
         "derfinder",
         "impute",
         "recount"
@@ -1980,12 +1856,10 @@
     ],
     "RNAsense": [],
     "RnaSeqSampleSize": [
-        "GEOquery",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
-        "GEOquery",
         "methylumi",
         "minfi"
     ],
@@ -2012,7 +1886,6 @@
         "pathview"
     ],
     "SCAN.UPC": [
-        "GEOquery",
         "sva"
     ],
     "scanMiR": [],
@@ -2115,11 +1988,9 @@
         "GOstats"
     ],
     "shinyepico": [
-        "GEOquery",
         "minfi"
     ],
     "shinyMethyl": [
-        "GEOquery",
         "minfi"
     ],
     "SigCheck": [
@@ -2161,7 +2032,6 @@
         "zinbwave"
     ],
     "skewr": [
-        "GEOquery",
         "lumi",
         "methylumi",
         "minfi",
@@ -2194,7 +2064,6 @@
     ],
     "specL": [],
     "Spectra": [],
-    "SPEM": [],
     "SPIA": [],
     "spicyR": [
         "ClassifyR"
@@ -2205,9 +2074,7 @@
         "impute"
     ],
     "sRACIPE": [],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "DESeq2"
     ],
@@ -2219,10 +2086,7 @@
     "statTarget": [
         "impute"
     ],
-    "stepNorm": [
-        "marray"
-    ],
-    "STRINGdb": [],
+    "stepNorm": [],
     "struct": [],
     "structToolbox": [
         "struct"
@@ -2254,7 +2118,6 @@
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
-        "STRINGdb",
         "enrichplot"
     ],
     "TEKRABber": [
@@ -2268,11 +2131,8 @@
         "DESeq2",
         "ORFik"
     ],
-    "tidybulk": [],
     "tilingArray": [],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -2288,9 +2148,7 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TOP": [
         "ClassifyR"
     ],
@@ -2300,7 +2158,6 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "TPP": [],
@@ -2320,8 +2177,7 @@
     "trio": [],
     "tripr": [],
     "TurboNorm": [
-        "convert",
-        "marray"
+        "convert"
     ],
     "UMI4Cats": [
         "DESeq2"
@@ -2358,7 +2214,6 @@
         "csaw"
     ],
     "wateRmelon": [
-        "GEOquery",
         "lumi",
         "methylumi",
         "minfi"
@@ -2378,18 +2233,14 @@
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
-        "marray",
         "piano"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
     "yarn": [
-        "GEOquery",
         "minfi",
         "quantro"
     ],
