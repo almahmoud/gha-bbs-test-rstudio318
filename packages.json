@@ -1,32 +1,21 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "ACE": [],
-    "ADAMgui": [],
     "affycoretools": [
         "Glimma"
     ],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AgiMicroRna": [
         "Glimma",
         "affycoretools"
     ],
     "arrayMvout": [],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
-    "BANDITS": [],
+    "arrayQualityMetrics": [],
     "bgx": [],
     "bigmelon": [
         "wateRmelon"
     ],
     "bioCancer": [
-        "DOSE",
         "RTCGAToolbox",
         "ReactomePA",
         "TCGAutils",
@@ -44,7 +33,6 @@
     ],
     "CATALYST": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "cbaf": [
@@ -57,32 +45,26 @@
         "TCGAutils"
     ],
     "CBNplot": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "CEMiTool": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "censcyt": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
     "CeTF": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "cfdnakit": [],
     "ChAMP": [
         "wateRmelon"
     ],
     "ChIPseeker": [
-        "DOSE",
         "enrichplot"
     ],
     "cicero": [
@@ -91,15 +73,12 @@
     "cliqueMS": [],
     "ClusterJudge": [],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot"
     ],
     "cmapR": [
-        "cytolib",
         "flowCore"
     ],
     "CONFESS": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowMeans",
@@ -111,7 +90,6 @@
     ],
     "csdR": [],
     "cyanoFilter": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowDensity",
@@ -123,32 +101,25 @@
         "tkWidgets"
     ],
     "cydar": [
-        "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
     "cytofQC": [
         "CATALYST",
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
-    "cytolib": [],
     "cytoMEM": [
-        "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -159,7 +130,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -169,7 +139,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -177,7 +146,6 @@
         "ncdfFlow"
     ],
     "DAPAR": [
-        "DOSE",
         "DynDoc",
         "Mfuzz",
         "clusterProfiler",
@@ -186,159 +154,121 @@
     ],
     "dce": [],
     "ddPCRclust": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "debrowser": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "DeepBlueR": [],
-    "DeepPINCS": [],
     "diffcyt": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
-    "DOSE": [],
+    "DifferentialRegulation": [],
     "DynDoc": [],
-    "enrichplot": [
-        "DOSE"
-    ],
+    "enrichplot": [],
     "enrichTF": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "enrichViewNet": [
-        "DOSE",
         "enrichplot"
     ],
     "EpiCompare": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "esATAC": [
         "ChIPseeker",
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "famat": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "fdrame": [],
     "ffpe": [],
-    "fishpond": [],
     "flowAI": [
-        "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowCHIC": [
-        "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "cytolib",
         "flowCore"
     ],
-    "flowCore": [
-        "cytolib"
-    ],
+    "flowCore": [],
     "flowCut": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [
-        "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
-        "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "cytolib",
         "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [
-        "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "cytolib",
         "flowCore",
         "flowStats",
         "flowViz",
@@ -346,19 +276,16 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "cytolib",
         "flowCore",
         "ncdfFlow"
     ],
     "frenchFISH": [],
     "GateFinder": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "GDCRNATools": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -367,12 +294,9 @@
     "genefu": [
         "survcomp"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "GEWIST": [],
     "ggcyto": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -384,36 +308,30 @@
         "cBioPortalData"
     ],
     "goSorensen": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "iCheck": [],
     "ImmuneSpaceR": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "cytolib",
         "flowCore"
     ],
     "iNETgrate": [
-        "DOSE",
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
     ],
     "infinityFlow": [
-        "cytolib",
         "flowCore"
     ],
     "made4": [],
     "MAGAR": [],
     "MAGeCKFlute": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -423,19 +341,14 @@
         "wateRmelon"
     ],
     "meshes": [
-        "DOSE",
         "enrichplot"
     ],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "MetaPhOR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -443,7 +356,6 @@
         "survcomp"
     ],
     "methylGSA": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -452,43 +364,33 @@
         "tkWidgets"
     ],
     "MicrobiomeProfiler": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [],
     "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "MoonlightR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [],
     "MSnID": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
-    "MWASTools": [],
     "ncdfFlow": [
-        "cytolib",
         "flowCore"
     ],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [],
-    "NormqPCR": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -502,7 +404,6 @@
     ],
     "onlineFDR": [],
     "openCyto": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -510,26 +411,21 @@
         "ncdfFlow"
     ],
     "optimalFlow": [
-        "cytolib",
         "flowCore",
         "flowMeans"
     ],
     "OPWeight": [],
     "PanomiR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "PanViz": [],
-    "pareg": [
-        "DOSE"
-    ],
+    "pareg": [],
     "PDATK": [
         "genefu",
         "survcomp"
     ],
     "PeacoQC": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -540,31 +436,25 @@
     "phenopath": [],
     "Pi": [],
     "Pigengene": [
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot"
     ],
     "profileplyr": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "Prostar": [
         "DAPAR",
-        "DOSE",
         "DynDoc",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "tkWidgets"
     ],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "RandomWalkRestartMH": [],
     "ReactomePA": [
-        "DOSE",
         "enrichplot"
     ],
     "RLSeq": [],
@@ -577,38 +467,30 @@
     ],
     "SCBN": [],
     "scDataviz": [
-        "cytolib",
         "flowCore"
     ],
     "scifer": [
-        "cytolib",
         "flowCore"
     ],
     "Sconify": [
-        "cytolib",
         "flowCore"
     ],
     "scShapes": [],
     "scTensor": [
-        "DOSE",
         "ReactomePA",
         "enrichplot"
     ],
     "segmenter": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqCNA": [],
     "SeqSQC": [],
     "signatureSearch": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -620,16 +502,12 @@
     "skewr": [
         "wateRmelon"
     ],
-    "SpacePAC": [],
     "sparsenetgls": [],
     "specL": [],
     "survcomp": [],
-    "SVMDO": [
-        "DOSE"
-    ],
+    "SVMDO": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
-        "DOSE",
         "enrichplot"
     ],
     "TEKRABber": [
@@ -639,7 +517,6 @@
         "TCGAutils"
     ],
     "TimiRGeN": [
-        "DOSE",
         "DynDoc",
         "Mfuzz",
         "clusterProfiler",
@@ -651,7 +528,6 @@
     ],
     "treekoR": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -659,9 +535,7 @@
     "uSORT": [
         "monocle"
     ],
-    "VAExprs": [
-        "DeepPINCS"
-    ],
+    "VAExprs": [],
     "veloviz": [],
     "wateRmelon": [],
     "XNAString": []
