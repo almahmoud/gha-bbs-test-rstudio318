@@ -7,17 +7,14 @@
     "canceR": [
         "cBioPortalData"
     ],
-    "CATALYST": [],
     "cbaf": [
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CBNplot": [],
     "CEMiTool": [],
     "censcyt": [
         "diffcyt"
     ],
-    "CeTF": [],
     "cicero": [
         "monocle"
     ],
@@ -27,15 +24,11 @@
         "flowMerge"
     ],
     "consensusOV": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -53,10 +46,7 @@
         "ggcyto"
     ],
     "DAPAR": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
-    "debrowser": [],
+    "ddPCRclust": [],
     "DeepBlueR": [],
     "diffcyt": [],
     "enrichTF": [],
@@ -67,10 +57,7 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
@@ -90,7 +77,6 @@
     "GateFinder": [
         "flowFP"
     ],
-    "GDCRNATools": [],
     "GEWIST": [],
     "ggcyto": [
         "flowWorkspace"
@@ -98,7 +84,6 @@
     "GNOSIS": [
         "cBioPortalData"
     ],
-    "goSorensen": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
     ],
@@ -106,7 +91,6 @@
         "Pigengene"
     ],
     "MAGeCKFlute": [],
-    "MetaCyto": [],
     "MetaPhOR": [],
     "methylGSA": [],
     "MicrobiomeProfiler": [],
