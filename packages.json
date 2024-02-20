@@ -24,11 +24,9 @@
         "flowMerge"
     ],
     "consensusOV": [],
-    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -46,7 +44,6 @@
         "ggcyto"
     ],
     "DAPAR": [],
-    "ddPCRclust": [],
     "DeepBlueR": [],
     "diffcyt": [],
     "enrichTF": [],
@@ -57,7 +54,6 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCut": [],
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
