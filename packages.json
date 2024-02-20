@@ -60,9 +60,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
@@ -98,7 +96,6 @@
         "ncdfFlow"
     ],
     "DAPAR": [
-        "Mfuzz",
         "clusterProfiler"
     ],
     "ddPCRclust": [
@@ -226,7 +223,6 @@
     "methylGSA": [
         "clusterProfiler"
     ],
-    "Mfuzz": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
@@ -237,15 +233,11 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "ncdfFlow": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "OLINgui": [],
-    "omicRexposome": [],
     "onlineFDR": [],
     "openCyto": [
         "flowClust",
@@ -280,7 +272,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "Mfuzz",
         "clusterProfiler"
     ],
     "RandomWalkRestartMH": [],
@@ -322,7 +313,6 @@
     ],
     "terraTCGAdata": [],
     "TimiRGeN": [
-        "Mfuzz",
         "clusterProfiler"
     ],
     "treekoR": [
