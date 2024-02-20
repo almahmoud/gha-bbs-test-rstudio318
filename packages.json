@@ -1,31 +1,16 @@
 {
-    "AgiMicroRna": [],
-    "bioCancer": [
-        "cBioPortalData"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
-    "canceR": [
-        "cBioPortalData"
-    ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "canceR": [],
+    "cbaf": [],
+    "censcyt": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "ClusterJudge": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
-    "consensusOV": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CONFESS": [],
+    "CyTOFpower": [],
     "CytoML": [
         "ggcyto",
         "openCyto"
@@ -39,17 +24,12 @@
         "PeacoQC",
         "ggcyto"
     ],
-    "DAPAR": [],
     "DeepBlueR": [],
-    "diffcyt": [],
-    "enrichTF": [],
-    "esATAC": [],
     "fdrame": [],
     "flowBin": [],
     "flowGate": [
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [],
     "flowVS": [
         "flowStats"
@@ -58,15 +38,9 @@
     "GateFinder": [],
     "GEWIST": [],
     "ggcyto": [],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "ImmuneSpaceR": [],
-    "iNETgrate": [
-        "Pigengene"
-    ],
-    "MAGeCKFlute": [],
-    "MicrobiomeProfiler": [],
+    "iNETgrate": [],
     "monocle": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -74,17 +48,12 @@
     "onlineFDR": [],
     "openCyto": [],
     "PanViz": [],
-    "PDATK": [],
     "PeacoQC": [],
     "phemd": [
         "monocle"
     ],
     "Pi": [],
-    "Pigengene": [],
-    "profileplyr": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
     "scanMiR": [],
@@ -92,21 +61,15 @@
         "scanMiR"
     ],
     "SCBN": [],
-    "scTensor": [],
-    "seqArchRplus": [],
     "SeqSQC": [],
     "signatureSearch": [],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "sparsenetgls": [],
     "specL": [],
     "TEKRABber": [
         "SCBN"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tripr": [],
     "uSORT": [
         "monocle"
