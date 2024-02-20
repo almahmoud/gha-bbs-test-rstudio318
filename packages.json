@@ -9,7 +9,6 @@
         "Glimma",
         "affycoretools"
     ],
-    "arrayMvout": [],
     "arrayQualityMetrics": [],
     "bgx": [],
     "bigmelon": [
@@ -24,8 +23,6 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "biscuiteer": [],
-    "BloodGen3Module": [],
     "canceR": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -88,7 +85,6 @@
         "genefu",
         "survcomp"
     ],
-    "csdR": [],
     "cyanoFilter": [
         "flowClust",
         "flowCore",
@@ -96,7 +92,6 @@
         "flowViz"
     ],
     "cycle": [
-        "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
@@ -146,13 +141,11 @@
         "ncdfFlow"
     ],
     "DAPAR": [
-        "DynDoc",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "tkWidgets"
     ],
-    "dce": [],
     "ddPCRclust": [
         "flowCore",
         "flowDensity",
@@ -168,7 +161,6 @@
         "flowCore"
     ],
     "DifferentialRegulation": [],
-    "DynDoc": [],
     "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
@@ -290,7 +282,6 @@
         "enrichplot"
     ],
     "gDR": [],
-    "GeneBreak": [],
     "genefu": [
         "survcomp"
     ],
@@ -311,7 +302,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "iCheck": [],
     "ImmuneSpaceR": [
         "flowCore",
         "flowWorkspace",
@@ -329,14 +319,12 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "made4": [],
     "MAGAR": [],
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot"
     ],
     "MantelCorr": [],
-    "mdp": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -360,7 +348,6 @@
         "enrichplot"
     ],
     "Mfuzz": [
-        "DynDoc",
         "tkWidgets"
     ],
     "MicrobiomeProfiler": [
@@ -379,9 +366,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MSnID": [],
     "MultiRNAflow": [
-        "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
@@ -392,14 +377,10 @@
         "RandomWalkRestartMH"
     ],
     "OLINgui": [
-        "DynDoc",
         "tkWidgets"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicRexposome": [
-        "made4",
         "omicade4"
     ],
     "onlineFDR": [],
@@ -433,7 +414,6 @@
     "phemd": [
         "monocle"
     ],
-    "phenopath": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -446,7 +426,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DynDoc",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
@@ -517,15 +496,12 @@
         "TCGAutils"
     ],
     "TimiRGeN": [
-        "DynDoc",
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "tkWidgets"
     ],
-    "tkWidgets": [
-        "DynDoc"
-    ],
+    "tkWidgets": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt",
