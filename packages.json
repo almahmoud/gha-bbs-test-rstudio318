@@ -1,23 +1,15 @@
 {
     "a4": [],
-    "ACE": [],
-    "affycoretools": [
-        "Glimma"
-    ],
+    "affycoretools": [],
     "affylmGUI": [],
     "AgiMicroRna": [
-        "Glimma",
         "affycoretools"
     ],
     "arrayQualityMetrics": [],
-    "bgx": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot"
@@ -25,7 +17,6 @@
     "BiocOncoTK": [],
     "canceR": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CATALYST": [
@@ -34,12 +25,10 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "clusterProfiler",
@@ -58,9 +47,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ChAMP": [
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "ChIPseeker": [
         "enrichplot"
     ],
@@ -82,8 +69,7 @@
         "flowMerge"
     ],
     "consensusOV": [
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "cyanoFilter": [
         "flowClust",
@@ -183,7 +169,6 @@
         "enrichplot"
     ],
     "fdrame": [],
-    "ffpe": [],
     "flowAI": [
         "flowCore"
     ],
@@ -281,10 +266,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDR": [],
-    "genefu": [
-        "survcomp"
-    ],
+    "genefu": [],
     "GenProSeq": [],
     "GEWIST": [],
     "ggcyto": [
@@ -292,10 +274,8 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "Glimma": [],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -319,15 +299,11 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "MAGAR": [],
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "MantelCorr": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "meshes": [
         "enrichplot"
     ],
@@ -340,9 +316,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [
-        "survcomp"
-    ],
+    "metaseqR2": [],
     "methylGSA": [
         "clusterProfiler",
         "enrichplot"
@@ -355,8 +329,6 @@
         "enrichplot"
     ],
     "mimager": [],
-    "MineICA": [],
-    "mogsa": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -395,7 +367,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -403,8 +374,7 @@
     "PanViz": [],
     "pareg": [],
     "PDATK": [
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "PeacoQC": [
         "flowCore",
@@ -437,9 +407,7 @@
         "enrichplot"
     ],
     "RLSeq": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -454,7 +422,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "scShapes": [],
     "scTensor": [
         "ReactomePA",
         "enrichplot"
@@ -475,26 +442,19 @@
     ],
     "signifinder": [
         "consensusOV",
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "sparsenetgls": [],
     "specL": [],
-    "survcomp": [],
     "SVMDO": [],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
     "TEKRABber": [
         "SCBN"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TimiRGeN": [
         "Mfuzz",
         "clusterProfiler",
@@ -512,7 +472,5 @@
         "monocle"
     ],
     "VAExprs": [],
-    "veloviz": [],
-    "wateRmelon": [],
-    "XNAString": []
+    "veloviz": []
 }
