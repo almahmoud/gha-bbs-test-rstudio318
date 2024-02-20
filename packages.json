@@ -2,8 +2,7 @@
     "AgiMicroRna": [],
     "bioCancer": [
         "ReactomePA",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "BiocOncoTK": [],
     "canceR": [
@@ -16,41 +15,29 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
+    "CEMiTool": [],
     "censcyt": [
         "FlowSOM",
         "diffcyt"
     ],
-    "CeTF": [
-        "clusterProfiler"
-    ],
-    "ChIPseeker": [],
+    "CeTF": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "ClusterJudge": [],
-    "clusterProfiler": [],
-    "cmapR": [],
     "CONFESS": [
-        "flowClust",
         "flowMeans",
         "flowMerge"
     ],
     "consensusOV": [],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowViz"
     ],
     "cycle": [],
     "cydar": [],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -59,9 +46,7 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -70,7 +55,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -78,49 +62,31 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
-    "DAPAR": [
-        "clusterProfiler"
-    ],
+    "DAPAR": [],
     "ddPCRclust": [
         "flowDensity",
         "flowViz"
     ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "DeepBlueR": [],
     "diffcyt": [
         "FlowSOM"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
-    "enrichViewNet": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
-    "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
+    "EpiCompare": [],
+    "esATAC": [],
+    "famat": [],
     "fdrame": [],
-    "flowAI": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [],
     "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -136,22 +102,15 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [],
     "flowMeans": [],
-    "flowMerge": [
-        "flowClust"
-    ],
-    "flowPloidy": [],
+    "flowMerge": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [],
     "flowTrans": [
-        "flowClust",
         "flowViz"
     ],
     "flowViz": [],
@@ -169,9 +128,7 @@
         "flowFP",
         "flowViz"
     ],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "GEWIST": [],
     "ggcyto": [
         "flowWorkspace",
@@ -180,9 +137,7 @@
     "GNOSIS": [
         "cBioPortalData"
     ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -190,33 +145,19 @@
     "immunoClust": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
-    "infinityFlow": [],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "meshes": [],
     "MetaCyto": [
         "FlowSOM"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
-    "methylGSA": [
-        "clusterProfiler"
-    ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
+    "methylGSA": [],
+    "MicrobiomeProfiler": [],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "MultiRNAflow": [],
     "ncdfFlow": [],
     "netOmics": [
@@ -224,7 +165,6 @@
     ],
     "onlineFDR": [],
     "openCyto": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
@@ -232,9 +172,7 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "PanViz": [],
     "PDATK": [],
     "PeacoQC": [
@@ -246,15 +184,11 @@
     ],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "Prostar": [
-        "DAPAR",
-        "clusterProfiler"
+        "DAPAR"
     ],
     "RandomWalkRestartMH": [],
     "ReactomePA": [],
@@ -265,22 +199,14 @@
     ],
     "SCBN": [],
     "scDataviz": [],
-    "scifer": [],
     "Sconify": [],
     "scTensor": [
         "ReactomePA"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
-    "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
+    "segmenter": [],
+    "seqArchRplus": [],
     "SeqSQC": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [
         "consensusOV"
     ],
@@ -290,9 +216,7 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
