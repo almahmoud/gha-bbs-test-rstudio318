@@ -11,7 +11,6 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CEMiTool": [],
     "censcyt": [
         "diffcyt"
     ],
@@ -28,85 +27,55 @@
         "diffcyt"
     ],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "DAPAR": [],
     "DeepBlueR": [],
     "diffcyt": [],
     "enrichTF": [],
-    "EpiCompare": [],
     "esATAC": [],
-    "famat": [],
     "fdrame": [],
-    "flowBin": [
-        "flowFP"
-    ],
-    "flowFP": [],
+    "flowBin": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowMerge": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
-    "flowTrans": [],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "frenchFISH": [],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GEWIST": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "GNOSIS": [
         "cBioPortalData"
     ],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene"
     ],
     "MAGeCKFlute": [],
-    "MetaPhOR": [],
-    "methylGSA": [],
     "MicrobiomeProfiler": [],
     "monocle": [],
-    "Moonlight2R": [],
-    "MoonlightR": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "onlineFDR": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
-    "optimalFlow": [],
-    "PanomiR": [],
+    "openCyto": [],
     "PanViz": [],
     "PDATK": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "phemd": [
         "monocle"
     ],
@@ -124,7 +93,6 @@
     ],
     "SCBN": [],
     "scTensor": [],
-    "segmenter": [],
     "seqArchRplus": [],
     "SeqSQC": [],
     "signatureSearch": [],
@@ -136,7 +104,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "TimiRGeN": [],
     "treekoR": [
         "diffcyt"
     ],
