@@ -1,22 +1,14 @@
 {
-    "bioCancer": [],
     "BiocOncoTK": [],
-    "canceR": [],
-    "cbaf": [],
-    "censcyt": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "ClusterJudge": [],
-    "CONFESS": [],
-    "CyTOFpower": [],
     "DeepBlueR": [],
     "fdrame": [],
     "frenchFISH": [],
     "GEWIST": [],
-    "GNOSIS": [],
-    "iNETgrate": [],
     "monocle": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -27,7 +19,6 @@
         "monocle"
     ],
     "Pi": [],
-    "Prostar": [],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
     "scanMiR": [],
@@ -37,13 +28,11 @@
     "SCBN": [],
     "SeqSQC": [],
     "signatureSearch": [],
-    "signifinder": [],
     "sparsenetgls": [],
     "specL": [],
     "TEKRABber": [
         "SCBN"
     ],
-    "treekoR": [],
     "tripr": [],
     "uSORT": [
         "monocle"
