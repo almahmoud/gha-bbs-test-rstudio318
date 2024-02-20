@@ -11,44 +11,25 @@
     "ClusterJudge": [],
     "CONFESS": [],
     "CyTOFpower": [],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "CytoPipeline"
     ],
     "DeepBlueR": [],
     "fdrame": [],
-    "flowBin": [],
-    "flowGate": [
-        "ggcyto"
-    ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowGate": [],
+    "flowVS": [],
     "frenchFISH": [],
-    "GateFinder": [],
     "GEWIST": [],
-    "ggcyto": [],
     "GNOSIS": [],
-    "ImmuneSpaceR": [],
     "iNETgrate": [],
     "monocle": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "onlineFDR": [],
-    "openCyto": [],
     "PanViz": [],
-    "PeacoQC": [],
     "phemd": [
         "monocle"
     ],
