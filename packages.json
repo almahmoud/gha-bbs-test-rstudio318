@@ -1,30 +1,21 @@
 {
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
-    "bigmelon": [],
+    "AgiMicroRna": [],
     "bioCancer": [
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
     "canceR": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "CATALYST": [
         "FlowSOM"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -38,7 +29,6 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "ChAMP": [],
     "ChIPseeker": [],
     "cicero": [
         "monocle"
@@ -52,9 +42,7 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusOV": [
-        "genefu"
-    ],
+    "consensusOV": [],
     "cyanoFilter": [
         "flowClust",
         "flowDensity",
@@ -184,14 +172,12 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "genefu": [],
     "GEWIST": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
     ],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -211,7 +197,6 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MEAT": [],
     "meshes": [],
     "MetaCyto": [
         "FlowSOM"
@@ -219,7 +204,6 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "metaseqR2": [],
     "methylGSA": [
         "clusterProfiler"
     ],
@@ -252,9 +236,7 @@
         "clusterProfiler"
     ],
     "PanViz": [],
-    "PDATK": [
-        "genefu"
-    ],
+    "PDATK": [],
     "PeacoQC": [
         "flowWorkspace",
         "ncdfFlow"
@@ -277,7 +259,6 @@
     "RandomWalkRestartMH": [],
     "ReactomePA": [],
     "RLSeq": [],
-    "RTCGAToolbox": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -301,17 +282,14 @@
         "clusterProfiler"
     ],
     "signifinder": [
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
-    "skewr": [],
     "sparsenetgls": [],
     "specL": [],
     "TDbasedUFEadv": [],
     "TEKRABber": [
         "SCBN"
     ],
-    "terraTCGAdata": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
