@@ -328,7 +328,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "batchelor": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -355,7 +354,6 @@
         "ALDEx2",
         "ANCOMBC",
         "DESeq2",
-        "MAST",
         "Rhdf5lib",
         "biomformat",
         "dearseq",
@@ -637,9 +635,7 @@
     ],
     "ccrepe": [],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "metapod",
         "scran"
@@ -768,7 +764,6 @@
     "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [
-        "batchelor",
         "metapod",
         "scran"
     ],
@@ -1365,7 +1360,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DEsubs": [
         "DESeq2",
         "qvalue"
@@ -2646,7 +2640,6 @@
     ],
     "MassArray": [],
     "MassSpecWavelet": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [
         "impute"
@@ -2866,7 +2859,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
@@ -3221,7 +3213,6 @@
         "impute"
     ],
     "mumosa": [
-        "batchelor",
         "metapod",
         "scran"
     ],
@@ -3564,7 +3555,6 @@
         "piano"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -3625,9 +3615,7 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -3640,7 +3628,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "preciseTAD": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores",
@@ -4207,8 +4194,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scDesign3": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -4223,7 +4208,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "schex": [],
     "scHOT": [],
     "scider": [
         "SpatialExperiment"
@@ -4236,7 +4220,6 @@
     ],
     "scmap": [],
     "scMerge": [
-        "batchelor",
         "metapod",
         "scran"
     ],
@@ -4249,7 +4232,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
@@ -4302,12 +4284,9 @@
         "enrichplot",
         "genefilter",
         "meshr",
-        "qvalue",
-        "schex"
+        "qvalue"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "bumphunter",
         "epivizr",
@@ -4472,14 +4451,12 @@
         "DropletUtils",
         "GSVA",
         "HDF5Array",
-        "MAST",
         "Rhdf5lib",
         "SingleR",
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
         "basilisk.utils",
-        "batchelor",
         "celda",
         "dir.expiry",
         "genefilter",
@@ -4488,7 +4465,6 @@
         "rhdf5filters",
         "scDblFinder",
         "scMerge",
-        "scds",
         "scran",
         "sva",
         "zellkonverter",
