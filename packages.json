@@ -154,19 +154,14 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
-        "chromVAR",
-        "motifmatchr",
         "rGREAT"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [
         "Category",
@@ -222,7 +217,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "bgx": [],
     "BHC": [],
     "BiGGR": [
@@ -421,7 +415,6 @@
         "dir.expiry"
     ],
     "CCPlotR": [],
-    "CCPROMISE": [],
     "ccrepe": [],
     "celda": [
         "metapod",
@@ -524,7 +517,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [],
     "CHRONOS": [],
     "cicero": [
         "Gviz",
@@ -602,7 +594,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -786,7 +777,6 @@
     "cytolib": [
         "RProtoBufLib"
     ],
-    "cytomapper": [],
     "cytoMEM": [
         "RProtoBufLib",
         "cytolib",
@@ -824,9 +814,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [
@@ -1077,9 +1065,7 @@
         "Gviz"
     ],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "bumphunter",
         "genefilter",
@@ -1099,7 +1085,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
         "qvalue"
     ],
     "enrichViewNet": [
@@ -1137,9 +1122,7 @@
         "mnem"
     ],
     "epistack": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "bumphunter"
     ],
@@ -1159,7 +1142,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
         "qvalue"
     ],
     "escape": [
@@ -1177,7 +1159,6 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentSubset": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1679,9 +1660,7 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -2169,7 +2148,6 @@
         "MotifDb"
     ],
     "MotifDb": [],
-    "motifmatchr": [],
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
@@ -2395,7 +2373,6 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoSimulR": [],
@@ -2447,9 +2424,7 @@
         "genefilter",
         "sva"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -2592,8 +2567,7 @@
         "DOSE",
         "enrichplot",
         "qvalue",
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "progeny": [
         "decoupleR"
@@ -2780,7 +2754,6 @@
         "ggbio"
     ],
     "ReQON": [],
-    "RESOLVE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -3142,9 +3115,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "sincell": [],
     "SingleCellSignalR": [
         "metapod",
@@ -3194,7 +3165,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -3208,7 +3178,6 @@
         "scran"
     ],
     "sparsenetgls": [],
-    "spaSim": [],
     "SpatialCPie": [],
     "spatialDE": [
         "basilisk",
@@ -3226,8 +3195,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
-        "motifmatchr"
+        "InteractionSet"
     ],
     "specL": [],
     "Spectra": [
@@ -3342,7 +3310,6 @@
         "DESeq2",
         "SCBN"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -3424,8 +3391,6 @@
     ],
     "trio": [],
     "tripr": [],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TSAR": [],
     "ttgsea": [],
     "TTMap": [],
