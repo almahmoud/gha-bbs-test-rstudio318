@@ -39,7 +39,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
@@ -139,7 +138,6 @@
     "annmap": [
         "genefilter"
     ],
-    "annotatr": [],
     "anota": [
         "qvalue"
     ],
@@ -184,7 +182,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "GeneOverlap",
@@ -256,7 +253,6 @@
     ],
     "bayNorm": [],
     "beachmat.hdf5": [],
-    "BEARscc": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -338,7 +334,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "annotatr",
         "bsseq",
         "bumphunter",
         "dmrseq",
@@ -503,7 +498,6 @@
         "genefilter",
         "splots"
     ],
-    "CelliD": [],
     "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
@@ -774,7 +768,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -1156,7 +1149,6 @@
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
         "bsseq",
         "bumphunter"
     ],
@@ -1345,7 +1337,6 @@
         "csaw",
         "metapod"
     ],
-    "factR": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -2020,7 +2011,6 @@
     ],
     "les": [],
     "lfa": [],
-    "LineagePulse": [],
     "lipidr": [
         "MultiDataSet",
         "impute",
@@ -2215,7 +2205,6 @@
         "mzR",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -2827,7 +2816,6 @@
     "PECA": [
         "genefilter"
     ],
-    "peco": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
@@ -3386,7 +3374,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scHOT": [],
     "scider": [],
     "scifer": [
         "RProtoBufLib",
@@ -3399,7 +3386,6 @@
         "scran"
     ],
     "scmeth": [
-        "annotatr",
         "bsseq"
     ],
     "scone": [
@@ -3548,7 +3534,6 @@
         "survcomp"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SIMAT": [
         "mzR"
     ],
@@ -3602,7 +3587,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMAP": [],
     "SMITE": [],
@@ -3631,7 +3615,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
         "bsseq"
     ],
     "SpacePAC": [],
