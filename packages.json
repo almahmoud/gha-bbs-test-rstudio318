@@ -335,7 +335,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
@@ -508,7 +507,6 @@
         "QDNAseq",
         "impute"
     ],
-    "cfDNAPro": [],
     "cfTools": [
         "basilisk",
         "basilisk.utils",
@@ -627,28 +625,20 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.mops": [],
-    "CNORdt": [],
-    "CNORfeeder": [],
-    "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
-        "cn.mops",
         "karyoploteR"
     ],
     "cnvGSA": [],
     "CNViz": [
         "CopyNumberPlots",
         "bamsignals",
-        "cn.mops",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -720,7 +710,6 @@
     ],
     "CopyNumberPlots": [
         "bamsignals",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -1200,7 +1189,6 @@
         "qvalue"
     ],
     "epidecodeR": [],
-    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "bamsignals",
@@ -1821,7 +1809,6 @@
         "flowCore"
     ],
     "Informeasure": [],
-    "InPAS": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -1895,7 +1882,6 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "katdetectr": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -1997,8 +1983,7 @@
     ],
     "MantelCorr": [],
     "mariner": [
-        "InteractionSet",
-        "plotgardener"
+        "InteractionSet"
     ],
     "martini": [],
     "maser": [
@@ -2472,7 +2457,6 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nearBynding": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2614,9 +2598,7 @@
         "sva"
     ],
     "pairkat": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "clusterProfiler",
@@ -2726,7 +2708,6 @@
         "GOstats",
         "genefilter"
     ],
-    "plotgardener": [],
     "plotGrouper": [],
     "plyinteractions": [
         "InteractionSet"
@@ -3144,7 +3125,6 @@
         "MGFM",
         "MGFR"
     ],
-    "SARC": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -3273,7 +3253,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "selectKSigs": [],
     "seq2pathway": [
         "impute"
     ],
@@ -3684,9 +3663,7 @@
     "TVTB": [
         "Gviz"
     ],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [
         "DESeq2"
     ],
