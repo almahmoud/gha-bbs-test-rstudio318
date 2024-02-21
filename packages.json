@@ -53,7 +53,6 @@
         "genefilter",
         "ggbio"
     ],
-    "AHMassBank": [],
     "airpart": [],
     "alabaster": [
         "HDF5Array",
@@ -1648,7 +1647,6 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment"
     ],
@@ -2785,7 +2783,6 @@
         "rhdf5filters"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "HDF5Array",
         "Rhdf5lib",
         "bumphunter",
