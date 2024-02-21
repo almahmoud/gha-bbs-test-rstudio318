@@ -19,7 +19,6 @@
     "acde": [],
     "ACE": [
         "BiocParallel",
-        "CGHbase",
         "CGHcall",
         "GenomicRanges",
         "QDNAseq",
@@ -72,7 +71,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "adSplit": [],
     "adverSCarial": [
         "DelayedArray",
         "MatrixGenerics",
@@ -118,7 +116,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -175,7 +172,6 @@
         "VariantAnnotation",
         "affycoretools",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -202,7 +198,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biocViews",
-        "biomaRt",
         "rtracklayer"
     ],
     "airpart": [
@@ -256,7 +251,6 @@
         "alabaster.spatial",
         "alabaster.string",
         "alabaster.vcf",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -405,7 +399,6 @@
         "alabaster.ranges",
         "alabaster.se",
         "alabaster.string",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -437,7 +430,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -451,9 +443,7 @@
         "impute",
         "mixOmics"
     ],
-    "altcdfenvs": [
-        "hypergraph"
-    ],
+    "altcdfenvs": [],
     "AMARETTO": [
         "AnnotationHub",
         "ComplexHeatmap",
@@ -578,7 +568,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biocViews",
-        "biomaRt",
         "rtracklayer"
     ],
     "annotatr": [
@@ -596,7 +585,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -631,7 +619,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "apComplex": [
@@ -675,7 +662,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -709,7 +695,6 @@
         "SummarizedExperiment",
         "affyContam",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -766,7 +751,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -816,7 +800,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "annotate",
-        "biomaRt",
         "chromVAR",
         "fgsea",
         "motifmatchr",
@@ -851,7 +834,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "annotate",
-        "biomaRt",
         "ensembldb",
         "motifStack",
         "regioneR",
@@ -982,7 +964,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "ballgown": [
@@ -1016,7 +997,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "bamsignals": [
@@ -1042,7 +1022,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "impute",
         "mzID",
@@ -1228,7 +1207,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "beachmat": [
@@ -1344,7 +1322,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -1363,8 +1340,7 @@
     ],
     "BiGGR": [
         "Rgraphviz",
-        "hyperdraw",
-        "hypergraph"
+        "hyperdraw"
     ],
     "bigmelon": [
         "BiocIO",
@@ -1383,7 +1359,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "gdsfmt",
         "genefilter",
@@ -1410,7 +1385,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "bioCancer": [
@@ -1433,7 +1407,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TCGAutils",
-        "biomaRt",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
@@ -1484,7 +1457,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -1523,11 +1495,9 @@
     ],
     "biocViews": [],
     "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "biomaRt": [],
     "biomformat": [
         "Rhdf5lib",
         "rhdf5",
@@ -1554,7 +1524,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -1642,7 +1611,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -1651,7 +1619,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "CGHbase",
         "CGHcall",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -1672,7 +1639,6 @@
         "VariantAnnotation",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "bumphunter",
         "dmrseq",
@@ -1713,7 +1679,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "geneplotter"
     ],
@@ -1788,7 +1753,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -1843,7 +1807,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -1867,7 +1830,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "breakpointR": [
@@ -1968,7 +1930,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -1994,7 +1955,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "BumpyMatrix": [],
@@ -2022,7 +1982,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "plyranges",
         "rtracklayer"
@@ -2071,7 +2030,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -2098,7 +2056,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -2124,7 +2081,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -2157,7 +2113,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer",
@@ -2211,7 +2166,6 @@
         "SummarizedExperiment",
         "TCGAutils",
         "annotate",
-        "biomaRt",
         "cBioPortalData",
         "genefilter",
         "phenoTest",
@@ -2232,7 +2186,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer",
         "snpStats"
     ],
@@ -2261,7 +2214,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "gaga",
         "rtracklayer"
     ],
@@ -2325,7 +2277,6 @@
         "SummarizedExperiment",
         "TCGAutils",
         "annotate",
-        "biomaRt",
         "cBioPortalData",
         "genefilter",
         "rtracklayer"
@@ -2361,7 +2312,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TCGAutils",
-        "biomaRt",
         "rtracklayer"
     ],
     "CBNplot": [
@@ -2627,7 +2577,6 @@
     ],
     "cfdnakit": [
         "BiocParallel",
-        "CGHbase",
         "CGHcall",
         "GenomicRanges",
         "QDNAseq",
@@ -2659,9 +2608,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
         "impute"
     ],
     "cghMCR": [
@@ -2671,13 +2618,10 @@
         "genefilter"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall",
         "impute"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -2704,7 +2648,6 @@
         "VariantAnnotation",
         "annotate",
         "beachmat",
-        "biomaRt",
         "biovizBase",
         "bsseq",
         "bumphunter",
@@ -2725,7 +2668,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [
         "DelayedArray",
         "GenomicRanges",
@@ -2764,7 +2706,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -2830,7 +2771,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -2852,7 +2792,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "regioneR",
         "rtracklayer"
@@ -2876,7 +2815,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "apeglm",
-        "biomaRt",
         "chipseq",
         "rtracklayer",
         "systemPipeR"
@@ -2895,7 +2833,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "enrichplot",
         "fgsea",
         "qvalue",
@@ -2971,8 +2908,7 @@
         "rtracklayer"
     ],
     "chromPlot": [
-        "GenomicRanges",
-        "biomaRt"
+        "GenomicRanges"
     ],
     "ChromSCape": [
         "BiocIO",
@@ -3034,9 +2970,7 @@
         "annotate",
         "rtracklayer"
     ],
-    "CHRONOS": [
-        "biomaRt"
-    ],
+    "CHRONOS": [],
     "cicero": [
         "AnnotationFilter",
         "BSgenome",
@@ -3056,7 +2990,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "biocViews",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "monocle",
@@ -3086,7 +3019,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "gwascat",
         "rtracklayer",
         "snpStats",
@@ -3109,7 +3041,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "cisPath": [],
@@ -3180,7 +3111,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "qpgraph",
         "rtracklayer"
     ],
@@ -3370,7 +3300,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -3404,7 +3333,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -3455,7 +3383,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "COCOA": [
@@ -3511,7 +3438,6 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "fgsea",
         "rhdf5",
         "rhdf5filters"
@@ -3530,7 +3456,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "coGPS": [],
@@ -3557,7 +3482,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -3593,7 +3517,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -3613,7 +3536,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "bumphunter",
         "rtracklayer"
     ],
@@ -3635,7 +3557,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "methylPipe",
@@ -3710,7 +3631,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -3732,7 +3652,6 @@
         "SummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomaRt",
         "genefu",
         "impute",
         "rhdf5",
@@ -3781,7 +3700,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "exomeCopy",
         "rtracklayer"
     ],
@@ -3802,7 +3720,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -3830,7 +3747,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -3879,8 +3795,7 @@
     ],
     "CoSIA": [
         "AnnotationHub",
-        "ExperimentHub",
-        "biomaRt"
+        "ExperimentHub"
     ],
     "cosmiq": [
         "AnnotationFilter",
@@ -3975,7 +3890,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "rtracklayer"
     ],
     "CRImage": [
@@ -4035,7 +3949,6 @@
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "crisprBase",
         "crisprBowtie",
         "crisprScore",
@@ -4101,7 +4014,6 @@
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -4134,7 +4046,6 @@
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -4199,7 +4110,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "CTdata": [
@@ -4245,7 +4155,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -4281,7 +4190,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "cyanoFilter": [
@@ -4499,9 +4407,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "TFBSTools",
-        "UniProt.ws",
         "annotate",
-        "biomaRt",
         "motifStack",
         "rtracklayer"
     ],
@@ -4521,7 +4427,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "rtracklayer"
     ],
@@ -4542,7 +4447,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -4632,7 +4536,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "decontam": [],
@@ -4676,7 +4579,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "fastseg",
         "genefilter",
@@ -4721,7 +4623,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "DEFormats": [
@@ -4747,7 +4648,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "DEGraph": [
@@ -4874,7 +4774,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -4924,7 +4823,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinderHelper",
         "qvalue",
@@ -4950,7 +4848,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -4978,7 +4875,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "regioneR",
         "rtracklayer"
@@ -5057,7 +4953,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "geneplotter"
     ],
@@ -5163,7 +5058,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -5292,7 +5186,6 @@
         "VariantAnnotation",
         "annotate",
         "beachmat",
-        "biomaRt",
         "biovizBase",
         "bsseq",
         "bumphunter",
@@ -5329,7 +5222,6 @@
         "SummarizedExperiment",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "bumphunter",
         "regioneR",
@@ -5352,7 +5244,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "bamsignals",
-        "biomaRt",
         "rtracklayer"
     ],
     "DNAshapeR": [
@@ -5373,7 +5264,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "doppelgangR": [
@@ -5419,7 +5309,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer",
         "syntenet"
     ],
@@ -5485,8 +5374,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "UniProt.ws",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -5500,7 +5387,6 @@
         "SummarizedExperiment",
         "affxparser",
         "annotate",
-        "biomaRt",
         "oligo",
         "oligoClasses",
         "qvalue"
@@ -5582,7 +5468,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "genomeIntervals"
     ],
     "EBcoexpress": [],
@@ -5610,7 +5495,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "edge": [
@@ -5692,7 +5576,6 @@
         "SummarizedExperiment",
         "TCGAbiolinks",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -5740,7 +5623,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "geneplotter",
@@ -5826,7 +5708,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "ensemblVEP": [
@@ -5844,7 +5725,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "epialleleR": [
@@ -5862,7 +5742,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "EpiCompare": [
@@ -5884,7 +5763,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "enrichplot",
         "fgsea",
         "genomation",
@@ -5956,7 +5834,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "impute",
         "rtracklayer"
     ],
@@ -5985,7 +5862,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "ensembldb",
@@ -6026,7 +5902,6 @@
         "SparseArray",
         "Structstrings",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer",
         "tRNA",
         "tRNAdbImport"
@@ -6047,7 +5922,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "bumphunter",
         "ensembldb",
         "epivizrData",
@@ -6069,7 +5943,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "epivizrData",
         "rtracklayer"
@@ -6090,7 +5963,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -6110,7 +5982,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "bumphunter",
         "ensembldb",
         "epivizr",
@@ -6137,7 +6008,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "ERSSA": [
@@ -6173,7 +6043,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "annotate",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -6251,7 +6120,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "affxparser",
-        "biomaRt",
         "fgsea",
         "qvalue",
         "rhdf5",
@@ -6307,7 +6175,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "ExperimentHub": [
@@ -6333,7 +6200,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "biocViews",
-        "biomaRt",
         "rtracklayer"
     ],
     "ExperimentSubset": [
@@ -6379,7 +6245,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "csaw",
         "ensembldb",
@@ -6399,7 +6264,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer",
         "wiggleplotr"
     ],
@@ -6413,7 +6277,6 @@
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "impute"
     ],
     "FastqCleaner": [
@@ -6467,7 +6330,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "fdrame": [],
@@ -6495,9 +6357,7 @@
     "fedup": [
         "RCy3"
     ],
-    "fenr": [
-        "biomaRt"
-    ],
+    "fenr": [],
     "ffpe": [
         "BiocIO",
         "BiocParallel",
@@ -6515,7 +6375,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -6551,11 +6410,9 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "qvalue",
         "rtracklayer"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "DelayedArray",
         "GenomicRanges",
@@ -6625,7 +6482,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "biomaRt",
         "biovizBase",
         "bluster",
         "dir.expiry",
@@ -6848,7 +6704,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6896,7 +6751,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -6928,7 +6782,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GA4GHshiny": [
@@ -6947,12 +6800,10 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "gaga": [],
     "gage": [],
-    "gaggle": [],
     "garfield": [],
     "GARS": [
         "BiocIO",
@@ -6973,7 +6824,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -7034,7 +6884,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -7058,7 +6907,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "gDR": [
@@ -7156,12 +7004,10 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "GeneBreak": [
         "BiocParallel",
-        "CGHbase",
         "CGHcall",
         "GenomicRanges",
         "QDNAseq",
@@ -7174,7 +7020,6 @@
         "annotate"
     ],
     "genefu": [
-        "biomaRt",
         "impute",
         "survcomp"
     ],
@@ -7231,7 +7076,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -7316,7 +7160,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "GenomicFiles": [
@@ -7334,7 +7177,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "genomicInstability": [
@@ -7358,7 +7200,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "GenomicInteractions": [
@@ -7380,7 +7221,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -7403,7 +7243,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -7425,7 +7264,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "genomation",
         "impute",
         "plyranges",
@@ -7476,7 +7314,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GeoDiff": [
@@ -7513,7 +7350,6 @@
         "GSEABase",
         "MatrixGenerics",
         "annotate",
-        "biomaRt",
         "cellHTS2",
         "genefilter",
         "splots",
@@ -7557,7 +7393,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -7658,8 +7493,7 @@
         "MultiAssayExperiment",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "biomaRt"
+        "SummarizedExperiment"
     ],
     "GlobalAncova": [
         "GSEABase",
@@ -7694,7 +7528,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GmicR": [
@@ -7722,7 +7555,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "GMRP": [
@@ -7754,14 +7586,11 @@
         "SparseArray",
         "SummarizedExperiment",
         "TCGAutils",
-        "biomaRt",
         "cBioPortalData",
         "maftools",
         "rtracklayer"
     ],
-    "GOexpress": [
-        "biomaRt"
-    ],
+    "GOexpress": [],
     "GOfuncR": [
         "GenomicRanges"
     ],
@@ -7788,7 +7617,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "GOSim": [
@@ -7804,9 +7632,7 @@
         "goProfiles",
         "qvalue"
     ],
-    "goSTAG": [
-        "biomaRt"
-    ],
+    "goSTAG": [],
     "GOstats": [
         "AnnotationForge",
         "Category",
@@ -7852,7 +7678,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "rtracklayer",
         "topGO"
@@ -7930,7 +7755,6 @@
         "BiocParallel",
         "PPInfer",
         "STRINGdb",
-        "biomaRt",
         "fgsea"
     ],
     "GSReg": [
@@ -7947,7 +7771,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "GSRI": [
@@ -8001,7 +7824,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "regioneR",
         "rhdf5",
@@ -8021,7 +7843,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "Gviz": [
@@ -8041,7 +7862,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -8062,7 +7882,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer",
         "snpStats"
     ],
@@ -8086,7 +7905,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "gdsfmt",
         "rtracklayer"
     ],
@@ -8122,8 +7940,7 @@
         "sva"
     ],
     "Harshlight": [
-        "altcdfenvs",
-        "hypergraph"
+        "altcdfenvs"
     ],
     "HDF5Array": [
         "DelayedArray",
@@ -8153,7 +7970,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "hermes": [
@@ -8166,8 +7982,7 @@
         "MultiAssayExperiment",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "biomaRt"
+        "SummarizedExperiment"
     ],
     "HERON": [
         "DelayedArray",
@@ -8235,7 +8050,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -8335,7 +8149,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "hipathia": [
@@ -8421,7 +8234,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "VariantTools",
-        "biomaRt",
         "chipseq",
         "gmapR",
         "rtracklayer"
@@ -8453,10 +8265,8 @@
         "SummarizedExperiment"
     ],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [
         "BiocParallel",
         "DelayedArray",
@@ -8484,7 +8294,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "csaw",
         "metapod",
         "rtracklayer"
@@ -8506,7 +8315,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -8554,7 +8362,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "goseq",
         "pcaExplorer",
@@ -8613,7 +8420,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "ILoReg": [
@@ -8639,7 +8445,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "imcRtools": [
@@ -8709,7 +8514,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
@@ -8754,7 +8558,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "cleanUpdTSeq",
         "plyranges",
         "rtracklayer"
@@ -8773,7 +8576,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "INTACT": [],
@@ -8811,7 +8613,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -8837,8 +8638,7 @@
         "genefilter"
     ],
     "InterCellar": [
-        "ComplexHeatmap",
-        "biomaRt"
+        "ComplexHeatmap"
     ],
     "IntEREst": [
         "BSgenome",
@@ -8859,7 +8659,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "genefilter",
         "geneplotter",
         "rtracklayer"
@@ -9024,9 +8823,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "isobar": [
-        "biomaRt"
-    ],
+    "isobar": [],
     "IsoBayes": [
         "DelayedArray",
         "GenomicRanges",
@@ -9055,7 +8852,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -9104,7 +8900,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "ivygapSE": [
@@ -9136,7 +8931,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "regioneR",
@@ -9157,7 +8951,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "maftools",
         "plyranges",
         "rtracklayer"
@@ -9213,8 +9006,7 @@
         "MatrixGenerics",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "biomaRt"
+        "SummarizedExperiment"
     ],
     "LEA": [],
     "lefser": [
@@ -9272,7 +9064,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "LinkHD": [
@@ -9307,7 +9098,6 @@
         "impute",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "BiocParallel",
         "ClassifyR",
@@ -9400,7 +9190,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -9479,7 +9268,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "maftools": [
@@ -9503,7 +9291,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "crlmm",
         "genefilter",
@@ -9545,7 +9332,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TRESS",
-        "biomaRt",
         "rtracklayer"
     ],
     "magrene": [
@@ -9641,7 +9427,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -9789,7 +9574,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "fgsea",
@@ -9832,7 +9616,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "ensembldb",
@@ -9865,7 +9648,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "impute",
@@ -9909,7 +9691,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "megadepth": [
@@ -9946,7 +9727,6 @@
         "ComplexHeatmap"
     ],
     "messina": [],
-    "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
@@ -10003,7 +9783,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "hpar",
         "mygene",
@@ -10106,7 +9885,6 @@
         "SummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "genefilter",
         "qvalue",
@@ -10195,7 +9973,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -10223,7 +10000,6 @@
         "SummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "bumphunter",
         "genefilter",
@@ -10259,7 +10035,6 @@
         "SummarizedExperiment",
         "annotate",
         "biocViews",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "impute",
@@ -10288,7 +10063,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
@@ -10357,7 +10131,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -10429,7 +10202,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -10457,8 +10229,7 @@
         "annotate"
     ],
     "MGFR": [
-        "annotate",
-        "biomaRt"
+        "annotate"
     ],
     "mgsa": [],
     "mia": [
@@ -10682,7 +10453,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -10710,7 +10480,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "rhdf5",
@@ -10788,7 +10557,6 @@
         "SummarizedExperiment",
         "TCGAbiolinks",
         "annotate",
-        "biomaRt",
         "genefilter",
         "impute"
     ],
@@ -10811,7 +10579,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -10846,7 +10613,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "deepSNV",
         "rtracklayer"
     ],
@@ -11040,7 +10806,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TCGAbiolinks",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -11100,13 +10865,11 @@
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "motifStack",
         "rtracklayer"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "BiocIO",
         "BiocParallel",
@@ -11160,8 +10923,7 @@
         "rtracklayer"
     ],
     "MouseFM": [
-        "GenomicRanges",
-        "biomaRt"
+        "GenomicRanges"
     ],
     "mpra": [
         "DelayedArray",
@@ -11269,7 +11031,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "easyRNASeq",
         "ensembldb",
@@ -11493,7 +11254,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "karyoploteR",
@@ -11602,7 +11362,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "muscat": [
@@ -11643,7 +11402,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "decompTumor2Sig",
         "maftools",
         "rtracklayer"
@@ -11663,7 +11421,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "MWASTools": [
@@ -11691,7 +11448,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "myvariant": [
@@ -11709,7 +11465,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "mzID": [
@@ -11749,7 +11504,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "csaw",
         "ensembldb",
@@ -11858,7 +11612,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "plyranges",
         "rtracklayer"
     ],
@@ -11911,7 +11664,6 @@
         "qvalue"
     ],
     "NetSAM": [
-        "biomaRt",
         "impute"
     ],
     "netSmooth": [
@@ -11965,7 +11717,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -12002,7 +11753,6 @@
         "SummarizedExperiment",
         "fgsea"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "BiocParallel",
         "DelayedArray",
@@ -12030,7 +11780,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rWikiPathways",
         "rtracklayer"
     ],
@@ -12127,7 +11876,6 @@
         "SummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -12156,7 +11904,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -12247,7 +11994,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "omicsPrint": [
@@ -12283,9 +12029,7 @@
     "oncoscanR": [
         "GenomicRanges"
     ],
-    "OncoScore": [
-        "biomaRt"
-    ],
+    "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz"
     ],
@@ -12325,9 +12069,7 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oposSOM": [
-        "biomaRt"
-    ],
+    "oposSOM": [],
     "oppar": [
         "BiocParallel",
         "BiocSingular",
@@ -12391,7 +12133,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "Organism.dplyr": [
@@ -12408,7 +12149,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "OrganismDbi": [
@@ -12424,7 +12164,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "orthogene": [
@@ -12481,7 +12220,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "OutSplice": [
@@ -12501,7 +12239,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -12580,7 +12317,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "fgsea",
         "genefilter",
         "geneplotter",
@@ -12688,7 +12424,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "topGO"
     ],
@@ -12719,7 +12454,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "fgsea",
         "genefu",
         "impute",
@@ -12881,7 +12615,6 @@
         "Heatplus",
         "MatrixGenerics",
         "annotate",
-        "biomaRt",
         "genefilter"
     ],
     "PhenStat": [],
@@ -12967,7 +12700,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -13139,7 +12871,6 @@
     "PPInfer": [
         "BiocParallel",
         "STRINGdb",
-        "biomaRt",
         "fgsea"
     ],
     "pqsfinder": [
@@ -13191,7 +12922,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "aCGH",
-        "biomaRt",
         "rCGH",
         "rtracklayer"
     ],
@@ -13224,7 +12954,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rhdf5",
@@ -13256,7 +12985,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "proBAMr": [
@@ -13272,7 +13000,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "procoil": [
@@ -13304,7 +13031,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "chipseq",
         "enrichplot",
         "fgsea",
@@ -13330,7 +13056,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "impute",
         "mzID",
@@ -13351,7 +13076,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "genefilter",
         "impute",
         "mzID",
@@ -13406,13 +13130,10 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "cleaver",
         "rtracklayer"
     ],
-    "ProteoMM": [
-        "biomaRt"
-    ],
+    "ProteoMM": [],
     "protGear": [
         "MatrixGenerics",
         "annotate",
@@ -13437,7 +13158,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -13461,7 +13181,6 @@
     ],
     "psygenet2r": [
         "BgeeDB",
-        "biomaRt",
         "topGO"
     ],
     "ptairMS": [
@@ -13504,7 +13223,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -13531,7 +13249,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -13540,15 +13257,13 @@
     "pwOmics": [
         "AnnotationHub",
         "GenomicRanges",
-        "STRINGdb",
-        "biomaRt"
+        "STRINGdb"
     ],
     "qckitfastq": [
         "RSeqAn"
     ],
     "QDNAseq": [
         "BiocParallel",
-        "CGHbase",
         "CGHcall",
         "GenomicRanges",
         "Rhtslib",
@@ -13592,7 +13307,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "rtracklayer"
     ],
     "qPLEXanalyzer": [
@@ -13681,7 +13395,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -13711,7 +13424,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "QUBIC": [],
@@ -13734,7 +13446,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -13771,7 +13482,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "RadioGx": [
@@ -13803,7 +13513,6 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "RaggedExperiment": [
@@ -13836,7 +13545,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "ensembldb",
         "gdsfmt",
         "rtracklayer"
@@ -13855,8 +13563,7 @@
         "Rsamtools",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "biomaRt"
+        "SummarizedExperiment"
     ],
     "RandomWalkRestartMH": [
         "Rgraphviz"
@@ -13883,7 +13590,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -13925,7 +13631,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "genomation",
         "impute",
         "rtracklayer",
@@ -13945,7 +13650,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "aCGH",
-        "biomaRt",
         "rtracklayer"
     ],
     "RCM": [
@@ -14016,7 +13720,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -14056,7 +13759,6 @@
         "annotate",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "bumphunter",
         "dir.expiry",
         "genefilter",
@@ -14080,7 +13782,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "RedisParam": [
@@ -14104,7 +13805,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "regioneR",
         "rtracklayer"
@@ -14199,7 +13899,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -14234,7 +13933,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -14258,7 +13956,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "impute",
@@ -14312,7 +14009,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -14323,8 +14019,7 @@
         "BiocParallel",
         "GenomicRanges",
         "Rhtslib",
-        "Rsamtools",
-        "biomaRt"
+        "Rsamtools"
     ],
     "ReQON": [
         "BiocParallel",
@@ -14355,7 +14050,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "restfulSE": [
@@ -14437,7 +14131,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -14456,7 +14149,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "rgsepd": [
@@ -14473,7 +14165,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "goseq",
         "rtracklayer"
     ],
@@ -14505,7 +14196,6 @@
         "SGSeq",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "Rhtslib": [],
@@ -14525,7 +14215,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "RiboDiPA": [
@@ -14542,7 +14231,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "qvalue",
         "rtracklayer"
     ],
@@ -14564,7 +14252,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -14603,7 +14290,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "annotate",
-        "biomaRt",
         "motifStack",
         "rtracklayer"
     ],
@@ -14686,7 +14372,6 @@
         "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "rtracklayer",
         "topGO"
@@ -14724,13 +14409,11 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
         "ProtGenerics",
@@ -14755,7 +14438,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "apeglm",
-        "biomaRt",
         "rtracklayer"
     ],
     "rmspc": [
@@ -14788,7 +14470,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -14811,7 +14492,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "bumphunter",
         "rtracklayer"
     ],
@@ -14845,7 +14525,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -14870,7 +14549,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -14895,7 +14573,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -14920,7 +14597,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -14953,7 +14629,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -14978,7 +14653,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -15065,7 +14739,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -15129,7 +14802,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TCGAutils",
-        "biomaRt",
         "rtracklayer"
     ],
     "RTN": [
@@ -15216,7 +14888,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "RVS": [
@@ -15233,8 +14904,7 @@
     "sampleClassifier": [
         "MGFM",
         "MGFR",
-        "annotate",
-        "biomaRt"
+        "annotate"
     ],
     "sangeranalyseR": [
         "DECIPHER"
@@ -15253,7 +14923,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "plyranges",
         "rtracklayer"
     ],
@@ -15336,7 +15005,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "rtracklayer",
         "scanMiR"
@@ -15602,7 +15270,6 @@
         "SummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomaRt",
         "bluster",
         "ensembldb",
         "metapod",
@@ -15721,7 +15388,6 @@
         "SummarizedExperiment",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "regioneR",
         "rhdf5",
@@ -15757,7 +15423,6 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -15798,7 +15463,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer",
         "snpStats"
     ],
@@ -15845,7 +15509,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "biomaRt",
         "dir.expiry",
         "rhdf5",
         "rhdf5filters",
@@ -15940,7 +15603,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -16026,7 +15688,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "beachmat",
-        "biomaRt",
         "bluster",
         "bumphunter",
         "ensembldb",
@@ -16108,7 +15769,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "bamsignals",
-        "biomaRt",
         "enrichplot",
         "fgsea",
         "qvalue",
@@ -16143,7 +15803,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "SemDist": [
@@ -16151,7 +15810,6 @@
     ],
     "seq2pathway": [
         "GenomicRanges",
-        "biomaRt",
         "impute"
     ],
     "seqArchR": [
@@ -16173,7 +15831,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -16206,7 +15863,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "seqCNA": [
@@ -16228,8 +15884,7 @@
         "MatrixGenerics",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "biomaRt"
+        "SummarizedExperiment"
     ],
     "seqPattern": [
         "GenomicRanges"
@@ -16330,7 +15985,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "shinyepico": [
@@ -16350,7 +16004,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -16376,7 +16029,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -16475,7 +16127,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "signifinder": [
@@ -16505,7 +16156,6 @@
         "SummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomaRt",
         "consensusOV",
         "ensembldb",
         "genefu",
@@ -16531,7 +16181,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SIM": [
@@ -16677,7 +16326,6 @@
         "basilisk.utils",
         "batchelor",
         "beachmat",
-        "biomaRt",
         "bluster",
         "celda",
         "dir.expiry",
@@ -16716,7 +16364,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SingleR": [
@@ -16767,7 +16414,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "sitePath": [],
@@ -16788,7 +16434,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -16836,7 +16481,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "goseq",
         "rtracklayer"
     ],
@@ -16879,7 +16523,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SNPRelate": [
@@ -16920,7 +16563,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -16946,7 +16588,6 @@
         "SummarizedExperiment",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "regioneR",
         "rhdf5",
@@ -17124,7 +16765,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "motifmatchr",
@@ -17268,7 +16908,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "splineTimeR": [
@@ -17293,7 +16932,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -17375,7 +17013,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "baySeq",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -17431,7 +17068,6 @@
         "SparseArray",
         "SpatialExperiment",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "staRank": [
@@ -17490,7 +17126,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "Streamer": [],
@@ -17528,7 +17163,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SubCellBarCode": [],
@@ -17563,7 +17197,6 @@
         "SummarizedExperiment"
     ],
     "surfaltr": [
-        "biomaRt",
         "msa"
     ],
     "survcomp": [],
@@ -17597,7 +17230,6 @@
         "StructuralVariantAnnotation",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "svaRetro": [
@@ -17616,7 +17248,6 @@
         "StructuralVariantAnnotation",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SVMDO": [
@@ -17631,9 +17262,7 @@
         "fgsea",
         "qvalue"
     ],
-    "SWATH2stats": [
-        "biomaRt"
-    ],
+    "SWATH2stats": [],
     "SwathXtend": [],
     "swfdr": [],
     "switchde": [
@@ -17645,7 +17274,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "BiocParallel",
         "MSnbase",
@@ -17720,7 +17348,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -17754,7 +17381,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "target": [
@@ -17811,8 +17437,7 @@
         "MatrixGenerics",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "biomaRt"
+        "SummarizedExperiment"
     ],
     "TCGAutils": [
         "BiocIO",
@@ -17830,7 +17455,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "TCseq": [
@@ -17868,8 +17492,7 @@
         "SCBN",
         "SparseArray",
         "SummarizedExperiment",
-        "apeglm",
-        "biomaRt"
+        "apeglm"
     ],
     "TENxIO": [
         "BiocIO",
@@ -17921,7 +17544,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "TCGAutils",
-        "biomaRt",
         "rtracklayer"
     ],
     "TFARM": [
@@ -17958,7 +17580,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "TFHAZ": [
@@ -17977,7 +17598,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "TFutils": [
@@ -18028,7 +17648,6 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [],
     "timeOmics": [
         "BiocParallel",
         "mixOmics"
@@ -18047,7 +17666,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -18084,7 +17702,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "tkWidgets": [
@@ -18106,7 +17723,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "TMixClust": [
@@ -18222,7 +17838,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rhdf5",
@@ -18251,7 +17866,6 @@
         "SummarizedExperiment"
     ],
     "transcriptogramer": [
-        "biomaRt",
         "topGO"
     ],
     "transcriptR": [
@@ -18268,7 +17882,6 @@
         "ShortRead",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "chipseq",
         "rtracklayer"
     ],
@@ -18396,7 +18009,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "tricycle": [
@@ -18501,7 +18113,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensemblVEP",
         "ensembldb",
@@ -18522,7 +18133,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "tximeta": [
@@ -18541,7 +18151,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -18573,7 +18182,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "plotgardener",
         "plyranges",
         "rtracklayer"
@@ -18596,7 +18204,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -18619,7 +18226,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -18627,7 +18233,6 @@
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [
         "BSgenome",
         "BiocIO",
@@ -18643,7 +18248,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "universalmotif": [
@@ -18723,7 +18327,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "VariantExperiment": [
@@ -18761,7 +18364,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rhdf5",
@@ -18783,7 +18385,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "VaSP": [
@@ -18820,7 +18421,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "VDJdive": [
@@ -18833,9 +18433,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "VegaMC": [
-        "biomaRt"
-    ],
+    "VegaMC": [],
     "velociraptor": [
         "BiocParallel",
         "BiocSingular",
@@ -18870,7 +18468,6 @@
     "ViSEAGO": [
         "AnnotationForge",
         "BiocParallel",
-        "biomaRt",
         "fgsea",
         "topGO"
     ],
@@ -18933,7 +18530,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "gwascat",
         "rtracklayer",
         "snpStats"
@@ -18961,7 +18557,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "apeglm",
-        "biomaRt",
         "csaw",
         "ensembldb",
         "metapod",
@@ -18996,7 +18591,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -19020,7 +18614,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "webbioc": [
@@ -19171,7 +18764,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -19195,7 +18787,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "annotate",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -19271,7 +18862,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ]
 }
