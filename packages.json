@@ -210,7 +210,6 @@
         "GOstats",
         "genefilter"
     ],
-    "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
         "sva"
@@ -376,7 +375,6 @@
         "bsseq"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -402,7 +400,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -418,7 +415,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -594,8 +590,7 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -619,7 +614,6 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "DESeq2",
         "gwascat"
@@ -706,7 +700,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA",
         "bsseq"
@@ -768,9 +761,7 @@
         "survcomp"
     ],
     "CONSTANd": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "bumphunter",
         "genefilter",
@@ -1033,7 +1024,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deepSNV": [],
     "DEFormats": [
         "DESeq2"
     ],
@@ -1078,12 +1068,10 @@
         "mzR"
     ],
     "derfinder": [
-        "GenomicFiles",
         "bumphunter",
         "qvalue"
     ],
     "derfinderPlot": [
-        "GenomicFiles",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -1118,8 +1106,7 @@
     ],
     "DiffBind": [
         "DESeq2",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffcoexp": [
         "impute"
@@ -1320,9 +1307,7 @@
     "erccdashboard": [
         "qvalue"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -1607,9 +1592,7 @@
         "pathview",
         "qvalue"
     ],
-    "gDNAx": [
-        "GenomicFiles"
-    ],
+    "gDNAx": [],
     "gDR": [
         "CoreGx",
         "PharmacoGx",
@@ -1668,7 +1651,6 @@
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
@@ -1864,7 +1846,6 @@
     "hoodscanR": [],
     "hpar": [],
     "HTSeqGenie": [
-        "VariantTools",
         "chipseq",
         "gmapR"
     ],
@@ -1899,7 +1880,6 @@
     "idr2d": [],
     "IFAA": [],
     "igvR": [],
-    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1961,7 +1941,6 @@
     "IntEREst": [
         "DESeq2",
         "DEXSeq",
-        "GenomicFiles",
         "genefilter"
     ],
     "InterMineR": [],
@@ -2042,7 +2021,6 @@
     "les": [],
     "lfa": [],
     "LineagePulse": [],
-    "lineagespot": [],
     "lipidr": [
         "MultiDataSet",
         "impute",
@@ -2399,9 +2377,7 @@
         "minfi"
     ],
     "mitch": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -2573,7 +2549,6 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare",
         "InteractionSet"
@@ -2727,7 +2702,6 @@
         "sva"
     ],
     "OMICsPCA": [],
-    "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoSimulR": [],
@@ -2915,7 +2889,6 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [],
     "POMA": [
         "DESeq2",
         "RankProd",
@@ -2998,7 +2971,6 @@
         "genefilter"
     ],
     "psichomics": [
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "qvalue",
@@ -3054,9 +3026,7 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "QUBIC": [],
     "qvalue": [],
     "R3CPET": [
@@ -3125,7 +3095,6 @@
         "phyloseq"
     ],
     "recount": [
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "qvalue"
@@ -3154,7 +3123,6 @@
     "regionReport": [
         "DEFormats",
         "DESeq2",
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "qvalue"
@@ -3246,7 +3214,6 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [],
@@ -3260,7 +3227,6 @@
         "DESeq2"
     ],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "impute",
@@ -3300,7 +3266,6 @@
         "qvalue"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "bumphunter",
         "derfinder",
         "qvalue",
@@ -3332,7 +3297,6 @@
     ],
     "RProtoBufLib": [],
     "Rqc": [
-        "GenomicFiles",
         "biovizBase"
     ],
     "rqt": [
@@ -3517,7 +3481,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqCAT": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -3628,7 +3591,6 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "SingleR": [],
@@ -3793,7 +3755,6 @@
     "synlet": [
         "RankProd"
     ],
-    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
     ],
@@ -3952,7 +3913,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
@@ -3974,15 +3934,12 @@
         "Gviz",
         "biovizBase"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown",
         "genefilter",
         "sva"
     ],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [
@@ -4011,8 +3968,7 @@
         "GreyListChIP",
         "InteractionSet",
         "csaw",
-        "metapod",
-        "systemPipeR"
+        "metapod"
     ],
     "wateRmelon": [
         "bumphunter",
