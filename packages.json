@@ -498,7 +498,6 @@
     "CCPROMISE": [],
     "ccrepe": [],
     "CDI": [],
-    "celaref": [],
     "celda": [
         "metapod",
         "scran"
@@ -2938,7 +2937,6 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -3498,7 +3496,6 @@
         "meshr",
         "qvalue"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "bumphunter",
         "epivizr",
