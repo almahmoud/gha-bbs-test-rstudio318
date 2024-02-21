@@ -256,7 +256,6 @@
         "scran"
     ],
     "bayNorm": [],
-    "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "BEARscc": [],
     "beer": [],
@@ -605,7 +604,6 @@
     ],
     "chipseq": [],
     "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [
         "metapod",
@@ -884,7 +882,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customProDB": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -1272,8 +1269,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "ensemblVEP": [],
-    "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
@@ -1383,7 +1378,6 @@
         "genomation",
         "impute"
     ],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "TSCAN"
@@ -1821,7 +1815,6 @@
     "Harshlight": [],
     "HDF5Array": [],
     "Heatplus": [],
-    "HelloRanges": [],
     "hermes": [
         "DESeq2"
     ],
@@ -2199,7 +2192,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "Melissa": [],
     "memes": [],
     "meshes": [
         "DOSE",
@@ -2384,9 +2376,7 @@
         "bumphunter",
         "genefilter"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miQC": [],
     "MIRA": [
         "bsseq"
@@ -2607,7 +2597,6 @@
         "variancePartition"
     ],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MWASTools": [
         "KEGGgraph",
         "qvalue"
@@ -2631,7 +2620,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -2703,7 +2691,6 @@
         "qvalue"
     ],
     "NPARC": [],
-    "nucleR": [],
     "nullranges": [
         "InteractionSet"
     ],
@@ -2739,9 +2726,7 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2893,7 +2878,6 @@
         "Heatplus",
         "genefilter"
     ],
-    "PhyloProfile": [],
     "phyloseq": [
         "biomformat"
     ],
@@ -3199,9 +3183,7 @@
         "ggbio"
     ],
     "ReQON": [],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -3956,8 +3938,7 @@
     "TTMap": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "tximeta": [],
     "Ularcirc": [
@@ -3979,7 +3960,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VanillaICE": [],
     "VarCon": [],
     "variancePartition": [],
     "VariantExperiment": [
@@ -4015,7 +3995,6 @@
     "vidger": [
         "DESeq2"
     ],
-    "ViSEAGO": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
@@ -4104,6 +4083,5 @@
     "zFPKM": [],
     "zinbwave": [
         "genefilter"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
