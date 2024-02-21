@@ -2,7 +2,6 @@
     "a4": [
         "MatrixGenerics",
         "a4Base",
-        "a4Classif",
         "annaffy",
         "annotate",
         "genefilter"
@@ -13,7 +12,6 @@
         "annotate",
         "genefilter"
     ],
-    "a4Classif": [],
     "ABarray": [],
     "abseqR": [
         "BiocParallel"
@@ -123,23 +121,18 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "oligoClasses",
         "rtracklayer"
     ],
     "affyILM": [
-        "affxparser",
-        "gcrma"
+        "affxparser"
     ],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase",
@@ -185,7 +178,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "oligoClasses",
@@ -727,7 +719,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "arrayQuality": [],
@@ -737,7 +728,6 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
         "genefilter",
         "vsn"
     ],
@@ -1241,7 +1231,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BCRANK": [],
     "beachmat": [
         "DelayedArray",
         "MatrixGenerics",
@@ -1363,9 +1352,7 @@
     "BgeeDB": [
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BHC": [],
     "BicARE": [
         "GSEABase",
@@ -1406,7 +1393,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "wateRmelon"
     ],
@@ -1427,13 +1413,11 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "BiocIO",
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
@@ -2385,7 +2369,6 @@
         "BiocParallel",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2565,7 +2548,6 @@
     "CEMiTool": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2613,7 +2595,6 @@
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "RCy3",
@@ -2740,7 +2721,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "sva",
         "wateRmelon"
@@ -2906,7 +2886,6 @@
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -3282,7 +3261,6 @@
     "clusterProfiler": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -3831,7 +3809,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "CopyNumberPlots": [
@@ -4574,7 +4551,6 @@
         "BiocParallel",
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
@@ -4623,7 +4599,6 @@
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "KEGGgraph",
         "MatrixGenerics",
@@ -4711,7 +4686,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "decoupleR": [],
@@ -5330,7 +5304,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "DMRScan": [
@@ -5421,7 +5394,6 @@
     ],
     "DOSE": [
         "BiocParallel",
-        "GOSemSim",
         "fgsea",
         "qvalue"
     ],
@@ -5777,7 +5749,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "EnrichedHeatmap": [
@@ -5803,7 +5774,6 @@
     "enrichplot": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "fgsea",
         "qvalue"
     ],
@@ -5815,7 +5785,6 @@
         "DOSE",
         "DelayedArray",
         "DirichletMultinomial",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicRanges",
         "MatrixGenerics",
@@ -5837,7 +5806,6 @@
     "enrichViewNet": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "RCy3",
         "enrichplot",
         "fgsea",
@@ -5907,7 +5875,6 @@
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -6027,7 +5994,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "epiNEM": [
@@ -6194,7 +6160,6 @@
         "DOSE",
         "DelayedArray",
         "DirichletMultinomial",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -6441,7 +6406,6 @@
     "famat": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -6560,7 +6524,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "fgga": [],
@@ -6940,7 +6903,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "FuseSOM": [
@@ -7059,13 +7021,11 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "gcrma": [],
     "GDCRNATools": [
         "BiocParallel",
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicDataCommons",
         "GenomicRanges",
         "KEGGgraph",
@@ -7621,9 +7581,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "GGPA": [],
     "ggsc": [
         "DelayedArray",
@@ -7644,7 +7602,6 @@
         "SpatialExperiment",
         "SummarizedExperiment"
     ],
-    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "BiocParallel",
@@ -7818,7 +7775,6 @@
         "SummarizedExperiment"
     ],
     "goProfiles": [],
-    "GOSemSim": [],
     "goseq": [
         "BiocIO",
         "BiocParallel",
@@ -7842,7 +7798,6 @@
     "goSorensen": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -7905,9 +7860,7 @@
     "graper": [],
     "GraphAT": [],
     "graphite": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GreyListChIP": [
         "BSgenome",
         "BiocIO",
@@ -8435,7 +8388,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -8563,7 +8515,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "iClusterPlus": [],
@@ -8742,7 +8693,6 @@
         "DOSE",
         "DelayedArray",
         "DelayedMatrixStats",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -8772,7 +8722,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "infercnv": [
@@ -8950,7 +8899,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "iPAC": [],
     "iPath": [
         "BiocParallel"
     ],
@@ -9214,9 +9162,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "kebabs": [],
     "KEGGgraph": [
         "Rgraphviz"
@@ -9462,7 +9408,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "LymphoSeq": [
@@ -9569,7 +9514,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "snpStats",
         "sparseMatrixStats"
     ],
@@ -9578,7 +9522,6 @@
         "BiocParallel",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "KEGGgraph",
         "Rgraphviz",
         "clusterProfiler",
@@ -9647,9 +9590,7 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "BiocIO",
         "BiocParallel",
@@ -9705,9 +9646,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MassArray": [],
     "MassSpecWavelet": [],
     "MAST": [
@@ -9905,7 +9844,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "sva"
     ],
@@ -9937,7 +9875,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "wateRmelon"
     ],
@@ -9992,7 +9929,6 @@
         "AnnotationHub",
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "MeSHDbi",
         "enrichplot",
         "fgsea",
@@ -10135,7 +10071,6 @@
     "MetaPhOR": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "RCy3",
         "clusterProfiler",
         "enrichplot",
@@ -10267,7 +10202,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylCC": [
@@ -10298,7 +10232,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylclock": [
@@ -10335,7 +10268,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylGSA": [
@@ -10344,7 +10276,6 @@
         "DOSE",
         "DelayedArray",
         "DelayedMatrixStats",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -10370,7 +10301,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylInheritance": [
@@ -10506,7 +10436,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "MetID": [],
@@ -10660,7 +10589,6 @@
     "MicrobiomeProfiler": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -10672,8 +10600,7 @@
         "MatrixGenerics",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "ggtreeExtra"
+        "SummarizedExperiment"
     ],
     "microRNA": [],
     "microSTASIS": [
@@ -10729,7 +10656,6 @@
         "SummarizedExperiment",
         "affxparser",
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -10765,7 +10691,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "minfi": [
@@ -10791,7 +10716,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "MinimumDistance": [
@@ -10895,7 +10819,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "missRows": [
@@ -11093,7 +11016,6 @@
         "ComplexHeatmap",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicRanges",
         "MatrixGenerics",
@@ -11112,7 +11034,6 @@
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "S4Arrays",
@@ -11498,7 +11419,6 @@
         "impute",
         "mzID",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -11511,7 +11431,6 @@
         "impute",
         "mzID",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -12054,7 +11973,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "yarn"
     ],
@@ -12125,7 +12043,6 @@
         "SummarizedExperiment",
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "BiocParallel",
@@ -12688,7 +12605,6 @@
     "PanomiR": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "GSEABase",
         "annotate",
         "clusterProfiler",
@@ -12701,7 +12617,6 @@
     "pareg": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -13024,7 +12939,6 @@
     "Pigengene": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "Rgraphviz",
         "clusterProfiler",
@@ -13380,7 +13294,6 @@
         "DOSE",
         "DelayedArray",
         "EnrichedHeatmap",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -13462,7 +13375,6 @@
         "DAPAR",
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
@@ -13634,7 +13546,6 @@
     "qckitfastq": [
         "RSeqAn"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "BiocParallel",
         "CGHbase",
@@ -13777,13 +13688,11 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "BSgenome",
@@ -13865,7 +13774,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "BiocParallel",
         "BumpyMatrix",
@@ -14047,9 +13955,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Rcpi": [
-        "GOSemSim"
-    ],
+    "Rcpi": [],
     "Rcwl": [
         "BiocParallel",
         "basilisk",
@@ -14068,7 +13974,6 @@
     "ReactomePA": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "fgsea",
         "graphite",
@@ -14159,7 +14064,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "recoup": [
@@ -14362,7 +14266,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "Repitools": [
@@ -15083,7 +14986,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "Rnits": [
@@ -15181,9 +15083,7 @@
     ],
     "rRDP": [],
     "RRHO": [],
-    "rrvgo": [
-        "GOSemSim"
-    ],
+    "rrvgo": [],
     "Rsamtools": [
         "BiocParallel",
         "GenomicRanges",
@@ -16069,7 +15969,6 @@
         "Category",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GOstats",
         "GSEABase",
         "GenomicRanges",
@@ -16199,7 +16098,6 @@
         "ComplexHeatmap",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -16266,7 +16164,6 @@
         "ChIPseeker",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -16460,7 +16357,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "shinyMethyl": [
@@ -16487,7 +16383,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "ShortRead": [
@@ -16540,7 +16435,6 @@
     "SigFuge": [
         "GenomicRanges"
     ],
-    "siggenes": [],
     "sights": [
         "qvalue"
     ],
@@ -16550,7 +16444,6 @@
         "DOSE",
         "DelayedArray",
         "ExperimentHub",
-        "GOSemSim",
         "GSEABase",
         "GenomicRanges",
         "HDF5Array",
@@ -16702,8 +16595,7 @@
         "rhdf5filters"
     ],
     "simplifyEnrichment": [
-        "ComplexHeatmap",
-        "GOSemSim"
+        "ComplexHeatmap"
     ],
     "sincell": [],
     "single": [
@@ -16905,7 +16797,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "wateRmelon"
     ],
@@ -17063,9 +16954,7 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "BiocNeighbors",
         "BiocParallel",
@@ -17734,7 +17623,6 @@
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "S4Arrays",
@@ -17777,7 +17665,6 @@
     "synlet": [
         "RankProd"
     ],
-    "SynMut": [],
     "syntenet": [
         "BiocIO",
         "BiocParallel",
@@ -17964,7 +17851,6 @@
     "TDbasedUFEadv": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "GenomicRanges",
         "STRINGdb",
         "TDbasedUFE",
@@ -18153,7 +18039,6 @@
         "DOSE",
         "DelayedArray",
         "DynDoc",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "Mfuzz",
@@ -18411,7 +18296,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "Heatplus",
         "MatrixGenerics",
@@ -18541,9 +18425,7 @@
         "qvalue",
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "triplex": [
         "GenomicRanges"
     ],
@@ -18988,7 +18870,6 @@
     "ViSEAGO": [
         "AnnotationForge",
         "BiocParallel",
-        "GOSemSim",
         "biomaRt",
         "fgsea",
         "topGO"
@@ -19124,7 +19005,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "wavClusteR": [
@@ -19145,7 +19025,6 @@
     ],
     "webbioc": [
         "annaffy",
-        "gcrma",
         "qvalue",
         "vsn"
     ],
@@ -19224,8 +19103,7 @@
         "GeneMeta",
         "MatrixGenerics",
         "annotate",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "Xeva": [
         "BiocParallel",
@@ -19325,7 +19203,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "zellkonverter": [
