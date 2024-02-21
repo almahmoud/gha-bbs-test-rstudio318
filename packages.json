@@ -27,7 +27,6 @@
         "mzR"
     ],
     "ADImpute": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -251,7 +250,6 @@
         "CoGAPS",
         "GeneOverlap",
         "Rhdf5lib",
-        "TFBSTools",
         "chromVAR",
         "motifmatchr",
         "rGREAT",
@@ -264,18 +262,15 @@
         "HDF5Array",
         "InteractionSet",
         "Rhdf5lib",
-        "TFBSTools",
         "motifStack",
         "rhdf5",
         "rhdf5filters"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atena": [],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [
@@ -284,7 +279,6 @@
         "genefilter"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -369,7 +363,6 @@
     ],
     "bgx": [],
     "BHC": [],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -628,9 +621,7 @@
     ],
     "ccfindR": [],
     "CCPlotR": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "CDI": [],
     "celaref": [],
@@ -768,9 +759,7 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "CHRONOS": [],
     "cicero": [
         "Gviz",
@@ -1206,7 +1195,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "daMA": [],
@@ -1495,7 +1483,6 @@
         "decoupleR",
         "progeny"
     ],
-    "easyRNASeq": [],
     "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
@@ -1527,7 +1514,6 @@
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -1551,7 +1537,6 @@
     ],
     "enrichTF": [
         "DOSE",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr",
@@ -1632,7 +1617,6 @@
     "esATAC": [
         "ChIPseeker",
         "DOSE",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr",
@@ -1976,19 +1960,14 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
         "piano"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
         "piano"
     ],
-    "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -2636,9 +2615,7 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "matter": [],
     "MBAmethyl": [],
     "MBECS": [
@@ -2719,7 +2696,6 @@
         "Spectra"
     ],
     "MetaboCoreUtils": [],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
@@ -3025,9 +3001,7 @@
     "MOMA": [
         "qvalue"
     ],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "DOSE",
@@ -3048,17 +3022,12 @@
     "motifbreakR": [
         "Gviz",
         "MotifDb",
-        "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
     "MotifDb": [],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
@@ -3089,7 +3058,6 @@
     "MsFeatures": [],
     "msgbsR": [
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [
@@ -3190,7 +3158,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -3231,7 +3198,6 @@
         "HDF5Array",
         "InteractionSet",
         "Rhdf5lib",
-        "TFBSTools",
         "biovizBase",
         "csaw",
         "metapod",
@@ -3288,7 +3254,6 @@
     "netboost": [
         "impute"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -3324,7 +3289,6 @@
         "yarn"
     ],
     "NewWave": [],
-    "nipalsMCIA": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -3444,9 +3408,7 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "pairedGSEA": [
@@ -3622,7 +3584,6 @@
         "Gviz",
         "HDF5Array",
         "Rhdf5lib",
-        "TFBSTools",
         "biovizBase",
         "rhdf5",
         "rhdf5filters"
@@ -3669,7 +3630,6 @@
         "mzR",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -3969,7 +3929,6 @@
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "rifiComparative": [
@@ -4462,7 +4421,6 @@
         "QuasR"
     ],
     "SingleR": [],
-    "singscore": [],
     "SiPSiC": [],
     "skewr": [
         "HDF5Array",
@@ -4551,7 +4509,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "TFBSTools",
         "biovizBase",
         "motifmatchr"
     ],
@@ -4708,7 +4665,6 @@
         "genefilter",
         "rhdf5",
         "rhdf5filters",
-        "singscore",
         "sva"
     ],
     "TCC": [
@@ -4736,12 +4692,10 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFBSTools": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
     ],
-    "TFutils": [],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
@@ -4928,7 +4882,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [],
-    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
