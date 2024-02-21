@@ -132,7 +132,6 @@
         "Rhdf5lib",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "mzR",
         "zlibbioc"
     ],
@@ -192,7 +191,6 @@
         "affyio",
         "zlibbioc"
     ],
-    "affycomp": [],
     "affyContam": [
         "affy",
         "affyio",
@@ -396,11 +394,9 @@
         "biocViews",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocParallel",
@@ -761,7 +757,6 @@
         "SummarizedExperiment",
         "XVector",
         "impute",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -940,7 +935,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "AnnotationHubData": [
@@ -971,7 +965,6 @@
         "biocViews",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -999,7 +992,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "interactiveDisplayBase",
         "regioneR",
         "rtracklayer",
         "zlibbioc"
@@ -1130,7 +1122,6 @@
         "XVector",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -1403,7 +1394,6 @@
         "biomaRt",
         "ensembldb",
         "graph",
-        "interactiveDisplayBase",
         "motifStack",
         "multtest",
         "regioneR",
@@ -1459,7 +1449,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "sparseMatrixStats",
         "zlibbioc"
     ],
@@ -2309,7 +2298,6 @@
         "zlibbioc"
     ],
     "BioCartaImage": [],
-    "BiocBook": [],
     "BiocCheck": [
         "RBGL",
         "biocViews",
@@ -2347,7 +2335,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "BiocIO": [
@@ -2386,7 +2373,6 @@
         "XVector",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -2732,7 +2718,6 @@
         "dmrseq",
         "graph",
         "impute",
-        "interactiveDisplayBase",
         "marray",
         "regioneR",
         "rhdf5",
@@ -2835,7 +2820,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "bluster": [
@@ -3011,7 +2995,6 @@
         "ensembldb",
         "ggbio",
         "graph",
-        "interactiveDisplayBase",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -3769,7 +3752,6 @@
         "fgsea",
         "graph",
         "graphite",
-        "interactiveDisplayBase",
         "qvalue",
         "zlibbioc"
     ],
@@ -4225,7 +4207,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "CGHbase": [
@@ -4305,7 +4286,6 @@
         "globaltest",
         "goseq",
         "impute",
-        "interactiveDisplayBase",
         "lumi",
         "marray",
         "methylumi",
@@ -4865,7 +4845,6 @@
         "XVector",
         "biomaRt",
         "gwascat",
-        "interactiveDisplayBase",
         "rtracklayer",
         "snpStats",
         "universalmotif",
@@ -5662,7 +5641,6 @@
         "XVector",
         "biomaRt",
         "bumphunter",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -5805,7 +5783,6 @@
         "zlibbioc"
     ],
     "consensusOV": [
-        "AIMS",
         "AnnotationDbi",
         "BiocParallel",
         "BiocSingular",
@@ -5948,7 +5925,6 @@
     "convert": [
         "marray"
     ],
-    "copa": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -6062,7 +6038,6 @@
         "XVector",
         "annotationTools",
         "biomaRt",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "cosmiq": [
@@ -6214,7 +6189,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "cqn": [],
     "CRImage": [
         "EBImage",
         "aCGH",
@@ -6304,7 +6278,6 @@
         "crisprBowtie",
         "crisprScore",
         "dir.expiry",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -6321,7 +6294,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "CRISPRseek": [
@@ -6406,7 +6378,6 @@
         "crisprViz",
         "dir.expiry",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -6447,7 +6418,6 @@
         "crisprScore",
         "dir.expiry",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -6564,7 +6534,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "CTDquerier": [
@@ -6582,7 +6551,6 @@
         "S4Vectors",
         "XVector",
         "fgsea",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -6663,7 +6631,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "customProDB": [
@@ -8128,7 +8095,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "interactiveDisplayBase",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -8178,7 +8144,6 @@
         "biomaRt",
         "bsseq",
         "bumphunter",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -8519,7 +8484,6 @@
         "SummarizedExperiment",
         "XVector",
         "decoupleR",
-        "interactiveDisplayBase",
         "progeny",
         "quantiseqr",
         "zlibbioc"
@@ -8803,7 +8767,6 @@
         "genefilter",
         "geneplotter",
         "impute",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -9025,7 +8988,6 @@
         "fgsea",
         "genomation",
         "impute",
-        "interactiveDisplayBase",
         "qvalue",
         "rtracklayer",
         "seqPattern",
@@ -9123,7 +9085,6 @@
         "XVector",
         "biomaRt",
         "impute",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -9167,7 +9128,6 @@
         "ensembldb",
         "genefilter",
         "graph",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -9580,7 +9540,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "orthogene",
         "zlibbioc"
     ],
@@ -9656,7 +9615,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "ExperimentHubData": [
@@ -9689,7 +9647,6 @@
         "biocViews",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -9764,7 +9721,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "AnnotationDbi",
@@ -10760,7 +10716,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -10922,7 +10877,6 @@
         "marray",
         "zlibbioc"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
@@ -10937,7 +10891,6 @@
         "zlibbioc"
     ],
     "genefu": [
-        "AIMS",
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
@@ -11391,7 +11344,6 @@
         "S4Vectors",
         "SparseArray",
         "XVector",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -11504,7 +11456,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "cqn",
         "zlibbioc"
     ],
     "gep2pep": [
@@ -12091,7 +12042,6 @@
         "graph",
         "zlibbioc"
     ],
-    "GOsummaries": [],
     "GOTHiC": [
         "BSgenome",
         "BiocIO",
@@ -12125,7 +12075,6 @@
         "zlibbioc"
     ],
     "GPA": [],
-    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -12154,7 +12103,6 @@
         "biomaRt",
         "ensembldb",
         "graph",
-        "interactiveDisplayBase",
         "rtracklayer",
         "topGO",
         "zlibbioc"
@@ -12282,7 +12230,6 @@
         "annotate",
         "graph",
         "graphite",
-        "interactiveDisplayBase",
         "pathview",
         "safe",
         "zlibbioc"
@@ -12502,7 +12449,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer",
         "snpStats",
         "zlibbioc"
@@ -12571,9 +12517,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "AnnotationDbi",
         "BiocParallel",
@@ -12934,7 +12878,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "HIPPO": [
@@ -13024,7 +12967,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "HTqPCR": [
@@ -13104,7 +13046,6 @@
         "zlibbioc"
     ],
     "HybridMTest": [],
-    "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
         "graph",
@@ -13684,10 +13625,8 @@
         "annotate",
         "genefilter",
         "graph",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
-    "interactiveDisplayBase": [],
     "InterCellar": [
         "AnnotationDbi",
         "Biostrings",
@@ -13806,7 +13745,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "IPO": [
@@ -13918,7 +13856,6 @@
         "SummarizedExperiment",
         "XVector",
         "iSEE",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "iSEEindex": [
@@ -14039,7 +13976,6 @@
         "ensembldb",
         "genefilter",
         "geneplotter",
-        "interactiveDisplayBase",
         "pfamAnalyzeR",
         "rtracklayer",
         "satuRn",
@@ -14289,7 +14225,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "cqn",
         "genefilter",
         "sva",
         "zlibbioc"
@@ -14584,7 +14519,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "lumi": [
@@ -14658,7 +14592,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -14710,7 +14643,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "made4": [
@@ -14819,7 +14751,6 @@
         "enrichplot",
         "fgsea",
         "graph",
-        "interactiveDisplayBase",
         "pathview",
         "qvalue",
         "zlibbioc"
@@ -15050,7 +14981,6 @@
         "XVector",
         "annotate",
         "graph",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "MatrixGenerics": [],
@@ -15074,7 +15004,6 @@
         "affy",
         "affyio",
         "impute",
-        "interactiveDisplayBase",
         "proDA",
         "vsn",
         "zlibbioc"
@@ -15467,7 +15396,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "interactiveDisplayBase",
         "qvalue",
         "zlibbioc"
     ],
@@ -15530,7 +15458,6 @@
         "Spectra",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "MetaboCoreUtils": [
@@ -15589,7 +15516,6 @@
         "ensembldb",
         "graph",
         "hpar",
-        "interactiveDisplayBase",
         "mygene",
         "qvalue",
         "rtracklayer",
@@ -15804,7 +15730,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "sesame",
         "zlibbioc"
     ],
@@ -15960,7 +15885,6 @@
         "genefilter",
         "graph",
         "impute",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "planet",
@@ -16329,7 +16253,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "MiChip": [],
     "microbiome": [
         "Biostrings",
         "GenomeInfoDb",
@@ -16658,7 +16581,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -17138,7 +17060,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "interactiveDisplayBase",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -17188,8 +17109,7 @@
         "zlibbioc"
     ],
     "mosbi": [
-        "QUBIC",
-        "fabia"
+        "QUBIC"
     ],
     "MOSim": [
         "IRanges",
@@ -17449,7 +17369,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "MsExperiment": [
@@ -17627,7 +17546,6 @@
         "affy",
         "affyio",
         "impute",
-        "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests",
         "mzID",
@@ -17894,7 +17812,6 @@
         "fgsea",
         "graph",
         "graphite",
-        "interactiveDisplayBase",
         "multtest",
         "zlibbioc"
     ],
@@ -18242,7 +18159,6 @@
         "csaw",
         "ensembldb",
         "graph",
-        "interactiveDisplayBase",
         "metapod",
         "motifStack",
         "multtest",
@@ -18834,7 +18750,6 @@
         "beachmat",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18880,7 +18795,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -19121,7 +19035,6 @@
         "SummarizedExperiment",
         "XVector",
         "graph",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "openCyto": [
@@ -19355,7 +19268,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -19667,7 +19579,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "PAST": [
@@ -19791,7 +19702,6 @@
     ],
     "pcxn": [],
     "PDATK": [
-        "AIMS",
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
@@ -20115,7 +20025,6 @@
         "XVector",
         "bioDist",
         "graph",
-        "interactiveDisplayBase",
         "topGO",
         "zlibbioc"
     ],
@@ -20427,7 +20336,6 @@
         "SummarizedExperiment",
         "XVector",
         "graph",
-        "interactiveDisplayBase",
         "ontoProc",
         "zlibbioc"
     ],
@@ -20622,7 +20530,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -20967,7 +20874,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "interactiveDisplayBase",
         "qvalue",
         "recount",
         "rtracklayer",
@@ -21135,7 +21041,6 @@
         "XVector",
         "biomaRt",
         "graph",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "qckitfastq": [
@@ -21678,7 +21583,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -22215,7 +22119,6 @@
         "biovizBase",
         "ensembldb",
         "graph",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -22250,7 +22153,6 @@
         "bumphunter",
         "genefilter",
         "impute",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -22412,7 +22314,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "rhdf5client",
         "zlibbioc"
     ],
@@ -22484,7 +22385,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "RGMQL": [
@@ -22950,7 +22850,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "interactiveDisplayBase",
         "regioneR",
         "rtracklayer",
         "zlibbioc"
@@ -23349,7 +23248,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "roastgsa": [],
     "ROCpAI": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -23433,7 +23331,6 @@
         "zlibbioc"
     ],
     "RProtoBufLib": [],
-    "rpx": [],
     "Rqc": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -23959,7 +23856,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "scanMiR",
         "zlibbioc"
@@ -23980,7 +23876,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "SCANVIS": [
@@ -24494,7 +24389,6 @@
         "beachmat",
         "biomaRt",
         "bsseq",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -24855,7 +24749,6 @@
         "genefilter",
         "graph",
         "graphite",
-        "interactiveDisplayBase",
         "meshr",
         "qvalue",
         "schex",
@@ -25280,7 +25173,6 @@
         "SNPRelate",
         "XVector",
         "gdsfmt",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "seqTools": [
@@ -25314,7 +25206,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "SEtools": [
@@ -25610,7 +25501,6 @@
         "enrichplot",
         "fgsea",
         "graph",
-        "interactiveDisplayBase",
         "qvalue",
         "rhdf5",
         "rhdf5filters",
@@ -25643,7 +25533,6 @@
         "zlibbioc"
     ],
     "signifinder": [
-        "AIMS",
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocIO",
@@ -25941,7 +25830,6 @@
         "ensembldb",
         "genefilter",
         "graph",
-        "interactiveDisplayBase",
         "metapod",
         "multtest",
         "rhdf5",
@@ -26330,7 +26218,6 @@
         "beachmat",
         "biomaRt",
         "bsseq",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -26771,7 +26658,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "interactiveDisplayBase",
         "ompBAM",
         "rhdf5",
         "rhdf5filters",
@@ -27837,7 +27723,6 @@
         "SummarizedExperiment",
         "XVector",
         "graph",
-        "interactiveDisplayBase",
         "ontoProc",
         "restfulSE",
         "rhdf5client",
@@ -28836,9 +28721,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twilight": [],
     "twoddpcr": [
         "S4Vectors"
@@ -28892,7 +28775,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -28937,7 +28819,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "interactiveDisplayBase",
         "plotgardener",
         "plyranges",
         "rtracklayer",
@@ -29219,7 +29100,6 @@
         "biovizBase",
         "ensembldb",
         "graph",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -29402,7 +29282,6 @@
         "XVector",
         "annotate",
         "graph",
-        "interactiveDisplayBase",
         "zlibbioc"
     ],
     "Voyager": [
@@ -29488,7 +29367,6 @@
         "biomaRt",
         "graph",
         "gwascat",
-        "interactiveDisplayBase",
         "rtracklayer",
         "snpStats",
         "zlibbioc"
