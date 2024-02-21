@@ -42,7 +42,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -411,7 +410,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
@@ -1022,7 +1020,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "cpvSNP": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -1653,7 +1650,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "evaluomeR": [],
     "EventPointer": [
         "Rhdf5lib",
         "SGSeq",
@@ -2113,7 +2109,6 @@
         "SpatialExperiment"
     ],
     "GIGSEA": [],
-    "girafe": [],
     "GISPA": [
         "genefilter"
     ],
@@ -2128,7 +2123,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [],
@@ -2179,7 +2173,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSReg": [],
     "GSRI": [
         "genefilter",
         "les"
@@ -2290,7 +2283,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -2925,8 +2917,6 @@
         "qvalue"
     ],
     "microSTASIS": [],
-    "MICSQTL": [],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM"
@@ -2985,7 +2975,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "missRows": [],
     "mitch": [],
     "mitoClone2": [
         "deepSNV"
@@ -3347,7 +3336,6 @@
         "qvalue"
     ],
     "NPARC": [],
-    "npGSEA": [],
     "nucleR": [],
     "nullranges": [
         "InteractionSet"
@@ -4249,7 +4237,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
@@ -4778,7 +4765,6 @@
     "TIN": [
         "impute"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
@@ -4996,7 +4982,6 @@
         "mzID",
         "mzR"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
