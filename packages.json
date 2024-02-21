@@ -399,7 +399,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "awst": [],
     "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -776,7 +775,6 @@
         "qvalue"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
@@ -810,7 +808,6 @@
     "BUSseq": [
         "SingleCellExperiment"
     ],
-    "CaDrA": [],
     "CAEN": [],
     "CAFE": [
         "AnnotationFilter",
@@ -1702,7 +1699,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -1866,7 +1862,6 @@
         "epiNEM",
         "mnem"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -1876,7 +1871,6 @@
         "flowViz"
     ],
     "dearseq": [],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -3252,7 +3246,6 @@
         "DESeq2",
         "MultiAssayExperiment"
     ],
-    "HERON": [],
     "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
@@ -4874,7 +4867,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "odseq": [],
     "OGRE": [
         "AnnotationFilter",
         "Gviz",
@@ -5116,7 +5108,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "pengls": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
@@ -5493,7 +5484,6 @@
         "gdsfmt"
     ],
     "ramr": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
@@ -5668,9 +5658,7 @@
         "ggbio"
     ],
     "RepViz": [],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -6366,7 +6354,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -6841,7 +6828,6 @@
     ],
     "ssize": [],
     "sSNAPPY": [],
-    "ssPATHS": [],
     "ssviz": [],
     "stageR": [],
     "standR": [
@@ -7106,7 +7092,6 @@
         "fgsea",
         "piano"
     ],
-    "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
         "AnnotationFilter",
@@ -7172,7 +7157,6 @@
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
     ],
-    "TREG": [],
     "TRESS": [],
     "tricycle": [
         "BiocNeighbors",
@@ -7191,7 +7175,6 @@
         "sva"
     ],
     "trio": [],
-    "triplex": [],
     "tripr": [],
     "tRNA": [
         "Modstrings"
