@@ -158,8 +158,7 @@
         "rGREAT"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [],
     "atSNP": [],
@@ -283,7 +282,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "bsseq",
         "bumphunter",
         "dmrseq",
         "impute"
@@ -299,7 +297,6 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
@@ -313,8 +310,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "bumphunter",
@@ -328,7 +324,6 @@
         "DESeq2"
     ],
     "BSgenomeForge": [],
-    "bsseq": [],
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
@@ -337,8 +332,7 @@
     ],
     "CAGEfightR": [
         "GenomicInteractions",
-        "Gviz",
-        "InteractionSet"
+        "Gviz"
     ],
     "cageminer": [
         "BioNERO",
@@ -350,8 +344,7 @@
     "CAGEr": [
         "CAGEfightR",
         "GenomicInteractions",
-        "Gviz",
-        "InteractionSet"
+        "Gviz"
     ],
     "CAMERA": [
         "MSnbase",
@@ -480,7 +473,6 @@
     "ChAMP": [
         "DMRcate",
         "Gviz",
-        "bsseq",
         "bumphunter",
         "genefilter",
         "impute",
@@ -492,14 +484,11 @@
         "sva",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz"
     ],
     "ChIPComp": [],
-    "ChIPpeakAnno": [
-        "InteractionSet"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
@@ -555,7 +544,6 @@
     ],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -591,8 +579,7 @@
         "gdsfmt"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "Cogito": [],
     "coGPS": [],
@@ -728,7 +715,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "cTRAP": [],
     "CTSV": [
         "qvalue"
     ],
@@ -905,7 +891,6 @@
     ],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "genefilter",
         "sva"
     ],
@@ -929,8 +914,7 @@
         "qvalue"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "DESeq2": [],
     "DEsingle": [],
@@ -969,7 +953,6 @@
         "DRIMSeq"
     ],
     "diffHic": [
-        "InteractionSet",
         "csaw",
         "metapod"
     ],
@@ -992,7 +975,6 @@
     "DMRcaller": [],
     "DMRcate": [
         "Gviz",
-        "bsseq",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -1000,7 +982,6 @@
         "missMethyl"
     ],
     "dmrseq": [
-        "bsseq",
         "bumphunter"
     ],
     "DNAfusion": [
@@ -1026,14 +1007,11 @@
     ],
     "DRIMSeq": [],
     "DriverNet": [],
-    "DropletUtils": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "qvalue"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "DTA": [],
     "DynDoc": [],
     "easier": [
@@ -1050,9 +1028,7 @@
         "qvalue",
         "sva"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "EGAD": [
         "impute"
     ],
@@ -1163,7 +1139,6 @@
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "csaw",
         "metapod"
     ],
@@ -1212,7 +1187,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1400,7 +1374,6 @@
         "pathview",
         "qvalue"
     ],
-    "gDNAx": [],
     "gDR": [
         "PharmacoGx",
         "gDRimport"
@@ -1456,8 +1429,7 @@
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
-        "Gviz",
-        "InteractionSet"
+        "Gviz"
     ],
     "GenomicOZone": [
         "ggbio"
@@ -1504,7 +1476,6 @@
         "gdsfmt"
     ],
     "GGPA": [],
-    "ggspavis": [],
     "GIGSEA": [],
     "GISPA": [
         "genefilter"
@@ -1546,7 +1517,6 @@
     "graper": [],
     "GreyListChIP": [],
     "groHMM": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1563,8 +1533,7 @@
     ],
     "GSVA": [],
     "GUIDEseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "Guitar": [],
     "Gviz": [],
@@ -1592,37 +1561,26 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCBricks": [],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
-        "Gviz",
-        "InteractionSet"
+        "Gviz"
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [
-        "InteractionSet"
-    ],
+    "HiCExperiment": [],
     "HiContacts": [
-        "HiCExperiment",
-        "InteractionSet"
+        "HiCExperiment"
     ],
     "HiCool": [
         "HiCExperiment",
-        "InteractionSet",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
+    "hicVennDiagram": [],
     "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -1707,7 +1665,6 @@
         "ggbio"
     ],
     "interacCircos": [],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
@@ -1723,7 +1680,6 @@
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "IONiseR": [],
     "iPath": [],
     "IPO": [
         "CAMERA",
@@ -1740,7 +1696,6 @@
         "DESeq2"
     ],
     "iSEEhex": [],
-    "iSEEhub": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -1772,8 +1727,7 @@
     ],
     "kissDE": [
         "DESeq2",
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [
         "genefilter",
@@ -1863,9 +1817,7 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "mariner": [
-        "InteractionSet"
-    ],
+    "mariner": [],
     "martini": [],
     "maser": [
         "Gviz"
@@ -1880,7 +1832,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "gdsfmt"
@@ -1965,7 +1916,6 @@
     "metaseqR2": [
         "DESeq2",
         "DSS",
-        "bsseq",
         "genefilter",
         "qvalue",
         "survcomp"
@@ -1989,7 +1939,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "bumphunter",
         "genefilter",
         "minfi"
@@ -2028,8 +1977,7 @@
         "Gviz"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "bumphunter",
@@ -2075,9 +2023,7 @@
         "bumphunter",
         "genefilter"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -2235,8 +2181,7 @@
     ],
     "MultiDataSet": [],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "MultiRNAflow": [
         "DESeq2",
@@ -2265,14 +2210,11 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "Gviz",
-        "InteractionSet",
         "csaw",
         "metapod",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
@@ -2318,7 +2260,6 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -2331,7 +2272,6 @@
         "quantro",
         "yarn"
     ],
-    "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -2340,9 +2280,7 @@
         "qvalue"
     ],
     "NPARC": [],
-    "nullranges": [
-        "InteractionSet"
-    ],
+    "nullranges": [],
     "occugene": [],
     "octad": [
         "DESeq2",
@@ -2533,9 +2471,7 @@
         "genefilter"
     ],
     "plotGrouper": [],
-    "plyinteractions": [
-        "InteractionSet"
-    ],
+    "plyinteractions": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -2717,8 +2653,7 @@
     ],
     "RedisParam": [],
     "REDseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "RegionalST": [
         "BayesSpace",
@@ -2933,9 +2868,7 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "Cepo"
     ],
@@ -2970,9 +2903,7 @@
         "metapod",
         "scran"
     ],
-    "scmeth": [
-        "bsseq"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
@@ -2983,7 +2914,6 @@
     ],
     "scp": [],
     "scPipe": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -3063,9 +2993,7 @@
         "genefilter",
         "sva"
     ],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -3123,7 +3051,6 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "DropletUtils",
         "GSVA",
         "basilisk",
         "basilisk.utils",
@@ -3168,12 +3095,9 @@
     "SomaticSignatures": [
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "bsseq"
-    ],
+    "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [
-        "DropletUtils",
         "metapod",
         "scran"
     ],
@@ -3194,21 +3118,18 @@
     "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "InteractionSet"
+        "Gviz"
     ],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3281,8 +3202,7 @@
         "Gviz"
     ],
     "TADCompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "TAPseq": [],
     "TargetDecoy": [],
@@ -3358,12 +3278,10 @@
     "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [
-        "Gviz",
-        "InteractionSet"
+        "Gviz"
     ],
     "tradeSeq": [],
     "transcriptogramer": [],
-    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -3428,7 +3346,6 @@
         "genefilter",
         "sva"
     ],
-    "VCFArray": [],
     "VegaMC": [],
     "velociraptor": [
         "basilisk",
@@ -3452,7 +3369,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "InteractionSet",
         "csaw",
         "metapod"
     ],
