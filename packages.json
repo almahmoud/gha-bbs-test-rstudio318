@@ -504,7 +504,6 @@
         "scran"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "genefilter",
@@ -514,7 +513,6 @@
     "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -676,7 +674,6 @@
     ],
     "clusterSeq": [],
     "ClusterSignificance": [],
-    "clustifyr": [],
     "cmapR": [
         "RProtoBufLib",
         "cytolib",
@@ -1344,8 +1341,7 @@
         "qvalue"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "esetVis": [],
@@ -1749,7 +1745,6 @@
         "DESeq2"
     ],
     "glmGamPoi": [],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1912,7 +1907,6 @@
     "idr2d": [],
     "IFAA": [],
     "igvR": [],
-    "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
         "cytomapper"
@@ -2000,25 +1994,14 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEE": [],
     "iSEEde": [
-        "DESeq2",
-        "iSEE"
+        "DESeq2"
     ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoBayes": [],
@@ -2358,7 +2341,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "miaViz": [],
     "microbiome": [
         "biomformat",
         "phyloseq"
@@ -2761,7 +2743,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2843,7 +2824,6 @@
         "dir.expiry",
         "qvalue"
     ],
-    "partCNV": [],
     "PAST": [
         "qvalue"
     ],
@@ -3236,7 +3216,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "RgnTX": [],
     "rgoslin": [],
     "rGREAT": [],
     "rgsepd": [
@@ -3454,7 +3433,6 @@
         "metapod",
         "scran"
     ],
-    "scDDboost": [],
     "scFeatures": [
         "GSVA",
         "SingleCellSignalR",
@@ -3893,7 +3871,6 @@
     "tilingArray": [
         "genefilter"
     ],
-    "timeOmics": [],
     "timescape": [],
     "TimiRGeN": [
         "DOSE",
@@ -3986,7 +3963,6 @@
         "ensemblVEP"
     ],
     "tximeta": [],
-    "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
         "plotgardener"
@@ -4062,7 +4038,6 @@
         "metapod",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "bumphunter",
         "genefilter",
