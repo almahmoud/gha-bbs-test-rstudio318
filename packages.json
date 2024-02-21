@@ -210,7 +210,6 @@
         "GOstats",
         "genefilter"
     ],
-    "AUCell": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -299,7 +298,6 @@
         "qvalue"
     ],
     "BioCartaImage": [],
-    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -349,7 +347,6 @@
         "dmrseq",
         "impute"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
@@ -402,7 +399,6 @@
     "bumphunter": [],
     "BUScorrect": [],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -1321,7 +1317,6 @@
     ],
     "epistack": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -2231,7 +2226,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "Melissa": [],
     "memes": [],
     "meshes": [
@@ -2695,7 +2689,6 @@
         "KEGGgraph"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -3213,7 +3206,6 @@
         "metapod",
         "scran"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "DESeq2",
@@ -3481,7 +3473,6 @@
     ],
     "scDDboost": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "SingleCellSignalR",
         "metapod",
@@ -3502,7 +3493,6 @@
         "metapod",
         "scran"
     ],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq"
@@ -3529,9 +3519,7 @@
     "scran": [
         "metapod"
     ],
-    "scReClassify": [],
     "scRecover": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3751,7 +3739,6 @@
         "metapod",
         "scran"
     ],
-    "sparrow": [],
     "sparsenetgls": [],
     "spaSim": [],
     "SpatialCPie": [],
@@ -3775,7 +3762,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
@@ -3915,7 +3901,6 @@
         "DESeq2",
         "SCBN"
     ],
-    "TENxIO": [],
     "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
@@ -4007,7 +3992,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "qvalue",
@@ -4015,13 +3999,8 @@
     ],
     "trio": [],
     "tripr": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
