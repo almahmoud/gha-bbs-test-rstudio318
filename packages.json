@@ -42,7 +42,6 @@
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
-    "affxparser": [],
     "affycoretools": [
         "AnnotationFilter",
         "Category",
@@ -58,12 +57,9 @@
         "biovizBase",
         "ensembldb",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
-    "affyILM": [
-        "affxparser"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -91,8 +87,7 @@
         "biovizBase",
         "ensembldb",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "AHMassBank": [
         "AnnotationHub",
@@ -329,11 +324,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "ArrayExpress": [
-        "affxparser",
-        "oligo",
-        "oligoClasses"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -608,7 +599,6 @@
         "dearseq",
         "decontam",
         "genefilter",
-        "metagenomeSeq",
         "mia",
         "mixOmics",
         "phyloseq",
@@ -714,9 +704,7 @@
         "dir.expiry"
     ],
     "biocViews": [],
-    "biodbLipidmaps": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "biomformat": [
         "Rhdf5lib",
         "rhdf5",
@@ -1004,9 +992,7 @@
         "matter"
     ],
     "CARNIVAL": [],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1032,7 +1018,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RCy3",
         "annotate",
         "genefilter"
     ],
@@ -1183,7 +1168,6 @@
     "CeTF": [
         "DESeq2",
         "DOSE",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1313,10 +1297,7 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "affxparser",
-        "frma",
-        "oligo",
-        "oligoClasses"
+        "frma"
     ],
     "chromDraw": [],
     "ChromHeatMap": [
@@ -1468,11 +1449,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cn.farms": [
-        "affxparser",
-        "oligo",
-        "oligoClasses"
-    ],
+    "cn.farms": [],
     "cn.mops": [
         "exomeCopy"
     ],
@@ -1836,15 +1813,10 @@
         "dir.expiry",
         "ensembldb"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
     "crossmeta": [
-        "affxparser",
         "annotate",
         "genefilter",
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "CSAR": [],
@@ -2130,8 +2102,7 @@
     "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "DESeq2"
@@ -2436,10 +2407,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "affxparser",
         "annotate",
-        "oligo",
-        "oligoClasses",
         "qvalue"
     ],
     "DSS": [
@@ -2575,7 +2543,6 @@
     ],
     "enrichViewNet": [
         "DOSE",
-        "RCy3",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -2742,7 +2709,6 @@
     "EventPointer": [
         "Rhdf5lib",
         "SGSeq",
-        "affxparser",
         "fgsea",
         "qvalue",
         "rhdf5",
@@ -2776,7 +2742,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "AnnotationFilter",
@@ -2826,9 +2791,7 @@
         "TrajectoryUtils"
     ],
     "FeatSeekR": [],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
@@ -3080,12 +3043,7 @@
         "sparseMatrixStats"
     ],
     "frenchFISH": [],
-    "frma": [
-        "affxparser",
-        "oligo",
-        "oligoClasses"
-    ],
-    "frmaTools": [],
+    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "DelayedMatrixStats",
@@ -3107,7 +3065,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "gaga": [],
     "gage": [],
     "garfield": [],
     "GARS": [
@@ -3218,9 +3175,7 @@
     "geneplotter": [
         "annotate"
     ],
-    "GeneRegionScan": [
-        "affxparser"
-    ],
+    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
@@ -3922,10 +3877,7 @@
         "DESeq2"
     ],
     "ITALICS": [
-        "GLAD",
-        "affxparser",
-        "oligo",
-        "oligoClasses"
+        "GLAD"
     ],
     "iterativeBMAsurv": [],
     "IVAS": [],
@@ -4061,20 +4013,15 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "Maaslin2",
-        "impute",
-        "metagenomeSeq"
+        "impute"
     ],
     "macat": [
         "annotate"
@@ -4104,7 +4051,6 @@
         "impute",
         "methylumi",
         "minfi",
-        "oligoClasses",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -4215,13 +4161,10 @@
     ],
     "mBPCR": [
         "GWASTools",
-        "gdsfmt",
-        "oligoClasses"
+        "gdsfmt"
     ],
     "MBQN": [],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -4298,11 +4241,9 @@
     "memes": [
         "universalmotif"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
         "DOSE",
-        "MeSHDbi",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -4310,7 +4251,6 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "annotate",
         "genefilter"
     ],
@@ -4353,7 +4293,6 @@
         "flowCore"
     ],
     "metagene2": [],
-    "metagenomeSeq": [],
     "metaMS": [
         "AnnotationFilter",
         "CAMERA",
@@ -4377,7 +4316,6 @@
     ],
     "MetaPhOR": [
         "DOSE",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -4545,7 +4483,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "MetID": [],
     "MetNet": [],
     "Mfuzz": [
         "DynDoc",
@@ -4608,7 +4545,6 @@
     "microbiomeDASim": [
         "Rhdf5lib",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -4617,7 +4553,6 @@
         "DESeq2",
         "Rhdf5lib",
         "biomformat",
-        "metagenomeSeq",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4639,7 +4574,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -4675,10 +4609,7 @@
         "beachmat"
     ],
     "mimager": [
-        "affxparser",
-        "affyPLM",
-        "oligo",
-        "oligoClasses"
+        "affyPLM"
     ],
     "mina": [],
     "MineICA": [
@@ -4711,8 +4642,7 @@
     ],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "miQC": [
         "SingleCellExperiment"
@@ -4774,8 +4704,7 @@
     ],
     "MMDiff2": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [
@@ -4811,9 +4740,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "annotate",
@@ -4891,7 +4818,6 @@
     "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
-    "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -5233,8 +5159,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RCy3"
+        "KEGGgraph"
     ],
     "ncRNAtools": [],
     "nearBynding": [
@@ -5295,7 +5220,6 @@
         "GOstats",
         "GSEABase",
         "HDF5Array",
-        "RCy3",
         "Rhdf5lib",
         "STRINGdb",
         "annotate",
@@ -5314,7 +5238,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "MultiAssayExperiment",
         "fgsea"
@@ -5368,8 +5291,7 @@
         "sparseMatrixStats"
     ],
     "odseq": [
-        "kebabs",
-        "msa"
+        "kebabs"
     ],
     "OGRE": [
         "AnnotationFilter",
@@ -5380,15 +5302,8 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [
-        "affxparser",
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
-    "OLIN": [],
     "OLINgui": [
         "DynDoc",
-        "OLIN",
         "tkWidgets",
         "widgetTools"
     ],
@@ -5613,11 +5528,7 @@
         "piano",
         "survcomp"
     ],
-    "pdInfoBuilder": [
-        "affxparser",
-        "oligo",
-        "oligoClasses"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -5940,11 +5851,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "puma": [
-        "affxparser",
-        "oligo",
-        "oligoClasses"
-    ],
+    "puma": [],
     "PureCN": [
         "Rhdf5lib",
         "VariantAnnotation",
@@ -5960,7 +5867,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
         "STRINGdb"
@@ -6085,7 +5991,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBioFormats": [],
     "Rbowtie2": [],
     "RCAS": [
         "genomation",
@@ -6112,7 +6017,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCy3": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
@@ -6216,7 +6120,6 @@
         "AnnotationHub",
         "Gviz",
         "ProtGenerics",
-        "RCy3",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -6588,11 +6491,8 @@
     "Scale4C": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
-        "affxparser",
         "annotate",
         "genefilter",
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiR": [],
@@ -6897,7 +6797,6 @@
         "DOSE",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "SingleCellExperiment",
         "annotate",
@@ -7396,8 +7295,7 @@
         "sparseMatrixStats"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "RBioFormats"
+        "GeomxTools"
     ],
     "spatzie": [
         "AnnotationFilter",
@@ -7551,7 +7449,6 @@
         "impute"
     ],
     "STdeconvolve": [],
-    "stepNorm": [],
     "stJoincount": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -7574,9 +7471,7 @@
     "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "survcomp": [],
     "survtype": [],
     "sva": [
@@ -7748,7 +7643,6 @@
         "DynDoc",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -7863,9 +7757,7 @@
         "qvalue",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [],
     "traviz": [
@@ -7998,8 +7890,7 @@
         "ttgsea"
     ],
     "VanillaICE": [
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "VarCon": [],
     "variancePartition": [],
