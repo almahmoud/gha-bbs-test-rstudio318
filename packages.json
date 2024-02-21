@@ -1472,7 +1472,6 @@
         "qvalue"
     ],
     "doseR": [],
-    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -4139,10 +4138,7 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "rTRMui": [
         "MotifDb"
     ],
