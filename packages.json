@@ -259,7 +259,6 @@
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "BEARscc": [],
-    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -449,7 +448,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO",
         "matter"
@@ -505,7 +503,6 @@
         "metapod",
         "scran"
     ],
-    "CellBarcode": [],
     "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
@@ -791,9 +788,7 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [
         "DESeq2",
@@ -1027,7 +1022,6 @@
         "qvalue",
         "sva"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "celda",
         "metapod",
@@ -1631,14 +1625,12 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -1783,7 +1775,6 @@
         "Category",
         "genefilter"
     ],
-    "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
         "DESeq2"
@@ -2630,14 +2621,11 @@
         "metapod",
         "scran"
     ],
-    "MungeSumstats": [],
     "muscat": [
         "DESeq2",
         "variancePartition"
     ],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MWASTools": [
         "KEGGgraph",
@@ -2882,7 +2870,6 @@
         "CoreGx",
         "genefu",
         "impute",
-        "piano",
         "survcomp"
     ],
     "pdInfoBuilder": [],
@@ -2912,8 +2899,7 @@
         "DESeq2"
     ],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -2933,7 +2919,6 @@
         "biomformat"
     ],
     "Pi": [],
-    "piano": [],
     "pickgene": [],
     "Pigengene": [
         "DOSE",
@@ -3047,7 +3032,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "ProteoDisco": [],
     "protGear": [
         "genefilter"
     ],
@@ -3122,8 +3106,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "raer": [],
     "RAIDS": [
@@ -3506,7 +3489,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scoreInvHap": [],
     "scp": [
         "QFeatures"
     ],
@@ -3825,8 +3807,6 @@
     ],
     "stJoincount": [],
     "STRINGdb": [],
-    "structToolbox": [],
-    "StructuralVariantAnnotation": [],
     "subSeq": [
         "qvalue"
     ],
@@ -3836,12 +3816,8 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "qvalue"
@@ -3954,8 +3930,7 @@
         "mzR"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "tracktables": [],
     "trackViewer": [
@@ -4121,8 +4096,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [
         "STRINGdb"
