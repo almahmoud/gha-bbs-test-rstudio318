@@ -2763,7 +2763,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "fgga": [],
     "FGNet": [],
     "fgsea": [],
     "FilterFFPE": [],
@@ -4875,7 +4874,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM",
         "MSstatsTMT"
@@ -7710,7 +7708,6 @@
     ],
     "ttgsea": [],
     "TTMap": [],
-    "TurboNorm": [],
     "TVTB": [
         "AnnotationFilter",
         "Gviz",
