@@ -123,7 +123,6 @@
     "AMARETTO": [
         "impute"
     ],
-    "amplican": [],
     "Anaquin": [
         "DESeq2",
         "qvalue"
@@ -581,15 +580,13 @@
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
-        "GreyListChIP",
-        "chipseq"
+        "GreyListChIP"
     ],
     "ChIPseeker": [
         "DOSE",
         "enrichplot",
         "qvalue"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPXpress": [],
     "ChromSCape": [
@@ -1342,7 +1339,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [],
     "fastreeR": [],
     "fastseg": [],
     "fCCAC": [
@@ -1529,7 +1525,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "OUTRIDER"
@@ -1659,7 +1654,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "genefilter",
@@ -1705,7 +1699,6 @@
         "DESeq2"
     ],
     "glmGamPoi": [],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1828,10 +1821,7 @@
     "HiTC": [],
     "hoodscanR": [],
     "hpar": [],
-    "HTSeqGenie": [
-        "chipseq",
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -2050,7 +2040,6 @@
         "dir.expiry"
     ],
     "made4": [],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "bumphunter",
@@ -2362,7 +2351,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "MMUPHin": [],
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -2720,7 +2708,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -2899,7 +2886,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "chipseq",
         "enrichplot",
         "qvalue",
         "rGREAT",
@@ -3013,7 +2999,6 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx"
     ],
@@ -3161,7 +3146,6 @@
         "ggbio"
     ],
     "ribor": [],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -3436,7 +3420,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seq2pathway": [
         "impute"
@@ -3511,7 +3494,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "signeR": [],
     "signifinder": [
         "GSVA",
         "consensusOV",
@@ -3519,7 +3501,6 @@
         "impute",
         "survcomp"
     ],
-    "SigsPack": [],
     "SIMAT": [
         "mzR"
     ],
@@ -3593,9 +3574,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
         "ggbio"
@@ -3790,7 +3769,6 @@
     "TIN": [
         "impute"
     ],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
         "widgetTools"
@@ -3823,9 +3801,7 @@
         "slingshot"
     ],
     "transcriptogramer": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
