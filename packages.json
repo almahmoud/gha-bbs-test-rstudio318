@@ -361,7 +361,6 @@
     ],
     "BSgenomeForge": [],
     "bsseq": [],
-    "BubbleTree": [],
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
@@ -532,7 +531,6 @@
         "Gviz"
     ],
     "ChIPComp": [],
-    "ChIPexoQual": [],
     "ChIPpeakAnno": [
         "InteractionSet"
     ],
@@ -643,7 +641,6 @@
     "comapr": [
         "Gviz"
     ],
-    "combi": [],
     "coMET": [
         "Gviz"
     ],
@@ -712,7 +709,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -1188,7 +1184,6 @@
     "epivizr": [
         "bumphunter"
     ],
-    "epivizrChart": [],
     "epivizrStandalone": [
         "bumphunter",
         "epivizr"
@@ -2134,8 +2129,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -2668,9 +2661,7 @@
         "STRINGdb"
     ],
     "pqsfinder": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores",
@@ -2738,7 +2729,6 @@
         "qvalue",
         "recount"
     ],
-    "PSMatch": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -2856,7 +2846,6 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -3019,7 +3008,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "RPA": [],
     "RProtoBufLib": [],
     "Rqc": [],
     "rqt": [
