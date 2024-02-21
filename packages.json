@@ -997,7 +997,6 @@
     ],
     "ELMER": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "bumphunter",
         "genefilter",
@@ -2784,7 +2783,6 @@
         "metapod",
         "scran"
     ],
-    "scmeth": [],
     "scone": [],
     "Sconify": [
         "RProtoBufLib",
