@@ -49,7 +49,6 @@
         "ggbio"
     ],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -60,48 +59,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -689,7 +672,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CoreGx": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -984,7 +966,6 @@
     ],
     "DESeq2": [],
     "DEsingle": [],
-    "DESpace": [],
     "DEsubs": [
         "DESeq2",
         "qvalue"
@@ -1466,14 +1447,12 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "GDSArray": [
@@ -1650,7 +1629,6 @@
     "GWENA": [
         "impute"
     ],
-    "h5vc": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -1701,7 +1679,6 @@
     ],
     "HIREewas": [],
     "HiTC": [],
-    "hoodscanR": [],
     "hpar": [],
     "HTSeqGenie": [],
     "HTSFilter": [
@@ -1817,8 +1794,6 @@
     ],
     "iSEEhex": [],
     "iSEEhub": [],
-    "iSEEindex": [],
-    "iSEEpathways": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -1886,7 +1861,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "LoomExperiment": [],
     "lpNet": [
         "KEGGgraph"
     ],
@@ -2159,7 +2133,6 @@
         "bumphunter",
         "genefilter"
     ],
-    "MinimumDistance": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2181,7 +2154,6 @@
         "minfi"
     ],
     "mitch": [],
-    "mitoClone2": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -2210,7 +2182,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [],
     "MOMA": [
         "qvalue"
     ],
@@ -2575,7 +2546,6 @@
     "PCAN": [],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "impute",
         "survcomp"
@@ -2604,9 +2574,7 @@
     "phantasus": [
         "DESeq2"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -2771,7 +2739,6 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "QuasR": [],
     "QUBIC": [],
     "qvalue": [],
     "R3CPET": [
@@ -2780,9 +2747,7 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -3092,7 +3057,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scider": [],
     "scifer": [
         "RProtoBufLib",
         "cytolib",
@@ -3277,9 +3241,7 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "bumphunter",
         "genefilter",
@@ -3391,7 +3353,6 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "Statial": [],
     "statTarget": [
         "impute"
     ],
@@ -3406,7 +3367,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [],
     "svaRetro": [],
     "SVMDO": [
         "DOSE",
@@ -3509,9 +3469,7 @@
         "impute",
         "mzR"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [
         "Gviz",
@@ -3648,7 +3606,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XINA": [
