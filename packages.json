@@ -56,8 +56,7 @@
         "ggbio"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "airpart": [],
     "alabaster": [
@@ -197,9 +196,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [
-        "BiocCheck"
-    ],
+    "AnnotationHubData": [],
     "annotatr": [],
     "anota": [
         "qvalue"
@@ -407,7 +404,6 @@
         "qvalue"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [
         "basilisk",
@@ -1684,8 +1680,7 @@
         "DESeq2"
     ],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [
         "SpatialExperiment"
@@ -1972,7 +1967,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -2011,9 +2005,7 @@
         "gDRutils",
         "piano"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
@@ -2843,7 +2835,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "HDF5Array",
         "Rhdf5lib",
@@ -3188,10 +3179,7 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "Rhdf5lib",
@@ -3207,9 +3195,7 @@
         "mzID",
         "mzR"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MuData": [
         "Rhdf5lib",
         "rhdf5",
