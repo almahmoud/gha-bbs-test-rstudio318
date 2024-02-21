@@ -494,7 +494,6 @@
     "bayNorm": [
         "SingleCellExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -1090,7 +1089,6 @@
         "ensembldb",
         "genefilter",
         "globaltest",
-        "goseq",
         "impute",
         "lumi",
         "methylumi",
@@ -1158,7 +1156,6 @@
     ],
     "chromDraw": [],
     "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1274,9 +1271,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [
         "SingleCellExperiment"
@@ -3033,7 +3028,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
@@ -3274,7 +3268,6 @@
         "GOstats",
         "GSEABase",
         "genefilter",
-        "goseq",
         "pcaExplorer"
     ],
     "IdeoViz": [],
@@ -4263,7 +4256,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "mosaics": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -5496,15 +5488,13 @@
     "Rfastp": [],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
     "rgoslin": [],
     "rGREAT": [],
     "rgsepd": [
-        "DESeq2",
-        "goseq"
+        "DESeq2"
     ],
     "rhdf5": [
         "Rhdf5lib",
@@ -5540,9 +5530,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -6128,9 +6116,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "segmentSeq": [
-        "baySeq"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA"
     ],
@@ -6397,9 +6383,7 @@
         "TrajectoryUtils"
     ],
     "SMAP": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
@@ -6611,7 +6595,6 @@
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
-        "baySeq",
         "biovizBase",
         "ensembldb"
     ],
@@ -6738,8 +6721,7 @@
         "sva"
     ],
     "TCC": [
-        "DESeq2",
-        "baySeq"
+        "DESeq2"
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [
@@ -6908,7 +6890,6 @@
     ],
     "transomics2cytoscape": [],
     "TransView": [],
-    "traseR": [],
     "traviz": [
         "SingleCellExperiment",
         "TrajectoryUtils",
