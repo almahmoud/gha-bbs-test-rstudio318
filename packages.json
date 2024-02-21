@@ -2247,7 +2247,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "BG2": [],
     "BgeeCall": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -2668,7 +2667,6 @@
         "rhdf5filters"
     ],
     "BioMVCClass": [
-        "MVCClass",
         "Rgraphviz",
         "graph"
     ],
@@ -4872,7 +4870,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "MatrixGenerics",
         "Rhtslib",
@@ -5355,7 +5352,6 @@
         "xcms",
         "zlibbioc"
     ],
-    "Clomial": [],
     "clst": [
         "ROC"
     ],
@@ -12141,7 +12137,6 @@
         "sva",
         "zlibbioc"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
         "limma"
@@ -12484,7 +12479,6 @@
         "graph",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "AnnotationDbi",
         "Biostrings",
@@ -12862,7 +12856,6 @@
         "topGO",
         "zlibbioc"
     ],
-    "granulator": [],
     "graper": [],
     "graph": [],
     "GraphAT": [
@@ -13627,16 +13620,12 @@
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "S4Vectors",
         "XVector",
         "zlibbioc"
     ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -13886,7 +13875,6 @@
         "zlibbioc"
     ],
     "iBBiG": [],
-    "ibh": [],
     "iBMQ": [],
     "iCARE": [],
     "Icens": [],
@@ -15404,10 +15392,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz",
@@ -18389,7 +18374,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "MQmetrics": [],
     "msa": [
         "Biostrings",
         "GenomeInfoDb",
@@ -18769,7 +18753,6 @@
         "marray",
         "zlibbioc"
     ],
-    "MSstatsLOBD": [],
     "MSstatsPTM": [
         "Biostrings",
         "GenomeInfoDb",
@@ -19206,7 +19189,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "Biostrings",
         "ComplexHeatmap",
@@ -21530,9 +21512,7 @@
         "zlibbioc"
     ],
     "plotGrouper": [],
-    "PLPE": [
-        "LPE"
-    ],
+    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "BiocParallel",
@@ -23136,7 +23116,6 @@
         "BrowserViz",
         "graph"
     ],
-    "rDGIdb": [],
     "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
@@ -24943,7 +24922,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "rSWeeP": [],
     "RTCA": [],
     "RTCGA": [],
     "RTCGAToolbox": [
@@ -28871,7 +28849,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "Summix": [],
     "supersigs": [
         "Biostrings",
         "DelayedArray",
@@ -31314,7 +31291,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "weaver": [],
     "webbioc": [
         "AnnotationDbi",
         "Biostrings",
