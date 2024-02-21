@@ -45,7 +45,6 @@
     "affxparser": [],
     "affycoretools": [
         "AnnotationFilter",
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -78,7 +77,6 @@
     ],
     "AgiMicroRna": [
         "AnnotationFilter",
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -97,7 +95,6 @@
         "oligoClasses"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
@@ -293,10 +290,8 @@
     ],
     "annotate": [],
     "AnnotationFilter": [],
-    "AnnotationForge": [],
     "AnnotationHub": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "BiocCheck",
         "OrganismDbi",
@@ -354,7 +349,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "annotate",
@@ -444,7 +438,6 @@
         "motifStack"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -999,8 +992,7 @@
         "phenoTest"
     ],
     "cardelino": [
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "Cardinal": [
         "CardinalIO",
@@ -1037,7 +1029,6 @@
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -1196,8 +1187,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "qvalue",
-        "snpStats"
+        "qvalue"
     ],
     "CexoR": [
         "genomation",
@@ -1378,7 +1368,6 @@
         "DESeq2",
         "VariantAnnotation",
         "gwascat",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -2259,7 +2248,6 @@
         "annotate",
         "genefilter",
         "impute",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
@@ -2776,7 +2764,6 @@
         "AnnotationHub"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
@@ -3220,9 +3207,7 @@
         "impute",
         "survcomp"
     ],
-    "GeneGeneInteR": [
-        "snpStats"
-    ],
+    "GeneGeneInteR": [],
     "GeneMeta": [
         "annotate",
         "genefilter"
@@ -3321,7 +3306,6 @@
         "impute",
         "sva"
     ],
-    "GEOmetadb": [],
     "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
@@ -3362,7 +3346,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -3419,7 +3402,6 @@
         "VariantAnnotation"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3460,7 +3442,6 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "annotate",
@@ -3555,8 +3536,7 @@
     ],
     "gwascat": [
         "AnnotationHub",
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "GWASTools": [
         "gdsfmt"
@@ -3721,7 +3701,6 @@
         "CODEX"
     ],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -4017,7 +3996,6 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "LinTInd": [],
     "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
@@ -4129,7 +4107,6 @@
         "oligoClasses",
         "rhdf5",
         "rhdf5filters",
-        "snpStats",
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
@@ -4182,9 +4159,7 @@
         "rhdf5filters"
     ],
     "marr": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -4483,7 +4458,6 @@
         "sparseMatrixStats"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
@@ -4708,7 +4682,6 @@
     ],
     "mina": [],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GOstats",
@@ -4760,7 +4733,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -5318,7 +5290,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GOstats",
@@ -5616,7 +5587,6 @@
         "KEGGgraph"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -5720,7 +5690,6 @@
         "annotate",
         "genefilter"
     ],
-    "philr": [],
     "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
@@ -5778,7 +5747,6 @@
     "planet": [],
     "planttfhunter": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -5803,7 +5771,6 @@
         "AnnotationHub",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "DESeq2",
         "RankProd",
@@ -6146,7 +6113,6 @@
         "dir.expiry"
     ],
     "RCy3": [],
-    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
@@ -6276,7 +6242,6 @@
     ],
     "ReportingTools": [
         "AnnotationFilter",
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -6582,7 +6547,6 @@
         "RTN",
         "RTNduals"
     ],
-    "Rtreemix": [],
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
@@ -6594,9 +6558,7 @@
         "EDASeq",
         "ShortRead"
     ],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "rWikiPathways": [],
     "safe": [],
     "SAIGEgds": [
@@ -6615,7 +6577,6 @@
         "RaggedExperiment",
         "plyranges"
     ],
-    "sarks": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -6859,8 +6820,7 @@
     ],
     "SCOPE": [],
     "scoreInvHap": [
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "scp": [
         "AnnotationFilter",
@@ -6932,7 +6892,6 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "AnnotationForge",
         "AnnotationHub",
         "Category",
         "DOSE",
@@ -7076,7 +7035,6 @@
         "InteractionSet"
     ],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -7342,7 +7300,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "snpStats": [],
     "soGGi": [
         "ShortRead",
         "chipseq"
@@ -7559,7 +7516,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "sscu": [],
     "ssize": [],
     "sSNAPPY": [
         "graphite"
@@ -7985,7 +7941,6 @@
         "ensembldb"
     ],
     "tweeDEseq": [],
-    "twoddpcr": [],
     "txcutr": [],
     "tximeta": [
         "AnnotationFilter",
@@ -8105,7 +8060,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "fgsea",
         "topGO"
     ],
@@ -8130,8 +8084,7 @@
     "vtpnet": [
         "AnnotationHub",
         "VariantAnnotation",
-        "gwascat",
-        "snpStats"
+        "gwascat"
     ],
     "vulcan": [
         "AnnotationFilter",
