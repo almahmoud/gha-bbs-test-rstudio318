@@ -1242,7 +1242,6 @@
         "rtracklayer"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "beachmat": [
         "DelayedArray",
         "MatrixGenerics",
@@ -1378,8 +1377,7 @@
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
-        "rsbml"
+        "hypergraph"
     ],
     "bigmelon": [
         "BiocIO",
@@ -1456,7 +1454,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "geNetClassifier",
         "graphite",
         "qvalue",
         "rtracklayer"
@@ -1465,7 +1462,6 @@
     "BiocCheck": [
         "biocViews"
     ],
-    "BiocFHIR": [],
     "biocGraph": [
         "Rgraphviz",
         "annotate",
@@ -1542,8 +1538,6 @@
         "dir.expiry"
     ],
     "biocViews": [],
-    "biodbChebi": [],
-    "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
@@ -2235,7 +2229,6 @@
         "annotate",
         "biomaRt",
         "cBioPortalData",
-        "geNetClassifier",
         "genefilter",
         "phenoTest",
         "rtracklayer"
@@ -3253,7 +3246,6 @@
         "vsn",
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [
         "BiocParallel",
         "MSnbase",
@@ -3488,7 +3480,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CoCiteStats": [],
     "COCOA": [
         "BSgenome",
         "BiocIO",
@@ -3843,7 +3834,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "AnnotationFilter",
         "BSgenome",
@@ -5701,7 +5691,6 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eiR": [],
     "eisaR": [
         "DelayedArray",
         "GenomicRanges",
@@ -7287,7 +7276,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "geNetClassifier": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "BiocParallel",
@@ -7656,7 +7644,6 @@
         "SpatialExperiment",
         "SummarizedExperiment"
     ],
-    "ggtreeDendro": [],
     "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
@@ -9988,7 +9975,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "MEDME": [],
     "megadepth": [
         "GenomicRanges"
     ],
@@ -12964,7 +12950,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "biodbChebi",
         "ropls"
     ],
     "phenopath": [
@@ -14012,7 +13997,6 @@
     ],
     "RBioFormats": [],
     "RBioinf": [],
-    "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
         "GenomicRanges",
@@ -15205,7 +15189,6 @@
         "GenomicRanges",
         "Rhtslib"
     ],
-    "rsbml": [],
     "rScudo": [
         "DelayedArray",
         "GenomicRanges",
@@ -15276,7 +15259,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "RTopper": [],
     "rtracklayer": [
         "BiocIO",
         "BiocParallel",
@@ -15355,10 +15337,8 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
-        "sangerseqR"
+        "DECIPHER"
     ],
-    "sangerseqR": [],
     "SARC": [
         "BiocIO",
         "BiocParallel",
@@ -15778,8 +15758,7 @@
         "RProtoBufLib",
         "Rhdf5lib",
         "cytolib",
-        "flowCore",
-        "sangerseqR"
+        "flowCore"
     ],
     "scmap": [
         "DelayedArray",
@@ -18621,9 +18600,7 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "AnnotationFilter",
         "BSgenome",
