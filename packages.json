@@ -599,7 +599,6 @@
         "matter"
     ],
     "CARNIVAL": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "RProtoBufLib",
@@ -908,7 +907,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "codelink": [],
     "CoGAPS": [
         "Rhdf5lib",
         "rhdf5",
@@ -1479,9 +1477,7 @@
         "qvalue"
     ],
     "doseR": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1946,7 +1942,6 @@
         "rhdf5filters"
     ],
     "frenchFISH": [],
-    "FunChIP": [],
     "funtooNorm": [
         "HDF5Array",
         "Rhdf5lib",
@@ -2174,7 +2169,6 @@
     ],
     "GOfuncR": [],
     "GOpro": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2635,7 +2629,6 @@
     "magpie": [
         "DESeq2"
     ],
-    "magrene": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -3496,12 +3489,10 @@
         "Ringo",
         "genefilter"
     ],
-    "OVESEG": [],
     "PAA": [
         "genefilter",
         "sva"
     ],
-    "packFinder": [],
     "padma": [],
     "pageRank": [
         "TFBSTools",
@@ -3624,7 +3615,6 @@
     "Pi": [],
     "piano": [],
     "pickgene": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -3635,7 +3625,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [
@@ -3995,7 +3984,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "rGADEM": [],
     "RgnTX": [],
     "rgoslin": [],
     "rGREAT": [],
@@ -4169,12 +4157,8 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "rTRMui": [
@@ -4612,7 +4596,6 @@
     ],
     "sparrow": [],
     "sparsenetgls": [],
-    "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -4766,7 +4749,6 @@
     "synlet": [
         "RankProd"
     ],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
@@ -4917,7 +4899,6 @@
         "anota",
         "qvalue"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traviz": [
         "TrajectoryUtils",
@@ -4957,7 +4938,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "txcutr": [],
     "tximeta": [],
     "UCell": [],
     "Ularcirc": [
