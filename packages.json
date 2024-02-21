@@ -779,7 +779,6 @@
         "XVector",
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [
         "BiocParallel",
         "DESeq2",
@@ -892,7 +891,6 @@
         "graph",
         "rtracklayer"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -2103,9 +2101,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "bioCancer": [
         "AnnotationDbi",
         "BiocIO",
@@ -2312,7 +2308,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
         "Biostrings",
@@ -4052,7 +4047,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "ChemmineR": [],
     "CHETAH": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -4064,8 +4058,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "bioDist"
+        "XVector"
     ],
     "chihaya": [
         "DelayedArray",
@@ -5361,7 +5354,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "BiocParallel",
-        "ChemmineR",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -5692,7 +5684,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotationTools",
         "biomaRt"
     ],
     "cosmiq": [
@@ -6247,7 +6238,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "Biostrings",
-        "ChemmineR",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -8172,9 +8162,7 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -8251,7 +8239,6 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "EnMCB": [],
     "ENmix": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -9791,9 +9778,7 @@
         "graph",
         "ncdfFlow"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fmrs": [],
     "fobitools": [
         "BiocParallel",
@@ -11864,7 +11849,6 @@
         "hypergraph",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "DelayedArray",
         "IRanges",
@@ -12440,7 +12424,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -14570,7 +14553,6 @@
         "AnnotationHub",
         "BiocParallel",
         "Biostrings",
-        "ChemmineR",
         "CompoundDb",
         "DelayedArray",
         "GenomeInfoDb",
@@ -15229,9 +15211,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [
         "BiocParallel",
         "DelayedArray",
@@ -17468,7 +17448,6 @@
         "graph",
         "minfi",
         "multtest",
-        "pandaR",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -18045,7 +18024,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -18403,7 +18381,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "BiocParallel",
         "Biostrings",
@@ -18670,7 +18647,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROTS",
         "S4Vectors",
         "XVector",
         "annotate",
@@ -18888,7 +18864,6 @@
         "OmaDB",
         "S4Vectors",
         "XVector",
-        "bioDist",
         "graph",
         "topGO"
     ],
@@ -19482,7 +19457,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [
         "decoupleR"
     ],
@@ -20305,7 +20279,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "randPack": [],
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
@@ -20483,7 +20456,6 @@
     "RCyjs": [
         "graph"
     ],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "AnnotationDbi",
         "BiocParallel",
@@ -21544,7 +21516,6 @@
     "RMassBank": [
         "BiocParallel",
         "ChemmineOB",
-        "ChemmineR",
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
@@ -21931,7 +21902,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "ROTS",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -21965,7 +21935,6 @@
         "XVector"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -22169,7 +22138,6 @@
     "RTopper": [
         "multtest"
     ],
-    "Rtpca": [],
     "rtracklayer": [
         "BiocIO",
         "BiocParallel",
@@ -24992,7 +24960,6 @@
         "XVector"
     ],
     "specL": [],
-    "SpeCond": [],
     "Spectra": [
         "BiocParallel",
         "IRanges",
