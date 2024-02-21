@@ -2160,7 +2160,6 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "GOpro": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2537,7 +2536,6 @@
     "lfa": [],
     "LineagePulse": [],
     "lineagespot": [],
-    "LinkHD": [],
     "lipidr": [
         "MultiDataSet",
         "impute",
@@ -4646,7 +4644,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
