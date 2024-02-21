@@ -246,7 +246,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "genefilter"
     ],
     "ASAFE": [],
@@ -330,7 +329,6 @@
         "mzR",
         "pRoloc"
     ],
-    "barcodetrackR": [],
     "basecallQC": [],
     "BASiCS": [
         "metapod",
@@ -374,7 +372,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [],
     "beer": [],
@@ -507,9 +504,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
@@ -535,8 +530,7 @@
         "ProtGenerics",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -581,8 +575,7 @@
     "BUSpaRse": [
         "AnnotationFilter",
         "ProtGenerics",
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "BUSseq": [],
     "CAFE": [
@@ -702,7 +695,6 @@
         "dir.expiry"
     ],
     "ccfindR": [],
-    "ccImpute": [],
     "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
@@ -768,9 +760,7 @@
         "QDNAseq",
         "impute"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [
         "basilisk",
         "basilisk.utils",
@@ -1749,7 +1739,6 @@
         "clusterProfiler",
         "enrichplot",
         "motifmatchr",
-        "pipeFrame",
         "qvalue"
     ],
     "enrichViewNet": [
@@ -1774,9 +1763,7 @@
         "qvalue"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "Rhdf5lib",
@@ -1853,7 +1840,6 @@
         "clusterProfiler",
         "enrichplot",
         "motifmatchr",
-        "pipeFrame",
         "qvalue"
     ],
     "escape": [
@@ -2298,8 +2284,7 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "impute",
-        "plyranges"
+        "impute"
     ],
     "GenomicScores": [
         "HDF5Array",
@@ -2443,7 +2428,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "AnnotationFilter",
         "CRISPRseek",
@@ -2553,7 +2537,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [
@@ -2659,9 +2642,7 @@
         "flowCore"
     ],
     "Informeasure": [],
-    "InPAS": [
-        "plyranges"
-    ],
+    "InPAS": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -2739,7 +2720,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
@@ -2770,9 +2750,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "katdetectr": [
-        "plyranges"
-    ],
+    "katdetectr": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -2853,7 +2831,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "LymphoSeq": [],
     "m6Aboost": [],
     "Macarron": [
         "impute"
@@ -2918,7 +2895,6 @@
         "InteractionSet",
         "Rhdf5lib",
         "plotgardener",
-        "plyranges",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2961,7 +2937,6 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "MBQN": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -3126,7 +3101,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "plyranges",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3551,7 +3525,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3659,9 +3632,7 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM",
@@ -3724,8 +3695,7 @@
     "npGSEA": [],
     "nucleR": [],
     "nullranges": [
-        "InteractionSet",
-        "plyranges"
+        "InteractionSet"
     ],
     "occugene": [],
     "octad": [
@@ -3983,7 +3953,6 @@
         "metapod",
         "scran"
     ],
-    "pipeFrame": [],
     "planet": [],
     "planttfhunter": [],
     "PloGO2": [
@@ -3991,15 +3960,11 @@
         "GOstats",
         "genefilter"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
     "plyinteractions": [
-        "InteractionSet",
-        "plyranges"
+        "InteractionSet"
     ],
-    "plyranges": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -4377,7 +4342,6 @@
     ],
     "Rfastp": [],
     "rGADEM": [],
-    "rGenomeTracks": [],
     "RgnTX": [],
     "rgoslin": [],
     "rGREAT": [],
@@ -4586,7 +4550,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "runibic": [],
     "RUVcorr": [],
     "RUVSeq": [
         "EDASeq"
@@ -4601,9 +4564,7 @@
         "MGFM",
         "MGFR"
     ],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -4803,9 +4764,7 @@
         "qvalue"
     ],
     "segmentSeq": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seq2pathway": [
         "impute"
     ],
@@ -5278,7 +5237,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
@@ -5427,8 +5385,7 @@
     "Ularcirc": [
         "AnnotationFilter",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "DESeq2"
@@ -5579,8 +5536,7 @@
         "SomaticSignatures",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "gtrellis"
+        "ggbio"
     ],
     "yarn": [
         "HDF5Array",
