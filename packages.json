@@ -48,7 +48,6 @@
         "genefilter",
         "ggbio"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -124,7 +123,6 @@
         "DESeq2",
         "qvalue"
     ],
-    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -145,7 +143,6 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "APL": [],
     "appreci8R": [
         "GenomicScores"
     ],
@@ -243,17 +240,12 @@
         "metapod",
         "scran"
     ],
-    "bayNorm": [],
     "beachmat.hdf5": [],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
-        "ANCOMBC",
         "DESeq2",
-        "biomformat",
         "dearseq",
         "genefilter",
-        "phyloseq",
         "zinbwave"
     ],
     "BgeeCall": [],
@@ -295,7 +287,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biomformat": [],
     "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz"
@@ -457,7 +448,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [],
     "CCPlotR": [],
     "CCPROMISE": [],
     "ccrepe": [],
@@ -473,7 +463,6 @@
     ],
     "cellity": [],
     "cellmigRation": [],
-    "CellMixS": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -538,7 +527,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz"
@@ -655,10 +643,7 @@
     "comapr": [
         "Gviz"
     ],
-    "combi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz"
     ],
@@ -727,9 +712,7 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -1787,7 +1770,6 @@
         "minfi",
         "qvalue"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -1976,16 +1958,13 @@
     ],
     "MassArray": [],
     "MassSpecWavelet": [],
-    "mastR": [],
     "MatrixQCvis": [
         "impute"
     ],
     "MatrixRider": [],
     "MBAmethyl": [],
     "MBECS": [
-        "biomformat",
         "genefilter",
-        "phyloseq",
         "sva"
     ],
     "mbkmeans": [],
@@ -2155,24 +2134,14 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "microbiome": [
-        "biomformat",
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [
-        "DESeq2",
-        "biomformat"
+        "DESeq2"
     ],
     "microbiomeMarker": [
         "ALDEx2",
-        "ANCOMBC",
-        "DESeq2",
-        "biomformat",
-        "phyloseq"
+        "DESeq2"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -2198,7 +2167,6 @@
         "genefilter"
     ],
     "MinimumDistance": [],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2600,9 +2568,7 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
-        "DESeq2",
-        "biomformat",
-        "phyloseq"
+        "DESeq2"
     ],
     "pathview": [
         "KEGGgraph"
@@ -2614,7 +2580,6 @@
         "genefilter"
     ],
     "PCAN": [],
-    "PCAtools": [],
     "pcxn": [],
     "PDATK": [
         "CoreGx",
@@ -2662,9 +2627,6 @@
         "Heatplus",
         "genefilter"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
     "Pi": [],
     "pickgene": [],
     "Pigengene": [
@@ -2707,9 +2669,7 @@
     ],
     "pqsfinder": [],
     "prebs": [
-        "RPA",
-        "biomformat",
-        "phyloseq"
+        "RPA"
     ],
     "PREDA": [],
     "primirTSS": [
@@ -2854,10 +2814,7 @@
         "genomation",
         "impute"
     ],
-    "RCM": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -2880,10 +2837,7 @@
     "rebook": [
         "dir.expiry"
     ],
-    "reconsi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "bumphunter",
         "derfinder",
@@ -2902,9 +2856,7 @@
         "ChIPpeakAnno",
         "InteractionSet"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -3067,10 +3019,7 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "RPA": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RPA": [],
     "RProtoBufLib": [],
     "Rqc": [],
     "rqt": [
@@ -3112,7 +3061,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scAnnotatR": [],
     "SCANVIS": [],
     "SCArray": [
         "gdsfmt"
@@ -3280,10 +3228,7 @@
         "genefilter",
         "minfi"
     ],
-    "SIAMCAT": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
@@ -3316,9 +3261,7 @@
     "SimBu": [
         "basilisk",
         "basilisk.utils",
-        "biomformat",
-        "dir.expiry",
-        "phyloseq"
+        "dir.expiry"
     ],
     "simpleSeg": [
         "cytomapper"
@@ -3332,7 +3275,6 @@
         "DESeq2",
         "DropletUtils",
         "GSVA",
-        "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -3350,7 +3292,6 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "SingleR": [],
     "skewr": [
         "bumphunter",
         "genefilter",
@@ -3441,9 +3382,7 @@
     "splots": [],
     "SpotClean": [],
     "SPsimSeq": [
-        "biomformat",
-        "impute",
-        "phyloseq"
+        "impute"
     ],
     "SQUADD": [],
     "sRACIPE": [],
@@ -3666,7 +3605,6 @@
         "sva"
     ],
     "VCFArray": [],
-    "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [
         "basilisk",
