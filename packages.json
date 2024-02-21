@@ -198,7 +198,6 @@
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "motifStack"
     ],
@@ -487,7 +486,6 @@
     "CCPlotR": [],
     "CCPROMISE": [],
     "ccrepe": [],
-    "CDI": [],
     "celda": [
         "metapod",
         "scran"
@@ -731,7 +729,6 @@
     ],
     "concordexR": [],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -1131,8 +1128,6 @@
         "scran"
     ],
     "dir.expiry": [],
-    "distinct": [],
-    "dittoSeq": [],
     "divergence": [],
     "dks": [],
     "DMCFB": [],
@@ -1699,7 +1694,6 @@
         "gdsfmt"
     ],
     "GGPA": [],
-    "ggsc": [],
     "ggspavis": [],
     "GIGSEA": [],
     "GISPA": [
@@ -1786,7 +1780,6 @@
         "sva"
     ],
     "Harshlight": [],
-    "HDF5Array": [],
     "Heatplus": [],
     "hermes": [
         "DESeq2"
@@ -1828,7 +1821,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
@@ -1860,7 +1852,6 @@
         "minfi"
     ],
     "iClusterPlus": [],
-    "iCNV": [],
     "ideal": [
         "Category",
         "DESeq2",
@@ -2324,8 +2315,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "microSTASIS": [],
-    "miloR": [],
     "mimager": [
         "affyPLM"
     ],
@@ -3028,7 +3017,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -3157,7 +3145,6 @@
     "rgsepd": [
         "DESeq2"
     ],
-    "rhdf5": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -3380,7 +3367,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [
         "metapod",
         "scran"
@@ -3657,9 +3643,7 @@
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3676,7 +3660,6 @@
     ],
     "splots": [],
     "SpotClean": [],
-    "SPOTlight": [],
     "SPsimSeq": [
         "biomformat",
         "impute",
@@ -3727,7 +3710,6 @@
     "SWATH2stats": [],
     "SwathXtend": [],
     "swfdr": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "impute",
@@ -3788,7 +3770,6 @@
         "ORFik"
     ],
     "tidybulk": [],
-    "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tigre": [],
     "tilingArray": [
@@ -3963,7 +3944,6 @@
     "webbioc": [
         "qvalue"
     ],
-    "weitrix": [],
     "widgetTools": [],
     "wppi": [
         "OmnipathR"
