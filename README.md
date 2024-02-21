@@ -1,12 +1,12 @@
 # Summary
 
-1185 Bioconductor sotware binaries built
+1188 Bioconductor sotware binaries built
 
-2497 Other dependency binaries built
+2500 Other dependency binaries built
 
 0 failed packages
 
-1008 unclaimed packages
+1005 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (1008)
+## Unclaimed (1005)
 | Package                    | Status    | Blocked By                                                                                                                                                                         |
 |----------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                         | Unclaimed | Incomplete Bioc dependencies: a4Base, genefilter.                                                                                                                                  |
@@ -115,9 +115,9 @@
 | bumphunter                 | Unclaimed |                                                                                                                                                                                    |
 | BUScorrect                 | Unclaimed |                                                                                                                                                                                    |
 | CAFE                       | Unclaimed |                                                                                                                                                                                    |
-| CAGEfightR                 | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                                                                                                 |
+| CAGEfightR                 | Unclaimed |                                                                                                                                                                                    |
 | cageminer                  | Unclaimed | Incomplete Bioc dependencies: BioNERO, genefilter, impute, sva.                                                                                                                    |
-| CAGEr                      | Unclaimed | Incomplete Bioc dependencies: CAGEfightR, GenomicInteractions.                                                                                                                     |
+| CAGEr                      | Unclaimed | Incomplete Bioc dependencies: CAGEfightR.                                                                                                                                          |
 | CAMERA                     | Unclaimed | Incomplete Bioc dependencies: MSnbase, MassSpecWavelet, MetaboCoreUtils, MsExperiment, Spectra, impute, xcms.                                                                      |
 | canceR                     | Unclaimed | Incomplete Bioc dependencies: Category, GenomicDataCommons, Heatplus, RTCGAToolbox, TCGAutils, cBioPortalData, genefilter, phenoTest.                                              |
 | Cardinal                   | Unclaimed |                                                                                                                                                                                    |
@@ -302,7 +302,6 @@
 | EGSEA                      | Unclaimed | Incomplete Bioc dependencies: KEGGgraph, pathview.                                                                                                                                 |
 | ELMER                      | Unclaimed |                                                                                                                                                                                    |
 | EnhancedVolcano            | Unclaimed |                                                                                                                                                                                    |
-| enhancerHomologSearch      | Unclaimed |                                                                                                                                                                                    |
 | ENmix                      | Unclaimed | Incomplete Bioc dependencies: bumphunter, genefilter, impute, minfi.                                                                                                               |
 | EnrichmentBrowser          | Unclaimed | Incomplete Bioc dependencies: KEGGgraph, SPIA, pathview.                                                                                                                           |
 | enrichplot                 | Unclaimed | Incomplete Bioc dependencies: DOSE, qvalue.                                                                                                                                        |
@@ -328,7 +327,7 @@
 | ExCluster                  | Unclaimed |                                                                                                                                                                                    |
 | exomePeak2                 | Unclaimed | Incomplete Bioc dependencies: DESeq2.                                                                                                                                              |
 | ExpressionAtlas            | Unclaimed |                                                                                                                                                                                    |
-| extraChIPs                 | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions, csaw, metapod.                                                                                                                  |
+| extraChIPs                 | Unclaimed | Incomplete Bioc dependencies: csaw, metapod.                                                                                                                                       |
 | famat                      | Unclaimed | Incomplete Bioc dependencies: DOSE, clusterProfiler, enrichplot, qvalue, rWikiPathways.                                                                                            |
 | fastLiquidAssociation      | Unclaimed | Incomplete Bioc dependencies: impute.                                                                                                                                              |
 | fastreeR                   | Unclaimed |                                                                                                                                                                                    |
@@ -403,7 +402,6 @@
 | GenomAutomorphism          | Unclaimed |                                                                                                                                                                                    |
 | GenomicDataCommons         | Unclaimed |                                                                                                                                                                                    |
 | GenomicInteractionNodes    | Unclaimed |                                                                                                                                                                                    |
-| GenomicInteractions        | Unclaimed |                                                                                                                                                                                    |
 | GenomicOZone               | Unclaimed |                                                                                                                                                                                    |
 | GenomicPlot                | Unclaimed | Incomplete Bioc dependencies: RCAS, genomation, impute.                                                                                                                            |
 | GenomicSuperSignature      | Unclaimed |                                                                                                                                                                                    |
@@ -452,7 +450,7 @@
 | hiAnnotator                | Unclaimed |                                                                                                                                                                                    |
 | HIBAG                      | Unclaimed |                                                                                                                                                                                    |
 | HiCcompare                 | Unclaimed |                                                                                                                                                                                    |
-| HiCDCPlus                  | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                                                                                                 |
+| HiCDCPlus                  | Unclaimed |                                                                                                                                                                                    |
 | HiCDOC                     | Unclaimed | Incomplete Bioc dependencies: HiCcompare, multiHiCcompare.                                                                                                                         |
 | HiCExperiment              | Unclaimed |                                                                                                                                                                                    |
 | HiContacts                 | Unclaimed | Incomplete Bioc dependencies: HiCExperiment.                                                                                                                                       |
@@ -856,7 +854,6 @@
 | scGPS                      | Unclaimed | Incomplete Bioc dependencies: DESeq2.                                                                                                                                              |
 | scifer                     | Unclaimed | Incomplete Bioc dependencies: RProtoBufLib, cytolib, flowCore.                                                                                                                     |
 | scMerge                    | Unclaimed | Incomplete Bioc dependencies: metapod, scran.                                                                                                                                      |
-| scmeth                     | Unclaimed |                                                                                                                                                                                    |
 | scone                      | Unclaimed |                                                                                                                                                                                    |
 | Sconify                    | Unclaimed | Incomplete Bioc dependencies: RProtoBufLib, cytolib, flowCore.                                                                                                                     |
 | scPipe                     | Unclaimed | Incomplete Bioc dependencies: basilisk, basilisk.utils, dir.expiry.                                                                                                                |
@@ -916,7 +913,7 @@
 | SpatialDecon               | Unclaimed |                                                                                                                                                                                    |
 | spatialHeatmap             | Unclaimed | Incomplete Bioc dependencies: genefilter, metapod, scran.                                                                                                                          |
 | SpatialOmicsOverlay        | Unclaimed |                                                                                                                                                                                    |
-| spatzie                    | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                                                                                                 |
+| spatzie                    | Unclaimed |                                                                                                                                                                                    |
 | specL                      | Unclaimed |                                                                                                                                                                                    |
 | Spectra                    | Unclaimed | Incomplete Bioc dependencies: MetaboCoreUtils.                                                                                                                                     |
 | SpectralTAD                | Unclaimed | Incomplete Bioc dependencies: HiCcompare.                                                                                                                                          |
@@ -1026,7 +1023,7 @@
 | zFPKM                      | Unclaimed |                                                                                                                                                                                    |
 | zinbwave                   | Unclaimed | Incomplete Bioc dependencies: genefilter.                                                                                                                                          |
 
-## Bioconductor Software Binaries Built (1185)
+## Bioconductor Software Binaries Built (1188)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4Classif                    | Succeeded | [a4Classif_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/a4Classif_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -1362,6 +1359,7 @@
 | eisaR                        | Succeeded | [eisaR_1.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/eisaR_1.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | EMDomics                     | Succeeded | [EMDomics_2.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/EMDomics_2.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | EmpiricalBrownsMethod        | Succeeded | [EmpiricalBrownsMethod_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/EmpiricalBrownsMethod_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)               |
+| enhancerHomologSearch        | Succeeded | [enhancerHomologSearch_1.8.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/enhancerHomologSearch_1.8.3_R_x86_64-pc-linux-gnu.tar.gz)                 |
 | EnMCB                        | Succeeded | [EnMCB_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/EnMCB_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | EnrichedHeatmap              | Succeeded | [EnrichedHeatmap_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/EnrichedHeatmap_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | ensembldb                    | Succeeded | [ensembldb_2.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/ensembldb_2.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -1442,6 +1440,7 @@
 | GenomicFeatures              | Succeeded | [GenomicFeatures_1.54.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenomicFeatures_1.54.3_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | GenomicFiles                 | Succeeded | [GenomicFiles_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenomicFiles_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | genomicInstability           | Succeeded | [genomicInstability_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/genomicInstability_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                       |
+| GenomicInteractions          | Succeeded | [GenomicInteractions_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenomicInteractions_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                   |
 | GenomicRanges                | Succeeded | [GenomicRanges_1.54.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenomicRanges_1.54.1_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | GenomicScores                | Succeeded | [GenomicScores_2.14.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenomicScores_2.14.3_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | GenVisR                      | Succeeded | [GenVisR_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenVisR_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2007,6 +2006,7 @@
 | scider                       | Succeeded | [scider_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scider_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | scmap                        | Succeeded | [scmap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scmap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | scMET                        | Succeeded | [scMET_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scMET_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| scmeth                       | Succeeded | [scmeth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scmeth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | SCnorm                       | Succeeded | [SCnorm_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/SCnorm_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | SCOPE                        | Succeeded | [SCOPE_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/SCOPE_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | scoreInvHap                  | Succeeded | [scoreInvHap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scoreInvHap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
@@ -2215,7 +2215,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1185)
+## Other Dependency Binaries (1188)
 | Package                               | Status    | Tarball                                                                                                                                                                                                                                                                            |
 |---------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
@@ -4659,6 +4659,7 @@
 | MMDiff2                               | Succeeded | [MMDiff2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/MMDiff2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | TxDb.Hsapiens.UCSC.hg19.knownGene     | Succeeded | [TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz)         |
 | h5vc                                  | Succeeded | [h5vc_2.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/h5vc_2.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
+| scmeth                                | Succeeded | [scmeth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scmeth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
 | signal                                | Succeeded | [signal_1.8-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/signal_1.8-0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | tzdb                                  | Succeeded | [tzdb_0.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/tzdb_0.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | yesno                                 | Succeeded | [yesno_0.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/yesno_0.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
@@ -4688,6 +4689,7 @@
 | minqa                                 | Succeeded | [minqa_1.2.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/minqa_1.2.6_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | frma                                  | Succeeded | [frma_1.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/frma_1.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | kknn                                  | Succeeded | [kknn_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/kknn_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
+| enhancerHomologSearch                 | Succeeded | [enhancerHomologSearch_1.8.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/enhancerHomologSearch_1.8.3_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | SeuratObject                          | Succeeded | [SeuratObject_5.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/SeuratObject_5.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | ggsurvfit                             | Succeeded | [ggsurvfit_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/ggsurvfit_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | MBCB                                  | Succeeded | [MBCB_1.56.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/MBCB_1.56.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
@@ -4698,6 +4700,7 @@
 | SRAdb                                 | Succeeded | [SRAdb_1.64.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/SRAdb_1.64.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | NanoStringDiff                        | Succeeded | [NanoStringDiff_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/NanoStringDiff_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | universalmotif                        | Succeeded | [universalmotif_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/universalmotif_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| GenomicInteractions                   | Succeeded | [GenomicInteractions_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/GenomicInteractions_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | catdata                               | Succeeded | [catdata_1.2.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/catdata_1.2.4_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
 | scDesign3                             | Succeeded | [scDesign3_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scDesign3_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | scoreInvHap                           | Succeeded | [scoreInvHap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/scoreInvHap_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
