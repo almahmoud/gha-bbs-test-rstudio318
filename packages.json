@@ -182,7 +182,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "metapod",
         "scran"
     ],
@@ -202,7 +201,6 @@
         "metapod",
         "scran"
     ],
-    "beachmat.hdf5": [],
     "benchdamic": [
         "ALDEx2",
         "DESeq2",
@@ -416,7 +414,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
@@ -591,13 +588,11 @@
         "DESeq2"
     ],
     "consensusOV": [
-        "GSVA",
         "genefu",
         "impute",
         "survcomp"
     ],
     "CONSTANd": [],
-    "contiBAIT": [],
     "conumee": [
         "bumphunter",
         "genefilter",
@@ -688,7 +683,6 @@
         "qvalue"
     ],
     "cummeRbund": [],
-    "CuratedAtlasQueryR": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -998,7 +992,6 @@
         "impute"
     ],
     "EGSEA": [
-        "GSVA",
         "KEGGgraph",
         "pathview"
     ],
@@ -1071,7 +1064,6 @@
     "erccdashboard": [
         "qvalue"
     ],
-    "erma": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -1082,9 +1074,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "esetVis": [],
     "EventPointer": [
         "SGSeq",
@@ -1437,7 +1427,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "glmGamPoi": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1483,7 +1472,6 @@
         "genefilter",
         "les"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1538,7 +1526,6 @@
     "HIREewas": [],
     "HiTC": [],
     "hpar": [],
-    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -1643,10 +1630,7 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEhex": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -1683,9 +1667,7 @@
     ],
     "LACE": [],
     "LEA": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "les": [],
     "lfa": [],
     "lipidr": [
@@ -2107,7 +2089,6 @@
         "MSstatsQC",
         "impute"
     ],
-    "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -2138,7 +2119,6 @@
         "DESeq2",
         "variancePartition"
     ],
-    "musicatk": [],
     "MWASTools": [
         "KEGGgraph",
         "qvalue"
@@ -2219,8 +2199,7 @@
     "nullranges": [],
     "occugene": [],
     "octad": [
-        "DESeq2",
-        "GSVA"
+        "DESeq2"
     ],
     "OGRE": [],
     "OLINgui": [
@@ -2262,9 +2241,7 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2776,9 +2753,7 @@
     ],
     "SCBN": [],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -2793,7 +2768,6 @@
         "scran"
     ],
     "scFeatures": [
-        "GSVA",
         "SingleCellSignalR",
         "metapod",
         "scran"
@@ -2928,7 +2902,6 @@
         "qvalue"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "genefu",
         "impute",
@@ -2952,7 +2925,6 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "GSVA",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -3008,7 +2980,6 @@
         "dir.expiry"
     ],
     "SpatialDecon": [],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter",
         "metapod",
@@ -3072,7 +3043,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "qvalue"
@@ -3100,7 +3070,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSVA",
         "genefilter",
         "sva"
     ],
@@ -3154,9 +3123,7 @@
         "DynDoc",
         "widgetTools"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -3171,9 +3138,7 @@
     "trackViewer": [],
     "tradeSeq": [],
     "transcriptogramer": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -3239,9 +3204,7 @@
     "vidger": [
         "DESeq2"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [
         "qvalue"
     ],
