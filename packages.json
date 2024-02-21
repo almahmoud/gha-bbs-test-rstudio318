@@ -486,7 +486,6 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.string",
@@ -500,7 +499,6 @@
     "alabaster.base": [
         "Rhdf5lib",
         "S4Vectors",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -510,7 +508,6 @@
         "Rhdf5lib",
         "S4Vectors",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -533,7 +530,6 @@
         "SummarizedExperiment",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -557,7 +553,6 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "rhdf5",
         "rhdf5filters",
@@ -574,7 +569,6 @@
         "SparseArray",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -587,7 +581,6 @@
         "S4Vectors",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -609,13 +602,11 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
     ],
-    "alabaster.schemas": [],
     "alabaster.se": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -632,7 +623,6 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -657,7 +647,6 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "rhdf5",
         "rhdf5filters",
@@ -671,7 +660,6 @@
         "S4Vectors",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -704,7 +692,6 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.string",
         "biomaRt",
@@ -6097,7 +6084,6 @@
         "Rgraphviz",
         "Rhdf5lib",
         "S4Vectors",
-        "SamSPECTRAL",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -7483,7 +7469,6 @@
         "zlibbioc"
     ],
     "dcanr": [],
-    "DCATS": [],
     "dce": [
         "AnnotationDbi",
         "Biostrings",
@@ -7512,7 +7497,6 @@
         "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
-        "SamSPECTRAL",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -7894,7 +7878,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "deltaGseg": [],
     "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
@@ -9158,7 +9141,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "eds": [],
     "EGAD": [
         "GEOquery",
         "impute",
@@ -10827,7 +10809,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "flowCyBar": [],
     "flowDensity": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -11244,7 +11225,6 @@
         "genefilter",
         "limma",
         "rtracklayer",
-        "sSeq",
         "sva",
         "zlibbioc"
     ],
@@ -11797,7 +11777,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "genomes": [],
     "GenomicAlignments": [
         "BiocParallel",
         "Biostrings",
@@ -12882,7 +12861,6 @@
         "multtest",
         "zlibbioc"
     ],
-    "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
         "BiocIO",
@@ -14019,7 +13997,6 @@
         "goseq",
         "graph",
         "limma",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO",
@@ -14126,9 +14103,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "IHW": [
-        "lpsymphony"
-    ],
+    "IHW": [],
     "ILoReg": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -15126,7 +15101,6 @@
     "LBE": [],
     "ldblock": [],
     "LEA": [],
-    "LedPred": [],
     "lefser": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -15398,7 +15372,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biostrings",
@@ -17874,7 +17847,6 @@
         "XVector",
         "edgeR",
         "limma",
-        "sSeq",
         "zlibbioc"
     ],
     "MMDiff2": [
@@ -20482,7 +20454,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "OSAT": [],
     "Oscope": [
         "BiocParallel"
     ],
@@ -24310,7 +24281,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -25161,7 +25131,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "Biostrings",
         "DECIPHER",
@@ -27421,7 +27390,6 @@
         "celda",
         "dir.expiry",
         "edgeR",
-        "eds",
         "ensembldb",
         "genefilter",
         "ggtree",
@@ -28531,7 +28499,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
@@ -29099,7 +29066,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "systemPipeShiny": [],
     "systemPipeTools": [
         "BiocParallel",
         "DESeq2",
