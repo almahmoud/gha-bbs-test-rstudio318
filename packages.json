@@ -315,9 +315,7 @@
     "bumphunter": [],
     "BUScorrect": [],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
@@ -325,8 +323,7 @@
         "sva"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -1088,7 +1085,6 @@
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
-        "GenomicInteractions",
         "csaw",
         "metapod"
     ],
@@ -1374,7 +1370,6 @@
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
@@ -1500,9 +1495,7 @@
     "hiAnnotator": [],
     "HIBAG": [],
     "HiCcompare": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "HiCcompare",
         "multiHiCcompare"
@@ -2984,9 +2977,7 @@
         "scran"
     ],
     "SpatialOmicsOverlay": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
