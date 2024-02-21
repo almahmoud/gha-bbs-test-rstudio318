@@ -217,7 +217,6 @@
         "mzR",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BASiCS": [
         "metapod",
         "scran"
@@ -559,7 +558,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "ChIPseqR": [],
     "ChromSCape": [
         "metapod",
         "scran"
@@ -574,8 +572,7 @@
         "monocle"
     ],
     "circRNAprofiler": [
-        "DESeq2",
-        "gwascat"
+        "DESeq2"
     ],
     "CircSeqAlignTk": [
         "Rhisat2",
@@ -618,7 +615,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "clusterSeq": [],
     "ClusterSignificance": [],
     "cmapR": [
         "RProtoBufLib",
@@ -692,7 +688,6 @@
     "consensus": [],
     "consensusDE": [
         "DESeq2",
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -887,7 +882,6 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -897,7 +891,6 @@
     ],
     "DaMiRseq": [
         "DESeq2",
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -1088,7 +1081,6 @@
         "bamsignals"
     ],
     "DNAshapeR": [],
-    "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -1127,7 +1119,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EDASeq": [],
     "edge": [
         "genefilter",
         "qvalue",
@@ -1461,15 +1452,11 @@
         "genefilter",
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "garfield": [],
     "GARS": [
         "DESeq2",
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "genefilter",
         "sva"
@@ -1674,7 +1661,6 @@
     ],
     "Guitar": [],
     "Gviz": [],
-    "gwascat": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -1769,7 +1755,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "igvR": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -2086,11 +2071,9 @@
         "qvalue"
     ],
     "metapod": [],
-    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "DSS",
-        "EDASeq",
         "bsseq",
         "genefilter",
         "qvalue",
@@ -2418,7 +2401,6 @@
         "KEGGgraph",
         "qvalue"
     ],
-    "myvariant": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
@@ -2508,7 +2490,6 @@
     "occugene": [],
     "octad": [
         "DESeq2",
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -2798,7 +2779,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -2869,9 +2849,7 @@
     "RareVariantVis": [
         "GenomicScores"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "genomation",
         "impute"
@@ -2995,7 +2973,6 @@
     ],
     "ribor": [],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -3103,7 +3080,6 @@
     "RRHO": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -3112,9 +3088,7 @@
         "MotifDb"
     ],
     "RUVcorr": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -3196,7 +3170,6 @@
         "bsseq"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [
@@ -3388,7 +3361,6 @@
     ],
     "slingshot": [],
     "SMAP": [],
-    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
@@ -3481,7 +3453,6 @@
     ],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -3598,7 +3569,6 @@
         "DynDoc",
         "widgetTools"
     ],
-    "tLOH": [],
     "TNBC.CMS": [
         "GSVA"
     ],
@@ -3714,9 +3684,7 @@
     "vsclust": [
         "qvalue"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DESeq2",
