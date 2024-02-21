@@ -1226,7 +1226,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "parody",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -2301,7 +2300,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -4447,7 +4445,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "ProtGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -5157,7 +5154,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "clevRvis": [],
     "clippda": [
         "limma"
     ],
@@ -5248,11 +5244,8 @@
         "xcms",
         "zlibbioc"
     ],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -6482,7 +6475,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6532,7 +6524,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6631,7 +6622,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "ProtGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -6674,7 +6664,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "ProtGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -7340,7 +7329,6 @@
         "widgetTools",
         "zlibbioc"
     ],
-    "dcanr": [],
     "dce": [
         "AnnotationDbi",
         "Biostrings",
@@ -9621,7 +9609,6 @@
         "bumphunter",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "limma",
         "rtracklayer",
@@ -9654,7 +9641,6 @@
         "biomaRt",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "rtracklayer",
         "zlibbioc"
@@ -9685,12 +9671,10 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "epivizrServer",
         "graph",
         "rtracklayer",
         "zlibbioc"
     ],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9720,7 +9704,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "limma",
         "rtracklayer",
@@ -10265,7 +10248,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "fCI": [],
     "fcScan": [
         "AnnotationDbi",
         "BSgenome",
@@ -13474,7 +13456,6 @@
     "hmdbQuery": [
         "S4Vectors"
     ],
-    "HMMcopy": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -13506,7 +13487,6 @@
         "interactiveDisplayBase",
         "zlibbioc"
     ],
-    "HPiP": [],
     "HTqPCR": [
         "affy",
         "affyio",
@@ -14478,7 +14458,6 @@
         "iSEEhex",
         "zlibbioc"
     ],
-    "iSeq": [],
     "ISLET": [
         "BiocParallel",
         "DelayedArray",
@@ -15476,7 +15455,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "S4Vectors",
         "XVector",
         "affy",
@@ -15617,7 +15595,6 @@
         "limma",
         "zlibbioc"
     ],
-    "matchBox": [],
     "MatrixGenerics": [],
     "MatrixQCvis": [
         "AnnotationDbi",
@@ -15909,7 +15886,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -18561,7 +18537,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "ProtGenerics",
-        "Rbowtie",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -18695,7 +18670,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "dcanr",
         "impute",
         "zlibbioc"
     ],
@@ -19229,7 +19203,6 @@
         "graph",
         "zlibbioc"
     ],
-    "NetPathMiner": [],
     "netprioR": [],
     "netresponse": [
         "Rgraphviz",
@@ -20424,7 +20397,6 @@
         "zlibbioc"
     ],
     "parglms": [],
-    "parody": [],
     "partCNV": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -21195,7 +21167,6 @@
         "pcaMethods",
         "zlibbioc"
     ],
-    "PoDCall": [],
     "podkat": [
         "BSgenome",
         "BiocIO",
@@ -22104,7 +22075,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HMMcopy",
         "IRanges",
         "MatrixGenerics",
         "Rhtslib",
@@ -22269,7 +22239,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -22588,7 +22557,6 @@
         "limma",
         "marray"
     ],
-    "Rbowtie": [],
     "Rbowtie2": [
         "BiocParallel",
         "Biostrings",
@@ -24267,7 +24235,6 @@
     "roastgsa": [
         "limma"
     ],
-    "ROC": [],
     "ROCpAI": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -24688,7 +24655,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sagenhaft": [],
     "SAIGEgds": [
         "Biostrings",
         "GenomeInfoDb",
@@ -25901,7 +25867,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "graph",
         "limma",
         "metapod",
@@ -26085,7 +26050,6 @@
         "annotate",
         "zlibbioc"
     ],
-    "semisup": [],
     "seq2pathway": [
         "AnnotationDbi",
         "Biostrings",
@@ -26980,7 +26944,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "QuasR",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -27093,7 +27056,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -28182,7 +28144,6 @@
         "zlibbioc"
     ],
     "statTarget": [
-        "ROC",
         "impute"
     ],
     "STdeconvolve": [
@@ -28741,7 +28702,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "ROC",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -30680,7 +30640,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
