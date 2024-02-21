@@ -82,8 +82,7 @@
     "AHMassBank": [
         "AnnotationHubData",
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "airpart": [
         "BiocNeighbors",
@@ -224,7 +223,6 @@
         "impute",
         "mixOmics"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "HDF5Array",
         "MultiAssayExperiment",
@@ -269,8 +267,7 @@
     "AnnotationFilter": [],
     "AnnotationHubData": [
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "annotatr": [
         "regioneR"
@@ -609,9 +606,7 @@
         "qvalue"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "biocGraph": [
         "geneplotter"
     ],
@@ -632,9 +627,7 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSet": [],
     "BiocSingular": [
         "ScaledMatrix",
@@ -645,7 +638,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biocViews": [],
     "biomformat": [
         "Rhdf5lib",
         "rhdf5",
@@ -669,7 +661,6 @@
         "impute",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -1238,7 +1229,6 @@
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
-        "biocViews",
         "biovizBase",
         "ensembldb",
         "monocle"
@@ -2201,7 +2191,6 @@
         "impute",
         "sva"
     ],
-    "Doscheda": [],
     "DOSE": [
         "fgsea",
         "qvalue"
@@ -2532,8 +2521,7 @@
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "ExperimentSubset": [
         "SingleCellExperiment",
@@ -2877,9 +2865,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -2927,8 +2913,7 @@
         "piano"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "gDRutils": [
         "MultiAssayExperiment"
@@ -3152,7 +3137,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "GOfuncR": [],
     "GOpro": [
         "MultiAssayExperiment"
@@ -3183,7 +3167,6 @@
         "ensembldb"
     ],
     "graper": [],
-    "GraphPAC": [],
     "GreyListChIP": [],
     "GRmetrics": [],
     "groHMM": [],
@@ -3271,9 +3254,7 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HDF5Array": [
         "Rhdf5lib",
         "rhdf5",
@@ -3521,7 +3502,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DESeq2",
         "DEXSeq",
@@ -3592,7 +3572,6 @@
         "iSEEhex"
     ],
     "ISLET": [],
-    "isobar": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
@@ -3633,7 +3612,6 @@
         "maftools",
         "plyranges"
     ],
-    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -3832,7 +3810,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "maskBAD": [],
     "MassArray": [],
     "MassSpecWavelet": [],
     "MAST": [
@@ -4100,7 +4077,6 @@
         "HDF5Array",
         "OrganismDbi",
         "Rhdf5lib",
-        "biocViews",
         "bumphunter",
         "genefilter",
         "impute",
@@ -4431,9 +4407,7 @@
         "CNEr",
         "TFBSTools"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "DOSE",
         "clusterProfiler",
@@ -4605,12 +4579,9 @@
         "Spectra"
     ],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "ProtGenerics",
@@ -4629,10 +4600,8 @@
         "mzR"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MuData": [
         "MultiAssayExperiment",
         "Rhdf5lib",
@@ -5197,7 +5166,6 @@
     ],
     "phemd": [
         "SingleCellExperiment",
-        "biocViews",
         "destiny",
         "monocle"
     ],
@@ -5409,7 +5377,6 @@
     "ProteoDisco": [
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [
         "genefilter"
     ],
@@ -5505,7 +5472,6 @@
         "sparseMatrixStats"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
@@ -5585,7 +5551,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Rcpi": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -5830,7 +5795,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "biocViews",
         "impute",
         "mzID",
         "mzR",
@@ -6507,9 +6471,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "SigFuge": [],
     "sights": [
         "qvalue"
@@ -6578,7 +6540,6 @@
         "sparseMatrixStats"
     ],
     "SimFFPE": [],
-    "simona": [],
     "simpleSeg": [
         "HDF5Array",
         "Rhdf5lib",
@@ -6692,7 +6653,6 @@
     ],
     "SMAP": [],
     "SMITE": [
-        "BioNet",
         "goseq"
     ],
     "snapCGH": [
@@ -7335,13 +7295,11 @@
         "biovizBase",
         "ensembldb"
     ],
-    "unifiedWMWqPCR": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
     "universalmotif": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
