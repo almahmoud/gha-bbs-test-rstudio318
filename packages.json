@@ -420,7 +420,6 @@
     ],
     "barcodetrackR": [],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1553,7 +1552,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -2586,7 +2584,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -2751,7 +2748,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "VariantAnnotation"
     ],
@@ -3219,7 +3215,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "HilbertCurve": [],
     "HiLDA": [],
     "hipathia": [
         "MultiAssayExperiment"
@@ -4204,7 +4199,6 @@
     "MMDiff2": [],
     "MMUPHin": [],
     "mnem": [],
-    "moanin": [],
     "MobilityTransformR": [
         "AnnotationFilter",
         "MSnbase",
@@ -5206,7 +5200,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "puma": [],
     "PureCN": [
         "Rhdf5lib",
         "VariantAnnotation",
@@ -5481,7 +5474,6 @@
         "genefilter",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
@@ -5763,7 +5755,6 @@
         "MGFM",
         "MGFR"
     ],
-    "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
