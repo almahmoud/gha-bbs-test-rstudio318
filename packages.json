@@ -228,7 +228,6 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "BloodGen3Module": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -725,7 +724,6 @@
     ],
     "deconvR": [
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -999,8 +997,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "fastreeR": [],
-    "fastseg": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -1268,7 +1264,6 @@
         "impute"
     ],
     "GenomicSuperSignature": [],
-    "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1552,7 +1547,6 @@
     "lpNet": [
         "KEGGgraph"
     ],
-    "LRcell": [],
     "lumi": [
         "bumphunter",
         "genefilter",
@@ -1570,7 +1564,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "made4": [],
     "MAGAR": [
         "RnBeads",
         "bumphunter",
@@ -1605,7 +1598,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "martini": [],
     "MassArray": [],
     "MassSpecWavelet": [],
     "MatrixQCvis": [
@@ -1704,7 +1696,6 @@
     ],
     "methimpute": [],
     "methInheritSim": [
-        "fastseg",
         "methylKit",
         "qvalue"
     ],
@@ -1740,12 +1731,10 @@
         "qvalue"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit",
         "qvalue"
     ],
     "methylKit": [
-        "fastseg",
         "qvalue"
     ],
     "MethylMix": [
@@ -2036,9 +2025,7 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
@@ -2046,7 +2033,6 @@
         "MultiDataSet",
         "genefilter",
         "impute",
-        "made4",
         "omicade4",
         "qvalue",
         "rexposome",
@@ -2054,7 +2040,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "openCyto": [
         "RProtoBufLib",
@@ -2065,10 +2050,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [],
     "optimalFlow": [
         "RProtoBufLib",
@@ -2174,7 +2156,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "Heatplus",
@@ -2362,7 +2343,6 @@
         "genefilter",
         "minfi"
     ],
-    "RedisParam": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2592,7 +2572,6 @@
         "metapod"
     ],
     "scRecover": [],
-    "scShapes": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -2755,7 +2734,6 @@
         "scran"
     ],
     "sparsenetgls": [],
-    "SpatialCPie": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -2863,7 +2841,6 @@
         "ORFik"
     ],
     "tidybulk": [],
-    "tidySummarizedExperiment": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
@@ -2993,7 +2970,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "XNAString": [],
     "yarn": [
         "bumphunter",
         "genefilter",
