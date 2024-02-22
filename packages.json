@@ -42,7 +42,6 @@
         "affycoretools",
         "genefilter"
     ],
-    "ALDEx2": [],
     "AlphaBeta": [],
     "AlpsNMR": [
         "MassSpecWavelet",
@@ -77,7 +76,6 @@
     ],
     "ArrayExpress": [],
     "arrayMvout": [
-        "bumphunter",
         "genefilter",
         "lumi",
         "methylumi",
@@ -149,7 +147,6 @@
         "scran"
     ],
     "benchdamic": [
-        "ALDEx2",
         "DESeq2",
         "genefilter",
         "zinbwave"
@@ -157,7 +154,6 @@
     "bgx": [],
     "BiGGR": [],
     "bigmelon": [
-        "bumphunter",
         "gdsfmt",
         "genefilter",
         "lumi",
@@ -214,7 +210,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "bumphunter",
         "dmrseq",
         "impute"
     ],
@@ -238,7 +233,6 @@
         "sva"
     ],
     "brainflowprobes": [
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "qvalue"
@@ -247,9 +241,7 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenomeForge": [],
     "BUMHMM": [],
-    "bumphunter": [],
     "BUScorrect": [],
     "cageminer": [
         "BioNERO",
@@ -377,7 +369,6 @@
     "CGHregions": [],
     "ChAMP": [
         "DMRcate",
-        "bumphunter",
         "genefilter",
         "impute",
         "lumi",
@@ -479,9 +470,7 @@
     "cola": [
         "impute"
     ],
-    "coMethDMR": [
-        "bumphunter"
-    ],
+    "coMethDMR": [],
     "CompoundDb": [
         "Spectra"
     ],
@@ -504,7 +493,6 @@
         "survcomp"
     ],
     "conumee": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
@@ -669,9 +657,7 @@
         "ncdfFlow"
     ],
     "daMA": [],
-    "DAMEfinder": [
-        "bumphunter"
-    ],
+    "DAMEfinder": [],
     "DaMiRseq": [
         "DESeq2",
         "genefilter",
@@ -716,7 +702,6 @@
         "scran"
     ],
     "deconvR": [
-        "bumphunter",
         "genefilter",
         "methylKit",
         "minfi",
@@ -766,11 +751,9 @@
         "impute"
     ],
     "derfinder": [
-        "bumphunter",
         "qvalue"
     ],
     "derfinderPlot": [
-        "bumphunter",
         "derfinder",
         "qvalue"
     ],
@@ -828,15 +811,12 @@
     "DMCHMM": [],
     "DMRcaller": [],
     "DMRcate": [
-        "bumphunter",
         "genefilter",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "bumphunter"
-    ],
+    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -888,7 +868,6 @@
     ],
     "EnhancedVolcano": [],
     "ENmix": [
-        "bumphunter",
         "genefilter",
         "impute",
         "minfi"
@@ -934,18 +913,14 @@
         "impute"
     ],
     "epimutacions": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
     "epiNEM": [
         "mnem"
     ],
-    "epivizr": [
-        "bumphunter"
-    ],
+    "epivizr": [],
     "epivizrStandalone": [
-        "bumphunter",
         "epivizr"
     ],
     "erccdashboard": [
@@ -995,7 +970,6 @@
     "fdrame": [],
     "FeatSeekR": [],
     "ffpe": [
-        "bumphunter",
         "genefilter",
         "lumi",
         "methylumi",
@@ -1167,7 +1141,6 @@
     ],
     "frenchFISH": [],
     "funtooNorm": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
@@ -1236,7 +1209,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneticsPed": [],
     "GeneTonic": [
         "DESeq2"
     ],
@@ -1252,7 +1224,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1338,8 +1309,7 @@
         "STRINGdb"
     ],
     "GSRI": [
-        "genefilter",
-        "les"
+        "genefilter"
     ],
     "GWASTools": [
         "gdsfmt"
@@ -1387,7 +1357,6 @@
         "metapod"
     ],
     "iCheck": [
-        "bumphunter",
         "genefilter",
         "lumi",
         "methylumi",
@@ -1422,7 +1391,6 @@
         "DOSE",
         "Pigengene",
         "ReactomePA",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1506,7 +1474,6 @@
         "sva"
     ],
     "LACE": [],
-    "les": [],
     "lfa": [],
     "lipidr": [
         "MultiDataSet",
@@ -1532,7 +1499,6 @@
         "KEGGgraph"
     ],
     "lumi": [
-        "bumphunter",
         "genefilter",
         "methylumi",
         "minfi"
@@ -1550,7 +1516,6 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "bumphunter",
         "genefilter",
         "impute",
         "methylumi",
@@ -1603,7 +1568,6 @@
     "MDTS": [],
     "MEAL": [
         "MultiDataSet",
-        "bumphunter",
         "genefilter",
         "methylumi",
         "minfi",
@@ -1613,7 +1577,6 @@
     ],
     "MeasurementError.cor": [],
     "MEAT": [
-        "bumphunter",
         "genefilter",
         "impute",
         "lumi",
@@ -1682,17 +1645,14 @@
         "sesame"
     ],
     "MethylAid": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
     "methylCC": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
     "methylclock": [
-        "bumphunter",
         "genefilter",
         "impute",
         "minfi",
@@ -1700,7 +1660,6 @@
     ],
     "methylGSA": [
         "DOSE",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1720,11 +1679,9 @@
         "impute"
     ],
     "methylumi": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
-    "MetNet": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -1735,7 +1692,6 @@
         "DESeq2"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "DESeq2"
     ],
     "MicrobiomeProfiler": [
@@ -1751,14 +1707,12 @@
     "MineICA": [
         "Category",
         "GOstats",
-        "bumphunter",
         "genefilter",
         "lumi",
         "methylumi",
         "minfi"
     ],
     "minfi": [
-        "bumphunter",
         "genefilter"
     ],
     "mirIntegrator": [
@@ -1772,12 +1726,10 @@
         "impute"
     ],
     "missMethyl": [
-        "bumphunter",
         "genefilter",
         "methylumi",
         "minfi"
     ],
-    "mitch": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -1824,10 +1776,7 @@
         "QUBIC"
     ],
     "Motif2Site": [],
-    "motifbreakR": [
-        "MotifDb"
-    ],
-    "MotifDb": [],
+    "motifbreakR": [],
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
@@ -1971,7 +1920,6 @@
         "Category",
         "GOstats",
         "STRINGdb",
-        "bumphunter",
         "genefilter",
         "minfi",
         "quantro",
@@ -1984,8 +1932,6 @@
         "bamsignals",
         "qvalue"
     ],
-    "NPARC": [],
-    "occugene": [],
     "octad": [
         "DESeq2"
     ],
@@ -1994,9 +1940,7 @@
         "tkWidgets"
     ],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
@@ -2143,7 +2087,6 @@
         "scran"
     ],
     "planet": [],
-    "planttfhunter": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -2170,7 +2113,6 @@
     "proActiv": [
         "DESeq2"
     ],
-    "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -2214,7 +2156,6 @@
         "genefilter"
     ],
     "psichomics": [
-        "bumphunter",
         "derfinder",
         "qvalue",
         "recount"
@@ -2247,7 +2188,6 @@
         "sva"
     ],
     "quantro": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
@@ -2298,14 +2238,12 @@
         "dir.expiry"
     ],
     "recount": [
-        "bumphunter",
         "derfinder",
         "qvalue"
     ],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
-        "bumphunter",
         "dir.expiry",
         "genefilter",
         "minfi"
@@ -2318,13 +2256,11 @@
     "regionReport": [
         "DEFormats",
         "DESeq2",
-        "bumphunter",
         "derfinder",
         "qvalue"
     ],
     "regsplice": [],
     "REMP": [
-        "bumphunter",
         "genefilter",
         "impute",
         "minfi"
@@ -2350,7 +2286,6 @@
     "rexposome": [
         "impute"
     ],
-    "Rfastp": [],
     "rgoslin": [],
     "rGREAT": [],
     "rgsepd": [
@@ -2395,16 +2330,13 @@
         "DESeq2"
     ],
     "RNAAgeCalc": [
-        "bumphunter",
         "derfinder",
         "impute",
         "qvalue",
         "recount"
     ],
     "RNAdecay": [],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -2415,13 +2347,11 @@
         "qvalue"
     ],
     "RnaSeqSampleSize": [
-        "bumphunter",
         "derfinder",
         "qvalue",
         "recount"
     ],
     "RnBeads": [
-        "bumphunter",
         "genefilter",
         "methylumi",
         "minfi"
@@ -2452,9 +2382,7 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVcorr": [],
     "RVS": [],
     "rWikiPathways": [],
@@ -2548,7 +2476,6 @@
         "qvalue"
     ],
     "scTreeViz": [
-        "bumphunter",
         "epivizr",
         "metapod",
         "scran"
@@ -2610,16 +2537,13 @@
     ],
     "SGSeq": [],
     "shinyepico": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
     "shinyMethyl": [
-        "bumphunter",
         "genefilter",
         "minfi"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -2669,7 +2593,6 @@
         "zinbwave"
     ],
     "skewr": [
-        "bumphunter",
         "genefilter",
         "lumi",
         "methylumi",
@@ -2904,7 +2827,6 @@
         "metapod"
     ],
     "wateRmelon": [
-        "bumphunter",
         "genefilter",
         "lumi",
         "methylumi",
@@ -2931,7 +2853,6 @@
         "STRINGdb"
     ],
     "yarn": [
-        "bumphunter",
         "genefilter",
         "minfi",
         "quantro"
