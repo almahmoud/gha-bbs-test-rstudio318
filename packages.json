@@ -421,7 +421,6 @@
         "Rhisat2",
         "SGSeq"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "metapod",
         "scran"
@@ -2753,7 +2752,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMAP": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
@@ -2845,7 +2843,6 @@
     ],
     "SWATH2stats": [],
     "SwathXtend": [],
-    "swfdr": [],
     "synapter": [
         "MSnbase",
         "impute",
@@ -3022,7 +3019,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "xmapbridge": [],
     "XNAString": [],
     "yarn": [
         "bumphunter",
