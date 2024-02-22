@@ -429,7 +429,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
@@ -643,7 +642,6 @@
         "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "csaw",
         "metapod"
@@ -1186,7 +1184,6 @@
         "sva"
     ],
     "ISoLDE": [],
-    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1845,7 +1842,6 @@
         "metapod",
         "scran"
     ],
-    "regionReport": [],
     "regsplice": [],
     "REMP": [
         "genefilter",
