@@ -117,7 +117,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "ASpli": [],
     "AssessORF": [],
     "ASSET": [],
     "ASSIGN": [
@@ -269,7 +268,6 @@
         "mnem",
         "sva"
     ],
-    "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
         "bumphunter",
@@ -311,7 +309,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM",
@@ -522,14 +519,11 @@
     "cola": [
         "impute"
     ],
-    "comapr": [],
     "coMET": [],
     "coMethDMR": [
         "bumphunter"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CompoundDb": [
         "MetaboCoreUtils",
         "Spectra"
@@ -642,7 +636,6 @@
     "CTSV": [
         "qvalue"
     ],
-    "cummeRbund": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -1561,7 +1554,6 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -1597,7 +1589,6 @@
     ],
     "LACE": [],
     "LEA": [],
-    "lemur": [],
     "les": [],
     "lfa": [],
     "lipidr": [
@@ -1678,7 +1669,6 @@
     ],
     "MantelCorr": [],
     "martini": [],
-    "maser": [],
     "MassArray": [],
     "MassSpecWavelet": [],
     "MatrixQCvis": [
@@ -1826,7 +1816,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylPipe": [],
     "methylSig": [],
     "methylumi": [
         "bumphunter",
@@ -2406,7 +2395,6 @@
     ],
     "QUBIC": [],
     "qvalue": [],
-    "R3CPET": [],
     "r3Cseq": [
         "qvalue"
     ],
@@ -2524,7 +2512,6 @@
         "qvalue"
     ],
     "RiboProfiling": [],
-    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -2570,16 +2557,9 @@
         "genefilter",
         "splots"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RNAsense": [
         "qvalue"
     ],
@@ -2869,7 +2849,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [],
     "SpacePAC": [],
     "Spaniel": [
         "metapod",
@@ -2918,7 +2897,6 @@
         "DESeq2"
     ],
     "ssize": [],
-    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -3031,7 +3009,6 @@
     "tracktables": [],
     "trackViewer": [],
     "transcriptogramer": [],
-    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -3139,9 +3116,7 @@
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "bumphunter",
         "genefilter",
