@@ -574,7 +574,6 @@
         "ncdfFlow"
     ],
     "daMA": [],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -621,15 +620,12 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
     ],
     "DEGreport": [],
     "DelayedTensor": [],
-    "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -1021,7 +1017,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneTonic": [],
     "genoCN": [],
     "genomation": [
         "impute"
@@ -1189,7 +1184,6 @@
         "cytolib",
         "flowCore"
     ],
-    "INSPEcT": [],
     "INTACT": [],
     "interacCircos": [],
     "InteractiveComplexHeatmap": [],
@@ -1387,7 +1381,6 @@
     "MetCirc": [],
     "methimpute": [],
     "methInheritSim": [],
-    "MethReg": [],
     "MethylAid": [
         "genefilter",
         "minfi"
@@ -1425,7 +1418,6 @@
     "MGFR": [],
     "mgsa": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -1768,7 +1760,6 @@
         "MSnbase",
         "impute"
     ],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
@@ -1893,9 +1884,7 @@
         "metapod",
         "scran"
     ],
-    "regionReport": [
-        "DEFormats"
-    ],
+    "regionReport": [],
     "regsplice": [],
     "REMP": [
         "genefilter",
@@ -1924,7 +1913,6 @@
     ],
     "rgoslin": [],
     "rGREAT": [],
-    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -1954,7 +1942,6 @@
         "MSnbase",
         "impute"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "impute",
         "recount"
@@ -2113,7 +2100,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -2240,7 +2226,6 @@
         "impute"
     ],
     "SQUADD": [],
-    "srnadiff": [],
     "ssize": [],
     "staRank": [
         "Category",
@@ -2267,13 +2252,11 @@
         "MSnbase",
         "impute"
     ],
-    "systemPipeTools": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
         "sva"
     ],
-    "TCC": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
