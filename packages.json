@@ -281,7 +281,6 @@
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
-    "CAFE": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
@@ -516,7 +515,6 @@
     "cola": [
         "impute"
     ],
-    "coMET": [],
     "coMethDMR": [
         "bumphunter"
     ],
@@ -937,7 +935,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "ELMER": [],
     "EnhancedVolcano": [],
     "ENmix": [
         "bumphunter",
@@ -1014,7 +1011,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "escape": [],
     "esetVis": [],
     "EventPointer": [
         "SGSeq",
@@ -1517,7 +1513,6 @@
     "InTAD": [
         "qvalue"
     ],
-    "intansv": [],
     "interacCircos": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
@@ -1682,7 +1677,6 @@
     "MCbiclust": [
         "impute"
     ],
-    "mCSEA": [],
     "mdp": [],
     "mdqc": [],
     "MDTS": [],
@@ -2288,7 +2282,6 @@
     ],
     "pqsfinder": [],
     "PREDA": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "impute"
@@ -2454,7 +2447,6 @@
         "qvalue"
     ],
     "regsplice": [],
-    "regutools": [],
     "REMP": [
         "bumphunter",
         "genefilter",
@@ -2500,7 +2492,6 @@
         "DESeq2",
         "qvalue"
     ],
-    "RiboProfiling": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -2632,7 +2623,6 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -2663,7 +2653,6 @@
         "metapod",
         "scran"
     ],
-    "scone": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
@@ -2874,7 +2863,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SPLINTER": [],
     "splots": [],
     "SPsimSeq": [
         "impute"
@@ -2983,7 +2971,6 @@
         "DynDoc",
         "widgetTools"
     ],
-    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -3024,7 +3011,6 @@
     "UMI4Cats": [
         "DESeq2"
     ],
-    "uncoverappLib": [],
     "uSORT": [
         "monocle"
     ],
@@ -3041,7 +3027,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [],
     "VaSP": [
         "ballgown",
         "genefilter",
