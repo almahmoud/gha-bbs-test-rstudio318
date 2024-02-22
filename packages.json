@@ -24,7 +24,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "genefilter"
     ],
@@ -35,7 +34,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "genefilter"
@@ -329,9 +327,7 @@
         "sva",
         "wateRmelon"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
     ],
@@ -346,7 +342,6 @@
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2",
         "SGSeq"
@@ -421,7 +416,6 @@
         "flowMerge"
     ],
     "consensus": [],
-    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute",
@@ -618,7 +612,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DelayedTensor": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -633,7 +626,6 @@
         "impute"
     ],
     "derfinderPlot": [],
-    "DEWSeq": [],
     "DExMA": [
         "genefilter",
         "impute",
@@ -642,7 +634,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -699,7 +690,6 @@
         "decoupleR",
         "progeny"
     ],
-    "EBSEA": [],
     "edge": [
         "genefilter",
         "sva"
@@ -751,10 +741,7 @@
     "epiNEM": [
         "mnem"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1034,7 +1021,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "gg4way": [],
     "ggcyto": [
         "RProtoBufLib",
         "cytolib",
@@ -1052,7 +1038,6 @@
     ],
     "GLAD": [],
     "GladiaTOX": [],
-    "Glimma": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1468,7 +1453,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "motifbreakR": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -1566,7 +1550,6 @@
         "epiNEM",
         "mnem"
     ],
-    "NetActivity": [],
     "netboost": [
         "impute"
     ],
@@ -1596,13 +1579,11 @@
     "normr": [
         "bamsignals"
     ],
-    "octad": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
     ],
     "omicade4": [],
-    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
@@ -1631,7 +1612,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "orthogene": [],
     "orthos": [
         "basilisk",
@@ -1897,9 +1877,7 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -1928,7 +1906,6 @@
         "recount"
     ],
     "RNAdecay": [],
-    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -2050,7 +2027,6 @@
         "meshr"
     ],
     "scTreeViz": [
-        "epivizr",
         "metapod",
         "scran"
     ],
@@ -2250,9 +2226,7 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
@@ -2328,7 +2302,6 @@
     ],
     "veloviz": [],
     "vulcan": [
-        "DiffBind",
         "csaw",
         "metapod"
     ],
