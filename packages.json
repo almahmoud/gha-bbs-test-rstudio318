@@ -50,7 +50,6 @@
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
@@ -70,11 +69,9 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "ALDEx2": [],
     "AllelicImbalance": [],
@@ -141,11 +138,8 @@
         "GeneOverlap",
         "rGREAT"
     ],
-    "ATACseqQC": [
-        "ChIPpeakAnno"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -287,9 +281,7 @@
         "sva"
     ],
     "BOBaFIT": [],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "bumphunter",
         "derfinder",
@@ -446,7 +438,6 @@
     ],
     "chimeraviz": [],
     "ChIPComp": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
@@ -832,7 +823,6 @@
         "DESeq2"
     ],
     "DeMixT": [
-        "DSS",
         "genefilter",
         "sva"
     ],
@@ -854,9 +844,7 @@
         "derfinder",
         "qvalue"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -875,7 +863,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
         "GreyListChIP"
@@ -951,7 +938,6 @@
         "ArrayExpress",
         "qvalue"
     ],
-    "DSS": [],
     "DTA": [],
     "DynDoc": [],
     "easier": [
@@ -1088,7 +1074,6 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [],
     "FeatSeekR": [],
     "ffpe": [
         "bumphunter",
@@ -1449,9 +1434,7 @@
         "genefilter",
         "les"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Guitar": [],
     "GWASTools": [
         "gdsfmt"
@@ -1477,17 +1460,11 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCcompare": [],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
     "HiCool": [
-        "HiCExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1630,8 +1607,7 @@
         "KEGGgraph"
     ],
     "kissDE": [
-        "DESeq2",
-        "DSS"
+        "DESeq2"
     ],
     "KnowSeq": [
         "genefilter",
@@ -1719,7 +1695,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "mariner": [],
     "martini": [],
     "maser": [],
     "MassArray": [],
@@ -1812,7 +1787,6 @@
     "metapod": [],
     "metaseqR2": [
         "DESeq2",
-        "DSS",
         "genefilter",
         "qvalue",
         "survcomp"
@@ -1871,9 +1845,7 @@
         "impute"
     ],
     "methylPipe": [],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "bumphunter",
         "genefilter",
@@ -2046,7 +2018,6 @@
         "genefilter",
         "sva"
     ],
-    "msPurity": [],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
@@ -2070,9 +2041,7 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -2097,7 +2066,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "csaw",
         "metapod",
         "trackViewer"
@@ -2362,7 +2330,6 @@
         "STRINGdb"
     ],
     "pqsfinder": [],
-    "prebs": [],
     "PREDA": [],
     "primirTSS": [],
     "PrInCE": [
@@ -2479,7 +2446,6 @@
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
-    "RareVariantVis": [],
     "RCAS": [
         "genomation",
         "impute"
@@ -2520,9 +2486,7 @@
         "minfi"
     ],
     "RedisParam": [],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2722,7 +2686,6 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
@@ -2955,9 +2918,7 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -3024,11 +2985,8 @@
         "DESeq2"
     ],
     "tadar": [],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TAPseq": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
@@ -3095,7 +3053,6 @@
         "MSnbase",
         "impute"
     ],
-    "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [],
     "tradeSeq": [],
@@ -3170,7 +3127,6 @@
         "qvalue"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
