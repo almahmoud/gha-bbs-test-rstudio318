@@ -51,13 +51,11 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [],
     "annmap": [
         "genefilter"
     ],
     "anota2seq": [],
     "AnVILBilling": [],
-    "APAlyzer": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -221,7 +219,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -377,7 +374,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -425,9 +421,7 @@
         "impute"
     ],
     "coMethDMR": [],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "concordexR": [],
     "CONFESS": [
         "RProtoBufLib",
@@ -459,7 +453,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -814,7 +807,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "exomePeak2": [],
     "extraChIPs": [
         "csaw",
         "metapod"
@@ -847,7 +839,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -994,9 +985,7 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [],
     "funtooNorm": [
         "genefilter",
@@ -1005,7 +994,6 @@
     "garfield": [],
     "GARS": [
         "DaMiRseq",
-        "MLSeq",
         "genefilter",
         "sva"
     ],
@@ -1253,12 +1241,10 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEEde": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -1304,7 +1290,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1342,13 +1327,11 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1404,8 +1387,7 @@
     "messina": [],
     "metabinR": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [
         "KEGGgraph",
@@ -1423,7 +1405,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1437,9 +1418,7 @@
         "genefilter",
         "survcomp"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methimpute": [],
     "methInheritSim": [
         "methylKit"
@@ -1525,13 +1504,11 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLSeq": [],
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1562,24 +1539,12 @@
         "QUBIC"
     ],
     "motifbreakR": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msImpute": [
         "metapod",
         "scran"
@@ -1607,8 +1572,7 @@
         "sva"
     ],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -1662,7 +1626,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -1747,7 +1710,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -1776,7 +1738,6 @@
     ],
     "Path2PPI": [],
     "pathifier": [],
-    "PathoStat": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -1809,7 +1770,6 @@
     "pepStat": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "phantasus": [],
     "phemd": [
         "monocle"
     ],
@@ -2034,7 +1994,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute",
         "xcms"
     ],
@@ -2091,7 +2050,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "rTRMui": [],
     "RUVcorr": [],
     "RVS": [],
     "rWikiPathways": [],
@@ -2322,7 +2280,6 @@
         "scran"
     ],
     "specL": [],
-    "Spectra": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -2490,7 +2447,6 @@
         "MSnbase",
         "MassSpecWavelet",
         "MsExperiment",
-        "Spectra",
         "impute"
     ],
     "XDE": [
