@@ -48,7 +48,6 @@
     "AMARETTO": [
         "impute"
     ],
-    "Anaquin": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -56,7 +55,6 @@
     "annmap": [
         "genefilter"
     ],
-    "anota": [],
     "anota2seq": [],
     "AnVILBilling": [],
     "APAlyzer": [],
@@ -207,7 +205,6 @@
         "sva"
     ],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
     "brendaDb": [],
@@ -518,7 +515,6 @@
     "csdR": [
         "impute"
     ],
-    "CTSV": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -670,10 +666,7 @@
         "MSnbase",
         "impute"
     ],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
@@ -808,7 +801,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erccdashboard": [],
     "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
@@ -849,7 +841,6 @@
         "minfi"
     ],
     "FGNet": [],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1783,7 +1774,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "PAST": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [],
@@ -1908,7 +1898,6 @@
         "genefilter"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "ptairMS": [
@@ -1983,9 +1972,7 @@
     "rebook": [
         "dir.expiry"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -1999,8 +1986,7 @@
         "scran"
     ],
     "regionReport": [
-        "DEFormats",
-        "derfinder"
+        "DEFormats"
     ],
     "regsplice": [],
     "REMP": [
@@ -2064,7 +2050,6 @@
     ],
     "Rmmquant": [],
     "RNAAgeCalc": [
-        "derfinder",
         "impute",
         "recount"
     ],
@@ -2076,9 +2061,7 @@
         "genefilter",
         "splots"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -2090,7 +2073,6 @@
         "impute"
     ],
     "ROCpAI": [],
-    "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
@@ -2261,7 +2243,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sights": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -2375,7 +2356,6 @@
         "impute"
     ],
     "STRINGdb": [],
-    "subSeq": [],
     "survcomp": [],
     "survtype": [],
     "sva": [
@@ -2445,8 +2425,7 @@
     "transcriptogramer": [],
     "transite": [],
     "tRanslatome": [
-        "Heatplus",
-        "anota"
+        "Heatplus"
     ],
     "TransView": [],
     "treekoR": [
@@ -2493,7 +2472,6 @@
     ],
     "veloviz": [],
     "vidger": [],
-    "vsclust": [],
     "vulcan": [
         "DiffBind",
         "csaw",
@@ -2505,7 +2483,6 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [],
     "wppi": [
         "OmnipathR"
     ],
