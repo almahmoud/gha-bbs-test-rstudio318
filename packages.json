@@ -6,7 +6,6 @@
     "a4Base": [
         "genefilter"
     ],
-    "acde": [],
     "ACE": [
         "CGHcall",
         "QDNAseq",
@@ -81,7 +80,6 @@
         "bumphunter",
         "genefilter",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi"
     ],
@@ -159,9 +157,7 @@
     ],
     "bgx": [],
     "BHC": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "bumphunter",
         "gdsfmt",
@@ -617,8 +613,7 @@
     "cycle": [
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "RProtoBufLib",
@@ -702,8 +697,7 @@
         "enrichplot",
         "impute",
         "qvalue",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "dce": [
         "epiNEM",
@@ -1411,7 +1405,6 @@
         "DESeq2"
     ],
     "hummingbird": [],
-    "hyperdraw": [],
     "iasva": [],
     "iCARE": [],
     "icetea": [
@@ -1543,7 +1536,6 @@
         "sva"
     ],
     "LACE": [],
-    "LEA": [],
     "les": [],
     "lfa": [],
     "lipidr": [
@@ -1643,7 +1635,6 @@
         "impute"
     ],
     "mdp": [],
-    "mdqc": [],
     "MDTS": [],
     "MEAL": [
         "MultiDataSet",
@@ -1778,8 +1769,7 @@
     "MetNet": [],
     "Mfuzz": [
         "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [],
     "MGFR": [],
@@ -1967,8 +1957,7 @@
         "DESeq2",
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "multiWGCNA": [
         "impute"
@@ -2060,8 +2049,7 @@
     ],
     "OLINgui": [
         "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omicade4": [
         "made4"
@@ -2289,8 +2277,7 @@
         "enrichplot",
         "impute",
         "qvalue",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "protGear": [
         "genefilter"
@@ -2917,15 +2904,13 @@
         "enrichplot",
         "qvalue",
         "rWikiPathways",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "TIN": [
         "impute"
     ],
     "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
+        "DynDoc"
     ],
     "TnT": [],
     "TOP": [
@@ -3019,7 +3004,6 @@
     "webbioc": [
         "qvalue"
     ],
-    "widgetTools": [],
     "wppi": [
         "OmnipathR"
     ],
