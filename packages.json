@@ -90,7 +90,6 @@
         "sva"
     ],
     "bamsignals": [],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -179,7 +178,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "dmrseq",
         "impute"
     ],
     "blacksheepr": [
@@ -204,7 +202,6 @@
         "derfinderPlot"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "BUMHMM": [],
     "BUScorrect": [],
     "cageminer": [
@@ -413,7 +410,6 @@
     "cola": [
         "impute"
     ],
-    "coMethDMR": [],
     "CompoundDb": [],
     "concordexR": [],
     "CONFESS": [
@@ -439,9 +435,7 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
@@ -624,7 +618,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DeMixT": [
         "genefilter",
@@ -659,9 +652,7 @@
         "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "csaw",
         "metapod"
@@ -684,7 +675,6 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -741,7 +731,6 @@
         "enrichplot"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot",
         "genomation",
@@ -766,7 +755,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1086,7 +1074,6 @@
         "genefilter"
     ],
     "GPA": [],
-    "GRaNIE": [],
     "graper": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1117,7 +1104,6 @@
         "sva"
     ],
     "Heatplus": [],
-    "hermes": [],
     "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
@@ -1133,7 +1119,6 @@
     ],
     "HIREewas": [],
     "hpar": [],
-    "HTSFilter": [],
     "hummingbird": [],
     "iasva": [],
     "icetea": [
@@ -1216,9 +1201,7 @@
         "sva"
     ],
     "ISoLDE": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1231,7 +1214,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "kissDE": [],
     "KnowSeq": [
         "genefilter",
         "sva"
@@ -1417,7 +1399,6 @@
     ],
     "MGFR": [],
     "mgsa": [],
-    "microbiomeExplorer": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -2038,7 +2019,6 @@
         "metapod",
         "scran"
     ],
-    "scGPS": [],
     "scifer": [
         "RProtoBufLib",
         "cytolib",
@@ -2186,7 +2166,6 @@
         "dir.expiry"
     ],
     "SNPediaR": [],
-    "SNPhood": [],
     "SNPRelate": [
         "gdsfmt"
     ],
@@ -2321,7 +2300,6 @@
     "TSAR": [],
     "ttgsea": [],
     "TTMap": [],
-    "UMI4Cats": [],
     "uSORT": [
         "monocle"
     ],
@@ -2349,7 +2327,6 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "vidger": [],
     "vulcan": [
         "DiffBind",
         "csaw",
