@@ -22,7 +22,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -46,31 +45,23 @@
     ],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "ALDEx2": [],
@@ -107,7 +98,6 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "appreci8R": [],
     "ArrayExpress": [],
     "arrayMvout": [
         "bumphunter",
@@ -139,7 +129,6 @@
         "rGREAT"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "attract": [
         "Category",
         "GOstats",
@@ -526,9 +515,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -734,7 +721,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -1018,7 +1004,6 @@
         "mnem"
     ],
     "epistack": [],
-    "EpiTxDb": [],
     "epivizr": [
         "bumphunter"
     ],
@@ -1287,12 +1272,9 @@
         "qvalue"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1890,7 +1872,6 @@
         "bumphunter",
         "genefilter"
     ],
-    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -2135,7 +2116,6 @@
         "qvalue"
     ],
     "NPARC": [],
-    "nullranges": [],
     "occugene": [],
     "octad": [
         "DESeq2"
@@ -2211,7 +2191,6 @@
         "genefilter",
         "sva"
     ],
-    "pageRank": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -2280,7 +2259,6 @@
     "phantasus": [
         "DESeq2"
     ],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -2432,7 +2410,6 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2732,7 +2709,6 @@
         "metapod"
     ],
     "scRecover": [],
-    "scRNAseqApp": [],
     "scruff": [],
     "scShapes": [],
     "scTensor": [
@@ -2847,7 +2823,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simpleSeg": [],
     "sincell": [],
     "SingleCellSignalR": [
         "metapod",
@@ -3055,7 +3030,6 @@
     ],
     "tracktables": [],
     "trackViewer": [],
-    "tradeSeq": [],
     "transcriptogramer": [],
     "transformGamPoi": [],
     "transite": [],
@@ -3159,15 +3133,12 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
