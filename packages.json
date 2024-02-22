@@ -45,9 +45,7 @@
         "genefilter"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
@@ -55,33 +53,25 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
@@ -567,7 +557,6 @@
         "Spectra"
     ],
     "concordexR": [],
-    "condiments": [],
     "CONFESS": [
         "RProtoBufLib",
         "cytolib",
@@ -755,7 +744,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -980,7 +968,6 @@
         "qvalue",
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [
         "impute"
     ],
@@ -1505,7 +1492,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [],
     "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -1542,7 +1528,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -2117,7 +2102,6 @@
         "metapod",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
@@ -2365,7 +2349,6 @@
         "genefilter"
     ],
     "plotGrouper": [],
-    "plyinteractions": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -2855,7 +2838,6 @@
         "genefilter",
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -2893,7 +2875,6 @@
         "impute",
         "survcomp"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -2924,7 +2905,6 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [],
     "skewr": [
         "bumphunter",
         "genefilter",
@@ -2952,7 +2932,6 @@
         "gdsfmt"
     ],
     "SomaticSignatures": [],
-    "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [
         "metapod",
@@ -3131,7 +3110,6 @@
         "qvalue"
     ],
     "TransView": [],
-    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "RProtoBufLib",
