@@ -1,12 +1,12 @@
 # Summary
 
-1307 Bioconductor sotware binaries built
+1308 Bioconductor sotware binaries built
 
-2692 Other dependency binaries built
+2693 Other dependency binaries built
 
 0 failed packages
 
-886 unclaimed packages
+885 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (886)
+## Unclaimed (885)
 | Package                   | Status    | Blocked By                                                                                                                                                         |
 |---------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                        | Unclaimed | Incomplete Bioc dependencies: a4Base, genefilter.                                                                                                                  |
@@ -28,7 +28,6 @@
 | affylmGUI                 | Unclaimed | Incomplete Bioc dependencies: affyPLM.                                                                                                                             |
 | affyPLM                   | Unclaimed |                                                                                                                                                                    |
 | AgiMicroRna               | Unclaimed | Incomplete Bioc dependencies: Category, DESeq2, GOstats, Glimma, ReportingTools, affycoretools, genefilter.                                                        |
-| alabaster                 | Unclaimed |                                                                                                                                                                    |
 | ALDEx2                    | Unclaimed |                                                                                                                                                                    |
 | AlphaBeta                 | Unclaimed |                                                                                                                                                                    |
 | AlpsNMR                   | Unclaimed | Incomplete Bioc dependencies: MassSpecWavelet, impute.                                                                                                             |
@@ -904,7 +903,7 @@
 | zFPKM                     | Unclaimed |                                                                                                                                                                    |
 | zinbwave                  | Unclaimed | Incomplete Bioc dependencies: genefilter.                                                                                                                          |
 
-## Bioconductor Software Binaries Built (1307)
+## Bioconductor Software Binaries Built (1308)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4Classif                    | Succeeded | [a4Classif_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/a4Classif_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -934,6 +933,7 @@
 | AHMassBank                   | Succeeded | [AHMassBank_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/AHMassBank_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | AIMS                         | Succeeded | [AIMS_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/AIMS_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | airpart                      | Succeeded | [airpart_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/airpart_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| alabaster                    | Succeeded | [alabaster_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/alabaster_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | alabaster.base               | Succeeded | [alabaster.base_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/alabaster.base_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | alabaster.bumpy              | Succeeded | [alabaster.bumpy_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/alabaster.bumpy_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | alabaster.files              | Succeeded | [alabaster.files_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/alabaster.files_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
@@ -2215,7 +2215,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1307)
+## Other Dependency Binaries (1308)
 | Package                               | Status    | Tarball                                                                                                                                                                                                                                                                              |
 |---------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
@@ -2234,6 +2234,7 @@
 | logspline                             | Succeeded | [logspline_2.1.21_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/logspline_2.1.21_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | phantasusLite                         | Succeeded | [phantasusLite_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/phantasusLite_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | a4Classif                             | Succeeded | [a4Classif_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/a4Classif_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
+| alabaster                             | Succeeded | [alabaster_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/alabaster_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | additivityTests                       | Succeeded | [additivityTests_1.1-4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/additivityTests_1.1-4.1_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | qcmetrics                             | Succeeded | [qcmetrics_1.40.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/qcmetrics_1.40.1_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | mclustcomp                            | Succeeded | [mclustcomp_0.3.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-02-21-08-28/binaries/src/contrib/mclustcomp_0.3.3_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
