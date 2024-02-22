@@ -46,24 +46,15 @@
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "ALDEx2": [],
     "AlphaBeta": [],
     "AlpsNMR": [
@@ -506,7 +497,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -516,7 +506,6 @@
     "coMethDMR": [
         "bumphunter"
     ],
-    "compEpiTools": [],
     "CompoundDb": [
         "MetaboCoreUtils",
         "Spectra"
@@ -1254,10 +1243,7 @@
         "pathview",
         "qvalue"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -2525,9 +2511,6 @@
         "genefilter",
         "splots"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RNAsense": [
         "qvalue"
     ],
@@ -3065,13 +3048,11 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "YAPSA": [],
     "yarn": [
         "bumphunter",
         "genefilter",
