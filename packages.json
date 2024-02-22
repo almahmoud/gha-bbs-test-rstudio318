@@ -65,7 +65,6 @@
         "alabaster.se"
     ],
     "ALDEx2": [],
-    "AllelicImbalance": [],
     "AlphaBeta": [],
     "AlpsNMR": [
         "MassSpecWavelet",
@@ -219,7 +218,6 @@
         "dir.expiry"
     ],
     "BioMVCClass": [],
-    "biomvRCNS": [],
     "BioNAR": [
         "impute"
     ],
@@ -422,7 +420,6 @@
         "sva",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "ChIPComp": [],
     "ChIPQC": [
         "DESeq2",
@@ -1300,7 +1297,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneStructureTools": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "DESeq2"
@@ -1313,7 +1309,6 @@
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -1956,7 +1951,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "msgbsR": [],
     "msImpute": [
         "metapod",
         "scran"
@@ -2037,8 +2031,7 @@
     "NADfinder": [
         "ATACseqQC",
         "csaw",
-        "metapod",
-        "trackViewer"
+        "metapod"
     ],
     "nanotatoR": [],
     "NBAMSeq": [
@@ -2109,7 +2102,6 @@
     "octad": [
         "DESeq2"
     ],
-    "OGRE": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets",
@@ -2149,7 +2141,6 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2271,7 +2262,6 @@
         "impute",
         "qvalue"
     ],
-    "PING": [],
     "pipeComp": [
         "metapod",
         "scran"
@@ -2360,7 +2350,6 @@
         "MSnbase",
         "impute"
     ],
-    "Pviz": [],
     "pwOmics": [
         "STRINGdb"
     ],
@@ -2689,7 +2678,6 @@
         "metapod"
     ],
     "scRecover": [],
-    "scruff": [],
     "scShapes": [],
     "scTensor": [
         "Category",
@@ -2937,7 +2925,6 @@
     "systemPipeTools": [
         "DESeq2"
     ],
-    "tadar": [],
     "TADCompare": [],
     "TAPseq": [],
     "TBSignatureProfiler": [
@@ -3007,7 +2994,6 @@
         "impute"
     ],
     "tracktables": [],
-    "trackViewer": [],
     "transcriptogramer": [],
     "transite": [],
     "tRanslatome": [
@@ -3035,7 +3021,6 @@
     "TSAR": [],
     "ttgsea": [],
     "TTMap": [],
-    "TVTB": [],
     "UMI4Cats": [
         "DESeq2"
     ],
@@ -3073,7 +3058,6 @@
     "vidger": [
         "DESeq2"
     ],
-    "Voyager": [],
     "vsclust": [
         "qvalue"
     ],
