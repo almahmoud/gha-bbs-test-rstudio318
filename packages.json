@@ -126,7 +126,6 @@
         "GeneOverlap",
         "rGREAT"
     ],
-    "ATACseqQC": [],
     "attract": [
         "Category",
         "GOstats",
@@ -266,7 +265,6 @@
         "mnem",
         "sva"
     ],
-    "borealis": [],
     "brainflowprobes": [
         "bumphunter",
         "derfinder",
@@ -818,7 +816,6 @@
         "derfinder",
         "qvalue"
     ],
-    "DEScan2": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -1400,7 +1397,6 @@
         "genefilter",
         "les"
     ],
-    "GUIDEseq": [],
     "Guitar": [],
     "GWASTools": [
         "gdsfmt"
@@ -1426,10 +1422,7 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
-    "HiContacts": [],
+    "HiCDOC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1805,7 +1798,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylSig": [],
     "methylumi": [
         "bumphunter",
         "genefilter",
@@ -1999,7 +1991,6 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "multiHiCcompare": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -2023,7 +2014,6 @@
         "qvalue"
     ],
     "NADfinder": [
-        "ATACseqQC",
         "csaw",
         "metapod"
     ],
@@ -2433,7 +2423,6 @@
         "minfi"
     ],
     "RedisParam": [],
-    "REDseq": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2849,7 +2838,6 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -2913,7 +2901,6 @@
     "systemPipeTools": [
         "DESeq2"
     ],
-    "TADCompare": [],
     "TAPseq": [],
     "TBSignatureProfiler": [
         "ASSIGN",
