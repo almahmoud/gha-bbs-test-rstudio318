@@ -155,7 +155,6 @@
         "zinbwave"
     ],
     "bgx": [],
-    "BHC": [],
     "BiGGR": [],
     "bigmelon": [
         "bumphunter",
@@ -261,7 +260,6 @@
     "CAMERA": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -432,7 +430,6 @@
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -478,9 +475,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "Cogito": [],
     "coGPS": [],
-    "COHCAP": [],
     "cola": [
         "impute"
     ],
@@ -488,7 +483,6 @@
         "bumphunter"
     ],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "concordexR": [],
@@ -525,7 +519,6 @@
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -782,7 +775,6 @@
         "qvalue"
     ],
     "DESeq2": [],
-    "DEsingle": [],
     "DEsubs": [
         "DESeq2",
         "qvalue"
@@ -831,7 +823,6 @@
         "scran"
     ],
     "dir.expiry": [],
-    "divergence": [],
     "dks": [],
     "DMCFB": [],
     "DMCHMM": [],
@@ -1022,7 +1013,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -1255,7 +1245,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicPlot": [
@@ -1352,7 +1341,6 @@
         "genefilter",
         "les"
     ],
-    "Guitar": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -1393,7 +1381,6 @@
     ],
     "hummingbird": [],
     "iasva": [],
-    "iCARE": [],
     "icetea": [
         "DESeq2",
         "csaw",
@@ -1414,7 +1401,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "idr2d": [],
     "IFAA": [],
     "IMMAN": [
         "STRINGdb"
@@ -1477,7 +1463,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -1537,7 +1522,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -1588,7 +1572,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -1651,10 +1634,8 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "MetaboCoreUtils",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
@@ -1671,7 +1652,6 @@
         "CAMERA",
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -1691,7 +1671,6 @@
         "survcomp"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methimpute": [],
@@ -1750,7 +1729,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mgsa": [],
     "microbiomeExplorer": [
@@ -1810,7 +1788,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -1854,27 +1831,21 @@
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsExperiment": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "msImpute": [
@@ -1906,7 +1877,6 @@
         "sva"
     ],
     "MsQuality": [
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra"
     ],
@@ -1953,7 +1923,6 @@
         "csaw",
         "metapod"
     ],
-    "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -1966,7 +1935,6 @@
     "ncGTW": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -2278,7 +2246,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "quantro": [
         "bumphunter",
         "genefilter",
@@ -2409,7 +2376,6 @@
     "Risa": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute",
@@ -2497,7 +2463,6 @@
         "gdsfmt"
     ],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "satuRn": [],
@@ -2746,9 +2711,7 @@
         "scran"
     ],
     "specL": [],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -2788,7 +2751,6 @@
     "subSeq": [
         "qvalue"
     ],
-    "SummarizedBenchmark": [],
     "survcomp": [],
     "survtype": [],
     "sva": [
@@ -2907,7 +2869,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VarCon": [],
     "variancePartition": [],
     "VariantExperiment": [
         "DelayedDataFrame",
@@ -2958,7 +2919,6 @@
     "xcms": [
         "MSnbase",
         "MassSpecWavelet",
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
         "impute"
