@@ -327,7 +327,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
     ],
@@ -739,7 +738,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1873,7 +1871,6 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -2222,7 +2219,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
