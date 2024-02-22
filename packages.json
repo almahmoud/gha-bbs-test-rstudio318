@@ -151,7 +151,6 @@
     "benchdamic": [
         "ALDEx2",
         "DESeq2",
-        "dearseq",
         "genefilter",
         "zinbwave"
     ],
@@ -708,7 +707,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "dearseq": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -824,7 +822,6 @@
         "csaw",
         "metapod"
     ],
-    "DiffLogo": [],
     "diffuStats": [],
     "diffUTR": [
         "DESeq2",
@@ -885,7 +882,6 @@
         "decoupleR",
         "progeny"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -956,7 +952,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistack": [],
     "epivizr": [
         "bumphunter"
     ],
@@ -1378,7 +1373,6 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [],
     "Heatplus": [],
     "hermes": [
         "DESeq2"
@@ -1443,7 +1437,6 @@
         "flowCore"
     ],
     "impute": [],
-    "INDEED": [],
     "iNETgrate": [
         "DOSE",
         "Pigengene",
@@ -1461,7 +1454,6 @@
         "cytolib",
         "flowCore"
     ],
-    "Informeasure": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -1900,9 +1892,7 @@
         "metapod",
         "scran"
     ],
-    "mslp": [
-        "RankProd"
-    ],
+    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "impute"
@@ -2010,7 +2000,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netprioR": [],
     "netresponse": [
         "qvalue"
     ],
@@ -2173,7 +2162,6 @@
         "genefilter"
     ],
     "pepStat": [],
-    "pepXMLTab": [],
     "periodicDNA": [],
     "pfamAnalyzeR": [],
     "pgca": [],
@@ -2220,7 +2208,6 @@
     ],
     "POMA": [
         "DESeq2",
-        "RankProd",
         "impute"
     ],
     "PPInfer": [
@@ -2336,7 +2323,6 @@
     "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RankProd": [],
     "RAREsim": [],
     "RCAS": [
         "genomation",
@@ -2407,7 +2393,6 @@
         "GOstats",
         "genefilter"
     ],
-    "ReQON": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -2696,7 +2681,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [],
     "sights": [
         "qvalue"
     ],
@@ -2784,7 +2768,6 @@
         "metapod",
         "scran"
     ],
-    "SpatialOmicsOverlay": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
@@ -2845,9 +2828,7 @@
         "impute",
         "qvalue"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "systemPipeTools": [
         "DESeq2"
     ],
@@ -2889,7 +2870,6 @@
     "tilingArray": [
         "genefilter"
     ],
-    "timescape": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -2921,7 +2901,6 @@
     "tRanslatome": [
         "DESeq2",
         "Heatplus",
-        "RankProd",
         "anota",
         "qvalue"
     ],
