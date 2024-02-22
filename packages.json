@@ -514,7 +514,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CrispRVariants": [],
     "crisprVerse": [
         "basilisk",
         "basilisk.utils",
@@ -680,7 +679,6 @@
         "ttgsea"
     ],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -752,7 +750,6 @@
     ],
     "dir.expiry": [],
     "dks": [],
-    "DMCFB": [],
     "DMRcaller": [],
     "DMRcate": [
         "genefilter",
@@ -840,7 +837,6 @@
         "impute",
         "qvalue"
     ],
-    "epidecodeR": [],
     "epigraHMM": [
         "bamsignals",
         "csaw",
@@ -907,7 +903,6 @@
         "minfi"
     ],
     "FGNet": [],
-    "FilterFFPE": [],
     "FindIT2": [
         "qvalue"
     ],
@@ -1180,7 +1175,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "GGPA": [],
     "GIGSEA": [],
     "GISPA": [
         "genefilter"
@@ -1258,7 +1252,6 @@
         "hiAnnotator"
     ],
     "HIREewas": [],
-    "HiTC": [],
     "hpar": [],
     "HTSFilter": [],
     "hummingbird": [],
@@ -1428,7 +1421,6 @@
         "qvalue"
     ],
     "magpie": [],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1536,9 +1528,7 @@
         "methylKit",
         "qvalue"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "MethylAid": [
         "genefilter",
         "minfi"
@@ -1664,10 +1654,8 @@
     "mosbi": [
         "QUBIC"
     ],
-    "Motif2Site": [],
     "motifbreakR": [],
     "MouseFM": [],
-    "MPRAnalyze": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -1877,7 +1865,6 @@
         "genefilter",
         "sva"
     ],
-    "pairkat": [],
     "PanomiR": [
         "DOSE",
         "clusterProfiler",
@@ -1906,7 +1893,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PCAN": [],
     "pcxn": [],
     "PDATK": [
         "genefu",
@@ -2318,7 +2304,6 @@
     "scran": [
         "metapod"
     ],
-    "scRecover": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -2376,7 +2361,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sesame": [],
     "SEtools": [
         "genefilter",
         "sva"
@@ -2501,7 +2485,6 @@
         "impute"
     ],
     "SQUADD": [],
-    "sRACIPE": [],
     "srnadiff": [],
     "ssize": [],
     "staRank": [
