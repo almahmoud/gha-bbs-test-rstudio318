@@ -925,7 +925,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "FRASER": [],
     "frenchFISH": [],
     "funtooNorm": [
         "genefilter",
@@ -1435,7 +1434,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MOMA": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -1449,7 +1447,6 @@
         "QUBIC"
     ],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -1754,9 +1751,7 @@
     "protGear": [
         "genefilter"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute"
@@ -1827,7 +1822,6 @@
     "rebook": [
         "dir.expiry"
     ],
-    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -1895,8 +1889,7 @@
         "impute"
     ],
     "RNAAgeCalc": [
-        "impute",
-        "recount"
+        "impute"
     ],
     "RNAdecay": [],
     "RNAinteract": [
@@ -1905,9 +1898,7 @@
         "genefilter",
         "splots"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -2193,7 +2184,6 @@
     "sva": [
         "genefilter"
     ],
-    "SVMDO": [],
     "SWATH2stats": [],
     "SwathXtend": [],
     "synapter": [
