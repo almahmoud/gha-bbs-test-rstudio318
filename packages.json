@@ -38,7 +38,6 @@
         "affycoretools",
         "genefilter"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "MassSpecWavelet",
         "impute"
@@ -132,7 +131,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "ReactomePA",
         "TCGAutils",
@@ -217,7 +215,6 @@
     ],
     "canceR": [
         "Category",
-        "GenomicDataCommons",
         "Heatplus",
         "RTCGAToolbox",
         "TCGAutils",
@@ -241,14 +238,12 @@
         "genefilter"
     ],
     "cbaf": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
         "genefilter"
     ],
     "cBioPortalData": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils"
     ],
@@ -388,7 +383,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "CopyNumberPlots",
         "bamsignals",
@@ -746,9 +740,7 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "extraChIPs": [
         "csaw",
         "metapod"
@@ -951,7 +943,6 @@
         "lfa"
     ],
     "GDCRNATools": [
-        "GenomicDataCommons",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -991,8 +982,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicDataCommons": [],
-    "GenomicInteractionNodes": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -1040,7 +1029,6 @@
         "impute"
     ],
     "GNOSIS": [
-        "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData"
@@ -1100,7 +1088,6 @@
     "HIREewas": [],
     "hpar": [],
     "hummingbird": [],
-    "iasva": [],
     "icetea": [
         "csaw",
         "metapod"
@@ -1197,7 +1184,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "lfa": [],
     "lipidr": [
         "MultiDataSet",
@@ -1340,7 +1326,6 @@
         "survcomp"
     ],
     "MetCirc": [],
-    "methimpute": [],
     "methInheritSim": [],
     "MethylAid": [
         "genefilter",
@@ -1449,7 +1434,6 @@
     "MsBackendMassbank": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsExperiment": [],
     "msImpute": [
         "metapod",
@@ -1575,12 +1559,10 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "omicade4": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
         "impute",
-        "omicade4",
         "rexposome",
         "sva"
     ],
@@ -1596,7 +1578,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "OpenStats": [],
     "optimalFlow": [
         "RProtoBufLib",
@@ -1604,7 +1585,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "orthogene": [],
     "orthos": [
         "basilisk",
         "basilisk.utils",
@@ -1665,7 +1645,6 @@
     "PECA": [
         "genefilter"
     ],
-    "pepStat": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "phemd": [
@@ -1708,7 +1687,6 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "pqsfinder": [],
     "PrInCE": [
         "MSnbase",
         "impute"
@@ -1783,9 +1761,7 @@
         "genefilter",
         "minfi"
     ],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QUBIC": [],
     "RAIDS": [
         "GENESIS",
@@ -1923,10 +1899,8 @@
     "rsemmed": [],
     "RSeqAn": [],
     "RTCGAToolbox": [
-        "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RUVcorr": [],
     "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -2129,7 +2103,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "metapod",
         "scran"
@@ -2195,9 +2168,7 @@
         "genefilter",
         "sva"
     ],
-    "TCGAutils": [
-        "GenomicDataCommons"
-    ],
+    "TCGAutils": [],
     "TDbasedUFEadv": [
         "STRINGdb",
         "enrichplot"
@@ -2206,7 +2177,6 @@
         "SCBN"
     ],
     "terraTCGAdata": [
-        "GenomicDataCommons",
         "TCGAutils"
     ],
     "tigre": [],
