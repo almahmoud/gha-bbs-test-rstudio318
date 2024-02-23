@@ -1607,7 +1607,6 @@
     "protGear": [
         "genefilter"
     ],
-    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute"
@@ -1745,7 +1744,6 @@
         "genefilter",
         "splots"
     ],
-    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
