@@ -17,10 +17,7 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAM": [],
-    "ADAMgui": [
-        "ADAM"
-    ],
+    "ADAMgui": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -61,7 +58,6 @@
     "ASAFE": [],
     "ASEB": [],
     "ASICS": [
-        "MultiDataSet",
         "ropls"
     ],
     "ASSET": [],
@@ -70,8 +66,7 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "GeneOverlap",
-        "rGREAT"
+        "GeneOverlap"
     ],
     "attract": [
         "Category",
@@ -159,14 +154,12 @@
         "pathview"
     ],
     "biosigner": [
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
         "metapod",
         "scran"
     ],
-    "biotmle": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
@@ -192,8 +185,6 @@
     "brainflowprobes": [
         "derfinderPlot"
     ],
-    "brendaDb": [],
-    "BUScorrect": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
@@ -640,7 +631,6 @@
     ],
     "dir.expiry": [],
     "dks": [],
-    "DMRcaller": [],
     "DMRcate": [
         "genefilter",
         "methylumi",
@@ -650,7 +640,6 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "DNAshapeR": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -661,7 +650,6 @@
         "KEGGgraph",
         "SPIA",
         "pathview",
-        "variancePartition",
         "zenith"
     ],
     "DriverNet": [],
@@ -1074,7 +1062,6 @@
     ],
     "HIREewas": [],
     "hpar": [],
-    "hummingbird": [],
     "icetea": [
         "csaw",
         "metapod"
@@ -1092,7 +1079,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "IFAA": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1125,7 +1111,6 @@
     ],
     "INTACT": [],
     "interacCircos": [],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -1134,7 +1119,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "InterMineR": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -1158,7 +1142,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "ivygapSE": [],
     "karyoploteR": [
         "bamsignals"
     ],
@@ -1172,7 +1155,6 @@
     ],
     "lfa": [],
     "lipidr": [
-        "MultiDataSet",
         "impute",
         "ropls"
     ],
@@ -1254,7 +1236,6 @@
     ],
     "mdp": [],
     "MEAL": [
-        "MultiDataSet",
         "genefilter",
         "methylumi",
         "minfi",
@@ -1456,14 +1437,12 @@
         "impute"
     ],
     "MultiBaC": [
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
         "bamsignals",
         "karyoploteR"
     ],
-    "MultiDataSet": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -1476,9 +1455,7 @@
         "metapod",
         "scran"
     ],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "MWASTools": [
         "KEGGgraph"
     ],
@@ -1541,7 +1518,6 @@
         "tkWidgets"
     ],
     "omicRexposome": [
-        "MultiDataSet",
         "genefilter",
         "impute",
         "rexposome",
@@ -1632,7 +1608,6 @@
         "monocle"
     ],
     "phenomis": [
-        "MultiDataSet",
         "ropls"
     ],
     "phenoTest": [
@@ -1674,8 +1649,7 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
-        "rGREAT"
+        "enrichplot"
     ],
     "progeny": [
         "decoupleR"
@@ -1817,7 +1791,6 @@
         "impute"
     ],
     "rgoslin": [],
-    "rGREAT": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -1867,12 +1840,9 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [
-        "MultiDataSet"
-    ],
+    "ropls": [],
     "RProtoBufLib": [],
     "rqt": [
-        "MultiDataSet",
         "ropls"
     ],
     "RRHO": [],
@@ -2132,7 +2102,6 @@
     "sva": [
         "genefilter"
     ],
-    "SWATH2stats": [],
     "SwathXtend": [],
     "synapter": [
         "MSnbase",
@@ -2207,7 +2176,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "variancePartition": [],
     "VariantExperiment": [
         "GDSArray",
         "SNPRelate",
@@ -2266,8 +2234,7 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "pathview",
-        "variancePartition"
+        "pathview"
     ],
     "zinbwave": [
         "genefilter"
