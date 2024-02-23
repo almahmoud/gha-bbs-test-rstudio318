@@ -53,7 +53,6 @@
     ],
     "ASAFE": [],
     "ASEB": [],
-    "ASICS": [],
     "ASSET": [],
     "ASSIGN": [
         "genefilter",
@@ -115,7 +114,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler"
@@ -144,7 +142,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [],
     "BioTIP": [
         "metapod",
         "scran"
@@ -186,7 +183,6 @@
     "canceR": [
         "Category",
         "Heatplus",
-        "RTCGAToolbox",
         "cBioPortalData",
         "genefilter",
         "phenoTest"
@@ -207,13 +203,10 @@
         "genefilter"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData",
         "genefilter"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -514,7 +507,6 @@
         "impute",
         "tkWidgets"
     ],
-    "dce": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -949,7 +941,6 @@
         "impute"
     ],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -1349,7 +1340,6 @@
         "MSstatsQC",
         "impute"
     ],
-    "MultiBaC": [],
     "multicrispr": [
         "karyoploteR"
     ],
@@ -1389,7 +1379,6 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nempi": [],
     "netboost": [
         "impute"
     ],
@@ -1510,7 +1499,6 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [],
     "phenoTest": [
         "Category",
         "Heatplus",
@@ -1731,11 +1719,9 @@
         "KEGGgraph"
     ],
     "RProtoBufLib": [],
-    "rqt": [],
     "RRHO": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTCGAToolbox": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -1995,7 +1981,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "terraTCGAdata": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
