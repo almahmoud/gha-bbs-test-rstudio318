@@ -115,7 +115,6 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "cBioPortalData",
         "clusterProfiler"
     ],
     "BioCartaImage": [],
@@ -183,7 +182,6 @@
     "canceR": [
         "Category",
         "Heatplus",
-        "cBioPortalData",
         "genefilter",
         "phenoTest"
     ],
@@ -203,10 +201,8 @@
         "genefilter"
     ],
     "cbaf": [
-        "cBioPortalData",
         "genefilter"
     ],
-    "cBioPortalData": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -940,9 +936,7 @@
         "genefilter",
         "impute"
     ],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "goSorensen": [
         "clusterProfiler"
     ],
