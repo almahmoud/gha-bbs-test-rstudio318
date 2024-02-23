@@ -302,8 +302,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [],
-    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
