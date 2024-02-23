@@ -27,10 +27,7 @@
         "ReportingTools",
         "genefilter"
     ],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -59,7 +56,6 @@
         "minfi"
     ],
     "arrayQualityMetrics": [
-        "affyPLM",
         "genefilter"
     ],
     "ASAFE": [],
@@ -191,14 +187,12 @@
     "bnem": [
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva"
     ],
     "brainflowprobes": [
         "derfinderPlot"
     ],
     "brendaDb": [],
-    "BUMHMM": [],
     "BUScorrect": [],
     "cageminer": [
         "BioNERO",
@@ -310,7 +304,6 @@
         "CGHcall",
         "impute"
     ],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "genefilter",
@@ -332,7 +325,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "CHRONOS": [],
     "cicero": [
         "monocle"
     ],
@@ -399,7 +391,6 @@
         "impute"
     ],
     "CompoundDb": [],
-    "concordexR": [],
     "CONFESS": [
         "RProtoBufLib",
         "cytolib",
@@ -568,8 +559,7 @@
         "tkWidgets"
     ],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "RProtoBufLib",
@@ -729,9 +719,7 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -758,7 +746,6 @@
         "impute"
     ],
     "fdrame": [],
-    "FeatSeekR": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -1160,7 +1147,6 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -1267,7 +1253,6 @@
         "impute"
     ],
     "mdp": [],
-    "MDTS": [],
     "MEAL": [
         "MultiDataSet",
         "genefilter",
@@ -1367,9 +1352,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "mina": [],
     "MineICA": [
         "Category",
@@ -1400,7 +1383,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
@@ -1523,8 +1505,7 @@
         "KEGGgraph"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "netboost": [
         "impute"
@@ -1810,7 +1791,6 @@
         "metapod",
         "scran"
     ],
-    "regsplice": [],
     "REMP": [
         "genefilter",
         "impute",
@@ -1901,7 +1881,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -1922,7 +1901,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCANVIS": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -2127,7 +2105,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "SpidermiR": [],
     "spikeLI": [],
     "spiky": [],
     "SpliceWiz": [
@@ -2145,9 +2122,7 @@
         "genefilter",
         "splots"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "statTarget": [
         "impute"
     ],
@@ -2206,7 +2181,6 @@
         "impute"
     ],
     "transcriptogramer": [],
-    "transite": [],
     "tRanslatome": [
         "Heatplus"
     ],
@@ -2245,7 +2219,6 @@
         "genefilter",
         "sva"
     ],
-    "VegaMC": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
