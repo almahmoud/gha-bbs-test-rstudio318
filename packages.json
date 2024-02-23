@@ -198,7 +198,6 @@
     "cbaf": [
         "genefilter"
     ],
-    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -227,7 +226,6 @@
         "flowCore"
     ],
     "ceRNAnetsim": [],
-    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -905,7 +903,6 @@
         "impute"
     ],
     "GNOSIS": [],
-    "goSorensen": [],
     "GOstats": [
         "Category",
         "genefilter"
