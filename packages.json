@@ -112,7 +112,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "bioCancer": [],
     "BioCartaImage": [],
     "BiocHail": [
         "basilisk",
@@ -269,7 +268,6 @@
     "cicero": [
         "monocle"
     ],
-    "CircSeqAlignTk": [],
     "CiteFuse": [
         "metapod",
         "scran"
@@ -304,12 +302,8 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -338,7 +332,6 @@
         "genefilter",
         "minfi"
     ],
-    "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
@@ -604,7 +597,6 @@
         "SPIA",
         "pathview"
     ],
-    "enrichTF": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -620,7 +612,6 @@
         "genefilter",
         "minfi"
     ],
-    "esATAC": [],
     "extraChIPs": [
         "csaw",
         "metapod"
@@ -902,7 +893,6 @@
         "genefilter",
         "impute"
     ],
-    "GNOSIS": [],
     "GOstats": [
         "Category",
         "genefilter"
@@ -1153,7 +1143,6 @@
         "impute",
         "xcms"
     ],
-    "MetaPhOR": [],
     "metapod": [],
     "metaseqR2": [
         "genefilter",
@@ -1192,7 +1181,6 @@
     ],
     "MGFR": [],
     "mgsa": [],
-    "MicrobiomeProfiler": [],
     "mina": [],
     "MineICA": [
         "Category",
@@ -1241,8 +1229,6 @@
         "genefilter"
     ],
     "monocle": [],
-    "Moonlight2R": [],
-    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -1281,7 +1267,6 @@
         "MSstatsQC",
         "impute"
     ],
-    "multicrispr": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -1392,7 +1377,6 @@
         "genefilter",
         "sva"
     ],
-    "PanomiR": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1469,7 +1453,6 @@
         "MSnbase",
         "impute"
     ],
-    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
@@ -1739,7 +1722,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "segmenter": [],
     "seq2pathway": [
         "impute"
     ],
@@ -1782,7 +1764,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
