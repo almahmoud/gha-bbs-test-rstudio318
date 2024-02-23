@@ -37,7 +37,6 @@
     "AMARETTO": [
         "impute"
     ],
-    "AneuFinder": [],
     "annmap": [
         "genefilter"
     ],
@@ -113,10 +112,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "bioCancer": [
-        "ReactomePA",
-        "clusterProfiler"
-    ],
+    "bioCancer": [],
     "BioCartaImage": [],
     "BiocHail": [
         "basilisk",
@@ -166,7 +162,6 @@
         "genefilter",
         "sva"
     ],
-    "brainflowprobes": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
@@ -203,9 +198,7 @@
     "cbaf": [
         "genefilter"
     ],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -224,7 +217,6 @@
     ],
     "cellmigRation": [],
     "CEMiTool": [
-        "clusterProfiler",
         "impute"
     ],
     "censcyt": [
@@ -235,9 +227,7 @@
         "flowCore"
     ],
     "ceRNAnetsim": [],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -274,18 +264,14 @@
         "sva",
         "wateRmelon"
     ],
-    "ChIPseeker": [],
     "ChromSCape": [
         "metapod",
         "scran"
     ],
-    "chromstaR": [],
     "cicero": [
         "monocle"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [
         "metapod",
         "scran"
@@ -311,7 +297,6 @@
         "zinbwave"
     ],
     "ClusterJudge": [],
-    "clusterProfiler": [],
     "ClusterSignificance": [],
     "cmapR": [
         "RProtoBufLib",
@@ -322,12 +307,10 @@
         "genefilter"
     ],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNVRanger": [
         "GDSArray",
@@ -357,9 +340,7 @@
         "genefilter",
         "minfi"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
@@ -499,7 +480,6 @@
         "DynDoc",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "tkWidgets"
     ],
@@ -512,7 +492,6 @@
     ],
     "debrowser": [
         "KEGGgraph",
-        "clusterProfiler",
         "genefilter",
         "pathview",
         "sva"
@@ -586,7 +565,6 @@
         "minfi",
         "missMethyl"
     ],
-    "DNAfusion": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -628,12 +606,8 @@
         "SPIA",
         "pathview"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
-    "enrichViewNet": [],
+    "enrichTF": [],
     "EpiCompare": [
-        "ChIPseeker",
         "genomation",
         "impute"
     ],
@@ -648,17 +622,12 @@
         "genefilter",
         "minfi"
     ],
-    "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
-    "EventPointer": [],
+    "esATAC": [],
     "extraChIPs": [
         "csaw",
         "metapod"
     ],
     "famat": [
-        "clusterProfiler",
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
@@ -853,7 +822,6 @@
     ],
     "GDCRNATools": [
         "KEGGgraph",
-        "clusterProfiler",
         "pathview"
     ],
     "GDSArray": [
@@ -937,9 +905,7 @@
         "impute"
     ],
     "GNOSIS": [],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GOstats": [
         "Category",
         "genefilter"
@@ -1025,8 +991,6 @@
     "impute": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
-        "clusterProfiler",
         "genefilter",
         "impute",
         "minfi"
@@ -1068,7 +1032,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "karyoploteR": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -1121,7 +1084,6 @@
     ],
     "MAGeCKFlute": [
         "KEGGgraph",
-        "clusterProfiler",
         "pathview"
     ],
     "MAIT": [
@@ -1170,14 +1132,12 @@
         "minfi",
         "wateRmelon"
     ],
-    "meshes": [],
     "meshr": [
         "Category",
         "genefilter"
     ],
     "messina": [],
     "metabinR": [],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
@@ -1196,9 +1156,7 @@
         "impute",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metapod": [],
     "metaseqR2": [
         "genefilter",
@@ -1219,7 +1177,6 @@
         "planet"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "genefilter",
         "methylumi",
         "minfi",
@@ -1238,9 +1195,7 @@
     ],
     "MGFR": [],
     "mgsa": [],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "mina": [],
     "MineICA": [
         "Category",
@@ -1289,12 +1244,8 @@
         "genefilter"
     ],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -1324,7 +1275,6 @@
         "genefilter",
         "sva"
     ],
-    "MsQuality": [],
     "MSstatsQC": [
         "MSnbase",
         "impute"
@@ -1334,9 +1284,7 @@
         "MSstatsQC",
         "impute"
     ],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -1399,7 +1347,6 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "normr": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -1448,9 +1395,7 @@
         "genefilter",
         "sva"
     ],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1500,8 +1445,6 @@
     ],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler",
         "impute"
     ],
     "pipeComp": [
@@ -1529,9 +1472,7 @@
         "MSnbase",
         "impute"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
@@ -1557,7 +1498,6 @@
         "DynDoc",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "tkWidgets"
     ],
@@ -1622,7 +1562,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -1667,7 +1606,6 @@
         "impute"
     ],
     "rgoslin": [],
-    "Rhisat2": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -1792,7 +1730,6 @@
     "scTensor": [
         "Category",
         "GOstats",
-        "ReactomePA",
         "genefilter",
         "meshr"
     ],
@@ -1805,16 +1742,12 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "seq2pathway": [
         "impute"
     ],
     "seqArchR": [],
     "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler",
         "seqArchR"
     ],
     "SeqArray": [
@@ -1852,9 +1785,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -1982,7 +1913,6 @@
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
-        "clusterProfiler",
         "rWikiPathways",
         "tkWidgets"
     ],
