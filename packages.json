@@ -17,14 +17,12 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "affycoretools": [
         "Category",
         "GOstats",
         "ReportingTools",
         "genefilter"
     ],
-    "affylmGUI": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -55,9 +53,7 @@
     ],
     "ASAFE": [],
     "ASEB": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASSET": [],
     "ASSIGN": [
         "genefilter",
@@ -121,7 +117,6 @@
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler"
     ],
@@ -149,9 +144,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [
         "metapod",
         "scran"
@@ -174,7 +167,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "genefilter",
         "sva"
     ],
@@ -195,7 +187,6 @@
         "Category",
         "Heatplus",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "genefilter",
         "phenoTest"
@@ -217,13 +208,11 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "genefilter"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "clusterProfiler"
@@ -525,9 +514,7 @@
         "impute",
         "tkWidgets"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -673,13 +660,11 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler"
     ],
     "EventPointer": [],
-    "EWCE": [],
     "extraChIPs": [
         "csaw",
         "metapod"
@@ -965,7 +950,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -1110,8 +1094,7 @@
     ],
     "lfa": [],
     "lipidr": [
-        "impute",
-        "ropls"
+        "impute"
     ],
     "lisaClust": [
         "ClassifyR",
@@ -1273,7 +1256,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "mimager": [],
     "mina": [],
     "MineICA": [
         "Category",
@@ -1367,9 +1349,7 @@
         "MSstatsQC",
         "impute"
     ],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "karyoploteR"
     ],
@@ -1385,7 +1365,6 @@
         "metapod",
         "scran"
     ],
-    "muscat": [],
     "MWASTools": [
         "KEGGgraph"
     ],
@@ -1410,9 +1389,7 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netboost": [
         "impute"
     ],
@@ -1533,9 +1510,7 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category",
         "Heatplus",
@@ -1638,7 +1613,6 @@
         "genefilter",
         "minfi"
     ],
-    "QuartPAC": [],
     "QUBIC": [],
     "RAIDS": [
         "GENESIS",
@@ -1756,17 +1730,12 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
     "RProtoBufLib": [],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RRHO": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -2001,7 +1970,6 @@
         "genefilter",
         "splots"
     ],
-    "StarBioTrek": [],
     "statTarget": [
         "impute"
     ],
@@ -2021,16 +1989,13 @@
         "genefilter",
         "sva"
     ],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "STRINGdb"
     ],
     "TEKRABber": [
         "SCBN"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
