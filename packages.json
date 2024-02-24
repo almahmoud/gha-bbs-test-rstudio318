@@ -22,10 +22,7 @@
         "tilingArray",
         "vsn"
     ],
-    "ADAM": [],
-    "ADAMgui": [
-        "ADAM"
-    ],
+    "ADAMgui": [],
     "adductomicsR": [
         "mzR"
     ],
@@ -291,7 +288,6 @@
     ],
     "ASICS": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "PepsNMR",
         "ropls"
     ],
@@ -587,7 +583,6 @@
     ],
     "biosigner": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -598,7 +593,6 @@
         "scran",
         "scuttle"
     ],
-    "biotmle": [],
     "biovizBase": [
         "AnnotationFilter",
         "VariantAnnotation",
@@ -699,7 +693,6 @@
     ],
     "BUMHMM": [],
     "bumphunter": [],
-    "BUScorrect": [],
     "BUSpaRse": [
         "AnnotationFilter",
         "ensembldb",
@@ -1750,7 +1743,6 @@
     "dittoSeq": [],
     "DMCFB": [],
     "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "AnnotationFilter",
         "DelayedMatrixStats",
@@ -1780,7 +1772,6 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "DNAshapeR": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -2738,7 +2729,6 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "hummingbird": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -2777,7 +2767,6 @@
         "topGO"
     ],
     "IdeoViz": [],
-    "IFAA": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -2860,7 +2849,6 @@
         "VariantAnnotation",
         "genefilter"
     ],
-    "InterMineR": [],
     "IONiseR": [
         "ShortRead",
         "rhdf5"
@@ -2922,7 +2910,6 @@
         "oligoClasses"
     ],
     "IVAS": [],
-    "ivygapSE": [],
     "karyoploteR": [
         "AnnotationFilter",
         "VariantAnnotation",
@@ -2976,7 +2963,6 @@
     "LinTInd": [],
     "lipidr": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "lisaClust": [
@@ -3132,7 +3118,6 @@
     "mbQTL": [
         "metagenomeSeq"
     ],
-    "MCbiclust": [],
     "mCSEA": [
         "AnnotationFilter",
         "Gviz",
@@ -3148,7 +3133,6 @@
         "DelayedMatrixStats",
         "Gviz",
         "HDF5Array",
-        "MultiDataSet",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -3742,7 +3726,6 @@
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -3758,7 +3741,6 @@
         "regioneR",
         "rhdf5"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "graphite"
     ],
@@ -3995,7 +3977,6 @@
         "ALDEx2"
     ],
     "omicRexposome": [
-        "MultiDataSet",
         "genefilter",
         "omicade4",
         "rexposome",
@@ -4196,7 +4177,6 @@
     ],
     "phenomis": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "biodbChebi",
         "ropls"
     ],
@@ -4827,8 +4807,7 @@
         "Rgraphviz"
     ],
     "ropls": [
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "RPA": [
         "biomformat",
@@ -4845,7 +4824,6 @@
     ],
     "rqt": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "rrvgo": [
@@ -4900,11 +4878,9 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationFilter",
-        "ensembldb",
-        "scanMiR"
+        "ensembldb"
     ],
     "scAnnotatR": [],
     "SCANVIS": [],
