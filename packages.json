@@ -1792,7 +1792,6 @@
     "parody": [],
     "PathNet": [],
     "PathoStat": [],
-    "pathRender": [],
     "pathview": [],
     "pcaExplorer": [
         "Category",
@@ -2546,7 +2545,6 @@
         "minfi"
     ],
     "weaver": [],
-    "webbioc": [],
     "xcms": [
         "MsExperiment",
         "Spectra"
