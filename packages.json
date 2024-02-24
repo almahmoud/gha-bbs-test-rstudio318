@@ -419,8 +419,7 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cydar": [],
     "CytoDx": [],
@@ -435,7 +434,6 @@
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -473,8 +471,7 @@
     "dcanr": [],
     "dce": [],
     "ddPCRclust": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "debrowser": [
         "DOSE",
@@ -654,22 +651,16 @@
     "flowAI": [],
     "flowBeads": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
@@ -684,19 +675,15 @@
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -715,8 +702,7 @@
         "sva"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "gatom": [],
     "GDCRNATools": [
@@ -1214,7 +1200,6 @@
     "OMICsPCA": [],
     "openCyto": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1341,7 +1326,6 @@
         "recount"
     ],
     "psygenet2r": [],
-    "ptairMS": [],
     "Pviz": [
         "Gviz"
     ],
@@ -1661,7 +1645,6 @@
         "GOSemSim"
     ],
     "SwathXtend": [],
-    "synapter": [],
     "SynMut": [],
     "tadar": [
         "Gviz"
