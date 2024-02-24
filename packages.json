@@ -141,9 +141,7 @@
         "biovizBase"
     ],
     "AlpsNMR": [],
-    "altcdfenvs": [
-        "hypergraph"
-    ],
+    "altcdfenvs": [],
     "AMARETTO": [
         "HDF5Array"
     ],
@@ -329,8 +327,7 @@
         "GSEABase"
     ],
     "BiGGR": [
-        "hyperdraw",
-        "hypergraph"
+        "hyperdraw"
     ],
     "bigmelon": [
         "HDF5Array",
@@ -376,9 +373,7 @@
     ],
     "biocViews": [],
     "biodbChebi": [],
-    "biodbLipidmaps": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "biomformat": [],
     "BioMVCClass": [
         "MVCClass"
@@ -546,7 +541,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RCy3",
         "genefilter"
     ],
     "cbaf": [
@@ -621,7 +615,6 @@
     "CeTF": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1153,8 +1146,7 @@
     "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [],
     "DEGseq": [],
@@ -1358,7 +1350,6 @@
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot"
     ],
     "ensemblVEP": [
@@ -1507,9 +1498,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "ffpe": [
         "HDF5Array",
         "bumphunter",
@@ -1637,7 +1626,6 @@
         "OUTRIDER"
     ],
     "frma": [],
-    "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
         "HDF5Array",
@@ -1902,14 +1890,12 @@
         "quantsmooth"
     ],
     "h5vc": [],
-    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
     ],
     "Harshlight": [
-        "altcdfenvs",
-        "hypergraph"
+        "altcdfenvs"
     ],
     "HDF5Array": [],
     "HelloRanges": [
@@ -1969,10 +1955,7 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "ibh": [],
     "icetea": [
         "ShortRead",
@@ -2351,7 +2334,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2435,7 +2417,6 @@
         "genefilter",
         "minfi"
     ],
-    "MetID": [],
     "mfa": [],
     "miaSim": [],
     "miaViz": [],
@@ -2549,9 +2530,7 @@
         "HDF5Array",
         "basilisk"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "genefilter"
@@ -2580,7 +2559,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -2771,8 +2749,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RCy3"
+        "KEGGgraph"
     ],
     "nearBynding": [
         "plyranges"
@@ -2803,7 +2780,6 @@
         "GOstats",
         "GSEABase",
         "HDF5Array",
-        "RCy3",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -2846,10 +2822,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "OmaDB": [
         "topGO"
     ],
@@ -3257,7 +3230,6 @@
         "Rcwl",
         "basilisk"
     ],
-    "RCy3": [],
     "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
@@ -3310,7 +3282,6 @@
     ],
     "regutools": [
         "Gviz",
-        "RCy3",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3972,7 +3943,6 @@
     "statTarget": [
         "ROC"
     ],
-    "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
@@ -4073,7 +4043,6 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -4132,9 +4101,7 @@
         "anota",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "traseR": [],
     "traviz": [
         "TrajectoryUtils",
