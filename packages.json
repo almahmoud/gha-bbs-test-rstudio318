@@ -894,10 +894,8 @@
         "MsExperiment",
         "xcms"
     ],
-    "iSEEde": [],
     "iSEEhex": [],
     "iSEEindex": [],
-    "iSEEpathways": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -1067,7 +1065,6 @@
         "minfi"
     ],
     "mfa": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
