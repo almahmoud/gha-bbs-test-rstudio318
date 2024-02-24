@@ -854,7 +854,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "epigenomix": [],
     "epigraHMM": [],
     "epimutacions": [
         "Gviz",
@@ -1061,7 +1060,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
@@ -1498,7 +1496,6 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "microSTASIS": [],
     "mimager": [],
     "MineICA": [
         "Category",
@@ -1770,7 +1767,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -1913,7 +1909,6 @@
     ],
     "ptairMS": [],
     "PureCN": [],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
