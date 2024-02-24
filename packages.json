@@ -195,7 +195,6 @@
         "pathview"
     ],
     "biosigner": [],
-    "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
         "QDNAseq",
@@ -1411,7 +1410,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "mumosa": [],
     "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
