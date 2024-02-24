@@ -628,7 +628,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "coGPS": [],
     "comapr": [
@@ -849,7 +848,6 @@
         "sva"
     ],
     "decompTumor2Sig": [],
-    "DeconRNASeq": [],
     "decontX": [
         "celda"
     ],
@@ -1486,9 +1484,7 @@
         "minfi"
     ],
     "iClusterPlus": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1543,7 +1539,6 @@
         "genefilter"
     ],
     "IONiseR": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1811,7 +1806,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -2684,7 +2678,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [],
     "scp": [
         "QFeatures"
@@ -2972,7 +2965,6 @@
     "synapter": [
         "MSnbase"
     ],
-    "SynExtend": [],
     "SynMut": [],
     "systemPipeR": [],
     "systemPipeTools": [],
