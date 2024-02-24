@@ -459,9 +459,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "CFAssay": [],
     "cfdnakit": [
         "CGHcall",
@@ -999,8 +997,7 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigenomix": [],
     "epigraHMM": [],
@@ -1088,9 +1085,7 @@
         "enrichplot"
     ],
     "FastqCleaner": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fCI": [],
     "fcScan": [],
     "FEAST": [
@@ -1287,7 +1282,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
@@ -1300,8 +1294,7 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenomicScores": [],
     "GenVisR": [],
@@ -2390,9 +2383,7 @@
         "dada2"
     ],
     "Rbowtie": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCASPAR": [],
     "rCGH": [],
     "RCM": [
@@ -2727,7 +2718,6 @@
     "sigFeature": [
         "biocViews"
     ],
-    "sights": [],
     "signatureSearch": [
         "DOSE",
         "GOSemSim",
@@ -2901,7 +2891,6 @@
     "Streamer": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
-    "subSeq": [],
     "Summix": [],
     "sva": [
         "genefilter"
