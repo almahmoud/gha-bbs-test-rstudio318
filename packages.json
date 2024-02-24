@@ -233,7 +233,6 @@
         "genefilter",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "pathview"
     ],
@@ -1010,9 +1009,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
@@ -2254,9 +2251,7 @@
     ],
     "slalom": [],
     "slingshot": [],
-    "SMITE": [
-        "BioNet"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "genefilter",
         "tilingArray"
@@ -2448,7 +2443,6 @@
         "OrganismDbi",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
         "biocViews",
