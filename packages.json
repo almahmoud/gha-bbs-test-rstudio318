@@ -217,8 +217,7 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
-        "rGREAT"
+        "projectR"
     ],
     "ATACseqQC": [
         "CNEr",
@@ -1781,7 +1780,6 @@
         "SpatialExperiment"
     ],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "girafe": [
         "ShortRead"
     ],
@@ -1852,9 +1850,7 @@
         "SPIA",
         "pathview"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [
         "OrganismDbi"
     ],
@@ -2031,7 +2027,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -2443,9 +2438,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microSTASIS": [],
     "MICSQTL": [],
     "midasHLA": [],
@@ -3026,7 +3019,6 @@
     "POWSC": [
         "MAST"
     ],
-    "PPInfer": [],
     "pram": [],
     "prebs": [
         "RPA",
@@ -3061,7 +3053,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "projectR": [],
@@ -3323,7 +3314,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -3493,7 +3483,6 @@
     ],
     "scanMiRApp": [],
     "scAnnotatR": [],
-    "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
