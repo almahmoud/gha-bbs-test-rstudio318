@@ -394,9 +394,7 @@
         "methylPipe"
     ],
     "CompoundDb": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -881,7 +879,6 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiContacts": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1607,9 +1604,7 @@
     ],
     "Sconify": [],
     "scp": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -1708,7 +1703,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [],
     "snapCGH": [
         "genefilter",
@@ -1810,17 +1804,13 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
         "GOSemSim"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
