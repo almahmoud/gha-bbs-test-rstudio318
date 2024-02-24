@@ -1453,7 +1453,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -1754,7 +1753,6 @@
         "sva"
     ],
     "GEOfastq": [],
-    "GEOmetadb": [],
     "GeomxTools": [],
     "gep2pep": [
         "GSEABase"
@@ -2108,7 +2106,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DSS",
         "HDF5Array",
@@ -2855,7 +2852,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSEABase",
         "GSVA",
@@ -2911,7 +2907,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "pareg": [
         "DOSE",
         "GOSemSim",
@@ -3140,7 +3135,6 @@
     ],
     "QFeatures": [],
     "qmtools": [],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -3474,7 +3468,6 @@
     ],
     "RTNsurvival": [],
     "RTopper": [],
-    "Rtreemix": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -3957,7 +3950,6 @@
     ],
     "subSeq": [],
     "Summix": [],
-    "surfaltr": [],
     "sva": [
         "genefilter"
     ],
@@ -4055,7 +4047,6 @@
     "tLOH": [
         "VariantAnnotation"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "GSEABase",
         "GSVA",
