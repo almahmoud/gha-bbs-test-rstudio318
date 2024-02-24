@@ -634,9 +634,7 @@
         "minfi"
     ],
     "epiNEM": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -1819,8 +1817,6 @@
         "genefilter",
         "sva"
     ],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TVTB": [
         "Gviz"
     ],
