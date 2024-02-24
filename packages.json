@@ -362,7 +362,6 @@
         "QDNAseq"
     ],
     "cfDNAPro": [],
-    "cfTools": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
@@ -417,7 +416,6 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "gwascat"
     ],
@@ -508,9 +506,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -748,7 +744,6 @@
         "sva"
     ],
     "EGSEA": [
-        "GSVA",
         "pathview"
     ],
     "ELMER": [
@@ -832,9 +827,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [],
     "ExperimentHubData": [
@@ -1062,7 +1055,6 @@
     "GSRI": [
         "genefilter"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1595,7 +1587,6 @@
     "nullranges": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1618,9 +1609,7 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -1998,7 +1987,6 @@
     "scDD": [],
     "scFeatures": [
         "AUCell",
-        "GSVA",
         "SingleCellSignalR"
     ],
     "scider": [],
@@ -2089,7 +2077,6 @@
     ],
     "signeR": [],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SigsPack": [],
@@ -2110,7 +2097,6 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "GSVA",
         "TSCAN",
         "celda",
         "genefilter",
@@ -2235,7 +2221,6 @@
     "TADCompare": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
         "genefilter",
         "singscore",
         "sva"
@@ -2264,9 +2249,7 @@
     "TissueEnrich": [],
     "TitanCNA": [],
     "tLOH": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
