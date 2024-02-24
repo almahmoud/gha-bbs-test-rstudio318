@@ -842,7 +842,6 @@
     "DSS": [
         "bsseq"
     ],
-    "easier": [],
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [
@@ -1495,7 +1494,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
@@ -1813,7 +1811,6 @@
     "nempi": [
         "epiNEM"
     ],
-    "NetActivity": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
