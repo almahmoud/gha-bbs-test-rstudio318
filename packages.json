@@ -203,7 +203,6 @@
         "genefilter",
         "sva"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -709,7 +708,6 @@
     "crisprBowtie": [
         "Rbowtie"
     ],
-    "crisprBwa": [],
     "crisprDesign": [
         "Rbowtie",
         "crisprBowtie",
@@ -911,9 +909,7 @@
         "FlowSOM",
         "flowCore"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [],
     "diffuStats": [],
     "diffUTR": [
@@ -2574,7 +2570,6 @@
         "methylumi",
         "minfi"
     ],
-    "Rnits": [],
     "ROC": [],
     "RolDE": [],
     "ROntoTools": [
