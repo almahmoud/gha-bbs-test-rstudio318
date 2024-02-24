@@ -133,7 +133,6 @@
         "GOstats",
         "genefilter"
     ],
-    "AUCell": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -146,9 +145,7 @@
     ],
     "basecallQC": [],
     "BaseSpaceR": [],
-    "BASiCStan": [
-        "glmGamPoi"
-    ],
+    "BASiCStan": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -185,7 +182,6 @@
     "BiocCheck": [],
     "BiocOncoTK": [],
     "BiocPkgTools": [],
-    "BiocSklearn": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -312,12 +308,10 @@
         "PROMISE"
     ],
     "celaref": [],
-    "celda": [],
     "cellHTS2": [
         "Category",
         "genefilter"
     ],
-    "cellity": [],
     "cellscape": [],
     "CEMiTool": [
         "DOSE",
@@ -396,7 +390,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [],
-    "CiteFuse": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -614,9 +607,7 @@
         "sva"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "genefilter",
         "minfi"
@@ -969,7 +960,6 @@
     "GISPA": [
         "genefilter"
     ],
-    "glmGamPoi": [],
     "globalSeq": [],
     "gmapR": [],
     "GmicR": [
@@ -1133,9 +1123,7 @@
         "genefilter",
         "sva"
     ],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
@@ -1160,7 +1148,6 @@
     ],
     "Macarron": [],
     "maCorrPlot": [],
-    "MACSr": [],
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
@@ -1860,9 +1847,7 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scFeatures": [
-        "AUCell"
-    ],
+    "scFeatures": [],
     "scider": [],
     "scifer": [],
     "scMerge": [],
@@ -1970,7 +1955,6 @@
     ],
     "singleCellTK": [
         "TSCAN",
-        "celda",
         "genefilter",
         "scMerge",
         "sva",
@@ -2128,9 +2112,7 @@
     "transcriptR": [
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "GOSemSim"
     ],
