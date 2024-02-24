@@ -447,7 +447,6 @@
     ],
     "celda": [],
     "CellBarcode": [],
-    "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
         "Category",
@@ -518,7 +517,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
@@ -903,7 +901,6 @@
     "DEP": [
         "MSnbase"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -1288,7 +1285,6 @@
         "BioNet"
     ],
     "GBScleanR": [],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
@@ -1324,7 +1320,6 @@
     "gDRutils": [],
     "GDSArray": [],
     "GEM": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -1344,7 +1339,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
@@ -2191,7 +2185,6 @@
         "HelloRanges"
     ],
     "omicsPrint": [],
-    "omicsViewer": [],
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
@@ -3073,7 +3066,6 @@
         "ROC"
     ],
     "TCGAutils": [],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
