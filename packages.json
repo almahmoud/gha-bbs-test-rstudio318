@@ -6,7 +6,6 @@
     "a4Base": [
         "genefilter"
     ],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -1144,9 +1143,7 @@
         "biovizBase"
     ],
     "factDesign": [],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -2346,7 +2343,6 @@
     ],
     "Pi": [],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -2356,7 +2352,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [],
@@ -2637,8 +2632,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
-    "rifiComparative": [],
     "Ringo": [
         "genefilter"
     ],
@@ -3083,7 +3076,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "Streamer": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
@@ -3233,7 +3225,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "txcutr": [],
     "tximeta": [],
     "TypeInfo": [],
     "UCell": [],
@@ -3310,7 +3301,6 @@
     "weaver": [],
     "webbioc": [],
     "weitrix": [],
-    "wiggleplotr": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
