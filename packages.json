@@ -160,7 +160,6 @@
     "bioCancer": [
         "DOSE",
         "GOSemSim",
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler",
@@ -240,7 +239,6 @@
     ],
     "canceR": [
         "Category",
-        "RTCGAToolbox",
         "cBioPortalData",
         "genefilter",
         "phenoTest"
@@ -257,13 +255,10 @@
         "genefilter"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData",
         "genefilter"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "DOSE",
         "GOSemSim",
@@ -591,7 +586,6 @@
         "pathview",
         "zenith"
     ],
-    "DrugVsDisease": [],
     "DSS": [],
     "edge": [
         "genefilter",
@@ -842,7 +836,6 @@
         "genefilter"
     ],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "GOSemSim": [],
@@ -965,7 +958,6 @@
         "genefilter",
         "sva"
     ],
-    "isomiRs": [],
     "karyoploteR": [],
     "KEGGlincs": [],
     "kissDE": [
@@ -1591,7 +1583,6 @@
     ],
     "RSeqAn": [],
     "rSWeeP": [],
-    "RTCGAToolbox": [],
     "RUVSeq": [],
     "sagenhaft": [],
     "SBGNview": [
@@ -1731,7 +1722,6 @@
     ],
     "SOMNiBUS": [],
     "spatialDE": [],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -1867,9 +1857,7 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [],
     "vulcan": [
         "DiffBind"
