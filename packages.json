@@ -281,7 +281,6 @@
     "BiocPkgTools": [
         "biocViews"
     ],
-    "BiocSet": [],
     "BiocSklearn": [],
     "biocViews": [],
     "biomformat": [],
@@ -340,8 +339,7 @@
     "BOBaFIT": [
         "OrganismDbi",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -363,9 +361,7 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -429,9 +425,7 @@
         "cBioPortalData",
         "genefilter"
     ],
-    "CBEA": [
-        "BiocSet"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils"
@@ -492,9 +486,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [],
     "cghMCR": [
@@ -780,7 +772,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
@@ -944,7 +935,6 @@
     "DiffBind": [
         "systemPipeR"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "flowCore"
@@ -1369,8 +1359,7 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "plyranges"
+        "genomation"
     ],
     "GenomicScores": [],
     "GenVisR": [],
@@ -1574,9 +1563,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "InPAS": [
-        "plyranges"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [
@@ -1638,9 +1625,7 @@
         "biovizBase",
         "regioneR"
     ],
-    "katdetectr": [
-        "plyranges"
-    ],
+    "katdetectr": [],
     "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
@@ -1727,8 +1712,7 @@
         "ROC"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -1843,8 +1827,7 @@
     "methylCC": [
         "bsseq",
         "genefilter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -2093,7 +2076,6 @@
         "Rbowtie",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -2147,9 +2129,7 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM",
@@ -2188,9 +2168,7 @@
     "npGSEA": [],
     "NTW": [],
     "nucleR": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "octad": [
         "EDASeq",
         "GSVA",
@@ -2351,16 +2329,11 @@
         "GOstats",
         "genefilter"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "PLPE": [
         "LPE"
     ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "pmp": [],
     "PoDCall": [],
     "podkat": [],
@@ -2682,7 +2655,6 @@
         "minfi"
     ],
     "Rnits": [],
-    "roar": [],
     "ROC": [],
     "RolDE": [],
     "ROntoTools": [
@@ -2718,9 +2690,7 @@
     "sagenhaft": [],
     "SAIGEgds": [],
     "sampleClassifier": [],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -2972,9 +2942,7 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "sparrow": [
-        "BiocSet"
-    ],
+    "sparrow": [],
     "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
@@ -3211,8 +3179,7 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "regioneR"
