@@ -36,7 +36,6 @@
     ],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
@@ -44,25 +43,18 @@
         "alabaster.vcf"
     ],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.se",
         "alabaster.string"
     ],
@@ -171,7 +163,6 @@
     "BioNetStat": [
         "pathview"
     ],
-    "biosigner": [],
     "biscuiteer": [
         "QDNAseq",
         "dmrseq"
