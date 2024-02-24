@@ -250,7 +250,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "cardelino": [],
     "CATALYST": [
         "FlowSOM"
     ],
@@ -1298,7 +1297,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
