@@ -21,7 +21,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "biovizBase",
@@ -38,7 +37,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "affycoretools",
@@ -134,7 +132,6 @@
         "biocViews"
     ],
     "annotatr": [],
-    "anota2seq": [],
     "APAlyzer": [],
     "apComplex": [],
     "APL": [],
@@ -232,7 +229,6 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "biomformat",
         "genefilter",
         "phyloseq",
         "zinbwave"
@@ -274,7 +270,6 @@
     ],
     "BiocSklearn": [],
     "biocViews": [],
-    "biomformat": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -348,7 +343,6 @@
         "biovizBase"
     ],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "biovizBase",
@@ -622,7 +616,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -848,7 +841,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
@@ -881,7 +873,6 @@
     ],
     "destiny": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -1012,7 +1003,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1274,7 +1264,6 @@
     "GeneNetworkBuilder": [],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
         "quantsmooth"
     ],
     "GeneStructureTools": [
@@ -1310,7 +1299,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "biovizBase"
@@ -1329,7 +1317,6 @@
     "GISPA": [
         "genefilter"
     ],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -1402,25 +1389,17 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "hermes": [],
     "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "hicVennDiagram": [],
     "hierGWAS": [],
     "HilbertCurve": [
@@ -1545,9 +1524,7 @@
         "sva",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [],
     "karyoploteR": [
         "biovizBase"
@@ -1652,7 +1629,6 @@
         "TFBSTools"
     ],
     "MBECS": [
-        "biomformat",
         "genefilter",
         "phyloseq",
         "sva"
@@ -1788,19 +1764,14 @@
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
-        "biomformat",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1995,9 +1966,7 @@
         "karyoploteR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "multiWGCNA": [
@@ -2162,7 +2131,6 @@
     "partCNV": [],
     "PathNet": [],
     "PathoStat": [
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [],
@@ -2212,9 +2180,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "DOSE",
@@ -2242,13 +2208,11 @@
     "pogos": [
         "ontoProc"
     ],
-    "POMA": [],
     "POWSC": [
         "MAST"
     ],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -2372,7 +2336,6 @@
     "RAIDS": [
         "GENESIS",
         "GWASTools",
-        "SeqVarTools",
         "quantsmooth"
     ],
     "RandomWalkRestartMH": [],
@@ -2387,7 +2350,6 @@
     "RCASPAR": [],
     "rCGH": [],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcpi": [
@@ -2405,7 +2367,6 @@
         "enrichplot"
     ],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -2546,7 +2507,6 @@
     ],
     "ropls": [],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "Rqc": [
@@ -2637,8 +2597,6 @@
         "QFeatures"
     ],
     "scPipe": [],
-    "scReClassify": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -2688,7 +2646,6 @@
     "seqCAT": [],
     "SeqGSEA": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "SEtools": [
         "genefilter",
         "sva"
@@ -2708,7 +2665,6 @@
         "minfi"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [
@@ -2739,7 +2695,6 @@
         "genefilter"
     ],
     "SimBu": [
-        "biomformat",
         "phyloseq"
     ],
     "similaRpeak": [],
@@ -2829,9 +2784,7 @@
     ],
     "speckle": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -2860,7 +2813,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "biomformat",
         "phyloseq"
     ],
     "srnadiff": [
@@ -2917,9 +2869,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -3005,13 +2955,8 @@
         "sva"
     ],
     "trio": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [],
     "TurboNorm": [],
