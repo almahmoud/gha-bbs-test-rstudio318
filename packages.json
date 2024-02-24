@@ -152,9 +152,7 @@
     ],
     "basecallQC": [],
     "BaseSpaceR": [],
-    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
         "glmGamPoi"
     ],
     "BatchQC": [
@@ -2072,7 +2070,6 @@
         "annotatr",
         "bsseq"
     ],
-    "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
@@ -2254,7 +2251,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
