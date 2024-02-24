@@ -710,7 +710,6 @@
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
-        "cytolib",
         "flowCore",
         "scater",
         "scuttle"
@@ -814,7 +813,6 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -1037,7 +1035,6 @@
     "clusterSeq": [],
     "clustifyr": [],
     "cmapR": [
-        "cytolib",
         "flowCore"
     ],
     "cn.farms": [],
@@ -1149,7 +1146,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "concordexR": [],
     "condiments": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -1162,7 +1158,6 @@
     ],
     "CONFESS": [
         "Rgraphviz",
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowMeans",
@@ -1323,7 +1318,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowDensity",
@@ -1333,16 +1327,13 @@
         "Mfuzz"
     ],
     "cydar": [
-        "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -1352,25 +1343,21 @@
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
-        "cytolib",
         "flowCore",
         "scater",
         "scuttle"
     ],
     "cytoKernel": [],
-    "cytolib": [],
     "cytomapper": [
         "HDF5Array",
         "SpatialExperiment"
     ],
     "cytoMEM": [
-        "cytolib",
         "flowCore"
     ],
     "CytoML": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -1383,7 +1370,6 @@
         "PeacoQC",
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1395,7 +1381,6 @@
         "PeacoQC",
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1443,7 +1428,6 @@
         "mnem"
     ],
     "ddPCRclust": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
@@ -1575,7 +1559,6 @@
     "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "DifferentialRegulation": [
@@ -1997,112 +1980,89 @@
         "scuttle"
     ],
     "flowAI": [
-        "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowCHIC": [
-        "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "cytolib",
         "flowCore"
     ],
-    "flowCore": [
-        "cytolib"
-    ],
+    "flowCore": [],
     "flowCut": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [
-        "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "cytolib",
         "flowCore"
     ],
     "flowMerge": [
         "Rgraphviz",
-        "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
-        "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "cytolib",
         "flowCore"
     ],
     "flowStats": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [
-        "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "cytolib",
         "flowCore"
     ],
     "flowVS": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "flowStats",
         "flowViz",
@@ -2112,7 +2072,6 @@
     "flowWorkspace": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "ncdfFlow"
     ],
@@ -2153,7 +2112,6 @@
         "sva"
     ],
     "GateFinder": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
@@ -2305,7 +2263,6 @@
     "ggcyto": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -2575,13 +2532,11 @@
     "ImmuneSpaceR": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "cytolib",
         "flowCore"
     ],
     "iNETgrate": [
@@ -2604,7 +2559,6 @@
     ],
     "infercnv": [],
     "infinityFlow": [
-        "cytolib",
         "flowCore"
     ],
     "InPAS": [
@@ -2965,7 +2919,6 @@
     "metaCCA": [],
     "MetaCyto": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "metagene2": [],
@@ -3519,7 +3472,6 @@
         "genefilter"
     ],
     "ncdfFlow": [
-        "cytolib",
         "flowCore"
     ],
     "ncGTW": [
@@ -3674,7 +3626,6 @@
     "openCyto": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -3695,7 +3646,6 @@
         "ScaledMatrix"
     ],
     "optimalFlow": [
-        "cytolib",
         "flowCore",
         "flowMeans"
     ],
@@ -3797,7 +3747,6 @@
     "PeacoQC": [
         "RBGL",
         "Rgraphviz",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -4523,7 +4472,6 @@
     ],
     "sccomp": [],
     "scDataviz": [
-        "cytolib",
         "flowCore"
     ],
     "scDblFinder": [
@@ -4566,7 +4514,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "cytolib",
         "flowCore"
     ],
     "scmap": [],
@@ -4594,7 +4541,6 @@
         "ShortRead"
     ],
     "Sconify": [
-        "cytolib",
         "flowCore"
     ],
     "SCOPE": [],
@@ -5277,7 +5223,6 @@
     ],
     "treekoR": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
