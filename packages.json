@@ -207,7 +207,6 @@
         "genefilter",
         "sva"
     ],
-    "bambu": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -643,7 +642,6 @@
     ],
     "CODEX": [],
     "CoGAPS": [],
-    "cogeqc": [],
     "coGPS": [],
     "comapr": [
         "Gviz",
@@ -1160,7 +1158,6 @@
     ],
     "FLAMES": [
         "OrganismDbi",
-        "bambu",
         "biovizBase",
         "ggbio"
     ],
