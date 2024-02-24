@@ -212,7 +212,6 @@
         "rhdf5filters"
     ],
     "ALDEx2": [],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationFilter",
         "Gviz",
@@ -1617,7 +1616,6 @@
     "csdR": [],
     "CSSQ": [],
     "CTdata": [],
-    "CTDquerier": [],
     "cTRAP": [
         "rhdf5",
         "rhdf5filters"
@@ -2759,7 +2757,6 @@
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2940,7 +2937,6 @@
     "GOTHiC": [
         "ShortRead"
     ],
-    "goTools": [],
     "GRaNIE": [
         "AnnotationFilter",
         "DESeq2",
@@ -3012,7 +3008,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [
         "VariantAnnotation"
     ],
@@ -5172,7 +5167,6 @@
         "seqPattern"
     ],
     "RCASPAR": [],
-    "rcellminer": [],
     "rCGH": [
         "aCGH"
     ],
@@ -5203,7 +5197,6 @@
         "graphite",
         "qvalue"
     ],
-    "REBET": [],
     "rebook": [],
     "receptLoss": [],
     "reconsi": [
@@ -5488,7 +5481,6 @@
     "RNAsense": [
         "qvalue"
     ],
-    "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -5544,7 +5536,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -6924,7 +6915,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [],
     "yamss": [
         "mzR"
