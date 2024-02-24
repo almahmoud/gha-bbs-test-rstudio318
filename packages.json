@@ -944,7 +944,6 @@
         "sva"
     ],
     "lemur": [],
-    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -1351,7 +1350,6 @@
     ],
     "PoDCall": [],
     "pogos": [],
-    "POWSC": [],
     "prebs": [
         "RPA"
     ],
@@ -1453,7 +1451,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
@@ -1489,7 +1486,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -1744,7 +1740,6 @@
         "enrichplot"
     ],
     "tenXplore": [],
-    "TFHAZ": [],
     "tilingArray": [
         "genefilter"
     ],
