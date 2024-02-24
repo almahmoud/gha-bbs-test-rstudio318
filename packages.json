@@ -653,7 +653,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "DOSE",
@@ -717,7 +716,6 @@
     ],
     "fCCAC": [],
     "fCI": [],
-    "fcScan": [],
     "FEAST": [
         "TSCAN"
     ],
@@ -1307,7 +1305,6 @@
     "musicatk": [
         "decompTumor2Sig"
     ],
-    "MutationalPatterns": [],
     "MVCClass": [],
     "MWASTools": [],
     "myvariant": [],
@@ -1603,9 +1600,7 @@
         "genefilter",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "retrofit": [],
     "ReUseData": [
         "RcwlPipelines"
