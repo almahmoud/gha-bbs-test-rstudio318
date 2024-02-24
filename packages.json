@@ -672,7 +672,6 @@
         "motifmatchr"
     ],
     "escape": [],
-    "escheR": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -1131,7 +1130,6 @@
     "mfa": [],
     "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -1757,7 +1755,6 @@
     "SPLINTER": [
         "Gviz"
     ],
-    "SpotClean": [],
     "SPsimSeq": [],
     "srnadiff": [
         "Gviz"
@@ -1774,7 +1771,6 @@
     "statTarget": [
         "ROC"
     ],
-    "stJoincount": [],
     "Summix": [],
     "sva": [
         "genefilter"
