@@ -10,7 +10,6 @@
     "a4Classif": [],
     "ABarray": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -432,7 +431,6 @@
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
@@ -471,7 +469,6 @@
         "VariantAnnotation"
     ],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "HDF5Array",
         "OrganismDbi",
@@ -611,10 +608,7 @@
     "cardelino": [
         "VariantAnnotation"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "casper": [],
     "CATALYST": [
         "FlowSOM",
@@ -721,7 +715,6 @@
     ],
     "CFAssay": [],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -731,21 +724,15 @@
     "cfTools": [
         "basilisk"
     ],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -1443,7 +1430,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "dyebias": [],
     "easier": [],
     "easylift": [],
     "easyRNASeq": [
@@ -1466,7 +1452,6 @@
         "HDF5Array",
         "KEGGgraph",
         "Rgraphviz",
-        "gage",
         "pathview",
         "topGO"
     ],
@@ -1840,8 +1825,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "gage": [],
-    "gaggle": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq",
@@ -1903,7 +1886,6 @@
     "GEM": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -3137,7 +3119,6 @@
     ],
     "NewWave": [],
     "nipalsMCIA": [],
-    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -3536,7 +3517,6 @@
     ],
     "qcmetrics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "QFeatures": [],
@@ -4402,7 +4382,6 @@
         "SpidermiR",
         "graphite"
     ],
-    "STATegRa": [],
     "Statial": [
         "SpatialExperiment"
     ],
@@ -4513,7 +4492,6 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [],
     "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
