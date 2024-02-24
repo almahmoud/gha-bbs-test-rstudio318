@@ -1698,7 +1698,6 @@
     ],
     "nnSVG": [],
     "nondetects": [],
-    "NormalyzerDE": [],
     "normr": [],
     "npGSEA": [],
     "NTW": [],
@@ -1724,7 +1723,6 @@
         "HelloRanges"
     ],
     "OncoSimulR": [],
-    "ontoProc": [],
     "openCyto": [
         "flowClust",
         "flowViz",
@@ -1832,9 +1830,7 @@
     ],
     "plyinteractions": [],
     "PoDCall": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POWSC": [],
     "prebs": [
         "RPA"
@@ -2322,7 +2318,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
@@ -2391,9 +2386,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "tenXplore": [
-        "ontoProc"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
@@ -2454,7 +2447,6 @@
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSCAN": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "biovizBase",
