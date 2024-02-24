@@ -467,9 +467,7 @@
         "HilbertVis"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -961,7 +959,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles",
         "OrganismDbi"
@@ -982,7 +979,6 @@
     "escheR": [],
     "EventPointer": [],
     "EWCE": [],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
@@ -1121,7 +1117,6 @@
     ],
     "fmrs": [],
     "FRASER": [],
-    "frma": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
@@ -1292,7 +1287,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "h5vc": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -1945,7 +1939,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
@@ -1997,7 +1990,6 @@
     "PDATK": [
         "CoreGx"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowCore",
         "flowWorkspace",
@@ -2012,7 +2004,6 @@
     "peco": [],
     "PepsNMR": [],
     "phantasus": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -2385,14 +2376,12 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scDesign3": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "schex": [],
     "scider": [],
     "scifer": [
         "flowCore"
@@ -2433,12 +2422,9 @@
         "ReactomePA",
         "enrichplot",
         "genefilter",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "epivizr",
@@ -2751,7 +2737,6 @@
     "tximeta": [],
     "TypeInfo": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
