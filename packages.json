@@ -328,7 +328,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -484,7 +483,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -602,7 +600,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -995,7 +992,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1360,7 +1356,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1411,7 +1406,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1453,7 +1447,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1519,7 +1512,6 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -1536,7 +1528,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1600,7 +1591,6 @@
         "minfi"
     ],
     "mfa": [],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
@@ -1663,7 +1653,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1720,7 +1709,6 @@
         "Spectra"
     ],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "msgbsR": [
@@ -1747,12 +1735,9 @@
         "genefilter",
         "sva"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsBig": [],
@@ -1824,7 +1809,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -2064,9 +2048,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -2084,7 +2066,6 @@
     ],
     "qcmetrics": [],
     "QDNAseq": [],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -2227,7 +2208,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "biocViews",
         "xcms"
@@ -2354,9 +2334,7 @@
         "flowCore"
     ],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scRNAseqApp": [
         "slingshot"
@@ -2608,7 +2586,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "TEKRABber": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
@@ -2668,7 +2645,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "sva"
@@ -2747,7 +2723,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "XDE": [
