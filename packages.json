@@ -384,7 +384,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
         "graphite"
     ],
     "BiocCheck": [
@@ -579,7 +578,6 @@
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "genefilter",
         "phenoTest"
     ],
@@ -1849,7 +1847,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [],
     "geneXtendeR": [],
     "genomation": [],
@@ -1961,7 +1958,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "GOpro": [],
     "GOSemSim": [],
     "goseq": [],
