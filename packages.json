@@ -11,9 +11,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "aCGH": [],
     "ADaCGH2": [
-        "aCGH",
         "genefilter",
         "snapCGH",
         "tilingArray"
@@ -951,9 +949,7 @@
     "cpvSNP": [
         "GSEABase"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBowtie": [
         "Rbowtie"
     ],
@@ -2250,7 +2246,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "HDF5Array",
@@ -3026,7 +3021,6 @@
         "phyloseq"
     ],
     "preciseTAD": [
-        "aCGH",
         "rCGH"
     ],
     "PREDA": [],
@@ -3198,9 +3192,7 @@
         "genomation"
     ],
     "RCASPAR": [],
-    "rCGH": [
-        "aCGH"
-    ],
+    "rCGH": [],
     "RCM": [
         "biomformat",
         "phyloseq"
@@ -3785,7 +3777,6 @@
         "goseq"
     ],
     "snapCGH": [
-        "aCGH",
         "genefilter",
         "tilingArray"
     ],
@@ -3872,7 +3863,6 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [],
     "spiky": [],
     "spkTools": [],
     "splatter": [],
@@ -3916,9 +3906,7 @@
         "cellHTS2",
         "genefilter"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
