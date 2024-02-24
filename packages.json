@@ -35,7 +35,6 @@
         "BiocCheck"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -45,7 +44,6 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
     "alabaster.mae": [
         "alabaster.matrix",
         "alabaster.ranges",
@@ -265,7 +263,6 @@
         "enrichplot"
     ],
     "CCPROMISE": [],
-    "celaref": [],
     "cellHTS2": [
         "Category",
         "genefilter"
