@@ -1210,7 +1210,6 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "MultiBaC": [],
     "multicrispr": [
         "Rbowtie",
         "karyoploteR"
@@ -1551,7 +1550,6 @@
     "ROntoTools": [],
     "RPA": [],
     "Rqc": [],
-    "rqt": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -1698,7 +1696,6 @@
         "motifmatchr"
     ],
     "SPIA": [],
-    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
