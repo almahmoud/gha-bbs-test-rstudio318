@@ -11,7 +11,6 @@
     ],
     "a4Classif": [],
     "ABarray": [],
-    "abseqR": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -277,9 +276,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "altcdfenvs": [
         "hypergraph",
         "makecdfenv"
@@ -677,7 +674,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -752,7 +748,6 @@
         "genefilter",
         "metagenomeSeq",
         "mia",
-        "mixOmics",
         "phyloseq",
         "rhdf5",
         "rhdf5filters",
@@ -1116,7 +1111,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "BiocIO",
         "GenomicAlignments",
@@ -2814,9 +2808,7 @@
         "pcaMethods",
         "vsn"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "DEqMS": [],
     "derfinder": [
         "BSgenome",
@@ -3041,7 +3033,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "BiocIO",
         "GenomicAlignments",
@@ -3163,7 +3154,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [
         "BiocIO",
         "GenomicAlignments",
@@ -4007,7 +3997,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "gcatest": [],
     "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
@@ -4096,7 +4085,6 @@
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "geneplotter": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
     "GENESIS": [
@@ -4239,8 +4227,7 @@
         "rtracklayer"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "genefilter",
@@ -4248,9 +4235,7 @@
     ],
     "GEOfastq": [],
     "GEOmetadb": [],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
     "gep2pep": [
@@ -4491,7 +4476,6 @@
         "graphite",
         "pathview"
     ],
-    "GSEAlm": [],
     "gsean": [
         "PPInfer"
     ],
@@ -4850,7 +4834,6 @@
     "igvR": [
         "BSgenome",
         "BiocIO",
-        "BrowserViz",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -4881,7 +4864,6 @@
         "rhdf5filters",
         "scuttle"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [
         "RBGL",
         "Rgraphviz",
@@ -6067,7 +6049,6 @@
         "TCGAbiolinks",
         "genefilter"
     ],
-    "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -6099,7 +6080,6 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -6623,7 +6603,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [],
     "NBAMSeq": [
@@ -7323,8 +7302,7 @@
         "ontoProc"
     ],
     "POMA": [
-        "DESeq2",
-        "mixOmics"
+        "DESeq2"
     ],
     "POWSC": [
         "MAST",
@@ -7607,7 +7585,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "genefilter",
         "sva"
@@ -7803,9 +7780,7 @@
         "basilisk.utils"
     ],
     "RCy3": [],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
@@ -8247,7 +8222,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "MSnbase",
         "MsCoreUtils",
@@ -9475,8 +9449,7 @@
         "basilisk.utils"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "SingleCellExperiment"
@@ -9498,8 +9471,7 @@
         "scuttle"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "spatzie": [
         "AnnotationFilter",
@@ -9550,9 +9522,7 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spiky": [
         "BSgenome",
         "BiocIO",
@@ -9678,8 +9648,7 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
-        "miRNAtap"
+        "graphite"
     ],
     "STATegRa": [],
     "Statial": [
@@ -9956,9 +9925,7 @@
         "vsn"
     ],
     "timecourse": [],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
@@ -10498,7 +10465,6 @@
         "rtracklayer"
     ],
     "wpm": [],
-    "wppi": [],
     "Wrench": [],
     "xcms": [
         "AnnotationFilter",
