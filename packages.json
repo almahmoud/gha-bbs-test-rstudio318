@@ -207,7 +207,6 @@
         "zinbwave"
     ],
     "BG2": [],
-    "BgeeCall": [],
     "BgeeDB": [],
     "bgx": [],
     "BicARE": [],
@@ -830,7 +829,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
     ],
@@ -847,7 +845,6 @@
     ],
     "Dino": [],
     "distinct": [],
-    "dittoSeq": [],
     "DMRcate": [
         "Gviz",
         "biovizBase",
@@ -1336,7 +1333,6 @@
         "HilbertVis"
     ],
     "hipathia": [],
-    "HIPPO": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
@@ -1714,7 +1710,6 @@
         "methylumi",
         "minfi"
     ],
-    "missRows": [],
     "mitoClone2": [
         "deepSNV"
     ],
@@ -1815,7 +1810,6 @@
         "genefilter",
         "sva"
     ],
-    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -2205,7 +2199,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2628,9 +2621,7 @@
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -2687,7 +2678,6 @@
         "GOSemSim"
     ],
     "SwathXtend": [],
-    "switchde": [],
     "synapter": [
         "MSnbase"
     ],
@@ -2724,7 +2714,6 @@
     "TFBSTools": [],
     "TFHAZ": [],
     "TFutils": [],
-    "tidySingleCellExperiment": [],
     "tilingArray": [
         "genefilter"
     ],
