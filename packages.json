@@ -662,7 +662,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -1231,7 +1230,6 @@
     "glmSparseNet": [],
     "GlobalAncova": [],
     "globalSeq": [],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1342,7 +1340,6 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
         "cytomapper"
@@ -1466,7 +1463,6 @@
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "genefilter",
         "methylumi",
         "minfi"
@@ -1648,7 +1644,6 @@
     "MicrobiotaProcess": [],
     "microSTASIS": [],
     "MICSQTL": [],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM"
@@ -1665,8 +1660,7 @@
         "genefilter"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "MIRA": [
         "bsseq"
@@ -1710,7 +1704,6 @@
         "genefilter"
     ],
     "MoleculeExperiment": [],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -1921,7 +1914,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
@@ -2003,7 +1995,6 @@
     ],
     "peco": [],
     "PepsNMR": [],
-    "phantasus": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -2347,7 +2338,6 @@
         "EDASeq"
     ],
     "sagenhaft": [],
-    "SAIGEgds": [],
     "SARC": [],
     "SBGNview": [
         "KEGGgraph",
@@ -2392,7 +2382,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -2752,9 +2741,7 @@
         "monocle"
     ],
     "VAExprs": [],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
@@ -2786,7 +2773,6 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "ROC",
         "genefilter",
