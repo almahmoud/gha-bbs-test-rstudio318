@@ -446,7 +446,6 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -457,13 +456,11 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVRanger": [],
@@ -513,7 +510,6 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -613,7 +609,6 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1624,9 +1619,7 @@
         "genefilter",
         "sva"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
@@ -1800,9 +1793,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "Rbowtie": [],
     "RCAS": [],
     "RCASPAR": [],
@@ -2110,7 +2101,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [
