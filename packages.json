@@ -283,7 +283,6 @@
     ],
     "CAMERA": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -421,7 +420,6 @@
     "clipper": [],
     "cliqueMS": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "Clomial": [],
@@ -481,9 +479,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [
         "slingshot"
     ],
@@ -513,10 +509,8 @@
     "coseq": [],
     "cosmiq": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
-    "cosmosR": [],
     "COSNet": [],
     "COTAN": [],
     "countsimQC": [
@@ -850,7 +844,6 @@
     "flagme": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "FLAMES": [
@@ -1140,7 +1133,6 @@
     "IPO": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "iSEEde": [],
@@ -1184,7 +1176,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "LPE": [],
@@ -1218,7 +1209,6 @@
     "MAIT": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "maPredictDSC": [
@@ -1276,8 +1266,7 @@
     ],
     "metabinR": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [
         "MWASTools"
@@ -1289,7 +1278,6 @@
     "metaMS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MetaPhOR": [
@@ -1304,9 +1292,7 @@
         "bsseq",
         "genefilter"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [],
     "MethylAid": [
@@ -1399,7 +1385,6 @@
     "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "ModCon": [],
@@ -1436,24 +1421,12 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "ggbio"
@@ -1473,8 +1446,7 @@
     ],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsLiP": [
         "MSstatsPTM"
@@ -1528,7 +1500,6 @@
     "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "NCIgraph": [],
@@ -1861,7 +1832,6 @@
     ],
     "Risa": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "RITAN": [
@@ -2119,7 +2089,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
@@ -2131,7 +2100,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
@@ -2156,7 +2124,6 @@
         "ROC"
     ],
     "stJoincount": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
     "sva": [
@@ -2308,8 +2275,7 @@
     ],
     "weaver": [],
     "xcms": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "XDE": [
         "GeneMeta",
