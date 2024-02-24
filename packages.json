@@ -471,7 +471,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowClust",
         "flowDensity",
@@ -913,7 +912,6 @@
         "sva"
     ],
     "Harshlight": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -1346,14 +1344,11 @@
     "OGRE": [
         "Gviz"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "genefilter",
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "openCyto": [
         "flowClust",
         "flowViz",
@@ -1998,6 +1993,5 @@
     ],
     "zinbwave": [
         "genefilter"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
