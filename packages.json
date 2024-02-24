@@ -802,7 +802,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "FastqCleaner": [],
     "fCCAC": [],
     "fCI": [],
     "fcScan": [],
@@ -1042,7 +1041,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [],
@@ -1862,7 +1860,6 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scDblFinder": [],
     "scFeatures": [
         "AUCell"
     ],
@@ -1975,7 +1972,6 @@
         "TSCAN",
         "celda",
         "genefilter",
-        "scDblFinder",
         "scMerge",
         "sva",
         "zinbwave"
@@ -2111,7 +2107,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [],
