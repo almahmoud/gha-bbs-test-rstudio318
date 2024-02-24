@@ -1006,8 +1006,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1074,8 +1073,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -1357,7 +1355,6 @@
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtreeDendro": [],
     "girafe": [],
     "GISPA": [
         "genefilter"
@@ -1464,7 +1461,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
@@ -1639,7 +1635,6 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -2276,7 +2271,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -2512,7 +2506,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rGenomeTracks": [],
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
@@ -2738,9 +2731,7 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
