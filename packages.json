@@ -404,7 +404,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "awst": [],
     "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -462,7 +461,6 @@
     "batchelor": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -800,7 +798,6 @@
     "BUSseq": [
         "SingleCellExperiment"
     ],
-    "CaDrA": [],
     "CAFE": [
         "AnnotationFilter",
         "OrganismDbi",
@@ -1042,8 +1039,7 @@
         "qvalue"
     ],
     "CexoR": [
-        "genomation",
-        "seqPattern"
+        "genomation"
     ],
     "CFAssay": [],
     "cfdnakit": [
@@ -1166,7 +1162,6 @@
     "ChromSCape": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -1773,7 +1768,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -2135,7 +2129,6 @@
         "topGO"
     ],
     "eiR": [],
-    "eisaR": [],
     "ELMER": [
         "AnnotationFilter",
         "Gviz",
@@ -2209,8 +2202,7 @@
         "GOSemSim",
         "enrichplot",
         "genomation",
-        "qvalue",
-        "seqPattern"
+        "qvalue"
     ],
     "epidecodeR": [],
     "epigenomix": [
@@ -2392,8 +2384,7 @@
         "ShortRead"
     ],
     "fCCAC": [
-        "genomation",
-        "seqPattern"
+        "genomation"
     ],
     "fCI": [],
     "fcScan": [
@@ -2720,7 +2711,6 @@
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
@@ -2739,9 +2729,7 @@
         "DESeq2"
     ],
     "geneXtendeR": [],
-    "genomation": [
-        "seqPattern"
-    ],
+    "genomation": [],
     "GenomAutomorphism": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
@@ -2749,7 +2737,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "RBGL"
     ],
@@ -2773,8 +2760,7 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "plyranges",
-        "seqPattern"
+        "plyranges"
     ],
     "GenomicScores": [
         "HDF5Array",
@@ -2811,7 +2797,6 @@
         "genefilter",
         "vsn"
     ],
-    "getDEE2": [],
     "gg4way": [
         "DESeq2"
     ],
@@ -3427,7 +3412,6 @@
         "vsn",
         "xcms"
     ],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -4302,7 +4286,6 @@
     "mumosa": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -5131,8 +5114,7 @@
     "Rbowtie": [],
     "Rbowtie2": [],
     "RCAS": [
-        "genomation",
-        "seqPattern"
+        "genomation"
     ],
     "RCASPAR": [],
     "rCGH": [
@@ -5278,7 +5260,6 @@
     "ReQON": [
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -5703,7 +5684,6 @@
     "scMerge": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -5778,7 +5758,6 @@
     "scReClassify": [
         "SingleCellExperiment"
     ],
-    "screenCounter": [],
     "scRepertoire": [
         "SingleCellExperiment"
     ],
@@ -5887,8 +5866,7 @@
         "clusterProfiler",
         "enrichplot",
         "heatmaps",
-        "qvalue",
-        "seqPattern"
+        "qvalue"
     ],
     "SeqArray": [],
     "seqbias": [],
@@ -5899,7 +5877,6 @@
     "SeqGSEA": [
         "DESeq2"
     ],
-    "seqPattern": [],
     "seqsetvis": [],
     "SeqSQC": [],
     "SeqVarTools": [
@@ -6054,7 +6031,6 @@
         "GSVA",
         "HDF5Array",
         "MAST",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SingleR",
@@ -6133,7 +6109,6 @@
         "tilingArray",
         "vsn"
     ],
-    "snapcount": [],
     "snifter": [
         "basilisk"
     ],
@@ -6321,7 +6296,6 @@
     "sSNAPPY": [
         "graphite"
     ],
-    "ssPATHS": [],
     "ssviz": [],
     "stageR": [],
     "standR": [
@@ -6623,7 +6597,6 @@
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
     ],
-    "TREG": [],
     "Trendy": [],
     "TRESS": [],
     "tricycle": [
@@ -6643,7 +6616,6 @@
     "trio": [
         "siggenes"
     ],
-    "triplex": [],
     "tRNA": [
         "Modstrings"
     ],
