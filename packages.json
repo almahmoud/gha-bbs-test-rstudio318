@@ -403,8 +403,7 @@
         "GSEABase"
     ],
     "autonomics": [
-        "MultiAssayExperiment",
-        "pcaMethods"
+        "MultiAssayExperiment"
     ],
     "awst": [],
     "BaalChIP": [],
@@ -427,7 +426,6 @@
         "genefilter",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "barcodetrackR": [],
@@ -462,10 +460,7 @@
         "scuttle"
     ],
     "BasicSTARRseq": [],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -531,7 +526,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -607,8 +601,7 @@
         "Rgraphviz"
     ],
     "BiocHail": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocHubsShiny": [],
     "BiocOncoTK": [
@@ -631,8 +624,7 @@
         "beachmat"
     ],
     "BiocSklearn": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "biocViews": [
         "RBGL"
@@ -872,7 +864,6 @@
         "RBGL",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -956,8 +947,7 @@
         "qvalue"
     ],
     "cbpManager": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -1075,8 +1065,7 @@
         "plyranges"
     ],
     "cfTools": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CGHbase": [],
     "CGHcall": [
@@ -1268,7 +1257,6 @@
         "QFeatures",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -1284,7 +1272,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "clusterExperiment": [
@@ -1475,8 +1462,7 @@
         "EDASeq",
         "RUVSeq",
         "ShortRead",
-        "ensembldb",
-        "pcaMethods"
+        "ensembldb"
     ],
     "consensusOV": [
         "BiocSingular",
@@ -1549,7 +1535,6 @@
         "QFeatures",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -1590,14 +1575,12 @@
         "Rbowtie",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "crisprBase",
         "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CRISPRseek": [
         "rhdf5",
@@ -1610,7 +1593,6 @@
         "Rbowtie",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -1625,7 +1607,6 @@
         "Rbowtie",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -1652,7 +1633,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "ctsGE": [],
     "CTSV": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -1797,7 +1777,6 @@
         "clusterProfiler",
         "enrichplot",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn"
     ],
@@ -1833,9 +1812,7 @@
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
-    "DeconRNASeq": [
-        "pcaMethods"
-    ],
+    "DeconRNASeq": [],
     "decontX": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -1918,14 +1895,12 @@
         "ensembldb"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "DepecheR": [],
@@ -1962,8 +1937,7 @@
         "SpatialExperiment"
     ],
     "destiny": [
-        "SingleCellExperiment",
-        "pcaMethods"
+        "SingleCellExperiment"
     ],
     "DEsubs": [
         "DESeq2",
@@ -1991,9 +1965,7 @@
         "apeglm",
         "systemPipeR"
     ],
-    "diffcoexp": [
-        "pcaMethods"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -2503,7 +2475,6 @@
         "RBGL",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -2521,7 +2492,6 @@
         "VariantAnnotation",
         "bambu",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "biovizBase",
         "bluster",
@@ -2661,7 +2631,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "OUTRIDER",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2781,7 +2750,6 @@
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
@@ -2967,7 +2935,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [],
     "GOSim": [
@@ -2979,7 +2946,6 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "goProfiles",
         "qvalue"
     ],
     "goSTAG": [],
@@ -3146,7 +3112,6 @@
         "HiCExperiment",
         "InteractionSet",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3357,7 +3322,6 @@
         "RBGL",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3455,7 +3419,6 @@
         "sva"
     ],
     "LACE": [],
-    "lapmix": [],
     "lefser": [],
     "lemur": [
         "DelayedMatrixStats",
@@ -3480,7 +3443,6 @@
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "pcaMethods",
         "ropls"
     ],
     "lisaClust": [
@@ -3504,7 +3466,6 @@
         "RBGL",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3539,18 +3500,15 @@
     "LymphoSeq": [],
     "m6Aboost": [],
     "Maaslin2": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "Macarron": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "maCorrPlot": [],
     "MACSr": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "made4": [],
     "MADSEQ": [
@@ -3585,9 +3543,7 @@
         "DESeq2",
         "TRESS"
     ],
-    "MAI": [
-        "pcaMethods"
-    ],
+    "MAI": [],
     "MAIT": [
         "AnnotationFilter",
         "CAMERA",
@@ -3601,7 +3557,6 @@
         "RBGL",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3640,7 +3595,6 @@
     ],
     "matchBox": [],
     "MatrixQCvis": [
-        "pcaMethods",
         "proDA",
         "vsn"
     ],
@@ -3668,7 +3622,6 @@
     ],
     "MBQN": [],
     "mbQTL": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "MCbiclust": [],
@@ -3779,9 +3732,7 @@
         "flowCore"
     ],
     "metagene2": [],
-    "metagenomeSeq": [
-        "Wrench"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "AnnotationFilter",
         "CAMERA",
@@ -3795,7 +3746,6 @@
         "RBGL",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3983,7 +3933,6 @@
         "rhdf5filters"
     ],
     "microbiomeDASim": [
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "phyloseq",
@@ -3992,7 +3941,6 @@
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "rhdf5",
@@ -4008,7 +3956,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -4136,7 +4083,6 @@
     "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "mnem": [
@@ -4156,7 +4102,6 @@
         "QFeatures",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4166,7 +4111,6 @@
     "MOFA2": [
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4303,7 +4247,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "msmsTests": [
@@ -4311,14 +4254,12 @@
         "MsCoreUtils",
         "msmsEDA",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn"
     ],
     "MSnbase": [
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnID": [
@@ -4327,13 +4268,11 @@
         "msmsEDA",
         "msmsTests",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn"
     ],
     "MSPrep": [
         "genefilter",
-        "pcaMethods",
         "sva"
     ],
     "msPurity": [
@@ -4372,7 +4311,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -4381,7 +4319,6 @@
         "MSstatsQC",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -4403,7 +4340,6 @@
     "MultiBaC": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "pcaMethods",
         "ropls"
     ],
     "multiClust": [],
@@ -4538,7 +4474,6 @@
         "QFeatures",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4549,7 +4484,6 @@
         "Rgraphviz"
     ],
     "ncRNAtools": [],
-    "ndexr": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -4647,7 +4581,6 @@
         "GSEABase"
     ],
     "NTW": [],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -4703,7 +4636,6 @@
         "genefilter",
         "made4",
         "omicade4",
-        "pcaMethods",
         "qvalue",
         "rexposome",
         "sva"
@@ -4777,7 +4709,6 @@
     "orthos": [
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4785,8 +4716,7 @@
         "ShortRead"
     ],
     "OUTRIDER": [
-        "DESeq2",
-        "pcaMethods"
+        "DESeq2"
     ],
     "OutSplice": [
         "Repitools",
@@ -4837,7 +4767,6 @@
         "DOSE",
         "GOSemSim",
         "basilisk",
-        "basilisk.utils",
         "qvalue"
     ],
     "parody": [],
@@ -4872,7 +4801,6 @@
         "genefilter",
         "topGO"
     ],
-    "pcaMethods": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -4901,7 +4829,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "PECA": [
@@ -4937,8 +4864,7 @@
         "SingleCellExperiment",
         "biocViews",
         "destiny",
-        "monocle",
-        "pcaMethods"
+        "monocle"
     ],
     "phenomis": [
         "MultiAssayExperiment",
@@ -4956,9 +4882,7 @@
     "PhenStat": [],
     "philr": [],
     "PhIPData": [],
-    "PhosR": [
-        "pcaMethods"
-    ],
+    "PhosR": [],
     "PhyloProfile": [
         "OmaDB",
         "topGO"
@@ -5024,9 +4948,7 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmp": [
-        "pcaMethods"
-    ],
+    "pmp": [],
     "PoDCall": [],
     "podkat": [],
     "pogos": [
@@ -5072,7 +4994,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "proActiv": [
@@ -5100,7 +5021,6 @@
         "MsCoreUtils",
         "genefilter",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "pRolocGUI": [
@@ -5110,7 +5030,6 @@
         "genefilter",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "PROMISE": [
@@ -5130,7 +5049,6 @@
         "clusterProfiler",
         "enrichplot",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn"
     ],
@@ -5165,7 +5083,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters",
         "vsn"
@@ -5215,7 +5132,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "qsea": [
@@ -5333,13 +5249,11 @@
         "GOSemSim"
     ],
     "Rcwl": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RCy3": [],
     "RCyjs": [],
@@ -5373,7 +5287,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -5480,12 +5393,9 @@
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
-    "rexposome": [
-        "pcaMethods"
-    ],
+    "rexposome": [],
     "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
@@ -5560,7 +5470,6 @@
         "Spectra",
         "biocViews",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -5580,7 +5489,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "Rmmquant": [
@@ -5712,7 +5620,6 @@
         "ShortRead"
     ],
     "rSWeeP": [],
-    "RTCA": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "MultiAssayExperiment",
@@ -5726,10 +5633,8 @@
     ],
     "RTopper": [],
     "Rtreemix": [],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [],
     "RUVSeq": [
@@ -5857,9 +5762,7 @@
     "scDDboost": [
         "SingleCellExperiment"
     ],
-    "scde": [
-        "pcaMethods"
-    ],
+    "scde": [],
     "scDesign3": [
         "SingleCellExperiment"
     ],
@@ -5969,7 +5872,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "rhdf5",
         "rhdf5filters",
@@ -6066,7 +5968,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scater",
         "scuttle"
@@ -6225,7 +6126,6 @@
     ],
     "SimBu": [
         "basilisk",
-        "basilisk.utils",
         "biomformat",
         "phyloseq",
         "rhdf5",
@@ -6275,7 +6175,6 @@
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
-        "basilisk.utils",
         "batchelor",
         "beachmat",
         "bluster",
@@ -6350,8 +6249,7 @@
     ],
     "snapcount": [],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SNPediaR": [],
     "SNPhood": [
@@ -6369,8 +6267,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "pcaMethods"
+        "ggbio"
     ],
     "SOMNiBUS": [
         "DelayedMatrixStats",
@@ -6414,8 +6311,7 @@
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SpatialDecon": [
         "GeomxTools"
@@ -6530,7 +6426,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SQLDataFrame": [],
     "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
@@ -6591,7 +6486,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [],
     "subSeq": [
         "qvalue"
     ],
@@ -6625,7 +6519,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "qvalue",
         "vsn"
     ],
@@ -6783,7 +6676,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "topGO": [],
@@ -6793,7 +6685,6 @@
         "piano"
     ],
     "TPP": [],
-    "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
         "AnnotationFilter",
@@ -7006,7 +6897,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scuttle",
         "zellkonverter"
@@ -7080,7 +6970,6 @@
     ],
     "wiggleplotr": [],
     "wpm": [],
-    "Wrench": [],
     "xcms": [
         "AnnotationFilter",
         "MSnbase",
@@ -7092,7 +6981,6 @@
         "QFeatures",
         "Spectra",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "xcore": [
@@ -7123,8 +7011,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "gtrellis",
-        "pcaMethods"
+        "gtrellis"
     ],
     "yarn": [
         "DelayedMatrixStats",
@@ -7139,8 +7026,7 @@
     ],
     "zellkonverter": [
         "SingleCellExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zenith": [
         "EnrichmentBrowser",
