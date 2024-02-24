@@ -367,7 +367,6 @@
         "Category",
         "genefilter"
     ],
-    "CelliD": [],
     "cellity": [],
     "CellNOptR": [],
     "cellscape": [],
@@ -1648,7 +1647,6 @@
     ],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -2054,7 +2052,6 @@
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
@@ -2123,10 +2120,7 @@
         "genefilter",
         "sva"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [
         "genefilter",
         "zinbwave"
