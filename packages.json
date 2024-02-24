@@ -436,23 +436,20 @@
         "flowClust",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [],
     "dagLogo": [
@@ -488,9 +485,7 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DeMixT": [
         "DSS",
         "genefilter",
@@ -663,8 +658,7 @@
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMatch": [],
     "flowMeans": [],
@@ -675,8 +669,7 @@
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTime": [],
     "flowTrans": [
@@ -684,12 +677,9 @@
     ],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "fmrs": [],
     "funtooNorm": [
         "genefilter",
@@ -755,8 +745,7 @@
     ],
     "ggbio": [],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "GISPA": [
         "genefilter"
@@ -839,8 +828,7 @@
     ],
     "imcRtools": [],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "immunoClust": [],
     "iNETgrate": [
@@ -1161,12 +1149,10 @@
     "NBAMSeq": [
         "genefilter"
     ],
-    "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
         "xcms"
     ],
-    "NCIgraph": [],
     "nempi": [],
     "netbiov": [],
     "netOmics": [
@@ -1200,8 +1186,7 @@
     "OMICsPCA": [],
     "openCyto": [
         "flowClust",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "oppar": [],
     "optimalFlow": [
@@ -1245,10 +1230,8 @@
     ],
     "PDATK": [],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "peakPantheR": [],
     "PECA": [
         "genefilter"
     ],
