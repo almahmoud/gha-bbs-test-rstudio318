@@ -7,7 +7,6 @@
         "genefilter"
     ],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -25,10 +24,7 @@
         "ggbio"
     ],
     "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AGDEX": [],
     "AgiMicroRna": [
         "Category",
@@ -122,7 +118,6 @@
         "parody"
     ],
     "arrayQualityMetrics": [
-        "affyPLM",
         "genefilter"
     ],
     "artMS": [],
@@ -256,7 +251,6 @@
     "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
-        "CGHcall",
         "OrganismDbi",
         "QDNAseq",
         "annotatr",
@@ -280,7 +274,6 @@
         "CellNOptR",
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -414,20 +407,15 @@
     "CexoR": [],
     "CFAssay": [],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
     "cfDNAPro": [],
     "cfTools": [],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
-    "CGHregions": [],
+    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -747,8 +735,7 @@
     ],
     "dcanr": [],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowCore",
@@ -928,9 +915,7 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -1161,7 +1146,6 @@
     ],
     "GEM": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "genefilter": [],
@@ -1639,9 +1623,7 @@
     "microSTASIS": [],
     "MICSQTL": [],
     "miloR": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "Category",
         "GOstats",
@@ -1682,7 +1664,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1857,8 +1838,7 @@
     ],
     "nearBynding": [],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [],
     "netbiov": [],
@@ -2109,9 +2089,7 @@
         "RSeqAn"
     ],
     "qcmetrics": [],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase"
