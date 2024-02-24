@@ -691,9 +691,7 @@
     ],
     "fCCAC": [],
     "fCI": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -787,10 +785,8 @@
     "gDNAx": [],
     "gDR": [
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "PharmacoGx"
     ],
@@ -1708,7 +1704,6 @@
         "GOSemSim"
     ],
     "singleCellTK": [
-        "TSCAN",
         "genefilter",
         "sva",
         "zinbwave"
@@ -1852,7 +1847,6 @@
     ],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "TVTB": [
         "Gviz"
     ],
