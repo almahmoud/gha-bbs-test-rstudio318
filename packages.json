@@ -141,7 +141,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "OrganismDbi",
@@ -199,7 +198,6 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BEARscc": [],
     "BEAT": [],
     "beer": [],
     "benchdamic": [
@@ -284,7 +282,6 @@
         "ROntoTools"
     ],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
@@ -530,7 +527,6 @@
     ],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -796,14 +792,11 @@
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
     ],
     "DelayedTensor": [],
-    "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "bsseq",
@@ -1002,7 +995,6 @@
         "UCell"
     ],
     "escheR": [],
-    "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [],
     "exomePeak2": [],
@@ -1168,7 +1160,6 @@
     "gatom": [
         "BioNet"
     ],
-    "GBScleanR": [],
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
@@ -1289,7 +1280,6 @@
     "granulator": [],
     "graper": [],
     "GraphPAC": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1327,7 +1317,6 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "HiCBricks": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1468,7 +1457,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [],
     "lipidr": [
         "ropls"
@@ -1551,7 +1539,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -1613,7 +1600,6 @@
         "Spectra",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -1931,7 +1917,6 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -2272,7 +2257,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
@@ -2517,7 +2501,6 @@
         "enrichplot"
     ],
     "seqCAT": [],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "SEtools": [
         "genefilter",
