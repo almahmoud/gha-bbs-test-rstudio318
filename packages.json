@@ -30,7 +30,6 @@
     ],
     "affyPLM": [],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -97,7 +96,6 @@
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
-    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [],
     "annmap": [
@@ -526,7 +524,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "clustifyr": [],
     "cmapR": [
         "flowCore"
     ],
@@ -672,7 +669,6 @@
         "genefilter",
         "sva"
     ],
-    "cTRAP": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -981,8 +977,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "EventPointer": [],
@@ -1138,7 +1133,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "genefilter",
         "sva"
     ],
@@ -1325,7 +1319,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hipathia": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
@@ -1704,7 +1697,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1990,7 +1982,6 @@
         "GOSemSim"
     ],
     "parody": [],
-    "partCNV": [],
     "PathNet": [],
     "PathoStat": [],
     "pathRender": [],
@@ -2402,7 +2393,6 @@
     ],
     "scGPS": [],
     "schex": [],
-    "scHOT": [],
     "scider": [],
     "scifer": [
         "flowCore"
@@ -2760,7 +2750,6 @@
     ],
     "tximeta": [],
     "TypeInfo": [],
-    "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
         "plotgardener"
@@ -2804,7 +2793,6 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "gwascat"
     ],
@@ -2838,7 +2826,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "SomaticSignatures",
