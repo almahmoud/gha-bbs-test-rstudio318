@@ -1030,9 +1030,7 @@
     "maPredictDSC": [
         "ROC"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz"
     ],
@@ -1400,7 +1398,6 @@
         "GOstats",
         "genefilter"
     ],
-    "plotgardener": [],
     "PLPE": [
         "LPE"
     ],
@@ -1869,9 +1866,7 @@
         "Gviz"
     ],
     "TypeInfo": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz"
     ],
