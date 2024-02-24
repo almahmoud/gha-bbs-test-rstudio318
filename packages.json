@@ -128,7 +128,6 @@
         "GOstats",
         "genefilter"
     ],
-    "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
         "sva"
@@ -144,7 +143,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [],
     "BBCAnalyzer": [],
     "beadarraySNP": [
         "quantsmooth"
@@ -347,7 +345,6 @@
         "HilbertVis"
     ],
     "ChIPXpress": [],
-    "ChromSCape": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
@@ -429,7 +426,6 @@
         "RUVSeq"
     ],
     "consensusOV": [],
-    "consICA": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1610,9 +1606,7 @@
         "ChIPpeakAnno"
     ],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
@@ -1852,7 +1846,6 @@
         "tilingArray"
     ],
     "SNPediaR": [],
-    "SNPhood": [],
     "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
