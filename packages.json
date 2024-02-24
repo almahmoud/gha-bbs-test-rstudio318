@@ -37,7 +37,6 @@
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
@@ -51,10 +50,8 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AllelicImbalance": [
         "Gviz"
@@ -1090,9 +1087,7 @@
     "minfi": [
         "genefilter"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
@@ -1595,7 +1590,6 @@
         "genefilter",
         "minfi"
     ],
-    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -1759,7 +1753,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz"
