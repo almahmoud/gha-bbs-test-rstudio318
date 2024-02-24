@@ -179,7 +179,6 @@
     ],
     "BG2": [],
     "BgeeDB": [],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -477,7 +476,6 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
@@ -740,7 +738,6 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
@@ -847,7 +844,6 @@
     ],
     "escheR": [],
     "EventPointer": [],
-    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -2275,7 +2271,6 @@
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
-    "TFutils": [],
     "tilingArray": [
         "genefilter"
     ],
@@ -2306,7 +2301,6 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
