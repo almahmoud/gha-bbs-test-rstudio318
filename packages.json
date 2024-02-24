@@ -15,7 +15,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "adductomicsR": [],
     "AffiXcan": [],
     "affycoretools": [
         "Category",
@@ -397,7 +396,6 @@
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -407,7 +405,6 @@
     "CellMixS": [],
     "CellNOptR": [],
     "cellscape": [],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -575,9 +572,7 @@
         "karyoploteR"
     ],
     "CNVPanelizer": [],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
         "MIRA",
@@ -1200,7 +1195,6 @@
         "BiocCheck",
         "biocViews"
     ],
-    "GDSArray": [],
     "GEM": [],
     "GeneBreak": [
         "CGHcall",
@@ -1437,24 +1431,12 @@
         "Spectra",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "iSeq": [],
@@ -2456,7 +2438,6 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scDDboost": [],
     "scDesign3": [],
     "scFeatures": [
         "AUCell",
@@ -2851,9 +2832,7 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
