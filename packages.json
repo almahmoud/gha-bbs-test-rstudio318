@@ -41,7 +41,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase"
     ],
@@ -146,8 +145,7 @@
     ],
     "AlpsNMR": [],
     "altcdfenvs": [
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "AMARETTO": [
         "HDF5Array"
@@ -206,9 +204,7 @@
         "affyPLM",
         "genefilter"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "PepsNMR",
         "ropls"
@@ -367,8 +363,7 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "BiocCheck": [
         "RBGL",
@@ -397,10 +392,8 @@
         "RBGL"
     ],
     "biodbChebi": [],
-    "biodbHmdb": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "biomformat": [],
@@ -602,8 +595,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "cbpManager": [
         "basilisk"
@@ -797,8 +789,7 @@
     "cleanUpdTSeq": [],
     "clevRvis": [],
     "clipper": [
-        "KEGGgraph",
-        "qpgraph"
+        "KEGGgraph"
     ],
     "cliProfiler": [],
     "cliqueMS": [
@@ -1168,7 +1159,6 @@
     "dce": [
         "RBGL",
         "epiNEM",
-        "graphite",
         "mnem"
     ],
     "ddPCRclust": [
@@ -1344,7 +1334,6 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "zenith"
     ],
@@ -1406,7 +1395,6 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview"
     ],
     "enrichplot": [
@@ -1717,7 +1705,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "fmrs": [],
     "fobitools": [],
     "FRASER": [
@@ -1862,7 +1849,6 @@
     "GEOfastq": [],
     "GEOmetadb": [],
     "GeomxTools": [],
-    "GEOsubmission": [],
     "gep2pep": [
         "GSEABase"
     ],
@@ -1955,7 +1941,6 @@
     ],
     "granulator": [],
     "graper": [],
-    "graphite": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -1968,7 +1953,6 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview"
     ],
     "gsean": [
@@ -2016,8 +2000,7 @@
     ],
     "Harshlight": [
         "altcdfenvs",
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "HDF5Array": [],
     "HelloRanges": [
@@ -2069,7 +2052,6 @@
     ],
     "hpar": [],
     "HPiP": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -2145,7 +2127,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "graphite",
         "minfi",
         "siggenes"
     ],
@@ -2355,7 +2336,6 @@
         "Spectra",
         "xcms"
     ],
-    "makecdfenv": [],
     "maPredictDSC": [
         "ROC"
     ],
@@ -2697,8 +2677,7 @@
     ],
     "mogsa": [
         "GSEABase",
-        "genefilter",
-        "graphite"
+        "genefilter"
     ],
     "MoleculeExperiment": [
         "SpatialExperiment"
@@ -2812,18 +2791,13 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsLOBD": [],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -2836,13 +2810,10 @@
         "qcmetrics"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [
         "ropls"
@@ -2857,9 +2828,7 @@
         "plyranges",
         "regioneR"
     ],
-    "multiGSEA": [
-        "graphite"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare"
     ],
@@ -2977,9 +2946,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [],
     "normr": [
@@ -3058,7 +3025,6 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
@@ -3192,8 +3158,7 @@
         "GOSemSim",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "PING": [
         "Gviz",
@@ -3342,7 +3307,6 @@
     "QFeatures": [],
     "qmtools": [],
     "qpcrNorm": [],
-    "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -3408,7 +3372,6 @@
         "HDF5Array",
         "VariantAnnotation"
     ],
-    "RbcBook1": [],
     "Rbec": [
         "ShortRead",
         "dada2"
@@ -3444,8 +3407,7 @@
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "rebook": [],
     "reconsi": [
@@ -3829,7 +3791,6 @@
         "ReactomePA",
         "enrichplot",
         "genefilter",
-        "graphite",
         "meshr",
         "schex"
     ],
@@ -4154,9 +4115,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "sSNAPPY": [
-        "graphite"
-    ],
+    "sSNAPPY": [],
     "ssviz": [],
     "standR": [
         "EDASeq",
@@ -4172,8 +4131,7 @@
         "genefilter"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "graphite"
+        "SpidermiR"
     ],
     "Statial": [
         "SpatialExperiment"
@@ -4406,9 +4364,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
@@ -4540,7 +4496,6 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview"
     ],
     "zinbwave": [
