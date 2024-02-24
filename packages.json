@@ -1948,7 +1948,6 @@
     "fedup": [
         "RCy3"
     ],
-    "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -3564,7 +3563,6 @@
     "netresponse": [
         "Rgraphviz"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "BiocSingular",
         "DelayedMatrixStats",
