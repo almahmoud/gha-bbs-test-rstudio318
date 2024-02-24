@@ -85,7 +85,6 @@
     "AnnotationHubData": [
         "BiocCheck"
     ],
-    "annotatr": [],
     "appreci8R": [],
     "arrayMvout": [
         "genefilter",
@@ -187,7 +186,6 @@
     "biosigner": [],
     "biscuiteer": [
         "QDNAseq",
-        "annotatr",
         "dmrseq"
     ],
     "blacksheepr": [
@@ -588,9 +586,7 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "doppelgangR": [
         "genefilter",
         "sva"
@@ -1662,9 +1658,7 @@
     "scFeatures": [],
     "scider": [],
     "scifer": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
@@ -1786,9 +1780,7 @@
     "SomaticSignatures": [
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "annotatr"
-    ],
+    "SOMNiBUS": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
