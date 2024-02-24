@@ -161,13 +161,11 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BEAT": [],
     "benchdamic": [
         "genefilter",
         "zinbwave"
     ],
     "BG2": [],
-    "BgeeDB": [],
     "BiGGR": [],
     "bigmelon": [
         "ROC",
@@ -1404,7 +1402,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "msImpute": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -1670,9 +1667,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [],
     "PureCN": [],
     "Pviz": [
@@ -1803,9 +1798,7 @@
         "MsExperiment",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
@@ -2215,7 +2208,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "velociraptor": [],
     "ViSEAGO": [
         "GOSemSim"
     ],
