@@ -215,7 +215,6 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -227,7 +226,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -239,7 +237,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -426,9 +423,7 @@
         "RUVSeq"
     ],
     "consensusOV": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "genefilter",
         "minfi"
@@ -568,13 +563,9 @@
         "genefilter",
         "sva"
     ],
-    "demuxSNP": [],
     "DEP": [],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "derfinder",
         "ggbio"
     ],
@@ -697,9 +688,7 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -823,9 +812,7 @@
         "enrichplot",
         "pathview"
     ],
-    "gDNAx": [
-        "GenomicFiles"
-    ],
+    "gDNAx": [],
     "gDR": [
         "CoreGx",
         "PharmacoGx",
@@ -855,7 +842,6 @@
     "GeneStructureTools": [
         "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -1006,7 +992,6 @@
     ],
     "IntEREst": [
         "DEXSeq",
-        "GenomicFiles",
         "genefilter"
     ],
     "IPO": [
@@ -1389,7 +1374,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [],
     "optimalFlow": [
         "flowMeans"
@@ -1521,7 +1505,6 @@
     ],
     "PSEA": [],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1555,7 +1538,6 @@
     "quantsmooth": [],
     "QuartPAC": [],
     "QuasR": [
-        "GenomicFiles",
         "Rbowtie"
     ],
     "R3CPET": [
@@ -1590,7 +1572,6 @@
     ],
     "reconsi": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [
@@ -1604,7 +1585,6 @@
     "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -1651,7 +1631,6 @@
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1676,7 +1655,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1688,9 +1666,7 @@
     "ROC": [],
     "ROntoTools": [],
     "RPA": [],
-    "Rqc": [
-        "GenomicFiles"
-    ],
+    "Rqc": [],
     "rqt": [],
     "rrvgo": [
         "GOSemSim"
@@ -1821,7 +1797,6 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR",
         "Rbowtie"
     ],
@@ -1997,9 +1972,7 @@
         "genefilter",
         "sva"
     ],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "ViSEAGO": [
         "GOSemSim"
     ],
