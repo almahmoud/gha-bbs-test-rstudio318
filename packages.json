@@ -977,7 +977,6 @@
         "pathview",
         "zenith"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress"
@@ -1792,7 +1791,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaseqR2": [
         "DSS",
         "EDASeq",
@@ -2666,7 +2664,6 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
@@ -2857,7 +2854,6 @@
     ],
     "SIMD": [],
     "similaRpeak": [],
-    "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
@@ -3069,7 +3065,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
