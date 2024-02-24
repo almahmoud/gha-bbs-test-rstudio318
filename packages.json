@@ -309,7 +309,6 @@
         "bsseq",
         "dmrseq"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter"
@@ -1027,7 +1026,6 @@
     ],
     "epigenomix": [],
     "epigraHMM": [],
-    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "OrganismDbi",
@@ -1636,7 +1634,6 @@
     "lpNet": [
         "KEGGgraph"
     ],
-    "LRcell": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -1666,7 +1663,6 @@
         "pathview"
     ],
     "magpie": [],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1782,9 +1778,7 @@
     "methInheritSim": [
         "methylKit"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "genefilter",
@@ -2759,7 +2753,6 @@
     "SeqGSEA": [],
     "SeqSQC": [],
     "SeqVarTools": [],
-    "sesame": [],
     "SEtools": [
         "genefilter",
         "sva"
@@ -3195,7 +3188,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
