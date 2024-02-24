@@ -466,7 +466,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
@@ -491,9 +490,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -665,7 +662,6 @@
         "AnnotationHubData",
         "BiocCheck"
     ],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -898,9 +894,7 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -1672,9 +1666,7 @@
     ],
     "SimBu": [],
     "similaRpeak": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -1706,7 +1698,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "spatialDE": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -1761,7 +1752,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TADCompare": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
