@@ -1999,7 +1999,6 @@
         "GOSemSim"
     ],
     "doubletrouble": [
-        "MSA2dist",
         "syntenet"
     ],
     "dreamlet": [
@@ -4023,7 +4022,6 @@
     "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
-    "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
