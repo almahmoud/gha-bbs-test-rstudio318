@@ -1847,9 +1847,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -2171,7 +2169,6 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "QFeatures",
         "Spectra"
@@ -2319,7 +2316,6 @@
     "NetActivity": [],
     "netbiov": [],
     "netDx": [],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -2400,7 +2396,6 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -2495,7 +2490,6 @@
         "genefilter"
     ],
     "philr": [],
-    "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
     ],
@@ -2794,7 +2788,6 @@
         "RcwlPipelines"
     ],
     "rexposome": [],
-    "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [
@@ -3331,7 +3324,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "tanggle": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -3430,7 +3422,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [
         "genefilter",
