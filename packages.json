@@ -2126,11 +2126,9 @@
     ],
     "OLINgui": [],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "genefilter",
-        "omicade4",
         "sva"
     ],
     "OMICsPCA": [
@@ -2154,7 +2152,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -2716,7 +2713,6 @@
         "epivizrServer"
     ],
     "scviR": [],
-    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
