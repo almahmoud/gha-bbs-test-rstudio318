@@ -188,7 +188,6 @@
     ],
     "BiocCheck": [],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
     "BioMVCClass": [
@@ -313,7 +312,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "CCPROMISE": [
         "PROMISE"
     ],
