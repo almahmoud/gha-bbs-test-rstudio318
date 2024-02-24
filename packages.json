@@ -356,7 +356,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
     "BSgenomeForge": [],
@@ -1271,7 +1270,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -1420,7 +1418,6 @@
         "GOstats",
         "genefilter"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1485,7 +1482,6 @@
     ],
     "HelloRanges": [],
     "hermes": [],
-    "HERON": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -1592,7 +1588,6 @@
         "Category",
         "genefilter"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
@@ -2507,7 +2502,6 @@
         "SeqVarTools",
         "quantsmooth"
     ],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "GenomicScores"
@@ -2551,7 +2545,6 @@
         "genefilter",
         "minfi"
     ],
-    "recoup": [],
     "REDseq": [
         "ChIPpeakAnno",
         "regioneR"
@@ -2591,9 +2584,7 @@
         "genefilter",
         "ggbio"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
@@ -2851,7 +2842,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "seqCAT": [],
     "SeqGSEA": [],
     "SeqSQC": [],
@@ -3127,7 +3117,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
