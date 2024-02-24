@@ -240,7 +240,6 @@
     ],
     "BioNet": [],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [],
@@ -259,7 +258,6 @@
     ],
     "blima": [],
     "BLMA": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "bnbc": [
@@ -470,9 +468,7 @@
         "genefilter"
     ],
     "clevRvis": [],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliqueMS": [
         "MsExperiment",
         "Spectra",
@@ -707,7 +703,6 @@
     "debrowser": [
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -725,7 +720,6 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph"
     ],
     "DelayedTensor": [],
@@ -800,7 +794,6 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "zenith"
@@ -818,7 +811,6 @@
     ],
     "EGSEA": [
         "GSVA",
-        "KEGGgraph",
         "pathview"
     ],
     "ELMER": [
@@ -834,7 +826,6 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1040,7 +1031,6 @@
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -1153,7 +1143,6 @@
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1297,10 +1286,7 @@
     ],
     "katdetectr": [],
     "KCsmart": [],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -1329,9 +1315,7 @@
     "LPEadj": [
         "LPE"
     ],
-    "lpNet": [
-        "KEGGgraph"
-    ],
+    "lpNet": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -1353,7 +1337,6 @@
     "MAGeCKFlute": [
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -1430,7 +1413,6 @@
     ],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools"
     ],
     "metaCCA": [],
@@ -1536,7 +1518,6 @@
         "bsseq"
     ],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -1684,9 +1665,7 @@
     ],
     "MutationalPatterns": [],
     "MVCClass": [],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1710,9 +1689,7 @@
         "Spectra",
         "xcms"
     ],
-    "NCIgraph": [
-        "KEGGgraph"
-    ],
+    "NCIgraph": [],
     "nearBynding": [],
     "nempi": [
         "epiNEM"
@@ -1722,7 +1699,6 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netresponse": [],
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
@@ -1817,9 +1793,7 @@
     "PathNet": [],
     "PathoStat": [],
     "pathRender": [],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -2139,9 +2113,7 @@
         "minfi"
     ],
     "ROC": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "RPA": [],
     "Rqc": [
         "GenomicFiles",
@@ -2162,7 +2134,6 @@
     "sagenhaft": [],
     "SARC": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "SCAN.UPC": [
@@ -2370,9 +2341,7 @@
     ],
     "Spectra": [],
     "SpectralTAD": [],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [],
     "spicyR": [
         "ClassifyR",
@@ -2603,7 +2572,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
