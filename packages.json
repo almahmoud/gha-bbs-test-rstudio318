@@ -198,7 +198,6 @@
     "alabaster": [
         "BSgenome",
         "BiocIO",
-        "BumpyMatrix",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -228,7 +227,6 @@
         "rhdf5filters"
     ],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "alabaster.base",
         "rhdf5",
         "rhdf5filters"
@@ -1390,7 +1388,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BumpyMatrix": [],
     "BUS": [],
     "BUScorrect": [],
     "BUSpaRse": [
@@ -1549,8 +1546,7 @@
         "VariantAnnotation",
         "biomaRt",
         "ggtree",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "Cardinal": [
         "CardinalIO",
@@ -1791,8 +1787,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
-        "snpStats"
+        "qvalue"
     ],
     "CexoR": [
         "BSgenome",
@@ -2123,7 +2118,6 @@
         "biomaRt",
         "gwascat",
         "rtracklayer",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -2409,7 +2403,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -2631,7 +2624,6 @@
     ],
     "coRdon": [],
     "CoreGx": [
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "fgsea",
         "marray",
@@ -3374,7 +3366,6 @@
     "DExMA": [
         "GEOquery",
         "genefilter",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
@@ -4425,7 +4416,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "cytolib",
         "flowCore"
@@ -4709,7 +4699,6 @@
         "rtracklayer"
     ],
     "gDR": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -4721,12 +4710,10 @@
         "piano"
     ],
     "gDRcore": [
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -4742,7 +4729,6 @@
         "graph"
     ],
     "gDRutils": [
-        "BumpyMatrix",
         "MultiAssayExperiment"
     ],
     "GDSArray": [
@@ -4775,8 +4761,7 @@
     ],
     "GeneGeneInteR": [
         "Rhtslib",
-        "Rsamtools",
-        "snpStats"
+        "Rsamtools"
     ],
     "GeneMeta": [
         "genefilter"
@@ -4789,7 +4774,6 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -5339,8 +5323,7 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "GWASTools": [
         "quantsmooth"
@@ -5590,7 +5573,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5631,7 +5613,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IHW",
         "RBGL",
         "Rgraphviz",
         "Rhtslib",
@@ -5668,7 +5649,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "ILoReg": [
         "SingleCellExperiment"
     ],
@@ -6042,7 +6022,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "limmaGUI": [],
     "LineagePulse": [
         "ComplexHeatmap",
         "SingleCellExperiment"
@@ -6220,7 +6199,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "snpStats",
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
@@ -6301,9 +6279,7 @@
     ],
     "marr": [],
     "marray": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationFilter",
         "BSgenome",
@@ -7898,7 +7874,6 @@
     "NewWave": [
         "BiocSingular",
         "ScaledMatrix",
-        "SharedObject",
         "SingleCellExperiment",
         "beachmat"
     ],
@@ -8353,7 +8328,6 @@
         "sparseMatrixStats"
     ],
     "PDATK": [
-        "BumpyMatrix",
         "ConsensusClusterPlus",
         "CoreGx",
         "MultiAssayExperiment",
@@ -8427,7 +8401,6 @@
         "rhdf5client"
     ],
     "PharmacoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -9066,7 +9039,6 @@
     ],
     "R4RNA": [],
     "RadioGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -9961,7 +9933,6 @@
         "ropls"
     ],
     "rqubic": [],
-    "rRDP": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -10024,7 +9995,6 @@
     ],
     "runibic": [],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "BiocIO",
         "EDASeq",
@@ -10036,10 +10006,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Rvisdiff": [],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "safe": [],
     "sagenhaft": [],
     "SAIGEgds": [
@@ -10355,8 +10322,7 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "scp": [
         "AnnotationFilter",
@@ -10671,7 +10637,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -11045,7 +11010,6 @@
         "rtracklayer"
     ],
     "SNPRelate": [],
-    "snpStats": [],
     "soGGi": [
         "BiocIO",
         "GenomicAlignments",
@@ -11337,7 +11301,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "graph",
         "graphite"
@@ -11769,7 +11732,6 @@
     "TnT": [],
     "TOAST": [],
     "tomoda": [],
-    "tomoseqr": [],
     "TOP": [
         "ClassifyR",
         "MultiAssayExperiment",
@@ -11789,7 +11751,6 @@
         "graph"
     ],
     "ToxicoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -12080,7 +12041,6 @@
         "rtracklayer"
     ],
     "universalmotif": [],
-    "updateObject": [],
     "uSORT": [
         "RBGL",
         "biocViews",
@@ -12257,8 +12217,7 @@
         "biomaRt",
         "graph",
         "gwascat",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "vulcan": [
         "AnnotationFilter",
@@ -12374,7 +12333,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BumpyMatrix",
         "ComplexHeatmap",
         "CoreGx",
         "MultiAssayExperiment",
