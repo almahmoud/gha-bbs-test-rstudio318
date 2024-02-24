@@ -148,9 +148,7 @@
     ],
     "Anaquin": [],
     "ANCOMBC": [],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [],
     "annmap": [
         "genefilter"
@@ -255,7 +253,6 @@
         "sva"
     ],
     "bambu": [],
-    "bamsignals": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -702,9 +699,7 @@
         "batchelor",
         "scran"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -727,7 +722,6 @@
     "CircSeqAlignTk": [
         "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
         "ShortRead"
     ],
     "CiteFuse": [
@@ -801,7 +795,6 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "exomeCopy",
@@ -811,7 +804,6 @@
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "exomeCopy",
@@ -903,7 +895,6 @@
     ],
     "CopyNumberPlots": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "exomeCopy",
@@ -1241,9 +1232,7 @@
         "bumphunter",
         "regioneR"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -1360,7 +1349,6 @@
     "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
-        "bamsignals",
         "csaw"
     ],
     "EpiMix": [],
@@ -1436,9 +1424,7 @@
     "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "EWCE": [
         "orthogene"
     ],
@@ -1923,7 +1909,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HiTC": [],
     "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [
@@ -2076,7 +2061,6 @@
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "regioneR"
     ],
@@ -2274,7 +2258,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "MesKit": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -2650,7 +2633,6 @@
         "CRISPRseek",
         "Rbowtie",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "karyoploteR",
         "plyranges",
@@ -2767,11 +2749,8 @@
         "SpatialExperiment"
     ],
     "nondetects": [],
-    "NoRCE": [],
     "NormalyzerDE": [],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "npGSEA": [
         "GSEABase"
     ],
@@ -3293,9 +3272,7 @@
         "regioneR"
     ],
     "rgsepd": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -3590,7 +3567,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "bamsignals",
         "enrichplot"
     ],
     "segmentSeq": [
@@ -3627,7 +3603,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "HDF5Array",
         "bumphunter",
