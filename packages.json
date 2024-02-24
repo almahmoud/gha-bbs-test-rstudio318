@@ -814,7 +814,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "BEclear": [],
     "beer": [
         "PhIPData"
     ],
@@ -1014,7 +1013,6 @@
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "bioDist": [],
     "biomformat": [
         "rhdf5",
         "rhdf5filters"
@@ -1785,8 +1783,7 @@
     ],
     "ChemmineOB": [],
     "CHETAH": [
-        "SingleCellExperiment",
-        "bioDist"
+        "SingleCellExperiment"
     ],
     "chihaya": [
         "HDF5Array",
@@ -2122,7 +2119,6 @@
     "clusterSeq": [
         "baySeq"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -7759,7 +7755,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Oscope": [],
     "OTUbase": [
         "GenomicAlignments",
         "Rhtslib",
@@ -8025,7 +8020,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "OmaDB",
-        "bioDist",
         "graph",
         "topGO"
     ],
@@ -8158,7 +8152,6 @@
         "graph",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "ComplexHeatmap",
         "DESeq2",
@@ -8281,7 +8274,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
@@ -8721,7 +8713,6 @@
     ],
     "rDGIdb": [],
     "Rdisop": [],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -9522,7 +9513,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "sarks": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -9662,7 +9652,6 @@
         "sparseMatrixStats"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [
@@ -9913,7 +9902,6 @@
         "graph",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationFilter",
         "BiocIO",
@@ -11341,7 +11329,6 @@
     ],
     "tweeDEseq": [],
     "twilight": [],
-    "twoddpcr": [],
     "txcutr": [
         "BiocIO",
         "GenomicAlignments",
