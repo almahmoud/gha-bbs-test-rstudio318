@@ -488,7 +488,6 @@
     "bayNorm": [
         "SingleCellExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -1283,9 +1282,7 @@
         "enrichplot",
         "qvalue"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "clustifyr": [
         "SingleCellExperiment"
     ],
@@ -1356,7 +1353,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "exomeCopy"
     ],
@@ -2631,7 +2627,6 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "VariantAnnotation"
     ],
@@ -2897,7 +2892,6 @@
         "genefilter"
     ],
     "gmoviz": [],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -3413,7 +3407,6 @@
         "MultiAssayExperiment"
     ],
     "LinTInd": [],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -3442,7 +3435,6 @@
         "vsn",
         "xcms"
     ],
-    "loci2path": [],
     "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
@@ -3567,7 +3559,6 @@
     ],
     "matchBox": [],
     "MatrixQCvis": [
-        "proDA",
         "vsn"
     ],
     "MatrixRider": [
@@ -4446,7 +4437,6 @@
         "DelayedMatrixStats"
     ],
     "netbiov": [],
-    "netboost": [],
     "netDx": [
         "MultiAssayExperiment"
     ],
@@ -4706,7 +4696,6 @@
         "qvalue"
     ],
     "panp": [],
-    "PANR": [],
     "pareg": [
         "DOSE",
         "GOSemSim",
@@ -4943,7 +4932,6 @@
     ],
     "proBAMr": [],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -5198,7 +5186,6 @@
         "qvalue"
     ],
     "rebook": [],
-    "receptLoss": [],
     "reconsi": [
         "biomformat",
         "phyloseq",
@@ -5370,9 +5357,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -5908,8 +5893,7 @@
         "qvalue"
     ],
     "segmentSeq": [
-        "ShortRead",
-        "baySeq"
+        "ShortRead"
     ],
     "selectKSigs": [
         "HiLDA"
@@ -6339,7 +6323,6 @@
     "SPOTlight": [
         "SingleCellExperiment"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "SingleCellExperiment",
         "biomformat",
@@ -6354,7 +6337,6 @@
         "DESeq2",
         "Gviz",
         "VariantAnnotation",
-        "baySeq",
         "biovizBase",
         "ensembldb"
     ],
@@ -6466,7 +6448,6 @@
     ],
     "tanggle": [],
     "TAPseq": [],
-    "target": [],
     "TargetDecoy": [
         "mzR"
     ],
@@ -6489,8 +6470,7 @@
     ],
     "TCC": [
         "DESeq2",
-        "ROC",
-        "baySeq"
+        "ROC"
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [
@@ -6527,7 +6507,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "CNEr"
     ],
@@ -6658,7 +6637,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TreeAndLeaf": [],
     "treekoR": [
         "FlowSOM",
         "SingleCellExperiment",
