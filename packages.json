@@ -644,7 +644,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "genefilter",
@@ -1458,7 +1457,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ProteoDisco": [],
     "protGear": [
         "genefilter"
     ],
@@ -1654,7 +1652,6 @@
         "RUVSeq"
     ],
     "Sconify": [],
-    "scoreInvHap": [],
     "scp": [],
     "scRNAseqApp": [
         "slingshot"
