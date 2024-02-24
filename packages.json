@@ -42,7 +42,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -92,7 +91,6 @@
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
-    "ANCOMBC": [],
     "AneuFinder": [],
     "annmap": [
         "genefilter"
@@ -188,7 +186,6 @@
     ],
     "BEAT": [],
     "benchdamic": [
-        "ANCOMBC",
         "Maaslin2",
         "genefilter",
         "zinbwave"
@@ -372,7 +369,6 @@
     ],
     "CelliD": [],
     "cellity": [],
-    "CellMixS": [],
     "CellNOptR": [],
     "cellscape": [],
     "CEMiTool": [
@@ -584,9 +580,7 @@
     ],
     "cosmosR": [],
     "COSNet": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [
         "genefilter"
     ],
@@ -1486,9 +1480,7 @@
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
@@ -1794,7 +1786,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx"
     ],
@@ -1995,9 +1986,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -2134,7 +2123,6 @@
         "genefilter",
         "sva"
     ],
-    "scanMiRApp": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
