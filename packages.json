@@ -69,7 +69,6 @@
     "ABSSeq": [
         "limma"
     ],
-    "acde": [],
     "ACE": [
         "Biobase",
         "BiocGenerics",
@@ -1422,7 +1421,6 @@
         "illuminaio",
         "limma",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi",
         "multtest",
@@ -2504,7 +2502,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "dearseq",
         "decontam",
         "edgeR",
         "genefilter",
@@ -7904,8 +7901,7 @@
         "Biobase",
         "BiocGenerics",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "Biobase",
@@ -8320,7 +8316,6 @@
         "tkWidgets",
         "treeio",
         "vsn",
-        "widgetTools",
         "zlibbioc"
     ],
     "DART": [],
@@ -8369,7 +8364,6 @@
         "flowPeaks",
         "flowViz"
     ],
-    "dearseq": [],
     "debCAM": [
         "Biobase",
         "BiocGenerics",
@@ -9301,7 +9295,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "DiffLogo": [],
     "diffuStats": [],
     "diffUTR": [
         "AnnotationDbi",
@@ -15877,7 +15870,6 @@
     "immunotation": [],
     "IMPCdata": [],
     "impute": [],
-    "INDEED": [],
     "iNETgrate": [
         "AnnotationDbi",
         "Biobase",
@@ -15965,7 +15957,6 @@
         "cytolib",
         "flowCore"
     ],
-    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -16875,7 +16866,6 @@
     "ldblock": [
         "BiocGenerics"
     ],
-    "LEA": [],
     "LedPred": [],
     "lefser": [
         "Biobase",
@@ -18005,7 +17995,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "mdqc": [],
     "MDTS": [
         "Biobase",
         "BiocGenerics",
@@ -19153,8 +19142,7 @@
     "Mfuzz": [
         "Biobase",
         "BiocGenerics",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -20722,7 +20710,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Vectors",
         "XVector",
         "zlibbioc"
@@ -21227,7 +21214,6 @@
         "SummarizedExperiment",
         "XVector",
         "tkWidgets",
-        "widgetTools",
         "zlibbioc"
     ],
     "multiscan": [
@@ -21860,7 +21846,6 @@
         "zlibbioc"
     ],
     "NetPathMiner": [],
-    "netprioR": [],
     "netresponse": [
         "BiocGenerics",
         "BiocStyle",
@@ -22370,8 +22355,7 @@
         "OLIN",
         "limma",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase",
@@ -23275,7 +23259,6 @@
         "zlibbioc"
     ],
     "Path2PPI": [],
-    "pathifier": [],
     "PathNet": [],
     "PathoStat": [
         "Biobase",
@@ -23553,7 +23536,6 @@
         "limma",
         "zlibbioc"
     ],
-    "pepXMLTab": [],
     "periodicDNA": [
         "BSgenome",
         "Biobase",
@@ -24095,7 +24077,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "pmm": [],
     "pmp": [
         "Biobase",
         "BiocGenerics",
@@ -24183,7 +24164,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "RankProd",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -24699,7 +24679,6 @@
         "tkWidgets",
         "treeio",
         "vsn",
-        "widgetTools",
         "zlibbioc"
     ],
     "proteinProfiles": [],
@@ -25612,7 +25591,6 @@
         "BiocGenerics"
     ],
     "randRotation": [],
-    "RankProd": [],
     "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
@@ -27104,7 +27082,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [
         "AnnotationDbi",
@@ -32435,9 +32412,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "SynMut": [
         "BiocGenerics",
         "Biostrings",
@@ -33120,7 +33095,6 @@
         "BiocParallel",
         "mixOmics"
     ],
-    "timescape": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "Biobase",
@@ -33155,7 +33129,6 @@
         "rWikiPathways",
         "tkWidgets",
         "treeio",
-        "widgetTools",
         "zlibbioc"
     ],
     "TIN": [
@@ -33224,9 +33197,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "tkWidgets": [
-        "widgetTools"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
@@ -33622,7 +33593,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "RankProd",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -34967,7 +34937,6 @@
         "topconfects",
         "zlibbioc"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "Biobase",
         "BiocGenerics",
