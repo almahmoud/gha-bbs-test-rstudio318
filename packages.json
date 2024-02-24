@@ -226,7 +226,6 @@
         "MAST",
         "Maaslin2",
         "genefilter",
-        "phyloseq",
         "zinbwave"
     ],
     "BG2": [],
@@ -611,9 +610,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -1285,7 +1282,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "ggsc": [],
     "ggspavis": [],
     "girafe": [],
@@ -1599,7 +1595,6 @@
     ],
     "MBECS": [
         "genefilter",
-        "phyloseq",
         "sva"
     ],
     "mbkmeans": [],
@@ -1732,16 +1727,11 @@
     "mfa": [],
     "miaSim": [],
     "miaViz": [],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "phyloseq"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -1772,7 +1762,6 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -1933,7 +1922,6 @@
     ],
     "multiGSEA": [],
     "multiHiCcompare": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "multiWGCNA": [
         "dcanr"
@@ -2051,7 +2039,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthos": [],
@@ -2092,9 +2079,7 @@
     "parody": [],
     "partCNV": [],
     "PathNet": [],
-    "PathoStat": [
-        "phyloseq"
-    ],
+    "PathoStat": [],
     "pathRender": [],
     "pathview": [
         "KEGGgraph"
@@ -2142,7 +2127,6 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "DOSE",
@@ -2174,8 +2158,7 @@
         "MAST"
     ],
     "prebs": [
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "rCGH"
@@ -2242,7 +2225,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [],
     "PureCN": [],
     "pvca": [],
     "Pviz": [
@@ -2311,9 +2293,7 @@
     "RCAS": [],
     "RCASPAR": [],
     "rCGH": [],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -2328,9 +2308,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -2387,9 +2365,7 @@
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
@@ -2468,9 +2444,7 @@
         "KEGGgraph"
     ],
     "ropls": [],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -2503,7 +2477,6 @@
         "sva"
     ],
     "scanMiRApp": [],
-    "scAnnotatR": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -2623,9 +2596,7 @@
         "genefilter",
         "minfi"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -2652,9 +2623,7 @@
         "Ringo",
         "genefilter"
     ],
-    "SimBu": [
-        "phyloseq"
-    ],
+    "SimBu": [],
     "similaRpeak": [],
     "simpleSeg": [
         "cytomapper"
@@ -2757,9 +2726,7 @@
     ],
     "SpotClean": [],
     "SPOTlight": [],
-    "SPsimSeq": [
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
@@ -2833,9 +2800,7 @@
     ],
     "terraTCGAdata": [],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [
@@ -2945,7 +2910,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "VDJdive": [],
     "velociraptor": [],
     "ViSEAGO": [
         "GOSemSim"
@@ -2980,7 +2944,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
