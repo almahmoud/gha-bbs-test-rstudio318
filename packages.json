@@ -1,13 +1,11 @@
 {
     "a4": [
         "a4Base",
-        "a4Classif",
         "genefilter"
     ],
     "a4Base": [
         "genefilter"
     ],
-    "a4Classif": [],
     "ABarray": [],
     "ACE": [
         "CGHcall",
@@ -18,8 +16,7 @@
         "aCGH",
         "genefilter",
         "snapCGH",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "ADAMgui": [],
     "adductomicsR": [],
@@ -36,20 +33,14 @@
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase"
@@ -66,7 +57,6 @@
         "VariantAnnotation",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
@@ -214,9 +204,7 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "gcrma",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "artMS": [
         "MSstats"
@@ -294,8 +282,7 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "basecallQC": [
         "ShortRead"
@@ -352,9 +339,7 @@
     "BgeeDB": [
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "GSEABase"
     ],
@@ -374,7 +359,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "GOSemSim",
@@ -484,8 +468,7 @@
         "epiNEM",
         "genefilter",
         "mnem",
-        "sva",
-        "vsn"
+        "sva"
     ],
     "BOBaFIT": [
         "OrganismDbi",
@@ -568,7 +551,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "canceR": [
@@ -648,8 +630,7 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "CelliD": [],
     "cellity": [
@@ -827,7 +808,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "Clomial": [],
@@ -839,8 +819,7 @@
         "clst"
     ],
     "CluMSID": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "clusterExperiment": [
         "HDF5Array",
@@ -1012,7 +991,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "cosmosR": [
@@ -1184,8 +1162,7 @@
         "GOSemSim",
         "MSnbase",
         "clusterProfiler",
-        "enrichplot",
-        "vsn"
+        "enrichplot"
     ],
     "dcanr": [],
     "dce": [
@@ -1258,8 +1235,7 @@
         "basilisk"
     ],
     "DEP": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "DepecheR": [],
     "derfinder": [
@@ -1356,9 +1332,7 @@
         "genefilter",
         "sva"
     ],
-    "Doscheda": [
-        "vsn"
-    ],
+    "Doscheda": [],
     "DOSE": [
         "GOSemSim"
     ],
@@ -1638,7 +1612,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "FLAMES": [
@@ -1788,7 +1761,6 @@
     "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
@@ -1877,7 +1849,6 @@
         "HDF5Array"
     ],
     "GenomicSuperSignature": [],
-    "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
     ],
@@ -1900,8 +1871,7 @@
         "GSEABase",
         "RBGL",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "gg4way": [],
     "ggbio": [
@@ -2224,7 +2194,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "iSEE": [],
@@ -2315,7 +2284,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "LoomExperiment": [
@@ -2385,13 +2353,11 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "makecdfenv": [],
     "maPredictDSC": [
-        "ROC",
-        "gcrma"
+        "ROC"
     ],
     "mariner": [
         "HDF5Array",
@@ -2404,17 +2370,13 @@
         "biovizBase"
     ],
     "maSigPro": [],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [],
     "mastR": [
         "GSEABase"
     ],
     "matchBox": [],
-    "MatrixQCvis": [
-        "vsn"
-    ],
+    "MatrixQCvis": [],
     "MatrixRider": [
         "CNEr",
         "TFBSTools"
@@ -2514,7 +2476,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -2532,8 +2493,7 @@
         "HDF5Array",
         "ShortRead",
         "bsseq",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "MetCirc": [
         "MetaboCoreUtils",
@@ -2650,8 +2610,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -2726,7 +2685,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "ModCon": [],
@@ -2828,22 +2786,17 @@
         "scran"
     ],
     "msmsEDA": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "msmsTests": [
         "MSnbase",
-        "msmsEDA",
-        "vsn"
+        "msmsEDA"
     ],
-    "MSnbase": [
-        "vsn"
-    ],
+    "MSnbase": [],
     "MSnID": [
         "MSnbase",
         "msmsEDA",
-        "msmsTests",
-        "vsn"
+        "msmsTests"
     ],
     "MSPrep": [
         "genefilter",
@@ -2875,14 +2828,12 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "qcmetrics",
-        "vsn"
+        "qcmetrics"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "qcmetrics",
-        "vsn"
+        "qcmetrics"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -2975,7 +2926,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "vsn",
         "xcms"
     ],
     "NCIgraph": [
@@ -3031,10 +2981,7 @@
         "HTqPCR"
     ],
     "NoRCE": [],
-    "NormalyzerDE": [
-        "vsn"
-    ],
-    "NormqPCR": [],
+    "NormalyzerDE": [],
     "normr": [
         "bamsignals"
     ],
@@ -3130,8 +3077,7 @@
     "OutSplice": [
         "Repitools",
         "Ringo",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "PAA": [
         "genefilter",
@@ -3199,8 +3145,7 @@
         "ncdfFlow"
     ],
     "peakPantheR": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "PECA": [
         "genefilter"
@@ -3309,8 +3254,7 @@
         "biovizBase"
     ],
     "PrInCE": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "proActiv": [],
     "proBAMr": [],
@@ -3330,15 +3274,13 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "PROMISE": [
         "GSEABase"
@@ -3353,15 +3295,13 @@
         "GOSemSim",
         "MSnbase",
         "clusterProfiler",
-        "enrichplot",
-        "vsn"
+        "enrichplot"
     ],
     "ProteoDisco": [
         "VariantAnnotation"
     ],
     "protGear": [
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "PSEA": [],
     "psichomics": [
@@ -3379,17 +3319,13 @@
         "topGO"
     ],
     "ptairMS": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
-    "pvac": [],
-    "pvca": [
-        "vsn"
-    ],
+    "pvca": [],
     "Pviz": [
         "Gviz",
         "VariantAnnotation",
@@ -3408,8 +3344,7 @@
     "qpcrNorm": [],
     "qpgraph": [],
     "qPLEXanalyzer": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "qsea": [
         "HMMcopy"
@@ -3479,7 +3414,6 @@
         "dada2"
     ],
     "RBGL": [],
-    "RBioinf": [],
     "Rbowtie": [],
     "Rbowtie2": [],
     "RCAS": [
@@ -3572,8 +3506,7 @@
     ],
     "Repitools": [
         "Ringo",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "ReportingTools": [
         "Category",
@@ -3642,8 +3575,7 @@
     "rifi": [],
     "rifiComparative": [],
     "Ringo": [
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "Risa": [
         "MSnbase",
@@ -3654,7 +3586,6 @@
         "RBGL",
         "Spectra",
         "biocViews",
-        "vsn",
         "xcms"
     ],
     "RITAN": [
@@ -3668,8 +3599,7 @@
         "regioneR"
     ],
     "RMassBank": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "Rmmquant": [],
     "rmspc": [],
@@ -3688,8 +3618,7 @@
         "GSEABase",
         "RBGL",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "RNAmodR": [
         "Gviz",
@@ -4023,8 +3952,7 @@
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "SimBu": [
         "basilisk",
@@ -4107,8 +4035,7 @@
     "snapCGH": [
         "aCGH",
         "genefilter",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "snifter": [
         "basilisk"
@@ -4242,8 +4169,7 @@
         "GSEABase",
         "RBGL",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "StarBioTrek": [
         "SpidermiR",
@@ -4291,8 +4217,7 @@
     "SwathXtend": [],
     "switchde": [],
     "synapter": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "SynExtend": [],
     "SynMut": [],
@@ -4354,8 +4279,7 @@
     ],
     "tidySingleCellExperiment": [],
     "tilingArray": [
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "timeOmics": [],
     "TimiRGeN": [
@@ -4385,8 +4309,7 @@
         "genefilter"
     ],
     "topdownr": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "topGO": [],
     "ToxicoGx": [
@@ -4542,7 +4465,6 @@
     ],
     "VplotR": [],
     "vsclust": [],
-    "vsn": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
@@ -4570,10 +4492,7 @@
     ],
     "wavClusteR": [],
     "weaver": [],
-    "webbioc": [
-        "gcrma",
-        "vsn"
-    ],
+    "webbioc": [],
     "weitrix": [],
     "wiggleplotr": [],
     "xcms": [
@@ -4582,8 +4501,7 @@
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
-        "Spectra",
-        "vsn"
+        "Spectra"
     ],
     "xcore": [],
     "XDE": [
