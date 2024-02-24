@@ -168,7 +168,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -469,7 +468,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -893,7 +891,6 @@
         "BiocBaseUtils",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -990,7 +987,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "AneuFinder": [
@@ -1119,7 +1115,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -1140,7 +1135,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -1179,7 +1173,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -1330,7 +1323,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -1418,7 +1410,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "lumi",
         "methylumi",
@@ -1457,7 +1448,6 @@
         "beadarray",
         "gcrma",
         "genefilter",
-        "illuminaio",
         "limma",
         "preprocessCore",
         "vsn",
@@ -1483,7 +1473,6 @@
     ],
     "ASAFE": [],
     "ASEB": [],
-    "ASGSCA": [],
     "ASICS": [
         "Biobase",
         "BiocBaseUtils",
@@ -1648,7 +1637,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "CNEr",
         "ChIPpeakAnno",
@@ -1729,7 +1717,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -2390,7 +2377,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "illuminaio",
         "limma",
         "zlibbioc"
     ],
@@ -2516,7 +2502,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zinbwave",
         "zlibbioc"
     ],
@@ -2649,7 +2634,6 @@
         "bumphunter",
         "gdsfmt",
         "genefilter",
-        "illuminaio",
         "limma",
         "lumi",
         "methylumi",
@@ -2750,7 +2734,6 @@
         "minet",
         "qvalue",
         "rtracklayer",
-        "treeio",
         "zlibbioc"
     ],
     "BioCartaImage": [],
@@ -2803,7 +2786,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -2832,7 +2814,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -2935,7 +2916,6 @@
     ],
     "BiocStyle": [],
     "biocthis": [],
-    "BiocVersion": [],
     "biocViews": [
         "Biobase",
         "BiocGenerics",
@@ -3246,7 +3226,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "CGHbase",
         "CGHcall",
@@ -3360,7 +3339,6 @@
         "S4Vectors",
         "XVector",
         "beadarray",
-        "illuminaio",
         "limma",
         "zlibbioc"
     ],
@@ -3388,7 +3366,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -3574,7 +3551,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -4236,7 +4212,6 @@
         "ggtree",
         "rtracklayer",
         "snpStats",
-        "treeio",
         "zlibbioc"
     ],
     "Cardinal": [
@@ -4417,7 +4392,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "cBioPortalData": [
@@ -4461,7 +4435,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DOSE",
         "ExperimentHub",
@@ -4479,7 +4452,6 @@
         "graphite",
         "interactiveDisplayBase",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "cbpManager": [
@@ -4822,7 +4794,6 @@
         "impute",
         "preprocessCore",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "censcyt": [
@@ -4910,7 +4881,6 @@
         "graph",
         "qvalue",
         "snpStats",
-        "treeio",
         "zlibbioc"
     ],
     "CexoR": [
@@ -4992,7 +4962,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -5068,7 +5037,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DMRcate",
         "DNAcopy",
@@ -5108,7 +5076,6 @@
         "genefilter",
         "globaltest",
         "goseq",
-        "illuminaio",
         "impute",
         "interactiveDisplayBase",
         "limma",
@@ -5410,7 +5377,6 @@
         "ggtree",
         "qvalue",
         "rtracklayer",
-        "treeio",
         "zlibbioc"
     ],
     "chipseq": [
@@ -5720,7 +5686,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -6048,7 +6013,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "clusterSeq": [
@@ -6514,7 +6478,6 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "Cogito": [
@@ -6650,7 +6613,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -6990,7 +6952,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -7139,7 +7100,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -7403,7 +7363,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -7440,7 +7399,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -7512,7 +7470,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -7558,7 +7515,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -7608,7 +7564,6 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "illuminaio",
         "limma",
         "oligoClasses",
         "preprocessCore",
@@ -7724,7 +7679,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -7747,7 +7701,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -7844,7 +7797,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ChemmineR",
         "GenomeInfoDb",
@@ -8314,11 +8266,9 @@
         "preprocessCore",
         "qvalue",
         "tkWidgets",
-        "treeio",
         "vsn",
         "zlibbioc"
     ],
-    "DART": [],
     "dcanr": [],
     "DCATS": [],
     "dce": [
@@ -8416,7 +8366,6 @@
         "pathview",
         "qvalue",
         "sva",
-        "treeio",
         "zlibbioc"
     ],
     "DECIPHER": [
@@ -8527,7 +8476,6 @@
         "bumphunter",
         "fastseg",
         "genefilter",
-        "illuminaio",
         "limma",
         "methylKit",
         "minfi",
@@ -9073,7 +9021,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -9516,7 +9463,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9549,7 +9495,6 @@
         "edgeR",
         "ensembldb",
         "genefilter",
-        "illuminaio",
         "interactiveDisplayBase",
         "limma",
         "methylumi",
@@ -9582,7 +9527,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9997,7 +9941,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -10101,10 +10044,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "ecolitk": [
         "Biobase",
         "BiocGenerics"
@@ -10337,7 +10277,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -10364,7 +10303,6 @@
         "bumphunter",
         "genefilter",
         "geneplotter",
-        "illuminaio",
         "impute",
         "interactiveDisplayBase",
         "limma",
@@ -10434,7 +10372,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "enrichTF": [
@@ -10474,7 +10411,6 @@
         "qvalue",
         "rtracklayer",
         "seqLogo",
-        "treeio",
         "zlibbioc"
     ],
     "enrichViewNet": [
@@ -10496,7 +10432,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "ensembldb": [
@@ -10595,7 +10530,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ChIPseeker",
         "DESeq2",
@@ -10626,7 +10560,6 @@
         "qvalue",
         "rtracklayer",
         "seqPattern",
-        "treeio",
         "zlibbioc"
     ],
     "epidecodeR": [
@@ -10673,7 +10606,6 @@
         "SummarizedExperiment",
         "XVector",
         "beadarray",
-        "illuminaio",
         "limma",
         "zlibbioc"
     ],
@@ -10717,7 +10649,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -10752,7 +10683,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -10785,7 +10715,6 @@
         "ensembldb",
         "genefilter",
         "graph",
-        "illuminaio",
         "interactiveDisplayBase",
         "limma",
         "minfi",
@@ -11099,7 +11028,6 @@
         "qvalue",
         "rtracklayer",
         "seqLogo",
-        "treeio",
         "zlibbioc"
     ],
     "escape": [
@@ -11244,7 +11172,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -11263,7 +11190,6 @@
         "interactiveDisplayBase",
         "limma",
         "orthogene",
-        "treeio",
         "zlibbioc"
     ],
     "ExCluster": [
@@ -11346,7 +11272,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -11368,7 +11293,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -11414,7 +11338,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "ExploreModelMatrix": [
@@ -11539,7 +11462,6 @@
         "ggtree",
         "qvalue",
         "rWikiPathways",
-        "treeio",
         "zlibbioc"
     ],
     "fastLiquidAssociation": [
@@ -11743,7 +11665,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "lumi",
         "methylumi",
@@ -12349,7 +12270,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -12626,7 +12546,6 @@
         "limma",
         "pathview",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "gDNAx": [
@@ -12638,7 +12557,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -13382,7 +13300,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -13714,7 +13631,6 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "GGPA": [],
@@ -13752,16 +13668,12 @@
         "XVector",
         "zlibbioc"
     ],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "GIGSEA": [],
     "girafe": [
@@ -14191,7 +14103,6 @@
         "ggtree",
         "goProfiles",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "goSTAG": [
@@ -14282,7 +14193,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DESeq2",
@@ -14406,7 +14316,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "GSALightning": [],
     "GSAR": [],
     "GSCA": [
         "BiocGenerics",
@@ -14436,7 +14345,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "EnrichmentBrowser",
@@ -14691,7 +14599,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -15210,7 +15117,6 @@
         "BiocBaseUtils",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -15327,7 +15233,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -15545,7 +15450,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "lumi",
         "methylumi",
@@ -15701,7 +15605,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "Biobase",
         "BiocGenerics",
@@ -15751,7 +15654,6 @@
         "BiocGenerics",
         "lpsymphony"
     ],
-    "illuminaio": [],
     "ILoReg": [
         "Biobase",
         "BiocGenerics",
@@ -15915,7 +15817,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "illuminaio",
         "impute",
         "limma",
         "minfi",
@@ -15927,7 +15828,6 @@
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "infercnv": [
@@ -16256,7 +16156,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -16377,7 +16276,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -16513,7 +16411,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DESeq2",
         "DEXSeq",
@@ -16991,7 +16888,6 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "lionessR": [
@@ -17189,7 +17085,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -17233,7 +17128,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "methylumi",
         "minfi",
@@ -17255,7 +17149,6 @@
         "XVector",
         "ggtree",
         "msa",
-        "treeio",
         "zlibbioc"
     ],
     "M3C": [],
@@ -17269,7 +17162,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -17345,7 +17237,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -17443,7 +17334,6 @@
         "bumphunter",
         "crlmm",
         "genefilter",
-        "illuminaio",
         "impute",
         "limma",
         "methylumi",
@@ -17466,7 +17356,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DOSE",
         "ExperimentHub",
@@ -17486,7 +17375,6 @@
         "interactiveDisplayBase",
         "pathview",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "magpie": [
@@ -17740,7 +17628,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -17771,7 +17658,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -18055,7 +17941,6 @@
         "edgeR",
         "ensembldb",
         "genefilter",
-        "illuminaio",
         "limma",
         "methylumi",
         "minfi",
@@ -18106,7 +17991,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "impute",
         "limma",
         "lumi",
@@ -18241,7 +18125,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DOSE",
         "GOSemSim",
@@ -18256,7 +18139,6 @@
         "ggtree",
         "interactiveDisplayBase",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "meshr": [
@@ -18308,7 +18190,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ChemmineR",
         "CompoundDb",
@@ -18370,7 +18251,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -18521,7 +18401,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "metapod": [],
@@ -18641,7 +18520,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -18655,7 +18533,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "illuminaio",
         "interactiveDisplayBase",
         "preprocessCore",
         "sesame",
@@ -18730,7 +18607,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -18776,7 +18652,6 @@
         "bsseq",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -18801,7 +18676,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -18832,7 +18706,6 @@
         "bumphunter",
         "genefilter",
         "graph",
-        "illuminaio",
         "impute",
         "interactiveDisplayBase",
         "limma",
@@ -18884,7 +18757,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "illuminaio",
         "limma",
         "methylumi",
         "minfi",
@@ -18897,7 +18769,6 @@
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "methylInheritance": [
@@ -19102,7 +18973,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -19204,7 +19074,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "miaSim": [
@@ -19224,7 +19093,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "miaViz": [
@@ -19260,7 +19128,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "MiChip": [
@@ -19373,7 +19240,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zlibbioc"
     ],
     "MicrobiomeProfiler": [
@@ -19394,7 +19260,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "MicrobiotaProcess": [
@@ -19413,7 +19278,6 @@
         "XVector",
         "ggtree",
         "ggtreeExtra",
-        "treeio",
         "zlibbioc"
     ],
     "microRNA": [
@@ -19442,7 +19306,6 @@
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "MICSQTL": [
@@ -19569,7 +19432,6 @@
         "bumphunter",
         "genefilter",
         "graph",
-        "illuminaio",
         "limma",
         "lumi",
         "marray",
@@ -19616,7 +19478,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "multtest",
         "preprocessCore",
@@ -19651,7 +19512,6 @@
         "XVector",
         "affyio",
         "crlmm",
-        "illuminaio",
         "limma",
         "oligoClasses",
         "preprocessCore",
@@ -19832,7 +19692,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "methylumi",
         "minfi",
@@ -20207,7 +20066,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DOSE",
@@ -20235,7 +20093,6 @@
         "limma",
         "qvalue",
         "rtracklayer",
-        "treeio",
         "zlibbioc"
     ],
     "MoonlightR": [
@@ -20267,7 +20124,6 @@
         "ggtree",
         "limma",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "mosaics": [
@@ -20582,7 +20438,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -20784,7 +20639,6 @@
         "BiocGenerics",
         "BiocParallel",
         "BiocStyle",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -21129,7 +20983,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -21502,7 +21355,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "CNEr",
         "ChIPpeakAnno",
@@ -21950,7 +21802,6 @@
         "edgeR",
         "genefilter",
         "graph",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -22082,8 +21933,7 @@
     ],
     "normalize450K": [
         "Biobase",
-        "BiocGenerics",
-        "illuminaio"
+        "BiocGenerics"
     ],
     "NormalyzerDE": [
         "Biobase",
@@ -22204,7 +22054,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "NuPoP": [],
     "occugene": [],
     "OCplus": [
         "Biobase",
@@ -22220,7 +22069,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocSingular",
-        "BiocVersion",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -22284,7 +22132,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -22571,7 +22418,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -22824,7 +22670,6 @@
         "SparseArray",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "orthos": [
@@ -22834,7 +22679,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -22860,8 +22704,7 @@
     ],
     "OSAT": [],
     "Oscope": [
-        "BiocParallel",
-        "EBSeq"
+        "BiocParallel"
     ],
     "OTUbase": [
         "Biobase",
@@ -23173,7 +23016,6 @@
         "multtest",
         "preprocessCore",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "panp": [
@@ -23218,7 +23060,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -23318,7 +23159,6 @@
         "zlibbioc"
     ],
     "pathwayPCA": [],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -23408,7 +23248,6 @@
         "limma",
         "marray",
         "piano",
-        "switchBox",
         "zlibbioc"
     ],
     "pdInfoBuilder": [
@@ -23716,8 +23555,7 @@
         "graph"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PhIPData": [
         "Biobase",
@@ -23763,7 +23601,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocStyle",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -23860,7 +23697,6 @@
         "impute",
         "preprocessCore",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "PING": [
@@ -24124,7 +23960,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -24338,7 +24173,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "CNEr",
         "DelayedArray",
@@ -24516,7 +24350,6 @@
         "rGREAT",
         "rtracklayer",
         "soGGi",
-        "treeio",
         "zlibbioc"
     ],
     "profileScoreDist": [
@@ -24677,11 +24510,9 @@
         "preprocessCore",
         "qvalue",
         "tkWidgets",
-        "treeio",
         "vsn",
         "zlibbioc"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BSgenome",
@@ -24759,7 +24590,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GEOquery",
@@ -24973,7 +24803,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -25269,7 +25098,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -25601,7 +25429,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -25629,7 +25456,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "Rarr": [],
     "rawrr": [],
     "RbcBook1": [
         "Biobase",
@@ -25853,7 +25679,6 @@
         "graph",
         "graphite",
         "qvalue",
-        "treeio",
         "zlibbioc"
     ],
     "ReadqPCR": [
@@ -25993,7 +25818,6 @@
         "bumphunter",
         "dir.expiry",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -26244,7 +26068,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -26281,7 +26104,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -26306,7 +26128,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "impute",
         "interactiveDisplayBase",
         "limma",
@@ -26480,7 +26301,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -26573,7 +26393,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -26959,7 +26778,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RImmPort": [],
     "Ringo": [
         "AnnotationDbi",
         "Biobase",
@@ -27092,7 +26910,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
@@ -27523,7 +27340,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "methylumi",
         "minfi",
@@ -28306,7 +28122,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -28337,7 +28152,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -28476,8 +28290,7 @@
     ],
     "SCBN": [],
     "scBubbletree": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scCB2": [
         "Biobase",
@@ -28619,7 +28432,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -28646,7 +28458,6 @@
         "BiocGenerics",
         "BiocParallel",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -28918,7 +28729,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -29327,7 +29137,6 @@
         "BiocGenerics",
         "BiocParallel",
         "BiocStyle",
-        "BiocVersion",
         "Biostrings",
         "Category",
         "DOSE",
@@ -29361,7 +29170,6 @@
         "meshr",
         "qvalue",
         "schex",
-        "treeio",
         "zlibbioc"
     ],
     "scTGIF": [
@@ -29557,7 +29365,6 @@
         "ggtree",
         "qvalue",
         "rtracklayer",
-        "treeio",
         "zlibbioc"
     ],
     "segmentSeq": [
@@ -29702,7 +29509,6 @@
         "rtracklayer",
         "seqArchR",
         "seqPattern",
-        "treeio",
         "zlibbioc"
     ],
     "SeqArray": [
@@ -29837,7 +29643,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -29874,7 +29679,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -29888,7 +29692,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "illuminaio",
         "interactiveDisplayBase",
         "preprocessCore",
         "zlibbioc"
@@ -30035,7 +29838,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -30078,7 +29880,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
@@ -30204,7 +30005,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DOSE",
         "DelayedArray",
@@ -30233,7 +30033,6 @@
         "qvalue",
         "rhdf5",
         "rhdf5filters",
-        "treeio",
         "zlibbioc"
     ],
     "signeR": [
@@ -30558,7 +30357,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "BiocVersion",
         "Biostrings",
         "ComplexHeatmap",
         "DESeq2",
@@ -30622,7 +30420,6 @@
         "scuttle",
         "sparseMatrixStats",
         "sva",
-        "treeio",
         "tximport",
         "zellkonverter",
         "zinbwave",
@@ -30751,10 +30548,8 @@
         "zlibbioc"
     ],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
-    "sizepower": [],
     "skewr": [
         "AnnotationDbi",
         "Biobase",
@@ -30789,7 +30584,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "lumi",
         "methylumi",
@@ -31033,7 +30827,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -31551,7 +31344,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -32354,7 +32146,6 @@
     ],
     "SwathXtend": [],
     "swfdr": [],
-    "switchBox": [],
     "switchde": [
         "Biobase",
         "BiocGenerics",
@@ -32482,7 +32273,6 @@
         "SummarizedExperiment",
         "XVector",
         "ggtree",
-        "treeio",
         "zlibbioc"
     ],
     "tadar": [
@@ -32540,8 +32330,7 @@
         "zlibbioc"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TAPseq": [
         "AnnotationDbi",
@@ -32755,7 +32544,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "treeio",
         "tximport",
         "zlibbioc"
     ],
@@ -32807,7 +32595,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "ExperimentHub",
@@ -33128,7 +32915,6 @@
         "qvalue",
         "rWikiPathways",
         "tkWidgets",
-        "treeio",
         "zlibbioc"
     ],
     "TIN": [
@@ -33673,7 +33459,6 @@
     "TreeAndLeaf": [
         "RedeR"
     ],
-    "treeio": [],
     "treekoR": [
         "Biobase",
         "BiocGenerics",
@@ -33700,7 +33485,6 @@
         "ggtree",
         "hopach",
         "limma",
-        "treeio",
         "zlibbioc"
     ],
     "TreeSummarizedExperiment": [
@@ -33719,7 +33503,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "treeio",
         "zlibbioc"
     ],
     "TREG": [
@@ -34031,7 +33814,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -34085,7 +33867,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -34308,7 +34089,6 @@
         "XVector",
         "affyio",
         "crlmm",
-        "illuminaio",
         "limma",
         "oligoClasses",
         "preprocessCore",
@@ -34403,7 +34183,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -34636,7 +34415,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocVersion",
         "Biostrings",
         "ExperimentHub",
         "GSEABase",
@@ -34729,7 +34507,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocVersion",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -34854,7 +34631,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "limma",
         "lumi",
         "methylumi",
@@ -35205,7 +34981,6 @@
         "bumphunter",
         "edgeR",
         "genefilter",
-        "illuminaio",
         "limma",
         "minfi",
         "multtest",
