@@ -91,7 +91,6 @@
         "VariantAnnotation",
         "affy",
         "affyio",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "gcrma",
@@ -151,7 +150,6 @@
         "affy",
         "affycoretools",
         "affyio",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "gcrma",
@@ -174,7 +172,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -212,7 +209,6 @@
         "alabaster.spatial",
         "alabaster.string",
         "alabaster.vcf",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -306,7 +302,6 @@
         "alabaster.ranges",
         "alabaster.se",
         "alabaster.string",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -325,7 +320,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -393,7 +387,6 @@
         "Rsamtools",
         "genefilter"
     ],
-    "annotate": [],
     "AnnotationFilter": [],
     "AnnotationForge": [],
     "AnnotationHub": [],
@@ -409,7 +402,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -422,7 +414,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -445,7 +436,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "apComplex": [
@@ -472,7 +462,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "graph",
         "rhdf5",
         "rhdf5filters",
@@ -495,7 +484,6 @@
         "affy",
         "affyContam",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -541,7 +529,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -571,7 +558,6 @@
         "Rsamtools",
         "SingleCellExperiment",
         "TFBSTools",
-        "biomaRt",
         "chromVAR",
         "fgsea",
         "graph",
@@ -599,7 +585,6 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "motifStack",
@@ -660,7 +645,6 @@
         "MultiAssayExperiment",
         "pcaMethods"
     ],
-    "AWFisher": [],
     "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
@@ -675,7 +659,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "ballgown": [
@@ -694,7 +677,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "bamsignals": [
@@ -709,7 +691,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "biomaRt",
         "genefilter",
         "mzR",
         "pRoloc",
@@ -809,7 +790,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "beachmat": [],
@@ -877,7 +857,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -916,7 +895,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -937,7 +915,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "bioassayR": [
@@ -958,7 +935,6 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
@@ -1003,7 +979,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rhdf5",
         "rhdf5filters",
@@ -1062,7 +1037,6 @@
         "biodb"
     ],
     "bioDist": [],
-    "biomaRt": [],
     "biomformat": [
         "rhdf5",
         "rhdf5filters"
@@ -1082,7 +1056,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -1133,7 +1106,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -1156,7 +1128,6 @@
         "VariantAnnotation",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "bumphunter",
         "dmrseq",
@@ -1182,7 +1153,6 @@
         "DEXSeq",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "genefilter"
     ],
     "blima": [
@@ -1233,7 +1203,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -1271,7 +1240,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -1289,7 +1257,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "breakpointR": [
@@ -1345,7 +1312,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -1359,7 +1325,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "BUS": [],
@@ -1372,7 +1337,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "plyranges",
         "rtracklayer"
@@ -1395,7 +1359,6 @@
         "VariantAnnotation",
         "affy",
         "affyio",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -1415,7 +1378,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -1433,7 +1395,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -1458,7 +1419,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer",
@@ -1498,7 +1458,6 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "cBioPortalData",
         "geNetClassifier",
         "genefilter",
@@ -1516,7 +1475,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "ggtree",
         "rtracklayer"
     ],
@@ -1533,7 +1491,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "gaga",
         "rtracklayer"
     ],
@@ -1580,7 +1537,6 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "cBioPortalData",
         "genefilter",
         "rtracklayer"
@@ -1602,7 +1558,6 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "rtracklayer"
     ],
     "CBNplot": [
@@ -1829,7 +1784,6 @@
         "affy",
         "affyio",
         "beachmat",
-        "biomaRt",
         "biovizBase",
         "bsseq",
         "bumphunter",
@@ -1874,7 +1828,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -1912,7 +1865,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -1927,7 +1879,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "multtest",
@@ -1946,7 +1897,6 @@
         "Rsamtools",
         "ShortRead",
         "apeglm",
-        "biomaRt",
         "chipseq",
         "rtracklayer",
         "systemPipeR"
@@ -1959,7 +1909,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "enrichplot",
         "fgsea",
         "ggtree",
@@ -2001,9 +1950,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "chromPlot": [
-        "biomaRt"
-    ],
+    "chromPlot": [],
     "ChromSCape": [
         "BiocIO",
         "BiocSingular",
@@ -2043,7 +1990,6 @@
     ],
     "CHRONOS": [
         "RBGL",
-        "biomaRt",
         "graph"
     ],
     "cicero": [
@@ -2058,7 +2004,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biocViews",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -2080,7 +2025,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "gwascat",
         "rtracklayer"
     ],
@@ -2094,7 +2038,6 @@
         "Rsamtools",
         "SGSeq",
         "ShortRead",
-        "biomaRt",
         "rtracklayer"
     ],
     "CiteFuse": [
@@ -2133,7 +2076,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "qpgraph",
         "rtracklayer"
@@ -2271,7 +2213,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -2294,7 +2235,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -2325,7 +2265,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "CoCiteStats": [],
@@ -2357,7 +2296,6 @@
     ],
     "CoGAPS": [
         "SingleCellExperiment",
-        "biomaRt",
         "fgsea",
         "rhdf5",
         "rhdf5filters"
@@ -2371,7 +2309,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "coGPS": [],
@@ -2388,7 +2325,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -2410,7 +2346,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -2423,12 +2358,10 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "rtracklayer"
     ],
     "COMPASS": [],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationFilter",
         "BSgenome",
@@ -2439,7 +2372,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -2491,7 +2423,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "ensembldb",
         "pcaMethods",
         "rtracklayer"
@@ -2505,7 +2436,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "biomaRt",
         "genefu",
         "graph",
         "rhdf5",
@@ -2532,7 +2462,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "exomeCopy",
         "rtracklayer"
     ],
@@ -2545,7 +2474,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -2569,7 +2497,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "cn.mops",
         "ensembldb",
@@ -2601,8 +2528,7 @@
     "CoSIA": [
         "AnnotationHub",
         "ExperimentHub",
-        "annotationTools",
-        "biomaRt"
+        "annotationTools"
     ],
     "cosmiq": [
         "AnnotationFilter",
@@ -2658,7 +2584,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -2699,7 +2624,6 @@
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "crisprBase",
         "crisprBowtie",
         "crisprScore",
@@ -2741,7 +2665,6 @@
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -2766,7 +2689,6 @@
         "VariantAnnotation",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -2800,7 +2722,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "CTdata": [
@@ -2830,7 +2751,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -2853,7 +2773,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "cyanoFilter": [
@@ -2980,7 +2899,6 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "biomaRt",
         "motifStack",
         "rtracklayer"
     ],
@@ -2992,7 +2910,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "rtracklayer"
     ],
@@ -3005,7 +2922,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -3075,7 +2991,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "DeconRNASeq": [
@@ -3104,7 +3019,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "fastseg",
         "genefilter",
@@ -3134,7 +3048,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "DEFormats": [
@@ -3146,7 +3059,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "DEGraph": [
@@ -3214,7 +3126,6 @@
         "Rsamtools",
         "SingleCellExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -3246,7 +3157,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinderHelper",
         "qvalue",
@@ -3265,7 +3175,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "derfinder",
@@ -3287,7 +3196,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "multtest",
@@ -3321,7 +3229,6 @@
         "DESeq2",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "genefilter"
     ],
     "DFP": [],
@@ -3380,7 +3287,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "genefilter",
         "rtracklayer"
@@ -3445,7 +3351,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "beachmat",
-        "biomaRt",
         "biovizBase",
         "bsseq",
         "bumphunter",
@@ -3474,7 +3379,6 @@
         "Rsamtools",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "bumphunter",
         "regioneR",
@@ -3491,7 +3395,6 @@
         "Rhtslib",
         "Rsamtools",
         "bamsignals",
-        "biomaRt",
         "rtracklayer"
     ],
     "DNAshapeR": [],
@@ -3503,7 +3406,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "doppelgangR": [
@@ -3528,7 +3430,6 @@
         "MSA2dist",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer",
         "syntenet"
     ],
@@ -3565,7 +3466,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -3574,7 +3474,6 @@
         "GEOquery",
         "affy",
         "affyio",
-        "biomaRt",
         "oligo",
         "oligoClasses",
         "qvalue"
@@ -3617,7 +3516,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "genomeIntervals"
     ],
     "EBcoexpress": [],
@@ -3633,7 +3531,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "rtracklayer"
     ],
     "edge": [
@@ -3686,7 +3583,6 @@
         "Rsamtools",
         "TCGAbiolinks",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -3716,7 +3612,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -3783,7 +3678,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "ensemblVEP": [
@@ -3794,7 +3688,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "epialleleR": [
@@ -3805,7 +3698,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "EpiCompare": [
@@ -3821,7 +3713,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "enrichplot",
         "fgsea",
         "genomation",
@@ -3863,7 +3754,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "epimutacions": [
@@ -3883,7 +3773,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "ensembldb",
@@ -3913,7 +3802,6 @@
         "Modstrings",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer",
         "tRNA",
         "tRNAdbImport"
@@ -3927,7 +3815,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "ensembldb",
         "epivizrData",
@@ -3944,7 +3831,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "epivizrData",
         "epivizrServer",
@@ -3960,7 +3846,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "epivizrServer",
         "graph",
@@ -3976,7 +3861,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "ensembldb",
         "epivizr",
@@ -3999,7 +3883,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -4022,7 +3905,6 @@
         "Rsamtools",
         "ShortRead",
         "TFBSTools",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -4070,7 +3952,6 @@
         "Rhtslib",
         "Rsamtools",
         "SGSeq",
-        "biomaRt",
         "fgsea",
         "graph",
         "qvalue",
@@ -4108,7 +3989,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "ExperimentHub": [
@@ -4128,7 +4008,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -4153,7 +4032,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "csaw",
         "ensembldb",
@@ -4167,7 +4045,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer",
         "wiggleplotr"
     ],
@@ -4181,9 +4058,7 @@
         "ggtree",
         "qvalue"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "GenomicAlignments",
         "Rhtslib",
@@ -4211,7 +4086,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "FEAST": [
@@ -4226,9 +4100,7 @@
         "graph"
     ],
     "FELLA": [],
-    "fenr": [
-        "biomaRt"
-    ],
+    "fenr": [],
     "ffpe": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -4240,7 +4112,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -4269,11 +4140,9 @@
         "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "qvalue",
         "rtracklayer"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "SingleCellExperiment",
         "qvalue"
@@ -4322,7 +4191,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "biomaRt",
         "biovizBase",
         "bluster",
         "ensembldb",
@@ -4482,7 +4350,6 @@
         "OUTRIDER",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "pcaMethods",
         "rhdf5",
         "rhdf5filters",
@@ -4513,7 +4380,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -4533,7 +4399,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GA4GHshiny": [
@@ -4545,7 +4410,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "gaga": [],
@@ -4566,7 +4430,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -4608,7 +4471,6 @@
         "GenomicDataCommons",
         "KEGGgraph",
         "Rgraphviz",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -4627,7 +4489,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "gDR": [
@@ -4675,7 +4536,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "GeneBreak": [
@@ -4688,9 +4548,7 @@
     ],
     "GeneExpressionSignature": [],
     "genefilter": [],
-    "genefu": [
-        "biomaRt"
-    ],
+    "genefu": [],
     "GeneGeneInteR": [
         "Rhtslib",
         "Rsamtools"
@@ -4723,7 +4581,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -4762,7 +4619,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "GenomicFiles": [
@@ -4773,7 +4629,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "genomicInstability": [],
@@ -4784,7 +4639,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -4799,7 +4653,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -4815,7 +4668,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -4831,7 +4683,6 @@
         "RCAS",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "genomation",
         "plyranges",
         "rtracklayer",
@@ -4858,7 +4709,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GeoDiff": [
@@ -4895,7 +4745,6 @@
         "RBGL",
         "affy",
         "affyio",
-        "biomaRt",
         "cellHTS2",
         "genefilter",
         "graph",
@@ -4916,7 +4765,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -4977,8 +4825,7 @@
         "sparseMatrixStats"
     ],
     "glmSparseNet": [
-        "MultiAssayExperiment",
-        "biomaRt"
+        "MultiAssayExperiment"
     ],
     "GlobalAncova": [
         "GSEABase",
@@ -4998,7 +4845,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GmicR": [
@@ -5018,7 +4864,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "GMRP": [],
@@ -5034,14 +4879,11 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "cBioPortalData",
         "maftools",
         "rtracklayer"
     ],
-    "GOexpress": [
-        "biomaRt"
-    ],
+    "GOexpress": [],
     "GOfuncR": [],
     "GOpro": [
         "MultiAssayExperiment"
@@ -5054,7 +4896,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "GOSim": [
@@ -5072,9 +4913,7 @@
         "goProfiles",
         "qvalue"
     ],
-    "goSTAG": [
-        "biomaRt"
-    ],
+    "goSTAG": [],
     "GOstats": [
         "AnnotationForge",
         "Category",
@@ -5104,7 +4943,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "rtracklayer",
@@ -5161,7 +4999,6 @@
     "GSEAlm": [],
     "gsean": [
         "PPInfer",
-        "biomaRt",
         "fgsea",
         "graph"
     ],
@@ -5173,7 +5010,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -5208,7 +5044,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "multtest",
@@ -5223,7 +5058,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "Gviz": [
@@ -5235,7 +5069,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -5250,7 +5083,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "GWASTools": [
@@ -5266,7 +5098,6 @@
         "Rsamtools",
         "SNPRelate",
         "VariantAnnotation",
-        "biomaRt",
         "quantsmooth",
         "rtracklayer"
     ],
@@ -5306,15 +5137,12 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
-    "HEM": [],
     "hermes": [
         "ComplexHeatmap",
         "DESeq2",
-        "MultiAssayExperiment",
-        "biomaRt"
+        "MultiAssayExperiment"
     ],
     "HERON": [
         "multtest"
@@ -5348,7 +5176,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -5405,7 +5232,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "hipathia": [
@@ -5458,7 +5284,6 @@
         "ShortRead",
         "VariantAnnotation",
         "VariantTools",
-        "biomaRt",
         "chipseq",
         "gmapR",
         "rtracklayer"
@@ -5491,7 +5316,6 @@
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
-        "biomaRt",
         "csaw",
         "rtracklayer"
     ],
@@ -5506,7 +5330,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -5543,7 +5366,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "genefilter",
         "goseq",
         "graph",
@@ -5571,7 +5393,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "ILoReg": [
@@ -5584,7 +5405,6 @@
         "IVAS",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "imcRtools": [
@@ -5629,7 +5449,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
@@ -5661,7 +5480,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "cleanUpdTSeq",
         "plyranges",
         "rtracklayer"
@@ -5673,7 +5491,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "plgem",
         "rtracklayer"
     ],
@@ -5697,7 +5514,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -5716,8 +5532,7 @@
         "graph"
     ],
     "InterCellar": [
-        "ComplexHeatmap",
-        "biomaRt"
+        "ComplexHeatmap"
     ],
     "IntEREst": [
         "BSgenome",
@@ -5730,7 +5545,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "genefilter",
         "rtracklayer"
     ],
@@ -5812,9 +5626,7 @@
     ],
     "iSeq": [],
     "ISLET": [],
-    "isobar": [
-        "biomaRt"
-    ],
+    "isobar": [],
     "IsoBayes": [],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
@@ -5828,7 +5640,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "genefilter",
         "rtracklayer",
@@ -5855,7 +5666,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "ivygapSE": [],
@@ -5870,7 +5680,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "regioneR",
@@ -5884,7 +5693,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "maftools",
         "plyranges",
         "rtracklayer"
@@ -5928,9 +5736,7 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [
-        "biomaRt"
-    ],
+    "LACE": [],
     "lapmix": [],
     "lefser": [],
     "lemur": [
@@ -5955,7 +5761,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "LinkHD": [
@@ -5973,7 +5778,6 @@
         "pcaMethods",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "MultiAssayExperiment",
@@ -6038,7 +5842,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -6090,7 +5893,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "maftools": [
@@ -6107,7 +5909,6 @@
         "RnBeads",
         "Rsamtools",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "crlmm",
         "genefilter",
@@ -6144,7 +5945,6 @@
         "Rhtslib",
         "Rsamtools",
         "TRESS",
-        "biomaRt",
         "rtracklayer"
     ],
     "magrene": [],
@@ -6208,7 +6008,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -6291,7 +6090,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "fgsea",
@@ -6317,7 +6115,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "bumphunter",
         "ensembldb",
@@ -6346,7 +6143,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -6376,7 +6172,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "MEDME": [],
@@ -6443,7 +6238,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "hpar",
@@ -6524,7 +6318,6 @@
         "affy",
         "affyio",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "genefilter",
         "qvalue",
@@ -6550,7 +6343,6 @@
         "qvalue",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationHub",
         "ExperimentHub",
@@ -6579,7 +6371,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -6601,7 +6392,6 @@
         "Rhtslib",
         "Rsamtools",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "bumphunter",
         "genefilter",
@@ -6632,7 +6422,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "graph",
@@ -6655,7 +6444,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
@@ -6704,7 +6492,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "marray",
@@ -6744,7 +6531,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -6761,10 +6547,7 @@
     "MetNet": [],
     "mfa": [],
     "Mfuzz": [],
-    "MGFM": [],
-    "MGFR": [
-        "biomaRt"
-    ],
+    "MGFR": [],
     "mia": [
         "BiocSingular",
         "DECIPHER",
@@ -6908,7 +6691,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "graph",
@@ -6932,7 +6714,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "multtest",
@@ -6988,7 +6769,6 @@
         "RBGL",
         "Rgraphviz",
         "TCGAbiolinks",
-        "biomaRt",
         "genefilter",
         "graph"
     ],
@@ -7003,7 +6783,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -7026,7 +6805,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "deepSNV",
         "rtracklayer"
     ],
@@ -7148,7 +6926,6 @@
         "GEOquery",
         "GOSemSim",
         "TCGAbiolinks",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -7186,7 +6963,6 @@
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "motifStack",
@@ -7221,9 +6997,7 @@
         "TFBSTools",
         "rtracklayer"
     ],
-    "MouseFM": [
-        "biomaRt"
-    ],
+    "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
@@ -7281,7 +7055,6 @@
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "easyRNASeq",
         "ensembldb",
@@ -7443,7 +7216,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "karyoploteR",
@@ -7501,7 +7273,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "muscat": [
@@ -7526,7 +7297,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "decompTumor2Sig",
         "maftools",
         "rtracklayer"
@@ -7539,7 +7309,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "MVCClass": [],
@@ -7556,7 +7325,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "myvariant": [
@@ -7567,7 +7335,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "mzR": [],
@@ -7592,7 +7359,6 @@
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "csaw",
         "ensembldb",
@@ -7668,7 +7434,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "plyranges",
         "rtracklayer"
     ],
@@ -7708,9 +7473,7 @@
         "graph",
         "qvalue"
     ],
-    "NetSAM": [
-        "biomaRt"
-    ],
+    "NetSAM": [],
     "netSmooth": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -7744,7 +7507,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "graph",
@@ -7789,7 +7551,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "normalize450K": [],
@@ -7810,7 +7571,6 @@
         "qvalue",
         "rtracklayer"
     ],
-    "NPARC": [],
     "npGSEA": [
         "GSEABase",
         "graph"
@@ -7855,7 +7615,6 @@
         "ShortRead",
         "SingleCellExperiment",
         "beachmat",
-        "biomaRt",
         "graph",
         "rhdf5",
         "rhdf5filters",
@@ -7877,7 +7636,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -7929,7 +7687,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "omicsPrint": [
@@ -7941,9 +7698,7 @@
     ],
     "oncomix": [],
     "oncoscanR": [],
-    "OncoScore": [
-        "biomaRt"
-    ],
+    "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz",
         "graph"
@@ -7972,7 +7727,6 @@
         "openPrimeR"
     ],
     "oposSOM": [
-        "biomaRt",
         "graph"
     ],
     "oppar": [
@@ -8016,7 +7770,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "Organism.dplyr": [
@@ -8026,7 +7779,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "OrganismDbi": [
@@ -8036,7 +7788,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -8066,7 +7817,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "pcaMethods",
         "rtracklayer"
     ],
@@ -8081,7 +7831,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -8118,7 +7867,6 @@
         "DEXSeq",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "fgsea",
         "genefilter",
         "sva"
@@ -8197,7 +7945,6 @@
         "GSEABase",
         "RBGL",
         "Rgraphviz",
-        "biomaRt",
         "genefilter",
         "graph",
         "topGO"
@@ -8214,7 +7961,6 @@
         "ConsensusClusterPlus",
         "CoreGx",
         "MultiAssayExperiment",
-        "biomaRt",
         "fgsea",
         "genefu",
         "marray",
@@ -8308,7 +8054,6 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "biomaRt",
         "genefilter",
         "graph",
         "hopach"
@@ -8374,7 +8119,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -8473,7 +8217,6 @@
     ],
     "ppcseq": [],
     "PPInfer": [
-        "biomaRt",
         "fgsea",
         "graph"
     ],
@@ -8507,7 +8250,6 @@
         "aCGH",
         "affy",
         "affyio",
-        "biomaRt",
         "multtest",
         "rCGH",
         "rtracklayer"
@@ -8531,7 +8273,6 @@
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rhdf5",
@@ -8554,7 +8295,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "proBAMr": [
@@ -8563,7 +8303,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "procoil": [
@@ -8582,7 +8321,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "chipseq",
         "enrichplot",
         "fgsea",
@@ -8600,7 +8338,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "biomaRt",
         "genefilter",
         "mzR",
         "pcaMethods",
@@ -8612,7 +8349,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "biomaRt",
         "genefilter",
         "mzR",
         "pRoloc",
@@ -8655,13 +8391,10 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "cleaver",
         "rtracklayer"
     ],
-    "ProteoMM": [
-        "biomaRt"
-    ],
+    "ProteoMM": [],
     "protGear": [
         "affy",
         "affyio",
@@ -8680,7 +8413,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -8696,7 +8428,6 @@
     ],
     "psygenet2r": [
         "BgeeDB",
-        "biomaRt",
         "graph",
         "topGO"
     ],
@@ -8725,7 +8456,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -8749,14 +8479,12 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
     ],
     "pwOmics": [
         "AnnotationHub",
-        "biomaRt",
         "graph"
     ],
     "qckitfastq": [
@@ -8789,7 +8517,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -8832,7 +8559,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -8861,7 +8587,6 @@
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "qusage": [],
@@ -8877,7 +8602,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -8901,7 +8625,6 @@
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "RadioGx": [
@@ -8919,7 +8642,6 @@
         "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "RaggedExperiment": [],
@@ -8937,7 +8659,6 @@
         "SeqArray",
         "SeqVarTools",
         "VariantAnnotation",
-        "biomaRt",
         "ensembldb",
         "quantsmooth",
         "rtracklayer"
@@ -8949,8 +8670,7 @@
     "ramwas": [
         "GenomicAlignments",
         "Rhtslib",
-        "Rsamtools",
-        "biomaRt"
+        "Rsamtools"
     ],
     "RandomWalkRestartMH": [
         "Rgraphviz",
@@ -8968,7 +8688,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -8998,7 +8717,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "rbsurv": [],
     "RCAS": [
         "BSgenome",
         "BiocIO",
@@ -9006,7 +8724,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "genomation",
         "rtracklayer",
         "seqPattern"
@@ -9022,7 +8739,6 @@
         "aCGH",
         "affy",
         "affyio",
-        "biomaRt",
         "multtest",
         "rtracklayer"
     ],
@@ -9088,7 +8804,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -9113,7 +8828,6 @@
         "Rsamtools",
         "basilisk",
         "basilisk.utils",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -9131,7 +8845,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "RedisParam": [],
@@ -9146,7 +8859,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "multtest",
@@ -9206,7 +8918,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -9226,7 +8937,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -9243,7 +8953,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -9284,7 +8993,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "genefilter",
@@ -9294,8 +9002,7 @@
     ],
     "RepViz": [
         "Rhtslib",
-        "Rsamtools",
-        "biomaRt"
+        "Rsamtools"
     ],
     "ReQON": [
         "Rhtslib",
@@ -9312,7 +9019,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "restfulSE": [
@@ -9363,7 +9069,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -9379,7 +9084,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "RGSEA": [],
@@ -9390,7 +9094,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "goseq",
         "rtracklayer"
     ],
@@ -9406,7 +9109,6 @@
         "Rhtslib",
         "Rsamtools",
         "SGSeq",
-        "biomaRt",
         "rtracklayer"
     ],
     "Rhtslib": [],
@@ -9419,7 +9121,6 @@
         "ORFik",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "RiboDiPA": [
@@ -9429,7 +9130,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "qvalue",
         "rtracklayer"
     ],
@@ -9444,7 +9144,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -9473,7 +9172,6 @@
         "Rsamtools",
         "ShortRead",
         "TFBSTools",
-        "biomaRt",
         "motifStack",
         "rtracklayer"
     ],
@@ -9526,7 +9224,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "graph",
         "rtracklayer",
@@ -9550,7 +9247,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -9574,7 +9270,6 @@
         "Rhtslib",
         "Rsamtools",
         "apeglm",
-        "biomaRt",
         "rtracklayer"
     ],
     "rmspc": [
@@ -9594,7 +9289,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -9608,7 +9302,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "rtracklayer"
     ],
@@ -9634,7 +9327,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -9651,7 +9343,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -9668,7 +9359,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -9685,7 +9375,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -9704,7 +9393,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "bumphunter",
         "derfinder",
         "derfinderHelper",
@@ -9721,7 +9409,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "methylumi",
@@ -9782,7 +9469,6 @@
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -9823,7 +9509,6 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "rtracklayer"
     ],
     "RTN": [],
@@ -9864,7 +9549,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "rtracklayer"
     ],
     "RVS": [],
@@ -9873,9 +9557,7 @@
         "SeqArray"
     ],
     "sampleClassifier": [
-        "MGFM",
-        "MGFR",
-        "biomaRt"
+        "MGFR"
     ],
     "sangeranalyseR": [
         "DECIPHER",
@@ -9889,7 +9571,6 @@
         "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "multtest",
         "plyranges",
         "rtracklayer"
@@ -9925,7 +9606,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "rtracklayer",
         "scanMiR"
@@ -10066,7 +9746,6 @@
         "SingleCellExperiment",
         "SingleCellSignalR",
         "beachmat",
-        "biomaRt",
         "bluster",
         "ensembldb",
         "graph",
@@ -10130,7 +9809,6 @@
         "Rsamtools",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "regioneR",
         "rhdf5",
@@ -10151,7 +9829,6 @@
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -10176,7 +9853,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "scp": [
@@ -10202,7 +9878,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "biomaRt",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -10251,7 +9926,6 @@
         "ShortRead",
         "SingleCellExperiment",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -10309,7 +9983,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "biomaRt",
         "bluster",
         "bumphunter",
         "ensembldb",
@@ -10358,7 +10031,6 @@
         "Rhtslib",
         "Rsamtools",
         "bamsignals",
-        "biomaRt",
         "enrichplot",
         "fgsea",
         "ggtree",
@@ -10380,15 +10052,12 @@
         "HiLDA",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "SELEX": [],
     "SemDist": [],
     "semisup": [],
-    "seq2pathway": [
-        "biomaRt"
-    ],
+    "seq2pathway": [],
     "seqArchR": [],
     "seqArchRplus": [
         "BSgenome",
@@ -10400,7 +10069,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -10423,14 +10091,12 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "seqCNA": [],
     "SeqGate": [],
     "SeqGSEA": [
-        "DESeq2",
-        "biomaRt"
+        "DESeq2"
     ],
     "seqPattern": [],
     "seqsetvis": [
@@ -10484,7 +10150,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "shinyepico": [
@@ -10496,7 +10161,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -10516,7 +10180,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -10583,7 +10246,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "signifinder": [
@@ -10603,7 +10265,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "beachmat",
-        "biomaRt",
         "consensusOV",
         "ensembldb",
         "genefu",
@@ -10621,7 +10282,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SIM": [
@@ -10717,7 +10377,6 @@
         "basilisk.utils",
         "batchelor",
         "beachmat",
-        "biomaRt",
         "bluster",
         "celda",
         "ensembldb",
@@ -10751,7 +10410,6 @@
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SingleR": [
@@ -10774,7 +10432,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "sitePath": [
@@ -10792,7 +10449,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -10823,7 +10479,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "goseq",
         "graph",
         "rtracklayer"
@@ -10852,7 +10507,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SNPRelate": [],
@@ -10876,7 +10530,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -10896,7 +10549,6 @@
         "Rsamtools",
         "annotatr",
         "beachmat",
-        "biomaRt",
         "bsseq",
         "regioneR",
         "rhdf5",
@@ -10997,7 +10649,6 @@
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "motifmatchr",
@@ -11078,7 +10729,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "graph",
         "rtracklayer"
     ],
@@ -11096,7 +10746,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -11138,7 +10787,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "baySeq",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -11164,7 +10812,6 @@
         "ShortRead",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "biomaRt",
         "rtracklayer"
     ],
     "staRank": [
@@ -11209,7 +10856,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "Streamer": [
@@ -11231,7 +10877,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SubCellBarCode": [],
@@ -11243,7 +10888,6 @@
     "Summix": [],
     "supersigs": [],
     "surfaltr": [
-        "biomaRt",
         "msa"
     ],
     "survtype": [],
@@ -11259,7 +10903,6 @@
         "Rsamtools",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "svaRetro": [
@@ -11271,7 +10914,6 @@
         "Rsamtools",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "SVMDO": [
@@ -11280,14 +10922,11 @@
         "fgsea",
         "qvalue"
     ],
-    "SWATH2stats": [
-        "biomaRt"
-    ],
+    "SWATH2stats": [],
     "SwathXtend": [],
     "switchde": [
         "SingleCellExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
@@ -11331,7 +10970,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "rtracklayer"
@@ -11352,7 +10990,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "target": [],
@@ -11384,9 +11021,7 @@
         "ROC",
         "baySeq"
     ],
-    "TCGAbiolinks": [
-        "biomaRt"
-    ],
+    "TCGAbiolinks": [],
     "TCGAutils": [
         "BiocIO",
         "GenomicAlignments",
@@ -11396,7 +11031,6 @@
         "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "TCseq": [
@@ -11416,8 +11050,7 @@
     ],
     "TEKRABber": [
         "DESeq2",
-        "apeglm",
-        "biomaRt"
+        "apeglm"
     ],
     "TENxIO": [
         "BiocIO",
@@ -11447,7 +11080,6 @@
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
-        "biomaRt",
         "rtracklayer"
     ],
     "TFARM": [],
@@ -11467,7 +11099,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "TFHAZ": [
@@ -11479,7 +11110,6 @@
         "ORFik",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "TFutils": [
@@ -11513,7 +11143,6 @@
         "Mfuzz",
         "MultiAssayExperiment",
         "RCy3",
-        "biomaRt",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -11534,7 +11163,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "tLOH": [
@@ -11545,7 +11173,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "TMixClust": [
@@ -11612,7 +11239,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -11629,7 +11255,6 @@
         "SingleCellExperiment"
     ],
     "transcriptogramer": [
-        "biomaRt",
         "graph",
         "topGO"
     ],
@@ -11640,7 +11265,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "chipseq",
         "rtracklayer"
     ],
@@ -11707,7 +11331,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "tricycle": [
@@ -11772,7 +11395,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensemblVEP",
         "ensembldb",
@@ -11787,7 +11409,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "tximeta": [
@@ -11798,7 +11419,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "ensembldb",
         "rtracklayer"
     ],
@@ -11816,7 +11436,6 @@
         "Organism.dplyr",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "plotgardener",
         "plyranges",
         "rtracklayer"
@@ -11831,7 +11450,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
         "regioneR",
         "rtracklayer"
     ],
@@ -11847,7 +11465,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -11866,7 +11483,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "uSORT": [
@@ -11912,7 +11528,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "VariantExperiment": [
@@ -11935,7 +11550,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "graph",
@@ -11951,7 +11565,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "VaSP": [
@@ -11973,15 +11586,12 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ],
     "VDJdive": [
         "SingleCellExperiment"
     ],
-    "VegaMC": [
-        "biomaRt"
-    ],
+    "VegaMC": [],
     "velociraptor": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -12000,7 +11610,6 @@
     "ViSEAGO": [
         "AnnotationForge",
         "GOSemSim",
-        "biomaRt",
         "fgsea",
         "graph",
         "topGO"
@@ -12039,7 +11648,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "graph",
         "gwascat",
         "rtracklayer"
@@ -12060,7 +11668,6 @@
         "Rsamtools",
         "ShortRead",
         "apeglm",
-        "biomaRt",
         "csaw",
         "ensembldb",
         "graph",
@@ -12084,7 +11691,6 @@
         "Rsamtools",
         "affy",
         "affyio",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "lumi",
@@ -12103,7 +11709,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "rtracklayer"
     ],
     "weaver": [],
@@ -12190,7 +11795,6 @@
         "Rsamtools",
         "SomaticSignatures",
         "VariantAnnotation",
-        "biomaRt",
         "biovizBase",
         "ensembldb",
         "ggbio",
@@ -12208,7 +11812,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -12248,7 +11851,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "biomaRt",
         "rtracklayer"
     ]
 }
