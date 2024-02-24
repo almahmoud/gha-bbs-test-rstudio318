@@ -1606,8 +1606,6 @@
     ],
     "MicrobiotaProcess": [],
     "microSTASIS": [],
-    "MICSQTL": [],
-    "miloR": [],
     "mimager": [],
     "MineICA": [
         "Category",
@@ -1945,7 +1943,6 @@
     "PECA": [
         "genefilter"
     ],
-    "peco": [],
     "PepsNMR": [],
     "PharmacoGx": [
         "CoreGx"
@@ -2719,7 +2716,6 @@
     ],
     "weaver": [],
     "webbioc": [],
-    "weitrix": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
