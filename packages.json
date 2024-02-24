@@ -151,7 +151,6 @@
     ],
     "BayesSpace": [],
     "BBCAnalyzer": [],
-    "beachmat.hdf5": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
@@ -322,7 +321,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DOSE",
@@ -1762,7 +1760,6 @@
         "xcms"
     ],
     "RITAN": [],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
@@ -1835,9 +1832,7 @@
         "zinbwave"
     ],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [],
     "scFeatures": [],
     "scider": [],
@@ -1853,7 +1848,6 @@
     "Sconify": [],
     "scoreInvHap": [],
     "scp": [],
-    "scPipe": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -1956,7 +1950,6 @@
         "QuasR",
         "Rbowtie"
     ],
-    "singscore": [],
     "skewr": [
         "ROC",
         "genefilter",
@@ -1987,7 +1980,6 @@
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter"
@@ -2059,7 +2051,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
-        "singscore",
         "sva"
     ],
     "TCC": [
