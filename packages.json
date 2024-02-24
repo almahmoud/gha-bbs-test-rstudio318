@@ -1058,7 +1058,6 @@
         "genefilter"
     ],
     "MetCirc": [],
-    "methInheritSim": [],
     "MethylAid": [
         "genefilter",
         "minfi"
@@ -1096,7 +1095,6 @@
         "minfi"
     ],
     "mfa": [],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
@@ -1327,7 +1325,6 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [],
     "phenoTest": [
         "Category",
         "genefilter"
@@ -1590,7 +1587,6 @@
         "genefilter",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
@@ -1704,7 +1700,6 @@
     "SPLINTER": [
         "Gviz"
     ],
-    "SPsimSeq": [],
     "srnadiff": [
         "Gviz"
     ],
