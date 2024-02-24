@@ -754,7 +754,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "GenomicFiles",
@@ -802,7 +801,6 @@
         "SingleCellExperiment"
     ],
     "CaDrA": [],
-    "CAEN": [],
     "CAFE": [
         "AnnotationFilter",
         "OrganismDbi",
@@ -1009,7 +1007,6 @@
         "Rgraphviz"
     ],
     "cellscape": [],
-    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment"
     ],
@@ -1811,7 +1808,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -2250,7 +2246,6 @@
         "Rgraphviz",
         "mnem"
     ],
-    "epistack": [],
     "EpiTxDb": [
         "Modstrings",
         "tRNA",
@@ -2396,7 +2391,6 @@
     "FastqCleaner": [
         "ShortRead"
     ],
-    "fastseg": [],
     "fCCAC": [
         "genomation",
         "seqPattern"
@@ -2788,7 +2782,6 @@
         "rhdf5filters"
     ],
     "GenomicSuperSignature": [],
-    "GenomicTuples": [],
     "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
@@ -3474,7 +3467,6 @@
     "MACSr": [
         "basilisk"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -3642,9 +3634,7 @@
     ],
     "MEDIPS": [],
     "megadepth": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [],
     "meshes": [
         "DOSE",
@@ -3741,7 +3731,6 @@
     ],
     "methimpute": [],
     "methInheritSim": [
-        "fastseg",
         "methylKit",
         "qvalue"
     ],
@@ -3811,15 +3800,12 @@
         "siggenes"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit",
         "qvalue"
     ],
     "methylKit": [
-        "fastseg",
         "qvalue"
     ],
-    "MethylMix": [],
     "methylPipe": [
         "AnnotationFilter",
         "Gviz",
@@ -4557,9 +4543,7 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "OmicCircos": [],
     "omicplotR": [
         "ALDEx2"
@@ -4567,7 +4551,6 @@
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
-        "made4",
         "omicade4",
         "qvalue",
         "rexposome",
@@ -4681,7 +4664,6 @@
         "genefilter",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -4803,7 +4785,6 @@
         "biodbChebi",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -6212,7 +6193,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -6329,7 +6309,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
         "AnnotationFilter",
@@ -6521,8 +6500,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
-    "TileDBArray": [],
     "tilingArray": [
         "genefilter",
         "vsn"
@@ -6685,7 +6662,6 @@
         "SingleCellExperiment",
         "TrajectoryUtils"
     ],
-    "TTMap": [],
     "TurboNorm": [
         "convert"
     ],
