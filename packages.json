@@ -23,7 +23,6 @@
         "ggbio"
     ],
     "affylmGUI": [],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -474,7 +473,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [],
@@ -589,7 +587,6 @@
     ],
     "DAMEfinder": [],
     "DaMiRseq": [
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -700,7 +697,6 @@
     "DSS": [
         "bsseq"
     ],
-    "EDASeq": [],
     "edge": [
         "genefilter",
         "sva"
@@ -892,7 +888,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -1107,7 +1102,6 @@
         "GenomicFiles",
         "genefilter"
     ],
-    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -1264,7 +1258,6 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq",
         "genefilter"
     ],
@@ -1493,12 +1486,10 @@
         "yarn"
     ],
     "nnSVG": [],
-    "npGSEA": [],
     "NTW": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1782,7 +1773,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -1852,9 +1842,7 @@
     "rSWeeP": [],
     "RTCGAToolbox": [],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sagenhaft": [],
     "SARC": [],
     "SBGNview": [
@@ -1876,8 +1864,7 @@
     "scDataviz": [],
     "scDblFinder": [],
     "scFeatures": [
-        "AUCell",
-        "SingleCellSignalR"
+        "AUCell"
     ],
     "scider": [],
     "scifer": [],
@@ -1887,7 +1874,6 @@
         "bsseq"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -1985,7 +1971,6 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "TSCAN",
         "celda",
@@ -2065,7 +2050,6 @@
         "biovizBase"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
