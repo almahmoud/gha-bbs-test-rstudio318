@@ -15,7 +15,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -130,8 +129,7 @@
     ],
     "artMS": [],
     "ASICS": [
-        "PepsNMR",
-        "ropls"
+        "PepsNMR"
     ],
     "ASpli": [
         "Gviz",
@@ -192,7 +190,6 @@
         "sva"
     ],
     "BayesSpace": [],
-    "bayNorm": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "beadarraySNP": [
@@ -258,9 +255,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
@@ -384,7 +379,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
@@ -451,7 +445,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -1386,13 +1379,11 @@
         "genefilter",
         "minfi"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "flowCore"
     ],
     "InPAS": [],
     "INSPEcT": [],
-    "InTAD": [],
     "intansv": [
         "OrganismDbi",
         "biovizBase",
@@ -1432,7 +1423,6 @@
         "tximeta"
     ],
     "isomiRs": [],
-    "ITALICS": [],
     "karyoploteR": [
         "biovizBase"
     ],
@@ -1454,9 +1444,7 @@
         "glmGamPoi"
     ],
     "lineagespot": [],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -1841,9 +1829,7 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "Rbowtie",
         "biovizBase",
@@ -2043,9 +2029,7 @@
         "biocViews",
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category",
         "genefilter"
@@ -2287,7 +2271,6 @@
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
         "biovizBase",
@@ -2364,15 +2347,12 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
     "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -2380,7 +2360,6 @@
     "RSVSim": [],
     "rSWeeP": [],
     "RTCGAToolbox": [],
-    "RTNsurvival": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
@@ -2615,7 +2594,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [
@@ -2689,7 +2667,6 @@
         "biovizBase"
     ],
     "TADCompare": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
