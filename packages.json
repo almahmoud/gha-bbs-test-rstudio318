@@ -35,8 +35,7 @@
     ],
     "AHMassBank": [
         "AnnotationHubData",
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "alabaster": [
         "alabaster.bumpy",
@@ -90,8 +89,7 @@
         "genefilter"
     ],
     "AnnotationHubData": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "annotatr": [],
     "APAlyzer": [],
@@ -202,17 +200,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSklearn": [],
-    "biocViews": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -426,7 +419,6 @@
     "CHRONOS": [],
     "cicero": [
         "Gviz",
-        "biocViews",
         "biovizBase",
         "monocle"
     ],
@@ -860,8 +852,7 @@
     "EWCE": [],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -995,8 +986,7 @@
         "PharmacoGx"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "GEM": [],
     "GeneBreak": [
@@ -1080,7 +1070,6 @@
     "GRaNIE": [],
     "granulator": [],
     "graper": [],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1383,7 +1372,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
-        "biocViews",
         "genefilter",
         "minfi"
     ],
@@ -1476,9 +1464,7 @@
     "monaLisa": [
         "TFBSTools"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "DOSE",
         "GOSemSim",
@@ -1719,7 +1705,6 @@
         "CoreGx"
     ],
     "phemd": [
-        "biocViews",
         "monocle"
     ],
     "phenomis": [],
@@ -1839,9 +1824,7 @@
         "minfi"
     ],
     "quantsmooth": [],
-    "QuartPAC": [
-        "GraphPAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles",
         "Rbowtie"
@@ -1952,7 +1935,6 @@
     "Risa": [
         "MsExperiment",
         "Spectra",
-        "biocViews",
         "xcms"
     ],
     "RITAN": [
@@ -2125,9 +2107,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "signatureSearch": [
         "DOSE",
         "GOSemSim",
@@ -2370,7 +2350,6 @@
     ],
     "Uniquorn": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VanillaICE": [],
