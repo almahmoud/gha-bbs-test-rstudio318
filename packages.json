@@ -143,7 +143,6 @@
         "genefilter",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BaseSpaceR": [],
     "BASiCStan": [],
     "BatchQC": [
@@ -501,17 +500,14 @@
     ],
     "crisprDesign": [
         "Rbowtie",
-        "crisprBowtie",
-        "crisprScore"
+        "crisprBowtie"
     ],
-    "crisprScore": [],
     "crisprVerse": [
         "Gviz",
         "Rbowtie",
         "biovizBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
@@ -519,8 +515,7 @@
         "Rbowtie",
         "biovizBase",
         "crisprBowtie",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [
         "genefilter",
@@ -1823,7 +1818,6 @@
         "GOSemSim"
     ],
     "RSeqAn": [],
-    "RSVSim": [],
     "rSWeeP": [],
     "RTCGAToolbox": [],
     "rTRMui": [],
