@@ -871,9 +871,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1228,7 +1226,6 @@
         "Rbowtie",
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "multiWGCNA": [
         "dcanr"
     ],
