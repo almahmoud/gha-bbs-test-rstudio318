@@ -214,9 +214,7 @@
         "genefilter",
         "phenoTest"
     ],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "Category": [
         "genefilter"
     ],
@@ -249,7 +247,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "ceRNAnetsim": [],
@@ -373,7 +370,6 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "coseq": [],
     "cosmiq": [
         "MsExperiment",
         "xcms"
@@ -417,15 +413,12 @@
         "flowClust",
         "flowDensity"
     ],
-    "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "cytoMEM": [],
     "CytoML": [
@@ -501,9 +494,7 @@
         "genefilter"
     ],
     "DiffBind": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
@@ -654,7 +645,6 @@
         "flowClust"
     ],
     "flowPloidy": [],
-    "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
         "flowWorkspace"
@@ -950,9 +940,7 @@
     ],
     "MetaboSignal": [],
     "metaCCA": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -1643,7 +1631,6 @@
     ],
     "traviz": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "trigger": [
