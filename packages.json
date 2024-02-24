@@ -23,7 +23,6 @@
         "genefilter",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [],
     "AGDEX": [],
     "AgiMicroRna": [
@@ -1348,7 +1347,6 @@
     "maskBAD": [],
     "mastR": [],
     "matchBox": [],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
