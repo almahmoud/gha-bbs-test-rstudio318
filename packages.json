@@ -1061,7 +1061,6 @@
         "biovizBase"
     ],
     "GenomicFiles": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "biovizBase"
@@ -1924,8 +1923,7 @@
     ],
     "quantsmooth": [],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [
         "GenomicFiles",
@@ -2296,7 +2294,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
