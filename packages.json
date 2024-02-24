@@ -824,7 +824,6 @@
         "genefilter",
         "sva"
     ],
-    "csaw": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1019,9 +1018,7 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
@@ -1100,7 +1097,6 @@
         "genefilter",
         "minfi"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
@@ -1139,9 +1135,7 @@
         "genomation"
     ],
     "epigenomix": [],
-    "epigraHMM": [
-        "csaw"
-    ],
+    "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
         "Gviz",
@@ -1217,12 +1211,10 @@
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factDesign": [],
     "factR": [
@@ -1645,8 +1637,7 @@
     "hyperdraw": [],
     "ibh": [],
     "icetea": [
-        "VariantAnnotation",
-        "csaw"
+        "VariantAnnotation"
     ],
     "iCheck": [
         "genefilter",
@@ -2098,7 +2089,6 @@
         "genefilter"
     ],
     "MLSeq": [],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -2280,7 +2270,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "csaw",
         "motifStack",
         "regioneR",
         "trackViewer"
@@ -2366,7 +2355,6 @@
     "omicRexposome": [
         "genefilter",
         "omicade4",
-        "rexposome",
         "sva"
     ],
     "OMICsPCA": [
@@ -2561,7 +2549,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "GOSemSim",
         "chipseq",
         "enrichplot",
@@ -2726,7 +2713,6 @@
         "VariantAnnotation",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "genefilter",
         "minfi"
@@ -2787,7 +2773,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rexposome": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [
@@ -3152,7 +3137,6 @@
     ],
     "singscore": [],
     "SiPSiC": [],
-    "sitadela": [],
     "sitePath": [],
     "skewr": [
         "ROC",
@@ -3389,7 +3373,6 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [],
     "trackViewer": [
         "Gviz",
         "VariantAnnotation",
@@ -3517,7 +3500,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "csaw",
         "regioneR",
         "systemPipeR"
     ],
