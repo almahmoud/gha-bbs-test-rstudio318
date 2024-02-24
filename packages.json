@@ -348,7 +348,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "brendaDb": [],
     "BRGenomics": [],
     "bsseq": [],
@@ -2294,7 +2293,6 @@
         "LPE"
     ],
     "plyinteractions": [],
-    "pmp": [],
     "PoDCall": [],
     "pogos": [
         "ontoProc"
@@ -2520,7 +2518,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rGADEM": [],
     "rGenomeTracks": [],
     "RgnTX": [],
     "rgsepd": [],
@@ -2818,7 +2815,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [],
     "similaRpeak": [],
     "simpleSeg": [
         "SpatialExperiment",
