@@ -1865,17 +1865,12 @@
         "ROC"
     ],
     "stJoincount": [],
-    "StructuralVariantAnnotation": [],
     "Summix": [],
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "GOSemSim"
