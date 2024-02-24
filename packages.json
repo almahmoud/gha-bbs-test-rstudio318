@@ -837,9 +837,7 @@
         "CardinalIO"
     ],
     "CardinalIO": [],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -2492,7 +2490,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "gaga": [],
     "gage": [],
     "gaggle": [],
     "GARS": [
@@ -2652,7 +2649,6 @@
     "GEOmetadb": [],
     "GeomxTools": [],
     "GEOsubmission": [],
-    "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase",
         "rhdf5"
@@ -2761,7 +2757,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase",
@@ -3349,7 +3344,6 @@
         "rhdf5"
     ],
     "marr": [],
-    "martini": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -3636,7 +3630,6 @@
     "MetNet": [],
     "mfa": [],
     "Mfuzz": [],
-    "MGFR": [],
     "mia": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -3901,7 +3894,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
@@ -4043,7 +4035,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "AnnotationFilter",
         "CRISPRseek",
@@ -4334,7 +4325,6 @@
     ],
     "omicsViewer": [],
     "oncomix": [],
-    "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz"
     ],
@@ -5245,9 +5235,7 @@
     "SAIGEgds": [
         "SeqArray"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
