@@ -116,7 +116,6 @@
     "arrayQualityMetrics": [
         "genefilter"
     ],
-    "artMS": [],
     "ASICS": [
         "PepsNMR"
     ],
@@ -582,7 +581,6 @@
         "genefilter"
     ],
     "cpvSNP": [],
-    "CRImage": [],
     "crisprBowtie": [
         "Rbowtie"
     ],
@@ -1623,7 +1621,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "multiGSEA": [],
     "multiHiCcompare": [],
     "multiWGCNA": [
         "dcanr"
