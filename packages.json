@@ -916,9 +916,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "biobroom": [],
     "bioCancer": [
         "BiocIO",
@@ -1786,7 +1784,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment",
         "bioDist"
@@ -2362,7 +2359,6 @@
     "ComplexHeatmap": [],
     "CompoundDb": [
         "AnnotationFilter",
-        "ChemmineR",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "Spectra"
@@ -2741,8 +2737,7 @@
         "rhdf5filters"
     ],
     "customCMPdb": [
-        "AnnotationHub",
-        "ChemmineR"
+        "AnnotationHub"
     ],
     "customProDB": [
         "BSgenome",
@@ -3544,9 +3539,7 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [],
     "ELMER": [
         "AnnotationFilter",
@@ -4309,9 +4302,7 @@
         "graph",
         "ncdfFlow"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fmrs": [],
     "fobitools": [
         "fgsea"
@@ -5328,7 +5319,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "BiocIO",
@@ -5676,7 +5666,6 @@
         "multtest",
         "siggenes"
     ],
-    "kebabs": [],
     "KEGGgraph": [
         "Rgraphviz",
         "graph"
@@ -6180,7 +6169,6 @@
     "MetaboAnnotation": [
         "AnnotationFilter",
         "AnnotationHub",
-        "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -6514,9 +6502,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [],
     "mfa": [],
     "Mfuzz": [],
@@ -7593,7 +7579,6 @@
         "sparseMatrixStats"
     ],
     "odseq": [
-        "kebabs",
         "msa"
     ],
     "OGRE": [
@@ -8273,9 +8258,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "proDA": [],
     "profileplyr": [
         "BiocIO",
@@ -9220,7 +9203,6 @@
     "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
-        "ChemmineR",
         "MSnbase",
         "MsCoreUtils",
         "affy",
@@ -9902,7 +9884,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "scShapes": [],
     "scTensor": [
         "AnnotationForge",
         "AnnotationHub",
