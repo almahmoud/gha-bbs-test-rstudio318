@@ -195,7 +195,6 @@
         "enrichplot"
     ],
     "BiocCheck": [],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocPkgTools": [],
@@ -1011,7 +1010,6 @@
         "ncdfFlow"
     ],
     "ggspavis": [],
-    "girafe": [],
     "GISPA": [
         "genefilter"
     ],
@@ -1028,7 +1026,6 @@
         "cBioPortalData"
     ],
     "GOSemSim": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "GOSemSim",
@@ -1039,7 +1036,6 @@
         "Category",
         "genefilter"
     ],
-    "GOTHiC": [],
     "granulator": [],
     "graper": [],
     "GSEABenchmarkeR": [
