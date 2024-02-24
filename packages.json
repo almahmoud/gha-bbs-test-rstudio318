@@ -1213,10 +1213,7 @@
     ],
     "evaluomeR": [],
     "EventPointer": [],
-    "EWCE": [
-        "orthogene"
-    ],
-    "ExCluster": [],
+    "EWCE": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -1563,7 +1560,6 @@
     "granulator": [],
     "graper": [],
     "GraphPAC": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1612,7 +1608,6 @@
     ],
     "hermes": [],
     "HERON": [],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -1644,15 +1639,12 @@
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
-    "hpar": [],
     "HPiP": [],
     "HTSeqGenie": [
         "VariantAnnotation",
@@ -1843,7 +1835,6 @@
         "minfi"
     ],
     "LymphoSeq": [],
-    "m6Aboost": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -1959,8 +1950,7 @@
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "KEGGgraph",
-        "MWASTools",
-        "hpar"
+        "MWASTools"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -2429,7 +2419,6 @@
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
-    "orthogene": [],
     "orthos": [],
     "OTUbase": [],
     "OUTRIDER": [],
@@ -2980,7 +2969,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scBubbletree": [],
     "scCB2": [],
     "scClassify": [
         "Cepo"
@@ -3275,7 +3263,6 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "spiky": [],
     "spkTools": [],
     "splatter": [],
     "SpliceWiz": [
