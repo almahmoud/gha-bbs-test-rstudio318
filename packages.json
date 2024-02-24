@@ -324,7 +324,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "mixOmics"
     ],
@@ -1008,34 +1007,15 @@
         "RBGL",
         "graph"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "bioDist": [],
     "biomformat": [
         "rhdf5",
@@ -1462,7 +1442,6 @@
         "geNetClassifier",
         "genefilter",
         "graph",
-        "hopach",
         "phenoTest",
         "rtracklayer"
     ],
@@ -3493,7 +3472,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "dStruct": [],
     "Dune": [],
     "dyebias": [
         "marray"
@@ -4016,7 +3994,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "AnnotationFilter",
@@ -5264,7 +5241,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "hopach": [],
     "hpar": [
         "AnnotationHub",
         "ExperimentHub"
@@ -5659,7 +5635,6 @@
         "oligoClasses"
     ],
     "iterativeBMA": [],
-    "iterClust": [],
     "IVAS": [
         "BiocIO",
         "GenomicAlignments",
@@ -6018,7 +5993,6 @@
         "affyio",
         "gcrma"
     ],
-    "massiR": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -6219,7 +6193,6 @@
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
-        "rols",
         "struct"
     ],
     "metabomxtr": [
@@ -6772,7 +6745,6 @@
         "genefilter",
         "graph"
     ],
-    "miRNAmeConverter": [],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
@@ -6940,7 +6912,6 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -7904,7 +7875,6 @@
         "fgsea",
         "qvalue"
     ],
-    "parglms": [],
     "parody": [],
     "partCNV": [
         "AnnotationHub",
@@ -8045,7 +8015,6 @@
     "phenomis": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -8055,8 +8024,7 @@
         "GSEABase",
         "RBGL",
         "genefilter",
-        "graph",
-        "hopach"
+        "graph"
     ],
     "PhenStat": [
         "graph"
@@ -9229,7 +9197,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "BiocIO",
         "GenomicAlignments",
@@ -9437,7 +9404,6 @@
     "RolDE": [
         "qvalue"
     ],
-    "rols": [],
     "ROntoTools": [
         "KEGGgraph",
         "Rgraphviz",
@@ -9540,7 +9506,6 @@
         "rtracklayer"
     ],
     "runibic": [],
-    "RUVcorr": [],
     "RUVSeq": [
         "BiocIO",
         "EDASeq",
@@ -9674,7 +9639,6 @@
         "HDF5Array",
         "SingleCellExperiment",
         "graph",
-        "hopach",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -10125,7 +10089,6 @@
         "sechm",
         "sva"
     ],
-    "sevenbridges": [],
     "sevenC": [
         "BiocIO",
         "GenomicAlignments",
@@ -10862,11 +10825,8 @@
         "RBGL",
         "graph"
     ],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -11123,7 +11083,6 @@
         "SingleCellExperiment"
     ],
     "tidySummarizedExperiment": [],
-    "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
         "affy",
@@ -11317,8 +11276,7 @@
         "cytolib",
         "diffcyt",
         "flowCore",
-        "ggtree",
-        "hopach"
+        "ggtree"
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
