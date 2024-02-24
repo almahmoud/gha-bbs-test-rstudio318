@@ -15,7 +15,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "adductomicsR": [],
     "AffiXcan": [],
     "affycoretools": [
@@ -52,7 +51,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
@@ -95,7 +93,6 @@
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -192,7 +189,6 @@
         "genefilter"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -695,7 +691,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "Rbowtie",
@@ -719,9 +714,7 @@
         "sva"
     ],
     "cTRAP": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -751,9 +744,7 @@
         "FlowSOM",
         "flowCore"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoMEM": [
         "flowCore"
     ],
@@ -784,7 +775,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [],
@@ -868,9 +858,7 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "destiny": [],
     "DEsubs": [],
     "DExMA": [
@@ -942,7 +930,6 @@
         "genefilter",
         "sva"
     ],
-    "EDIRquery": [],
     "EGSEA": [
         "GSVA",
         "KEGGgraph",
@@ -1045,9 +1032,7 @@
         "GSVA",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [],
@@ -1058,9 +1043,7 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -1079,7 +1062,6 @@
     "fCI": [],
     "fcScan": [],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "fedup": [],
@@ -1235,22 +1217,17 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "gDRutils"
+        "gDRimport"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "gDRutils"
+        "PharmacoGx"
     ],
     "gDRstyle": [
         "BiocCheck",
         "biocViews"
     ],
-    "gDRutils": [],
     "GDSArray": [],
     "GEM": [],
     "GeneBreak": [
@@ -1310,9 +1287,7 @@
     ],
     "ggmanh": [],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "girafe": [],
     "GISPA": [
         "genefilter"
@@ -1366,7 +1341,6 @@
     ],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1400,7 +1374,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hicVennDiagram": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1414,9 +1387,7 @@
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "HPiP": [],
     "HTSeqGenie": [
         "VariantTools",
@@ -1445,7 +1416,6 @@
     "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [
@@ -1554,7 +1524,6 @@
     ],
     "lisaClust": [
         "ClassifyR",
-        "SpatialExperiment",
         "genefilter",
         "spicyR"
     ],
@@ -1847,9 +1816,7 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
         "TFBSTools"
@@ -1960,7 +1927,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "Rbowtie",
         "biovizBase",
         "karyoploteR"
@@ -2040,10 +2006,7 @@
         "yarn"
     ],
     "NewWave": [],
-    "nipalsMCIA": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
     "normr": [],
@@ -2103,7 +2066,6 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -2536,7 +2498,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -2572,9 +2533,7 @@
     "scGPS": [],
     "schex": [],
     "scHOT": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [
         "flowCore"
     ],
@@ -2683,7 +2642,6 @@
     "signeR": [],
     "signifinder": [
         "GSVA",
-        "SpatialExperiment",
         "consensusOV"
     ],
     "SigsPack": [],
@@ -2699,7 +2657,6 @@
     ],
     "similaRpeak": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [
@@ -2724,7 +2681,6 @@
         "Rbowtie"
     ],
     "singscore": [],
-    "SiPSiC": [],
     "skewr": [
         "ROC",
         "genefilter",
@@ -2760,17 +2716,10 @@
     "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -2789,12 +2738,10 @@
         "KEGGgraph"
     ],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
     "spicyR": [
         "ClassifyR",
-        "SpatialExperiment",
         "genefilter"
     ],
     "spkTools": [],
@@ -2808,9 +2755,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [
         "phyloseq"
@@ -2822,8 +2767,7 @@
     "sSNAPPY": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "Category",
@@ -2831,15 +2775,11 @@
         "genefilter"
     ],
     "StarBioTrek": [],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [
         "ROC"
     ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "Streamer": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
@@ -3007,13 +2947,11 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "vidger": [],
     "ViSEAGO": [
         "GOSemSim"
     ],
     "vissE": [],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vsclust": [],
