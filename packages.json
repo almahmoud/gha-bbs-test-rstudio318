@@ -247,7 +247,6 @@
         "GSEABase"
     ],
     "autonomics": [],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -336,7 +335,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "DOSE",
         "GOSemSim",
@@ -2288,7 +2286,6 @@
     "metabolomicsWorkbenchR": [
         "struct"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
@@ -2711,7 +2708,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -3008,7 +3004,6 @@
     "POWSC": [
         "MAST"
     ],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -3201,7 +3196,6 @@
         "Rcwl",
         "basilisk"
     ],
-    "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
@@ -3618,7 +3612,6 @@
         "VariantAnnotation"
     ],
     "SeqGSEA": [],
-    "seqsetvis": [],
     "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [],
