@@ -3,24 +3,20 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -442,7 +438,6 @@
         "qvalue"
     ],
     "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -868,7 +863,6 @@
         "MAST",
         "Maaslin2",
         "MultiAssayExperiment",
-        "NOISeq",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -1283,7 +1277,6 @@
         "sparseMatrixStats"
     ],
     "BPRMeth": [],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -2347,7 +2340,6 @@
     ],
     "CNVMetrics": [],
     "CNVPanelizer": [
-        "NOISeq",
         "Rhtslib",
         "Rsamtools",
         "exomeCopy"
@@ -2622,7 +2614,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "coRdon": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "fgsea",
@@ -5381,7 +5372,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "HEM": [],
     "hermes": [
         "ComplexHeatmap",
@@ -5633,7 +5623,6 @@
         "rtracklayer"
     ],
     "idiogram": [],
-    "idpr": [],
     "idr2d": [],
     "IFAA": [],
     "IgGeneUsage": [],
@@ -6009,7 +5998,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -6257,7 +6245,6 @@
         "affy",
         "affyio"
     ],
-    "MANOR": [],
     "maPredictDSC": [
         "ROC",
         "affy",
@@ -6593,9 +6580,7 @@
     "metapone": [
         "fgsea"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "ABSSeq",
         "BSgenome",
@@ -7890,7 +7875,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy",
@@ -8104,7 +8088,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -8319,7 +8302,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -8363,7 +8345,6 @@
         "vsn"
     ],
     "PECA": [
-        "ROTS",
         "affy",
         "affyio",
         "genefilter"
@@ -9885,7 +9866,6 @@
     "ROC": [],
     "ROCpAI": [],
     "RolDE": [
-        "ROTS",
         "qvalue"
     ],
     "rols": [],
@@ -9899,7 +9879,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "affy",
         "affyio",
@@ -10368,7 +10347,6 @@
     "scReClassify": [
         "SingleCellExperiment"
     ],
-    "scRecover": [],
     "screenCounter": [],
     "ScreenR": [],
     "scRepertoire": [
@@ -11463,7 +11441,6 @@
     "SynExtend": [
         "DECIPHER"
     ],
-    "synlet": [],
     "SynMut": [],
     "syntenet": [
         "BiocIO",
