@@ -51,7 +51,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -62,48 +61,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -119,7 +102,6 @@
     "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "animalcules": [],
     "annmap": [
         "genefilter"
     ],
@@ -223,7 +205,6 @@
     "beer": [],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
         "Maaslin2",
         "genefilter",
         "zinbwave"
@@ -413,9 +394,7 @@
         "PROMISE"
     ],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBarcode": [],
     "CellBench": [],
@@ -855,7 +834,6 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "destiny": [],
     "DEsubs": [],
     "DExMA": [
         "genefilter",
@@ -1170,9 +1148,7 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frma": [],
     "funtooNorm": [
         "genefilter",
@@ -1302,7 +1278,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "GOpro": [],
     "GOSemSim": [],
     "GOSim": [],
     "goSorensen": [
@@ -1513,7 +1488,6 @@
     ],
     "LineagePulse": [],
     "lineagespot": [],
-    "LinkHD": [],
     "lipidr": [
         "ropls"
     ],
@@ -1585,7 +1559,6 @@
     ],
     "maSigPro": [],
     "maskBAD": [],
-    "MAST": [],
     "mastR": [],
     "matchBox": [],
     "MatrixQCvis": [],
@@ -2037,7 +2010,6 @@
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -2108,7 +2080,6 @@
     ],
     "phemd": [
         "biocViews",
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -2148,9 +2119,7 @@
     "pogos": [
         "ontoProc"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "prebs": [
         "RPA"
     ],
@@ -2489,7 +2458,6 @@
     "scDD": [],
     "scDDboost": [],
     "scDesign3": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -2626,13 +2594,11 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
-        "MAST",
         "TSCAN",
         "celda",
         "genefilter",
         "scDblFinder",
         "scMerge",
-        "scds",
         "sva",
         "zinbwave"
     ],
