@@ -456,7 +456,6 @@
         "genefilter",
         "sva"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -895,7 +894,6 @@
         "multiHiCcompare"
     ],
     "HiContacts": [],
-    "HiCool": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1813,7 +1811,6 @@
         "enrichplot"
     ],
     "tenXplore": [],
-    "terraTCGAdata": [],
     "TFHAZ": [],
     "tilingArray": [
         "genefilter"
