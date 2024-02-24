@@ -372,7 +372,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
@@ -512,7 +511,6 @@
     "cmapR": [
         "flowCore"
     ],
-    "cn.farms": [],
     "cn.mops": [],
     "CNORdt": [
         "CellNOptR"
@@ -598,7 +596,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -1161,7 +1158,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
@@ -1205,7 +1201,6 @@
         "genefilter"
     ],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "globalSeq": [],
     "gmapR": [],
@@ -2026,7 +2021,6 @@
     "PrInCE": [
         "MSnbase"
     ],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
