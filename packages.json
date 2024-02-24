@@ -362,7 +362,6 @@
     "condiments": [],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge"
     ],
     "consensusDE": [
@@ -661,7 +660,6 @@
         "ggcyto"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -965,9 +963,7 @@
     "MetaboAnnotation": [
         "CompoundDb"
     ],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [
         "FlowSOM"
@@ -1138,7 +1134,6 @@
     ],
     "musicatk": [],
     "MVCClass": [],
-    "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
@@ -1189,9 +1184,7 @@
         "flowWorkspace"
     ],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -1316,7 +1309,6 @@
         "RSeqAn"
     ],
     "qcmetrics": [],
-    "qPLEXanalyzer": [],
     "qsea": [
         "HMMcopy"
     ],
@@ -1413,7 +1405,6 @@
     ],
     "RITAN": [],
     "RLSeq": [],
-    "RMassBank": [],
     "RNAAgeCalc": [
         "derfinder",
         "recount"
