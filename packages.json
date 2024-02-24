@@ -1104,9 +1104,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "flowCore"
     ],
@@ -1187,7 +1185,6 @@
         "DOSE",
         "GOSemSim",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "vsn"
@@ -1601,7 +1598,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "ShortRead"
     ],
@@ -2295,7 +2291,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "lemur": [
         "HDF5Array",
         "glmGamPoi"
@@ -2477,7 +2472,6 @@
     "MEB": [],
     "MEDIPS": [],
     "Melissa": [],
-    "memes": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
@@ -2624,7 +2618,6 @@
     ],
     "MetID": [],
     "mfa": [],
-    "Mfuzz": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -2924,9 +2917,7 @@
         "HiCcompare"
     ],
     "MultimodalExperiment": [],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "multiWGCNA": [
         "dcanr"
     ],
@@ -3365,7 +3356,6 @@
         "DOSE",
         "GOSemSim",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "vsn"
@@ -3786,7 +3776,6 @@
         "EDASeq",
         "ShortRead"
     ],
-    "RVS": [],
     "sagenhaft": [],
     "SAIGEgds": [],
     "sampleClassifier": [],
@@ -3951,7 +3940,6 @@
         "HiLDA"
     ],
     "semisup": [],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -4304,7 +4292,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "SWATH2stats": [],
     "SwathXtend": [],
     "switchde": [],
     "synapter": [
@@ -4378,12 +4365,10 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "Mfuzz",
         "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
-    "TIN": [],
     "TissueEnrich": [
         "GSEABase"
     ],
@@ -4543,7 +4528,6 @@
         "VariantAnnotation"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [
         "basilisk",
         "zellkonverter"
