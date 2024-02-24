@@ -2185,7 +2185,6 @@
     ],
     "parody": [],
     "partCNV": [],
-    "PAST": [],
     "PathNet": [],
     "PathoStat": [
         "biomformat",
@@ -2558,7 +2557,6 @@
         "RNAmodR",
         "biovizBase"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "derfinder",
@@ -2570,7 +2568,6 @@
         "minfi"
     ],
     "ROC": [],
-    "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
