@@ -584,7 +584,6 @@
         "FlowSOM"
     ],
     "DifferentialRegulation": [],
-    "diffHic": [],
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
@@ -600,7 +599,6 @@
     "dmrseq": [
         "annotatr"
     ],
-    "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
         "sva"
