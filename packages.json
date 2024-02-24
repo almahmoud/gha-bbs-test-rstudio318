@@ -428,7 +428,6 @@
         "biocViews"
     ],
     "BiocSet": [],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk"
     ],
@@ -925,7 +924,6 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR",
@@ -2777,7 +2775,6 @@
     "MetID": [],
     "mfa": [],
     "Mfuzz": [],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -2810,9 +2807,7 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -3764,7 +3759,6 @@
     ],
     "RegionalST": [
         "BayesSpace",
-        "TOAST",
         "scran"
     ],
     "regioneR": [],
@@ -4033,7 +4027,6 @@
     "SCArray.sat": [
         "SCArray"
     ],
-    "scater": [],
     "scBFA": [
         "genefilter",
         "zinbwave"
@@ -4641,7 +4634,6 @@
         "GSVA",
         "HDF5Array"
     ],
-    "TOAST": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
