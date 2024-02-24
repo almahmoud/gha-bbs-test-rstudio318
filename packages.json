@@ -648,7 +648,6 @@
         "bsseq",
         "bumphunter",
         "genefilter",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -840,7 +839,6 @@
     "cogeqc": [],
     "Cogito": [],
     "coGPS": [],
-    "cola": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -942,7 +940,6 @@
     "countsimQC": [
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -1811,7 +1808,6 @@
     ],
     "GOpro": [],
     "GOSemSim": [],
-    "goseq": [],
     "GOSim": [
         "topGO"
     ],
@@ -1969,7 +1965,6 @@
         "GOstats",
         "GSEABase",
         "genefilter",
-        "goseq",
         "pcaExplorer",
         "topGO"
     ],
@@ -2543,7 +2538,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -3282,7 +3276,6 @@
         "genefilter",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -3302,13 +3295,10 @@
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -3706,7 +3696,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "SimFFPE": [],
     "similaRpeak": [],
     "simona": [],
     "simpleSeg": [
@@ -3773,8 +3762,7 @@
         "TrajectoryUtils"
     ],
     "SMITE": [
-        "BioNet",
-        "goseq"
+        "BioNet"
     ],
     "snapCGH": [
         "genefilter",
