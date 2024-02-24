@@ -541,7 +541,6 @@
         "ggbio"
     ],
     "DEScan2": [],
-    "DESpace": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -796,9 +795,7 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -1153,7 +1150,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [],
     "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -1452,7 +1448,6 @@
     "RareVariantVis": [],
     "Rbec": [],
     "Rbowtie": [],
-    "RCAS": [],
     "RCASPAR": [],
     "Rcpi": [
         "GOSemSim"
@@ -1579,7 +1574,6 @@
     "scClassify": [],
     "scDataviz": [],
     "scFeatures": [],
-    "scider": [],
     "scifer": [],
     "scmeth": [],
     "scone": [
@@ -1703,7 +1697,6 @@
         "Gviz",
         "motifmatchr"
     ],
-    "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [
