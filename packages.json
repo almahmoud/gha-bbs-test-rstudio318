@@ -742,7 +742,6 @@
     "DSS": [
         "bsseq"
     ],
-    "easyRNASeq": [],
     "EDASeq": [],
     "edge": [
         "genefilter",
@@ -1494,7 +1493,6 @@
     ],
     "msgbsR": [
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [],
@@ -1594,7 +1592,6 @@
         "yarn"
     ],
     "nnSVG": [],
-    "normr": [],
     "npGSEA": [],
     "NTW": [],
     "nucleR": [],
