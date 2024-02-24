@@ -19,7 +19,6 @@
     "ADAMgui": [],
     "adductomicsR": [],
     "ADImpute": [],
-    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "Category",
@@ -121,7 +120,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
         "VariantAnnotation",
@@ -255,7 +253,6 @@
     "BEAT": [],
     "beer": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "MAST",
         "Maaslin2",
@@ -803,7 +800,6 @@
     ],
     "crisprScore": [],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "Rbowtie",
@@ -959,7 +955,6 @@
         "VariantAnnotation"
     ],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -1035,7 +1030,6 @@
     "Dino": [],
     "distinct": [],
     "dittoSeq": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1144,7 +1138,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
         "csaw"
@@ -1262,7 +1255,6 @@
         "minfi"
     ],
     "fgga": [],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "flagme": [
@@ -1482,7 +1474,6 @@
         "plyranges"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [],
     "GenVisR": [
         "VariantAnnotation"
     ],
@@ -2049,7 +2040,6 @@
         "biomformat"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "biomformat",
         "phyloseq"
@@ -2376,9 +2366,7 @@
     "OLINgui": [],
     "OmaDB": [],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "genefilter",
         "omicade4",
@@ -2576,7 +2564,6 @@
         "MSnbase"
     ],
     "proActiv": [],
-    "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -3102,7 +3089,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
