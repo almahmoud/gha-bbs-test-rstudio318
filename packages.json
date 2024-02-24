@@ -220,7 +220,6 @@
     "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "gcrma",
         "genefilter",
         "vsn"
@@ -336,7 +335,6 @@
     "beachmat.hdf5": [
         "HDF5Array"
     ],
-    "beadarray": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
@@ -486,9 +484,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools",
@@ -1518,9 +1514,7 @@
         "genomation"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "bamsignals",
