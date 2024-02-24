@@ -82,7 +82,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "amplican": [],
     "annmap": [
         "genefilter"
     ],
@@ -199,7 +198,6 @@
     "biscuiteer": [
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [
@@ -223,8 +221,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -234,7 +231,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -341,7 +337,6 @@
         "Gviz",
         "ROC",
         "biovizBase",
-        "bsseq",
         "genefilter",
         "lumi",
         "methylumi",
@@ -350,7 +345,6 @@
         "sva",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "biovizBase"
@@ -360,15 +354,13 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "chipseq"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -432,8 +424,7 @@
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "coGPS": [],
     "comapr": [
@@ -608,12 +599,10 @@
     ],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "genefilter",
         "sva"
     ],
     "demuxSNP": [],
-    "densvis": [],
     "DEP": [],
     "derfinder": [
         "GenomicFiles"
@@ -649,15 +638,13 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "genefilter",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DominoEffect": [],
     "doppelgangR": [
@@ -674,9 +661,7 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "edge": [
         "genefilter",
         "sva"
@@ -1026,7 +1011,6 @@
     "HPiP": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "ibh": [],
@@ -1105,8 +1089,7 @@
     "katdetectr": [],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [
         "genefilter",
@@ -1232,7 +1215,6 @@
     ],
     "metaseqR2": [
         "DSS",
-        "bsseq",
         "genefilter"
     ],
     "MetCirc": [],
@@ -1243,7 +1225,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "genefilter",
         "minfi"
     ],
@@ -1270,8 +1251,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "genefilter",
@@ -1303,9 +1283,7 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1331,7 +1309,6 @@
         "xcms"
     ],
     "ModCon": [],
-    "MOFA2": [],
     "mogsa": [
         "genefilter"
     ],
@@ -1424,9 +1401,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1487,7 +1462,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "OTUbase": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -1587,7 +1561,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -1808,7 +1781,6 @@
     "RSeqAn": [],
     "rSWeeP": [],
     "RTCGAToolbox": [],
-    "rTRMui": [],
     "RUVSeq": [],
     "sagenhaft": [],
     "SARC": [],
@@ -1829,10 +1801,8 @@
     "scFeatures": [],
     "scider": [],
     "scifer": [],
-    "scMerge": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "RUVSeq"
@@ -1869,7 +1839,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "semisup": [],
     "seqArchRplus": [
@@ -1932,7 +1901,6 @@
     "singleCellTK": [
         "TSCAN",
         "genefilter",
-        "scMerge",
         "sva",
         "zinbwave"
     ],
@@ -1957,16 +1925,13 @@
     ],
     "SNPediaR": [],
     "SNPhood": [],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "sparrow": [],
     "spaSim": [],
@@ -2081,9 +2046,7 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
         "GOSemSim"
