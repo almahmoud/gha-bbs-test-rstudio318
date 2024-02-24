@@ -176,9 +176,7 @@
     ],
     "BG2": [],
     "BgeeDB": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "ROC",
         "genefilter",
@@ -407,7 +405,6 @@
     "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [],
-    "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -829,7 +826,6 @@
     ],
     "escape": [],
     "escheR": [],
-    "EventPointer": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -1103,7 +1099,6 @@
         "chipseq",
         "gmapR"
     ],
-    "hyperdraw": [],
     "ibh": [],
     "icetea": [],
     "iCheck": [
