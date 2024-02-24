@@ -93,7 +93,6 @@
     ],
     "annotatr": [],
     "APAlyzer": [],
-    "APL": [],
     "appreci8R": [],
     "arrayMvout": [
         "genefilter",
@@ -170,7 +169,6 @@
     ],
     "BEAT": [],
     "benchdamic": [
-        "Maaslin2",
         "genefilter",
         "zinbwave"
     ],
@@ -401,7 +399,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [],
     "chromVAR": [
@@ -1200,10 +1197,7 @@
         "methylumi",
         "minfi"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "maCorrPlot": [],
     "MACSr": [],
     "MADSEQ": [],
@@ -1250,7 +1244,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "mbQTL": [],
     "mCSEA": [
         "Gviz",
         "biovizBase"
@@ -1403,9 +1396,7 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
         "Spectra",
@@ -1674,7 +1665,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -1798,10 +1788,7 @@
     "Rcpi": [
         "GOSemSim"
     ],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
@@ -1855,7 +1842,6 @@
     ],
     "retrofit": [],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "RgnTX": [],
@@ -1962,7 +1948,6 @@
     ],
     "scDataviz": [],
     "scDblFinder": [],
-    "scDD": [],
     "scFeatures": [
         "AUCell",
         "SingleCellSignalR"
