@@ -301,9 +301,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celaref": [],
     "cellHTS2": [
         "Category",
@@ -1489,7 +1487,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "orthos": [],
     "OTUbase": [],
     "OutSplice": [
         "Repitools",
@@ -1604,7 +1601,6 @@
         "genefilter",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -1828,7 +1824,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
     "scFeatures": [],
@@ -1980,7 +1975,6 @@
     "spatialHeatmap": [
         "genefilter"
     ],
-    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
