@@ -517,7 +517,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
@@ -700,9 +699,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -1301,8 +1298,7 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRcore": [
         "gDRutils"
@@ -1310,8 +1306,7 @@
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRstyle": [
         "BiocCheck",
@@ -2261,8 +2256,7 @@
     ],
     "PCAtools": [],
     "PDATK": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -2281,8 +2275,7 @@
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "biocViews",
@@ -2303,7 +2296,6 @@
         "biomformat"
     ],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -2458,8 +2450,7 @@
     "r3Cseq": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "raer": [],
     "RAIDS": [
@@ -2786,7 +2777,6 @@
     ],
     "scviR": [],
     "SDAMS": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -2812,7 +2802,6 @@
     "sesame": [],
     "SEtools": [
         "genefilter",
-        "sechm",
         "sva"
     ],
     "sevenC": [],
@@ -2876,7 +2865,6 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -3110,8 +3098,7 @@
         "MSnbase"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz",
@@ -3237,7 +3224,6 @@
         "methylumi",
         "minfi"
     ],
-    "wavClusteR": [],
     "weaver": [],
     "webbioc": [],
     "weitrix": [],
@@ -3254,8 +3240,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XNAString": [],
     "yamss": [],
