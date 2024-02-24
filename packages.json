@@ -426,9 +426,7 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [],
     "ClassifyR": [
         "genefilter"
@@ -1624,7 +1622,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "OLINgui": [],
     "OmaDB": [],
     "omicplotR": [],
     "omicRexposome": [
@@ -1917,7 +1914,6 @@
         "RcwlPipelines"
     ],
     "RgnTX": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
