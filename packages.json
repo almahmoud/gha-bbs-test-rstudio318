@@ -815,7 +815,6 @@
     ],
     "AlphaBeta": [],
     "AlpsNMR": [
-        "MassSpecWavelet",
         "impute",
         "mixOmics"
     ],
@@ -2474,7 +2473,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "gdsfmt",
         "genefilter",
         "limma",
         "lumi",
@@ -3857,7 +3855,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -3977,7 +3974,6 @@
         "S4Vectors",
         "matter"
     ],
-    "CARNIVAL": [],
     "casper": [
         "AnnotationDbi",
         "Biobase",
@@ -5551,7 +5547,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -5635,7 +5630,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "AnnotationDbi",
         "Biobase",
@@ -5666,7 +5660,6 @@
         "limma",
         "zlibbioc"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [
         "Biobase",
         "BiocGenerics"
@@ -5944,7 +5937,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "gdsfmt",
         "limma",
         "zlibbioc"
     ],
@@ -6696,7 +6688,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -6727,7 +6718,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "CARNIVAL",
         "GSEABase",
         "GenomeInfoDb",
         "IRanges",
@@ -8814,7 +8804,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "dks": [],
     "DMCFB": [
         "Biobase",
         "BiocGenerics",
@@ -9173,7 +9162,6 @@
         "limma",
         "zlibbioc"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "Biobase",
         "BiocGenerics",
@@ -10746,7 +10734,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "rWikiPathways",
         "zlibbioc"
     ],
     "fastLiquidAssociation": [
@@ -11029,7 +11016,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -11687,7 +11673,6 @@
         "S4Vectors",
         "SeqArray",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
     "gcapc": [
@@ -11912,10 +11897,8 @@
         "SeqArray",
         "SparseArray",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
-    "gdsfmt": [],
     "GEM": [],
     "gemini": [],
     "gemma.R": [
@@ -12107,7 +12090,6 @@
         "SeqArray",
         "SeqVarTools",
         "XVector",
-        "gdsfmt",
         "quantsmooth",
         "zlibbioc"
     ],
@@ -12784,7 +12766,6 @@
         "S4Vectors",
         "SeqArray",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
     "ggmsa": [
@@ -12874,7 +12855,6 @@
         "graph",
         "zlibbioc"
     ],
-    "GladiaTOX": [],
     "Glimma": [
         "Biobase",
         "BiocGenerics",
@@ -13738,7 +13718,6 @@
         "Biobase",
         "BiocGenerics",
         "DNAcopy",
-        "gdsfmt",
         "quantsmooth"
     ],
     "gwasurvivr": [
@@ -13768,7 +13747,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "gdsfmt",
         "quantsmooth",
         "rtracklayer",
         "zlibbioc"
@@ -15188,7 +15166,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -15942,7 +15919,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -16367,7 +16343,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -16522,7 +16497,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "MassSpecWavelet": [],
     "MAST": [
         "Biobase",
         "BiocGenerics",
@@ -16698,7 +16672,6 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "gdsfmt",
         "oligoClasses",
         "quantsmooth",
         "zlibbioc"
@@ -17203,7 +17176,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -18653,7 +18625,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -20186,7 +20157,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -20570,7 +20540,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "rWikiPathways",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -21776,7 +21745,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "pcxn": [],
     "PDATK": [
         "AIMS",
         "AnnotationDbi",
@@ -23784,7 +23752,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "gdsfmt",
         "quantsmooth",
         "rtracklayer",
         "zlibbioc"
@@ -23835,8 +23802,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "randRotation": [],
-    "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -25137,7 +25102,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
@@ -26139,7 +26103,6 @@
         "snpStats",
         "zlibbioc"
     ],
-    "rWikiPathways": [],
     "S4Arrays": [
         "BiocGenerics",
         "IRanges",
@@ -26170,7 +26133,6 @@
         "S4Vectors",
         "SeqArray",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
     "sampleClassifier": [
@@ -26454,7 +26416,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats",
         "zlibbioc"
     ],
@@ -26476,7 +26437,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats",
         "zlibbioc"
     ],
@@ -26502,7 +26462,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "AnnotationDbi",
         "Biobase",
@@ -27673,7 +27632,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
     "seqbias": [
@@ -27797,7 +27755,6 @@
         "S4Vectors",
         "SNPRelate",
         "XVector",
-        "gdsfmt",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -27814,7 +27771,6 @@
         "S4Vectors",
         "SeqArray",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
     "sesame": [
@@ -28826,9 +28782,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [
         "BiocGenerics",
         "zlibbioc"
@@ -30849,7 +30803,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "rWikiPathways",
         "tkWidgets",
         "zlibbioc"
     ],
@@ -31573,7 +31526,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "TSAR": [],
     "TSCAN": [
         "Biobase",
         "BiocGenerics",
@@ -32026,7 +31978,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "gdsfmt",
         "zlibbioc"
     ],
     "VariantFiltering": [
@@ -32207,7 +32158,6 @@
         "zellkonverter",
         "zlibbioc"
     ],
-    "veloviz": [],
     "VennDetail": [],
     "vidger": [
         "Biobase",
@@ -32583,7 +32533,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
