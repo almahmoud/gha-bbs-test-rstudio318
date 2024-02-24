@@ -188,7 +188,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
-        "bluster",
         "mia",
         "scater",
         "scuttle"
@@ -345,7 +344,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -355,7 +353,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "ScaledMatrix",
-        "bluster",
         "glmGamPoi",
         "scran",
         "scuttle"
@@ -376,7 +373,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -409,7 +405,6 @@
         "ScaledMatrix",
         "TreeSummarizedExperiment",
         "biomformat",
-        "bluster",
         "genefilter",
         "metagenomeSeq",
         "mia",
@@ -535,7 +530,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -573,7 +567,6 @@
         "Rgraphviz"
     ],
     "BloodGen3Module": [],
-    "bluster": [],
     "bnbc": [
         "HiCBricks",
         "genefilter",
@@ -774,7 +767,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -951,7 +943,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "batchelor",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -993,7 +984,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -1191,8 +1181,7 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "ScaledMatrix",
-        "genefu"
+        "ScaledMatrix"
     ],
     "consensusSeekeR": [],
     "consICA": [
@@ -1479,7 +1468,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "celda",
         "scater",
         "scran",
@@ -1607,7 +1595,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -2004,7 +1991,6 @@
         "bambu",
         "basilisk",
         "biovizBase",
-        "bluster",
         "ensembldb",
         "ggbio",
         "scater",
@@ -2226,7 +2212,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter"
@@ -3008,7 +2993,6 @@
         "enrichplot"
     ],
     "metapone": [],
-    "metaSeq": [],
     "metaseqR2": [
         "DSS",
         "DelayedMatrixStats",
@@ -3113,7 +3097,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
-        "bluster",
         "scater",
         "scuttle"
     ],
@@ -3125,7 +3108,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
-        "bluster",
         "mia",
         "scater",
         "scuttle"
@@ -3151,7 +3133,6 @@
         "ScaledMatrix",
         "TreeSummarizedExperiment",
         "biomformat",
-        "bluster",
         "metagenomeSeq",
         "mia",
         "phyloseq",
@@ -3374,7 +3355,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -3479,7 +3459,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "batchelor",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -3814,7 +3793,6 @@
     ],
     "PDATK": [
         "CoreGx",
-        "genefu",
         "piano"
     ],
     "pdInfoBuilder": [],
@@ -3903,7 +3881,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -4227,7 +4204,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "TOAST",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -4556,7 +4532,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -4565,7 +4540,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -4583,7 +4557,6 @@
         "HDF5Array",
         "ScaledMatrix",
         "SingleCellSignalR",
-        "bluster",
         "ensembldb",
         "scran",
         "scuttle"
@@ -4604,7 +4577,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "batchelor",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -4649,7 +4621,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scuttle"
     ],
     "scReClassify": [],
@@ -4698,7 +4669,6 @@
         "OrganismDbi",
         "RBGL",
         "ScaledMatrix",
-        "bluster",
         "bumphunter",
         "ensembldb",
         "epivizr",
@@ -4823,8 +4793,7 @@
         "ScaledMatrix",
         "SpatialExperiment",
         "consensusOV",
-        "ensembldb",
-        "genefu"
+        "ensembldb"
     ],
     "SigsPack": [
         "VariantAnnotation"
@@ -4860,7 +4829,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "scran",
         "scuttle"
     ],
@@ -4879,7 +4847,6 @@
         "TrajectoryUtils",
         "basilisk",
         "batchelor",
-        "bluster",
         "celda",
         "ensembldb",
         "genefilter",
@@ -4976,7 +4943,6 @@
         "DropletUtils",
         "HDF5Array",
         "ScaledMatrix",
-        "bluster",
         "scater",
         "scran",
         "scuttle"
@@ -5005,7 +4971,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "bluster",
         "genefilter",
         "scater",
         "scran",
@@ -5454,8 +5419,7 @@
     ],
     "Voyager": [
         "SpatialExperiment",
-        "SpatialFeatureExperiment",
-        "bluster"
+        "SpatialFeatureExperiment"
     ],
     "VplotR": [],
     "vsclust": [],
