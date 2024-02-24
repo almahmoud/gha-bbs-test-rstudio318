@@ -112,7 +112,6 @@
         "projectR"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -322,7 +321,6 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -556,9 +554,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESpace": [],
     "DExMA": [
         "genefilter",
@@ -879,9 +875,7 @@
     "GSRI": [
         "genefilter"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [
         "quantsmooth"
@@ -1274,7 +1268,6 @@
     "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "motifStack",
         "trackViewer"
@@ -1525,9 +1518,7 @@
         "genefilter",
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionalpcs": [],
     "RegionalST": [],
     "regionReport": [
@@ -1906,7 +1897,6 @@
     ],
     "vtpnet": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "wateRmelon": [
