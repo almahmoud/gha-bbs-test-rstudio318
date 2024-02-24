@@ -248,7 +248,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "genefilter",
         "sva"
@@ -349,7 +348,6 @@
         "genefilter"
     ],
     "cellity": [],
-    "CellNOptR": [],
     "cellscape": [],
     "CEMiTool": [
         "DOSE",
@@ -470,18 +468,10 @@
     ],
     "cmapR": [],
     "cn.mops": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
