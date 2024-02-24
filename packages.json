@@ -962,7 +962,6 @@
         "GenomicFiles",
         "OrganismDbi"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -1886,7 +1885,6 @@
         "quantro",
         "yarn"
     ],
-    "NewWave": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
@@ -2402,7 +2400,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "Category",
         "DOSE",
