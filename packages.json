@@ -22,8 +22,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "aCGH": [
         "multtest"
@@ -81,7 +80,6 @@
         "gcrma",
         "genefilter",
         "ggbio",
-        "graph",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -97,8 +95,7 @@
     ],
     "AffyRNADegradation": [],
     "AGDEX": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "aggregateBioVar": [
         "SingleCellExperiment"
@@ -128,7 +125,6 @@
         "gcrma",
         "genefilter",
         "ggbio",
-        "graph",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -145,7 +141,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "graph",
         "rtracklayer"
     ],
     "airpart": [
@@ -300,7 +295,6 @@
         "mixOmics"
     ],
     "altcdfenvs": [
-        "graph",
         "hypergraph",
         "makecdfenv"
     ],
@@ -369,7 +363,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "graph",
         "rtracklayer"
     ],
     "annotatr": [
@@ -406,13 +399,11 @@
     ],
     "apComplex": [
         "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "apeglm": [],
     "APL": [
         "SingleCellExperiment",
-        "graph",
         "topGO"
     ],
     "appreci8R": [
@@ -428,7 +419,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -440,7 +430,6 @@
     "arrayMvout": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -459,9 +448,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
@@ -470,8 +457,7 @@
         "vsn"
     ],
     "artMS": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "ASICS": [
         "MultiAssayExperiment",
@@ -520,7 +506,6 @@
         "TFBSTools",
         "chromVAR",
         "fgsea",
-        "graph",
         "motifmatchr",
         "projectR",
         "rGREAT",
@@ -546,7 +531,6 @@
         "Rsamtools",
         "TFBSTools",
         "ensembldb",
-        "graph",
         "motifStack",
         "multtest",
         "regioneR",
@@ -591,13 +575,11 @@
         "GSEABase",
         "RBGL",
         "Rgraphviz",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "AUCell": [
         "DelayedMatrixStats",
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "autonomics": [
         "MultiAssayExperiment",
@@ -812,7 +794,6 @@
         "rtracklayer"
     ],
     "BgeeDB": [
-        "graph",
         "topGO"
     ],
     "bgx": [
@@ -820,13 +801,11 @@
     ],
     "BicARE": [
         "GSEABase",
-        "graph",
         "multtest"
     ],
     "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
-        "graph",
         "hyperdraw",
         "hypergraph",
         "rsbml"
@@ -834,7 +813,6 @@
     "bigmelon": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -884,22 +862,17 @@
         "fgsea",
         "geNetClassifier",
         "ggtree",
-        "graph",
         "graphite",
         "qvalue",
         "rtracklayer"
     ],
     "BiocCheck": [
         "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
-    "BiocFHIR": [
-        "graph"
-    ],
+    "BiocFHIR": [],
     "biocGraph": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "BiocHail": [
         "basilisk",
@@ -922,19 +895,16 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
     ],
     "BioCor": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "BiocPkgTools": [
         "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "BiocSet": [
         "BiocIO"
@@ -948,8 +918,7 @@
         "basilisk.utils"
     ],
     "biocViews": [
-        "RBGL",
-        "graph"
+        "RBGL"
     ],
     "biodbChebi": [],
     "biodbExpasy": [],
@@ -966,8 +935,7 @@
     ],
     "BioMVCClass": [
         "MVCClass",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "biomvRCNS": [
         "AnnotationFilter",
@@ -984,8 +952,7 @@
         "rtracklayer"
     ],
     "BioNAR": [
-        "fgsea",
-        "graph"
+        "fgsea"
     ],
     "BioNERO": [
         "ComplexHeatmap",
@@ -993,13 +960,11 @@
         "sva"
     ],
     "BioNet": [
-        "RBGL",
-        "graph"
+        "RBGL"
     ],
     "BioNetStat": [
         "KEGGgraph",
         "Rgraphviz",
-        "graph",
         "pathview"
     ],
     "BioQC": [],
@@ -1053,8 +1018,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "graph",
-        "marray",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -1082,8 +1045,7 @@
     "BLMA": [
         "KEGGgraph",
         "ROntoTools",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -1104,7 +1066,6 @@
         "Rgraphviz",
         "epiNEM",
         "genefilter",
-        "graph",
         "mnem",
         "sva",
         "vsn"
@@ -1123,7 +1084,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "plyranges",
         "rtracklayer"
     ],
@@ -1163,7 +1123,6 @@
         "derfinderPlot",
         "ensembldb",
         "ggbio",
-        "graph",
         "qvalue",
         "rtracklayer"
     ],
@@ -1274,7 +1233,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "CAGEfightR": [
@@ -1311,7 +1269,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "graph",
         "rtracklayer",
         "sva"
     ],
@@ -1346,7 +1303,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -1370,7 +1326,6 @@
         "cBioPortalData",
         "geNetClassifier",
         "genefilter",
-        "graph",
         "phenoTest",
         "rtracklayer"
     ],
@@ -1415,8 +1370,7 @@
     "Category": [
         "GSEABase",
         "RBGL",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "categoryCompare": [
         "AnnotationForge",
@@ -1426,8 +1380,7 @@
         "RBGL",
         "RCy3",
         "Rgraphviz",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "cbaf": [
         "BiocIO",
@@ -1472,7 +1425,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "graphite",
         "qvalue"
     ],
@@ -1489,8 +1441,7 @@
     ],
     "CCPROMISE": [
         "GSEABase",
-        "PROMISE",
-        "graph"
+        "PROMISE"
     ],
     "CDI": [
         "SingleCellExperiment"
@@ -1529,7 +1480,6 @@
         "GSEABase",
         "RBGL",
         "genefilter",
-        "graph",
         "vsn"
     ],
     "CelliD": [
@@ -1543,7 +1493,6 @@
         "scuttle"
     ],
     "cellity": [
-        "graph",
         "topGO"
     ],
     "CellMapper": [],
@@ -1558,8 +1507,7 @@
     ],
     "CellNOptR": [
         "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "cellscape": [],
     "CellScore": [],
@@ -1587,7 +1535,6 @@
         "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -1602,7 +1549,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "qvalue"
     ],
     "CexoR": [
@@ -1621,8 +1567,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "cfDNAPro": [
         "BSgenome",
@@ -1639,12 +1584,9 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools",
@@ -1652,12 +1594,10 @@
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "AnnotationFilter",
@@ -1667,7 +1607,6 @@
         "DMRcate",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -1685,7 +1624,6 @@
         "globaltest",
         "goseq",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -1698,7 +1636,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [
         "SingleCellExperiment"
     ],
@@ -1720,7 +1657,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "ChIPanalyser": [
@@ -1770,7 +1706,6 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer"
@@ -1825,7 +1760,6 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "GEOquery",
         "frma",
         "oligo",
         "oligoClasses"
@@ -1875,8 +1809,7 @@
         "rtracklayer"
     ],
     "CHRONOS": [
-        "RBGL",
-        "graph"
+        "RBGL"
     ],
     "cicero": [
         "AnnotationFilter",
@@ -1892,7 +1825,6 @@
         "biocViews",
         "biovizBase",
         "ensembldb",
-        "graph",
         "monocle",
         "rtracklayer"
     ],
@@ -1952,7 +1884,6 @@
     ],
     "cleaver": [],
     "clevRvis": [],
-    "clippda": [],
     "clipper": [
         "BiocIO",
         "GenomicAlignments",
@@ -1961,7 +1892,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "qpgraph",
         "rtracklayer"
     ],
@@ -2057,26 +1987,22 @@
     "CNORdt": [
         "CellNOptR",
         "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNORfeeder": [
         "CellNOptR",
         "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNORode": [
         "CellNOptR",
         "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNTools": [
         "genefilter"
@@ -2251,8 +2177,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
-        "marray",
         "methylPipe",
         "rtracklayer",
         "topGO"
@@ -2283,8 +2207,7 @@
         "flowClust",
         "flowCore",
         "flowMeans",
-        "flowMerge",
-        "graph"
+        "flowMerge"
     ],
     "consensusDE": [
         "AnnotationFilter",
@@ -2311,7 +2234,6 @@
         "SingleCellExperiment",
         "beachmat",
         "genefu",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2323,7 +2245,6 @@
         "rtracklayer"
     ],
     "consICA": [
-        "graph",
         "topGO"
     ],
     "contiBAIT": [
@@ -2341,7 +2262,6 @@
     "conumee": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -2356,9 +2276,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "CopyNumberPlots": [
         "AnnotationFilter",
         "BSgenome",
@@ -2382,7 +2300,6 @@
     "CoreGx": [
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "Cormotif": [],
@@ -2415,8 +2332,7 @@
         "xcms"
     ],
     "cosmosR": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "COSNet": [],
     "COTAN": [
@@ -2449,7 +2365,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rtracklayer"
     ],
     "CRImage": [
@@ -2566,7 +2481,6 @@
         "oligoClasses"
     ],
     "crossmeta": [
-        "GEOquery",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -2641,8 +2555,7 @@
         "flowClust",
         "flowCore",
         "flowDensity",
-        "flowViz",
-        "graph"
+        "flowViz"
     ],
     "cycle": [
         "Mfuzz"
@@ -2703,7 +2616,6 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow",
         "openCyto"
     ],
@@ -2717,7 +2629,6 @@
         "flowCore",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow"
     ],
     "CytoPipelineGUI": [
@@ -2731,7 +2642,6 @@
         "flowCore",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow"
     ],
     "cytoviewer": [
@@ -2794,7 +2704,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -2806,7 +2715,6 @@
         "RBGL",
         "Rgraphviz",
         "epiNEM",
-        "graph",
         "graphite",
         "mnem",
         "multtest"
@@ -2832,7 +2740,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "graph",
         "pathview",
         "qvalue",
         "sva"
@@ -2867,7 +2774,6 @@
     "deconvR": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -2918,8 +2824,7 @@
         "NCIgraph",
         "RBGL",
         "RCy3",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "DEGreport": [
         "ComplexHeatmap",
@@ -3026,7 +2931,6 @@
         "derfinderHelper",
         "ensembldb",
         "ggbio",
-        "graph",
         "qvalue",
         "rtracklayer"
     ],
@@ -3042,7 +2946,6 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer"
@@ -3059,14 +2962,12 @@
     "DEsubs": [
         "DESeq2",
         "RBGL",
-        "graph",
         "qvalue"
     ],
     "DEWSeq": [
         "DESeq2"
     ],
     "DExMA": [
-        "GEOquery",
         "genefilter",
         "sva"
     ],
@@ -3183,7 +3084,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -3279,7 +3179,6 @@
         "SPIA",
         "SingleCellExperiment",
         "beachmat",
-        "graph",
         "graphite",
         "pathview",
         "zenith"
@@ -3306,7 +3205,6 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
         "oligo",
         "oligoClasses",
         "qvalue"
@@ -3326,9 +3224,7 @@
         "rtracklayer"
     ],
     "Dune": [],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "easier": [
         "AnnotationHub",
         "DESeq2",
@@ -3371,9 +3267,7 @@
     "EDIRquery": [
         "InteractionSet"
     ],
-    "EGAD": [
-        "GEOquery"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -3387,7 +3281,6 @@
         "beachmat",
         "gage",
         "globaltest",
-        "graph",
         "multtest",
         "pathview",
         "rhdf5",
@@ -3430,7 +3323,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -3453,7 +3345,6 @@
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
-        "graph",
         "graphite",
         "pathview"
     ],
@@ -3491,7 +3382,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "qvalue"
     ],
     "ensembldb": [
@@ -3586,7 +3476,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -3600,7 +3489,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "graph",
         "minfi",
         "multtest",
         "rhdf5",
@@ -3611,7 +3499,6 @@
     "epiNEM": [
         "RBGL",
         "Rgraphviz",
-        "graph",
         "mnem"
     ],
     "epistack": [],
@@ -3640,7 +3527,6 @@
         "ensembldb",
         "epivizrData",
         "epivizrServer",
-        "graph",
         "rtracklayer"
     ],
     "epivizrChart": [
@@ -3655,7 +3541,6 @@
         "ensembldb",
         "epivizrData",
         "epivizrServer",
-        "graph",
         "rtracklayer"
     ],
     "epivizrData": [
@@ -3669,7 +3554,6 @@
         "Rsamtools",
         "ensembldb",
         "epivizrServer",
-        "graph",
         "rtracklayer"
     ],
     "epivizrServer": [],
@@ -3687,7 +3571,6 @@
         "epivizr",
         "epivizrData",
         "epivizrServer",
-        "graph",
         "rtracklayer"
     ],
     "erccdashboard": [
@@ -3704,7 +3587,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "graph",
         "rtracklayer"
     ],
     "ERSSA": [
@@ -3745,7 +3627,6 @@
         "SingleCellExperiment",
         "UCell",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3773,7 +3654,6 @@
         "Rsamtools",
         "SGSeq",
         "fgsea",
-        "graph",
         "qvalue",
         "rhdf5",
         "rhdf5filters",
@@ -3825,7 +3705,6 @@
         "Rhtslib",
         "Rsamtools",
         "biocViews",
-        "graph",
         "rtracklayer"
     ],
     "ExperimentSubset": [
@@ -3853,7 +3732,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "BiocIO",
@@ -3912,15 +3790,13 @@
     ],
     "FeatSeekR": [],
     "fedup": [
-        "RCy3",
-        "graph"
+        "RCy3"
     ],
     "FELLA": [],
     "fenr": [],
     "ffpe": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -3938,8 +3814,7 @@
         "siggenes"
     ],
     "fgga": [
-        "RBGL",
-        "graph"
+        "RBGL"
     ],
     "fgsea": [],
     "FilterFFPE": [
@@ -3972,7 +3847,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -4006,7 +3880,6 @@
         "bluster",
         "ensembldb",
         "ggbio",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -4038,8 +3911,7 @@
     ],
     "flowClust": [
         "cytolib",
-        "flowCore",
-        "graph"
+        "flowCore"
     ],
     "flowCore": [
         "cytolib"
@@ -4067,7 +3939,6 @@
         "flowCore",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow"
     ],
     "flowMatch": [
@@ -4082,8 +3953,7 @@
         "Rgraphviz",
         "cytolib",
         "flowClust",
-        "flowCore",
-        "graph"
+        "flowCore"
     ],
     "flowPloidy": [
         "cytolib",
@@ -4104,7 +3974,6 @@
         "flowCore",
         "flowViz",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "flowTime": [
@@ -4115,8 +3984,7 @@
         "cytolib",
         "flowClust",
         "flowCore",
-        "flowViz",
-        "graph"
+        "flowViz"
     ],
     "flowViz": [
         "cytolib",
@@ -4130,7 +3998,6 @@
         "flowStats",
         "flowViz",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "flowWorkspace": [
@@ -4138,7 +4005,6 @@
         "Rgraphviz",
         "cytolib",
         "flowCore",
-        "graph",
         "ncdfFlow"
     ],
     "fmcsR": [],
@@ -4175,7 +4041,6 @@
     "funtooNorm": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4213,12 +4078,8 @@
         "rtracklayer"
     ],
     "gaga": [],
-    "gage": [
-        "graph"
-    ],
-    "gaggle": [
-        "graph"
-    ],
+    "gage": [],
+    "gaggle": [],
     "GARS": [
         "BiocIO",
         "DESeq2",
@@ -4242,8 +4103,7 @@
     ],
     "gatom": [
         "BioNet",
-        "RBGL",
-        "graph"
+        "RBGL"
     ],
     "GBScleanR": [
         "SeqArray"
@@ -4272,7 +4132,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "pathview",
         "qvalue"
     ],
@@ -4296,7 +4155,6 @@
         "gDRcore",
         "gDRimport",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRcore": [
@@ -4309,14 +4167,12 @@
         "PharmacoGx",
         "fgsea",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRstyle": [
         "BiocCheck",
         "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "gDRutils": [
         "MultiAssayExperiment"
@@ -4340,8 +4196,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "GeneExpressionSignature": [],
     "genefilter": [],
@@ -4354,8 +4209,7 @@
         "genefilter"
     ],
     "GeneNetworkBuilder": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "geneplotter": [],
     "GeneRegionScan": [],
@@ -4435,7 +4289,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rtracklayer"
     ],
     "GenomicInteractions": [
@@ -4467,7 +4320,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "GenomicPlot": [
@@ -4510,23 +4362,18 @@
         "NanoStringNCTools"
     ],
     "GEOexplorer": [
-        "GEOquery",
         "genefilter",
         "sva"
     ],
     "GEOfastq": [],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
+    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools"
     ],
-    "GEOquery": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4536,7 +4383,6 @@
         "RBGL",
         "cellHTS2",
         "genefilter",
-        "graph",
         "vsn"
     ],
     "getDEE2": [],
@@ -4556,7 +4402,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "ggcyto": [
@@ -4565,7 +4410,6 @@
         "cytolib",
         "flowCore",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "ggkegg": [],
@@ -4598,8 +4442,7 @@
     ],
     "GISPA": [
         "GSEABase",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "Glimma": [
         "DESeq2"
@@ -4617,8 +4460,7 @@
     ],
     "GlobalAncova": [
         "GSEABase",
-        "globaltest",
-        "graph"
+        "globaltest"
     ],
     "globalSeq": [],
     "globaltest": [],
@@ -4642,8 +4484,7 @@
         "GSEABase",
         "RBGL",
         "Rgraphviz",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "gmoviz": [
         "BiocIO",
@@ -4688,7 +4529,6 @@
     ],
     "GOSim": [
         "RBGL",
-        "graph",
         "topGO"
     ],
     "goSorensen": [
@@ -4708,8 +4548,7 @@
         "GSEABase",
         "RBGL",
         "Rgraphviz",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "GOTHiC": [
         "BSgenome",
@@ -4732,19 +4571,13 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "rtracklayer",
         "topGO"
     ],
     "granulator": [],
     "graper": [],
-    "graph": [],
-    "GraphAT": [
-        "graph"
-    ],
-    "graphite": [
-        "graph"
-    ],
+    "GraphAT": [],
+    "graphite": [],
     "GraphPAC": [
         "iPAC",
         "multtest"
@@ -4769,9 +4602,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "GSEABase": [
-        "graph"
-    ],
+    "GSEABase": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "EnrichmentBrowser",
@@ -4780,15 +4611,13 @@
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
-        "graph",
         "graphite",
         "pathview"
     ],
     "GSEAlm": [],
     "gsean": [
         "PPInfer",
-        "fgsea",
-        "graph"
+        "fgsea"
     ],
     "GSReg": [
         "BiocIO",
@@ -4798,13 +4627,11 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rtracklayer"
     ],
     "GSRI": [
         "GSEABase",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "GSVA": [
         "BiocSingular",
@@ -4814,7 +4641,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4832,7 +4658,6 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rhdf5",
@@ -4895,16 +4720,13 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
     ],
     "Harshlight": [
         "altcdfenvs",
-        "graph",
         "hypergraph",
         "makecdfenv"
     ],
@@ -5075,15 +4897,11 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
-    "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
-        "graph",
         "hypergraph"
     ],
-    "hypergraph": [
-        "graph"
-    ],
+    "hypergraph": [],
     "iasva": [],
     "ibh": [],
     "iBMQ": [],
@@ -5103,7 +4921,6 @@
     "iCheck": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5145,7 +4962,6 @@
         "Rsamtools",
         "genefilter",
         "goseq",
-        "graph",
         "pcaExplorer",
         "rtracklayer",
         "topGO"
@@ -5202,7 +5018,6 @@
         "cytolib",
         "flowCore",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "immunoClust": [
@@ -5213,7 +5028,6 @@
         "BiocIO",
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5231,7 +5045,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "graph",
         "graphite",
         "minfi",
         "multtest",
@@ -5291,7 +5104,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "InteractionSet": [],
@@ -5302,8 +5114,7 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "InterCellar": [
         "ComplexHeatmap"
@@ -5351,7 +5162,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -5470,17 +5280,13 @@
         "siggenes"
     ],
     "KEGGgraph": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "KEGGlincs": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
-    "keggorthology": [
-        "graph"
-    ],
+    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "BSgenome",
@@ -5563,7 +5369,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -5585,8 +5390,7 @@
     ],
     "lpNet": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "LRBaseDbi": [],
     "LRcell": [
@@ -5596,7 +5400,6 @@
     "lumi": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5613,8 +5416,7 @@
         "siggenes"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "msa"
+        "ggtree"
     ],
     "m6Aboost": [
         "AnnotationHub",
@@ -5659,7 +5461,6 @@
     "MAGAR": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5689,7 +5490,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "pathview",
         "qvalue"
     ],
@@ -5719,7 +5519,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -5745,7 +5544,6 @@
         "rtracklayer"
     ],
     "marr": [],
-    "marray": [],
     "martini": [],
     "maser": [
         "AnnotationFilter",
@@ -5772,8 +5570,7 @@
         "AnnotationHub",
         "ExperimentHub",
         "GSEABase",
-        "SingleCellExperiment",
-        "graph"
+        "SingleCellExperiment"
     ],
     "matchBox": [],
     "MatrixQCvis": [
@@ -5835,7 +5632,6 @@
         "biovizBase",
         "ensembldb",
         "fgsea",
-        "graph",
         "rtracklayer"
     ],
     "MDTS": [
@@ -5848,7 +5644,6 @@
         "BSgenome",
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -5875,7 +5670,6 @@
     "MEAT": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5916,12 +5710,10 @@
         "BPRMeth"
     ],
     "memes": [],
-    "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot",
         "fgsea",
         "ggtree",
@@ -5930,10 +5722,8 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "RBGL",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "MesKit": [
         "ComplexHeatmap"
@@ -5973,7 +5763,6 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "hpar",
         "mygene",
         "qvalue",
@@ -6007,7 +5796,6 @@
         "QFeatures",
         "RBGL",
         "Spectra",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -6025,7 +5813,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "qvalue"
     ],
     "metapone": [
@@ -6092,7 +5879,6 @@
     "MethylAid": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6111,7 +5897,6 @@
         "BSgenome",
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6138,7 +5923,6 @@
         "DelayedMatrixStats",
         "ExperimentHub",
         "ExperimentHubData",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6149,7 +5933,6 @@
         "biocViews",
         "bumphunter",
         "genefilter",
-        "graph",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6161,7 +5944,6 @@
         "BiocIO",
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6217,7 +5999,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "marray",
         "rtracklayer"
     ],
     "methylscaper": [],
@@ -6247,7 +6028,6 @@
     "methylumi": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6393,7 +6173,6 @@
         "BiocIO",
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "GSEABase",
         "GenomicAlignments",
@@ -6405,9 +6184,7 @@
         "Rsamtools",
         "bumphunter",
         "genefilter",
-        "graph",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "multtest",
@@ -6419,7 +6196,6 @@
     "minfi": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6466,8 +6242,7 @@
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "miRLAB": [
         "AnnotationForge",
@@ -6477,14 +6252,12 @@
         "RBGL",
         "Rgraphviz",
         "TCGAbiolinks",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6536,11 +6309,9 @@
         "metagenomeSeq"
     ],
     "mnem": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "moanin": [
-        "graph",
         "topGO"
     ],
     "MobilityTransformR": [
@@ -6570,13 +6341,11 @@
         "rhdf5filters"
     ],
     "MOGAMUN": [
-        "RCy3",
-        "graph"
+        "RCy3"
     ],
     "mogsa": [
         "GSEABase",
         "genefilter",
-        "graph",
         "graphite"
     ],
     "MoleculeExperiment": [
@@ -6604,15 +6373,13 @@
     ],
     "monocle": [
         "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "Moonlight2R": [
         "AnnotationHub",
         "BiocIO",
         "ComplexHeatmap",
         "DOSE",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "Rhtslib",
@@ -6626,7 +6393,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "GEOquery",
         "GOSemSim",
         "TCGAbiolinks",
         "clusterProfiler",
@@ -6640,9 +6406,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -6702,7 +6466,6 @@
     "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
-    "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -6762,7 +6525,6 @@
         "ensembldb",
         "genomeIntervals",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "msImpute": [
@@ -6832,24 +6594,19 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [
-        "marray"
-    ],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsLOBD": [],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -6871,12 +6628,10 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MuData": [
         "MultiAssayExperiment",
@@ -6918,7 +6673,6 @@
     "multiGSEA": [
         "AnnotationHub",
         "fgsea",
-        "graph",
         "graphite",
         "multtest"
     ],
@@ -7002,7 +6756,6 @@
         "ComplexHeatmap",
         "KEGGgraph",
         "Rgraphviz",
-        "graph",
         "qvalue"
     ],
     "mygene": [
@@ -7048,7 +6801,6 @@
         "biovizBase",
         "csaw",
         "ensembldb",
-        "graph",
         "motifStack",
         "multtest",
         "regioneR",
@@ -7106,8 +6858,7 @@
         "KEGGgraph",
         "RBGL",
         "RCy3",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "ncRNAtools": [],
     "ndexr": [],
@@ -7127,7 +6878,6 @@
         "RBGL",
         "Rgraphviz",
         "epiNEM",
-        "graph",
         "mnem"
     ],
     "NetActivity": [
@@ -7140,18 +6890,15 @@
         "MultiAssayExperiment"
     ],
     "nethet": [
-        "graph",
         "multtest"
     ],
     "netOmics": [
         "RandomWalkRestartMH",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "NetPathMiner": [],
     "netresponse": [
         "Rgraphviz",
-        "graph",
         "qvalue"
     ],
     "NetSAM": [],
@@ -7176,7 +6923,6 @@
         "BiocIO",
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "GSEABase",
         "GenomicAlignments",
@@ -7189,7 +6935,6 @@
         "Rsamtools",
         "bumphunter",
         "genefilter",
-        "graph",
         "minfi",
         "multtest",
         "quantro",
@@ -7205,15 +6950,12 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "ComplexHeatmap",
         "MultiAssayExperiment",
         "fgsea"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "nnSVG": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -7244,8 +6986,7 @@
         "rtracklayer"
     ],
     "npGSEA": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "NTW": [],
     "nucleoSim": [],
@@ -7287,14 +7028,11 @@
         "ShortRead",
         "SingleCellExperiment",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -7314,16 +7052,12 @@
         "oligoClasses"
     ],
     "oligoClasses": [],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "marray"
+        "OLIN"
     ],
     "omada": [],
     "OmaDB": [
-        "graph",
         "topGO"
     ],
     "omicade4": [
@@ -7367,13 +7101,11 @@
     "oncoscanR": [],
     "OncoScore": [],
     "OncoSimulR": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "ontoProc": [
         "AnnotationHub",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "openCyto": [
         "RBGL",
@@ -7383,7 +7115,6 @@
         "flowCore",
         "flowViz",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "openPrimeR": [
@@ -7393,9 +7124,7 @@
         "DECIPHER",
         "openPrimeR"
     ],
-    "oposSOM": [
-        "graph"
-    ],
+    "oposSOM": [],
     "oppar": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -7405,7 +7134,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -7417,9 +7145,7 @@
     "OPWeight": [
         "qvalue"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BiocIO",
@@ -7454,7 +7180,6 @@
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rtracklayer"
     ],
     "orthogene": [
@@ -7521,8 +7246,7 @@
     ],
     "PAIRADISE": [],
     "paircompviz": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "pairedGSEA": [
         "DESeq2",
@@ -7548,7 +7272,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "multtest",
         "qvalue"
     ],
@@ -7586,13 +7309,11 @@
         "rhdf5filters"
     ],
     "pathRender": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "pathview": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "pcaExplorer": [
         "AnnotationForge",
@@ -7603,7 +7324,6 @@
         "RBGL",
         "Rgraphviz",
         "genefilter",
-        "graph",
         "topGO"
     ],
     "pcaMethods": [],
@@ -7618,7 +7338,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "genefu",
-        "marray",
         "piano"
     ],
     "pdInfoBuilder": [
@@ -7632,7 +7351,6 @@
         "cytolib",
         "flowCore",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "peakPantheR": [
@@ -7667,7 +7385,6 @@
     ],
     "phantasus": [
         "DESeq2",
-        "GEOquery",
         "fgsea",
         "rhdf5",
         "rhdf5filters"
@@ -7679,7 +7396,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "phemd": [
@@ -7687,7 +7403,6 @@
         "SingleCellExperiment",
         "biocViews",
         "destiny",
-        "graph",
         "monocle",
         "pcaMethods"
     ],
@@ -7702,12 +7417,9 @@
         "Category",
         "GSEABase",
         "RBGL",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
-    "PhenStat": [
-        "graph"
-    ],
+    "PhenStat": [],
     "philr": [
         "ggtree"
     ],
@@ -7719,7 +7431,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "OmaDB",
-        "graph",
         "topGO"
     ],
     "phyloseq": [
@@ -7729,12 +7440,10 @@
         "rhdf5filters"
     ],
     "Pi": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "piano": [
-        "fgsea",
-        "marray"
+        "fgsea"
     ],
     "PICS": [
         "GenomicAlignments",
@@ -7750,7 +7459,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "graphite",
         "qvalue"
     ],
@@ -7798,8 +7506,7 @@
         "GSEABase",
         "RBGL",
         "Rgraphviz",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "plotgardener": [
         "BiocIO",
@@ -7843,7 +7550,6 @@
     "pogos": [
         "AnnotationHub",
         "Rgraphviz",
-        "graph",
         "ontoProc"
     ],
     "POMA": [
@@ -7855,10 +7561,8 @@
         "MAST",
         "SingleCellExperiment"
     ],
-    "ppcseq": [],
     "PPInfer": [
-        "fgsea",
-        "graph"
+        "fgsea"
     ],
     "pqsfinder": [],
     "pram": [
@@ -7983,8 +7687,7 @@
         "vsn"
     ],
     "PROMISE": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "PROPS": [
         "genefilter",
@@ -8001,7 +7704,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -8029,7 +7731,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8051,7 +7752,6 @@
     ],
     "psygenet2r": [
         "BgeeDB",
-        "graph",
         "topGO"
     ],
     "ptairMS": [
@@ -8098,8 +7798,7 @@
         "rtracklayer"
     ],
     "pwOmics": [
-        "AnnotationHub",
-        "graph"
+        "AnnotationHub"
     ],
     "qckitfastq": [
         "RSeqAn"
@@ -8109,8 +7808,7 @@
         "CGHbase",
         "CGHcall",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "QFeatures": [
         "AnnotationFilter",
@@ -8128,7 +7826,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rtracklayer"
     ],
     "qPLEXanalyzer": [
@@ -8162,7 +7859,6 @@
     "quantro": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8213,7 +7909,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "r3Cseq": [
@@ -8239,7 +7934,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "raer": [
@@ -8281,8 +7975,7 @@
         "Rsamtools"
     ],
     "RandomWalkRestartMH": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "RareVariantVis": [
         "AnnotationHub",
@@ -8299,9 +7992,7 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "RbcBook1": [
-        "graph"
-    ],
+    "RbcBook1": [],
     "Rbec": [
         "GenomicAlignments",
         "Rhtslib",
@@ -8309,16 +8000,9 @@
         "ShortRead",
         "dada2"
     ],
-    "RBGL": [
-        "graph"
-    ],
-    "RBioFormats": [],
-    "RBioinf": [
-        "graph"
-    ],
-    "RBM": [
-        "marray"
-    ],
+    "RBGL": [],
+    "RBioinf": [],
+    "RBM": [],
     "Rbowtie": [],
     "Rbowtie2": [
         "Rhtslib",
@@ -8366,12 +8050,9 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "RCy3": [
-        "graph"
-    ],
+    "RCy3": [],
     "RCyjs": [
-        "BrowserViz",
-        "graph"
+        "BrowserViz"
     ],
     "rDGIdb": [],
     "Rdisop": [],
@@ -8381,14 +8062,11 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "graphite",
         "qvalue"
     ],
     "REBET": [],
-    "rebook": [
-        "graph"
-    ],
+    "rebook": [],
     "receptLoss": [],
     "reconsi": [
         "biomformat",
@@ -8400,7 +8078,6 @@
     "recount": [
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8423,7 +8100,6 @@
     "recountmethylation": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8461,7 +8137,6 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer"
@@ -8538,7 +8213,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "REMP": [
@@ -8546,7 +8220,6 @@
         "BSgenome",
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8593,7 +8266,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "RepViz": [
@@ -8667,12 +8339,8 @@
         "regioneR",
         "rtracklayer"
     ],
-    "RGraph2js": [
-        "graph"
-    ],
-    "Rgraphviz": [
-        "graph"
-    ],
+    "RGraph2js": [],
+    "Rgraphviz": [],
     "rGREAT": [
         "BiocIO",
         "GenomicAlignments",
@@ -8741,7 +8409,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "ribor": [
@@ -8799,7 +8466,6 @@
         "RBGL",
         "Spectra",
         "biocViews",
-        "graph",
         "multtest",
         "mzR",
         "pcaMethods",
@@ -8815,7 +8481,6 @@
         "Rhtslib",
         "Rsamtools",
         "ensembldb",
-        "graph",
         "rtracklayer",
         "topGO"
     ],
@@ -8841,7 +8506,6 @@
     ],
     "Rmagpie": [],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
         "mzR",
@@ -8868,7 +8532,6 @@
     "RNAAgeCalc": [
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8897,7 +8560,6 @@
         "RBGL",
         "cellHTS2",
         "genefilter",
-        "graph",
         "vsn"
     ],
     "RNAmodR": [
@@ -8970,7 +8632,6 @@
     "RnaSeqSampleSize": [
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8987,7 +8648,6 @@
     "RnBeads": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9020,14 +8680,12 @@
     ],
     "ROntoTools": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "ropls": [
         "MultiAssayExperiment",
         "MultiDataSet"
     ],
-    "ROSeq": [],
     "RPA": [
         "biomformat",
         "multtest",
@@ -9064,9 +8722,7 @@
     "Rsamtools": [
         "Rhtslib"
     ],
-    "rsbml": [
-        "graph"
-    ],
+    "rsbml": [],
     "rScudo": [],
     "RSeqAn": [],
     "RSVSim": [
@@ -9103,9 +8759,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "Rtreemix": [
-        "graph"
-    ],
+    "Rtreemix": [],
     "rTRM": [],
     "rTRMui": [
         "BiocIO",
@@ -9153,7 +8807,6 @@
     "SBGNview": [
         "KEGGgraph",
         "Rgraphviz",
-        "graph",
         "pathview"
     ],
     "SC3": [
@@ -9162,7 +8815,6 @@
     "Scale4C": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
-        "GEOquery",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -9240,7 +8892,6 @@
         "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -9310,7 +8961,6 @@
         "beachmat",
         "bluster",
         "ensembldb",
-        "graph",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -9485,7 +9135,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "scry": [
@@ -9502,7 +9151,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "RBGL",
         "ReactomePA",
         "Rgraphviz",
@@ -9511,7 +9159,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "graph",
         "graphite",
         "meshr",
         "qvalue",
@@ -9520,7 +9167,6 @@
     "scTGIF": [
         "GSEABase",
         "SingleCellExperiment",
-        "graph",
         "schex"
     ],
     "scTreeViz": [
@@ -9543,7 +9189,6 @@
         "epivizr",
         "epivizrData",
         "epivizrServer",
-        "graph",
         "rtracklayer",
         "scater",
         "scran",
@@ -9688,8 +9333,7 @@
         "GSEABase",
         "RBGL",
         "Rgraphviz",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "SGSeq": [
         "BiocIO",
@@ -9702,7 +9346,6 @@
     "shinyepico": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9720,7 +9363,6 @@
     "shinyMethyl": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9757,8 +9399,7 @@
     ],
     "sigFeature": [
         "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "SigFuge": [],
     "siggenes": [
@@ -9778,7 +9419,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "qvalue",
         "rhdf5",
         "rhdf5filters"
@@ -9813,7 +9453,6 @@
         "consensusOV",
         "ensembldb",
         "genefu",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -9922,7 +9561,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "graph",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -9958,8 +9596,7 @@
         "beachmat"
     ],
     "singscore": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "SiPSiC": [
         "SingleCellExperiment"
@@ -9978,7 +9615,6 @@
     "skewr": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9999,8 +9635,7 @@
     ],
     "slalom": [
         "GSEABase",
-        "SingleCellExperiment",
-        "graph"
+        "SingleCellExperiment"
     ],
     "slingshot": [
         "SingleCellExperiment",
@@ -10015,7 +9650,6 @@
         "Rhtslib",
         "Rsamtools",
         "goseq",
-        "graph",
         "rtracklayer"
     ],
     "snapCGH": [
@@ -10066,7 +9700,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "pcaMethods",
         "rtracklayer"
     ],
@@ -10112,8 +9745,7 @@
         "BiocSet",
         "ComplexHeatmap",
         "DelayedMatrixStats",
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "SparseSignatures": [
         "BSgenome",
@@ -10159,8 +9791,7 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
-        "RBioFormats"
+        "NanoStringNCTools"
     ],
     "spatzie": [
         "AnnotationFilter",
@@ -10195,11 +9826,9 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "SPIAT": [
         "SingleCellExperiment",
@@ -10254,12 +9883,10 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "graph",
         "rtracklayer"
     ],
     "splineTimeR": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "SPLINTER": [
         "AnnotationFilter",
@@ -10295,10 +9922,7 @@
     ],
     "SQLDataFrame": [],
     "sRACIPE": [],
-    "SRAdb": [
-        "GEOquery",
-        "graph"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "AnnotationFilter",
         "BSgenome",
@@ -10316,7 +9940,6 @@
         "rtracklayer"
     ],
     "sSNAPPY": [
-        "graph",
         "graphite"
     ],
     "ssPATHS": [],
@@ -10344,12 +9967,10 @@
         "RBGL",
         "cellHTS2",
         "genefilter",
-        "graph",
         "vsn"
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graph",
         "graphite",
         "miRNAtap"
     ],
@@ -10362,9 +9983,7 @@
         "ROC"
     ],
     "STdeconvolve": [],
-    "stepNorm": [
-        "marray"
-    ],
+    "stepNorm": [],
     "stJoincount": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -10378,8 +9997,7 @@
         "rtracklayer"
     ],
     "Streamer": [
-        "RBGL",
-        "graph"
+        "RBGL"
     ],
     "struct": [],
     "structToolbox": [
@@ -10403,9 +10021,7 @@
     "SummarizedBenchmark": [],
     "Summix": [],
     "supersigs": [],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "survtype": [],
     "sva": [
         "genefilter"
@@ -10523,7 +10139,6 @@
         "SingleCellExperiment",
         "beachmat",
         "genefilter",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "singscore",
@@ -10573,7 +10188,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "Rgraphviz",
-        "graph",
         "ontoProc",
         "restfulSE",
         "rhdf5client"
@@ -10627,8 +10241,7 @@
     "TFutils": [
         "GSEABase",
         "Rhtslib",
-        "Rsamtools",
-        "graph"
+        "Rsamtools"
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [
@@ -10640,9 +10253,7 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "timeOmics": [
         "mixOmics"
     ],
@@ -10656,13 +10267,11 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "qvalue"
     ],
     "TIN": [],
     "TissueEnrich": [
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "TitanCNA": [
         "BSgenome",
@@ -10684,9 +10293,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -10696,7 +10303,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -10715,14 +10321,11 @@
         "pcaMethods",
         "vsn"
     ],
-    "topGO": [
-        "graph"
-    ],
+    "topGO": [],
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "TPP": [
@@ -10747,7 +10350,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -10761,7 +10363,6 @@
         "SingleCellExperiment"
     ],
     "transcriptogramer": [
-        "graph",
         "topGO"
     ],
     "transcriptR": [
@@ -10788,14 +10389,12 @@
         "DESeq2",
         "GOSemSim",
         "anota",
-        "graph",
         "multtest",
         "qvalue",
         "topGO"
     ],
     "transomics2cytoscape": [
-        "RCy3",
-        "graph"
+        "RCy3"
     ],
     "TransView": [
         "Rhtslib"
@@ -10873,8 +10472,7 @@
         "tRNA"
     ],
     "TRONCO": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "TSCAN": [
         "SingleCellExperiment",
@@ -10882,8 +10480,7 @@
     ],
     "TTMap": [],
     "TurboNorm": [
-        "convert",
-        "marray"
+        "convert"
     ],
     "TVTB": [
         "AnnotationFilter",
@@ -10901,7 +10498,6 @@
         "rtracklayer"
     ],
     "tweeDEseq": [],
-    "twilight": [],
     "txcutr": [
         "BiocIO",
         "GenomicAlignments",
@@ -10966,7 +10562,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "unifiedWMWqPCR": [
@@ -10985,7 +10580,6 @@
     "uSORT": [
         "RBGL",
         "biocViews",
-        "graph",
         "monocle"
     ],
     "VAExprs": [
@@ -11046,7 +10640,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -11104,14 +10697,12 @@
         "AnnotationForge",
         "GOSemSim",
         "fgsea",
-        "graph",
         "topGO"
     ],
     "vissE": [
         "AnnotationHub",
         "ExperimentHub",
-        "GSEABase",
-        "graph"
+        "GSEABase"
     ],
     "Voyager": [
         "SingleCellExperiment",
@@ -11138,7 +10729,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "graph",
         "gwascat",
         "rtracklayer"
     ],
@@ -11160,7 +10750,6 @@
         "apeglm",
         "csaw",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -11172,7 +10761,6 @@
     "wateRmelon": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -11249,7 +10837,6 @@
         "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
-        "marray",
         "piano"
     ],
     "XINA": [],
@@ -11280,7 +10867,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "gtrellis",
         "pcaMethods",
         "rtracklayer"
@@ -11288,7 +10874,6 @@
     "yarn": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -11315,7 +10900,6 @@
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
-        "graph",
         "graphite",
         "pathview"
     ],
