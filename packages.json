@@ -134,9 +134,7 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota": [],
     "anota2seq": [],
     "APAlyzer": [],
@@ -184,8 +182,7 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "TFBSTools",
@@ -310,8 +307,7 @@
         "QDNAseq",
         "annotatr",
         "bsseq",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -514,13 +510,10 @@
         "Gviz",
         "biovizBase"
     ],
-    "ChIPanalyser": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "chipseq",
@@ -566,7 +559,6 @@
     "clipper": [
         "KEGGgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -621,15 +613,13 @@
         "CopyNumberPlots",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVPanelizer": [],
     "CNVRanger": [
@@ -693,15 +683,13 @@
     "CopyNumberPlots": [
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -906,8 +894,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DESpace": [
         "SpatialExperiment"
@@ -953,8 +940,7 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -1431,8 +1417,7 @@
     "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "biovizBase"
@@ -1606,8 +1591,7 @@
     ],
     "ITALICS": [],
     "karyoploteR": [
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [],
     "KCsmart": [],
@@ -2057,8 +2041,7 @@
         "CRISPRseek",
         "Rbowtie",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "multiGSEA": [],
     "multiHiCcompare": [
@@ -2089,7 +2072,6 @@
         "TFBSTools",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -2314,7 +2296,6 @@
     "plyinteractions": [],
     "pmp": [],
     "PoDCall": [],
-    "podkat": [],
     "pogos": [
         "ontoProc"
     ],
@@ -2495,8 +2476,7 @@
         "minfi"
     ],
     "REDseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "regionalpcs": [
         "PCAtools"
@@ -2504,10 +2484,7 @@
     "RegionalST": [
         "BayesSpace"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -2545,9 +2522,7 @@
     ],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
@@ -2582,9 +2557,7 @@
         "BgeeDB"
     ],
     "RJMCMCNucleosomes": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase"
     ],
@@ -2717,8 +2690,7 @@
     "scMET": [],
     "scmeth": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SCnorm": [],
     "scone": [
@@ -2908,8 +2880,7 @@
     ],
     "SOMNiBUS": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SpacePAC": [],
     "Spaniel": [],
@@ -3149,9 +3120,7 @@
         "Organism.dplyr",
         "plotgardener"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
@@ -3202,7 +3171,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
