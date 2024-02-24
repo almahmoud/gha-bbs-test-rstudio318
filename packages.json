@@ -829,7 +829,6 @@
         "sva"
     ],
     "csaw": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1402,7 +1401,6 @@
         "BioNet"
     ],
     "GBScleanR": [],
-    "gcapc": [],
     "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
@@ -1802,7 +1800,6 @@
         "VariantAnnotation"
     ],
     "LinkHD": [],
-    "LinTInd": [],
     "lipidr": [
         "ropls"
     ],
@@ -2946,7 +2943,6 @@
     "sagenhaft": [],
     "SAIGEgds": [],
     "sampleClassifier": [],
-    "sangeranalyseR": [],
     "SARC": [
         "plyranges"
     ],
