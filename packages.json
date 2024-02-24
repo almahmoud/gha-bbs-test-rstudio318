@@ -263,7 +263,6 @@
         "glmGamPoi",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "basilisk": [],
     "batchelor": [],
     "BatchQC": [
@@ -293,7 +292,6 @@
         "Maaslin2",
         "biomformat",
         "genefilter",
-        "metagenomeSeq",
         "phyloseq",
         "zinbwave"
     ],
@@ -648,7 +646,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -1123,7 +1120,6 @@
     ],
     "DIAlignR": [],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [],
@@ -1148,7 +1144,6 @@
     "distinct": [],
     "dittoSeq": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "HDF5Array",
@@ -1272,7 +1267,6 @@
     "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
-        "GreyListChIP",
         "csaw"
     ],
     "EpiMix": [],
@@ -1339,7 +1333,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
@@ -1585,7 +1578,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -1716,7 +1708,6 @@
     "granulator": [],
     "graper": [],
     "GraphPAC": [],
-    "GreyListChIP": [],
     "groHMM": [],
     "GSCA": [],
     "GSEABase": [],
@@ -2018,12 +2009,9 @@
     ],
     "LymphoSeq": [],
     "m6Aboost": [],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "maCorrPlot": [],
     "MACSr": [
@@ -2096,9 +2084,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "mCSEA": [
         "Gviz",
         "OrganismDbi",
@@ -2155,7 +2141,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2254,18 +2239,15 @@
     ],
     "microbiomeDASim": [
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "biomformat",
-        "metagenomeSeq"
+        "biomformat"
     ],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2332,8 +2314,7 @@
     "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [
@@ -2742,7 +2723,6 @@
     ],
     "peco": [],
     "PepsNMR": [],
-    "periodicDNA": [],
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
@@ -3695,7 +3675,6 @@
         "HiCcompare"
     ],
     "tanggle": [],
-    "TAPseq": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -3910,7 +3889,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "csaw",
         "regioneR",
         "systemPipeR"
