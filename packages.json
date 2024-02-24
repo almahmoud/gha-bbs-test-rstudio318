@@ -179,7 +179,6 @@
         "rtracklayer"
     ],
     "airpart": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -362,7 +361,6 @@
         "qvalue"
     ],
     "ANCOMBC": [
-        "BiocNeighbors",
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
@@ -437,7 +435,6 @@
         "multtest",
         "qvalue"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -670,7 +667,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "bacon": [],
     "BadRegionFinder": [
         "BSgenome",
         "BiocIO",
@@ -682,7 +678,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BAGS": [],
     "ballgown": [
         "BiocIO",
         "GenomicAlignments",
@@ -716,7 +711,6 @@
         "affyio",
         "biomaRt",
         "genefilter",
-        "mzID",
         "mzR",
         "pRoloc",
         "pcaMethods",
@@ -739,7 +733,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -752,7 +745,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -777,7 +769,6 @@
     ],
     "basilisk.utils": [],
     "batchelor": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ResidualMatrix",
@@ -793,7 +784,6 @@
     ],
     "BayesKnockdown": [],
     "BayesSpace": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -822,7 +812,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -853,7 +842,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "BiocNeighbors",
         "BiocSingular",
         "DECIPHER",
         "DESeq2",
@@ -959,7 +947,6 @@
     "bioCancer": [
         "BiocIO",
         "DOSE",
-        "EBarrays",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -1004,7 +991,6 @@
         "ExperimentHub"
     ],
     "BiocIO": [],
-    "BiocNeighbors": [],
     "BiocOncoTK": [
         "AnnotationHub",
         "BiocIO",
@@ -1127,7 +1113,6 @@
         "ropls"
     ],
     "BioTIP": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -1215,9 +1200,7 @@
         "ComplexHeatmap",
         "ExperimentHub"
     ],
-    "bluster": [
-        "BiocNeighbors"
-    ],
+    "bluster": [],
     "bnbc": [
         "HiCBricks",
         "genefilter",
@@ -1496,7 +1479,6 @@
         "affyio",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -1505,7 +1487,6 @@
     "canceR": [
         "BiocIO",
         "Category",
-        "EBarrays",
         "GSEABase",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -1548,7 +1529,6 @@
     ],
     "casper": [
         "BiocIO",
-        "EBarrays",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -1558,7 +1538,6 @@
         "rtracklayer"
     ],
     "CATALYST": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -1646,7 +1625,6 @@
     "ccfindR": [
         "SingleCellExperiment"
     ],
-    "ccImpute": [],
     "ccmap": [],
     "CCPlotR": [
         "ComplexHeatmap"
@@ -1664,7 +1642,6 @@
         "SingleCellExperiment"
     ],
     "celda": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -1702,7 +1679,6 @@
         "vsn"
     ],
     "CelliD": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -1719,7 +1695,6 @@
     ],
     "CellMapper": [],
     "CellMixS": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -2031,7 +2006,6 @@
     ],
     "ChromSCape": [
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
@@ -2124,7 +2098,6 @@
         "rtracklayer"
     ],
     "CiteFuse": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -2186,7 +2159,6 @@
         "affy",
         "affyio",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -2205,7 +2177,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -2487,7 +2458,6 @@
     ],
     "concordexR": [],
     "condiments": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -2647,7 +2617,6 @@
         "affy",
         "affyio",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -2899,7 +2868,6 @@
         "Mfuzz"
     ],
     "cydar": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "cytolib",
         "flowCore"
@@ -2918,7 +2886,6 @@
         "flowCore"
     ],
     "cytofQC": [
-        "BiocNeighbors",
         "BiocSingular",
         "CATALYST",
         "ComplexHeatmap",
@@ -3057,7 +3024,6 @@
         "ggtree",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qvalue",
@@ -3116,7 +3082,6 @@
         "pcaMethods"
     ],
     "decontX": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -3263,7 +3228,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -3423,7 +3387,6 @@
     ],
     "diggit": [],
     "Dino": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -3438,7 +3401,6 @@
     "discordant": [],
     "DiscoRhythm": [],
     "distinct": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -3582,7 +3544,6 @@
         "graph",
         "graphite",
         "pathview",
-        "safe",
         "sparseMatrixStats",
         "zenith"
     ],
@@ -3659,10 +3620,7 @@
         "biomaRt",
         "genomeIntervals"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -3708,7 +3666,6 @@
         "pathview",
         "rhdf5",
         "rhdf5filters",
-        "safe",
         "sparseMatrixStats",
         "topGO"
     ],
@@ -3780,8 +3737,7 @@
         "SPIA",
         "graph",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE",
@@ -3957,7 +3913,6 @@
         "Modstrings",
         "Rhtslib",
         "Rsamtools",
-        "Structstrings",
         "biomaRt",
         "rtracklayer",
         "tRNA",
@@ -4078,7 +4033,6 @@
         "rtracklayer"
     ],
     "escape": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSEABase",
@@ -4340,7 +4294,6 @@
         "affyio",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -4350,7 +4303,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -4596,9 +4548,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gaga": [
-        "EBarrays"
-    ],
+    "gaga": [],
     "gage": [
         "graph"
     ],
@@ -4778,9 +4728,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "geNetClassifier": [
-        "EBarrays"
-    ],
+    "geNetClassifier": [],
     "GeneTonic": [
         "ComplexHeatmap",
         "DESeq2"
@@ -5208,8 +5156,7 @@
         "SPIA",
         "graph",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "GSEAlm": [],
     "gsean": [
@@ -5519,7 +5466,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
@@ -5642,7 +5588,6 @@
         "rtracklayer"
     ],
     "imcRtools": [
-        "BiocNeighbors",
         "DelayedMatrixStats",
         "HDF5Array",
         "SingleCellExperiment",
@@ -5822,7 +5767,6 @@
         "affyio",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -5990,7 +5934,6 @@
     "lapmix": [],
     "lefser": [],
     "lemur": [
-        "BiocNeighbors",
         "DelayedMatrixStats",
         "HDF5Array",
         "SingleCellExperiment",
@@ -6056,7 +5999,6 @@
         "affyio",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -6225,7 +6167,6 @@
         "affyio",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -6420,7 +6361,6 @@
         "wateRmelon"
     ],
     "MEB": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -6544,7 +6484,6 @@
         "affyio",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -6827,7 +6766,6 @@
         "biomaRt"
     ],
     "mia": [
-        "BiocNeighbors",
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
@@ -6847,7 +6785,6 @@
         "TreeSummarizedExperiment"
     ],
     "miaViz": [
-        "BiocNeighbors",
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
@@ -6891,7 +6828,6 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DECIPHER",
@@ -6942,7 +6878,6 @@
         "MultiAssayExperiment"
     ],
     "miloR": [
-        "BiocNeighbors",
         "BiocSingular",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -7138,7 +7073,6 @@
         "affy",
         "affyio",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -7357,7 +7291,6 @@
         "rtracklayer"
     ],
     "msImpute": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -7374,7 +7307,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -7385,7 +7317,6 @@
         "affy",
         "affyio",
         "msmsEDA",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qvalue",
@@ -7395,7 +7326,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -7408,7 +7338,6 @@
         "affyio",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qvalue",
@@ -7461,7 +7390,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qcmetrics",
@@ -7473,7 +7401,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qcmetrics",
@@ -7549,13 +7476,11 @@
         "DESeq2",
         "Mfuzz"
     ],
-    "multiscan": [],
     "multiWGCNA": [
         "dcanr"
     ],
     "multtest": [],
     "mumosa": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ResidualMatrix",
@@ -7580,7 +7505,6 @@
         "rtracklayer"
     ],
     "muscat": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DESeq2",
@@ -7646,7 +7570,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "mzID": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
@@ -7725,7 +7648,6 @@
         "affy",
         "affyio",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -7790,7 +7712,6 @@
         "biomaRt"
     ],
     "netSmooth": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -8319,7 +8240,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -8330,7 +8250,6 @@
         "genefilter"
     ],
     "peco": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -8461,7 +8380,6 @@
         "rtracklayer"
     ],
     "pipeComp": [
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -8625,7 +8543,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -8649,7 +8566,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "PROcess": [],
     "procoil": [
         "kebabs"
     ],
@@ -8686,7 +8602,6 @@
         "affyio",
         "biomaRt",
         "genefilter",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -8699,7 +8614,6 @@
         "affyio",
         "biomaRt",
         "genefilter",
-        "mzID",
         "mzR",
         "pRoloc",
         "pcaMethods",
@@ -8709,7 +8623,6 @@
         "GSEABase",
         "graph"
     ],
-    "PROPER": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -8729,7 +8642,6 @@
         "ggtree",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qvalue",
@@ -8793,7 +8705,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "rhdf5",
@@ -8887,7 +8798,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -9253,7 +9163,6 @@
     ],
     "RegionalST": [
         "BayesSpace",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -9604,7 +9513,6 @@
         "biocViews",
         "graph",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn",
@@ -9654,7 +9562,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -9961,7 +9868,6 @@
         "rtracklayer"
     ],
     "RVS": [],
-    "safe": [],
     "sagenhaft": [],
     "SAIGEgds": [
         "SeqArray"
@@ -10053,7 +9959,6 @@
         "sparseMatrixStats"
     ],
     "scater": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -10104,7 +10009,6 @@
     ],
     "scDblFinder": [
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -10121,7 +10025,6 @@
         "sparseMatrixStats"
     ],
     "scDD": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -10150,7 +10053,6 @@
         "AUCell",
         "AnnotationFilter",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSEABase",
@@ -10200,7 +10102,6 @@
         "SingleCellExperiment"
     ],
     "scMerge": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ResidualMatrix",
@@ -10309,7 +10210,6 @@
         "sparseMatrixStats"
     ],
     "scran": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -10398,7 +10298,6 @@
     "scTreeViz": [
         "AnnotationFilter",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -10431,7 +10330,6 @@
         "sparseMatrixStats"
     ],
     "scviR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -10780,7 +10678,6 @@
     ],
     "SingleCellExperiment": [],
     "SingleCellSignalR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -10796,7 +10693,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
-        "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
         "DESeq2",
@@ -10859,7 +10755,6 @@
         "rtracklayer"
     ],
     "SingleR": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -11014,7 +10909,6 @@
         "multtest"
     ],
     "Spaniel": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "DropletUtils",
@@ -11067,12 +10961,10 @@
         "SingleCellExperiment"
     ],
     "SpatialFeatureExperiment": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -11327,7 +11219,6 @@
     "struct": [
         "rols"
     ],
-    "Structstrings": [],
     "structToolbox": [
         "rols",
         "struct"
@@ -11404,7 +11295,6 @@
         "affyio",
         "cleaver",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "qvalue",
@@ -11467,7 +11357,6 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "mzID",
         "mzR"
     ],
     "TBSignatureProfiler": [
@@ -11689,7 +11578,6 @@
         "MsCoreUtils",
         "affy",
         "affyio",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -11823,7 +11711,6 @@
         "rtracklayer"
     ],
     "tricycle": [
-        "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -11844,12 +11731,10 @@
     ],
     "triplex": [],
     "tRNA": [
-        "Modstrings",
-        "Structstrings"
+        "Modstrings"
     ],
     "tRNAdbImport": [
         "Modstrings",
-        "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
@@ -11859,7 +11744,6 @@
         "Modstrings",
         "Rhtslib",
         "Rsamtools",
-        "Structstrings",
         "rtracklayer",
         "tRNA"
     ],
@@ -11920,7 +11804,6 @@
     ],
     "TypeInfo": [],
     "UCell": [
-        "BiocNeighbors",
         "SingleCellExperiment"
     ],
     "Ularcirc": [
@@ -11970,7 +11853,6 @@
         "graph",
         "rtracklayer"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
@@ -11994,7 +11876,6 @@
         "monocle"
     ],
     "VAExprs": [
-        "BiocNeighbors",
         "BiocSingular",
         "DeepPINCS",
         "DelayedMatrixStats",
@@ -12131,7 +12012,6 @@
         "graph"
     ],
     "Voyager": [
-        "BiocNeighbors",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
@@ -12263,7 +12143,6 @@
         "affy",
         "affyio",
         "multtest",
-        "mzID",
         "mzR",
         "pcaMethods",
         "vsn"
@@ -12354,8 +12233,7 @@
         "SPIA",
         "graph",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "zFPKM": [],
     "zinbwave": [
