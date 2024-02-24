@@ -135,7 +135,6 @@
         "biocViews"
     ],
     "annotatr": [],
-    "anota": [],
     "anota2seq": [],
     "APAlyzer": [],
     "apComplex": [],
@@ -864,7 +863,6 @@
         "NCIgraph"
     ],
     "DEGreport": [],
-    "DEGseq": [],
     "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
@@ -1715,7 +1713,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "Melissa": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
@@ -3044,8 +3041,7 @@
         "glmGamPoi"
     ],
     "tRanslatome": [
-        "GOSemSim",
-        "anota"
+        "GOSemSim"
     ],
     "transomics2cytoscape": [],
     "traviz": [
