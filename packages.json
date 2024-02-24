@@ -1769,9 +1769,7 @@
     "prebs": [
         "RPA"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -1881,7 +1879,6 @@
     "Rbowtie": [],
     "RCAS": [],
     "RCASPAR": [],
-    "rCGH": [],
     "RCM": [],
     "Rcpi": [
         "GOSemSim"
@@ -1947,7 +1944,6 @@
         "RcwlPipelines"
     ],
     "RgnTX": [],
-    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
