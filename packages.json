@@ -789,7 +789,6 @@
         "pathview",
         "zenith"
     ],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
         "bsseq"
@@ -1232,7 +1231,6 @@
     ],
     "infinityFlow": [],
     "InPAS": [],
-    "INSPEcT": [],
     "intansv": [
         "OrganismDbi",
         "biovizBase",
