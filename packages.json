@@ -822,7 +822,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BCRANK": [],
     "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
@@ -1048,7 +1047,6 @@
         "RBGL",
         "graph"
     ],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -2110,8 +2108,7 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "rtracklayer",
-        "universalmotif"
+        "rtracklayer"
     ],
     "CircSeqAlignTk": [
         "BiocIO",
@@ -2241,7 +2238,6 @@
         "SingleCellExperiment",
         "fgsea"
     ],
-    "CMA": [],
     "cmapR": [
         "cytolib",
         "flowCore",
@@ -2900,8 +2896,7 @@
         "graph"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -3066,7 +3061,6 @@
         "mzR",
         "pcaMethods",
         "qvalue",
-        "tkWidgets",
         "vsn"
     ],
     "dcanr": [],
@@ -3590,7 +3584,6 @@
         "pathview",
         "safe",
         "sparseMatrixStats",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -3642,7 +3635,6 @@
     ],
     "dStruct": [],
     "Dune": [],
-    "dupRadar": [],
     "dyebias": [
         "marray"
     ],
@@ -3650,7 +3642,6 @@
         "AnnotationHub",
         "DESeq2",
         "ExperimentHub",
-        "progeny",
         "quantiseqr"
     ],
     "easylift": [
@@ -4997,7 +4988,6 @@
         "SeqArray"
     ],
     "ggmsa": [
-        "R4RNA",
         "ggtree"
     ],
     "ggsc": [
@@ -6323,7 +6313,6 @@
     ],
     "matter": [],
     "MBASED": [],
-    "MBCB": [],
     "MBECS": [
         "biomformat",
         "genefilter",
@@ -6455,9 +6444,7 @@
     "Melissa": [
         "BPRMeth"
     ],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
@@ -6834,9 +6821,7 @@
     ],
     "MetNet": [],
     "mfa": [],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "MGFM": [],
     "MGFR": [
         "biomaRt"
@@ -7562,8 +7547,7 @@
     "MultiRNAflow": [
         "ComplexHeatmap",
         "DESeq2",
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "multiscan": [],
     "multiWGCNA": [
@@ -7606,8 +7590,7 @@
         "beachmat",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "variancePartition"
+        "sparseMatrixStats"
     ],
     "muscle": [],
     "musicatk": [
@@ -7716,7 +7699,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [
@@ -7991,8 +7973,7 @@
     ],
     "OLINgui": [
         "OLIN",
-        "marray",
-        "tkWidgets"
+        "marray"
     ],
     "omada": [],
     "OmaDB": [
@@ -8037,7 +8018,6 @@
     "omicsViewer": [
         "fgsea"
     ],
-    "ompBAM": [],
     "oncomix": [],
     "oncoscanR": [],
     "OncoScore": [
@@ -8697,7 +8677,6 @@
         "soGGi"
     ],
     "profileScoreDist": [],
-    "progeny": [],
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
@@ -8754,7 +8733,6 @@
         "mzR",
         "pcaMethods",
         "qvalue",
-        "tkWidgets",
         "vsn"
     ],
     "ProteoDisco": [
@@ -8865,15 +8843,13 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
         "biomaRt",
         "graph"
     ],
     "qckitfastq": [
-        "RSeqAn",
-        "seqTools"
+        "RSeqAn"
     ],
     "qcmetrics": [],
     "QDNAseq": [
@@ -9018,7 +8994,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
@@ -10572,7 +10547,6 @@
         "ExperimentHub",
         "SNPRelate"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "SeqArray"
     ],
@@ -10752,7 +10726,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "sigsquared": [],
     "SIM": [
         "globaltest",
         "quantsmooth"
@@ -11200,7 +11173,6 @@
         "Rhtslib",
         "Rsamtools",
         "genefilter",
-        "ompBAM",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -11658,8 +11630,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
-        "tkWidgets"
+        "qvalue"
     ],
     "TIN": [],
     "TissueEnrich": [
@@ -11677,7 +11648,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "BSgenome",
         "BiocIO",
@@ -12017,7 +11987,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "universalmotif": [],
     "uSORT": [
         "RBGL",
         "biocViews",
@@ -12055,7 +12024,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "variancePartition": [],
     "VariantAnnotation": [
         "BSgenome",
         "BiocIO",
@@ -12387,8 +12355,7 @@
         "graph",
         "graphite",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zFPKM": [],
     "zinbwave": [
