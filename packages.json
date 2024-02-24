@@ -6,9 +6,7 @@
     "a4Base": [
         "genefilter"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "genefilter",
         "snapCGH",
@@ -164,7 +162,6 @@
         "pathview"
     ],
     "biscuiteer": [
-        "QDNAseq",
         "dmrseq"
     ],
     "blacksheepr": [
@@ -270,9 +267,7 @@
         "enrichplot"
     ],
     "CFAssay": [],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
@@ -756,9 +751,7 @@
         "BiocCheck"
     ],
     "GEM": [],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
         "genefilter"
@@ -1387,7 +1380,6 @@
         "RSeqAn"
     ],
     "qcmetrics": [],
-    "QDNAseq": [],
     "qPLEXanalyzer": [],
     "qsea": [
         "HMMcopy"
