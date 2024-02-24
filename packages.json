@@ -191,7 +191,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "TFBSTools",
         "motifStack"
@@ -1401,7 +1400,6 @@
         "ncdfFlow"
     ],
     "ggmanh": [],
-    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -2765,7 +2763,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
-    "scde": [],
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
@@ -2951,7 +2948,6 @@
     ],
     "singscore": [],
     "SiPSiC": [],
-    "sitePath": [],
     "skewr": [
         "ROC",
         "genefilter",
@@ -3192,7 +3188,6 @@
         "anota"
     ],
     "transomics2cytoscape": [],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
