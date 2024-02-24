@@ -166,7 +166,6 @@
     ],
     "bandle": [
         "MLInterfaces",
-        "MSnbase",
         "genefilter",
         "pRoloc"
     ],
@@ -221,7 +220,6 @@
     "BiocCheck": [
         "biocViews"
     ],
-    "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
@@ -325,7 +323,6 @@
         "biovizBase"
     ],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -478,7 +475,6 @@
         "KEGGgraph"
     ],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -491,9 +487,7 @@
         "ROC",
         "clst"
     ],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clusterExperiment": [
         "genefilter",
         "zinbwave"
@@ -589,7 +583,6 @@
     "CoreGx": [],
     "coseq": [],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -701,7 +694,6 @@
     "DAPAR": [
         "DOSE",
         "GOSemSim",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -746,9 +738,7 @@
     ],
     "demuxSNP": [],
     "densvis": [],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -964,7 +954,6 @@
     "fgga": [],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1285,7 +1274,6 @@
     "IONiseR": [],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1334,7 +1322,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1375,7 +1362,6 @@
     "magpie": [],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1454,7 +1440,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1576,7 +1561,6 @@
     ],
     "moanin": [],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1643,16 +1627,11 @@
         "ggbio"
     ],
     "msImpute": [],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -1675,11 +1654,9 @@
         "MSstatsTMT"
     ],
     "MSstatsQC": [
-        "MSnbase",
         "qcmetrics"
     ],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC",
         "qcmetrics"
     ],
@@ -1730,7 +1707,6 @@
     ],
     "ncdfFlow": [],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1858,9 +1834,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PECA": [
         "genefilter"
     ],
@@ -1920,9 +1894,7 @@
         "TFBSTools",
         "biovizBase"
     ],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1934,12 +1906,10 @@
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
-        "MSnbase",
         "genefilter"
     ],
     "pRolocGUI": [
         "MLInterfaces",
-        "MSnbase",
         "genefilter",
         "pRoloc"
     ],
@@ -1952,7 +1922,6 @@
         "DAPAR",
         "DOSE",
         "GOSemSim",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1970,9 +1939,7 @@
     "psygenet2r": [
         "BgeeDB"
     ],
-    "ptairMS": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
     "PureCN": [],
     "pvca": [],
     "Pviz": [
@@ -1984,9 +1951,7 @@
     ],
     "qcmetrics": [],
     "QDNAseq": [],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "qsea": [
         "HMMcopy"
     ],
@@ -2122,7 +2087,6 @@
         "genefilter"
     ],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "biocViews",
@@ -2133,9 +2097,7 @@
     ],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
@@ -2467,9 +2429,7 @@
         "GOSemSim"
     ],
     "SwathXtend": [],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "SynMut": [],
     "systemPipeR": [],
     "tadar": [
@@ -2518,9 +2478,7 @@
         "ClassifyR",
         "genefilter"
     ],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "ToxicoGx": [
         "CoreGx"
     ],
@@ -2623,7 +2581,6 @@
     "weaver": [],
     "webbioc": [],
     "xcms": [
-        "MSnbase",
         "MsExperiment",
         "Spectra"
     ],
