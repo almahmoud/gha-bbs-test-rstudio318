@@ -173,7 +173,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "genefilter",
         "sva"
     ],
@@ -474,9 +473,7 @@
         "enrichplot"
     ],
     "dcanr": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowViz"
@@ -597,7 +594,6 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [],
     "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
@@ -1188,9 +1184,7 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
