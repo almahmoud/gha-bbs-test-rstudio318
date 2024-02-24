@@ -663,7 +663,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -1981,8 +1980,7 @@
     "tRNAscanImport": [],
     "TSCAN": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "TypeInfo": [],
     "Ularcirc": [
