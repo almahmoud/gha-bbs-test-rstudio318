@@ -356,7 +356,6 @@
     "branchpointer": [],
     "brendaDb": [],
     "BRGenomics": [],
-    "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
         "biovizBase"
@@ -1966,7 +1965,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
         "TFBSTools",
@@ -2404,7 +2402,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pwOmics": [],
     "qckitfastq": [
         "RSeqAn"
     ],
