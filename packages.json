@@ -852,7 +852,6 @@
         "genefilter"
     ],
     "globalSeq": [],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -921,11 +920,8 @@
     "HMMcopy": [],
     "hoodscanR": [],
     "HPiP": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "ibh": [],
-    "icetea": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -1023,7 +1019,6 @@
     ],
     "Macarron": [],
     "maCorrPlot": [],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "genefilter",
@@ -1729,7 +1724,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "consensusOV"
     ],
