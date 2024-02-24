@@ -46,7 +46,6 @@
         "alabaster.vcf"
     ],
     "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
         "alabaster.ranges",
@@ -1456,7 +1455,6 @@
     "Rbowtie": [],
     "RCAS": [],
     "RCASPAR": [],
-    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
