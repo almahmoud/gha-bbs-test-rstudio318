@@ -150,7 +150,6 @@
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
     "brendaDb": [],
@@ -392,10 +391,7 @@
         "genefilter",
         "sva"
     ],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DEScan2": [],
     "DExMA": [
         "genefilter",
@@ -1051,7 +1047,6 @@
     ],
     "PSEA": [],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "Pviz": [],
@@ -1098,18 +1093,14 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "genefilter",
         "minfi"
     ],
     "REDseq": [],
     "RegionalST": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "REMP": [
         "genefilter",
@@ -1136,7 +1127,6 @@
     ],
     "RLSeq": [],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAinteract": [
@@ -1155,7 +1145,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
