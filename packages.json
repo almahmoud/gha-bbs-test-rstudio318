@@ -860,9 +860,7 @@
         "genefilter"
     ],
     "PSEA": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "qckitfastq": [
         "RSeqAn"
     ],
@@ -904,7 +902,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "recount": [],
     "recountmethylation": [
         "genefilter",
         "minfi"
@@ -929,9 +926,7 @@
     ],
     "Risa": [],
     "RLSeq": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -940,9 +935,7 @@
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
