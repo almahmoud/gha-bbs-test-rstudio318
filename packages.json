@@ -364,7 +364,6 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "DEGraph": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -902,7 +901,6 @@
     "openCyto": [
         "flowWorkspace"
     ],
-    "optimalFlow": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
