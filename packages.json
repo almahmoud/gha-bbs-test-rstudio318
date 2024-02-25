@@ -231,7 +231,6 @@
     "CNVfilteR": [],
     "CNViz": [],
     "coGPS": [],
-    "coMET": [],
     "compEpiTools": [],
     "CONFESS": [],
     "conumee": [
@@ -559,7 +558,6 @@
         "genefilter",
         "sva"
     ],
-    "kissDE": [],
     "KnowSeq": [
         "genefilter",
         "sva"
@@ -1126,7 +1124,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantFiltering": [],
     "VaSP": [
         "ballgown",
         "genefilter",
