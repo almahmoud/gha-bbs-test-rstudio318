@@ -257,9 +257,7 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -447,7 +445,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DiffBind": [],
     "diffcyt": [],
     "diffuStats": [],
     "diffUTR": [
@@ -1509,9 +1506,7 @@
     ],
     "Voyager": [],
     "vtpnet": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "ROC",
         "genefilter",
