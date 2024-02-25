@@ -79,13 +79,10 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "motifmatchr",
         "projectR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [
         "Category",
@@ -171,7 +168,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BubbleTree": [],
     "CAFE": [
         "ggbio"
     ],
@@ -219,7 +215,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -262,7 +257,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPexoQual": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -488,9 +482,7 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -504,8 +496,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -547,8 +538,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "ExperimentHubData": [
         "AnnotationHubData"
@@ -975,7 +965,6 @@
     "motifbreakR": [
         "Gviz"
     ],
-    "motifmatchr": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1061,9 +1050,7 @@
         "genefilter",
         "sva"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -1413,8 +1400,7 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "spicyR": [
         "ClassifyR",
