@@ -54,7 +54,6 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "ASpli": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -64,7 +63,6 @@
     ],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -294,7 +292,6 @@
         "genefilter",
         "sva"
     ],
-    "cummeRbund": [],
     "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
@@ -639,7 +636,6 @@
     "maPredictDSC": [
         "ROC"
     ],
-    "maser": [],
     "maSigPro": [],
     "matchBox": [],
     "MBECS": [
@@ -985,7 +981,6 @@
     ],
     "retrofit": [],
     "RiboProfiling": [],
-    "ribosomeProfilingQC": [],
     "Ringo": [
         "genefilter"
     ],
@@ -1139,7 +1134,6 @@
         "genefilter"
     ],
     "SPLINTER": [],
-    "srnadiff": [],
     "standR": [],
     "staRank": [
         "Category",
