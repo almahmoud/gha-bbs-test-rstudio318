@@ -257,9 +257,7 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [],
     "conumee": [
         "genefilter",
@@ -313,7 +311,6 @@
         "PeacoQC",
         "ggcyto"
     ],
-    "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -458,7 +455,6 @@
     "flowGate": [
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [],
     "flowVS": [
         "flowStats"
@@ -680,7 +676,6 @@
         "genefilter"
     ],
     "metabinR": [],
-    "MetaboAnnotation": [],
     "metaCCA": [],
     "metaMS": [
         "CAMERA"
@@ -779,7 +774,6 @@
         "genefilter",
         "sva"
     ],
-    "MsQuality": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
         "qcmetrics"
@@ -788,7 +782,6 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "MSstatsShiny": [],
     "multicrispr": [
         "Rbowtie"
     ],
@@ -1039,7 +1032,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scone": [],
     "scruff": [],
     "scTensor": [
         "Category",
