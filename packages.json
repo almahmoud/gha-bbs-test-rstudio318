@@ -321,7 +321,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "cmapR": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -476,7 +475,6 @@
         "genefilter",
         "sva"
     ],
-    "DEP": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
