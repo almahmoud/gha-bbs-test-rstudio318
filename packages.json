@@ -311,9 +311,7 @@
         "sva"
     ],
     "cummeRbund": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -345,9 +343,7 @@
         "enrichplot"
     ],
     "dcanr": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -483,10 +479,7 @@
     ],
     "FLAMES": [],
     "flowBin": [],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowGate": [
         "ggcyto"
     ],
