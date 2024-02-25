@@ -619,7 +619,6 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCHIC": [],
     "flowClust": [],
     "flowCut": [
         "flowDensity"
@@ -636,7 +635,6 @@
     "flowStats": [
         "flowWorkspace"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowClust"
     ],
@@ -827,7 +825,6 @@
         "sva"
     ],
     "karyoploteR": [],
-    "KEGGlincs": [],
     "kissDE": [
         "DSS"
     ],
