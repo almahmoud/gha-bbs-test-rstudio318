@@ -795,7 +795,6 @@
         "sva"
     ],
     "MsQuality": [],
-    "MSstatsLiP": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
         "qcmetrics"
@@ -1009,7 +1008,6 @@
         "genefilter"
     ],
     "retrofit": [],
-    "ReUseData": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Ringo": [
@@ -1119,7 +1117,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [],
     "SIM": [
         "quantsmooth"
     ],
