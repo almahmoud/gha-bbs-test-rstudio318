@@ -124,7 +124,6 @@
         "zinbwave"
     ],
     "BG2": [],
-    "BiGGR": [],
     "bigmelon": [
         "ROC",
         "genefilter",
@@ -1023,7 +1022,6 @@
     "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsExperiment": [],
     "msgbsR": [
         "ggbio"
@@ -1264,7 +1262,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [],
     "Rbowtie": [],
     "RCASPAR": [],
     "Rcpi": [
