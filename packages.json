@@ -189,9 +189,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DOSE",
@@ -311,9 +309,7 @@
     ],
     "cummeRbund": [],
     "cyanoFilter": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [
         "CATALYST"
     ],
@@ -368,7 +364,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "diffcyt": [],
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
@@ -1238,9 +1233,7 @@
     "tRanslatome": [
         "GOSemSim"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "trigger": [
         "genefilter",
         "sva"
