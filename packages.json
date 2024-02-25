@@ -24,9 +24,7 @@
         "affycoretools",
         "genefilter"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
@@ -43,7 +41,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -440,9 +437,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -721,7 +716,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "genefilter",
         "minfi"
