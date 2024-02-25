@@ -123,10 +123,7 @@
         "genefilter",
         "sva"
     ],
-    "borealis": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "CAGEfightR": [],
     "cageminer": [
@@ -316,7 +313,6 @@
         "genefilter",
         "sva"
     ],
-    "derfinderPlot": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -893,7 +889,6 @@
     "QuasR": [
         "Rbowtie"
     ],
-    "R3CPET": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
