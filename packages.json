@@ -284,12 +284,10 @@
         "genefilter"
     ],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "COCOA": [
         "MIRA"
@@ -310,9 +308,7 @@
         "genefilter",
         "minfi"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "cosmiq": [
         "xcms"
     ],
@@ -724,7 +720,6 @@
         "genefilter",
         "sva"
     ],
-    "karyoploteR": [],
     "kissDE": [],
     "KnowSeq": [
         "genefilter",
@@ -932,8 +927,7 @@
     ],
     "MSstatsShiny": [],
     "multicrispr": [
-        "Rbowtie",
-        "karyoploteR"
+        "Rbowtie"
     ],
     "multiWGCNA": [
         "dcanr"
@@ -944,7 +938,6 @@
         "ATACseqQC",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "NBAMSeq": [
         "genefilter"
     ],
