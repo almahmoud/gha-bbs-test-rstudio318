@@ -494,7 +494,6 @@
         "enrichplot"
     ],
     "fCI": [],
-    "FEAST": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -624,7 +623,6 @@
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
-    "HiCDOC": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
