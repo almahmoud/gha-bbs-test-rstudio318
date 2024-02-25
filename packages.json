@@ -58,7 +58,6 @@
         "genefilter"
     ],
     "AnnotationHubData": [],
-    "appreci8R": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -992,7 +991,6 @@
     "motifmatchr": [],
     "motifStack": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1227,7 +1225,6 @@
     "Rcpi": [
         "GOSemSim"
     ],
-    "RcwlPipelines": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
@@ -1266,9 +1263,7 @@
     ],
     "RESOLVE": [],
     "retrofit": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RiboProfiling": [
         "ggbio"
     ],
