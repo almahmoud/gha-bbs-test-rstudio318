@@ -398,7 +398,6 @@
         "genefilter",
         "sva"
     ],
-    "decontX": [],
     "deconvR": [
         "genefilter",
         "minfi"
@@ -1181,7 +1180,6 @@
     "Risa": [
         "xcms"
     ],
-    "RITAN": [],
     "RLSeq": [],
     "RNAAgeCalc": [
         "derfinder",
