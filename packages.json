@@ -394,7 +394,6 @@
         "genefilter",
         "sva"
     ],
-    "EGSEA": [],
     "ELMER": [],
     "enhancerHomologSearch": [],
     "ENmix": [
@@ -707,7 +706,6 @@
     ],
     "metabinR": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [],
     "metaMS": [
@@ -771,7 +769,6 @@
     "minfi": [
         "genefilter"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1073,7 +1070,6 @@
     "RSeqAn": [],
     "rSWeeP": [],
     "sagenhaft": [],
-    "SBGNview": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
