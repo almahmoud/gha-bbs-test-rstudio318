@@ -197,7 +197,6 @@
         "Gviz"
     ],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -292,7 +291,6 @@
     ],
     "clevRvis": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "Clomial": [],
@@ -355,7 +353,6 @@
         "karyoploteR"
     ],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "COSNet": [],
@@ -591,7 +588,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [
@@ -710,7 +706,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "GSReg": [],
     "GSRI": [
         "genefilter"
     ],
@@ -785,7 +780,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEu": [],
@@ -811,7 +805,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "LPE": [],
@@ -838,7 +831,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "maPredictDSC": [
@@ -896,7 +888,6 @@
     "MetaCyto": [],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [
@@ -981,7 +972,6 @@
     ],
     "MMUPHin": [],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "ModCon": [],
@@ -1008,11 +998,8 @@
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
-    "MsExperiment": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1024,9 +1011,7 @@
         "genefilter",
         "sva"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsLiP": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
@@ -1057,7 +1042,6 @@
         "genefilter"
     ],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "nempi": [],
@@ -1305,7 +1289,6 @@
         "genefilter"
     ],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RITAN": [],
@@ -1599,9 +1582,7 @@
         "minfi"
     ],
     "weaver": [],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
