@@ -343,7 +343,6 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [],
     "contiBAIT": [],
     "conumee": [
         "genefilter",
@@ -563,7 +562,6 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -1409,9 +1407,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SIM": [
         "quantsmooth"
     ],
