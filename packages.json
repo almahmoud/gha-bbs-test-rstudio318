@@ -30,24 +30,15 @@
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "AllelicImbalance": [],
     "annmap": [
         "genefilter"
@@ -544,7 +535,6 @@
     "gDRimport": [],
     "gDRstyle": [],
     "GEM": [],
-    "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
         "genefilter"
