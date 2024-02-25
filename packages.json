@@ -83,15 +83,11 @@
         "motifmatchr",
         "projectR"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -412,9 +408,7 @@
         "ggcyto"
     ],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -985,11 +979,9 @@
         "enrichplot"
     ],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
     "motifmatchr": [],
-    "motifStack": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1024,7 +1016,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -1265,8 +1256,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "Ringo": [
         "genefilter"
