@@ -123,7 +123,6 @@
         "genefilter",
         "sva"
     ],
-    "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
         "derfinderPlot"
@@ -460,7 +459,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "GenomicOZone": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -729,7 +727,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "msgbsR": [],
     "MSnID": [],
     "MSPrep": [
         "genefilter",
