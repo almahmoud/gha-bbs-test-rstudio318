@@ -148,9 +148,7 @@
         "CAGEfightR",
         "GenomicInteractions"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "Category",
         "genefilter",
@@ -225,9 +223,7 @@
         "genefilter"
     ],
     "clevRvis": [],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "Clomial": [],
     "clst": [
         "ROC"
@@ -270,9 +266,7 @@
         "minfi"
     ],
     "CopyNumberPlots": [],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "COSNet": [],
     "countsimQC": [
         "genefilter"
@@ -456,8 +450,7 @@
         "minfi"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [],
     "flowBin": [],
@@ -491,7 +484,6 @@
         "gDRimport"
     ],
     "gDRimport": [],
-    "gDRstyle": [],
     "GEM": [],
     "genefilter": [],
     "GeneMeta": [
@@ -602,8 +594,7 @@
         "genefilter"
     ],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "iSeq": [],
     "IsoformSwitchAnalyzeR": [
@@ -622,8 +613,7 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LPE": [],
     "LPEadj": [
@@ -648,8 +638,7 @@
         "enrichplot"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maPredictDSC": [
         "ROC"
@@ -695,8 +684,7 @@
     "metaCCA": [],
     "MetaCyto": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -767,9 +755,7 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "ModCon": [],
     "mogsa": [
         "genefilter"
@@ -818,9 +804,7 @@
     "NBAMSeq": [
         "genefilter"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -1013,9 +997,7 @@
     "Ringo": [
         "genefilter"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RNAAgeCalc": [
         "recount"
@@ -1246,7 +1228,6 @@
         "minfi"
     ],
     "weaver": [],
-    "xcms": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
