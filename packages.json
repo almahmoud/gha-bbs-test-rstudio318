@@ -162,9 +162,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -1001,9 +999,7 @@
     ],
     "MinimumDistance": [],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1394,7 +1390,6 @@
         "minfi"
     ],
     "ROC": [],
-    "ROntoTools": [],
     "Rqc": [],
     "rrvgo": [
         "GOSemSim"
