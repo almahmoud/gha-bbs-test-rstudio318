@@ -321,19 +321,16 @@
         "CATALYST"
     ],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "dagLogo": [],
@@ -491,19 +488,14 @@
     ],
     "flowDensity": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowMerge": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "fmrs": [],
     "funtooNorm": [
         "genefilter",
@@ -548,9 +540,7 @@
         "cellHTS2",
         "genefilter"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "GISPA": [
         "genefilter"
     ],
@@ -619,9 +609,7 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -893,9 +881,7 @@
         "genefilter",
         "sva"
     ],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -928,9 +914,7 @@
         "GOstats",
         "genefilter"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "PECA": [
         "genefilter"
     ],
