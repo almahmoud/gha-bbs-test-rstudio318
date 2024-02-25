@@ -517,7 +517,6 @@
     ],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "zenith"
     ],
     "DSS": [],
@@ -536,9 +535,7 @@
         "genefilter",
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "SPIA"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -644,7 +641,6 @@
     "flowMerge": [
         "flowClust"
     ],
-    "flowPloidy": [],
     "flowSpecs": [],
     "flowStats": [
         "flowWorkspace"
@@ -750,8 +746,7 @@
     "granulator": [],
     "graper": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "GSReg": [],
     "GSRI": [
@@ -1068,12 +1063,8 @@
     "msgbsR": [
         "ggbio"
     ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MSPrep": [
@@ -1550,7 +1541,6 @@
         "Gviz",
         "motifmatchr"
     ],
-    "SPIA": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -1693,8 +1683,7 @@
         "quantro"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "zinbwave": [
         "genefilter"
