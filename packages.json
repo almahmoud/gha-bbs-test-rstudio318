@@ -335,7 +335,6 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
         "flowMerge"
@@ -878,9 +877,7 @@
         "genefilter"
     ],
     "metabinR": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [],
@@ -898,7 +895,6 @@
         "DSS",
         "genefilter"
     ],
-    "MetCirc": [],
     "MethylAid": [
         "genefilter",
         "minfi"
@@ -968,7 +964,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MMUPHin": [],
     "MobilityTransformR": [
         "xcms"
     ],
