@@ -1310,7 +1310,6 @@
         "minfi"
     ],
     "REDseq": [],
-    "regionalpcs": [],
     "RegionalST": [],
     "regionReport": [
         "derfinder"
@@ -1578,7 +1577,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "tenXplore": [],
     "tilingArray": [
         "genefilter"
     ],
