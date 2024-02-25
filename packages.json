@@ -125,7 +125,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -389,7 +388,6 @@
         "GOSemSim"
     ],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "edge": [
@@ -403,7 +401,6 @@
         "genefilter",
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -485,7 +482,6 @@
     ],
     "flowMerge": [],
     "flowStats": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats"
     ],
@@ -557,9 +553,7 @@
     ],
     "granulator": [],
     "graper": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSRI": [
         "genefilter"
     ],
@@ -1293,9 +1287,7 @@
         "minfi",
         "quantro"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "zinbwave": [
         "genefilter"
     ]
