@@ -549,12 +549,9 @@
         "enrichplot"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "gDRstyle": [],
     "GEM": [],
     "GeneBreak": [],
@@ -978,7 +975,6 @@
         "genefilter"
     ],
     "PepsNMR": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1361,9 +1357,7 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
