@@ -1028,11 +1028,8 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
     "MSstatsLOBD": [],
-    "MSstatsPTM": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -1040,9 +1037,7 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multicrispr": [
         "Rbowtie",
         "karyoploteR"
