@@ -351,7 +351,6 @@
     "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
-        "flowClust",
         "flowMerge"
     ],
     "consensusDE": [
@@ -406,7 +405,6 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity"
     ],
     "CyTOFpower": [
@@ -416,7 +414,6 @@
         "CATALYST"
     ],
     "CytoML": [
-        "flowClust",
         "flowWorkspace",
         "ggcyto",
         "openCyto"
@@ -619,7 +616,6 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowClust": [],
     "flowCut": [
         "flowDensity"
     ],
@@ -629,15 +625,11 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace"
@@ -800,7 +792,6 @@
         "genefilter",
         "minfi"
     ],
-    "infinityFlow": [],
     "intansv": [
         "ggbio"
     ],
@@ -1130,7 +1121,6 @@
     ],
     "OMICsPCA": [],
     "openCyto": [
-        "flowClust",
         "flowWorkspace"
     ],
     "oppar": [],
