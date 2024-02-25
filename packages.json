@@ -485,14 +485,11 @@
         "xcms"
     ],
     "FLAMES": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -517,9 +514,7 @@
         "genefilter",
         "sva"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
