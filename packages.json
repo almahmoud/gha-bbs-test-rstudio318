@@ -246,13 +246,9 @@
     ],
     "COCOA": [],
     "coGPS": [],
-    "comapr": [],
     "coMET": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CONFESS": [],
-    "consensusDE": [],
     "conumee": [
         "genefilter",
         "minfi"
@@ -640,7 +636,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "mCSEA": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -701,7 +696,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylPipe": [],
     "methylSig": [],
     "methylumi": [
         "genefilter",
@@ -804,7 +798,6 @@
         "yarn"
     ],
     "NTW": [],
-    "octad": [],
     "omicRexposome": [
         "genefilter",
         "sva"
@@ -1115,7 +1108,6 @@
         "genefilter"
     ],
     "SPLINTER": [],
-    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
