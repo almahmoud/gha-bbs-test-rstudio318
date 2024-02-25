@@ -79,7 +79,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "motifmatchr",
         "projectR"
     ],
@@ -275,7 +274,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -1166,7 +1164,6 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [],
     "Pviz": [
         "Gviz"
     ],
