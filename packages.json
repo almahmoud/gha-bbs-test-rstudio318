@@ -143,7 +143,6 @@
     ],
     "BiocCheck": [],
     "BiocOncoTK": [],
-    "BiocPkgTools": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -319,8 +318,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNORode": [],
     "CNTools": [
