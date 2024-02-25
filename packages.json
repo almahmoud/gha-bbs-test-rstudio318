@@ -420,14 +420,12 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
@@ -612,7 +610,6 @@
     "FLAMES": [
         "ggbio"
     ],
-    "flowAI": [],
     "flowBin": [
         "flowFP"
     ],
@@ -1396,7 +1393,6 @@
     ],
     "scClassify": [],
     "scFeatures": [],
-    "scifer": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
