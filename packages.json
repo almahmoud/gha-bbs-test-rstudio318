@@ -352,7 +352,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "cytoviewer": [],
     "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
@@ -455,7 +454,6 @@
         "genefilter",
         "minfi"
     ],
-    "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
