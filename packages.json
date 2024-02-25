@@ -351,7 +351,6 @@
         "genefilter",
         "sva"
     ],
-    "ELMER": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -733,7 +732,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "motifbreakR": [],
     "msgbsR": [],
     "MSnID": [],
     "MSPrep": [
@@ -926,7 +924,6 @@
         "minfi"
     ],
     "regionReport": [],
-    "regutools": [],
     "REMP": [
         "genefilter",
         "minfi"
@@ -1138,7 +1135,6 @@
         "sva"
     ],
     "TypeInfo": [],
-    "uncoverappLib": [],
     "uSORT": [
         "monocle"
     ],
