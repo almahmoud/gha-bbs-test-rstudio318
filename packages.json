@@ -334,9 +334,7 @@
     "CONFESS": [
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [],
     "conumee": [
         "genefilter",
@@ -1045,9 +1043,7 @@
         "yarn"
     ],
     "NTW": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OGRE": [
         "Gviz"
     ],
@@ -1254,9 +1250,7 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "Ringo": [
         "genefilter"
     ],
@@ -1305,7 +1299,6 @@
     ],
     "RSeqAn": [],
     "rSWeeP": [],
-    "RUVSeq": [],
     "sagenhaft": [],
     "SBGNview": [],
     "SCAN.UPC": [
@@ -1319,9 +1312,7 @@
     "scClassify": [],
     "scFeatures": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scRNAseqApp": [],
     "scruff": [
         "ggbio"
@@ -1445,9 +1436,7 @@
     "srnadiff": [
         "Gviz"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
