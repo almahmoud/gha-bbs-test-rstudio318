@@ -1055,7 +1055,6 @@
         "tilingArray"
     ],
     "SNPediaR": [],
-    "SomaticSignatures": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -1145,9 +1144,7 @@
         "genefilter"
     ],
     "Xeva": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "genefilter",
         "minfi",
