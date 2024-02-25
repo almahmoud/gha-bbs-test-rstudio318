@@ -152,9 +152,7 @@
     "BOBaFIT": [
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
@@ -405,7 +403,6 @@
     "DeepBlueR": [],
     "DEGraph": [],
     "DeMixT": [
-        "DSS",
         "genefilter",
         "sva"
     ],
@@ -446,7 +443,6 @@
         "EnrichmentBrowser",
         "zenith"
     ],
-    "DSS": [],
     "edge": [
         "genefilter",
         "sva"
@@ -729,9 +725,7 @@
         "sva"
     ],
     "karyoploteR": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "KnowSeq": [
         "genefilter",
         "sva"
@@ -827,7 +821,6 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
         "genefilter"
     ],
     "MethylAid": [
@@ -855,9 +848,7 @@
         "missMethyl"
     ],
     "methylPipe": [],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "genefilter",
         "minfi"
@@ -1226,7 +1217,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scClassify": [],
     "scmeth": [],
     "scone": [],
     "scRNAseqApp": [],
