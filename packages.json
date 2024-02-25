@@ -888,7 +888,6 @@
     "ncGTW": [
         "xcms"
     ],
-    "nempi": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -982,7 +981,6 @@
         "LPE"
     ],
     "PoDCall": [],
-    "prebs": [],
     "primirTSS": [],
     "profileplyr": [
         "ChIPseeker",
@@ -1202,7 +1200,6 @@
         "genefilter"
     ],
     "similaRpeak": [],
-    "simpleSeg": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
