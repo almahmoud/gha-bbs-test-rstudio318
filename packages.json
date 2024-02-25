@@ -284,7 +284,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "condiments": [],
     "CONFESS": [
         "flowMerge"
     ],
@@ -646,7 +645,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
     ],
