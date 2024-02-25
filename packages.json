@@ -940,7 +940,6 @@
         "genefilter",
         "sva"
     ],
-    "OMICsPCA": [],
     "openCyto": [
         "flowWorkspace"
     ],
@@ -1358,7 +1357,6 @@
         "GOSemSim"
     ],
     "Voyager": [],
-    "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
         "ROC",
