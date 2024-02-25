@@ -131,9 +131,7 @@
         "sva"
     ],
     "BioNetStat": [],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter"
@@ -410,7 +408,6 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "doppelgangR": [
         "genefilter",
         "sva"
