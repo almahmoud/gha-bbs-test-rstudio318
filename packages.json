@@ -440,10 +440,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GEM": [],
     "genefilter": [],
     "GeneMeta": [
