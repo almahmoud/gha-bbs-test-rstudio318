@@ -37,7 +37,6 @@
         "alabaster.sce"
     ],
     "alabaster.vcf": [],
-    "AllelicImbalance": [],
     "annmap": [
         "genefilter"
     ],
@@ -61,7 +60,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [],
     "attract": [
         "Category",
         "GOstats",
@@ -131,18 +129,14 @@
         "derfinderPlot"
     ],
     "brendaDb": [],
-    "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
         "sva"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [],
     "canceR": [
@@ -238,12 +232,8 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "COCOA": [],
     "coGPS": [],
     "coMET": [],
@@ -253,7 +243,6 @@
         "genefilter",
         "minfi"
     ],
-    "CopyNumberPlots": [],
     "cosmiq": [],
     "COSNet": [],
     "countsimQC": [
@@ -363,7 +352,6 @@
         "sva"
     ],
     "ELMER": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -417,9 +405,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "factDesign": [],
     "famat": [
         "DOSE",
@@ -477,7 +463,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GEOexplorer": [
         "genefilter",
@@ -528,9 +513,7 @@
         "genefilter",
         "sva"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -772,9 +755,7 @@
         "dcanr"
     ],
     "MVCClass": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -863,7 +844,6 @@
         "LPE"
     ],
     "PoDCall": [],
-    "primirTSS": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1096,9 +1076,7 @@
     "spatialHeatmap": [
         "genefilter"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -1107,7 +1085,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SPLINTER": [],
     "staRank": [
         "Category",
         "cellHTS2",
