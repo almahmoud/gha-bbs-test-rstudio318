@@ -28,8 +28,7 @@
         "ggbio"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "alabaster": [
         "alabaster.mae",
@@ -58,9 +57,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [
-        "BiocCheck"
-    ],
+    "AnnotationHubData": [],
     "appreci8R": [],
     "arrayMvout": [
         "genefilter",
@@ -140,7 +137,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocCheck": [],
     "BiocOncoTK": [],
     "BioMVCClass": [
         "MVCClass"
@@ -572,8 +568,7 @@
     ],
     "escape": [],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "extraChIPs": [
         "GenomicInteractions",
@@ -652,9 +647,7 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "GEM": [],
     "GeneBreak": [],
     "genefilter": [],
@@ -734,7 +727,6 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -929,7 +921,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "genefilter",
         "minfi"
