@@ -1064,8 +1064,7 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "projectR": [],
     "pRoloc": [
@@ -1328,7 +1327,6 @@
         "tilingArray"
     ],
     "SNPediaR": [],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
