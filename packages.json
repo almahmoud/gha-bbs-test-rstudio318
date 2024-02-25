@@ -281,9 +281,7 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "coGPS": [],
     "comapr": [],
     "coMET": [],
@@ -851,7 +849,6 @@
         "genefilter"
     ],
     "MinimumDistance": [],
-    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "Category",
