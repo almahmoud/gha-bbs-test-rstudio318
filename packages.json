@@ -62,7 +62,6 @@
         "projectR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "attract": [
         "Category",
         "GOstats",
@@ -109,7 +108,6 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "biomvRCNS": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -204,7 +202,6 @@
         "sva",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -484,7 +481,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "GEOexplorer": [
@@ -865,7 +861,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PING": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -1139,7 +1134,6 @@
     ],
     "SwathXtend": [],
     "SynMut": [],
-    "tadar": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
@@ -1174,7 +1168,6 @@
         "genefilter",
         "sva"
     ],
-    "TVTB": [],
     "TypeInfo": [],
     "uncoverappLib": [],
     "uSORT": [
