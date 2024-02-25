@@ -300,7 +300,6 @@
         "genefilter"
     ],
     "clevRvis": [],
-    "clipper": [],
     "cliqueMS": [
         "MsExperiment",
         "xcms"
@@ -413,14 +412,12 @@
         "flowClust",
         "flowDensity"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "diffcyt"
     ],
     "cytofQC": [
         "CATALYST"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowWorkspace",
@@ -637,11 +634,9 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMatch": [],
     "flowMerge": [
         "flowClust"
     ],
-    "flowSpecs": [],
     "flowStats": [
         "flowWorkspace"
     ],
