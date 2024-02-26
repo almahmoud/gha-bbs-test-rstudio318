@@ -26,13 +26,9 @@
     ],
     "AHMassBank": [],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
     "alabaster.spatial": [],
-    "alabaster.vcf": [],
     "annmap": [
         "genefilter"
     ],
