@@ -27,15 +27,11 @@
     "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.sce",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
     "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
+    "alabaster.spatial": [],
     "alabaster.vcf": [],
     "annmap": [
         "genefilter"
@@ -269,18 +265,13 @@
     "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "DaMiRseq": [
         "genefilter",
@@ -293,7 +284,6 @@
         "enrichplot"
     ],
     "dcanr": [],
-    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -336,9 +326,7 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "edge": [
         "genefilter",
         "sva"
@@ -414,15 +402,9 @@
     "flagme": [
         "CAMERA"
     ],
-    "flowBin": [],
     "flowCut": [],
-    "flowGate": [
-        "ggcyto"
-    ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowGate": [],
+    "flowVS": [],
     "fmrs": [],
     "funtooNorm": [
         "genefilter",
@@ -433,7 +415,6 @@
         "genefilter",
         "sva"
     ],
-    "GateFinder": [],
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
@@ -460,7 +441,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "ggcyto": [],
     "GISPA": [
         "genefilter"
     ],
@@ -484,7 +464,6 @@
     ],
     "granulator": [],
     "graper": [],
-    "GSEABenchmarkeR": [],
     "GSRI": [
         "genefilter"
     ],
@@ -525,7 +504,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "ImmuneSpaceR": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -764,7 +742,6 @@
         "genefilter",
         "sva"
     ],
-    "openCyto": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -919,7 +896,6 @@
     "Ringo": [
         "genefilter"
     ],
-    "Risa": [],
     "RLSeq": [],
     "RNAAgeCalc": [],
     "RNAinteract": [
@@ -1100,7 +1076,6 @@
     "tRanslatome": [
         "GOSemSim"
     ],
-    "treekoR": [],
     "trigger": [
         "genefilter",
         "sva"
@@ -1135,7 +1110,6 @@
         "minfi",
         "quantro"
     ],
-    "zenith": [],
     "zinbwave": [
         "genefilter"
     ]
