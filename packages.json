@@ -72,7 +72,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "BG2": [],
     "bigmelon": [
         "ROC",
         "genefilter",
@@ -89,9 +88,7 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "BioMVCClass": [
-        "MVCClass"
-    ],
+    "BioMVCClass": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -140,7 +137,6 @@
         "Category",
         "genefilter"
     ],
-    "cellscape": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -184,7 +180,6 @@
     ],
     "clevRvis": [],
     "cliqueMS": [],
-    "Clomial": [],
     "clst": [
         "ROC"
     ],
@@ -381,7 +376,6 @@
         "genefilter",
         "sva"
     ],
-    "GEOfastq": [],
     "gespeR": [
         "Category",
         "cellHTS2",
@@ -390,7 +384,6 @@
     "GISPA": [
         "genefilter"
     ],
-    "globalSeq": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -407,7 +400,6 @@
         "Category",
         "genefilter"
     ],
-    "granulator": [],
     "graper": [],
     "GSRI": [
         "genefilter"
@@ -428,7 +420,6 @@
     "HilbertVisGUI": [],
     "hmdbQuery": [],
     "HPiP": [],
-    "ibh": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -474,10 +465,7 @@
         "genefilter",
         "spicyR"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -621,7 +609,6 @@
         "genefilter",
         "sva"
     ],
-    "MSstatsLOBD": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -631,7 +618,6 @@
     ],
     "multicrispr": [],
     "multiWGCNA": [],
-    "MVCClass": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -711,9 +697,7 @@
         "GOstats",
         "genefilter"
     ],
-    "PLPE": [
-        "LPE"
-    ],
+    "PLPE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -819,7 +803,6 @@
         "GOSemSim"
     ],
     "RSeqAn": [],
-    "rSWeeP": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -934,7 +917,6 @@
     "statTarget": [
         "ROC"
     ],
-    "Summix": [],
     "sva": [
         "genefilter"
     ],
