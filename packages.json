@@ -36,16 +36,12 @@
     "arrayQualityMetrics": [
         "genefilter"
     ],
-    "ASICS": [
-        "PepsNMR"
-    ],
+    "ASICS": [],
     "ASSIGN": [
         "genefilter",
         "sva"
     ],
-    "ATACCoGAPS": [
-        "projectR"
-    ],
+    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats",
@@ -187,7 +183,6 @@
         "genefilter"
     ],
     "coGPS": [],
-    "CONFESS": [],
     "conumee": [
         "genefilter",
         "minfi"
@@ -319,8 +314,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "extraChIPs": [],
-    "factDesign": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -349,7 +342,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDR": [],
     "GEM": [],
     "genefilter": [],
     "GeneMeta": [
@@ -398,7 +390,6 @@
         "genefilter",
         "sva"
     ],
-    "hierGWAS": [],
     "HilbertCurve": [],
     "HilbertVisGUI": [],
     "hmdbQuery": [],
@@ -466,7 +457,6 @@
         "enrichplot"
     ],
     "maPredictDSC": [],
-    "maSigPro": [],
     "MBECS": [
         "genefilter",
         "sva"
@@ -533,7 +523,6 @@
         "genefilter",
         "minfi"
     ],
-    "mfa": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
@@ -596,7 +585,6 @@
     "NBAMSeq": [
         "genefilter"
     ],
-    "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -649,7 +637,6 @@
     "PECA": [
         "genefilter"
     ],
-    "PepsNMR": [],
     "phemd": [
         "monocle"
     ],
@@ -677,7 +664,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "genefilter"
@@ -701,8 +687,6 @@
     "protGear": [
         "genefilter"
     ],
-    "PSEA": [],
-    "psichomics": [],
     "qckitfastq": [
         "RSeqAn"
     ],
@@ -760,7 +744,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "RNAmodR.ML": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -865,7 +848,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "spkTools": [],
     "SpliceWiz": [
         "genefilter"
     ],
@@ -935,7 +917,6 @@
         "GeneMeta",
         "genefilter"
     ],
-    "YAPSA": [],
     "yarn": [
         "genefilter",
         "minfi",
