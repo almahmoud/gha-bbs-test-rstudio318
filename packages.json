@@ -24,7 +24,6 @@
         "affycoretools",
         "genefilter"
     ],
-    "AHMassBank": [],
     "alabaster": [
         "alabaster.spatial"
     ],
@@ -159,7 +158,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DOSE",
@@ -228,7 +226,6 @@
         "genefilter",
         "minfi"
     ],
-    "cosmiq": [],
     "COSNet": [],
     "countsimQC": [
         "genefilter"
@@ -258,16 +255,11 @@
         "genefilter",
         "sva"
     ],
-    "cyanoFilter": [],
-    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC"
+        "CytoPipeline"
     ],
     "DaMiRseq": [
         "genefilter",
@@ -398,7 +390,6 @@
     "flagme": [
         "CAMERA"
     ],
-    "flowCut": [],
     "flowGate": [],
     "flowVS": [],
     "fmrs": [],
@@ -446,7 +437,6 @@
         "GOstats",
         "genefilter"
     ],
-    "GNOSIS": [],
     "GOSemSim": [],
     "goSorensen": [
         "DOSE",
@@ -474,7 +464,6 @@
         "genefilter",
         "sva"
     ],
-    "HiCDCPlus": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -769,7 +758,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PeacoQC": [],
     "PECA": [
         "genefilter"
     ],
@@ -901,7 +889,6 @@
     ],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
