@@ -60,7 +60,6 @@
         "genefilter",
         "sva"
     ],
-    "beadarraySNP": [],
     "benchdamic": [
         "genefilter",
         "zinbwave"
@@ -80,7 +79,6 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "BioMVCClass": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -161,7 +159,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "ChIPseqR": [],
     "cicero": [
         "monocle"
     ],
@@ -193,17 +190,12 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprBowtie": [],
-    "crisprDesign": [
-        "crisprBowtie"
-    ],
+    "crisprDesign": [],
     "crisprVerse": [
-        "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprBowtie",
         "crisprDesign"
     ],
     "crossmeta": [
@@ -295,16 +287,10 @@
         "genefilter",
         "minfi"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -346,9 +332,7 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GENESIS": [
-        "GWASTools"
-    ],
+    "GENESIS": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -381,16 +365,11 @@
     "GSRI": [
         "genefilter"
     ],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
+    "gwasurvivr": [],
     "HarmonizR": [
         "genefilter",
         "sva"
     ],
-    "HilbertCurve": [],
-    "HilbertVisGUI": [],
     "hmdbQuery": [],
     "iCheck": [
         "genefilter",
@@ -437,7 +416,6 @@
         "genefilter",
         "spicyR"
     ],
-    "LPEadj": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -455,14 +433,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "maPredictDSC": [],
     "MBECS": [
         "genefilter",
         "sva"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -579,8 +554,6 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "multicrispr": [],
-    "multiWGCNA": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -656,7 +629,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PLPE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -690,7 +662,6 @@
         "RSeqAn"
     ],
     "qcmetrics": [],
-    "qsea": [],
     "qsmooth": [
         "genefilter",
         "sva"
@@ -704,8 +675,7 @@
         "minfi"
     ],
     "RAIDS": [
-        "GENESIS",
-        "GWASTools"
+        "GENESIS"
     ],
     "RandomWalkRestartMH": [],
     "Rcpi": [
@@ -771,8 +741,7 @@
         "meshr"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -854,7 +823,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "statTarget": [],
     "sva": [
         "genefilter"
     ],
