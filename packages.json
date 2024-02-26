@@ -24,7 +24,6 @@
         "affycoretools",
         "genefilter"
     ],
-    "alabaster": [],
     "annmap": [
         "genefilter"
     ],
@@ -116,7 +115,6 @@
         "genefilter",
         "sva"
     ],
-    "CAGEr": [],
     "canceR": [
         "Category",
         "genefilter",
@@ -244,7 +242,6 @@
         "genefilter",
         "sva"
     ],
-    "CytoPipelineGUI": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -370,7 +367,6 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [],
     "fmrs": [],
     "funtooNorm": [
         "genefilter",
@@ -486,7 +482,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "IPO": [],
     "iSeq": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -502,7 +497,6 @@
         "genefilter",
         "spicyR"
     ],
-    "LOBSTAHS": [],
     "LPE": [],
     "LPEadj": [
         "LPE"
@@ -525,7 +519,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [],
     "maPredictDSC": [
         "ROC"
     ],
@@ -565,7 +558,6 @@
     ],
     "metabinR": [],
     "metaCCA": [],
-    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
