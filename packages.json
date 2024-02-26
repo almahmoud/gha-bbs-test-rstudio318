@@ -169,7 +169,6 @@
         "genefilter"
     ],
     "cliqueMS": [],
-    "clstutils": [],
     "clusterExperiment": [
         "genefilter",
         "zinbwave"
@@ -828,7 +827,6 @@
         "sva",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [],
     "skewr": [
         "genefilter",
         "lumi",
