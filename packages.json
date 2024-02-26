@@ -188,10 +188,7 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -281,7 +278,6 @@
         "genefilter",
         "minfi"
     ],
-    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -661,7 +657,6 @@
         "genefilter",
         "minfi"
     ],
-    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
@@ -725,7 +720,6 @@
         "genefilter",
         "meshr"
     ],
-    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
