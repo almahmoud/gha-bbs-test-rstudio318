@@ -24,10 +24,7 @@
         "affycoretools",
         "genefilter"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "annmap": [
         "genefilter"
     ],
@@ -256,7 +253,6 @@
         "sva"
     ],
     "cytofQC": [],
-    "CytoML": [],
     "CytoPipelineGUI": [],
     "DaMiRseq": [
         "genefilter",
@@ -311,7 +307,6 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "dreamlet": [],
     "edge": [
         "genefilter",
         "sva"
@@ -387,8 +382,6 @@
     "flagme": [
         "CAMERA"
     ],
-    "flowGate": [],
-    "flowVS": [],
     "fmrs": [],
     "funtooNorm": [
         "genefilter",
