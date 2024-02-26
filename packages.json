@@ -173,10 +173,7 @@
         "genefilter"
     ],
     "cliqueMS": [],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "clusterExperiment": [
         "genefilter",
         "zinbwave"
@@ -723,7 +720,6 @@
         "genefilter",
         "minfi"
     ],
-    "QuasR": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools"
@@ -837,7 +833,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SIM": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -850,9 +845,7 @@
         "sva",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "genefilter",
         "lumi",
@@ -896,7 +889,6 @@
         "genefilter",
         "sva"
     ],
-    "TCC": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
