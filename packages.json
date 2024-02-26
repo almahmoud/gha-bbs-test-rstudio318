@@ -36,12 +36,10 @@
     "arrayQualityMetrics": [
         "genefilter"
     ],
-    "ASICS": [],
     "ASSIGN": [
         "genefilter",
         "sva"
     ],
-    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats",
@@ -190,14 +188,10 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz"
     ],
-    "crisprViz": [
-        "crisprDesign"
-    ],
+    "crisprViz": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -287,11 +281,7 @@
         "genefilter",
         "minfi"
     ],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -332,7 +322,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GENESIS": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -365,7 +354,6 @@
     "GSRI": [
         "genefilter"
     ],
-    "gwasurvivr": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -437,7 +425,6 @@
         "genefilter",
         "sva"
     ],
-    "mBPCR": [],
     "MEAL": [
         "genefilter",
         "methylumi",
@@ -674,9 +661,7 @@
         "genefilter",
         "minfi"
     ],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
@@ -740,9 +725,7 @@
         "genefilter",
         "meshr"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
