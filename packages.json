@@ -31,8 +31,7 @@
         "genefilter",
         "lumi",
         "methylumi",
-        "minfi",
-        "parody"
+        "minfi"
     ],
     "arrayQualityMetrics": [
         "genefilter"
@@ -176,9 +175,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "ChIPseqR": [
-        "HilbertVis"
-    ],
+    "ChIPseqR": [],
     "cicero": [
         "monocle"
     ],
@@ -220,21 +217,16 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprBowtie": [
-        "Rbowtie"
-    ],
+    "crisprBowtie": [],
     "crisprDesign": [
-        "Rbowtie",
         "crisprBowtie"
     ],
     "crisprVerse": [
-        "Rbowtie",
         "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "Rbowtie",
         "crisprBowtie",
         "crisprDesign"
     ],
@@ -252,7 +244,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "dcanr": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -329,21 +320,15 @@
         "minfi"
     ],
     "epivizr": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "epivizrChart": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
-    "epivizrData": [
-        "epivizrServer"
-    ],
-    "epivizrServer": [],
+    "epivizrData": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -360,7 +345,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCI": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -440,15 +424,9 @@
         "sva"
     ],
     "hierGWAS": [],
-    "HilbertCurve": [
-        "HilbertVis"
-    ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertCurve": [],
+    "HilbertVisGUI": [],
     "hmdbQuery": [],
-    "HMMcopy": [],
     "HPiP": [],
     "ibh": [],
     "iCheck": [
@@ -482,7 +460,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "iSeq": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -523,7 +500,6 @@
         "ROC"
     ],
     "maSigPro": [],
-    "matchBox": [],
     "MBECS": [
         "genefilter",
         "sva"
@@ -653,12 +629,8 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "multicrispr": [
-        "Rbowtie"
-    ],
-    "multiWGCNA": [
-        "dcanr"
-    ],
+    "multicrispr": [],
+    "multiWGCNA": [],
     "MVCClass": [],
     "NBAMSeq": [
         "genefilter"
@@ -667,7 +639,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetPathMiner": [],
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
@@ -710,7 +681,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "parody": [],
     "PathNet": [],
     "pcaExplorer": [
         "Category",
@@ -744,7 +714,6 @@
     "PLPE": [
         "LPE"
     ],
-    "PoDCall": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -781,9 +750,7 @@
         "RSeqAn"
     ],
     "qcmetrics": [],
-    "qsea": [
-        "HMMcopy"
-    ],
+    "qsea": [],
     "qsmooth": [
         "genefilter",
         "sva"
@@ -797,21 +764,17 @@
         "minfi"
     ],
     "quantsmooth": [],
-    "QuasR": [
-        "Rbowtie"
-    ],
+    "QuasR": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
         "quantsmooth"
     ],
     "RandomWalkRestartMH": [],
-    "Rbowtie": [],
     "RCASPAR": [],
     "Rcpi": [
         "GOSemSim"
     ],
-    "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
         "DOSE",
@@ -857,7 +820,6 @@
     ],
     "RSeqAn": [],
     "rSWeeP": [],
-    "sagenhaft": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -878,8 +840,7 @@
     ],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -887,7 +848,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -940,8 +900,7 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
-        "QuasR",
-        "Rbowtie"
+        "QuasR"
     ],
     "skewr": [
         "ROC",
@@ -1037,7 +996,6 @@
         "methylumi",
         "minfi"
     ],
-    "weaver": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
