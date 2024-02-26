@@ -257,10 +257,7 @@
     ],
     "cytofQC": [],
     "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
