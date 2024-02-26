@@ -60,20 +60,16 @@
         "genefilter",
         "pRoloc"
     ],
-    "BaseSpaceR": [],
     "BatchQC": [
         "genefilter",
         "sva"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "benchdamic": [
         "genefilter",
         "zinbwave"
     ],
     "bigmelon": [
-        "ROC",
         "genefilter",
         "lumi",
         "methylumi",
@@ -150,14 +146,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CFAssay": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
     "ChAMP": [
         "DMRcate",
-        "ROC",
         "genefilter",
         "lumi",
         "methylumi",
@@ -178,13 +172,9 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "clevRvis": [],
     "cliqueMS": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "clusterExperiment": [
@@ -369,8 +359,7 @@
         "genefilter"
     ],
     "GENESIS": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "GEOexplorer": [
         "genefilter",
@@ -404,12 +393,9 @@
     "GSRI": [
         "genefilter"
     ],
-    "GWASTools": [
-        "quantsmooth"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "HarmonizR": [
         "genefilter",
@@ -419,7 +405,6 @@
     "HilbertCurve": [],
     "HilbertVisGUI": [],
     "hmdbQuery": [],
-    "HPiP": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -471,7 +456,6 @@
         "methylumi",
         "minfi"
     ],
-    "maCorrPlot": [],
     "MAGAR": [
         "RnBeads",
         "genefilter",
@@ -484,17 +468,14 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "maPredictDSC": [
-        "ROC"
-    ],
+    "maPredictDSC": [],
     "maSigPro": [],
     "MBECS": [
         "genefilter",
         "sva"
     ],
     "mBPCR": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "MEAL": [
         "genefilter",
@@ -504,7 +485,6 @@
         "sva"
     ],
     "MEAT": [
-        "ROC",
         "genefilter",
         "lumi",
         "methylumi",
@@ -521,7 +501,6 @@
         "genefilter"
     ],
     "metabinR": [],
-    "metaCCA": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -588,7 +567,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "ModCon": [],
     "mogsa": [
         "genefilter"
     ],
@@ -638,7 +616,6 @@
         "quantro",
         "yarn"
     ],
-    "NTW": [],
     "omicRexposome": [
         "genefilter",
         "sva"
@@ -667,7 +644,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "PathNet": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -747,19 +723,15 @@
         "genefilter",
         "minfi"
     ],
-    "quantsmooth": [],
     "QuasR": [],
     "RAIDS": [
         "GENESIS",
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "RandomWalkRestartMH": [],
-    "RCASPAR": [],
     "Rcpi": [
         "GOSemSim"
     ],
-    "Rdisop": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -798,7 +770,6 @@
         "methylumi",
         "minfi"
     ],
-    "ROC": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -866,14 +837,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SIM": [
-        "quantsmooth"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
     ],
-    "similaRpeak": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -886,7 +854,6 @@
         "QuasR"
     ],
     "skewr": [
-        "ROC",
         "genefilter",
         "lumi",
         "methylumi",
@@ -914,9 +881,7 @@
         "cellHTS2",
         "genefilter"
     ],
-    "statTarget": [
-        "ROC"
-    ],
+    "statTarget": [],
     "sva": [
         "genefilter"
     ],
@@ -931,9 +896,7 @@
         "genefilter",
         "sva"
     ],
-    "TCC": [
-        "ROC"
-    ],
+    "TCC": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
@@ -959,7 +922,6 @@
         "genefilter",
         "sva"
     ],
-    "TypeInfo": [],
     "uSORT": [
         "monocle"
     ],
@@ -972,7 +934,6 @@
         "GOSemSim"
     ],
     "wateRmelon": [
-        "ROC",
         "genefilter",
         "lumi",
         "methylumi",
