@@ -110,7 +110,6 @@
         "genefilter",
         "sva"
     ],
-    "brainflowprobes": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO",
@@ -210,9 +209,7 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNViz": [],
     "coGPS": [],
-    "compEpiTools": [],
     "CONFESS": [],
     "conumee": [
         "genefilter",
@@ -247,7 +244,6 @@
         "genefilter",
         "sva"
     ],
-    "cytofQC": [],
     "CytoPipelineGUI": [],
     "DaMiRseq": [
         "genefilter",
@@ -636,7 +632,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MobilityTransformR": [],
     "ModCon": [],
     "mogsa": [
         "genefilter"
@@ -673,7 +668,6 @@
         "dcanr"
     ],
     "MVCClass": [],
-    "NADfinder": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -860,7 +854,6 @@
         "genefilter"
     ],
     "RNAmodR.ML": [],
-    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
