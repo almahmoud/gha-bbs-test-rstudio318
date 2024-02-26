@@ -112,16 +112,12 @@
     ],
     "brainflowprobes": [],
     "brendaDb": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
         "sva"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
-    "CAMERA": [],
+    "CAGEr": [],
     "canceR": [
         "Category",
         "genefilter",
@@ -214,7 +210,6 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [],
     "CNViz": [],
     "coGPS": [],
     "compEpiTools": [],
@@ -379,9 +374,7 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "fmrs": [],
     "funtooNorm": [
         "genefilter",
@@ -497,9 +490,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "iSeq": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -515,9 +506,7 @@
         "genefilter",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LPE": [],
     "LPEadj": [
         "LPE"
@@ -540,9 +529,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maPredictDSC": [
         "ROC"
     ],
@@ -582,9 +569,7 @@
     ],
     "metabinR": [],
     "metaCCA": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -669,7 +654,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MSnID": [],
     "MSPrep": [
         "genefilter",
         "sva"
@@ -693,7 +677,6 @@
     "NBAMSeq": [
         "genefilter"
     ],
-    "ncGTW": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -871,13 +854,11 @@
         "genefilter"
     ],
     "RLSeq": [],
-    "RNAAgeCalc": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
         "genefilter"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [
@@ -993,7 +974,6 @@
     "spatialHeatmap": [
         "genefilter"
     ],
-    "spatzie": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
