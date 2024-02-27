@@ -704,7 +704,6 @@
         "mzR",
         "xcms"
     ],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -917,7 +916,6 @@
     ],
     "DESeq2": [],
     "DEsingle": [],
-    "DESpace": [],
     "DEsubs": [
         "DESeq2"
     ],
@@ -981,7 +979,6 @@
         "genefilter",
         "sva"
     ],
-    "Doscheda": [],
     "DOSE": [
         "GOSemSim"
     ],
@@ -1345,7 +1342,6 @@
         "marray",
         "piano"
     ],
-    "gDRstyle": [],
     "gDRutils": [],
     "GeneBreak": [
         "CGHbase",
@@ -1525,7 +1521,6 @@
     "hicVennDiagram": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
-    "hoodscanR": [],
     "hopach": [],
     "HTSeqGenie": [
         "VariantTools",
@@ -1960,7 +1955,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2169,7 +2163,6 @@
         "marray"
     ],
     "nnSVG": [],
-    "NormalyzerDE": [],
     "NormqPCR": [
         "ReadqPCR"
     ],
@@ -2360,9 +2353,7 @@
     "POWSC": [],
     "ppcseq": [],
     "pqsfinder": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
@@ -2661,7 +2652,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "RPA": [],
     "rpx": [],
     "Rqc": [
         "GenomicFiles",
@@ -2679,7 +2669,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "rTRMui": [],
     "RUVcorr": [],
     "RUVSeq": [
         "EDASeq"
@@ -2724,7 +2713,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scider": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -2943,7 +2931,6 @@
         "genefilter"
     ],
     "StarBioTrek": [],
-    "Statial": [],
     "statTarget": [],
     "stepNorm": [
         "marray"
