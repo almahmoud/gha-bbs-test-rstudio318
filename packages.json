@@ -174,7 +174,6 @@
         "mzR",
         "pRoloc"
     ],
-    "BASiCStan": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -183,7 +182,6 @@
     "beadarraySNP": [],
     "benchdamic": [
         "DESeq2",
-        "Maaslin2",
         "genefilter",
         "zinbwave"
     ],
@@ -337,7 +335,6 @@
         "CardinalIO"
     ],
     "CardinalIO": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "cytolib",
@@ -370,7 +367,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [],
     "CellaRepertorium": [],
     "cellHTS2": [
         "Category",
@@ -537,7 +533,6 @@
         "methylPipe"
     ],
     "concordexR": [],
-    "condiments": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -908,11 +903,7 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "ERSSA": [
         "DESeq2"
@@ -1422,10 +1413,7 @@
     "LymphoSeq": [
         "msa"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "maftools": [],
     "MAGAR": [
         "GEOquery",
@@ -1471,7 +1459,6 @@
     "mBPCR": [
         "GWASTools"
     ],
-    "mbQTL": [],
     "MCbiclust": [],
     "mCSEA": [
         "Gviz"
@@ -1579,7 +1566,6 @@
     "mfa": [],
     "MGFM": [],
     "MiChip": [],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -1637,9 +1623,7 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -2107,7 +2091,6 @@
     "Rcpi": [
         "GOSemSim"
     ],
-    "RcwlPipelines": [],
     "RCy3": [],
     "ReactomePA": [
         "DOSE",
@@ -2156,9 +2139,7 @@
     ],
     "RESOLVE": [],
     "restfulSE": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "rfaRm": [],
     "Rfastp": [],
     "RGSEA": [],
@@ -2298,7 +2279,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -2313,9 +2293,7 @@
         "genefilter",
         "meshr"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
@@ -2562,7 +2540,6 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "transite": [],
@@ -2574,7 +2551,6 @@
         "RCy3"
     ],
     "TransView": [],
-    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
