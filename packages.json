@@ -131,9 +131,7 @@
         "genefilter"
     ],
     "AnnotationHubData": [],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -189,8 +187,7 @@
         "GenomicScores",
         "InteractionSet",
         "TFBSTools",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "CNEr",
@@ -333,8 +330,7 @@
         "annotatr",
         "bsseq",
         "dmrseq",
-        "marray",
-        "regioneR"
+        "marray"
     ],
     "blacksheepr": [
         "DESeq2",
@@ -555,14 +551,12 @@
         "Gviz",
         "biovizBase"
     ],
-    "ChIPanalyser": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
     "ChIPpeakAnno": [
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "ChIPQC": [
         "DESeq2",
@@ -608,7 +602,6 @@
         "genefilter"
     ],
     "clippda": [],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -635,9 +628,7 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR"
@@ -659,9 +650,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "cnvGSA": [],
     "CNViz": [
@@ -669,13 +658,9 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
@@ -727,8 +712,7 @@
     ],
     "consensusSeekeR": [],
     "contiBAIT": [
-        "GenomicFiles",
-        "exomeCopy"
+        "GenomicFiles"
     ],
     "conumee": [
         "GEOquery",
@@ -743,9 +727,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [
         "marray",
@@ -755,7 +737,6 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -985,8 +966,7 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "DESeq2": [],
     "DEsingle": [],
@@ -1048,8 +1028,7 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -1090,7 +1069,6 @@
     "easier": [
         "DESeq2"
     ],
-    "easylift": [],
     "easyRNASeq": [],
     "EBSEA": [
         "DESeq2"
@@ -1138,8 +1116,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1203,8 +1180,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA"
@@ -1215,7 +1191,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
     ],
@@ -1263,7 +1238,6 @@
         "minfi"
     ],
     "FilterFFPE": [],
-    "FindIT2": [],
     "FISHalyseR": [],
     "flagme": [
         "CAMERA",
@@ -1545,7 +1519,6 @@
         "DESeq2"
     ],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
@@ -1561,7 +1534,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "GOfuncR": [],
     "GOpro": [],
     "GOSemSim": [],
@@ -1596,8 +1568,7 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "Gviz": [
         "biovizBase"
@@ -1653,7 +1624,6 @@
     "hicVennDiagram": [
         "InteractionSet"
     ],
-    "HiLDA": [],
     "hiReadsProcessor": [],
     "HiTC": [],
     "hmdbQuery": [],
@@ -1787,8 +1757,7 @@
     "ivygapSE": [],
     "karyoploteR": [
         "bamsignals",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "maftools"
@@ -2278,8 +2247,7 @@
         "CRISPRseek",
         "bamsignals",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "MultiDataSet": [],
     "multiHiCcompare": [
@@ -2314,7 +2282,6 @@
         "TFBSTools",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -2471,8 +2438,7 @@
         "sva"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -2560,7 +2526,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -2571,7 +2536,6 @@
     "plyinteractions": [
         "InteractionSet"
     ],
-    "podkat": [],
     "pogos": [],
     "POMA": [
         "DESeq2"
@@ -2637,7 +2601,6 @@
         "mzR"
     ],
     "ProteoDisco": [],
-    "ProteoMM": [],
     "protGear": [
         "genefilter"
     ],
@@ -2752,15 +2715,11 @@
     ],
     "REDseq": [
         "ChIPpeakAnno",
-        "InteractionSet",
-        "regioneR"
+        "InteractionSet"
     ],
     "regionalpcs": [],
     "RegionalST": [],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "DESeq2",
@@ -2804,10 +2763,7 @@
     "rfaRm": [],
     "Rfastp": [],
     "rGADEM": [],
-    "rGenomeTracks": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "RGSEA": [],
     "rgsepd": [
         "DESeq2"
@@ -2847,9 +2803,7 @@
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
@@ -2981,8 +2935,7 @@
     "scMerge": [],
     "scmeth": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "scone": [
         "EDASeq",
@@ -3028,9 +2981,7 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -3149,8 +3100,7 @@
     ],
     "SOMNiBUS": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SpacePAC": [],
     "Spaniel": [],
@@ -3304,7 +3254,6 @@
     "TFBSTools": [
         "CNEr"
     ],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
@@ -3411,8 +3360,7 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "DESeq2",
-        "regioneR"
+        "DESeq2"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -3466,7 +3414,6 @@
         "DESeq2",
         "DiffBind",
         "InteractionSet",
-        "regioneR",
         "systemPipeR"
     ],
     "wateRmelon": [
