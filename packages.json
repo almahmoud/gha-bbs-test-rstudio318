@@ -313,7 +313,6 @@
     "autonomics": [],
     "AWFisher": [],
     "BaalChIP": [],
-    "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -332,7 +331,6 @@
         "MSnbase",
         "MsCoreUtils",
         "genefilter",
-        "mzID",
         "mzR",
         "pRoloc",
         "vsn"
@@ -497,7 +495,6 @@
         "genefilter",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -644,7 +641,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -932,7 +928,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -942,7 +937,6 @@
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -1136,7 +1130,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -1337,7 +1330,6 @@
         "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -1428,7 +1420,6 @@
     "DEP": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -1565,7 +1556,6 @@
         "SPIA",
         "graphite",
         "pathview",
-        "safe",
         "variancePartition",
         "zenith"
     ],
@@ -1587,7 +1577,6 @@
         "rhdf5"
     ],
     "dStruct": [],
-    "Dune": [],
     "dyebias": [
         "marray"
     ],
@@ -1625,8 +1614,7 @@
         "KEGGgraph",
         "PADOG",
         "pathview",
-        "rhdf5",
-        "safe"
+        "rhdf5"
     ],
     "eiR": [],
     "eisaR": [],
@@ -1656,8 +1644,7 @@
         "KEGGgraph",
         "SPIA",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE",
@@ -1871,7 +1858,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -2045,9 +2031,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
@@ -2090,7 +2074,6 @@
     ],
     "gDRutils": [],
     "GDSArray": [],
-    "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -2298,8 +2281,7 @@
         "KEGGgraph",
         "SPIA",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "gsean": [
         "PPInfer"
@@ -2559,7 +2541,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -2585,7 +2566,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "isobar": [],
     "IsoBayes": [],
     "IsoCorrectoRGUI": [],
@@ -2666,7 +2646,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -2744,7 +2723,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -2760,7 +2738,6 @@
         "plyranges",
         "rhdf5"
     ],
-    "marr": [],
     "marray": [],
     "martini": [],
     "maser": [
@@ -2896,7 +2873,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -3151,7 +3127,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -3271,7 +3246,6 @@
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3279,13 +3253,11 @@
         "MSnbase",
         "MsCoreUtils",
         "msmsEDA",
-        "mzID",
         "mzR",
         "vsn"
     ],
     "MSnbase": [
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3294,7 +3266,6 @@
         "MsCoreUtils",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3337,7 +3308,6 @@
     "MSstatsQC": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "qcmetrics",
         "vsn"
@@ -3346,7 +3316,6 @@
         "MSnbase",
         "MSstatsQC",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "qcmetrics",
         "vsn"
@@ -3392,7 +3361,6 @@
         "DESeq2",
         "Mfuzz"
     ],
-    "multiscan": [],
     "mumosa": [
         "batchelor",
         "scran"
@@ -3420,7 +3388,6 @@
     "myvariant": [
         "VariantAnnotation"
     ],
-    "mzID": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
@@ -3462,7 +3429,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -3717,7 +3683,6 @@
     "peakPantheR": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3840,7 +3805,6 @@
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3867,7 +3831,6 @@
         "MSnbase",
         "MsCoreUtils",
         "genefilter",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3876,7 +3839,6 @@
         "MSnbase",
         "MsCoreUtils",
         "genefilter",
-        "mzID",
         "mzR",
         "pRoloc",
         "vsn"
@@ -3884,7 +3846,6 @@
     "PROMISE": [
         "GSEABase"
     ],
-    "PROPER": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -3898,7 +3859,6 @@
         "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -3929,7 +3889,6 @@
     "ptairMS": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "rhdf5",
         "vsn"
@@ -3967,7 +3926,6 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -4232,7 +4190,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn",
         "xcms"
@@ -4251,7 +4208,6 @@
         "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -4364,14 +4320,12 @@
         "MotifDb",
         "rTRM"
     ],
-    "runibic": [],
     "RUVcorr": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead"
     ],
     "RVS": [],
-    "safe": [],
     "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
@@ -4736,7 +4690,6 @@
         "TrajectoryUtils"
     ],
     "SMITE": [
-        "BioNet",
         "goseq"
     ],
     "snapCGH": [
@@ -4923,7 +4876,6 @@
         "VariantAnnotation"
     ],
     "SubCellBarCode": [],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "surfaltr": [
         "msa"
@@ -4950,7 +4902,6 @@
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -4975,7 +4926,6 @@
     ],
     "TAPseq": [],
     "TargetDecoy": [
-        "mzID",
         "mzR"
     ],
     "TBSignatureProfiler": [
@@ -5071,7 +5021,6 @@
     "topdownr": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -5127,7 +5076,6 @@
         "hopach"
     ],
     "TREG": [],
-    "Trendy": [],
     "TRESS": [],
     "tricycle": [],
     "trigger": [
@@ -5295,7 +5243,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "vsn"
     ],
@@ -5343,7 +5290,6 @@
         "SPIA",
         "graphite",
         "pathview",
-        "safe",
         "variancePartition"
     ],
     "zFPKM": [],
