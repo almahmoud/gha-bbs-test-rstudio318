@@ -483,7 +483,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "COCOA": [],
     "comapr": [
         "Gviz"
     ],
@@ -505,8 +504,7 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "DESeq2",
-        "RUVSeq"
+        "DESeq2"
     ],
     "consensusOV": [
         "AIMS",
@@ -713,7 +711,6 @@
     "derfinderPlot": [
         "ggbio"
     ],
-    "DEScan2": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -1098,7 +1095,6 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -1169,7 +1165,6 @@
     "GSRI": [
         "genefilter"
     ],
-    "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [],
     "gwasurvivr": [
@@ -1201,7 +1196,6 @@
     "HiContacts": [],
     "hmdbQuery": [],
     "hopach": [],
-    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -1412,7 +1406,6 @@
         "genefilter"
     ],
     "metabCombiner": [],
-    "MetaboAnnotation": [],
     "metabolomicsWorkbenchR": [
         "rols",
         "struct"
@@ -1714,8 +1707,7 @@
         "bamsignals"
     ],
     "octad": [
-        "DESeq2",
-        "RUVSeq"
+        "DESeq2"
     ],
     "odseq": [
         "msa"
@@ -1735,7 +1727,6 @@
         "genefilter",
         "sva"
     ],
-    "OMICsPCA": [],
     "omicsPrint": [],
     "openCyto": [
         "cytolib",
@@ -1780,7 +1771,6 @@
         "genefilter",
         "sva"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
@@ -1968,7 +1958,6 @@
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "Rbec": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RBM": [
@@ -1990,7 +1979,6 @@
         "genefilter",
         "minfi"
     ],
-    "REDseq": [],
     "regionReport": [
         "DEFormats",
         "DESeq2"
@@ -2018,7 +2006,6 @@
     "ReQON": [
         "seqbias"
     ],
-    "RESOLVE": [],
     "restfulSE": [],
     "rfaRm": [],
     "Rfastp": [],
@@ -2037,7 +2024,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "Ringo": [
@@ -2110,7 +2096,6 @@
         "TCGAutils"
     ],
     "RUVcorr": [],
-    "RUVSeq": [],
     "sampleClassifier": [
         "MGFM"
     ],
@@ -2144,9 +2129,7 @@
         "cytolib",
         "flowCore"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -2283,9 +2266,7 @@
         "DESeq2",
         "Gviz"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -2459,7 +2440,6 @@
         "GOSemSim"
     ],
     "vsclust": [],
-    "vtpnet": [],
     "vulcan": [
         "DESeq2",
         "DiffBind"
