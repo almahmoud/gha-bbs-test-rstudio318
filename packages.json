@@ -419,7 +419,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "EBarrays",
@@ -436,7 +435,6 @@
     ],
     "BiocBook": [],
     "BiocCheck": [],
-    "biocGraph": [],
     "BiocHail": [
         "basilisk"
     ],
@@ -484,7 +482,6 @@
     "biomformat": [
         "rhdf5"
     ],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
         "VariantAnnotation",
@@ -496,7 +493,6 @@
         "sva"
     ],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "BioQC": [],
@@ -536,7 +532,6 @@
         "beadarray"
     ],
     "BLMA": [
-        "KEGGgraph",
         "PADOG",
         "ROntoTools"
     ],
@@ -916,7 +911,6 @@
     "cleanUpdTSeq": [],
     "clippda": [],
     "clipper": [
-        "KEGGgraph",
         "qpgraph"
     ],
     "cliProfiler": [],
@@ -1348,7 +1342,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1383,7 +1376,6 @@
     ],
     "DegNorm": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph",
         "RCy3"
     ],
@@ -1552,7 +1544,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
@@ -1611,7 +1602,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "KEGGgraph",
         "PADOG",
         "pathview",
         "rhdf5"
@@ -1641,7 +1631,6 @@
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview"
@@ -2041,7 +2030,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicDataCommons",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -2278,7 +2266,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview"
@@ -2599,10 +2586,7 @@
     "KCsmart": [
         "siggenes"
     ],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -2655,9 +2639,7 @@
         "rhdf5"
     ],
     "LPEadj": [],
-    "lpNet": [
-        "KEGGgraph"
-    ],
+    "lpNet": [],
     "LRcell": [],
     "lumi": [
         "GEOquery",
@@ -2704,7 +2686,6 @@
     "MAGeCKFlute": [
         "DOSE",
         "GOSemSim",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -2739,7 +2720,6 @@
         "rhdf5"
     ],
     "marray": [],
-    "martini": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -2850,7 +2830,6 @@
     ],
     "metabomxtr": [],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools",
         "hpar",
         "mygene"
@@ -2886,7 +2865,6 @@
         "enrichplot"
     ],
     "metapone": [],
-    "metaSeq": [],
     "metaseqR2": [
         "DESeq2",
         "DSS",
@@ -2989,7 +2967,6 @@
         "rhdf5",
         "siggenes"
     ],
-    "MetID": [],
     "mfa": [],
     "Mfuzz": [],
     "MGFM": [],
@@ -3078,7 +3055,6 @@
         "rhdf5"
     ],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -3381,9 +3357,7 @@
     "MutationalPatterns": [
         "VariantAnnotation"
     ],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "mygene": [],
     "myvariant": [
         "VariantAnnotation"
@@ -3434,7 +3408,6 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
         "RCy3"
     ],
     "ndexr": [],
@@ -3454,7 +3427,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [],
     "NetSAM": [],
     "netSmooth": [
         "HDF5Array",
@@ -3556,7 +3528,6 @@
     "omicsPrint": [],
     "omicsViewer": [],
     "OncoScore": [],
-    "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
         "cytolib",
@@ -3655,9 +3626,7 @@
         "rhdf5"
     ],
     "pathRender": [],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -4027,7 +3996,6 @@
         "basilisk"
     ],
     "RCy3": [],
-    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -4278,11 +4246,8 @@
     "roar": [],
     "roastgsa": [],
     "ROCpAI": [],
-    "RolDE": [],
     "rols": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
     ],
@@ -4325,7 +4290,6 @@
         "EDASeq",
         "ShortRead"
     ],
-    "RVS": [],
     "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
@@ -4337,7 +4301,6 @@
     ],
     "satuRn": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "SC3": [],
@@ -4780,9 +4743,7 @@
         "rhdf5"
     ],
     "SPEM": [],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
         "dittoSeq"
@@ -5096,7 +5057,6 @@
         "Structstrings",
         "tRNA"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
@@ -5286,7 +5246,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "graphite",
         "pathview",
