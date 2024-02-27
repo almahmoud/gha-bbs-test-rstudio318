@@ -215,8 +215,7 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
-        "rGREAT"
+        "projectR"
     ],
     "ATACseqQC": [
         "CNEr",
@@ -688,7 +687,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "VariantAnnotation",
@@ -968,9 +966,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "cytolib",
         "flowCore"
@@ -1053,7 +1049,6 @@
         "DOSE",
         "GOSemSim",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "mzR"
@@ -1871,7 +1866,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [
         "InteractionSet"
@@ -1904,14 +1898,11 @@
     ],
     "HiLDA": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [],
     "hopach": [],
-    "hpar": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -2047,8 +2038,7 @@
         "DEXSeq",
         "genefilter",
         "satuRn",
-        "sva",
-        "tximeta"
+        "sva"
     ],
     "isomiRs": [
         "DEGreport",
@@ -2079,7 +2069,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -2117,7 +2106,6 @@
     "LymphoSeq": [
         "msa"
     ],
-    "m6Aboost": [],
     "Maaslin2": [
         "metagenomeSeq"
     ],
@@ -2200,7 +2188,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "GEOquery",
         "Gviz",
@@ -2248,7 +2235,6 @@
         "struct"
     ],
     "MetaboSignal": [
-        "hpar",
         "mygene"
     ],
     "MetaCyto": [
@@ -2347,7 +2333,6 @@
         "minfi"
     ],
     "mfa": [],
-    "Mfuzz": [],
     "MGFM": [],
     "MGFR": [],
     "miaViz": [],
@@ -2624,8 +2609,7 @@
     ],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
-        "DESeq2",
-        "Mfuzz"
+        "DESeq2"
     ],
     "mumosa": [],
     "MungeSumstats": [
@@ -2803,7 +2787,6 @@
     "ORFik": [
         "DESeq2"
     ],
-    "Organism.dplyr": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [
@@ -2991,7 +2974,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "projectR": [],
@@ -3018,7 +3000,6 @@
         "DOSE",
         "GOSemSim",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "mzR"
@@ -3067,7 +3048,6 @@
         "MSnbase",
         "mzR"
     ],
-    "qsea": [],
     "qsmooth": [
         "genefilter",
         "sva"
@@ -3241,7 +3221,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "RGSEA": [],
     "rgsepd": [
         "DESeq2",
@@ -3414,7 +3393,6 @@
         "scanMiR"
     ],
     "scAnnotatR": [],
-    "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -3705,7 +3683,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "spiky": [],
     "spkTools": [],
     "splatter": [],
     "SpliceWiz": [
@@ -3782,7 +3759,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "SWATH2stats": [],
     "switchde": [],
     "synapsis": [],
     "synapter": [
@@ -3863,7 +3839,6 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "Mfuzz",
         "RCy3",
         "clusterProfiler",
         "enrichplot"
@@ -3961,10 +3936,8 @@
     ],
     "twilight": [],
     "txcutr": [],
-    "tximeta": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [
@@ -4015,7 +3988,6 @@
         "VariantAnnotation"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [],
     "vidger": [
         "DESeq2"
