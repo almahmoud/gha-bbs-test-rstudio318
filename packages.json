@@ -823,7 +823,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "BEclear": [],
     "beer": [
         "PhIPData"
     ],
@@ -1031,7 +1030,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "bioDist": [],
     "biomaRt": [],
     "biomformat": [
         "rhdf5",
@@ -1784,8 +1782,7 @@
     "ChemmineOB": [],
     "ChemmineR": [],
     "CHETAH": [
-        "SingleCellExperiment",
-        "bioDist"
+        "SingleCellExperiment"
     ],
     "chihaya": [
         "HDF5Array",
@@ -2120,7 +2117,6 @@
     "clusterSeq": [
         "baySeq"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -5149,7 +5145,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "HilbertCurve": [],
     "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome",
@@ -5693,8 +5688,6 @@
         "MultiAssayExperiment"
     ],
     "Linnorm": [],
-    "LinTInd": [],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -5732,7 +5725,6 @@
         "vsn",
         "xcms"
     ],
-    "loci2path": [],
     "LOLA": [],
     "LoomExperiment": [
         "BiocIO",
@@ -7946,7 +7938,6 @@
         "hopach"
     ],
     "PhenStat": [],
-    "philr": [],
     "PhIPData": [],
     "PhosR": [
         "pcaMethods"
@@ -7955,7 +7946,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "OmaDB",
-        "bioDist",
         "interactiveDisplayBase",
         "topGO"
     ],
@@ -8076,7 +8066,6 @@
         "interactiveDisplayBase",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "ComplexHeatmap",
         "DESeq2",
@@ -8207,7 +8196,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [],
     "projectR": [],
     "pRoloc": [
@@ -9404,7 +9392,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "Rtreemix": [],
     "rTRM": [],
     "rTRMui": [
         "BiocIO",
@@ -9455,7 +9442,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "sarks": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -9852,7 +9838,6 @@
         "SingleCellExperiment",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "AnnotationFilter",
         "BiocIO",
@@ -10870,7 +10855,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "target": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
@@ -11281,7 +11265,6 @@
         "cqn"
     ],
     "twilight": [],
-    "twoddpcr": [],
     "txcutr": [
         "BiocIO",
         "GenomicAlignments",
