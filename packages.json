@@ -59,7 +59,6 @@
         "genefilter",
         "ggbio"
     ],
-    "AHMassBank": [],
     "AIMS": [],
     "alabaster": [
         "alabaster.mae",
@@ -129,16 +128,12 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
-        "motifmatchr",
         "projectR"
     ],
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -272,7 +267,6 @@
     ],
     "borealis": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
@@ -280,7 +274,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BubbleTree": [],
     "bugsigdbr": [],
     "BUMHMM": [],
     "BUScorrect": [],
@@ -421,7 +414,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPexoQual": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind"
@@ -435,7 +427,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -446,7 +437,6 @@
     "circRNAprofiler": [
         "DESeq2"
     ],
-    "CircSeqAlignTk": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -728,9 +718,7 @@
         "MSnbase",
         "mzR"
     ],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "DEScan2": [],
@@ -825,9 +813,7 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -840,8 +826,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -879,8 +864,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "evaluomeR": [],
     "EWCE": [
@@ -906,7 +890,6 @@
     "fastLiquidAssociation": [
         "LiquidAssociation"
     ],
-    "FEAST": [],
     "FeatSeekR": [],
     "fedup": [
         "RCy3"
@@ -1225,7 +1208,6 @@
         "multiHiCcompare"
     ],
     "HiContacts": [],
-    "HiCool": [],
     "hmdbQuery": [],
     "hopach": [],
     "HTSeqGenie": [],
@@ -1389,7 +1371,6 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "mariner": [],
     "marray": [],
     "maser": [
         "Gviz"
@@ -1592,7 +1573,6 @@
         "motifStack"
     ],
     "motifcounter": [],
-    "motifmatchr": [],
     "motifStack": [],
     "msa": [],
     "msgbsR": [
@@ -1803,9 +1783,7 @@
     ],
     "padma": [],
     "PADOG": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "paircompviz": [],
     "pairedGSEA": [
         "DESeq2",
@@ -1920,8 +1898,7 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "projectR": [],
     "pRoloc": [
@@ -1955,7 +1932,6 @@
     ],
     "PSEA": [],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "ptairMS": [
@@ -2020,9 +1996,7 @@
         "enrichplot"
     ],
     "ReadqPCR": [],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "genefilter",
         "minfi"
@@ -2030,8 +2004,7 @@
     "REDseq": [],
     "regionReport": [
         "DEFormats",
-        "DESeq2",
-        "derfinder"
+        "DESeq2"
     ],
     "regsplice": [],
     "regutools": [
@@ -2098,7 +2071,6 @@
         "DESeq2"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAinteract": [
@@ -2122,7 +2094,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -2270,7 +2241,6 @@
         "Ringo",
         "genefilter"
     ],
-    "simpleSeg": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -2294,7 +2264,6 @@
     "SNPhood": [
         "DESeq2"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -2307,8 +2276,7 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "SPEM": [],
     "spicyR": [
@@ -2371,7 +2339,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TADCompare": [],
     "TargetDecoy": [
         "mzR"
     ],
@@ -2441,7 +2408,6 @@
     "trackViewer": [
         "Gviz"
     ],
-    "transcriptR": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -2499,7 +2465,6 @@
         "genefilter",
         "sva"
     ],
-    "VCFArray": [],
     "vidger": [
         "DESeq2"
     ],
