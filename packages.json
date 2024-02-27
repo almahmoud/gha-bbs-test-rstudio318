@@ -1088,7 +1088,6 @@
         "IRanges",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -1519,7 +1518,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "BaseSpaceR": [],
     "Basic4Cseq": [
         "BSgenome",
         "BiocIO",
@@ -1751,9 +1749,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BeadDataPackR": [],
     "BEARscc": [
         "DelayedArray",
@@ -3608,7 +3604,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "CFAssay": [],
     "cfdnakit": [
         "Biostrings",
         "CGHbase",
@@ -9494,8 +9489,7 @@
         "SNPRelate",
         "SeqArray",
         "SeqVarTools",
-        "XVector",
-        "quantsmooth"
+        "XVector"
     ],
     "GeneStructureTools": [
         "AnnotationDbi",
@@ -10759,8 +10753,7 @@
         "snpStats"
     ],
     "GWASTools": [
-        "DNAcopy",
-        "quantsmooth"
+        "DNAcopy"
     ],
     "gwasurvivr": [
         "AnnotationDbi",
@@ -10786,7 +10779,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "quantsmooth",
         "rtracklayer"
     ],
     "GWENA": [
@@ -11086,7 +11078,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "hierGWAS": [],
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -12658,7 +12649,6 @@
         "XVector",
         "annotate"
     ],
-    "maCorrPlot": [],
     "MACSr": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13077,8 +13067,7 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "oligoClasses",
-        "quantsmooth"
+        "oligoClasses"
     ],
     "MBQN": [
         "DelayedArray",
@@ -13438,7 +13427,6 @@
         "mygene",
         "rtracklayer"
     ],
-    "metaCCA": [],
     "MetaCyto": [
         "ConsensusClusterPlus",
         "FlowSOM",
@@ -15929,7 +15917,6 @@
         "XVector",
         "sparseMatrixStats"
     ],
-    "netbiov": [],
     "netboost": [
         "AnnotationDbi",
         "Biostrings",
@@ -16184,7 +16171,6 @@
         "XVector",
         "annotate"
     ],
-    "NTW": [],
     "nucleoSim": [
         "IRanges",
         "S4Vectors"
@@ -16940,9 +16926,7 @@
         "affy",
         "affyio"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [],
     "pareg": [
         "AnnotationDbi",
@@ -16994,7 +16978,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "PathNet": [],
     "PathoStat": [
         "Biostrings",
         "ComplexHeatmap",
@@ -17180,7 +17163,6 @@
         "sparseMatrixStats"
     ],
     "pengls": [],
-    "PepsNMR": [],
     "pepStat": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -18447,7 +18429,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "Biostrings",
         "GenomeInfoDb",
@@ -18643,7 +18624,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "quantsmooth",
         "rtracklayer"
     ],
     "rain": [
@@ -18774,7 +18754,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "RCASPAR": [],
     "rcellminer": [],
     "rCGH": [
         "AnnotationDbi",
@@ -18840,7 +18819,6 @@
     "RCyjs": [
         "BrowserViz"
     ],
-    "Rdisop": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biostrings",
@@ -18985,7 +18963,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RedeR": [],
     "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
@@ -20347,7 +20324,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -20361,7 +20337,6 @@
         "GenomicRanges",
         "IRanges",
         "RTN",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -20376,7 +20351,6 @@
         "IRanges",
         "RTN",
         "RTNduals",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -22180,8 +22154,7 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "globaltest",
-        "quantsmooth"
+        "globaltest"
     ],
     "SIMAT": [
         "Rhdf5lib",
@@ -22236,7 +22209,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "similaRpeak": [],
     "simona": [
         "ComplexHeatmap",
         "IRanges",
@@ -24491,7 +24463,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RedeR",
         "S4Vectors",
         "XVector",
         "biomaRt",
@@ -24616,9 +24587,7 @@
         "XVector",
         "slingshot"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -24899,7 +24868,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "TypeInfo": [],
     "UCell": [
         "BiocNeighbors",
         "DelayedArray",
