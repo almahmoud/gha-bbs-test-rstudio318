@@ -67,7 +67,6 @@
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
@@ -87,11 +86,9 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AllelicImbalance": [
         "Gviz"
@@ -156,7 +153,6 @@
         "projectR"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -191,7 +187,6 @@
         "genefilter",
         "sva"
     ],
-    "BBCAnalyzer": [],
     "BCRANK": [],
     "beadarraySNP": [],
     "BEAT": [],
@@ -458,11 +453,9 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DESeq2",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -639,7 +632,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -781,9 +773,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -805,8 +795,7 @@
         "mzR"
     ],
     "DiffBind": [
-        "DESeq2",
-        "systemPipeR"
+        "DESeq2"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -908,8 +897,6 @@
         "RCy3",
         "enrichplot"
     ],
-    "ensemblVEP": [],
-    "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
@@ -952,7 +939,6 @@
     ],
     "escape": [],
     "evaluomeR": [],
-    "EventPointer": [],
     "EWCE": [
         "orthogene"
     ],
@@ -978,7 +964,6 @@
         "LiquidAssociation"
     ],
     "fCCAC": [],
-    "fcScan": [],
     "FEAST": [],
     "FeatSeekR": [],
     "fedup": [
@@ -1278,9 +1263,7 @@
     "GSRI": [
         "genefilter"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [],
     "gwasurvivr": [
@@ -1298,7 +1281,6 @@
         "altcdfenvs",
         "hypergraph"
     ],
-    "HelloRanges": [],
     "HEM": [],
     "hermes": [
         "DESeq2"
@@ -1597,7 +1579,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "marray"
@@ -1807,11 +1788,9 @@
         "decompTumor2Sig",
         "maftools"
     ],
-    "MutationalPatterns": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "motifStack",
         "trackViewer"
@@ -1893,9 +1872,7 @@
         "genefilter",
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsPrint": [],
     "openCyto": [
         "cytolib",
@@ -2166,9 +2143,7 @@
         "genefilter",
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RegionalST": [],
     "regionReport": [
         "DEFormats",
@@ -2199,9 +2174,7 @@
     "ReQON": [
         "seqbias"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "restfulSE": [],
     "ReUseData": [
         "RcwlPipelines"
@@ -2235,7 +2208,6 @@
         "xcms"
     ],
     "RIVER": [],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
         "ChemmineOB",
@@ -2464,7 +2436,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpatialDecon": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -2541,7 +2512,6 @@
         "mzR"
     ],
     "SynMut": [],
-    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
     ],
@@ -2650,8 +2620,7 @@
         "marray"
     ],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "tweeDEseq": [
         "cqn"
@@ -2694,10 +2663,8 @@
     "vsclust": [],
     "vtpnet": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "DESeq2",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "GEOquery",
@@ -2743,6 +2710,5 @@
     "zFPKM": [],
     "zinbwave": [
         "genefilter"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
