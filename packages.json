@@ -59,7 +59,6 @@
         "affyio"
     ],
     "affycoretools": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -104,7 +103,6 @@
         "SingleCellExperiment"
     ],
     "AgiMicroRna": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -123,7 +121,6 @@
         "oligoClasses"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi",
@@ -293,9 +290,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationForge": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "BiocCheck",
         "OrganismDbi",
         "biocViews"
@@ -431,7 +426,6 @@
         "motifStack"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -824,7 +818,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "GenomicFiles",
         "OrganismDbi",
@@ -866,7 +859,6 @@
         "SingleCellExperiment"
     ],
     "CaDrA": [],
-    "CAEN": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -964,7 +956,6 @@
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -1071,7 +1062,6 @@
         "scuttle"
     ],
     "CellNOptR": [],
-    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment"
     ],
@@ -2448,7 +2438,6 @@
         "DESeq2"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi",
@@ -2943,7 +2932,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [
         "SeqArray"
     ],
@@ -2990,7 +2978,6 @@
         "VariantAnnotation"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3026,7 +3013,6 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "genefilter"
@@ -3127,7 +3113,6 @@
         "hypergraph",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "rhdf5",
         "rhdf5filters"
@@ -3220,7 +3205,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
     "hyperdraw": [
@@ -3256,7 +3240,6 @@
         "CODEX"
     ],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -3780,9 +3763,7 @@
     "MEDIPS": [],
     "MEDME": [],
     "megadepth": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [],
     "MeSHDbi": [],
     "meshes": [
@@ -3934,7 +3915,6 @@
         "siggenes"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "DelayedMatrixStats",
@@ -4121,7 +4101,6 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GEOquery",
@@ -4177,7 +4156,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4684,7 +4662,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GEOquery",
@@ -4869,7 +4846,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -4951,7 +4927,6 @@
         "KEGGgraph"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -5102,7 +5077,6 @@
         "affyio"
     ],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -5578,7 +5552,6 @@
         "vsn"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -5842,7 +5815,6 @@
     "RTopper": [
         "multtest"
     ],
-    "Rtpca": [],
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
@@ -5976,7 +5948,6 @@
         "scuttle"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [
@@ -6130,7 +6101,6 @@
         "beachmat"
     ],
     "scTensor": [
-        "AnnotationForge",
         "Category",
         "DOSE",
         "GOSemSim",
@@ -6243,7 +6213,6 @@
         "InteractionSet"
     ],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -6587,7 +6556,6 @@
     "speckle": [
         "SingleCellExperiment"
     ],
-    "SpeCond": [],
     "Spectra": [
         "MetaboCoreUtils",
         "MsCoreUtils"
@@ -6860,7 +6828,6 @@
         "SingleCellExperiment"
     ],
     "tigre": [],
-    "TileDBArray": [],
     "tilingArray": [
         "affy",
         "affyio",
@@ -7153,7 +7120,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "GOSemSim",
         "fgsea",
         "topGO"
