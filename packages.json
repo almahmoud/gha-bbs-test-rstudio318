@@ -2269,7 +2269,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "EnMCB": [],
     "ENmix": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -3488,7 +3487,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -3600,12 +3598,10 @@
         "Wrench",
         "metagenomeSeq"
     ],
-    "macat": [],
     "MACSr": [
         "basilisk",
         "basilisk.utils"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -3989,7 +3985,6 @@
         "methylKit"
     ],
     "methylKit": [],
-    "MethylMix": [],
     "methylMnM": [],
     "methylPipe": [
         "Gviz",
@@ -4808,9 +4803,7 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2",
         "multtest"
@@ -4818,7 +4811,6 @@
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
-        "made4",
         "omicade4",
         "pcaMethods",
         "rexposome",
@@ -5061,7 +5053,6 @@
         "biodbChebi",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -5438,7 +5429,6 @@
     "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [],
-    "randPack": [],
     "RareVariantVis": [
         "GenomicScores",
         "HDF5Array",
@@ -5532,7 +5522,6 @@
     "recoup": [
         "ComplexHeatmap"
     ],
-    "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
         "InteractionSet",
@@ -6883,7 +6872,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
@@ -7062,7 +7050,6 @@
         "SingleCellExperiment",
         "TrajectoryUtils"
     ],
-    "TTMap": [],
     "TurboNorm": [
         "affy",
         "affyio",
