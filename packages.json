@@ -61,9 +61,7 @@
         "genefilter",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "AIMS": [],
     "alabaster": [
         "alabaster.bumpy",
@@ -128,7 +126,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -344,7 +341,6 @@
     "bugsigdbr": [],
     "BUMHMM": [],
     "BUScorrect": [],
-    "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -596,7 +592,6 @@
         "karyoploteR"
     ],
     "CNVPanelizer": [],
-    "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
         "MIRA"
@@ -605,7 +600,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -707,7 +701,6 @@
         "sva"
     ],
     "CSAR": [],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -741,7 +734,6 @@
         "flowCore"
     ],
     "cytolib": [],
-    "cytomapper": [],
     "cytoMEM": [
         "cytolib",
         "flowCore"
@@ -775,9 +767,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [],
     "dagLogo": [
         "TFBSTools",
@@ -1058,9 +1048,7 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -1352,7 +1340,6 @@
     "ggmsa": [
         "R4RNA"
     ],
-    "ggspavis": [],
     "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [
@@ -1395,7 +1382,6 @@
         "DESeq2"
     ],
     "GSEABenchmarkeR": [],
-    "GSReg": [],
     "GSRI": [
         "genefilter"
     ],
@@ -1445,7 +1431,6 @@
         "HiCExperiment"
     ],
     "hicVennDiagram": [],
-    "hiReadsProcessor": [],
     "hmdbQuery": [],
     "hopach": [],
     "HTSeqGenie": [
@@ -1484,9 +1469,7 @@
     "IFAA": [],
     "igvR": [],
     "IMAS": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -1633,9 +1616,7 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "marray": [],
     "maser": [
         "Gviz",
@@ -1646,7 +1627,6 @@
         "gcrma"
     ],
     "massiR": [],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
@@ -1741,7 +1721,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "GEOquery",
         "genefilter",
@@ -2048,7 +2027,6 @@
     "nnNorm": [
         "marray"
     ],
-    "nnSVG": [],
     "NormqPCR": [
         "ReadqPCR"
     ],
@@ -2223,7 +2201,6 @@
         "GOstats",
         "genefilter"
     ],
-    "plotgardener": [],
     "PLPE": [],
     "plyinteractions": [],
     "pogos": [],
@@ -2297,7 +2274,6 @@
         "mzR"
     ],
     "PureCN": [],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -2381,7 +2357,6 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [],
     "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
@@ -2671,9 +2646,7 @@
         "Ringo",
         "genefilter"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [
         "GOSemSim"
     ],
@@ -2695,7 +2668,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMITE": [],
     "snapCGH": [
         "genefilter",
         "tilingArray"
@@ -2922,9 +2894,7 @@
         "cqn"
     ],
     "twilight": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [
         "DESeq2"
     ],
