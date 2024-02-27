@@ -185,7 +185,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
-        "InteractionSet",
         "TFBSTools",
         "motifStack"
     ],
@@ -388,7 +387,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "biovizBase"
     ],
     "cageminer": [
@@ -403,13 +401,11 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "biovizBase"
     ],
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -555,9 +551,7 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "InteractionSet"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
@@ -605,7 +599,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -686,9 +679,7 @@
         "marray",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "concordexR": [],
     "condiments": [
         "slingshot"
@@ -740,7 +731,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -962,8 +952,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "DESeq2": [],
     "DEsingle": [],
@@ -999,9 +988,7 @@
         "BANDITS",
         "DRIMSeq"
     ],
-    "diffHic": [
-        "InteractionSet"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
@@ -1074,9 +1061,7 @@
         "genefilter",
         "sva"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "EGAD": [
         "GEOquery"
     ],
@@ -1197,7 +1182,6 @@
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "biovizBase"
     ],
     "fabia": [],
@@ -1236,7 +1220,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -1452,7 +1435,6 @@
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
-        "InteractionSet",
         "biovizBase"
     ],
     "GenomicOZone": [
@@ -1559,8 +1541,7 @@
     "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "biovizBase"
@@ -1588,34 +1569,24 @@
         "DESeq2"
     ],
     "HiCBricks": [],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "biovizBase"
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [
-        "InteractionSet"
-    ],
+    "HiCExperiment": [],
     "HiContacts": [
-        "HiCExperiment",
-        "InteractionSet"
+        "HiCExperiment"
     ],
     "HiCool": [
-        "HiCExperiment",
-        "InteractionSet"
+        "HiCExperiment"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
+    "hicVennDiagram": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "hoodscanR": [],
@@ -1697,7 +1668,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractionSet": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -1717,7 +1687,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -1725,9 +1694,6 @@
         "DESeq2"
     ],
     "iSEEhex": [],
-    "iSEEhub": [],
-    "iSEEindex": [],
-    "iSEEpathways": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -1753,7 +1719,6 @@
     "katdetectr": [
         "maftools"
     ],
-    "KCsmart": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -1783,7 +1748,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -1827,7 +1791,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -1835,7 +1798,6 @@
         "gcrma"
     ],
     "mariner": [
-        "InteractionSet",
         "plotgardener"
     ],
     "marray": [],
@@ -1903,8 +1865,7 @@
     ],
     "metabCombiner": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "metabolomicsWorkbenchR": [
         "rols",
@@ -1921,7 +1882,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -1939,9 +1899,7 @@
         "bsseq",
         "genefilter"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methimpute": [],
     "methInheritSim": [],
     "MethPed": [],
@@ -2074,7 +2032,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -2127,24 +2084,12 @@
         "TFBSTools"
     ],
     "msa": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -2178,8 +2123,7 @@
     ],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstats": [
         "marray"
@@ -2233,8 +2177,7 @@
     ],
     "MultiDataSet": [],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
@@ -2260,7 +2203,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
-        "InteractionSet",
         "TFBSTools",
         "biovizBase",
         "motifStack",
@@ -2281,7 +2223,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
@@ -2331,9 +2272,7 @@
     ],
     "npGSEA": [],
     "nucleR": [],
-    "nullranges": [
-        "InteractionSet"
-    ],
+    "nullranges": [],
     "octad": [
         "DESeq2",
         "EDASeq",
@@ -2513,9 +2452,7 @@
     ],
     "plotgardener": [],
     "PLPE": [],
-    "plyinteractions": [
-        "InteractionSet"
-    ],
+    "plyinteractions": [],
     "pogos": [],
     "POMA": [
         "DESeq2"
@@ -2591,7 +2528,6 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
@@ -2694,8 +2630,7 @@
         "minfi"
     ],
     "REDseq": [
-        "ChIPpeakAnno",
-        "InteractionSet"
+        "ChIPpeakAnno"
     ],
     "regionalpcs": [],
     "RegionalST": [],
@@ -2774,11 +2709,9 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR",
         "xcms"
     ],
-    "RITAN": [],
     "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
@@ -2982,9 +2915,7 @@
         "sva"
     ],
     "sevenbridges": [],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -3099,15 +3030,12 @@
         "CNEr",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "TFBSTools",
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPEM": [],
     "SPIAT": [],
@@ -3194,8 +3122,7 @@
         "biovizBase"
     ],
     "TADCompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "TargetDecoy": [
         "mzR"
@@ -3278,7 +3205,6 @@
     ],
     "trackViewer": [
         "Gviz",
-        "InteractionSet",
         "biovizBase"
     ],
     "tradeSeq": [
@@ -3392,7 +3318,6 @@
         "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
-        "InteractionSet",
         "systemPipeR"
     ],
     "wateRmelon": [
@@ -3408,7 +3333,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzR"
     ],
     "xcore": [],
