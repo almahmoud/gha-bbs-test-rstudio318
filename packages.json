@@ -49,7 +49,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
@@ -174,7 +173,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -265,13 +263,11 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "geNetClassifier"
+        "enrichplot"
     ],
     "BiocBook": [],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocSklearn": [],
     "biodb": [],
     "biodbChebi": [
@@ -314,7 +310,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "BioTIP": [],
     "biotmle": [],
     "biovizBase": [],
     "biscuiteer": [
@@ -336,7 +331,6 @@
         "PADOG"
     ],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
@@ -410,7 +404,6 @@
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "genefilter",
         "hopach",
         "phenoTest"
@@ -490,9 +483,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
@@ -652,7 +643,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -743,10 +733,8 @@
     ],
     "crisprDesign": [
         "crisprBase",
-        "crisprBowtie",
-        "crisprScore"
+        "crisprBowtie"
     ],
-    "crisprScore": [],
     "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
@@ -754,7 +742,6 @@
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
@@ -762,8 +749,7 @@
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [
         "GEOquery",
@@ -771,7 +757,6 @@
         "sva"
     ],
     "CSAR": [],
-    "cTRAP": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -1017,7 +1002,6 @@
     "doseR": [],
     "doubletrouble": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "variancePartition",
         "zenith"
     ],
@@ -1069,7 +1053,6 @@
         "genefilter",
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -1096,8 +1079,7 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigenomix": [],
     "epigraHMM": [
@@ -1179,9 +1161,7 @@
         "LiquidAssociation"
     ],
     "FastqCleaner": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcScan": [],
     "FEAST": [
         "TSCAN"
@@ -1406,11 +1386,9 @@
         "Gviz",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [
         "DESeq2"
     ],
-    "genomation": [],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicFiles": [],
@@ -1423,8 +1401,7 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenomicScores": [],
     "GenProSeq": [
@@ -1509,10 +1486,7 @@
     "GRaNIE": [
         "DESeq2"
     ],
-    "GSCA": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSReg": [],
     "GSRI": [
         "genefilter"
@@ -1547,7 +1521,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -2145,7 +2118,6 @@
     "MultiRNAflow": [
         "DESeq2"
     ],
-    "mumosa": [],
     "MungeSumstats": [],
     "muscat": [
         "DESeq2",
@@ -2230,7 +2202,6 @@
     "normr": [
         "bamsignals"
     ],
-    "npGSEA": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
@@ -2547,9 +2518,7 @@
         "marray"
     ],
     "rbsurv": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCM": [],
     "Rcpi": [
         "GOSemSim"
@@ -2777,8 +2746,7 @@
     "scDD": [],
     "scFeatures": [
         "AUCell",
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "scGPS": [
         "DESeq2"
@@ -2906,7 +2874,6 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
         "GSVA",
@@ -2931,7 +2898,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [
@@ -3292,7 +3258,6 @@
         "quantro"
     ],
     "zenith": [
-        "EnrichmentBrowser",
         "variancePartition"
     ],
     "zFPKM": [],
