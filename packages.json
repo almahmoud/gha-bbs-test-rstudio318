@@ -498,7 +498,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [],
     "celda": [],
     "CellaRepertorium": [],
@@ -672,7 +671,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.farms": [],
     "cn.mops": [
         "exomeCopy"
     ],
@@ -744,7 +742,6 @@
     ],
     "concordexR": [],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -1078,8 +1075,6 @@
     "diggit": [],
     "Dino": [],
     "discordant": [],
-    "distinct": [],
-    "dittoSeq": [],
     "divergence": [],
     "DMCFB": [],
     "DMRcaller": [],
@@ -1559,9 +1554,7 @@
         "DeepPINCS"
     ],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "GEOquery",
         "genefilter",
@@ -1570,7 +1563,6 @@
     "GEOmetadb": [
         "GEOquery"
     ],
-    "GeomxTools": [],
     "GEOquery": [],
     "GeoTcgaData": [
         "cqn"
@@ -1596,7 +1588,6 @@
     "ggmsa": [
         "R4RNA"
     ],
-    "ggsc": [],
     "ggspavis": [],
     "ggtreeExtra": [],
     "girafe": [
@@ -1721,7 +1712,6 @@
         "InteractionSet"
     ],
     "HiLDA": [],
-    "HIPPO": [],
     "hiReadsProcessor": [],
     "HiTC": [],
     "hmdbQuery": [],
@@ -2137,10 +2127,8 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "microSTASIS": [],
     "MICSQTL": [],
     "midasHLA": [],
-    "miloR": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -3069,7 +3057,6 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scde": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -3083,7 +3070,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [],
     "scmeth": [
         "annotatr",
@@ -3271,15 +3257,12 @@
     "SparseSignatures": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
         "RBioFormats"
     ],
     "spatzie": [
@@ -3297,9 +3280,7 @@
         "InteractionSet"
     ],
     "SPEM": [],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -3316,7 +3297,6 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "SPOTlight": [],
     "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
@@ -3371,7 +3351,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "switchde": [],
     "synapsis": [],
     "synapter": [
         "MSnbase",
@@ -3437,7 +3416,6 @@
     ],
     "TFutils": [],
     "tidybulk": [],
-    "tidySingleCellExperiment": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
@@ -3611,7 +3589,6 @@
     "webbioc": [
         "gcrma"
     ],
-    "weitrix": [],
     "wiggleplotr": [],
     "xcms": [
         "MSnbase",
