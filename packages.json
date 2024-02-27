@@ -108,7 +108,6 @@
     "altcdfenvs": [
         "hypergraph"
     ],
-    "amplican": [],
     "Anaquin": [
         "DESeq2"
     ],
@@ -472,7 +471,6 @@
     "ChIPQC": [
         "DESeq2",
         "DiffBind",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
@@ -480,7 +478,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPXpress": [
         "GEOquery"
     ],
@@ -499,9 +496,7 @@
         "DESeq2",
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -1010,7 +1005,6 @@
     "fastLiquidAssociation": [
         "LiquidAssociation"
     ],
-    "FastqCleaner": [],
     "fCCAC": [],
     "fcScan": [],
     "FEAST": [],
@@ -1241,7 +1235,6 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "GEOquery",
@@ -1281,7 +1274,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -1357,9 +1349,7 @@
     "hmdbQuery": [],
     "hopach": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "chipseq",
-        "gmapR"
+        "VariantTools"
     ],
     "HTSFilter": [
         "DESeq2"
@@ -1508,7 +1498,6 @@
     "Macarron": [
         "Maaslin2"
     ],
-    "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
         "GEOquery",
@@ -1621,7 +1610,6 @@
         "EDASeq",
         "genefilter"
     ],
-    "MetCirc": [],
     "methimpute": [],
     "MethPed": [],
     "MethylAid": [
@@ -1770,7 +1758,6 @@
     "motifStack": [],
     "msa": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "msgbsR": [
         "easyRNASeq",
         "ggbio"
@@ -1979,7 +1966,6 @@
         "DESeq2"
     ],
     "orthogene": [],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -2115,7 +2101,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -2192,7 +2177,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
@@ -2278,12 +2262,10 @@
     ],
     "rfaRm": [],
     "Rfastp": [],
-    "RgnTX": [],
     "RGSEA": [],
     "rgsepd": [
         "DESeq2"
     ],
-    "Rhisat2": [],
     "RiboCrypt": [
         "DESeq2",
         "ORFik"
@@ -2449,7 +2431,6 @@
         "bamsignals",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -2497,7 +2478,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "AIMS",
         "consensusOV",
@@ -2540,9 +2520,7 @@
     "SNPhood": [
         "DESeq2"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -2683,7 +2661,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TitanCNA": [],
     "tLOH": [],
     "TMixClust": [
         "SPEM"
@@ -2707,9 +2684,7 @@
         "Gviz"
     ],
     "tradeSeq": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
