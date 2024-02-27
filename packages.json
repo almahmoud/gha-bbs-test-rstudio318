@@ -117,7 +117,6 @@
         "projectR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [
         "Category",
@@ -242,7 +241,6 @@
         "sva"
     ],
     "BOBaFIT": [],
-    "borealis": [],
     "brainflowprobes": [
         "derfinderPlot"
     ],
@@ -391,7 +389,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "ChIPXpress": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -739,7 +736,6 @@
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
-    "DrugVsDisease": [],
     "dStruct": [],
     "dyebias": [
         "marray"
@@ -754,13 +750,11 @@
         "genefilter",
         "sva"
     ],
-    "EGAD": [],
     "EGSEA": [
         "PADOG"
     ],
     "eiR": [],
     "ELMER": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -799,7 +793,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "EpiTxDb": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -1048,7 +1041,6 @@
         "genefilter",
         "sva"
     ],
-    "GEOmetadb": [],
     "GeoTcgaData": [
         "cqn"
     ],
@@ -1390,7 +1382,6 @@
     "methylPipe": [
         "marray"
     ],
-    "methylSig": [],
     "methylumi": [
         "genefilter",
         "minfi"
@@ -1681,7 +1672,6 @@
     ],
     "padma": [],
     "PADOG": [],
-    "pageRank": [],
     "paircompviz": [],
     "pairedGSEA": [
         "DESeq2",
@@ -1824,9 +1814,7 @@
         "genefilter"
     ],
     "PSEA": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "mzR"
@@ -1884,7 +1872,6 @@
         "enrichplot"
     ],
     "ReadqPCR": [],
-    "recount": [],
     "recountmethylation": [
         "genefilter",
         "minfi"
@@ -1948,9 +1935,7 @@
     "Rmmquant": [
         "DESeq2"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -1966,9 +1951,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -2151,7 +2134,6 @@
         "genefilter"
     ],
     "SPLINTER": [],
-    "SRAdb": [],
     "srnadiff": [
         "DESeq2"
     ],
