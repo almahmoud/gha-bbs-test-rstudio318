@@ -2168,7 +2168,6 @@
         "enrichplot",
         "fgsea",
         "geNetClassifier",
-        "ggtree",
         "graph",
         "graphite",
         "qvalue",
@@ -3342,7 +3341,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "ggtree",
         "rtracklayer",
         "snpStats",
         "zlibbioc"
@@ -3536,7 +3534,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "graphite",
         "interactiveDisplayBase",
@@ -3816,7 +3813,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "impute",
         "qvalue",
         "zlibbioc"
@@ -3888,7 +3884,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "qvalue",
         "snpStats",
@@ -4295,7 +4290,6 @@
         "biomaRt",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -4816,7 +4810,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -5193,7 +5186,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "Cogito": [
@@ -6624,7 +6616,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "impute",
         "multtest",
@@ -6702,7 +6693,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graph",
         "pathview",
         "qvalue",
@@ -8027,7 +8017,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "EBSeqHMM": [],
     "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
@@ -8279,7 +8268,6 @@
         "S4Vectors",
         "XVector",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -8310,7 +8298,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "qvalue",
@@ -8330,7 +8317,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "qvalue",
         "zlibbioc"
@@ -8435,7 +8421,6 @@
         "enrichplot",
         "fgsea",
         "genomation",
-        "ggtree",
         "impute",
         "interactiveDisplayBase",
         "qvalue",
@@ -8822,7 +8807,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "qvalue",
@@ -8957,7 +8941,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
         "interactiveDisplayBase",
         "orthogene",
         "zlibbioc"
@@ -9168,7 +9151,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -10040,7 +10022,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "pathview",
         "qvalue",
@@ -10903,7 +10884,6 @@
         "R4RNA",
         "S4Vectors",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "ggsc": [
@@ -10933,13 +10913,8 @@
         "XVector",
         "zlibbioc"
     ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "Biostrings",
@@ -11286,7 +11261,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "goProfiles",
         "qvalue",
         "zlibbioc"
@@ -12650,7 +12624,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graph",
         "graphite",
         "impute",
@@ -13497,7 +13470,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "lionessR": [
@@ -13708,7 +13680,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "ggtree",
         "msa",
         "zlibbioc"
     ],
@@ -13887,7 +13858,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "interactiveDisplayBase",
         "pathview",
@@ -14491,7 +14461,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "interactiveDisplayBase",
         "qvalue",
         "zlibbioc"
@@ -14702,7 +14671,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "qvalue",
         "zlibbioc"
@@ -14999,7 +14967,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -15294,7 +15261,6 @@
         "beachmat",
         "bluster",
         "decontam",
-        "ggtree",
         "mia",
         "scater",
         "scuttle",
@@ -15381,7 +15347,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "ggtree",
         "metagenomeSeq",
         "mia",
         "multtest",
@@ -15406,7 +15371,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -15421,7 +15385,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
         "ggtreeExtra",
         "zlibbioc"
     ],
@@ -16070,7 +16033,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "interactiveDisplayBase",
         "qvalue",
         "rtracklayer",
@@ -16097,7 +16059,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -18120,7 +18081,6 @@
         "S4Vectors",
         "SparseArray",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "orthos": [
@@ -18388,7 +18348,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "multtest",
         "qvalue",
@@ -18813,9 +18772,7 @@
     "PhenStat": [
         "graph"
     ],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhIPData": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -18917,7 +18874,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "graphite",
         "impute",
@@ -19444,7 +19400,6 @@
         "chipseq",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rGREAT",
         "rtracklayer",
@@ -19562,7 +19517,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "impute",
         "multtest",
@@ -20490,7 +20444,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "graphite",
         "qvalue",
@@ -22572,9 +22525,7 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "scBubbletree": [
-        "ggtree"
-    ],
+    "scBubbletree": [],
     "scCB2": [
         "DelayedArray",
         "DelayedMatrixStats",
@@ -23271,7 +23222,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graph",
         "graphite",
         "interactiveDisplayBase",
@@ -23436,7 +23386,6 @@
         "biomaRt",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "rtracklayer",
         "zlibbioc"
@@ -23551,7 +23500,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "heatmaps",
         "qvalue",
         "rtracklayer",
@@ -23977,7 +23925,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "interactiveDisplayBase",
         "qvalue",
@@ -24287,7 +24234,6 @@
         "dir.expiry",
         "ensembldb",
         "genefilter",
-        "ggtree",
         "graph",
         "interactiveDisplayBase",
         "metapod",
@@ -24406,9 +24352,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "AnnotationDbi",
         "BiocIO",
@@ -25781,7 +25725,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
         "zlibbioc"
     ],
     "tadar": [
@@ -25829,9 +25772,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TAPseq": [
         "AnnotationDbi",
         "BSgenome",
@@ -26000,7 +25941,6 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "qvalue",
         "zlibbioc"
     ],
@@ -26292,7 +26232,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graph",
         "qvalue",
         "tkWidgets",
@@ -26753,7 +26692,6 @@
         "cytolib",
         "diffcyt",
         "flowCore",
-        "ggtree",
         "hopach",
         "zlibbioc"
     ],
