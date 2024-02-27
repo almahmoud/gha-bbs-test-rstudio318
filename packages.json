@@ -52,7 +52,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
@@ -143,8 +142,7 @@
     "AlphaBeta": [],
     "AlpsNMR": [],
     "altcdfenvs": [
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "AMARETTO": [],
     "amplican": [
@@ -304,7 +302,6 @@
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
-        "MAST",
         "Maaslin2",
         "biomformat",
         "genefilter",
@@ -573,9 +570,7 @@
         "PROMISE"
     ],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellaRepertorium": [],
     "CellBarcode": [
@@ -969,7 +964,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "crossmeta": [
         "GEOquery",
         "genefilter",
@@ -1109,7 +1103,6 @@
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
-    "DeconRNASeq": [],
     "decontX": [
         "celda"
     ],
@@ -1183,7 +1176,6 @@
     "DESeq2": [],
     "DEsingle": [],
     "DESpace": [],
-    "destiny": [],
     "DEsubs": [
         "DESeq2"
     ],
@@ -1910,8 +1902,7 @@
     ],
     "Harshlight": [
         "altcdfenvs",
-        "hypergraph",
-        "makecdfenv"
+        "hypergraph"
     ],
     "HelloRanges": [
         "VariantAnnotation"
@@ -2189,7 +2180,6 @@
         "GEOquery",
         "RnBeads",
         "bumphunter",
-        "crlmm",
         "genefilter",
         "methylumi",
         "minfi"
@@ -2212,7 +2202,6 @@
         "mzR",
         "xcms"
     ],
-    "makecdfenv": [],
     "maPredictDSC": [
         "gcrma"
     ],
@@ -2232,7 +2221,6 @@
         "gcrma"
     ],
     "massiR": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [],
     "MatrixRider": [
@@ -2399,7 +2387,6 @@
         "biovizBase",
         "marray"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -2471,8 +2458,7 @@
         "genefilter"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "MiPP": [],
     "miQC": [],
@@ -2505,7 +2491,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
         "metagenomeSeq"
@@ -2973,7 +2958,6 @@
         "piano"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -3033,9 +3017,7 @@
     "POMA": [
         "DESeq2"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [],
     "pqsfinder": [],
     "pram": [],
@@ -3525,7 +3507,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scde": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -3547,7 +3528,6 @@
         "bsseq",
         "regioneR"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
@@ -3557,7 +3537,6 @@
         "cytolib",
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation"
     ],
@@ -3700,18 +3679,15 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
         "GSVA",
-        "MAST",
         "TSCAN",
         "celda",
         "genefilter",
         "scDblFinder",
         "scMerge",
-        "scds",
         "sva",
         "zinbwave"
     ],
@@ -3722,7 +3698,6 @@
         "VariantAnnotation"
     ],
     "singscore": [],
-    "sitadela": [],
     "skewr": [
         "GEOquery",
         "bumphunter",
@@ -3888,7 +3863,6 @@
         "MSnbase",
         "mzR"
     ],
-    "SynExtend": [],
     "SynMut": [],
     "syntenet": [],
     "systemPipeR": [
@@ -4092,9 +4066,7 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VarCon": [],
     "variancePartition": [],
     "VariantAnnotation": [],
@@ -4156,7 +4128,6 @@
         "methylumi",
         "minfi"
     ],
-    "wavClusteR": [],
     "webbioc": [
         "gcrma"
     ],
