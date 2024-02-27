@@ -107,7 +107,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "ASpli": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -115,7 +114,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "atSNP": [],
     "attract": [
         "Category",
         "GOstats",
@@ -237,7 +235,6 @@
         "mnem",
         "sva"
     ],
-    "BOBaFIT": [],
     "brainflowprobes": [
         "derfinderPlot"
     ],
@@ -530,7 +527,6 @@
         "sva"
     ],
     "CSAR": [],
-    "cummeRbund": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -1021,7 +1017,6 @@
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicOZone": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -1111,7 +1106,6 @@
         "DESeq2"
     ],
     "HiCDCPlus": [],
-    "HiCDOC": [],
     "hmdbQuery": [],
     "hopach": [],
     "HTSFilter": [
@@ -1271,7 +1265,6 @@
         "gcrma"
     ],
     "marray": [],
-    "maser": [],
     "maSigPro": [],
     "maskBAD": [
         "gcrma"
@@ -1545,9 +1538,7 @@
         "maftools"
     ],
     "mzR": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
@@ -1607,7 +1598,6 @@
     "odseq": [
         "msa"
     ],
-    "OGRE": [],
     "OLIN": [
         "marray"
     ],
@@ -1801,7 +1791,6 @@
         "MSnbase",
         "mzR"
     ],
-    "Pviz": [],
     "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
@@ -1825,7 +1814,6 @@
         "genefilter",
         "minfi"
     ],
-    "R3CPET": [],
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
@@ -1898,7 +1886,6 @@
         "DESeq2"
     ],
     "RiboProfiling": [],
-    "ribosomeProfilingQC": [],
     "Ringo": [
         "genefilter"
     ],
@@ -1922,16 +1909,9 @@
         "cellHTS2",
         "genefilter"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -2092,7 +2072,6 @@
     "SNPhood": [
         "DESeq2"
     ],
-    "SomaticSignatures": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -2114,7 +2093,6 @@
     "srnadiff": [
         "DESeq2"
     ],
-    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -2218,7 +2196,6 @@
         "marray",
         "piano"
     ],
-    "trackViewer": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -2306,9 +2283,7 @@
     "yamss": [
         "mzR"
     ],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "genefilter",
         "minfi",
