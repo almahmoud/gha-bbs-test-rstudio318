@@ -17,8 +17,7 @@
     "ADaCGH2": [
         "genefilter",
         "snapCGH",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "ADAM": [],
     "ADAMgui": [
@@ -78,7 +77,6 @@
     "AIMS": [],
     "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
         "alabaster.bumpy",
@@ -122,7 +120,6 @@
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -189,7 +186,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
         "GEOquery",
         "affyContam",
@@ -205,8 +201,7 @@
     "arrayQualityMetrics": [
         "affyPLM",
         "gcrma",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "artMS": [
         "MSstats",
@@ -263,7 +258,6 @@
         "genefilter"
     ],
     "AUCell": [],
-    "autonomics": [],
     "AWFisher": [],
     "BaalChIP": [],
     "BadRegionFinder": [
@@ -283,8 +277,7 @@
         "MSnbase",
         "genefilter",
         "mzR",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "basecallQC": [
         "ShortRead"
@@ -443,8 +436,7 @@
         "epiNEM",
         "genefilter",
         "mnem",
-        "sva",
-        "vsn"
+        "sva"
     ],
     "BOBaFIT": [
         "OrganismDbi",
@@ -524,7 +516,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "canceR": [
@@ -600,8 +591,7 @@
     "cellbaseR": [],
     "cellHTS2": [
         "Category",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "CelliD": [],
     "cellity": [],
@@ -767,14 +757,12 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "Clomial": [],
     "CluMSID": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "clusterExperiment": [
         "genefilter",
@@ -877,7 +865,6 @@
     ],
     "concordexR": [],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "slingshot"
     ],
@@ -940,7 +927,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "cosmosR": [],
@@ -1003,9 +989,7 @@
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -1047,9 +1031,7 @@
         "flowCore"
     ],
     "cytolib": [],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoMEM": [
         "cytolib",
         "flowCore"
@@ -1084,7 +1066,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [
@@ -1114,8 +1095,7 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "dce": [
         "epiNEM",
@@ -1189,8 +1169,7 @@
     "densvis": [],
     "DEP": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "DepecheR": [],
     "derfinder": [
@@ -1214,9 +1193,7 @@
     ],
     "DESeq2": [],
     "DEsingle": [],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "destiny": [],
     "DEsubs": [
         "DESeq2"
@@ -1297,9 +1274,7 @@
         "genefilter",
         "sva"
     ],
-    "Doscheda": [
-        "vsn"
-    ],
+    "Doscheda": [],
     "DOSE": [
         "GOSemSim"
     ],
@@ -1317,7 +1292,6 @@
         "UniProt.ws"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
         "GEOquery"
     ],
     "DSS": [
@@ -1476,9 +1450,7 @@
         "GSVA",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
@@ -1497,9 +1469,7 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -1533,9 +1503,7 @@
         "VariantAnnotation"
     ],
     "FEAST": [
-        "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "FeatSeekR": [],
     "fedup": [
@@ -1553,14 +1521,12 @@
     "FilterFFPE": [],
     "FindIT2": [],
     "FISHalyseR": [],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "FLAMES": [
@@ -1686,7 +1652,6 @@
         "DESeq2",
         "OUTRIDER"
     ],
-    "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
         "GEOquery",
@@ -1837,8 +1802,7 @@
     "gespeR": [
         "Category",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "gg4way": [
         "DESeq2"
@@ -1859,9 +1823,7 @@
         "R4RNA"
     ],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtreeExtra": [],
     "girafe": [
         "ShortRead"
@@ -2010,9 +1972,7 @@
     ],
     "HiTC": [],
     "hmdbQuery": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "hopach": [],
     "hpar": [],
     "HTSeqGenie": [
@@ -2066,7 +2026,6 @@
         "IVAS"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [
@@ -2136,7 +2095,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "iSEEde": [
@@ -2205,7 +2163,6 @@
     "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
-        "SpatialExperiment",
         "genefilter",
         "spicyR"
     ],
@@ -2215,7 +2172,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "LPEadj": [],
@@ -2269,7 +2225,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "makecdfenv": [],
@@ -2294,9 +2249,7 @@
     "massiR": [],
     "MAST": [],
     "mastR": [],
-    "MatrixQCvis": [
-        "vsn"
-    ],
+    "MatrixQCvis": [],
     "MatrixRider": [
         "CNEr",
         "TFBSTools"
@@ -2388,7 +2341,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -2406,8 +2358,7 @@
         "EDASeq",
         "ShortRead",
         "bsseq",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "MetCirc": [
         "Spectra"
@@ -2585,7 +2536,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "MOFA2": [],
@@ -2595,9 +2545,7 @@
     "mogsa": [
         "genefilter"
     ],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "monaLisa": [
         "CNEr",
         "TFBSTools"
@@ -2675,25 +2623,21 @@
     "msImpute": [],
     "msmsEDA": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "MSnbase": [
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "MSnID": [
         "MSnbase",
         "msmsEDA",
         "msmsTests",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "MSPrep": [
         "genefilter",
@@ -2728,15 +2672,13 @@
     "MSstatsQC": [
         "MSnbase",
         "mzR",
-        "qcmetrics",
-        "vsn"
+        "qcmetrics"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "mzR",
-        "qcmetrics",
-        "vsn"
+        "qcmetrics"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -2826,7 +2768,6 @@
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "NCIgraph": [
@@ -2866,19 +2807,14 @@
         "quantro",
         "yarn"
     ],
-    "NewWave": [],
     "ngsReports": [],
     "nnNorm": [
         "marray"
     ],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [],
     "NoRCE": [],
-    "NormalyzerDE": [
-        "vsn"
-    ],
+    "NormalyzerDE": [],
     "NormqPCR": [
         "ReadqPCR"
     ],
@@ -2972,8 +2908,7 @@
     "OutSplice": [
         "Repitools",
         "Ringo",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "PAA": [
         "genefilter",
@@ -3040,8 +2975,7 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "PECA": [
         "genefilter"
@@ -3144,8 +3078,7 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "proActiv": [
         "DESeq2"
@@ -3167,16 +3100,14 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
         "mzR",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "PROMISE": [],
     "PROPS": [
@@ -3191,16 +3122,14 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "ProteoDisco": [
         "VariantAnnotation"
     ],
     "ProteoMM": [],
     "protGear": [
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "PSEA": [],
     "psichomics": [
@@ -3215,17 +3144,13 @@
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
-    "pvac": [],
-    "pvca": [
-        "vsn"
-    ],
+    "pvca": [],
     "Pviz": [
         "Gviz",
         "VariantAnnotation",
@@ -3241,8 +3166,7 @@
     "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "qsea": [],
     "qsmooth": [
@@ -3389,8 +3313,7 @@
     ],
     "Repitools": [
         "Ringo",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "ReportingTools": [
         "Category",
@@ -3459,15 +3382,13 @@
     "rifi": [],
     "rifiComparative": [],
     "Ringo": [
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "Risa": [
         "MSnbase",
         "MsExperiment",
         "Spectra",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "RITAN": [],
@@ -3481,8 +3402,7 @@
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "Rmmquant": [
         "DESeq2"
@@ -3502,8 +3422,7 @@
     "RNAinteract": [
         "Category",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "RNAmodR": [
         "Gviz",
@@ -3543,7 +3462,6 @@
         "methylumi",
         "minfi"
     ],
-    "Rnits": [],
     "roar": [],
     "roastgsa": [],
     "ROCpAI": [],
@@ -3597,7 +3515,6 @@
     ],
     "satuRn": [],
     "SBGNview": [],
-    "SC3": [],
     "SCAN.UPC": [
         "GEOquery",
         "genefilter",
@@ -3642,9 +3559,7 @@
         "DESeq2"
     ],
     "scHOT": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -3676,7 +3591,6 @@
     "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -3686,7 +3600,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -3789,7 +3702,6 @@
     "signifinder": [
         "AIMS",
         "GSVA",
-        "SpatialExperiment",
         "consensusOV",
         "genefu"
     ],
@@ -3802,8 +3714,7 @@
     ],
     "SimBindProfiles": [
         "Ringo",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "SimBu": [
         "biomformat",
@@ -3812,7 +3723,6 @@
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [
@@ -3825,7 +3735,6 @@
         "GSVA",
         "MAST",
         "TSCAN",
-        "TrajectoryUtils",
         "celda",
         "genefilter",
         "scDblFinder",
@@ -3841,7 +3750,6 @@
         "VariantAnnotation"
     ],
     "singscore": [],
-    "SiPSiC": [],
     "sitadela": [],
     "skewr": [
         "GEOquery",
@@ -3853,16 +3761,13 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "goseq"
     ],
     "snapCGH": [
         "genefilter",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "snifter": [],
     "SNPhood": [
@@ -3890,19 +3795,12 @@
         "BiocSet"
     ],
     "SparseSignatures": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -3928,15 +3826,12 @@
     ],
     "SPEM": [],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
     "spicyR": [
         "ClassifyR",
-        "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [],
     "spiky": [],
     "spkTools": [],
     "splatter": [],
@@ -3950,9 +3845,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [
         "biomformat",
@@ -3971,29 +3864,21 @@
     "standR": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
-        "SpatialExperiment"
+        "ShortRead"
     ],
     "staRank": [
         "Category",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "STATegRa": [],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [],
     "stepNorm": [
         "marray"
     ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [],
     "struct": [
         "rols"
@@ -4030,8 +3915,7 @@
     "synapsis": [],
     "synapter": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "SynExtend": [],
     "SynMut": [],
@@ -4102,8 +3986,7 @@
     "tidySingleCellExperiment": [],
     "tigre": [],
     "tilingArray": [
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "timecourse": [
         "marray"
@@ -4136,8 +4019,7 @@
     ],
     "topdownr": [
         "MSnbase",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -4152,11 +4034,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "ShortRead",
         "chipseq"
@@ -4176,7 +4055,6 @@
     "TransView": [],
     "traseR": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -4200,9 +4078,7 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "TurboNorm": [
         "convert",
         "marray"
@@ -4286,12 +4162,10 @@
     ],
     "vissE": [],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "VplotR": [],
     "vsclust": [],
-    "vsn": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
@@ -4316,8 +4190,7 @@
     ],
     "wavClusteR": [],
     "webbioc": [
-        "gcrma",
-        "vsn"
+        "gcrma"
     ],
     "weitrix": [],
     "wiggleplotr": [],
@@ -4325,8 +4198,7 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "xcore": [],
     "XDE": [
