@@ -769,7 +769,6 @@
     ],
     "crisprScore": [],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -915,7 +914,6 @@
     "deconvR": [
         "GEOquery",
         "genefilter",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -924,7 +922,6 @@
     "DEFormats": [
         "DESeq2"
     ],
-    "DegNorm": [],
     "DEGraph": [
         "NCIgraph",
         "RCy3"
@@ -1014,7 +1011,6 @@
     "Dino": [],
     "discordant": [],
     "divergence": [],
-    "DMCFB": [],
     "DMRcaller": [],
     "DMRcate": [
         "GEOquery",
@@ -1135,12 +1131,10 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
         "bamsignals"
     ],
-    "EpiMix": [],
     "epimutacions": [
         "GEOquery",
         "Gviz",
@@ -1237,7 +1231,6 @@
         "methylumi",
         "minfi"
     ],
-    "FilterFFPE": [],
     "FISHalyseR": [],
     "flagme": [
         "CAMERA",
@@ -1543,7 +1536,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "genefilter"
@@ -1625,7 +1617,6 @@
         "InteractionSet"
     ],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [],
     "hopach": [],
@@ -1797,7 +1788,6 @@
         "xcms"
     ],
     "LPEadj": [],
-    "LRcell": [],
     "lumi": [
         "GEOquery",
         "genefilter",
@@ -1953,13 +1943,9 @@
         "Spectra"
     ],
     "methimpute": [],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethPed": [],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "GEOquery",
@@ -1990,10 +1976,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase",
@@ -2127,7 +2110,6 @@
         "fabia"
     ],
     "MOSim": [],
-    "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
         "Gviz",
@@ -2340,7 +2322,6 @@
     ],
     "nnSVG": [],
     "nondetects": [],
-    "NoRCE": [],
     "NormalyzerDE": [],
     "NormqPCR": [
         "ReadqPCR"
@@ -2383,7 +2364,6 @@
         "HelloRanges"
     ],
     "omicsPrint": [],
-    "OncoScore": [],
     "openCyto": [
         "cytolib",
         "flowClust",
@@ -2996,7 +2976,6 @@
         "DESeq2"
     ],
     "SeqSQC": [],
-    "sesame": [],
     "SEtools": [
         "DESeq2",
         "genefilter",
