@@ -1511,7 +1511,6 @@
         "vsn"
     ],
     "DepecheR": [],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1614,7 +1613,6 @@
         "rhdf5filters",
         "siggenes"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "HDF5Array",
         "annotatr",
@@ -1727,7 +1725,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "EMDomics": [],
     "enhancerHomologSearch": [
         "CNEr",
         "TFBSTools",
@@ -2324,7 +2321,6 @@
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [
         "ShortRead"
@@ -2922,7 +2918,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MBASED": [],
     "MBCB": [],
     "MBECS": [
         "biomformat",
@@ -2981,7 +2976,6 @@
     ],
     "MEB": [],
     "MEDIPS": [],
-    "MEDME": [],
     "megadepth": [],
     "Melissa": [],
     "memes": [],
@@ -5172,7 +5166,6 @@
         "VariantAnnotation"
     ],
     "SubCellBarCode": [],
-    "subSeq": [],
     "SUITOR": [],
     "SummarizedBenchmark": [],
     "surfaltr": [
@@ -5553,7 +5546,6 @@
     ],
     "weitrix": [],
     "wiggleplotr": [],
-    "wpm": [],
     "Wrench": [],
     "xcms": [
         "MSnbase",
