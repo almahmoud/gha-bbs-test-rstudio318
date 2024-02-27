@@ -1520,7 +1520,6 @@
         "maftools"
     ],
     "mzR": [],
-    "NADfinder": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
@@ -1889,9 +1888,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RnBeads": [
         "genefilter",
         "methylumi",
@@ -2258,7 +2254,6 @@
     "yamss": [
         "mzR"
     ],
-    "YAPSA": [],
     "yarn": [
         "genefilter",
         "minfi",
