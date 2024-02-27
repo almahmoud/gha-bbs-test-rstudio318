@@ -129,7 +129,6 @@
         "genefilter"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -210,7 +209,6 @@
         "mzR",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BASiCStan": [],
     "BatchQC": [
         "genefilter",
@@ -300,7 +298,6 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "annotatr",
         "dmrseq",
         "marray"
     ],
@@ -374,7 +371,6 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -516,8 +512,6 @@
         "enrichplot"
     ],
     "chipseq": [],
-    "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "GEOquery"
     ],
@@ -548,7 +542,6 @@
     "clippda": [],
     "cliqueMS": [
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -671,7 +664,6 @@
     ],
     "cosmiq": [
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -912,7 +904,6 @@
         "BANDITS",
         "DRIMSeq"
     ],
-    "diffHic": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
@@ -931,14 +922,11 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
     "DNAshapeR": [],
-    "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
         "sva"
@@ -1111,7 +1099,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -1240,10 +1227,7 @@
         "genefilter",
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "gaggle": [],
     "GARS": [
         "DESeq2",
@@ -1489,7 +1473,6 @@
         "minfi"
     ],
     "iChip": [],
-    "iCNV": [],
     "ideal": [
         "Category",
         "DESeq2",
@@ -1554,7 +1537,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -1607,7 +1589,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -1646,7 +1627,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -1731,7 +1711,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -1750,9 +1729,7 @@
     ],
     "MetCirc": [],
     "methimpute": [],
-    "methInheritSim": [],
     "MethPed": [],
-    "MethReg": [],
     "MethylAid": [
         "GEOquery",
         "genefilter",
@@ -1865,7 +1842,6 @@
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -1911,12 +1887,9 @@
         "TFBSTools"
     ],
     "msa": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -1947,9 +1920,7 @@
     "msPurity": [
         "mzR"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstats": [
         "marray"
     ],
@@ -2040,7 +2011,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -2085,7 +2055,6 @@
     "normr": [
         "bamsignals"
     ],
-    "nucleR": [],
     "nullranges": [],
     "octad": [
         "DESeq2",
@@ -2484,7 +2453,6 @@
     ],
     "Risa": [
         "MSnbase",
-        "MsExperiment",
         "mzR",
         "xcms"
     ],
@@ -2560,7 +2528,6 @@
     "rrvgo": [
         "GOSemSim"
     ],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -2604,9 +2571,7 @@
         "cytolib",
         "flowCore"
     ],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -2745,9 +2710,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "annotatr"
-    ],
+    "SOMNiBUS": [],
     "SpatialDecon": [],
     "spatialHeatmap": [
         "genefilter"
@@ -3023,7 +2986,6 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsExperiment",
         "mzR"
     ],
     "xcore": [],
