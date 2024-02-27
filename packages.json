@@ -177,7 +177,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "affxparser": [],
     "affy": [
         "affyio",
         "zlibbioc"
@@ -239,7 +238,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "gcrma",
@@ -778,7 +776,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "mia",
         "scater",
         "scuttle",
@@ -1083,7 +1080,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -1671,7 +1667,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -1698,7 +1693,6 @@
         "beachmat",
         "bluster",
         "glmGamPoi",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -1723,12 +1717,9 @@
         "zlibbioc"
     ],
     "basilisk": [
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
-    "basilisk.utils": [
-        "dir.expiry"
-    ],
+    "basilisk.utils": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1782,7 +1773,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -1972,7 +1962,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "decontam",
         "genefilter",
         "metagenomeSeq",
         "mia",
@@ -2197,8 +2186,7 @@
     ],
     "BiocHail": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BiocHubsShiny": [
         "AnnotationDbi",
@@ -2304,7 +2292,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zlibbioc"
     ],
     "biocViews": [
@@ -2489,7 +2476,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -3387,7 +3373,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -3539,8 +3524,7 @@
     ],
     "cbpManager": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "ccfindR": [
         "DelayedArray",
@@ -3585,7 +3569,6 @@
         "graph",
         "zlibbioc"
     ],
-    "ccrepe": [],
     "CDI": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -3631,7 +3614,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -3821,7 +3803,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -3958,7 +3939,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -4354,7 +4334,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "frma",
@@ -4428,7 +4407,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -4611,7 +4589,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -4838,7 +4815,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -4863,7 +4839,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -5399,7 +5374,6 @@
     ],
     "CONFESS": [
         "EBImage",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Vectors",
@@ -5724,7 +5698,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "decoupleR",
         "graph",
         "zlibbioc"
     ],
@@ -5905,7 +5878,6 @@
         "crisprBase",
         "crisprBowtie",
         "crisprScore",
-        "dir.expiry",
         "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
@@ -5922,7 +5894,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -6000,7 +5971,6 @@
         "crisprDesign",
         "crisprScore",
         "crisprViz",
-        "dir.expiry",
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -6039,7 +6009,6 @@
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
-        "dir.expiry",
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -6074,7 +6043,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -6105,7 +6073,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "metapod",
         "zlibbioc"
     ],
     "csdR": [
@@ -6273,7 +6240,6 @@
         "zlibbioc"
     ],
     "cyanoFilter": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -6293,7 +6259,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -6306,7 +6271,6 @@
         "zlibbioc"
     ],
     "CytoDx": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -6321,7 +6285,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -6345,7 +6308,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -6377,7 +6339,6 @@
         "zlibbioc"
     ],
     "cytolib": [
-        "RProtoBufLib",
         "Rhdf5lib"
     ],
     "cytomapper": [
@@ -6400,7 +6361,6 @@
         "zlibbioc"
     ],
     "cytoMEM": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -6410,7 +6370,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -6434,7 +6393,6 @@
         "IRanges",
         "PeacoQC",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -6457,7 +6415,6 @@
         "IRanges",
         "PeacoQC",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -6644,7 +6601,6 @@
     "dcGSA": [],
     "ddCt": [],
     "ddPCRclust": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -6729,7 +6685,6 @@
     "DeconRNASeq": [
         "pcaMethods"
     ],
-    "decontam": [],
     "decontX": [
         "BiocNeighbors",
         "BiocSingular",
@@ -6749,7 +6704,6 @@
         "beachmat",
         "bluster",
         "celda",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -6794,7 +6748,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "decoupleR": [],
     "DeepBlueR": [
         "BiocIO",
         "Biostrings",
@@ -7042,8 +6995,7 @@
     ],
     "densvis": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "DEP": [
         "ComplexHeatmap",
@@ -7335,7 +7287,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -7380,7 +7331,6 @@
         "SummarizedExperiment",
         "XVector",
         "csaw",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -7437,13 +7387,11 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "dir.expiry": [],
     "DirichletMultinomial": [
         "IRanges",
         "S4Vectors"
@@ -7875,7 +7823,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -7949,7 +7896,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "decoupleR",
         "interactiveDisplayBase",
         "progeny",
         "quantiseqr",
@@ -8481,7 +8427,6 @@
         "XVector",
         "bamsignals",
         "csaw",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8910,7 +8855,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "biomaRt",
         "fgsea",
         "graph",
@@ -9103,7 +9047,6 @@
         "biovizBase",
         "csaw",
         "ensembldb",
-        "metapod",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -9457,11 +9400,9 @@
         "biomaRt",
         "biovizBase",
         "bluster",
-        "dir.expiry",
         "ensembldb",
         "ggbio",
         "graph",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9472,21 +9413,18 @@
         "zlibbioc"
     ],
     "flowAI": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9499,21 +9437,18 @@
     ],
     "flowCHIC": [
         "EBImage",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9521,13 +9456,11 @@
         "graph"
     ],
     "flowCore": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib"
     ],
     "flowCut": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9536,7 +9469,6 @@
         "flowViz"
     ],
     "flowDensity": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9544,7 +9476,6 @@
         "flowViz"
     ],
     "flowFP": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9555,7 +9486,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -9571,21 +9501,18 @@
         "zlibbioc"
     ],
     "flowMatch": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Vectors",
@@ -9595,23 +9522,19 @@
         "graph"
     ],
     "flowPloidy": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
-    "flowPlots": [],
     "FlowSOM": [
         "ConsensusClusterPlus",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9621,7 +9544,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -9637,14 +9559,12 @@
         "zlibbioc"
     ],
     "flowTime": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9654,7 +9574,6 @@
         "graph"
     ],
     "flowViz": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -9664,7 +9583,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -9684,7 +9602,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -9747,7 +9664,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -9920,7 +9836,6 @@
         "zlibbioc"
     ],
     "GateFinder": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -10266,7 +10181,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affxparser",
         "zlibbioc"
     ],
     "geneRxCluster": [
@@ -10788,7 +10702,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "geva": [],
     "GEWIST": [],
     "gg4way": [
         "DESeq2",
@@ -10837,7 +10750,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -11481,7 +11393,6 @@
         "KEGGREST",
         "PPInfer",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -12000,7 +11911,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -12285,7 +12195,6 @@
         "XVector",
         "biomaRt",
         "csaw",
-        "metapod",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -12549,7 +12458,6 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "zlibbioc"
     ],
@@ -12557,7 +12465,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -12572,7 +12479,6 @@
         "zlibbioc"
     ],
     "immunoClust": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -12642,7 +12548,6 @@
         "zlibbioc"
     ],
     "infinityFlow": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -13149,14 +13054,12 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
         "zlibbioc"
     ],
     "iterativeBMA": [],
-    "iterativeBMAsurv": [],
     "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
@@ -13742,7 +13645,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -14571,7 +14473,6 @@
     "MetaCyto": [
         "ConsensusClusterPlus",
         "FlowSOM",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -14663,7 +14564,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "metapod": [],
     "metapone": [
         "fgsea"
     ],
@@ -15205,7 +15105,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -15248,7 +15147,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "mia",
         "scater",
         "scuttle",
@@ -15334,7 +15232,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "decontam",
         "metagenomeSeq",
         "mia",
         "multtest",
@@ -15454,7 +15351,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyPLM",
         "affyio",
@@ -15463,7 +15359,6 @@
         "oligoClasses",
         "zlibbioc"
     ],
-    "mina": [],
     "MineICA": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -15907,7 +15802,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -16389,7 +16283,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -16821,7 +16714,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -17046,7 +16938,6 @@
         "ensembldb",
         "graph",
         "interactiveDisplayBase",
-        "metapod",
         "motifStack",
         "multtest",
         "regioneR",
@@ -17129,7 +17020,6 @@
         "zlibbioc"
     ],
     "ncdfFlow": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -17361,7 +17251,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -17661,7 +17550,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligoClasses",
         "zlibbioc"
@@ -17878,7 +17766,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -17958,7 +17845,6 @@
     ],
     "oppti": [],
     "optimalFlow": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -18089,7 +17975,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -18361,7 +18246,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "fgsea",
         "qvalue",
         "zlibbioc"
@@ -18532,7 +18416,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -18543,7 +18426,6 @@
         "DelayedArray",
         "IRanges",
         "RBGL",
-        "RProtoBufLib",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -18639,7 +18521,6 @@
         "zlibbioc"
     ],
     "pfamAnalyzeR": [],
-    "pgca": [],
     "phantasus": [
         "AnnotationDbi",
         "Biostrings",
@@ -18913,7 +18794,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -19138,7 +19018,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -19393,9 +19272,7 @@
         "zlibbioc"
     ],
     "profileScoreDist": [],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "projectR": [],
     "pRoloc": [
         "AnnotationDbi",
@@ -19657,7 +19534,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -19748,7 +19624,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "graph",
@@ -20398,15 +20273,13 @@
     "Rcwl": [
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RcwlPipelines": [
         "Rcwl",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RCy3": [
         "graph"
@@ -20438,7 +20311,6 @@
     "ReadqPCR": [],
     "REBET": [],
     "rebook": [
-        "dir.expiry",
         "graph"
     ],
     "receptLoss": [
@@ -20542,7 +20414,6 @@
         "basilisk.utils",
         "biomaRt",
         "bumphunter",
-        "dir.expiry",
         "genefilter",
         "minfi",
         "multtest",
@@ -20648,7 +20519,6 @@
         "beachmat",
         "bluster",
         "fgsea",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -20962,8 +20832,7 @@
         "RcwlPipelines",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "rexposome": [
         "S4Vectors",
@@ -21396,7 +21265,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -21427,7 +21295,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RLMM": [],
     "RLSeq": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -21898,7 +21765,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "RProtoBufLib": [],
     "rpx": [],
     "Rqc": [
         "AnnotationDbi",
@@ -22351,7 +22217,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -22578,7 +22443,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -22612,7 +22476,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -22637,7 +22500,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -22723,7 +22585,6 @@
         "bluster",
         "ensembldb",
         "graph",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -22792,7 +22653,6 @@
         "DECIPHER",
         "GenomeInfoDb",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "XVector",
@@ -22833,7 +22693,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -22931,7 +22790,6 @@
         "zlibbioc"
     ],
     "Sconify": [
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Vectors",
         "cytolib",
@@ -23036,7 +22894,6 @@
         "basilisk.utils",
         "beachmat",
         "biomaRt",
-        "dir.expiry",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -23061,7 +22918,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "scuttle",
         "sparseMatrixStats",
         "zlibbioc"
@@ -23271,7 +23127,6 @@
         "epivizrData",
         "epivizrServer",
         "graph",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -23313,7 +23168,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "dir.expiry",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -24058,7 +23912,6 @@
         "basilisk",
         "basilisk.utils",
         "biomformat",
-        "dir.expiry",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -24163,7 +24016,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "multtest",
         "scran",
         "scuttle",
@@ -24216,12 +24068,10 @@
         "biomaRt",
         "bluster",
         "celda",
-        "dir.expiry",
         "ensembldb",
         "genefilter",
         "graph",
         "interactiveDisplayBase",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -24471,8 +24321,7 @@
     ],
     "snifter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "SNPediaR": [],
     "SNPhood": [
@@ -24621,7 +24470,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -24719,7 +24567,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zlibbioc"
     ],
     "SpatialDecon": [
@@ -24782,7 +24629,6 @@
         "beachmat",
         "bluster",
         "genefilter",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -24849,7 +24695,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "specL": [],
     "SpeCond": [],
     "Spectra": [
         "IRanges",
@@ -25380,7 +25225,6 @@
         "RBGL",
         "graph"
     ],
-    "STRINGdb": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -25919,7 +25763,6 @@
         "KEGGREST",
         "RTCGA",
         "S4Vectors",
-        "STRINGdb",
         "TDbasedUFE",
         "XVector",
         "enrichplot",
@@ -26663,7 +26506,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RProtoBufLib",
         "Rhdf5lib",
         "S4Arrays",
         "S4Vectors",
@@ -27372,7 +27214,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "dir.expiry",
         "scuttle",
         "sparseMatrixStats",
         "zellkonverter",
@@ -27538,7 +27379,6 @@
         "csaw",
         "ensembldb",
         "graph",
-        "metapod",
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -27765,9 +27605,7 @@
         "piano",
         "zlibbioc"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
@@ -27891,7 +27729,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zlibbioc"
     ],
     "zenith": [
