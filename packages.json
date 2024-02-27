@@ -73,7 +73,6 @@
     ],
     "AHMassBank": [
         "AnnotationHubData",
-        "BiocCheck",
         "OrganismDbi"
     ],
     "AIMS": [],
@@ -170,7 +169,6 @@
         "genefilter"
     ],
     "AnnotationHubData": [
-        "BiocCheck",
         "OrganismDbi"
     ],
     "annotatr": [
@@ -358,12 +356,10 @@
         "geNetClassifier"
     ],
     "BiocBook": [],
-    "BiocCheck": [],
     "BiocHail": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocPkgTools": [],
     "BiocSet": [],
     "BiocSklearn": [],
     "biodb": [],
@@ -428,7 +424,6 @@
         "marray",
         "regioneR"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
@@ -776,7 +771,6 @@
         "xcms"
     ],
     "Clomial": [],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "mzR",
@@ -841,9 +835,7 @@
     "CNVPanelizer": [
         "exomeCopy"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "VariantAnnotation"
     ],
@@ -1503,7 +1495,6 @@
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "BiocCheck",
         "OrganismDbi"
     ],
     "ExperimentSubset": [
@@ -1727,7 +1718,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [],
     "gcapc": [],
     "gcrma": [],
@@ -1762,11 +1752,8 @@
         "marray",
         "piano"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "gDRutils": [],
-    "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -2450,7 +2437,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "GEOquery",
         "OrganismDbi",
@@ -3791,7 +3777,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [],
     "signatureSearch": [
         "DOSE",
         "GOSemSim",
@@ -3812,7 +3797,6 @@
         "VariantAnnotation"
     ],
     "sigsquared": [],
-    "SIM": [],
     "SIMAT": [
         "mzR"
     ],
@@ -4160,7 +4144,6 @@
         "marray",
         "piano"
     ],
-    "TPP": [],
     "tracktables": [],
     "trackViewer": [
         "Gviz",
@@ -4272,8 +4255,7 @@
     "variancePartition": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
-        "DelayedDataFrame",
-        "GDSArray"
+        "DelayedDataFrame"
     ],
     "VariantFiltering": [
         "GenomicScores",
