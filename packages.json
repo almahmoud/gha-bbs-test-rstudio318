@@ -8,7 +8,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "ABarray": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -806,7 +805,6 @@
         "enrichplot"
     ],
     "clusterSeq": [],
-    "clustifyr": [],
     "cmapR": [
         "cytolib",
         "flowCore"
@@ -1071,7 +1069,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytolib": [],
     "cytomapper": [
         "SpatialExperiment"
@@ -1269,7 +1266,6 @@
         "ShortRead",
         "systemPipeR"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -1403,7 +1399,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
@@ -1536,7 +1531,6 @@
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -1717,7 +1711,6 @@
         "ncdfFlow"
     ],
     "fmcsR": [],
-    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "OUTRIDER"
@@ -2021,7 +2014,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "HERON": [],
     "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [
@@ -2172,7 +2164,6 @@
         "Category",
         "genefilter"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DESeq2",
         "DEXSeq",
@@ -2197,25 +2188,14 @@
         "vsn",
         "xcms"
     ],
-    "iSEE": [],
     "iSEEde": [
-        "DESeq2",
-        "iSEE"
+        "DESeq2"
     ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "isobar": [],
@@ -2684,7 +2664,6 @@
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
-    "MOMA": [],
     "monaLisa": [
         "CNEr",
         "TFBSTools"
@@ -2932,7 +2911,6 @@
         "DESeq2"
     ],
     "netDx": [],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -2985,7 +2963,6 @@
         "InteractionSet",
         "plyranges"
     ],
-    "OCplus": [],
     "octad": [
         "DESeq2",
         "EDASeq",
@@ -3259,7 +3236,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "GOSemSim",
         "ShortRead",
         "chipseq",
@@ -3463,7 +3439,6 @@
         "minfi",
         "siggenes"
     ],
-    "recoup": [],
     "REDseq": [
         "ChIPpeakAnno",
         "InteractionSet",
@@ -3826,7 +3801,6 @@
     ],
     "scviR": [],
     "SDAMS": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -3863,7 +3837,6 @@
     "SEtools": [
         "DESeq2",
         "genefilter",
-        "sechm",
         "sva"
     ],
     "sevenbridges": [],
