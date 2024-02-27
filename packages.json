@@ -414,9 +414,7 @@
         "genefilter",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -447,8 +445,7 @@
     ],
     "blima": [],
     "BLMA": [
-        "PADOG",
-        "ROntoTools"
+        "PADOG"
     ],
     "BloodGen3Module": [],
     "bnbc": [
@@ -1177,7 +1174,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "pathview",
         "sva"
     ],
     "decompTumor2Sig": [
@@ -1357,8 +1353,6 @@
     ],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview",
         "variancePartition",
         "zenith"
     ],
@@ -1403,8 +1397,7 @@
     ],
     "EGSEA": [
         "GSVA",
-        "PADOG",
-        "pathview"
+        "PADOG"
     ],
     "eiR": [],
     "ELMER": [
@@ -1426,10 +1419,7 @@
         "siggenes"
     ],
     "EnrichedHeatmap": [],
-    "EnrichmentBrowser": [
-        "SPIA",
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "GOSemSim"
@@ -1798,8 +1788,7 @@
         "GOSemSim",
         "GenomicDataCommons",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDNAx": [
         "GenomicFiles",
@@ -2002,9 +1991,7 @@
     "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer"
@@ -2289,7 +2276,6 @@
     "KCsmart": [
         "siggenes"
     ],
-    "KEGGlincs": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -2333,7 +2319,6 @@
         "xcms"
     ],
     "LPEadj": [],
-    "lpNet": [],
     "LRcell": [],
     "lumi": [
         "GEOquery",
@@ -2373,8 +2358,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [
         "DESeq2",
@@ -2499,7 +2483,6 @@
     ],
     "metabomxtr": [],
     "MetaboSignal": [
-        "MWASTools",
         "hpar",
         "mygene"
     ],
@@ -2688,9 +2671,7 @@
     "MIRA": [
         "bsseq"
     ],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -2950,7 +2931,6 @@
     "MutationalPatterns": [
         "VariantAnnotation"
     ],
-    "MWASTools": [],
     "mygene": [],
     "myvariant": [
         "VariantAnnotation"
@@ -3194,7 +3174,6 @@
         "phyloseq"
     ],
     "pathRender": [],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -3756,7 +3735,6 @@
     "roastgsa": [],
     "ROCpAI": [],
     "rols": [],
-    "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
     ],
@@ -3806,9 +3784,7 @@
         "plyranges"
     ],
     "satuRn": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SC3": [],
     "SCAN.UPC": [
         "GEOquery",
@@ -4161,7 +4137,6 @@
         "InteractionSet"
     ],
     "SPEM": [],
-    "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
         "dittoSeq"
@@ -4610,8 +4585,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview",
         "variancePartition"
     ],
     "zFPKM": [],
