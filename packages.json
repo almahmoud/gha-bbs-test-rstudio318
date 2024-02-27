@@ -75,7 +75,6 @@
         "OrganismDbi"
     ],
     "AIMS": [],
-    "airpart": [],
     "alabaster": [
         "VariantAnnotation",
         "alabaster.base",
@@ -171,7 +170,6 @@
     "annotatr": [
         "regioneR"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -221,7 +219,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CNEr",
         "CoGAPS",
@@ -335,7 +332,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "DOSE",
         "GOSemSim",
@@ -389,7 +385,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BioNAR": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -593,7 +588,6 @@
         "Category",
         "genefilter"
     ],
-    "CelliD": [],
     "cellity": [],
     "CellMixS": [],
     "CellNOptR": [],
@@ -834,7 +828,6 @@
     "CODEX": [],
     "CoGAPS": [],
     "Cogito": [],
-    "cola": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -1845,7 +1838,6 @@
         "GOstats",
         "genefilter"
     ],
-    "gmoviz": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -2151,7 +2143,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
@@ -2323,7 +2314,6 @@
         "rols",
         "struct"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "hpar",
         "mygene"
@@ -2351,7 +2341,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "DSS",
@@ -2754,7 +2743,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -3217,7 +3205,6 @@
         "SeqVarTools",
         "VariantAnnotation"
     ],
-    "rain": [],
     "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [],
@@ -3496,7 +3483,6 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "RTopper": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -3721,7 +3707,6 @@
         "phyloseq"
     ],
     "SimFFPE": [],
-    "simona": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -4046,8 +4031,7 @@
     "transite": [],
     "tRanslatome": [
         "DESeq2",
-        "GOSemSim",
-        "anota"
+        "GOSemSim"
     ],
     "transomics2cytoscape": [
         "RCy3"
