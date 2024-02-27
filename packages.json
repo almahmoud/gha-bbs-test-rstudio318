@@ -572,7 +572,6 @@
         "biocViews"
     ],
     "BiocSet": [],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils"
@@ -3604,7 +3603,6 @@
     "Mfuzz": [],
     "MGFM": [],
     "MGFR": [],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "MiChip": [],
@@ -5315,7 +5313,6 @@
     "SCArray.sat": [
         "SCArray"
     ],
-    "scater": [],
     "scBFA": [
         "DESeq2",
         "genefilter",
