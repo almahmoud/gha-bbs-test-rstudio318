@@ -295,7 +295,6 @@
         "genefilter"
     ],
     "AnnotationForge": [],
-    "AnnotationHub": [],
     "AnnotationHubData": [
         "AnnotationForge",
         "BiocCheck",
@@ -845,7 +844,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -2316,7 +2314,6 @@
         "enrichplot",
         "fgsea"
     ],
-    "ensembldb": [],
     "ensemblVEP": [
         "VariantAnnotation"
     ],
@@ -2455,7 +2452,6 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHub": [],
     "ExperimentHubData": [
         "AnnotationForge",
         "AnnotationHubData",
@@ -2861,9 +2857,7 @@
         "seqPattern"
     ],
     "GenomAutomorphism": [],
-    "GenomicAlignments": [],
     "GenomicDataCommons": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
