@@ -62,7 +62,6 @@
         "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "AllelicImbalance": [],
     "AlphaBeta": [],
     "altcdfenvs": [
         "hypergraph"
@@ -116,7 +115,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [],
     "atSNP": [],
     "attract": [
         "Category",
@@ -205,7 +203,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "biomvRCNS": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -252,17 +249,14 @@
     "BUMHMM": [],
     "BUScorrect": [],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
         "sva"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -379,7 +373,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "chimeraviz": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind"
@@ -812,9 +805,7 @@
     ],
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "fabia": [],
     "factDesign": [],
     "famat": [
@@ -843,7 +834,6 @@
         "mzR",
         "xcms"
     ],
-    "FLAMES": [],
     "flowAI": [
         "cytolib",
         "flowCore"
@@ -1026,13 +1016,11 @@
     "GENESIS": [
         "GWASTools"
     ],
-    "GeneStructureTools": [],
     "GeneTonic": [
         "DESeq2"
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenProSeq": [
         "DeepPINCS"
@@ -1122,9 +1110,7 @@
     "hermes": [
         "DESeq2"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [],
     "hmdbQuery": [],
     "hopach": [],
@@ -1473,7 +1459,6 @@
     "motifbreakR": [],
     "motifcounter": [],
     "msa": [],
-    "msgbsR": [],
     "msmsEDA": [
         "MSnbase",
         "mzR"
@@ -1561,7 +1546,6 @@
     ],
     "mzR": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "nanotatoR": [],
@@ -1756,7 +1740,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PING": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -2012,7 +1995,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scruff": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -2117,9 +2099,7 @@
     "SpatialOmicsOverlay": [
         "RBioFormats"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SPEM": [],
     "spicyR": [
         "ClassifyR",
@@ -2172,7 +2152,6 @@
     "systemPipeTools": [
         "DESeq2"
     ],
-    "tadar": [],
     "TargetDecoy": [
         "mzR"
     ],
@@ -2264,7 +2243,6 @@
         "convert",
         "marray"
     ],
-    "TVTB": [],
     "tweeDEseq": [
         "cqn"
     ],
