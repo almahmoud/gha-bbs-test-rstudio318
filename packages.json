@@ -286,7 +286,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [
         "DESeq2"
     ],
@@ -301,7 +300,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "annotationTools": [],
     "annotatr": [
         "regioneR"
     ],
@@ -1578,9 +1576,7 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [
-        "annotationTools"
-    ],
+    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -2362,7 +2358,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistack": [],
     "EpiTxDb": [
         "Modstrings",
         "Structstrings",
@@ -6208,7 +6203,6 @@
     ],
     "SemDist": [],
     "seq2pathway": [],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -6216,7 +6210,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [],
