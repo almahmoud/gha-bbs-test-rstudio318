@@ -26,7 +26,6 @@
     "adductomicsR": [
         "mzR"
     ],
-    "ADImpute": [],
     "AffiXcan": [],
     "affycomp": [],
     "affyContam": [],
@@ -214,7 +213,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -588,7 +586,6 @@
         "Category",
         "genefilter"
     ],
-    "cellity": [],
     "CellMixS": [],
     "CellNOptR": [],
     "CellTrails": [],
@@ -1164,7 +1161,6 @@
         "MSnbase",
         "mzR"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1731,8 +1727,7 @@
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
     "GENESIS": [
-        "GWASTools",
-        "SeqVarTools"
+        "GWASTools"
     ],
     "GeneStructureTools": [
         "Gviz",
@@ -2209,7 +2204,6 @@
         "DESeq2",
         "TRESS"
     ],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2289,7 +2283,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEDIPS": [],
     "Melissa": [],
     "memes": [],
@@ -2421,7 +2414,6 @@
     "Mfuzz": [],
     "MGFM": [],
     "MGFR": [],
-    "miaSim": [],
     "miaViz": [],
     "MiChip": [],
     "microbiome": [
@@ -2765,7 +2757,6 @@
     "nearBynding": [
         "plyranges"
     ],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -3202,7 +3193,6 @@
     "RAIDS": [
         "GENESIS",
         "GWASTools",
-        "SeqVarTools",
         "VariantAnnotation"
     ],
     "ramr": [],
@@ -3552,7 +3542,6 @@
     ],
     "scmap": [],
     "scMerge": [],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq",
@@ -3575,7 +3564,6 @@
     "scp": [],
     "scPipe": [],
     "scReClassify": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3637,7 +3625,6 @@
     ],
     "seqsetvis": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
         "DESeq2",
@@ -3857,7 +3844,6 @@
         "genefilter"
     ],
     "StarBioTrek": [],
-    "STATegRa": [],
     "Statial": [],
     "statTarget": [],
     "stepNorm": [
@@ -3948,7 +3934,6 @@
     "TEKRABber": [
         "DESeq2"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
@@ -4049,7 +4034,6 @@
         "hopach"
     ],
     "TRESS": [],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "sva"
