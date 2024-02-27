@@ -58,7 +58,6 @@
         "genefilter"
     ],
     "AIMS": [],
-    "alabaster": [],
     "AlphaBeta": [],
     "altcdfenvs": [
         "hypergraph"
@@ -232,7 +231,6 @@
         "mnem",
         "sva"
     ],
-    "brainflowprobes": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
@@ -245,7 +243,6 @@
         "genefilter",
         "sva"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "mzR",
