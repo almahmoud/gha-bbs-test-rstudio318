@@ -265,7 +265,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -539,7 +538,6 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -621,7 +619,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -1348,7 +1345,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [
@@ -1601,7 +1597,6 @@
     ],
     "gDRstyle": [],
     "gDRutils": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
@@ -1613,7 +1608,6 @@
     "genefu": [
         "AIMS"
     ],
-    "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -1631,14 +1625,12 @@
     "GeneTonic": [
         "DESeq2"
     ],
-    "geneXtendeR": [],
     "genomation": [],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "InteractionSet",
@@ -1754,7 +1746,6 @@
         "DESeq2"
     ],
     "GraphPAC": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
@@ -2136,7 +2127,6 @@
         "wateRmelon"
     ],
     "MEDIPS": [],
-    "memes": [],
     "MeSHDbi": [],
     "meshes": [
         "DOSE",
@@ -2250,7 +2240,6 @@
     ],
     "mfa": [],
     "MGFM": [],
-    "MGFR": [],
     "MiChip": [],
     "microbiome": [],
     "microbiomeDASim": [
@@ -2390,7 +2379,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
     "msa": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -2760,7 +2748,6 @@
         "genefilter"
     ],
     "pepStat": [],
-    "periodicDNA": [],
     "phantasus": [
         "DESeq2",
         "GEOquery"
@@ -3228,8 +3215,7 @@
         "ShortRead"
     ],
     "sampleClassifier": [
-        "MGFM",
-        "MGFR"
+        "MGFM"
     ],
     "SARC": [],
     "satuRn": [],
@@ -3338,7 +3324,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -3629,7 +3614,6 @@
     "TCGAutils": [
         "GenomicDataCommons"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
