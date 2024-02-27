@@ -137,9 +137,7 @@
         "DESeq2"
     ],
     "apComplex": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "arrayMvout": [
         "GEOquery",
         "genefilter",
@@ -179,7 +177,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
@@ -196,7 +193,6 @@
         "GOstats",
         "genefilter"
     ],
-    "AUCell": [],
     "AWFisher": [],
     "BadRegionFinder": [],
     "ballgown": [
@@ -217,8 +213,7 @@
     "basecallQC": [],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "BatchQC": [
         "genefilter",
@@ -226,7 +221,6 @@
     ],
     "BBCAnalyzer": [],
     "BCRANK": [],
-    "beachmat.hdf5": [],
     "beadarraySNP": [],
     "BEAT": [],
     "benchdamic": [
@@ -266,7 +260,6 @@
     ],
     "BiocBook": [],
     "BiocOncoTK": [],
-    "BiocSklearn": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -447,7 +440,6 @@
         "PROMISE"
     ],
     "celaref": [],
-    "celda": [],
     "CellaRepertorium": [],
     "CellBarcode": [],
     "cellHTS2": [
@@ -484,7 +476,6 @@
         "marray"
     ],
     "cfDNAPro": [],
-    "cfTools": [],
     "CGHbase": [
         "marray"
     ],
@@ -566,7 +557,6 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -669,7 +659,6 @@
     ],
     "consensusOV": [
         "AIMS",
-        "GSVA",
         "genefu"
     ],
     "contiBAIT": [
@@ -751,7 +740,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "customProDB": [],
     "cyanoFilter": [
         "cytolib",
@@ -860,9 +848,7 @@
         "sva"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "GEOquery",
         "genefilter",
@@ -1017,7 +1003,6 @@
         "GEOquery"
     ],
     "EGSEA": [
-        "GSVA",
         "PADOG"
     ],
     "eiR": [],
@@ -1077,7 +1062,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1106,9 +1090,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "evaluomeR": [],
     "EventPointer": [],
@@ -1383,7 +1365,6 @@
     "GenomicPlot": [
         "RCAS"
     ],
-    "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -1431,7 +1412,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "glmGamPoi": [],
     "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
@@ -1471,7 +1451,6 @@
     "GSRI": [
         "genefilter"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno"
@@ -1650,9 +1629,7 @@
         "genefilter",
         "sva"
     ],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "LinkHD": [],
     "lipidr": [
@@ -1689,7 +1666,6 @@
         "Maaslin2",
         "metagenomeSeq"
     ],
-    "MACSr": [],
     "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
@@ -2069,7 +2045,6 @@
         "MSstats",
         "marray"
     ],
-    "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -2104,7 +2079,6 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -2174,7 +2148,6 @@
     "octad": [
         "DESeq2",
         "EDASeq",
-        "GSVA",
         "RUVSeq"
     ],
     "odseq": [
@@ -2209,9 +2182,7 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -2356,7 +2327,6 @@
     "prebs": [],
     "preciseTAD": [],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase"
@@ -2471,9 +2441,7 @@
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rbec": [
         "dada2"
     ],
@@ -2706,10 +2674,7 @@
         "flowCore"
     ],
     "scDD": [],
-    "scFeatures": [
-        "AUCell",
-        "GSVA"
-    ],
+    "scFeatures": [],
     "scGPS": [
         "DESeq2"
     ],
@@ -2813,7 +2778,6 @@
     "signeR": [],
     "signifinder": [
         "AIMS",
-        "GSVA",
         "consensusOV",
         "genefu"
     ],
@@ -2835,9 +2799,7 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "GSVA",
         "TSCAN",
-        "celda",
         "genefilter",
         "sva",
         "zinbwave"
@@ -2846,7 +2808,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "singscore": [],
     "skewr": [
         "GEOquery",
         "genefilter",
@@ -2985,9 +2946,7 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSVA",
         "genefilter",
-        "singscore",
         "sva"
     ],
     "TCC": [
@@ -3037,9 +2996,7 @@
     "TMixClust": [
         "SPEM"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -3064,9 +3021,7 @@
     "transcriptR": [
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -3090,13 +3045,8 @@
         "genefilter",
         "sva"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TSCAN": [],
     "TurboNorm": [
         "convert",
@@ -3135,7 +3085,6 @@
         "DelayedDataFrame"
     ],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
