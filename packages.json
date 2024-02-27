@@ -211,10 +211,7 @@
         "pRoloc"
     ],
     "basecallQC": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -227,14 +224,12 @@
         "DESeq2",
         "Maaslin2",
         "genefilter",
-        "metagenomeSeq",
         "zinbwave"
     ],
     "BgeeCall": [],
     "bgx": [
         "gcrma"
     ],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw",
         "hypergraph"
@@ -399,9 +394,7 @@
         "CardinalIO"
     ],
     "CardinalIO": [],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "cytolib",
@@ -713,7 +706,6 @@
         "crisprBase",
         "crisprBowtie"
     ],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -940,7 +932,6 @@
         "genefilter"
     ],
     "diggit": [],
-    "Dino": [],
     "discordant": [],
     "divergence": [],
     "DMRcaller": [],
@@ -1277,7 +1268,6 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "gaga": [],
     "gaggle": [],
     "GARS": [
         "DESeq2",
@@ -1382,7 +1372,6 @@
     "GeoTcgaData": [
         "cqn"
     ],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2",
@@ -1412,7 +1401,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1452,7 +1440,6 @@
         "genefilter"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1659,12 +1646,9 @@
     "LymphoSeq": [
         "msa"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "MADSEQ": [],
     "maftools": [],
@@ -1720,9 +1704,7 @@
     "mBPCR": [
         "GWASTools"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MCbiclust": [],
     "mCSEA": [
         "Gviz",
@@ -1773,7 +1755,6 @@
         "cytolib",
         "flowCore"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1799,7 +1780,6 @@
     "methInheritSim": [],
     "MethPed": [],
     "MethReg": [],
-    "methrix": [],
     "MethylAid": [
         "GEOquery",
         "genefilter",
@@ -1846,16 +1826,12 @@
     "MGFM": [],
     "MiChip": [],
     "microbiome": [],
-    "microbiomeDASim": [
-        "metagenomeSeq"
-    ],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [
-        "DESeq2",
-        "metagenomeSeq"
+        "DESeq2"
     ],
     "microbiomeMarker": [
-        "DESeq2",
-        "metagenomeSeq"
+        "DESeq2"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -1891,7 +1867,6 @@
     ],
     "MiPP": [],
     "MIRA": [],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1915,8 +1890,7 @@
         "DESeq2"
     ],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "MobilityTransformR": [
@@ -2050,7 +2024,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "bamsignals",
         "biovizBase",
         "karyoploteR"
@@ -2543,7 +2516,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -2646,7 +2618,6 @@
     ],
     "SARC": [],
     "satuRn": [],
-    "SBGNview": [],
     "SCAN.UPC": [
         "GEOquery",
         "genefilter",
@@ -2835,7 +2806,6 @@
     "SOMNiBUS": [
         "annotatr"
     ],
-    "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
@@ -2975,7 +2945,6 @@
         "DESeq2",
         "ORFik"
     ],
-    "TFutils": [],
     "tidybulk": [],
     "tigre": [],
     "tilingArray": [
@@ -3103,7 +3072,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
