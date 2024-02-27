@@ -920,7 +920,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "AMOUNTAIN": [],
     "amplican": [
         "Biobase",
         "BiocGenerics",
@@ -3074,7 +3073,6 @@
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
-        "GENIE3",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -4043,7 +4041,6 @@
         "Biostrings",
         "ComplexHeatmap",
         "DelayedArray",
-        "GENIE3",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4811,7 +4808,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "cellxgenedp": [],
     "CEMiTool": [
         "AnnotationDbi",
         "Biobase",
@@ -6762,7 +6758,6 @@
         "zlibbioc"
     ],
     "ComPrAn": [],
-    "compSPOT": [],
     "concordexR": [
         "BiocGenerics",
         "BiocParallel",
@@ -9656,10 +9651,7 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "DNAcopy": [],
     "DNAfusion": [
         "AnnotationDbi",
@@ -11878,7 +11870,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "FitHiC": [],
     "flagme": [
         "AnnotationFilter",
         "Biobase",
@@ -13121,7 +13112,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "GENIE3": [],
     "genoCN": [],
     "genomation": [
         "BSgenome",
@@ -14322,7 +14312,6 @@
         "zlibbioc"
     ],
     "GPA": [],
-    "gpls": [],
     "gpuMagic": [
         "BiocGenerics"
     ],
@@ -18286,7 +18275,6 @@
         "universalmotif",
         "zlibbioc"
     ],
-    "Mergeomics": [],
     "MeSHDbi": [
         "AnnotationDbi",
         "Biobase",
@@ -18508,7 +18496,6 @@
         "Wrench",
         "limma"
     ],
-    "metahdep": [],
     "metaMS": [
         "AnnotationFilter",
         "Biobase",
@@ -19193,7 +19180,6 @@
         "BiocGenerics",
         "BiocParallel",
         "DelayedArray",
-        "GENIE3",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -20122,7 +20108,6 @@
         "zlibbioc"
     ],
     "MODA": [
-        "AMOUNTAIN",
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
@@ -23417,7 +23402,6 @@
         "graph",
         "zlibbioc"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
@@ -24279,7 +24263,6 @@
         "mixOmics",
         "zlibbioc"
     ],
-    "powerTCR": [],
     "POWSC": [
         "Biobase",
         "BiocGenerics",
@@ -25948,11 +25931,7 @@
     ],
     "rDGIdb": [],
     "Rdisop": [],
-    "RDRToolbox": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -28831,7 +28810,6 @@
     "SCFA": [
         "BiocParallel"
     ],
-    "scFeatureFilter": [],
     "scFeatures": [
         "AUCell",
         "AnnotationDbi",
@@ -29355,7 +29333,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "powerTCR",
         "zlibbioc"
     ],
     "scRNAseqApp": [
@@ -30977,7 +30954,6 @@
         "zlibbioc"
     ],
     "SLqPCR": [],
-    "SMAD": [],
     "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
