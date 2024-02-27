@@ -63,31 +63,23 @@
     "AIMS": [],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "AllelicImbalance": [
@@ -189,7 +181,6 @@
     ],
     "BCRANK": [],
     "beadarraySNP": [],
-    "BEAT": [],
     "benchdamic": [
         "DESeq2",
         "Maaslin2",
@@ -342,7 +333,6 @@
         "hopach",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO"
     ],
@@ -382,7 +372,6 @@
     ],
     "CCPROMISE": [],
     "CellaRepertorium": [],
-    "CellBarcode": [],
     "cellHTS2": [
         "Category",
         "genefilter"
@@ -730,7 +719,6 @@
         "genefilter",
         "sva"
     ],
-    "decompTumor2Sig": [],
     "deconvR": [
         "GEOquery",
         "genefilter",
@@ -1220,7 +1208,6 @@
         "R4RNA"
     ],
     "ggtreeExtra": [],
-    "girafe": [],
     "GISPA": [
         "genefilter"
     ],
@@ -1254,7 +1241,6 @@
         "genefilter"
     ],
     "GOsummaries": [],
-    "GOTHiC": [],
     "gpuMagic": [],
     "GRaNIE": [
         "DESeq2"
@@ -1352,7 +1338,6 @@
         "cytolib",
         "flowCore"
     ],
-    "InPAS": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -1695,7 +1680,6 @@
     "motifmatchr": [],
     "motifStack": [],
     "msa": [],
-    "MsBackendMgf": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1778,14 +1762,12 @@
     "MultiRNAflow": [
         "DESeq2"
     ],
-    "MungeSumstats": [],
     "muscat": [
         "DESeq2",
         "variancePartition"
     ],
     "muscle": [],
     "musicatk": [
-        "decompTumor2Sig",
         "maftools"
     ],
     "mzR": [],
@@ -2058,7 +2040,6 @@
         "enrichplot",
         "mzR"
     ],
-    "ProteoDisco": [],
     "protGear": [
         "genefilter"
     ],
@@ -2144,7 +2125,6 @@
         "minfi"
     ],
     "REDseq": [],
-    "RegionalST": [],
     "regionReport": [
         "DEFormats",
         "DESeq2",
@@ -2318,7 +2298,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scoreInvHap": [],
     "scRNAseqApp": [],
     "scruff": [
         "ggbio"
@@ -2345,7 +2324,6 @@
         "bamsignals",
         "enrichplot"
     ],
-    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -2487,7 +2465,6 @@
         "rols",
         "struct"
     ],
-    "StructuralVariantAnnotation": [],
     "SummarizedBenchmark": [],
     "surfaltr": [
         "msa"
@@ -2496,12 +2473,8 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "GOSemSim"
