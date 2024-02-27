@@ -63,7 +63,6 @@
     "AIMS": [],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
@@ -71,32 +70,25 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
@@ -179,7 +171,6 @@
         "genefilter"
     ],
     "AWFisher": [],
-    "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
         "sva"
@@ -554,7 +545,6 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "COCOA": [],
     "comapr": [
         "Gviz"
@@ -867,7 +857,6 @@
         "GOSemSim"
     ],
     "doseR": [],
-    "doubletrouble": [],
     "dreamlet": [
         "variancePartition",
         "zenith"
@@ -887,7 +876,6 @@
     "easier": [
         "DESeq2"
     ],
-    "easyRNASeq": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -896,7 +884,6 @@
         "genefilter",
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [
         "GEOquery"
     ],
@@ -1230,7 +1217,6 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "GEOquery",
         "genefilter",
@@ -1340,12 +1326,9 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hicVennDiagram": [],
     "hmdbQuery": [],
     "hopach": [],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -1376,7 +1359,6 @@
     "idr2d": [],
     "IFAA": [],
     "igvR": [],
-    "IMAS": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
         "cytolib",
@@ -1753,7 +1735,6 @@
     "msa": [],
     "MsBackendMgf": [],
     "msgbsR": [
-        "easyRNASeq",
         "ggbio"
     ],
     "msmsEDA": [
@@ -2138,7 +2119,6 @@
         "MSnbase",
         "mzR"
     ],
-    "PureCN": [],
     "Pviz": [
         "Gviz"
     ],
@@ -2432,7 +2412,6 @@
         "enrichplot"
     ],
     "seqbias": [],
-    "seqCAT": [],
     "seqCNA": [],
     "SeqGSEA": [
         "DESeq2"
@@ -2444,7 +2423,6 @@
         "sva"
     ],
     "sevenbridges": [],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -2721,7 +2699,6 @@
         "Gviz"
     ],
     "UniProt.ws": [],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
@@ -2735,7 +2712,6 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown",
         "genefilter",
