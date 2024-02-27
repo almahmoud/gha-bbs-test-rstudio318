@@ -484,8 +484,7 @@
         "maftools"
     ],
     "circRNAprofiler": [
-        "DESeq2",
-        "gwascat"
+        "DESeq2"
     ],
     "CircSeqAlignTk": [],
     "ClassifyR": [
@@ -516,7 +515,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.mops": [],
     "CNORdt": [
         "CellNOptR"
     ],
@@ -535,14 +533,12 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
-        "cn.mops",
         "karyoploteR"
     ],
     "cnvGSA": [],
     "CNViz": [
         "CopyNumberPlots",
         "bamsignals",
-        "cn.mops",
         "karyoploteR"
     ],
     "COCOA": [],
@@ -558,7 +554,6 @@
         "marray",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "concordexR": [],
     "condiments": [],
     "CONFESS": [
@@ -570,7 +565,6 @@
     ],
     "consensusDE": [
         "DESeq2",
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -589,7 +583,6 @@
     "copa": [],
     "CopyNumberPlots": [
         "bamsignals",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [
@@ -709,15 +702,12 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dada2": [],
     "dagLogo": [
         "UniProt.ws",
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "DESeq2",
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -879,7 +869,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EDASeq": [],
     "edge": [
         "genefilter",
         "sva"
@@ -979,7 +968,6 @@
     ],
     "fabia": [],
     "factDesign": [],
-    "factR": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -1139,7 +1127,6 @@
     "GARS": [
         "DESeq2",
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "genefilter",
         "sva"
@@ -1295,7 +1282,6 @@
         "ChIPpeakAnno"
     ],
     "Gviz": [],
-    "gwascat": [],
     "GWASTools": [],
     "gwasurvivr": [
         "GWASTools"
@@ -1358,7 +1344,6 @@
     ],
     "idr2d": [],
     "IFAA": [],
-    "igvR": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
         "cytolib",
@@ -1403,7 +1388,6 @@
     ],
     "InterMineR": [],
     "IntOMICS": [],
-    "IONiseR": [],
     "iPath": [],
     "IPO": [
         "CAMERA",
@@ -1556,9 +1540,7 @@
         "genefilter"
     ],
     "metabCombiner": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "metabolomicsWorkbenchR": [
         "rols",
         "struct"
@@ -1584,7 +1566,6 @@
     "metaseqR2": [
         "DESeq2",
         "DSS",
-        "EDASeq",
         "genefilter"
     ],
     "methimpute": [],
@@ -1827,7 +1808,6 @@
         "maftools"
     ],
     "MutationalPatterns": [],
-    "myvariant": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1891,10 +1871,8 @@
     "normr": [
         "bamsignals"
     ],
-    "nullranges": [],
     "octad": [
         "DESeq2",
-        "EDASeq",
         "RUVSeq"
     ],
     "odseq": [
@@ -1964,9 +1942,7 @@
         "genefilter",
         "sva"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
@@ -2163,9 +2139,7 @@
     "ramr": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RBioFormats": [],
     "RBioinf": [],
     "RBM": [
@@ -2249,7 +2223,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -2329,9 +2302,7 @@
         "TCGAutils"
     ],
     "RUVcorr": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sampleClassifier": [
         "MGFM"
     ],
@@ -2369,7 +2340,6 @@
     ],
     "scmeth": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [
@@ -2453,7 +2423,6 @@
         "consensusOV",
         "genefu"
     ],
-    "SigsPack": [],
     "sigsquared": [],
     "SIMAT": [
         "mzR"
@@ -2509,7 +2478,6 @@
     ],
     "SpectralTAD": [],
     "SPEM": [],
-    "SPIAT": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -2530,7 +2498,6 @@
         "Gviz"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -2631,7 +2598,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "tLOH": [],
     "TMixClust": [
         "SPEM"
     ],
@@ -2726,9 +2692,7 @@
     ],
     "Voyager": [],
     "vsclust": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DESeq2",
