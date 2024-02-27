@@ -3,24 +3,20 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -440,7 +436,6 @@
         "multtest"
     ],
     "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -852,7 +847,6 @@
         "MAST",
         "Maaslin2",
         "MultiAssayExperiment",
-        "NOISeq",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -1093,7 +1087,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1329,7 +1322,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BufferedMatrixMethods": [],
     "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
@@ -2250,7 +2242,6 @@
     ],
     "CNVMetrics": [],
     "CNVPanelizer": [
-        "NOISeq",
         "Rhtslib",
         "Rsamtools",
         "exomeCopy"
@@ -3042,7 +3033,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -3096,7 +3086,6 @@
         "DESeq2"
     ],
     "DEGseq": [],
-    "DelayedArray": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
@@ -4089,7 +4078,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "fastseg": [],
     "fCCAC": [
         "BSgenome",
         "BiocIO",
@@ -4720,7 +4708,6 @@
     "GenomicSuperSignature": [
         "ComplexHeatmap"
     ],
-    "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -5357,7 +5344,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "BiocIO",
@@ -5386,7 +5372,6 @@
         "rtracklayer"
     ],
     "idiogram": [],
-    "idpr": [],
     "idr2d": [],
     "IFAA": [],
     "IgGeneUsage": [],
@@ -5725,7 +5710,6 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "KEGGREST": [],
     "KinSwingR": [],
     "kissDE": [
         "BSgenome",
@@ -5753,7 +5737,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -6315,9 +6298,7 @@
     "metapone": [
         "fgsea"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "ABSSeq",
         "BSgenome",
@@ -6355,7 +6336,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -6485,7 +6465,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -6494,7 +6473,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "fastseg",
         "rtracklayer"
     ],
     "MethylMix": [],
@@ -7567,7 +7545,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy",
@@ -7772,7 +7749,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -7901,7 +7877,6 @@
         "genefilter",
         "sva"
     ],
-    "pairkat": [],
     "pandaR": [],
     "panelcn.mops": [
         "Rhtslib",
@@ -7971,7 +7946,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -8015,7 +7989,6 @@
         "vsn"
     ],
     "PECA": [
-        "ROTS",
         "affy",
         "affyio",
         "genefilter"
@@ -9464,9 +9437,7 @@
     ],
     "roastgsa": [],
     "ROCpAI": [],
-    "RolDE": [
-        "ROTS"
-    ],
+    "RolDE": [],
     "rols": [],
     "ROntoTools": [
         "KEGGgraph",
@@ -9477,7 +9448,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "affy",
         "affyio",
@@ -10643,7 +10613,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -10819,7 +10788,6 @@
         "rhdf5filters"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [
         "GEOquery"
     ],
