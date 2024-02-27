@@ -28,7 +28,6 @@
     ],
     "AffiXcan": [],
     "affycomp": [],
-    "affyContam": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -170,14 +169,12 @@
         "VariantAnnotation"
     ],
     "apComplex": [],
-    "APL": [],
     "appreci8R": [
         "GenomicScores",
         "VariantAnnotation"
     ],
     "arrayMvout": [
         "GEOquery",
-        "affyContam",
         "genefilter",
         "lumi",
         "methylumi",
@@ -292,10 +289,8 @@
         "ANCOMBC",
         "DESeq2",
         "Maaslin2",
-        "biomformat",
         "genefilter",
         "metagenomeSeq",
-        "phyloseq",
         "zinbwave"
     ],
     "BgeeCall": [],
@@ -361,7 +356,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "biomformat": [],
     "biomvRCNS": [
         "Gviz",
         "VariantAnnotation",
@@ -553,7 +547,6 @@
         "Category",
         "genefilter"
     ],
-    "CellMixS": [],
     "CellNOptR": [],
     "CellTrails": [],
     "CEMiTool": [
@@ -625,7 +618,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -787,10 +779,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "combi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "VariantAnnotation",
@@ -874,9 +863,7 @@
         "xcms"
     ],
     "cosmosR": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -1718,7 +1705,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "ggmsa": [
         "R4RNA"
     ],
@@ -1934,7 +1920,6 @@
         "genefilter",
         "minfi"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
@@ -2124,9 +2109,7 @@
     ],
     "MBCB": [],
     "MBECS": [
-        "biomformat",
         "genefilter",
-        "phyloseq",
         "sva"
     ],
     "mbkmeans": [],
@@ -2281,26 +2264,18 @@
     "MGFR": [],
     "miaViz": [],
     "MiChip": [],
-    "microbiome": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "microbiome": [],
     "microbiomeDASim": [
-        "biomformat",
-        "metagenomeSeq",
-        "phyloseq"
+        "metagenomeSeq"
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "biomformat",
         "metagenomeSeq"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
         "DESeq2",
-        "biomformat",
-        "metagenomeSeq",
-        "phyloseq"
+        "metagenomeSeq"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -2337,7 +2312,6 @@
         "VanillaICE"
     ],
     "MiPP": [],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2371,7 +2345,6 @@
         "metagenomeSeq"
     ],
     "mnem": [],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -2770,9 +2743,7 @@
     "parglms": [],
     "partCNV": [],
     "PathoStat": [
-        "DESeq2",
-        "biomformat",
-        "phyloseq"
+        "DESeq2"
     ],
     "pathRender": [],
     "pcaExplorer": [
@@ -2781,7 +2752,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PCAtools": [],
     "PDATK": [
         "AIMS",
         "CoreGx",
@@ -2831,9 +2801,6 @@
         "hopach"
     ],
     "PhyloProfile": [],
-    "phyloseq": [
-        "biomformat"
-    ],
     "Pi": [],
     "piano": [
         "marray"
@@ -2854,7 +2821,6 @@
     ],
     "pipeComp": [],
     "pipeFrame": [],
-    "plier": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -2877,9 +2843,7 @@
     "pqsfinder": [],
     "pram": [],
     "prebs": [
-        "RPA",
-        "biomformat",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "rCGH"
@@ -2958,7 +2922,6 @@
         "MSnbase",
         "mzR"
     ],
-    "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
@@ -3018,7 +2981,6 @@
         "marray",
         "piano"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -3044,10 +3006,7 @@
         "genomation"
     ],
     "rCGH": [],
-    "RCM": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -3062,10 +3021,7 @@
         "enrichplot"
     ],
     "ReadqPCR": [],
-    "reconsi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GEOquery",
         "GenomicFiles",
@@ -3082,9 +3038,7 @@
         "InteractionSet",
         "regioneR"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -3259,10 +3213,7 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "RPA": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RPA": [],
     "rpx": [],
     "Rqc": [
         "GenomicFiles",
@@ -3295,7 +3246,6 @@
         "MGFM",
         "MGFR"
     ],
-    "sangeranalyseR": [],
     "SARC": [],
     "satuRn": [],
     "SBGNview": [],
@@ -3308,7 +3258,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scAnnotatR": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -3453,10 +3402,7 @@
         "minfi"
     ],
     "ShortRead": [],
-    "SIAMCAT": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -3487,10 +3433,7 @@
         "Ringo",
         "genefilter"
     ],
-    "SimBu": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SimBu": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -3605,10 +3548,7 @@
     ],
     "SpotClean": [],
     "SPOTlight": [],
-    "SPsimSeq": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -3890,7 +3830,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VDJdive": [],
     "velociraptor": [],
     "vidger": [
         "DESeq2"
