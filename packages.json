@@ -327,7 +327,6 @@
         "zinbwave"
     ],
     "BgeeCall": [],
-    "BgeeDB": [],
     "bgx": [
         "gcrma"
     ],
@@ -604,7 +603,6 @@
         "ShortRead"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "genefilter",
@@ -1845,7 +1843,6 @@
     ],
     "GeomxTools": [],
     "GEOquery": [],
-    "GEOsubmission": [],
     "GeoTcgaData": [
         "cqn"
     ],
@@ -1891,7 +1888,6 @@
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
-    "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
     ],
@@ -1914,7 +1910,6 @@
     "GOpro": [],
     "GOSemSim": [],
     "goseq": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "GOSemSim",
@@ -2033,7 +2028,6 @@
     ],
     "hopach": [],
     "hpar": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -2081,7 +2075,6 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "ILoReg": [],
     "IMAS": [
         "IVAS"
     ],
@@ -2895,9 +2888,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
@@ -2938,7 +2929,6 @@
         "OLIN",
         "marray"
     ],
-    "OmaDB": [],
     "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
@@ -3098,10 +3088,7 @@
         "genefilter",
         "hopach"
     ],
-    "PhosR": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [
         "biomformat"
     ],
@@ -3140,7 +3127,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmp": [],
     "podkat": [],
     "pogos": [
         "ontoProc"
@@ -3240,9 +3226,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "mzR",
@@ -3500,9 +3484,7 @@
         "vsn",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
@@ -3619,7 +3601,6 @@
         "EDASeq",
         "ShortRead"
     ],
-    "SAIGEgds": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR"
@@ -3664,7 +3645,6 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scDDboost": [],
     "scde": [],
     "scds": [],
     "scFeatures": [
@@ -3845,7 +3825,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [],
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
@@ -4145,7 +4124,6 @@
     "timecourse": [
         "marray"
     ],
-    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
@@ -4276,9 +4254,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation"
@@ -4348,7 +4324,6 @@
         "regioneR",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "GEOquery",
         "bumphunter",
