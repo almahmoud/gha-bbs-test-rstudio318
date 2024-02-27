@@ -174,7 +174,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "TFBSTools",
         "chromVAR",
@@ -182,19 +181,16 @@
         "projectR"
     ],
     "ATACseqQC": [
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -274,7 +270,6 @@
     ],
     "BiocBook": [],
     "BiocHail": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocSklearn": [],
@@ -547,7 +542,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
@@ -573,7 +567,6 @@
         "bamsignals"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "cicero": [
@@ -622,7 +615,6 @@
         "flowCore"
     ],
     "cn.mops": [],
-    "CNEr": [],
     "CNORdt": [
         "CellNOptR"
     ],
@@ -660,7 +652,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "comapr": [
         "Gviz",
@@ -701,7 +692,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -858,7 +848,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "UniProt.ws",
         "motifStack"
@@ -1027,9 +1016,7 @@
         "GOSemSim"
     ],
     "doseR": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "variancePartition",
@@ -1072,11 +1059,9 @@
     "eiR": [],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -1091,7 +1076,6 @@
         "GOSemSim"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "GOSemSim",
         "TFBSTools",
@@ -1152,7 +1136,6 @@
         "DESeq2"
     ],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
@@ -1343,7 +1326,6 @@
         "DESeq2",
         "OUTRIDER"
     ],
-    "FunChIP": [],
     "funtooNorm": [
         "GEOquery",
         "genefilter",
@@ -1616,9 +1598,7 @@
         "minfi"
     ],
     "iChip": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "DESeq2",
@@ -1629,9 +1609,7 @@
     "idr2d": [],
     "IFAA": [],
     "igvR": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1682,7 +1660,6 @@
     "IntOMICS": [],
     "IONiseR": [],
     "iPath": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1710,7 +1687,6 @@
         "DESeq2"
     ],
     "iterClust": [],
-    "IVAS": [],
     "ivygapSE": [],
     "karyoploteR": [
         "bamsignals",
@@ -1813,7 +1789,6 @@
     "mastR": [],
     "MatrixQCvis": [],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "MBCB": [],
@@ -2004,7 +1979,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "TCGAbiolinks",
         "genefilter"
     ],
     "miRNAmeConverter": [],
@@ -2044,7 +2018,6 @@
     ],
     "MoleculeExperiment": [],
     "monaLisa": [
-        "CNEr",
         "TFBSTools"
     ],
     "monocle": [],
@@ -2059,7 +2032,6 @@
         "DOSE",
         "GEOquery",
         "GOSemSim",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2068,7 +2040,6 @@
     ],
     "MOSim": [],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -2076,11 +2047,9 @@
     ],
     "motifcounter": [],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "msa": [],
@@ -2199,7 +2168,6 @@
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
@@ -2345,7 +2313,6 @@
     "padma": [],
     "PADOG": [],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2431,7 +2398,6 @@
     "piano": [
         "marray"
     ],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -2441,7 +2407,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [],
@@ -2467,7 +2432,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
@@ -2677,7 +2641,6 @@
     ],
     "rfaRm": [],
     "Rfastp": [],
-    "rGADEM": [],
     "RgnTX": [],
     "RGSEA": [],
     "rgsepd": [
@@ -2697,7 +2660,6 @@
     ],
     "ribor": [],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "TFBSTools",
@@ -2713,9 +2675,7 @@
         "xcms"
     ],
     "RIVER": [],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
         "ChemmineOB",
@@ -3015,7 +2975,6 @@
     "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
-    "SparseSignatures": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
@@ -3027,7 +2986,6 @@
         "RBioFormats"
     ],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -3063,7 +3021,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq"
@@ -3112,7 +3069,6 @@
         "mzR"
     ],
     "SynMut": [],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
@@ -3138,7 +3094,6 @@
     "TCC": [
         "DESeq2"
     ],
-    "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
@@ -3157,9 +3112,7 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
