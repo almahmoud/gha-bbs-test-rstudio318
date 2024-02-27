@@ -461,7 +461,6 @@
         "QDNAseq",
         "marray"
     ],
-    "cfDNAPro": [],
     "CGHbase": [
         "marray"
     ],
@@ -1074,7 +1073,6 @@
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
-    "ExperimentSubset": [],
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -1097,9 +1095,7 @@
     "FastqCleaner": [],
     "fCCAC": [],
     "fcScan": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "FeatSeekR": [],
     "fedup": [
         "RCy3"
@@ -1802,7 +1798,6 @@
     "mfa": [],
     "MGFM": [],
     "MiChip": [],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2"
@@ -1839,9 +1834,7 @@
         "GEOquery",
         "genefilter"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MiPP": [],
     "MIRA": [],
     "miRLAB": [
@@ -2512,7 +2505,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -2590,7 +2582,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCArray.sat": [],
     "scBFA": [
         "DESeq2",
         "genefilter",
@@ -2690,7 +2681,6 @@
         "genefilter",
         "minfi"
     ],
-    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -2716,7 +2706,6 @@
         "Ringo",
         "genefilter"
     ],
-    "SimBu": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -2725,7 +2714,6 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "TSCAN",
         "genefilter",
         "sva",
         "zinbwave"
@@ -2760,11 +2748,7 @@
     "SOMNiBUS": [
         "annotatr"
     ],
-    "sparrow": [],
-    "spaSim": [],
-    "spatialDE": [],
     "SpatialDecon": [],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -2796,7 +2780,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -2814,7 +2797,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "StarBioTrek": [],
     "statTarget": [],
     "stepNorm": [
         "marray"
@@ -2964,7 +2946,6 @@
     ],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "TurboNorm": [
         "convert",
         "marray"
@@ -2996,7 +2977,6 @@
     "VAExprs": [
         "DeepPINCS"
     ],
-    "VanillaICE": [],
     "variancePartition": [],
     "VariantExperiment": [
         "DelayedDataFrame"
@@ -3020,9 +3000,7 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [],
     "vtpnet": [
         "gwascat"
