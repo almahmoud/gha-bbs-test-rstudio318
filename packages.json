@@ -2853,7 +2853,6 @@
         "multtest"
     ],
     "dcGSA": [],
-    "ddCt": [],
     "ddPCRclust": [
         "cytolib",
         "flowCore",
@@ -3667,7 +3666,6 @@
         "mnem"
     ],
     "epistack": [],
-    "epistasisGA": [],
     "EpiTxDb": [
         "BiocIO",
         "GenomicAlignments",
@@ -4394,7 +4392,6 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -4686,7 +4683,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "BiocIO",
@@ -5123,7 +5119,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5819,7 +5814,6 @@
         "affyio",
         "interactiveDisplayBase",
         "pcaMethods",
-        "proDA",
         "vsn"
     ],
     "MatrixRider": [
@@ -7245,7 +7239,6 @@
     ],
     "NewWave": [
         "BiocSingular",
-        "SharedObject",
         "SingleCellExperiment",
         "beachmat"
     ],
@@ -7979,7 +7972,6 @@
     ],
     "PROcess": [],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "BiocIO",
         "ChIPseeker",
@@ -8445,7 +8437,6 @@
     "ReadqPCR": [],
     "REBET": [],
     "rebook": [],
-    "receptLoss": [],
     "reconsi": [
         "biomformat",
         "multtest",
@@ -9137,7 +9128,6 @@
         "ropls"
     ],
     "rqubic": [],
-    "rRDP": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -9775,7 +9765,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -10361,7 +10350,6 @@
     "SPOTlight": [
         "SingleCellExperiment"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "SingleCellExperiment",
         "biomformat",
@@ -10669,7 +10657,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "BiocIO",
@@ -10780,7 +10767,6 @@
     ],
     "TnT": [],
     "tomoda": [],
-    "tomoseqr": [],
     "TOP": [
         "ClassifyR",
         "MultiAssayExperiment",
