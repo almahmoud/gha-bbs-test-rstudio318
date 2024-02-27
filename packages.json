@@ -415,7 +415,6 @@
         "cBioPortalData",
         "genefilter"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -428,7 +427,6 @@
         "enrichplot"
     ],
     "CCPROMISE": [],
-    "celaref": [],
     "CellaRepertorium": [],
     "CellBarcode": [],
     "cellHTS2": [
@@ -620,7 +618,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "coMethDMR": [],
     "compcodeR": [],
     "compEpiTools": [
         "Gviz",
@@ -630,9 +627,7 @@
     ],
     "CompoundDb": [],
     "concordexR": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -734,7 +729,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [],
     "cydar": [
         "cytolib",
         "flowCore"
@@ -1048,16 +1042,10 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "GenomicFiles"
@@ -1075,7 +1063,6 @@
         "motifmatchr"
     ],
     "escape": [],
-    "escheR": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
@@ -1740,7 +1727,6 @@
         "rols",
         "struct"
     ],
-    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "cytolib",
@@ -2069,7 +2055,6 @@
         "RCy3"
     ],
     "ndexr": [],
-    "nearBynding": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2283,7 +2268,6 @@
     "POMA": [
         "DESeq2"
     ],
-    "POWSC": [],
     "ppcseq": [],
     "pqsfinder": [],
     "prebs": [],
@@ -2411,7 +2395,6 @@
     ],
     "rbsurv": [],
     "RCAS": [],
-    "RCM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -2423,7 +2406,6 @@
         "enrichplot"
     ],
     "ReadqPCR": [],
-    "reconsi": [],
     "recount": [
         "GEOquery",
         "GenomicFiles",
@@ -2598,7 +2580,6 @@
     "sampleClassifier": [
         "MGFM"
     ],
-    "SARC": [],
     "satuRn": [],
     "SCAN.UPC": [
         "GEOquery",
@@ -2644,9 +2625,7 @@
         "flowCore"
     ],
     "scoreInvHap": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
         "ggbio"
@@ -2663,8 +2642,7 @@
         "meshr"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "SDAMS": [],
     "segmenter": [
@@ -2764,7 +2742,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [],
     "snapCGH": [
         "genefilter",
@@ -2819,7 +2796,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [],
     "SPsimSeq": [],
     "SRAdb": [
         "GEOquery"
@@ -2843,7 +2819,6 @@
     "stepNorm": [
         "marray"
     ],
-    "stJoincount": [],
     "struct": [
         "rols"
     ],
@@ -2961,9 +2936,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [
         "chipseq"
     ],
@@ -2977,9 +2950,7 @@
         "RCy3"
     ],
     "TransView": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
