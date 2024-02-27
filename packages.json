@@ -389,7 +389,6 @@
         "Rsamtools",
         "genefilter"
     ],
-    "AnnotationDbi": [],
     "AnnotationFilter": [],
     "AnnotationForge": [],
     "AnnotationHub": [
@@ -5287,7 +5286,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IHW",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -5320,7 +5318,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "ILoReg": [
         "SingleCellExperiment"
     ],
@@ -5677,7 +5674,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "limmaGUI": [],
     "LineagePulse": [
         "ComplexHeatmap",
         "SingleCellExperiment"
@@ -7375,7 +7371,6 @@
         "DelayedMatrixStats",
         "sparseMatrixStats"
     ],
-    "netboost": [],
     "netDx": [
         "MultiAssayExperiment"
     ],
@@ -9422,7 +9417,6 @@
     ],
     "runibic": [],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "BiocIO",
         "EDASeq",
