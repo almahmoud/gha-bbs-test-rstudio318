@@ -240,15 +240,12 @@
     "bugsigdbr": [],
     "BUMHMM": [],
     "BUScorrect": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "genefilter",
         "sva"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "mzR",
@@ -791,7 +788,6 @@
     ],
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
-    "extraChIPs": [],
     "fabia": [],
     "factDesign": [],
     "famat": [
@@ -1095,7 +1091,6 @@
     "hermes": [
         "DESeq2"
     ],
-    "HiCDCPlus": [],
     "hmdbQuery": [],
     "hopach": [],
     "HTSFilter": [
@@ -2062,7 +2057,6 @@
     "SpatialOmicsOverlay": [
         "RBioFormats"
     ],
-    "spatzie": [],
     "SPEM": [],
     "spicyR": [
         "ClassifyR",
