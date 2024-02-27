@@ -58,10 +58,7 @@
         "genefilter"
     ],
     "AIMS": [],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "AlphaBeta": [],
     "altcdfenvs": [
         "hypergraph"
@@ -235,9 +232,7 @@
         "mnem",
         "sva"
     ],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
@@ -245,7 +240,6 @@
     "bugsigdbr": [],
     "BUMHMM": [],
     "BUScorrect": [],
-    "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
@@ -445,8 +439,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "comapr": [],
-    "coMET": [],
     "compcodeR": [],
     "compEpiTools": [
         "marray",
@@ -658,7 +650,6 @@
         "MSnbase",
         "mzR"
     ],
-    "derfinderPlot": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -743,7 +734,6 @@
         "PADOG"
     ],
     "eiR": [],
-    "ELMER": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -1163,7 +1153,6 @@
     "INSPEcT": [
         "DESeq2"
     ],
-    "intansv": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -1279,7 +1268,6 @@
         "GWASTools"
     ],
     "MCbiclust": [],
-    "mCSEA": [],
     "MEAL": [
         "MultiDataSet",
         "genefilter",
@@ -1449,7 +1437,6 @@
         "fabia"
     ],
     "MOSim": [],
-    "motifbreakR": [],
     "motifcounter": [],
     "msa": [],
     "msmsEDA": [
@@ -1741,7 +1728,6 @@
     ],
     "ppcseq": [],
     "pqsfinder": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "mzR"
@@ -1885,7 +1871,6 @@
     "RiboDiPA": [
         "DESeq2"
     ],
-    "RiboProfiling": [],
     "Ringo": [
         "genefilter"
     ],
@@ -1970,7 +1955,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scone": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -2089,7 +2073,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SPLINTER": [],
     "srnadiff": [
         "DESeq2"
     ],
@@ -2227,7 +2210,6 @@
     "UMI4Cats": [
         "DESeq2"
     ],
-    "uncoverappLib": [],
     "UniProt.ws": [],
     "uSORT": [
         "monocle"
@@ -2239,7 +2221,6 @@
     "VariantExperiment": [
         "DelayedDataFrame"
     ],
-    "VariantFiltering": [],
     "VaSP": [
         "ballgown",
         "genefilter",
