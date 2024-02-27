@@ -555,9 +555,7 @@
         "karyoploteR"
     ],
     "CNVPanelizer": [],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "comapr": [
         "Gviz"
     ],
@@ -761,7 +759,6 @@
         "sva"
     ],
     "decompTumor2Sig": [],
-    "decontX": [],
     "deconvR": [
         "GEOquery",
         "genefilter",
@@ -1229,9 +1226,7 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -1693,7 +1688,6 @@
     ],
     "MinimumDistance": [],
     "MiPP": [],
-    "MIRA": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1952,7 +1946,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppar": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -2199,7 +2192,6 @@
         "marray"
     ],
     "rbsurv": [],
-    "RCAS": [],
     "Rcpi": [
         "GOSemSim"
     ],
