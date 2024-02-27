@@ -1363,7 +1363,6 @@
         "zenith"
     ],
     "DRIMSeq": [],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -2050,7 +2049,6 @@
         "hypergraph",
         "makecdfenv"
     ],
-    "HDF5Array": [],
     "HelloRanges": [
         "VariantAnnotation"
     ],
@@ -2334,7 +2332,6 @@
         "vsn",
         "xcms"
     ],
-    "LoomExperiment": [],
     "LPEadj": [],
     "lpNet": [],
     "LRcell": [],
