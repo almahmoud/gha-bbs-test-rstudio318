@@ -706,7 +706,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "parody",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -1301,7 +1300,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -2522,7 +2520,6 @@
         "GenomicRanges",
         "Gviz",
         "HDF5Array",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -2949,7 +2946,6 @@
         "rtracklayer"
     ],
     "cleaver": [],
-    "clevRvis": [],
     "clippda": [],
     "clipper": [
         "BiocIO",
@@ -3008,11 +3004,8 @@
         "xcms"
     ],
     "Clomial": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -3714,7 +3707,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3746,7 +3738,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3806,7 +3797,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3837,7 +3827,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "Gviz",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -4229,7 +4218,6 @@
         "tkWidgets",
         "vsn"
     ],
-    "dcanr": [],
     "dce": [
         "Linnorm",
         "Rgraphviz",
@@ -5909,7 +5897,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "fCI": [],
     "fcScan": [
         "BSgenome",
         "BiocIO",
@@ -7644,7 +7631,6 @@
         "rtracklayer"
     ],
     "hmdbQuery": [],
-    "HMMcopy": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -7662,7 +7648,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "HPiP": [],
     "HTqPCR": [
         "affy",
         "affyio"
@@ -8221,7 +8206,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "iSeq": [],
     "ISLET": [
         "DelayedArray",
         "GenomicRanges",
@@ -8762,7 +8746,6 @@
     ],
     "MANOR": [],
     "maPredictDSC": [
-        "ROC",
         "affy",
         "affyio",
         "gcrma"
@@ -8845,7 +8828,6 @@
         "SummarizedExperiment",
         "interactiveDisplayBase"
     ],
-    "matchBox": [],
     "MatrixQCvis": [
         "AnnotationHub",
         "ComplexHeatmap",
@@ -9011,7 +8993,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -10026,7 +10007,6 @@
     "MODA": [
         "impute"
     ],
-    "ModCon": [],
     "Modstrings": [
         "GenomicRanges"
     ],
@@ -10527,7 +10507,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
-        "Rbowtie",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -10599,7 +10578,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "dcanr",
         "impute"
     ],
     "multtest": [],
@@ -10914,7 +10892,6 @@
         "RandomWalkRestartMH",
         "Rgraphviz"
     ],
-    "NetPathMiner": [],
     "netresponse": [
         "Rgraphviz"
     ],
@@ -11570,7 +11547,6 @@
         "fgsea"
     ],
     "parglms": [],
-    "parody": [],
     "partCNV": [
         "AnnotationHub",
         "DelayedArray",
@@ -11990,7 +11966,6 @@
         "impute",
         "pcaMethods"
     ],
-    "PoDCall": [],
     "podkat": [
         "BSgenome",
         "BiocIO",
@@ -12496,7 +12471,6 @@
         "DelayedArray",
         "GenomicAlignments",
         "GenomicRanges",
-        "HMMcopy",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -12580,7 +12554,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "GenomicRanges",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -12768,7 +12741,6 @@
     "RBM": [
         "marray"
     ],
-    "Rbowtie": [],
     "Rbowtie2": [
         "GenomicRanges",
         "Rhtslib",
@@ -13771,7 +13743,6 @@
         "rtracklayer"
     ],
     "roastgsa": [],
-    "ROC": [],
     "ROCpAI": [
         "DelayedArray",
         "GenomicRanges",
@@ -13984,7 +13955,6 @@
     ],
     "S4Arrays": [],
     "safe": [],
-    "sagenhaft": [],
     "SAIGEgds": [
         "GenomicRanges",
         "SeqArray"
@@ -14790,7 +14760,6 @@
     ],
     "SELEX": [],
     "SemDist": [],
-    "semisup": [],
     "seq2pathway": [
         "GenomicRanges",
         "biomaRt",
@@ -15297,7 +15266,6 @@
         "GenomicFiles",
         "GenomicRanges",
         "QuasR",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -15361,7 +15329,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -15977,7 +15944,6 @@
         "SummarizedExperiment"
     ],
     "statTarget": [
-        "ROC",
         "impute"
     ],
     "STdeconvolve": [],
@@ -16270,7 +16236,6 @@
         "DESeq2",
         "DelayedArray",
         "GenomicRanges",
-        "ROC",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -17335,7 +17300,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
