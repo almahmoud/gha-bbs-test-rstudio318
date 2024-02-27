@@ -1585,7 +1585,6 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -2298,7 +2297,6 @@
     "ppcseq": [],
     "pqsfinder": [],
     "prebs": [],
-    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "TFBSTools",
@@ -2393,7 +2391,6 @@
         "genefilter",
         "minfi"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles"
     ],
