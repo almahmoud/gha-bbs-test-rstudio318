@@ -51,7 +51,6 @@
         "gcrma"
     ],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
@@ -136,7 +135,6 @@
         "biovizBase"
     ],
     "AlphaBeta": [],
-    "AlpsNMR": [],
     "altcdfenvs": [
         "hypergraph"
     ],
@@ -280,7 +278,6 @@
     "BCRANK": [],
     "beachmat.hdf5": [],
     "beadarraySNP": [],
-    "BEARscc": [],
     "BEAT": [
         "ShortRead"
     ],
@@ -548,7 +545,6 @@
         "genefilter"
     ],
     "CellNOptR": [],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -707,7 +703,6 @@
     ],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -848,8 +843,6 @@
         "marray",
         "piano"
     ],
-    "Cormotif": [],
-    "corral": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -1345,8 +1338,7 @@
         "pipeFrame"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "evaluomeR": [],
@@ -1575,7 +1567,6 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [],
     "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
@@ -2112,7 +2103,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools"
     ],
@@ -2183,7 +2173,6 @@
         "mzR",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -2262,7 +2251,6 @@
     "mfa": [],
     "MGFM": [],
     "MGFR": [],
-    "miaViz": [],
     "MiChip": [],
     "microbiome": [],
     "microbiomeDASim": [
@@ -2596,7 +2584,6 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -2741,7 +2728,6 @@
         "GOSemSim"
     ],
     "parglms": [],
-    "partCNV": [],
     "PathoStat": [
         "DESeq2"
     ],
@@ -2773,7 +2759,6 @@
     "PECA": [
         "genefilter"
     ],
-    "peco": [],
     "pepStat": [],
     "periodicDNA": [],
     "phantasus": [
@@ -3258,10 +3243,7 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [
         "DESeq2",
         "genefilter",
@@ -3289,7 +3271,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scHOT": [],
     "scider": [],
     "scifer": [
         "cytolib",
@@ -3781,7 +3762,6 @@
     ],
     "twilight": [],
     "txcutr": [],
-    "UCell": [],
     "Ularcirc": [
         "plotgardener"
     ],
