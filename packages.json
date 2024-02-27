@@ -536,10 +536,7 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -782,14 +779,10 @@
     ],
     "cleanUpdTSeq": [],
     "clippda": [],
-    "clipper": [],
     "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -902,7 +895,6 @@
         "methylPipe"
     ],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "concordexR": [],
@@ -968,10 +960,7 @@
     "CoSIA": [],
     "cosmiq": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -1522,7 +1511,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
@@ -1604,10 +1592,7 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -2206,10 +2191,7 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -2301,10 +2283,7 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -2360,10 +2339,7 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -2464,11 +2440,8 @@
     "metabCombiner": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "rols",
         "struct"
@@ -2488,10 +2461,7 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -2516,7 +2486,6 @@
         "vsn"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methimpute": [],
@@ -2699,10 +2668,7 @@
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -2767,32 +2733,24 @@
     "MouseFM": [],
     "msa": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsDataHub": [],
     "MsExperiment": [
-        "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "ShortRead",
@@ -2831,13 +2789,9 @@
     "msPurity": [
         "mzR"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstats": [
@@ -2896,7 +2850,6 @@
         "regioneR"
     ],
     "MultiDataSet": [],
-    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare",
         "InteractionSet"
@@ -2957,10 +2910,7 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -3366,9 +3316,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -3397,8 +3345,6 @@
         "CGHcall",
         "marray"
     ],
-    "QFeatures": [],
-    "qmtools": [],
     "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -3632,10 +3578,7 @@
     ],
     "Risa": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn",
@@ -3847,9 +3790,7 @@
     "scoreInvHap": [
         "VariantAnnotation"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scReClassify": [],
     "scRepertoire": [],
@@ -4111,9 +4052,7 @@
         "motifmatchr"
     ],
     "speckle": [],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "InteractionSet"
@@ -4159,7 +4098,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "sSNAPPY": [],
     "ssviz": [],
     "standR": [
         "EDASeq",
@@ -4525,10 +4463,7 @@
     "wiggleplotr": [],
     "xcms": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
-        "QFeatures",
         "Spectra",
         "mzR",
         "vsn"
