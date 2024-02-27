@@ -67,7 +67,6 @@
     ],
     "AIMS": [],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -78,48 +77,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -252,7 +235,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesSpace": [],
     "BBCAnalyzer": [],
     "BCRANK": [],
     "beachmat.hdf5": [],
@@ -599,7 +581,6 @@
     "ChIPXpress": [
         "GEOquery"
     ],
-    "ChromSCape": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -782,7 +763,6 @@
         "mzR",
         "xcms"
     ],
-    "cosmosR": [],
     "COTAN": [],
     "countsimQC": [
         "DESeq2",
@@ -1112,7 +1092,6 @@
     ],
     "easylift": [],
     "easyRNASeq": [],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -1629,7 +1608,6 @@
         "GWASTools"
     ],
     "GWENA": [],
-    "h5vc": [],
     "hapFabia": [
         "fabia"
     ],
@@ -2778,9 +2756,7 @@
         "regioneR"
     ],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regioneR": [],
     "regioneReloaded": [
         "regioneR"
