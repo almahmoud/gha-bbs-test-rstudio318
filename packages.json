@@ -145,7 +145,6 @@
     "Anaquin": [
         "DESeq2"
     ],
-    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -270,7 +269,6 @@
         "sva"
     ],
     "BayesSpace": [],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -280,9 +278,7 @@
     "BEAT": [
         "ShortRead"
     ],
-    "beer": [],
     "benchdamic": [
-        "ANCOMBC",
         "DESeq2",
         "Maaslin2",
         "genefilter",
@@ -434,7 +430,6 @@
     "BUMHMM": [],
     "BUScorrect": [],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "VariantAnnotation",
         "biovizBase",
@@ -527,7 +522,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
@@ -1345,7 +1339,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
@@ -1967,7 +1960,6 @@
         "DEGreport",
         "DESeq2"
     ],
-    "ITALICS": [],
     "iterClust": [],
     "IVAS": [],
     "ivygapSE": [],
@@ -2250,7 +2242,6 @@
         "metagenomeSeq"
     ],
     "microbiomeMarker": [
-        "ANCOMBC",
         "DESeq2",
         "metagenomeSeq"
     ],
@@ -2648,10 +2639,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "oposSOM": [],
     "oppar": [
         "GSVA"
@@ -2710,7 +2698,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "pareg": [
         "DOSE",
         "GOSemSim"
@@ -2909,7 +2896,6 @@
         "CGHcall",
         "marray"
     ],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzR"
@@ -3207,7 +3193,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "rTRMui": [],
     "RUVcorr": [],
     "RUVSeq": [
@@ -3283,7 +3268,6 @@
     ],
     "scp": [],
     "scPipe": [],
-    "scReClassify": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3486,7 +3470,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
