@@ -1115,7 +1115,6 @@
         "rtracklayer"
     ],
     "BPRMeth": [],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -2271,7 +2270,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "coRdon": [],
     "CoreGx": [
         "fgsea",
         "marray",
@@ -3255,7 +3253,6 @@
         "PADOG",
         "SingleCellExperiment",
         "beachmat",
-        "gage",
         "globaltest",
         "multtest",
         "pathview",
@@ -4022,7 +4019,6 @@
     "gaga": [
         "EBarrays"
     ],
-    "gage": [],
     "gaggle": [],
     "GARS": [
         "BiocIO",
@@ -4666,7 +4662,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "HEM": [],
     "hermes": [
         "ComplexHeatmap",
@@ -4744,7 +4739,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome",
         "BiocIO",
@@ -5433,7 +5427,6 @@
         "affy",
         "affyio"
     ],
-    "MANOR": [],
     "maPredictDSC": [
         "affy",
         "affyio",
@@ -6364,7 +6357,6 @@
     "MouseFM": [
         "biomaRt"
     ],
-    "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
@@ -6563,7 +6555,6 @@
         "pcaMethods",
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "AnnotationFilter",
         "BSgenome",
@@ -6607,7 +6598,6 @@
         "tkWidgets"
     ],
     "multiscan": [],
-    "multiWGCNA": [],
     "multtest": [],
     "mumosa": [
         "BiocNeighbors",
@@ -8992,7 +8982,6 @@
     "scReClassify": [
         "SingleCellExperiment"
     ],
-    "scRecover": [],
     "screenCounter": [],
     "ScreenR": [],
     "scRepertoire": [
