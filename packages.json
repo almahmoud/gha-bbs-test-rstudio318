@@ -967,7 +967,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "AnVILBilling": [],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
@@ -1257,7 +1256,6 @@
         "CoGAPS",
         "DelayedArray",
         "DirichletMultinomial",
-        "GeneOverlap",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3293,7 +3291,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MultiAssayExperiment",
@@ -3747,7 +3744,6 @@
     "CellMapper": [
         "S4Vectors"
     ],
-    "cellmigRation": [],
     "CellMixS": [
         "BiocNeighbors",
         "BiocSingular",
@@ -4597,7 +4593,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "BiocNeighbors",
         "BiocSingular",
@@ -10252,7 +10247,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
@@ -10915,7 +10909,6 @@
     ],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
-    "GIGSEA": [],
     "girafe": [
         "Biostrings",
         "DelayedArray",
@@ -11802,7 +11795,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "Heatplus": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -11862,7 +11854,6 @@
         "zlibbioc"
     ],
     "Herper": [],
-    "HGC": [],
     "hiAnnotator": [
         "BSgenome",
         "BiocIO",
@@ -12757,7 +12748,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -12941,7 +12931,6 @@
     "IRanges": [
         "S4Vectors"
     ],
-    "ISAnalytics": [],
     "iSEE": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -13577,7 +13566,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "logicFS": [],
     "LOLA": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -15685,7 +15673,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "miRNApath": [],
     "miRNAtap": [
         "AnnotationDbi",
         "Biostrings",
@@ -18756,7 +18743,6 @@
         "Category",
         "GSEABase",
         "GenomeInfoDb",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "RBGL",
@@ -21561,7 +21547,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RNAdecay": [],
     "rnaEditr": [
         "AnnotationDbi",
         "BiocIO",
@@ -24427,7 +24412,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
@@ -25624,7 +25608,6 @@
         "zlibbioc"
     ],
     "SwathXtend": [],
-    "swfdr": [],
     "switchde": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -26601,7 +26584,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "S4Arrays",
@@ -27786,7 +27768,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "xmapbridge": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
