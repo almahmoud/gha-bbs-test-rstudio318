@@ -2136,7 +2136,6 @@
         "basilisk.utils"
     ],
     "biocViews": [],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -4924,7 +4923,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "COMPASS": [],
     "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
@@ -5698,7 +5696,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ctc": [],
     "CTdata": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -7082,7 +7079,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAcopy": [],
     "DNAfusion": [
         "AnnotationDbi",
@@ -11279,7 +11275,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -11303,7 +11298,6 @@
         "XVector"
     ],
     "HybridMTest": [],
-    "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -14485,7 +14479,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "ctc",
         "genefilter",
         "impute"
     ],
@@ -15418,9 +15411,7 @@
         "pcaMethods",
         "ropls"
     ],
-    "multiClust": [
-        "ctc"
-    ],
+    "multiClust": [],
     "multicrispr": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -16236,7 +16227,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "nuCpos": [],
     "nullranges": [
         "BiocIO",
         "Biostrings",
@@ -18876,7 +18866,6 @@
     ],
     "rDGIdb": [],
     "Rdisop": [],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "AnnotationDbi",
         "Biostrings",
