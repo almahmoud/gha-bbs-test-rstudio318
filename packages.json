@@ -734,7 +734,6 @@
     ],
     "cpvSNP": [],
     "cqn": [],
-    "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -1510,12 +1509,10 @@
     "GRaNIE": [
         "DESeq2"
     ],
-    "GraphPAC": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [],
     "GSReg": [],
     "GSRI": [
         "genefilter"
@@ -1670,10 +1667,7 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEhex": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -2090,7 +2084,6 @@
     "msPurity": [
         "mzR"
     ],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -2230,7 +2223,6 @@
         "marray"
     ],
     "nnSVG": [],
-    "nondetects": [],
     "NormalyzerDE": [],
     "NormqPCR": [
         "ReadqPCR"
@@ -2261,7 +2253,6 @@
         "OLIN",
         "marray"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
@@ -2393,7 +2384,6 @@
         "genefilter",
         "hopach"
     ],
-    "PhyloProfile": [],
     "Pi": [],
     "piano": [
         "marray"
@@ -2428,9 +2418,7 @@
     "prebs": [
         "RPA"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -2492,7 +2480,6 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "mzR"
@@ -2527,10 +2514,7 @@
         "genefilter",
         "minfi"
     ],
-    "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles"
     ],
@@ -2566,7 +2550,6 @@
     "RCAS": [
         "genomation"
     ],
-    "rCGH": [],
     "RCM": [],
     "Rcpi": [
         "GOSemSim"
@@ -2819,7 +2802,6 @@
         "flowCore"
     ],
     "scoreInvHap": [],
-    "scp": [],
     "scPipe": [],
     "scRNAseqApp": [
         "slingshot"
@@ -2839,7 +2821,6 @@
         "genefilter",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -2972,7 +2953,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
@@ -3192,7 +3172,6 @@
         "genefilter",
         "sva"
     ],
-    "trio": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -3224,7 +3203,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [],
     "uSORT": [
