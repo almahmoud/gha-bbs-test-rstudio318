@@ -21,7 +21,6 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "marray"
     ],
@@ -54,10 +53,7 @@
     "adSplit": [
         "multtest"
     ],
-    "adverSCarial": [],
-    "AffiXcan": [
-        "MultiAssayExperiment"
-    ],
+    "AffiXcan": [],
     "affy": [
         "affyio"
     ],
@@ -80,7 +76,6 @@
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "affy",
@@ -135,7 +130,6 @@
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "affy",
@@ -159,7 +153,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biocViews",
         "biomaRt",
@@ -184,8 +177,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -217,7 +208,6 @@
     "alabaster.files": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "alabaster.base",
         "rhdf5",
@@ -226,7 +216,6 @@
     ],
     "alabaster.mae": [
         "HDF5Array",
-        "MultiAssayExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -286,7 +275,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "alabaster.base",
@@ -302,7 +290,6 @@
     "ALDEx2": [
         "multtest"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationFilter",
         "BSgenome",
@@ -310,7 +297,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -333,14 +319,12 @@
         "ComplexHeatmap",
         "ExperimentHub",
         "HDF5Array",
-        "MultiAssayExperiment",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
     ],
     "amplican": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -353,7 +337,6 @@
         "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -364,18 +347,15 @@
     ],
     "AneuFinder": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "bamsignals"
     ],
     "ANF": [],
     "animalcules": [
-        "DESeq2",
-        "MultiAssayExperiment"
+        "DESeq2"
     ],
     "annaffy": [],
     "annmap": [
-        "Rhtslib",
         "Rsamtools",
         "genefilter"
     ],
@@ -392,7 +372,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biocViews",
         "biomaRt",
@@ -406,7 +385,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "interactiveDisplayBase",
@@ -428,7 +406,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HybridMTest",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -449,7 +426,6 @@
         "GenomicScores",
         "HDF5Array",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -470,7 +446,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyContam",
@@ -504,7 +479,6 @@
         "marray"
     ],
     "ASICS": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "ropls"
     ],
@@ -515,7 +489,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -543,7 +516,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "TFBSTools",
@@ -570,7 +542,6 @@
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "biomaRt",
@@ -589,7 +560,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
@@ -598,7 +568,6 @@
     "atena": [
         "AnnotationHub",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "interactiveDisplayBase"
     ],
@@ -608,7 +577,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "motifStack",
@@ -626,14 +594,12 @@
         "GSEABase"
     ],
     "autonomics": [
-        "MultiAssayExperiment",
         "pcaMethods"
     ],
     "AWFisher": [],
     "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "bacon": [],
@@ -642,7 +608,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -652,7 +617,6 @@
     "ballgown": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "genefilter",
         "rtracklayer",
@@ -663,14 +627,11 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
-    "bamsignals": [
-        "Rhtslib"
-    ],
+    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
     ],
@@ -691,7 +652,6 @@
     "barcodetrackR": [],
     "basecallQC": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -699,7 +659,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -730,7 +689,6 @@
     ],
     "BasicSTARRseq": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "basilisk": [
@@ -766,13 +724,11 @@
     "bayNorm": [
         "SingleCellExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -796,7 +752,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "rtracklayer"
@@ -815,7 +770,6 @@
         "DirichletMultinomial",
         "MAST",
         "Maaslin2",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "Wrench",
@@ -838,7 +792,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rhdf5",
@@ -869,7 +822,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -891,7 +843,6 @@
         "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -906,10 +857,8 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "ReactomePA",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -945,8 +894,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "interactiveDisplayBase",
@@ -1012,7 +959,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1035,7 +981,6 @@
     ],
     "BioQC": [],
     "biosigner": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "ropls"
     ],
@@ -1056,7 +1001,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1076,7 +1020,6 @@
         "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "annotatr",
@@ -1095,7 +1038,6 @@
     "BiSeq": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "globaltest",
         "rtracklayer"
@@ -1104,7 +1046,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "DEXSeq",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "genefilter"
@@ -1150,7 +1091,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1167,7 +1107,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -1186,7 +1125,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1204,14 +1142,12 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "breakpointR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "brendaDb": [],
@@ -1219,14 +1155,12 @@
         "BiocIO",
         "DESeq2",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "BSgenome": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -1234,7 +1168,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -1244,7 +1177,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "rhdf5",
@@ -1257,7 +1189,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1271,7 +1202,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -1284,7 +1214,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -1303,7 +1232,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "affy",
@@ -1324,7 +1252,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1341,7 +1268,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1364,8 +1290,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1380,7 +1304,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -1400,9 +1323,7 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -1419,7 +1340,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1434,7 +1354,6 @@
         "EBarrays",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "gaga",
@@ -1471,9 +1390,7 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -1492,9 +1409,7 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -1549,12 +1464,10 @@
     "CellaRepertorium": [],
     "CellBarcode": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
     "cellbaseR": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "CellBench": [
@@ -1633,7 +1546,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "genomation",
         "rtracklayer",
@@ -1643,7 +1555,6 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "marray"
     ],
@@ -1651,7 +1562,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "plyranges",
         "rtracklayer"
@@ -1696,7 +1606,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "affy",
@@ -1740,7 +1649,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1752,7 +1660,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -1760,14 +1667,12 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "chipenrich": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -1777,7 +1682,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1792,7 +1696,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -1808,7 +1711,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GreyListChIP",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "apeglm",
@@ -1823,7 +1725,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "enrichplot",
@@ -1832,19 +1733,16 @@
     ],
     "chipseq": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
     "ChIPseqR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
     "ChIPsim": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -1860,7 +1758,6 @@
     "ChromHeatMap": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -1875,7 +1772,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "ResidualMatrix",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "batchelor",
@@ -1888,7 +1784,6 @@
     ],
     "chromstaR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "bamsignals"
     ],
@@ -1898,7 +1793,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "rtracklayer"
@@ -1913,7 +1807,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biocViews",
@@ -1924,7 +1817,6 @@
         "rtracklayer"
     ],
     "CIMICE": [
-        "Rhtslib",
         "maftools"
     ],
     "CINdex": [],
@@ -1935,7 +1827,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -1950,7 +1841,6 @@
         "GenomicFeatures",
         "Rbowtie2",
         "Rhisat2",
-        "Rhtslib",
         "Rsamtools",
         "SGSeq",
         "ShortRead",
@@ -1970,14 +1860,12 @@
         "scuttle"
     ],
     "ClassifyR": [
-        "MultiAssayExperiment",
         "genefilter"
     ],
     "cleanUpdTSeq": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -1988,7 +1876,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGgraph",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "qpgraph",
@@ -1998,7 +1885,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -2009,7 +1895,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -2053,9 +1938,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -2073,7 +1956,6 @@
         "oligoClasses"
     ],
     "cn.mops": [
-        "Rhtslib",
         "Rsamtools",
         "exomeCopy"
     ],
@@ -2081,7 +1963,6 @@
     "CNEr": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -2107,7 +1988,6 @@
         "CopyNumberPlots",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
@@ -2130,7 +2010,6 @@
         "CopyNumberPlots",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
@@ -2146,7 +2025,6 @@
         "rtracklayer"
     ],
     "CNVPanelizer": [
-        "Rhtslib",
         "Rsamtools",
         "exomeCopy"
     ],
@@ -2160,7 +2038,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2175,7 +2052,6 @@
         "GenomicAlignments",
         "HDF5Array",
         "MIRA",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -2188,7 +2064,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -2204,7 +2079,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -2219,7 +2093,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2241,7 +2114,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2255,7 +2127,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -2270,7 +2141,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2317,7 +2187,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -2342,7 +2211,6 @@
     "consensusSeekeR": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -2355,7 +2223,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2369,7 +2236,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -2391,7 +2257,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
@@ -2408,7 +2273,6 @@
     ],
     "coRdon": [],
     "CoreGx": [
-        "MultiAssayExperiment",
         "fgsea",
         "marray",
         "piano"
@@ -2418,7 +2282,6 @@
         "affyio"
     ],
     "corral": [
-        "MultiAssayExperiment",
         "SingleCellExperiment"
     ],
     "coseq": [
@@ -2439,7 +2302,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -2469,7 +2331,6 @@
     "CoverageView": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -2481,7 +2342,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -2496,7 +2356,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "crisprBase",
         "rtracklayer"
@@ -2505,7 +2364,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "crisprBase",
         "rtracklayer"
@@ -2517,7 +2375,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "basilisk",
@@ -2540,7 +2397,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rhdf5",
         "rhdf5filters",
@@ -2548,7 +2404,6 @@
     ],
     "CrispRVariants": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "crisprVerse": [
@@ -2560,7 +2415,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "basilisk",
@@ -2585,7 +2439,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "basilisk",
@@ -2615,7 +2468,6 @@
     ],
     "CSAR": [],
     "csaw": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "csdR": [],
@@ -2623,7 +2475,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -2653,7 +2504,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2676,7 +2526,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2784,7 +2633,6 @@
     ],
     "dada2": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -2794,7 +2642,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "UniProt.ws",
@@ -2807,7 +2654,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2820,7 +2666,6 @@
         "EDASeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -2879,7 +2724,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2908,7 +2752,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -2924,7 +2767,6 @@
     "DeepBlueR": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -2934,7 +2776,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -2947,7 +2788,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -2986,7 +2826,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -3002,7 +2841,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "VariantAnnotation",
@@ -3029,14 +2867,12 @@
         "mixOmics"
     ],
     "DepInfeR": [],
-    "DEqMS": [],
     "derfinder": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3053,7 +2889,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3073,7 +2908,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -3104,7 +2938,6 @@
     ],
     "DEXSeq": [
         "DESeq2",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "genefilter"
@@ -3119,7 +2952,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GreyListChIP",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "apeglm",
@@ -3147,7 +2979,6 @@
         "BiocIO",
         "GenomicAlignments",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "csaw",
         "rhdf5",
@@ -3162,7 +2993,6 @@
         "DEXSeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -3199,14 +3029,12 @@
     "DMCFB": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "DMCHMM": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -3223,7 +3051,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "beachmat",
@@ -3252,7 +3079,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "annotatr",
         "beachmat",
@@ -3269,7 +3095,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "bamsignals",
         "biomaRt",
@@ -3281,7 +3106,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3306,7 +3130,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "MSA2dist",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer",
@@ -3341,7 +3164,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "UniProt.ws",
         "biomaRt",
@@ -3363,7 +3185,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -3388,13 +3209,11 @@
     "easylift": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "easyRNASeq": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt"
@@ -3411,7 +3230,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -3456,8 +3274,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "TCGAbiolinks",
         "VariantAnnotation",
@@ -3473,7 +3289,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
@@ -3489,7 +3304,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -3526,7 +3340,6 @@
         "DirichletMultinomial",
         "GOSemSim",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "clusterProfiler",
@@ -3548,7 +3361,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -3558,7 +3370,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3569,7 +3380,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3586,7 +3396,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "enrichplot",
@@ -3599,12 +3408,10 @@
     "epidecodeR": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "epigenomix": [
-        "Rhtslib",
         "Rsamtools",
         "beadarray"
     ],
@@ -3613,7 +3420,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GreyListChIP",
-        "Rhtslib",
         "Rsamtools",
         "bamsignals",
         "csaw",
@@ -3627,7 +3433,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "interactiveDisplayBase",
@@ -3646,7 +3451,6 @@
         "Gviz",
         "HDF5Array",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3671,7 +3475,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Modstrings",
-        "Rhtslib",
         "Rsamtools",
         "Structstrings",
         "biomaRt",
@@ -3685,7 +3488,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -3699,7 +3501,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -3712,7 +3513,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -3724,7 +3524,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -3741,7 +3540,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3762,7 +3560,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rbowtie2",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "TFBSTools",
@@ -3795,18 +3592,14 @@
         "MLP"
     ],
     "eudysbiome": [
-        "Rhtslib",
         "Rsamtools"
     ],
-    "evaluomeR": [
-        "MultiAssayExperiment"
-    ],
+    "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "SGSeq",
         "biomaRt",
@@ -3825,7 +3618,6 @@
     "ExCluster": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -3834,7 +3626,6 @@
         "affyio"
     ],
     "exomeCopy": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "exomePeak2": [
@@ -3843,7 +3634,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -3862,7 +3652,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biocViews",
         "biomaRt",
@@ -3887,7 +3676,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3902,7 +3690,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer",
@@ -3921,7 +3708,6 @@
     ],
     "FastqCleaner": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -3930,7 +3716,6 @@
         "BiocIO",
         "ComplexHeatmap",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "genomation",
         "rtracklayer",
@@ -3941,7 +3726,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -3968,7 +3752,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -3986,15 +3769,12 @@
     ],
     "fgsea": [],
     "FilterFFPE": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "FindIT2": [
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4011,7 +3791,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -4035,9 +3814,7 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "MultiAssayExperiment",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "VariantAnnotation",
@@ -4182,7 +3959,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "OUTRIDER",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "pcaMethods",
@@ -4202,7 +3978,6 @@
     ],
     "FunChIP": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "funtooNorm": [
@@ -4212,7 +3987,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -4229,7 +4003,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4241,7 +4014,6 @@
         "GA4GHclient",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4260,7 +4032,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "MLSeq",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -4284,7 +4055,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -4314,7 +4084,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4323,7 +4092,6 @@
     ],
     "gDR": [
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
         "gDRcore",
@@ -4333,12 +4101,10 @@
         "piano"
     ],
     "gDRcore": [
-        "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
         "gDRutils",
@@ -4349,9 +4115,7 @@
         "BiocCheck",
         "biocViews"
     ],
-    "gDRutils": [
-        "MultiAssayExperiment"
-    ],
+    "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray"
@@ -4361,7 +4125,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4370,7 +4133,6 @@
         "CGHbase",
         "CGHcall",
         "QDNAseq",
-        "Rhtslib",
         "Rsamtools",
         "marray"
     ],
@@ -4382,7 +4144,6 @@
         "biomaRt"
     ],
     "GeneGeneInteR": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "GeneMeta": [
@@ -4405,7 +4166,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4423,7 +4183,6 @@
     "geneXtendeR": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -4431,14 +4190,12 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer",
         "seqPattern"
     ],
     "GenomAutomorphism": [],
     "GenomicAlignments": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "GenomicDataCommons": [],
@@ -4446,7 +4203,6 @@
     "GenomicFeatures": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4456,7 +4212,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4467,7 +4222,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4480,7 +4234,6 @@
         "GenomicFeatures",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4495,7 +4248,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4511,7 +4263,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RCAS",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "genomation",
@@ -4537,7 +4288,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4592,7 +4342,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4624,7 +4373,6 @@
     "ggtreeExtra": [],
     "girafe": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -4644,7 +4392,6 @@
         "rhdf5filters"
     ],
     "glmSparseNet": [
-        "MultiAssayExperiment",
         "biomaRt"
     ],
     "GlobalAncova": [
@@ -4660,7 +4407,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4678,7 +4424,6 @@
         "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4689,9 +4434,7 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -4703,16 +4446,13 @@
         "biomaRt"
     ],
     "GOfuncR": [],
-    "GOpro": [
-        "MultiAssayExperiment"
-    ],
+    "GOpro": [],
     "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4742,12 +4482,10 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "rtracklayer"
     ],
-    "goTools": [],
     "gpuMagic": [],
     "GRaNIE": [
         "AnnotationFilter",
@@ -4757,7 +4495,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -4765,7 +4502,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "GraphAT": [],
     "graphite": [],
     "GraphPAC": [
         "iPAC",
@@ -4775,7 +4511,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -4783,7 +4518,6 @@
     "groHMM": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -4814,7 +4548,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4843,7 +4576,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -4857,7 +4589,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -4868,7 +4599,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4876,14 +4606,12 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4897,7 +4625,6 @@
         "GWASTools",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "SNPRelate",
         "VariantAnnotation",
@@ -4906,7 +4633,6 @@
     ],
     "GWENA": [],
     "h5vc": [
-        "Rhtslib",
         "Rsamtools",
         "rhdf5",
         "rhdf5filters"
@@ -4935,7 +4661,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -4946,7 +4671,6 @@
     "hermes": [
         "ComplexHeatmap",
         "DESeq2",
-        "MultiAssayExperiment",
         "biomaRt"
     ],
     "HERON": [
@@ -4956,7 +4680,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -4978,7 +4701,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5019,7 +4741,6 @@
         "BiocIO",
         "GenomicAlignments",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -5029,14 +4750,12 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "hipathia": [
         "AnnotationHub",
-        "MultiAssayExperiment",
         "interactiveDisplayBase"
     ],
     "HIPPO": [
@@ -5046,7 +4765,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "hiAnnotator",
         "rtracklayer"
@@ -5054,7 +4772,6 @@
     "HiTC": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -5079,7 +4796,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -5107,7 +4823,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -5122,7 +4837,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -5144,7 +4858,6 @@
         "BiocIO",
         "CODEX",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -5157,7 +4870,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "genefilter",
@@ -5169,7 +4881,6 @@
     "IdeoViz": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -5181,7 +4892,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5195,7 +4905,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "IVAS",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -5235,7 +4944,6 @@
         "OrganismDbi",
         "Pigengene",
         "ReactomePA",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -5263,7 +4971,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "cleanUpdTSeq",
@@ -5275,7 +4982,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -5283,8 +4989,6 @@
     "InTAD": [
         "BiocIO",
         "GenomicAlignments",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -5295,7 +4999,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5327,7 +5030,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5339,7 +5041,6 @@
     "IntramiRExploreR": [],
     "IONiseR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "rhdf5",
@@ -5361,7 +5062,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -5427,7 +5127,6 @@
         "DEXSeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -5454,7 +5153,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -5467,7 +5165,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
@@ -5482,7 +5179,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5508,7 +5204,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -5545,17 +5240,13 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
     ],
-    "LinkHD": [
-        "MultiAssayExperiment"
-    ],
+    "LinkHD": [],
     "lipidr": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "fgsea",
         "pcaMethods",
@@ -5564,7 +5255,6 @@
     "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "SpatialExperiment",
         "genefilter",
@@ -5579,7 +5269,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -5616,7 +5305,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -5640,7 +5328,6 @@
         "BiocIO",
         "ExperimentHub",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "interactiveDisplayBase",
         "rtracklayer"
@@ -5668,15 +5355,12 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
     ],
-    "maftools": [
-        "Rhtslib"
-    ],
+    "maftools": [],
     "MAGAR": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -5684,7 +5368,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "RnBeads",
         "Rsamtools",
         "affyio",
@@ -5718,7 +5401,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "TRESS",
         "biomaRt",
@@ -5736,7 +5418,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -5763,7 +5444,6 @@
         "GenomicAlignments",
         "HDF5Array",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "plotgardener",
         "plyranges",
@@ -5781,7 +5461,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5822,7 +5501,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "rtracklayer"
@@ -5861,7 +5539,6 @@
         "GenomicFeatures",
         "Gviz",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5872,7 +5549,6 @@
     ],
     "MDTS": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "MEAL": [
@@ -5886,7 +5562,6 @@
         "Gviz",
         "HDF5Array",
         "MultiDataSet",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -5911,7 +5586,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -5941,7 +5615,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -5980,7 +5653,6 @@
         "CompoundDb",
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "interactiveDisplayBase"
@@ -5989,7 +5661,6 @@
         "MsCoreUtils"
     ],
     "metabolomicsWorkbenchR": [
-        "MultiAssayExperiment",
         "rols",
         "struct"
     ],
@@ -6006,7 +5677,6 @@
         "GenomicFeatures",
         "KEGGgraph",
         "MWASTools",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -6024,7 +5694,6 @@
     "metagene2": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -6039,7 +5708,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -6077,7 +5745,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "affy",
@@ -6100,7 +5767,6 @@
     "methInheritSim": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "methylKit",
         "rtracklayer"
@@ -6118,7 +5784,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "rhdf5",
         "rhdf5filters",
@@ -6132,7 +5797,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -6152,7 +5816,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "biomaRt",
@@ -6181,7 +5844,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "biocViews",
         "biomaRt",
@@ -6204,7 +5866,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -6224,7 +5885,6 @@
     "methylInheritance": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "methylKit",
         "rtracklayer"
@@ -6232,7 +5892,6 @@
     "methylKit": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -6245,7 +5904,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -6258,7 +5916,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -6269,7 +5926,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -6284,7 +5940,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -6312,7 +5967,6 @@
         "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -6330,7 +5984,6 @@
         "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -6374,7 +6027,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "Wrench",
@@ -6406,9 +6058,7 @@
         "TreeSummarizedExperiment"
     ],
     "MICSQTL": [],
-    "midasHLA": [
-        "MultiAssayExperiment"
-    ],
+    "midasHLA": [],
     "miloR": [
         "BiocNeighbors",
         "BiocSingular",
@@ -6434,7 +6084,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -6458,7 +6107,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -6473,7 +6121,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "VanillaICE",
         "affyio",
@@ -6491,7 +6138,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -6523,7 +6169,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -6536,15 +6181,12 @@
         "rtracklayer",
         "siggenes"
     ],
-    "missRows": [
-        "MultiAssayExperiment"
-    ],
+    "missRows": [],
     "mitoClone2": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -6563,7 +6205,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -6583,7 +6224,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -6619,8 +6259,7 @@
         "rhdf5filters"
     ],
     "MOMA": [
-        "ComplexHeatmap",
-        "MultiAssayExperiment"
+        "ComplexHeatmap"
     ],
     "monaLisa": [
         "BSgenome",
@@ -6629,7 +6268,6 @@
         "ComplexHeatmap",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "rtracklayer"
@@ -6645,7 +6283,6 @@
         "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "clusterProfiler",
         "enrichplot",
@@ -6665,7 +6302,6 @@
     ],
     "mosaics": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "mosbi": [
@@ -6676,7 +6312,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -6690,7 +6325,6 @@
         "GenomicFeatures",
         "Gviz",
         "MotifDb",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
@@ -6704,7 +6338,6 @@
     "MotifDb": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -6714,7 +6347,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "rtracklayer"
@@ -6725,7 +6357,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "rtracklayer"
@@ -6771,7 +6402,6 @@
         "AnnotationFilter",
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
@@ -6785,7 +6415,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -6862,7 +6491,6 @@
     "msqrob2": [
         "AnnotationFilter",
         "MsCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "MsQuality": [
@@ -6870,7 +6498,6 @@
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MsExperiment",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
@@ -6926,15 +6553,12 @@
         "marray"
     ],
     "MuData": [
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "rhdf5",
         "rhdf5filters"
     ],
     "Mulcom": [],
-    "MultiAssayExperiment": [],
     "MultiBaC": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "pcaMethods",
         "ropls"
@@ -6947,7 +6571,6 @@
         "CRISPRseek",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "bamsignals",
@@ -6976,9 +6599,7 @@
         "rhdf5filters"
     ],
     "multiMiR": [],
-    "MultimodalExperiment": [
-        "MultiAssayExperiment"
-    ],
+    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "ComplexHeatmap",
         "DESeq2",
@@ -7005,7 +6626,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -7030,7 +6650,6 @@
         "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -7043,7 +6662,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -7057,7 +6675,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7067,7 +6684,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -7090,7 +6706,6 @@
         "Gviz",
         "HDF5Array",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
@@ -7114,7 +6729,6 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
@@ -7143,7 +6757,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -7159,13 +6772,11 @@
         "KEGGgraph",
         "RCy3"
     ],
-    "ncRNAtools": [],
     "ndexr": [],
     "nearBynding": [
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "plyranges",
@@ -7182,9 +6793,7 @@
         "DESeq2",
         "DelayedMatrixStats"
     ],
-    "netDx": [
-        "MultiAssayExperiment"
-    ],
+    "netDx": [],
     "nethet": [
         "multtest"
     ],
@@ -7223,7 +6832,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "RCy3",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -7245,7 +6853,6 @@
     "ngsReports": [],
     "nipalsMCIA": [
         "ComplexHeatmap",
-        "MultiAssayExperiment",
         "fgsea"
     ],
     "nnNorm": [
@@ -7264,7 +6871,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7281,7 +6887,6 @@
     "normr": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "bamsignals",
         "rtracklayer"
@@ -7293,7 +6898,6 @@
     "nucleoSim": [],
     "nucleR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -7301,7 +6905,6 @@
         "BiocIO",
         "GenomicAlignments",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "plyranges",
         "rtracklayer"
@@ -7323,7 +6926,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
@@ -7345,7 +6947,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -7376,7 +6977,6 @@
     "omicade4": [
         "made4"
     ],
-    "OmicCircos": [],
     "omicplotR": [
         "ALDEx2",
         "multtest"
@@ -7396,16 +6996,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HelloRanges",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
     ],
-    "omicsPrint": [
-        "MultiAssayExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [
         "fgsea"
     ],
@@ -7462,7 +7058,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -7472,7 +7067,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7482,7 +7076,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7491,7 +7084,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7510,7 +7102,6 @@
     "Oscope": [],
     "OTUbase": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -7519,7 +7110,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "pcaMethods",
@@ -7531,7 +7121,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Repitools",
-        "Rhtslib",
         "Ringo",
         "Rsamtools",
         "affy",
@@ -7547,9 +7136,7 @@
         "sva"
     ],
     "packFinder": [],
-    "padma": [
-        "MultiAssayExperiment"
-    ],
+    "padma": [],
     "PADOG": [],
     "pageRank": [
         "BSgenome",
@@ -7557,7 +7144,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
@@ -7568,7 +7154,6 @@
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "fgsea",
@@ -7576,7 +7161,6 @@
         "sva"
     ],
     "panelcn.mops": [
-        "Rhtslib",
         "Rsamtools",
         "cn.mops",
         "exomeCopy"
@@ -7610,7 +7194,6 @@
     "PAST": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -7647,7 +7230,6 @@
         "AIMS",
         "ConsensusClusterPlus",
         "CoreGx",
-        "MultiAssayExperiment",
         "biomaRt",
         "fgsea",
         "genefu",
@@ -7696,7 +7278,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -7712,7 +7293,6 @@
     ],
     "PharmacoGx": [
         "CoreGx",
-        "MultiAssayExperiment",
         "fgsea",
         "marray",
         "piano"
@@ -7725,7 +7305,6 @@
         "pcaMethods"
     ],
     "phenomis": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "biodb",
         "biodbChebi",
@@ -7764,7 +7343,6 @@
     ],
     "PICS": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "Pigengene": [
@@ -7784,7 +7362,6 @@
         "GenomicFeatures",
         "Gviz",
         "PICS",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -7808,7 +7385,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -7827,7 +7403,6 @@
     "plotgardener": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "plyranges",
         "rtracklayer"
@@ -7837,7 +7412,6 @@
         "BiocIO",
         "GenomicAlignments",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "plyranges",
         "rtracklayer"
@@ -7845,7 +7419,6 @@
     "plyranges": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -7856,7 +7429,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -7883,14 +7455,12 @@
     "pram": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "prebs": [
         "GenomicAlignments",
         "RPA",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -7904,7 +7474,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "aCGH",
         "affy",
@@ -7929,7 +7498,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
@@ -7956,7 +7524,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7965,7 +7532,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -7981,7 +7547,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -8053,7 +7618,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8078,7 +7642,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8092,7 +7655,6 @@
     "PSMatch": [
         "AnnotationFilter",
         "MsCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "psygenet2r": [
@@ -8123,7 +7685,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8147,7 +7708,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8168,14 +7728,12 @@
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
-        "Rhtslib",
         "Rsamtools",
         "marray"
     ],
     "QFeatures": [
         "AnnotationFilter",
-        "MsCoreUtils",
-        "MultiAssayExperiment"
+        "MsCoreUtils"
     ],
     "qmtools": [
         "MsCoreUtils"
@@ -8188,7 +7746,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -8207,7 +7764,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8229,7 +7785,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -8253,7 +7808,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -8268,7 +7822,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8280,7 +7833,6 @@
     "r3Cseq": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8289,7 +7841,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -8299,7 +7850,6 @@
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
-        "MultiAssayExperiment",
         "fgsea",
         "marray",
         "piano"
@@ -8309,7 +7859,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "biomaRt",
@@ -8323,7 +7872,6 @@
         "GWASTools",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "SNPRelate",
         "SeqArray",
@@ -8339,7 +7887,6 @@
     "ramr": [],
     "ramwas": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt"
     ],
@@ -8353,7 +7900,6 @@
         "GenomicFeatures",
         "GenomicScores",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8365,7 +7911,6 @@
     "RbcBook1": [],
     "Rbec": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "dada2"
@@ -8376,7 +7921,6 @@
         "marray"
     ],
     "Rbowtie2": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "rbsurv": [],
@@ -8385,19 +7929,16 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "genomation",
         "rtracklayer",
         "seqPattern"
     ],
-    "rcellminer": [],
     "rCGH": [
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "aCGH",
         "affy",
@@ -8451,7 +7992,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8463,7 +8003,6 @@
     "recount3": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8474,7 +8013,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "basilisk",
         "basilisk.utils",
@@ -8493,7 +8031,6 @@
         "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -8507,7 +8044,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -8540,7 +8076,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8548,7 +8083,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "regioneR",
         "rtracklayer"
@@ -8561,7 +8095,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8580,7 +8113,6 @@
         "GenomicFeatures",
         "Gviz",
         "RCy3",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8598,7 +8130,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -8615,7 +8146,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Ringo",
         "Rsamtools",
         "affy",
@@ -8636,7 +8166,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8647,12 +8176,10 @@
         "rtracklayer"
     ],
     "RepViz": [
-        "Rhtslib",
         "Rsamtools",
         "biomaRt"
     ],
     "ReQON": [
-        "Rhtslib",
         "Rsamtools",
         "seqbias"
     ],
@@ -8663,7 +8190,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "MutationalPatterns",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8685,18 +8211,14 @@
         "pcaMethods"
     ],
     "rfaRm": [],
-    "Rfastp": [
-        "Rhtslib"
-    ],
+    "Rfastp": [],
     "rfPred": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "rGADEM": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8707,7 +8229,6 @@
     "RGMQL": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8716,7 +8237,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "regioneR",
@@ -8727,7 +8247,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -8738,7 +8257,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "goseq",
@@ -8753,13 +8271,11 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "SGSeq",
         "biomaRt",
         "rtracklayer"
     ],
-    "Rhtslib": [],
     "RiboCrypt": [
         "BSgenome",
         "BiocIO",
@@ -8767,7 +8283,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ORFik",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -8777,7 +8292,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -8789,7 +8303,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8803,9 +8316,7 @@
         "rhdf5filters"
     ],
     "riboSeqR": [
-        "Rhtslib",
-        "Rsamtools",
-        "baySeq"
+        "Rsamtools"
     ],
     "ribosomeProfilingQC": [
         "BSgenome",
@@ -8816,7 +8327,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "TFBSTools",
@@ -8827,14 +8337,12 @@
     "rifi": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "rifiComparative": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8851,7 +8359,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -8870,7 +8377,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -8881,7 +8387,6 @@
     "RJMCMCNucleosomes": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "consensusSeekeR",
         "rtracklayer"
@@ -8893,7 +8398,6 @@
         "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "interactiveDisplayBase",
@@ -8916,7 +8420,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "apeglm",
         "biomaRt",
@@ -8925,7 +8428,6 @@
     "rmspc": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -8936,7 +8438,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8950,7 +8451,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -8973,7 +8473,6 @@
         "GenomicFeatures",
         "Gviz",
         "Modstrings",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8990,7 +8489,6 @@
         "Gviz",
         "Modstrings",
         "RNAmodR",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9007,7 +8505,6 @@
         "Gviz",
         "Modstrings",
         "RNAmodR",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9024,7 +8521,6 @@
         "Gviz",
         "Modstrings",
         "RNAmodR",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9033,7 +8529,6 @@
         "rtracklayer"
     ],
     "RNAsense": [],
-    "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
         "BSgenome",
         "BiocIO",
@@ -9041,7 +8536,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9058,7 +8552,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -9078,7 +8571,6 @@
     "roar": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -9090,7 +8582,6 @@
         "KEGGgraph"
     ],
     "ropls": [
-        "MultiAssayExperiment",
         "MultiDataSet"
     ],
     "ROSeq": [],
@@ -9112,7 +8603,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -9122,21 +8612,16 @@
         "rtracklayer"
     ],
     "rqt": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
-    "Rsamtools": [
-        "Rhtslib"
-    ],
+    "Rsamtools": [],
     "RSVSim": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -9146,8 +8631,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -9165,7 +8648,6 @@
     "rtracklayer": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "rTRM": [],
@@ -9173,7 +8655,6 @@
         "BiocIO",
         "GenomicAlignments",
         "MotifDb",
-        "Rhtslib",
         "Rsamtools",
         "rTRM",
         "rtracklayer"
@@ -9185,7 +8666,6 @@
         "EDASeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -9210,7 +8690,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "multtest",
@@ -9242,7 +8721,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -9258,7 +8736,6 @@
     "SCANVIS": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -9324,7 +8801,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "beachmat",
@@ -9370,7 +8846,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "SingleCellSignalR",
@@ -9432,7 +8907,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "annotatr",
         "beachmat",
@@ -9453,7 +8927,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
@@ -9470,7 +8943,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -9479,7 +8951,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9488,7 +8959,6 @@
     "scp": [
         "AnnotationFilter",
         "MsCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "SingleCellExperiment"
     ],
@@ -9499,8 +8969,6 @@
         "DropletUtils",
         "GenomicAlignments",
         "HDF5Array",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "basilisk",
@@ -9534,7 +9002,6 @@
         "BiocIO",
         "ComplexHeatmap",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "TrajectoryUtils",
@@ -9548,7 +9015,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
@@ -9597,7 +9063,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "beachmat",
@@ -9640,7 +9105,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "bamsignals",
         "biomaRt",
@@ -9650,10 +9114,8 @@
     ],
     "segmentSeq": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
-        "ShortRead",
-        "baySeq"
+        "ShortRead"
     ],
     "selectKSigs": [
         "BSgenome",
@@ -9661,7 +9123,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HiLDA",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -9679,7 +9140,6 @@
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "clusterProfiler",
@@ -9690,15 +9150,12 @@
         "seqPattern"
     ],
     "SeqArray": [],
-    "seqbias": [
-        "Rhtslib"
-    ],
+    "seqbias": [],
     "seqCAT": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9714,7 +9171,6 @@
     "seqsetvis": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -9745,7 +9201,6 @@
         "BiocIO",
         "GenomicAlignments",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -9760,7 +9215,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -9772,7 +9226,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -9791,7 +9244,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -9805,7 +9257,6 @@
     ],
     "ShortRead": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "SIAMCAT": [
@@ -9816,7 +9267,6 @@
         "rhdf5filters"
     ],
     "SICtools": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "SigCheck": [
@@ -9850,7 +9300,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9868,7 +9317,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -9886,7 +9334,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -9919,7 +9366,6 @@
         "methylMnM"
     ],
     "SimFFPE": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "simona": [
@@ -9939,7 +9385,6 @@
     ],
     "single": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "SingleCellExperiment": [],
@@ -9972,7 +9417,6 @@
         "HDF5Array",
         "MAST",
         "ResidualMatrix",
-        "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
         "SingleR",
@@ -10009,7 +9453,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "QuasR",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "VariantAnnotation",
@@ -10032,7 +9475,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10045,7 +9487,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -10075,7 +9516,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "goseq",
@@ -10101,7 +9541,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10111,7 +9550,6 @@
     "soGGi": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "chipseq",
@@ -10124,7 +9562,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10142,7 +9579,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "annotatr",
         "beachmat",
@@ -10184,7 +9620,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -10238,7 +9673,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "TFBSTools",
         "VariantAnnotation",
@@ -10273,7 +9707,6 @@
     ],
     "spicyR": [
         "ClassifyR",
-        "MultiAssayExperiment",
         "SingleCellExperiment",
         "SpatialExperiment",
         "genefilter"
@@ -10285,7 +9718,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -10304,7 +9736,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "genefilter",
         "interactiveDisplayBase",
@@ -10318,7 +9749,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10333,7 +9763,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10370,10 +9799,8 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "baySeq",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -10384,7 +9811,6 @@
     ],
     "ssPATHS": [],
     "ssviz": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "standR": [
@@ -10393,7 +9819,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RUVSeq",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
@@ -10435,7 +9860,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10453,7 +9877,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10477,7 +9900,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
@@ -10489,7 +9911,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "StructuralVariantAnnotation",
         "VariantAnnotation",
@@ -10527,13 +9948,11 @@
     "syntenet": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
     "systemPipeR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead"
     ],
@@ -10547,7 +9966,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10567,7 +9985,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10594,8 +10011,7 @@
         "sva"
     ],
     "TCC": [
-        "DESeq2",
-        "baySeq"
+        "DESeq2"
     ],
     "TCGAbiolinks": [
         "biomaRt"
@@ -10605,15 +10021,12 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "TCseq": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
     "TDbasedUFE": [],
@@ -10642,7 +10055,6 @@
         "rhdf5client"
     ],
     "TEQC": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "terraTCGAdata": [
@@ -10650,8 +10062,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
-        "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
@@ -10663,7 +10073,6 @@
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -10671,7 +10080,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10683,14 +10091,12 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ORFik",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
     ],
     "TFutils": [
         "GSEABase",
-        "Rhtslib",
         "Rsamtools"
     ],
     "tidybulk": [],
@@ -10716,7 +10122,6 @@
         "DOSE",
         "GOSemSim",
         "Mfuzz",
-        "MultiAssayExperiment",
         "RCy3",
         "biomaRt",
         "clusterProfiler",
@@ -10733,7 +10138,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10745,7 +10149,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10769,7 +10172,6 @@
     "tomoda": [],
     "TOP": [
         "ClassifyR",
-        "MultiAssayExperiment",
         "genefilter"
     ],
     "topdownr": [
@@ -10785,7 +10187,6 @@
     "topGO": [],
     "ToxicoGx": [
         "CoreGx",
-        "MultiAssayExperiment",
         "fgsea",
         "marray",
         "piano"
@@ -10795,7 +10196,6 @@
     ],
     "TPP2D": [],
     "tracktables": [
-        "Rhtslib",
         "Rsamtools"
     ],
     "trackViewer": [
@@ -10806,7 +10206,6 @@
         "GenomicFeatures",
         "Gviz",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10832,7 +10231,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -10859,14 +10257,11 @@
     "transomics2cytoscape": [
         "RCy3"
     ],
-    "TransView": [
-        "Rhtslib"
-    ],
+    "TransView": [],
     "traseR": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -10894,7 +10289,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10931,7 +10325,6 @@
         "BiocIO",
         "GenomicAlignments",
         "Modstrings",
-        "Rhtslib",
         "Rsamtools",
         "Structstrings",
         "rtracklayer",
@@ -10956,7 +10349,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -10973,7 +10365,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -10984,7 +10375,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
@@ -11003,7 +10393,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Organism.dplyr",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "interactiveDisplayBase",
@@ -11018,7 +10407,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rbowtie2",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "biomaRt",
@@ -11033,7 +10421,6 @@
         "GenomicFeatures",
         "Gviz",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -11053,7 +10440,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -11078,7 +10464,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "affyio",
         "crlmm",
@@ -11089,7 +10474,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -11099,7 +10483,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -11120,7 +10503,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -11136,7 +10518,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -11145,7 +10526,6 @@
     "VaSP": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "ballgown",
         "genefilter",
@@ -11158,7 +10538,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -11205,12 +10584,9 @@
     ],
     "VplotR": [
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools"
     ],
-    "vsclust": [
-        "MultiAssayExperiment"
-    ],
+    "vsclust": [],
     "vsn": [
         "affy",
         "affyio"
@@ -11221,7 +10597,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -11240,7 +10615,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "InteractionSet",
-        "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "apeglm",
@@ -11262,7 +10636,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "affy",
         "affyio",
@@ -11282,7 +10655,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "rtracklayer"
@@ -11301,7 +10673,6 @@
     "wiggleplotr": [
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -11314,7 +10685,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "affy",
@@ -11325,9 +10695,7 @@
         "pcaMethods",
         "vsn"
     ],
-    "xcore": [
-        "MultiAssayExperiment"
-    ],
+    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter",
@@ -11337,18 +10705,15 @@
     "Xeva": [
         "ComplexHeatmap",
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
         "marray",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rhtslib",
         "Rsamtools",
         "rtracklayer"
     ],
@@ -11363,7 +10728,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhtslib",
         "Rsamtools",
         "SomaticSignatures",
         "VariantAnnotation",
@@ -11382,7 +10746,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -11420,7 +10783,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
