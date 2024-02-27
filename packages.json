@@ -230,7 +230,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "CNEr",
         "TFBSTools",
@@ -617,7 +616,6 @@
         "biovizBase",
         "bsseq",
         "genefilter",
-        "goseq",
         "lumi",
         "marray",
         "methylumi",
@@ -669,8 +667,6 @@
     "ChIPXpress": [
         "GEOquery"
     ],
-    "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [
         "bamsignals"
@@ -694,7 +690,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq",
         "ShortRead"
@@ -886,7 +881,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -934,7 +928,6 @@
         "sva"
     ],
     "CSAR": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [],
     "cummeRbund": [
@@ -1357,7 +1350,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "clusterProfiler",
@@ -1597,7 +1589,6 @@
         "flowViz"
     ],
     "GBScleanR": [],
-    "gcapc": [],
     "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
@@ -1766,7 +1757,6 @@
     "GOfuncR": [],
     "GOpro": [],
     "GOSemSim": [],
-    "goseq": [],
     "goSorensen": [
         "DOSE",
         "GOSemSim",
@@ -1910,10 +1900,8 @@
         "DESeq2",
         "GOstats",
         "genefilter",
-        "goseq",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "idr2d": [],
     "IFAA": [],
     "igvR": [
@@ -2175,7 +2163,6 @@
         "wateRmelon"
     ],
     "MEDIPS": [],
-    "Melissa": [],
     "memes": [],
     "MeSHDbi": [],
     "meshes": [
@@ -2198,9 +2185,7 @@
         "rols",
         "struct"
     ],
-    "MetaboSignal": [
-        "mygene"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "cytolib",
@@ -2422,7 +2407,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "mosbi": [
         "fabia"
     ],
@@ -2582,7 +2566,6 @@
     "MutationalPatterns": [
         "VariantAnnotation"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
@@ -3056,7 +3039,6 @@
     "RBM": [
         "marray"
     ],
-    "Rbowtie2": [],
     "rbsurv": [],
     "RCAS": [
         "genomation"
@@ -3160,14 +3142,12 @@
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
     "RGSEA": [],
     "rgsepd": [
-        "DESeq2",
-        "goseq"
+        "DESeq2"
     ],
     "Rhisat2": [
         "SGSeq"
@@ -3511,7 +3491,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SimFFPE": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -3547,9 +3526,7 @@
     ],
     "slalom": [],
     "slingshot": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "genefilter",
         "tilingArray"
@@ -3825,7 +3802,6 @@
         "RCy3"
     ],
     "TransView": [],
-    "traseR": [],
     "traviz": [
         "slingshot"
     ],
@@ -3871,7 +3847,6 @@
     ],
     "UMI4Cats": [
         "DESeq2",
-        "Rbowtie2",
         "ShortRead",
         "regioneR"
     ],
