@@ -27,7 +27,6 @@
         "mzR"
     ],
     "AffiXcan": [],
-    "affycomp": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -152,7 +151,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocBook": [],
     "BiocOncoTK": [],
     "biodb": [],
     "biodbChebi": [
@@ -457,7 +455,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "cqn": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -546,9 +543,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "dagLogo": [
-        "UniProt.ws"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -605,7 +600,6 @@
         "MSnbase",
         "mzR"
     ],
-    "DEsingle": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
@@ -659,9 +653,7 @@
         "zenith"
     ],
     "DRIMSeq": [],
-    "drugTargetInteractions": [
-        "UniProt.ws"
-    ],
+    "drugTargetInteractions": [],
     "dStruct": [],
     "dyebias": [
         "marray"
@@ -875,7 +867,6 @@
         "genefilter",
         "minfi"
     ],
-    "gaggle": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
@@ -933,7 +924,6 @@
         "GWASTools"
     ],
     "GeneTonic": [],
-    "GenomAutomorphism": [],
     "GenomicDataCommons": [],
     "GenProSeq": [
         "DeepPINCS"
@@ -942,9 +932,7 @@
         "genefilter",
         "sva"
     ],
-    "GeoTcgaData": [
-        "cqn"
-    ],
+    "GeoTcgaData": [],
     "gespeR": [
         "Category",
         "cellHTS2",
@@ -991,7 +979,6 @@
         "Category",
         "genefilter"
     ],
-    "gpuMagic": [],
     "GRaNIE": [],
     "GSRI": [
         "genefilter"
@@ -1000,7 +987,6 @@
     "gwasurvivr": [
         "GWASTools"
     ],
-    "GWENA": [],
     "hapFabia": [
         "fabia"
     ],
@@ -1026,7 +1012,6 @@
         "methylumi",
         "minfi"
     ],
-    "iChip": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1095,7 +1080,6 @@
     ],
     "kissDE": [],
     "KnowSeq": [
-        "cqn",
         "genefilter",
         "sva"
     ],
@@ -1190,7 +1174,6 @@
         "MeSHDbi",
         "genefilter"
     ],
-    "metabCombiner": [],
     "metabolomicsWorkbenchR": [
         "rols",
         "struct"
@@ -1407,7 +1390,6 @@
         "maftools"
     ],
     "mzR": [],
-    "nanotatoR": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1656,7 +1638,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "quantro": [
         "genefilter",
         "minfi"
@@ -1751,7 +1732,6 @@
         "methylumi",
         "minfi"
     ],
-    "roastgsa": [],
     "ROCpAI": [],
     "rols": [],
     "ropls": [
@@ -1938,7 +1918,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "synapsis": [],
     "synapter": [
         "MSnbase",
         "mzR"
@@ -2028,12 +2007,9 @@
         "convert",
         "marray"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twilight": [],
     "UMI4Cats": [],
-    "UniProt.ws": [],
     "uSORT": [
         "monocle"
     ],
