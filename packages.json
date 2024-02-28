@@ -146,7 +146,6 @@
         "genefilter",
         "sva"
     ],
-    "CAMERA": [],
     "canceR": [
         "Category",
         "GenomicDataCommons",
@@ -248,14 +247,11 @@
     "cnvGSA": [],
     "CNViz": [],
     "concordexR": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "conumee": [
         "genefilter",
         "minfi"
     ],
-    "cosmiq": [],
     "countsimQC": [
         "genefilter"
     ],
@@ -419,9 +415,7 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "flowBin": [
         "flowFP"
     ],
@@ -434,7 +428,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
@@ -465,12 +458,9 @@
         "enrichplot"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -562,9 +552,7 @@
         "genefilter"
     ],
     "InterMineR": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -585,9 +573,7 @@
         "genefilter",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -605,9 +591,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maPredictDSC": [
         "gcrma"
     ],
@@ -643,9 +627,7 @@
         "genefilter"
     ],
     "MetaCyto": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -720,7 +702,6 @@
         "genefilter"
     ],
     "mnem": [],
-    "MobilityTransformR": [],
     "mogsa": [
         "genefilter"
     ],
@@ -737,18 +718,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -756,9 +731,7 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -770,7 +743,6 @@
     "NBAMSeq": [
         "genefilter"
     ],
-    "ncGTW": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -830,7 +802,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [
         "flowWorkspace"
@@ -839,7 +810,6 @@
         "genefilter"
     ],
     "pepStat": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -908,7 +878,6 @@
         "genefilter",
         "minfi"
     ],
-    "RadioGx": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
@@ -939,7 +908,6 @@
     "Ringo": [
         "genefilter"
     ],
-    "Risa": [],
     "RLSeq": [],
     "RNAinteract": [
         "Category",
@@ -1109,7 +1077,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "ToxicoGx": [],
     "transite": [],
     "tRanslatome": [
         "GOSemSim"
@@ -1147,9 +1114,7 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "yarn": [
         "genefilter",
         "minfi",
