@@ -11,8 +11,7 @@
     "ACE": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
     "ADaCGH2": [
         "genefilter",
@@ -70,17 +69,14 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "gcrma",
         "genefilter"
     ],
     "artMS": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "ASICS": [
         "MultiDataSet",
@@ -103,9 +99,7 @@
         "sva"
     ],
     "bamsignals": [],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -167,8 +161,7 @@
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
     "blacksheepr": [
         "DEXSeq",
@@ -264,15 +257,11 @@
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools",
@@ -280,18 +269,15 @@
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "DMRcate",
         "genefilter",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -364,7 +350,6 @@
         "karyoploteR"
     ],
     "compEpiTools": [
-        "marray",
         "methylPipe"
     ],
     "concordexR": [],
@@ -382,15 +367,12 @@
         "genefilter",
         "minfi"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "CopyNumberPlots": [
         "bamsignals",
         "karyoploteR"
     ],
     "CoreGx": [
-        "marray",
         "piano"
     ],
     "coseq": [
@@ -406,25 +388,17 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprBase": [],
-    "crisprBowtie": [
-        "crisprBase"
-    ],
-    "crisprBwa": [
-        "crisprBase"
-    ],
+    "crisprBowtie": [],
+    "crisprBwa": [],
     "crisprDesign": [
-        "crisprBase",
         "crisprBowtie"
     ],
     "crisprVerse": [
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign"
     ],
@@ -522,10 +496,7 @@
         "NCIgraph"
     ],
     "DEGreport": [],
-    "DelayedRandomArray": [],
-    "DelayedTensor": [
-        "DelayedRandomArray"
-    ],
+    "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
@@ -551,8 +522,7 @@
         "flowCore"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
-        "DRIMSeq"
+        "BANDITS"
     ],
     "diffUTR": [
         "DEXSeq",
@@ -580,11 +550,8 @@
         "variancePartition",
         "zenith"
     ],
-    "DRIMSeq": [],
     "drugTargetInteractions": [],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "easier": [],
     "EBSEA": [],
     "edge": [
@@ -642,8 +609,6 @@
         "orthogene"
     ],
     "exomePeak2": [],
-    "ExploreModelMatrix": [],
-    "ExpressionAtlas": [],
     "factDesign": [],
     "famat": [
         "DOSE",
@@ -783,21 +748,18 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "marray",
         "piano"
     ],
     "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "marray",
         "piano"
     ],
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
-        "QDNAseq",
-        "marray"
+        "QDNAseq"
     ],
     "genefilter": [],
     "genefu": [],
@@ -838,7 +800,6 @@
         "GOstats",
         "genefilter"
     ],
-    "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -986,7 +947,6 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "marray": [],
     "maSigPro": [],
     "maskBAD": [
         "gcrma"
@@ -1065,9 +1025,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylPipe": [
-        "marray"
-    ],
+    "methylPipe": [],
     "methylumi": [
         "genefilter",
         "minfi"
@@ -1094,7 +1052,6 @@
         "GOstats",
         "genefilter",
         "lumi",
-        "marray",
         "methylumi",
         "minfi"
     ],
@@ -1157,23 +1114,18 @@
         "sva"
     ],
     "msPurity": [],
-    "MSstats": [
-        "marray"
-    ],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -1187,12 +1139,10 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MultiBaC": [
         "MultiDataSet",
@@ -1226,7 +1176,6 @@
         "mnem"
     ],
     "NetActivity": [],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1243,21 +1192,16 @@
         "quantro",
         "yarn"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
     "octad": [],
     "odseq": [],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "marray"
+        "OLIN"
     ],
     "omicRexposome": [
         "MultiDataSet",
@@ -1275,7 +1219,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
     "OrderedList": [],
     "ORFik": [],
     "orthogene": [],
@@ -1305,7 +1248,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "parglms": [],
     "PathoStat": [],
     "pathRender": [],
     "pcaExplorer": [
@@ -1316,7 +1258,6 @@
     "PDATK": [
         "CoreGx",
         "genefu",
-        "marray",
         "piano"
     ],
     "pdInfoBuilder": [],
@@ -1336,7 +1277,6 @@
     "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "phemd": [
@@ -1352,9 +1292,7 @@
         "genefilter"
     ],
     "Pi": [],
-    "piano": [
-        "marray"
-    ],
+    "piano": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -1368,7 +1306,6 @@
         "genefilter"
     ],
     "POMA": [],
-    "ppcseq": [],
     "pqsfinder": [],
     "PrInCE": [
         "MSnbase"
@@ -1414,8 +1351,7 @@
     "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "qPLEXanalyzer": [
         "MSnbase"
@@ -1435,17 +1371,13 @@
     "R4RNA": [],
     "RadioGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "RAIDS": [
         "GENESIS"
     ],
     "RandomWalkRestartMH": [],
-    "RBioFormats": [],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -1636,10 +1568,7 @@
     "spatialHeatmap": [
         "genefilter"
     ],
-    "SpatialOmicsOverlay": [
-        "RBioFormats"
-    ],
-    "SPEM": [],
+    "SpatialOmicsOverlay": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -1655,9 +1584,7 @@
         "cellHTS2",
         "genefilter"
     ],
-    "stepNorm": [
-        "marray"
-    ],
+    "stepNorm": [],
     "struct": [],
     "structToolbox": [
         "struct"
@@ -1702,24 +1629,18 @@
     "TFHAZ": [
         "ORFik"
     ],
-    "tidybulk": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
         "enrichplot"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
-    "TnT": [],
+    "TMixClust": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -1729,7 +1650,6 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "marray",
         "piano"
     ],
     "transite": [],
@@ -1748,8 +1668,7 @@
         "sva"
     ],
     "TurboNorm": [
-        "convert",
-        "marray"
+        "convert"
     ],
     "tweeDEseq": [],
     "UMI4Cats": [],
@@ -1791,7 +1710,6 @@
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
-        "marray",
         "piano"
     ],
     "yamss": [],
