@@ -23,9 +23,7 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [
-        "mzR"
-    ],
+    "adductomicsR": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -112,7 +110,6 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "pRoloc"
     ],
     "BatchQC": [
@@ -150,34 +147,15 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -223,7 +201,6 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "canceR": [
@@ -233,7 +210,6 @@
         "TCGAutils",
         "cBioPortalData",
         "genefilter",
-        "hopach",
         "phenoTest"
     ],
     "Cardinal": [],
@@ -356,13 +332,11 @@
     "clippda": [],
     "cliqueMS": [
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "Clomial": [],
     "CluMSID": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "clusterExperiment": [
         "genefilter",
@@ -440,7 +414,6 @@
     ],
     "cosmiq": [
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "countsimQC": [
@@ -475,7 +448,6 @@
         "genefilter",
         "sva"
     ],
-    "CSAR": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -547,8 +519,7 @@
         "GOSemSim",
         "MSnbase",
         "clusterProfiler",
-        "enrichplot",
-        "mzR"
+        "enrichplot"
     ],
     "dce": [
         "epiNEM",
@@ -591,8 +562,7 @@
         "sva"
     ],
     "DEP": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "DEsubs": [],
     "DEWSeq": [],
@@ -603,9 +573,7 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
@@ -620,7 +588,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "diggit": [],
     "discordant": [],
     "DMRcaller": [],
     "DMRcate": [
@@ -647,7 +614,6 @@
     ],
     "DRIMSeq": [],
     "drugTargetInteractions": [],
-    "dStruct": [],
     "dyebias": [
         "marray"
     ],
@@ -735,7 +701,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "flowAI": [
@@ -984,7 +949,6 @@
     ],
     "hermes": [],
     "hmdbQuery": [],
-    "hopach": [],
     "HTSFilter": [],
     "hummingbird": [],
     "hyperdraw": [],
@@ -1041,7 +1005,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "iSEEde": [],
@@ -1054,7 +1017,6 @@
     "isomiRs": [
         "DEGreport"
     ],
-    "iterClust": [],
     "ivygapSE": [],
     "karyoploteR": [
         "bamsignals"
@@ -1080,7 +1042,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "lumi": [
@@ -1108,7 +1069,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "maPredictDSC": [
@@ -1119,7 +1079,6 @@
     "maskBAD": [
         "gcrma"
     ],
-    "massiR": [],
     "MBCB": [],
     "MBECS": [
         "genefilter",
@@ -1155,7 +1114,6 @@
         "genefilter"
     ],
     "metabolomicsWorkbenchR": [
-        "rols",
         "struct"
     ],
     "MetaCyto": [
@@ -1166,7 +1124,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "MetaPhOR": [
@@ -1244,7 +1201,6 @@
         "GOstats",
         "genefilter"
     ],
-    "miRNAmeConverter": [],
     "missMethyl": [
         "genefilter",
         "methylumi",
@@ -1258,7 +1214,6 @@
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "MOGAMUN": [
@@ -1283,33 +1238,25 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "msa": [],
     "msmsEDA": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "msmsTests": [
         "MSnbase",
-        "msmsEDA",
-        "mzR"
+        "msmsEDA"
     ],
-    "MSnbase": [
-        "mzR"
-    ],
+    "MSnbase": [],
     "MSnID": [
         "MSnbase",
         "msmsEDA",
-        "msmsTests",
-        "mzR"
+        "msmsTests"
     ],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "MSstats": [
         "marray"
     ],
@@ -1330,13 +1277,11 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "mzR",
         "qcmetrics"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "mzR",
         "qcmetrics"
     ],
     "MSstatsShiny": [
@@ -1367,7 +1312,6 @@
     "musicatk": [
         "maftools"
     ],
-    "mzR": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1377,7 +1321,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "mzR",
         "xcms"
     ],
     "NCIgraph": [
@@ -1463,7 +1406,6 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "PADOG": [],
     "paircompviz": [],
     "pairedGSEA": [
@@ -1503,8 +1445,7 @@
         "ncdfFlow"
     ],
     "peakPantheR": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "PECA": [
         "genefilter"
@@ -1522,14 +1463,12 @@
     ],
     "phenomis": [
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
         "Category",
-        "genefilter",
-        "hopach"
+        "genefilter"
     ],
     "Pi": [],
     "piano": [
@@ -1552,8 +1491,7 @@
     "ppcseq": [],
     "pqsfinder": [],
     "PrInCE": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "proActiv": [],
     "procoil": [],
@@ -1567,14 +1505,12 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "genefilter",
-        "mzR"
+        "genefilter"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "pRoloc"
     ],
     "PROPS": [
@@ -1587,16 +1523,14 @@
         "GOSemSim",
         "MSnbase",
         "clusterProfiler",
-        "enrichplot",
-        "mzR"
+        "enrichplot"
     ],
     "protGear": [
         "genefilter"
     ],
     "PSEA": [],
     "ptairMS": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "qcmetrics": [],
     "QDNAseq": [
@@ -1605,8 +1539,7 @@
         "marray"
     ],
     "qPLEXanalyzer": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "qsmooth": [
         "genefilter",
@@ -1686,15 +1619,12 @@
     ],
     "Risa": [
         "MSnbase",
-        "mzR",
         "xcms"
     ],
-    "RIVER": [],
     "RLSeq": [],
     "RMassBank": [
         "ChemmineOB",
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "Rmmquant": [],
     "RNAinteract": [
@@ -1708,7 +1638,6 @@
         "minfi"
     ],
     "ROCpAI": [],
-    "rols": [],
     "ropls": [
         "MultiDataSet"
     ],
@@ -1738,10 +1667,7 @@
         "genefilter",
         "zinbwave"
     ],
-    "scBubbletree": [],
-    "scClassify": [
-        "hopach"
-    ],
+    "scClassify": [],
     "sccomp": [],
     "scDataviz": [
         "cytolib",
@@ -1790,7 +1716,6 @@
         "genefilter",
         "sva"
     ],
-    "sevenbridges": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -1819,9 +1744,7 @@
         "genefu"
     ],
     "sigsquared": [],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -1872,11 +1795,8 @@
     "stepNorm": [
         "marray"
     ],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "surfaltr": [
@@ -1891,14 +1811,11 @@
         "GOSemSim"
     ],
     "synapter": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "SynMut": [],
     "systemPipeTools": [],
-    "TargetDecoy": [
-        "mzR"
-    ],
+    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
@@ -1948,8 +1865,7 @@
         "genefilter"
     ],
     "topdownr": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -1968,8 +1884,7 @@
         "FlowSOM",
         "cytolib",
         "diffcyt",
-        "flowCore",
-        "hopach"
+        "flowCore"
     ],
     "trigger": [
         "genefilter",
@@ -2013,8 +1928,7 @@
         "gcrma"
     ],
     "xcms": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "xcore": [],
     "XDE": [
@@ -2027,9 +1941,7 @@
         "marray",
         "piano"
     ],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "yarn": [
         "genefilter",
         "minfi",
