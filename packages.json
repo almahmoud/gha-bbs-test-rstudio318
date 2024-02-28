@@ -269,7 +269,6 @@
     "compEpiTools": [],
     "concordexR": [],
     "CONFESS": [
-        "flowClust",
         "flowMeans",
         "flowMerge"
     ],
@@ -279,7 +278,6 @@
         "minfi"
     ],
     "CopyNumberPlots": [],
-    "CoreGx": [],
     "coseq": [],
     "cosmiq": [],
     "countsimQC": [
@@ -301,12 +299,10 @@
         "sva"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowViz"
     ],
     "cydar": [],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -315,9 +311,7 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -326,7 +320,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -334,7 +327,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -472,15 +464,12 @@
     "flagme": [
         "CAMERA"
     ],
-    "flowAI": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [],
     "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -496,22 +485,15 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [],
     "flowMeans": [],
-    "flowMerge": [
-        "flowClust"
-    ],
-    "flowPloidy": [],
+    "flowMerge": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [],
     "flowTrans": [
-        "flowClust",
         "flowViz"
     ],
     "flowViz": [],
@@ -546,12 +528,10 @@
         "enrichplot"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRimport"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "GeneBreak": [
@@ -640,7 +620,6 @@
         "genefilter",
         "minfi"
     ],
-    "infinityFlow": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -837,14 +816,10 @@
         "genefilter",
         "sva"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -853,10 +828,8 @@
         "qcmetrics"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -891,14 +864,12 @@
         "quantro",
         "yarn"
     ],
-    "OLINgui": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
         "sva"
     ],
     "openCyto": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
@@ -936,9 +907,7 @@
         "GOstats",
         "genefilter"
     ],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [
         "flowWorkspace",
@@ -949,9 +918,7 @@
         "genefilter"
     ],
     "pepStat": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1025,9 +992,7 @@
         "genefilter",
         "minfi"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
@@ -1238,9 +1203,7 @@
         "genefilter"
     ],
     "topdownr": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "transite": [],
     "tRanslatome": [
         "GOSemSim"
@@ -1254,7 +1217,6 @@
         "genefilter",
         "sva"
     ],
-    "TurboNorm": [],
     "uSORT": [
         "monocle"
     ],
@@ -1282,7 +1244,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "yarn": [
