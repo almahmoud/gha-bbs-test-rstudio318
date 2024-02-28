@@ -26,7 +26,6 @@
     "adductomicsR": [
         "mzR"
     ],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -101,7 +100,6 @@
         "GOstats",
         "genefilter"
     ],
-    "AWFisher": [],
     "ballgown": [
         "genefilter",
         "sva"
@@ -238,10 +236,7 @@
         "hopach",
         "phenoTest"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "CATALYST": [
         "FlowSOM",
         "cytolib",
@@ -409,7 +404,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "compcodeR": [],
     "compEpiTools": [
         "marray",
         "methylPipe"
@@ -628,7 +622,6 @@
     ],
     "diggit": [],
     "discordant": [],
-    "divergence": [],
     "DMRcaller": [],
     "DMRcate": [
         "genefilter",
@@ -728,9 +721,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "FeatSeekR": [],
     "fedup": [
         "RCy3"
@@ -741,7 +732,6 @@
         "methylumi",
         "minfi"
     ],
-    "FISHalyseR": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -920,9 +910,7 @@
     ],
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
-    "GENESIS": [
-        "GWASTools"
-    ],
+    "GENESIS": [],
     "GeneTonic": [],
     "GenomicDataCommons": [],
     "GenProSeq": [
@@ -983,10 +971,7 @@
     "GSRI": [
         "genefilter"
     ],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
+    "gwasurvivr": [],
     "hapFabia": [
         "fabia"
     ],
@@ -997,7 +982,6 @@
     "Harshlight": [
         "altcdfenvs"
     ],
-    "HEM": [],
     "hermes": [],
     "hmdbQuery": [],
     "hopach": [],
@@ -1088,7 +1072,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "genefilter",
@@ -1100,7 +1083,6 @@
         "mzR",
         "xcms"
     ],
-    "LPEadj": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -1143,9 +1125,7 @@
         "genefilter",
         "sva"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "MCbiclust": [],
     "MEAL": [
         "MultiDataSet",
@@ -1200,7 +1180,6 @@
         "genefilter"
     ],
     "methimpute": [],
-    "MethPed": [],
     "MethylAid": [
         "genefilter",
         "minfi"
@@ -1231,7 +1210,6 @@
         "minfi"
     ],
     "mfa": [],
-    "MGFM": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
@@ -1649,8 +1627,7 @@
         "piano"
     ],
     "RAIDS": [
-        "GENESIS",
-        "GWASTools"
+        "GENESIS"
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
@@ -1659,7 +1636,6 @@
     "RBM": [
         "marray"
     ],
-    "rbsurv": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -1699,7 +1675,6 @@
     ],
     "restfulSE": [],
     "rfaRm": [],
-    "Rfastp": [],
     "RGSEA": [],
     "rgsepd": [],
     "RiboCrypt": [
@@ -1750,9 +1725,7 @@
         "TCGAutils"
     ],
     "RUVcorr": [],
-    "sampleClassifier": [
-        "MGFM"
-    ],
+    "sampleClassifier": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -1906,7 +1879,6 @@
         "rols",
         "struct"
     ],
-    "SummarizedBenchmark": [],
     "surfaltr": [
         "msa"
     ],
