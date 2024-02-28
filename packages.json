@@ -8,7 +8,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "ACE": [],
     "ADaCGH2": [
         "genefilter",
         "snapCGH",
@@ -194,7 +193,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cfdnakit": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
@@ -235,7 +233,6 @@
     ],
     "cnvGSA": [],
     "concordexR": [],
-    "CONFESS": [],
     "conumee": [
         "genefilter",
         "minfi"
@@ -246,7 +243,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprVerse": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -389,15 +385,11 @@
         "minfi"
     ],
     "flagme": [],
-    "flowBin": [],
     "flowCut": [],
     "flowGate": [
         "ggcyto"
     ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
@@ -407,7 +399,6 @@
         "genefilter",
         "sva"
     ],
-    "GateFinder": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -416,10 +407,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
@@ -485,7 +473,6 @@
         "pcaExplorer"
     ],
     "IFAA": [],
-    "ImmuneSpaceR": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -505,7 +492,6 @@
         "genefilter"
     ],
     "InterMineR": [],
-    "IPO": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -526,7 +512,6 @@
         "genefilter",
         "spicyR"
     ],
-    "LOBSTAHS": [],
     "lumi": [
         "genefilter",
         "methylumi",
@@ -544,7 +529,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAIT": [],
     "maPredictDSC": [
         "gcrma"
     ],
@@ -675,7 +659,6 @@
         "genefilter",
         "sva"
     ],
-    "MSstatsLiP": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -683,7 +666,6 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -1057,7 +1039,6 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [],
     "yarn": [
         "genefilter",
         "minfi",
