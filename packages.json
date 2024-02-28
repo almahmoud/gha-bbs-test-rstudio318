@@ -143,7 +143,6 @@
         "sva"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "BUMHMM": [],
     "BUScorrect": [],
     "cageminer": [
@@ -285,9 +284,7 @@
     ],
     "CopyNumberPlots": [],
     "CoreGx": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "xcms"
     ],
@@ -348,7 +345,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "dagLogo": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -386,7 +382,6 @@
         "sva"
     ],
     "DEP": [],
-    "DEsubs": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -445,7 +440,6 @@
         "enrichplot"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
@@ -458,7 +452,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -582,7 +575,6 @@
         "genefilter",
         "sva"
     ],
-    "GeoTcgaData": [],
     "gespeR": [
         "Category",
         "cellHTS2",
@@ -618,7 +610,6 @@
         "Category",
         "genefilter"
     ],
-    "GRaNIE": [],
     "GSRI": [
         "genefilter"
     ],
@@ -627,9 +618,7 @@
         "sva"
     ],
     "Harshlight": [],
-    "hermes": [],
     "hmdbQuery": [],
-    "HTSFilter": [],
     "hummingbird": [],
     "iasva": [],
     "iCheck": [
@@ -682,7 +671,6 @@
     ],
     "isomiRs": [],
     "ivygapSE": [],
-    "kissDE": [],
     "KnowSeq": [
         "genefilter",
         "sva"
@@ -799,7 +787,6 @@
         "genefilter",
         "minfi"
     ],
-    "microbiomeExplorer": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
@@ -1139,7 +1126,6 @@
         "zinbwave"
     ],
     "scDataviz": [],
-    "scGPS": [],
     "Sconify": [],
     "scTensor": [
         "Category",
@@ -1218,7 +1204,6 @@
         "genefilter",
         "tilingArray"
     ],
-    "SNPhood": [],
     "spatialHeatmap": [
         "genefilter"
     ],
@@ -1257,7 +1242,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "TEKRABber": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -1295,7 +1279,6 @@
         "sva"
     ],
     "TurboNorm": [],
-    "UMI4Cats": [],
     "uSORT": [
         "monocle"
     ],
@@ -1305,7 +1288,6 @@
         "genefilter",
         "sva"
     ],
-    "vidger": [],
     "ViSEAGO": [
         "GOSemSim"
     ],
