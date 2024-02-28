@@ -24,7 +24,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "gcrma",
         "genefilter"
@@ -42,7 +41,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "gcrma",
@@ -52,7 +50,6 @@
     "annmap": [
         "genefilter"
     ],
-    "anota2seq": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -98,9 +95,7 @@
     "bgx": [
         "gcrma"
     ],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "genefilter",
         "lumi",
@@ -240,9 +235,7 @@
         "sva",
         "wateRmelon"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -251,7 +244,6 @@
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [],
     "ClassifyR": [
         "genefilter"
     ],
@@ -286,10 +278,7 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusDE": [],
-    "consensusOV": [
-        "genefu"
-    ],
+    "consensusOV": [],
     "conumee": [
         "genefilter",
         "minfi"
@@ -392,14 +381,12 @@
     ],
     "DeepBlueR": [],
     "DEGraph": [],
-    "DEGreport": [],
     "DeMixT": [
         "genefilter",
         "sva"
     ],
     "DEP": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -407,7 +394,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -435,7 +421,6 @@
         "variancePartition",
         "zenith"
     ],
-    "easier": [],
     "edge": [
         "genefilter",
         "sva"
@@ -589,7 +574,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -604,7 +588,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "gg4way": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -613,7 +596,6 @@
     "GISPA": [
         "genefilter"
     ],
-    "Glimma": [],
     "GmicR": [
         "Category",
         "GOstats",
@@ -649,7 +631,6 @@
     "hmdbQuery": [],
     "HTSFilter": [],
     "hummingbird": [],
-    "hyperdraw": [],
     "iasva": [],
     "iCheck": [
         "genefilter",
@@ -699,9 +680,7 @@
         "genefilter",
         "sva"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ivygapSE": [],
     "kissDE": [],
     "KnowSeq": [
@@ -930,7 +909,6 @@
         "epiNEM",
         "mnem"
     ],
-    "NetActivity": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -947,7 +925,6 @@
         "quantro",
         "yarn"
     ],
-    "octad": [],
     "OLINgui": [],
     "omicRexposome": [
         "MultiDataSet",
@@ -994,8 +971,7 @@
         "genefilter"
     ],
     "PDATK": [
-        "CoreGx",
-        "genefu"
+        "CoreGx"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -1034,7 +1010,6 @@
         "GOstats",
         "genefilter"
     ],
-    "POMA": [],
     "pqsfinder": [],
     "PrInCE": [],
     "profileplyr": [
@@ -1117,7 +1092,6 @@
         "genefilter"
     ],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "Ringo": [
         "genefilter"
     ],
@@ -1219,8 +1193,7 @@
         "enrichplot"
     ],
     "signifinder": [
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SimBindProfiles": [
         "Ringo",
@@ -1336,9 +1309,7 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "genefilter",
         "lumi",
