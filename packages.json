@@ -50,15 +50,11 @@
         "genefilter"
     ],
     "AlphaBeta": [],
-    "altcdfenvs": [],
-    "Anaquin": [],
     "AneuFinder": [],
-    "animalcules": [],
     "annmap": [
         "genefilter"
     ],
     "anota2seq": [],
-    "APAlyzer": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -603,16 +599,13 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
     ],
     "GARS": [
         "DaMiRseq",
-        "MLSeq",
         "genefilter",
         "sva"
     ],
@@ -702,16 +695,13 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "hermes": [],
     "hmdbQuery": [],
     "HTSFilter": [],
     "hummingbird": [],
     "hyperdraw": [],
     "iasva": [],
-    "icetea": [],
     "iCheck": [
         "genefilter",
         "lumi",
@@ -756,7 +746,6 @@
         "MSnbase",
         "xcms"
     ],
-    "iSEEde": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -804,7 +793,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -929,7 +917,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLSeq": [],
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -998,7 +985,6 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "MultiRNAflow": [],
     "muscat": [
         "variancePartition"
     ],
@@ -1051,7 +1037,6 @@
     ],
     "ORFik": [],
     "orthogene": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -1076,7 +1061,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "PathoStat": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -1098,7 +1082,6 @@
         "genefilter"
     ],
     "pepStat": [],
-    "phantasus": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -1240,7 +1223,6 @@
     "RMassBank": [
         "MSnbase"
     ],
-    "Rmmquant": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -1457,14 +1439,12 @@
         "sva"
     ],
     "TurboNorm": [],
-    "tweeDEseq": [],
     "UMI4Cats": [],
     "uSORT": [
         "monocle"
     ],
     "VAExprs": [],
     "variancePartition": [],
-    "VariantExperiment": [],
     "VaSP": [
         "ballgown",
         "genefilter",
