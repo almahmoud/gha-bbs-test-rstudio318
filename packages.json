@@ -219,7 +219,6 @@
     "categoryCompare": [
         "Category",
         "GOstats",
-        "RCy3",
         "genefilter"
     ],
     "cbaf": [
@@ -259,7 +258,6 @@
     "CeTF": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -300,7 +298,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -320,7 +317,6 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "clippda": [],
     "cliqueMS": [
         "MSnbase",
         "xcms"
@@ -523,8 +519,7 @@
     "DeepBlueR": [],
     "DEFormats": [],
     "DEGraph": [
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [],
     "DelayedRandomArray": [],
@@ -581,7 +576,6 @@
     "DOSE": [
         "GOSemSim"
     ],
-    "doseR": [],
     "dreamlet": [
         "variancePartition",
         "zenith"
@@ -616,7 +610,6 @@
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot"
     ],
     "EpiCompare": [
@@ -651,7 +644,6 @@
     "exomePeak2": [],
     "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
-    "fabia": [],
     "factDesign": [],
     "famat": [
         "DOSE",
@@ -661,9 +653,7 @@
     ],
     "fastLiquidAssociation": [],
     "FeatSeekR": [],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -855,7 +845,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOfuncR": [],
     "GOSemSim": [],
     "goSorensen": [
         "DOSE",
@@ -872,9 +861,7 @@
         "genefilter"
     ],
     "gwasurvivr": [],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -933,7 +920,6 @@
         "genefilter"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -978,9 +964,7 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "MAGAR": [
         "RnBeads",
         "genefilter",
@@ -1028,16 +1012,13 @@
         "minfi",
         "wateRmelon"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot"
     ],
     "meshr": [
         "Category",
-        "MeSHDbi",
         "genefilter"
     ],
     "metabolomicsWorkbenchR": [
@@ -1055,7 +1036,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1141,9 +1121,7 @@
         "MSnbase",
         "xcms"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "genefilter"
     ],
@@ -1160,10 +1138,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [
-        "fabia"
-    ],
-    "msa": [],
+    "mosbi": [],
     "msmsEDA": [
         "MSnbase"
     ],
@@ -1244,9 +1219,7 @@
         "MSnbase",
         "xcms"
     ],
-    "NCIgraph": [
-        "RCy3"
-    ],
+    "NCIgraph": [],
     "ndexr": [],
     "nempi": [
         "epiNEM",
@@ -1265,13 +1238,11 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "RCy3",
         "genefilter",
         "minfi",
         "quantro",
         "yarn"
     ],
-    "ngsReports": [],
     "nnNorm": [
         "marray"
     ],
@@ -1280,9 +1251,7 @@
         "bamsignals"
     ],
     "octad": [],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OLIN": [
         "marray"
     ],
@@ -1307,9 +1276,7 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFik": [],
     "orthogene": [],
     "OUTRIDER": [],
@@ -1400,7 +1367,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PLPE": [],
     "POMA": [],
     "ppcseq": [],
     "pqsfinder": [],
@@ -1475,7 +1441,6 @@
     "RAIDS": [
         "GENESIS"
     ],
-    "ramr": [],
     "RandomWalkRestartMH": [],
     "RBioFormats": [],
     "RBM": [
@@ -1484,7 +1449,6 @@
     "Rcpi": [
         "GOSemSim"
     ],
-    "RCy3": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -1498,9 +1462,7 @@
         "DEFormats"
     ],
     "regsplice": [],
-    "regutools": [
-        "RCy3"
-    ],
+    "regutools": [],
     "REMP": [
         "genefilter",
         "minfi"
@@ -1533,7 +1495,6 @@
     ],
     "RLSeq": [],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase"
     ],
     "Rmmquant": [],
@@ -1551,7 +1512,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "ROSeq": [],
     "rqt": [
         "MultiDataSet",
         "ropls"
@@ -1594,13 +1554,11 @@
         "DOSE",
         "GOSemSim",
         "GOstats",
-        "MeSHDbi",
         "ReactomePA",
         "enrichplot",
         "genefilter",
         "meshr"
     ],
-    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -1704,9 +1662,7 @@
     "structToolbox": [
         "struct"
     ],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "survtype": [],
     "sva": [
         "genefilter"
@@ -1757,7 +1713,6 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1781,9 +1736,7 @@
     "tRanslatome": [
         "GOSemSim"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [],
     "treekoR": [
         "FlowSOM",
@@ -1799,7 +1752,6 @@
         "marray"
     ],
     "tweeDEseq": [],
-    "twilight": [],
     "UMI4Cats": [],
     "uSORT": [
         "monocle"
