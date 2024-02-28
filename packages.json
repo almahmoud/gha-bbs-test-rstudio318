@@ -83,7 +83,6 @@
         "genefilter",
         "sva"
     ],
-    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats",
@@ -755,7 +754,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmsa": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -1557,7 +1555,6 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
