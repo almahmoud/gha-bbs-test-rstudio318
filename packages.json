@@ -53,16 +53,13 @@
     "AlphaBeta": [],
     "altcdfenvs": [],
     "Anaquin": [],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [],
     "annmap": [
         "genefilter"
     ],
     "anota2seq": [],
     "APAlyzer": [],
-    "apComplex": [],
     "arrayMvout": [
         "genefilter",
         "lumi",
@@ -98,7 +95,6 @@
         "genefilter",
         "sva"
     ],
-    "bamsignals": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -173,7 +169,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -236,7 +231,6 @@
         "Category",
         "genefilter"
     ],
-    "CellNOptR": [],
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
@@ -292,9 +286,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "cicero": [
         "monocle"
     ],
@@ -319,34 +311,23 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "clusterSeq": [],
     "cmapR": [
         "flowCore"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
     "CNVfilteR": [
         "CopyNumberPlots",
-        "bamsignals",
         "karyoploteR"
     ],
     "cnvGSA": [],
     "CNViz": [
         "CopyNumberPlots",
-        "bamsignals",
         "karyoploteR"
     ],
     "compEpiTools": [
@@ -369,7 +350,6 @@
     ],
     "convert": [],
     "CopyNumberPlots": [
-        "bamsignals",
         "karyoploteR"
     ],
     "CoreGx": [
@@ -535,9 +515,7 @@
         "minfi",
         "missMethyl"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DNAshapeR": [],
     "doppelgangR": [
         "genefilter",
@@ -559,7 +537,6 @@
         "sva"
     ],
     "EGSEA": [],
-    "eiR": [],
     "ENmix": [
         "genefilter",
         "minfi"
@@ -586,9 +563,7 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "epigraHMM": [
-        "bamsignals"
-    ],
+    "epigraHMM": [],
     "epimutacions": [
         "genefilter",
         "minfi"
@@ -604,7 +579,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "evaluomeR": [],
     "EWCE": [
         "orthogene"
     ],
@@ -765,7 +739,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "GENESIS": [],
     "GeneTonic": [],
     "GenomicDataCommons": [],
@@ -896,9 +869,7 @@
         "DEGreport"
     ],
     "ivygapSE": [],
-    "karyoploteR": [
-        "bamsignals"
-    ],
+    "karyoploteR": [],
     "katdetectr": [],
     "kissDE": [],
     "KnowSeq": [
@@ -1041,7 +1012,6 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "MICSQTL": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -1067,7 +1037,6 @@
         "methylumi",
         "minfi"
     ],
-    "missRows": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -1148,11 +1117,9 @@
         "ropls"
     ],
     "multicrispr": [
-        "bamsignals",
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "muscat": [
         "variancePartition"
@@ -1169,7 +1136,6 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "ndexr": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -1193,9 +1159,7 @@
     ],
     "nnNorm": [],
     "NormqPCR": [],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "octad": [],
     "odseq": [],
     "OLIN": [],
@@ -1231,7 +1195,6 @@
         "genefilter",
         "sva"
     ],
-    "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -1248,7 +1211,6 @@
         "GOSemSim"
     ],
     "PathoStat": [],
-    "pathRender": [],
     "pcaExplorer": [
         "Category",
         "GOstats",
@@ -1407,9 +1369,7 @@
         "GOstats",
         "genefilter"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "restfulSE": [],
     "rfaRm": [],
     "rgsepd": [],
@@ -1494,7 +1454,6 @@
         "ChIPseeker",
         "DOSE",
         "GOSemSim",
-        "bamsignals",
         "enrichplot"
     ],
     "seqArchRplus": [
@@ -1504,7 +1463,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "SeqGSEA": [],
     "SeqSQC": [],
     "SEtools": [
@@ -1701,7 +1659,6 @@
     "xcms": [
         "MSnbase"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
