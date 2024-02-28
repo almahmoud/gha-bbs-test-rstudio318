@@ -389,7 +389,6 @@
     "flowGate": [
         "ggcyto"
     ],
-    "flowVS": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
@@ -407,7 +406,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDR": [],
     "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
