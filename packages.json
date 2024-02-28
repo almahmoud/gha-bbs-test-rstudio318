@@ -94,7 +94,6 @@
     "bgx": [
         "gcrma"
     ],
-    "BiGGR": [],
     "bigmelon": [
         "genefilter",
         "lumi",
@@ -228,7 +227,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "GOSemSim",
@@ -266,13 +264,11 @@
     "CONFESS": [
         "flowMerge"
     ],
-    "consensusOV": [],
     "conumee": [
         "genefilter",
         "minfi"
     ],
     "CopyNumberPlots": [],
-    "coseq": [],
     "cosmiq": [],
     "countsimQC": [
         "genefilter"
@@ -595,7 +591,6 @@
         "genefilter",
         "sva"
     ],
-    "isomiRs": [],
     "ivygapSE": [],
     "KnowSeq": [
         "genefilter",
@@ -954,7 +949,6 @@
         "genefilter",
         "minfi"
     ],
-    "regionReport": [],
     "regsplice": [],
     "REMP": [
         "genefilter",
@@ -969,7 +963,6 @@
         "GOstats",
         "genefilter"
     ],
-    "RiboCrypt": [],
     "Ringo": [
         "genefilter"
     ],
@@ -1065,9 +1058,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -1133,7 +1124,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
@@ -1174,7 +1164,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vulcan": [],
     "wateRmelon": [
         "genefilter",
         "lumi",
