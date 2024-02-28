@@ -315,9 +315,7 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "circRNAprofiler": [],
     "ClassifyR": [
         "genefilter"
@@ -327,7 +325,6 @@
         "MSnbase",
         "xcms"
     ],
-    "Clomial": [],
     "CluMSID": [
         "MSnbase"
     ],
@@ -765,7 +762,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -857,11 +853,9 @@
         "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "GOfuncR": [],
-    "GOpro": [],
     "GOSemSim": [],
     "goSorensen": [
         "DOSE",
@@ -959,15 +953,12 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "katdetectr": [
-        "maftools"
-    ],
+    "katdetectr": [],
     "kissDE": [],
     "KnowSeq": [
         "genefilter",
         "sva"
     ],
-    "LinkHD": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
@@ -990,7 +981,6 @@
     "LymphoSeq": [
         "msa"
     ],
-    "maftools": [],
     "MAGAR": [
         "RnBeads",
         "genefilter",
@@ -1017,7 +1007,6 @@
     "maskBAD": [
         "gcrma"
     ],
-    "MBCB": [],
     "MBECS": [
         "genefilter",
         "sva"
@@ -1116,7 +1105,6 @@
         "ggtreeExtra"
     ],
     "MICSQTL": [],
-    "midasHLA": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -1245,9 +1233,7 @@
     "muscat": [
         "variancePartition"
     ],
-    "musicatk": [
-        "maftools"
-    ],
+    "musicatk": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1309,7 +1295,6 @@
         "genefilter",
         "sva"
     ],
-    "omicsPrint": [],
     "openCyto": [
         "flowClust",
         "flowCore",
@@ -1423,7 +1408,6 @@
         "MSnbase"
     ],
     "proActiv": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1832,7 +1816,6 @@
     "ViSEAGO": [
         "GOSemSim"
     ],
-    "vsclust": [],
     "vulcan": [
         "DiffBind"
     ],
