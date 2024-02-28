@@ -22,7 +22,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -72,9 +71,7 @@
         "gcrma",
         "genefilter"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "MultiDataSet",
         "ropls"
@@ -131,10 +128,7 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -333,9 +327,7 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -476,7 +468,6 @@
         "minfi",
         "missMethyl"
     ],
-    "DNAfusion": [],
     "DNAshapeR": [],
     "doppelgangR": [
         "genefilter",
@@ -524,7 +515,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "epigraHMM": [],
     "epimutacions": [
         "genefilter",
         "minfi"
@@ -642,14 +632,12 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "GeneBreak": [
         "CGHbase",
@@ -710,7 +698,6 @@
     "GSRI": [
         "genefilter"
     ],
-    "gwasurvivr": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -948,7 +935,6 @@
         "MSnbase",
         "xcms"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "genefilter"
     ],
@@ -982,17 +968,12 @@
         "genefilter",
         "sva"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -1005,13 +986,10 @@
         "qcmetrics"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -1055,7 +1033,6 @@
         "yarn"
     ],
     "nnNorm": [],
-    "normr": [],
     "octad": [],
     "OLINgui": [],
     "omicRexposome": [
@@ -1072,7 +1049,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFik": [],
     "orthogene": [],
     "OUTRIDER": [],
@@ -1108,8 +1084,7 @@
     ],
     "PDATK": [
         "CoreGx",
-        "genefu",
-        "piano"
+        "genefu"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -1125,8 +1100,7 @@
     "pepStat": [],
     "phantasus": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -1140,7 +1114,6 @@
         "genefilter"
     ],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -1215,8 +1188,7 @@
         "minfi"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [
         "GENESIS"
@@ -1295,7 +1267,6 @@
         "TCGAutils"
     ],
     "RUVcorr": [],
-    "sampleClassifier": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -1470,14 +1441,12 @@
         "MSnbase"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "transite": [],
     "tRanslatome": [
         "GOSemSim"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "treekoR": [
         "FlowSOM",
@@ -1526,8 +1495,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "yarn": [
         "genefilter",
