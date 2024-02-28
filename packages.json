@@ -118,7 +118,6 @@
         "ropls"
     ],
     "biotmle": [],
-    "biscuiteer": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter"
@@ -186,7 +185,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [],
     "CeTF": [
         "DOSE",
         "GOSemSim",
@@ -247,21 +245,10 @@
         "genefilter",
         "sva"
     ],
-    "cyanoFilter": [],
-    "CyTOFpower": [],
-    "cytofQC": [],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "CytoPipeline"
     ],
     "DaMiRseq": [
         "genefilter",
@@ -277,7 +264,6 @@
         "epiNEM",
         "mnem"
     ],
-    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -384,11 +370,7 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [],
-    "flowCut": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
@@ -406,7 +388,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
         "genefilter"
@@ -421,7 +402,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "ggcyto": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -561,7 +541,6 @@
         "Category",
         "genefilter"
     ],
-    "metaMS": [],
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
@@ -652,7 +631,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MSnID": [],
     "MSPrep": [
         "genefilter",
         "sva"
@@ -700,7 +678,6 @@
         "genefilter",
         "sva"
     ],
-    "openCyto": [],
     "orthogene": [],
     "OutSplice": [
         "Repitools",
@@ -732,7 +709,6 @@
         "genefilter"
     ],
     "pdInfoBuilder": [],
-    "PeacoQC": [],
     "PECA": [
         "genefilter"
     ],
@@ -1007,7 +983,6 @@
         "GOSemSim"
     ],
     "TransView": [],
-    "treekoR": [],
     "trigger": [
         "genefilter",
         "sva"
