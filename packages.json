@@ -245,11 +245,7 @@
         "genefilter",
         "sva"
     ],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "DaMiRseq": [
         "genefilter",
         "sva"
@@ -370,7 +366,6 @@
         "methylumi",
         "minfi"
     ],
-    "flowGate": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
