@@ -131,13 +131,10 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "biodbChebi": [],
-    "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
-    "biodbNci": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -156,7 +153,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [],
     "bnbc": [
         "genefilter",
         "sva"
@@ -189,7 +185,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "Cardinal": [],
     "CATALYST": [
         "FlowSOM"
     ],
@@ -335,7 +330,6 @@
         "genefilter",
         "minfi"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "karyoploteR"
     ],
@@ -466,7 +460,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DIAlignR": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
@@ -557,7 +550,6 @@
         "enrichplot"
     ],
     "FeatSeekR": [],
-    "fedup": [],
     "ffpe": [
         "genefilter",
         "lumi",
@@ -813,7 +805,6 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [],
     "MAGAR": [
         "RnBeads",
         "genefilter",
@@ -866,9 +857,7 @@
         "Category",
         "genefilter"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "MetaCyto": [
         "FlowSOM"
     ],
@@ -993,7 +982,6 @@
         "genefilter",
         "sva"
     ],
-    "msPurity": [],
     "MSstats": [],
     "MSstatsBig": [
         "MSstats"
@@ -1069,7 +1057,6 @@
     "nnNorm": [],
     "normr": [],
     "octad": [],
-    "odseq": [],
     "OLINgui": [],
     "omicRexposome": [
         "MultiDataSet",
@@ -1146,7 +1133,6 @@
     ],
     "phenomis": [
         "MultiDataSet",
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -1236,7 +1222,6 @@
         "GENESIS"
     ],
     "RandomWalkRestartMH": [],
-    "RBM": [],
     "Rcpi": [
         "GOSemSim"
     ],
@@ -1267,7 +1252,6 @@
         "GOstats",
         "genefilter"
     ],
-    "ReQON": [],
     "rgsepd": [],
     "RiboCrypt": [
         "ORFik"
@@ -1428,10 +1412,7 @@
         "genefilter"
     ],
     "stepNorm": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "surfaltr": [],
     "survtype": [],
     "sva": [
@@ -1506,9 +1487,7 @@
         "genefilter",
         "sva"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "tweeDEseq": [],
     "UMI4Cats": [],
     "uSORT": [
@@ -1550,7 +1529,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "yamss": [],
     "yarn": [
         "genefilter",
         "minfi",
