@@ -59,7 +59,6 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "gcrma",
@@ -249,11 +248,9 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "chromstaR": [],
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [],
     "ClassifyR": [
         "genefilter"
@@ -272,7 +269,6 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -283,9 +279,7 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "concordexR": [],
     "CONFESS": [
         "flowClust",
@@ -314,17 +308,12 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprBowtie": [],
-    "crisprDesign": [
-        "crisprBowtie"
-    ],
+    "crisprDesign": [],
     "crisprVerse": [
-        "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprBowtie",
         "crisprDesign"
     ],
     "crossmeta": [
@@ -405,7 +394,6 @@
     "DEFormats": [],
     "DEGraph": [],
     "DEGreport": [],
-    "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
@@ -451,7 +439,6 @@
         "zenith"
     ],
     "drugTargetInteractions": [],
-    "dyebias": [],
     "easier": [],
     "EBSEA": [],
     "edge": [
@@ -836,7 +823,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylPipe": [],
     "methylumi": [
         "genefilter",
         "minfi"
@@ -941,7 +927,6 @@
     "muscat": [
         "variancePartition"
     ],
-    "musicatk": [],
     "NBAMSeq": [
         "genefilter"
     ],
@@ -1194,7 +1179,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scClassify": [],
     "scDataviz": [],
     "scGPS": [],
     "scifer": [],
@@ -1282,7 +1266,6 @@
     "spatialHeatmap": [
         "genefilter"
     ],
-    "SpatialOmicsOverlay": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -1297,7 +1280,6 @@
         "genefilter"
     ],
     "structToolbox": [],
-    "surfaltr": [],
     "survtype": [],
     "sva": [
         "genefilter"
@@ -1309,7 +1291,6 @@
     "synapter": [],
     "SynMut": [],
     "systemPipeTools": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
@@ -1342,7 +1323,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TMixClust": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -1369,7 +1349,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VAExprs": [],
     "variancePartition": [],
     "VaSP": [
         "ballgown",
