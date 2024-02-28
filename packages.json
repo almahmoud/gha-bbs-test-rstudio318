@@ -9,7 +9,6 @@
     ],
     "a4Classif": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -123,7 +122,6 @@
     ],
     "biotmle": [],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq"
     ],
     "blacksheepr": [
@@ -205,18 +203,13 @@
         "enrichplot"
     ],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
-    "CGHregions": [],
+    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "genefilter",
@@ -239,7 +232,6 @@
         "genefilter"
     ],
     "cliqueMS": [],
-    "CluMSID": [],
     "clusterExperiment": [
         "genefilter",
         "zinbwave"
@@ -252,14 +244,9 @@
     "CNTools": [
         "genefilter"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
     "cnvGSA": [],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
-    "compEpiTools": [],
+    "CNViz": [],
     "concordexR": [],
     "CONFESS": [
         "flowMerge"
@@ -268,7 +255,6 @@
         "genefilter",
         "minfi"
     ],
-    "CopyNumberPlots": [],
     "cosmiq": [],
     "countsimQC": [
         "genefilter"
@@ -276,14 +262,10 @@
     "covRNA": [
         "genefilter"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz"
     ],
-    "crisprViz": [
-        "crisprDesign"
-    ],
+    "crisprViz": [],
     "crossmeta": [
         "genefilter",
         "sva"
@@ -347,7 +329,6 @@
         "genefilter",
         "sva"
     ],
-    "DEP": [],
     "DExMA": [
         "genefilter",
         "sva"
@@ -491,7 +472,6 @@
         "PharmacoGx"
     ],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "genefilter": [],
@@ -783,7 +763,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "multicrispr": [],
     "MultiDataSet": [],
     "muscat": [
         "variancePartition"
@@ -856,7 +835,6 @@
     "PeacoQC": [
         "flowWorkspace"
     ],
-    "peakPantheR": [],
     "PECA": [
         "genefilter"
     ],
@@ -887,7 +865,6 @@
         "genefilter"
     ],
     "pqsfinder": [],
-    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -917,12 +894,8 @@
     "protGear": [
         "genefilter"
     ],
-    "ptairMS": [],
     "qcmetrics": [],
-    "QDNAseq": [
-        "CGHcall"
-    ],
-    "qPLEXanalyzer": [],
+    "QDNAseq": [],
     "qsmooth": [
         "genefilter",
         "sva"
@@ -968,7 +941,6 @@
     ],
     "Risa": [],
     "RLSeq": [],
-    "RMassBank": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
@@ -1105,7 +1077,6 @@
         "DOSE",
         "GOSemSim"
     ],
-    "synapter": [],
     "SynMut": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -1138,7 +1109,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "topdownr": [],
     "ToxicoGx": [],
     "transite": [],
     "tRanslatome": [
