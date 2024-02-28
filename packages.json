@@ -83,9 +83,7 @@
         "genefilter",
         "sva"
     ],
-    "ATACCoGAPS": [
-        "projectR"
-    ],
+    "ATACCoGAPS": [],
     "attract": [
         "Category",
         "GOstats",
@@ -106,7 +104,6 @@
         "genefilter",
         "sva"
     ],
-    "BCRANK": [],
     "benchdamic": [
         "genefilter",
         "zinbwave"
@@ -582,7 +579,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "factDesign": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -759,9 +755,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -917,7 +911,6 @@
     "maPredictDSC": [
         "gcrma"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "gcrma"
     ],
@@ -926,7 +919,6 @@
         "sva"
     ],
     "mBPCR": [],
-    "MCbiclust": [],
     "MEAL": [
         "MultiDataSet",
         "genefilter",
@@ -1000,7 +992,6 @@
         "genefilter",
         "minfi"
     ],
-    "mfa": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
@@ -1235,7 +1226,6 @@
     ],
     "pepStat": [],
     "phantasus": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -1278,7 +1268,6 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -1305,7 +1294,6 @@
     "protGear": [
         "genefilter"
     ],
-    "PSEA": [],
     "ptairMS": [
         "MSnbase"
     ],
@@ -1329,7 +1317,6 @@
         "genefilter",
         "minfi"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "piano"
@@ -1370,8 +1357,6 @@
         "genefilter"
     ],
     "ReQON": [],
-    "restfulSE": [],
-    "rfaRm": [],
     "rgsepd": [],
     "RiboCrypt": [
         "ORFik"
@@ -1429,7 +1414,6 @@
         "zinbwave"
     ],
     "scClassify": [],
-    "sccomp": [],
     "scDataviz": [
         "flowCore"
     ],
@@ -1496,7 +1480,6 @@
         "consensusOV",
         "genefu"
     ],
-    "sigsquared": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
@@ -1530,8 +1513,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "spkTools": [],
-    "splatter": [],
     "SpliceWiz": [
         "genefilter"
     ],
@@ -1576,9 +1557,7 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
