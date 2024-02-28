@@ -391,11 +391,8 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "DEFormats": [],
     "DEGraph": [],
     "DEGreport": [],
-    "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "genefilter",
         "sva"
@@ -438,9 +435,7 @@
         "variancePartition",
         "zenith"
     ],
-    "drugTargetInteractions": [],
     "easier": [],
-    "EBSEA": [],
     "edge": [
         "genefilter",
         "sva"
@@ -598,7 +593,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneTonic": [],
     "GenomicDataCommons": [],
     "GEOexplorer": [
         "genefilter",
@@ -686,7 +680,6 @@
         "minfi"
     ],
     "infinityFlow": [],
-    "INSPEcT": [],
     "interactiveDisplay": [
         "Category",
         "genefilter"
@@ -828,7 +821,6 @@
         "minfi"
     ],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
@@ -971,7 +963,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "ORFik": [],
     "orthogene": [],
     "OutSplice": [
         "Repitools",
@@ -1046,7 +1037,6 @@
     "POMA": [],
     "pqsfinder": [],
     "PrInCE": [],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1111,9 +1101,7 @@
         "genefilter",
         "minfi"
     ],
-    "regionReport": [
-        "DEFormats"
-    ],
+    "regionReport": [],
     "regsplice": [],
     "REMP": [
         "genefilter",
@@ -1128,10 +1116,7 @@
         "GOstats",
         "genefilter"
     ],
-    "rgsepd": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "Ringo": [
         "genefilter"
@@ -1205,7 +1190,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "SEtools": [
         "genefilter",
@@ -1272,7 +1256,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "srnadiff": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -1288,13 +1271,11 @@
     ],
     "synapter": [],
     "SynMut": [],
-    "systemPipeTools": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "genefilter",
         "sva"
     ],
-    "TCC": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
@@ -1308,9 +1289,7 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "tigre": [],
     "tilingArray": [
         "genefilter"
