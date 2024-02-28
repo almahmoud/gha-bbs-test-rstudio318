@@ -151,7 +151,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "CATALYST": [],
     "Category": [
         "genefilter"
     ],
@@ -188,9 +187,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "DOSE",
         "GOSemSim",
@@ -254,29 +251,20 @@
         "genefilter",
         "sva"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cyanoFilter": [],
+    "CyTOFpower": [],
+    "cytofQC": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "DaMiRseq": [
@@ -293,9 +281,7 @@
         "epiNEM",
         "mnem"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "DOSE",
         "GOSemSim",
@@ -320,7 +306,6 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "diffcyt": [],
     "diffUTR": [
         "DEXSeq",
         "genefilter"
@@ -404,27 +389,15 @@
         "minfi"
     ],
     "flagme": [],
-    "flowBin": [
-        "flowFP"
-    ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
-    "flowFP": [],
+    "flowBin": [],
+    "flowCut": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
-    "flowStats": [
-        "flowWorkspace"
-    ],
-    "flowTrans": [],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
@@ -434,9 +407,7 @@
         "genefilter",
         "sva"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -464,9 +435,7 @@
         "cellHTS2",
         "genefilter"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggtreeExtra": [],
     "GISPA": [
         "genefilter"
@@ -516,9 +485,7 @@
         "pcaExplorer"
     ],
     "IFAA": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -612,7 +579,6 @@
         "Category",
         "genefilter"
     ],
-    "MetaCyto": [],
     "metaMS": [],
     "MetaPhOR": [
         "DOSE",
@@ -754,10 +720,7 @@
         "genefilter",
         "sva"
     ],
-    "openCyto": [
-        "flowWorkspace"
-    ],
-    "optimalFlow": [],
+    "openCyto": [],
     "orthogene": [],
     "OutSplice": [
         "Repitools",
@@ -789,9 +752,7 @@
         "genefilter"
     ],
     "pdInfoBuilder": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "PECA": [
         "genefilter"
     ],
@@ -983,7 +944,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -1067,9 +1027,7 @@
         "GOSemSim"
     ],
     "TransView": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "trigger": [
         "genefilter",
         "sva"
