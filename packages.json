@@ -150,9 +150,7 @@
         "genefilter",
         "sva"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "Category",
         "GenomicDataCommons",
@@ -246,9 +244,7 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
         "genefilter",
@@ -285,9 +281,7 @@
     "CopyNumberPlots": [],
     "CoreGx": [],
     "coseq": [],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "countsimQC": [
         "genefilter"
     ],
@@ -476,8 +470,7 @@
         "minfi"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "flowAI": [],
     "flowBeads": [],
@@ -531,7 +524,6 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "FRASER": [],
     "funtooNorm": [
         "genefilter",
         "minfi"
@@ -617,7 +609,6 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [],
     "hmdbQuery": [],
     "hummingbird": [],
     "iasva": [],
@@ -660,8 +651,7 @@
     ],
     "InterMineR": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
@@ -685,8 +675,7 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "lumi": [
         "genefilter",
@@ -706,8 +695,7 @@
         "enrichplot"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maPredictDSC": [
         "gcrma"
@@ -748,8 +736,7 @@
         "FlowSOM"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -825,9 +812,7 @@
         "genefilter"
     ],
     "mnem": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "mogsa": [
         "genefilter"
     ],
@@ -844,12 +829,8 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MSPrep": [
@@ -889,9 +870,7 @@
         "genefilter"
     ],
     "ncdfFlow": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -1049,7 +1028,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "Rcpi": [
         "GOSemSim"
@@ -1082,9 +1060,7 @@
     "Ringo": [
         "genefilter"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAinteract": [
@@ -1301,7 +1277,6 @@
     "webbioc": [
         "gcrma"
     ],
-    "xcms": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
