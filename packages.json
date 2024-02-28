@@ -92,7 +92,6 @@
         "genefilter",
         "sva"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -136,11 +135,9 @@
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
-    "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "BioNERO": [
         "genefilter",
         "sva"
@@ -194,8 +191,7 @@
     ],
     "Cardinal": [],
     "CATALYST": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "Category": [
         "genefilter"
@@ -235,8 +231,7 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "CeTF": [
         "DOSE",
@@ -307,12 +302,9 @@
         "GOSemSim",
         "enrichplot"
     ],
-    "cmapR": [
-        "flowCore"
-    ],
+    "cmapR": [],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNTools": [
         "genefilter"
@@ -332,7 +324,6 @@
     "concordexR": [],
     "CONFESS": [
         "flowClust",
-        "flowCore",
         "flowMeans",
         "flowMerge"
     ],
@@ -365,7 +356,6 @@
         "genefilter"
     ],
     "crisprBowtie": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "crisprBowtie"
     ],
@@ -384,32 +374,22 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
-    "cydar": [
-        "flowCore"
-    ],
-    "CytoDx": [
-        "flowCore"
-    ],
+    "cydar": [],
+    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "cytofQC": [
         "CATALYST",
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
-    "cytoMEM": [
-        "flowCore"
-    ],
+    "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -419,7 +399,6 @@
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -428,7 +407,6 @@
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -450,7 +428,6 @@
         "mnem"
     ],
     "ddPCRclust": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
@@ -468,9 +445,7 @@
     ],
     "DeepBlueR": [],
     "DEFormats": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
@@ -494,12 +469,9 @@
     "DIAlignR": [],
     "DiffBind": [],
     "diffcyt": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffUTR": [
         "DEXSeq",
         "genefilter"
@@ -584,7 +556,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FeatSeekR": [],
     "fedup": [],
     "ffpe": [
@@ -598,91 +569,56 @@
         "MSnbase",
         "xcms"
     ],
-    "flowAI": [
-        "flowCore"
-    ],
-    "flowBeads": [
-        "flowCore"
-    ],
+    "flowAI": [],
+    "flowBeads": [],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [
-        "flowCore"
-    ],
-    "flowClean": [
-        "flowCore"
-    ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowCHIC": [],
+    "flowClean": [],
+    "flowClust": [],
     "flowCut": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
-    "flowMeans": [
-        "flowCore"
-    ],
+    "flowMatch": [],
+    "flowMeans": [],
     "flowMerge": [
-        "flowClust",
-        "flowCore"
+        "flowClust"
     ],
-    "flowPloidy": [
-        "flowCore"
-    ],
-    "FlowSOM": [
-        "flowCore"
-    ],
-    "flowSpecs": [
-        "flowCore"
-    ],
+    "flowPloidy": [],
+    "FlowSOM": [],
+    "flowSpecs": [],
     "flowStats": [
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [
-        "flowCore"
-    ],
+    "flowTime": [],
     "flowTrans": [
         "flowClust",
-        "flowCore",
         "flowViz"
     ],
-    "flowViz": [
-        "flowCore"
-    ],
+    "flowViz": [],
     "flowVS": [
-        "flowCore",
         "flowStats",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "flowCore",
         "ncdfFlow"
     ],
     "FRASER": [
@@ -699,7 +635,6 @@
         "sva"
     ],
     "GateFinder": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
@@ -737,7 +672,6 @@
     "GENESIS": [],
     "GeneTonic": [],
     "GenomicDataCommons": [],
-    "GenProSeq": [],
     "GEOexplorer": [
         "genefilter",
         "sva"
@@ -750,7 +684,6 @@
     ],
     "gg4way": [],
     "ggcyto": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -786,7 +719,6 @@
         "genefilter"
     ],
     "gwasurvivr": [],
-    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -815,13 +747,10 @@
     ],
     "IFAA": [],
     "ImmuneSpaceR": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "iNETgrate": [
         "DOSE",
         "GOSemSim",
@@ -832,9 +761,7 @@
         "genefilter",
         "minfi"
     ],
-    "infinityFlow": [
-        "flowCore"
-    ],
+    "infinityFlow": [],
     "INSPEcT": [],
     "interactiveDisplay": [
         "Category",
@@ -862,7 +789,6 @@
     ],
     "ivygapSE": [],
     "karyoploteR": [],
-    "katdetectr": [],
     "kissDE": [],
     "KnowSeq": [
         "genefilter",
@@ -916,7 +842,6 @@
         "genefilter",
         "sva"
     ],
-    "mBPCR": [],
     "MEAL": [
         "MultiDataSet",
         "genefilter",
@@ -945,8 +870,7 @@
         "struct"
     ],
     "MetaCyto": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "metaMS": [
         "CAMERA",
@@ -1052,7 +976,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [],
     "msmsEDA": [
         "MSnbase"
     ],
@@ -1117,14 +1040,11 @@
     "NBAMSeq": [
         "genefilter"
     ],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "xcms"
     ],
-    "NCIgraph": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -1147,14 +1067,10 @@
         "yarn"
     ],
     "nnNorm": [],
-    "NormqPCR": [],
     "normr": [],
     "octad": [],
     "odseq": [],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
@@ -1162,13 +1078,11 @@
     ],
     "openCyto": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "optimalFlow": [
-        "flowCore",
         "flowMeans"
     ],
     "OrderedList": [],
@@ -1212,7 +1126,6 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1412,16 +1325,10 @@
         "zinbwave"
     ],
     "scClassify": [],
-    "scDataviz": [
-        "flowCore"
-    ],
+    "scDataviz": [],
     "scGPS": [],
-    "scifer": [
-        "flowCore"
-    ],
-    "Sconify": [
-        "flowCore"
-    ],
+    "scifer": [],
+    "Sconify": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -1593,8 +1500,7 @@
     "TransView": [],
     "treekoR": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "trigger": [
         "genefilter",
