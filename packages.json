@@ -2,7 +2,6 @@
     "a4": [
         "MatrixGenerics",
         "a4Base",
-        "a4Classif",
         "annaffy",
         "annotate",
         "genefilter"
@@ -13,7 +12,6 @@
         "annotate",
         "genefilter"
     ],
-    "a4Classif": [],
     "ABarray": [],
     "abseqR": [
         "BiocParallel"
@@ -746,7 +744,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "arrayQuality": [
@@ -1442,7 +1439,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "wateRmelon"
     ],
@@ -1692,7 +1688,6 @@
         "SummarizedExperiment",
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "BiocNeighbors",
         "BiocParallel",
@@ -2862,7 +2857,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "sva",
         "wateRmelon"
@@ -3983,7 +3977,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "convert": [
@@ -4883,7 +4876,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "decoupleR": [],
@@ -5512,7 +5504,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "DMRScan": [
@@ -5967,7 +5958,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "EnrichedHeatmap": [
@@ -6222,7 +6212,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "epiNEM": [
@@ -6775,7 +6764,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "fgga": [
@@ -7174,7 +7162,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "FuseSOM": [
@@ -7572,7 +7559,6 @@
         "BiocParallel",
         "GenomicRanges"
     ],
-    "GenomeInfoDb": [],
     "genomeIntervals": [
         "GenomicRanges"
     ],
@@ -7912,7 +7898,6 @@
         "SummarizedExperiment"
     ],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "BiocParallel",
@@ -8187,9 +8172,7 @@
     "graphite": [
         "graph"
     ],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GreyListChIP": [
         "BSgenome",
         "BiocIO",
@@ -8729,7 +8712,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -8862,7 +8844,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "iClusterPlus": [],
@@ -9078,7 +9059,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "infercnv": [
@@ -9260,7 +9240,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "iPAC": [],
     "iPath": [
         "BiocParallel"
     ],
@@ -9526,9 +9505,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "kebabs": [],
     "KEGGgraph": [
         "Rgraphviz",
@@ -9784,7 +9761,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "LymphoSeq": [
@@ -9892,7 +9868,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "snpStats",
         "sparseMatrixStats"
     ],
@@ -10238,7 +10213,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "sva"
     ],
@@ -10271,7 +10245,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "wateRmelon"
     ],
@@ -10609,7 +10582,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylCC": [
@@ -10641,7 +10613,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylclock": [
@@ -10681,7 +10652,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylGSA": [
@@ -10717,7 +10687,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "methylInheritance": [
@@ -10855,7 +10824,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "MetID": [],
@@ -11021,8 +10989,7 @@
         "MatrixGenerics",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "ggtreeExtra"
+        "SummarizedExperiment"
     ],
     "microRNA": [],
     "microSTASIS": [
@@ -11118,7 +11085,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "minfi": [
@@ -11145,7 +11111,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "MinimumDistance": [
@@ -11254,7 +11219,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "missRows": [
@@ -11872,7 +11836,6 @@
         "impute",
         "mzID",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -11885,7 +11848,6 @@
         "impute",
         "mzID",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -12446,7 +12408,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "yarn"
     ],
@@ -14083,7 +14044,6 @@
         "RSeqAn",
         "seqTools"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "BiocParallel",
         "CGHbase",
@@ -14230,13 +14190,11 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "BSgenome",
@@ -14634,7 +14592,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "recoup": [
@@ -14841,7 +14798,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "Repitools": [
@@ -15579,7 +15535,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "Rnits": [
@@ -16984,7 +16939,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "shinyMethyl": [
@@ -17012,7 +16966,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "ShortRead": [
@@ -17067,7 +17020,6 @@
     "SigFuge": [
         "GenomicRanges"
     ],
-    "siggenes": [],
     "sights": [
         "qvalue"
     ],
@@ -17437,7 +17389,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats",
         "wateRmelon"
     ],
@@ -17600,9 +17551,7 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "BiocNeighbors",
         "BiocParallel",
@@ -19121,9 +19070,7 @@
         "qvalue",
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "triplex": [
         "GenomicRanges"
     ],
@@ -19721,7 +19668,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "wavClusteR": [
@@ -19821,8 +19767,7 @@
         "GeneMeta",
         "MatrixGenerics",
         "annotate",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "Xeva": [
         "BiocParallel",
@@ -19926,7 +19871,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
         "sparseMatrixStats"
     ],
     "zellkonverter": [
