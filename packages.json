@@ -332,7 +332,6 @@
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "motifStack"
     ],
@@ -405,7 +404,6 @@
         "scran"
     ],
     "bayNorm": [],
-    "BBCAnalyzer": [],
     "beachmat.hdf5": [
         "HDF5Array",
         "Rhdf5lib",
@@ -1174,7 +1172,6 @@
     "concordexR": [],
     "condiments": [
         "TrajectoryUtils",
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -1702,8 +1699,6 @@
         "scran"
     ],
     "dir.expiry": [],
-    "distinct": [],
-    "dittoSeq": [],
     "divergence": [],
     "dks": [],
     "DMCFB": [],
@@ -1737,7 +1732,6 @@
         "bamsignals"
     ],
     "DNAshapeR": [],
-    "DominoEffect": [],
     "doppelgangR": [
         "genefilter",
         "impute",
@@ -1880,7 +1874,6 @@
         "qvalue"
     ],
     "epidecodeR": [],
-    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "Rhdf5lib",
@@ -2756,7 +2749,6 @@
     ],
     "hierinf": [],
     "hipathia": [],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
@@ -2803,7 +2795,6 @@
         "rhdf5filters"
     ],
     "iClusterPlus": [],
-    "iCNV": [],
     "ideal": [
         "AnnotationForge",
         "Category",
@@ -3463,7 +3454,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "microSTASIS": [],
     "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
@@ -3538,7 +3528,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "missRows": [],
     "mitch": [],
     "mitoClone2": [
         "deepSNV"
@@ -4528,7 +4517,6 @@
         "marray",
         "piano"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -5023,7 +5011,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [
         "batchelor",
         "metapod",
@@ -5437,8 +5424,7 @@
         "graph"
     ],
     "SPIAT": [
-        "SpatialExperiment",
-        "dittoSeq"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "ClassifyR",
@@ -5557,7 +5543,6 @@
     "SWATH2stats": [],
     "SwathXtend": [],
     "swfdr": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "Rhdf5lib",
@@ -5640,7 +5625,6 @@
         "graph"
     ],
     "tidybulk": [],
-    "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tigre": [],
     "tilingArray": [
@@ -5928,7 +5912,6 @@
         "mzID",
         "mzR"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
