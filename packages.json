@@ -28,16 +28,13 @@
         "impute",
         "marray"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "GLAD",
         "MatrixGenerics",
-        "aCGH",
         "annotate",
         "genefilter",
         "snapCGH",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "ADAM": [
         "DelayedArray",
@@ -123,7 +120,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "graph",
@@ -131,16 +127,12 @@
         "rtracklayer"
     ],
     "affyILM": [
-        "affxparser",
-        "gcrma"
+        "affxparser"
     ],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "GSEABase",
         "annotate",
@@ -187,7 +179,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "graph",
@@ -750,9 +741,7 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "artMS": [
         "MSstats",
@@ -1077,8 +1066,7 @@
         "impute",
         "mzID",
         "mzR",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "barcodetrackR": [
         "DelayedArray",
@@ -1261,7 +1249,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BCRANK": [],
     "bcSeq": [],
     "beachmat": [
         "DelayedArray",
@@ -1283,7 +1270,6 @@
     "beadarray": [
         "GenomicRanges"
     ],
-    "beadarraySNP": [],
     "BEARscc": [
         "DelayedArray",
         "GenomicRanges",
@@ -1386,9 +1372,7 @@
         "graph",
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BHC": [],
     "BicARE": [
         "GSEABase",
@@ -1452,13 +1436,11 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "BiocIO",
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
@@ -1808,7 +1790,6 @@
     ],
     "BLMA": [
         "KEGGgraph",
-        "PADOG",
         "ROntoTools",
         "Rgraphviz",
         "graph"
@@ -1854,8 +1835,7 @@
         "genefilter",
         "graph",
         "mnem",
-        "sva",
-        "vsn"
+        "sva"
     ],
     "BOBaFIT": [
         "AnnotationFilter",
@@ -2282,7 +2262,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "canceR": [
@@ -2472,7 +2451,6 @@
         "BiocParallel",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2547,7 +2525,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "BiocParallel",
         "DelayedArray",
@@ -2585,8 +2562,7 @@
         "annotate",
         "genefilter",
         "graph",
-        "splots",
-        "vsn"
+        "splots"
     ],
     "CelliD": [
         "BiocNeighbors",
@@ -2656,7 +2632,6 @@
     "CEMiTool": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2703,7 +2678,6 @@
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "RCy3",
@@ -3007,7 +2981,6 @@
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -3351,7 +3324,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "Clomial": [],
@@ -3367,8 +3339,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "clusterExperiment": [
         "BiocParallel",
@@ -3395,7 +3366,6 @@
     "clusterProfiler": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -4056,7 +4026,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "cosmosR": [
@@ -4130,9 +4099,7 @@
         "graph",
         "rtracklayer"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBase": [
         "GenomicRanges"
     ],
@@ -4706,7 +4673,6 @@
         "BiocParallel",
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
@@ -4721,7 +4687,6 @@
         "mzR",
         "qvalue",
         "tkWidgets",
-        "vsn",
         "widgetTools"
     ],
     "dce": [
@@ -4758,7 +4723,6 @@
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "KEGGgraph",
         "MatrixGenerics",
@@ -5059,8 +5023,7 @@
         "SummarizedExperiment",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "DepecheR": [
         "BiocParallel",
@@ -5556,12 +5519,9 @@
         "impute",
         "sva"
     ],
-    "Doscheda": [
-        "vsn"
-    ],
+    "Doscheda": [],
     "DOSE": [
         "BiocParallel",
-        "GOSemSim",
         "fgsea",
         "qvalue"
     ],
@@ -5817,7 +5777,6 @@
         "HDF5Array",
         "KEGGgraph",
         "MatrixGenerics",
-        "PADOG",
         "Rgraphviz",
         "Rhdf5lib",
         "S4Arrays",
@@ -5949,7 +5908,6 @@
     "enrichplot": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "fgsea",
         "qvalue"
     ],
@@ -5961,7 +5919,6 @@
         "DOSE",
         "DelayedArray",
         "DirichletMultinomial",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicRanges",
         "MatrixGenerics",
@@ -5983,7 +5940,6 @@
     "enrichViewNet": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "RCy3",
         "enrichplot",
         "fgsea",
@@ -6054,7 +6010,6 @@
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -6355,7 +6310,6 @@
         "DOSE",
         "DelayedArray",
         "DirichletMultinomial",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -6606,7 +6560,6 @@
     "famat": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -6797,7 +6750,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "FLAMES": [
@@ -7246,13 +7198,11 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "gcrma": [],
     "GDCRNATools": [
         "BiocParallel",
         "DESeq2",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicDataCommons",
         "GenomicRanges",
         "KEGGgraph",
@@ -7759,8 +7709,7 @@
         "cellHTS2",
         "genefilter",
         "graph",
-        "splots",
-        "vsn"
+        "splots"
     ],
     "getDEE2": [
         "DelayedArray",
@@ -7828,9 +7777,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "GGPA": [],
     "ggsc": [
         "DelayedArray",
@@ -8028,7 +7975,6 @@
         "SummarizedExperiment"
     ],
     "goProfiles": [],
-    "GOSemSim": [],
     "goseq": [
         "BiocIO",
         "BiocParallel",
@@ -8054,7 +8000,6 @@
     "goSorensen": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -8976,7 +8921,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -9219,7 +9163,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "ISAnalytics": [],
@@ -9634,7 +9577,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "loci2path": [
@@ -9811,7 +9753,6 @@
         "BiocParallel",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "KEGGgraph",
         "Rgraphviz",
         "clusterProfiler",
@@ -9876,16 +9817,13 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "MANOR": [
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "BiocIO",
         "BiocParallel",
@@ -9942,9 +9880,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MassArray": [],
     "massiR": [],
     "MassSpecWavelet": [],
@@ -9982,8 +9918,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "impute",
-        "proDA",
-        "vsn"
+        "proDA"
     ],
     "MatrixRider": [
         "BSgenome",
@@ -10233,7 +10168,6 @@
         "AnnotationHub",
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "MeSHDbi",
         "enrichplot",
         "fgsea",
@@ -10363,7 +10297,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -10378,7 +10311,6 @@
     "MetaPhOR": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "RCy3",
         "clusterProfiler",
         "enrichplot",
@@ -10423,8 +10355,7 @@
         "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
-        "survcomp",
-        "vsn"
+        "survcomp"
     ],
     "MetCirc": [
         "BiocParallel",
@@ -10591,7 +10522,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -10906,7 +10836,6 @@
     "MicrobiomeProfiler": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -10974,7 +10903,6 @@
         "SummarizedExperiment",
         "affxparser",
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -11258,7 +11186,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "MODA": [
@@ -11348,7 +11275,6 @@
         "DOSE",
         "DelayedArray",
         "GEOquery",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicRanges",
         "MatrixGenerics",
@@ -11368,7 +11294,6 @@
         "DOSE",
         "DelayedArray",
         "GEOquery",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "S4Arrays",
@@ -11645,8 +11570,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "msmsTests": [
         "BiocParallel",
@@ -11658,8 +11582,7 @@
         "msmsEDA",
         "mzID",
         "mzR",
-        "qvalue",
-        "vsn"
+        "qvalue"
     ],
     "MSnbase": [
         "BiocParallel",
@@ -11668,8 +11591,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "MSnID": [
         "AnnotationHub",
@@ -11683,8 +11605,7 @@
         "msmsTests",
         "mzID",
         "mzR",
-        "qvalue",
-        "vsn"
+        "qvalue"
     ],
     "MSPrep": [
         "BiocParallel",
@@ -11760,8 +11681,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "MSstatsQCgui": [
         "BiocParallel",
@@ -11772,8 +11692,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -11969,7 +11888,6 @@
         "sparseMatrixStats",
         "variancePartition"
     ],
-    "muscle": [],
     "musicatk": [
         "BSgenome",
         "BiocIO",
@@ -12178,7 +12096,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "NCIgraph": [
@@ -12396,10 +12313,8 @@
         "MatrixGenerics",
         "S4Arrays",
         "SparseArray",
-        "SummarizedExperiment",
-        "vsn"
+        "SummarizedExperiment"
     ],
-    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "BiocParallel",
@@ -12875,8 +12790,7 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "rtracklayer",
-        "vsn"
+        "rtracklayer"
     ],
     "OVESEG": [
         "BiocParallel",
@@ -12906,7 +12820,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "PADOG": [],
     "pageRank": [
         "BSgenome",
         "BiocIO",
@@ -12978,7 +12891,6 @@
     "PanomiR": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "GSEABase",
         "annotate",
         "clusterProfiler",
@@ -12993,7 +12905,6 @@
     "pareg": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -13142,8 +13053,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "PECA": [
         "MatrixGenerics",
@@ -13336,7 +13246,6 @@
     "Pigengene": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "Rgraphviz",
         "clusterProfiler",
@@ -13593,7 +13502,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "aCGH",
         "biomaRt",
         "rCGH",
         "rtracklayer"
@@ -13642,8 +13550,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "proActiv": [
         "BiocIO",
@@ -13696,7 +13603,6 @@
         "DOSE",
         "DelayedArray",
         "EnrichedHeatmap",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -13737,8 +13643,7 @@
         "genefilter",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "pRolocGUI": [
         "BiocParallel",
@@ -13759,8 +13664,7 @@
         "impute",
         "mzID",
         "mzR",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "PROMISE": [
         "GSEABase",
@@ -13779,7 +13683,6 @@
         "DAPAR",
         "DOSE",
         "DynDoc",
-        "GOSemSim",
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
@@ -13794,7 +13697,6 @@
         "mzR",
         "qvalue",
         "tkWidgets",
-        "vsn",
         "widgetTools"
     ],
     "ProteoDisco": [
@@ -13822,8 +13724,7 @@
     "protGear": [
         "MatrixGenerics",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "ProtGenerics": [],
     "psichomics": [
@@ -13882,8 +13783,7 @@
         "mzID",
         "mzR",
         "rhdf5",
-        "rhdf5filters",
-        "vsn"
+        "rhdf5filters"
     ],
     "puma": [
         "DelayedArray",
@@ -13917,10 +13817,7 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "pvac": [],
-    "pvca": [
-        "vsn"
-    ],
+    "pvca": [],
     "Pviz": [
         "AnnotationFilter",
         "BSgenome",
@@ -14014,8 +13911,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "qsea": [
         "BSgenome",
@@ -14188,7 +14084,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "BiocParallel",
         "BumpyMatrix",
@@ -14371,7 +14266,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "aCGH",
         "biomaRt",
         "rtracklayer"
     ],
@@ -14382,9 +14276,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Rcpi": [
-        "GOSemSim"
-    ],
+    "Rcpi": [],
     "Rcwl": [
         "BiocParallel",
         "basilisk",
@@ -14407,7 +14299,6 @@
     "ReactomePA": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "fgsea",
         "graph",
@@ -14725,8 +14616,7 @@
         "SummarizedExperiment",
         "annotate",
         "genefilter",
-        "rtracklayer",
-        "vsn"
+        "rtracklayer"
     ],
     "ReportingTools": [
         "AnnotationFilter",
@@ -14824,7 +14714,6 @@
     "rexposome": [
         "impute"
     ],
-    "rfaRm": [],
     "Rfastp": [
         "Rhtslib"
     ],
@@ -15089,8 +14978,7 @@
     "Ringo": [
         "MatrixGenerics",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "Risa": [
         "AnnotationFilter",
@@ -15118,7 +15006,6 @@
         "impute",
         "mzID",
         "mzR",
-        "vsn",
         "xcms"
     ],
     "RITAN": [
@@ -15189,8 +15076,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "Rmmquant": [
         "BiocIO",
@@ -15278,8 +15164,7 @@
         "genefilter",
         "geneplotter",
         "graph",
-        "splots",
-        "vsn"
+        "splots"
     ],
     "RNAmodR": [
         "AnnotationFilter",
@@ -15541,9 +15426,7 @@
     ],
     "rRDP": [],
     "RRHO": [],
-    "rrvgo": [
-        "GOSemSim"
-    ],
+    "rrvgo": [],
     "Rsamtools": [
         "BiocParallel",
         "GenomicRanges",
@@ -16444,7 +16327,6 @@
         "Category",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GOstats",
         "GSEABase",
         "GenomicRanges",
@@ -16577,7 +16459,6 @@
         "ChIPseeker",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -16644,7 +16525,6 @@
         "ChIPseeker",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -16930,7 +16810,6 @@
         "DOSE",
         "DelayedArray",
         "ExperimentHub",
-        "GOSemSim",
         "GSEABase",
         "GenomicRanges",
         "HDF5Array",
@@ -17035,8 +16914,7 @@
         "MatrixGenerics",
         "Ringo",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "SimBu": [
         "BiocParallel",
@@ -17080,9 +16958,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "simplifyEnrichment": [
-        "GOSemSim"
-    ],
+    "simplifyEnrichment": [],
     "sincell": [],
     "single": [
         "BiocParallel",
@@ -17334,11 +17210,9 @@
     "snapCGH": [
         "GLAD",
         "MatrixGenerics",
-        "aCGH",
         "annotate",
         "genefilter",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "snapcount": [
         "DelayedArray",
@@ -17945,8 +17819,7 @@
         "cellHTS2",
         "genefilter",
         "graph",
-        "splots",
-        "vsn"
+        "splots"
     ],
     "StarBioTrek": [
         "SpidermiR",
@@ -18133,7 +18006,6 @@
         "BiocParallel",
         "DOSE",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "S4Arrays",
@@ -18167,8 +18039,7 @@
         "impute",
         "mzID",
         "mzR",
-        "qvalue",
-        "vsn"
+        "qvalue"
     ],
     "SynExtend": [
         "DECIPHER"
@@ -18176,7 +18047,6 @@
     "synlet": [
         "RankProd"
     ],
-    "SynMut": [],
     "syntenet": [
         "BiocIO",
         "BiocParallel",
@@ -18363,7 +18233,6 @@
     "TDbasedUFEadv": [
         "BiocParallel",
         "DOSE",
-        "GOSemSim",
         "GenomicRanges",
         "STRINGdb",
         "TDbasedUFE",
@@ -18540,8 +18409,7 @@
     "tilingArray": [
         "MatrixGenerics",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "timecourse": [
         "marray"
@@ -18556,7 +18424,6 @@
         "DOSE",
         "DelayedArray",
         "DynDoc",
-        "GOSemSim",
         "GenomicRanges",
         "MatrixGenerics",
         "Mfuzz",
@@ -18696,8 +18563,7 @@
         "Rhdf5lib",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "topGO": [
         "graph"
@@ -18823,7 +18689,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "GOSemSim",
         "GenomicRanges",
         "Heatplus",
         "MatrixGenerics",
@@ -19412,7 +19277,6 @@
     "ViSEAGO": [
         "AnnotationForge",
         "BiocParallel",
-        "GOSemSim",
         "biomaRt",
         "fgsea",
         "graph",
@@ -19461,7 +19325,6 @@
         "SummarizedExperiment",
         "qvalue"
     ],
-    "vsn": [],
     "vtpnet": [
         "AnnotationHub",
         "BSgenome",
@@ -19574,9 +19437,7 @@
     ],
     "webbioc": [
         "annaffy",
-        "gcrma",
-        "qvalue",
-        "vsn"
+        "qvalue"
     ],
     "weitrix": [
         "BiocParallel",
@@ -19637,8 +19498,7 @@
         "SummarizedExperiment",
         "impute",
         "mzID",
-        "mzR",
-        "vsn"
+        "mzR"
     ],
     "xcore": [
         "DelayedArray",
