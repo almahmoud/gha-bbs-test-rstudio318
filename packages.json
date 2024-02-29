@@ -418,7 +418,6 @@
         "ALDEx2",
         "ANCOMBC",
         "DESeq2",
-        "MAST",
         "Rhdf5lib",
         "biomformat",
         "dearseq",
@@ -725,7 +724,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -817,9 +815,7 @@
     ],
     "ccrepe": [],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "metapod",
         "scran"
@@ -1028,7 +1024,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -1254,7 +1249,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -1538,7 +1532,6 @@
         "qvalue",
         "sva"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "celda",
         "metapod",
@@ -2083,7 +2076,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -2937,7 +2929,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3034,7 +3025,6 @@
     "lfa": [],
     "LineagePulse": [],
     "lineagespot": [],
-    "LinkHD": [],
     "lipidr": [
         "MultiDataSet",
         "impute",
@@ -3052,7 +3042,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3133,7 +3122,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3165,7 +3153,6 @@
     "MassArray": [],
     "massiR": [],
     "MassSpecWavelet": [],
-    "MAST": [],
     "mastR": [
         "GSEABase",
         "graph"
@@ -3284,7 +3271,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -3411,7 +3397,6 @@
         "biovizBase",
         "marray"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
@@ -3577,7 +3562,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -3677,7 +3661,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "RBGL",
@@ -3836,9 +3819,7 @@
         "DESeq2",
         "variancePartition"
     ],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MWASTools": [
         "KEGGgraph",
@@ -3893,7 +3874,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
@@ -4048,7 +4028,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -4351,9 +4330,7 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [],
     "PPInfer": [
         "STRINGdb",
@@ -4368,7 +4345,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "preciseTAD": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores",
@@ -4448,7 +4424,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "ProteoDisco": [],
     "protGear": [
         "genefilter"
     ],
@@ -4796,7 +4771,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Rhdf5lib",
@@ -5022,7 +4996,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scDesign3": [],
     "scds": [],
     "scFeatures": [
         "AUCell",
@@ -5040,7 +5013,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "schex": [],
     "scHOT": [],
     "scider": [
         "SpatialExperiment"
@@ -5066,7 +5038,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SCnorm": [],
     "scone": [
         "RUVSeq",
         "Rhdf5lib",
@@ -5079,7 +5050,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scoreInvHap": [],
     "scp": [
         "QFeatures"
     ],
@@ -5127,13 +5097,11 @@
         "graph",
         "graphite",
         "meshr",
-        "qvalue",
-        "schex"
+        "qvalue"
     ],
     "scTGIF": [
         "GSEABase",
-        "graph",
-        "schex"
+        "graph"
     ],
     "scTreeViz": [
         "OrganismDbi",
@@ -5317,7 +5285,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "MAST",
         "Rhdf5lib",
         "SingleR",
         "TSCAN",
@@ -5682,7 +5649,6 @@
     "timecourse": [
         "marray"
     ],
-    "timeOmics": [],
     "timescape": [],
     "TimiRGeN": [
         "DOSE",
@@ -5930,7 +5896,6 @@
         "graph",
         "metapod"
     ],
-    "waddR": [],
     "wateRmelon": [
         "GEOquery",
         "HDF5Array",
@@ -5956,7 +5921,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
