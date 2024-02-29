@@ -47,7 +47,6 @@
     "abseqR": [
         "BiocParallel"
     ],
-    "ABSSeq": [],
     "acde": [],
     "ACE": [
         "BiocParallel",
@@ -1887,7 +1886,6 @@
         "sva",
         "zlibbioc"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocNeighbors",
         "BiocParallel",
@@ -2467,7 +2465,6 @@
         "RBGL",
         "graph"
     ],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -3093,7 +3090,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "BiocIO",
         "BiocParallel",
@@ -5178,7 +5174,6 @@
         "fgsea",
         "zlibbioc"
     ],
-    "CMA": [],
     "cmapR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -8224,7 +8219,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "AnnotationDbi",
         "BiocIO",
@@ -8533,7 +8527,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "dupRadar": [],
     "dyebias": [
         "marray"
     ],
@@ -8625,7 +8618,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "EBSeqHMM": [],
     "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
@@ -12341,7 +12333,6 @@
         "safe",
         "zlibbioc"
     ],
-    "GSEAlm": [],
     "gsean": [
         "AnnotationDbi",
         "BiocParallel",
@@ -13401,7 +13392,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "BrowserViz",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -14152,7 +14142,6 @@
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
-    "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocIO",
@@ -15199,7 +15188,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "MBCB": [],
     "MBECS": [
         "AnnotationDbi",
         "BiocParallel",
@@ -15625,7 +15613,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "struct",
         "zlibbioc"
     ],
@@ -15784,7 +15771,6 @@
         "NOISeq"
     ],
     "metaseqR2": [
-        "ABSSeq",
         "AnnotationDbi",
         "BSgenome",
         "BiocIO",
@@ -18390,7 +18376,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [
         "Biostrings",
         "GenomeInfoDb",
@@ -21958,7 +21943,6 @@
         "graph"
     ],
     "RCyjs": [
-        "BrowserViz",
         "graph"
     ],
     "ReactomeGraph4R": [],
@@ -23028,7 +23012,6 @@
         "topGO",
         "zlibbioc"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "BiocIO",
         "BiocParallel",
@@ -23081,7 +23064,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "BiocParallel",
         "ChemmineOB",
@@ -23505,7 +23487,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "rols": [],
     "ROntoTools": [
         "Biostrings",
         "GenomeInfoDb",
@@ -27339,7 +27320,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "zlibbioc"
     ],
     "Structstrings": [
@@ -27361,7 +27341,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "rols",
         "struct",
         "zlibbioc"
     ],
