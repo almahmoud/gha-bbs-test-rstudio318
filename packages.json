@@ -448,7 +448,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "awst": [],
     "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -522,7 +521,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -905,7 +903,6 @@
         "qvalue"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [
         "DESeq2"
@@ -1372,7 +1369,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -1915,7 +1911,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -2094,7 +2089,6 @@
         "graphite",
         "mnem"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -2104,7 +2098,6 @@
         "flowViz"
     ],
     "dearseq": [],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -3469,7 +3462,6 @@
         "graph",
         "impute"
     ],
-    "gmoviz": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -3644,7 +3636,6 @@
         "DESeq2",
         "MultiAssayExperiment"
     ],
-    "HERON": [],
     "Herper": [],
     "HGC": [],
     "hiAnnotator": [],
@@ -3901,7 +3892,6 @@
         "genefilter",
         "graph"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DESeq2",
         "DEXSeq",
@@ -4106,7 +4096,6 @@
     ],
     "loci2path": [],
     "logicFS": [],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "Rhdf5lib",
@@ -5148,7 +5137,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -5707,7 +5695,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "pengls": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
@@ -6128,7 +6115,6 @@
         "gdsfmt"
     ],
     "ramr": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [
         "Rgraphviz",
         "graph"
@@ -6338,10 +6324,7 @@
         "graph"
     ],
     "RepViz": [],
-    "ReQON": [
-        "seqbias"
-    ],
-    "ResidualMatrix": [],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -6851,7 +6834,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "batchelor",
@@ -7076,7 +7058,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -7267,7 +7248,6 @@
         "HDF5Array",
         "MAST",
         "ProtGenerics",
-        "ResidualMatrix",
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -7874,7 +7854,6 @@
         "marray",
         "piano"
     ],
-    "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
         "AnnotationFilter",
@@ -7969,7 +7948,6 @@
         "qvalue",
         "sva"
     ],
-    "triplex": [],
     "tripr": [],
     "tRNA": [
         "Modstrings"
