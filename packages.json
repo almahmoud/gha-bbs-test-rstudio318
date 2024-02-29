@@ -427,7 +427,6 @@
         "genefilter",
         "sva"
     ],
-    "bambu": [],
     "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
@@ -884,7 +883,6 @@
     "BUSseq": [
         "SingleCellExperiment"
     ],
-    "CaDrA": [],
     "CAFE": [
         "AnnotationFilter",
         "OrganismDbi",
@@ -1158,8 +1156,7 @@
     ],
     "CexoR": [
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "cfdnakit": [
         "CGHbase",
@@ -2383,7 +2380,6 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eisaR": [],
     "ELMER": [
         "AnnotationFilter",
         "Gviz",
@@ -2456,8 +2452,7 @@
         "enrichplot",
         "genomation",
         "impute",
-        "qvalue",
-        "seqPattern"
+        "qvalue"
     ],
     "epidecodeR": [],
     "epigenomix": [
@@ -2654,8 +2649,7 @@
     "fastseg": [],
     "fCCAC": [
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "fcScan": [],
     "fdrame": [],
@@ -2729,7 +2723,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "bambu",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -3061,7 +3054,6 @@
     "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [],
-    "GeneRegionScan": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -3083,15 +3075,13 @@
     "geneXtendeR": [],
     "genoCN": [],
     "genomation": [
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "GenomAutomorphism": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFiles": [],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "RBGL",
         "graph"
@@ -3117,8 +3107,7 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "GenomicScores": [
         "HDF5Array",
@@ -3707,7 +3696,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "isobar": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
@@ -4092,7 +4080,6 @@
         "cytolib",
         "flowCore"
     ],
-    "metagene2": [],
     "metaMS": [
         "AnnotationFilter",
         "CAMERA",
@@ -5737,8 +5724,7 @@
     ],
     "RCAS": [
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "rCGH": [],
     "RCM": [
@@ -5748,7 +5734,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Rcpi": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -5810,7 +5795,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "recoup": [],
     "RedisParam": [],
     "REDseq": [
         "AnnotationFilter",
@@ -6474,7 +6458,6 @@
         "SingleCellExperiment"
     ],
     "scRecover": [],
-    "screenCounter": [],
     "scRepertoire": [
         "SingleCellExperiment"
     ],
@@ -6594,8 +6577,7 @@
         "enrichplot",
         "heatmaps",
         "qvalue",
-        "seqArchR",
-        "seqPattern"
+        "seqArchR"
     ],
     "SeqArray": [
         "gdsfmt"
@@ -6607,7 +6589,6 @@
     "SeqGSEA": [
         "DESeq2"
     ],
-    "seqPattern": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -6864,7 +6845,6 @@
         "genefilter",
         "tilingArray"
     ],
-    "snapcount": [],
     "snifter": [
         "basilisk",
         "basilisk.utils",
@@ -7083,7 +7063,6 @@
         "graph",
         "graphite"
     ],
-    "ssPATHS": [],
     "stageR": [],
     "standR": [
         "EDASeq",
@@ -7415,7 +7394,6 @@
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
     ],
-    "TREG": [],
     "TRESS": [],
     "tricycle": [
         "BiocNeighbors",
@@ -7590,7 +7568,6 @@
         "SpatialFeatureExperiment",
         "bluster"
     ],
-    "VplotR": [],
     "vsclust": [
         "qvalue"
     ],
