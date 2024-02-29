@@ -974,7 +974,6 @@
         "biovizBase",
         "graph"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [],
     "ChIPexoQual": [
         "biovizBase"
@@ -1070,7 +1069,6 @@
         "xcms"
     ],
     "Clomial": [],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "Rhdf5lib",
@@ -1104,10 +1102,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNORdt": [
         "CellNOptR",
         "RBGL",
@@ -1141,7 +1136,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR",
         "rhdf5",
@@ -1154,15 +1148,12 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment",
@@ -1262,8 +1253,7 @@
     ],
     "CONSTANd": [],
     "contiBAIT": [
-        "GenomicFiles",
-        "exomeCopy"
+        "GenomicFiles"
     ],
     "conumee": [
         "GEOquery",
@@ -1283,7 +1273,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR",
         "rhdf5",
@@ -1298,7 +1287,6 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MassSpecWavelet",
@@ -1674,7 +1662,6 @@
         "mzR"
     ],
     "DepecheR": [],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "bumphunter",
@@ -1788,7 +1775,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "HDF5Array",
         "Rhdf5lib",
@@ -1859,7 +1845,6 @@
         "decoupleR",
         "progeny"
     ],
-    "easylift": [],
     "easyRNASeq": [],
     "EBSEA": [
         "DESeq2"
@@ -2066,7 +2051,6 @@
     ],
     "ExCluster": [],
     "ExiMiR": [],
-    "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
     ],
@@ -2904,7 +2888,6 @@
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
-    "IgGeneUsage": [],
     "igvR": [],
     "ILoReg": [],
     "IMAS": [],
@@ -3259,7 +3242,6 @@
     ],
     "matter": [],
     "MBAmethyl": [],
-    "MBASED": [],
     "MBECS": [
         "Rhdf5lib",
         "biomformat",
@@ -3498,7 +3480,6 @@
         "biovizBase",
         "marray"
     ],
-    "methylscaper": [],
     "MethylSeekR": [],
     "methylSig": [
         "DSS",
@@ -3750,7 +3731,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "mpra": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -4263,8 +4243,7 @@
     ],
     "pairkat": [],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -4571,7 +4550,6 @@
         "widgetTools"
     ],
     "ProteoDisco": [],
-    "ProteoMM": [],
     "protGear": [
         "genefilter"
     ],
@@ -5833,7 +5811,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -6133,7 +6110,6 @@
     ],
     "weitrix": [],
     "widgetTools": [],
-    "wpm": [],
     "wppi": [
         "OmnipathR"
     ],
