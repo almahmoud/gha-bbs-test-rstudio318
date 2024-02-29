@@ -1,11 +1,9 @@
 {
     "a4": [
         "a4Base",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "abseqR": [],
@@ -263,7 +261,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -283,7 +280,6 @@
         "DESeq2",
         "MultiAssayExperiment"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -389,7 +385,6 @@
     "ATACCoGAPS": [
         "CNEr",
         "CoGAPS",
-        "DirichletMultinomial",
         "GeneOverlap",
         "OrganismDbi",
         "RBGL",
@@ -408,7 +403,6 @@
         "AnnotationFilter",
         "CNEr",
         "ChIPpeakAnno",
-        "DirichletMultinomial",
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
@@ -425,7 +419,6 @@
     ],
     "ATACseqTFEA": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -434,7 +427,6 @@
     ],
     "atSNP": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifStack"
     ],
@@ -593,7 +585,6 @@
         "BiocSingular",
         "DESeq2",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MAST",
         "Maaslin2",
         "MultiAssayExperiment",
@@ -913,7 +904,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "derfinderPlot",
         "ensembldb",
         "ggbio",
@@ -1411,7 +1401,6 @@
     ],
     "chromVAR": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "CHRONOS": [
@@ -1468,7 +1457,6 @@
         "genefilter"
     ],
     "cleanUpdTSeq": [],
-    "cleaver": [],
     "clippda": [],
     "clipper": [
         "KEGGgraph",
@@ -1495,10 +1483,7 @@
         "xcms"
     ],
     "Clomial": [],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "ProtGenerics",
@@ -1642,7 +1627,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogeqc": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -1794,7 +1778,6 @@
         "marray",
         "piano"
     ],
-    "Cormotif": [],
     "corral": [
         "MultiAssayExperiment",
         "SingleCellExperiment"
@@ -2086,7 +2069,6 @@
     ],
     "dagLogo": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifStack"
     ],
@@ -2276,10 +2258,8 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinderHelper",
         "qvalue"
     ],
-    "derfinderHelper": [],
     "derfinderPlot": [
         "AnnotationFilter",
         "GenomicFiles",
@@ -2290,7 +2270,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "ensembldb",
         "ggbio",
         "graph",
@@ -2395,7 +2374,6 @@
         "sparseMatrixStats"
     ],
     "dir.expiry": [],
-    "DirichletMultinomial": [],
     "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
@@ -2595,7 +2573,6 @@
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2631,7 +2608,6 @@
     "enrichTF": [
         "CNEr",
         "DOSE",
-        "DirichletMultinomial",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -2776,7 +2752,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "DirichletMultinomial",
         "Rbowtie2",
         "ShortRead",
         "TFBSTools",
@@ -3538,7 +3513,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "goseq": [],
     "GOSim": [
         "RBGL",
@@ -3550,7 +3524,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "goProfiles",
         "qvalue"
     ],
     "goSTAG": [],
@@ -4314,7 +4287,6 @@
     ],
     "MatrixRider": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "matter": [
@@ -4676,7 +4648,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4696,7 +4667,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4737,7 +4707,6 @@
         "BiocSingular",
         "DESeq2",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "Rhdf5lib",
         "ScaledMatrix",
@@ -4763,7 +4732,6 @@
         "qvalue"
     ],
     "MicrobiotaProcess": [],
-    "microRNA": [],
     "microSTASIS": [
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
@@ -4835,7 +4803,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -4948,7 +4915,6 @@
     ],
     "monaLisa": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "monocle": [
@@ -4981,7 +4947,6 @@
     "motifbreakR": [
         "AnnotationFilter",
         "CNEr",
-        "DirichletMultinomial",
         "Gviz",
         "MotifDb",
         "ProtGenerics",
@@ -4994,12 +4959,10 @@
     "MotifDb": [],
     "motifmatchr": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "motifStack": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "MouseFM": [],
@@ -5293,7 +5256,6 @@
         "AnnotationFilter",
         "CNEr",
         "ChIPpeakAnno",
-        "DirichletMultinomial",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -5480,7 +5442,6 @@
         "GSEABase",
         "graph"
     ],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -5669,7 +5630,6 @@
     ],
     "pageRank": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -5976,7 +5936,6 @@
     "primirTSS": [
         "AnnotationFilter",
         "CNEr",
-        "DirichletMultinomial",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -6069,8 +6028,7 @@
         "widgetTools"
     ],
     "ProteoDisco": [
-        "VariantAnnotation",
-        "cleaver"
+        "VariantAnnotation"
     ],
     "ProteoMM": [],
     "protGear": [
@@ -6083,7 +6041,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "qvalue",
         "recount"
     ],
@@ -6328,7 +6285,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "qvalue"
     ],
     "recount3": [],
@@ -6398,7 +6354,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "qvalue"
     ],
     "regsplice": [],
@@ -6531,7 +6486,6 @@
     ],
     "ribosomeProfilingQC": [
         "CNEr",
-        "DirichletMultinomial",
         "EDASeq",
         "RUVSeq",
         "ShortRead",
@@ -6601,7 +6555,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "impute",
         "qvalue",
         "recount"
@@ -6669,7 +6622,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "qvalue",
         "recount"
     ],
@@ -6755,10 +6707,8 @@
     "Rtreemix": [
         "graph"
     ],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [],
     "RUVcorr": [],
@@ -7596,7 +7546,6 @@
     "spatzie": [
         "AnnotationFilter",
         "CNEr",
-        "DirichletMultinomial",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -7698,7 +7647,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SQLDataFrame": [],
     "SQUADD": [],
     "sRACIPE": [],
     "SRAdb": [
@@ -7773,7 +7721,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [],
     "subSeq": [
         "qvalue"
     ],
@@ -7809,7 +7756,6 @@
         "MSnbase",
         "ProtGenerics",
         "Rhdf5lib",
-        "cleaver",
         "impute",
         "mzID",
         "mzR",
@@ -7914,8 +7860,7 @@
     ],
     "TFARM": [],
     "TFBSTools": [
-        "CNEr",
-        "DirichletMultinomial"
+        "CNEr"
     ],
     "TFEA.ChIP": [],
     "TFHAZ": [
@@ -8336,7 +8281,6 @@
     ],
     "wavClusteR": [],
     "webbioc": [
-        "annaffy",
         "qvalue"
     ],
     "weitrix": [
