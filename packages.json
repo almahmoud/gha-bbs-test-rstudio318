@@ -24,7 +24,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [],
     "ADImpute": [],
     "affycoretools": [
         "AnnotationForge",
@@ -850,9 +849,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -1120,7 +1117,6 @@
         "graph",
         "ncdfFlow"
     ],
-    "cytoviewer": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -2716,7 +2712,6 @@
         "bumphunter",
         "genefilter"
     ],
-    "MIRA": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -2886,7 +2881,6 @@
         "genefilter",
         "sva"
     ],
-    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -3088,7 +3082,6 @@
         "GSEABase",
         "graph"
     ],
-    "nullranges": [],
     "occugene": [],
     "octad": [
         "DESeq2",
@@ -3947,7 +3940,6 @@
         "scran"
     ],
     "scMET": [],
-    "scmeth": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
@@ -4124,7 +4116,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simpleSeg": [],
     "sincell": [],
     "SingleCellSignalR": [
         "metapod",
@@ -4656,7 +4647,6 @@
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "RBGL",
