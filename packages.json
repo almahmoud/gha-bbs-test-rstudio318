@@ -380,7 +380,6 @@
         "SingleCellExperiment"
     ],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "GeneOverlap",
         "OrganismDbi",
@@ -389,7 +388,6 @@
         "SingleCellExperiment",
         "TFBSTools",
         "chromVAR",
-        "fgsea",
         "graph",
         "motifmatchr",
         "rGREAT",
@@ -398,7 +396,6 @@
     ],
     "ATACseqQC": [
         "AnnotationFilter",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
@@ -415,7 +412,6 @@
         "rhdf5filters"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -423,7 +419,6 @@
         "sparseMatrixStats"
     ],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -645,7 +640,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "graphite",
         "qvalue"
@@ -748,7 +742,6 @@
         "ensembldb"
     ],
     "BioNAR": [
-        "fgsea",
         "graph",
         "impute"
     ],
@@ -1087,7 +1080,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "graphite",
         "qvalue"
@@ -1148,7 +1140,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "fgsea",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -1182,7 +1173,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "impute",
         "qvalue"
     ],
@@ -1212,7 +1202,6 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "qvalue"
     ],
@@ -1335,7 +1324,6 @@
     "ChIPseeker": [
         "DOSE",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "chipseq": [],
@@ -1367,7 +1355,6 @@
         "bamsignals"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "CHRONOS": [
@@ -1386,9 +1373,7 @@
         "graph",
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "CINdex": [],
     "circRNAprofiler": [
         "DESeq2",
@@ -1475,14 +1460,12 @@
     "clusterProfiler": [
         "DOSE",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [
-        "SingleCellExperiment",
-        "fgsea"
+        "SingleCellExperiment"
     ],
     "cmapR": [
         "RProtoBufLib",
@@ -1496,7 +1479,6 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNEr": [],
     "CNORdt": [
         "CellNOptR",
         "RBGL",
@@ -1586,7 +1568,6 @@
     "CoGAPS": [
         "Rhdf5lib",
         "SingleCellExperiment",
-        "fgsea",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -1693,7 +1674,6 @@
         "sparseMatrixStats",
         "survcomp"
     ],
-    "consensusSeekeR": [],
     "consICA": [
         "graph",
         "topGO"
@@ -1736,7 +1716,6 @@
     ],
     "CoreGx": [
         "MultiAssayExperiment",
-        "fgsea",
         "marray",
         "piano"
     ],
@@ -1851,7 +1830,6 @@
         "dir.expiry",
         "ensembldb"
     ],
-    "crlmm": [],
     "crossmeta": [
         "GEOquery",
         "genefilter",
@@ -1867,7 +1845,6 @@
     "CSSQ": [],
     "cTRAP": [
         "Rhdf5lib",
-        "fgsea",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -1925,7 +1902,6 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "FlowSOM",
         "RProtoBufLib",
         "Rhdf5lib",
@@ -1950,8 +1926,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CytoGLMM": [],
-    "cytoKernel": [],
     "cytolib": [
         "RProtoBufLib",
         "Rhdf5lib"
@@ -2025,7 +1999,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -2049,7 +2022,6 @@
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "impute",
         "mzID",
@@ -2083,7 +2055,6 @@
         "apeglm",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "graph",
         "pathview",
@@ -2396,7 +2367,6 @@
         "sva"
     ],
     "DOSE": [
-        "fgsea",
         "qvalue"
     ],
     "doseR": [],
@@ -2460,8 +2430,7 @@
     "easier": [
         "DESeq2",
         "decoupleR",
-        "progeny",
-        "quantiseqr"
+        "progeny"
     ],
     "easylift": [],
     "easyRNASeq": [
@@ -2518,7 +2487,6 @@
     "EMDomics": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2548,16 +2516,13 @@
     ],
     "enrichplot": [
         "DOSE",
-        "fgsea",
         "qvalue"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "motifmatchr",
         "pipeFrame",
         "qvalue"
@@ -2566,7 +2531,6 @@
         "DOSE",
         "RCy3",
         "enrichplot",
-        "fgsea",
         "graph",
         "qvalue"
     ],
@@ -2586,7 +2550,6 @@
         "DESeq2",
         "DOSE",
         "enrichplot",
-        "fgsea",
         "genomation",
         "impute",
         "qvalue",
@@ -2694,14 +2657,12 @@
         "apeglm"
     ],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "Rbowtie2",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "motifmatchr",
         "pipeFrame",
         "qvalue"
@@ -2735,7 +2696,6 @@
         "RBGL",
         "Rhdf5lib",
         "SGSeq",
-        "fgsea",
         "graph",
         "qvalue",
         "rhdf5",
@@ -2786,7 +2746,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "qvalue",
         "rWikiPathways"
     ],
@@ -2835,7 +2794,6 @@
         "graph"
     ],
     "FGNet": [],
-    "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [
         "MultiAssayExperiment",
@@ -3073,9 +3031,7 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [
-        "fgsea"
-    ],
+    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "DelayedMatrixStats",
@@ -3152,7 +3108,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "pathview",
         "qvalue"
@@ -3165,7 +3120,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "fgsea",
         "gDRcore",
         "gDRimport",
         "gDRutils",
@@ -3180,7 +3134,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "fgsea",
         "gDRutils",
         "marray",
         "piano"
@@ -3430,8 +3383,7 @@
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "GOfuncR": [],
     "GOpro": [
@@ -3446,7 +3398,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "goSTAG": [],
@@ -3500,7 +3451,6 @@
     "gsean": [
         "PPInfer",
         "STRINGdb",
-        "fgsea",
         "graph"
     ],
     "GSReg": [
@@ -3741,9 +3691,7 @@
     "ILoReg": [
         "SingleCellExperiment"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "BiocNeighbors",
         "DelayedMatrixStats",
@@ -3794,7 +3742,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "graph",
         "graphite",
@@ -3865,7 +3812,6 @@
         "rhdf5filters"
     ],
     "iPath": [],
-    "ipdDb": [],
     "IPO": [
         "AnnotationFilter",
         "CAMERA",
@@ -3940,7 +3886,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "IVAS": [],
     "ivygapSE": [],
     "karyoploteR": [
         "AnnotationFilter",
@@ -3952,8 +3897,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "maftools"
+        "VariantAnnotation"
     ],
     "kebabs": [],
     "KEGGgraph": [
@@ -3968,7 +3912,6 @@
     "keggorthology": [
         "graph"
     ],
-    "KinSwingR": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -4014,7 +3957,6 @@
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "fgsea",
         "impute",
         "ropls"
     ],
@@ -4089,7 +4031,6 @@
     "MADSEQ": [
         "VariantAnnotation"
     ],
-    "maftools": [],
     "MAGAR": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -4097,7 +4038,6 @@
         "Rhdf5lib",
         "RnBeads",
         "bumphunter",
-        "crlmm",
         "genefilter",
         "impute",
         "methylumi",
@@ -4112,7 +4052,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "pathview",
         "qvalue"
@@ -4181,7 +4120,6 @@
         "impute"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "matter": [
@@ -4221,7 +4159,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "fgsea",
         "graph"
     ],
     "mdp": [],
@@ -4288,7 +4225,6 @@
     "meshes": [
         "DOSE",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "meshr": [
@@ -4362,14 +4298,11 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "qvalue"
     ],
     "metapod": [],
-    "metapone": [
-        "fgsea"
-    ],
+    "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
         "DESeq2",
@@ -4466,7 +4399,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "methylumi",
         "minfi",
@@ -4617,7 +4549,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "microSTASIS": [
@@ -4675,8 +4606,7 @@
         "sparseMatrixStats"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "miQC": [
         "SingleCellExperiment"
@@ -4800,7 +4730,6 @@
         "qvalue"
     ],
     "monaLisa": [
-        "CNEr",
         "TFBSTools"
     ],
     "monocle": [
@@ -4813,7 +4742,6 @@
         "GEOquery",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "MoonlightR": [
@@ -4822,7 +4750,6 @@
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "mosaics": [],
@@ -4832,7 +4759,6 @@
     "Motif2Site": [],
     "motifbreakR": [
         "AnnotationFilter",
-        "CNEr",
         "Gviz",
         "MotifDb",
         "ProtGenerics",
@@ -4844,11 +4770,9 @@
     ],
     "MotifDb": [],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "MouseFM": [],
@@ -5053,7 +4977,6 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "fgsea",
         "graph",
         "graphite"
     ],
@@ -5109,8 +5032,7 @@
     ],
     "musicatk": [
         "VariantAnnotation",
-        "decompTumor2Sig",
-        "maftools"
+        "decompTumor2Sig"
     ],
     "MutationalPatterns": [
         "VariantAnnotation"
@@ -5135,7 +5057,6 @@
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
@@ -5171,9 +5092,7 @@
         "sparseMatrixStats"
     ],
     "nanotatoR": [],
-    "NanoTube": [
-        "fgsea"
-    ],
+    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -5297,8 +5216,7 @@
         "beachmat"
     ],
     "nipalsMCIA": [
-        "MultiAssayExperiment",
-        "fgsea"
+        "MultiAssayExperiment"
     ],
     "nnNorm": [
         "marray"
@@ -5395,9 +5313,7 @@
         "MultiAssayExperiment",
         "RaggedExperiment"
     ],
-    "omicsViewer": [
-        "fgsea"
-    ],
+    "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
     "oncomix": [],
@@ -5501,7 +5417,6 @@
         "MultiAssayExperiment"
     ],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -5513,7 +5428,6 @@
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
-        "fgsea",
         "genefilter",
         "geneplotter",
         "sva"
@@ -5528,7 +5442,6 @@
         "GSEABase",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "qvalue"
     ],
@@ -5539,7 +5452,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "fgsea",
         "qvalue"
     ],
     "parglms": [],
@@ -5592,7 +5504,6 @@
     "PDATK": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "genefu",
         "impute",
         "marray",
@@ -5642,7 +5553,6 @@
         "DESeq2",
         "GEOquery",
         "Rhdf5lib",
-        "fgsea",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5652,7 +5562,6 @@
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "marray",
         "piano"
     ],
@@ -5702,7 +5611,6 @@
         "graph"
     ],
     "piano": [
-        "fgsea",
         "marray"
     ],
     "pickgene": [],
@@ -5713,7 +5621,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "graphite",
         "impute",
@@ -5783,7 +5690,6 @@
     "ppcseq": [],
     "PPInfer": [
         "STRINGdb",
-        "fgsea",
         "graph"
     ],
     "pqsfinder": [],
@@ -5802,7 +5708,6 @@
     "PREDA": [],
     "primirTSS": [
         "AnnotationFilter",
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -5836,7 +5741,6 @@
         "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
-        "fgsea",
         "qvalue",
         "rGREAT",
         "soGGi"
@@ -5883,7 +5787,6 @@
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "impute",
         "mzID",
@@ -5987,8 +5890,6 @@
         "sva"
     ],
     "QTLExperiment": [],
-    "Qtlizer": [],
-    "quantiseqr": [],
     "quantro": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -6028,7 +5929,6 @@
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "marray",
         "piano"
     ],
@@ -6114,7 +6014,6 @@
     "ReactomePA": [
         "DOSE",
         "enrichplot",
-        "fgsea",
         "graph",
         "graphite",
         "qvalue"
@@ -6188,7 +6087,6 @@
         "TOAST",
         "beachmat",
         "bluster",
-        "fgsea",
         "metapod",
         "rhdf5",
         "rhdf5filters",
@@ -6331,7 +6229,6 @@
     ],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "TFBSTools",
@@ -6373,9 +6270,7 @@
         "graph",
         "topGO"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [
@@ -6887,7 +6782,6 @@
         "Rgraphviz",
         "SingleCellExperiment",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "graph",
         "graphite",
@@ -6954,7 +6848,6 @@
         "DOSE",
         "bamsignals",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "segmentSeq": [],
@@ -6970,7 +6863,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "heatmaps",
         "qvalue",
         "seqArchR",
@@ -6985,7 +6877,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGate": [],
     "SeqGSEA": [
         "DESeq2"
     ],
@@ -7071,7 +6962,6 @@
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "qvalue",
         "rhdf5",
@@ -7360,7 +7250,6 @@
     "SpatialOmicsOverlay": [],
     "spatzie": [
         "AnnotationFilter",
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -7480,7 +7369,6 @@
         "graphite"
     ],
     "ssPATHS": [],
-    "ssviz": [],
     "stageR": [],
     "standR": [
         "EDASeq",
@@ -7548,7 +7436,6 @@
     ],
     "SVMDO": [
         "DOSE",
-        "fgsea",
         "qvalue"
     ],
     "SWATH2stats": [],
@@ -7627,13 +7514,10 @@
         "RaggedExperiment"
     ],
     "TCseq": [],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "DOSE",
         "STRINGdb",
-        "TDbasedUFE",
         "enrichplot",
-        "fgsea",
         "qvalue"
     ],
     "TEKRABber": [
@@ -7658,9 +7542,7 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
         "DESeq2",
@@ -7695,7 +7577,6 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graph",
         "qvalue",
         "rWikiPathways",
@@ -7759,7 +7640,6 @@
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "marray",
         "piano"
     ],
@@ -7948,9 +7828,7 @@
         "sparseMatrixStats",
         "ttgsea"
     ],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VarCon": [],
     "variancePartition": [],
     "VariantAnnotation": [],
@@ -8011,7 +7889,6 @@
     ],
     "ViSEAGO": [
         "AnnotationForge",
-        "fgsea",
         "graph",
         "topGO"
     ],
@@ -8111,7 +7988,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "fgsea",
         "marray",
         "piano"
     ],
