@@ -553,7 +553,6 @@
     "bayNorm": [
         "SingleCellExperiment"
     ],
-    "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -1287,7 +1286,6 @@
         "ensembldb",
         "genefilter",
         "globaltest",
-        "goseq",
         "impute",
         "lumi",
         "marray",
@@ -1502,9 +1500,7 @@
         "fgsea",
         "qvalue"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [
         "SingleCellExperiment",
@@ -3304,7 +3300,6 @@
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -3489,7 +3484,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goseq": [],
     "GOSim": [
         "RBGL",
         "graph",
@@ -3786,7 +3780,6 @@
         "RBGL",
         "Rgraphviz",
         "genefilter",
-        "goseq",
         "graph",
         "pcaExplorer",
         "topGO"
@@ -6384,8 +6377,7 @@
     ],
     "rGREAT": [],
     "rgsepd": [
-        "DESeq2",
-        "goseq"
+        "DESeq2"
     ],
     "rhdf5": [
         "Rhdf5lib",
@@ -6423,9 +6415,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -7063,8 +7053,7 @@
         "qvalue"
     ],
     "segmentSeq": [
-        "ShortRead",
-        "baySeq"
+        "ShortRead"
     ],
     "selectKSigs": [
         "HiLDA"
@@ -7359,7 +7348,6 @@
     "SMITE": [
         "BioNet",
         "RBGL",
-        "goseq",
         "graph"
     ],
     "snapCGH": [
@@ -7587,7 +7575,6 @@
         "Gviz",
         "ProtGenerics",
         "VariantAnnotation",
-        "baySeq",
         "biovizBase",
         "ensembldb"
     ],
@@ -7742,8 +7729,7 @@
         "sva"
     ],
     "TCC": [
-        "DESeq2",
-        "baySeq"
+        "DESeq2"
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [
