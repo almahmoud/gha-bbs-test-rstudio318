@@ -1187,8 +1187,7 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "DESeq2",
-        "RUVSeq"
+        "DESeq2"
     ],
     "consensusOV": [
         "GSEABase",
@@ -3971,7 +3970,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "RUVSeq",
         "Rhdf5lib",
         "graph",
         "rhdf5",
@@ -4363,8 +4361,7 @@
         "DOSE",
         "enrichplot",
         "qvalue",
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "progeny": [
         "decoupleR"
@@ -4745,7 +4742,6 @@
         "rhdf5filters"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "rifiComparative": [
@@ -4906,7 +4902,6 @@
         "MotifDb"
     ],
     "RUVcorr": [],
-    "RUVSeq": [],
     "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -5026,7 +5021,6 @@
         "rhdf5filters"
     ],
     "scone": [
-        "RUVSeq",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -5347,7 +5341,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "RBGL",
@@ -5486,7 +5479,6 @@
         "graphite"
     ],
     "standR": [
-        "RUVSeq",
         "SpatialExperiment"
     ],
     "staRank": [
@@ -5712,7 +5704,6 @@
         "graph",
         "topGO"
     ],
-    "transcriptR": [],
     "transformGamPoi": [
         "HDF5Array",
         "Rhdf5lib",
