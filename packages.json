@@ -35,7 +35,6 @@
     "ADImpute": [
         "SingleCellExperiment"
     ],
-    "adSplit": [],
     "adverSCarial": [],
     "AffiXcan": [
         "MultiAssayExperiment"
@@ -935,7 +934,6 @@
         "sparseMatrixStats"
     ],
     "BPRMeth": [],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "BSgenome",
@@ -1372,7 +1370,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [
         "SingleCellExperiment"
     ],
@@ -1867,7 +1864,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "coRdon": [],
     "CoreGx": [
         "MultiAssayExperiment",
         "fgsea",
@@ -2178,7 +2174,6 @@
         "CNEr",
         "DirichletMultinomial",
         "TFBSTools",
-        "UniProt.ws",
         "motifStack"
     ],
     "daMA": [],
@@ -2612,7 +2607,6 @@
     "drugTargetInteractions": [
         "AnnotationFilter",
         "ProtGenerics",
-        "UniProt.ws",
         "ensembldb"
     ],
     "DrugVsDisease": [
@@ -2998,7 +2992,6 @@
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "impute"
     ],
     "FastqCleaner": [
@@ -3054,7 +3047,6 @@
         "MultiAssayExperiment",
         "qvalue"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "SingleCellExperiment",
         "qvalue"
@@ -3925,7 +3917,6 @@
     ],
     "hierinf": [],
     "HilbertCurve": [],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome"
     ],
@@ -4318,7 +4309,6 @@
         "impute",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "MultiAssayExperiment",
@@ -4357,7 +4347,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz",
@@ -4377,9 +4366,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "BSgenome"
     ],
@@ -4610,10 +4597,8 @@
     "memes": [
         "universalmotif"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
-        "MeSHDbi",
         "enrichplot",
         "fgsea",
         "qvalue"
@@ -4621,14 +4606,12 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "RBGL",
         "genefilter",
         "graph"
     ],
     "MesKit": [],
     "messina": [],
-    "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
@@ -5203,7 +5186,6 @@
         "ensembldb",
         "motifStack"
     ],
-    "motifcounter": [],
     "MotifDb": [],
     "motifmatchr": [
         "BSgenome",
@@ -5220,7 +5202,6 @@
     "MouseFM": [],
     "mpra": [],
     "MPRAnalyze": [],
-    "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -5733,8 +5714,7 @@
         "sparseMatrixStats"
     ],
     "odseq": [
-        "kebabs",
-        "msa"
+        "kebabs"
     ],
     "OGRE": [
         "AnnotationFilter",
@@ -6857,7 +6837,6 @@
         "regioneR"
     ],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "ProtGenerics",
         "Rhdf5lib",
@@ -7393,7 +7372,6 @@
         "DOSE",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "RBGL",
         "ReactomePA",
         "Rgraphviz",
@@ -8096,9 +8074,7 @@
     "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "survcomp": [],
     "survtype": [],
     "sva": [
@@ -8125,7 +8101,6 @@
     "switchde": [
         "SingleCellExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "MSnbase",
         "ProtGenerics",
@@ -8529,7 +8504,6 @@
         "graph"
     ],
     "unifiedWMWqPCR": [],
-    "UniProt.ws": [],
     "Uniquorn": [
         "BSgenome",
         "VariantAnnotation"
