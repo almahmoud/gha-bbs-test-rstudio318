@@ -804,7 +804,6 @@
         "bamsignals",
         "zlibbioc"
     ],
-    "ANF": [],
     "animalcules": [
         "BiocParallel",
         "DESeq2",
@@ -917,7 +916,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -2144,9 +2142,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "bioCancer": [
         "AnnotationDbi",
         "BiocIO",
@@ -2350,7 +2346,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
         "Biostrings",
@@ -4097,7 +4092,6 @@
     "ChemmineOB": [
         "zlibbioc"
     ],
-    "ChemmineR": [],
     "CHETAH": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -4109,7 +4103,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "bioDist",
         "zlibbioc"
     ],
     "chihaya": [
@@ -4878,7 +4871,6 @@
         "zlibbioc"
     ],
     "ClusterSignificance": [],
-    "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
@@ -5425,7 +5417,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "BiocParallel",
-        "ChemmineR",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -5758,7 +5749,6 @@
         "IRanges",
         "KEGGREST",
         "XVector",
-        "annotationTools",
         "biomaRt",
         "zlibbioc"
     ],
@@ -6320,7 +6310,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "Biostrings",
-        "ChemmineR",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -8249,9 +8238,7 @@
         "topGO",
         "zlibbioc"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -8328,7 +8315,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "EnMCB": [],
     "ENmix": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -9862,9 +9848,7 @@
         "ncdfFlow",
         "zlibbioc"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fmrs": [],
     "fobitools": [
         "BiocParallel",
@@ -11956,7 +11940,6 @@
         "makecdfenv",
         "zlibbioc"
     ],
-    "hca": [],
     "HDF5Array": [
         "DelayedArray",
         "IRanges",
@@ -12541,7 +12524,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -14706,7 +14688,6 @@
         "AnnotationHub",
         "BiocParallel",
         "Biostrings",
-        "ChemmineR",
         "CompoundDb",
         "DelayedArray",
         "GenomeInfoDb",
@@ -15373,9 +15354,7 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [
         "BiocParallel",
         "DelayedArray",
@@ -17643,7 +17622,6 @@
         "graph",
         "minfi",
         "multtest",
-        "pandaR",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -18593,7 +18571,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "BiocParallel",
         "Biostrings",
@@ -18870,7 +18847,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROTS",
         "XVector",
         "affy",
         "affyio",
@@ -19093,7 +19069,6 @@
         "KEGGREST",
         "OmaDB",
         "XVector",
-        "bioDist",
         "graph",
         "topGO",
         "zlibbioc"
@@ -19700,7 +19675,6 @@
         "soGGi",
         "zlibbioc"
     ],
-    "profileScoreDist": [],
     "progeny": [
         "decoupleR"
     ],
@@ -20553,7 +20527,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "randPack": [],
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
@@ -20731,7 +20704,6 @@
     "RCyjs": [
         "graph"
     ],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "AnnotationDbi",
         "BiocParallel",
@@ -21799,7 +21771,6 @@
     "RMassBank": [
         "BiocParallel",
         "ChemmineOB",
-        "ChemmineR",
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
@@ -22194,7 +22165,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "ROTS",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -22228,7 +22198,6 @@
         "zlibbioc"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -22436,7 +22405,6 @@
     "RTopper": [
         "multtest"
     ],
-    "Rtpca": [],
     "rtracklayer": [
         "BiocIO",
         "BiocParallel",
@@ -25280,7 +25248,6 @@
         "zlibbioc"
     ],
     "specL": [],
-    "SpeCond": [],
     "Spectra": [
         "BiocParallel",
         "IRanges",
