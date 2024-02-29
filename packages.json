@@ -1077,7 +1077,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [],
     "cmapR": [
@@ -3187,7 +3186,6 @@
         "HDF5Array",
         "InteractionSet",
         "Rhdf5lib",
-        "plotgardener",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3606,7 +3604,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "MMUPHin": [],
     "mnem": [
         "Rgraphviz",
         "graph"
@@ -4390,7 +4387,6 @@
         "genefilter",
         "graph"
     ],
-    "plotgardener": [],
     "plotGrouper": [],
     "plyinteractions": [
         "InteractionSet"
@@ -4592,7 +4588,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles"
     ],
@@ -4845,7 +4840,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -5919,8 +5913,7 @@
     "tximeta": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [
         "DESeq2"
