@@ -447,9 +447,7 @@
         "ggbio",
         "graph"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "OrganismDbi",
@@ -1209,7 +1207,6 @@
         "DESeq2"
     ],
     "DeMixT": [
-        "DSS",
         "genefilter",
         "sva"
     ],
@@ -1267,7 +1264,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
         "GreyListChIP"
@@ -1352,7 +1348,6 @@
         "GEOquery",
         "qvalue"
     ],
-    "DSS": [],
     "DTA": [],
     "dyebias": [
         "marray"
@@ -1372,7 +1367,6 @@
         "qvalue",
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [
         "GEOquery",
         "impute"
@@ -2132,27 +2126,20 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
     "HiCool": [
-        "HiCExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [],
     "hierinf": [],
     "hiReadsProcessor": [
         "hiAnnotator"
@@ -2208,7 +2195,6 @@
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
-    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -2343,8 +2329,7 @@
         "graph"
     ],
     "kissDE": [
-        "DESeq2",
-        "DSS"
+        "DESeq2"
     ],
     "KnowSeq": [
         "genefilter",
@@ -2445,7 +2430,6 @@
     ],
     "MantelCorr": [],
     "maPredictDSC": [],
-    "mariner": [],
     "marray": [],
     "martini": [],
     "maser": [
@@ -2571,7 +2555,6 @@
     "metaSeq": [],
     "metaseqR2": [
         "DESeq2",
-        "DSS",
         "genefilter",
         "qvalue",
         "survcomp"
@@ -2646,9 +2629,7 @@
         "biovizBase",
         "marray"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "GEOquery",
         "bumphunter",
@@ -2932,9 +2913,7 @@
         "graph",
         "graphite"
     ],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -2973,7 +2952,6 @@
         "metapod",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
@@ -3365,7 +3343,6 @@
         "graph"
     ],
     "plotGrouper": [],
-    "plyinteractions": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -3886,7 +3863,6 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scCB2": [],
     "scClassify": [
         "Cepo",
         "GSEABase",
@@ -4043,7 +4019,6 @@
         "genefilter",
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "AnnotationForge",
         "Category",
@@ -4097,7 +4072,6 @@
         "impute",
         "survcomp"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -4189,7 +4163,6 @@
         "ggbio",
         "graph"
     ],
-    "SOMNiBUS": [],
     "Spaniel": [
         "metapod",
         "scran"
@@ -4221,9 +4194,7 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPEM": [],
     "SPIA": [
         "KEGGgraph",
@@ -4328,11 +4299,8 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TAPseq": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
