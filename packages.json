@@ -57,7 +57,6 @@
         "ggbio",
         "graph"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -451,7 +450,6 @@
     ],
     "awst": [],
     "BaalChIP": [],
-    "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -702,7 +700,6 @@
         "biocViews",
         "graph"
     ],
-    "BiocSet": [],
     "BiocSingular": [
         "ScaledMatrix",
         "beachmat"
@@ -878,8 +875,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
-        "plyranges"
+        "graph"
     ],
     "borealis": [
         "DSS",
@@ -938,8 +934,7 @@
     "BUSpaRse": [
         "AnnotationFilter",
         "ProtGenerics",
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "BUSseq": [
         "SingleCellExperiment"
@@ -1090,7 +1085,6 @@
         "genefilter"
     ],
     "CBEA": [
-        "BiocSet",
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
@@ -1248,9 +1242,7 @@
         "impute",
         "marray"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [
         "basilisk",
         "basilisk.utils",
@@ -2498,7 +2490,6 @@
         "sparseMatrixStats"
     ],
     "DTA": [],
-    "Dune": [],
     "dyebias": [
         "marray"
     ],
@@ -3258,7 +3249,6 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -3347,7 +3337,6 @@
         "RCAS",
         "genomation",
         "impute",
-        "plyranges",
         "seqPattern"
     ],
     "GenomicScores": [
@@ -3496,7 +3485,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "GOfuncR": [],
     "GOpro": [
         "MultiAssayExperiment"
@@ -3890,8 +3878,7 @@
     ],
     "Informeasure": [],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "DESeq2"
@@ -3993,7 +3980,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "isobar": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
@@ -4020,7 +4006,6 @@
     "iterativeBMAsurv": [],
     "IVAS": [],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "AnnotationFilter",
         "ProtGenerics",
@@ -4032,8 +4017,7 @@
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "maftools"
     ],
     "kebabs": [],
     "KEGGgraph": [
@@ -4236,11 +4220,9 @@
         "InteractionSet",
         "Rhdf5lib",
         "plotgardener",
-        "plyranges",
         "rhdf5",
         "rhdf5filters"
     ],
-    "marr": [],
     "marray": [],
     "martini": [],
     "maser": [
@@ -4520,7 +4502,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "plyranges",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -5140,7 +5121,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR",
         "rhdf5",
         "rhdf5filters"
@@ -5304,9 +5284,7 @@
         "graph"
     ],
     "ncRNAtools": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [
         "SingleCellExperiment"
     ],
@@ -5422,8 +5400,7 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
-        "plyranges"
+        "InteractionSet"
     ],
     "occugene": [],
     "octad": [
@@ -5860,15 +5837,11 @@
         "genefilter",
         "graph"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
     "plyinteractions": [
-        "InteractionSet",
-        "plyranges"
+        "InteractionSet"
     ],
-    "plyranges": [],
     "pmm": [],
     "pmp": [
         "impute"
@@ -6611,7 +6584,6 @@
         "impute",
         "qvalue"
     ],
-    "roar": [],
     "ROCpAI": [],
     "RolDE": [
         "qvalue"
@@ -6696,8 +6668,7 @@
         "MGFR"
     ],
     "SARC": [
-        "RaggedExperiment",
-        "plyranges"
+        "RaggedExperiment"
     ],
     "satuRn": [],
     "SBGNview": [
@@ -7098,7 +7069,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SemDist": [],
     "seq2pathway": [
         "impute"
     ],
@@ -7458,7 +7428,6 @@
         "sparseMatrixStats"
     ],
     "sparrow": [
-        "BiocSet",
         "DelayedMatrixStats",
         "GSEABase",
         "graph",
@@ -7682,7 +7651,6 @@
     "subSeq": [
         "qvalue"
     ],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
     "surfaltr": [],
@@ -7808,7 +7776,6 @@
         "restfulSE",
         "rhdf5client"
     ],
-    "TEQC": [],
     "ternarynet": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
@@ -7999,7 +7966,6 @@
         "SingleCellExperiment"
     ],
     "TREG": [],
-    "Trendy": [],
     "TRESS": [],
     "tricycle": [
         "BiocNeighbors",
@@ -8068,8 +8034,7 @@
     "Ularcirc": [
         "AnnotationFilter",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "DESeq2",
