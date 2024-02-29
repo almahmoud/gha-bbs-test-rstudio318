@@ -472,7 +472,6 @@
     ],
     "barcodetrackR": [],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [
         "BiocNeighbors",
         "BiocSingular",
@@ -563,7 +562,6 @@
         "SingleCellExperiment"
     ],
     "BEAT": [],
-    "BEclear": [],
     "beer": [
         "PhIPData"
     ],
@@ -1787,7 +1785,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -2819,7 +2816,6 @@
         "RCy3",
         "graph"
     ],
-    "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -2922,7 +2918,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -3659,7 +3654,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "HilbertCurve": [],
     "HiLDA": [],
     "hipathia": [
         "MultiAssayExperiment"
@@ -4017,7 +4011,6 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -4053,7 +4046,6 @@
         "mzR",
         "xcms"
     ],
-    "loci2path": [],
     "logicFS": [],
     "LoomExperiment": [
         "HDF5Array",
@@ -4286,7 +4278,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "MEDIPS": [],
     "megadepth": [],
     "Melissa": [
         "BPRMeth"
@@ -5939,7 +5930,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "puma": [],
     "PureCN": [
         "Rhdf5lib",
         "VariantAnnotation",
@@ -6266,7 +6256,6 @@
         "ggbio",
         "graph"
     ],
-    "RepViz": [],
     "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
@@ -7001,7 +6990,6 @@
         "DESeq2"
     ],
     "seqPattern": [],
-    "seqsetvis": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -7603,7 +7591,6 @@
         "rhdf5filters"
     ],
     "TAPseq": [],
-    "target": [],
     "TargetDecoy": [
         "ProtGenerics",
         "Rhdf5lib",
