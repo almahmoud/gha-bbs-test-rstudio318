@@ -303,7 +303,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "GeneOverlap",
@@ -365,7 +364,6 @@
         "Rhdf5lib",
         "genefilter",
         "impute",
-        "mzID",
         "mzR",
         "pRoloc"
     ],
@@ -410,7 +408,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "BEARscc": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -682,7 +679,6 @@
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
-    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -728,7 +724,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -828,7 +823,6 @@
         "graph",
         "splots"
     ],
-    "CelliD": [],
     "cellity": [
         "graph",
         "topGO"
@@ -992,8 +986,7 @@
         "monocle"
     ],
     "circRNAprofiler": [
-        "DESeq2",
-        "gwascat"
+        "DESeq2"
     ],
     "CircSeqAlignTk": [
         "Rhisat2",
@@ -1026,7 +1019,6 @@
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -1035,7 +1027,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "clusterExperiment": [
@@ -1249,7 +1240,6 @@
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -1492,7 +1482,6 @@
         "enrichplot",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "qvalue",
         "tkWidgets",
@@ -1605,7 +1594,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "DepecheR": [],
@@ -1970,7 +1958,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "evaluomeR": [],
     "EventPointer": [
         "RBGL",
         "Rhdf5lib",
@@ -2074,7 +2061,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -2655,7 +2641,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "gwascat": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -2810,7 +2795,6 @@
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
-    "igvR": [],
     "ILoReg": [],
     "imcRtools": [
         "HDF5Array",
@@ -2925,7 +2909,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3013,7 +2996,6 @@
     ],
     "les": [],
     "lfa": [],
-    "LineagePulse": [],
     "lineagespot": [],
     "lipidr": [
         "MultiDataSet",
@@ -3038,7 +3020,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3118,7 +3099,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3267,11 +3247,9 @@
         "Spectra",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "RCy3",
@@ -3554,7 +3532,6 @@
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -3668,7 +3645,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "msmsTests": [
@@ -3676,14 +3652,12 @@
         "Rhdf5lib",
         "impute",
         "msmsEDA",
-        "mzID",
         "mzR",
         "qvalue"
     ],
     "MSnbase": [
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "MSnID": [
@@ -3692,7 +3666,6 @@
         "impute",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "mzR",
         "qvalue"
     ],
@@ -3735,7 +3708,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "MSstatsQCgui": [
@@ -3743,7 +3715,6 @@
         "MSstatsQC",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "MSstatsShiny": [
@@ -3816,7 +3787,6 @@
         "qvalue"
     ],
     "myvariant": [],
-    "mzID": [],
     "mzR": [
         "Rhdf5lib"
     ],
@@ -3866,7 +3836,6 @@
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -4198,13 +4167,11 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "PECA": [
         "genefilter"
     ],
-    "peco": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
@@ -4346,7 +4313,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "proActiv": [
@@ -4372,7 +4338,6 @@
         "Rhdf5lib",
         "genefilter",
         "impute",
-        "mzID",
         "mzR"
     ],
     "pRolocGUI": [
@@ -4381,7 +4346,6 @@
         "Rhdf5lib",
         "genefilter",
         "impute",
-        "mzID",
         "mzR",
         "pRoloc"
     ],
@@ -4404,7 +4368,6 @@
         "enrichplot",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "qvalue",
         "tkWidgets",
@@ -4433,7 +4396,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR",
         "rhdf5",
         "rhdf5filters"
@@ -4470,7 +4432,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "qsea": [],
@@ -4762,7 +4723,6 @@
         "biocViews",
         "graph",
         "impute",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -4779,7 +4739,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "Rmmquant": [
@@ -4996,7 +4955,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scHOT": [],
     "scider": [
         "SpatialExperiment"
     ],
@@ -5228,7 +5186,6 @@
         "survcomp"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SIMAT": [
         "Rhdf5lib",
         "mzR"
@@ -5539,7 +5496,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR",
         "qvalue"
     ],
@@ -5563,7 +5519,6 @@
     "TAPseq": [],
     "TargetDecoy": [
         "Rhdf5lib",
-        "mzID",
         "mzR"
     ],
     "TBSignatureProfiler": [
@@ -5651,7 +5606,6 @@
         "DynDoc",
         "widgetTools"
     ],
-    "tLOH": [],
     "TMixClust": [
         "SPEM"
     ],
@@ -5673,7 +5627,6 @@
         "MSnbase",
         "Rhdf5lib",
         "impute",
-        "mzID",
         "mzR"
     ],
     "topGO": [
@@ -5857,8 +5810,7 @@
         "qvalue"
     ],
     "vtpnet": [
-        "graph",
-        "gwascat"
+        "graph"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -5900,7 +5852,6 @@
         "Rhdf5lib",
         "Spectra",
         "impute",
-        "mzID",
         "mzR"
     ],
     "XDE": [
