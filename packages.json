@@ -688,7 +688,6 @@
         "scran"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "GSEABase",
@@ -2150,7 +2149,6 @@
     "GGPA": [],
     "ggspavis": [],
     "GIGSEA": [],
-    "girafe": [],
     "GISPA": [
         "GSEABase",
         "genefilter",
@@ -2166,7 +2164,6 @@
         "GSEABase",
         "graph"
     ],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "AnnotationForge",
@@ -2389,7 +2386,6 @@
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
-    "ILoReg": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -2437,7 +2433,6 @@
         "flowCore"
     ],
     "Informeasure": [],
-    "InPAS": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -2489,25 +2484,14 @@
         "xcms"
     ],
     "ISAnalytics": [],
-    "iSEE": [],
     "iSEEde": [
-        "DESeq2",
-        "iSEE"
+        "DESeq2"
     ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoBayes": [],
@@ -2616,7 +2600,6 @@
         "dir.expiry"
     ],
     "made4": [],
-    "MADSEQ": [],
     "MAGAR": [
         "GEOquery",
         "RnBeads",
@@ -2906,7 +2889,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "midasHLA": [],
     "mimager": [
         "affyPLM"
     ],
@@ -3977,7 +3959,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "RgnTX": [],
     "rgoslin": [],
     "RGraph2js": [
         "graph"
@@ -4218,7 +4199,6 @@
         "metapod",
         "scran"
     ],
-    "scDDboost": [],
     "scds": [],
     "scFeatures": [
         "AUCell",
@@ -4256,7 +4236,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "basilisk",
@@ -4327,7 +4306,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "selectKSigs": [],
     "seq2pathway": [
         "impute"
     ],
@@ -4645,7 +4623,6 @@
         "graph"
     ],
     "STRINGdb": [],
-    "StructuralVariantAnnotation": [],
     "subSeq": [
         "qvalue"
     ],
@@ -4655,12 +4632,8 @@
     "sva": [
         "genefilter"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "qvalue"
@@ -4768,7 +4741,6 @@
         "GSEABase",
         "graph"
     ],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc",
         "widgetTools"
