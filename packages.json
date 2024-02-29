@@ -1120,7 +1120,6 @@
         "SingleCellExperiment"
     ],
     "ccImpute": [],
-    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE",
@@ -2518,7 +2517,6 @@
         "ShortRead",
         "genomeIntervals"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -3373,9 +3371,7 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "GEOquery",
         "genefilter",
@@ -3385,7 +3381,6 @@
     "GEOmetadb": [
         "GEOquery"
     ],
-    "GeomxTools": [],
     "GEOquery": [],
     "GeoTcgaData": [],
     "gep2pep": [
@@ -3557,7 +3552,6 @@
     "graphite": [
         "graph"
     ],
-    "GraphPAC": [],
     "GreyListChIP": [],
     "GRmetrics": [],
     "groHMM": [],
@@ -3928,7 +3922,6 @@
     ],
     "interacCircos": [],
     "InteractionSet": [],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -4050,7 +4043,6 @@
         "maftools",
         "plyranges"
     ],
-    "KCsmart": [],
     "kebabs": [],
     "KEGGgraph": [
         "Rgraphviz",
@@ -4405,7 +4397,6 @@
         "genefilter",
         "graph"
     ],
-    "MesKit": [],
     "messina": [],
     "metabinR": [],
     "MetaboAnnotation": [
@@ -6081,7 +6072,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "STRINGdb",
         "graph"
@@ -6138,10 +6128,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles",
         "ShortRead",
@@ -7303,7 +7290,6 @@
         "sparseMatrixStats"
     ],
     "SimFFPE": [],
-    "simona": [],
     "simpleSeg": [
         "HDF5Array",
         "Rhdf5lib",
@@ -7472,7 +7458,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "BiocNeighbors",
         "BiocSingular",
@@ -7514,9 +7499,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [
         "SingleCellExperiment"
     ],
@@ -7540,9 +7523,7 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "AnnotationFilter",
         "CNEr",
@@ -7589,7 +7570,6 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [],
     "spikeLI": [],
     "spiky": [],
     "splatter": [
@@ -7688,7 +7668,6 @@
         "splots"
     ],
     "StarBioTrek": [
-        "SpidermiR",
         "graph",
         "graphite"
     ],
@@ -8060,7 +8039,6 @@
         "qvalue",
         "sva"
     ],
-    "trio": [],
     "triplex": [],
     "tripr": [],
     "tRNA": [
