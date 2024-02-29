@@ -1364,7 +1364,6 @@
     ],
     "DESeq2": [],
     "DEsingle": [],
-    "DESpace": [],
     "destiny": [],
     "DEsubs": [
         "DESeq2",
@@ -2471,7 +2470,6 @@
     "iSEEhex": [],
     "iSEEhub": [],
     "iSEEindex": [],
-    "iSEEpathways": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -2555,7 +2553,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "LoomExperiment": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz",
@@ -2968,7 +2965,6 @@
         "graph",
         "graphite"
     ],
-    "MoleculeExperiment": [],
     "MOMA": [
         "qvalue"
     ],
@@ -4184,7 +4180,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scider": [],
     "scifer": [
         "RProtoBufLib",
         "cytolib",
@@ -4576,7 +4571,6 @@
         "graphite"
     ],
     "STATegRa": [],
-    "Statial": [],
     "statTarget": [
         "impute"
     ],
