@@ -9,7 +9,6 @@
         "XVector",
         "a4Base",
         "a4Classif",
-        "a4Core",
         "a4Preproc",
         "annaffy",
         "annotate",
@@ -25,7 +24,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "XVector",
-        "a4Core",
         "a4Preproc",
         "annaffy",
         "annotate",
@@ -34,10 +32,8 @@
         "zlibbioc"
     ],
     "a4Classif": [
-        "a4Core",
         "a4Preproc"
     ],
-    "a4Core": [],
     "a4Preproc": [],
     "ABarray": [
         "multtest"
@@ -65,7 +61,6 @@
     "aCGH": [
         "multtest"
     ],
-    "ACME": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
@@ -970,7 +965,6 @@
         "zlibbioc"
     ],
     "AnVILBilling": [],
-    "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
         "AnnotationDbi",
@@ -1524,7 +1518,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BAGS": [],
     "ballgown": [
         "AnnotationDbi",
         "BiocIO",
@@ -2154,7 +2147,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "biobroom": [],
     "bioCancer": [
         "AnnotationDbi",
         "BiocIO",
@@ -2162,7 +2154,6 @@
         "Biostrings",
         "DOSE",
         "DelayedArray",
-        "EBarrays",
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -2728,7 +2719,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "Linnorm",
         "MatrixGenerics",
         "RBGL",
         "Rgraphviz",
@@ -3325,7 +3315,6 @@
         "Biostrings",
         "Category",
         "DelayedArray",
-        "EBarrays",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -3405,7 +3394,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "EBarrays",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3429,7 +3417,6 @@
         "BiocParallel",
         "BiocSingular",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "DelayedMatrixStats",
         "FlowSOM",
@@ -3869,7 +3856,6 @@
     "censcyt": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -4473,7 +4459,6 @@
         "BiocParallel",
         "BiocSingular",
         "Biostrings",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
@@ -5499,7 +5484,6 @@
         "graph"
     ],
     "consensus": [],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -6412,7 +6396,6 @@
     "CyTOFpower": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "DelayedArray",
         "FlowSOM",
@@ -6437,7 +6420,6 @@
         "BiocSingular",
         "CATALYST",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "DelayedMatrixStats",
         "FlowSOM",
@@ -6741,7 +6723,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "XVector",
@@ -7008,7 +6989,6 @@
     "DEGreport": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DESeq2",
         "DelayedArray",
         "GenomeInfoDb",
@@ -7477,7 +7457,6 @@
     ],
     "diffcyt": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -8158,10 +8137,7 @@
         "genomeIntervals",
         "zlibbioc"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBImage": [],
     "EBSEA": [
         "BiocParallel",
@@ -8745,7 +8721,6 @@
         "zlibbioc"
     ],
     "epiNEM": [
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "graph",
@@ -9798,7 +9773,6 @@
     ],
     "flowPlots": [],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "RProtoBufLib",
         "Rhdf5lib",
         "cytolib",
@@ -10069,9 +10043,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "gaga": [
-        "EBarrays"
-    ],
+    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
@@ -10523,9 +10495,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "geNetClassifier": [
-        "EBarrays"
-    ],
+    "geNetClassifier": [],
     "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
@@ -12430,7 +12400,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -12918,7 +12887,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "plgem",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -13353,7 +13321,6 @@
         "BiocParallel",
         "Biostrings",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2",
         "DelayedArray",
@@ -13386,7 +13353,6 @@
         "oligoClasses",
         "zlibbioc"
     ],
-    "iterativeBMA": [],
     "iterativeBMAsurv": [],
     "IVAS": [
         "AnnotationDbi",
@@ -13689,7 +13655,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "Biostrings",
         "GenomeInfoDb",
@@ -14819,7 +14784,6 @@
         "zlibbioc"
     ],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "RProtoBufLib",
         "Rhdf5lib",
@@ -16103,7 +16067,6 @@
         "metagenomeSeq"
     ],
     "mnem": [
-        "Linnorm",
         "Rgraphviz",
         "graph"
     ],
@@ -17085,7 +17048,6 @@
         "widgetTools",
         "zlibbioc"
     ],
-    "multiscan": [],
     "multiWGCNA": [
         "AnnotationDbi",
         "Biostrings",
@@ -17531,7 +17493,6 @@
         "zlibbioc"
     ],
     "nempi": [
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "epiNEM",
@@ -18829,7 +18790,6 @@
         "BiocParallel",
         "Biostrings",
         "BumpyMatrix",
-        "ConsensusClusterPlus",
         "CoreGx",
         "DelayedArray",
         "GenomeInfoDb",
@@ -19295,7 +19255,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "plgem": [],
     "plier": [
         "affy",
         "affyio",
@@ -19685,7 +19644,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "PROcess": [],
     "procoil": [
         "Biostrings",
         "GenomeInfoDb",
@@ -19821,7 +19779,6 @@
         "graph",
         "zlibbioc"
     ],
-    "PROPER": [],
     "PROPS": [
         "AnnotationDbi",
         "BiocParallel",
@@ -26946,9 +26903,7 @@
         "piano",
         "zlibbioc"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "TPP2D": [
         "BiocParallel"
     ],
@@ -27175,7 +27130,6 @@
     "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -27585,7 +27539,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
