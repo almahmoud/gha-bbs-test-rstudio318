@@ -79,7 +79,6 @@
         "graph"
     ],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -90,48 +89,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -240,7 +223,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
         "OrganismDbi",
         "RBGL",
@@ -432,7 +414,6 @@
     "biodbUniprot": [
         "biodb"
     ],
-    "biomformat": [],
     "BioMVCClass": [
         "Rgraphviz",
         "graph"
@@ -497,7 +478,6 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
@@ -865,7 +845,6 @@
     ],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -931,7 +910,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "Cogito": [],
     "coGPS": [],
     "COHCAP": [],
@@ -942,7 +920,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -1037,7 +1014,6 @@
         "graph"
     ],
     "COSNet": [],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter"
@@ -1108,7 +1084,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "cTRAP": [],
     "CTSV": [
         "qvalue"
     ],
@@ -2189,7 +2164,6 @@
     ],
     "GreyListChIP": [],
     "groHMM": [],
-    "GSCA": [],
     "GSEABase": [
         "graph"
     ],
@@ -2245,7 +2219,6 @@
     "GWENA": [
         "impute"
     ],
-    "h5vc": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -2263,7 +2236,6 @@
     "HGC": [],
     "hiAnnotator": [],
     "HIBAG": [],
-    "HiCBricks": [],
     "HiCcompare": [
         "InteractionSet"
     ],
@@ -2432,7 +2404,6 @@
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "IONiseR": [],
     "iPath": [],
     "IPO": [
         "CAMERA",
@@ -2629,7 +2600,6 @@
         "genefilter",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "gdsfmt"
@@ -2834,7 +2804,6 @@
     "mgsa": [],
     "miaSim": [],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -3229,7 +3198,6 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -3526,7 +3494,6 @@
         "graph",
         "topGO"
     ],
-    "phyloseq": [],
     "Pi": [
         "Rgraphviz",
         "graph"
@@ -3590,9 +3557,7 @@
         "graph"
     ],
     "pqsfinder": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores",
@@ -3839,7 +3804,6 @@
         "RBGL",
         "graph"
     ],
-    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -4044,7 +4008,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "RPA": [],
     "RProtoBufLib": [],
     "Rqc": [
         "GenomicFiles",
