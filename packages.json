@@ -178,7 +178,6 @@
         "topGO"
     ],
     "appreci8R": [
-        "GenomicScores",
         "OrganismDbi",
         "RBGL",
         "graph"
@@ -229,7 +228,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "RBGL",
         "graph"
     ],
@@ -272,7 +270,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "metapod",
         "scran"
     ],
@@ -293,7 +290,6 @@
         "metapod",
         "scran"
     ],
-    "beachmat.hdf5": [],
     "benchdamic": [
         "ALDEx2",
         "DESeq2",
@@ -576,10 +572,7 @@
         "phenoTest"
     ],
     "cardelino": [],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM",
@@ -1072,7 +1065,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "cyanoFilter": [
         "RProtoBufLib",
         "cytolib",
@@ -1572,7 +1564,6 @@
         "GSVA",
         "graph"
     ],
-    "escheR": [],
     "esetVis": [],
     "EventPointer": [
         "RBGL",
@@ -1840,7 +1831,6 @@
         "genefilter",
         "minfi"
     ],
-    "GA4GHshiny": [],
     "gage": [
         "graph"
     ],
@@ -1990,7 +1980,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicScores": [],
     "GenomicSuperSignature": [],
     "GenomicTuples": [],
     "GenProSeq": [
@@ -2060,7 +2049,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "glmGamPoi": [],
     "GlobalAncova": [
         "GSEABase",
         "graph"
@@ -2364,10 +2352,7 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEhex": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -2416,9 +2401,7 @@
     ],
     "LACE": [],
     "LEA": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "les": [],
     "lfa": [],
     "lineagespot": [],
@@ -2656,7 +2639,6 @@
     "MethReg": [
         "sesame"
     ],
-    "methrix": [],
     "MethylAid": [
         "GEOquery",
         "bumphunter",
@@ -3034,7 +3016,6 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "RBGL",
         "Rgraphviz",
@@ -3462,7 +3443,6 @@
     "prebs": [],
     "PREDA": [],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
@@ -3624,9 +3604,7 @@
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "RbcBook1": [
         "graph"
     ],
@@ -3915,7 +3893,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "Rtreemix": [
         "graph"
     ],
@@ -4288,7 +4265,6 @@
         "dir.expiry"
     ],
     "SpatialDecon": [],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "genefilter",
         "metapod",
@@ -4336,7 +4312,6 @@
         "biovizBase"
     ],
     "splots": [],
-    "SpotClean": [],
     "SPsimSeq": [
         "impute"
     ],
@@ -4356,7 +4331,6 @@
         "graph",
         "graphite"
     ],
-    "standR": [],
     "staRank": [
         "Category",
         "GSEABase",
@@ -4377,7 +4351,6 @@
     "stepNorm": [
         "marray"
     ],
-    "stJoincount": [],
     "Streamer": [
         "RBGL",
         "graph"
@@ -4392,7 +4365,6 @@
     "sva": [
         "genefilter"
     ],
-    "svaRetro": [],
     "SVMDO": [
         "DOSE",
         "qvalue"
@@ -4541,9 +4513,7 @@
         "graph",
         "topGO"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -4639,7 +4609,6 @@
         "gdsfmt"
     ],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "RBGL",
         "biovizBase",
@@ -4674,9 +4643,7 @@
         "GSEABase",
         "graph"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [
         "qvalue"
     ],
