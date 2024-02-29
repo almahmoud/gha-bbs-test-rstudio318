@@ -586,7 +586,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "MAST",
-        "Maaslin2",
         "MultiAssayExperiment",
         "Rhdf5lib",
         "ScaledMatrix",
@@ -1592,7 +1591,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "exomeCopy"
     ],
@@ -1903,7 +1901,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [
         "Rhdf5lib",
         "fgsea",
@@ -2688,7 +2685,6 @@
         "mnem"
     ],
     "epistack": [],
-    "epistasisGA": [],
     "EpiTxDb": [
         "Modstrings",
         "tRNA",
@@ -3160,7 +3156,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "VariantAnnotation"
     ],
@@ -3201,7 +3196,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "gcapc": [],
     "gcatest": [
         "lfa"
     ],
@@ -3492,7 +3486,6 @@
         "impute"
     ],
     "gmoviz": [],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -4165,9 +4158,7 @@
     ],
     "LymphoSeq": [],
     "m6Aboost": [],
-    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
         "impute"
     ],
     "macat": [],
@@ -4273,8 +4264,7 @@
         "graph"
     ],
     "MatrixQCvis": [
-        "impute",
-        "proDA"
+        "impute"
     ],
     "MatrixRider": [
         "CNEr",
@@ -4304,7 +4294,6 @@
         "gdsfmt"
     ],
     "MBQN": [],
-    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -4721,7 +4710,6 @@
         "fgsea",
         "qvalue"
     ],
-    "MicrobiotaProcess": [],
     "microSTASIS": [
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
@@ -4841,9 +4829,7 @@
         "DESeq2"
     ],
     "MMDiff2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "mnem": [
         "Rgraphviz",
         "graph"
@@ -5953,7 +5939,6 @@
     "procoil": [
         "kebabs"
     ],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -6256,7 +6241,6 @@
         "dir.expiry",
         "graph"
     ],
-    "receptLoss": [],
     "reconsi": [
         "Rhdf5lib",
         "biomformat",
@@ -6711,7 +6695,6 @@
         "MGFM",
         "MGFR"
     ],
-    "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
@@ -7287,7 +7270,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "SimFFPE": [],
     "simpleSeg": [
         "HDF5Array",
         "Rhdf5lib",
@@ -7615,7 +7597,6 @@
         "SingleCellExperiment",
         "sparseMatrixStats"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "Rhdf5lib",
         "SingleCellExperiment",
@@ -7835,7 +7816,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "CNEr"
     ],
