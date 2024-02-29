@@ -1249,7 +1249,6 @@
         "MatrixGenerics",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -1750,7 +1749,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "BaseSpaceR": [],
     "Basic4Cseq": [
         "BSgenome",
         "BiocIO",
@@ -2022,9 +2020,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BEARscc": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -4197,7 +4193,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "CFAssay": [],
     "cfdnakit": [
         "BiocParallel",
         "Biostrings",
@@ -11095,7 +11090,6 @@
         "SeqVarTools",
         "XVector",
         "gdsfmt",
-        "quantsmooth",
         "zlibbioc"
     ],
     "GeneStructureTools": [
@@ -12586,8 +12580,7 @@
         "zlibbioc"
     ],
     "GWASTools": [
-        "gdsfmt",
-        "quantsmooth"
+        "gdsfmt"
     ],
     "gwasurvivr": [
         "AnnotationDbi",
@@ -12615,7 +12608,6 @@
         "XVector",
         "biomaRt",
         "gdsfmt",
-        "quantsmooth",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -12966,7 +12958,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "hierGWAS": [],
     "hierinf": [],
     "HilbertCurve": [
         "GenomeInfoDb",
@@ -14797,7 +14788,6 @@
         "annotate",
         "zlibbioc"
     ],
-    "maCorrPlot": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationDbi",
@@ -15288,7 +15278,6 @@
         "affyio",
         "gdsfmt",
         "oligoClasses",
-        "quantsmooth",
         "zlibbioc"
     ],
     "MBQN": [
@@ -15707,7 +15696,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "metaCCA": [],
     "MetaCyto": [
         "ConsensusClusterPlus",
         "FlowSOM",
@@ -18598,7 +18586,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "netbiov": [],
     "netboost": [
         "AnnotationDbi",
         "Biostrings",
@@ -18897,7 +18884,6 @@
         "graph",
         "zlibbioc"
     ],
-    "NTW": [],
     "nucleoSim": [
         "IRanges",
         "S4Vectors"
@@ -19785,9 +19771,7 @@
         "affyio",
         "zlibbioc"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [],
     "pareg": [
         "AnnotationDbi",
@@ -19851,7 +19835,6 @@
     ],
     "Path2PPI": [],
     "pathifier": [],
-    "PathNet": [],
     "PathoStat": [
         "BiocParallel",
         "Biostrings",
@@ -20076,7 +20059,6 @@
     "pengls": [
         "BiocParallel"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -21563,7 +21545,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "Biostrings",
         "GenomeInfoDb",
@@ -21789,7 +21770,6 @@
         "biomaRt",
         "ensembldb",
         "gdsfmt",
-        "quantsmooth",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -21944,7 +21924,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "RCASPAR": [],
     "rcellminer": [],
     "rCGH": [
         "AnnotationDbi",
@@ -22021,7 +22000,6 @@
         "BrowserViz",
         "graph"
     ],
-    "Rdisop": [],
     "ReactomeGraph4R": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -22194,7 +22172,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RedeR": [],
     "RedisParam": [
         "BiocParallel"
     ],
@@ -23779,7 +23756,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -23795,7 +23771,6 @@
         "IRanges",
         "MatrixGenerics",
         "RTN",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -23812,7 +23787,6 @@
         "MatrixGenerics",
         "RTN",
         "RTNduals",
-        "RedeR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -25932,7 +25906,6 @@
         "XVector",
         "annotate",
         "globaltest",
-        "quantsmooth",
         "zlibbioc"
     ],
     "SIMAT": [
@@ -25997,7 +25970,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "similaRpeak": [],
     "simona": [
         "ComplexHeatmap",
         "IRanges",
@@ -28646,7 +28618,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RedeR",
         "S4Vectors",
         "XVector",
         "biomaRt",
@@ -28794,9 +28765,7 @@
         "slingshot",
         "zlibbioc"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -29124,7 +29093,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "TypeInfo": [],
     "UCell": [
         "BiocNeighbors",
         "BiocParallel",
