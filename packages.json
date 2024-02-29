@@ -24,9 +24,7 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [
-        "mzR"
-    ],
+    "adductomicsR": [],
     "ADImpute": [],
     "affycoretools": [
         "AnnotationForge",
@@ -266,7 +264,6 @@
         "MSnbase",
         "genefilter",
         "impute",
-        "mzR",
         "pRoloc"
     ],
     "BASiCS": [
@@ -304,7 +301,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "BgeeDB": [
         "graph",
         "topGO"
@@ -563,7 +559,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "canceR": [
@@ -825,14 +820,12 @@
         "QFeatures",
         "Spectra",
         "impute",
-        "mzR",
         "xcms"
     ],
     "Clomial": [],
     "CluMSID": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "clusterExperiment": [
         "genefilter",
@@ -994,7 +987,6 @@
         "QFeatures",
         "Spectra",
         "impute",
-        "mzR",
         "xcms"
     ],
     "cosmosR": [
@@ -1036,7 +1028,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CRISPRseek": [],
     "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
@@ -1190,7 +1181,6 @@
         "enrichplot",
         "graph",
         "impute",
-        "mzR",
         "qvalue",
         "tkWidgets",
         "widgetTools"
@@ -1286,8 +1276,7 @@
     ],
     "DEP": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "DepecheR": [],
     "derfinder": [
@@ -1333,9 +1322,7 @@
         "DESeq2",
         "genefilter"
     ],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
         "GreyListChIP"
@@ -1676,7 +1663,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "FLAMES": [
@@ -2170,7 +2156,6 @@
         "graph"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "RBGL",
         "graph"
@@ -2373,7 +2358,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "ISAnalytics": [],
@@ -2459,7 +2443,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "logicFS": [],
@@ -2522,7 +2505,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "MANOR": [
@@ -2642,7 +2624,6 @@
         "Spectra",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "MetaPhOR": [
@@ -2752,7 +2733,6 @@
     "MGFR": [],
     "mgsa": [],
     "miaSim": [],
-    "microbiome": [],
     "microbiomeExplorer": [
         "DESeq2"
     ],
@@ -2843,7 +2823,6 @@
         "QFeatures",
         "Spectra",
         "impute",
-        "mzR",
         "xcms"
     ],
     "MODA": [
@@ -2940,35 +2919,29 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "msmsTests": [
         "MSnbase",
         "impute",
         "msmsEDA",
-        "mzR",
         "qvalue"
     ],
     "MSnbase": [
-        "impute",
-        "mzR"
+        "impute"
     ],
     "MSnID": [
         "MSnbase",
         "impute",
         "msmsEDA",
         "msmsTests",
-        "mzR",
         "qvalue"
     ],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -2998,14 +2971,12 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -3017,13 +2988,11 @@
         "MSstats",
         "marray"
     ],
-    "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "bamsignals",
         "biovizBase",
         "karyoploteR"
@@ -3062,7 +3031,6 @@
         "graph",
         "qvalue"
     ],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
@@ -3095,7 +3063,6 @@
         "QFeatures",
         "Spectra",
         "impute",
-        "mzR",
         "xcms"
     ],
     "NCIgraph": [
@@ -3222,7 +3189,6 @@
         "rexposome",
         "sva"
     ],
-    "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoScore": [],
@@ -3381,8 +3347,7 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "PECA": [
         "genefilter"
@@ -3503,8 +3468,7 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "proActiv": [
         "DESeq2"
@@ -3527,15 +3491,13 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
         "impute",
-        "mzR",
         "pRoloc"
     ],
     "PROMISE": [
@@ -3556,7 +3518,6 @@
         "enrichplot",
         "graph",
         "impute",
-        "mzR",
         "qvalue",
         "tkWidgets",
         "widgetTools"
@@ -3582,10 +3543,8 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
-    "PureCN": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -3611,8 +3570,7 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "qsea": [],
     "qsmooth": [
@@ -3685,7 +3643,6 @@
         "genomation",
         "impute"
     ],
-    "RCM": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -3717,7 +3674,6 @@
         "dir.expiry",
         "graph"
     ],
-    "reconsi": [],
     "recount": [
         "GEOquery",
         "GenomicFiles",
@@ -3828,7 +3784,6 @@
         "ggbio",
         "graph"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
@@ -3847,7 +3802,6 @@
         "biocViews",
         "graph",
         "impute",
-        "mzR",
         "xcms"
     ],
     "RITAN": [
@@ -3861,8 +3815,7 @@
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "Rmmquant": [
         "DESeq2"
@@ -4059,7 +4012,6 @@
     ],
     "scMET": [],
     "scmeth": [],
-    "scone": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
@@ -4196,7 +4148,6 @@
         "genefilter",
         "minfi"
     ],
-    "SIAMCAT": [],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
@@ -4227,9 +4178,7 @@
         "impute",
         "survcomp"
     ],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -4454,7 +4403,6 @@
     "synapter": [
         "MSnbase",
         "impute",
-        "mzR",
         "qvalue"
     ],
     "synlet": [
@@ -4471,9 +4419,7 @@
         "HiCcompare"
     ],
     "TAPseq": [],
-    "TargetDecoy": [
-        "mzR"
-    ],
+    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
@@ -4569,8 +4515,7 @@
     ],
     "topdownr": [
         "MSnbase",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "topGO": [
         "graph"
@@ -4770,8 +4715,7 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "impute",
-        "mzR"
+        "impute"
     ],
     "XDE": [
         "GeneMeta",
@@ -4788,9 +4732,7 @@
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "RBGL",
