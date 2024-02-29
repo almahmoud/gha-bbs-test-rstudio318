@@ -232,9 +232,7 @@
         "biocViews",
         "graph"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota": [
         "qvalue"
     ],
@@ -331,7 +329,6 @@
         "TFBSTools",
         "graph",
         "motifStack",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -453,7 +450,6 @@
         "GSEABase",
         "graph"
     ],
-    "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
         "graph",
@@ -479,7 +475,6 @@
         "DOSE",
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -620,7 +615,6 @@
         "graph",
         "impute",
         "marray",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -758,7 +752,6 @@
         "Heatplus",
         "RBGL",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "genefilter",
@@ -803,7 +796,6 @@
     "cbaf": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "genefilter"
@@ -812,7 +804,6 @@
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -981,8 +972,7 @@
     "ChIPpeakAnno": [
         "InteractionSet",
         "RBGL",
-        "graph",
-        "regioneR"
+        "graph"
     ],
     "ChIPQC": [
         "DESeq2",
@@ -1026,7 +1016,6 @@
         "monocle"
     ],
     "CIMICE": [],
-    "CINdex": [],
     "circRNAprofiler": [
         "DESeq2",
         "gwascat"
@@ -1053,7 +1042,6 @@
         "graph",
         "qpgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
@@ -1137,7 +1125,6 @@
         "biovizBase",
         "cn.mops",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -1149,14 +1136,12 @@
         "biovizBase",
         "cn.mops",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
     "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
@@ -1274,7 +1259,6 @@
         "biovizBase",
         "cn.mops",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -1682,8 +1666,7 @@
         "ChIPpeakAnno",
         "InteractionSet",
         "RBGL",
-        "graph",
-        "regioneR"
+        "graph"
     ],
     "DESeq2": [],
     "DEsingle": [],
@@ -1781,7 +1764,6 @@
         "annotatr",
         "bsseq",
         "bumphunter",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2583,7 +2565,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [],
     "GGPA": [],
     "ggsc": [],
     "ggspavis": [
@@ -2629,7 +2610,6 @@
     "GNOSIS": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
@@ -2722,7 +2702,6 @@
         "RBGL",
         "Rhdf5lib",
         "graph",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3053,8 +3032,7 @@
     "ivygapSE": [],
     "karyoploteR": [
         "bamsignals",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [],
     "kebabs": [],
@@ -3335,7 +3313,6 @@
         "Rgraphviz",
         "graph",
         "hpar",
-        "mygene",
         "qvalue"
     ],
     "MetaCyto": [
@@ -3880,7 +3857,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3927,7 +3903,6 @@
         "graph",
         "qvalue"
     ],
-    "mygene": [],
     "myvariant": [],
     "mzID": [],
     "mzR": [
@@ -3949,7 +3924,6 @@
         "graph",
         "metapod",
         "motifStack",
-        "regioneR",
         "rhdf5",
         "rhdf5filters",
         "trackViewer"
@@ -4135,9 +4109,7 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -4437,7 +4409,6 @@
     "pmp": [
         "impute"
     ],
-    "podkat": [],
     "pogos": [
         "Rgraphviz",
         "graph",
@@ -4465,9 +4436,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "PREDA": [],
     "primirTSS": [
         "GenomicScores",
@@ -4583,7 +4552,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -4658,7 +4626,6 @@
         "piano"
     ],
     "raer": [],
-    "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -4701,7 +4668,6 @@
         "genomation",
         "impute"
     ],
-    "rCGH": [],
     "RCM": [
         "Rhdf5lib",
         "biomformat",
@@ -4772,8 +4738,7 @@
         "ChIPpeakAnno",
         "InteractionSet",
         "RBGL",
-        "graph",
-        "regioneR"
+        "graph"
     ],
     "regionalpcs": [
         "PCAtools"
@@ -4786,10 +4751,7 @@
         "rhdf5filters",
         "scran"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "DESeq2",
@@ -4852,9 +4814,7 @@
     ],
     "Rfastp": [],
     "rGADEM": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgoslin": [],
     "RGraph2js": [
         "graph"
@@ -4936,9 +4896,7 @@
     "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLMM": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase",
         "Rhdf5lib",
@@ -5046,17 +5004,14 @@
         "ropls"
     ],
     "RRHO": [],
-    "rrvgo": [],
     "rsbml": [
         "graph"
     ],
-    "rScudo": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RTN": [],
@@ -5087,9 +5042,7 @@
         "MGFM",
         "MGFR"
     ],
-    "SARC": [
-        "RaggedExperiment"
-    ],
+    "SARC": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -5157,7 +5110,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scde": [],
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
@@ -5199,7 +5151,6 @@
         "Rhdf5lib",
         "annotatr",
         "bsseq",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5548,7 +5499,6 @@
         "Rhdf5lib",
         "annotatr",
         "bsseq",
-        "regioneR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5790,8 +5740,7 @@
         "DESeq2"
     ],
     "TCGAutils": [
-        "GenomicDataCommons",
-        "RaggedExperiment"
+        "GenomicDataCommons"
     ],
     "TCseq": [],
     "TDbasedUFEadv": [
@@ -5813,7 +5762,6 @@
     ],
     "terraTCGAdata": [
         "GenomicDataCommons",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [],
@@ -5876,7 +5824,6 @@
         "rhdf5filters"
     ],
     "TnT": [],
-    "tomoda": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -5996,8 +5943,7 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "DESeq2",
-        "regioneR"
+        "DESeq2"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -6089,7 +6035,6 @@
         "csaw",
         "graph",
         "metapod",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
