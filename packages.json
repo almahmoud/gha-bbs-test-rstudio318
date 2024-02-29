@@ -549,7 +549,6 @@
         "phenoTest"
     ],
     "cardelino": [],
-    "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM",
@@ -2327,7 +2326,6 @@
     "iSEEde": [
         "DESeq2"
     ],
-    "iSEEu": [],
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DESeq2",
@@ -2376,7 +2374,6 @@
     ],
     "LACE": [],
     "LEA": [],
-    "lemur": [],
     "les": [],
     "lfa": [],
     "lineagespot": [],
@@ -3577,7 +3574,6 @@
     "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
-    "RareVariantVis": [],
     "RbcBook1": [
         "graph"
     ],
@@ -4485,7 +4481,6 @@
         "graph",
         "topGO"
     ],
-    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "DESeq2",
@@ -4615,7 +4610,6 @@
         "GSEABase",
         "graph"
     ],
-    "Voyager": [],
     "vsclust": [
         "qvalue"
     ],
