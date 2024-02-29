@@ -571,7 +571,6 @@
         "genefilter"
     ],
     "annotate": [],
-    "AnnotationDbi": [],
     "AnnotationFilter": [
         "GenomicRanges"
     ],
@@ -9519,7 +9518,6 @@
     "keggorthology": [
         "graph"
     ],
-    "KEGGREST": [],
     "KinSwingR": [
         "BiocParallel"
     ],
