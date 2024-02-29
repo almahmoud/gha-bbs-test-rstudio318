@@ -1364,7 +1364,6 @@
         "fgsea",
         "graph",
         "motifmatchr",
-        "projectR",
         "rGREAT",
         "rhdf5",
         "rhdf5filters",
@@ -3195,7 +3194,6 @@
         "zlibbioc"
     ],
     "BufferedMatrixMethods": [],
-    "bugsigdbr": [],
     "BUMHMM": [
         "Biostrings",
         "DelayedArray",
@@ -8017,7 +8015,6 @@
         "IRanges",
         "S4Vectors"
     ],
-    "discordant": [],
     "DiscoRhythm": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -9812,7 +9809,6 @@
         "zlibbioc"
     ],
     "fabia": [],
-    "factDesign": [],
     "factR": [
         "AnnotationDbi",
         "BiocIO",
@@ -11045,7 +11041,6 @@
         "annotate",
         "zlibbioc"
     ],
-    "geneRecommender": [],
     "GeneRegionScan": [
         "Biostrings",
         "GenomeInfoDb",
@@ -15080,7 +15075,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "Biostrings",
         "GenomeInfoDb",
@@ -16311,7 +16305,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "mfa": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets",
@@ -18820,9 +18813,7 @@
         "vsn",
         "zlibbioc"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "BiocParallel",
@@ -20884,7 +20875,6 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [],
     "pRoloc": [
         "AnnotationDbi",
         "BiocParallel",
@@ -21070,7 +21060,6 @@
         "zlibbioc"
     ],
     "ProtGenerics": [],
-    "PSEA": [],
     "psichomics": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -21992,7 +21981,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "ReadqPCR": [],
     "REBET": [
         "ASSET"
     ],
@@ -22702,7 +22690,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "AnnotationDbi",
         "BiocIO",
@@ -25864,7 +25851,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "sigsquared": [],
     "SIM": [
         "AnnotationDbi",
         "Biostrings",
@@ -26876,7 +26862,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "spkTools": [],
     "splatter": [
         "BiocParallel",
         "DelayedArray",
