@@ -28,7 +28,6 @@
         "mzR"
     ],
     "ADImpute": [],
-    "AffiXcan": [],
     "affycoretools": [
         "AnnotationForge",
         "Category",
@@ -160,7 +159,6 @@
         "DESeq2",
         "qvalue"
     ],
-    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -326,10 +324,8 @@
         "scran"
     ],
     "beachmat.hdf5": [],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
-        "ANCOMBC",
         "DESeq2",
         "dearseq",
         "genefilter",
@@ -495,7 +491,6 @@
         "impute",
         "marray"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
@@ -559,7 +554,6 @@
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "RBGL",
@@ -675,7 +669,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE",
@@ -946,7 +939,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA",
         "bsseq"
@@ -1568,7 +1560,6 @@
         "graph",
         "qvalue"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
@@ -1714,7 +1705,6 @@
         "genomation",
         "impute"
     ],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "SC3",
@@ -2710,7 +2700,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "memes": [],
     "meshes": [
         "DOSE",
@@ -2880,7 +2869,6 @@
     ],
     "microbiomeMarker": [
         "ALDEx2",
-        "ANCOMBC",
         "DESeq2"
     ],
     "MicrobiomeProfiler": [
@@ -3189,7 +3177,6 @@
         "variancePartition"
     ],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MWASTools": [
         "KEGGgraph",
         "Rgraphviz",
@@ -3943,9 +3930,7 @@
         "ggbio",
         "graph"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "restfulSE": [],
     "retrofit": [],
     "ReUseData": [
@@ -4245,7 +4230,6 @@
     "scran": [
         "metapod"
     ],
-    "scReClassify": [],
     "scRecover": [],
     "scRepertoire": [],
     "scRNAseqApp": [
@@ -4426,7 +4410,6 @@
         "DropletUtils",
         "GSEABase",
         "GSVA",
-        "SingleR",
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
@@ -4449,7 +4432,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "SingleR": [],
     "singscore": [
         "GSEABase",
         "graph"
@@ -4536,7 +4518,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [
         "MetaboCoreUtils"
