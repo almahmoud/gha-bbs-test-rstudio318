@@ -519,7 +519,6 @@
         "biocViews",
         "graph"
     ],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -1603,7 +1602,6 @@
         "qvalue"
     ],
     "DelayedDataFrame": [],
-    "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray",
@@ -3476,7 +3474,6 @@
     "MGFM": [],
     "MGFR": [],
     "mgsa": [],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -5047,7 +5044,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scater": [],
     "scatterHatch": [],
     "scBFA": [
         "DESeq2",
@@ -5212,7 +5208,6 @@
         "metapod",
         "scran"
     ],
-    "scuttle": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
