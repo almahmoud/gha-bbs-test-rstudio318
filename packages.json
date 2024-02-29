@@ -75,7 +75,6 @@
         "biocViews",
         "graph"
     ],
-    "alabaster": [],
     "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
@@ -2127,7 +2126,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
