@@ -91,7 +91,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "apeglm",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -281,7 +280,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "apeglm": [],
     "APL": [
         "SingleCellExperiment",
         "graph",
@@ -497,9 +495,7 @@
         "SingleCellExperiment"
     ],
     "BEAT": [],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -590,7 +586,6 @@
     ],
     "biocGraph": [
         "Rgraphviz",
-        "geneplotter",
         "graph"
     ],
     "BiocHail": [
@@ -730,8 +725,7 @@
     "blacksheepr": [
         "DESeq2",
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "blima": [],
     "BLMA": [
@@ -1152,7 +1146,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "apeglm",
         "chipseq",
         "systemPipeR"
     ],
@@ -1165,8 +1158,7 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
-        "GEOquery",
-        "frma"
+        "GEOquery"
     ],
     "ChromSCape": [
         "BiocSingular",
@@ -1804,7 +1796,6 @@
         "DOSE",
         "KEGGgraph",
         "Rgraphviz",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1967,8 +1958,7 @@
     ],
     "DEXSeq": [
         "DESeq2",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "DIAlignR": [
         "Rhdf5lib",
@@ -1977,7 +1967,6 @@
     "DiffBind": [
         "DESeq2",
         "GreyListChIP",
-        "apeglm",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -2008,8 +1997,7 @@
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "Dino": [
         "BiocSingular",
@@ -2195,14 +2183,12 @@
         "Rhdf5lib",
         "bumphunter",
         "genefilter",
-        "geneplotter",
         "impute",
         "minfi",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -2320,8 +2306,7 @@
         "graph"
     ],
     "ERSSA": [
-        "DESeq2",
-        "apeglm"
+        "DESeq2"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -2388,7 +2373,6 @@
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -2683,7 +2667,6 @@
         "sparseMatrixStats"
     ],
     "frenchFISH": [],
-    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "DelayedMatrixStats",
@@ -2809,7 +2792,6 @@
     ],
     "GeneOverlap": [],
     "geneplast": [],
-    "geneplotter": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -3353,8 +3335,7 @@
         "DESeq2",
         "DEXSeq",
         "GenomicFiles",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "InterMineR": [],
     "IntOMICS": [],
@@ -3419,7 +3400,6 @@
         "DESeq2",
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "pfamAnalyzeR",
         "satuRn",
         "sva",
@@ -3910,9 +3890,7 @@
         "marray"
     ],
     "methylscaper": [],
-    "MethylSeekR": [
-        "geneplotter"
-    ],
+    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "DelayedMatrixStats",
@@ -4130,7 +4108,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "MMDiff2": [],
     "MMUPHin": [],
     "mnem": [
         "Rgraphviz",
@@ -4785,7 +4762,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "paircompviz": [
         "Rgraphviz",
         "graph"
@@ -4794,7 +4770,6 @@
         "DESeq2",
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "sva"
     ],
     "pairkat": [],
@@ -4916,9 +4891,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "phantasusLite": [
-        "rhdf5client"
-    ],
+    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "marray",
@@ -4951,7 +4924,6 @@
     "PhenStat": [
         "graph"
     ],
-    "PhIPData": [],
     "PhyloProfile": [
         "OmaDB",
         "graph",
@@ -5082,7 +5054,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
         "qvalue",
@@ -5346,7 +5317,6 @@
         "derfinder",
         "qvalue"
     ],
-    "recount3": [],
     "recountmethylation": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -5448,9 +5418,7 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "restfulSE": [
-        "rhdf5client"
-    ],
+    "restfulSE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -5482,7 +5450,6 @@
         "Rhdf5lib",
         "rhdf5filters"
     ],
-    "rhdf5client": [],
     "rhdf5filters": [
         "Rhdf5lib"
     ],
@@ -5560,8 +5527,7 @@
         "mzR"
     ],
     "Rmmquant": [
-        "DESeq2",
-        "apeglm"
+        "DESeq2"
     ],
     "RNAAgeCalc": [
         "GEOquery",
@@ -5582,7 +5548,6 @@
         "RBGL",
         "cellHTS2",
         "genefilter",
-        "geneplotter",
         "graph",
         "splots"
     ],
@@ -5918,7 +5883,6 @@
         "cytolib",
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [],
     "scp": [
         "QFeatures",
@@ -6142,7 +6106,6 @@
         "biocViews",
         "graph"
     ],
-    "SigFuge": [],
     "sights": [
         "qvalue"
     ],
@@ -6209,7 +6172,6 @@
         "rhdf5filters"
     ],
     "sincell": [],
-    "single": [],
     "SingleCellExperiment": [],
     "SingleCellSignalR": [
         "BiocSingular",
@@ -6276,7 +6238,6 @@
     "SiPSiC": [
         "SingleCellExperiment"
     ],
-    "sitadela": [],
     "skewr": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -6649,8 +6610,7 @@
     ],
     "TEKRABber": [
         "DESeq2",
-        "SCBN",
-        "apeglm"
+        "SCBN"
     ],
     "TENxIO": [
         "SingleCellExperiment"
@@ -6659,8 +6619,7 @@
         "Rgraphviz",
         "graph",
         "ontoProc",
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "ternarynet": [],
     "terraTCGAdata": [
@@ -6987,7 +6946,6 @@
         "GreyListChIP",
         "InteractionSet",
         "RBGL",
-        "apeglm",
         "csaw",
         "graph",
         "metapod",
@@ -7011,7 +6969,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "wavClusteR": [],
     "webbioc": [
         "qvalue"
     ],
