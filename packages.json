@@ -208,7 +208,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "amplican": [],
     "Anaquin": [
         "DESeq2",
         "qvalue"
@@ -419,7 +418,6 @@
         "rhdf5filters"
     ],
     "BEARscc": [],
-    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -831,7 +829,6 @@
         "metapod",
         "scran"
     ],
-    "CellBarcode": [],
     "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
@@ -975,7 +972,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
@@ -983,7 +979,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
@@ -1212,7 +1207,6 @@
     "consensus": [],
     "consensusDE": [
         "DESeq2",
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -1508,7 +1502,6 @@
     ],
     "DaMiRseq": [
         "DESeq2",
-        "EDASeq",
         "genefilter",
         "sva"
     ],
@@ -1823,7 +1816,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EDASeq": [],
     "edge": [
         "genefilter",
         "qvalue",
@@ -2060,7 +2052,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [],
     "fastreeR": [],
     "fastseg": [],
     "fCCAC": [
@@ -2312,7 +2303,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "HDF5Array",
@@ -2346,7 +2336,6 @@
     "GARS": [
         "DESeq2",
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "genefilter",
         "sva"
@@ -2627,7 +2616,6 @@
         "genefilter",
         "graph"
     ],
-    "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
         "DESeq2",
@@ -2806,7 +2794,6 @@
     "hpar": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HTSFilter": [
@@ -3343,7 +3330,6 @@
     "metaseqR2": [
         "DESeq2",
         "DSS",
-        "EDASeq",
         "HDF5Array",
         "Rhdf5lib",
         "bsseq",
@@ -4046,7 +4032,6 @@
     "occugene": [],
     "octad": [
         "DESeq2",
-        "EDASeq",
         "GSEABase",
         "GSVA",
         "HDF5Array",
@@ -4171,7 +4156,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -4448,7 +4432,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "chipseq",
         "enrichplot",
         "qvalue",
         "rGREAT",
@@ -4777,7 +4760,6 @@
         "ggbio",
         "graph"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
@@ -4838,7 +4820,6 @@
         "rhdf5filters"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -5004,9 +4985,7 @@
         "MotifDb"
     ],
     "RUVcorr": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -5130,7 +5109,6 @@
     ],
     "SCnorm": [],
     "scone": [
-        "EDASeq",
         "RUVSeq",
         "Rhdf5lib",
         "rhdf5",
@@ -5223,7 +5201,6 @@
         "enrichplot",
         "qvalue"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seq2pathway": [
         "impute"
@@ -5457,9 +5434,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "RBGL",
@@ -5600,7 +5575,6 @@
         "graphite"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq",
         "SpatialExperiment"
     ],
@@ -5635,7 +5609,6 @@
         "graph"
     ],
     "STRINGdb": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "subSeq": [
         "qvalue"
@@ -5833,9 +5806,7 @@
         "graph",
         "topGO"
     ],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "HDF5Array",
         "Rhdf5lib",
