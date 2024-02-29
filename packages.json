@@ -502,7 +502,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [
         "HDF5Array",
         "Rgraphviz",
@@ -768,7 +767,6 @@
         "matter"
     ],
     "CARNIVAL": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "RProtoBufLib",
@@ -1155,7 +1153,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "codelink": [],
     "CoGAPS": [
         "Rhdf5lib",
         "rhdf5",
@@ -1781,9 +1778,7 @@
         "qvalue"
     ],
     "doseR": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
@@ -2330,7 +2325,6 @@
         "rhdf5filters"
     ],
     "frenchFISH": [],
-    "FunChIP": [],
     "funtooNorm": [
         "GEOquery",
         "HDF5Array",
@@ -3166,7 +3160,6 @@
     "magpie": [
         "DESeq2"
     ],
-    "magrene": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -4193,7 +4186,6 @@
         "Ringo",
         "genefilter"
     ],
-    "OVESEG": [],
     "PAA": [
         "genefilter",
         "sva"
@@ -4367,7 +4359,6 @@
         "marray"
     ],
     "pickgene": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -4381,7 +4372,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [
@@ -4570,7 +4560,6 @@
         "marray"
     ],
     "QFeatures": [],
-    "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [
         "Rgraphviz",
@@ -4813,7 +4802,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "rGADEM": [],
     "RgnTX": [],
     "rgoslin": [],
     "RGraph2js": [
@@ -5014,12 +5002,8 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "Rtreemix": [
@@ -5516,7 +5500,6 @@
         "graph"
     ],
     "sparsenetgls": [],
-    "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -5669,7 +5652,6 @@
         "qvalue"
     ],
     "SummarizedBenchmark": [],
-    "supersigs": [],
     "survcomp": [],
     "survtype": [],
     "sva": [
@@ -5700,7 +5682,6 @@
     "synlet": [
         "RankProd"
     ],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
@@ -5935,7 +5916,6 @@
         "ensemblVEP"
     ],
     "twilight": [],
-    "txcutr": [],
     "tximeta": [],
     "UCell": [],
     "Ularcirc": [
