@@ -75,10 +75,7 @@
         "biocViews",
         "graph"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
@@ -447,7 +444,6 @@
         "ggbio",
         "graph"
     ],
-    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "OrganismDbi",
@@ -2131,10 +2127,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
-    "HiContacts": [],
+    "HiCDOC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -2629,7 +2622,6 @@
         "biovizBase",
         "marray"
     ],
-    "methylSig": [],
     "methylumi": [
         "GEOquery",
         "bumphunter",
@@ -2913,7 +2905,6 @@
         "graph",
         "graphite"
     ],
-    "multiHiCcompare": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -4194,7 +4185,6 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [],
     "SPEM": [],
     "SPIA": [
         "KEGGgraph",
@@ -4299,7 +4289,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [],
     "TAPseq": [],
     "TBSignatureProfiler": [
         "ASSIGN",
