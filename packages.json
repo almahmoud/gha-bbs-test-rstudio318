@@ -244,9 +244,7 @@
         "GeneOverlap",
         "OrganismDbi",
         "RBGL",
-        "chromVAR",
         "graph",
-        "motifmatchr",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -254,15 +252,10 @@
         "GenomicScores",
         "InteractionSet",
         "RBGL",
-        "graph",
-        "motifStack"
+        "graph"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "ATACseqTFEA": [],
+    "atSNP": [],
     "attract": [
         "AnnotationForge",
         "Category",
@@ -674,7 +667,6 @@
         "graph"
     ],
     "ccrepe": [],
-    "celaref": [],
     "celda": [
         "metapod",
         "scran"
@@ -820,7 +812,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [],
     "CHRONOS": [
         "RBGL",
         "graph"
@@ -1218,9 +1209,7 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [
         "bumphunter"
@@ -1519,9 +1508,7 @@
         "biovizBase"
     ],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "GEOquery",
         "bumphunter",
@@ -1546,7 +1533,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
         "qvalue"
     ],
     "enrichViewNet": [
@@ -1640,7 +1626,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
         "qvalue"
     ],
     "escape": [
@@ -2639,7 +2624,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "MatrixRider": [],
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
@@ -2889,7 +2873,6 @@
         "bumphunter",
         "genefilter"
     ],
-    "MinimumDistance": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2968,7 +2951,6 @@
     "MOMA": [
         "qvalue"
     ],
-    "monaLisa": [],
     "monocle": [
         "RBGL",
         "biocViews",
@@ -2995,12 +2977,9 @@
     "motifbreakR": [
         "Gviz",
         "MotifDb",
-        "biovizBase",
-        "motifStack"
+        "biovizBase"
     ],
     "MotifDb": [],
-    "motifmatchr": [],
-    "motifStack": [],
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
@@ -3162,7 +3141,6 @@
         "DESeq2",
         "variancePartition"
     ],
-    "musicatk": [],
     "MWASTools": [
         "KEGGgraph",
         "Rgraphviz",
@@ -3182,7 +3160,6 @@
         "csaw",
         "graph",
         "metapod",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -3414,9 +3391,7 @@
         "sva"
     ],
     "padma": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "paircompviz": [
         "Rgraphviz",
         "graph"
@@ -3609,7 +3584,6 @@
         "RankProd",
         "impute"
     ],
-    "POWSC": [],
     "ppcseq": [],
     "PPInfer": [
         "STRINGdb",
@@ -3796,7 +3770,6 @@
     "RbcBook1": [
         "graph"
     ],
-    "Rbec": [],
     "RBGL": [
         "graph"
     ],
@@ -3957,9 +3930,7 @@
         "graph"
     ],
     "ribor": [],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -4495,8 +4466,7 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "biovizBase",
-        "motifmatchr"
+        "biovizBase"
     ],
     "specL": [],
     "Spectra": [
