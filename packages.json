@@ -52,7 +52,6 @@
         "GSEABase",
         "graph"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "AnnotationForge",
         "Category",
@@ -699,7 +698,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -886,7 +884,6 @@
         "qvalue"
     ],
     "ClusterSignificance": [],
-    "clustifyr": [],
     "cmapR": [
         "RProtoBufLib",
         "cytolib",
@@ -1650,7 +1647,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "UCell",
         "graph"
     ],
     "escheR": [],
@@ -1688,7 +1684,6 @@
         "csaw",
         "metapod"
     ],
-    "factR": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -2084,7 +2079,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "GEOquery",
@@ -2154,7 +2148,6 @@
         "GSEABase",
         "graph"
     ],
-    "gmapR": [],
     "GmicR": [
         "AnnotationForge",
         "Category",
@@ -2319,7 +2312,6 @@
         "InteractionSet"
     ],
     "hierinf": [],
-    "hipathia": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
@@ -2329,8 +2321,7 @@
     "hopach": [],
     "hpar": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "HTSFilter": [
         "DESeq2"
@@ -2861,7 +2852,6 @@
     "MGFR": [],
     "mgsa": [],
     "miaSim": [],
-    "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [
@@ -3183,7 +3173,6 @@
         "graph",
         "qvalue"
     ],
-    "myvariant": [],
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
@@ -3462,7 +3451,6 @@
         "qvalue"
     ],
     "parglms": [],
-    "partCNV": [],
     "PAST": [
         "qvalue"
     ],
@@ -3785,7 +3773,6 @@
     "r3Cseq": [
         "qvalue"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx",
         "marray",
@@ -4374,7 +4361,6 @@
         "graph",
         "qvalue"
     ],
-    "signeR": [],
     "signifinder": [
         "GSEABase",
         "GSVA",
@@ -4384,7 +4370,6 @@
         "impute",
         "survcomp"
     ],
-    "SigsPack": [],
     "SIMAT": [
         "mzR"
     ],
@@ -4833,7 +4818,6 @@
     ],
     "twilight": [],
     "tximeta": [],
-    "UCell": [],
     "Ularcirc": [
         "Organism.dplyr"
     ],
