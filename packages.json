@@ -43,9 +43,7 @@
         "affycoretools",
         "genefilter"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz"
@@ -73,7 +71,6 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -959,9 +956,7 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1191,7 +1186,6 @@
         "pathview"
     ],
     "gDR": [],
-    "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1681,7 +1675,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "bumphunter",
         "genefilter",
@@ -1863,7 +1856,6 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute"
@@ -1873,7 +1865,6 @@
         "MSstatsQC",
         "impute"
     ],
-    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
