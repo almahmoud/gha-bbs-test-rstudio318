@@ -36,7 +36,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
@@ -86,7 +85,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -222,7 +220,6 @@
         "dir.expiry"
     ],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocPkgTools": [
         "biocViews"
     ],
@@ -650,7 +647,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "cpvSNP": [],
     "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
@@ -705,7 +701,6 @@
     "csdR": [
         "impute"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -1145,7 +1140,6 @@
     ],
     "FGNet": [],
     "FilterFFPE": [],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -2226,7 +2220,6 @@
         "bamsignals"
     ],
     "NPARC": [],
-    "npGSEA": [],
     "occugene": [],
     "octad": [
         "DESeq2",
@@ -2241,7 +2234,6 @@
         "OLIN",
         "tkWidgets"
     ],
-    "OmaDB": [],
     "omicade4": [
         "made4"
     ],
@@ -2324,7 +2316,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "PAST": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
@@ -2384,9 +2375,7 @@
         "Heatplus",
         "genefilter"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "pickgene": [],
     "Pigengene": [
@@ -2706,7 +2695,6 @@
         "Gviz",
         "RNAmodR"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
         "bumphunter",
         "derfinder",
@@ -2927,7 +2915,6 @@
     "sigFeature": [
         "biocViews"
     ],
-    "sights": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -2981,7 +2968,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMAP": [],
     "SMITE": [
@@ -3073,7 +3059,6 @@
     "stepNorm": [],
     "Streamer": [],
     "STRINGdb": [],
-    "subSeq": [],
     "SummarizedBenchmark": [],
     "survcomp": [],
     "survtype": [],
@@ -3153,7 +3138,6 @@
     "TIN": [
         "impute"
     ],
-    "TissueEnrich": [],
     "tkWidgets": [
         "DynDoc"
     ],
@@ -3181,8 +3165,7 @@
     "tRanslatome": [
         "DESeq2",
         "Heatplus",
-        "RankProd",
-        "anota"
+        "RankProd"
     ],
     "transomics2cytoscape": [
         "RCy3"
@@ -3261,7 +3244,6 @@
     ],
     "ViSEAGO": [],
     "vissE": [],
-    "vsclust": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DESeq2",
