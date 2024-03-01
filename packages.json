@@ -27,7 +27,6 @@
         "DESeq2",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "genefilter",
         "ggbio"
@@ -41,7 +40,6 @@
         "DESeq2",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "affycoretools",
         "genefilter",
@@ -49,9 +47,7 @@
     ],
     "AHMassBank": [
         "AnnotationHubData",
-        "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "BiocCheck"
     ],
     "ALDEx2": [],
     "AllelicImbalance": [
@@ -81,9 +77,7 @@
         "genefilter"
     ],
     "AnnotationHubData": [
-        "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "BiocCheck"
     ],
     "anota2seq": [
         "DESeq2"
@@ -92,11 +86,8 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "apComplex": [],
     "APL": [],
-    "appreci8R": [
-        "OrganismDbi"
-    ],
+    "appreci8R": [],
     "arrayMvout": [
         "bumphunter",
         "genefilter",
@@ -126,7 +117,6 @@
     ],
     "ATACCoGAPS": [
         "GeneOverlap",
-        "OrganismDbi",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -207,9 +197,7 @@
         "enrichplot"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [
         "basilisk",
@@ -217,15 +205,12 @@
         "dir.expiry"
     ],
     "BiocOncoTK": [],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biocViews": [],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
     "BioMVCClass": [],
@@ -240,7 +225,6 @@
         "impute",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -257,7 +241,6 @@
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
-        "OrganismDbi",
         "QDNAseq",
         "bumphunter",
         "dmrseq",
@@ -278,18 +261,15 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "genefilter",
         "mnem",
         "sva"
     ],
     "BOBaFIT": [
-        "OrganismDbi",
         "ggbio"
     ],
     "brainflowprobes": [
-        "OrganismDbi",
         "bumphunter",
         "derfinder",
         "derfinderPlot",
@@ -304,7 +284,6 @@
     "bumphunter": [],
     "BUScorrect": [],
     "CAFE": [
-        "OrganismDbi",
         "ggbio"
     ],
     "CAGEfightR": [
@@ -313,7 +292,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "OrganismDbi",
         "genefilter",
         "ggbio",
         "impute",
@@ -395,7 +373,6 @@
         "splots"
     ],
     "cellmigRation": [],
-    "CellNOptR": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot",
@@ -482,7 +459,6 @@
     "CHRONOS": [],
     "cicero": [
         "Gviz",
-        "biocViews",
         "monocle"
     ],
     "circRNAprofiler": [
@@ -527,18 +503,10 @@
         "cytolib",
         "flowCore"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -868,7 +836,6 @@
         "bumphunter"
     ],
     "derfinderPlot": [
-        "OrganismDbi",
         "bumphunter",
         "derfinder",
         "ggbio"
@@ -1027,7 +994,6 @@
     ],
     "epimutacions": [
         "Gviz",
-        "OrganismDbi",
         "bumphunter",
         "genefilter",
         "minfi"
@@ -1040,26 +1006,19 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "OrganismDbi",
         "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
-        "OrganismDbi",
         "epivizrData"
     ],
-    "epivizrData": [
-        "OrganismDbi"
-    ],
+    "epivizrData": [],
     "epivizrStandalone": [
-        "OrganismDbi",
         "bumphunter",
         "epivizr",
         "epivizrData"
     ],
-    "erma": [
-        "OrganismDbi"
-    ],
+    "erma": [],
     "ERSSA": [
         "DESeq2"
     ],
@@ -1080,9 +1039,7 @@
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "BiocCheck"
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -1132,7 +1089,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "OrganismDbi",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1302,9 +1258,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -1325,8 +1279,7 @@
     ],
     "gDRimport": [],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -1350,7 +1303,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneplast": [],
     "GENESIS": [
@@ -1378,7 +1330,6 @@
         "Gviz"
     ],
     "GenomicOZone": [
-        "OrganismDbi",
         "ggbio"
     ],
     "GenomicPlot": [
@@ -1408,9 +1359,7 @@
     "gg4way": [
         "DESeq2"
     ],
-    "ggbio": [
-        "OrganismDbi"
-    ],
+    "ggbio": [],
     "ggcyto": [
         "RProtoBufLib",
         "cytolib",
@@ -1469,9 +1418,7 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSReg": [
-        "OrganismDbi"
-    ],
+    "GSReg": [],
     "GSRI": [
         "genefilter",
         "les"
@@ -1575,7 +1522,6 @@
     "impute": [],
     "INDEED": [],
     "iNETgrate": [
-        "OrganismDbi",
         "Pigengene",
         "ReactomePA",
         "bumphunter",
@@ -1596,7 +1542,6 @@
     "INTACT": [],
     "InTAD": [],
     "intansv": [
-        "OrganismDbi",
         "ggbio"
     ],
     "interacCircos": [],
@@ -1763,8 +1708,7 @@
         "impute"
     ],
     "mCSEA": [
-        "Gviz",
-        "OrganismDbi"
+        "Gviz"
     ],
     "mdp": [],
     "MDTS": [],
@@ -1858,8 +1802,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
-        "OrganismDbi",
-        "biocViews",
         "bumphunter",
         "genefilter",
         "impute",
@@ -1975,9 +1917,7 @@
     "mogsa": [
         "genefilter"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
         "enrichplot"
@@ -2021,7 +1961,6 @@
         "Spectra"
     ],
     "msgbsR": [
-        "OrganismDbi",
         "ggbio"
     ],
     "msImpute": [
@@ -2058,14 +1997,10 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "impute"
@@ -2076,10 +2011,8 @@
         "impute"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -2216,7 +2149,6 @@
     "OmnipathR": [],
     "OncoSimulR": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "openCyto": [
         "RProtoBufLib",
         "cytolib",
@@ -2239,7 +2171,6 @@
     "ORFik": [
         "DESeq2"
     ],
-    "OrganismDbi": [],
     "orthogene": [],
     "orthos": [
         "basilisk",
@@ -2258,7 +2189,6 @@
         "genefilter",
         "sva"
     ],
-    "paircompviz": [],
     "pairedGSEA": [
         "DESeq2",
         "DEXSeq",
@@ -2281,7 +2211,6 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -2321,7 +2250,6 @@
         "DESeq2"
     ],
     "phemd": [
-        "biocViews",
         "monocle"
     ],
     "phenomis": [
@@ -2361,9 +2289,7 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "DESeq2",
         "RankProd",
@@ -2467,7 +2393,6 @@
     ],
     "QUBIC": [],
     "R3CPET": [
-        "OrganismDbi",
         "ggbio"
     ],
     "r3Cseq": [],
@@ -2555,7 +2480,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "OrganismDbi",
         "genefilter",
         "ggbio"
     ],
@@ -2584,7 +2508,6 @@
         "DESeq2"
     ],
     "RiboProfiling": [
-        "OrganismDbi",
         "ggbio"
     ],
     "rifiComparative": [
@@ -2599,7 +2522,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "Spectra",
-        "biocViews",
         "impute",
         "xcms"
     ],
@@ -2776,7 +2698,6 @@
         "slingshot"
     ],
     "scruff": [
-        "OrganismDbi",
         "ggbio"
     ],
     "scShapes": [],
@@ -2790,7 +2711,6 @@
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "OrganismDbi",
         "bumphunter",
         "epivizr",
         "epivizrData",
@@ -2859,9 +2779,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -2916,9 +2834,7 @@
     ],
     "slingshot": [],
     "SMAP": [],
-    "SMITE": [
-        "BioNet"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
@@ -2937,7 +2853,6 @@
         "gdsfmt"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
         "ggbio"
     ],
     "Spaniel": [
@@ -2975,7 +2890,6 @@
     "SpliceWiz": [
         "genefilter"
     ],
-    "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -2989,7 +2903,6 @@
         "Gviz"
     ],
     "ssize": [],
-    "sSNAPPY": [],
     "staRank": [
         "Category",
         "cellHTS2",
@@ -3002,7 +2915,6 @@
         "impute"
     ],
     "stepNorm": [],
-    "Streamer": [],
     "STRINGdb": [],
     "SummarizedBenchmark": [],
     "survcomp": [],
@@ -3049,9 +2961,7 @@
         "DESeq2",
         "SCBN"
     ],
-    "tenXplore": [
-        "ontoProc"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -3141,11 +3051,9 @@
         "DESeq2"
     ],
     "uncoverappLib": [
-        "Gviz",
-        "OrganismDbi"
+        "Gviz"
     ],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
@@ -3217,7 +3125,6 @@
     "xmapbridge": [],
     "XNAString": [],
     "YAPSA": [
-        "OrganismDbi",
         "SomaticSignatures",
         "ggbio"
     ],
