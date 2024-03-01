@@ -99,7 +99,6 @@
         "affyPLM",
         "genefilter"
     ],
-    "artMS": [],
     "ASAFE": [],
     "ASEB": [],
     "ASICS": [
@@ -119,9 +118,7 @@
         "GeneOverlap",
         "rGREAT"
     ],
-    "ATACseqQC": [
-        "ChIPpeakAnno"
-    ],
+    "ATACseqQC": [],
     "attract": [
         "Category",
         "GOstats",
@@ -198,7 +195,6 @@
     ],
     "BioCartaImage": [],
     "BiocCheck": [],
-    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -213,7 +209,6 @@
     ],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz"
     ],
@@ -226,7 +221,6 @@
         "sva"
     ],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [
@@ -252,7 +246,6 @@
         "genefilter"
     ],
     "BLMA": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "BloodGen3Module": [],
@@ -263,7 +256,6 @@
     "bnem": [
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -441,7 +433,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DESeq2",
         "DiffBind"
@@ -456,7 +447,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -472,9 +462,7 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
@@ -759,8 +747,7 @@
         "tkWidgets"
     ],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "RProtoBufLib",
@@ -772,7 +759,6 @@
     "dearseq": [],
     "debrowser": [
         "DESeq2",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -800,7 +786,6 @@
     ],
     "DegNorm": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph",
         "RCy3"
     ],
@@ -840,9 +825,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -920,7 +903,6 @@
     "doseR": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "variancePartition",
@@ -948,7 +930,6 @@
     ],
     "EGSEA": [
         "GSVA",
-        "KEGGgraph",
         "pathview"
     ],
     "ELMER": [
@@ -962,7 +943,6 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -998,9 +978,7 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -1030,7 +1008,6 @@
     "escape": [
         "GSVA"
     ],
-    "EventPointer": [],
     "EWCE": [
         "orthogene"
     ],
@@ -1269,7 +1246,6 @@
     "GDCRNATools": [
         "DESeq2",
         "GenomicDataCommons",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -1325,7 +1301,6 @@
     ],
     "GenomAutomorphism": [],
     "GenomicDataCommons": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -1410,7 +1385,6 @@
     "graper": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1424,9 +1398,7 @@
         "les"
     ],
     "GSVA": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Guitar": [],
     "Gviz": [],
     "GWASTools": [
@@ -1596,10 +1568,7 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "kissDE": [
         "DESeq2"
     ],
@@ -1632,9 +1601,7 @@
         "xcms"
     ],
     "logicFS": [],
-    "lpNet": [
-        "KEGGgraph"
-    ],
+    "lpNet": [],
     "lumi": [
         "bumphunter",
         "genefilter",
@@ -1661,7 +1628,6 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -1749,7 +1715,6 @@
     ],
     "MetaboCoreUtils": [],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools",
         "hpar"
     ],
@@ -1869,7 +1834,6 @@
         "genefilter"
     ],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -1892,7 +1856,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -2022,7 +1985,6 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "multiGSEA": [],
     "MultiRNAflow": [
         "DESeq2",
         "DynDoc",
@@ -2040,12 +2002,9 @@
         "DESeq2",
         "variancePartition"
     ],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "csaw",
         "metapod",
@@ -2071,12 +2030,10 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
         "RCy3"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2"
@@ -2088,7 +2045,6 @@
         "RandomWalkRestartMH"
     ],
     "netprioR": [],
-    "netresponse": [],
     "NetSAM": [
         "impute"
     ],
@@ -2147,7 +2103,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "openCyto": [
         "RProtoBufLib",
@@ -2211,9 +2166,7 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -2447,9 +2400,7 @@
         "genefilter",
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2584,9 +2535,7 @@
         "impute"
     ],
     "ROCpAI": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
     ],
@@ -2619,7 +2568,6 @@
     ],
     "satuRn": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "SCAN.UPC": [
@@ -2822,7 +2770,6 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "SingleMoleculeFootprinting": [],
     "singscore": [],
     "skewr": [
         "bumphunter",
@@ -2878,9 +2825,7 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -2909,7 +2854,6 @@
         "genefilter",
         "splots"
     ],
-    "StarBioTrek": [],
     "STATegRa": [],
     "statTarget": [
         "impute"
@@ -3089,7 +3033,6 @@
     ],
     "ViSEAGO": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
         "csaw",
@@ -3141,7 +3084,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "variancePartition"
