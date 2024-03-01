@@ -625,7 +625,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CoreGx": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -1144,7 +1143,6 @@
         "methylumi",
         "minfi"
     ],
-    "fgga": [],
     "FGNet": [],
     "FilterFFPE": [],
     "FindIT2": [],
@@ -1350,14 +1348,12 @@
         "pathview"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "gDRstyle": [
@@ -1484,7 +1480,6 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2348,7 +2343,6 @@
     "PCAN": [],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "impute",
         "survcomp"
@@ -2375,9 +2369,7 @@
     "phantasus": [
         "DESeq2"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "biocViews",
         "monocle"
@@ -2536,9 +2528,7 @@
         "ggbio"
     ],
     "r3Cseq": [],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -3179,9 +3169,7 @@
         "MSnbase",
         "impute"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
     ],
@@ -3222,7 +3210,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TRONCO": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
@@ -3306,7 +3293,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XINA": [
