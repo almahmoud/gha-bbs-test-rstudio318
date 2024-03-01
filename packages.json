@@ -194,7 +194,6 @@
         "GSEABase",
         "graph"
     ],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
         "genefilter",
@@ -324,34 +323,15 @@
         "RBGL",
         "graph"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "BioMVCClass": [
         "Rgraphviz",
         "graph"
@@ -512,7 +492,6 @@
         "cBioPortalData",
         "genefilter",
         "graph",
-        "hopach",
         "phenoTest"
     ],
     "cardelino": [],
@@ -855,7 +834,6 @@
     ],
     "concordexR": [],
     "condiments": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "CONFESS": [
@@ -1309,7 +1287,6 @@
         "qvalue"
     ],
     "doseR": [],
-    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
@@ -1500,7 +1477,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "exomePeak2": [
         "DESeq2"
     ],
@@ -1537,9 +1513,7 @@
     ],
     "fdrame": [],
     "FEAST": [
-        "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "FeatSeekR": [],
     "fedup": [
@@ -2027,7 +2001,6 @@
         "graph"
     ],
     "GreyListChIP": [],
-    "groHMM": [],
     "GSEABase": [
         "graph"
     ],
@@ -2114,7 +2087,6 @@
     ],
     "HIREewas": [],
     "HiTC": [],
-    "hopach": [],
     "hpar": [],
     "HTSeqGenie": [
         "VariantTools"
@@ -2397,7 +2369,6 @@
         "biovizBase"
     ],
     "MassArray": [],
-    "massiR": [],
     "MassSpecWavelet": [],
     "mastR": [
         "GSEABase",
@@ -2979,8 +2950,6 @@
         "quantro",
         "yarn"
     ],
-    "NewWave": [],
-    "nipalsMCIA": [],
     "nnNorm": [
         "marray"
     ],
@@ -3108,7 +3077,6 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "paircompviz": [
         "Rgraphviz",
         "graph"
@@ -3217,7 +3185,6 @@
     ],
     "phenomis": [
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -3228,8 +3195,7 @@
         "Heatplus",
         "RBGL",
         "genefilter",
-        "graph",
-        "hopach"
+        "graph"
     ],
     "PhenStat": [
         "graph"
@@ -3765,7 +3731,6 @@
         "graph",
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "GEOquery",
         "genefilter",
@@ -3793,8 +3758,7 @@
     "scClassify": [
         "Cepo",
         "GSEABase",
-        "graph",
-        "hopach"
+        "graph"
     ],
     "sccomp": [],
     "scDataviz": [
@@ -3853,7 +3817,6 @@
     "scRecover": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -3863,7 +3826,6 @@
         "ggbio",
         "graph"
     ],
-    "scry": [],
     "scShapes": [],
     "scTensor": [
         "Category",
@@ -4014,7 +3976,6 @@
         "GSEABase",
         "GSVA",
         "TSCAN",
-        "TrajectoryUtils",
         "basilisk",
         "basilisk.utils",
         "batchelor",
@@ -4039,7 +4000,6 @@
         "GSEABase",
         "graph"
     ],
-    "SiPSiC": [],
     "skewr": [
         "GEOquery",
         "bumphunter",
@@ -4053,9 +4013,7 @@
         "GSEABase",
         "graph"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMAP": [],
     "SMITE": [
         "BioNet",
@@ -4235,7 +4193,6 @@
     "TCGAutils": [
         "GenomicDataCommons"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "STRINGdb",
@@ -4329,10 +4286,8 @@
         "graph"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [
         "graph",
         "topGO"
@@ -4353,7 +4308,6 @@
     ],
     "TransView": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -4361,8 +4315,7 @@
         "RProtoBufLib",
         "cytolib",
         "diffcyt",
-        "flowCore",
-        "hopach"
+        "flowCore"
     ],
     "tricycle": [],
     "trigger": [
@@ -4383,9 +4336,7 @@
         "graph"
     ],
     "TSAR": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "ttgsea": [],
     "TurboNorm": [
         "convert",
