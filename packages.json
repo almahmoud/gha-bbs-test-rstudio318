@@ -1342,14 +1342,11 @@
         "pathview"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "gDRstyle": [
         "BiocCheck",
         "biocViews"
@@ -2360,7 +2357,6 @@
     "phantasus": [
         "DESeq2"
     ],
-    "PharmacoGx": [],
     "phemd": [
         "biocViews",
         "monocle"
@@ -2473,7 +2469,6 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute"
@@ -2517,7 +2512,6 @@
         "ggbio"
     ],
     "r3Cseq": [],
-    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -3153,7 +3147,6 @@
         "MSnbase",
         "impute"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
     ],
@@ -3274,9 +3267,7 @@
         "GeneMeta",
         "genefilter"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
