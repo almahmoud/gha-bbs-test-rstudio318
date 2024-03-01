@@ -86,7 +86,6 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "APL": [],
     "appreci8R": [],
     "arrayMvout": [
         "bumphunter",
@@ -350,9 +349,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "celda": [
         "metapod",
@@ -377,7 +374,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
@@ -555,7 +551,6 @@
         "DESeq2"
     ],
     "consensusOV": [
-        "GSVA",
         "genefu",
         "impute",
         "survcomp"
@@ -773,7 +768,6 @@
     "deconvR": [
         "bumphunter",
         "genefilter",
-        "methylKit",
         "minfi"
     ],
     "decoupleR": [],
@@ -792,7 +786,6 @@
     "DEGreport": [
         "DESeq2"
     ],
-    "DEGseq": [],
     "DelayedDataFrame": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -910,7 +903,6 @@
     ],
     "DRIMSeq": [],
     "DriverNet": [],
-    "DrugVsDisease": [],
     "DTA": [],
     "DynDoc": [],
     "easier": [
@@ -929,7 +921,6 @@
         "impute"
     ],
     "EGSEA": [
-        "GSVA",
         "pathview"
     ],
     "ELMER": [
@@ -1005,9 +996,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "EWCE": [
         "orthogene"
     ],
@@ -1397,7 +1386,6 @@
         "genefilter",
         "les"
     ],
-    "GSVA": [],
     "GUIDEseq": [],
     "Guitar": [],
     "Gviz": [],
@@ -1512,7 +1500,6 @@
         "DESeq2"
     ],
     "INTACT": [],
-    "InTAD": [],
     "intansv": [
         "ggbio"
     ],
@@ -1656,7 +1643,6 @@
     ],
     "MassArray": [],
     "MassSpecWavelet": [],
-    "mastR": [],
     "MatrixQCvis": [
         "impute"
     ],
@@ -1750,9 +1736,7 @@
         "Spectra"
     ],
     "methimpute": [],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethylAid": [
         "bumphunter",
         "genefilter",
@@ -1782,10 +1766,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -1856,7 +1837,6 @@
     "MLSeq": [
         "DESeq2"
     ],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MassSpecWavelet",
@@ -2074,8 +2054,7 @@
     "NPARC": [],
     "occugene": [],
     "octad": [
-        "DESeq2",
-        "GSVA"
+        "DESeq2"
     ],
     "OGRE": [
         "Gviz"
@@ -2114,9 +2093,7 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2284,7 +2261,6 @@
         "impute",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -2348,7 +2324,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "r3Cseq": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2593,9 +2568,7 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -2610,7 +2583,6 @@
         "scran"
     ],
     "scFeatures": [
-        "GSVA",
         "SingleCellSignalR",
         "metapod",
         "scran"
@@ -2657,7 +2629,6 @@
         "genefilter",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "bumphunter",
         "epivizr",
@@ -2733,7 +2704,6 @@
         "enrichplot"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "genefu",
         "impute",
@@ -2755,7 +2725,6 @@
     ],
     "singleCellTK": [
         "DESeq2",
-        "GSVA",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -2770,7 +2739,6 @@
         "zellkonverter",
         "zinbwave"
     ],
-    "singscore": [],
     "skewr": [
         "bumphunter",
         "genefilter",
@@ -2886,9 +2854,7 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSVA",
         "genefilter",
-        "singscore",
         "sva"
     ],
     "TCC": [
@@ -2935,9 +2901,7 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -3031,7 +2995,6 @@
     "vidger": [
         "DESeq2"
     ],
-    "ViSEAGO": [],
     "vulcan": [
         "DESeq2",
         "DiffBind",
@@ -3045,7 +3008,6 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [],
     "wppi": [
         "OmnipathR"
     ],
