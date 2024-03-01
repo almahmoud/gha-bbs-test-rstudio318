@@ -106,7 +106,6 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "genefilter"
@@ -234,7 +233,6 @@
         "dir.expiry"
     ],
     "biocViews": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbUniprot": [],
     "BioMVCClass": [],
@@ -486,7 +484,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "metapod",
         "scran"
@@ -621,7 +618,6 @@
         "survcomp"
     ],
     "consICA": [],
-    "contiBAIT": [],
     "conumee": [
         "bumphunter",
         "genefilter",
@@ -987,7 +983,6 @@
     "DriverNet": [],
     "DrugVsDisease": [],
     "DTA": [],
-    "dyebias": [],
     "DynDoc": [],
     "easier": [
         "DESeq2",
@@ -1007,7 +1002,6 @@
     "EGSEA": [
         "GSVA",
         "KEGGgraph",
-        "gage",
         "pathview"
     ],
     "ELMER": [
@@ -1323,7 +1317,6 @@
         "genefilter",
         "minfi"
     ],
-    "gage": [],
     "gaggle": [],
     "garfield": [],
     "GARS": [
@@ -1443,7 +1436,6 @@
         "impute",
         "sva"
     ],
-    "GEOmetadb": [],
     "gep2pep": [],
     "gespeR": [
         "Category",
@@ -1576,7 +1568,6 @@
     "HIREewas": [],
     "HiTC": [],
     "hpar": [],
-    "HTSeqGenie": [],
     "HTSFilter": [
         "DESeq2"
     ],
@@ -1708,7 +1699,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DESeq2"
     ],
@@ -2291,7 +2281,6 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oposSOM": [],
     "oppar": [
         "GSVA"
     ],
@@ -2586,7 +2575,6 @@
         "dir.expiry"
     ],
     "RCy3": [],
-    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
@@ -2771,7 +2759,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "Rtreemix": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -3189,7 +3176,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "GSVA"
     ],
@@ -3299,7 +3285,6 @@
     "ViSEAGO": [],
     "vissE": [],
     "vsclust": [],
-    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DESeq2",
