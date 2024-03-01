@@ -408,7 +408,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "impute",
@@ -579,8 +578,7 @@
     ],
     "ChIPQC": [
         "DESeq2",
-        "DiffBind",
-        "GreyListChIP"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -616,7 +614,6 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "clippda": [],
     "clipper": [
         "KEGGgraph",
         "Rgraphviz",
@@ -627,7 +624,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "xcms"
@@ -767,7 +763,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "xcms"
@@ -842,7 +837,6 @@
     "csdR": [
         "impute"
     ],
-    "CSSQ": [],
     "CTSV": [
         "qvalue"
     ],
@@ -1028,7 +1022,6 @@
         "genefilter",
         "sva"
     ],
-    "demuxSNP": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -1074,8 +1067,7 @@
         "genefilter"
     ],
     "DiffBind": [
-        "DESeq2",
-        "GreyListChIP"
+        "DESeq2"
     ],
     "diffcoexp": [
         "impute"
@@ -1226,7 +1218,6 @@
     ],
     "epidecodeR": [],
     "epigraHMM": [
-        "GreyListChIP",
         "bamsignals",
         "csaw",
         "metapod"
@@ -1365,7 +1356,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "impute",
@@ -1674,7 +1664,6 @@
         "sva"
     ],
     "GEOmetadb": [],
-    "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase"
     ],
@@ -1764,7 +1753,6 @@
     "graper": [],
     "GraphAT": [],
     "graphite": [],
-    "GreyListChIP": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1954,7 +1942,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "impute",
@@ -2022,7 +2009,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "impute",
@@ -2077,7 +2063,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "impute",
@@ -2157,7 +2142,6 @@
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
     "MetaboCoreUtils": [],
@@ -2181,7 +2165,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "impute",
@@ -2343,7 +2326,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "xcms"
@@ -2415,7 +2397,6 @@
     ],
     "MsExperiment": [
         "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
     "msgbsR": [
@@ -2455,13 +2436,10 @@
         "genefilter",
         "sva"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstats": [],
@@ -2553,7 +2531,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "xcms"
@@ -2565,7 +2542,6 @@
         "Rgraphviz"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "RBGL",
         "Rgraphviz",
@@ -2878,7 +2854,6 @@
         "STRINGdb"
     ],
     "pqsfinder": [],
-    "PREDA": [],
     "primirTSS": [
         "Gviz"
     ],
@@ -2941,9 +2916,7 @@
         "qvalue",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB",
         "topGO"
@@ -2966,7 +2939,6 @@
         "CGHcall",
         "impute"
     ],
-    "QFeatures": [],
     "qpgraph": [
         "Rgraphviz"
     ],
@@ -3074,7 +3046,6 @@
         "metapod",
         "scran"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "DESeq2",
@@ -3152,7 +3123,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "RBGL",
         "Spectra",
         "biocViews",
@@ -3334,15 +3304,12 @@
         "metapod",
         "scran"
     ],
-    "scMET": [],
     "Sconify": [
         "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
@@ -3673,7 +3640,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TAPseq": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
@@ -3699,7 +3665,6 @@
         "DESeq2",
         "SCBN"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "Rgraphviz",
         "ontoProc",
@@ -3761,7 +3726,6 @@
         "CoreGx",
         "piano"
     ],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "Rgraphviz"
@@ -3795,7 +3759,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "qvalue",
@@ -3843,7 +3806,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VarCon": [],
     "variancePartition": [],
     "VariantExperiment": [
         "DelayedDataFrame",
@@ -3887,7 +3849,6 @@
         "ChIPpeakAnno",
         "DESeq2",
         "DiffBind",
-        "GreyListChIP",
         "RBGL",
         "csaw",
         "metapod"
@@ -3910,7 +3871,6 @@
         "MassSpecWavelet",
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute"
     ],
