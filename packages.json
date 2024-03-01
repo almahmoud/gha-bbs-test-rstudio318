@@ -238,7 +238,6 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [
         "genefilter",
@@ -1800,7 +1799,6 @@
         "bumphunter",
         "genefilter"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
