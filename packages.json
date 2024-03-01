@@ -186,7 +186,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "BgeeDB": [],
     "BHC": [],
     "BicARE": [],
     "BiGGR": [
@@ -617,7 +616,6 @@
         "impute",
         "survcomp"
     ],
-    "consICA": [],
     "conumee": [
         "bumphunter",
         "genefilter",
@@ -1082,7 +1080,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "OrganismDbi"
     ],
@@ -2024,7 +2021,6 @@
     "mogsa": [
         "genefilter"
     ],
-    "MOMA": [],
     "monocle": [
         "biocViews"
     ],
@@ -2496,9 +2492,7 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute"
@@ -2679,7 +2673,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "STRINGdb"
     ],
     "RLassoCox": [],
@@ -2739,7 +2732,6 @@
         "impute"
     ],
     "ROCpAI": [],
-    "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
@@ -3063,7 +3055,6 @@
         "genefilter"
     ],
     "SplicingGraphs": [],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -3235,7 +3226,6 @@
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz"
     ],
