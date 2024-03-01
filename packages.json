@@ -561,7 +561,6 @@
     "circRNAprofiler": [
         "DESeq2"
     ],
-    "CircSeqAlignTk": [],
     "cisPath": [],
     "CiteFuse": [
         "metapod",
@@ -2291,7 +2290,6 @@
         "genefilter",
         "sva"
     ],
-    "msqrob2": [],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
@@ -2737,7 +2735,6 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -3105,7 +3102,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scp": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
