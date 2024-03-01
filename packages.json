@@ -43,7 +43,6 @@
         "affycoretools",
         "genefilter"
     ],
-    "AHMassBank": [],
     "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz"
@@ -206,7 +205,6 @@
         "impute",
         "sva"
     ],
-    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -702,7 +700,6 @@
         "impute",
         "tkWidgets"
     ],
-    "dce": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -850,7 +847,6 @@
     ],
     "doseR": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "variancePartition",
         "zenith"
     ],
@@ -873,7 +869,6 @@
     "EGAD": [
         "impute"
     ],
-    "EGSEA": [],
     "ELMER": [
         "Gviz"
     ],
@@ -884,7 +879,6 @@
         "impute",
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -938,7 +932,6 @@
     "exomePeak2": [
         "DESeq2"
     ],
-    "ExperimentHubData": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1289,9 +1282,7 @@
         "DESeq2"
     ],
     "graper": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
@@ -1649,7 +1640,6 @@
         "minfi"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "bumphunter",
         "genefilter",
         "impute",
@@ -1892,7 +1882,6 @@
     "NCIgraph": [
         "RCy3"
     ],
-    "nempi": [],
     "NetActivity": [
         "DESeq2"
     ],
@@ -2404,7 +2393,6 @@
         "MGFR"
     ],
     "satuRn": [],
-    "SBGNview": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -2885,7 +2873,6 @@
         "dir.expiry"
     ],
     "zenith": [
-        "EnrichmentBrowser",
         "variancePartition"
     ],
     "zFPKM": [],
