@@ -175,10 +175,8 @@
     "bioCancer": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "ReactomePA",
         "TCGAutils",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "BioCartaImage": [],
     "BiocHail": [
@@ -236,7 +234,6 @@
         "genefilter",
         "sva"
     ],
-    "BOBaFIT": [],
     "brainflowprobes": [
         "bumphunter",
         "derfinder",
@@ -250,7 +247,6 @@
     "BUMHMM": [],
     "bumphunter": [],
     "BUScorrect": [],
-    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions",
         "Gviz"
@@ -313,9 +309,7 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -334,7 +328,6 @@
     ],
     "cellmigRation": [],
     "CEMiTool": [
-        "clusterProfiler",
         "impute"
     ],
     "censcyt": [
@@ -347,8 +340,7 @@
     "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
-        "RCy3",
-        "clusterProfiler"
+        "RCy3"
     ],
     "CexoR": [
         "genomation",
@@ -402,7 +394,6 @@
         "DESeq2",
         "DiffBind"
     ],
-    "ChIPseeker": [],
     "ChromSCape": [
         "metapod",
         "scran"
@@ -444,7 +435,6 @@
         "zinbwave"
     ],
     "ClusterJudge": [],
-    "clusterProfiler": [],
     "ClusterSignificance": [],
     "cmapR": [
         "RProtoBufLib",
@@ -696,7 +686,6 @@
         "DynDoc",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "tkWidgets"
     ],
@@ -710,7 +699,6 @@
     "dearseq": [],
     "debrowser": [
         "DESeq2",
-        "clusterProfiler",
         "genefilter",
         "sva"
     ],
@@ -879,15 +867,12 @@
         "impute",
         "minfi"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
     "enrichViewNet": [
         "RCy3"
     ],
     "EpiCompare": [
         "BRGenomics",
-        "ChIPseeker",
         "DESeq2",
         "genomation",
         "impute"
@@ -914,7 +899,6 @@
     "epivizr": [
         "bumphunter"
     ],
-    "epivizrChart": [],
     "epivizrStandalone": [
         "bumphunter",
         "epivizr"
@@ -922,10 +906,7 @@
     "ERSSA": [
         "DESeq2"
     ],
-    "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
+    "esATAC": [],
     "EWCE": [
         "orthogene"
     ],
@@ -940,7 +921,6 @@
         "metapod"
     ],
     "famat": [
-        "clusterProfiler",
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
@@ -1156,10 +1136,8 @@
     ],
     "GDCRNATools": [
         "DESeq2",
-        "GenomicDataCommons",
-        "clusterProfiler"
+        "GenomicDataCommons"
     ],
-    "gDR": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1207,7 +1185,6 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -1270,9 +1247,7 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GOstats": [
         "Category",
         "genefilter"
@@ -1386,9 +1361,7 @@
     "INDEED": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
         "bumphunter",
-        "clusterProfiler",
         "genefilter",
         "impute",
         "minfi"
@@ -1402,7 +1375,6 @@
         "DESeq2"
     ],
     "INTACT": [],
-    "intansv": [],
     "interacCircos": [],
     "interactiveDisplay": [
         "Category",
@@ -1512,9 +1484,7 @@
         "methylumi",
         "minfi"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "magpie": [
         "DESeq2"
     ],
@@ -1581,7 +1551,6 @@
         "wateRmelon"
     ],
     "memes": [],
-    "meshes": [],
     "meshr": [
         "Category",
         "genefilter"
@@ -1614,8 +1583,7 @@
         "xcms"
     ],
     "MetaPhOR": [
-        "RCy3",
-        "clusterProfiler"
+        "RCy3"
     ],
     "metapod": [],
     "metaseqR2": [
@@ -1647,7 +1615,6 @@
     ],
     "methylGSA": [
         "bumphunter",
-        "clusterProfiler",
         "genefilter",
         "methylumi",
         "minfi",
@@ -1679,9 +1646,7 @@
         "ALDEx2",
         "DESeq2"
     ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1743,12 +1708,8 @@
         "genefilter"
     ],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -1783,7 +1744,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "msgbsR": [],
     "msImpute": [
         "metapod",
         "scran"
@@ -1993,9 +1953,7 @@
         "sva"
     ],
     "pairkat": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -2058,8 +2016,6 @@
     "Pi": [],
     "pickgene": [],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler",
         "impute"
     ],
     "PING": [
@@ -2102,7 +2058,6 @@
     ],
     "proBAMr": [],
     "profileplyr": [
-        "ChIPseeker",
         "rGREAT"
     ],
     "progeny": [
@@ -2130,7 +2085,6 @@
         "DynDoc",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "tkWidgets"
     ],
@@ -2180,7 +2134,6 @@
         "minfi"
     ],
     "QUBIC": [],
-    "R3CPET": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2211,7 +2164,6 @@
         "dir.expiry"
     ],
     "RCy3": [],
-    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -2286,7 +2238,6 @@
     "RiboDiPA": [
         "DESeq2"
     ],
-    "RiboProfiling": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -2463,12 +2414,10 @@
     "scRNAseqApp": [
         "slingshot"
     ],
-    "scruff": [],
     "scShapes": [],
     "scTensor": [
         "Category",
         "GOstats",
-        "ReactomePA",
         "genefilter",
         "meshr"
     ],
@@ -2484,7 +2433,6 @@
         "dir.expiry"
     ],
     "segmenter": [
-        "ChIPseeker",
         "bamsignals"
     ],
     "seq2pathway": [
@@ -2492,8 +2440,6 @@
     ],
     "seqArchR": [],
     "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler",
         "seqArchR"
     ],
     "SeqArray": [
@@ -2538,9 +2484,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -2604,7 +2548,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [],
     "Spaniel": [
         "metapod",
         "scran"
@@ -2721,7 +2664,6 @@
         "DynDoc",
         "Mfuzz",
         "RCy3",
-        "clusterProfiler",
         "rWikiPathways",
         "tkWidgets"
     ],
@@ -2857,9 +2799,7 @@
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "bumphunter",
         "genefilter",
