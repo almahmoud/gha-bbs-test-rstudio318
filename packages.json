@@ -206,9 +206,7 @@
         "impute",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -237,7 +235,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "genefilter",
         "sva"
     ],
@@ -326,7 +323,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CCPROMISE": [],
     "ccrepe": [],
     "celda": [
         "metapod",
@@ -431,7 +427,6 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MassSpecWavelet",
@@ -707,9 +702,7 @@
         "impute",
         "tkWidgets"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "RProtoBufLib",
         "cytolib",
@@ -722,7 +715,6 @@
         "DESeq2",
         "clusterProfiler",
         "genefilter",
-        "pathview",
         "sva"
     ],
     "decontX": [
@@ -782,7 +774,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "DEScan2": [],
     "DESeq2": [],
     "DEsingle": [],
     "DEsubs": [
@@ -860,8 +851,6 @@
     "doseR": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview",
         "variancePartition",
         "zenith"
     ],
@@ -884,9 +873,7 @@
     "EGAD": [
         "impute"
     ],
-    "EGSEA": [
-        "pathview"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz"
     ],
@@ -897,10 +884,7 @@
         "impute",
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "SPIA",
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -929,7 +913,6 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -949,7 +932,6 @@
         "ChIPseeker",
         "clusterProfiler"
     ],
-    "escape": [],
     "EWCE": [
         "orthogene"
     ],
@@ -1182,8 +1164,7 @@
     "GDCRNATools": [
         "DESeq2",
         "GenomicDataCommons",
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "gDR": [],
     "GDSArray": [
@@ -1309,9 +1290,7 @@
     ],
     "graper": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer",
@@ -1321,7 +1300,6 @@
         "genefilter",
         "les"
     ],
-    "GUIDEseq": [],
     "Guitar": [],
     "Gviz": [],
     "GWASTools": [
@@ -1519,7 +1497,6 @@
         "xcms"
     ],
     "logicFS": [],
-    "lpNet": [],
     "lumi": [
         "bumphunter",
         "genefilter",
@@ -1546,8 +1523,7 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "magpie": [
         "DESeq2"
@@ -1629,7 +1605,6 @@
     ],
     "MetaboCoreUtils": [],
     "MetaboSignal": [
-        "MWASTools",
         "hpar"
     ],
     "MetaCyto": [
@@ -1663,7 +1638,6 @@
         "Spectra"
     ],
     "methimpute": [],
-    "methInheritSim": [],
     "MethylAid": [
         "bumphunter",
         "genefilter",
@@ -1690,7 +1664,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -1891,7 +1864,6 @@
         "DESeq2",
         "variancePartition"
     ],
-    "MWASTools": [],
     "NADfinder": [
         "Gviz",
         "csaw",
@@ -1920,9 +1892,7 @@
     "NCIgraph": [
         "RCy3"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [
         "DESeq2"
     ],
@@ -2001,7 +1971,6 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oppar": [],
     "optimalFlow": [
         "RProtoBufLib",
         "cytolib",
@@ -2050,7 +2019,6 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -2436,9 +2404,7 @@
         "MGFR"
     ],
     "satuRn": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -2462,7 +2428,6 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scClassify": [],
     "scDataviz": [
         "RProtoBufLib",
         "cytolib",
@@ -2676,7 +2641,6 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SPIA": [],
     "spicyR": [
         "ClassifyR",
         "genefilter"
@@ -2780,7 +2744,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TNBC.CMS": [],
     "TnT": [],
     "TOP": [
         "ClassifyR",
@@ -2923,8 +2886,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview",
         "variancePartition"
     ],
     "zFPKM": [],
