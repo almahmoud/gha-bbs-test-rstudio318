@@ -117,7 +117,6 @@
         "GeneOverlap",
         "rGREAT"
     ],
-    "ATACseqQC": [],
     "attract": [
         "Category",
         "GOstats",
@@ -244,9 +243,7 @@
         "DEXSeq",
         "genefilter"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [
         "genefilter",
@@ -1555,7 +1552,6 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "KEGGlincs": [],
     "kissDE": [
         "DESeq2"
     ],
@@ -1814,9 +1810,7 @@
         "bumphunter",
         "genefilter"
     ],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1984,7 +1978,6 @@
     ],
     "MWASTools": [],
     "NADfinder": [
-        "ATACseqQC",
         "Gviz",
         "csaw",
         "metapod",
@@ -2375,7 +2368,6 @@
         "genefilter",
         "minfi"
     ],
-    "REDseq": [],
     "RegionalST": [
         "BayesSpace",
         "metapod",
@@ -2510,7 +2502,6 @@
         "impute"
     ],
     "ROCpAI": [],
-    "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
     ],
