@@ -309,7 +309,6 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -867,7 +866,6 @@
         "impute",
         "minfi"
     ],
-    "enrichTF": [],
     "enrichViewNet": [
         "RCy3"
     ],
@@ -906,7 +904,6 @@
     "ERSSA": [
         "DESeq2"
     ],
-    "esATAC": [],
     "EWCE": [
         "orthogene"
     ],
@@ -1247,7 +1244,6 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "goSorensen": [],
     "GOstats": [
         "Category",
         "genefilter"
@@ -1484,7 +1480,6 @@
         "methylumi",
         "minfi"
     ],
-    "MAGeCKFlute": [],
     "magpie": [
         "DESeq2"
     ],
@@ -1646,7 +1641,6 @@
         "ALDEx2",
         "DESeq2"
     ],
-    "MicrobiomeProfiler": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1708,8 +1702,6 @@
         "genefilter"
     ],
     "monocle": [],
-    "Moonlight2R": [],
-    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -1953,7 +1945,6 @@
         "sva"
     ],
     "pairkat": [],
-    "PanomiR": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -2484,7 +2475,6 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -2799,7 +2789,6 @@
     ],
     "xmapbridge": [],
     "XNAString": [],
-    "YAPSA": [],
     "yarn": [
         "bumphunter",
         "genefilter",
