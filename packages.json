@@ -46,8 +46,7 @@
         "ggbio"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "ALDEx2": [],
     "AllelicImbalance": [
@@ -76,9 +75,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationHubData": [
-        "BiocCheck"
-    ],
+    "AnnotationHubData": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -86,7 +83,6 @@
     "APAlyzer": [
         "DESeq2"
     ],
-    "appreci8R": [],
     "arrayMvout": [
         "bumphunter",
         "genefilter",
@@ -192,7 +188,6 @@
         "enrichplot"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -1001,8 +996,7 @@
         "DESeq2"
     ],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -1221,7 +1215,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -1240,9 +1233,7 @@
         "gDRimport"
     ],
     "gDRimport": [],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1745,7 +1736,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "bumphunter",
         "genefilter",
@@ -1934,10 +1924,7 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute"
@@ -1947,9 +1934,7 @@
         "MSstatsQC",
         "impute"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -2740,7 +2725,6 @@
     ],
     "slingshot": [],
     "SMAP": [],
-    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
@@ -2825,7 +2809,6 @@
     "sva": [
         "genefilter"
     ],
-    "SVMDO": [],
     "SWATH2stats": [],
     "SwathXtend": [],
     "swfdr": [],
@@ -2862,7 +2845,6 @@
         "DESeq2",
         "SCBN"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
