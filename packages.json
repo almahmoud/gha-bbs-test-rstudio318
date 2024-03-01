@@ -612,9 +612,7 @@
     "circRNAprofiler": [
         "DESeq2"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "cisPath": [],
     "CiteFuse": [
         "metapod",
@@ -2219,7 +2217,6 @@
         "methylKit",
         "qvalue"
     ],
-    "MethReg": [],
     "MethylAid": [
         "bumphunter",
         "genefilter",
@@ -2640,7 +2637,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz"
     ],
@@ -2689,7 +2685,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "OpenStats": [],
     "oposSOM": [],
     "oppar": [
@@ -2905,7 +2900,6 @@
         "DESeq2"
     ],
     "proBAMr": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -3144,7 +3138,6 @@
     "rgsepd": [
         "DESeq2"
     ],
-    "Rhisat2": [],
     "RiboCrypt": [
         "DESeq2",
         "ORFik"
