@@ -6,7 +6,6 @@
     "a4Base": [
         "genefilter"
     ],
-    "acde": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -26,7 +25,6 @@
     ],
     "ADImpute": [],
     "affycoretools": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -50,7 +48,6 @@
         "graph"
     ],
     "AgiMicroRna": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -67,7 +64,6 @@
         "graph"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi",
@@ -105,9 +101,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationForge": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "BiocCheck",
         "OrganismDbi",
         "RBGL",
@@ -145,7 +139,6 @@
         "bumphunter",
         "genefilter",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi"
     ],
@@ -189,7 +182,6 @@
         "graph"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -538,7 +530,6 @@
         "graph"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -738,8 +729,7 @@
         "DESeq2"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "cisPath": [],
     "CiteFuse": [
@@ -894,7 +884,6 @@
         "graph",
         "topGO"
     ],
-    "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1025,8 +1014,7 @@
     "cycle": [
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "RProtoBufLib",
@@ -1120,8 +1108,7 @@
         "graph",
         "impute",
         "qvalue",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "dce": [
         "RBGL",
@@ -1508,7 +1495,6 @@
     "esetVis": [],
     "EventPointer": [
         "RBGL",
-        "SGSeq",
         "graph",
         "qvalue"
     ],
@@ -1516,12 +1502,10 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "ExiMiR": [],
     "exomePeak2": [
         "DESeq2"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi",
@@ -1973,7 +1957,6 @@
         "graph",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -1995,7 +1978,6 @@
         "graph"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -2027,7 +2009,6 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "RBGL",
@@ -2171,7 +2152,6 @@
     ],
     "iClusterPlus": [],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -2229,7 +2209,6 @@
         "cytolib",
         "flowCore"
     ],
-    "Informeasure": [],
     "INSPEcT": [
         "DESeq2"
     ],
@@ -2327,7 +2306,6 @@
         "sva"
     ],
     "LACE": [],
-    "LEA": [],
     "les": [],
     "lfa": [],
     "lineagespot": [],
@@ -2372,7 +2350,6 @@
     "Macarron": [
         "impute"
     ],
-    "macat": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
@@ -2458,7 +2435,6 @@
         "graph"
     ],
     "mdp": [],
-    "mdqc": [],
     "MDTS": [],
     "MEAL": [
         "GEOquery",
@@ -2576,7 +2552,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
@@ -2629,8 +2604,7 @@
     "MetNet": [],
     "Mfuzz": [
         "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [],
     "MGFR": [],
@@ -2654,7 +2628,6 @@
     ],
     "mina": [],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "GEOquery",
         "GOstats",
@@ -2681,7 +2654,6 @@
         "graph"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -2907,8 +2879,7 @@
         "DESeq2",
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "multiWGCNA": [
         "impute"
@@ -3007,7 +2978,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "GEOquery",
         "GOstats",
@@ -3061,8 +3031,7 @@
         "DynDoc",
         "OLIN",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "OmaDB": [
         "graph",
@@ -3108,10 +3077,7 @@
         "graph",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [],
     "oposSOM": [
         "graph"
@@ -3207,7 +3173,6 @@
         "graph"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -3322,7 +3287,6 @@
     "planet": [],
     "planttfhunter": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3410,8 +3374,7 @@
         "graph",
         "impute",
         "qvalue",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "protGear": [
         "genefilter"
@@ -3454,7 +3417,6 @@
         "marray"
     ],
     "QFeatures": [],
-    "qpcrNorm": [],
     "qpgraph": [
         "Rgraphviz",
         "graph"
@@ -3617,7 +3579,6 @@
         "genefilter"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -3654,9 +3615,7 @@
     "rgsepd": [
         "DESeq2"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "DESeq2",
         "ORFik"
@@ -3928,7 +3887,6 @@
     "scry": [],
     "scShapes": [],
     "scTensor": [
-        "AnnotationForge",
         "Category",
         "DOSE",
         "GOstats",
@@ -4009,7 +3967,6 @@
         "sva"
     ],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4018,7 +3975,6 @@
         "genefilter",
         "graph"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "GEOquery",
         "bumphunter",
@@ -4167,7 +4123,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [],
     "spatialHeatmap": [
         "genefilter",
         "metapod",
@@ -4354,8 +4309,7 @@
         "graph",
         "qvalue",
         "rWikiPathways",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "TIN": [
         "impute"
@@ -4365,8 +4319,7 @@
         "graph"
     ],
     "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
+        "DynDoc"
     ],
     "TMixClust": [
         "SPEM"
@@ -4459,7 +4412,6 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TTMap": [],
     "TurboNorm": [
         "convert",
         "marray"
@@ -4530,7 +4482,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "graph",
         "topGO"
     ],
@@ -4565,7 +4516,6 @@
     "webbioc": [
         "qvalue"
     ],
-    "widgetTools": [],
     "wppi": [
         "OmnipathR"
     ],
