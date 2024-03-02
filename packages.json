@@ -538,7 +538,6 @@
     "covRNA": [
         "genefilter"
     ],
-    "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -2589,7 +2588,6 @@
         "genefilter",
         "splots"
     ],
-    "STATegRa": [],
     "statTarget": [
         "impute"
     ],
