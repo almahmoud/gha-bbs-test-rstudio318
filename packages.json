@@ -571,7 +571,6 @@
     "DiffBind": [
         "systemPipeR"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -1291,7 +1290,6 @@
         "dcanr"
     ],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -1608,7 +1606,6 @@
     "RMassBank": [
         "MSnbase"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
@@ -1864,7 +1861,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [],
