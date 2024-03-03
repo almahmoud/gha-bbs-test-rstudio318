@@ -166,7 +166,6 @@
         "parody",
         "siggenes"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "gcrma",
@@ -238,7 +237,6 @@
         "ShortRead"
     ],
     "BaseSpaceR": [],
-    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -729,8 +727,7 @@
         "ShortRead"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consICA": [],
     "contiBAIT": [
@@ -774,7 +771,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
@@ -1234,7 +1230,6 @@
         "TSCAN"
     ],
     "fedup": [],
-    "fenr": [],
     "ffpe": [
         "bumphunter",
         "lumi",
@@ -1417,7 +1412,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [],
     "GENESIS": [
@@ -1910,7 +1904,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "MEDIPS": [],
     "Melissa": [],
     "meshes": [
         "DOSE",
@@ -2332,7 +2325,6 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
@@ -2407,7 +2399,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSVA"
     ],
@@ -2467,7 +2458,6 @@
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "genefu",
         "piano"
     ],
     "pdInfoBuilder": [],
@@ -2787,7 +2777,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -2956,7 +2945,6 @@
         "sva"
     ],
     "scanMiRApp": [],
-    "scAnnotatR": [],
     "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
@@ -3060,7 +3048,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "seqsetvis": [],
     "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [],
@@ -3101,8 +3088,7 @@
     ],
     "signifinder": [
         "GSVA",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SigsPack": [
         "VariantAnnotation"
