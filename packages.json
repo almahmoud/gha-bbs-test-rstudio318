@@ -622,7 +622,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epigenomix": [],
     "epigraHMM": [],
     "epimutacions": [
         "Gviz",
@@ -665,7 +664,6 @@
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -1747,7 +1745,6 @@
     "SpacePAC": [],
     "sparrow": [],
     "spaSim": [],
-    "spatialDE": [],
     "SpatialDecon": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
