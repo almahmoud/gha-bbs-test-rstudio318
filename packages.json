@@ -117,7 +117,6 @@
     "attract": [
         "GOstats"
     ],
-    "BadRegionFinder": [],
     "ballgown": [],
     "bandle": [
         "MSnbase",
@@ -546,7 +545,6 @@
     ],
     "DrugVsDisease": [],
     "DSS": [],
-    "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
     "EGSEA": [],
@@ -817,9 +815,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [],
     "hierGWAS": [],
@@ -1131,7 +1127,6 @@
     ],
     "msgbsR": [
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msmsEDA": [
@@ -1182,7 +1177,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "multiWGCNA": [
         "dcanr"
     ],
@@ -1622,7 +1616,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "SNPhood": [],
     "soGGi": [
         "chipseq"
     ],
