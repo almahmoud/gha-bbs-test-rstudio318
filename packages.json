@@ -25,7 +25,6 @@
     "aCGH": [
         "multtest"
     ],
-    "ACME": [],
     "ADaCGH2": [
         "aCGH",
         "affy",
@@ -264,7 +263,6 @@
     "anota2seq": [
         "multtest"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "HybridMTest",
         "VariantAnnotation"
@@ -473,7 +471,6 @@
         "VariantAnnotation"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -818,12 +815,9 @@
         "ggtree"
     ],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "casper": [
         "EBarrays",
         "gaga"
@@ -1748,7 +1742,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1856,7 +1849,6 @@
         "multtest",
         "siggenes"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -1975,7 +1967,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "EMDomics": [],
     "enhancerHomologSearch": [
         "CNEr",
         "DirichletMultinomial",
@@ -2889,7 +2880,6 @@
     "IdeoViz": [],
     "idiogram": [],
     "IFAA": [],
-    "IgGeneUsage": [],
     "igvR": [
         "BrowserViz",
         "VariantAnnotation"
@@ -3269,8 +3259,6 @@
         "DirichletMultinomial",
         "TFBSTools"
     ],
-    "matter": [],
-    "MBASED": [],
     "MBECS": [
         "biomformat",
         "genefilter",
@@ -3342,7 +3330,6 @@
         "scuttle"
     ],
     "MEDIPS": [],
-    "MEDME": [],
     "megadepth": [],
     "Melissa": [
         "BPRMeth"
@@ -3519,7 +3506,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylscaper": [],
     "MethylSeekR": [],
     "methylSig": [
         "DSS",
@@ -3818,7 +3804,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "mpra": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -5973,7 +5958,6 @@
         "VariantAnnotation"
     ],
     "SubCellBarCode": [],
-    "subSeq": [],
     "SUITOR": [],
     "Summix": [],
     "supersigs": [],
@@ -6072,7 +6056,6 @@
         "rhdf5client"
     ],
     "TEQC": [],
-    "ternarynet": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -6405,7 +6388,6 @@
         "DelayedMatrixStats"
     ],
     "wiggleplotr": [],
-    "wpm": [],
     "wppi": [],
     "Wrench": [],
     "xcms": [
