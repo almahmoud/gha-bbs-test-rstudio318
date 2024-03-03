@@ -77,7 +77,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AlpsNMR": [],
     "altcdfenvs": [],
     "amplican": [],
     "AneuFinder": [],
@@ -988,24 +987,12 @@
         "Spectra",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "iSeq": [],
@@ -1177,7 +1164,6 @@
         "minfi"
     ],
     "mfa": [],
-    "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
