@@ -71,7 +71,6 @@
         "OrganismDbi"
     ],
     "airpart": [
-        "ComplexHeatmap",
         "apeglm"
     ],
     "alabaster": [
@@ -149,9 +148,7 @@
     "altcdfenvs": [
         "makecdfenv"
     ],
-    "AMARETTO": [
-        "ComplexHeatmap"
-    ],
+    "AMARETTO": [],
     "amplican": [
         "ShortRead"
     ],
@@ -218,9 +215,7 @@
     "ASSIGN": [
         "sva"
     ],
-    "ASURAT": [
-        "ComplexHeatmap"
-    ],
+    "ASURAT": [],
     "ATACCoGAPS": [
         "CNEr",
         "CoGAPS",
@@ -344,9 +339,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [
-        "ComplexHeatmap"
-    ],
+    "BindingSiteFinder": [],
     "bioassayR": [],
     "bioCancer": [
         "DOSE",
@@ -362,9 +355,7 @@
     "biocGraph": [],
     "BiocHail": [],
     "BiocHubsShiny": [],
-    "BiocOncoTK": [
-        "ComplexHeatmap"
-    ],
+    "BiocOncoTK": [],
     "BioCor": [
         "GSEABase"
     ],
@@ -392,7 +383,6 @@
     ],
     "BioNAR": [],
     "BioNERO": [
-        "ComplexHeatmap",
         "sva"
     ],
     "BioNetStat": [
@@ -420,7 +410,6 @@
     ],
     "BiSeq": [],
     "blacksheepr": [
-        "ComplexHeatmap",
         "DEXSeq"
     ],
     "blima": [
@@ -430,9 +419,7 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "BloodGen3Module": [
-        "ComplexHeatmap"
-    ],
+    "BloodGen3Module": [],
     "bnbc": [
         "HiCBricks",
         "sva"
@@ -495,7 +482,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "ComplexHeatmap",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -541,7 +527,6 @@
         "gaga"
     ],
     "CATALYST": [
-        "ComplexHeatmap",
         "FlowSOM",
         "flowCore"
     ],
@@ -573,10 +558,7 @@
     ],
     "cbpManager": [],
     "ccfindR": [],
-    "ccmap": [],
-    "CCPlotR": [
-        "ComplexHeatmap"
-    ],
+    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
@@ -585,9 +567,7 @@
     "celaref": [
         "MAST"
     ],
-    "celda": [
-        "ComplexHeatmap"
-    ],
+    "celda": [],
     "CellBarcode": [
         "ShortRead"
     ],
@@ -610,7 +590,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "ComplexHeatmap",
         "FlowSOM",
         "diffcyt",
         "flowCore"
@@ -619,7 +598,6 @@
         "GSEABase"
     ],
     "CeTF": [
-        "ComplexHeatmap",
         "DOSE",
         "clusterProfiler",
         "enrichplot"
@@ -835,18 +813,14 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "ComplexHeatmap",
         "MIRA",
         "bsseq"
     ],
-    "codelink": [],
     "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [],
     "Cogito": [],
-    "cola": [
-        "ComplexHeatmap"
-    ],
+    "cola": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -870,7 +844,6 @@
         "biovizBase",
         "methylPipe"
     ],
-    "ComplexHeatmap": [],
     "CompoundDb": [
         "MetaboCoreUtils",
         "Spectra"
@@ -943,7 +916,6 @@
         "GSEABase"
     ],
     "COTAN": [
-        "ComplexHeatmap",
         "PCAtools"
     ],
     "countsimQC": [],
@@ -992,7 +964,6 @@
         "sva"
     ],
     "csaw": [],
-    "csdR": [],
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
@@ -1025,20 +996,16 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "ComplexHeatmap",
         "FlowSOM",
         "diffcyt",
         "flowCore"
     ],
     "cytofQC": [
         "CATALYST",
-        "ComplexHeatmap",
         "FlowSOM",
         "flowCore"
     ],
-    "cytoKernel": [
-        "ComplexHeatmap"
-    ],
+    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
@@ -1055,7 +1022,6 @@
         "openCyto"
     ],
     "CytoPipeline": [
-        "ComplexHeatmap",
         "PeacoQC",
         "flowAI",
         "flowCore",
@@ -1064,7 +1030,6 @@
         "ncdfFlow"
     ],
     "CytoPipelineGUI": [
-        "ComplexHeatmap",
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
@@ -1129,7 +1094,6 @@
         "pcaMethods"
     ],
     "decontX": [
-        "ComplexHeatmap",
         "celda"
     ],
     "deconvR": [
@@ -1148,9 +1112,7 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [
-        "ComplexHeatmap"
-    ],
+    "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
@@ -1164,7 +1126,6 @@
     ],
     "densvis": [],
     "DEP": [
-        "ComplexHeatmap",
         "MSnbase",
         "pcaMethods",
         "vsn"
@@ -1213,7 +1174,6 @@
         "pcaMethods"
     ],
     "diffcyt": [
-        "ComplexHeatmap",
         "FlowSOM",
         "flowCore"
     ],
@@ -1224,7 +1184,6 @@
         "csaw"
     ],
     "diffUTR": [
-        "ComplexHeatmap",
         "DEXSeq"
     ],
     "Dino": [],
@@ -1307,7 +1266,6 @@
     "eiR": [],
     "eisaR": [],
     "ELMER": [
-        "ComplexHeatmap",
         "Gviz",
         "TCGAbiolinks",
         "VariantAnnotation",
@@ -1323,9 +1281,7 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [
-        "ComplexHeatmap"
-    ],
+    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -1462,7 +1418,6 @@
         "TreeSummarizedExperiment"
     ],
     "extraChIPs": [
-        "ComplexHeatmap",
         "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
@@ -1484,7 +1439,6 @@
         "ShortRead"
     ],
     "fCCAC": [
-        "ComplexHeatmap",
         "genomation",
         "seqPattern"
     ],
@@ -1522,7 +1476,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "ComplexHeatmap",
         "OrganismDbi",
         "VariantAnnotation",
         "bambu",
@@ -1653,9 +1606,7 @@
     "gatom": [],
     "GBScleanR": [],
     "gcapc": [],
-    "gCrisprTools": [
-        "ComplexHeatmap"
-    ],
+    "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -1712,9 +1663,7 @@
         "biovizBase"
     ],
     "geNetClassifier": [],
-    "GeneTonic": [
-        "ComplexHeatmap"
-    ],
+    "GeneTonic": [],
     "geneXtendeR": [],
     "genomation": [
         "seqPattern"
@@ -1736,16 +1685,13 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "ComplexHeatmap",
         "RCAS",
         "genomation",
         "plyranges",
         "seqPattern"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [
-        "ComplexHeatmap"
-    ],
+    "GenomicSuperSignature": [],
     "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
@@ -1814,9 +1760,7 @@
         "GOstats",
         "GSEABase"
     ],
-    "gmoviz": [
-        "ComplexHeatmap"
-    ],
+    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1842,9 +1786,7 @@
     "GOTHiC": [
         "ShortRead"
     ],
-    "GRaNIE": [
-        "ComplexHeatmap"
-    ],
+    "GRaNIE": [],
     "granulator": [],
     "GraphPAC": [
         "iPAC"
@@ -1906,9 +1848,7 @@
     "HelloRanges": [
         "VariantAnnotation"
     ],
-    "hermes": [
-        "ComplexHeatmap"
-    ],
+    "hermes": [],
     "HERON": [],
     "hiAnnotator": [],
     "HiCBricks": [],
@@ -1949,7 +1889,6 @@
     "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [
-        "ComplexHeatmap",
         "SpatialExperiment"
     ],
     "hpar": [],
@@ -1966,7 +1905,6 @@
     "hummingbird": [],
     "hyperdraw": [],
     "ibh": [],
-    "iBMQ": [],
     "icetea": [
         "ShortRead",
         "VariantAnnotation",
@@ -2038,16 +1976,12 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [
-        "ComplexHeatmap"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase"
     ],
-    "InterCellar": [
-        "ComplexHeatmap"
-    ],
+    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
@@ -2071,31 +2005,23 @@
         "vsn",
         "xcms"
     ],
-    "iSEE": [
-        "ComplexHeatmap"
-    ],
+    "iSEE": [],
     "iSEEde": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEhex": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEhub": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEindex": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEpathways": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEu": [
-        "ComplexHeatmap",
         "iSEE",
         "iSEEhex"
     ],
@@ -2108,7 +2034,6 @@
         "tximeta"
     ],
     "isomiRs": [
-        "ComplexHeatmap",
         "DEGreport"
     ],
     "ITALICS": [],
@@ -2144,9 +2069,7 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [
-        "ComplexHeatmap"
-    ],
+    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
@@ -2262,7 +2185,6 @@
     ],
     "matchBox": [],
     "MatrixQCvis": [
-        "ComplexHeatmap",
         "pcaMethods",
         "vsn"
     ],
@@ -2323,9 +2245,7 @@
         "Category",
         "GSEABase"
     ],
-    "MesKit": [
-        "ComplexHeatmap"
-    ],
+    "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
@@ -2338,7 +2258,6 @@
     ],
     "metabomxtr": [],
     "MetaboSignal": [
-        "ComplexHeatmap",
         "KEGGgraph",
         "MWASTools",
         "hpar",
@@ -2391,7 +2310,6 @@
         "sesame"
     ],
     "methrix": [],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "bumphunter",
         "minfi",
@@ -2474,7 +2392,6 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "ComplexHeatmap",
         "TreeSummarizedExperiment",
         "Wrench",
         "biomformat",
@@ -2577,17 +2494,13 @@
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
-    "MOMA": [
-        "ComplexHeatmap"
-    ],
+    "MOMA": [],
     "monaLisa": [
         "CNEr",
-        "ComplexHeatmap",
         "TFBSTools"
     ],
     "monocle": [],
     "Moonlight2R": [
-        "ComplexHeatmap",
         "DOSE",
         "clusterProfiler",
         "enrichplot"
@@ -2656,7 +2569,6 @@
         "ggbio"
     ],
     "msImpute": [],
-    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "pcaMethods",
@@ -2750,7 +2662,6 @@
     ],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
-        "ComplexHeatmap",
         "Mfuzz"
     ],
     "multiWGCNA": [
@@ -2760,11 +2671,8 @@
     "MungeSumstats": [
         "VariantAnnotation"
     ],
-    "muscat": [
-        "ComplexHeatmap"
-    ],
+    "muscat": [],
     "musicatk": [
-        "ComplexHeatmap",
         "VariantAnnotation",
         "decompTumor2Sig",
         "maftools"
@@ -2774,7 +2682,6 @@
     ],
     "MVCClass": [],
     "MWASTools": [
-        "ComplexHeatmap",
         "KEGGgraph"
     ],
     "mygene": [],
@@ -2852,9 +2759,7 @@
         "yarn"
     ],
     "NewWave": [],
-    "nipalsMCIA": [
-        "ComplexHeatmap"
-    ],
+    "nipalsMCIA": [],
     "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
@@ -2863,7 +2768,6 @@
         "HTqPCR"
     ],
     "NoRCE": [],
-    "normalize450K": [],
     "NormalyzerDE": [
         "vsn"
     ],
@@ -2958,11 +2862,9 @@
         "Ringo",
         "vsn"
     ],
-    "OVESEG": [],
     "PAA": [
         "sva"
     ],
-    "packFinder": [],
     "padma": [],
     "pageRank": [
         "CNEr",
@@ -2994,7 +2896,6 @@
     "PAST": [],
     "PathNet": [],
     "PathoStat": [
-        "ComplexHeatmap",
         "biomformat",
         "phyloseq"
     ],
@@ -3016,7 +2917,6 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "ComplexHeatmap",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -3076,9 +2976,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "pipeComp": [
-        "ComplexHeatmap"
-    ],
+    "pipeComp": [],
     "pipeFrame": [],
     "plier": [],
     "PloGO2": [
@@ -3105,7 +3003,6 @@
         "ontoProc"
     ],
     "POMA": [
-        "ComplexHeatmap",
         "mixOmics"
     ],
     "POWSC": [
@@ -3141,7 +3038,6 @@
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
-        "ComplexHeatmap",
         "DOSE",
         "EnrichedHeatmap",
         "ShortRead",
@@ -3337,9 +3233,7 @@
         "minfi",
         "siggenes"
     ],
-    "recoup": [
-        "ComplexHeatmap"
-    ],
+    "recoup": [],
     "REDseq": [
         "ChIPpeakAnno",
         "regioneR"
@@ -3462,7 +3356,6 @@
         "consensusSeekeR"
     ],
     "RLSeq": [
-        "ComplexHeatmap",
         "regioneR"
     ],
     "RMassBank": [
@@ -3581,7 +3474,6 @@
         "pathview"
     ],
     "SC3": [],
-    "Scale4C": [],
     "SCAN.UPC": [
         "sva"
     ],
@@ -3657,10 +3549,8 @@
     "scran": [],
     "scReClassify": [],
     "screenCounter": [],
-    "ScreenR": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "ComplexHeatmap",
         "TrajectoryUtils",
         "slingshot"
     ],
@@ -3694,12 +3584,9 @@
         "epivizrServer"
     ],
     "scviR": [],
-    "sechm": [
-        "ComplexHeatmap"
-    ],
+    "sechm": [],
     "segmenter": [
         "ChIPseeker",
-        "ComplexHeatmap",
         "DOSE",
         "bamsignals",
         "enrichplot"
@@ -3730,7 +3617,6 @@
     "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
-        "ComplexHeatmap",
         "sechm",
         "sva"
     ],
@@ -3772,7 +3658,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "ComplexHeatmap",
         "GSEABase",
         "GSVA",
         "SpatialExperiment",
@@ -3797,20 +3682,15 @@
     "SIMD": [],
     "SimFFPE": [],
     "similaRpeak": [],
-    "simona": [
-        "ComplexHeatmap"
-    ],
+    "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [
-        "ComplexHeatmap"
-    ],
+    "simplifyEnrichment": [],
     "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "ComplexHeatmap",
         "GSEABase",
         "GSVA",
         "MAST",
@@ -3887,7 +3767,6 @@
     "Spaniel": [],
     "sparrow": [
         "BiocSet",
-        "ComplexHeatmap",
         "GSEABase"
     ],
     "SparseSignatures": [],
@@ -4049,7 +3928,6 @@
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "ComplexHeatmap",
         "GSEABase",
         "GSVA",
         "singscore",
@@ -4161,7 +4039,6 @@
         "slingshot"
     ],
     "treekoR": [
-        "ComplexHeatmap",
         "FlowSOM",
         "diffcyt",
         "flowCore"
@@ -4315,7 +4192,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "ComplexHeatmap",
         "CoreGx",
         "PharmacoGx",
         "piano"
@@ -4323,7 +4199,6 @@
     "XNAString": [],
     "yamss": [],
     "YAPSA": [
-        "ComplexHeatmap",
         "OrganismDbi",
         "SomaticSignatures",
         "VariantAnnotation",
