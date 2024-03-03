@@ -157,7 +157,6 @@
     ],
     "Anaquin": [],
     "ANCOMBC": [
-        "DECIPHER",
         "TreeSummarizedExperiment",
         "mia"
     ],
@@ -215,9 +214,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "sva"
     ],
@@ -265,7 +262,6 @@
         "pcaMethods"
     ],
     "BaalChIP": [],
-    "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -278,7 +274,6 @@
     "bandle": [
         "MLInterfaces",
         "MSnbase",
-        "mzID",
         "pRoloc",
         "pcaMethods",
         "vsn"
@@ -317,7 +312,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "DECIPHER",
         "MAST",
         "Maaslin2",
         "TreeSummarizedExperiment",
@@ -401,7 +395,6 @@
         "ComplexHeatmap",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -524,7 +517,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -764,7 +756,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -779,7 +770,6 @@
     ],
     "CluMSID": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -945,7 +935,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -1111,7 +1100,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -1134,7 +1122,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
@@ -1179,7 +1166,6 @@
     "DEP": [
         "ComplexHeatmap",
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -1286,7 +1272,6 @@
         "KEGGgraph",
         "SPIA",
         "pathview",
-        "safe",
         "zenith"
     ],
     "DropletUtils": [],
@@ -1297,7 +1282,6 @@
     "DSS": [
         "bsseq"
     ],
-    "Dune": [],
     "dyebias": [],
     "easier": [],
     "easylift": [],
@@ -1318,8 +1302,7 @@
         "GSEABase",
         "GSVA",
         "KEGGgraph",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "eiR": [],
     "eisaR": [],
@@ -1347,8 +1330,7 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE"
@@ -1535,7 +1517,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -1669,9 +1650,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [
@@ -1711,7 +1690,6 @@
     ],
     "gDRutils": [],
     "GDSArray": [],
-    "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -1880,8 +1858,7 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "GSEAlm": [],
     "gsean": [
@@ -1986,7 +1963,6 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "HubPub": [],
     "hummingbird": [],
     "hyperdraw": [],
     "ibh": [],
@@ -2091,7 +2067,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -2125,7 +2100,6 @@
         "iSEEhex"
     ],
     "iSeq": [],
-    "ISLET": [],
     "isobar": [],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
@@ -2195,7 +2169,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -2260,7 +2233,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -2274,7 +2246,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "marr": [],
     "martini": [],
     "maser": [
         "Gviz",
@@ -2390,7 +2361,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -2477,14 +2447,12 @@
     "Mfuzz": [],
     "MGFR": [],
     "mia": [
-        "DECIPHER",
         "TreeSummarizedExperiment"
     ],
     "miaSim": [
         "TreeSummarizedExperiment"
     ],
     "miaViz": [
-        "DECIPHER",
         "TreeSummarizedExperiment",
         "mia"
     ],
@@ -2507,7 +2475,6 @@
         "ALDEx2",
         "ANCOMBC",
         "ComplexHeatmap",
-        "DECIPHER",
         "TreeSummarizedExperiment",
         "Wrench",
         "biomformat",
@@ -2557,7 +2524,6 @@
     "MIRA": [
         "bsseq"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -2598,7 +2564,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -2694,19 +2659,16 @@
     "mslp": [],
     "msmsEDA": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
     "MSnbase": [
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -2714,7 +2676,6 @@
         "MSnbase",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -2748,7 +2709,6 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "qcmetrics",
         "vsn"
@@ -2756,7 +2716,6 @@
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "mzID",
         "pcaMethods",
         "qcmetrics",
         "vsn"
@@ -2822,7 +2781,6 @@
     "myvariant": [
         "VariantAnnotation"
     ],
-    "mzID": [],
     "NADfinder": [
         "ATACseqQC",
         "CNEr",
@@ -2853,7 +2811,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -2970,11 +2927,8 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [],
@@ -3069,7 +3023,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -3180,7 +3133,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -3202,14 +3154,12 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
-        "mzID",
         "pRoloc",
         "pcaMethods",
         "vsn"
@@ -3217,7 +3167,6 @@
     "PROMISE": [
         "GSEABase"
     ],
-    "PROPER": [],
     "PROPS": [
         "sva"
     ],
@@ -3228,7 +3177,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -3255,7 +3203,6 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -3284,7 +3231,6 @@
     "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -3505,7 +3451,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn",
         "xcms"
@@ -3522,7 +3467,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -3623,15 +3567,12 @@
         "ShortRead"
     ],
     "RVS": [],
-    "safe": [],
     "sagenhaft": [],
     "SAIGEgds": [],
     "sampleClassifier": [
         "MGFR"
     ],
-    "sangeranalyseR": [
-        "DECIPHER"
-    ],
+    "sangeranalyseR": [],
     "SARC": [
         "plyranges"
     ],
@@ -3686,7 +3627,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "flowCore"
     ],
     "scmap": [],
@@ -3913,7 +3853,6 @@
         "TrajectoryUtils"
     ],
     "SMITE": [
-        "BioNet",
         "goseq"
     ],
     "snapCGH": [
@@ -4070,7 +4009,6 @@
         "VariantAnnotation"
     ],
     "SubCellBarCode": [],
-    "SUITOR": [],
     "Summix": [],
     "surfaltr": [],
     "sva": [],
@@ -4089,13 +4027,10 @@
     "switchde": [],
     "synapter": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -4111,9 +4046,7 @@
     ],
     "tanggle": [],
     "TAPseq": [],
-    "TargetDecoy": [
-        "mzID"
-    ],
+    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "ComplexHeatmap",
@@ -4190,7 +4123,6 @@
     ],
     "topdownr": [
         "MSnbase",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -4235,7 +4167,6 @@
         "flowCore"
     ],
     "TreeSummarizedExperiment": [],
-    "Trendy": [],
     "TRESS": [],
     "tricycle": [],
     "trigger": [
@@ -4375,7 +4306,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "pcaMethods",
         "vsn"
     ],
@@ -4412,8 +4342,7 @@
         "GSEABase",
         "KEGGgraph",
         "SPIA",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "zinbwave": [],
     "ZygosityPredictor": [
