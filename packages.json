@@ -683,9 +683,7 @@
     "fCCAC": [],
     "fCI": [],
     "fcScan": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -781,10 +779,8 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx"
@@ -1723,9 +1719,7 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "singleCellTK": [
-        "TSCAN"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR",
@@ -1859,7 +1853,6 @@
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "TurboNorm": [],
     "TVTB": [
         "Gviz",
