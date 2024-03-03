@@ -170,7 +170,6 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -299,9 +298,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "CFAssay": [],
     "cfdnakit": [
         "CGHcall",
@@ -671,8 +668,7 @@
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigenomix": [],
     "epigraHMM": [],
@@ -733,9 +729,7 @@
         "enrichplot"
     ],
     "FastqCleaner": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fCI": [],
     "fcScan": [],
     "FEAST": [
@@ -861,7 +855,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -872,16 +865,12 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [],
     "GEOfastq": [],
-    "GeomxTools": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1233,7 +1222,6 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "microSTASIS": [],
     "MICSQTL": [],
     "mimager": [
         "affyPLM"
@@ -1630,9 +1618,7 @@
         "dada2"
     ],
     "Rbowtie": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCASPAR": [],
     "rCGH": [],
     "RCM": [],
@@ -1779,7 +1765,6 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scde": [],
     "scFeatures": [
         "AUCell"
     ],
@@ -1866,7 +1851,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "singleCellTK": [
         "TSCAN",
         "celda"
@@ -1905,13 +1889,9 @@
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
