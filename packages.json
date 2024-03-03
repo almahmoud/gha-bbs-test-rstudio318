@@ -16,7 +16,6 @@
         "vsn"
     ],
     "ADAMgui": [],
-    "adductomicsR": [],
     "adSplit": [],
     "affyContam": [],
     "affycoretools": [
@@ -160,9 +159,7 @@
         "gcrma",
         "vsn"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "PepsNMR",
         "ropls"
@@ -344,7 +341,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "breakpointR": [],
     "bsseq": [],
     "BubbleTree": [
@@ -1647,9 +1643,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -1965,7 +1959,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "MetaboCoreUtils",
         "QFeatures",
@@ -2011,18 +2004,13 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsLOBD": [],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -2037,13 +2025,10 @@
         "vsn"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MultiBaC": [
         "ropls"
     ],
@@ -2171,7 +2156,6 @@
     ],
     "omicsViewer": [],
     "OncoScore": [],
-    "ontoProc": [],
     "openCyto": [
         "flowClust",
         "flowCore",
@@ -2190,7 +2174,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [],
     "OrganismDbi": [],
@@ -2308,9 +2291,7 @@
     "pmp": [],
     "PoDCall": [],
     "podkat": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "POWSC": [],
     "PPInfer": [],
@@ -2545,7 +2526,6 @@
         "RcwlPipelines"
     ],
     "rexposome": [],
-    "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
@@ -2565,7 +2545,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -2574,7 +2553,6 @@
         "motifStack"
     ],
     "rifi": [],
-    "rifiComparative": [],
     "Ringo": [
         "vsn"
     ],
@@ -2918,7 +2896,6 @@
     "spkTools": [],
     "splatter": [],
     "SpliceWiz": [],
-    "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
@@ -3003,7 +2980,6 @@
     ],
     "TEKRABber": [],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [],
@@ -3068,7 +3044,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [
         "sva"
