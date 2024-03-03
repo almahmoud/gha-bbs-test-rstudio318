@@ -263,7 +263,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "ChIPsim": [],
     "ChIPXpress": [],
     "chromstaR": [],
     "chromVAR": [],
@@ -479,7 +478,6 @@
     ],
     "dmrseq": [],
     "DNAfusion": [],
-    "DominoEffect": [],
     "doppelgangR": [],
     "Doscheda": [],
     "doubletrouble": [],
@@ -925,7 +923,6 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1124,7 +1121,6 @@
     "NormalyzerDE": [],
     "normr": [],
     "NTW": [],
-    "nucleR": [],
     "octad": [
         "EDASeq",
         "RUVSeq"
@@ -1538,7 +1534,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TADCompare": [],
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
