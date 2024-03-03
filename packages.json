@@ -156,7 +156,6 @@
     "BadRegionFinder": [],
     "ballgown": [],
     "bandle": [
-        "MLInterfaces",
         "MSnbase",
         "pRoloc"
     ],
@@ -409,9 +408,7 @@
         "HilbertVis"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -954,7 +951,6 @@
     "FRASER": [
         "OUTRIDER"
     ],
-    "frma": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
@@ -1509,7 +1505,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MMUPHin": [
         "Maaslin2",
         "metagenomeSeq"
@@ -1873,11 +1868,9 @@
     ],
     "projectR": [],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "pRoloc"
     ],
@@ -2223,9 +2216,7 @@
         "siggenes"
     ],
     "SIAMCAT": [],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "sigFeature": [],
     "siggenes": [],
     "signatureSearch": [
