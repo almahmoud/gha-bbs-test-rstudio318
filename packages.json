@@ -149,8 +149,7 @@
     "BEAT": [],
     "benchdamic": [
         "ANCOMBC",
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "BG2": [],
     "bgx": [],
@@ -588,7 +587,6 @@
     "DEP": [
         "MSnbase"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -1090,12 +1088,9 @@
         "methylumi",
         "minfi"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "maCorrPlot": [],
     "MADSEQ": [],
@@ -1141,9 +1136,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "mCSEA": [
         "Gviz",
         "biovizBase"
@@ -1181,7 +1174,6 @@
     "MetaCyto": [
         "FlowSOM"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1232,18 +1224,12 @@
         "minfi"
     ],
     "mfa": [],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [],
-    "microbiomeDASim": [
-        "metagenomeSeq"
-    ],
-    "microbiomeExplorer": [
-        "metagenomeSeq"
-    ],
+    "microbiomeDASim": [],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "metagenomeSeq"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1282,8 +1268,7 @@
         "deepSNV"
     ],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "MobilityTransformR": [
         "MSnbase",
@@ -1292,7 +1277,6 @@
         "xcms"
     ],
     "ModCon": [],
-    "mogsa": [],
     "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
@@ -2010,7 +1994,6 @@
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
-    "TFutils": [],
     "tilingArray": [],
     "timeOmics": [],
     "TimiRGeN": [
@@ -2085,7 +2068,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
