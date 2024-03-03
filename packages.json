@@ -398,9 +398,7 @@
     "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall"
     ],
@@ -505,7 +503,6 @@
     "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNORode": [],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -599,7 +596,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
         "aCGH"
