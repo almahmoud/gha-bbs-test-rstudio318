@@ -145,7 +145,6 @@
     "BaseSpaceR": [],
     "BASiCStan": [],
     "BatchQC": [],
-    "BayesSpace": [],
     "BBCAnalyzer": [],
     "beadarraySNP": [
         "quantsmooth"
@@ -654,7 +653,6 @@
     "DrugVsDisease": [],
     "DSS": [],
     "easyRNASeq": [],
-    "EBcoexpress": [],
     "EDASeq": [],
     "edge": [],
     "EGSEA": [
@@ -926,7 +924,6 @@
     "ggmsa": [],
     "ggspavis": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [],
     "GlobalAncova": [],
@@ -1285,9 +1282,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microSTASIS": [],
     "MICSQTL": [],
     "mimager": [
@@ -1732,9 +1727,7 @@
         "ChIPpeakAnno"
     ],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
@@ -2109,7 +2102,6 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [],
     "trackViewer": [
         "Gviz",
         "biovizBase"
