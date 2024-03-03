@@ -679,7 +679,6 @@
     "crossmeta": [
         "sva"
     ],
-    "csaw": [],
     "CTdata": [],
     "cTRAP": [],
     "CTSV": [],
@@ -835,9 +834,7 @@
         "flowCore"
     ],
     "DifferentialRegulation": [],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -930,9 +927,7 @@
         "genomation"
     ],
     "epigenomix": [],
-    "epigraHMM": [
-        "csaw"
-    ],
+    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
@@ -985,7 +980,6 @@
         "orthogene"
     ],
     "ExiMiR": [],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck"
@@ -995,8 +989,7 @@
         "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factDesign": [],
     "factR": [],
@@ -1295,7 +1288,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "h5vc": [],
     "HarmonizR": [
         "sva"
     ],
@@ -1337,9 +1329,7 @@
     ],
     "hummingbird": [],
     "ibh": [],
-    "icetea": [
-        "csaw"
-    ],
+    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -1746,7 +1736,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
         "metagenomeSeq"
@@ -1915,7 +1904,6 @@
         "Gviz",
         "TFBSTools",
         "biovizBase",
-        "csaw",
         "motifStack",
         "trackViewer"
     ],
@@ -2207,7 +2195,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
         "CGHcall"
@@ -2293,7 +2280,6 @@
         "GenomicFiles",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "minfi",
         "siggenes"
@@ -2592,7 +2578,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -2609,7 +2594,6 @@
         "Rbowtie"
     ],
     "singscore": [],
-    "sitadela": [],
     "sitePath": [],
     "skewr": [
         "ROC",
@@ -2684,7 +2668,6 @@
     ],
     "SpotClean": [],
     "SPsimSeq": [],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
@@ -2885,7 +2868,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "csaw",
         "systemPipeR"
     ],
     "wateRmelon": [
