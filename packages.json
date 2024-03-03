@@ -507,7 +507,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -1346,7 +1345,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "cellHTS2"
     ],
@@ -1561,8 +1559,7 @@
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "TypeInfo": [],
     "Ularcirc": [],
