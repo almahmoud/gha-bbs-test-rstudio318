@@ -154,8 +154,7 @@
     "BaseSpaceR": [],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "BatchQC": [],
     "BayesSpace": [],
@@ -195,7 +194,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocSklearn": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -273,7 +271,6 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -408,12 +405,10 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [],
     "clevRvis": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -484,7 +479,6 @@
         "methylPipe"
     ],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "condiments": [
@@ -520,7 +514,6 @@
     "coseq": [],
     "cosmiq": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -852,7 +845,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1016,7 +1008,6 @@
     "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [],
-    "glmGamPoi": [],
     "GlobalAncova": [],
     "globalSeq": [],
     "gmapR": [],
@@ -1153,7 +1144,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1196,9 +1186,7 @@
         "bsseq"
     ],
     "KnowSeq": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "LineagePulse": [],
     "lineagespot": [],
     "LinTInd": [],
@@ -1209,7 +1197,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1233,7 +1220,6 @@
         "metagenomeSeq"
     ],
     "maCorrPlot": [],
-    "MACSr": [],
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
@@ -1251,7 +1237,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1313,10 +1298,8 @@
     "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "MetaboCoreUtils",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
@@ -1330,7 +1313,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1348,7 +1330,6 @@
         "bsseq"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methInheritSim": [],
@@ -1449,7 +1430,6 @@
     ],
     "MobilityTransformR": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1487,27 +1467,21 @@
         "TFBSTools"
     ],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsExperiment": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsFeatures": [],
@@ -1533,7 +1507,6 @@
     "MSPrep": [],
     "msqrob2": [],
     "MsQuality": [
-        "MetaboCoreUtils",
         "MsExperiment",
         "Spectra"
     ],
@@ -1599,7 +1572,6 @@
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -1610,7 +1582,6 @@
     "nempi": [
         "epiNEM"
     ],
-    "NetActivity": [],
     "netbiov": [],
     "nethet": [],
     "netOmics": [
@@ -1953,7 +1924,6 @@
     "Ringo": [],
     "Risa": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra",
@@ -2203,9 +2173,7 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
@@ -2319,9 +2287,7 @@
     "transcriptR": [
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "anota"
     ],
@@ -2332,7 +2298,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "tricycle": [],
     "trigger": [],
     "trio": [],
     "tRNAdbImport": [],
@@ -2401,7 +2366,6 @@
     "weitrix": [],
     "xcms": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "Spectra"
