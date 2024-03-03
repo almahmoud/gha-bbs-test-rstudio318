@@ -94,9 +94,7 @@
     "anota": [],
     "anota2seq": [],
     "APAlyzer": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -126,7 +124,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
@@ -670,7 +667,6 @@
     "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [],
-    "Dino": [],
     "distinct": [],
     "DMRcate": [
         "Gviz",
@@ -958,7 +954,6 @@
         "RCAS",
         "genomation"
     ],
-    "GenomicScores": [],
     "GenomicSuperSignature": [],
     "GenVisR": [],
     "GeoDiff": [
@@ -1013,9 +1008,7 @@
         "SPIA",
         "pathview"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [],
     "GSRI": [],
     "GSVA": [],
@@ -1305,7 +1298,6 @@
     ],
     "methInheritSim": [],
     "MethReg": [],
-    "methrix": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1525,7 +1517,6 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -1693,7 +1684,6 @@
     "pogos": [],
     "POMA": [],
     "POWSC": [],
-    "PPInfer": [],
     "prebs": [
         "RPA"
     ],
@@ -1701,7 +1691,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase"
@@ -1792,9 +1781,7 @@
     ],
     "rain": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rbec": [
         "dada2"
     ],
@@ -2128,7 +2115,6 @@
     "spicyR": [],
     "SpidermiR": [],
     "spkTools": [],
-    "splatter": [],
     "SpliceWiz": [],
     "splineTimeR": [],
     "SPLINTER": [
@@ -2274,7 +2260,6 @@
         "GDSArray"
     ],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
