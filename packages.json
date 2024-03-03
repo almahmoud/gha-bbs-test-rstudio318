@@ -182,9 +182,7 @@
         "ROntoTools"
     ],
     "bnbc": [],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "biovizBase",
         "ggbio"
@@ -518,9 +516,7 @@
         "enrichplot"
     ],
     "dcanr": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowViz"
@@ -635,7 +631,6 @@
         "biovizBase",
         "minfi"
     ],
-    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -1138,7 +1133,6 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "MICSQTL": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1302,9 +1296,7 @@
         "xcms"
     ],
     "nearBynding": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
