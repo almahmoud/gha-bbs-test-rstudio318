@@ -281,7 +281,6 @@
     "condiments": [],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge"
     ],
     "consensusDE": [
@@ -347,23 +346,20 @@
         "flowClust",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [],
     "dagLogo": [
@@ -525,11 +521,9 @@
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -537,8 +531,7 @@
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTime": [],
     "flowTrans": [
@@ -546,12 +539,9 @@
     ],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "FRASER": [],
     "funtooNorm": [
         "minfi"
@@ -605,8 +595,7 @@
     ],
     "ggbio": [],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "globalSeq": [],
     "GmicR": [
@@ -670,8 +659,7 @@
     "IFAA": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "iNETgrate": [
         "Pigengene",
@@ -973,7 +961,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
@@ -1009,14 +996,11 @@
     "OMICsPCA": [],
     "openCyto": [
         "flowClust",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "openPrimeRui": [],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -1041,8 +1025,7 @@
         "CoreGx"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase"
