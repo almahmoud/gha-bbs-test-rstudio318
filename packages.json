@@ -3,24 +3,20 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -815,7 +811,6 @@
         "DirichletMultinomial",
         "MAST",
         "Maaslin2",
-        "NOISeq",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -901,9 +896,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "biobroom": [],
     "bioCancer": [
         "BiocIO",
@@ -1752,7 +1745,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment"
     ],
@@ -2179,7 +2171,6 @@
         "rtracklayer"
     ],
     "CNVPanelizer": [
-        "NOISeq",
         "Rhtslib",
         "Rsamtools",
         "exomeCopy"
@@ -2322,7 +2313,6 @@
     "ComplexHeatmap": [],
     "CompoundDb": [
         "AnnotationFilter",
-        "ChemmineR",
         "MetaboCoreUtils",
         "MsCoreUtils",
         "Spectra"
@@ -2703,8 +2693,7 @@
         "rhdf5filters"
     ],
     "customCMPdb": [
-        "AnnotationHub",
-        "ChemmineR"
+        "AnnotationHub"
     ],
     "customProDB": [
         "BSgenome",
@@ -2953,7 +2942,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -3484,9 +3472,7 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [],
     "ELMER": [
         "AnnotationFilter",
@@ -3969,7 +3955,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "fastseg": [],
     "fCCAC": [
         "BSgenome",
         "BiocIO",
@@ -4216,9 +4201,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fobitools": [
         "fgsea"
     ],
@@ -4571,7 +4554,6 @@
     "GenomicSuperSignature": [
         "ComplexHeatmap"
     ],
-    "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS"
     ],
@@ -5197,7 +5179,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "BiocIO",
@@ -5223,7 +5204,6 @@
         "rtracklayer"
     ],
     "idiogram": [],
-    "idpr": [],
     "IFAA": [],
     "IgGeneUsage": [],
     "igvR": [
@@ -5537,12 +5517,10 @@
         "multtest",
         "siggenes"
     ],
-    "kebabs": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "BSgenome",
@@ -5711,7 +5689,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "made4": [],
     "MADSEQ": [
         "BSgenome",
         "BiocIO",
@@ -6032,7 +6009,6 @@
     "MetaboAnnotation": [
         "AnnotationFilter",
         "AnnotationHub",
-        "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -6118,9 +6094,7 @@
     "metapone": [
         "fgsea"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "ABSSeq",
         "BSgenome",
@@ -6157,7 +6131,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -6286,7 +6259,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -6295,7 +6267,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "fastseg",
         "rtracklayer"
     ],
     "MethylMix": [],
@@ -6361,9 +6332,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [],
     "mfa": [],
     "Mfuzz": [
@@ -7304,7 +7273,6 @@
         "genefilter",
         "minfi",
         "multtest",
-        "pandaR",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -7331,7 +7299,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy",
@@ -7413,7 +7380,6 @@
         "sparseMatrixStats"
     ],
     "odseq": [
-        "kebabs",
         "msa"
     ],
     "OGRE": [
@@ -7451,9 +7417,7 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2",
         "multtest"
@@ -7461,7 +7425,6 @@
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
-        "made4",
         "omicade4",
         "pcaMethods",
         "rexposome",
@@ -7526,7 +7489,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -7650,7 +7612,6 @@
         "sva"
     ],
     "pairkat": [],
-    "pandaR": [],
     "panelcn.mops": [
         "Rhtslib",
         "Rsamtools",
@@ -7754,7 +7715,6 @@
         "vsn"
     ],
     "PECA": [
-        "ROTS",
         "affy",
         "affyio",
         "genefilter"
@@ -8055,9 +8015,7 @@
         "rtracklayer"
     ],
     "PROcess": [],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "profileplyr": [
         "BiocIO",
         "ChIPseeker",
@@ -8995,7 +8953,6 @@
     "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
-        "ChemmineR",
         "MSnbase",
         "MsCoreUtils",
         "affy",
@@ -9179,9 +9136,7 @@
     "roastgsa": [],
     "ROC": [],
     "ROCpAI": [],
-    "RolDE": [
-        "ROTS"
-    ],
+    "RolDE": [],
     "rols": [],
     "ROntoTools": [
         "KEGGgraph"
@@ -9190,7 +9145,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "affy",
         "affyio",
@@ -9682,7 +9636,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "scShapes": [],
     "scTensor": [
         "AnnotationForge",
         "AnnotationHub",
@@ -10337,7 +10290,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
