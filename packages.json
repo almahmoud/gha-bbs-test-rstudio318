@@ -608,7 +608,6 @@
         "SummarizedExperiment",
         "multtest"
     ],
-    "AnVILBilling": [],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
@@ -787,7 +786,6 @@
         "CoGAPS",
         "DelayedArray",
         "DirichletMultinomial",
-        "GeneOverlap",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -2088,7 +2086,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "GenomicRanges",
-        "Heatplus",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -2358,7 +2355,6 @@
         "topGO"
     ],
     "CellMapper": [],
-    "cellmigRation": [],
     "CellMixS": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2926,7 +2922,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "BiocNeighbors",
         "BiocSingular",
@@ -6618,7 +6613,6 @@
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "GeneOverlap": [],
     "geneplast": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
@@ -6998,7 +6992,6 @@
     "ggtreeExtra": [
         "ggtree"
     ],
-    "GIGSEA": [],
     "girafe": [
         "DelayedArray",
         "GenomicAlignments",
@@ -7482,7 +7475,6 @@
     "heatmaps": [
         "GenomicRanges"
     ],
-    "Heatplus": [],
     "HelloRanges": [
         "BSgenome",
         "BiocIO",
@@ -7520,7 +7512,6 @@
         "SummarizedExperiment",
         "multtest"
     ],
-    "HGC": [],
     "hiAnnotator": [
         "BSgenome",
         "BiocIO",
@@ -8109,7 +8100,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "DelayedArray",
         "GenomicRanges",
@@ -8217,7 +8207,6 @@
         "xcms"
     ],
     "IRanges": [],
-    "ISAnalytics": [],
     "iSEE": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -8606,7 +8595,6 @@
     "loci2path": [
         "GenomicRanges"
     ],
-    "logicFS": [],
     "LOLA": [
         "GenomicRanges"
     ],
@@ -9986,7 +9974,6 @@
         "impute"
     ],
     "miRNAmeConverter": [],
-    "miRNApath": [],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
@@ -11907,7 +11894,6 @@
     "phenoTest": [
         "Category",
         "GSEABase",
-        "Heatplus",
         "biomaRt",
         "genefilter",
         "hopach"
@@ -13707,7 +13693,6 @@
         "recount",
         "rtracklayer"
     ],
-    "RNAdecay": [],
     "rnaEditr": [
         "BiocIO",
         "DelayedArray",
@@ -15541,7 +15526,6 @@
         "SummarizedExperiment",
         "TrajectoryUtils"
     ],
-    "SMAP": [],
     "SMITE": [
         "BioNet",
         "BiocIO",
@@ -16267,7 +16251,6 @@
     "SWATH2stats": [
         "biomaRt"
     ],
-    "swfdr": [],
     "switchde": [
         "DelayedArray",
         "GenomicRanges",
@@ -16859,7 +16842,6 @@
         "DelayedArray",
         "GOSemSim",
         "GenomicRanges",
-        "Heatplus",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -17619,7 +17601,6 @@
         "piano"
     ],
     "XINA": [],
-    "xmapbridge": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
