@@ -265,7 +265,6 @@
         "glmGamPoi"
     ],
     "BasicSTARRseq": [],
-    "batchelor": [],
     "BatchQC": [
         "sva"
     ],
@@ -1169,7 +1168,6 @@
         "pathview",
         "zenith"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress"
@@ -3340,7 +3338,6 @@
         "QFeatures"
     ],
     "scPipe": [],
-    "scran": [],
     "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
@@ -3495,7 +3492,6 @@
         "ShortRead",
         "VariantAnnotation"
     ],
-    "SingleR": [],
     "singscore": [],
     "SiPSiC": [],
     "sitadela": [],
