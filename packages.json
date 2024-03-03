@@ -91,7 +91,6 @@
         "BiocCheck"
     ],
     "annotatr": [],
-    "anota": [],
     "APAlyzer": [],
     "appreci8R": [],
     "arrayMvout": [
@@ -1761,7 +1760,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "rain": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "Rbec": [
@@ -1968,7 +1966,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "scviR": [],
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
@@ -1999,7 +1996,6 @@
     ],
     "SIAMCAT": [],
     "SigCheck": [],
-    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -2194,9 +2190,7 @@
         "chipseq"
     ],
     "transformGamPoi": [],
-    "tRanslatome": [
-        "anota"
-    ],
+    "tRanslatome": [],
     "traviz": [
         "slingshot"
     ],
