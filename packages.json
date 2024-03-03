@@ -417,7 +417,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dada2": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -735,7 +734,6 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "HiCool": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1276,9 +1274,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "Rbowtie": [],
     "RCAS": [],
     "RCASPAR": [],
@@ -1538,7 +1534,6 @@
         "enrichplot"
     ],
     "TitanCNA": [],
-    "tLOH": [],
     "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [
