@@ -198,7 +198,6 @@
     "cfdnakit": [
         "QDNAseq"
     ],
-    "cghMCR": [],
     "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
@@ -688,7 +687,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
