@@ -329,7 +329,6 @@
     "altcdfenvs": [
         "affy",
         "affyio",
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -871,7 +870,6 @@
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
         "rsbml"
     ],
     "bigmelon": [
@@ -5019,7 +5017,6 @@
         "affy",
         "affyio",
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "hca": [],
@@ -5198,10 +5195,8 @@
     "HybridMTest": [],
     "hypeR": [],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [],
     "ibh": [],
     "iBMQ": [],
