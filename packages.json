@@ -885,9 +885,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "flowCore"
     ],
@@ -958,7 +956,6 @@
     "DAPAR": [
         "DOSE",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "vsn"
@@ -1125,7 +1122,6 @@
     "edge": [
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [],
     "EGSEA": [
         "GSVA",
@@ -1284,7 +1280,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "ShortRead"
     ],
@@ -1504,7 +1499,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
@@ -1603,7 +1597,6 @@
         "iPAC"
     ],
     "GreyListChIP": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1640,7 +1633,6 @@
         "quantsmooth"
     ],
     "h5vc": [],
-    "hapFabia": [],
     "HarmonizR": [
         "sva"
     ],
@@ -1673,7 +1665,6 @@
     "HiCool": [
         "HiCExperiment"
     ],
-    "hicVennDiagram": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1852,7 +1843,6 @@
     "KnowSeq": [
         "sva"
     ],
-    "LACE": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -2007,7 +1997,6 @@
     "MEB": [],
     "MEDIPS": [],
     "Melissa": [],
-    "memes": [],
     "meshes": [
         "DOSE",
         "enrichplot"
@@ -2125,7 +2114,6 @@
         "siggenes"
     ],
     "mfa": [],
-    "Mfuzz": [],
     "MGFR": [],
     "miaSim": [],
     "miaViz": [],
@@ -2383,9 +2371,7 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "multiWGCNA": [
         "dcanr"
     ],
@@ -2742,7 +2728,6 @@
         "DAPAR",
         "DOSE",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "vsn"
@@ -3543,7 +3528,6 @@
     "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot"
     ],
