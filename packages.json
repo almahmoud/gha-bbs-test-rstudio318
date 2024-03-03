@@ -115,7 +115,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BaseSpaceR": [],
     "BASiCStan": [],
     "BatchQC": [],
@@ -642,10 +641,7 @@
     "funtooNorm": [
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq"
@@ -930,7 +926,6 @@
         "Spectra"
     ],
     "methInheritSim": [],
-    "MethReg": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1397,7 +1392,6 @@
     "ROC": [],
     "Rqc": [],
     "rqt": [],
-    "RSVSim": [],
     "rSWeeP": [],
     "rTRMui": [],
     "RUVSeq": [
