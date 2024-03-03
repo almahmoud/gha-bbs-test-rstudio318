@@ -1693,7 +1693,6 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -2032,7 +2031,6 @@
         "GeomxTools"
     ],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
@@ -2199,7 +2197,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "velociraptor": [],
     "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
