@@ -120,7 +120,6 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BEAT": [],
     "benchdamic": [
         "Maaslin2"
     ],
@@ -432,7 +431,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decompTumor2Sig": [],
     "decontX": [],
     "deconvR": [
         "minfi"
@@ -829,7 +827,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1054,9 +1051,7 @@
         "dcanr"
     ],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MVCClass": [],
     "myvariant": [],
