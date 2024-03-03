@@ -175,9 +175,7 @@
         "dmrseq"
     ],
     "blacksheepr": [],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
@@ -244,7 +242,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
@@ -1128,9 +1125,7 @@
         "VanillaICE"
     ],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
     ],
@@ -1599,7 +1594,6 @@
         "minfi"
     ],
     "ROC": [],
-    "ROntoTools": [],
     "RPA": [],
     "Rqc": [
         "GenomicFiles",
@@ -1762,7 +1756,6 @@
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "Statial": [],
     "statTarget": [
         "ROC"
     ],
