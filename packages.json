@@ -81,7 +81,6 @@
     "AlpsNMR": [],
     "altcdfenvs": [],
     "amplican": [],
-    "ANCOMBC": [],
     "AneuFinder": [],
     "AnnotationHubData": [],
     "annotatr": [],
@@ -145,7 +144,6 @@
     ],
     "BEAT": [],
     "benchdamic": [
-        "ANCOMBC",
         "Maaslin2"
     ],
     "BG2": [],
@@ -269,9 +267,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celaref": [],
     "CellBarcode": [],
     "cellHTS2": [
@@ -286,7 +282,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -1191,9 +1186,7 @@
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -1521,7 +1514,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
@@ -1732,9 +1724,7 @@
     "SCAN.UPC": [],
     "SCArray.sat": [],
     "scBFA": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [],
     "scFeatures": [],
     "scider": [],
