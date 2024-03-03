@@ -1,7 +1,6 @@
 {
     "a4": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -171,7 +170,6 @@
     "biosigner": [],
     "biovizBase": [],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq",
         "annotatr",
         "dmrseq"
@@ -275,15 +273,11 @@
     "CexoR": [],
     "CFAssay": [],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
     "cfDNAPro": [],
-    "CGHcall": [],
     "cghMCR": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "DMRcate",
@@ -462,7 +456,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [],
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
@@ -783,7 +776,6 @@
     ],
     "gDRstyle": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "GENESIS": [
@@ -907,7 +899,6 @@
     ],
     "IFAA": [],
     "igvR": [],
-    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1456,9 +1447,7 @@
         "biovizBase"
     ],
     "qcmetrics": [],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -1501,7 +1490,6 @@
     "RCAS": [],
     "RCASPAR": [],
     "rCGH": [],
-    "RCM": [],
     "RcwlPipelines": [],
     "rDGIdb": [],
     "Rdisop": [],
