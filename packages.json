@@ -1,6 +1,5 @@
 {
     "a4": [],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -176,7 +175,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BioMVCClass": [
@@ -1607,7 +1605,6 @@
         "MSnbase"
     ],
     "PepsNMR": [],
-    "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
