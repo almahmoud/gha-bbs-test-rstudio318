@@ -181,7 +181,6 @@
         "metagenomeSeq"
     ],
     "BG2": [],
-    "BgeeDB": [],
     "bgx": [],
     "BicARE": [],
     "BiGGR": [],
@@ -1890,9 +1889,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase"
     ],
@@ -2047,9 +2044,7 @@
         "Spectra",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
