@@ -21,7 +21,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "OrganismDbi",
         "ReportingTools",
         "biovizBase",
         "gcrma",
@@ -42,7 +41,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "OrganismDbi",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -51,8 +49,7 @@
     ],
     "AHMassBank": [
         "AnnotationHubData",
-        "BiocCheck",
-        "OrganismDbi"
+        "BiocCheck"
     ],
     "airpart": [],
     "alabaster": [
@@ -129,8 +126,7 @@
     "AneuFinder": [],
     "annmap": [],
     "AnnotationHubData": [
-        "BiocCheck",
-        "OrganismDbi"
+        "BiocCheck"
     ],
     "annotatr": [],
     "anota": [],
@@ -138,8 +134,7 @@
     "APAlyzer": [],
     "APL": [],
     "appreci8R": [
-        "GenomicScores",
-        "OrganismDbi"
+        "GenomicScores"
     ],
     "ArrayExpress": [],
     "arrayMvout": [
@@ -171,7 +166,6 @@
     "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
-        "OrganismDbi",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -202,7 +196,6 @@
     "ballgown": [
         "sva"
     ],
-    "bambu": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -288,7 +281,6 @@
     "biovizBase": [],
     "biscuiteer": [
         "CGHcall",
-        "OrganismDbi",
         "QDNAseq",
         "annotatr",
         "bsseq",
@@ -304,7 +296,6 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [
-        "HiCBricks",
         "sva"
     ],
     "bnem": [
@@ -313,7 +304,6 @@
         "vsn"
     ],
     "BOBaFIT": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -323,20 +313,17 @@
     ],
     "brainflowprobes": [
         "GenomicFiles",
-        "OrganismDbi",
         "biovizBase",
         "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
-    "breakpointR": [],
     "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
     "BUSpaRse": [],
     "CAFE": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -348,7 +335,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "OrganismDbi",
         "biovizBase",
         "ggbio",
         "sva"
@@ -826,7 +812,6 @@
     ],
     "derfinderPlot": [
         "GenomicFiles",
-        "OrganismDbi",
         "biovizBase",
         "derfinder",
         "ggbio"
@@ -952,7 +937,6 @@
     ],
     "epimutacions": [
         "Gviz",
-        "OrganismDbi",
         "biovizBase",
         "minfi",
         "siggenes"
@@ -963,29 +947,24 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "OrganismDbi",
         "epivizrData",
         "epivizrServer"
     ],
     "epivizrChart": [
-        "OrganismDbi",
         "epivizrData",
         "epivizrServer"
     ],
     "epivizrData": [
-        "OrganismDbi",
         "epivizrServer"
     ],
     "epivizrServer": [],
     "epivizrStandalone": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData",
         "epivizrServer"
     ],
     "erma": [
-        "GenomicFiles",
-        "OrganismDbi"
+        "GenomicFiles"
     ],
     "ERSSA": [],
     "esATAC": [
@@ -1011,8 +990,7 @@
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "BiocCheck",
-        "OrganismDbi"
+        "BiocCheck"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -1040,7 +1018,6 @@
     "FEAST": [
         "TSCAN"
     ],
-    "fedup": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -1059,8 +1036,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "OrganismDbi",
-        "bambu",
         "biovizBase",
         "ggbio"
     ],
@@ -1231,7 +1206,6 @@
         "biovizBase"
     ],
     "GenomicOZone": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1258,7 +1232,6 @@
         "vsn"
     ],
     "ggbio": [
-        "OrganismDbi",
         "biovizBase"
     ],
     "ggcyto": [
@@ -1310,9 +1283,7 @@
     "gsean": [
         "PPInfer"
     ],
-    "GSReg": [
-        "OrganismDbi"
-    ],
+    "GSReg": [],
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
@@ -1340,7 +1311,6 @@
     "HelloRanges": [],
     "hermes": [],
     "HERON": [],
-    "HiCBricks": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1359,7 +1329,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hipathia": [],
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
@@ -1408,7 +1377,6 @@
     ],
     "iNETgrate": [
         "DOSE",
-        "OrganismDbi",
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
@@ -1421,7 +1389,6 @@
     ],
     "InPAS": [],
     "intansv": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1602,7 +1569,6 @@
     ],
     "mCSEA": [
         "Gviz",
-        "OrganismDbi",
         "biovizBase"
     ],
     "MEAL": [
@@ -1694,7 +1660,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
-        "OrganismDbi",
         "minfi",
         "siggenes"
     ],
@@ -1863,7 +1828,6 @@
     ],
     "MsFeatures": [],
     "msgbsR": [
-        "OrganismDbi",
         "biovizBase",
         "easyRNASeq",
         "ggbio"
@@ -2025,7 +1989,6 @@
         "GSVA",
         "RUVSeq"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "biovizBase"
@@ -2062,7 +2025,6 @@
         "flowMeans"
     ],
     "ORFik": [],
-    "OrganismDbi": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [],
@@ -2096,7 +2058,6 @@
         "DOSE"
     ],
     "parody": [],
-    "partCNV": [],
     "PathNet": [],
     "PathoStat": [],
     "pathview": [],
@@ -2290,7 +2251,6 @@
         "Rbowtie"
     ],
     "R3CPET": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -2307,7 +2267,6 @@
         "quantsmooth"
     ],
     "rain": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "GenomicScores"
@@ -2377,13 +2336,10 @@
     "ReportingTools": [
         "Category",
         "GOstats",
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
@@ -2404,7 +2360,6 @@
         "ORFik"
     ],
     "RiboProfiling": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -2561,7 +2516,6 @@
         "slingshot"
     ],
     "scruff": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -2576,7 +2530,6 @@
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData",
         "epivizrServer"
@@ -2597,7 +2550,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "seqCAT": [],
     "SeqSQC": [],
     "SeqVarTools": [],
@@ -2693,7 +2645,6 @@
         "chipseq"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -2907,7 +2858,6 @@
     ],
     "uncoverappLib": [
         "Gviz",
-        "OrganismDbi",
         "biovizBase"
     ],
     "unifiedWMWqPCR": [
@@ -2987,7 +2937,6 @@
         "piano"
     ],
     "YAPSA": [
-        "OrganismDbi",
         "SomaticSignatures",
         "biovizBase",
         "ggbio"
