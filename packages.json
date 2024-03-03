@@ -446,7 +446,6 @@
         "ROC",
         "biovizBase",
         "bsseq",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -482,7 +481,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -674,7 +672,6 @@
     "crossmeta": [
         "sva"
     ],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [],
     "cummeRbund": [
@@ -819,7 +816,6 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
     ],
@@ -1136,7 +1132,6 @@
     ],
     "gatom": [],
     "GBScleanR": [],
-    "gcapc": [],
     "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
@@ -1241,7 +1236,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
@@ -1336,7 +1330,6 @@
     "ideal": [
         "Category",
         "GOstats",
-        "goseq",
         "pcaExplorer"
     ],
     "IFAA": [],
@@ -1763,7 +1756,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "motifbreakR": [
         "Gviz",
         "TFBSTools",
@@ -1996,7 +1988,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [],
@@ -2228,7 +2219,6 @@
         "CoreGx",
         "piano"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2316,15 +2306,10 @@
         "RcwlPipelines"
     ],
     "rexposome": [],
-    "RGMQL": [],
     "RgnTX": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -2560,7 +2545,6 @@
     ],
     "SimBu": [],
     "SIMD": [],
-    "SimFFPE": [],
     "similaRpeak": [],
     "simona": [],
     "simpleSeg": [
@@ -2594,9 +2578,7 @@
     ],
     "slalom": [],
     "slingshot": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "aCGH",
         "tilingArray",
@@ -2727,9 +2709,7 @@
     ],
     "terraTCGAdata": [],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tilingArray": [
         "vsn"
@@ -2775,7 +2755,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "traseR": [],
     "traviz": [
         "slingshot"
     ],
