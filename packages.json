@@ -82,7 +82,6 @@
     ],
     "ballgown": [],
     "bandle": [
-        "MSnbase",
         "pRoloc"
     ],
     "BaseSpaceR": [],
@@ -154,7 +153,6 @@
         "Gviz"
     ],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -232,7 +230,6 @@
     "CircSeqAlignTk": [],
     "clevRvis": [],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -245,9 +242,7 @@
         "ROC",
         "clst"
     ],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
@@ -296,7 +291,6 @@
     ],
     "CoreGx": [],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -367,7 +361,6 @@
     ],
     "DaMiRseq": [],
     "DAPAR": [
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -389,9 +382,7 @@
     "DeMixT": [
         "DSS"
     ],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
@@ -498,7 +489,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -677,7 +667,6 @@
     "InterMineR": [],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -707,7 +696,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -736,7 +724,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -789,7 +776,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -865,7 +851,6 @@
         "Maaslin2"
     ],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -908,16 +893,11 @@
     "msgbsR": [
         "ggbio"
     ],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -933,11 +913,9 @@
     "MSstatsLOBD": [],
     "MSstatsPTM": [],
     "MSstatsQC": [
-        "MSnbase",
         "qcmetrics"
     ],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC",
         "qcmetrics"
     ],
@@ -962,7 +940,6 @@
     ],
     "NanoMethViz": [],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -1027,9 +1004,7 @@
     "PeacoQC": [
         "flowWorkspace"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PepsNMR": [],
     "PharmacoGx": [
         "CoreGx"
@@ -1063,26 +1038,20 @@
     "primirTSS": [
         "Gviz"
     ],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
         "soGGi"
     ],
     "projectR": [],
-    "pRoloc": [
-        "MSnbase"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MSnbase",
         "pRoloc"
     ],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1094,18 +1063,14 @@
     ],
     "PSMatch": [],
     "psygenet2r": [],
-    "ptairMS": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
     "pvca": [],
     "Pviz": [
         "Gviz"
     ],
     "qcmetrics": [],
     "QDNAseq": [],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "qsea": [
         "HMMcopy"
     ],
@@ -1184,16 +1149,13 @@
     ],
     "Ringo": [],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
     ],
     "RITAN": [],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "RNAAgeCalc": [
         "derfinder",
         "recount"
@@ -1347,9 +1309,7 @@
     "svaNUMT": [],
     "svaRetro": [],
     "SVMDO": [],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "tadar": [
         "Gviz"
     ],
@@ -1370,9 +1330,7 @@
     ],
     "TNBC.CMS": [],
     "TOP": [],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "ToxicoGx": [
         "CoreGx"
     ],
@@ -1427,7 +1385,6 @@
     "weaver": [],
     "webbioc": [],
     "xcms": [
-        "MSnbase",
         "MsExperiment",
         "Spectra"
     ],
