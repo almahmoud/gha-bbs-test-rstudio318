@@ -181,7 +181,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "TFBSTools",
         "motifStack"
@@ -227,7 +226,6 @@
         "zinbwave"
     ],
     "BG2": [],
-    "BgeeCall": [],
     "BgeeDB": [],
     "bgx": [
         "gcrma"
@@ -258,7 +256,6 @@
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
-    "biodbExpasy": [],
     "biodbMirbase": [],
     "BioMVCClass": [
         "MVCClass"
@@ -485,7 +482,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [],
@@ -502,7 +498,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2"
     ],
     "CiteFuse": [],
@@ -963,7 +958,6 @@
     "esATAC": [
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1345,7 +1339,6 @@
         "goseq",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "IFAA": [],
     "igvR": [],
     "IMAS": [],
@@ -1593,8 +1586,7 @@
     "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
-        "MWASTools",
-        "mygene"
+        "MWASTools"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -1837,7 +1829,6 @@
     "MSPrep": [
         "sva"
     ],
-    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -1895,7 +1886,6 @@
     "MutationalPatterns": [],
     "MVCClass": [],
     "MWASTools": [],
-    "mygene": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -2254,7 +2244,6 @@
         "dada2"
     ],
     "Rbowtie": [],
-    "Rbowtie2": [],
     "RCAS": [
         "genomation"
     ],
@@ -2821,9 +2810,7 @@
     "Ularcirc": [
         "plotgardener"
     ],
-    "UMI4Cats": [
-        "Rbowtie2"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
