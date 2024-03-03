@@ -163,9 +163,7 @@
         "biovizBase"
     ],
     "BioNERO": [],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [],
     "biovizBase": [],
     "biscuiteer": [
@@ -504,8 +502,7 @@
     ],
     "debrowser": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "decompTumor2Sig": [],
     "decontX": [],
@@ -561,7 +558,6 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "pathview",
         "zenith"
     ],
     "DrugVsDisease": [],
@@ -569,9 +565,7 @@
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
-    "EGSEA": [
-        "pathview"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "biovizBase"
@@ -583,9 +577,7 @@
     "ENmix": [
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
@@ -746,8 +738,7 @@
     ],
     "GDCRNATools": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDNAx": [
         "GenomicFiles"
@@ -818,8 +809,7 @@
     "granulator": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "gsean": [],
     "GSReg": [],
@@ -973,8 +963,7 @@
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [],
     "MAIT": [
@@ -1326,7 +1315,6 @@
     "parody": [],
     "PathNet": [],
     "PathoStat": [],
-    "pathview": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -1594,9 +1582,7 @@
     "sagenhaft": [],
     "sampleClassifier": [],
     "SARC": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [],
     "SCArray.sat": [],
     "scBFA": [],
@@ -1707,7 +1693,6 @@
     ],
     "SpacePAC": [],
     "sparrow": [],
-    "spaSim": [],
     "SpatialDecon": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
@@ -1878,8 +1863,7 @@
         "quantro"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "ZygosityPredictor": []
 }
