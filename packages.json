@@ -407,7 +407,6 @@
         "multtest"
     ],
     "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -1180,7 +1179,6 @@
         "sparseMatrixStats"
     ],
     "BPRMeth": [],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -2437,7 +2435,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "coRdon": [],
     "CoreGx": [
         "fgsea",
         "marray",
@@ -3462,7 +3459,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "gage",
         "globaltest",
         "multtest",
         "pathview",
@@ -4283,7 +4279,6 @@
     "gaga": [
         "EBarrays"
     ],
-    "gage": [],
     "gaggle": [],
     "GARS": [
         "BiocIO",
@@ -4970,7 +4965,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "HEM": [],
     "hermes": [
         "ComplexHeatmap",
@@ -5547,7 +5541,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -5777,7 +5770,6 @@
         "affy",
         "affyio"
     ],
-    "MANOR": [],
     "maPredictDSC": [
         "ROC",
         "affy",
@@ -6333,7 +6325,6 @@
         "sparseMatrixStats"
     ],
     "MetID": [],
-    "MetNet": [],
     "mfa": [],
     "Mfuzz": [
         "tkWidgets"
@@ -6775,7 +6766,6 @@
         "biomaRt"
     ],
     "mpra": [],
-    "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
@@ -7611,7 +7601,6 @@
         "genefilter",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "Rhtslib",
         "Rsamtools",
@@ -7675,7 +7664,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -9595,7 +9583,6 @@
     "scReClassify": [
         "SingleCellExperiment"
     ],
-    "scRecover": [],
     "screenCounter": [],
     "ScreenR": [],
     "scRepertoire": [
@@ -10460,7 +10447,6 @@
         "rhdf5filters"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -10628,7 +10614,6 @@
     "SynExtend": [
         "DECIPHER"
     ],
-    "synlet": [],
     "SynMut": [],
     "syntenet": [
         "BiocIO",
