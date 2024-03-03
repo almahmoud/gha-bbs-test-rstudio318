@@ -303,9 +303,7 @@
     "BiocSklearn": [],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbLipidmaps": [],
     "biodbMirbase": [],
-    "biodbUniprot": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -379,7 +377,6 @@
     ],
     "branchpointer": [],
     "breakpointR": [],
-    "BRGenomics": [],
     "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
@@ -546,7 +543,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -1118,7 +1114,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "enrichplot",
@@ -1199,7 +1194,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [],
@@ -1438,7 +1432,6 @@
     ],
     "geNetClassifier": [],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -2142,7 +2135,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
@@ -2159,7 +2151,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
@@ -2389,10 +2380,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "OmaDB": [],
     "omicplotR": [
         "ALDEx2"
@@ -3062,7 +3050,6 @@
         "HiLDA"
     ],
     "semisup": [],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -3325,7 +3312,6 @@
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot"
