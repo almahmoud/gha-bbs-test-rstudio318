@@ -253,7 +253,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -383,7 +382,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -484,7 +482,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -794,7 +791,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1081,7 +1077,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1134,7 +1129,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1173,7 +1167,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1246,7 +1239,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1357,7 +1349,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1408,7 +1399,6 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -1494,7 +1484,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1821,7 +1810,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra",
         "xcms"
     ],
@@ -2236,7 +2224,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "Spectra"
     ],
     "XDE": [],
