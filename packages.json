@@ -259,7 +259,6 @@
     "cfdnakit": [
         "QDNAseq"
     ],
-    "cfDNAPro": [],
     "cghMCR": [],
     "CGHnormaliter": [],
     "ChAMP": [
@@ -1052,7 +1051,6 @@
         "minfi"
     ],
     "mfa": [],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
@@ -1653,7 +1651,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
