@@ -242,7 +242,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [
         "sva"
     ],
@@ -287,7 +286,6 @@
         "DOSE",
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
@@ -425,7 +423,6 @@
     "canceR": [
         "Category",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
         "phenoTest"
@@ -451,13 +448,11 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "DOSE",
@@ -474,7 +469,6 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [],
     "cellHTS2": [
         "Category",
         "vsn"
@@ -551,7 +545,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "ShortRead",
         "chipseq",
         "systemPipeR"
@@ -984,7 +977,6 @@
     "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
-        "GreyListChIP",
         "ShortRead",
         "systemPipeR"
     ],
@@ -1003,7 +995,6 @@
     "Dino": [],
     "distinct": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1118,7 +1109,6 @@
     "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
-        "GreyListChIP",
         "bamsignals",
         "csaw"
     ],
@@ -1407,12 +1397,10 @@
         "BiocCheck"
     ],
     "GDSArray": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GENESIS": [
         "GWASTools",
@@ -1499,7 +1487,6 @@
     "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "goseq": [],
@@ -1521,7 +1508,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GreyListChIP": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
@@ -2021,7 +2007,6 @@
         "siggenes"
     ],
     "mfa": [],
-    "MGFR": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [],
@@ -2473,7 +2458,6 @@
     "PECA": [],
     "peco": [],
     "PepsNMR": [],
-    "periodicDNA": [],
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
@@ -2920,9 +2904,7 @@
         "ShortRead"
     ],
     "rSWeeP": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTopper": [],
     "rTRMui": [
         "MotifDb"
@@ -2933,9 +2915,7 @@
     ],
     "sagenhaft": [],
     "SAIGEgds": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "sangeranalyseR": [],
     "SARC": [],
     "SBGNview": [
@@ -3096,7 +3076,6 @@
     "SIM": [
         "quantsmooth"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "vsn"
@@ -3243,7 +3222,6 @@
     "statTarget": [
         "ROC"
     ],
-    "stepNorm": [],
     "stJoincount": [],
     "strandCheckR": [],
     "struct": [],
@@ -3297,7 +3275,6 @@
         "ROC"
     ],
     "TCGAbiolinks": [],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot"
@@ -3307,9 +3284,7 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
@@ -3469,7 +3444,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "ShortRead",
         "csaw",
         "regioneR",
