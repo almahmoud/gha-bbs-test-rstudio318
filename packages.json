@@ -152,7 +152,6 @@
     "APAlyzer": [
         "VariantAnnotation"
     ],
-    "apComplex": [],
     "APL": [],
     "appreci8R": [
         "GenomicScores",
@@ -274,9 +273,7 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "biomformat",
         "metagenomeSeq",
-        "phyloseq",
         "zinbwave"
     ],
     "BG2": [],
@@ -324,7 +321,6 @@
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "biomformat": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -738,10 +734,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "combi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "VariantAnnotation",
@@ -1059,7 +1052,6 @@
     ],
     "Dino": [],
     "distinct": [],
-    "dittoSeq": [],
     "DMCFB": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -1115,7 +1107,6 @@
         "ShortRead"
     ],
     "EBcoexpress": [],
-    "EBSEA": [],
     "EDASeq": [
         "ShortRead"
     ],
@@ -1481,7 +1472,6 @@
     "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [],
-    "GeneNetworkBuilder": [],
     "GENESIS": [
         "GWASTools",
         "SeqVarTools",
@@ -1549,7 +1539,6 @@
     ],
     "ggmanh": [],
     "ggmsa": [],
-    "ggsc": [],
     "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
@@ -1675,7 +1664,6 @@
     ],
     "HiLDA": [],
     "hipathia": [],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
@@ -1955,8 +1943,6 @@
         "TFBSTools"
     ],
     "MBECS": [
-        "biomformat",
-        "phyloseq",
         "sva"
     ],
     "mbkmeans": [],
@@ -2117,25 +2103,17 @@
     "MGFR": [],
     "miaSim": [],
     "miaViz": [],
-    "microbiome": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "microbiome": [],
     "microbiomeDASim": [
-        "biomformat",
-        "metagenomeSeq",
-        "phyloseq"
+        "metagenomeSeq"
     ],
     "microbiomeExplorer": [
-        "biomformat",
         "metagenomeSeq"
     ],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "biomformat",
-        "metagenomeSeq",
-        "phyloseq"
+        "metagenomeSeq"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -2169,7 +2147,6 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2187,7 +2164,6 @@
         "minfi",
         "siggenes"
     ],
-    "missRows": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
@@ -2575,11 +2551,7 @@
     "partCNV": [],
     "PAST": [],
     "PathNet": [],
-    "PathoStat": [
-        "biomformat",
-        "phyloseq"
-    ],
-    "pathRender": [],
+    "PathoStat": [],
     "pathview": [],
     "pcaExplorer": [
         "Category",
@@ -2627,9 +2599,6 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
     "Pi": [],
     "piano": [],
     "PICS": [],
@@ -2675,9 +2644,7 @@
     "PPInfer": [],
     "pram": [],
     "prebs": [
-        "RPA",
-        "biomformat",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "aCGH",
@@ -2854,10 +2821,7 @@
     "rCGH": [
         "aCGH"
     ],
-    "RCM": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
@@ -2870,10 +2834,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "reconsi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -3064,10 +3025,7 @@
     "ROC": [],
     "ROntoTools": [],
     "ropls": [],
-    "RPA": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "ShortRead",
@@ -3142,7 +3100,6 @@
     "scifer": [
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [],
     "scmeth": [
         "annotatr",
@@ -3248,10 +3205,7 @@
         "siggenes"
     ],
     "ShortRead": [],
-    "SIAMCAT": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces"
@@ -3282,10 +3236,7 @@
         "Ringo",
         "vsn"
     ],
-    "SimBu": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SimBu": [],
     "SIMD": [],
     "SimFFPE": [],
     "similaRpeak": [],
@@ -3389,9 +3340,7 @@
         "HiCcompare"
     ],
     "SPIA": [],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -3408,11 +3357,7 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "SPOTlight": [],
-    "SPsimSeq": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "SRAdb": [],
     "srnadiff": [
         "Gviz",
@@ -3464,7 +3409,6 @@
         "DOSE"
     ],
     "SWATH2stats": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "vsn"
@@ -3520,7 +3464,6 @@
         "ORFik"
     ],
     "TFutils": [],
-    "tidySingleCellExperiment": [],
     "tilingArray": [
         "vsn"
     ],
@@ -3666,7 +3609,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [],
     "ViSEAGO": [],
@@ -3714,7 +3656,6 @@
         "Spectra",
         "vsn"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "siggenes"
