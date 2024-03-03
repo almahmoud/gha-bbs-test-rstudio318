@@ -865,9 +865,7 @@
         "vsn"
     ],
     "DOSE": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1001,9 +999,7 @@
         "csaw"
     ],
     "factDesign": [],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -1132,7 +1128,6 @@
     ],
     "frma": [],
     "frmaTools": [],
-    "FunChIP": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
@@ -1769,7 +1764,6 @@
     ],
     "ModCon": [],
     "MOFA2": [],
-    "MOGAMUN": [],
     "mogsa": [],
     "MoleculeExperiment": [],
     "MOMA": [],
@@ -2106,7 +2100,6 @@
     ],
     "Pi": [],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -2115,7 +2108,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [],
@@ -2349,7 +2341,6 @@
         "RcwlPipelines"
     ],
     "rexposome": [],
-    "rGADEM": [],
     "RGMQL": [],
     "RgnTX": [],
     "rgsepd": [
@@ -2369,7 +2360,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
     "Ringo": [
         "vsn"
     ],
@@ -2657,7 +2647,6 @@
     ],
     "Spaniel": [],
     "sparrow": [],
-    "SparseSignatures": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [
@@ -2719,7 +2708,6 @@
         "ROC"
     ],
     "stJoincount": [],
-    "strandCheckR": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
@@ -2738,7 +2726,6 @@
         "vsn"
     ],
     "SynExtend": [],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeTools": [],
     "tadar": [
@@ -2816,7 +2803,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "transomics2cytoscape": [],
     "traseR": [],
     "traviz": [
         "slingshot"
@@ -2847,7 +2833,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "txcutr": [],
     "TypeInfo": [],
     "UCell": [],
     "Ularcirc": [
@@ -2917,7 +2902,6 @@
         "vsn"
     ],
     "weitrix": [],
-    "wiggleplotr": [],
     "xcms": [
         "MSnbase",
         "MetaboCoreUtils",
