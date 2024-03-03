@@ -196,8 +196,7 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
-        "rGREAT"
+        "projectR"
     ],
     "ATACseqQC": [
         "CNEr",
@@ -233,7 +232,6 @@
     ],
     "bambu": [],
     "bamsignals": [],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -1016,9 +1014,7 @@
         "FlowSOM",
         "flowCore"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [
         "csaw"
     ],
@@ -1480,7 +1476,6 @@
     ],
     "GenomicScores": [],
     "GenomicSuperSignature": [],
-    "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
     ],
@@ -1769,8 +1764,7 @@
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "sva",
-        "tximeta"
+        "sva"
     ],
     "isomiRs": [
         "DEGreport"
@@ -2620,7 +2614,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "projectR": [],
@@ -2859,7 +2852,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -2876,7 +2868,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
@@ -3124,7 +3115,6 @@
         "sechm",
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats"
@@ -3340,7 +3330,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "SWATH2stats": [],
     "synapter": [
         "MSnbase",
         "vsn"
@@ -3445,7 +3434,6 @@
         "anota"
     ],
     "transomics2cytoscape": [],
-    "TransView": [],
     "traseR": [],
     "traviz": [
         "slingshot"
@@ -3481,7 +3469,6 @@
         "ensemblVEP"
     ],
     "txcutr": [],
-    "tximeta": [],
     "TypeInfo": [],
     "UCell": [],
     "Ularcirc": [
