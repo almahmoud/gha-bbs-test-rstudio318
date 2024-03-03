@@ -568,7 +568,6 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "VariantAnnotation",
@@ -761,7 +760,6 @@
     "crisprBowtie": [
         "Rbowtie"
     ],
-    "crisprBwa": [],
     "crisprDesign": [
         "Rbowtie",
         "VariantAnnotation",
@@ -769,7 +767,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "Rbowtie",
@@ -1497,7 +1494,6 @@
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "regioneR"
     ],
@@ -1529,7 +1525,6 @@
     ],
     "hermes": [],
     "HERON": [],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -1559,14 +1554,11 @@
     ],
     "HiLDA": [],
     "hipathia": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
     "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [],
-    "hpar": [],
     "HPiP": [],
     "HTqPCR": [],
     "HTSeqGenie": [
@@ -1755,7 +1747,6 @@
         "siggenes"
     ],
     "LymphoSeq": [],
-    "m6Aboost": [],
     "Maaslin2": [
         "metagenomeSeq"
     ],
@@ -1838,7 +1829,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "VariantAnnotation",
@@ -1880,7 +1870,6 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "MWASTools",
-        "hpar",
         "mygene"
     ],
     "metaCCA": [],
@@ -2191,7 +2180,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "Rbowtie",
         "VariantAnnotation",
         "bamsignals",
@@ -2866,7 +2854,6 @@
         "sva"
     ],
     "scanMiRApp": [],
-    "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -3120,7 +3107,6 @@
         "ClassifyR"
     ],
     "SpidermiR": [],
-    "spiky": [],
     "spkTools": [],
     "splatter": [],
     "SpliceWiz": [],
@@ -3364,7 +3350,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VegaMC": [],
     "velociraptor": [],
     "ViSEAGO": [],
     "vissE": [],
