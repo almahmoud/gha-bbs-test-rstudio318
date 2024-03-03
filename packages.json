@@ -60,7 +60,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
         "alabaster.bumpy",
@@ -104,7 +103,6 @@
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -376,7 +374,6 @@
     ],
     "bnem": [
         "epiNEM",
-        "mnem",
         "sva",
         "vsn"
     ],
@@ -764,7 +761,6 @@
         "Spectra"
     ],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "slingshot"
     ],
@@ -809,9 +805,7 @@
         "piano"
     ],
     "Cormotif": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [],
     "cosmiq": [
         "MSnbase",
@@ -874,9 +868,7 @@
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -913,9 +905,7 @@
         "flowCore"
     ],
     "cytoKernel": [],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoMEM": [
         "flowCore"
     ],
@@ -946,7 +936,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [
@@ -976,8 +965,7 @@
     ],
     "dcanr": [],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowCore",
@@ -1046,11 +1034,8 @@
         "ChIPpeakAnno",
         "regioneR"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "destiny": [],
-    "DEsubs": [],
     "DExMA": [
         "sva"
     ],
@@ -1213,9 +1198,7 @@
         "minfi",
         "siggenes"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -1265,9 +1248,7 @@
         "GSVA",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "esetVis": [],
     "eudysbiome": [],
     "EventPointer": [
@@ -1285,9 +1266,7 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "EnrichedHeatmap",
         "GenomicInteractions",
@@ -1317,9 +1296,7 @@
         "VariantAnnotation"
     ],
     "FEAST": [
-        "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fedup": [],
     "fenr": [],
@@ -1332,7 +1309,6 @@
     ],
     "FilterFFPE": [],
     "FindIT2": [],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1489,22 +1465,17 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
         "piano"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
         "piano"
     ],
     "gDRstyle": [
         "BiocCheck"
     ],
-    "gDRutils": [],
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -1585,9 +1556,7 @@
     "ggmanh": [],
     "ggmsa": [],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [
@@ -1722,9 +1691,7 @@
     "HiTC": [],
     "hmdbQuery": [],
     "HMMcopy": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "hpar": [],
     "HPiP": [],
     "HTqPCR": [],
@@ -1735,7 +1702,6 @@
         "chipseq",
         "gmapR"
     ],
-    "HTSFilter": [],
     "hummingbird": [],
     "ibh": [],
     "icetea": [
@@ -1768,7 +1734,6 @@
         "IVAS"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [
@@ -1902,7 +1867,6 @@
     ],
     "lisaClust": [
         "ClassifyR",
-        "SpatialExperiment",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -2246,7 +2210,6 @@
         "Maaslin2",
         "metagenomeSeq"
     ],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -2262,9 +2225,7 @@
     "MOFA2": [],
     "MOGAMUN": [],
     "mogsa": [],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
         "CNEr",
@@ -2484,12 +2445,10 @@
         "plyranges"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [],
     "netbiov": [],
-    "netDx": [],
     "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -2513,9 +2472,7 @@
     "NewWave": [],
     "nipalsMCIA": [],
     "nnNorm": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [
         "HTqPCR"
     ],
@@ -2606,7 +2563,6 @@
     "PAA": [
         "sva"
     ],
-    "padma": [],
     "pageRank": [
         "CNEr",
         "TFBSTools",
@@ -3152,7 +3108,6 @@
         "EDASeq",
         "ShortRead"
     ],
-    "RVS": [],
     "sagenhaft": [],
     "SAIGEgds": [],
     "sampleClassifier": [
@@ -3165,7 +3120,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "sva"
     ],
@@ -3198,11 +3152,8 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "schex": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [
         "flowCore"
     ],
@@ -3231,7 +3182,6 @@
     ],
     "scPipe": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -3333,7 +3283,6 @@
     ],
     "signifinder": [
         "GSVA",
-        "SpatialExperiment",
         "consensusOV",
         "genefu"
     ],
@@ -3357,7 +3306,6 @@
     "similaRpeak": [],
     "simona": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [],
@@ -3367,7 +3315,6 @@
         "GSVA",
         "MAST",
         "TSCAN",
-        "TrajectoryUtils",
         "celda",
         "scDblFinder",
         "scMerge",
@@ -3383,7 +3330,6 @@
         "VariantAnnotation"
     ],
     "singscore": [],
-    "SiPSiC": [],
     "sitadela": [],
     "sitePath": [],
     "skewr": [
@@ -3396,9 +3342,7 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "goseq"
     ],
@@ -3434,19 +3378,12 @@
         "BiocSet"
     ],
     "SparseSignatures": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
@@ -3468,12 +3405,10 @@
     ],
     "SPIA": [],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
     "spicyR": [
-        "ClassifyR",
-        "SpatialExperiment"
+        "ClassifyR"
     ],
     "SpidermiR": [],
     "spiky": [],
@@ -3487,9 +3422,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [
         "biomformat",
@@ -3506,8 +3439,7 @@
     "standR": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
-        "SpatialExperiment"
+        "ShortRead"
     ],
     "staRank": [
         "Category",
@@ -3518,16 +3450,12 @@
         "SpidermiR"
     ],
     "STATegRa": [],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [
         "ROC"
     ],
     "stepNorm": [],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [],
     "struct": [],
     "structToolbox": [
@@ -3649,10 +3577,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
         "ShortRead",
@@ -3668,7 +3594,6 @@
     "TransView": [],
     "traseR": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -3692,9 +3617,7 @@
         "tRNA"
     ],
     "TRONCO": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "TurboNorm": [
         "convert"
     ],
@@ -3762,11 +3685,9 @@
     "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [],
-    "vidger": [],
     "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "VplotR": [],
