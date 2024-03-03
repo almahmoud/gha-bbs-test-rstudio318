@@ -430,9 +430,7 @@
         "karyoploteR"
     ],
     "CNVPanelizer": [],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
         "MIRA",
@@ -910,7 +908,6 @@
     "gDRstyle": [
         "BiocCheck"
     ],
-    "GDSArray": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -1521,7 +1518,6 @@
         "epiNEM"
     ],
     "netbiov": [],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -2046,7 +2042,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "snifter": [],
     "SNPhood": [],
     "soGGi": [
         "chipseq"
@@ -2223,9 +2218,7 @@
         "monocle"
     ],
     "VanillaICE": [],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz",
         "biovizBase"
