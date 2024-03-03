@@ -300,7 +300,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "mixOmics"
     ],
@@ -853,7 +852,6 @@
         "EBarrays",
         "GOSemSim",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "ReactomePA",
@@ -1337,7 +1335,6 @@
         "EBarrays",
         "GSEABase",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "Rhtslib",
@@ -1347,7 +1344,6 @@
         "cBioPortalData",
         "geNetClassifier",
         "genefilter",
-        "hopach",
         "phenoTest",
         "rtracklayer"
     ],
@@ -1410,7 +1406,6 @@
     "cbaf": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "Rhtslib",
@@ -1429,7 +1424,6 @@
     "cBioPortalData": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "Rhtslib",
@@ -2038,7 +2032,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationFilter",
         "BSgenome",
@@ -2503,7 +2496,6 @@
         "oligoClasses",
         "sva"
     ],
-    "CSAR": [],
     "csaw": [
         "Rhtslib",
         "Rsamtools"
@@ -3021,7 +3013,6 @@
         "genefilter",
         "rtracklayer"
     ],
-    "diggit": [],
     "Dino": [
         "BiocNeighbors",
         "BiocSingular",
@@ -3214,7 +3205,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "dStruct": [],
     "Dune": [],
     "dupRadar": [],
     "dyebias": [],
@@ -4114,7 +4104,6 @@
     "GDCRNATools": [
         "DOSE",
         "GOSemSim",
-        "GenomicDataCommons",
         "KEGGgraph",
         "biomaRt",
         "clusterProfiler",
@@ -4247,7 +4236,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [
         "BiocIO",
@@ -4483,7 +4471,6 @@
     "GNOSIS": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "Rhtslib",
@@ -4854,7 +4841,6 @@
         "ComplexHeatmap",
         "SpatialExperiment"
     ],
-    "hopach": [],
     "hpar": [
         "AnnotationHub",
         "ExperimentHub"
@@ -4886,7 +4872,6 @@
     "HybridMTest": [],
     "hypeR": [],
     "hyperdraw": [],
-    "iasva": [],
     "ibh": [],
     "iBMQ": [],
     "icetea": [
@@ -5541,7 +5526,6 @@
         "affyio",
         "gcrma"
     ],
-    "massiR": [],
     "MAST": [],
     "mastR": [
         "AnnotationHub",
@@ -6230,7 +6214,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "miRNAmeConverter": [],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
@@ -6379,7 +6362,6 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -7349,7 +7331,6 @@
     ],
     "pengls": [],
     "PepsNMR": [],
-    "pepStat": [],
     "periodicDNA": [
         "BSgenome",
         "BiocIO",
@@ -7387,8 +7368,7 @@
         "Category",
         "GSEABase",
         "biomaRt",
-        "genefilter",
-        "hopach"
+        "genefilter"
     ],
     "PhenStat": [],
     "philr": [
@@ -8716,7 +8696,6 @@
         "rtracklayer"
     ],
     "ROC": [],
-    "ROCpAI": [],
     "RolDE": [],
     "rols": [],
     "ROntoTools": [
@@ -8774,7 +8753,6 @@
     "RTCGAToolbox": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
@@ -8922,7 +8900,6 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "hopach",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -10018,7 +9995,6 @@
         "biomaRt",
         "msa"
     ],
-    "survtype": [],
     "sva": [
         "genefilter"
     ],
@@ -10150,7 +10126,6 @@
     "TCGAutils": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
@@ -10193,7 +10168,6 @@
     "terraTCGAdata": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
@@ -10237,7 +10211,6 @@
         "Rsamtools"
     ],
     "tidySingleCellExperiment": [],
-    "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
         "affy",
@@ -10406,8 +10379,7 @@
         "cytolib",
         "diffcyt",
         "flowCore",
-        "ggtree",
-        "hopach"
+        "ggtree"
     ],
     "TreeSummarizedExperiment": [],
     "TREG": [],
