@@ -178,7 +178,6 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "biovizBase",
         "derfinder",
         "derfinderPlot",
@@ -193,7 +192,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -205,7 +203,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -377,9 +374,7 @@
         "RUVSeq"
     ],
     "consensusOV": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "minfi"
     ],
@@ -494,20 +489,15 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEGraph": [],
     "DeMixT": [
         "DSS"
     ],
-    "demuxSNP": [],
     "DEP": [
         "MSnbase"
     ],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "biovizBase",
         "derfinder",
         "ggbio"
@@ -600,9 +590,7 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -719,9 +707,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDNAx": [
-        "GenomicFiles"
-    ],
+    "gDNAx": [],
     "gDR": [
         "CoreGx",
         "PharmacoGx",
@@ -743,7 +729,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
         "biovizBase"
@@ -870,9 +855,7 @@
         "ggbio"
     ],
     "interactiveDisplay": [],
-    "IntEREst": [
-        "GenomicFiles"
-    ],
+    "IntEREst": [],
     "InterMineR": [],
     "IONiseR": [],
     "IPO": [
@@ -1077,9 +1060,7 @@
         "methylumi",
         "minfi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1344,7 +1325,6 @@
     "protGear": [],
     "PSEA": [],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1378,7 +1358,6 @@
         "SpacePAC"
     ],
     "QuasR": [
-        "GenomicFiles",
         "Rbowtie"
     ],
     "R3CPET": [
@@ -1410,7 +1389,6 @@
         "enrichplot"
     ],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [
@@ -1421,9 +1399,7 @@
     ],
     "regionalpcs": [],
     "RegionalST": [],
-    "regioneReloaded": [],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -1474,7 +1450,6 @@
         "MSnbase"
     ],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1502,7 +1477,6 @@
         "biovizBase"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1512,7 +1486,6 @@
     ],
     "ROC": [],
     "Rqc": [
-        "GenomicFiles",
         "biovizBase"
     ],
     "rqt": [],
@@ -1601,7 +1574,6 @@
     "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR",
         "Rbowtie"
     ],
@@ -1750,9 +1722,7 @@
     "VaSP": [
         "ballgown"
     ],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "Voyager": [],
     "vtpnet": [
         "gwascat"
