@@ -514,7 +514,6 @@
         "ShortRead"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "vsn"
@@ -524,7 +523,6 @@
     "CellMixS": [],
     "CellNOptR": [],
     "cellscape": [],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -1457,7 +1455,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "fobitools": [],
     "FRASER": [
         "OUTRIDER"
@@ -1618,7 +1615,6 @@
     "glmSparseNet": [],
     "GlobalAncova": [],
     "globalSeq": [],
-    "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
     ],
@@ -1785,7 +1781,6 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "ILoReg": [],
     "IMAS": [
         "IVAS"
     ],
@@ -2218,7 +2213,6 @@
     ],
     "microSTASIS": [],
     "MICSQTL": [],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM",
@@ -2781,7 +2775,6 @@
     ],
     "proActiv": [],
     "proBAMr": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -3147,7 +3140,6 @@
     "Rnits": [],
     "roar": [],
     "ROC": [],
-    "RolDE": [],
     "ROntoTools": [],
     "ropls": [],
     "RPA": [
@@ -3732,7 +3724,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [],
     "txcutr": [],
     "tximeta": [],
     "TypeInfo": [],
@@ -3799,7 +3790,6 @@
         "SpatialFeatureExperiment"
     ],
     "VplotR": [],
-    "vsclust": [],
     "vsn": [],
     "vtpnet": [
         "VariantAnnotation",
@@ -3814,7 +3804,6 @@
         "regioneR",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "ROC",
         "bumphunter",
