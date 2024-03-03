@@ -434,7 +434,6 @@
         "Spectra",
         "xcms"
     ],
-    "cosmosR": [],
     "COTAN": [],
     "CRImage": [],
     "crisprBowtie": [
@@ -1701,7 +1700,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
@@ -1716,9 +1714,7 @@
     ],
     "seqCAT": [],
     "SeqSQC": [],
-    "SEtools": [
-        "sechm"
-    ],
+    "SEtools": [],
     "SGCP": [
         "GOstats"
     ],
