@@ -477,7 +477,6 @@
         "missMethyl"
     ],
     "dmrseq": [],
-    "DNAfusion": [],
     "doppelgangR": [],
     "Doscheda": [],
     "doubletrouble": [],
@@ -694,7 +693,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "girafe": [],
     "globalSeq": [],
     "gmapR": [],
     "GmicR": [
@@ -1049,15 +1047,11 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
     "MSstatsLOBD": [],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "qcmetrics"
@@ -1068,10 +1062,8 @@
         "qcmetrics"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [],
     "multicrispr": [
         "Rbowtie",
@@ -1518,14 +1510,9 @@
         "ROC"
     ],
     "structToolbox": [],
-    "StructuralVariantAnnotation": [],
     "Summix": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [],
     "synapter": [
         "MSnbase"
@@ -1578,7 +1565,6 @@
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "ensemblVEP"
