@@ -22,8 +22,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "aCGH": [
         "multtest"
@@ -430,7 +429,6 @@
     "arrayMvout": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -452,9 +450,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affy",
         "affyPLM",
@@ -465,8 +461,7 @@
         "vsn"
     ],
     "artMS": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "ASICS": [
         "MultiDataSet",
@@ -631,9 +626,7 @@
     "bamsignals": [
         "Rhtslib"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -821,7 +814,6 @@
     "bigmelon": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -1041,7 +1033,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "marray",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -1583,8 +1574,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "cfDNAPro": [
         "BSgenome",
@@ -1601,12 +1591,9 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools",
@@ -1614,12 +1601,10 @@
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "AnnotationFilter",
@@ -1629,7 +1614,6 @@
         "DMRcate",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -1650,7 +1634,6 @@
         "globaltest",
         "goseq",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -1786,7 +1769,6 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "GEOquery",
         "affy",
         "affyio",
         "frma",
@@ -2210,7 +2192,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "marray",
         "methylPipe",
         "rtracklayer",
         "topGO"
@@ -2296,7 +2277,6 @@
     "conumee": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -2312,9 +2292,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "CopyNumberPlots": [
         "AnnotationFilter",
         "BSgenome",
@@ -2338,7 +2316,6 @@
     ],
     "CoreGx": [
         "fgsea",
-        "marray",
         "piano"
     ],
     "Cormotif": [
@@ -2411,7 +2388,6 @@
         "aCGH",
         "multtest"
     ],
-    "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
         "BiocIO",
@@ -2419,7 +2395,6 @@
         "Rbowtie",
         "Rhtslib",
         "Rsamtools",
-        "crisprBase",
         "rtracklayer"
     ],
     "crisprBwa": [
@@ -2428,7 +2403,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "crisprBase",
         "rtracklayer"
     ],
     "crisprDesign": [
@@ -2445,7 +2419,6 @@
         "basilisk",
         "basilisk.utils",
         "biomaRt",
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "rtracklayer"
@@ -2488,7 +2461,6 @@
         "basilisk.utils",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -2513,7 +2485,6 @@
         "basilisk.utils",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -2525,7 +2496,6 @@
         "oligoClasses"
     ],
     "crossmeta": [
-        "GEOquery",
         "affy",
         "affyio",
         "genefilter",
@@ -2814,7 +2784,6 @@
     "deconvR": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -2869,10 +2838,8 @@
         "ComplexHeatmap"
     ],
     "DelayedMatrixStats": [],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array",
         "ScaledMatrix",
         "beachmat",
@@ -2990,7 +2957,6 @@
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
-        "GEOquery",
         "genefilter",
         "sva"
     ],
@@ -3027,8 +2993,7 @@
         "flowCore"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
-        "DRIMSeq"
+        "BANDITS"
     ],
     "diffHic": [
         "BSgenome",
@@ -3103,7 +3068,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -3209,7 +3173,6 @@
         "variancePartition",
         "zenith"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -3231,7 +3194,6 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
         "affy",
         "affyio",
         "biomaRt",
@@ -3255,9 +3217,7 @@
     "dStruct": [],
     "Dune": [],
     "dupRadar": [],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "easier": [
         "AnnotationHub",
         "ExperimentHub",
@@ -3303,9 +3263,7 @@
     "EDIRquery": [
         "InteractionSet"
     ],
-    "EGAD": [
-        "GEOquery"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -3361,7 +3319,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -3516,7 +3473,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -3745,8 +3701,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "AnnotationFilter",
         "BSgenome",
@@ -3836,7 +3790,6 @@
     "ffpe": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4074,7 +4027,6 @@
     "funtooNorm": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4191,7 +4143,6 @@
         "gDRcore",
         "gDRimport",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRcore": [
@@ -4202,7 +4153,6 @@
         "PharmacoGx",
         "fgsea",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRstyle": [
@@ -4229,8 +4179,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "GeneExpressionSignature": [],
     "genefilter": [],
@@ -4404,18 +4353,14 @@
         "NanoStringNCTools"
     ],
     "GEOexplorer": [
-        "GEOquery",
         "genefilter",
         "sva"
     ],
     "GEOfastq": [],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
+    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools"
     ],
-    "GEOquery": [],
     "GEOsubmission": [
         "affy",
         "affyio"
@@ -4535,7 +4480,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GNET2": [],
     "GNOSIS": [
         "BiocIO",
         "GenomicAlignments",
@@ -4961,7 +4905,6 @@
     "iCheck": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5066,7 +5009,6 @@
         "BiocIO",
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5423,7 +5365,6 @@
     "lumi": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5489,7 +5430,6 @@
     "MAGAR": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5579,7 +5519,6 @@
         "rtracklayer"
     ],
     "marr": [],
-    "marray": [],
     "martini": [],
     "maser": [
         "AnnotationFilter",
@@ -5684,7 +5623,6 @@
         "BSgenome",
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -5711,7 +5649,6 @@
     "MEAT": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5924,7 +5861,6 @@
     "MethylAid": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5944,7 +5880,6 @@
         "BSgenome",
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5972,7 +5907,6 @@
         "DelayedMatrixStats",
         "ExperimentHub",
         "ExperimentHubData",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5994,7 +5928,6 @@
         "BiocIO",
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6046,7 +5979,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "marray",
         "rtracklayer"
     ],
     "methylscaper": [],
@@ -6076,7 +6008,6 @@
     "methylumi": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6219,7 +6150,6 @@
         "BiocIO",
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "GSEABase",
         "GenomicAlignments",
@@ -6233,7 +6163,6 @@
         "bumphunter",
         "genefilter",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "multtest",
@@ -6245,7 +6174,6 @@
     "minfi": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6307,7 +6235,6 @@
     "missMethyl": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6424,7 +6351,6 @@
         "BiocIO",
         "ComplexHeatmap",
         "DOSE",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "Rhtslib",
@@ -6437,7 +6363,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "GEOquery",
         "GOSemSim",
         "TCGAbiolinks",
         "biomaRt",
@@ -6652,24 +6577,19 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [
-        "marray"
-    ],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsLOBD": [],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -6697,12 +6617,10 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MuData": [
         "rhdf5",
@@ -6984,7 +6902,6 @@
         "BiocIO",
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "GSEABase",
         "GenomicAlignments",
@@ -7015,9 +6932,7 @@
         "ComplexHeatmap",
         "fgsea"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -7125,12 +7040,9 @@
     "oligoClasses": [
         "affyio"
     ],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
         "OLIN",
-        "marray",
         "tkWidgets"
     ],
     "omada": [],
@@ -7210,10 +7122,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BiocIO",
@@ -7400,7 +7309,6 @@
         "biomaRt",
         "fgsea",
         "genefu",
-        "marray",
         "piano"
     ],
     "pdInfoBuilder": [
@@ -7451,7 +7359,6 @@
         "rtracklayer"
     ],
     "phantasus": [
-        "GEOquery",
         "fgsea",
         "rhdf5",
         "rhdf5filters"
@@ -7462,7 +7369,6 @@
     "PharmacoGx": [
         "CoreGx",
         "fgsea",
-        "marray",
         "piano"
     ],
     "phemd": [
@@ -7506,8 +7412,7 @@
     ],
     "Pi": [],
     "piano": [
-        "fgsea",
-        "marray"
+        "fgsea"
     ],
     "PICS": [
         "GenomicAlignments",
@@ -7623,7 +7528,6 @@
     "POWSC": [
         "MAST"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "biomaRt",
         "fgsea"
@@ -7823,7 +7727,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -7915,8 +7818,7 @@
         "CGHbase",
         "CGHcall",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "QFeatures": [
         "AnnotationFilter",
@@ -7971,7 +7873,6 @@
     "quantro": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8048,7 +7949,6 @@
     "RadioGx": [
         "CoreGx",
         "fgsea",
-        "marray",
         "piano"
     ],
     "raer": [
@@ -8115,11 +8015,8 @@
         "ShortRead",
         "dada2"
     ],
-    "RBioFormats": [],
     "RBioinf": [],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "Rbowtie": [],
     "Rbowtie2": [
         "Rhtslib",
@@ -8200,7 +8097,6 @@
     "recount": [
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8223,7 +8119,6 @@
     "recountmethylation": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8346,7 +8241,6 @@
         "BSgenome",
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8674,7 +8568,6 @@
     "RNAAgeCalc": [
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8779,7 +8672,6 @@
     "RnaSeqSampleSize": [
         "BSgenome",
         "BiocIO",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8796,7 +8688,6 @@
     "RnBeads": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8958,7 +8849,6 @@
     "Scale4C": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
-        "GEOquery",
         "affy",
         "affyio",
         "genefilter",
@@ -9457,7 +9347,6 @@
     "shinyepico": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9476,7 +9365,6 @@
     "shinyMethyl": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9730,7 +9618,6 @@
     "skewr": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9905,8 +9792,7 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
-        "RBioFormats"
+        "NanoStringNCTools"
     ],
     "spatzie": [
         "AnnotationFilter",
@@ -9940,7 +9826,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -10028,9 +9913,7 @@
         "rhdf5filters"
     ],
     "SQLDataFrame": [],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "AnnotationFilter",
         "BSgenome",
@@ -10093,9 +9976,7 @@
         "ROC"
     ],
     "STdeconvolve": [],
-    "stepNorm": [
-        "marray"
-    ],
+    "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
@@ -10355,7 +10236,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tigre": [],
     "TileDBArray": [],
@@ -10365,9 +10245,7 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "timeOmics": [
         "mixOmics"
     ],
@@ -10410,9 +10288,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -10424,7 +10300,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "TnT": [],
     "TOAST": [],
     "TOP": [
         "ClassifyR",
@@ -10444,7 +10319,6 @@
     "ToxicoGx": [
         "CoreGx",
         "fgsea",
-        "marray",
         "piano"
     ],
     "TPP": [
@@ -10592,8 +10466,7 @@
     "TurboNorm": [
         "affy",
         "affyio",
-        "convert",
-        "marray"
+        "convert"
     ],
     "TVTB": [
         "AnnotationFilter",
@@ -10612,7 +10485,6 @@
         "rtracklayer"
     ],
     "tweeDEseq": [],
-    "twilight": [],
     "twoddpcr": [],
     "txcutr": [
         "BiocIO",
@@ -10885,7 +10757,6 @@
     "wateRmelon": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10966,7 +10837,6 @@
         "CoreGx",
         "PharmacoGx",
         "fgsea",
-        "marray",
         "piano"
     ],
     "XINA": [],
@@ -11004,7 +10874,6 @@
     "yarn": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
