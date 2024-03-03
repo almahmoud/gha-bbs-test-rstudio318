@@ -13,10 +13,7 @@
         "ggbio"
     ],
     "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
@@ -59,9 +56,7 @@
         "minfi",
         "parody"
     ],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
+    "arrayQualityMetrics": [],
     "ASICS": [
         "PepsNMR"
     ],
@@ -877,9 +872,7 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "GOstats",
         "lumi",
