@@ -625,7 +625,6 @@
         "NCIgraph"
     ],
     "DEGreport": [],
-    "DelayedTensor": [],
     "DeMixT": [
         "DSS",
         "bsseq"
@@ -1780,10 +1779,7 @@
     "RCASPAR": [],
     "rCGH": [],
     "RCM": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
@@ -1832,7 +1828,6 @@
     ],
     "restfulSE": [],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "rexposome": [],
@@ -1937,7 +1932,6 @@
     ],
     "scDataviz": [],
     "scDblFinder": [],
-    "scDD": [],
     "scde": [],
     "scFeatures": [
         "AUCell",
