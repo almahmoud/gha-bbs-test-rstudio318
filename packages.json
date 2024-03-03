@@ -364,7 +364,6 @@
     "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -675,7 +674,6 @@
         "motifmatchr"
     ],
     "escape": [],
-    "escheR": [],
     "EventPointer": [],
     "EWCE": [],
     "ExperimentHubData": [
@@ -1083,9 +1081,7 @@
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [
         "FlowSOM"
@@ -1294,7 +1290,6 @@
     ],
     "MutationalPatterns": [],
     "MVCClass": [],
-    "MWASTools": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1801,7 +1796,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [],
     "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
@@ -1819,7 +1813,6 @@
     "statTarget": [
         "ROC"
     ],
-    "stJoincount": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
