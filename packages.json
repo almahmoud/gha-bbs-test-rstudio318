@@ -194,7 +194,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [],
     "casper": [],
     "CATALYST": [
@@ -1085,7 +1084,6 @@
     ],
     "nondetects": [],
     "NormalyzerDE": [],
-    "normr": [],
     "NTW": [],
     "octad": [
         "EDASeq",
@@ -1196,7 +1194,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ProteoDisco": [],
     "protGear": [],
     "PSEA": [],
     "psichomics": [
@@ -1453,7 +1450,6 @@
         "motifmatchr"
     ],
     "Spectra": [],
-    "SpectralTAD": [],
     "spicyR": [],
     "spkTools": [],
     "SPLINTER": [
@@ -1473,7 +1469,6 @@
     "statTarget": [
         "ROC"
     ],
-    "structToolbox": [],
     "Summix": [],
     "svaNUMT": [],
     "svaRetro": [],
