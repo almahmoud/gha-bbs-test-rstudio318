@@ -89,9 +89,7 @@
         "biovizBase"
     ],
     "AlpsNMR": [],
-    "altcdfenvs": [
-        "makecdfenv"
-    ],
+    "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
     "ANCOMBC": [],
@@ -558,7 +556,6 @@
     "COTAN": [
         "PCAtools"
     ],
-    "countsimQC": [],
     "cpvSNP": [],
     "CRImage": [
         "aCGH"
@@ -589,7 +586,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "crossmeta": [],
     "cTRAP": [],
     "CTSV": [],
@@ -1114,8 +1110,7 @@
     ],
     "HarmonizR": [],
     "Harshlight": [
-        "altcdfenvs",
-        "makecdfenv"
+        "altcdfenvs"
     ],
     "HelloRanges": [],
     "hermes": [],
@@ -1293,7 +1288,6 @@
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "methylumi",
         "minfi",
         "siggenes"
@@ -1316,7 +1310,6 @@
         "Spectra",
         "xcms"
     ],
-    "makecdfenv": [],
     "maPredictDSC": [
         "ROC"
     ],
@@ -1497,8 +1490,7 @@
         "siggenes"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "MIRA": [
         "bsseq"
@@ -2492,9 +2484,7 @@
         "monocle"
     ],
     "VAExprs": [],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VariantExperiment": [
         "GDSArray"
     ],
