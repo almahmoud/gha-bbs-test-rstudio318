@@ -27,7 +27,6 @@
         "AnnotationHubData"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.ranges",
         "alabaster.sce",
@@ -36,7 +35,6 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
     "alabaster.mae": [
         "alabaster.ranges",
         "alabaster.se"
