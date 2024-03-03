@@ -343,7 +343,6 @@
     ],
     "cmapR": [],
     "cn.mops": [],
-    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -403,7 +402,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -958,7 +956,6 @@
     "LPEadj": [
         "LPE"
     ],
-    "lpNet": [],
     "lumi": [
         "methylumi",
         "minfi"
