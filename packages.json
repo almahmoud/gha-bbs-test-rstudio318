@@ -345,7 +345,6 @@
         "Rsamtools",
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [],
     "annaffy": [],
     "annmap": [
@@ -370,7 +369,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationHub",
         "BSgenome",
@@ -2354,7 +2352,6 @@
     "CoSIA": [
         "AnnotationHub",
         "ExperimentHub",
-        "annotationTools",
         "biomaRt"
     ],
     "cosmiq": [
@@ -3359,7 +3356,6 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "EnMCB": [],
     "ENmix": [
         "AnnotationHub",
         "BiocIO",
@@ -3544,7 +3540,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistack": [],
     "EpiTxDb": [
         "BiocIO",
         "GenomicAlignments",
@@ -5470,7 +5465,6 @@
         "Wrench",
         "metagenomeSeq"
     ],
-    "macat": [],
     "maCorrPlot": [],
     "MACSr": [
         "AnnotationHub",
@@ -6038,7 +6032,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "MethylMix": [],
     "methylMnM": [],
     "methylPipe": [
         "AnnotationFilter",
@@ -7484,7 +7477,6 @@
         "biodbChebi",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -8099,7 +8091,6 @@
         "biomaRt"
     ],
     "RandomWalkRestartMH": [],
-    "randPack": [],
     "RareVariantVis": [
         "AnnotationHub",
         "BSgenome",
@@ -8260,7 +8251,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationFilter",
         "BSgenome",
@@ -8905,7 +8895,6 @@
     "RTopper": [
         "multtest"
     ],
-    "Rtpca": [],
     "rtracklayer": [
         "BiocIO",
         "GenomicAlignments",
@@ -9374,7 +9363,6 @@
     "seq2pathway": [
         "biomaRt"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "BSgenome",
         "BiocIO",
@@ -9392,7 +9380,6 @@
         "ggtree",
         "heatmaps",
         "rtracklayer",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [],
@@ -9943,7 +9930,6 @@
         "rtracklayer"
     ],
     "speckle": [],
-    "SpeCond": [],
     "Spectra": [
         "MetaboCoreUtils",
         "MsCoreUtils"
@@ -10371,7 +10357,6 @@
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
-    "tidySummarizedExperiment": [],
     "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
@@ -10604,7 +10589,6 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "TTMap": [],
     "TurboNorm": [
         "affy",
         "affyio",
