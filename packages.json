@@ -42,7 +42,6 @@
     ],
     "AffyRNADegradation": [],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -268,7 +267,6 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BEARscc": [],
     "BEAT": [
         "ShortRead"
     ],
@@ -377,7 +375,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "mnem",
         "sva",
@@ -505,7 +502,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [
         "MAST"
     ],
@@ -521,7 +517,6 @@
     "CelliD": [],
     "cellity": [],
     "CellMixS": [],
-    "CellNOptR": [],
     "cellscape": [],
     "CEMiTool": [
         "DOSE",
@@ -689,7 +684,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "clusterSeq": [],
     "clustifyr": [],
     "cmapR": [
         "flowCore"
@@ -699,18 +693,10 @@
         "exomeCopy"
     ],
     "CNEr": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -823,7 +809,6 @@
         "piano"
     ],
     "Cormotif": [],
-    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -1161,7 +1146,6 @@
         "GSVA",
         "pathview"
     ],
-    "eiR": [],
     "ELMER": [
         "Gviz",
         "TCGAbiolinks",
@@ -1286,7 +1270,6 @@
     ],
     "esetVis": [],
     "eudysbiome": [],
-    "evaluomeR": [],
     "EventPointer": [
         "SGSeq"
     ],
@@ -2103,7 +2086,6 @@
         "vsn",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -2630,7 +2612,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
         "sva"
@@ -3219,7 +3200,6 @@
     ],
     "scGPS": [],
     "schex": [],
-    "scHOT": [],
     "scider": [
         "SpatialExperiment"
     ],
