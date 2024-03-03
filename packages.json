@@ -111,7 +111,6 @@
     "appreci8R": [
         "GenomicScores"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
         "affyContam",
         "lumi",
@@ -815,9 +814,7 @@
         "pathview",
         "zenith"
     ],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -1064,7 +1061,6 @@
         "OUTRIDER"
     ],
     "frma": [],
-    "frmaTools": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
