@@ -915,7 +915,6 @@
         "Category"
     ],
     "GOTHiC": [],
-    "GRaNIE": [],
     "granulator": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
@@ -1012,7 +1011,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category"
     ],
@@ -1684,7 +1682,6 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "restfulSE": [],
     "ReUseData": [
         "RcwlPipelines"
     ],
@@ -1928,7 +1925,6 @@
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
-    "SpidermiR": [],
     "spkTools": [],
     "SpliceWiz": [],
     "splineTimeR": [],
@@ -1950,9 +1946,7 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "statTarget": [
         "ROC"
@@ -1988,9 +1982,7 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
