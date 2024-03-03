@@ -53,7 +53,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -64,48 +63,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -256,7 +239,6 @@
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
-    "biodbMirbase": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -459,7 +441,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
@@ -564,7 +545,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [],
     "cola": [],
@@ -879,7 +859,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "enhancerHomologSearch": [
@@ -1324,9 +1303,7 @@
         "minfi",
         "siggenes"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1375,7 +1352,6 @@
     "InterMineR": [],
     "IONiseR": [],
     "iPAC": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1647,7 +1623,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -1709,8 +1684,7 @@
     ],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "TCGAbiolinks"
+        "GOstats"
     ],
     "missMethyl": [
         "methylumi",
@@ -1752,7 +1726,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2456,7 +2429,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [],
     "scp": [
         "QFeatures"
@@ -2698,7 +2670,6 @@
     "TCC": [
         "ROC"
     ],
-    "TCGAbiolinks": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot"
@@ -2843,7 +2814,6 @@
         "minfi",
         "siggenes"
     ],
-    "wavClusteR": [],
     "weaver": [],
     "webbioc": [
         "gcrma",
