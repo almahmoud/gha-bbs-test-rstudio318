@@ -270,9 +270,7 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -684,7 +682,6 @@
         "ncdfFlow"
     ],
     "globalSeq": [],
-    "gmapR": [],
     "GmicR": [
         "GOstats"
     ],
@@ -735,8 +732,7 @@
     "HMMcopy": [],
     "HPiP": [],
     "HTSeqGenie": [
-        "chipseq",
-        "gmapR"
+        "chipseq"
     ],
     "hummingbird": [],
     "ibh": [],
@@ -824,7 +820,6 @@
         "Maaslin2"
     ],
     "maCorrPlot": [],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "methylumi",
@@ -1302,7 +1297,6 @@
         "RcwlPipelines"
     ],
     "rgsepd": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
@@ -1398,7 +1392,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -1514,7 +1507,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TitanCNA": [],
     "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [
