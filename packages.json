@@ -22,19 +22,13 @@
         "GOstats",
         "ReportingTools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [],
     "AgiMicroRna": [
@@ -43,7 +37,6 @@
         "ReportingTools",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
     "AHMassBank": [
@@ -129,7 +122,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "gcrma",
         "vsn"
     ],
     "artMS": [],
@@ -209,9 +201,7 @@
     ],
     "BG2": [],
     "BgeeDB": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
@@ -265,9 +255,7 @@
         "dmrseq"
     ],
     "BiSeq": [],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [],
     "BLMA": [
         "ROntoTools"
@@ -791,7 +779,6 @@
     "DExMA": [
         "sva"
     ],
-    "DEXSeq": [],
     "DiffBind": [
         "systemPipeR"
     ],
@@ -802,9 +789,7 @@
     ],
     "DifferentialRegulation": [],
     "diffHic": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "distinct": [],
     "DMRcate": [
@@ -1108,7 +1093,6 @@
     "gatom": [],
     "GBScleanR": [],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
@@ -1342,7 +1326,6 @@
     ],
     "InterCellar": [],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles"
     ],
     "InterMineR": [],
@@ -1381,7 +1364,6 @@
     ],
     "iSeq": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "sva"
     ],
     "isomiRs": [
@@ -1477,8 +1459,7 @@
     ],
     "makecdfenv": [],
     "maPredictDSC": [
-        "ROC",
-        "gcrma"
+        "ROC"
     ],
     "mariner": [
         "plotgardener"
@@ -1488,9 +1469,7 @@
         "biovizBase"
     ],
     "maSigPro": [],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "mastR": [],
     "matchBox": [],
     "MatrixQCvis": [
@@ -1654,8 +1633,7 @@
     "MICSQTL": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -1910,7 +1888,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [],
     "npGSEA": [],
     "NTW": [],
@@ -1974,7 +1951,6 @@
         "motifmatchr"
     ],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "panelcn.mops": [
@@ -2810,7 +2786,6 @@
     ],
     "weaver": [],
     "webbioc": [
-        "gcrma",
         "vsn"
     ],
     "weitrix": [],
