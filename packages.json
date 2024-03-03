@@ -97,7 +97,6 @@
     "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "annmap": [],
     "AnnotationHubData": [
         "BiocCheck"
     ],
@@ -435,7 +434,6 @@
         "Rhisat2"
     ],
     "CiteFuse": [],
-    "ClassifyR": [],
     "clevRvis": [],
     "clipper": [],
     "cliqueMS": [
@@ -1264,7 +1262,6 @@
     "LinTInd": [],
     "lipidr": [],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -1372,7 +1369,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "Melissa": [],
     "meshes": [
         "DOSE",
         "enrichplot"
@@ -1927,7 +1923,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [],
     "PureCN": [],
     "pvca": [],
     "Pviz": [
@@ -2346,9 +2341,7 @@
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpidermiR": [],
     "spkTools": [],
     "splatter": [],
@@ -2439,9 +2432,7 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [
         "MSnbase"
     ],
