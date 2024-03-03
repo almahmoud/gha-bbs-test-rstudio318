@@ -130,7 +130,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "BadRegionFinder": [],
     "ballgown": [],
     "bandle": [
@@ -272,12 +271,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
     "celaref": [],
-    "celda": [],
     "CellBarcode": [],
     "cellHTS2": [
         "Category"
@@ -561,9 +558,7 @@
     ],
     "decompTumor2Sig": [],
     "DeconRNASeq": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "minfi"
     ],
@@ -572,7 +567,6 @@
     "DEGraph": [
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DeMixT": [
         "DSS"
     ],
@@ -925,7 +919,6 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "hermes": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1030,9 +1023,7 @@
     ],
     "iSeq": [],
     "IsoformSwitchAnalyzeR": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ivygapSE": [],
     "karyoploteR": [
         "biovizBase"
@@ -1755,9 +1746,7 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scFeatures": [
-        "AUCell"
-    ],
+    "scFeatures": [],
     "scider": [],
     "scifer": [],
     "scmeth": [
@@ -1841,8 +1830,7 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "TSCAN",
-        "celda"
+        "TSCAN"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -1948,7 +1936,6 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TEKRABber": [],
     "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
