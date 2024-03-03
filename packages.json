@@ -195,7 +195,6 @@
         "CGHcall",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [],
@@ -213,8 +212,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -223,7 +221,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -330,14 +327,12 @@
         "Gviz",
         "ROC",
         "biovizBase",
-        "bsseq",
         "lumi",
         "methylumi",
         "minfi",
         "missMethyl",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "biovizBase"
@@ -402,7 +397,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "clustifyr": [],
     "cmapR": [],
     "cn.mops": [],
     "CNORdt": [],
@@ -425,8 +419,7 @@
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "CoGAPS": [],
     "cogeqc": [],
@@ -605,8 +598,7 @@
     ],
     "DEGreport": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxSNP": [],
     "DEP": [
@@ -641,14 +633,12 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -662,9 +652,7 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easyRNASeq": [],
     "EBcoexpress": [],
     "EDASeq": [],
@@ -1109,8 +1097,7 @@
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "lemur": [],
@@ -1244,8 +1231,7 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
-        "bsseq"
+        "EDASeq"
     ],
     "MetCirc": [
         "Spectra"
@@ -1256,7 +1242,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -1277,8 +1262,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -1320,9 +1304,7 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1348,7 +1330,6 @@
         "xcms"
     ],
     "ModCon": [],
-    "MOFA2": [],
     "mogsa": [],
     "MoleculeExperiment": [],
     "MOMA": [],
@@ -1472,9 +1453,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -1893,10 +1872,8 @@
     ],
     "scider": [],
     "scifer": [],
-    "scMerge": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -1983,8 +1960,7 @@
     "singleCellTK": [
         "GSVA",
         "TSCAN",
-        "celda",
-        "scMerge"
+        "celda"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2015,8 +1991,7 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [],
     "sparrow": [],
