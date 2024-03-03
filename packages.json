@@ -260,9 +260,7 @@
         "Gviz",
         "monocle"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [],
     "clevRvis": [],
     "cliqueMS": [
@@ -319,7 +317,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [],
@@ -406,10 +403,7 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DAMEfinder": [],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -465,7 +459,6 @@
     ],
     "DrugVsDisease": [],
     "DSS": [],
-    "EDASeq": [],
     "edge": [],
     "EGSEA": [],
     "ELMER": [
@@ -614,8 +607,7 @@
     ],
     "GA4GHshiny": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "flowFP",
@@ -687,7 +679,6 @@
     "GSReg": [],
     "GUIDEseq": [],
     "Gviz": [],
-    "gwascat": [],
     "GWASTools": [
         "quantsmooth"
     ],
@@ -730,7 +721,6 @@
         "pcaExplorer"
     ],
     "IFAA": [],
-    "igvR": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
@@ -751,7 +741,6 @@
     "interactiveDisplay": [],
     "IntEREst": [],
     "InterMineR": [],
-    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -877,8 +866,7 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "MetCirc": [
         "Spectra"
@@ -1069,7 +1057,6 @@
     "NormalyzerDE": [],
     "NTW": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1271,7 +1258,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -1321,9 +1307,7 @@
     "Rqc": [],
     "rqt": [],
     "rSWeeP": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sagenhaft": [],
     "SBGNview": [],
     "SCAN.UPC": [],
@@ -1335,7 +1319,6 @@
     "scifer": [],
     "scmeth": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -1432,7 +1415,6 @@
         "Gviz"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -1515,9 +1497,7 @@
     ],
     "VCFArray": [],
     "Voyager": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "DiffBind"
     ],
