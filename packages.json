@@ -20,13 +20,11 @@
     ],
     "ADAMgui": [],
     "adductomicsR": [],
-    "ADImpute": [],
     "adSplit": [],
     "affyContam": [],
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -50,7 +48,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -321,7 +318,6 @@
         "geNetClassifier"
     ],
     "BiocCheck": [],
-    "biocGraph": [],
     "BiocHail": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
@@ -431,7 +427,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1091,7 +1086,6 @@
     ],
     "destiny": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "sva"
     ],
@@ -1617,14 +1611,12 @@
     "GEOmetadb": [],
     "GeomxTools": [],
     "GEOsubmission": [],
-    "GeoTcgaData": [],
     "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2",
         "vsn"
     ],
-    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1647,7 +1639,6 @@
         "ShortRead"
     ],
     "GISPA": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -2226,7 +2217,6 @@
         "minfi",
         "siggenes"
     ],
-    "MetID": [],
     "mfa": [],
     "Mfuzz": [],
     "MGFR": [],
@@ -2480,7 +2470,6 @@
     "MultiBaC": [
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "CRISPRseek",
         "Rbowtie",
@@ -2560,7 +2549,6 @@
     "nearBynding": [
         "plyranges"
     ],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2632,12 +2620,10 @@
         "OLIN"
     ],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
     "omicRexposome": [
-        "omicade4",
         "rexposome",
         "sva"
     ],
@@ -3301,7 +3287,6 @@
     ],
     "scmap": [],
     "scMerge": [],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq",
@@ -3324,7 +3309,6 @@
         "QFeatures"
     ],
     "scPipe": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "TrajectoryUtils",
         "slingshot"
