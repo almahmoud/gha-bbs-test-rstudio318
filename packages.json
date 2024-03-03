@@ -581,7 +581,6 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "pathview",
         "zenith"
     ],
@@ -605,7 +604,6 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "SPIA",
         "pathview"
     ],
     "enrichplot": [],
@@ -845,7 +843,6 @@
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "SPIA",
         "pathview"
     ],
     "gsean": [],
@@ -1762,7 +1759,6 @@
     ],
     "Spectra": [],
     "SpectralTAD": [],
-    "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
     "spkTools": [],
@@ -1924,7 +1920,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
         "pathview"
     ],
     "ZygosityPredictor": []
