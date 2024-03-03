@@ -142,7 +142,6 @@
     ],
     "BG2": [],
     "bgx": [],
-    "BiGGR": [],
     "bigmelon": [
         "ROC",
         "lumi",
@@ -399,9 +398,7 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -540,9 +537,7 @@
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DeMixT": [
         "DSS"
     ],
@@ -1306,7 +1301,6 @@
         "Spectra",
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [],
     "nempi": [
         "epiNEM"
@@ -1674,9 +1668,7 @@
     "Sconify": [],
     "scoreInvHap": [],
     "scp": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
         "ggbio"
@@ -1754,7 +1746,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [],
     "snapCGH": [
         "tilingArray"
@@ -1861,17 +1852,13 @@
         "Gviz",
         "biovizBase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [
         "chipseq"
     ],
     "transformGamPoi": [],
     "tRanslatome": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
