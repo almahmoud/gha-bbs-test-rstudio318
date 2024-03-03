@@ -1047,7 +1047,6 @@
     "GeneMeta": [],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
         "quantsmooth"
     ],
     "GeneStructureTools": [
@@ -2041,7 +2040,6 @@
     "RAIDS": [
         "GENESIS",
         "GWASTools",
-        "SeqVarTools",
         "quantsmooth"
     ],
     "rain": [],
@@ -2305,7 +2303,6 @@
     ],
     "seqCAT": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "SEtools": [
         "sechm",
         "sva"
