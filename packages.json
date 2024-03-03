@@ -246,8 +246,7 @@
     ],
     "ChIPexoQual": [],
     "ChIPQC": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -256,7 +255,6 @@
         "HilbertVis"
     ],
     "ChIPXpress": [],
-    "chromstaR": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
@@ -446,9 +444,7 @@
     ],
     "DEScan2": [],
     "DExMA": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -492,7 +488,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot"
@@ -546,7 +541,6 @@
     ],
     "fCCAC": [],
     "fCI": [],
-    "fcScan": [],
     "FEAST": [],
     "ffpe": [
         "lumi",
@@ -908,7 +902,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz"
     ],
@@ -1042,7 +1035,6 @@
         "dcanr"
     ],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MVCClass": [],
     "myvariant": [],
     "NADfinder": [
@@ -1270,9 +1262,7 @@
         "ggbio"
     ],
     "ReQON": [],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "ReUseData": [
         "RcwlPipelines"
     ],
@@ -1461,7 +1451,6 @@
     "synapter": [
         "MSnbase"
     ],
-    "systemPipeR": [],
     "tadar": [
         "Gviz"
     ],
@@ -1532,8 +1521,7 @@
         "gwascat"
     ],
     "vulcan": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "ROC",
