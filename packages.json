@@ -22,7 +22,6 @@
     "adductomicsR": [],
     "ADImpute": [],
     "adSplit": [],
-    "AffiXcan": [],
     "affyContam": [],
     "affycoretools": [
         "Category",
@@ -269,7 +268,6 @@
         "sva"
     ],
     "BayesSpace": [],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -300,9 +298,7 @@
         "gcrma"
     ],
     "BicARE": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "ROC",
         "bumphunter",
@@ -431,7 +427,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BufferedMatrixMethods": [],
     "bumphunter": [],
     "BUSpaRse": [
         "plyranges"
@@ -521,7 +516,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
@@ -606,7 +600,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -1800,7 +1793,6 @@
     ],
     "HTSFilter": [],
     "hummingbird": [],
-    "hyperdraw": [],
     "ibh": [],
     "icetea": [
         "ShortRead",
@@ -1855,7 +1847,6 @@
         "minfi",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "flowCore"
     ],
@@ -2054,7 +2045,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "martini": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -2168,7 +2158,6 @@
         "enrichplot"
     ],
     "metapone": [],
-    "metaSeq": [],
     "metaseqR2": [
         "DSS",
         "EDASeq",
@@ -2506,7 +2495,6 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz"
     ],
@@ -2660,7 +2648,6 @@
     "omicsPrint": [],
     "omicsViewer": [],
     "OncoScore": [],
-    "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
         "flowClust",
@@ -3247,7 +3234,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "RTopper": [],
     "rTRMui": [
         "MotifDb"
@@ -3338,7 +3324,6 @@
         "QFeatures"
     ],
     "scPipe": [],
-    "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "TrajectoryUtils",
@@ -3570,7 +3555,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [
         "MetaboCoreUtils"
     ],
