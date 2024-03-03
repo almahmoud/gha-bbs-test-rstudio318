@@ -954,9 +954,7 @@
     "maPredictDSC": [
         "ROC"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -1316,15 +1314,12 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "PLPE": [
         "LPE"
     ],
     "PoDCall": [],
     "pogos": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -1527,7 +1522,6 @@
         "minfi"
     ],
     "ROC": [],
-    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -1749,9 +1743,7 @@
         "ensemblVEP"
     ],
     "TypeInfo": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
