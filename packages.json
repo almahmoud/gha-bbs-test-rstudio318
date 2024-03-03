@@ -31,8 +31,7 @@
         "ggbio"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "airpart": [],
     "alabaster": [
@@ -87,9 +86,7 @@
     "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "AnnotationHubData": [
-        "BiocCheck"
-    ],
+    "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [],
@@ -179,7 +176,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocCheck": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
@@ -769,8 +765,7 @@
         "orthogene"
     ],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -905,9 +900,7 @@
         "PharmacoGx",
         "piano"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -1285,7 +1278,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "minfi"
     ],
@@ -1427,7 +1419,6 @@
         "easyRNASeq",
         "ggbio"
     ],
-    "msImpute": [],
     "msmsEDA": [
         "MSnbase"
     ],
@@ -1542,7 +1533,6 @@
     "NTW": [],
     "nucleR": [],
     "nullranges": [],
-    "OCplus": [],
     "octad": [
         "EDASeq",
         "GSVA",
