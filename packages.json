@@ -29,7 +29,6 @@
     "ACE": [
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "Rhtslib",
         "Rsamtools",
@@ -40,7 +39,6 @@
     ],
     "ACME": [],
     "ADaCGH2": [
-        "DNAcopy",
         "aCGH",
         "affy",
         "affyio",
@@ -134,7 +132,6 @@
     "aggregateBioVar": [
         "SingleCellExperiment"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "AnnotationFilter",
         "AnnotationForge",
@@ -384,7 +381,6 @@
         "sparseMatrixStats"
     ],
     "AneuFinder": [
-        "DNAcopy",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -519,7 +515,6 @@
         "marray"
     ],
     "arrayQualityMetrics": [
-        "BeadDataPackR",
         "affy",
         "affyPLM",
         "affyio",
@@ -830,13 +825,10 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "beadarray": [
-        "BeadDataPackR"
-    ],
+    "beadarray": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BeadDataPackR": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -1144,7 +1136,6 @@
         "BiocIO",
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GenomicAlignments",
@@ -1187,7 +1178,6 @@
         "genefilter"
     ],
     "blima": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "BLMA": [
@@ -1349,10 +1339,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
@@ -1565,7 +1552,6 @@
         "Rgraphviz",
         "genefilter"
     ],
-    "CausalR": [],
     "cbaf": [
         "BiocIO",
         "GenomicAlignments",
@@ -1759,7 +1745,6 @@
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "Rhtslib",
         "Rsamtools",
@@ -1786,18 +1771,15 @@
     ],
     "CGHcall": [
         "CGHbase",
-        "DNAcopy",
         "marray"
     ],
     "cghMCR": [
         "CNTools",
-        "DNAcopy",
         "genefilter"
     ],
     "CGHnormaliter": [
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "marray"
     ],
     "CGHregions": [
@@ -1810,7 +1792,6 @@
         "BSgenome",
         "BiocIO",
         "DMRcate",
-        "DNAcopy",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GEOquery",
@@ -2055,7 +2036,6 @@
         "rtracklayer"
     ],
     "CIMICE": [
-        "DNAcopy",
         "Rhtslib",
         "maftools"
     ],
@@ -2211,7 +2191,6 @@
         "rhdf5filters"
     ],
     "cn.farms": [
-        "DNAcopy",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -2221,9 +2200,7 @@
         "Rsamtools",
         "exomeCopy"
     ],
-    "CNAnorm": [
-        "DNAcopy"
-    ],
+    "CNAnorm": [],
     "CNEr": [
         "BiocIO",
         "GenomicAlignments",
@@ -2311,7 +2288,6 @@
     "CNVrd2": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -2517,7 +2493,6 @@
     "contiBAIT": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -2530,7 +2505,6 @@
     ],
     "conumee": [
         "BiocIO",
-        "DNAcopy",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomicAlignments",
@@ -2659,7 +2633,6 @@
     ],
     "cqn": [],
     "CRImage": [
-        "DNAcopy",
         "aCGH",
         "multtest"
     ],
@@ -2804,7 +2777,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ctc": [],
     "CTdata": [
         "AnnotationHub",
         "ExperimentHub",
@@ -3474,7 +3446,6 @@
         "sparseMatrixStats"
     ],
     "DNABarcodeCompatibility": [],
-    "DNAcopy": [],
     "DNAfusion": [
         "BiocIO",
         "GenomicAlignments",
@@ -3830,9 +3801,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "EpiDISH": [],
     "epigenomix": [
-        "BeadDataPackR",
         "Rhtslib",
         "Rsamtools",
         "beadarray"
@@ -4636,7 +4605,6 @@
     "GeneBreak": [
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "Rhtslib",
         "Rsamtools",
@@ -4665,7 +4633,6 @@
     "geneRxCluster": [],
     "GeneSelectMMD": [],
     "GENESIS": [
-        "DNAcopy",
         "GWASTools",
         "SNPRelate",
         "SeqArray",
@@ -4975,7 +4942,6 @@
     "GNET2": [],
     "GNOSIS": [
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
@@ -5190,13 +5156,11 @@
         "snpStats"
     ],
     "GWASTools": [
-        "DNAcopy",
         "quantsmooth"
     ],
     "gwasurvivr": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GWASTools",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5378,7 +5342,6 @@
         "SpatialExperiment"
     ],
     "hopach": [],
-    "HPAanalyze": [],
     "hpar": [
         "AnnotationHub",
         "ExperimentHub",
@@ -5752,10 +5715,7 @@
         "biomaRt"
     ],
     "IsoBayes": [],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -5819,7 +5779,6 @@
     "katdetectr": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -6037,7 +5996,6 @@
         "rtracklayer"
     ],
     "maftools": [
-        "DNAcopy",
         "Rhtslib"
     ],
     "MAGAR": [
@@ -6216,7 +6174,6 @@
         "beachmat"
     ],
     "mBPCR": [
-        "DNAcopy",
         "GWASTools",
         "affyio",
         "oligoClasses",
@@ -6246,7 +6203,6 @@
         "rtracklayer"
     ],
     "MDTS": [
-        "DNAcopy",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools"
@@ -6321,7 +6277,6 @@
     "MEDIPS": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -6820,7 +6775,6 @@
         "TreeSummarizedExperiment"
     ],
     "MICSQTL": [
-        "EpiDISH",
         "TOAST"
     ],
     "midasHLA": [
@@ -6893,7 +6847,6 @@
     "MinimumDistance": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -6937,7 +6890,6 @@
         "Rgraphviz",
         "TCGAbiolinks",
         "biomaRt",
-        "ctc",
         "genefilter"
     ],
     "miRNAmeConverter": [],
@@ -7188,8 +7140,7 @@
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
@@ -7378,9 +7329,7 @@
         "pcaMethods",
         "ropls"
     ],
-    "multiClust": [
-        "ctc"
-    ],
+    "multiClust": [],
     "multicrispr": [
         "AnnotationFilter",
         "BSgenome",
@@ -7476,7 +7425,6 @@
         "BSgenome",
         "BiocIO",
         "ComplexHeatmap",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -7770,7 +7718,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "nuCpos": [],
     "nullranges": [
         "BiocIO",
         "GenomicAlignments",
@@ -8015,7 +7962,6 @@
     "OutSplice": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Repitools",
@@ -8182,7 +8128,6 @@
         "vsn"
     ],
     "PECA": [
-        "DNAcopy",
         "ROTS",
         "affy",
         "affyio",
@@ -8430,7 +8375,6 @@
     ],
     "preciseTAD": [
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -8656,7 +8600,6 @@
     "PureCN": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -8695,8 +8638,7 @@
     "pwOmics": [
         "AnnotationHub",
         "biomaRt",
-        "interactiveDisplayBase",
-        "rBiopaxParser"
+        "interactiveDisplayBase"
     ],
     "qckitfastq": [
         "seqTools"
@@ -8705,7 +8647,6 @@
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
-        "DNAcopy",
         "Rhtslib",
         "Rsamtools",
         "marray"
@@ -8865,7 +8806,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GENESIS",
         "GWASTools",
         "GenomicAlignments",
@@ -8912,7 +8852,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "rawrr": [],
     "RbcBook1": [],
     "Rbec": [
         "GenomicAlignments",
@@ -8924,7 +8863,6 @@
     "RBGL": [],
     "RBioFormats": [],
     "RBioinf": [],
-    "rBiopaxParser": [],
     "RBM": [
         "marray"
     ],
@@ -8950,7 +8888,6 @@
     "rcellminer": [],
     "rCGH": [
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -9092,7 +9029,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "EpiDISH",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TOAST",
@@ -9185,7 +9121,6 @@
     "Repitools": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "Rhtslib",
         "Ringo",
@@ -9727,7 +9662,6 @@
     ],
     "rSWeeP": [],
     "RTCA": [],
-    "RTCGA": [],
     "RTCGAToolbox": [
         "BiocIO",
         "GenomicAlignments",
@@ -10086,7 +10020,6 @@
     "SCOPE": [
         "BSgenome",
         "BiocIO",
-        "DNAcopy",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -10744,7 +10677,6 @@
         "rtracklayer"
     ],
     "snapCGH": [
-        "DNAcopy",
         "aCGH",
         "affy",
         "affyio",
@@ -11267,7 +11199,6 @@
         "mzID",
         "mzR"
     ],
-    "TargetScore": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "BiocSingular",
@@ -11316,7 +11247,6 @@
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
-        "RTCGA",
         "TDbasedUFE",
         "enrichplot",
         "fgsea",
@@ -11427,9 +11357,7 @@
         "ggtree",
         "tkWidgets"
     ],
-    "TIN": [
-        "DNAcopy"
-    ],
+    "TIN": [],
     "TissueEnrich": [
         "GSEABase"
     ],
@@ -11473,9 +11401,7 @@
         "sparseMatrixStats"
     ],
     "TnT": [],
-    "TOAST": [
-        "EpiDISH"
-    ],
+    "TOAST": [],
     "tomoda": [],
     "tomoseqr": [],
     "TOP": [
@@ -11907,7 +11833,6 @@
         "sparseMatrixStats",
         "zellkonverter"
     ],
-    "VennDetail": [],
     "vidger": [
         "DESeq2"
     ],
