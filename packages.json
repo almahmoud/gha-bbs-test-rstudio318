@@ -850,7 +850,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RCy3",
         "genefilter"
     ],
     "cbaf": [
@@ -971,7 +970,6 @@
         "ComplexHeatmap",
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1034,7 +1032,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [],
     "chihaya": [
         "HDF5Array"
@@ -1149,7 +1146,6 @@
     "cleanUpdTSeq": [],
     "cleaver": [],
     "clevRvis": [],
-    "clippda": [],
     "clipper": [
         "KEGGgraph",
         "qpgraph"
@@ -1709,8 +1705,7 @@
     "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "ComplexHeatmap"
@@ -1892,7 +1887,6 @@
         "GOSemSim",
         "fgsea"
     ],
-    "doseR": [],
     "doubletrouble": [
         "MSA2dist",
         "syntenet"
@@ -2030,7 +2024,6 @@
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot",
         "fgsea",
         "ggtree"
@@ -2186,7 +2179,6 @@
         "biovizBase",
         "csaw"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "wiggleplotr"
@@ -2218,9 +2210,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "FELLA": [],
     "fenr": [],
     "ffpe": [
@@ -2681,7 +2671,6 @@
         "maftools"
     ],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [],
     "goProfiles": [],
     "GOSemSim": [],
@@ -2778,9 +2767,7 @@
         "quantsmooth"
     ],
     "h5vc": [],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -2865,7 +2852,6 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
-    "hypeR": [],
     "hyperdraw": [],
     "ibh": [],
     "iBMQ": [],
@@ -2986,7 +2972,6 @@
         "genefilter"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IntramiRExploreR": [],
     "IONiseR": [
         "ShortRead"
@@ -3171,8 +3156,7 @@
         "siggenes"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "msa"
+        "ggtree"
     ],
     "m6Aboost": [],
     "Maaslin2": [
@@ -3365,11 +3349,9 @@
         "BPRMeth"
     ],
     "memes": [],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot",
         "fgsea",
         "ggtree"
@@ -3377,7 +3359,6 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "genefilter"
     ],
     "MesKit": [
@@ -3437,7 +3418,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -3775,9 +3755,7 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "genefilter",
@@ -3817,9 +3795,7 @@
         "ggtree"
     ],
     "mosaics": [],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -3844,7 +3820,6 @@
     ],
     "MouseFM": [],
     "mpra": [],
-    "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -4137,8 +4112,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RCy3"
+        "KEGGgraph"
     ],
     "ncRNAtools": [],
     "ndexr": [],
@@ -4185,7 +4159,6 @@
         "GOstats",
         "GSEABase",
         "HDF5Array",
-        "RCy3",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -4199,7 +4172,6 @@
         "ScaledMatrix",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "ComplexHeatmap",
         "fgsea"
@@ -4252,9 +4224,7 @@
         "ShortRead",
         "beachmat"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "Gviz",
         "VariantAnnotation",
@@ -4857,7 +4827,6 @@
     "rain": [
         "multtest"
     ],
-    "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
@@ -4903,7 +4872,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "RCy3": [],
     "RCyjs": [
         "BrowserViz"
     ],
@@ -4989,7 +4957,6 @@
     "regsplice": [],
     "regutools": [
         "Gviz",
-        "RCy3",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -5118,7 +5085,6 @@
     ],
     "Rmagpie": [],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
         "affy",
@@ -5211,7 +5177,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "ROSeq": [],
     "RPA": [
         "affy",
         "affyio",
@@ -5487,7 +5452,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "enrichplot",
         "fgsea",
@@ -5533,7 +5497,6 @@
         "scater",
         "scuttle"
     ],
-    "SDAMS": [],
     "sechm": [
         "ComplexHeatmap"
     ],
@@ -6015,9 +5978,7 @@
     "SUITOR": [],
     "Summix": [],
     "supersigs": [],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "sva": [
         "genefilter"
     ],
@@ -6143,7 +6104,6 @@
         "DOSE",
         "GOSemSim",
         "Mfuzz",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -6224,9 +6184,7 @@
         "multtest",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [],
     "traviz": [
