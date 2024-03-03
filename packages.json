@@ -6,7 +6,6 @@
     "a4Base": [],
     "a4Classif": [],
     "ABarray": [],
-    "abseqR": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -66,9 +65,7 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "airpart": [
-        "apeglm"
-    ],
+    "airpart": [],
     "alabaster": [
         "SpatialExperiment",
         "VariantAnnotation",
@@ -138,9 +135,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "altcdfenvs": [
         "makecdfenv"
     ],
@@ -149,10 +144,7 @@
         "ShortRead"
     ],
     "Anaquin": [],
-    "ANCOMBC": [
-        "TreeSummarizedExperiment",
-        "mia"
-    ],
+    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -171,7 +163,6 @@
         "VariantAnnotation"
     ],
     "apComplex": [],
-    "apeglm": [],
     "APL": [],
     "appreci8R": [
         "GenomicScores",
@@ -278,7 +269,6 @@
     "BatchQC": [
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [],
     "bayNorm": [],
     "BBCAnalyzer": [
@@ -299,11 +289,8 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "TreeSummarizedExperiment",
         "biomformat",
         "metagenomeSeq",
-        "mia",
-        "mixOmics",
         "phyloseq",
         "zinbwave"
     ],
@@ -346,7 +333,6 @@
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSet": [],
-    "BiocSingular": [],
     "BiocSklearn": [],
     "biodbChebi": [],
     "biodbExpasy": [],
@@ -524,8 +510,7 @@
         "cBioPortalData"
     ],
     "CBEA": [
-        "BiocSet",
-        "TreeSummarizedExperiment"
+        "BiocSet"
     ],
     "cBioPortalData": [
         "RTCGAToolbox",
@@ -643,7 +628,6 @@
         "DiffBind",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "chipseq",
         "systemPipeR"
     ],
@@ -1046,7 +1030,6 @@
     "debrowser": [
         "DOSE",
         "KEGGgraph",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "pathview",
@@ -1092,9 +1075,7 @@
         "MSnbase",
         "vsn"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1127,7 +1108,6 @@
     "DiffBind": [
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "systemPipeR"
     ],
     "diffcoexp": [],
@@ -1166,7 +1146,6 @@
         "bumphunter",
         "regioneR"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -1325,9 +1304,7 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ERSSA": [
-        "apeglm"
-    ],
+    "ERSSA": [],
     "esATAC": [
         "CNEr",
         "ChIPseeker",
@@ -1366,8 +1343,7 @@
         "OrganismDbi"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
-        "TreeSummarizedExperiment"
+        "SpatialExperiment"
     ],
     "extraChIPs": [
         "EnrichedHeatmap",
@@ -1641,17 +1617,14 @@
         "VariantAnnotation"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "sva"
     ],
     "GEOfastq": [],
     "GEOmetadb": [],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
     "gep2pep": [],
@@ -1733,7 +1706,6 @@
         "SPIA",
         "pathview"
     ],
-    "GSEAlm": [],
     "gsean": [
         "PPInfer"
     ],
@@ -1866,7 +1838,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [
         "flowCore",
         "flowWorkspace",
@@ -1989,7 +1960,6 @@
         "sva"
     ],
     "LACE": [],
-    "lefser": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -2273,16 +2243,8 @@
     "mfa": [],
     "Mfuzz": [],
     "MGFR": [],
-    "mia": [
-        "TreeSummarizedExperiment"
-    ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
-    "miaViz": [
-        "TreeSummarizedExperiment",
-        "mia"
-    ],
+    "miaSim": [],
+    "miaViz": [],
     "microbiome": [
         "biomformat",
         "phyloseq"
@@ -2299,10 +2261,8 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "biomformat",
         "metagenomeSeq",
-        "mia",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2313,9 +2273,7 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "microSTASIS": [
-        "TreeSummarizedExperiment"
-    ],
+    "microSTASIS": [],
     "MICSQTL": [
         "TOAST"
     ],
@@ -2355,7 +2313,6 @@
         "GOstats",
         "TCGAbiolinks"
     ],
-    "miRNAtap": [],
     "missMethyl": [
         "bumphunter",
         "methylumi",
@@ -2367,7 +2324,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "mixOmics": [],
     "MLInterfaces": [],
     "MLSeq": [],
     "MMDiff2": [],
@@ -2597,7 +2553,6 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "NanoStringNCTools": [],
     "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
@@ -2706,7 +2661,6 @@
     ],
     "omicsPrint": [],
     "omicsViewer": [],
-    "ompBAM": [],
     "OncoScore": [],
     "OncoSimulR": [],
     "ontoProc": [],
@@ -2754,7 +2708,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
@@ -2810,9 +2763,7 @@
     "PepsNMR": [],
     "periodicDNA": [],
     "phantasus": [],
-    "phantasusLite": [
-        "rhdf5client"
-    ],
+    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -2874,9 +2825,7 @@
     "pogos": [
         "ontoProc"
     ],
-    "POMA": [
-        "mixOmics"
-    ],
+    "POMA": [],
     "POWSC": [
         "MAST"
     ],
@@ -3149,9 +3098,7 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [
-        "rhdf5client"
-    ],
+    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -3169,7 +3116,6 @@
     "rgsepd": [
         "goseq"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -3221,9 +3167,7 @@
         "MSnbase",
         "vsn"
     ],
-    "Rmmquant": [
-        "apeglm"
-    ],
+    "Rmmquant": [],
     "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
@@ -3339,7 +3283,6 @@
     "SCArray.sat": [
         "SCArray"
     ],
-    "scater": [],
     "scBFA": [
         "zinbwave"
     ],
@@ -3612,8 +3555,7 @@
         "SpatialExperiment"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
@@ -3621,8 +3563,7 @@
     ],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "spatzie": [
         "CNEr",
@@ -3651,15 +3592,11 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spiky": [],
     "spkTools": [],
     "splatter": [],
-    "SpliceWiz": [
-        "ompBAM"
-    ],
+    "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
@@ -3683,7 +3620,6 @@
     ],
     "sSNAPPY": [],
     "ssviz": [],
-    "stageR": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3696,8 +3632,7 @@
         "vsn"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap"
+        "SpidermiR"
     ],
     "STATegRa": [],
     "Statial": [
@@ -3771,14 +3706,11 @@
         "DOSE",
         "enrichplot"
     ],
-    "TEKRABber": [
-        "apeglm"
-    ],
+    "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
         "ontoProc",
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "TEQC": [],
     "terraTCGAdata": [
@@ -3797,9 +3729,7 @@
         "vsn"
     ],
     "timecourse": [],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "Mfuzz",
@@ -3865,7 +3795,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "TreeSummarizedExperiment": [],
     "TRESS": [],
     "tricycle": [],
     "trigger": [
@@ -3972,7 +3901,6 @@
         "DiffBind",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "csaw",
         "regioneR",
         "systemPipeR"
@@ -3994,7 +3922,6 @@
     ],
     "weitrix": [],
     "wiggleplotr": [],
-    "wppi": [],
     "xcms": [
         "MSnbase",
         "MetaboCoreUtils",
