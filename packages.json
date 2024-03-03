@@ -14,7 +14,6 @@
         "multtest"
     ],
     "abseqR": [],
-    "ABSSeq": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -527,7 +526,6 @@
     "branchpointer": [],
     "breakpointR": [],
     "BRGenomics": [],
-    "BrowserViz": [],
     "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
@@ -1432,12 +1430,10 @@
     ],
     "easylift": [],
     "easyRNASeq": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "EBcoexpress": [],
     "EBSEA": [],
-    "EBSeqHMM": [],
     "EDASeq": [
         "ShortRead"
     ],
@@ -1674,7 +1670,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [],
-    "FELLA": [],
     "fenr": [],
     "ffpe": [
         "bumphunter",
@@ -1684,7 +1679,6 @@
         "multtest",
         "siggenes"
     ],
-    "fgga": [],
     "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [],
@@ -1841,7 +1835,6 @@
     ],
     "GBScleanR": [],
     "gcapc": [],
-    "gcatest": [],
     "gCrisprTools": [
         "ComplexHeatmap"
     ],
@@ -1919,7 +1912,6 @@
     "genomation": [
         "seqPattern"
     ],
-    "genomeIntervals": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2002,8 +1994,7 @@
         "ggtree"
     ],
     "girafe": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "GSEABase"
@@ -2125,7 +2116,6 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "VariantAnnotation"
     ],
@@ -2221,7 +2211,6 @@
     "idiogram": [],
     "IFAA": [],
     "igvR": [
-        "BrowserViz",
         "VariantAnnotation"
     ],
     "ILoReg": [],
@@ -2658,7 +2647,6 @@
     ],
     "metaSeq": [],
     "metaseqR2": [
-        "ABSSeq",
         "DSS",
         "EDASeq",
         "ShortRead",
@@ -2995,7 +2983,6 @@
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
-        "genomeIntervals",
         "ggbio"
     ],
     "msImpute": [],
@@ -3299,7 +3286,6 @@
         "fgsea"
     ],
     "ompBAM": [],
-    "oncomix": [],
     "oncoscanR": [],
     "OncoScore": [],
     "OncoSimulR": [],
@@ -3684,7 +3670,6 @@
     "qsmooth": [
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "sva"
     ],
@@ -3771,9 +3756,7 @@
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [
@@ -3939,7 +3922,6 @@
         "ComplexHeatmap",
         "regioneR"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "MSnbase",
         "MsCoreUtils",
@@ -4214,7 +4196,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SELEX": [],
     "SemDist": [],
     "semisup": [],
     "seq2pathway": [],
@@ -4225,14 +4206,12 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "heatmaps",
         "seqPattern"
     ],
     "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SeqGate": [],
     "SeqGSEA": [],
     "seqPattern": [],
     "seqsetvis": [],
@@ -4539,7 +4518,6 @@
     "statTarget": [
         "ROC"
     ],
-    "STdeconvolve": [],
     "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
