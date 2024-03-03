@@ -235,7 +235,6 @@
     "BEAT": [
         "ShortRead"
     ],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -841,7 +840,6 @@
         "celda"
     ],
     "deconvR": [
-        "methylKit",
         "minfi",
         "siggenes"
     ],
@@ -1363,7 +1361,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category"
     ],
@@ -1613,7 +1610,6 @@
         "LPE"
     ],
     "lpNet": [],
-    "LRcell": [],
     "lumi": [
         "methylumi",
         "minfi",
@@ -1773,9 +1769,7 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -1806,10 +1800,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
@@ -2118,7 +2109,6 @@
     "nondetects": [
         "HTqPCR"
     ],
-    "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
     ],
@@ -2155,7 +2145,6 @@
         "HelloRanges"
     ],
     "omicsViewer": [],
-    "OncoScore": [],
     "openCyto": [
         "flowClust",
         "flowCore",
@@ -2539,7 +2528,6 @@
     "RiboCrypt": [
         "ORFik"
     ],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
         "biovizBase",
@@ -3162,7 +3150,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
