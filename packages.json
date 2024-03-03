@@ -308,7 +308,6 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "gwascat"
     ],
@@ -1644,7 +1643,6 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [],
     "similaRpeak": [],
     "simpleSeg": [],
     "singleCellTK": [],
@@ -1676,7 +1674,6 @@
         "annotatr"
     ],
     "SpacePAC": [],
-    "sparrow": [],
     "SpatialDecon": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
