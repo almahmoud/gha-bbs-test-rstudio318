@@ -138,7 +138,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [],
     "annmap": [],
     "AnnotationHubData": [
         "BiocCheck",
@@ -271,7 +270,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "MAST",
         "Maaslin2",
         "metagenomeSeq",
         "zinbwave"
@@ -495,9 +493,7 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBarcode": [
         "ShortRead"
@@ -1565,7 +1561,6 @@
         "maftools"
     ],
     "GOexpress": [],
-    "GOpro": [],
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
@@ -1838,7 +1833,6 @@
     "lineagespot": [
         "VariantAnnotation"
     ],
-    "LinkHD": [],
     "LinTInd": [],
     "lipidr": [
         "ropls"
@@ -1932,7 +1926,6 @@
     "maskBAD": [
         "gcrma"
     ],
-    "MAST": [],
     "mastR": [],
     "matchBox": [],
     "MatrixQCvis": [
@@ -2483,7 +2476,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "OncoScore": [],
     "ontoProc": [],
@@ -2509,7 +2501,6 @@
     "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthogene": [],
     "orthos": [],
@@ -2638,9 +2629,7 @@
         "ontoProc"
     ],
     "POMA": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [],
     "pram": [],
     "prebs": [
@@ -3088,14 +3077,11 @@
     "scDD": [],
     "scDDboost": [],
     "scde": [],
-    "scDesign3": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
         "SingleCellSignalR"
     ],
-    "schex": [],
     "scider": [],
     "scifer": [
         "flowCore"
@@ -3106,7 +3092,6 @@
         "bsseq",
         "regioneR"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
@@ -3140,12 +3125,9 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "bumphunter",
@@ -3249,12 +3231,10 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
-        "MAST",
         "TSCAN",
         "celda",
         "scDblFinder",
         "scMerge",
-        "scds",
         "sva",
         "zinbwave"
     ],
@@ -3543,7 +3523,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TRONCO": [],
     "TSCAN": [],
     "TurboNorm": [
         "convert"
@@ -3559,7 +3538,6 @@
     "TypeInfo": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener",
         "plyranges"
     ],
