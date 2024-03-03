@@ -405,7 +405,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "cola": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -458,7 +457,6 @@
     ],
     "cosmosR": [],
     "COTAN": [],
-    "cpvSNP": [],
     "CRImage": [],
     "crisprBowtie": [
         "Rbowtie"
@@ -1106,7 +1104,6 @@
     ],
     "maSigPro": [],
     "maskBAD": [],
-    "mastR": [],
     "matchBox": [],
     "MatrixQCvis": [],
     "MatrixRider": [
@@ -1501,7 +1498,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "Category",
         "GOstats"
