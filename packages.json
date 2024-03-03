@@ -190,7 +190,6 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "BloodGen3Module": [],
     "bnbc": [],
     "bnem": [
         "epiNEM"
@@ -1072,7 +1071,6 @@
         "pathview"
     ],
     "magpie": [],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1127,7 +1125,6 @@
     "meshr": [
         "Category"
     ],
-    "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "Spectra"
@@ -1830,7 +1827,6 @@
         "QuasR",
         "Rbowtie"
     ],
-    "singscore": [],
     "skewr": [
         "ROC",
         "lumi",
@@ -1874,7 +1870,6 @@
     "SPIAT": [],
     "spicyR": [],
     "spkTools": [],
-    "SpliceWiz": [],
     "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
@@ -1920,8 +1915,7 @@
     ],
     "TADCompare": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "singscore"
+        "ASSIGN"
     ],
     "TCC": [
         "ROC"
