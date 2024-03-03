@@ -494,17 +494,14 @@
     ],
     "crisprDesign": [
         "Rbowtie",
-        "crisprBowtie",
-        "crisprScore"
+        "crisprBowtie"
     ],
-    "crisprScore": [],
     "crisprVerse": [
         "Gviz",
         "Rbowtie",
         "biovizBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
@@ -512,8 +509,7 @@
         "Rbowtie",
         "biovizBase",
         "crisprBowtie",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [],
     "CTSV": [],
@@ -1310,7 +1306,6 @@
     ],
     "microSTASIS": [],
     "MICSQTL": [],
-    "miloR": [],
     "mimager": [
         "affyPLM"
     ],
@@ -2217,7 +2212,6 @@
     ],
     "weaver": [],
     "webbioc": [],
-    "weitrix": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
