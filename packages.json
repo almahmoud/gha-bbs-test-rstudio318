@@ -5,7 +5,6 @@
     "a4Base": [],
     "ABarray": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -313,7 +312,6 @@
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
@@ -342,7 +340,6 @@
         "VariantAnnotation"
     ],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "OrganismDbi",
         "QDNAseq",
@@ -528,7 +525,6 @@
     ],
     "CFAssay": [],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -536,20 +532,14 @@
         "plyranges"
     ],
     "cfTools": [],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "CNTools"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -854,7 +844,6 @@
         "sva"
     ],
     "csaw": [],
-    "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
     "CTSV": [],
@@ -1461,7 +1450,6 @@
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -2322,7 +2310,6 @@
     "MSstatsTMT": [
         "MSstats"
     ],
-    "MuData": [],
     "MultiBaC": [
         "ropls"
     ],
@@ -2426,7 +2413,6 @@
     ],
     "NewWave": [],
     "nipalsMCIA": [],
-    "nnNorm": [],
     "nnSVG": [],
     "nondetects": [
         "HTqPCR"
@@ -2730,7 +2716,6 @@
     "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "QFeatures": [],
@@ -3408,7 +3393,6 @@
         "HiCcompare"
     ],
     "tanggle": [],
-    "TAPseq": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -3427,7 +3411,6 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "TENxIO": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
@@ -3447,7 +3430,6 @@
     "tilingArray": [
         "vsn"
     ],
-    "timecourse": [],
     "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
@@ -3477,7 +3459,6 @@
         "piano"
     ],
     "TPP": [],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "VariantAnnotation",
@@ -3565,7 +3546,6 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "VarCon": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray"
