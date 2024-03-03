@@ -1043,7 +1043,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneMeta": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
@@ -1847,7 +1846,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "pareg": [
         "DOSE"
     ],
@@ -2640,7 +2638,6 @@
         "Spectra"
     ],
     "XDE": [
-        "GeneMeta",
         "siggenes"
     ],
     "Xeva": [
