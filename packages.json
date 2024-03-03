@@ -730,9 +730,7 @@
     ],
     "escheR": [],
     "EventPointer": [],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -1508,7 +1506,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "orthogene": [],
     "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
@@ -1838,7 +1835,6 @@
     "SCAN.UPC": [],
     "SCArray.sat": [],
     "scBFA": [],
-    "scBubbletree": [],
     "scClassify": [
         "Cepo"
     ],
