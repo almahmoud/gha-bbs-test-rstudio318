@@ -9,7 +9,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "adSplit": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -78,7 +77,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
         "biovizBase"
@@ -168,7 +166,6 @@
     ],
     "BEAT": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "Maaslin2",
         "metagenomeSeq"
@@ -780,7 +777,6 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1402,7 +1398,6 @@
         "metagenomeSeq"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "metagenomeSeq"
     ],
@@ -1653,9 +1648,7 @@
         "biovizBase"
     ],
     "OLINgui": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "rexposome"
     ],
@@ -2342,13 +2335,8 @@
     "tricycle": [],
     "trigger": [],
     "trio": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TSCAN": [],
     "TurboNorm": [],
     "TVTB": [
