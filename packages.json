@@ -307,7 +307,6 @@
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocPkgTools": [],
-    "BiocSet": [],
     "BiocSklearn": [],
     "biodbChebi": [],
     "biodbExpasy": [],
@@ -315,7 +314,6 @@
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
-    "biodbNci": [],
     "biodbUniprot": [],
     "BioMVCClass": [
         "MVCClass"
@@ -372,8 +370,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -399,9 +396,7 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -473,9 +468,7 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "BiocSet"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils"
@@ -528,9 +521,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [],
     "cghMCR": [
@@ -853,7 +844,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -1486,8 +1476,7 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "plyranges"
+        "genomation"
     ],
     "GenomicScores": [],
     "GenomicSuperSignature": [],
@@ -1548,7 +1537,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
@@ -1569,7 +1557,6 @@
         "iPAC"
     ],
     "GreyListChIP": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1721,8 +1708,7 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [],
     "InTAD": [],
@@ -1800,8 +1786,7 @@
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "maftools"
     ],
     "KCsmart": [
         "siggenes"
@@ -1902,8 +1887,7 @@
         "gcrma"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -2039,7 +2023,6 @@
         "bsseq",
         "bumphunter",
         "minfi",
-        "plyranges",
         "siggenes"
     ],
     "methylclock": [
@@ -2320,7 +2303,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -2383,9 +2365,7 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "nempi": [
         "epiNEM"
     ],
@@ -2430,9 +2410,7 @@
     "nucleR": [
         "ShortRead"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "OCplus": [],
     "octad": [
         "EDASeq",
@@ -2598,16 +2576,11 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "PLPE": [
         "LPE"
     ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "pmp": [],
     "PoDCall": [],
     "podkat": [],
@@ -2995,7 +2968,6 @@
         "siggenes"
     ],
     "Rnits": [],
-    "roar": [],
     "ROC": [],
     "ROntoTools": [],
     "ropls": [],
@@ -3031,9 +3003,7 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
@@ -3146,7 +3116,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SeqGSEA": [],
     "seqsetvis": [],
     "SeqSQC": [],
     "SeqVarTools": [],
@@ -3275,9 +3244,7 @@
         "iPAC"
     ],
     "Spaniel": [],
-    "sparrow": [
-        "BiocSet"
-    ],
+    "sparrow": [],
     "SparseSignatures": [],
     "spaSim": [],
     "spatialDE": [],
@@ -3415,7 +3382,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -3519,8 +3485,7 @@
     "TypeInfo": [],
     "UCell": [],
     "Ularcirc": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "Rbowtie2",
