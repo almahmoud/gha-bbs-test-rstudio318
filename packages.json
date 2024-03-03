@@ -5,9 +5,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "aCGH": [],
     "ADaCGH2": [
-        "aCGH",
         "snapCGH",
         "tilingArray"
     ],
@@ -537,9 +535,7 @@
         "PCAtools"
     ],
     "cpvSNP": [],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBowtie": [
         "Rbowtie"
     ],
@@ -1639,7 +1635,6 @@
         "quantro",
         "yarn"
     ],
-    "NewWave": [],
     "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
@@ -1785,7 +1780,6 @@
         "RPA"
     ],
     "preciseTAD": [
-        "aCGH",
         "rCGH"
     ],
     "primirTSS": [
@@ -1893,9 +1887,7 @@
         "genomation"
     ],
     "RCASPAR": [],
-    "rCGH": [
-        "aCGH"
-    ],
+    "rCGH": [],
     "RCM": [],
     "Rcwl": [],
     "RcwlPipelines": [
@@ -2190,7 +2182,6 @@
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [
-        "aCGH",
         "tilingArray"
     ],
     "snifter": [],
