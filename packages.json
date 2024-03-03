@@ -299,7 +299,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
@@ -469,7 +468,6 @@
         "Spectra"
     ],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -667,7 +665,6 @@
     "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [],
-    "distinct": [],
     "DMRcate": [
         "Gviz",
         "biovizBase",
