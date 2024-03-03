@@ -196,8 +196,7 @@
         "ALDEx2",
         "ANCOMBC",
         "Maaslin2",
-        "metagenomeSeq",
-        "zinbwave"
+        "metagenomeSeq"
     ],
     "BG2": [],
     "BgeeDB": [],
@@ -490,8 +489,7 @@
         "vsn"
     ],
     "clusterExperiment": [
-        "mbkmeans",
-        "zinbwave"
+        "mbkmeans"
     ],
     "clusterProfiler": [
         "DOSE",
@@ -1868,8 +1866,7 @@
     "NetPathMiner": [],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
-        "zinbwave"
+        "mbkmeans"
     ],
     "netZooR": [
         "Category",
@@ -1987,7 +1984,6 @@
         "MSnbase",
         "vsn"
     ],
-    "PECA": [],
     "peco": [],
     "PepsNMR": [],
     "phantasus": [],
@@ -2362,9 +2358,7 @@
     "SCArray.sat": [
         "SCArray"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scBubbletree": [],
     "scCB2": [],
     "scClassify": [
@@ -2499,8 +2493,7 @@
         "celda",
         "scDblFinder",
         "scMerge",
-        "sva",
-        "zinbwave"
+        "sva"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2821,6 +2814,5 @@
         "SPIA",
         "pathview"
     ],
-    "zinbwave": [],
     "ZygosityPredictor": []
 }
