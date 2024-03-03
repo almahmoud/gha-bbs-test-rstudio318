@@ -853,7 +853,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -883,7 +882,6 @@
     ],
     "ggspavis": [],
     "girafe": [],
-    "GISPA": [],
     "globalSeq": [],
     "gmapR": [],
     "GmicR": [
@@ -1846,7 +1844,6 @@
     ],
     "SimBu": [],
     "similaRpeak": [],
-    "simona": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -1867,7 +1864,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [
