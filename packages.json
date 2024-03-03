@@ -274,7 +274,6 @@
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbMirbase": [],
     "BioMVCClass": [
@@ -582,9 +581,7 @@
         "flowCore"
     ],
     "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -594,7 +591,6 @@
         "CopyNumberPlots",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -602,13 +598,10 @@
         "CopyNumberPlots",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray"
     ],
@@ -660,18 +653,15 @@
     ],
     "consICA": [],
     "contiBAIT": [
-        "GenomicFiles",
-        "exomeCopy"
+        "GenomicFiles"
     ],
     "conumee": [
         "minfi",
         "siggenes"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -680,7 +670,6 @@
     ],
     "Cormotif": [],
     "coseq": [],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -954,7 +943,6 @@
     "edge": [
         "sva"
     ],
-    "EGAD": [],
     "EGSEA": [
         "GSVA",
         "pathview"
@@ -985,8 +973,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1052,8 +1039,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -1067,7 +1053,6 @@
         "orthogene"
     ],
     "ExiMiR": [],
-    "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -1341,7 +1326,6 @@
     ],
     "GISPA": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "globalSeq": [],
     "gmapR": [],
@@ -1437,7 +1421,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "HiLDA": [],
     "hipathia": [],
     "hiReadsProcessor": [],
     "HiTC": [],
@@ -2189,8 +2172,7 @@
         "sva"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -2240,7 +2222,6 @@
         "monocle"
     ],
     "phenomis": [
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -2266,7 +2247,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "plier": [],
     "PloGO2": [
         "Category",
@@ -2432,7 +2412,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBM": [],
     "Rbowtie": [],
     "Rbowtie2": [],
     "RCAS": [
@@ -2516,7 +2495,6 @@
     ],
     "rexposome": [],
     "rGADEM": [],
-    "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
         "regioneR"
@@ -2727,9 +2705,7 @@
     "segmentSeq": [
         "ShortRead"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -2972,7 +2948,6 @@
     ],
     "terraTCGAdata": [],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -3047,9 +3022,7 @@
         "tRNA"
     ],
     "TSCAN": [],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "biovizBase",
