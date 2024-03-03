@@ -616,7 +616,6 @@
         "bsseq"
     ],
     "demuxSNP": [],
-    "densvis": [],
     "DEP": [
         "MSnbase"
     ],
@@ -754,8 +753,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "EventPointer": [],
@@ -856,7 +854,6 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -1906,7 +1903,6 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scDblFinder": [],
     "scde": [],
     "scFeatures": [
         "AUCell",
@@ -2006,7 +2002,6 @@
         "GSVA",
         "TSCAN",
         "celda",
-        "scDblFinder",
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
@@ -2190,7 +2185,6 @@
         "ensemblVEP"
     ],
     "TypeInfo": [],
-    "UCell": [],
     "Ularcirc": [
         "plotgardener"
     ],
