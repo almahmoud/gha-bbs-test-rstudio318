@@ -201,7 +201,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocPkgTools": [],
     "BiocSklearn": [],
     "BioMVCClass": [
         "MVCClass"
@@ -283,7 +282,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -296,9 +294,7 @@
     ],
     "cardelino": [],
     "Cardinal": [],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "FlowSOM"
     ],
@@ -426,7 +422,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -534,7 +529,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -828,7 +822,6 @@
         "UCell"
     ],
     "escheR": [],
-    "esetVis": [],
     "EventPointer": [],
     "EWCE": [
         "orthogene"
@@ -871,7 +864,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -942,7 +934,6 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "gaga": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq"
@@ -1175,7 +1166,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1232,7 +1222,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1275,7 +1264,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1336,7 +1324,6 @@
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
     "MetaboCoreUtils": [],
@@ -1356,7 +1343,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1477,7 +1463,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1534,7 +1519,6 @@
     ],
     "MsExperiment": [
         "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
     "MsFeatures": [],
@@ -1558,13 +1542,10 @@
         "msmsTests"
     ],
     "MSPrep": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsBig": [],
@@ -1632,7 +1613,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1808,7 +1788,6 @@
         "aCGH",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -1851,9 +1830,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase"
@@ -1868,7 +1845,6 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "QFeatures": [],
     "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase"
@@ -2001,7 +1977,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -2106,9 +2081,7 @@
     ],
     "Sconify": [],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scRNAseqApp": [
         "slingshot"
@@ -2459,7 +2432,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra"
     ],
     "XDE": [],
