@@ -354,7 +354,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "coMethDMR": [],
     "compEpiTools": [
         "Gviz",
         "biovizBase",
@@ -1333,7 +1332,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "PureCN": [],
     "pvca": [],
     "Pviz": [
         "Gviz",
@@ -1542,7 +1540,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqCAT": [],
     "SeqSQC": [],
     "SEtools": [],
     "SGCP": [
@@ -1708,7 +1705,6 @@
         "biovizBase"
     ],
     "unifiedWMWqPCR": [],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
