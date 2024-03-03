@@ -325,7 +325,6 @@
         "Rhisat2"
     ],
     "clevRvis": [],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -872,7 +871,6 @@
     "hiReadsProcessor": [],
     "hmdbQuery": [],
     "HMMcopy": [],
-    "hoodscanR": [],
     "HPiP": [],
     "HTSeqGenie": [
         "VariantTools",
