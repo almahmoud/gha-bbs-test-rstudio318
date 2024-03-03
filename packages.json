@@ -289,7 +289,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "CelliD": [],
     "cellscape": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -388,9 +387,7 @@
     "CluMSID": [
         "MSnbase"
     ],
-    "clusterExperiment": [
-        "mbkmeans"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -1166,7 +1163,6 @@
         "TFBSTools"
     ],
     "MBECS": [],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -1426,7 +1422,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "mumosa": [],
     "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
@@ -1464,8 +1459,7 @@
     ],
     "NetPathMiner": [],
     "netSmooth": [
-        "clusterExperiment",
-        "mbkmeans"
+        "clusterExperiment"
     ],
     "netZooR": [
         "Category",
@@ -1844,10 +1838,7 @@
         "pathview"
     ],
     "SCAN.UPC": [],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [],
     "scBubbletree": [],
     "scClassify": [
@@ -1857,8 +1848,7 @@
     "scde": [],
     "scFeatures": [
         "AUCell",
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "scider": [],
     "scifer": [],
@@ -1946,7 +1936,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "TSCAN",
