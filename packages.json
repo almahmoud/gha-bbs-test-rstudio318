@@ -2,21 +2,16 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "a4Core",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
-        "a4Core",
         "annaffy",
         "genefilter",
         "multtest"
     ],
-    "a4Classif": [
-        "a4Core"
-    ],
-    "a4Core": [],
+    "a4Classif": [],
     "ABarray": [
         "multtest"
     ],
@@ -176,8 +171,7 @@
         "apeglm",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "alabaster": [
         "BSgenome",
@@ -353,8 +347,7 @@
         "bluster",
         "mia",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "AneuFinder": [
         "GenomicAlignments",
@@ -470,8 +463,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "arrayQuality": [
         "marray"
@@ -584,8 +576,7 @@
         "AnnotationHub",
         "GenomicAlignments",
         "Rhtslib",
-        "Rsamtools",
-        "sparseMatrixStats"
+        "Rsamtools"
     ],
     "atSNP": [
         "BSgenome",
@@ -608,8 +599,7 @@
     ],
     "AUCell": [
         "DelayedMatrixStats",
-        "GSEABase",
-        "sparseMatrixStats"
+        "GSEABase"
     ],
     "autonomics": [
         "pcaMethods"
@@ -698,8 +688,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "BASiCStan": [
         "BASiCS",
@@ -715,8 +704,7 @@
         "rhdf5",
         "rhdf5filters",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "BasicSTARRseq": [
         "GenomicAlignments",
@@ -735,8 +723,7 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "BatchQC": [
         "genefilter",
@@ -755,8 +742,7 @@
         "rhdf5filters",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "bayNorm": [
         "SingleCellExperiment"
@@ -827,7 +813,6 @@
         "rhdf5filters",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
         "zinbwave"
     ],
     "BG2": [],
@@ -854,10 +839,8 @@
         "GSEABase",
         "multtest"
     ],
-    "BiFET": [],
     "BiGGR": [
-        "hyperdraw",
-        "rsbml"
+        "hyperdraw"
     ],
     "bigmelon": [
         "BiocIO",
@@ -882,7 +865,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
         "wateRmelon"
     ],
     "BindingSiteFinder": [
@@ -906,7 +888,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "Rhtslib",
         "Rsamtools",
@@ -925,7 +906,6 @@
     "BiocCheck": [
         "biocViews"
     ],
-    "BiocFHIR": [],
     "biocGraph": [],
     "BiocHail": [
         "basilisk",
@@ -1049,8 +1029,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "biotmle": [],
     "biovizBase": [
@@ -1092,8 +1071,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "BiSeq": [
         "BiocIO",
@@ -1136,7 +1114,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "Linnorm",
         "affy",
         "affyio",
         "epiNEM",
@@ -1175,8 +1152,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "BPRMeth": [],
     "brainflowprobes": [
@@ -1250,8 +1226,7 @@
         "beachmat",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "BubbleTree": [
         "AnnotationFilter",
@@ -1373,8 +1348,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "CAMERA": [
         "AnnotationFilter",
@@ -1403,7 +1377,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
@@ -1450,7 +1423,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -1459,8 +1431,7 @@
         "cytolib",
         "flowCore",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "Category": [
         "GSEABase",
@@ -1480,7 +1451,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
@@ -1501,7 +1471,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
@@ -1553,8 +1522,7 @@
         "bluster",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "CellaRepertorium": [],
     "CellBarcode": [
@@ -1587,8 +1555,7 @@
         "beachmat",
         "fgsea",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "cellity": [
         "topGO"
@@ -1602,8 +1569,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "CellNOptR": [],
     "cellscape": [],
@@ -1621,7 +1587,6 @@
     ],
     "censcyt": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "diffcyt",
@@ -1633,8 +1598,7 @@
         "HDF5Array",
         "SingleCellExperiment",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "CeTF": [
         "ComplexHeatmap",
@@ -1738,7 +1702,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
         "sva",
         "wateRmelon"
     ],
@@ -1890,7 +1853,6 @@
         "BiocIO",
         "BiocNeighbors",
         "BiocSingular",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "ResidualMatrix",
@@ -1904,8 +1866,7 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "chromstaR": [
         "GenomicAlignments",
@@ -1987,8 +1948,7 @@
         "rhdf5",
         "rhdf5filters",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "ClassifyR": [
         "genefilter"
@@ -2175,7 +2135,6 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SNPRelate",
         "SeqArray"
     ],
@@ -2190,7 +2149,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CoCiteStats": [],
     "COCOA": [
         "BSgenome",
         "BiocIO",
@@ -2205,8 +2163,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "codelink": [],
     "CODEX": [
@@ -2327,8 +2284,7 @@
         "distinct",
         "scater",
         "scuttle",
-        "slingshot",
-        "sparseMatrixStats"
+        "slingshot"
     ],
     "CONFESS": [
         "cytolib",
@@ -2337,7 +2293,6 @@
         "flowMeans",
         "flowMerge"
     ],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationFilter",
         "BiocIO",
@@ -2365,8 +2320,7 @@
         "biomaRt",
         "genefu",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "consensusSeekeR": [
         "BiocIO",
@@ -2408,8 +2362,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "convert": [
         "marray"
@@ -2483,8 +2436,7 @@
         "DelayedMatrixStats",
         "PCAtools",
         "ScaledMatrix",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "countsimQC": [
         "genefilter"
@@ -2726,7 +2678,6 @@
     ],
     "CyTOFpower": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
         "cytolib",
@@ -2738,7 +2689,6 @@
         "BiocSingular",
         "CATALYST",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -2747,8 +2697,7 @@
         "cytolib",
         "flowCore",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "CytoGLMM": [],
     "cytoKernel": [
@@ -2871,7 +2820,6 @@
     ],
     "dcanr": [],
     "dce": [
-        "Linnorm",
         "epiNEM",
         "graphite",
         "mnem",
@@ -2925,8 +2873,7 @@
         "celda",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "deconvR": [
         "BiocIO",
@@ -2946,8 +2893,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "DeepBlueR": [
         "BiocIO",
@@ -2984,12 +2930,9 @@
         "RCy3"
     ],
     "DEGreport": [
-        "ComplexHeatmap",
-        "ConsensusClusterPlus"
+        "ComplexHeatmap"
     ],
-    "DelayedMatrixStats": [
-        "sparseMatrixStats"
-    ],
+    "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
@@ -3017,7 +2960,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "sparseMatrixStats",
         "sva"
     ],
     "demuxSNP": [
@@ -3148,7 +3090,6 @@
     ],
     "diffcyt": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "flowCore"
@@ -3194,8 +3135,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "DirichletMultinomial": [],
     "discordant": [],
@@ -3208,8 +3148,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "dittoSeq": [
         "SingleCellExperiment"
@@ -3259,8 +3198,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "DMRScan": [],
     "dmrseq": [
@@ -3281,8 +3219,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "DNABarcodeCompatibility": [],
     "DNAfusion": [
@@ -3343,7 +3280,6 @@
         "graphite",
         "pathview",
         "safe",
-        "sparseMatrixStats",
         "variancePartition",
         "zenith"
     ],
@@ -3355,8 +3291,7 @@
         "beachmat",
         "rhdf5",
         "rhdf5filters",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "drugTargetInteractions": [
         "AnnotationFilter",
@@ -3391,8 +3326,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "dStruct": [],
     "Dune": [],
@@ -3465,7 +3399,6 @@
         "rhdf5",
         "rhdf5filters",
         "safe",
-        "sparseMatrixStats",
         "topGO"
     ],
     "eiR": [],
@@ -3520,8 +3453,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "EnrichedHeatmap": [
         "ComplexHeatmap"
@@ -3681,11 +3613,9 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "epiNEM": [
-        "Linnorm",
         "mnem"
     ],
     "epistack": [],
@@ -3814,8 +3744,7 @@
         "UCell",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "escheR": [
         "SingleCellExperiment",
@@ -4009,8 +3938,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "fgga": [],
     "fgsea": [],
@@ -4082,8 +4010,7 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "flowAI": [
         "cytolib",
@@ -4155,7 +4082,6 @@
         "flowCore"
     ],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "cytolib",
         "flowCore"
     ],
@@ -4215,8 +4141,7 @@
         "pcaMethods",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "frma": [
         "affy",
@@ -4250,8 +4175,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "GA4GHclient": [
         "BSgenome",
@@ -4665,8 +4589,7 @@
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "glmSparseNet": [
         "biomaRt"
@@ -4715,7 +4638,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
@@ -4853,8 +4775,7 @@
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "gtrellis": [],
     "GUIDEseq": [
@@ -5160,8 +5081,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "iChip": [],
     "iCNV": [
@@ -5235,8 +5155,7 @@
         "cytomapper",
         "rhdf5",
         "rhdf5filters",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [
@@ -5276,8 +5195,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "infercnv": [
         "SingleCellExperiment"
@@ -5305,7 +5223,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "plgem",
         "rtracklayer"
     ],
     "InTAD": [
@@ -5457,7 +5374,6 @@
     ],
     "isomiRs": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DEGreport"
     ],
     "ITALICS": [
@@ -5465,7 +5381,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "iterativeBMA": [],
     "iterClust": [],
     "IVAS": [
         "BiocIO",
@@ -5529,8 +5444,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "KnowSeq": [
         "cqn",
@@ -5550,8 +5464,7 @@
         "beachmat",
         "glmGamPoi",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "LineagePulse": [
         "ComplexHeatmap",
@@ -5569,7 +5482,6 @@
         "rtracklayer"
     ],
     "LinkHD": [],
-    "Linnorm": [],
     "LinTInd": [
         "ggtree"
     ],
@@ -5648,8 +5560,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "LymphoSeq": [
         "ggtree",
@@ -5718,8 +5629,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "MAGeCKFlute": [
         "AnnotationHub",
@@ -5921,7 +5831,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
         "sva"
     ],
     "MEAT": [
@@ -5947,7 +5856,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
         "wateRmelon"
     ],
     "MEB": [
@@ -5958,8 +5866,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "MEDIPS": [
         "BSgenome",
@@ -6037,7 +5944,6 @@
     ],
     "metaCCA": [],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "flowCore"
@@ -6109,7 +6015,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "sparseMatrixStats",
         "vsn"
     ],
     "MetCirc": [
@@ -6142,8 +6047,7 @@
         "Rsamtools",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "MethTargetedNGS": [],
     "MethylAid": [
@@ -6163,8 +6067,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "methylCC": [
         "BSgenome",
@@ -6187,8 +6090,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "methylclock": [
         "AnnotationForge",
@@ -6215,8 +6117,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "methylGSA": [
         "BiocIO",
@@ -6243,8 +6144,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "methylInheritance": [
         "BiocIO",
@@ -6301,8 +6201,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "methylumi": [
         "BiocIO",
@@ -6321,8 +6220,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "MetID": [],
     "mfa": [],
@@ -6345,8 +6243,7 @@
         "beachmat",
         "bluster",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "miaSim": [
         "SingleCellExperiment",
@@ -6366,8 +6263,7 @@
         "ggtree",
         "mia",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "microbiome": [
         "biomformat",
@@ -6416,8 +6312,7 @@
         "rhdf5",
         "rhdf5filters",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -6481,8 +6376,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "minfi": [
         "BiocIO",
@@ -6500,8 +6394,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "MinimumDistance": [
         "BSgenome",
@@ -6530,8 +6423,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "MiRaGE": [],
     "miRcomp": [],
@@ -6568,8 +6460,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "missRows": [],
     "mitoClone2": [
@@ -6603,9 +6494,7 @@
         "Wrench",
         "metagenomeSeq"
     ],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -6836,8 +6725,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "mslp": [],
     "msmsEDA": [
@@ -7026,8 +6914,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "MungeSumstats": [
         "BSgenome",
@@ -7050,7 +6937,6 @@
         "beachmat",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
         "variancePartition"
     ],
     "muscle": [],
@@ -7151,8 +7037,7 @@
         "bsseq",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "NanoStringDiff": [],
     "NanoStringNCTools": [],
@@ -7205,13 +7090,11 @@
         "SingleCellExperiment"
     ],
     "nempi": [
-        "Linnorm",
         "epiNEM",
         "mnem"
     ],
     "NetActivity": [
-        "DelayedMatrixStats",
-        "sparseMatrixStats"
+        "DelayedMatrixStats"
     ],
     "netbiov": [],
     "netDx": [],
@@ -7241,7 +7124,6 @@
         "rhdf5filters",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
         "zinbwave"
     ],
     "netZooR": [
@@ -7268,7 +7150,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
         "yarn"
     ],
     "NewWave": [
@@ -7366,8 +7247,7 @@
         "biomaRt",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "odseq": [
         "msa"
@@ -7432,9 +7312,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [
         "fgsea"
     ],
@@ -7476,8 +7354,7 @@
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "optimalFlow": [
         "cytolib",
@@ -7668,11 +7545,9 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "PDATK": [
-        "ConsensusClusterPlus",
         "CoreGx",
         "biomaRt",
         "fgsea",
@@ -7715,8 +7590,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "pengls": [],
     "PepsNMR": [],
@@ -7832,8 +7706,7 @@
         "bluster",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -7844,7 +7717,6 @@
         "rtracklayer"
     ],
     "planttfhunter": [],
-    "plgem": [],
     "plier": [
         "affy",
         "affyio"
@@ -8271,8 +8143,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "quantsmooth": [],
     "QuartPAC": [
@@ -8349,7 +8220,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RaggedExperiment": [],
     "RAIDS": [
         "AnnotationFilter",
         "BSgenome",
@@ -8529,8 +8399,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "recoup": [
         "BiocIO",
@@ -8564,8 +8433,7 @@
         "DelayedMatrixStats",
         "PCAtools",
         "ScaledMatrix",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "RegionalST": [
         "BayesSpace",
@@ -8582,8 +8450,7 @@
         "rhdf5filters",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "regioneR": [
         "BSgenome",
@@ -8655,8 +8522,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "Repitools": [
         "BSgenome",
@@ -9107,8 +8973,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "Rnits": [
         "affy",
@@ -9170,8 +9035,6 @@
     "Rsamtools": [
         "Rhtslib"
     ],
-    "rsbml": [],
-    "rScudo": [],
     "RSVSim": [
         "GenomicAlignments",
         "Rhtslib",
@@ -9185,18 +9048,13 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
         "biomaRt",
         "rtracklayer"
     ],
-    "RTN": [],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "RTopper": [
         "multtest"
     ],
@@ -9242,15 +9100,12 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
-        "sangerseqR"
+        "DECIPHER"
     ],
-    "sangerseqR": [],
     "SARC": [
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -9307,8 +9162,7 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "SCArray.sat": [
         "BiocSingular",
@@ -9316,8 +9170,7 @@
         "SCArray",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "scater": [
         "BiocNeighbors",
@@ -9326,8 +9179,7 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scBFA": [
         "SingleCellExperiment",
@@ -9345,8 +9197,7 @@
         "beachmat",
         "rhdf5",
         "rhdf5filters",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scClassify": [
         "Cepo",
@@ -9356,8 +9207,7 @@
         "SingleCellExperiment",
         "hopach",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "sccomp": [
         "SingleCellExperiment"
@@ -9382,8 +9232,7 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scDD": [
         "BiocNeighbors",
@@ -9394,8 +9243,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scDDboost": [
         "Oscope",
@@ -9437,8 +9285,7 @@
         "rhdf5filters",
         "rtracklayer",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scGPS": [
         "SingleCellExperiment"
@@ -9456,8 +9303,7 @@
     "scifer": [
         "DECIPHER",
         "cytolib",
-        "flowCore",
-        "sangerseqR"
+        "flowCore"
     ],
     "scmap": [
         "SingleCellExperiment"
@@ -9474,8 +9320,7 @@
         "bluster",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scMET": [
         "SingleCellExperiment"
@@ -9497,8 +9342,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "SCnorm": [
         "SingleCellExperiment"
@@ -9566,8 +9410,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scran": [
         "BiocNeighbors",
@@ -9577,8 +9420,7 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scReClassify": [
         "SingleCellExperiment"
@@ -9672,14 +9514,12 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "scuttle": [
         "DelayedMatrixStats",
         "SingleCellExperiment",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "scviR": [
         "BiocNeighbors",
@@ -9691,8 +9531,7 @@
         "basilisk.utils",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "SDAMS": [],
     "sechm": [
@@ -9848,8 +9687,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "shinyMethyl": [
         "BiocIO",
@@ -9868,8 +9706,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "ShortRead": [
         "GenomicAlignments",
@@ -9947,8 +9784,7 @@
         "genefu",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "SigsPack": [
         "BSgenome",
@@ -9983,8 +9819,7 @@
         "multtest",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "SIMD": [
         "methylMnM"
@@ -10025,8 +9860,7 @@
         "bluster",
         "multtest",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "singleCellTK": [
         "AnnotationFilter",
@@ -10072,7 +9906,6 @@
         "scds",
         "scran",
         "scuttle",
-        "sparseMatrixStats",
         "sva",
         "zellkonverter",
         "zinbwave"
@@ -10097,8 +9930,7 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "beachmat",
-        "sparseMatrixStats"
+        "beachmat"
     ],
     "singscore": [
         "GSEABase"
@@ -10141,7 +9973,6 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
         "wateRmelon"
     ],
     "slalom": [
@@ -10232,8 +10063,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "SpacePAC": [
         "iPAC",
@@ -10253,18 +10083,15 @@
         "rhdf5filters",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "sparrow": [
         "BiocIO",
         "BiocSet",
         "ComplexHeatmap",
         "DelayedMatrixStats",
-        "GSEABase",
-        "sparseMatrixStats"
+        "GSEABase"
     ],
-    "sparseMatrixStats": [],
     "SparseSignatures": [
         "BSgenome",
         "BiocIO",
@@ -10306,8 +10133,7 @@
         "genefilter",
         "scater",
         "scran",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
@@ -10380,8 +10206,7 @@
         "DelayedMatrixStats",
         "SingleCellExperiment",
         "beachmat",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "SpliceWiz": [
         "AnnotationHub",
@@ -10397,8 +10222,7 @@
         "ompBAM",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "sparseMatrixStats"
+        "rtracklayer"
     ],
     "SplicingFactory": [],
     "SplicingGraphs": [
@@ -10435,8 +10259,7 @@
         "rhdf5filters"
     ],
     "SPOTlight": [
-        "SingleCellExperiment",
-        "sparseMatrixStats"
+        "SingleCellExperiment"
     ],
     "SPsimSeq": [
         "SingleCellExperiment",
@@ -10684,7 +10507,6 @@
         "rhdf5",
         "rhdf5filters",
         "singscore",
-        "sparseMatrixStats",
         "sva"
     ],
     "TCC": [
@@ -10698,7 +10520,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -10743,7 +10564,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAutils",
@@ -10856,12 +10676,10 @@
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "TnT": [],
     "TOAST": [],
-    "tomoda": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
@@ -10939,8 +10757,7 @@
         "beachmat",
         "glmGamPoi",
         "rhdf5",
-        "rhdf5filters",
-        "sparseMatrixStats"
+        "rhdf5filters"
     ],
     "transite": [],
     "tRanslatome": [
@@ -10970,7 +10787,6 @@
     ],
     "treekoR": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "FlowSOM",
         "SingleCellExperiment",
         "cytolib",
@@ -11001,8 +10817,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "trigger": [
         "genefilter",
@@ -11168,8 +10983,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "sparseMatrixStats"
+        "scuttle"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -11274,7 +11088,6 @@
         "basilisk.utils",
         "beachmat",
         "scuttle",
-        "sparseMatrixStats",
         "zellkonverter"
     ],
     "vidger": [],
@@ -11367,8 +11180,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "wavClusteR": [
         "BiocIO",
@@ -11389,8 +11201,7 @@
         "vsn"
     ],
     "weitrix": [
-        "DelayedMatrixStats",
-        "sparseMatrixStats"
+        "DelayedMatrixStats"
     ],
     "wiggleplotr": [
         "BiocIO",
@@ -11484,8 +11295,7 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "siggenes",
-        "sparseMatrixStats"
+        "siggenes"
     ],
     "zellkonverter": [
         "SingleCellExperiment",
