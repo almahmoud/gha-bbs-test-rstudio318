@@ -190,7 +190,6 @@
     ],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "OrganismDbi",
         "TFBSTools",
@@ -199,7 +198,6 @@
         "projectR"
     ],
     "ATACseqQC": [
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
@@ -207,13 +205,11 @@
         "regioneR"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
     "atena": [],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -301,17 +297,14 @@
     ],
     "BiocCheck": [],
     "BiocHail": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbUniprot": [],
     "BioMVCClass": [
         "MVCClass"
@@ -593,7 +586,6 @@
         "bamsignals"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "CHRONOS": [],
@@ -603,9 +595,7 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "circRNAprofiler": [
         "VariantAnnotation",
         "gwascat"
@@ -660,7 +650,6 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNEr": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -747,7 +736,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -906,7 +894,6 @@
         "ShortRead"
     ],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -1096,7 +1083,6 @@
         "biovizBase"
     ],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -1114,7 +1100,6 @@
         "DOSE"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "TFBSTools",
         "clusterProfiler",
@@ -1191,7 +1176,6 @@
     ],
     "ERSSA": [],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "Rbowtie2",
@@ -1529,8 +1513,7 @@
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "goseq": [],
     "GOSim": [],
@@ -1674,9 +1657,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1770,7 +1751,6 @@
         "DEGreport"
     ],
     "ITALICS": [],
-    "IVAS": [],
     "ivygapSE": [],
     "karyoploteR": [
         "VariantAnnotation",
@@ -1779,8 +1759,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "maftools"
+        "VariantAnnotation"
     ],
     "KCsmart": [
         "siggenes"
@@ -1845,7 +1824,6 @@
     "MADSEQ": [
         "VariantAnnotation"
     ],
-    "maftools": [],
     "MAGAR": [
         "RnBeads",
         "bumphunter",
@@ -1898,7 +1876,6 @@
         "vsn"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "MBECS": [
@@ -2150,7 +2127,6 @@
     "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
-        "CNEr",
         "TFBSTools"
     ],
     "monocle": [],
@@ -2169,7 +2145,6 @@
     "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
         "MotifDb",
         "TFBSTools",
@@ -2179,11 +2154,9 @@
     ],
     "MotifDb": [],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "MouseFM": [],
@@ -2314,8 +2287,7 @@
     "muscat": [],
     "musicatk": [
         "VariantAnnotation",
-        "decompTumor2Sig",
-        "maftools"
+        "decompTumor2Sig"
     ],
     "MutationalPatterns": [
         "VariantAnnotation"
@@ -2328,7 +2300,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
@@ -2475,7 +2446,6 @@
         "sva"
     ],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2594,7 +2564,6 @@
     ],
     "PREDA": [],
     "primirTSS": [
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
@@ -2870,7 +2839,6 @@
     ],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "ShortRead",
@@ -2895,9 +2863,7 @@
     "RITAN": [
         "BgeeDB"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR"
     ],
@@ -3247,7 +3213,6 @@
         "GeomxTools"
     ],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -3287,7 +3252,6 @@
         "biovizBase"
     ],
     "sSNAPPY": [],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3374,9 +3338,7 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
