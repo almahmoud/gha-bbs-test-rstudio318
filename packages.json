@@ -110,7 +110,6 @@
     "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -183,7 +182,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "BioNAR": [],
     "BioNERO": [],
     "BioNetStat": [
         "pathview"
@@ -420,7 +418,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "CoGAPS": [],
     "cogeqc": [],
     "cola": [],
     "comapr": [
