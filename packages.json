@@ -132,7 +132,6 @@
         "GOstats"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [],
     "bandle": [
@@ -155,7 +154,6 @@
     ],
     "BG2": [],
     "bgx": [],
-    "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
         "ROC",
@@ -712,7 +710,6 @@
     "erma": [
         "GenomicFiles"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "TFBSTools",
@@ -838,7 +835,6 @@
         "flowViz"
     ],
     "gatom": [],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot",
@@ -908,7 +904,6 @@
     "ggspavis": [],
     "girafe": [],
     "GISPA": [],
-    "GlobalAncova": [],
     "globalSeq": [],
     "gmapR": [],
     "GmicR": [
@@ -1453,7 +1448,6 @@
         "quantro",
         "yarn"
     ],
-    "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
