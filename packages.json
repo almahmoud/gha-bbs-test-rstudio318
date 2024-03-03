@@ -1,10 +1,8 @@
 {
     "a4": [
-        "a4Base",
-        "a4Classif"
+        "a4Base"
     ],
     "a4Base": [],
-    "a4Classif": [],
     "ABarray": [],
     "ACE": [
         "CGHbase",
@@ -139,7 +137,6 @@
     "amplican": [
         "ShortRead"
     ],
-    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
@@ -178,7 +175,6 @@
     "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "gcrma",
         "vsn"
     ],
@@ -269,7 +265,6 @@
         "VariantAnnotation"
     ],
     "beachmat.hdf5": [],
-    "beadarray": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
@@ -306,7 +301,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "RTCGAToolbox",
@@ -348,7 +342,6 @@
         "sva"
     ],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [
@@ -374,11 +367,8 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "BloodGen3Module": [],
@@ -669,9 +659,7 @@
     "ClassifyR": [],
     "cleanUpdTSeq": [],
     "clevRvis": [],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
@@ -712,7 +700,6 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR"
@@ -1016,7 +1003,6 @@
     ],
     "debrowser": [
         "DOSE",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview",
@@ -1039,16 +1025,12 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DEFormats": [],
     "DegNorm": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph"
     ],
     "DEGreport": [],
     "DelayedTensor": [],
-    "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "bsseq",
@@ -1150,7 +1132,6 @@
     ],
     "dreamlet": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "zenith"
@@ -1180,7 +1161,6 @@
     "EGAD": [],
     "EGSEA": [
         "GSVA",
-        "KEGGgraph",
         "pathview"
     ],
     "eiR": [],
@@ -1202,7 +1182,6 @@
     ],
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1236,9 +1215,7 @@
         "genomation"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "bamsignals",
@@ -1504,7 +1481,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "ShortRead",
         "sva"
     ],
@@ -1520,7 +1496,6 @@
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -1684,7 +1659,6 @@
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1902,7 +1876,6 @@
     ],
     "iSeq": [],
     "isobar": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "sva",
@@ -1928,10 +1901,7 @@
     "KCsmart": [
         "siggenes"
     ],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -1972,9 +1942,7 @@
     "LPEadj": [
         "LPE"
     ],
-    "lpNet": [
-        "KEGGgraph"
-    ],
+    "lpNet": [],
     "LRcell": [],
     "lumi": [
         "bumphunter",
@@ -2007,7 +1975,6 @@
     ],
     "MAGeCKFlute": [
         "DOSE",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -2119,7 +2086,6 @@
     ],
     "metabomxtr": [],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools",
         "hpar",
         "mygene"
@@ -2251,9 +2217,7 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2282,7 +2246,6 @@
         "bsseq"
     ],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -2302,7 +2265,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
@@ -2504,9 +2466,7 @@
         "VariantAnnotation"
     ],
     "MVCClass": [],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "mygene": [],
     "myvariant": [
         "VariantAnnotation"
@@ -2543,9 +2503,7 @@
         "vsn",
         "xcms"
     ],
-    "NCIgraph": [
-        "KEGGgraph"
-    ],
+    "NCIgraph": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -2561,7 +2519,6 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netresponse": [],
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
@@ -2706,9 +2663,7 @@
         "phyloseq"
     ],
     "pathRender": [],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "Category",
         "GOstats"
@@ -3025,15 +2980,13 @@
         "PCAtools"
     ],
     "RegionalST": [
-        "BayesSpace",
-        "TOAST"
+        "BayesSpace"
     ],
     "regioneR": [],
     "regioneReloaded": [
         "regioneR"
     ],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
@@ -3195,9 +3148,7 @@
     "roar": [],
     "ROC": [],
     "RolDE": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "ropls": [],
     "RPA": [
         "biomformat",
@@ -3239,7 +3190,6 @@
         "plyranges"
     ],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "SC3": [],
@@ -3261,7 +3211,6 @@
     "scClassify": [
         "Cepo"
     ],
-    "sccomp": [],
     "scDataviz": [
         "flowCore"
     ],
@@ -3545,9 +3494,7 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
         "dittoSeq"
@@ -3700,7 +3647,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TIN": [],
     "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
@@ -3712,7 +3658,6 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOAST": [],
     "TOP": [
         "ClassifyR"
     ],
@@ -3922,7 +3867,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
