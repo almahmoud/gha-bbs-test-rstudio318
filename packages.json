@@ -430,7 +430,6 @@
         "crisprDesign"
     ],
     "crossmeta": [],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -451,7 +450,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
@@ -476,9 +474,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [],
     "dagLogo": [
         "TFBSTools",
@@ -872,9 +868,7 @@
     ],
     "IFAA": [],
     "igvR": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -1654,9 +1648,7 @@
     ],
     "SimBu": [],
     "similaRpeak": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
