@@ -90,7 +90,6 @@
     "arrayQualityMetrics": [
         "affyPLM"
     ],
-    "artMS": [],
     "ASICS": [
         "PepsNMR"
     ],
@@ -885,7 +884,6 @@
     ],
     "KnowSeq": [],
     "lemur": [],
-    "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
         "spicyR"
