@@ -350,7 +350,6 @@
     ],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
@@ -459,9 +458,7 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [],
     "cosmiq": [
         "MSnbase",
@@ -854,14 +851,12 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "gDRstyle": [],
     "GeneBreak": [
@@ -1531,8 +1526,7 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "PeacoQC": [
         "flowWorkspace",
@@ -1544,8 +1538,7 @@
     "PepsNMR": [],
     "phantasusLite": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "destiny",
@@ -1558,7 +1551,6 @@
     "PhosR": [],
     "PhyloProfile": [],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
@@ -1669,8 +1661,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [
         "GENESIS",
@@ -2071,8 +2062,7 @@
         "MSnbase"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz",
@@ -2159,8 +2149,7 @@
     "XDE": [],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "YAPSA": [
         "SomaticSignatures",
