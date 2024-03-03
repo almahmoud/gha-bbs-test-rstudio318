@@ -216,7 +216,6 @@
         "enrichplot"
     ],
     "CCPROMISE": [],
-    "CellBarcode": [],
     "cellHTS2": [],
     "cellscape": [],
     "CEMiTool": [
@@ -715,7 +714,6 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GOTHiC": [],
     "granulator": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
@@ -791,7 +789,6 @@
         "minfi"
     ],
     "infinityFlow": [],
-    "InPAS": [],
     "intansv": [
         "ggbio"
     ],
@@ -1343,7 +1340,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
@@ -1444,7 +1440,6 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [],
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
