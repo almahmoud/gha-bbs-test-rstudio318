@@ -442,9 +442,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -643,7 +641,6 @@
     "EDASeq": [],
     "edge": [],
     "EGSEA": [
-        "GSVA",
         "pathview"
     ],
     "ELMER": [
@@ -717,9 +714,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [],
     "EWCE": [],
@@ -882,7 +877,6 @@
         "RCAS",
         "genomation"
     ],
-    "GenomicSuperSignature": [],
     "GenVisR": [],
     "GeoDiff": [
         "GeomxTools"
@@ -934,7 +928,6 @@
     "gsean": [],
     "GSReg": [],
     "GSRI": [],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1458,7 +1451,6 @@
     "nullranges": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1480,9 +1472,7 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -1561,7 +1551,6 @@
     "pmp": [],
     "PoDCall": [],
     "pogos": [],
-    "POMA": [],
     "POWSC": [],
     "prebs": [
         "RPA"
@@ -1814,8 +1803,7 @@
     "scDataviz": [],
     "scde": [],
     "scFeatures": [
-        "AUCell",
-        "GSVA"
+        "AUCell"
     ],
     "scider": [],
     "scifer": [],
@@ -1885,7 +1873,6 @@
     ],
     "signeR": [],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SigsPack": [],
@@ -1903,7 +1890,6 @@
     ],
     "simplifyEnrichment": [],
     "singleCellTK": [
-        "GSVA",
         "TSCAN",
         "celda"
     ],
@@ -2012,7 +1998,6 @@
     "TADCompare": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
         "singscore"
     ],
     "TCC": [
@@ -2038,9 +2023,7 @@
     "TissueEnrich": [],
     "TitanCNA": [],
     "tLOH": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [
         "MSnbase"
