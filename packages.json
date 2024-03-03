@@ -20,7 +20,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -104,7 +103,6 @@
         "biovizBase"
     ],
     "ASSIGN": [],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
@@ -869,7 +867,6 @@
         "Category",
         "GOstats"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -979,7 +976,6 @@
     "interactiveDisplay": [
         "Category"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "GenomicFiles"
     ],
@@ -1027,7 +1023,6 @@
     ],
     "KnowSeq": [],
     "lemur": [],
-    "LineagePulse": [],
     "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
@@ -1384,7 +1379,6 @@
     "nondetects": [],
     "NormalyzerDE": [],
     "normr": [],
-    "npGSEA": [],
     "NTW": [],
     "nucleR": [],
     "nullranges": [],
