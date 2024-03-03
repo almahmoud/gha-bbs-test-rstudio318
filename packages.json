@@ -834,7 +834,6 @@
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DegNorm": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -891,7 +890,6 @@
     ],
     "Dino": [],
     "distinct": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "biovizBase",
@@ -987,12 +985,10 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
         "csaw"
     ],
-    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "OrganismDbi",
@@ -1094,7 +1090,6 @@
         "minfi",
         "siggenes"
     ],
-    "FilterFFPE": [],
     "FindIT2": [],
     "flagme": [
         "CAMERA",
@@ -1396,23 +1391,16 @@
     "hermes": [],
     "HERON": [],
     "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -1423,7 +1411,6 @@
     ],
     "hipathia": [],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [],
@@ -1753,9 +1740,7 @@
         "Spectra"
     ],
     "methInheritSim": [],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "minfi",
@@ -1900,7 +1885,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
         "TFBSTools",
@@ -2013,9 +1997,7 @@
         "regioneR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [],
     "multiWGCNA": [
         "dcanr"
@@ -2717,7 +2699,6 @@
     "seqCAT": [],
     "SeqSQC": [],
     "SeqVarTools": [],
-    "sesame": [],
     "SEtools": [
         "sechm",
         "sva"
@@ -2848,9 +2829,7 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [
@@ -2923,9 +2902,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
