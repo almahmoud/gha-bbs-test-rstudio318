@@ -1143,7 +1143,6 @@
     "HMMcopy": [],
     "hoodscanR": [],
     "HPiP": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "VariantTools",
         "chipseq",
@@ -1717,9 +1716,7 @@
     "NewWave": [],
     "nipalsMCIA": [],
     "nnSVG": [],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NormalyzerDE": [],
     "normr": [],
     "npGSEA": [],
@@ -2136,7 +2133,6 @@
         "EDASeq"
     ],
     "sagenhaft": [],
-    "SAIGEgds": [],
     "sampleClassifier": [],
     "sangeranalyseR": [],
     "SARC": [],
@@ -2490,9 +2486,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
         "monocle"
