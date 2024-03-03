@@ -1823,7 +1823,6 @@
         "fgsea",
         "ggtree"
     ],
-    "ensembldb": [],
     "ensemblVEP": [
         "VariantAnnotation"
     ],
@@ -2267,7 +2266,6 @@
         "seqPattern"
     ],
     "genomeIntervals": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
