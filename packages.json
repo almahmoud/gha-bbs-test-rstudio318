@@ -267,7 +267,6 @@
     "cfDNAPro": [],
     "cghMCR": [],
     "CGHnormaliter": [],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -1245,7 +1244,6 @@
         "Spectra",
         "xcms"
     ],
-    "nearBynding": [],
     "nempi": [],
     "netbiov": [],
     "netOmics": [
@@ -1356,7 +1354,6 @@
     ],
     "PoDCall": [],
     "pogos": [],
-    "POWSC": [],
     "prebs": [
         "RPA"
     ],
@@ -1461,7 +1458,6 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
