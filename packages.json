@@ -520,9 +520,7 @@
         "xcms"
     ],
     "cosmosR": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "cpvSNP": [],
     "CRImage": [],
     "crisprBowtie": [
@@ -1675,7 +1673,6 @@
         "Category",
         "GOstats"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx",
         "piano"
@@ -1870,9 +1867,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -2342,7 +2337,6 @@
         "GenomicFiles"
     ],
     "velociraptor": [],
-    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
