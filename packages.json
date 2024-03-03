@@ -639,7 +639,6 @@
     "ENmix": [
         "minfi"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "SPIA",
         "pathview"
@@ -707,7 +706,6 @@
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -1411,9 +1409,7 @@
     ],
     "OLINgui": [],
     "omicplotR": [],
-    "omicRexposome": [
-        "rexposome"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [
         "HelloRanges"
     ],
@@ -1517,7 +1513,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
         "soGGi"
@@ -1651,7 +1646,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "rexposome": [],
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
