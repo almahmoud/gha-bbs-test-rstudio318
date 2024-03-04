@@ -457,9 +457,7 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GEOfastq": [],
     "gespeR": [
         "cellHTS2"
@@ -852,7 +850,6 @@
     "RandomWalkRestartMH": [],
     "Rbec": [],
     "Rbowtie": [],
-    "RCAS": [],
     "RCASPAR": [],
     "rDGIdb": [],
     "Rdisop": [],
