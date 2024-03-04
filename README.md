@@ -1,12 +1,12 @@
 # Summary
 
-1704 Bioconductor sotware binaries built
+1707 Bioconductor sotware binaries built
 
-3426 Other dependency binaries built
+3429 Other dependency binaries built
 
 0 failed packages
 
-490 unclaimed packages
+487 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (490)
+## Unclaimed (487)
 | Package                    | Status    | Blocked By                                                                                                  |
 |----------------------------|-----------|-------------------------------------------------------------------------------------------------------------|
 | ACE                        | Unclaimed | Incomplete Bioc dependencies: QDNAseq.                                                                      |
@@ -98,7 +98,7 @@
 | clusterProfiler            | Unclaimed |                                                                                                             |
 | CNVfilteR                  | Unclaimed | Incomplete Bioc dependencies: CopyNumberPlots, karyoploteR.                                                 |
 | CNViz                      | Unclaimed | Incomplete Bioc dependencies: CopyNumberPlots, karyoploteR.                                                 |
-| COCOA                      | Unclaimed | Incomplete Bioc dependencies: MIRA.                                                                         |
+| COCOA                      | Unclaimed |                                                                                                             |
 | comapr                     | Unclaimed | Incomplete Bioc dependencies: Gviz.                                                                         |
 | coMET                      | Unclaimed | Incomplete Bioc dependencies: Gviz.                                                                         |
 | compEpiTools               | Unclaimed | Incomplete Bioc dependencies: Gviz, methylPipe.                                                             |
@@ -296,7 +296,6 @@
 | mimager                    | Unclaimed |                                                                                                             |
 | MineICA                    | Unclaimed | Incomplete Bioc dependencies: GOstats, lumi, methylumi.                                                     |
 | MinimumDistance            | Unclaimed |                                                                                                             |
-| MIRA                       | Unclaimed |                                                                                                             |
 | mirIntegrator              | Unclaimed |                                                                                                             |
 | miRLAB                     | Unclaimed | Incomplete Bioc dependencies: GOstats.                                                                      |
 | missMethyl                 | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                                    |
@@ -404,7 +403,6 @@
 | recount                    | Unclaimed | Incomplete Bioc dependencies: derfinder.                                                                    |
 | recountmethylation         | Unclaimed |                                                                                                             |
 | REDseq                     | Unclaimed |                                                                                                             |
-| RegionalST                 | Unclaimed |                                                                                                             |
 | regionReport               | Unclaimed | Incomplete Bioc dependencies: derfinder.                                                                    |
 | regutools                  | Unclaimed | Incomplete Bioc dependencies: Gviz.                                                                         |
 | REMP                       | Unclaimed |                                                                                                             |
@@ -431,7 +429,6 @@
 | RUVSeq                     | Unclaimed |                                                                                                             |
 | sagenhaft                  | Unclaimed |                                                                                                             |
 | SBGNview                   | Unclaimed |                                                                                                             |
-| SCArray.sat                | Unclaimed |                                                                                                             |
 | scClassify                 | Unclaimed |                                                                                                             |
 | scFeatures                 | Unclaimed |                                                                                                             |
 | scmeth                     | Unclaimed |                                                                                                             |
@@ -508,7 +505,7 @@
 | yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                                      |
 | zenith                     | Unclaimed | Incomplete Bioc dependencies: EnrichmentBrowser.                                                            |
 
-## Bioconductor Software Binaries Built (1704)
+## Bioconductor Software Binaries Built (1707)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -1458,6 +1455,7 @@
 | minfi                        | Succeeded | [minfi_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/minfi_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | MiPP                         | Succeeded | [MiPP_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/MiPP_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | miQC                         | Succeeded | [miQC_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/miQC_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| MIRA                         | Succeeded | [MIRA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/MIRA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | MiRaGE                       | Succeeded | [MiRaGE_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/MiRaGE_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | miRcomp                      | Succeeded | [miRcomp_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/miRcomp_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | miRNAmeConverter             | Succeeded | [miRNAmeConverter_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/miRNAmeConverter_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
@@ -1771,6 +1769,7 @@
 | RedeR                        | Succeeded | [RedeR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/RedeR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | RedisParam                   | Succeeded | [RedisParam_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/RedisParam_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | regionalpcs                  | Succeeded | [regionalpcs_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/regionalpcs_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| RegionalST                   | Succeeded | [RegionalST_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/RegionalST_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | regioneR                     | Succeeded | [regioneR_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/regioneR_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | regioneReloaded              | Succeeded | [regioneReloaded_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/regioneReloaded_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | regsplice                    | Succeeded | [regsplice_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/regsplice_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -1888,6 +1887,7 @@
 | scAnnotatR                   | Succeeded | [scAnnotatR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/scAnnotatR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | SCANVIS                      | Succeeded | [SCANVIS_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/SCANVIS_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | SCArray                      | Succeeded | [SCArray_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/SCArray_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| SCArray.sat                  | Succeeded | [SCArray.sat_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/SCArray.sat_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | scater                       | Succeeded | [scater_1.30.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/scater_1.30.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | scatterHatch                 | Succeeded | [scatterHatch_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/scatterHatch_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | scBFA                        | Succeeded | [scBFA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/scBFA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2216,7 +2216,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1704)
+## Other Dependency Binaries (1707)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                      | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -3237,6 +3237,7 @@
 | ggplot2                                     | Succeeded | [ggplot2_3.5.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ggplot2_3.5.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | CardinalIO                                  | Succeeded | [CardinalIO_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/CardinalIO_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | BRAIN                                       | Succeeded | [BRAIN_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/BRAIN_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
+| SCArray.sat                                 | Succeeded | [SCArray.sat_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/SCArray.sat_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | gamlss.dist                                 | Succeeded | [gamlss.dist_6.1-1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/gamlss.dist_6.1-1_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | mapproj                                     | Succeeded | [mapproj_1.2.11_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/mapproj_1.2.11_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | adehabitatLT                                | Succeeded | [adehabitatLT_0.3.27_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/adehabitatLT_0.3.27_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
@@ -5386,6 +5387,7 @@
 | TENxBUSData                                 | Succeeded | [TENxBUSData_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/TENxBUSData_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | KEGGlincs                                   | Succeeded | [KEGGlincs_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/KEGGlincs_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | Rbwa                                        | Succeeded | [Rbwa_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/Rbwa_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
+| MIRA                                        | Succeeded | [MIRA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/MIRA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | coin                                        | Succeeded | [coin_1.4-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/coin_1.4-3_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | splineTimeR                                 | Succeeded | [splineTimeR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/splineTimeR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | HEEBOdata                                   | Succeeded | [HEEBOdata_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/HEEBOdata_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
@@ -5643,5 +5645,6 @@
 | RBGL                                        | Succeeded | [RBGL_1.78.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/RBGL_1.78.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | seqTools                                    | Succeeded | [seqTools_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/seqTools_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | EBcoexpress                                 | Succeeded | [EBcoexpress_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/EBcoexpress_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
+| RegionalST                                  | Succeeded | [RegionalST_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/RegionalST_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | TxDb.Celegans.UCSC.ce11.refGene             | Succeeded | [TxDb.Celegans.UCSC.ce11.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/TxDb.Celegans.UCSC.ce11.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | PWMEnrich                                   | Succeeded | [PWMEnrich_4.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/PWMEnrich_4.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
