@@ -220,9 +220,7 @@
         "CopyNumberPlots",
         "karyoploteR"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "comapr": [
         "Gviz"
     ],
@@ -673,7 +671,6 @@
         "methylumi"
     ],
     "MinimumDistance": [],
-    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
