@@ -45,7 +45,6 @@
     "AllelicImbalance": [
         "Gviz"
     ],
-    "altcdfenvs": [],
     "AnnotationHubData": [],
     "appreci8R": [],
     "arrayMvout": [
@@ -568,9 +567,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
