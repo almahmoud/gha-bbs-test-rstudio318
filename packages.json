@@ -161,9 +161,7 @@
         "phenoTest"
     ],
     "casper": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "categoryCompare": [
         "GOstats"
     ],
@@ -183,7 +181,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -324,15 +321,12 @@
         "flowClust",
         "flowDensity"
     ],
-    "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "cytoMEM": [],
     "CytoML": [
@@ -390,9 +384,7 @@
     "DEScan2": [],
     "DExMA": [],
     "DiffBind": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DMRcate": [
         "Gviz",
         "methylumi",
@@ -405,7 +397,6 @@
         "EnrichmentBrowser",
         "zenith"
     ],
-    "DrugVsDisease": [],
     "DSS": [],
     "edge": [],
     "EGSEA": [],
@@ -514,7 +505,6 @@
         "flowClust"
     ],
     "flowPloidy": [],
-    "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
         "flowWorkspace"
@@ -766,9 +756,7 @@
     ],
     "MetaboSignal": [],
     "metaCCA": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -1331,7 +1319,6 @@
     "tRanslatome": [],
     "traviz": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "trigger": [],
