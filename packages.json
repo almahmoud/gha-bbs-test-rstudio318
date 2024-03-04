@@ -905,7 +905,6 @@
     "Rbowtie": [],
     "RCAS": [],
     "RCASPAR": [],
-    "RcwlPipelines": [],
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [],
@@ -928,9 +927,7 @@
         "ggbio"
     ],
     "RESOLVE": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RiboProfiling": [
         "ggbio"
     ],
