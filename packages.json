@@ -244,7 +244,6 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "CoreGx": [],
     "cosmiq": [
         "MsExperiment",
         "xcms"
@@ -441,12 +440,10 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRimport"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "GeneBreak": [
@@ -792,17 +789,13 @@
     "pcaExplorer": [
         "GOstats"
     ],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "PeacoQC": [
         "flowWorkspace"
     ],
     "peakPantheR": [],
     "PepsNMR": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -865,9 +858,7 @@
     "R3CPET": [
         "ggbio"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1054,9 +1045,7 @@
     ],
     "TNBC.CMS": [],
     "topdownr": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
     ],
@@ -1097,7 +1086,6 @@
         "MsExperiment"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "YAPSA": [
