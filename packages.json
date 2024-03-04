@@ -51,13 +51,10 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "motifmatchr",
         "projectR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [],
     "bandle": [
@@ -297,13 +294,10 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "EpiCompare": [
@@ -333,8 +327,7 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "ExperimentHubData": [],
     "extraChIPs": [
@@ -603,7 +596,6 @@
     "motifbreakR": [
         "Gviz"
     ],
-    "motifmatchr": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -682,9 +674,7 @@
     "OutSplice": [
         "Repitools"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
@@ -715,7 +705,6 @@
         "LPE"
     ],
     "PoDCall": [],
-    "prebs": [],
     "preciseTAD": [],
     "primirTSS": [
         "Gviz"
@@ -886,8 +875,7 @@
     "SOMNiBUS": [],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "spkTools": [],
     "SPLINTER": [
