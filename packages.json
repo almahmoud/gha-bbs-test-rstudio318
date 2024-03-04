@@ -149,7 +149,6 @@
         "clusterProfiler"
     ],
     "CCPROMISE": [],
-    "cellHTS2": [],
     "cellscape": [],
     "CEMiTool": [
         "clusterProfiler"
@@ -458,9 +457,7 @@
     ],
     "GenomicPlot": [],
     "GEOfastq": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [],
     "ggcyto": [
         "flowWorkspace"
@@ -888,9 +885,7 @@
         "derfinder",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz"
     ],
@@ -995,9 +990,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "statTarget": [
         "ROC"
     ],
