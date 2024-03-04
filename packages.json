@@ -597,7 +597,6 @@
         "wateRmelon"
     ],
     "meshes": [],
-    "meshr": [],
     "MetaboAnnotation": [
         "CompoundDb"
     ],
@@ -918,8 +917,7 @@
     ],
     "scTensor": [
         "GOstats",
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTreeViz": [
         "epivizr",
