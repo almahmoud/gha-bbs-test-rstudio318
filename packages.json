@@ -61,7 +61,6 @@
     "ASpli": [
         "Gviz"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "chromVAR",
         "motifmatchr",
@@ -85,7 +84,6 @@
     ],
     "BaseSpaceR": [],
     "BASiCStan": [],
-    "BatchQC": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
@@ -1124,7 +1122,6 @@
     "RUVSeq": [],
     "sagenhaft": [],
     "SBGNview": [],
-    "SCAN.UPC": [],
     "SCArray.sat": [],
     "scClassify": [],
     "scFeatures": [],
@@ -1235,9 +1232,7 @@
     "tadar": [
         "Gviz"
     ],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [
         "ROC"
     ],
