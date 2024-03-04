@@ -140,7 +140,6 @@
     ],
     "CAMERA": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -206,7 +205,6 @@
     "clevRvis": [],
     "cliqueMS": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "Clomial": [],
@@ -242,9 +240,7 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
         "flowMerge"
@@ -261,7 +257,6 @@
     "CoreGx": [],
     "cosmiq": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "crisprBowtie": [
@@ -422,7 +417,6 @@
     "flagme": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "FLAMES": [
@@ -573,7 +567,6 @@
     "IPO": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "iSEEde": [],
@@ -595,7 +588,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "LPE": [],
@@ -620,7 +612,6 @@
     "MAIT": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "maPredictDSC": [
@@ -655,8 +646,7 @@
     "meshes": [],
     "meshr": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [],
     "metaCCA": [],
@@ -664,7 +654,6 @@
     "metaMS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MetaPhOR": [
@@ -673,9 +662,7 @@
     "metaseqR2": [
         "DSS"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
@@ -723,7 +710,6 @@
     ],
     "MobilityTransformR": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "ModCon": [],
@@ -741,24 +727,12 @@
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -771,8 +745,7 @@
         "msmsTests"
     ],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsLiP": [
         "MSstatsPTM"
@@ -807,7 +780,6 @@
     "NanoMethViz": [],
     "ncGTW": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "nempi": [],
@@ -976,7 +948,6 @@
     ],
     "Risa": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "RLSeq": [],
@@ -1088,7 +1059,6 @@
         "Gviz",
         "motifmatchr"
     ],
-    "Spectra": [],
     "spkTools": [],
     "SPLINTER": [
         "Gviz"
@@ -1109,7 +1079,6 @@
     "Summix": [],
     "svaNUMT": [],
     "svaRetro": [],
-    "SVMDO": [],
     "synapter": [],
     "tadar": [
         "Gviz"
@@ -1167,8 +1136,7 @@
     ],
     "weaver": [],
     "xcms": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "Xeva": [
         "CoreGx",
