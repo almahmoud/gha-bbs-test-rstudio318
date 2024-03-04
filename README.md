@@ -1,12 +1,12 @@
 # Summary
 
-1707 Bioconductor sotware binaries built
+1708 Bioconductor sotware binaries built
 
-3429 Other dependency binaries built
+3430 Other dependency binaries built
 
 0 failed packages
 
-487 unclaimed packages
+486 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (487)
+## Unclaimed (486)
 | Package                    | Status    | Blocked By                                                                                                  |
 |----------------------------|-----------|-------------------------------------------------------------------------------------------------------------|
 | ACE                        | Unclaimed | Incomplete Bioc dependencies: QDNAseq.                                                                      |
@@ -345,7 +345,6 @@
 | omicRexposome              | Unclaimed |                                                                                                             |
 | OMICsPCA                   | Unclaimed |                                                                                                             |
 | openCyto                   | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                |
-| openPrimeRui               | Unclaimed |                                                                                                             |
 | oppar                      | Unclaimed |                                                                                                             |
 | optimalFlow                | Unclaimed |                                                                                                             |
 | OutSplice                  | Unclaimed | Incomplete Bioc dependencies: Repitools.                                                                    |
@@ -505,7 +504,7 @@
 | yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                                      |
 | zenith                     | Unclaimed | Incomplete Bioc dependencies: EnrichmentBrowser.                                                            |
 
-## Bioconductor Software Binaries Built (1707)
+## Bioconductor Software Binaries Built (1708)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -1591,6 +1590,7 @@
 | onlineFDR                    | Succeeded | [onlineFDR_2.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/onlineFDR_2.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | ontoProc                     | Succeeded | [ontoProc_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ontoProc_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | openPrimeR                   | Succeeded | [openPrimeR_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/openPrimeR_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| openPrimeRui                 | Succeeded | [openPrimeRui_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/openPrimeRui_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | OpenStats                    | Succeeded | [OpenStats_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/OpenStats_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | oposSOM                      | Succeeded | [oposSOM_2.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/oposSOM_2.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | oppti                        | Succeeded | [oppti_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/oppti_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2216,7 +2216,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1707)
+## Other Dependency Binaries (1708)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                      | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -2835,6 +2835,7 @@
 | ada                                         | Succeeded | [ada_2.0-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ada_2.0-5_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | RCy3                                        | Succeeded | [RCy3_2.22.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/RCy3_2.22.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | MafDb.1Kgenomes.phase3.GRCh38               | Succeeded | [MafDb.1Kgenomes.phase3.GRCh38_3.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/MafDb.1Kgenomes.phase3.GRCh38_3.10.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
+| openPrimeRui                                | Succeeded | [openPrimeRui_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/openPrimeRui_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
 | irlba                                       | Succeeded | [irlba_2.3.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/irlba_2.3.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | gridBase                                    | Succeeded | [gridBase_0.4-7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/gridBase_0.4-7_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | fontBitstreamVera                           | Succeeded | [fontBitstreamVera_0.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/fontBitstreamVera_0.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
