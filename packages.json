@@ -334,14 +334,12 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
@@ -482,11 +480,9 @@
     "FLAMES": [
         "ggbio"
     ],
-    "flowAI": [],
     "flowBin": [
         "flowFP"
     ],
-    "flowCHIC": [],
     "flowClust": [],
     "flowCut": [
         "flowDensity"
@@ -503,7 +499,6 @@
     "flowStats": [
         "flowWorkspace"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowClust"
     ],
@@ -1165,7 +1160,6 @@
     "SCArray.sat": [],
     "scClassify": [],
     "scFeatures": [],
-    "scifer": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
