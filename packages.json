@@ -302,7 +302,6 @@
     ],
     "dmrseq": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "EGSEA": [],
@@ -313,7 +312,6 @@
         "motifmatchr"
     ],
     "ENmix": [],
-    "EnrichmentBrowser": [],
     "enrichTF": [
         "clusterProfiler",
         "motifmatchr"
@@ -440,9 +438,7 @@
         "clusterProfiler"
     ],
     "granulator": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [
@@ -990,7 +986,5 @@
     "yarn": [
         "quantro"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
