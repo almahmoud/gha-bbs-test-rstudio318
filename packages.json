@@ -959,9 +959,7 @@
     ],
     "PoDCall": [],
     "prebs": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz"
     ],
@@ -987,7 +985,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [],
     "ptairMS": [],
     "Pviz": [
         "Gviz"
@@ -1025,7 +1022,6 @@
     "Rbowtie": [],
     "RCAS": [],
     "RCASPAR": [],
-    "rCGH": [],
     "RcwlPipelines": [],
     "rDGIdb": [],
     "Rdisop": [],
