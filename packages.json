@@ -210,7 +210,6 @@
         "clst"
     ],
     "CluMSID": [],
-    "clusterExperiment": [],
     "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -761,9 +760,7 @@
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "GOstats",
         "quantro",
