@@ -51,7 +51,6 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "motifmatchr",
         "projectR"
     ],
@@ -163,7 +162,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
