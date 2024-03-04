@@ -393,7 +393,6 @@
         "zenith"
     ],
     "DSS": [],
-    "edge": [],
     "EGSEA": [],
     "ELMER": [
         "Gviz"
@@ -711,7 +710,6 @@
     "maSigPro": [],
     "matchBox": [],
     "MatrixRider": [],
-    "MBECS": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -1298,7 +1296,6 @@
     "treekoR": [
         "diffcyt"
     ],
-    "trigger": [],
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
