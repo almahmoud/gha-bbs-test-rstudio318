@@ -611,8 +611,7 @@
     "primirTSS": [],
     "PrInCE": [],
     "profileplyr": [
-        "ChIPseeker",
-        "soGGi"
+        "ChIPseeker"
     ],
     "projectR": [],
     "pRoloc": [],
@@ -741,7 +740,6 @@
         "wateRmelon"
     ],
     "snapCGH": [],
-    "soGGi": [],
     "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
@@ -782,7 +780,6 @@
     ],
     "VariantFiltering": [],
     "VaSP": [],
-    "vtpnet": [],
     "vulcan": [
         "DiffBind"
     ],
