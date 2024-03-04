@@ -79,10 +79,8 @@
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
-    "BubbleTree": [],
     "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -124,7 +122,6 @@
         "wateRmelon"
     ],
     "chimeraviz": [],
-    "ChIPexoQual": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -241,10 +238,7 @@
     "DeepBlueR": [],
     "DeMixT": [],
     "DEP": [],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DEScan2": [],
     "DiffBind": [],
     "diffcyt": [],
@@ -649,7 +643,6 @@
     ],
     "PSEA": [],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "ptairMS": [],
@@ -679,14 +672,10 @@
     "rDGIdb": [],
     "Rdisop": [],
     "ReactomePA": [],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [],
     "REDseq": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "REMP": [],
     "Repitools": [],
@@ -704,7 +693,6 @@
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAinteract": [],
@@ -719,7 +707,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
