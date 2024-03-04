@@ -82,7 +82,6 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "cBioPortalData",
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
@@ -126,15 +125,10 @@
         "MsExperiment",
         "xcms"
     ],
-    "canceR": [
-        "cBioPortalData"
-    ],
+    "canceR": [],
     "CATALYST": [],
     "categoryCompare": [],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -443,9 +437,7 @@
     ],
     "globalSeq": [],
     "GmicR": [],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "goSorensen": [
         "clusterProfiler"
     ],
