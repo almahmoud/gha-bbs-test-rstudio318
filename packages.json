@@ -78,9 +78,7 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "benchdamic": [
-        "Maaslin2"
-    ],
+    "benchdamic": [],
     "BG2": [],
     "bigmelon": [
         "ROC",
@@ -572,10 +570,7 @@
     "lumi": [
         "methylumi"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "maCorrPlot": [],
     "MAGAR": [
         "RnBeads",
@@ -671,9 +666,7 @@
         "methylumi"
     ],
     "mitoClone2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
         "xcms"
