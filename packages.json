@@ -78,7 +78,6 @@
     "attract": [
         "GOstats"
     ],
-    "ballgown": [],
     "bandle": [
         "pRoloc"
     ],
@@ -1279,9 +1278,7 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
