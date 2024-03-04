@@ -299,7 +299,6 @@
     ],
     "deconvR": [],
     "DeepBlueR": [],
-    "DEGraph": [],
     "DeMixT": [],
     "DEP": [],
     "derfinder": [],
@@ -971,7 +970,6 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [],
     "transcriptR": [],
     "treekoR": [
         "diffcyt"
