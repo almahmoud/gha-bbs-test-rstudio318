@@ -536,7 +536,6 @@
     ],
     "GOstats": [],
     "granulator": [],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
@@ -960,9 +959,7 @@
     ],
     "quantro": [],
     "quantsmooth": [],
-    "QuartPAC": [
-        "GraphPAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "Rbowtie"
     ],
