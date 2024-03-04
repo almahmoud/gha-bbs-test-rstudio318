@@ -54,15 +54,11 @@
         "motifmatchr",
         "projectR"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "bandle": [
         "pRoloc"
@@ -266,9 +262,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
@@ -532,7 +526,6 @@
     ],
     "maSigPro": [],
     "matchBox": [],
-    "MatrixRider": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -612,11 +605,9 @@
         "clusterProfiler"
     ],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
     "motifmatchr": [],
-    "motifStack": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -664,7 +655,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "ncGTW": [
@@ -806,8 +796,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "Risa": [
         "MsExperiment",
