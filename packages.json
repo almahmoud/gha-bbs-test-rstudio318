@@ -328,7 +328,6 @@
     "cytofQC": [
         "CATALYST"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowWorkspace",
@@ -504,8 +503,6 @@
     "flowMerge": [
         "flowClust"
     ],
-    "flowPloidy": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowWorkspace"
     ],
