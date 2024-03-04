@@ -238,7 +238,6 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [],
     "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
@@ -977,9 +976,7 @@
     "signatureSearch": [
         "clusterProfiler"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SIM": [
         "quantsmooth"
     ],
@@ -1023,7 +1020,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [],
     "statTarget": [
         "ROC"
     ],
