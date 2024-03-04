@@ -1005,8 +1005,7 @@
     ],
     "quantsmooth": [],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [
         "Rbowtie"
@@ -1188,7 +1187,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "SpatialDecon": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
