@@ -778,9 +778,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
@@ -1270,7 +1268,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz"
