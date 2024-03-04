@@ -1,12 +1,12 @@
 # Summary
 
-1746 Bioconductor sotware binaries built
+1747 Bioconductor sotware binaries built
 
-3495 Other dependency binaries built
+3496 Other dependency binaries built
 
 0 failed packages
 
-448 unclaimed packages
+447 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (448)
+## Unclaimed (447)
 | Package                    | Status    | Blocked By                                                                                                  |
 |----------------------------|-----------|-------------------------------------------------------------------------------------------------------------|
 | ACE                        | Unclaimed | Incomplete Bioc dependencies: QDNAseq.                                                                      |
@@ -160,7 +160,6 @@
 | factDesign                 | Unclaimed |                                                                                                             |
 | famat                      | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
 | fCI                        | Unclaimed |                                                                                                             |
-| FEAST                      | Unclaimed |                                                                                                             |
 | ffpe                       | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                              |
 | flagme                     | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                                   |
 | FLAMES                     | Unclaimed | Incomplete Bioc dependencies: ggbio.                                                                        |
@@ -466,7 +465,7 @@
 | yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                                      |
 | zenith                     | Unclaimed | Incomplete Bioc dependencies: EnrichmentBrowser.                                                            |
 
-## Bioconductor Software Binaries Built (1746)
+## Bioconductor Software Binaries Built (1747)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -1006,6 +1005,7 @@
 | fCCAC                        | Succeeded | [fCCAC_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/fCCAC_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | fcScan                       | Succeeded | [fcScan_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/fcScan_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | fdrame                       | Succeeded | [fdrame_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/fdrame_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| FEAST                        | Succeeded | [FEAST_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/FEAST_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | FeatSeekR                    | Succeeded | [FeatSeekR_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/FeatSeekR_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | fedup                        | Succeeded | [fedup_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/fedup_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | FELLA                        | Succeeded | [FELLA_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/FELLA_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2216,7 +2216,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1746)
+## Other Dependency Binaries (1747)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                      | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -3840,6 +3840,7 @@
 | broom.helpers                               | Succeeded | [broom.helpers_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/broom.helpers_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | mosaicsExample                              | Succeeded | [mosaicsExample_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/mosaicsExample_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | ggside                                      | Succeeded | [ggside_0.3.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ggside_0.3.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
+| FEAST                                       | Succeeded | [FEAST_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/FEAST_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | DiagrammeR                                  | Succeeded | [DiagrammeR_1.0.11_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/DiagrammeR_1.0.11_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
 | distillery                                  | Succeeded | [distillery_1.2-1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/distillery_1.2-1_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | CoverageView                                | Succeeded | [CoverageView_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/CoverageView_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
