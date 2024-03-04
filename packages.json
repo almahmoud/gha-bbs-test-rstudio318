@@ -959,8 +959,7 @@
     "oppar": [],
     "optimalFlow": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [],
     "pageRank": [
@@ -1108,9 +1107,7 @@
     "REMP": [
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "ggbio"
@@ -1126,7 +1123,6 @@
         "RUVSeq",
         "motifStack"
     ],
-    "Ringo": [],
     "Risa": [
         "MsExperiment",
         "Spectra",
@@ -1229,9 +1225,7 @@
     "SIM": [
         "quantsmooth"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "similaRpeak": [],
     "simpleSeg": [],
     "singleCellTK": [],
