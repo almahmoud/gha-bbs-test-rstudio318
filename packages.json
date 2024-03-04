@@ -120,7 +120,6 @@
         "dmrseq"
     ],
     "BLMA": [],
-    "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
         "ggbio"
@@ -649,9 +648,7 @@
         "DSS"
     ],
     "lemur": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
@@ -1020,7 +1017,6 @@
     "qsea": [
         "HMMcopy"
     ],
-    "qsmooth": [],
     "quantro": [
         "minfi"
     ],
@@ -1130,7 +1126,6 @@
     ],
     "ROC": [],
     "Rqc": [],
-    "rqt": [],
     "rSWeeP": [],
     "RUVSeq": [],
     "sagenhaft": [],
@@ -1221,7 +1216,6 @@
         "motifmatchr"
     ],
     "Spectra": [],
-    "spicyR": [],
     "spkTools": [],
     "SPLINTER": [
         "Gviz"
