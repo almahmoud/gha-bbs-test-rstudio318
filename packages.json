@@ -6,13 +6,11 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
         "ggbio"
     ],
     "affylmGUI": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools",
         "ggbio"
@@ -68,9 +66,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "bandle": [
         "pRoloc"
     ],
@@ -138,9 +134,7 @@
         "cBioPortalData"
     ],
     "CATALYST": [],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "cBioPortalData"
     ],
@@ -417,7 +411,6 @@
         "flowWorkspace"
     ],
     "flowWorkspace": [],
-    "FRASER": [],
     "funtooNorm": [],
     "GA4GHshiny": [],
     "GARS": [
@@ -461,16 +454,13 @@
         "flowWorkspace"
     ],
     "globalSeq": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNOSIS": [
         "cBioPortalData"
     ],
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "granulator": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
@@ -509,7 +499,6 @@
         "methylumi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "IFAA": [],
@@ -633,15 +622,12 @@
     ],
     "mimager": [],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi"
     ],
     "MinimumDistance": [],
     "mirIntegrator": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi"
     ],
@@ -728,7 +714,6 @@
     "NetPathMiner": [],
     "netSmooth": [],
     "netZooR": [
-        "GOstats",
         "quantro",
         "yarn"
     ],
@@ -756,9 +741,7 @@
     ],
     "parody": [],
     "PathNet": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [
         "flowWorkspace"
@@ -777,9 +760,7 @@
     "PING": [
         "Gviz"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "PLPE": [
         "LPE"
     ],
@@ -854,7 +835,6 @@
     "REMP": [],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
         "ggbio"
     ],
     "RESOLVE": [],
@@ -914,7 +894,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA"
     ],
     "scTreeViz": [
@@ -932,9 +911,7 @@
     ],
     "SeqSQC": [],
     "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [
