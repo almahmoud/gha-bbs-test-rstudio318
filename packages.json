@@ -1,7 +1,5 @@
 {
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "snapCGH"
     ],
@@ -96,7 +94,6 @@
     ],
     "BioNetStat": [],
     "biscuiteer": [
-        "QDNAseq",
         "dmrseq"
     ],
     "BLMA": [],
@@ -152,9 +149,7 @@
         "clusterProfiler"
     ],
     "CFAssay": [],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
@@ -425,9 +420,7 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
@@ -617,7 +610,6 @@
         "methylumi"
     ],
     "MinimumDistance": [],
-    "mirIntegrator": [],
     "miRLAB": [],
     "missMethyl": [
         "methylumi"
@@ -785,7 +777,6 @@
         "Gviz"
     ],
     "qcmetrics": [],
-    "QDNAseq": [],
     "qPLEXanalyzer": [],
     "qsea": [
         "HMMcopy"
