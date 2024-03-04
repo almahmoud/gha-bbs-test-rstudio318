@@ -149,12 +149,10 @@
     "CluMSID": [],
     "clusterProfiler": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "COCOA": [],
     "comapr": [],
@@ -170,9 +168,7 @@
         "RUVSeq"
     ],
     "conumee": [],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "cosmiq": [
         "MsExperiment",
         "xcms"
@@ -415,7 +411,6 @@
     "iSEEu": [],
     "iSeq": [],
     "ivygapSE": [],
-    "karyoploteR": [],
     "kissDE": [],
     "lisaClust": [],
     "LOBSTAHS": [
@@ -557,8 +552,7 @@
         "MSstatsPTM"
     ],
     "multicrispr": [
-        "Rbowtie",
-        "karyoploteR"
+        "Rbowtie"
     ],
     "multiWGCNA": [
         "dcanr"
