@@ -4,8 +4,7 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "affycoretools": [
         "GOstats",
@@ -1196,7 +1195,6 @@
     "SCArray.sat": [],
     "scBFA": [],
     "scClassify": [],
-    "scDataviz": [],
     "scFeatures": [],
     "scifer": [],
     "scmeth": [],
@@ -1269,9 +1267,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
@@ -1322,7 +1318,6 @@
         "enrichplot"
     ],
     "tenXplore": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot"
