@@ -321,7 +321,6 @@
         "flowClust",
         "flowDensity"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -499,7 +498,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMatch": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -940,7 +938,6 @@
         "yarn"
     ],
     "nondetects": [],
-    "NormalyzerDE": [],
     "NTW": [],
     "octad": [
         "RUVSeq"
