@@ -185,19 +185,16 @@
         "CATALYST"
     ],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "dagLogo": [],
@@ -285,19 +282,14 @@
     "flowDensity": [],
     "flowFP": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowMerge": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "funtooNorm": [],
     "GARS": [],
     "GateFinder": [
@@ -324,9 +316,7 @@
     "GenomicPlot": [],
     "GEOfastq": [],
     "gespeR": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "globalSeq": [],
     "GmicR": [],
     "GNOSIS": [],
@@ -367,9 +357,7 @@
         "pcaExplorer"
     ],
     "IFAA": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -546,9 +534,7 @@
     "NTW": [],
     "octad": [],
     "OGRE": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -560,9 +546,7 @@
     "PathNet": [],
     "pcaExplorer": [],
     "PDATK": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [],
     "PepsNMR": [],
     "PharmacoGx": [],
@@ -729,7 +713,6 @@
     "TimiRGeN": [
         "clusterProfiler"
     ],
-    "topdownr": [],
     "ToxicoGx": [],
     "trackViewer": [],
     "treekoR": [
