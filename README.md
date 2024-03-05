@@ -1,12 +1,12 @@
 # Summary
 
-1815 Bioconductor sotware binaries built
+1816 Bioconductor sotware binaries built
 
-3614 Other dependency binaries built
+3615 Other dependency binaries built
 
 0 failed packages
 
-379 unclaimed packages
+378 unclaimed packages
 
 
 
@@ -14,390 +14,389 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (379)
-| Package                    | Status    | Blocked By                                                                                                  |
-|----------------------------|-----------|-------------------------------------------------------------------------------------------------------------|
-| ACE                        | Unclaimed |                                                                                                             |
-| ADaCGH2                    | Unclaimed | Incomplete Bioc dependencies: snapCGH.                                                                      |
-| affycoretools              | Unclaimed | Incomplete Bioc dependencies: ReportingTools.                                                               |
-| affylmGUI                  | Unclaimed |                                                                                                             |
-| AgiMicroRna                | Unclaimed | Incomplete Bioc dependencies: ReportingTools, affycoretools.                                                |
-| AHMassBank                 | Unclaimed |                                                                                                             |
-| alabaster                  | Unclaimed | Incomplete Bioc dependencies: alabaster.mae, alabaster.sce, alabaster.se, alabaster.spatial, alabaster.vcf. |
-| alabaster.mae              | Unclaimed | Incomplete Bioc dependencies: alabaster.se.                                                                 |
-| alabaster.sce              | Unclaimed | Incomplete Bioc dependencies: alabaster.se.                                                                 |
-| alabaster.se               | Unclaimed |                                                                                                             |
-| alabaster.spatial          | Unclaimed | Incomplete Bioc dependencies: alabaster.sce, alabaster.se.                                                  |
-| alabaster.vcf              | Unclaimed | Incomplete Bioc dependencies: alabaster.se.                                                                 |
-| AllelicImbalance           | Unclaimed |                                                                                                             |
-| arrayMvout                 | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi, parody.                                                      |
-| arrayQualityMetrics        | Unclaimed |                                                                                                             |
-| ASICS                      | Unclaimed | Incomplete Bioc dependencies: PepsNMR.                                                                      |
-| ASpli                      | Unclaimed |                                                                                                             |
-| ATACCoGAPS                 | Unclaimed | Incomplete Bioc dependencies: projectR.                                                                     |
-| ATACseqQC                  | Unclaimed |                                                                                                             |
-| ATACseqTFEA                | Unclaimed |                                                                                                             |
-| atSNP                      | Unclaimed |                                                                                                             |
-| attract                    | Unclaimed |                                                                                                             |
-| bandle                     | Unclaimed | Incomplete Bioc dependencies: pRoloc.                                                                       |
-| BaseSpaceR                 | Unclaimed |                                                                                                             |
-| beadarraySNP               | Unclaimed | Incomplete Bioc dependencies: quantsmooth.                                                                  |
-| benchdamic                 | Unclaimed |                                                                                                             |
-| BG2                        | Unclaimed |                                                                                                             |
-| bigmelon                   | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi, wateRmelon.                                             |
-| bioCancer                  | Unclaimed | Incomplete Bioc dependencies: ReactomePA, clusterProfiler.                                                  |
-| BiocOncoTK                 | Unclaimed |                                                                                                             |
-| BioMVCClass                | Unclaimed | Incomplete Bioc dependencies: MVCClass.                                                                     |
-| biomvRCNS                  | Unclaimed |                                                                                                             |
-| biscuiteer                 | Unclaimed |                                                                                                             |
-| BOBaFIT                    | Unclaimed |                                                                                                             |
-| borealis                   | Unclaimed |                                                                                                             |
-| brainflowprobes            | Unclaimed | Incomplete Bioc dependencies: derfinderPlot.                                                                |
-| CAFE                       | Unclaimed |                                                                                                             |
-| CAGEfightR                 | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                          |
-| cageminer                  | Unclaimed |                                                                                                             |
-| CAGEr                      | Unclaimed | Incomplete Bioc dependencies: CAGEfightR, GenomicInteractions.                                              |
-| CAMERA                     | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                                           |
-| canceR                     | Unclaimed |                                                                                                             |
-| CATALYST                   | Unclaimed |                                                                                                             |
-| categoryCompare            | Unclaimed |                                                                                                             |
-| cbaf                       | Unclaimed |                                                                                                             |
-| CBNplot                    | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| cellscape                  | Unclaimed |                                                                                                             |
-| CEMiTool                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| censcyt                    | Unclaimed | Incomplete Bioc dependencies: diffcyt.                                                                      |
-| CeTF                       | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| CFAssay                    | Unclaimed |                                                                                                             |
-| cfdnakit                   | Unclaimed |                                                                                                             |
-| ChAMP                      | Unclaimed | Incomplete Bioc dependencies: DMRcate, ROC, lumi, methylumi, missMethyl, wateRmelon.                        |
-| chimeraviz                 | Unclaimed |                                                                                                             |
-| ChIPQC                     | Unclaimed |                                                                                                             |
-| ChIPseeker                 | Unclaimed |                                                                                                             |
-| ChIPseqR                   | Unclaimed | Incomplete Bioc dependencies: HilbertVis.                                                                   |
-| cicero                     | Unclaimed | Incomplete Bioc dependencies: monocle.                                                                      |
-| clevRvis                   | Unclaimed |                                                                                                             |
-| cliqueMS                   | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                                           |
-| Clomial                    | Unclaimed |                                                                                                             |
-| clst                       | Unclaimed | Incomplete Bioc dependencies: ROC.                                                                          |
-| clstutils                  | Unclaimed | Incomplete Bioc dependencies: ROC, clst.                                                                    |
-| CluMSID                    | Unclaimed |                                                                                                             |
-| clusterProfiler            | Unclaimed |                                                                                                             |
-| CNVfilteR                  | Unclaimed | Incomplete Bioc dependencies: CopyNumberPlots.                                                              |
-| CNViz                      | Unclaimed | Incomplete Bioc dependencies: CopyNumberPlots.                                                              |
-| COCOA                      | Unclaimed |                                                                                                             |
-| comapr                     | Unclaimed |                                                                                                             |
-| coMET                      | Unclaimed |                                                                                                             |
-| compEpiTools               | Unclaimed | Incomplete Bioc dependencies: methylPipe.                                                                   |
-| CompoundDb                 | Unclaimed |                                                                                                             |
-| CONFESS                    | Unclaimed | Incomplete Bioc dependencies: flowMerge.                                                                    |
-| consensusDE                | Unclaimed |                                                                                                             |
-| conumee                    | Unclaimed |                                                                                                             |
-| CopyNumberPlots            | Unclaimed |                                                                                                             |
-| cosmiq                     | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                                           |
-| crisprBowtie               | Unclaimed | Incomplete Bioc dependencies: Rbowtie.                                                                      |
-| crisprDesign               | Unclaimed | Incomplete Bioc dependencies: Rbowtie, crisprBowtie.                                                        |
-| crisprVerse                | Unclaimed | Incomplete Bioc dependencies: Rbowtie, crisprBowtie, crisprDesign, crisprViz.                               |
-| crisprViz                  | Unclaimed | Incomplete Bioc dependencies: Rbowtie, crisprBowtie, crisprDesign.                                          |
-| cummeRbund                 | Unclaimed |                                                                                                             |
-| cyanoFilter                | Unclaimed | Incomplete Bioc dependencies: flowDensity.                                                                  |
-| CyTOFpower                 | Unclaimed | Incomplete Bioc dependencies: diffcyt.                                                                      |
-| cytofQC                    | Unclaimed | Incomplete Bioc dependencies: CATALYST.                                                                     |
-| CytoML                     | Unclaimed | Incomplete Bioc dependencies: flowWorkspace, ggcyto, openCyto.                                              |
-| CytoPipeline               | Unclaimed | Incomplete Bioc dependencies: PeacoQC, flowWorkspace, ggcyto.                                               |
-| CytoPipelineGUI            | Unclaimed | Incomplete Bioc dependencies: CytoPipeline, PeacoQC, flowWorkspace, ggcyto.                                 |
-| dagLogo                    | Unclaimed |                                                                                                             |
-| DAPAR                      | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| dcanr                      | Unclaimed |                                                                                                             |
-| ddPCRclust                 | Unclaimed | Incomplete Bioc dependencies: flowDensity.                                                                  |
-| debrowser                  | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| deconvR                    | Unclaimed |                                                                                                             |
-| DeepBlueR                  | Unclaimed |                                                                                                             |
-| DeMixT                     | Unclaimed |                                                                                                             |
-| DEP                        | Unclaimed |                                                                                                             |
-| derfinderPlot              | Unclaimed |                                                                                                             |
-| diffcyt                    | Unclaimed |                                                                                                             |
-| DMRcate                    | Unclaimed | Incomplete Bioc dependencies: methylumi, missMethyl.                                                        |
-| dreamlet                   | Unclaimed | Incomplete Bioc dependencies: zenith.                                                                       |
-| ELMER                      | Unclaimed |                                                                                                             |
-| enhancerHomologSearch      | Unclaimed |                                                                                                             |
-| ENmix                      | Unclaimed |                                                                                                             |
-| enrichTF                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| enrichViewNet              | Unclaimed |                                                                                                             |
-| EpiCompare                 | Unclaimed | Incomplete Bioc dependencies: ChIPseeker.                                                                   |
-| epimutacions               | Unclaimed |                                                                                                             |
-| EpiTxDb                    | Unclaimed |                                                                                                             |
-| epivizr                    | Unclaimed | Incomplete Bioc dependencies: epivizrData, epivizrServer.                                                   |
-| epivizrChart               | Unclaimed | Incomplete Bioc dependencies: epivizrData, epivizrServer.                                                   |
-| epivizrData                | Unclaimed | Incomplete Bioc dependencies: epivizrServer.                                                                |
-| epivizrServer              | Unclaimed |                                                                                                             |
-| epivizrStandalone          | Unclaimed | Incomplete Bioc dependencies: epivizr, epivizrData, epivizrServer.                                          |
-| esATAC                     | Unclaimed | Incomplete Bioc dependencies: ChIPseeker, clusterProfiler.                                                  |
-| ExperimentHubData          | Unclaimed |                                                                                                             |
-| extraChIPs                 | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                          |
-| factDesign                 | Unclaimed |                                                                                                             |
-| famat                      | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| fCI                        | Unclaimed |                                                                                                             |
-| ffpe                       | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                              |
-| flagme                     | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                                   |
-| FLAMES                     | Unclaimed |                                                                                                             |
-| flowBin                    | Unclaimed | Incomplete Bioc dependencies: flowFP.                                                                       |
-| flowCut                    | Unclaimed | Incomplete Bioc dependencies: flowDensity.                                                                  |
-| flowDensity                | Unclaimed |                                                                                                             |
-| flowFP                     | Unclaimed |                                                                                                             |
-| flowGate                   | Unclaimed | Incomplete Bioc dependencies: flowWorkspace, ggcyto.                                                        |
-| flowMerge                  | Unclaimed |                                                                                                             |
-| flowStats                  | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                |
-| flowTrans                  | Unclaimed |                                                                                                             |
-| flowVS                     | Unclaimed | Incomplete Bioc dependencies: flowStats, flowWorkspace.                                                     |
-| flowWorkspace              | Unclaimed |                                                                                                             |
-| funtooNorm                 | Unclaimed |                                                                                                             |
-| GARS                       | Unclaimed |                                                                                                             |
-| GateFinder                 | Unclaimed | Incomplete Bioc dependencies: flowFP.                                                                       |
-| GDCRNATools                | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| gDR                        | Unclaimed | Incomplete Bioc dependencies: PharmacoGx, gDRimport.                                                        |
-| gDRimport                  | Unclaimed | Incomplete Bioc dependencies: PharmacoGx.                                                                   |
-| GeneBreak                  | Unclaimed |                                                                                                             |
-| GENESIS                    | Unclaimed | Incomplete Bioc dependencies: GWASTools, quantsmooth.                                                       |
-| GeneStructureTools         | Unclaimed |                                                                                                             |
-| GenomicInteractions        | Unclaimed |                                                                                                             |
-| GenomicOZone               | Unclaimed |                                                                                                             |
-| GenomicPlot                | Unclaimed |                                                                                                             |
-| GEOfastq                   | Unclaimed |                                                                                                             |
-| gespeR                     | Unclaimed |                                                                                                             |
-| ggcyto                     | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                |
-| globalSeq                  | Unclaimed |                                                                                                             |
-| GmicR                      | Unclaimed |                                                                                                             |
-| GNOSIS                     | Unclaimed |                                                                                                             |
-| goSorensen                 | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| granulator                 | Unclaimed |                                                                                                             |
-| GSEABenchmarkeR            | Unclaimed |                                                                                                             |
-| GWASTools                  | Unclaimed | Incomplete Bioc dependencies: quantsmooth.                                                                  |
-| gwasurvivr                 | Unclaimed | Incomplete Bioc dependencies: GWASTools, quantsmooth.                                                       |
-| Harshlight                 | Unclaimed |                                                                                                             |
-| HiCDCPlus                  | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                          |
-| hierGWAS                   | Unclaimed |                                                                                                             |
-| HilbertCurve               | Unclaimed | Incomplete Bioc dependencies: HilbertVis.                                                                   |
-| HilbertVis                 | Unclaimed |                                                                                                             |
-| HilbertVisGUI              | Unclaimed | Incomplete Bioc dependencies: HilbertVis.                                                                   |
-| hmdbQuery                  | Unclaimed |                                                                                                             |
-| HMMcopy                    | Unclaimed |                                                                                                             |
-| HPiP                       | Unclaimed |                                                                                                             |
-| hummingbird                | Unclaimed |                                                                                                             |
-| ibh                        | Unclaimed |                                                                                                             |
-| iCheck                     | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                              |
-| ideal                      | Unclaimed | Incomplete Bioc dependencies: pcaExplorer.                                                                  |
-| IFAA                       | Unclaimed |                                                                                                             |
-| ImmuneSpaceR               | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                |
-| iNETgrate                  | Unclaimed | Incomplete Bioc dependencies: Pigengene, ReactomePA, clusterProfiler.                                       |
-| intansv                    | Unclaimed |                                                                                                             |
-| InterMineR                 | Unclaimed |                                                                                                             |
-| IPO                        | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                                   |
-| iSEEu                      | Unclaimed |                                                                                                             |
-| iSeq                       | Unclaimed |                                                                                                             |
-| ivygapSE                   | Unclaimed |                                                                                                             |
-| kissDE                     | Unclaimed |                                                                                                             |
-| lisaClust                  | Unclaimed |                                                                                                             |
-| LOBSTAHS                   | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                                   |
-| LPE                        | Unclaimed |                                                                                                             |
-| LPEadj                     | Unclaimed | Incomplete Bioc dependencies: LPE.                                                                          |
-| lumi                       | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                                    |
-| Macarron                   | Unclaimed |                                                                                                             |
-| maCorrPlot                 | Unclaimed |                                                                                                             |
-| MAGAR                      | Unclaimed | Incomplete Bioc dependencies: RnBeads, methylumi.                                                           |
-| MAGeCKFlute                | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| MAIT                       | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                                   |
-| maPredictDSC               | Unclaimed | Incomplete Bioc dependencies: ROC.                                                                          |
-| maser                      | Unclaimed |                                                                                                             |
-| maSigPro                   | Unclaimed |                                                                                                             |
-| matchBox                   | Unclaimed |                                                                                                             |
-| mBPCR                      | Unclaimed | Incomplete Bioc dependencies: GWASTools, quantsmooth.                                                       |
-| mCSEA                      | Unclaimed |                                                                                                             |
-| MEAL                       | Unclaimed | Incomplete Bioc dependencies: methylumi, missMethyl.                                                        |
-| MEAT                       | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi, wateRmelon.                                             |
-| meshes                     | Unclaimed |                                                                                                             |
-| MetaboAnnotation           | Unclaimed | Incomplete Bioc dependencies: CompoundDb.                                                                   |
-| metaCCA                    | Unclaimed |                                                                                                             |
-| MetaCyto                   | Unclaimed |                                                                                                             |
-| metaMS                     | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                                   |
-| MetaPhOR                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| metaseqR2                  | Unclaimed |                                                                                                             |
-| MetCirc                    | Unclaimed |                                                                                                             |
-| MethylAid                  | Unclaimed |                                                                                                             |
-| methylCC                   | Unclaimed |                                                                                                             |
-| methylclock                | Unclaimed | Incomplete Bioc dependencies: ExperimentHubData.                                                            |
-| methylGSA                  | Unclaimed | Incomplete Bioc dependencies: clusterProfiler, methylumi, missMethyl.                                       |
-| methylPipe                 | Unclaimed |                                                                                                             |
-| methylSig                  | Unclaimed |                                                                                                             |
-| methylumi                  | Unclaimed |                                                                                                             |
-| mfa                        | Unclaimed |                                                                                                             |
-| MicrobiomeProfiler         | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| mimager                    | Unclaimed |                                                                                                             |
-| MineICA                    | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                              |
-| MinimumDistance            | Unclaimed |                                                                                                             |
-| miRLAB                     | Unclaimed |                                                                                                             |
-| missMethyl                 | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                                    |
-| MMUPHin                    | Unclaimed |                                                                                                             |
-| MobilityTransformR         | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                                           |
-| ModCon                     | Unclaimed |                                                                                                             |
-| monocle                    | Unclaimed |                                                                                                             |
-| Moonlight2R                | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| MoonlightR                 | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| motifbreakR                | Unclaimed |                                                                                                             |
-| MsBackendMassbank          | Unclaimed |                                                                                                             |
-| MsBackendMgf               | Unclaimed |                                                                                                             |
-| MsBackendMsp               | Unclaimed |                                                                                                             |
-| MsBackendRawFileReader     | Unclaimed |                                                                                                             |
-| MsBackendSql               | Unclaimed |                                                                                                             |
-| MsExperiment               | Unclaimed |                                                                                                             |
-| msgbsR                     | Unclaimed |                                                                                                             |
-| msmsEDA                    | Unclaimed |                                                                                                             |
-| msmsTests                  | Unclaimed | Incomplete Bioc dependencies: msmsEDA.                                                                      |
-| MSnID                      | Unclaimed | Incomplete Bioc dependencies: msmsEDA, msmsTests.                                                           |
-| MsQuality                  | Unclaimed | Incomplete Bioc dependencies: MsExperiment.                                                                 |
-| MSstatsLiP                 | Unclaimed |                                                                                                             |
-| MSstatsLOBD                | Unclaimed |                                                                                                             |
-| MSstatsQC                  | Unclaimed | Incomplete Bioc dependencies: qcmetrics.                                                                    |
-| MSstatsQCgui               | Unclaimed | Incomplete Bioc dependencies: MSstatsQC, qcmetrics.                                                         |
-| MSstatsShiny               | Unclaimed |                                                                                                             |
-| multicrispr                | Unclaimed | Incomplete Bioc dependencies: Rbowtie.                                                                      |
-| multiWGCNA                 | Unclaimed | Incomplete Bioc dependencies: dcanr.                                                                        |
-| MVCClass                   | Unclaimed |                                                                                                             |
-| NADfinder                  | Unclaimed | Incomplete Bioc dependencies: ATACseqQC, trackViewer.                                                       |
-| ncGTW                      | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                                           |
-| netbiov                    | Unclaimed |                                                                                                             |
-| netOmics                   | Unclaimed | Incomplete Bioc dependencies: RandomWalkRestartMH.                                                          |
-| NetPathMiner               | Unclaimed |                                                                                                             |
-| netSmooth                  | Unclaimed |                                                                                                             |
-| netZooR                    | Unclaimed | Incomplete Bioc dependencies: quantro, yarn.                                                                |
-| NTW                        | Unclaimed |                                                                                                             |
-| octad                      | Unclaimed |                                                                                                             |
-| OGRE                       | Unclaimed |                                                                                                             |
-| openCyto                   | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                |
-| optimalFlow                | Unclaimed |                                                                                                             |
-| OutSplice                  | Unclaimed | Incomplete Bioc dependencies: Repitools.                                                                    |
-| pageRank                   | Unclaimed |                                                                                                             |
-| PanomiR                    | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| parody                     | Unclaimed |                                                                                                             |
-| PathNet                    | Unclaimed |                                                                                                             |
-| pcaExplorer                | Unclaimed |                                                                                                             |
-| PDATK                      | Unclaimed |                                                                                                             |
-| PeacoQC                    | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                |
-| peakPantheR                | Unclaimed |                                                                                                             |
-| PepsNMR                    | Unclaimed |                                                                                                             |
-| PharmacoGx                 | Unclaimed |                                                                                                             |
-| phemd                      | Unclaimed | Incomplete Bioc dependencies: monocle.                                                                      |
-| Pi                         | Unclaimed |                                                                                                             |
-| Pigengene                  | Unclaimed | Incomplete Bioc dependencies: ReactomePA, clusterProfiler.                                                  |
-| PING                       | Unclaimed |                                                                                                             |
-| PloGO2                     | Unclaimed |                                                                                                             |
-| PLPE                       | Unclaimed | Incomplete Bioc dependencies: LPE.                                                                          |
-| PoDCall                    | Unclaimed |                                                                                                             |
-| preciseTAD                 | Unclaimed |                                                                                                             |
-| primirTSS                  | Unclaimed |                                                                                                             |
-| PrInCE                     | Unclaimed |                                                                                                             |
-| profileplyr                | Unclaimed | Incomplete Bioc dependencies: ChIPseeker.                                                                   |
-| projectR                   | Unclaimed |                                                                                                             |
-| pRoloc                     | Unclaimed |                                                                                                             |
-| pRolocGUI                  | Unclaimed | Incomplete Bioc dependencies: pRoloc.                                                                       |
-| Prostar                    | Unclaimed | Incomplete Bioc dependencies: DAPAR, clusterProfiler.                                                       |
-| PSEA                       | Unclaimed |                                                                                                             |
-| psichomics                 | Unclaimed | Incomplete Bioc dependencies: recount.                                                                      |
-| ptairMS                    | Unclaimed |                                                                                                             |
-| Pviz                       | Unclaimed |                                                                                                             |
-| qcmetrics                  | Unclaimed |                                                                                                             |
-| qPLEXanalyzer              | Unclaimed |                                                                                                             |
-| qsea                       | Unclaimed | Incomplete Bioc dependencies: HMMcopy.                                                                      |
-| quantro                    | Unclaimed |                                                                                                             |
-| quantsmooth                | Unclaimed |                                                                                                             |
-| QuartPAC                   | Unclaimed |                                                                                                             |
-| QuasR                      | Unclaimed | Incomplete Bioc dependencies: Rbowtie.                                                                      |
-| R3CPET                     | Unclaimed |                                                                                                             |
-| RadioGx                    | Unclaimed |                                                                                                             |
-| RAIDS                      | Unclaimed | Incomplete Bioc dependencies: GENESIS, GWASTools, quantsmooth.                                              |
-| RandomWalkRestartMH        | Unclaimed |                                                                                                             |
-| Rbowtie                    | Unclaimed |                                                                                                             |
-| RCASPAR                    | Unclaimed |                                                                                                             |
-| rDGIdb                     | Unclaimed |                                                                                                             |
-| Rdisop                     | Unclaimed |                                                                                                             |
-| ReactomePA                 | Unclaimed |                                                                                                             |
-| recount                    | Unclaimed |                                                                                                             |
-| recountmethylation         | Unclaimed |                                                                                                             |
-| regionReport               | Unclaimed |                                                                                                             |
-| regutools                  | Unclaimed |                                                                                                             |
-| REMP                       | Unclaimed |                                                                                                             |
-| Repitools                  | Unclaimed |                                                                                                             |
-| ReportingTools             | Unclaimed |                                                                                                             |
-| ReUseData                  | Unclaimed |                                                                                                             |
-| RiboProfiling              | Unclaimed |                                                                                                             |
-| ribosomeProfilingQC        | Unclaimed |                                                                                                             |
-| Risa                       | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                                           |
-| RLSeq                      | Unclaimed |                                                                                                             |
-| RMassBank                  | Unclaimed |                                                                                                             |
-| RNAAgeCalc                 | Unclaimed | Incomplete Bioc dependencies: recount.                                                                      |
-| RNAinteract                | Unclaimed |                                                                                                             |
-| RNAmodR                    | Unclaimed |                                                                                                             |
-| RNAmodR.AlkAnilineSeq      | Unclaimed | Incomplete Bioc dependencies: RNAmodR.                                                                      |
-| RNAmodR.ML                 | Unclaimed | Incomplete Bioc dependencies: RNAmodR.                                                                      |
-| RNAmodR.RiboMethSeq        | Unclaimed | Incomplete Bioc dependencies: RNAmodR.                                                                      |
-| RnaSeqSampleSize           | Unclaimed | Incomplete Bioc dependencies: recount.                                                                      |
-| RnBeads                    | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                                    |
-| ROC                        | Unclaimed |                                                                                                             |
-| rSWeeP                     | Unclaimed |                                                                                                             |
-| sagenhaft                  | Unclaimed |                                                                                                             |
-| scone                      | Unclaimed |                                                                                                             |
-| scruff                     | Unclaimed |                                                                                                             |
-| scTensor                   | Unclaimed | Incomplete Bioc dependencies: ReactomePA.                                                                   |
-| scTreeViz                  | Unclaimed | Incomplete Bioc dependencies: epivizr, epivizrData, epivizrServer.                                          |
-| segmenter                  | Unclaimed | Incomplete Bioc dependencies: ChIPseeker.                                                                   |
-| semisup                    | Unclaimed |                                                                                                             |
-| seqArchRplus               | Unclaimed | Incomplete Bioc dependencies: ChIPseeker, clusterProfiler.                                                  |
-| SeqSQC                     | Unclaimed |                                                                                                             |
-| SGCP                       | Unclaimed |                                                                                                             |
-| shinyepico                 | Unclaimed |                                                                                                             |
-| shinyMethyl                | Unclaimed |                                                                                                             |
-| signatureSearch            | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| signifinder                | Unclaimed |                                                                                                             |
-| SIM                        | Unclaimed | Incomplete Bioc dependencies: quantsmooth.                                                                  |
-| SimBindProfiles            | Unclaimed |                                                                                                             |
-| similaRpeak                | Unclaimed |                                                                                                             |
-| SingleMoleculeFootprinting | Unclaimed | Incomplete Bioc dependencies: QuasR, Rbowtie.                                                               |
-| skewr                      | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi, wateRmelon.                                             |
-| snapCGH                    | Unclaimed |                                                                                                             |
-| SomaticSignatures          | Unclaimed |                                                                                                             |
-| spatzie                    | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                                          |
-| spkTools                   | Unclaimed |                                                                                                             |
-| SPLINTER                   | Unclaimed |                                                                                                             |
-| srnadiff                   | Unclaimed |                                                                                                             |
-| standR                     | Unclaimed |                                                                                                             |
-| staRank                    | Unclaimed |                                                                                                             |
-| statTarget                 | Unclaimed | Incomplete Bioc dependencies: ROC.                                                                          |
-| Summix                     | Unclaimed |                                                                                                             |
-| synapter                   | Unclaimed |                                                                                                             |
-| tadar                      | Unclaimed |                                                                                                             |
-| TBSignatureProfiler        | Unclaimed |                                                                                                             |
-| TCC                        | Unclaimed | Incomplete Bioc dependencies: ROC.                                                                          |
-| TDbasedUFEadv              | Unclaimed |                                                                                                             |
-| TimiRGeN                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
-| topdownr                   | Unclaimed |                                                                                                             |
-| ToxicoGx                   | Unclaimed |                                                                                                             |
-| trackViewer                | Unclaimed |                                                                                                             |
-| treekoR                    | Unclaimed | Incomplete Bioc dependencies: diffcyt.                                                                      |
-| TVTB                       | Unclaimed |                                                                                                             |
-| TypeInfo                   | Unclaimed |                                                                                                             |
-| uncoverappLib              | Unclaimed |                                                                                                             |
-| uSORT                      | Unclaimed | Incomplete Bioc dependencies: monocle.                                                                      |
-| VariantFiltering           | Unclaimed |                                                                                                             |
-| VaSP                       | Unclaimed |                                                                                                             |
-| vulcan                     | Unclaimed |                                                                                                             |
-| wateRmelon                 | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi.                                                         |
-| weaver                     | Unclaimed |                                                                                                             |
-| xcms                       | Unclaimed | Incomplete Bioc dependencies: MsExperiment.                                                                 |
-| Xeva                       | Unclaimed | Incomplete Bioc dependencies: PharmacoGx.                                                                   |
-| YAPSA                      | Unclaimed | Incomplete Bioc dependencies: SomaticSignatures.                                                            |
-| yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                                      |
-| zenith                     | Unclaimed |                                                                                                             |
+## Unclaimed (378)
+| Package                    | Status    | Blocked By                                                                                    |
+|----------------------------|-----------|-----------------------------------------------------------------------------------------------|
+| ACE                        | Unclaimed |                                                                                               |
+| ADaCGH2                    | Unclaimed | Incomplete Bioc dependencies: snapCGH.                                                        |
+| affycoretools              | Unclaimed | Incomplete Bioc dependencies: ReportingTools.                                                 |
+| affylmGUI                  | Unclaimed |                                                                                               |
+| AgiMicroRna                | Unclaimed | Incomplete Bioc dependencies: ReportingTools, affycoretools.                                  |
+| AHMassBank                 | Unclaimed |                                                                                               |
+| alabaster                  | Unclaimed | Incomplete Bioc dependencies: alabaster.mae, alabaster.sce, alabaster.spatial, alabaster.vcf. |
+| alabaster.mae              | Unclaimed |                                                                                               |
+| alabaster.sce              | Unclaimed |                                                                                               |
+| alabaster.spatial          | Unclaimed | Incomplete Bioc dependencies: alabaster.sce.                                                  |
+| alabaster.vcf              | Unclaimed |                                                                                               |
+| AllelicImbalance           | Unclaimed |                                                                                               |
+| arrayMvout                 | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi, parody.                                        |
+| arrayQualityMetrics        | Unclaimed |                                                                                               |
+| ASICS                      | Unclaimed | Incomplete Bioc dependencies: PepsNMR.                                                        |
+| ASpli                      | Unclaimed |                                                                                               |
+| ATACCoGAPS                 | Unclaimed | Incomplete Bioc dependencies: projectR.                                                       |
+| ATACseqQC                  | Unclaimed |                                                                                               |
+| ATACseqTFEA                | Unclaimed |                                                                                               |
+| atSNP                      | Unclaimed |                                                                                               |
+| attract                    | Unclaimed |                                                                                               |
+| bandle                     | Unclaimed | Incomplete Bioc dependencies: pRoloc.                                                         |
+| BaseSpaceR                 | Unclaimed |                                                                                               |
+| beadarraySNP               | Unclaimed | Incomplete Bioc dependencies: quantsmooth.                                                    |
+| benchdamic                 | Unclaimed |                                                                                               |
+| BG2                        | Unclaimed |                                                                                               |
+| bigmelon                   | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi, wateRmelon.                               |
+| bioCancer                  | Unclaimed | Incomplete Bioc dependencies: ReactomePA, clusterProfiler.                                    |
+| BiocOncoTK                 | Unclaimed |                                                                                               |
+| BioMVCClass                | Unclaimed | Incomplete Bioc dependencies: MVCClass.                                                       |
+| biomvRCNS                  | Unclaimed |                                                                                               |
+| biscuiteer                 | Unclaimed |                                                                                               |
+| BOBaFIT                    | Unclaimed |                                                                                               |
+| borealis                   | Unclaimed |                                                                                               |
+| brainflowprobes            | Unclaimed | Incomplete Bioc dependencies: derfinderPlot.                                                  |
+| CAFE                       | Unclaimed |                                                                                               |
+| CAGEfightR                 | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                            |
+| cageminer                  | Unclaimed |                                                                                               |
+| CAGEr                      | Unclaimed | Incomplete Bioc dependencies: CAGEfightR, GenomicInteractions.                                |
+| CAMERA                     | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                             |
+| canceR                     | Unclaimed |                                                                                               |
+| CATALYST                   | Unclaimed |                                                                                               |
+| categoryCompare            | Unclaimed |                                                                                               |
+| cbaf                       | Unclaimed |                                                                                               |
+| CBNplot                    | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| cellscape                  | Unclaimed |                                                                                               |
+| CEMiTool                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| censcyt                    | Unclaimed | Incomplete Bioc dependencies: diffcyt.                                                        |
+| CeTF                       | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| CFAssay                    | Unclaimed |                                                                                               |
+| cfdnakit                   | Unclaimed |                                                                                               |
+| ChAMP                      | Unclaimed | Incomplete Bioc dependencies: DMRcate, ROC, lumi, methylumi, missMethyl, wateRmelon.          |
+| chimeraviz                 | Unclaimed |                                                                                               |
+| ChIPQC                     | Unclaimed |                                                                                               |
+| ChIPseeker                 | Unclaimed |                                                                                               |
+| ChIPseqR                   | Unclaimed | Incomplete Bioc dependencies: HilbertVis.                                                     |
+| cicero                     | Unclaimed | Incomplete Bioc dependencies: monocle.                                                        |
+| clevRvis                   | Unclaimed |                                                                                               |
+| cliqueMS                   | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                             |
+| Clomial                    | Unclaimed |                                                                                               |
+| clst                       | Unclaimed | Incomplete Bioc dependencies: ROC.                                                            |
+| clstutils                  | Unclaimed | Incomplete Bioc dependencies: ROC, clst.                                                      |
+| CluMSID                    | Unclaimed |                                                                                               |
+| clusterProfiler            | Unclaimed |                                                                                               |
+| CNVfilteR                  | Unclaimed | Incomplete Bioc dependencies: CopyNumberPlots.                                                |
+| CNViz                      | Unclaimed | Incomplete Bioc dependencies: CopyNumberPlots.                                                |
+| COCOA                      | Unclaimed |                                                                                               |
+| comapr                     | Unclaimed |                                                                                               |
+| coMET                      | Unclaimed |                                                                                               |
+| compEpiTools               | Unclaimed | Incomplete Bioc dependencies: methylPipe.                                                     |
+| CompoundDb                 | Unclaimed |                                                                                               |
+| CONFESS                    | Unclaimed | Incomplete Bioc dependencies: flowMerge.                                                      |
+| consensusDE                | Unclaimed |                                                                                               |
+| conumee                    | Unclaimed |                                                                                               |
+| CopyNumberPlots            | Unclaimed |                                                                                               |
+| cosmiq                     | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                             |
+| crisprBowtie               | Unclaimed | Incomplete Bioc dependencies: Rbowtie.                                                        |
+| crisprDesign               | Unclaimed | Incomplete Bioc dependencies: Rbowtie, crisprBowtie.                                          |
+| crisprVerse                | Unclaimed | Incomplete Bioc dependencies: Rbowtie, crisprBowtie, crisprDesign, crisprViz.                 |
+| crisprViz                  | Unclaimed | Incomplete Bioc dependencies: Rbowtie, crisprBowtie, crisprDesign.                            |
+| cummeRbund                 | Unclaimed |                                                                                               |
+| cyanoFilter                | Unclaimed | Incomplete Bioc dependencies: flowDensity.                                                    |
+| CyTOFpower                 | Unclaimed | Incomplete Bioc dependencies: diffcyt.                                                        |
+| cytofQC                    | Unclaimed | Incomplete Bioc dependencies: CATALYST.                                                       |
+| CytoML                     | Unclaimed | Incomplete Bioc dependencies: flowWorkspace, ggcyto, openCyto.                                |
+| CytoPipeline               | Unclaimed | Incomplete Bioc dependencies: PeacoQC, flowWorkspace, ggcyto.                                 |
+| CytoPipelineGUI            | Unclaimed | Incomplete Bioc dependencies: CytoPipeline, PeacoQC, flowWorkspace, ggcyto.                   |
+| dagLogo                    | Unclaimed |                                                                                               |
+| DAPAR                      | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| dcanr                      | Unclaimed |                                                                                               |
+| ddPCRclust                 | Unclaimed | Incomplete Bioc dependencies: flowDensity.                                                    |
+| debrowser                  | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| deconvR                    | Unclaimed |                                                                                               |
+| DeepBlueR                  | Unclaimed |                                                                                               |
+| DeMixT                     | Unclaimed |                                                                                               |
+| DEP                        | Unclaimed |                                                                                               |
+| derfinderPlot              | Unclaimed |                                                                                               |
+| diffcyt                    | Unclaimed |                                                                                               |
+| DMRcate                    | Unclaimed | Incomplete Bioc dependencies: methylumi, missMethyl.                                          |
+| dreamlet                   | Unclaimed | Incomplete Bioc dependencies: zenith.                                                         |
+| ELMER                      | Unclaimed |                                                                                               |
+| enhancerHomologSearch      | Unclaimed |                                                                                               |
+| ENmix                      | Unclaimed |                                                                                               |
+| enrichTF                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| enrichViewNet              | Unclaimed |                                                                                               |
+| EpiCompare                 | Unclaimed | Incomplete Bioc dependencies: ChIPseeker.                                                     |
+| epimutacions               | Unclaimed |                                                                                               |
+| EpiTxDb                    | Unclaimed |                                                                                               |
+| epivizr                    | Unclaimed | Incomplete Bioc dependencies: epivizrData, epivizrServer.                                     |
+| epivizrChart               | Unclaimed | Incomplete Bioc dependencies: epivizrData, epivizrServer.                                     |
+| epivizrData                | Unclaimed | Incomplete Bioc dependencies: epivizrServer.                                                  |
+| epivizrServer              | Unclaimed |                                                                                               |
+| epivizrStandalone          | Unclaimed | Incomplete Bioc dependencies: epivizr, epivizrData, epivizrServer.                            |
+| esATAC                     | Unclaimed | Incomplete Bioc dependencies: ChIPseeker, clusterProfiler.                                    |
+| ExperimentHubData          | Unclaimed |                                                                                               |
+| extraChIPs                 | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                            |
+| factDesign                 | Unclaimed |                                                                                               |
+| famat                      | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| fCI                        | Unclaimed |                                                                                               |
+| ffpe                       | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                |
+| flagme                     | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                     |
+| FLAMES                     | Unclaimed |                                                                                               |
+| flowBin                    | Unclaimed | Incomplete Bioc dependencies: flowFP.                                                         |
+| flowCut                    | Unclaimed | Incomplete Bioc dependencies: flowDensity.                                                    |
+| flowDensity                | Unclaimed |                                                                                               |
+| flowFP                     | Unclaimed |                                                                                               |
+| flowGate                   | Unclaimed | Incomplete Bioc dependencies: flowWorkspace, ggcyto.                                          |
+| flowMerge                  | Unclaimed |                                                                                               |
+| flowStats                  | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                  |
+| flowTrans                  | Unclaimed |                                                                                               |
+| flowVS                     | Unclaimed | Incomplete Bioc dependencies: flowStats, flowWorkspace.                                       |
+| flowWorkspace              | Unclaimed |                                                                                               |
+| funtooNorm                 | Unclaimed |                                                                                               |
+| GARS                       | Unclaimed |                                                                                               |
+| GateFinder                 | Unclaimed | Incomplete Bioc dependencies: flowFP.                                                         |
+| GDCRNATools                | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| gDR                        | Unclaimed | Incomplete Bioc dependencies: PharmacoGx, gDRimport.                                          |
+| gDRimport                  | Unclaimed | Incomplete Bioc dependencies: PharmacoGx.                                                     |
+| GeneBreak                  | Unclaimed |                                                                                               |
+| GENESIS                    | Unclaimed | Incomplete Bioc dependencies: GWASTools, quantsmooth.                                         |
+| GeneStructureTools         | Unclaimed |                                                                                               |
+| GenomicInteractions        | Unclaimed |                                                                                               |
+| GenomicOZone               | Unclaimed |                                                                                               |
+| GenomicPlot                | Unclaimed |                                                                                               |
+| GEOfastq                   | Unclaimed |                                                                                               |
+| gespeR                     | Unclaimed |                                                                                               |
+| ggcyto                     | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                  |
+| globalSeq                  | Unclaimed |                                                                                               |
+| GmicR                      | Unclaimed |                                                                                               |
+| GNOSIS                     | Unclaimed |                                                                                               |
+| goSorensen                 | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| granulator                 | Unclaimed |                                                                                               |
+| GSEABenchmarkeR            | Unclaimed |                                                                                               |
+| GWASTools                  | Unclaimed | Incomplete Bioc dependencies: quantsmooth.                                                    |
+| gwasurvivr                 | Unclaimed | Incomplete Bioc dependencies: GWASTools, quantsmooth.                                         |
+| Harshlight                 | Unclaimed |                                                                                               |
+| HiCDCPlus                  | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                            |
+| hierGWAS                   | Unclaimed |                                                                                               |
+| HilbertCurve               | Unclaimed | Incomplete Bioc dependencies: HilbertVis.                                                     |
+| HilbertVis                 | Unclaimed |                                                                                               |
+| HilbertVisGUI              | Unclaimed | Incomplete Bioc dependencies: HilbertVis.                                                     |
+| hmdbQuery                  | Unclaimed |                                                                                               |
+| HMMcopy                    | Unclaimed |                                                                                               |
+| HPiP                       | Unclaimed |                                                                                               |
+| hummingbird                | Unclaimed |                                                                                               |
+| ibh                        | Unclaimed |                                                                                               |
+| iCheck                     | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                |
+| ideal                      | Unclaimed | Incomplete Bioc dependencies: pcaExplorer.                                                    |
+| IFAA                       | Unclaimed |                                                                                               |
+| ImmuneSpaceR               | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                  |
+| iNETgrate                  | Unclaimed | Incomplete Bioc dependencies: Pigengene, ReactomePA, clusterProfiler.                         |
+| intansv                    | Unclaimed |                                                                                               |
+| InterMineR                 | Unclaimed |                                                                                               |
+| IPO                        | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                     |
+| iSEEu                      | Unclaimed |                                                                                               |
+| iSeq                       | Unclaimed |                                                                                               |
+| ivygapSE                   | Unclaimed |                                                                                               |
+| kissDE                     | Unclaimed |                                                                                               |
+| lisaClust                  | Unclaimed |                                                                                               |
+| LOBSTAHS                   | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                     |
+| LPE                        | Unclaimed |                                                                                               |
+| LPEadj                     | Unclaimed | Incomplete Bioc dependencies: LPE.                                                            |
+| lumi                       | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                      |
+| Macarron                   | Unclaimed |                                                                                               |
+| maCorrPlot                 | Unclaimed |                                                                                               |
+| MAGAR                      | Unclaimed | Incomplete Bioc dependencies: RnBeads, methylumi.                                             |
+| MAGeCKFlute                | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| MAIT                       | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                     |
+| maPredictDSC               | Unclaimed | Incomplete Bioc dependencies: ROC.                                                            |
+| maser                      | Unclaimed |                                                                                               |
+| maSigPro                   | Unclaimed |                                                                                               |
+| matchBox                   | Unclaimed |                                                                                               |
+| mBPCR                      | Unclaimed | Incomplete Bioc dependencies: GWASTools, quantsmooth.                                         |
+| mCSEA                      | Unclaimed |                                                                                               |
+| MEAL                       | Unclaimed | Incomplete Bioc dependencies: methylumi, missMethyl.                                          |
+| MEAT                       | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi, wateRmelon.                               |
+| meshes                     | Unclaimed |                                                                                               |
+| MetaboAnnotation           | Unclaimed | Incomplete Bioc dependencies: CompoundDb.                                                     |
+| metaCCA                    | Unclaimed |                                                                                               |
+| MetaCyto                   | Unclaimed |                                                                                               |
+| metaMS                     | Unclaimed | Incomplete Bioc dependencies: CAMERA, MsExperiment, xcms.                                     |
+| MetaPhOR                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| metaseqR2                  | Unclaimed |                                                                                               |
+| MetCirc                    | Unclaimed |                                                                                               |
+| MethylAid                  | Unclaimed |                                                                                               |
+| methylCC                   | Unclaimed |                                                                                               |
+| methylclock                | Unclaimed | Incomplete Bioc dependencies: ExperimentHubData.                                              |
+| methylGSA                  | Unclaimed | Incomplete Bioc dependencies: clusterProfiler, methylumi, missMethyl.                         |
+| methylPipe                 | Unclaimed |                                                                                               |
+| methylSig                  | Unclaimed |                                                                                               |
+| methylumi                  | Unclaimed |                                                                                               |
+| mfa                        | Unclaimed |                                                                                               |
+| MicrobiomeProfiler         | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| mimager                    | Unclaimed |                                                                                               |
+| MineICA                    | Unclaimed | Incomplete Bioc dependencies: lumi, methylumi.                                                |
+| MinimumDistance            | Unclaimed |                                                                                               |
+| miRLAB                     | Unclaimed |                                                                                               |
+| missMethyl                 | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                      |
+| MMUPHin                    | Unclaimed |                                                                                               |
+| MobilityTransformR         | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                             |
+| ModCon                     | Unclaimed |                                                                                               |
+| monocle                    | Unclaimed |                                                                                               |
+| Moonlight2R                | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| MoonlightR                 | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| motifbreakR                | Unclaimed |                                                                                               |
+| MsBackendMassbank          | Unclaimed |                                                                                               |
+| MsBackendMgf               | Unclaimed |                                                                                               |
+| MsBackendMsp               | Unclaimed |                                                                                               |
+| MsBackendRawFileReader     | Unclaimed |                                                                                               |
+| MsBackendSql               | Unclaimed |                                                                                               |
+| MsExperiment               | Unclaimed |                                                                                               |
+| msgbsR                     | Unclaimed |                                                                                               |
+| msmsEDA                    | Unclaimed |                                                                                               |
+| msmsTests                  | Unclaimed | Incomplete Bioc dependencies: msmsEDA.                                                        |
+| MSnID                      | Unclaimed | Incomplete Bioc dependencies: msmsEDA, msmsTests.                                             |
+| MsQuality                  | Unclaimed | Incomplete Bioc dependencies: MsExperiment.                                                   |
+| MSstatsLiP                 | Unclaimed |                                                                                               |
+| MSstatsLOBD                | Unclaimed |                                                                                               |
+| MSstatsQC                  | Unclaimed | Incomplete Bioc dependencies: qcmetrics.                                                      |
+| MSstatsQCgui               | Unclaimed | Incomplete Bioc dependencies: MSstatsQC, qcmetrics.                                           |
+| MSstatsShiny               | Unclaimed |                                                                                               |
+| multicrispr                | Unclaimed | Incomplete Bioc dependencies: Rbowtie.                                                        |
+| multiWGCNA                 | Unclaimed | Incomplete Bioc dependencies: dcanr.                                                          |
+| MVCClass                   | Unclaimed |                                                                                               |
+| NADfinder                  | Unclaimed | Incomplete Bioc dependencies: ATACseqQC, trackViewer.                                         |
+| ncGTW                      | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                             |
+| netbiov                    | Unclaimed |                                                                                               |
+| netOmics                   | Unclaimed | Incomplete Bioc dependencies: RandomWalkRestartMH.                                            |
+| NetPathMiner               | Unclaimed |                                                                                               |
+| netSmooth                  | Unclaimed |                                                                                               |
+| netZooR                    | Unclaimed | Incomplete Bioc dependencies: quantro, yarn.                                                  |
+| NTW                        | Unclaimed |                                                                                               |
+| octad                      | Unclaimed |                                                                                               |
+| OGRE                       | Unclaimed |                                                                                               |
+| openCyto                   | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                  |
+| optimalFlow                | Unclaimed |                                                                                               |
+| OutSplice                  | Unclaimed | Incomplete Bioc dependencies: Repitools.                                                      |
+| pageRank                   | Unclaimed |                                                                                               |
+| PanomiR                    | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| parody                     | Unclaimed |                                                                                               |
+| PathNet                    | Unclaimed |                                                                                               |
+| pcaExplorer                | Unclaimed |                                                                                               |
+| PDATK                      | Unclaimed |                                                                                               |
+| PeacoQC                    | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                  |
+| peakPantheR                | Unclaimed |                                                                                               |
+| PepsNMR                    | Unclaimed |                                                                                               |
+| PharmacoGx                 | Unclaimed |                                                                                               |
+| phemd                      | Unclaimed | Incomplete Bioc dependencies: monocle.                                                        |
+| Pi                         | Unclaimed |                                                                                               |
+| Pigengene                  | Unclaimed | Incomplete Bioc dependencies: ReactomePA, clusterProfiler.                                    |
+| PING                       | Unclaimed |                                                                                               |
+| PloGO2                     | Unclaimed |                                                                                               |
+| PLPE                       | Unclaimed | Incomplete Bioc dependencies: LPE.                                                            |
+| PoDCall                    | Unclaimed |                                                                                               |
+| preciseTAD                 | Unclaimed |                                                                                               |
+| primirTSS                  | Unclaimed |                                                                                               |
+| PrInCE                     | Unclaimed |                                                                                               |
+| profileplyr                | Unclaimed | Incomplete Bioc dependencies: ChIPseeker.                                                     |
+| projectR                   | Unclaimed |                                                                                               |
+| pRoloc                     | Unclaimed |                                                                                               |
+| pRolocGUI                  | Unclaimed | Incomplete Bioc dependencies: pRoloc.                                                         |
+| Prostar                    | Unclaimed | Incomplete Bioc dependencies: DAPAR, clusterProfiler.                                         |
+| PSEA                       | Unclaimed |                                                                                               |
+| psichomics                 | Unclaimed | Incomplete Bioc dependencies: recount.                                                        |
+| ptairMS                    | Unclaimed |                                                                                               |
+| Pviz                       | Unclaimed |                                                                                               |
+| qcmetrics                  | Unclaimed |                                                                                               |
+| qPLEXanalyzer              | Unclaimed |                                                                                               |
+| qsea                       | Unclaimed | Incomplete Bioc dependencies: HMMcopy.                                                        |
+| quantro                    | Unclaimed |                                                                                               |
+| quantsmooth                | Unclaimed |                                                                                               |
+| QuartPAC                   | Unclaimed |                                                                                               |
+| QuasR                      | Unclaimed | Incomplete Bioc dependencies: Rbowtie.                                                        |
+| R3CPET                     | Unclaimed |                                                                                               |
+| RadioGx                    | Unclaimed |                                                                                               |
+| RAIDS                      | Unclaimed | Incomplete Bioc dependencies: GENESIS, GWASTools, quantsmooth.                                |
+| RandomWalkRestartMH        | Unclaimed |                                                                                               |
+| Rbowtie                    | Unclaimed |                                                                                               |
+| RCASPAR                    | Unclaimed |                                                                                               |
+| rDGIdb                     | Unclaimed |                                                                                               |
+| Rdisop                     | Unclaimed |                                                                                               |
+| ReactomePA                 | Unclaimed |                                                                                               |
+| recount                    | Unclaimed |                                                                                               |
+| recountmethylation         | Unclaimed |                                                                                               |
+| regionReport               | Unclaimed |                                                                                               |
+| regutools                  | Unclaimed |                                                                                               |
+| REMP                       | Unclaimed |                                                                                               |
+| Repitools                  | Unclaimed |                                                                                               |
+| ReportingTools             | Unclaimed |                                                                                               |
+| ReUseData                  | Unclaimed |                                                                                               |
+| RiboProfiling              | Unclaimed |                                                                                               |
+| ribosomeProfilingQC        | Unclaimed |                                                                                               |
+| Risa                       | Unclaimed | Incomplete Bioc dependencies: MsExperiment, xcms.                                             |
+| RLSeq                      | Unclaimed |                                                                                               |
+| RMassBank                  | Unclaimed |                                                                                               |
+| RNAAgeCalc                 | Unclaimed | Incomplete Bioc dependencies: recount.                                                        |
+| RNAinteract                | Unclaimed |                                                                                               |
+| RNAmodR                    | Unclaimed |                                                                                               |
+| RNAmodR.AlkAnilineSeq      | Unclaimed | Incomplete Bioc dependencies: RNAmodR.                                                        |
+| RNAmodR.ML                 | Unclaimed | Incomplete Bioc dependencies: RNAmodR.                                                        |
+| RNAmodR.RiboMethSeq        | Unclaimed | Incomplete Bioc dependencies: RNAmodR.                                                        |
+| RnaSeqSampleSize           | Unclaimed | Incomplete Bioc dependencies: recount.                                                        |
+| RnBeads                    | Unclaimed | Incomplete Bioc dependencies: methylumi.                                                      |
+| ROC                        | Unclaimed |                                                                                               |
+| rSWeeP                     | Unclaimed |                                                                                               |
+| sagenhaft                  | Unclaimed |                                                                                               |
+| scone                      | Unclaimed |                                                                                               |
+| scruff                     | Unclaimed |                                                                                               |
+| scTensor                   | Unclaimed | Incomplete Bioc dependencies: ReactomePA.                                                     |
+| scTreeViz                  | Unclaimed | Incomplete Bioc dependencies: epivizr, epivizrData, epivizrServer.                            |
+| segmenter                  | Unclaimed | Incomplete Bioc dependencies: ChIPseeker.                                                     |
+| semisup                    | Unclaimed |                                                                                               |
+| seqArchRplus               | Unclaimed | Incomplete Bioc dependencies: ChIPseeker, clusterProfiler.                                    |
+| SeqSQC                     | Unclaimed |                                                                                               |
+| SGCP                       | Unclaimed |                                                                                               |
+| shinyepico                 | Unclaimed |                                                                                               |
+| shinyMethyl                | Unclaimed |                                                                                               |
+| signatureSearch            | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| signifinder                | Unclaimed |                                                                                               |
+| SIM                        | Unclaimed | Incomplete Bioc dependencies: quantsmooth.                                                    |
+| SimBindProfiles            | Unclaimed |                                                                                               |
+| similaRpeak                | Unclaimed |                                                                                               |
+| SingleMoleculeFootprinting | Unclaimed | Incomplete Bioc dependencies: QuasR, Rbowtie.                                                 |
+| skewr                      | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi, wateRmelon.                               |
+| snapCGH                    | Unclaimed |                                                                                               |
+| SomaticSignatures          | Unclaimed |                                                                                               |
+| spatzie                    | Unclaimed | Incomplete Bioc dependencies: GenomicInteractions.                                            |
+| spkTools                   | Unclaimed |                                                                                               |
+| SPLINTER                   | Unclaimed |                                                                                               |
+| srnadiff                   | Unclaimed |                                                                                               |
+| standR                     | Unclaimed |                                                                                               |
+| staRank                    | Unclaimed |                                                                                               |
+| statTarget                 | Unclaimed | Incomplete Bioc dependencies: ROC.                                                            |
+| Summix                     | Unclaimed |                                                                                               |
+| synapter                   | Unclaimed |                                                                                               |
+| tadar                      | Unclaimed |                                                                                               |
+| TBSignatureProfiler        | Unclaimed |                                                                                               |
+| TCC                        | Unclaimed | Incomplete Bioc dependencies: ROC.                                                            |
+| TDbasedUFEadv              | Unclaimed |                                                                                               |
+| TimiRGeN                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                |
+| topdownr                   | Unclaimed |                                                                                               |
+| ToxicoGx                   | Unclaimed |                                                                                               |
+| trackViewer                | Unclaimed |                                                                                               |
+| treekoR                    | Unclaimed | Incomplete Bioc dependencies: diffcyt.                                                        |
+| TVTB                       | Unclaimed |                                                                                               |
+| TypeInfo                   | Unclaimed |                                                                                               |
+| uncoverappLib              | Unclaimed |                                                                                               |
+| uSORT                      | Unclaimed | Incomplete Bioc dependencies: monocle.                                                        |
+| VariantFiltering           | Unclaimed |                                                                                               |
+| VaSP                       | Unclaimed |                                                                                               |
+| vulcan                     | Unclaimed |                                                                                               |
+| wateRmelon                 | Unclaimed | Incomplete Bioc dependencies: ROC, lumi, methylumi.                                           |
+| weaver                     | Unclaimed |                                                                                               |
+| xcms                       | Unclaimed | Incomplete Bioc dependencies: MsExperiment.                                                   |
+| Xeva                       | Unclaimed | Incomplete Bioc dependencies: PharmacoGx.                                                     |
+| YAPSA                      | Unclaimed | Incomplete Bioc dependencies: SomaticSignatures.                                              |
+| yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                        |
+| zenith                     | Unclaimed |                                                                                               |
 
-## Bioconductor Software Binaries Built (1815)
+## Bioconductor Software Binaries Built (1816)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -438,6 +437,7 @@
 | alabaster.matrix             | Succeeded | [alabaster.matrix_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alabaster.matrix_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | alabaster.ranges             | Succeeded | [alabaster.ranges_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alabaster.ranges_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | alabaster.schemas            | Succeeded | [alabaster.schemas_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alabaster.schemas_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
+| alabaster.se                 | Succeeded | [alabaster.se_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alabaster.se_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | alabaster.string             | Succeeded | [alabaster.string_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alabaster.string_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | ALDEx2                       | Succeeded | [ALDEx2_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ALDEx2_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | alevinQC                     | Succeeded | [alevinQC_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alevinQC_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
@@ -2216,7 +2216,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1815)
+## Other Dependency Binaries (1816)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                      | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -5146,6 +5146,7 @@
 | qusage                                      | Succeeded | [qusage_2.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/qusage_2.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | ontoProc                                    | Succeeded | [ontoProc_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ontoProc_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | aws.signature                               | Succeeded | [aws.signature_0.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/aws.signature_0.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
+| alabaster.se                                | Succeeded | [alabaster.se_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/alabaster.se_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | megadepth                                   | Succeeded | [megadepth_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/megadepth_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | ggthemes                                    | Succeeded | [ggthemes_5.1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ggthemes_5.1.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | sp                                          | Succeeded | [sp_2.1-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/sp_2.1-3_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
