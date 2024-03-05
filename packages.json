@@ -80,7 +80,6 @@
         "xcms"
     ],
     "canceR": [],
-    "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [],
     "CBNplot": [
@@ -175,9 +174,7 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
         "ggcyto",
         "openCyto"
