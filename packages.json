@@ -213,7 +213,6 @@
         "ggcyto"
     ],
     "dagLogo": [],
-    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -312,9 +311,7 @@
     ],
     "flowWorkspace": [],
     "funtooNorm": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "flowFP"
     ],
