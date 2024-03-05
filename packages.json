@@ -141,7 +141,6 @@
     "CompoundDb": [],
     "CONFESS": [],
     "consensusDE": [],
-    "conumee": [],
     "CopyNumberPlots": [],
     "cosmiq": [
         "MsExperiment",
@@ -204,7 +203,6 @@
     ],
     "ELMER": [],
     "enhancerHomologSearch": [],
-    "ENmix": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -566,7 +564,6 @@
     "recountmethylation": [],
     "regionReport": [],
     "regutools": [],
-    "REMP": [],
     "ReportingTools": [],
     "ReUseData": [],
     "RiboProfiling": [],
@@ -620,7 +617,6 @@
     "SeqSQC": [],
     "SGCP": [],
     "shinyepico": [],
-    "shinyMethyl": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
