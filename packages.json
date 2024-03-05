@@ -24,7 +24,6 @@
     "AllelicImbalance": [],
     "arrayMvout": [
         "lumi",
-        "methylumi",
         "parody"
     ],
     "ASICS": [
@@ -48,7 +47,6 @@
     "bigmelon": [
         "ROC",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -99,7 +97,6 @@
         "DMRcate",
         "ROC",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -195,7 +192,6 @@
     "DeMixT": [],
     "derfinderPlot": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "dreamlet": [
@@ -243,8 +239,7 @@
     ],
     "fCI": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "flagme": [
         "CAMERA",
@@ -317,8 +312,7 @@
     "hummingbird": [],
     "ibh": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [
         "pcaExplorer"
@@ -350,14 +344,11 @@
     "LPEadj": [
         "LPE"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "Macarron": [],
     "maCorrPlot": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [
         "clusterProfiler"
@@ -379,13 +370,11 @@
     ],
     "mCSEA": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "ROC",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "meshes": [],
@@ -410,24 +399,19 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [],
     "methylSig": [],
-    "methylumi": [],
     "mfa": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "miRLAB": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
@@ -521,7 +505,6 @@
         "LPE"
     ],
     "PoDCall": [],
-    "preciseTAD": [],
     "primirTSS": [],
     "profileplyr": [
         "ChIPseeker"
@@ -588,9 +571,7 @@
     "RnaSeqSampleSize": [
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "ROC": [],
     "rSWeeP": [],
     "sagenhaft": [],
@@ -629,7 +610,6 @@
     "skewr": [
         "ROC",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SomaticSignatures": [],
@@ -666,8 +646,7 @@
     "vulcan": [],
     "wateRmelon": [
         "ROC",
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "weaver": [],
     "xcms": [
