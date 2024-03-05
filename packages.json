@@ -49,9 +49,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "bioCancer": [
-        "clusterProfiler"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
     "BioMVCClass": [
         "MVCClass"
@@ -79,17 +77,11 @@
     "canceR": [],
     "categoryCompare": [],
     "cbaf": [],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
     "cellscape": [],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CEMiTool": [],
     "censcyt": [],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "CFAssay": [],
     "cfdnakit": [],
     "ChAMP": [
@@ -121,7 +113,6 @@
         "ROC",
         "clst"
     ],
-    "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots"
     ],
@@ -178,14 +169,10 @@
         "ggcyto"
     ],
     "dagLogo": [],
-    "DAPAR": [
-        "clusterProfiler"
-    ],
+    "DAPAR": [],
     "dcanr": [],
     "ddPCRclust": [],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "DeepBlueR": [],
     "DeMixT": [],
     "derfinderPlot": [],
@@ -197,10 +184,7 @@
     ],
     "ELMER": [],
     "enhancerHomologSearch": [],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
-    "enrichViewNet": [],
+    "enrichTF": [],
     "EpiCompare": [
         "ChIPseeker"
     ],
@@ -224,17 +208,14 @@
         "epivizrServer"
     ],
     "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
     "factDesign": [],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "famat": [],
     "fCI": [],
     "ffpe": [
         "lumi"
@@ -256,9 +237,7 @@
     ],
     "GARS": [],
     "GateFinder": [],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "gDR": [
         "PharmacoGx",
         "gDRimport"
@@ -281,9 +260,7 @@
     "globalSeq": [],
     "GmicR": [],
     "GNOSIS": [],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "granulator": [],
     "GSEABenchmarkeR": [],
     "GWASTools": [
@@ -318,8 +295,7 @@
     "IFAA": [],
     "ImmuneSpaceR": [],
     "iNETgrate": [
-        "Pigengene",
-        "clusterProfiler"
+        "Pigengene"
     ],
     "intansv": [],
     "InterMineR": [],
@@ -347,9 +323,7 @@
     "MAGAR": [
         "RnBeads"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MsExperiment",
@@ -383,24 +357,19 @@
         "MsExperiment",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [],
     "MetCirc": [],
     "methylclock": [
         "ExperimentHubData"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "missMethyl"
     ],
     "methylPipe": [],
     "methylSig": [],
     "mfa": [],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi"
     ],
@@ -413,12 +382,8 @@
     ],
     "ModCon": [],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "motifbreakR": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
@@ -474,9 +439,7 @@
     "openCyto": [],
     "OutSplice": [],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "parody": [],
     "PathNet": [],
     "pcaExplorer": [],
@@ -488,9 +451,7 @@
         "monocle"
     ],
     "Pi": [],
-    "Pigengene": [
-        "clusterProfiler"
-    ],
+    "Pigengene": [],
     "PING": [],
     "PloGO2": [],
     "PLPE": [
@@ -504,8 +465,7 @@
     "projectR": [],
     "pRolocGUI": [],
     "Prostar": [
-        "DAPAR",
-        "clusterProfiler"
+        "DAPAR"
     ],
     "PSEA": [],
     "psichomics": [
@@ -578,14 +538,11 @@
     ],
     "semisup": [],
     "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "SeqSQC": [],
     "SGCP": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [],
     "SIM": [
         "quantsmooth"
@@ -617,9 +574,7 @@
     "TCC": [
         "ROC"
     ],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "ToxicoGx": [],
     "trackViewer": [],
     "treekoR": [],
