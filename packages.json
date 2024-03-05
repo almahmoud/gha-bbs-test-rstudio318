@@ -93,7 +93,6 @@
     ],
     "chimeraviz": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -185,9 +184,7 @@
     "ELMER": [],
     "enhancerHomologSearch": [],
     "enrichTF": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epimutacions": [],
     "EpiTxDb": [],
     "epivizr": [
@@ -207,9 +204,7 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions"
@@ -459,9 +454,7 @@
     ],
     "PoDCall": [],
     "primirTSS": [],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "projectR": [],
     "pRolocGUI": [],
     "Prostar": [
@@ -533,13 +526,9 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "semisup": [],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "seqArchRplus": [],
     "SeqSQC": [],
     "SGCP": [],
     "signatureSearch": [],
