@@ -122,7 +122,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CompoundDb": [],
     "CONFESS": [],
     "consensusDE": [],
     "CopyNumberPlots": [],
@@ -335,9 +334,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "metaCCA": [],
     "metaMS": [
         "CAMERA",
