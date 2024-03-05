@@ -40,9 +40,7 @@
     "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BaseSpaceR": [],
     "beadarraySNP": [
         "quantsmooth"
@@ -478,12 +476,8 @@
     "MsBackendSql": [],
     "MsExperiment": [],
     "msgbsR": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MsQuality": [
@@ -564,10 +558,7 @@
         "ChIPseeker"
     ],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
