@@ -175,9 +175,7 @@
         "crisprDesign"
     ],
     "cummeRbund": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -202,9 +200,7 @@
         "clusterProfiler"
     ],
     "dcanr": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "clusterProfiler"
     ],
@@ -276,10 +272,7 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowFP": [],
     "flowGate": [
         "ggcyto"
