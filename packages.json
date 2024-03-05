@@ -398,7 +398,6 @@
         "CompoundDb"
     ],
     "metaCCA": [],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -502,9 +501,7 @@
     "octad": [],
     "OGRE": [],
     "openCyto": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -574,7 +571,6 @@
     "regionReport": [],
     "regutools": [],
     "REMP": [],
-    "Repitools": [],
     "ReportingTools": [],
     "ReUseData": [],
     "RiboProfiling": [],
