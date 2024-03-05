@@ -392,7 +392,6 @@
     ],
     "metaseqR2": [],
     "MetCirc": [],
-    "MethylAid": [],
     "methylCC": [],
     "methylclock": [
         "ExperimentHubData"
@@ -472,7 +471,6 @@
     "NetPathMiner": [],
     "netSmooth": [],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "NTW": [],
@@ -524,7 +522,6 @@
     "qsea": [
         "HMMcopy"
     ],
-    "quantro": [],
     "quantsmooth": [],
     "QuasR": [
         "Rbowtie"
@@ -658,8 +655,6 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": []
 }
