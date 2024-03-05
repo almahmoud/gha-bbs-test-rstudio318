@@ -122,9 +122,7 @@
         "wateRmelon"
     ],
     "chimeraviz": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
@@ -164,9 +162,7 @@
     "CONFESS": [
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "conumee": [],
     "CopyNumberPlots": [],
     "cosmiq": [
@@ -234,7 +230,6 @@
     "DeMixT": [],
     "DEP": [],
     "derfinderPlot": [],
-    "DiffBind": [],
     "diffcyt": [],
     "DMRcate": [
         "methylumi",
@@ -378,7 +373,6 @@
     "hmdbQuery": [],
     "HMMcopy": [],
     "HPiP": [],
-    "HTSeqGenie": [],
     "hummingbird": [],
     "ibh": [],
     "iCheck": [
@@ -568,9 +562,7 @@
         "yarn"
     ],
     "NTW": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OGRE": [],
     "openCyto": [
         "flowWorkspace"
@@ -662,9 +654,7 @@
     "ReportingTools": [],
     "ReUseData": [],
     "RiboProfiling": [],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "Risa": [
         "MsExperiment",
         "xcms"
@@ -693,11 +683,8 @@
     ],
     "ROC": [],
     "rSWeeP": [],
-    "RUVSeq": [],
     "sagenhaft": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scruff": [],
     "scTensor": [
         "ReactomePA"
@@ -746,9 +733,7 @@
     "spkTools": [],
     "SPLINTER": [],
     "srnadiff": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [],
     "statTarget": [
         "ROC"
@@ -779,9 +764,7 @@
     ],
     "VariantFiltering": [],
     "VaSP": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "ROC",
         "lumi",
