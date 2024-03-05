@@ -89,9 +89,7 @@
     "CEMiTool": [
         "clusterProfiler"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler"
     ],
@@ -171,9 +169,7 @@
     ],
     "cummeRbund": [],
     "cyanoFilter": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
         "ggcyto",
@@ -201,7 +197,6 @@
     "DeepBlueR": [],
     "DeMixT": [],
     "derfinderPlot": [],
-    "diffcyt": [],
     "DMRcate": [
         "methylumi",
         "missMethyl"
@@ -593,7 +588,6 @@
         "xcms"
     ],
     "RLSeq": [],
-    "RMassBank": [],
     "RNAAgeCalc": [
         "recount"
     ],
@@ -682,9 +676,7 @@
     ],
     "ToxicoGx": [],
     "trackViewer": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TVTB": [],
     "TypeInfo": [],
     "uncoverappLib": [],
