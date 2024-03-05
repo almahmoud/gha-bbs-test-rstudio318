@@ -261,7 +261,6 @@
     "flowVS": [
         "flowStats"
     ],
-    "funtooNorm": [],
     "GARS": [],
     "GateFinder": [],
     "GDCRNATools": [
@@ -561,7 +560,6 @@
     "Rdisop": [],
     "ReactomePA": [],
     "recount": [],
-    "recountmethylation": [],
     "regionReport": [],
     "regutools": [],
     "ReportingTools": [],
@@ -616,7 +614,6 @@
     ],
     "SeqSQC": [],
     "SGCP": [],
-    "shinyepico": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
