@@ -139,9 +139,7 @@
         "methylPipe"
     ],
     "CompoundDb": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [],
     "conumee": [],
     "CopyNumberPlots": [],
@@ -261,7 +259,6 @@
     "flowGate": [
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [],
     "flowTrans": [],
     "flowVS": [
