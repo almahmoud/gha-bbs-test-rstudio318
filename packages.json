@@ -50,7 +50,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "ReactomePA",
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
@@ -320,7 +319,6 @@
     "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
         "clusterProfiler"
     ],
     "intansv": [],
@@ -491,7 +489,6 @@
     ],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
         "clusterProfiler"
     ],
     "PING": [],
@@ -535,7 +532,6 @@
     "RCASPAR": [],
     "rDGIdb": [],
     "Rdisop": [],
-    "ReactomePA": [],
     "recount": [],
     "regionReport": [],
     "regutools": [],
@@ -571,9 +567,7 @@
     "sagenhaft": [],
     "scone": [],
     "scruff": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
@@ -623,7 +617,6 @@
     "TCC": [
         "ROC"
     ],
-    "TDbasedUFEadv": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
