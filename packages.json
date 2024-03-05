@@ -71,7 +71,6 @@
         "GenomicInteractions"
     ],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [],
@@ -101,7 +100,6 @@
     ],
     "clevRvis": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "Clomial": [],
@@ -129,7 +127,6 @@
     "consensusDE": [],
     "CopyNumberPlots": [],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "crisprBowtie": [
@@ -217,7 +214,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [],
@@ -296,7 +292,6 @@
     "InterMineR": [],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEu": [],
@@ -305,7 +300,6 @@
     "kissDE": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "LPE": [],
@@ -321,7 +315,6 @@
     "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "maPredictDSC": [
@@ -349,7 +342,6 @@
     "metaCCA": [],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [],
@@ -372,7 +364,6 @@
     "missMethyl": [],
     "MMUPHin": [],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "ModCon": [],
@@ -380,20 +371,15 @@
     "Moonlight2R": [],
     "MoonlightR": [],
     "motifbreakR": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
     "msgbsR": [],
     "msmsTests": [],
     "MSnID": [
         "msmsTests"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsLiP": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
@@ -416,7 +402,6 @@
         "trackViewer"
     ],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "netbiov": [],
@@ -493,7 +478,6 @@
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RLSeq": [],
@@ -580,9 +564,7 @@
         "lumi"
     ],
     "weaver": [],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "Xeva": [
         "PharmacoGx"
     ],
