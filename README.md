@@ -1,12 +1,12 @@
 # Summary
 
-1833 Bioconductor sotware binaries built
+1834 Bioconductor sotware binaries built
 
-3652 Other dependency binaries built
+3653 Other dependency binaries built
 
 0 failed packages
 
-361 unclaimed packages
+360 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (361)
+## Unclaimed (360)
 | Package                    | Status    | Blocked By                                                                                    |
 |----------------------------|-----------|-----------------------------------------------------------------------------------------------|
 | ACE                        | Unclaimed |                                                                                               |
@@ -271,7 +271,6 @@
 | pcaExplorer                | Unclaimed |                                                                                               |
 | PDATK                      | Unclaimed |                                                                                               |
 | PeacoQC                    | Unclaimed |                                                                                               |
-| peakPantheR                | Unclaimed |                                                                                               |
 | PepsNMR                    | Unclaimed |                                                                                               |
 | PharmacoGx                 | Unclaimed |                                                                                               |
 | phemd                      | Unclaimed | Incomplete Bioc dependencies: monocle.                                                        |
@@ -379,7 +378,7 @@
 | yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                        |
 | zenith                     | Unclaimed |                                                                                               |
 
-## Bioconductor Software Binaries Built (1833)
+## Bioconductor Software Binaries Built (1834)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -1595,6 +1594,7 @@
 | PCAtools                     | Succeeded | [PCAtools_2.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/PCAtools_2.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | pcxn                         | Succeeded | [pcxn_2.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/pcxn_2.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | pdInfoBuilder                | Succeeded | [pdInfoBuilder_1.66.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/pdInfoBuilder_1.66.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
+| peakPantheR                  | Succeeded | [peakPantheR_1.16.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/peakPantheR_1.16.1_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | PECA                         | Succeeded | [PECA_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/PECA_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | peco                         | Succeeded | [peco_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/peco_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | pengls                       | Succeeded | [pengls_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/pengls_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2216,7 +2216,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1833)
+## Other Dependency Binaries (1834)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                      | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -2865,6 +2865,7 @@
 | packrat                                     | Succeeded | [packrat_0.9.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/packrat_0.9.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | ggbump                                      | Succeeded | [ggbump_0.1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ggbump_0.1.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | deepSNV                                     | Succeeded | [deepSNV_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/deepSNV_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
+| peakPantheR                                 | Succeeded | [peakPantheR_1.16.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/peakPantheR_1.16.1_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | MSnbase                                     | Succeeded | [MSnbase_2.28.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/MSnbase_2.28.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | ParallelLogger                              | Succeeded | [ParallelLogger_3.3.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ParallelLogger_3.3.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | BASiCS                                      | Succeeded | [BASiCS_2.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/BASiCS_2.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
