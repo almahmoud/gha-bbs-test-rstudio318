@@ -1,8 +1,6 @@
 {
     "ACE": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools"
     ],
@@ -567,7 +565,6 @@
     "psichomics": [
         "recount"
     ],
-    "ptairMS": [],
     "Pviz": [],
     "qcmetrics": [],
     "qsea": [
@@ -672,7 +669,6 @@
         "methylumi",
         "wateRmelon"
     ],
-    "snapCGH": [],
     "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
@@ -686,7 +682,6 @@
         "ROC"
     ],
     "Summix": [],
-    "synapter": [],
     "tadar": [],
     "TBSignatureProfiler": [],
     "TCC": [
