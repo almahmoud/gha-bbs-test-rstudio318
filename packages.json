@@ -203,7 +203,6 @@
     "deconvR": [],
     "DeepBlueR": [],
     "DeMixT": [],
-    "DEP": [],
     "derfinderPlot": [],
     "diffcyt": [],
     "DMRcate": [
@@ -265,11 +264,8 @@
         "xcms"
     ],
     "FLAMES": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [],
-    "flowFP": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -281,9 +277,7 @@
     ],
     "funtooNorm": [],
     "GARS": [],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
@@ -551,7 +545,6 @@
     "PoDCall": [],
     "preciseTAD": [],
     "primirTSS": [],
-    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker"
     ],
