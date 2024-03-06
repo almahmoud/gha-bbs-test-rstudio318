@@ -177,7 +177,6 @@
         "CAMERA",
         "xcms"
     ],
-    "FLAMES": [],
     "flowBin": [],
     "flowCut": [],
     "flowGate": [
@@ -301,7 +300,6 @@
     "Moonlight2R": [],
     "MoonlightR": [],
     "motifbreakR": [],
-    "msgbsR": [],
     "msmsTests": [],
     "MSnID": [
         "msmsTests"
@@ -361,9 +359,7 @@
         "DAPAR"
     ],
     "PSEA": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "qcmetrics": [],
     "qsea": [
         "HMMcopy"
@@ -382,7 +378,6 @@
     "RCASPAR": [],
     "rDGIdb": [],
     "Rdisop": [],
-    "recount": [],
     "regionReport": [],
     "regutools": [],
     "ReportingTools": [],
@@ -391,15 +386,11 @@
         "xcms"
     ],
     "RLSeq": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "ROC": [],
     "rSWeeP": [],
