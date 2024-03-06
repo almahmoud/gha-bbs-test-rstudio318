@@ -29,7 +29,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [],
     "bandle": [],
     "BaseSpaceR": [],
     "beadarraySNP": [
@@ -335,9 +334,7 @@
         "dcanr"
     ],
     "MVCClass": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "ncGTW": [
         "xcms"
     ],
@@ -367,7 +364,6 @@
         "LPE"
     ],
     "PoDCall": [],
-    "primirTSS": [],
     "profileplyr": [],
     "projectR": [],
     "pRolocGUI": [],
@@ -449,7 +445,6 @@
         "GenomicInteractions"
     ],
     "spkTools": [],
-    "SPLINTER": [],
     "standR": [],
     "statTarget": [
         "ROC"
