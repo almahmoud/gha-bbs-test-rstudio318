@@ -48,13 +48,9 @@
     "brainflowprobes": [
         "derfinderPlot"
     ],
-    "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "xcms"
@@ -149,7 +145,6 @@
     ],
     "dreamlet": [],
     "ELMER": [],
-    "enhancerHomologSearch": [],
     "enrichTF": [],
     "EpiCompare": [],
     "epimutacions": [],
@@ -171,9 +166,7 @@
         "epivizrServer"
     ],
     "esATAC": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "factDesign": [],
     "famat": [],
     "fCI": [],
@@ -205,7 +198,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "GenomicInteractions": [],
     "GEOfastq": [],
     "ggcyto": [],
     "globalSeq": [],
@@ -218,9 +210,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -440,9 +430,7 @@
         "wateRmelon"
     ],
     "SomaticSignatures": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "spkTools": [],
     "standR": [],
     "statTarget": [
