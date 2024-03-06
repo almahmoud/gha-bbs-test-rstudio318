@@ -32,7 +32,6 @@
         "projectR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "bandle": [],
     "BaseSpaceR": [],
     "beadarraySNP": [
@@ -219,7 +218,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "GEOfastq": [],
@@ -353,8 +351,7 @@
     ],
     "MVCClass": [],
     "NADfinder": [
-        "ATACseqQC",
-        "trackViewer"
+        "ATACseqQC"
     ],
     "ncGTW": [
         "xcms"
@@ -397,7 +394,6 @@
     "psichomics": [
         "recount"
     ],
-    "Pviz": [],
     "qcmetrics": [],
     "qsea": [
         "HMMcopy"
@@ -478,12 +474,10 @@
         "ROC"
     ],
     "Summix": [],
-    "tadar": [],
     "TCC": [
         "ROC"
     ],
     "TimiRGeN": [],
-    "trackViewer": [],
     "treekoR": [],
     "TVTB": [],
     "TypeInfo": [],
