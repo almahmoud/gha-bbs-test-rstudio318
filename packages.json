@@ -223,12 +223,9 @@
     "GateFinder": [],
     "GDCRNATools": [],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GeneBreak": [],
     "GENESIS": [
         "GWASTools",
@@ -347,7 +344,6 @@
     ],
     "miRLAB": [],
     "missMethyl": [],
-    "MMUPHin": [],
     "MobilityTransformR": [
         "xcms"
     ],
@@ -407,7 +403,6 @@
     "PDATK": [],
     "PeacoQC": [],
     "PepsNMR": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -440,7 +435,6 @@
         "Rbowtie"
     ],
     "R3CPET": [],
-    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -545,9 +539,7 @@
     ],
     "weaver": [],
     "xcms": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
