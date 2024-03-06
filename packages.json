@@ -1,10 +1,7 @@
 {
     "ADaCGH2": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "alabaster": [
@@ -45,9 +42,7 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CAGEfightR": [],
     "CAGEr": [
         "CAGEfightR"
@@ -139,12 +134,10 @@
     "ddPCRclust": [],
     "debrowser": [],
     "DeepBlueR": [],
-    "derfinderPlot": [],
     "DMRcate": [
         "missMethyl"
     ],
     "dreamlet": [],
-    "ELMER": [],
     "enrichTF": [],
     "EpiCompare": [],
     "epimutacions": [],
@@ -266,7 +259,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "mCSEA": [],
     "MEAL": [
         "missMethyl"
     ],
@@ -299,7 +291,6 @@
     "monocle": [],
     "Moonlight2R": [],
     "MoonlightR": [],
-    "motifbreakR": [],
     "msmsTests": [],
     "MSnID": [
         "msmsTests"
@@ -378,9 +369,6 @@
     "RCASPAR": [],
     "rDGIdb": [],
     "Rdisop": [],
-    "regionReport": [],
-    "regutools": [],
-    "ReportingTools": [],
     "ribosomeProfilingQC": [],
     "Risa": [
         "xcms"
@@ -434,7 +422,6 @@
     "TimiRGeN": [],
     "treekoR": [],
     "TypeInfo": [],
-    "uncoverappLib": [],
     "uSORT": [
         "monocle"
     ],
