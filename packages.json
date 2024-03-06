@@ -82,16 +82,11 @@
         "ROC",
         "clst"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "compEpiTools": [],
     "CONFESS": [],
     "consensusDE": [],
-    "CopyNumberPlots": [],
     "cosmiq": [
         "xcms"
     ],
