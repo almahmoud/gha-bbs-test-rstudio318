@@ -163,9 +163,7 @@
     "DMRcate": [
         "missMethyl"
     ],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "ELMER": [],
     "enhancerHomologSearch": [],
     "enrichTF": [],
@@ -518,6 +516,5 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [],
-    "zenith": []
+    "yarn": []
 }
