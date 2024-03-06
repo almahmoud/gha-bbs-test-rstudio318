@@ -1,12 +1,12 @@
 # Summary
 
-1885 Bioconductor sotware binaries built
+1886 Bioconductor sotware binaries built
 
-3732 Other dependency binaries built
+3733 Other dependency binaries built
 
 0 failed packages
 
-309 unclaimed packages
+308 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (309)
+## Unclaimed (308)
 | Package                    | Status    | Blocked By                                                                                    |
 |----------------------------|-----------|-----------------------------------------------------------------------------------------------|
 | ACE                        | Unclaimed |                                                                                               |
@@ -221,7 +221,6 @@
 | netbiov                    | Unclaimed |                                                                                               |
 | netOmics                   | Unclaimed | Incomplete Bioc dependencies: RandomWalkRestartMH.                                            |
 | NetPathMiner               | Unclaimed |                                                                                               |
-| netSmooth                  | Unclaimed |                                                                                               |
 | netZooR                    | Unclaimed | Incomplete Bioc dependencies: yarn.                                                           |
 | NTW                        | Unclaimed |                                                                                               |
 | octad                      | Unclaimed |                                                                                               |
@@ -327,7 +326,7 @@
 | yarn                       | Unclaimed |                                                                                               |
 | zenith                     | Unclaimed |                                                                                               |
 
-## Bioconductor Software Binaries Built (1885)
+## Bioconductor Software Binaries Built (1886)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -1486,6 +1485,7 @@
 | netprioR                     | Succeeded | [netprioR_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/netprioR_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | netresponse                  | Succeeded | [netresponse_1.62.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/netresponse_1.62.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | NetSAM                       | Succeeded | [NetSAM_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/NetSAM_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| netSmooth                    | Succeeded | [netSmooth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/netSmooth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | NewWave                      | Succeeded | [NewWave_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/NewWave_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | ngsReports                   | Succeeded | [ngsReports_2.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ngsReports_2.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | nipalsMCIA                   | Succeeded | [nipalsMCIA_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nipalsMCIA_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -2216,7 +2216,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1885)
+## Other Dependency Binaries (1886)
 | Package                                       | Status    | Tarball                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nloptr                                        | Succeeded | [nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
@@ -3730,6 +3730,7 @@
 | omicplotR                                     | Succeeded | [omicplotR_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/omicplotR_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | NanoTube                                      | Succeeded | [NanoTube_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/NanoTube_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | progress                                      | Succeeded | [progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
+| netSmooth                                     | Succeeded | [netSmooth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/netSmooth_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | LEA                                           | Succeeded | [LEA_3.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/LEA_3.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                   |
 | ITALICS                                       | Succeeded | [ITALICS_2.62.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/ITALICS_2.62.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | styler                                        | Succeeded | [styler_1.10.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-02-23-41/binaries/src/contrib/styler_1.10.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
