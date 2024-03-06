@@ -26,7 +26,6 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "ASpli": [],
     "ATACCoGAPS": [
         "projectR"
     ],
@@ -101,10 +100,7 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "comapr": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CONFESS": [],
     "consensusDE": [],
     "CopyNumberPlots": [],
@@ -305,7 +301,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "mfa": [],
     "MicrobiomeProfiler": [],
     "MineICA": [
@@ -394,7 +389,6 @@
     "QuasR": [
         "Rbowtie"
     ],
-    "R3CPET": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
