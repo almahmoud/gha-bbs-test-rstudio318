@@ -140,7 +140,6 @@
     "dreamlet": [],
     "enrichTF": [],
     "EpiCompare": [],
-    "epimutacions": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -408,7 +407,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "SomaticSignatures": [],
     "spatzie": [],
     "spkTools": [],
     "standR": [],
@@ -433,8 +431,6 @@
     "weaver": [],
     "xcms": [],
     "Xeva": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": []
 }
