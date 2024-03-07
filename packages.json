@@ -41,7 +41,6 @@
     "CBNplot": [],
     "cellscape": [],
     "CEMiTool": [],
-    "CeTF": [],
     "CFAssay": [],
     "ChAMP": [
         "DMRcate",
@@ -141,7 +140,6 @@
     ],
     "GEOfastq": [],
     "globalSeq": [],
-    "goSorensen": [],
     "granulator": [],
     "GWASTools": [
         "quantsmooth"
@@ -331,7 +329,6 @@
     "TCC": [
         "ROC"
     ],
-    "TimiRGeN": [],
     "TypeInfo": [],
     "uSORT": [
         "monocle"
