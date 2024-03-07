@@ -5,13 +5,9 @@
         "affycoretools"
     ],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
     "alabaster.spatial": [],
-    "alabaster.vcf": [],
     "arrayMvout": [
         "lumi",
         "parody"
