@@ -35,9 +35,7 @@
     "CAGEr": [
         "CAGEfightR"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "cellscape": [],
     "CFAssay": [],
     "ChAMP": [
@@ -52,9 +50,7 @@
         "monocle"
     ],
     "clevRvis": [],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "Clomial": [],
     "clst": [
         "ROC"
@@ -66,9 +62,7 @@
     "CNVfilteR": [],
     "CNViz": [],
     "compEpiTools": [],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "crisprBowtie": [
         "Rbowtie"
     ],
@@ -120,8 +114,7 @@
     "fCI": [],
     "ffpe": [],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "flowGate": [],
     "flowVS": [],
@@ -163,14 +156,12 @@
     "iNETgrate": [],
     "InterMineR": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "iSeq": [],
     "ivygapSE": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LPE": [],
     "LPEadj": [
@@ -179,8 +170,7 @@
     "maCorrPlot": [],
     "MAGAR": [],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maPredictDSC": [
         "ROC"
@@ -199,17 +189,14 @@
     "MetaboAnnotation": [],
     "metaCCA": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [],
     "methylclock": [],
     "methylGSA": [],
     "mfa": [],
     "MineICA": [],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "ModCon": [],
     "monocle": [],
     "Moonlight2R": [],
@@ -232,9 +219,7 @@
     ],
     "MVCClass": [],
     "NADfinder": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -275,9 +260,7 @@
     "RCASPAR": [],
     "rDGIdb": [],
     "Rdisop": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
@@ -324,7 +307,6 @@
         "ROC"
     ],
     "weaver": [],
-    "xcms": [],
     "Xeva": [],
     "YAPSA": []
 }
