@@ -1,5 +1,4 @@
 {
-    "ADaCGH2": [],
     "affycoretools": [],
     "AgiMicroRna": [
         "affycoretools"
@@ -97,16 +96,12 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC"
+        "CytoPipeline"
     ],
     "DAPAR": [],
     "dcanr": [],
@@ -291,7 +286,6 @@
     "PanomiR": [],
     "parody": [],
     "PathNet": [],
-    "PeacoQC": [],
     "PepsNMR": [],
     "phemd": [
         "monocle"
