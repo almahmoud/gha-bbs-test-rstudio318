@@ -49,7 +49,6 @@
         "DMRcate",
         "ROC",
         "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIPseqR": [
@@ -103,9 +102,7 @@
     "dcanr": [],
     "debrowser": [],
     "DeepBlueR": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "dreamlet": [],
     "enrichTF": [],
     "EpiCompare": [],
@@ -216,9 +213,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "ROC",
         "lumi",
@@ -232,15 +227,12 @@
     ],
     "MetaPhOR": [],
     "methylclock": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "mfa": [],
     "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi"
     ],
-    "missMethyl": [],
     "MobilityTransformR": [
         "xcms"
     ],
