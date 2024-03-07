@@ -8,7 +8,6 @@
     ],
     "alabaster.spatial": [],
     "arrayMvout": [
-        "lumi",
         "parody"
     ],
     "ASICS": [
@@ -24,7 +23,6 @@
     "BG2": [],
     "bigmelon": [
         "ROC",
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [],
@@ -48,7 +46,6 @@
     "ChAMP": [
         "DMRcate",
         "ROC",
-        "lumi",
         "wateRmelon"
     ],
     "ChIPseqR": [
@@ -98,13 +95,11 @@
     "CytoPipelineGUI": [
         "CytoPipeline"
     ],
-    "DAPAR": [],
     "dcanr": [],
     "debrowser": [],
     "DeepBlueR": [],
     "DMRcate": [],
     "dreamlet": [],
-    "enrichTF": [],
     "EpiCompare": [],
     "epivizr": [
         "epivizrData",
@@ -128,9 +123,7 @@
     "factDesign": [],
     "famat": [],
     "fCI": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flagme": [
         "CAMERA",
         "xcms"
@@ -171,9 +164,7 @@
     "HPiP": [],
     "hummingbird": [],
     "ibh": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "ideal": [],
     "IFAA": [],
     "iNETgrate": [
@@ -194,7 +185,6 @@
     "LPEadj": [
         "LPE"
     ],
-    "lumi": [],
     "maCorrPlot": [],
     "MAGAR": [
         "RnBeads"
@@ -216,7 +206,6 @@
     "MEAL": [],
     "MEAT": [
         "ROC",
-        "lumi",
         "wateRmelon"
     ],
     "MetaboAnnotation": [],
@@ -230,9 +219,7 @@
     "methylGSA": [],
     "mfa": [],
     "MicrobiomeProfiler": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MobilityTransformR": [
         "xcms"
     ],
@@ -283,9 +270,7 @@
     "PoDCall": [],
     "profileplyr": [],
     "projectR": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "PSEA": [],
     "psichomics": [],
     "qcmetrics": [],
@@ -340,7 +325,6 @@
     ],
     "skewr": [
         "ROC",
-        "lumi",
         "wateRmelon"
     ],
     "spatzie": [],
@@ -358,8 +342,7 @@
         "monocle"
     ],
     "wateRmelon": [
-        "ROC",
-        "lumi"
+        "ROC"
     ],
     "weaver": [],
     "xcms": [],
