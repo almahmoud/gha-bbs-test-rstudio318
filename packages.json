@@ -101,9 +101,7 @@
     "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoPipeline": [
         "PeacoQC"
     ],
@@ -297,7 +295,6 @@
         "yarn"
     ],
     "NTW": [],
-    "openCyto": [],
     "OutSplice": [],
     "PanomiR": [],
     "parody": [],
