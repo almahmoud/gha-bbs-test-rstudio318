@@ -147,7 +147,6 @@
         "CAMERA",
         "xcms"
     ],
-    "flowCut": [],
     "flowGate": [],
     "flowVS": [],
     "GDCRNATools": [],
@@ -258,10 +257,7 @@
     "monocle": [],
     "Moonlight2R": [],
     "MoonlightR": [],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MsQuality": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
