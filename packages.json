@@ -115,10 +115,7 @@
     ],
     "flowGate": [],
     "flowVS": [],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
