@@ -26,11 +26,7 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "brainflowprobes": [],
-    "CAGEfightR": [],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [],
     "cellscape": [],
     "CFAssay": [],
@@ -55,7 +51,6 @@
         "ROC",
         "clst"
     ],
-    "CNViz": [],
     "cosmiq": [],
     "crisprBowtie": [
         "Rbowtie"
@@ -100,7 +95,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "extraChIPs": [],
     "factDesign": [],
     "fCI": [],
     "ffpe": [],
