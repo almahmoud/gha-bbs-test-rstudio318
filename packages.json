@@ -67,7 +67,6 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "CytoML": [],
     "CytoPipeline": [],
     "CytoPipelineGUI": [
         "CytoPipeline"
@@ -99,7 +98,6 @@
         "CAMERA"
     ],
     "flowGate": [],
-    "flowVS": [],
     "gDR": [],
     "GENESIS": [
         "GWASTools",
@@ -173,7 +171,6 @@
     "MobilityTransformR": [],
     "ModCon": [],
     "monocle": [],
-    "MSnID": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
         "qcmetrics"
