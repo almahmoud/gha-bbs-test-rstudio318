@@ -58,7 +58,6 @@
         "ROC",
         "clst"
     ],
-    "CNVfilteR": [],
     "CNViz": [],
     "cosmiq": [],
     "crisprBowtie": [
@@ -202,7 +201,6 @@
         "dcanr"
     ],
     "MVCClass": [],
-    "NADfinder": [],
     "ncGTW": [],
     "netbiov": [],
     "netOmics": [
@@ -225,7 +223,6 @@
     "projectR": [],
     "Prostar": [],
     "PSEA": [],
-    "psichomics": [],
     "qcmetrics": [],
     "qsea": [
         "HMMcopy"
@@ -270,7 +267,6 @@
         "ROC",
         "wateRmelon"
     ],
-    "spatzie": [],
     "spkTools": [],
     "statTarget": [
         "ROC"
