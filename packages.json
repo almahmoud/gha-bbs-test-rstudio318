@@ -24,11 +24,9 @@
         "MVCClass"
     ],
     "CAGEr": [],
-    "CAMERA": [],
     "cellscape": [],
     "CFAssay": [],
     "ChAMP": [
-        "DMRcate",
         "ROC",
         "wateRmelon"
     ],
@@ -70,7 +68,6 @@
     "CytoPipelineGUI": [],
     "dcanr": [],
     "DeepBlueR": [],
-    "DMRcate": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -90,9 +87,7 @@
     ],
     "factDesign": [],
     "fCI": [],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "gDR": [],
     "GENESIS": [
         "GWASTools",
@@ -124,23 +119,16 @@
     "IFAA": [],
     "iNETgrate": [],
     "InterMineR": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "iSeq": [],
     "ivygapSE": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LPE": [],
     "LPEadj": [
         "LPE"
     ],
     "maCorrPlot": [],
-    "MAGAR": [],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maPredictDSC": [
         "ROC"
     ],
@@ -155,9 +143,7 @@
         "wateRmelon"
     ],
     "metaCCA": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "methylGSA": [],
     "mfa": [],
     "ModCon": [],
@@ -177,13 +163,11 @@
         "dcanr"
     ],
     "MVCClass": [],
-    "ncGTW": [],
     "netbiov": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
-    "netZooR": [],
     "NTW": [],
     "parody": [],
     "PathNet": [],
@@ -197,7 +181,6 @@
     ],
     "PoDCall": [],
     "projectR": [],
-    "Prostar": [],
     "PSEA": [],
     "qcmetrics": [],
     "qsea": [
