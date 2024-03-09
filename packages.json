@@ -1,58 +1,31 @@
 {
-    "ATACCoGAPS": [],
-    "beadarraySNP": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BiocOncoTK": [],
-    "ChAMP": [
-        "wateRmelon"
-    ],
-    "ChIPseqR": [],
+    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "Clomial": [],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
-    "crisprBowtie": [],
-    "crisprDesign": [
-        "crisprBowtie"
-    ],
+    "clstutils": [],
+    "crisprDesign": [],
     "crisprVerse": [
-        "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "crisprBowtie",
         "crisprDesign"
     ],
     "DeepBlueR": [],
-    "GENESIS": [
-        "GWASTools"
-    ],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
-    "HilbertCurve": [],
-    "HilbertVisGUI": [],
+    "GENESIS": [],
+    "gwasurvivr": [],
     "hmdbQuery": [],
     "hummingbird": [],
     "IFAA": [],
     "InterMineR": [],
     "ivygapSE": [],
-    "maPredictDSC": [],
-    "mBPCR": [
-        "GWASTools"
-    ],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "mBPCR": [],
+    "MEAT": [],
     "monocle": [],
     "MSstatsQC": [
         "qcmetrics"
@@ -70,25 +43,15 @@
     ],
     "Pi": [],
     "qcmetrics": [],
-    "QuasR": [],
     "RAIDS": [
-        "GENESIS",
-        "GWASTools"
+        "GENESIS"
     ],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
     "SeqSQC": [],
-    "SIM": [],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
-    "skewr": [
-        "wateRmelon"
-    ],
-    "statTarget": [],
-    "TCC": [],
+    "SingleMoleculeFootprinting": [],
+    "skewr": [],
     "uSORT": [
         "monocle"
-    ],
-    "wateRmelon": []
+    ]
 }
