@@ -1,34 +1,24 @@
 {
-    "AgiMicroRna": [],
     "arrayMvout": [],
     "ASICS": [],
     "ATACCoGAPS": [],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "bigmelon": [
-        "ROC",
         "wateRmelon"
     ],
     "BiocOncoTK": [],
     "BioMVCClass": [],
     "ChAMP": [
-        "ROC",
         "wateRmelon"
     ],
-    "ChIPseqR": [
-        "HilbertVis"
-    ],
+    "ChIPseqR": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "Clomial": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "crisprBowtie": [],
@@ -44,7 +34,6 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "CytoPipelineGUI": [],
     "DeepBlueR": [],
     "epivizr": [
         "epivizrData"
@@ -58,44 +47,25 @@
         "epivizrData"
     ],
     "GENESIS": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
-    "granulator": [],
-    "GWASTools": [
-        "quantsmooth"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
-    "HilbertCurve": [
-        "HilbertVis"
-    ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertCurve": [],
+    "HilbertVisGUI": [],
     "hmdbQuery": [],
     "hummingbird": [],
-    "ibh": [],
     "IFAA": [],
     "InterMineR": [],
-    "iSeq": [],
     "ivygapSE": [],
     "LPEadj": [],
-    "MAIT": [],
-    "maPredictDSC": [
-        "ROC"
-    ],
-    "maSigPro": [],
-    "matchBox": [],
+    "maPredictDSC": [],
     "mBPCR": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "MEAT": [
-        "ROC",
         "wateRmelon"
     ],
     "monocle": [],
@@ -116,46 +86,31 @@
     ],
     "Pi": [],
     "PLPE": [],
-    "PoDCall": [],
-    "PSEA": [],
     "qcmetrics": [],
     "qsea": [],
-    "quantsmooth": [],
     "QuasR": [],
     "RAIDS": [
         "GENESIS",
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
-    "ROC": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
     ],
     "SeqSQC": [],
-    "SIM": [
-        "quantsmooth"
-    ],
+    "SIM": [],
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
     "skewr": [
-        "ROC",
         "wateRmelon"
     ],
-    "statTarget": [
-        "ROC"
-    ],
-    "TCC": [
-        "ROC"
-    ],
-    "TypeInfo": [],
+    "statTarget": [],
+    "TCC": [],
     "uSORT": [
         "monocle"
     ],
-    "wateRmelon": [
-        "ROC"
-    ]
+    "wateRmelon": []
 }
