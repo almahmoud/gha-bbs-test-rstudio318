@@ -17,7 +17,6 @@
     "BiocOncoTK": [],
     "BioMVCClass": [],
     "CAGEr": [],
-    "cellscape": [],
     "CFAssay": [],
     "ChAMP": [
         "ROC",
@@ -39,21 +38,16 @@
         "ROC",
         "clst"
     ],
-    "crisprBowtie": [
-        "Rbowtie"
-    ],
+    "crisprBowtie": [],
     "crisprDesign": [
-        "Rbowtie",
         "crisprBowtie"
     ],
     "crisprVerse": [
-        "Rbowtie",
         "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "Rbowtie",
         "crisprBowtie",
         "crisprDesign"
     ],
@@ -71,12 +65,10 @@
         "epivizrData"
     ],
     "factDesign": [],
-    "flagme": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
     ],
-    "GEOfastq": [],
     "granulator": [],
     "GWASTools": [
         "quantsmooth"
@@ -93,7 +85,6 @@
         "HilbertVis"
     ],
     "hmdbQuery": [],
-    "HPiP": [],
     "hummingbird": [],
     "ibh": [],
     "IFAA": [],
@@ -102,7 +93,6 @@
     "iSeq": [],
     "ivygapSE": [],
     "LPEadj": [],
-    "maCorrPlot": [],
     "MAIT": [],
     "maPredictDSC": [
         "ROC"
@@ -118,9 +108,6 @@
         "wateRmelon"
     ],
     "metaCCA": [],
-    "metaMS": [],
-    "mfa": [],
-    "ModCon": [],
     "monocle": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
@@ -130,16 +117,11 @@
         "MSstatsQC",
         "qcmetrics"
     ],
-    "multicrispr": [
-        "Rbowtie"
-    ],
+    "multicrispr": [],
     "multiWGCNA": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetPathMiner": [],
-    "NTW": [],
-    "PathNet": [],
     "phemd": [
         "monocle"
     ],
@@ -151,41 +133,34 @@
     "qcmetrics": [],
     "qsea": [],
     "quantsmooth": [],
-    "QuasR": [
-        "Rbowtie"
-    ],
+    "QuasR": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
         "quantsmooth"
     ],
     "RandomWalkRestartMH": [],
-    "Rbowtie": [],
     "RCASPAR": [],
     "Rdisop": [],
     "RLSeq": [],
     "ROC": [],
     "rSWeeP": [],
-    "sagenhaft": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
     ],
-    "semisup": [],
     "SeqSQC": [],
     "SIM": [
         "quantsmooth"
     ],
     "similaRpeak": [],
     "SingleMoleculeFootprinting": [
-        "QuasR",
-        "Rbowtie"
+        "QuasR"
     ],
     "skewr": [
         "ROC",
         "wateRmelon"
     ],
-    "spkTools": [],
     "statTarget": [
         "ROC"
     ],
