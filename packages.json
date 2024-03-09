@@ -1,12 +1,8 @@
 {
     "AgiMicroRna": [],
-    "alabaster": [],
     "arrayMvout": [],
     "ASICS": [],
-    "ATACCoGAPS": [
-        "projectR"
-    ],
-    "BaseSpaceR": [],
+    "ATACCoGAPS": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
@@ -16,8 +12,6 @@
     ],
     "BiocOncoTK": [],
     "BioMVCClass": [],
-    "CAGEr": [],
-    "CFAssay": [],
     "ChAMP": [
         "ROC",
         "wateRmelon"
@@ -28,7 +22,6 @@
     "cicero": [
         "monocle"
     ],
-    "clevRvis": [],
     "cliqueMS": [],
     "Clomial": [],
     "clst": [
@@ -64,7 +57,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "factDesign": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
@@ -89,7 +81,6 @@
     "ibh": [],
     "IFAA": [],
     "InterMineR": [],
-    "IPO": [],
     "iSeq": [],
     "ivygapSE": [],
     "LPEadj": [],
@@ -107,9 +98,7 @@
         "ROC",
         "wateRmelon"
     ],
-    "metaCCA": [],
     "monocle": [],
-    "MSstatsLOBD": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -128,7 +117,6 @@
     "Pi": [],
     "PLPE": [],
     "PoDCall": [],
-    "projectR": [],
     "PSEA": [],
     "qcmetrics": [],
     "qsea": [],
@@ -140,11 +128,8 @@
         "quantsmooth"
     ],
     "RandomWalkRestartMH": [],
-    "RCASPAR": [],
-    "Rdisop": [],
     "RLSeq": [],
     "ROC": [],
-    "rSWeeP": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -153,7 +138,6 @@
     "SIM": [
         "quantsmooth"
     ],
-    "similaRpeak": [],
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
@@ -173,6 +157,5 @@
     ],
     "wateRmelon": [
         "ROC"
-    ],
-    "weaver": []
+    ]
 }
