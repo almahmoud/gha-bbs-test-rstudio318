@@ -1,12 +1,8 @@
 {
     "AgiMicroRna": [],
     "alabaster": [],
-    "arrayMvout": [
-        "parody"
-    ],
-    "ASICS": [
-        "PepsNMR"
-    ],
+    "arrayMvout": [],
+    "ASICS": [],
     "ATACCoGAPS": [
         "projectR"
     ],
@@ -14,15 +10,12 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BG2": [],
     "bigmelon": [
         "ROC",
         "wateRmelon"
     ],
     "BiocOncoTK": [],
-    "BioMVCClass": [
-        "MVCClass"
-    ],
+    "BioMVCClass": [],
     "CAGEr": [],
     "cellscape": [],
     "CFAssay": [],
@@ -65,34 +58,25 @@
         "crisprDesign"
     ],
     "CytoPipelineGUI": [],
-    "dcanr": [],
     "DeepBlueR": [],
     "epivizr": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "epivizrChart": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
-    "epivizrData": [
-        "epivizrServer"
-    ],
-    "epivizrServer": [],
+    "epivizrData": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "factDesign": [],
-    "fCI": [],
     "flagme": [],
     "GENESIS": [
         "GWASTools",
         "quantsmooth"
     ],
     "GEOfastq": [],
-    "globalSeq": [],
     "granulator": [],
     "GWASTools": [
         "quantsmooth"
@@ -101,7 +85,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -110,7 +93,6 @@
         "HilbertVis"
     ],
     "hmdbQuery": [],
-    "HMMcopy": [],
     "HPiP": [],
     "hummingbird": [],
     "ibh": [],
@@ -119,11 +101,7 @@
     "IPO": [],
     "iSeq": [],
     "ivygapSE": [],
-    "LOBSTAHS": [],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "maCorrPlot": [],
     "MAIT": [],
     "maPredictDSC": [
@@ -155,33 +133,23 @@
     "multicrispr": [
         "Rbowtie"
     ],
-    "multiWGCNA": [
-        "dcanr"
-    ],
-    "MVCClass": [],
-    "netbiov": [],
+    "multiWGCNA": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
     "NTW": [],
-    "parody": [],
     "PathNet": [],
-    "PepsNMR": [],
     "phemd": [
         "monocle"
     ],
     "Pi": [],
-    "PLPE": [
-        "LPE"
-    ],
+    "PLPE": [],
     "PoDCall": [],
     "projectR": [],
     "PSEA": [],
     "qcmetrics": [],
-    "qsea": [
-        "HMMcopy"
-    ],
+    "qsea": [],
     "quantsmooth": [],
     "QuasR": [
         "Rbowtie"
@@ -194,7 +162,6 @@
     "RandomWalkRestartMH": [],
     "Rbowtie": [],
     "RCASPAR": [],
-    "rDGIdb": [],
     "Rdisop": [],
     "RLSeq": [],
     "ROC": [],
@@ -202,8 +169,7 @@
     "sagenhaft": [],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "semisup": [],
     "SeqSQC": [],
@@ -223,7 +189,6 @@
     "statTarget": [
         "ROC"
     ],
-    "Summix": [],
     "TCC": [
         "ROC"
     ],
