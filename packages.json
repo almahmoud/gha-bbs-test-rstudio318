@@ -1,13 +1,10 @@
 {
-    "arrayMvout": [],
-    "ASICS": [],
     "ATACCoGAPS": [],
     "beadarraySNP": [],
     "bigmelon": [
         "wateRmelon"
     ],
     "BiocOncoTK": [],
-    "BioMVCClass": [],
     "ChAMP": [
         "wateRmelon"
     ],
@@ -35,16 +32,10 @@
         "crisprDesign"
     ],
     "DeepBlueR": [],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "GENESIS": [
         "GWASTools"
@@ -60,7 +51,6 @@
     "IFAA": [],
     "InterMineR": [],
     "ivygapSE": [],
-    "LPEadj": [],
     "maPredictDSC": [],
     "mBPCR": [
         "GWASTools"
@@ -77,7 +67,6 @@
         "qcmetrics"
     ],
     "multicrispr": [],
-    "multiWGCNA": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -85,9 +74,7 @@
         "monocle"
     ],
     "Pi": [],
-    "PLPE": [],
     "qcmetrics": [],
-    "qsea": [],
     "QuasR": [],
     "RAIDS": [
         "GENESIS",
@@ -96,8 +83,7 @@
     "RandomWalkRestartMH": [],
     "RLSeq": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "SeqSQC": [],
     "SIM": [],
