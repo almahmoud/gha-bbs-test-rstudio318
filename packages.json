@@ -32,11 +32,7 @@
         "crisprDesign"
     ],
     "DeepBlueR": [],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "GENESIS": [
         "GWASTools"
     ],
@@ -82,9 +78,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "SeqSQC": [],
     "SIM": [],
     "SingleMoleculeFootprinting": [
