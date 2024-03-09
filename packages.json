@@ -1,31 +1,20 @@
 {
-    "bigmelon": [],
     "BiocOncoTK": [],
-    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
     "Clomial": [],
-    "clstutils": [],
-    "crisprDesign": [],
     "crisprVerse": [
-        "crisprDesign",
         "crisprViz"
     ],
-    "crisprViz": [
-        "crisprDesign"
-    ],
+    "crisprViz": [],
     "DeepBlueR": [],
-    "GENESIS": [],
-    "gwasurvivr": [],
     "hmdbQuery": [],
     "hummingbird": [],
     "IFAA": [],
     "InterMineR": [],
     "ivygapSE": [],
-    "mBPCR": [],
-    "MEAT": [],
     "monocle": [],
     "MSstatsQC": [
         "qcmetrics"
@@ -43,14 +32,10 @@
     ],
     "Pi": [],
     "qcmetrics": [],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RLSeq": [],
     "SeqSQC": [],
-    "SingleMoleculeFootprinting": [],
-    "skewr": [],
     "uSORT": [
         "monocle"
     ]
