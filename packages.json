@@ -259,7 +259,6 @@
         "BiocVersion",
         "OrganismDbi"
     ],
-    "annotationTools": [],
     "annotatr": [
         "BiocVersion",
         "regioneR"
@@ -563,7 +562,6 @@
         "DOSE",
         "GOSemSim",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -826,7 +824,6 @@
         "Category",
         "GSEABase",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "annotate",
         "cBioPortalData",
@@ -875,7 +872,6 @@
     "cbaf": [
         "AnVIL",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "annotate",
         "cBioPortalData",
@@ -888,7 +884,6 @@
     "cBioPortalData": [
         "AnVIL",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -1272,7 +1267,6 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
@@ -1412,8 +1406,7 @@
         "HTSFilter"
     ],
     "CoSIA": [
-        "BiocVersion",
-        "annotationTools"
+        "BiocVersion"
     ],
     "cosmiq": [
         "MSnbase",
@@ -1884,7 +1877,6 @@
     "dittoSeq": [],
     "DMCFB": [],
     "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "BiocVersion",
         "DelayedMatrixStats",
@@ -1931,7 +1923,6 @@
         "GOSemSim",
         "fgsea"
     ],
-    "doseR": [],
     "doubletrouble": [
         "MSA2dist",
         "syntenet"
@@ -2160,7 +2151,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles",
         "OrganismDbi",
@@ -2554,7 +2544,6 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -2670,7 +2659,6 @@
         "splots",
         "vsn"
     ],
-    "getDEE2": [],
     "gg4way": [
         "DESeq2"
     ],
@@ -2743,7 +2731,6 @@
     "GNOSIS": [
         "AnVIL",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
@@ -2978,7 +2965,6 @@
         "annotate"
     ],
     "idpr": [],
-    "IFAA": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -3177,7 +3163,6 @@
         "sva"
     ],
     "LACE": [],
-    "lapmix": [],
     "LedPred": [],
     "lefser": [],
     "lemur": [
@@ -3192,7 +3177,6 @@
     ],
     "LinkHD": [],
     "LinTInd": [],
-    "lionessR": [],
     "lipidr": [
         "fgsea",
         "ropls"
@@ -3342,7 +3326,6 @@
     ],
     "MatrixQCvis": [
         "BiocVersion",
-        "proDA",
         "vsn"
     ],
     "MatrixRider": [
@@ -3754,7 +3737,6 @@
         "bsseq"
     ],
     "MiRaGE": [],
-    "miRcomp": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -4203,7 +4185,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "pandaR",
         "quantro",
         "siggenes",
         "yarn"
@@ -4301,9 +4282,7 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [
         "fgsea"
     ],
@@ -4401,7 +4380,6 @@
         "sva"
     ],
     "pairkat": [],
-    "pandaR": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -4640,7 +4618,6 @@
     "procoil": [
         "kebabs"
     ],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -4772,7 +4749,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "quantiseqr": [],
     "quantro": [
         "DelayedMatrixStats",
@@ -4815,7 +4791,6 @@
         "piano"
     ],
     "raer": [],
-    "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -4830,7 +4805,6 @@
     "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [],
-    "randPack": [],
     "randRotation": [],
     "RAREsim": [],
     "RareVariantVis": [
@@ -5213,7 +5187,6 @@
     "rSWeeP": [],
     "RTCGA": [],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RTNsurvival": [],
@@ -5250,7 +5223,6 @@
     "sangerseqR": [],
     "SANTA": [],
     "SARC": [
-        "RaggedExperiment",
         "plyranges"
     ],
     "sarks": [],
@@ -6069,9 +6041,7 @@
         "baySeq"
     ],
     "TCGAbiolinks": [],
-    "TCGAutils": [
-        "RaggedExperiment"
-    ],
+    "TCGAutils": [],
     "TCseq": [],
     "TDbasedUFE": [
         "tximport"
@@ -6099,7 +6069,6 @@
     "ternarynet": [],
     "terraTCGAdata": [
         "AnVIL",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [
