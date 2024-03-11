@@ -491,7 +491,6 @@
     "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
@@ -679,7 +678,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "sva"
     ],
@@ -1923,7 +1921,6 @@
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RgnTX": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
