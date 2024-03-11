@@ -242,7 +242,6 @@
     "BayesSpace": [],
     "baySeq": [],
     "BBCAnalyzer": [],
-    "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR",
         "illuminaio"
@@ -507,7 +506,6 @@
         "sva",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "BiocStyle",
         "Gviz",
@@ -951,7 +949,6 @@
         "pathview",
         "zenith"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
@@ -1119,7 +1116,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "biovizBase",
@@ -2553,9 +2549,7 @@
     "scBFA": [
         "zinbwave"
     ],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "Cepo"
     ],
@@ -2594,7 +2588,6 @@
     "scoreInvHap": [],
     "scp": [],
     "scPipe": [
-        "DropletUtils",
         "Rsubread",
         "basilisk",
         "basilisk.utils",
@@ -2712,7 +2705,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
-        "DropletUtils",
         "GSVA",
         "basilisk",
         "basilisk.utils",
@@ -2768,9 +2760,7 @@
         "annotatr",
         "bsseq"
     ],
-    "Spaniel": [
-        "DropletUtils"
-    ],
+    "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [
