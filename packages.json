@@ -3355,7 +3355,6 @@
     "MGFR": [
         "annotate"
     ],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -4872,7 +4871,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scater": [],
     "scBFA": [
         "DESeq2",
         "annotate",
