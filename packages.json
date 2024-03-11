@@ -1497,7 +1497,6 @@
     "iSEEhub": [
         "BiocVersion"
     ],
-    "iSEEindex": [],
     "iSEEpathways": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
@@ -1802,7 +1801,6 @@
         "dir.expiry"
     ],
     "mogsa": [],
-    "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2644,7 +2642,6 @@
     ],
     "SigsPack": [],
     "SIM": [],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
     ],
@@ -2768,7 +2765,6 @@
         "splots"
     ],
     "StarBioTrek": [],
-    "Statial": [],
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
@@ -2974,7 +2970,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
