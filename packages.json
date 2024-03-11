@@ -546,7 +546,6 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -687,7 +686,6 @@
     ],
     "DAMEfinder": [],
     "DaMiRseq": [
-        "EDASeq",
         "sva"
     ],
     "DAPAR": [
@@ -776,7 +774,6 @@
     "doppelgangR": [
         "sva"
     ],
-    "doubletrouble": [],
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -795,7 +792,6 @@
     "EBSEA": [
         "EmpiricalBrownsMethod"
     ],
-    "EDASeq": [],
     "edge": [
         "sva"
     ],
@@ -902,7 +898,6 @@
         "enrichplot",
         "rWikiPathways"
     ],
-    "FastqCleaner": [],
     "fCCAC": [],
     "FEAST": [],
     "ffpe": [
@@ -987,7 +982,6 @@
     "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "sSeq",
         "sva"
@@ -1373,8 +1367,7 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "MetCirc": [],
     "MethReg": [
@@ -1636,7 +1629,6 @@
     "nuCpos": [],
     "octad": [
         "BiocVersion",
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -1952,7 +1944,6 @@
         "baySeq"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "Rsubread",
         "TFBSTools",
@@ -2022,9 +2013,7 @@
     "RTCGAToolbox": [],
     "rTRMui": [],
     "runibic": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "rWikiPathways": [],
     "sagenhaft": [],
     "SAIGEgds": [
@@ -2079,7 +2068,6 @@
         "annotatr"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -2277,7 +2265,6 @@
     "ssize": [],
     "ssrch": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
