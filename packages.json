@@ -622,9 +622,7 @@
     "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromHeatMap": [],
     "ChromSCape": [
         "batchelor",
@@ -1390,7 +1388,6 @@
         "Rsubread"
     ],
     "FRGEpistasis": [],
-    "frma": [],
     "funtooNorm": [
         "genefilter",
         "illuminaio",
