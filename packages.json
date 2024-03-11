@@ -906,7 +906,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "BiocVersion",
         "ChIPseeker",
@@ -1295,7 +1294,6 @@
     ],
     "HPiP": [],
     "HTSeqGenie": [
-        "VariantTools",
         "chipseq"
     ],
     "HTSFilter": [],
@@ -1429,7 +1427,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "crlmm",
@@ -1999,7 +1996,6 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [],
     "Pviz": [
@@ -2356,7 +2352,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqCAT": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -2643,7 +2638,6 @@
         "BiocVersion",
         "Gviz"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown",
         "sva"
