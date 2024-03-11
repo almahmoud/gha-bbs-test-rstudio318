@@ -192,7 +192,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "BumpyMatrix",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -226,7 +225,6 @@
         "rhdf5filters"
     ],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "Rhdf5lib",
         "alabaster.base",
         "alabaster.schemas",
@@ -790,7 +788,6 @@
         "BiocStyle",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "annotate",
         "biomaRt",
@@ -1526,7 +1523,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BumpyMatrix": [],
     "BUScorrect": [],
     "BUSpaRse": [
         "BSgenome",
@@ -1630,7 +1626,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2191,7 +2186,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "chromDraw": [],
     "ChromHeatMap": [
         "BiocIO",
         "BiocParallel",
@@ -2366,7 +2360,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2387,7 +2380,6 @@
     "CluMSID": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -2693,7 +2685,6 @@
         "BiocParallel",
         "ChemmineR",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "compSPOT": [],
@@ -2839,7 +2830,6 @@
     "coRdon": [],
     "CoreGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "fgsea",
         "marray",
@@ -2867,7 +2857,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3342,7 +3331,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
@@ -3566,7 +3554,6 @@
         "BiocParallel",
         "ComplexHeatmap",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -4591,7 +4578,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "factDesign": [],
     "factR": [
         "BiocIO",
         "BiocParallel",
@@ -4604,7 +4590,6 @@
         "rtracklayer",
         "wiggleplotr"
     ],
-    "FamAgg": [],
     "famat": [
         "BiocParallel",
         "DOSE",
@@ -4722,7 +4707,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -5095,7 +5079,6 @@
     ],
     "gDR": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -5108,13 +5091,11 @@
     ],
     "gDRcore": [
         "BiocParallel",
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -5129,7 +5110,6 @@
     ],
     "gDRutils": [
         "BiocParallel",
-        "BumpyMatrix",
         "MultiAssayExperiment"
     ],
     "GDSArray": [
@@ -5966,7 +5946,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "SingleCellExperiment",
@@ -6234,7 +6213,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "plgem",
         "rtracklayer"
     ],
     "InTAD": [
@@ -6326,7 +6304,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -6583,7 +6560,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -6769,7 +6745,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -7051,15 +7026,12 @@
         "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "interactiveDisplayBase"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
         "rols",
@@ -7113,7 +7085,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -7177,7 +7148,6 @@
     "MetCirc": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "methimpute": [],
@@ -7766,7 +7736,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -7951,34 +7920,28 @@
     "MsBackendMassbank": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
-    "MsCoreUtils": [],
     "MsDataHub": [
         "AnnotationHub",
         "BiocVersion",
@@ -7988,14 +7951,11 @@
     "MsExperiment": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [
-        "MsCoreUtils"
-    ],
+    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "BiocIO",
@@ -8032,7 +7992,6 @@
     "msmsEDA": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -8042,7 +8001,6 @@
     "msmsTests": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "msmsEDA",
         "mzID",
@@ -8052,7 +8010,6 @@
     ],
     "MSnbase": [
         "BiocParallel",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -8065,7 +8022,6 @@
         "BiocStyle",
         "BiocVersion",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "interactiveDisplayBase",
         "msmsEDA",
@@ -8088,14 +8044,12 @@
     ],
     "msqrob2": [
         "BiocParallel",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures"
     ],
     "MsQuality": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
         "QFeatures",
@@ -8128,7 +8082,6 @@
     "MSstatsQC": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -8140,7 +8093,6 @@
         "BiocParallel",
         "MSnbase",
         "MSstatsQC",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -8411,7 +8363,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -9029,7 +8980,6 @@
     ],
     "PDATK": [
         "BiocParallel",
-        "BumpyMatrix",
         "ConsensusClusterPlus",
         "CoreGx",
         "MultiAssayExperiment",
@@ -9057,7 +9007,6 @@
     "peakPantheR": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -9107,7 +9056,6 @@
     ],
     "PharmacoGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -9231,7 +9179,6 @@
     ],
     "planttfhunter": [],
     "plasmut": [],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "AnnotationForge",
@@ -9378,7 +9325,6 @@
     "PrInCE": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -9441,7 +9387,6 @@
         "BiocParallel",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "annotate",
         "biomaRt",
@@ -9455,7 +9400,6 @@
         "BiocParallel",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "annotate",
         "biomaRt",
@@ -9484,7 +9428,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
@@ -9539,7 +9482,6 @@
     ],
     "PSMatch": [
         "BiocParallel",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures"
     ],
@@ -9551,7 +9493,6 @@
     "ptairMS": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -9620,12 +9561,9 @@
         "marray"
     ],
     "QFeatures": [
-        "MsCoreUtils",
         "MultiAssayExperiment"
     ],
-    "qmtools": [
-        "MsCoreUtils"
-    ],
+    "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [
         "BiocIO",
@@ -9642,7 +9580,6 @@
     "qPLEXanalyzer": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -9672,7 +9609,6 @@
         "sva"
     ],
     "QTLExperiment": [],
-    "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
         "BiocIO",
@@ -9759,7 +9695,6 @@
     "R4RNA": [],
     "RadioGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -10276,7 +10211,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "BiocIO",
         "BiocParallel",
@@ -10407,7 +10341,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -10468,7 +10401,6 @@
         "BiocParallel",
         "ChemmineR",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -10599,7 +10531,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "RNAsense": [],
     "RNAseqCovarImpute": [
         "BiocParallel"
     ],
@@ -10723,7 +10654,6 @@
         "ShortRead"
     ],
     "rSWeeP": [],
-    "RTCA": [],
     "RTCGA": [],
     "RTCGAToolbox": [
         "BiocIO",
@@ -10833,7 +10763,6 @@
     "SC3": [
         "SingleCellExperiment"
     ],
-    "Scale4C": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "BiocParallel",
@@ -11156,7 +11085,6 @@
         "snpStats"
     ],
     "scp": [
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "SingleCellExperiment"
@@ -12087,8 +12015,7 @@
     "specL": [],
     "Spectra": [
         "BiocParallel",
-        "MetaboCoreUtils",
-        "MsCoreUtils"
+        "MetaboCoreUtils"
     ],
     "SpectralTAD": [
         "BiocParallel",
@@ -12204,7 +12131,6 @@
         "SingleCellExperiment",
         "sparseMatrixStats"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "Rhdf5lib",
         "SingleCellExperiment",
@@ -12239,7 +12165,6 @@
     "sSNAPPY": [
         "graphite"
     ],
-    "ssPATHS": [],
     "ssrch": [],
     "ssviz": [
         "BiocParallel",
@@ -12389,7 +12314,6 @@
     "synapter": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "cleaver",
         "multtest",
@@ -12713,7 +12637,6 @@
     "topdownr": [
         "BiocParallel",
         "MSnbase",
-        "MsCoreUtils",
         "Rhdf5lib",
         "mzID",
         "mzR",
@@ -12723,7 +12646,6 @@
     "topGO": [],
     "ToxicoGx": [
         "BiocParallel",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -13319,7 +13241,6 @@
         "BiocParallel",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -13344,7 +13265,6 @@
     ],
     "Xeva": [
         "BiocParallel",
-        "BumpyMatrix",
         "ComplexHeatmap",
         "CoreGx",
         "MultiAssayExperiment",
