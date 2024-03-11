@@ -427,7 +427,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -952,7 +951,6 @@
     ],
     "Cogito": [],
     "coGPS": [],
-    "cola": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -2805,7 +2803,6 @@
         "genefilter"
     ],
     "MoleculeExperiment": [],
-    "MOMA": [],
     "monaLisa": [
         "CNEr",
         "TFBSTools"
@@ -3096,7 +3093,6 @@
         "illuminaio"
     ],
     "NormalyzerDE": [],
-    "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
@@ -3204,7 +3200,6 @@
         "genefilter",
         "sva"
     ],
-    "padma": [],
     "pageRank": [
         "CNEr",
         "TFBSTools",
@@ -4026,7 +4021,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -4083,7 +4077,6 @@
     "SEtools": [
         "DESeq2",
         "genefilter",
-        "sechm",
         "sva"
     ],
     "sevenC": [],
@@ -4517,7 +4510,6 @@
     "tRanslatome": [
         "DESeq2"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [],
     "traviz": [
