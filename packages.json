@@ -642,7 +642,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -920,7 +919,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -1116,7 +1114,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -1837,7 +1834,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -2175,7 +2171,6 @@
     ],
     "ggmsa": [],
     "GGPA": [],
-    "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
     ],
@@ -2496,7 +2491,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -2600,7 +2594,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -2675,7 +2668,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -2811,7 +2803,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -3033,7 +3024,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -3125,7 +3115,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "ShortRead",
@@ -3302,7 +3291,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -4055,7 +4043,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR",
@@ -4272,7 +4259,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "schex": [],
     "scHOT": [],
     "scider": [
         "SpatialExperiment"
@@ -4351,13 +4337,11 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "meshr",
-        "schex"
+        "meshr"
     ],
     "scTGIF": [
         "BiocStyle",
-        "GSEABase",
-        "schex"
+        "GSEABase"
     ],
     "scTHI": [],
     "scTreeViz": [
@@ -5092,7 +5076,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR"
