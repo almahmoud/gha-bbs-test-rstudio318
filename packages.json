@@ -24,7 +24,6 @@
         "ggbio"
     ],
     "affylmGUI": [],
-    "AGDEX": [],
     "agilp": [],
     "AgiMicroRna": [
         "Category",
@@ -169,24 +168,20 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "TFBSTools",
         "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
         "BiocVersion",
-        "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atena": [
         "BiocVersion"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [
@@ -443,9 +438,7 @@
         "enrichplot"
     ],
     "ChromSCape": [],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -456,7 +449,6 @@
     ],
     "CircSeqAlignTk": [],
     "cisPath": [],
-    "CiteFuse": [],
     "ClassifyR": [],
     "clevRvis": [],
     "cliqueMS": [
@@ -653,7 +645,6 @@
     ],
     "cytoviewer": [],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "DaMiRseq": [
@@ -769,7 +760,6 @@
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -780,7 +770,6 @@
     "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -818,7 +807,6 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -1243,9 +1231,7 @@
     "MatrixQCvis": [
         "BiocVersion"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "MBAmethyl": [],
     "MBECS": [
         "sva"
@@ -1398,7 +1384,6 @@
     "MLSeq": [
         "sSeq"
     ],
-    "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
         "xcms"
@@ -1413,9 +1398,7 @@
         "dir.expiry"
     ],
     "mogsa": [],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
@@ -1431,15 +1414,10 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "TFBSTools",
         "motifStack"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MQmetrics": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
@@ -1522,7 +1500,6 @@
         "BiocVersion",
         "EmpiricalBrownsMethod",
         "Gviz",
-        "TFBSTools",
         "motifStack",
         "trackViewer"
     ],
@@ -1608,7 +1585,6 @@
         "sva"
     ],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "pairedGSEA": [
@@ -1693,8 +1669,7 @@
     "preciseTAD": [],
     "primirTSS": [
         "BiocVersion",
-        "Gviz",
-        "TFBSTools"
+        "Gviz"
     ],
     "PrInCE": [],
     "PROcess": [
@@ -1867,7 +1842,6 @@
     "ribosomeProfilingQC": [
         "RUVSeq",
         "Rsubread",
-        "TFBSTools",
         "motifStack"
     ],
     "RImmPort": [],
@@ -2149,7 +2123,6 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "TFBSTools",
         "motifmatchr"
     ],
     "specL": [],
@@ -2221,7 +2194,6 @@
     "terraTCGAdata": [
         "AnVIL"
     ],
-    "TFBSTools": [],
     "TFHAZ": [],
     "TFutils": [],
     "tilingArray": [],
