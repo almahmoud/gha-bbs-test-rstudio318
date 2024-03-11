@@ -302,7 +302,6 @@
         "tximport"
     ],
     "BgeeDB": [],
-    "bgx": [],
     "BHC": [],
     "BicARE": [
         "GSEABase"
@@ -1912,7 +1911,6 @@
         "BPRMeth",
         "BiocStyle"
     ],
-    "memes": [],
     "Mergeomics": [],
     "meshes": [
         "BiocVersion",
