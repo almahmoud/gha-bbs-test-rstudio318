@@ -1524,15 +1524,12 @@
         "xcms"
     ],
     "iSEEde": [],
-    "iSEEhex": [],
     "iSEEhub": [
         "BiocVersion"
     ],
     "iSEEindex": [],
     "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DEXSeq",
@@ -2044,7 +2041,6 @@
         "yarn"
     ],
     "nipalsMCIA": [],
-    "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -2297,9 +2293,7 @@
         "illuminaio",
         "minfi"
     ],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles",
         "Rbowtie"
@@ -2789,7 +2783,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils"
     ],
