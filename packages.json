@@ -52,7 +52,6 @@
     ],
     "adductomicsR": [
         "BiocVersion",
-        "Rhdf5lib",
         "mzR"
     ],
     "ADImpute": [
@@ -181,7 +180,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "MultiAssayExperiment",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
@@ -199,89 +197,62 @@
         "alabaster.string",
         "alabaster.vcf",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "alabaster.base": [
-        "Rhdf5lib",
-        "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.schemas"
     ],
     "alabaster.bumpy": [
-        "Rhdf5lib",
         "alabaster.base",
-        "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.schemas"
     ],
     "alabaster.files": [
         "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "alabaster.base",
         "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "alabaster.mae": [
         "HDF5Array",
         "MultiAssayExperiment",
-        "Rhdf5lib",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.schemas",
-        "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.se"
     ],
     "alabaster.matrix": [
         "HDF5Array",
-        "Rhdf5lib",
         "alabaster.base",
-        "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.schemas"
     ],
     "alabaster.ranges": [
-        "Rhdf5lib",
         "alabaster.base",
-        "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.schemas"
     ],
     "alabaster.sce": [
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.schemas",
-        "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.se"
     ],
     "alabaster.schemas": [],
     "alabaster.se": [
         "HDF5Array",
-        "Rhdf5lib",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.schemas"
     ],
     "alabaster.spatial": [
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "SpatialExperiment",
         "alabaster.base",
@@ -289,16 +260,11 @@
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.schemas",
-        "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.se"
     ],
     "alabaster.string": [
-        "Rhdf5lib",
         "alabaster.base",
-        "alabaster.schemas",
-        "rhdf5",
-        "rhdf5filters"
+        "alabaster.schemas"
     ],
     "alabaster.vcf": [
         "BSgenome",
@@ -307,7 +273,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -318,8 +283,6 @@
         "alabaster.se",
         "alabaster.string",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ALDEx2": [
@@ -357,10 +320,7 @@
         "BiocVersion",
         "ComplexHeatmap",
         "HDF5Array",
-        "MultiAssayExperiment",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "MultiAssayExperiment"
     ],
     "AMOUNTAIN": [],
     "amplican": [
@@ -399,7 +359,6 @@
         "Rsamtools",
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [
         "BiocParallel",
         "DESeq2",
@@ -491,13 +450,10 @@
         "GenomicScores",
         "HDF5Array",
         "OrganismDbi",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ArrayExpress": [
@@ -512,7 +468,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "affyContam",
@@ -525,8 +480,6 @@
         "mdqc",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -592,7 +545,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
@@ -603,8 +555,6 @@
         "fgsea",
         "motifmatchr",
         "rGREAT",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ATACseqQC": [
@@ -619,7 +569,6 @@
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
@@ -628,8 +577,6 @@
         "ensembldb",
         "motifStack",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ATACseqTFEA": [
@@ -685,7 +632,6 @@
         "MultiAssayExperiment",
         "pcaMethods"
     ],
-    "AWFisher": [],
     "BaalChIP": [
         "BiocParallel",
         "GenomicAlignments",
@@ -742,7 +688,6 @@
         "BiocStyle",
         "MLInterfaces",
         "MSnbase",
-        "Rhdf5lib",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -791,14 +736,11 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
         "bluster",
         "glmGamPoi",
-        "rhdf5",
-        "rhdf5filters",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -840,13 +782,10 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle",
@@ -874,10 +813,7 @@
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
-        "Rhdf5lib",
-        "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "beachmat"
     ],
     "beadarray": [
         "BeadDataPackR",
@@ -918,7 +854,6 @@
         "Maaslin2",
         "MultiAssayExperiment",
         "NOISeq",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -932,8 +867,6 @@
         "mia",
         "mixOmics",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -944,12 +877,9 @@
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "tximport"
     ],
@@ -976,7 +906,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -988,8 +917,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -1068,12 +995,9 @@
         "HDF5Array",
         "MultiAssayExperiment",
         "Rgraphviz",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BioCor": [
@@ -1134,11 +1058,7 @@
     ],
     "bioDist": [],
     "biomaRt": [],
-    "biomformat": [
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
-    ],
+    "biomformat": [],
     "BioMVCClass": [
         "Rgraphviz"
     ],
@@ -1223,7 +1143,6 @@
         "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1234,8 +1153,6 @@
         "bumphunter",
         "dmrseq",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -1283,11 +1200,8 @@
     "bnbc": [
         "BiocParallel",
         "HiCBricks",
-        "Rhdf5lib",
         "annotate",
         "genefilter",
-        "rhdf5",
-        "rhdf5filters",
         "sva"
     ],
     "bnem": [
@@ -1326,13 +1240,10 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -1414,12 +1325,9 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -1442,7 +1350,6 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
         "BiocIO",
@@ -1560,7 +1467,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -1637,7 +1543,6 @@
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -1833,7 +1738,6 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "Rhdf5lib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -1843,11 +1747,8 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "annotate",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "ceRNAnetsim": [],
@@ -1926,7 +1827,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1945,8 +1845,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -1959,10 +1857,7 @@
         "bioDist"
     ],
     "chihaya": [
-        "HDF5Array",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "HDF5Array"
     ],
     "chimeraviz": [
         "BSgenome",
@@ -2209,13 +2104,10 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "rhdf5",
-        "rhdf5filters",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -2237,7 +2129,6 @@
     ],
     "cleaver": [],
     "clevRvis": [],
-    "clippda": [],
     "clipper": [
         "BiocIO",
         "BiocParallel",
@@ -2269,7 +2160,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -2284,7 +2174,6 @@
     "CluMSID": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -2295,15 +2184,12 @@
         "BiocParallel",
         "BiocSingular",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
         "beachmat",
         "genefilter",
         "mbkmeans",
-        "rhdf5",
-        "rhdf5filters",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -2327,11 +2213,8 @@
     ],
     "ClustIRR": [],
     "cmapR": [
-        "Rhdf5lib",
         "cytolib",
-        "flowCore",
-        "rhdf5",
-        "rhdf5filters"
+        "flowCore"
     ],
     "cn.farms": [
         "affxparser",
@@ -2381,7 +2264,6 @@
         "CopyNumberPlots",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2393,8 +2275,6 @@
         "exomeCopy",
         "karyoploteR",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "cnvGSA": [],
@@ -2405,7 +2285,6 @@
         "CopyNumberPlots",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2417,8 +2296,6 @@
         "exomeCopy",
         "karyoploteR",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "CNVMetrics": [
@@ -2461,13 +2338,10 @@
         "GenomicAlignments",
         "HDF5Array",
         "MIRA",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -2485,12 +2359,9 @@
     ],
     "CoGAPS": [
         "BiocParallel",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "biomaRt",
-        "fgsea",
-        "rhdf5",
-        "rhdf5filters"
+        "fgsea"
     ],
     "cogeqc": [
         "ggtree"
@@ -2525,11 +2396,8 @@
         "rtracklayer"
     ],
     "combi": [
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "coMET": [
         "BSgenome",
@@ -2606,7 +2474,6 @@
     ],
     "CONFESS": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -2638,15 +2505,12 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
         "beachmat",
         "biomaRt",
         "genefu",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "consensusSeekeR": [
@@ -2682,7 +2546,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -2691,21 +2554,17 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
     ],
     "convert": [],
-    "copa": [],
     "CopyNumberPlots": [
         "BSgenome",
         "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2717,8 +2576,6 @@
         "exomeCopy",
         "karyoploteR",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "coRdon": [],
@@ -2751,7 +2608,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -2862,11 +2718,8 @@
         "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "CrispRVariants": [
@@ -2961,10 +2814,7 @@
     "cTRAP": [
         "BiocParallel",
         "BiocVersion",
-        "Rhdf5lib",
-        "fgsea",
-        "rhdf5",
-        "rhdf5filters"
+        "fgsea"
     ],
     "ctsGE": [],
     "CTSV": [
@@ -2989,10 +2839,7 @@
     ],
     "CuratedAtlasQueryR": [
         "HDF5Array",
-        "Rhdf5lib",
-        "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "SingleCellExperiment"
     ],
     "customCMPdb": [
         "BiocVersion",
@@ -3011,7 +2858,6 @@
         "rtracklayer"
     ],
     "cyanoFilter": [
-        "Rhdf5lib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -3024,13 +2870,11 @@
     "cydar": [
         "BiocNeighbors",
         "BiocParallel",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -3040,7 +2884,6 @@
         "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
-        "Rhdf5lib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -3055,7 +2898,6 @@
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -3072,26 +2914,19 @@
         "BiocParallel",
         "ComplexHeatmap"
     ],
-    "cytolib": [
-        "Rhdf5lib"
-    ],
+    "cytolib": [],
     "cytomapper": [
         "BiocParallel",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
-        "SpatialExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "SpatialExperiment"
     ],
     "cytoMEM": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "CytoML": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -3106,7 +2941,6 @@
         "ComplexHeatmap",
         "PeacoQC",
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowAI",
         "flowCore",
@@ -3120,7 +2954,6 @@
         "CytoPipeline",
         "PeacoQC",
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowAI",
         "flowCore",
@@ -3131,12 +2964,9 @@
     "cytoviewer": [
         "BiocParallel",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "cytomapper",
-        "rhdf5",
-        "rhdf5filters"
+        "cytomapper"
     ],
     "dada2": [
         "BiocParallel",
@@ -3195,7 +3025,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -3215,7 +3044,6 @@
         "BiocParallel"
     ],
     "ddPCRclust": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -3281,7 +3109,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -3291,8 +3118,6 @@
         "illuminaio",
         "methylKit",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -3354,11 +3179,8 @@
         "BiocSingular",
         "DelayedRandomArray",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
-        "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "beachmat"
     ],
     "DELocal": [
         "BiocParallel",
@@ -3376,15 +3198,12 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
         "beachmat",
         "bsseq",
         "genefilter",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
         "sva"
@@ -3412,7 +3231,6 @@
         "BiocParallel",
         "ComplexHeatmap",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -3515,7 +3333,6 @@
     ],
     "DFP": [],
     "DIAlignR": [
-        "Rhdf5lib",
         "mzR"
     ],
     "DiffBind": [
@@ -3538,7 +3355,6 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -3556,12 +3372,9 @@
         "BiocParallel",
         "GenomicAlignments",
         "InteractionSet",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "csaw",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "diffuStats": [],
@@ -3644,7 +3457,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -3660,8 +3472,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -3675,7 +3485,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotatr",
@@ -3684,8 +3493,6 @@
         "bsseq",
         "bumphunter",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -3767,11 +3574,8 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -3802,13 +3606,10 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -3886,7 +3687,6 @@
         "KEGGgraph",
         "PADOG",
         "Rgraphviz",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
@@ -3894,8 +3694,6 @@
         "gage",
         "globaltest",
         "pathview",
-        "rhdf5",
-        "rhdf5filters",
         "safe",
         "sparseMatrixStats",
         "topGO"
@@ -3947,7 +3745,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -3957,8 +3754,6 @@
         "geneplotter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -4090,13 +3885,10 @@
         "BiocParallel",
         "GenomicAlignments",
         "GreyListChIP",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "bamsignals",
         "csaw",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "EpiMix": [
@@ -4121,7 +3913,6 @@
         "Gviz",
         "HDF5Array",
         "OrganismDbi",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -4133,8 +3924,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -4267,14 +4056,11 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "UCell",
         "annotate",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "escheR": [
@@ -4298,15 +4084,12 @@
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "SGSeq",
         "affxparser",
         "biomaRt",
         "fgsea",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "tximport"
     ],
@@ -4456,7 +4239,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "FeatSeekR": [],
     "fedup": [
         "RCy3"
     ],
@@ -4471,7 +4253,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -4482,8 +4263,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -4522,7 +4301,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -4544,7 +4322,6 @@
         "HDF5Array",
         "MultiAssayExperiment",
         "OrganismDbi",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -4560,8 +4337,6 @@
         "dir.expiry",
         "ensembldb",
         "ggbio",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scater",
         "scran",
@@ -4569,17 +4344,14 @@
         "sparseMatrixStats"
     ],
     "flowAI": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowFP",
@@ -4589,46 +4361,38 @@
         "BiocParallel"
     ],
     "flowCHIC": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowCore": [
-        "Rhdf5lib",
         "cytolib"
     ],
     "flowCut": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -4636,42 +4400,35 @@
         "ncdfFlow"
     ],
     "flowMatch": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowMerge": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
         "ConsensusClusterPlus",
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
         "BiocParallel",
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowStats": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowViz",
@@ -4679,25 +4436,21 @@
         "ncdfFlow"
     ],
     "flowTime": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "Rhdf5lib",
         "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
     "flowVS": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowStats",
@@ -4707,7 +4460,6 @@
     ],
     "flowWorkspace": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "ncdfFlow"
@@ -4730,14 +4482,11 @@
         "GenomicFeatures",
         "HDF5Array",
         "OUTRIDER",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "Rsubread",
         "biomaRt",
         "pcaMethods",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -4761,7 +4510,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -4770,8 +4518,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -4826,7 +4572,6 @@
         "sva"
     ],
     "GateFinder": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowFP",
@@ -4964,7 +4709,6 @@
     "geneplotter": [
         "annotate"
     ],
-    "geneRecommender": [],
     "GeneRegionScan": [
         "affxparser"
     ],
@@ -5114,10 +4858,7 @@
     ],
     "GenomicScores": [
         "BiocVersion",
-        "HDF5Array",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "HDF5Array"
     ],
     "GenomicSuperSignature": [
         "ComplexHeatmap"
@@ -5157,10 +4898,7 @@
     ],
     "gep2pep": [
         "GSEABase",
-        "Rhdf5lib",
-        "annotate",
-        "rhdf5",
-        "rhdf5filters"
+        "annotate"
     ],
     "gespeR": [
         "Category",
@@ -5194,7 +4932,6 @@
     ],
     "ggcyto": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -5246,11 +4983,8 @@
     "glmGamPoi": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "glmSparseNet": [
@@ -5409,7 +5143,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "GRmetrics": [],
     "groHMM": [
         "BiocIO",
         "BiocParallel",
@@ -5418,11 +5151,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "GSCA": [
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
-    ],
+    "GSCA": [],
     "GSEABase": [
         "annotate"
     ],
@@ -5469,13 +5198,10 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "GUIDEseq": [
@@ -5487,14 +5213,11 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Guitar": [
@@ -5557,11 +5280,8 @@
     "GWENA": [],
     "h5vc": [
         "BiocParallel",
-        "Rhdf5lib",
         "Rhtslib",
-        "Rsamtools",
-        "rhdf5",
-        "rhdf5filters"
+        "Rsamtools"
     ],
     "hapFabia": [],
     "Harman": [],
@@ -5575,11 +5295,7 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "HDF5Array": [
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
-    ],
+    "HDF5Array": [],
     "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
@@ -5612,17 +5328,11 @@
         "rtracklayer"
     ],
     "HiCBricks": [
-        "BiocParallel",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "BiocParallel"
     ],
     "HiCcompare": [
         "BiocParallel",
-        "InteractionSet",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "InteractionSet"
     ],
     "HiCDCPlus": [
         "BSgenome",
@@ -5645,39 +5355,27 @@
         "BiocParallel",
         "HiCcompare",
         "InteractionSet",
-        "Rhdf5lib",
-        "multiHiCcompare",
-        "rhdf5",
-        "rhdf5filters"
+        "multiHiCcompare"
     ],
     "HiCExperiment": [
         "BiocIO",
         "BiocParallel",
-        "InteractionSet",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "InteractionSet"
     ],
     "HiContacts": [
         "BiocIO",
         "BiocParallel",
         "HiCExperiment",
-        "InteractionSet",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "InteractionSet"
     ],
     "HiCool": [
         "BiocIO",
         "BiocParallel",
         "HiCExperiment",
         "InteractionSet",
-        "Rhdf5lib",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "rhdf5",
-        "rhdf5filters"
+        "dir.expiry"
     ],
     "hicVennDiagram": [
         "BiocIO",
@@ -5796,7 +5494,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -5807,8 +5504,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -5895,13 +5590,10 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "SpatialExperiment",
         "beachmat",
         "cytomapper",
-        "rhdf5",
-        "rhdf5filters",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -5910,14 +5602,12 @@
     ],
     "ImmuneSpaceR": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -5936,7 +5626,6 @@
         "Pigengene",
         "ReactomePA",
         "Rgraphviz",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -5950,8 +5639,6 @@
         "graphite",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -5960,7 +5647,6 @@
         "SingleCellExperiment"
     ],
     "infinityFlow": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -6052,12 +5738,9 @@
     "IONiseR": [
         "BiocParallel",
         "GenomicAlignments",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "ShortRead",
-        "rhdf5",
-        "rhdf5filters"
+        "ShortRead"
     ],
     "iPAC": [],
     "iPath": [
@@ -6075,7 +5758,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -6231,13 +5913,10 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -6260,12 +5939,9 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
         "glmGamPoi",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "LineagePulse": [
@@ -6311,7 +5987,6 @@
         "genefilter",
         "spicyR"
     ],
-    "lmdme": [],
     "LOBSTAHS": [
         "BiocParallel",
         "CAMERA",
@@ -6321,7 +5996,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -6336,12 +6010,8 @@
     "LoomExperiment": [
         "BiocIO",
         "HDF5Array",
-        "Rhdf5lib",
-        "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "SingleCellExperiment"
     ],
-    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz"
@@ -6358,7 +6028,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -6368,8 +6037,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -6431,7 +6098,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "RnBeads",
         "Rsamtools",
@@ -6444,8 +6110,6 @@
         "methylumi",
         "minfi",
         "oligoClasses",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "snpStats",
@@ -6491,7 +6155,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -6513,13 +6176,10 @@
         "GenomicAlignments",
         "HDF5Array",
         "InteractionSet",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "plotgardener",
         "plyranges",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "marr": [],
@@ -6582,18 +6242,14 @@
     ],
     "MBECS": [
         "BiocParallel",
-        "Rhdf5lib",
         "annotate",
         "biomformat",
         "genefilter",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters",
         "sva"
     ],
     "mbkmeans": [
         "BiocParallel",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat"
     ],
@@ -6644,7 +6300,6 @@
         "Gviz",
         "HDF5Array",
         "MultiDataSet",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -6658,8 +6313,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -6673,7 +6326,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -6684,8 +6336,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -6786,7 +6436,6 @@
     "MetaCyto": [
         "ConsensusClusterPlus",
         "FlowSOM",
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -6809,7 +6458,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -6849,7 +6497,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
@@ -6858,8 +6505,6 @@
         "biomaRt",
         "bsseq",
         "genefilter",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats",
         "vsn"
@@ -6892,11 +6537,8 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -6908,7 +6550,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -6917,8 +6558,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -6931,7 +6570,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -6943,8 +6581,6 @@
         "illuminaio",
         "minfi",
         "plyranges",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -6962,7 +6598,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "OrganismDbi",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -6972,8 +6607,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -6987,7 +6620,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -7002,8 +6634,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -7064,13 +6694,10 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -7081,7 +6708,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -7090,8 +6716,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -7153,28 +6777,19 @@
         "sparseMatrixStats"
     ],
     "microbiome": [
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "microbiomeDASim": [
-        "Rhdf5lib",
         "biomformat",
         "metagenomeSeq",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "microbiomeExplorer": [
         "BiocParallel",
         "DESeq2",
-        "Rhdf5lib",
         "biomformat",
-        "metagenomeSeq",
-        "rhdf5",
-        "rhdf5filters"
+        "metagenomeSeq"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -7187,7 +6802,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "MultiAssayExperiment",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -7199,8 +6813,6 @@
         "metagenomeSeq",
         "mia",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -7258,7 +6870,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "Rgraphviz",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -7269,8 +6880,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -7282,7 +6891,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -7290,8 +6898,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -7320,13 +6926,10 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -7360,7 +6963,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -7370,8 +6972,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -7433,7 +7033,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -7448,12 +7047,9 @@
     "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
-        "Rhdf5lib",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "rhdf5",
-        "rhdf5filters"
+        "dir.expiry"
     ],
     "MOGAMUN": [
         "BiocParallel",
@@ -7467,11 +7063,8 @@
     ],
     "MoleculeExperiment": [
         "BiocParallel",
-        "Rhdf5lib",
         "SingleCellExperiment",
-        "SpatialExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "SpatialExperiment"
     ],
     "MOMA": [
         "ComplexHeatmap",
@@ -7674,7 +7267,6 @@
     "msmsEDA": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7683,7 +7275,6 @@
     "msmsTests": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "msmsEDA",
         "mzID",
         "mzR",
@@ -7692,7 +7283,6 @@
     ],
     "MSnbase": [
         "BiocParallel",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7703,7 +7293,6 @@
         "BiocStyle",
         "BiocVersion",
         "MSnbase",
-        "Rhdf5lib",
         "msmsEDA",
         "msmsTests",
         "mzID",
@@ -7719,7 +7308,6 @@
         "sva"
     ],
     "msPurity": [
-        "Rhdf5lib",
         "mzR"
     ],
     "msqrob2": [
@@ -7758,7 +7346,6 @@
     "MSstatsQC": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7768,7 +7355,6 @@
         "BiocParallel",
         "MSnbase",
         "MSstatsQC",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7786,10 +7372,7 @@
     ],
     "MuData": [
         "MultiAssayExperiment",
-        "Rhdf5lib",
-        "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "SingleCellExperiment"
     ],
     "Mulcom": [],
     "MultiAssayExperiment": [],
@@ -7810,7 +7393,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rbowtie",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -7821,8 +7403,6 @@
         "karyoploteR",
         "plyranges",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "MultiDataSet": [],
@@ -7835,10 +7415,7 @@
     "multiHiCcompare": [
         "BiocParallel",
         "HiCcompare",
-        "InteractionSet",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "InteractionSet"
     ],
     "multiMiR": [],
     "MultimodalExperiment": [
@@ -7949,9 +7526,7 @@
         "rtracklayer"
     ],
     "mzID": [],
-    "mzR": [
-        "Rhdf5lib"
-    ],
+    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "BSgenome",
@@ -7968,7 +7543,6 @@
         "HDF5Array",
         "InteractionSet",
         "Rgraphviz",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
@@ -7980,8 +7554,6 @@
         "ensembldb",
         "motifStack",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "trackViewer"
     ],
@@ -7993,14 +7565,11 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -8018,7 +7587,6 @@
         "genefilter"
     ],
     "ncdfFlow": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -8030,7 +7598,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -8044,7 +7611,6 @@
         "Rgraphviz"
     ],
     "ncRNAtools": [],
-    "ndexr": [],
     "nearBynding": [
         "BiocIO",
         "BiocParallel",
@@ -8095,7 +7661,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
@@ -8103,8 +7668,6 @@
         "clusterExperiment",
         "genefilter",
         "mbkmeans",
-        "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -8123,7 +7686,6 @@
         "HDF5Array",
         "RCy3",
         "Rgraphviz",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "STRINGdb",
@@ -8135,8 +7697,6 @@
         "minfi",
         "pandaR",
         "quantro",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -8237,7 +7797,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "RUVSeq",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -8246,8 +7805,6 @@
         "annotate",
         "beachmat",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -8326,7 +7883,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "ompBAM": [],
     "oncomix": [],
     "oncoscanR": [],
     "OncoScore": [
@@ -8341,7 +7897,6 @@
     ],
     "openCyto": [
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -8367,17 +7922,13 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "optimalFlow": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowMeans"
@@ -8431,12 +7982,9 @@
         "BiocParallel",
         "BiocVersion",
         "HDF5Array",
-        "Rhdf5lib",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "rhdf5",
-        "rhdf5filters"
+        "dir.expiry"
     ],
     "OSAT": [],
     "Oscope": [
@@ -8573,11 +8121,8 @@
         "BiocStyle",
         "ComplexHeatmap",
         "DESeq2",
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "pathRender": [
         "Rgraphviz"
@@ -8631,7 +8176,6 @@
     "PeacoQC": [
         "ComplexHeatmap",
         "Rgraphviz",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "flowWorkspace",
@@ -8640,7 +8184,6 @@
     "peakPantheR": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -8677,10 +8220,7 @@
     "phantasus": [
         "BiocParallel",
         "DESeq2",
-        "Rhdf5lib",
-        "fgsea",
-        "rhdf5",
-        "rhdf5filters"
+        "fgsea"
     ],
     "phantasusLite": [
         "rhdf5client"
@@ -8730,10 +8270,7 @@
         "topGO"
     ],
     "phyloseq": [
-        "Rhdf5lib",
-        "biomformat",
-        "rhdf5",
-        "rhdf5filters"
+        "biomformat"
     ],
     "Pi": [
         "Rgraphviz"
@@ -8892,13 +8429,10 @@
         "BiocStyle",
         "GenomicAlignments",
         "RPA",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "preciseTAD": [
         "BiocIO",
@@ -8926,7 +8460,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
@@ -8935,14 +8468,11 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "PrInCE": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9003,7 +8533,6 @@
         "BiocParallel",
         "MLInterfaces",
         "MSnbase",
-        "Rhdf5lib",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -9016,7 +8545,6 @@
         "BiocParallel",
         "MLInterfaces",
         "MSnbase",
-        "Rhdf5lib",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -9044,7 +8572,6 @@
         "GOSemSim",
         "MSnbase",
         "Mfuzz",
-        "Rhdf5lib",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -9105,12 +8632,9 @@
     "ptairMS": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
-        "rhdf5",
-        "rhdf5filters",
         "vsn"
     ],
     "puma": [
@@ -9124,13 +8648,10 @@
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "pvac": [],
@@ -9188,7 +8709,6 @@
     "qPLEXanalyzer": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9225,7 +8745,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -9234,8 +8753,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9362,13 +8879,10 @@
         "GenomicFeatures",
         "GenomicScores",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Rarr": [],
@@ -9417,11 +8931,8 @@
         "rtracklayer"
     ],
     "RCM": [
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "Rcollectl": [],
     "Rcpi": [
@@ -9469,11 +8980,8 @@
     ],
     "receptLoss": [],
     "reconsi": [
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "recount": [
         "BSgenome",
@@ -9505,7 +9013,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -9517,8 +9024,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9567,15 +9072,12 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TOAST",
         "beachmat",
         "bluster",
         "fgsea",
-        "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle",
@@ -9645,7 +9147,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -9654,8 +9155,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -9804,15 +9303,8 @@
         "goseq",
         "rtracklayer"
     ],
-    "rhdf5": [
-        "Rhdf5lib",
-        "rhdf5filters"
-    ],
+    "rhdf5": [],
     "rhdf5client": [],
-    "rhdf5filters": [
-        "Rhdf5lib"
-    ],
-    "Rhdf5lib": [],
     "Rhisat2": [
         "BiocIO",
         "BiocParallel",
@@ -9865,11 +9357,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "ribor": [
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
-    ],
+    "ribor": [],
     "riboSeqR": [
         "BiocParallel",
         "Rhtslib",
@@ -9925,7 +9413,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "biocViews",
         "mzID",
@@ -9977,7 +9464,6 @@
         "BiocParallel",
         "ChemmineR",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10134,7 +9620,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -10144,8 +9629,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -10171,11 +9654,8 @@
     ],
     "RPA": [
         "BiocStyle",
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "rprimer": [],
     "Rqc": [
@@ -10235,11 +9715,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RTN": [],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "RTopper": [],
     "Rtpca": [],
     "rtracklayer": [
@@ -10411,11 +9887,8 @@
         "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -10425,19 +9898,15 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "annotate",
         "hopach",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "sccomp": [
         "SingleCellExperiment"
     ],
     "scDataviz": [
-        "Rhdf5lib",
         "SingleCellExperiment",
         "cytolib",
         "flowCore"
@@ -10505,7 +9974,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -10516,8 +9984,6 @@
         "biomaRt",
         "bluster",
         "ensembldb",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scran",
         "scuttle",
@@ -10541,7 +10007,6 @@
     ],
     "scifer": [
         "DECIPHER",
-        "Rhdf5lib",
         "cytolib",
         "flowCore",
         "sangerseqR"
@@ -10578,7 +10043,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotatr",
@@ -10586,8 +10050,6 @@
         "biomaRt",
         "bsseq",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -10602,18 +10064,14 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RUVSeq",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
         "SingleCellExperiment",
         "biomaRt",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Sconify": [
-        "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
@@ -10656,7 +10114,6 @@
         "GenomicAlignments",
         "HDF5Array",
         "MultiAssayExperiment",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "Rsubread",
@@ -10666,8 +10123,6 @@
         "beachmat",
         "biomaRt",
         "dir.expiry",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scuttle",
         "sparseMatrixStats"
@@ -10989,7 +10444,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -10998,8 +10452,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -11011,7 +10463,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -11020,8 +10471,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -11033,11 +10482,8 @@
         "Rsamtools"
     ],
     "SIAMCAT": [
-        "Rhdf5lib",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "SICtools": [
         "BiocParallel",
@@ -11063,14 +10509,11 @@
         "GOSemSim",
         "GSEABase",
         "HDF5Array",
-        "Rhdf5lib",
         "annotate",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "rhdf5",
-        "rhdf5filters"
+        "ggtree"
     ],
     "signeR": [
         "BSgenome",
@@ -11095,7 +10538,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -11107,8 +10549,6 @@
         "consensusOV",
         "ensembldb",
         "genefu",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -11130,7 +10570,6 @@
         "globaltest"
     ],
     "SIMAT": [
-        "Rhdf5lib",
         "mzR"
     ],
     "SimBindProfiles": [
@@ -11141,14 +10580,11 @@
     ],
     "SimBu": [
         "BiocParallel",
-        "Rhdf5lib",
         "basilisk",
         "basilisk.utils",
         "biomformat",
         "dir.expiry",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "SIMD": [
@@ -11165,12 +10601,9 @@
     "simpleSeg": [
         "BiocParallel",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "cytomapper",
-        "rhdf5",
-        "rhdf5filters"
+        "cytomapper"
     ],
     "simplifyEnrichment": [
         "ComplexHeatmap",
@@ -11213,7 +10646,6 @@
         "HDF5Array",
         "MAST",
         "ResidualMatrix",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -11233,8 +10665,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scDblFinder",
         "scMerge",
@@ -11302,7 +10732,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -11313,8 +10742,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats",
@@ -11410,7 +10837,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotatr",
@@ -11418,8 +10844,6 @@
         "biomaRt",
         "bsseq",
         "regioneR",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -11433,13 +10857,10 @@
         "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle",
@@ -11543,10 +10964,7 @@
     "SpectralTAD": [
         "BiocParallel",
         "HiCcompare",
-        "InteractionSet",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "InteractionSet"
     ],
     "SPEM": [],
     "SPIA": [
@@ -11597,14 +11015,10 @@
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
         "genefilter",
-        "ompBAM",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sparseMatrixStats"
     ],
@@ -11641,23 +11055,17 @@
     ],
     "splots": [],
     "SpotClean": [
-        "Rhdf5lib",
         "SingleCellExperiment",
-        "SpatialExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "SpatialExperiment"
     ],
     "SPOTlight": [
         "SingleCellExperiment",
         "sparseMatrixStats"
     ],
     "SPsimSeq": [
-        "Rhdf5lib",
         "SingleCellExperiment",
         "biomformat",
-        "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "phyloseq"
     ],
     "SRAdb": [],
     "srnadiff": [
@@ -11828,7 +11236,6 @@
     "synapter": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "cleaver",
         "mzID",
         "mzR",
@@ -11878,10 +11285,7 @@
     "TADCompare": [
         "BiocParallel",
         "HiCcompare",
-        "InteractionSet",
-        "Rhdf5lib",
-        "rhdf5",
-        "rhdf5filters"
+        "InteractionSet"
     ],
     "tanggle": [
         "ggtree"
@@ -11899,7 +11303,6 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "Rhdf5lib",
         "mzID",
         "mzR"
     ],
@@ -11915,14 +11318,11 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
         "beachmat",
         "genefilter",
-        "rhdf5",
-        "rhdf5filters",
         "singscore",
         "sparseMatrixStats",
         "sva"
@@ -12057,7 +11457,6 @@
     "tigre": [
         "annotate"
     ],
-    "TileDBArray": [],
     "tilingArray": [
         "annotate",
         "genefilter",
@@ -12122,13 +11521,10 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "TnT": [],
@@ -12144,7 +11540,6 @@
     "topdownr": [
         "BiocParallel",
         "MSnbase",
-        "Rhdf5lib",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12176,15 +11571,12 @@
         "Gviz",
         "InteractionSet",
         "Rgraphviz",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "tradeSeq": [
@@ -12216,12 +11608,9 @@
     "transformGamPoi": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
         "glmGamPoi",
-        "rhdf5",
-        "rhdf5filters",
         "sparseMatrixStats"
     ],
     "transite": [],
@@ -12256,7 +11645,6 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "Rhdf5lib",
         "SingleCellExperiment",
         "cytolib",
         "diffcyt",
@@ -12518,15 +11906,12 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "VariantTools": [
@@ -12672,7 +12057,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -12683,8 +12067,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -12730,7 +12112,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "Rhdf5lib",
         "Spectra",
         "mzID",
         "mzR",
@@ -12768,7 +12149,6 @@
         "rtracklayer"
     ],
     "yamss": [
-        "Rhdf5lib",
         "mzR"
     ],
     "YAPSA": [
@@ -12797,7 +12177,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
         "annotate",
@@ -12807,8 +12186,6 @@
         "illuminaio",
         "minfi",
         "quantro",
-        "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sparseMatrixStats"
@@ -12832,7 +12209,6 @@
         "safe",
         "variancePartition"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "BiocParallel",
         "SingleCellExperiment",
