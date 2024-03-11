@@ -1373,7 +1373,6 @@
     "MetNet": [
         "GENIE3"
     ],
-    "microbiome": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1832,7 +1831,6 @@
         "BiocStyle",
         "dir.expiry"
     ],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
