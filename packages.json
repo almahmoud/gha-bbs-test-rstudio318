@@ -2361,7 +2361,6 @@
     "rCGH": [],
     "RCM": [],
     "Rcollectl": [],
-    "Rcpi": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -2751,7 +2750,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
