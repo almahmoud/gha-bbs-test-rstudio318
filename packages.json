@@ -146,7 +146,6 @@
     "AMOUNTAIN": [],
     "amplican": [],
     "Anaquin": [],
-    "ANCOMBC": [],
     "AneuFinder": [],
     "animalcules": [],
     "annmap": [
@@ -177,7 +176,6 @@
         "BiocVersion",
         "GenomicScores"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
         "genefilter",
         "illuminaio",
@@ -297,7 +295,6 @@
     "BeadDataPackR": [],
     "BEAT": [],
     "benchdamic": [
-        "ANCOMBC",
         "Maaslin2",
         "genefilter",
         "zinbwave"
@@ -1104,9 +1101,7 @@
     ],
     "DropletUtils": [],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -2032,14 +2027,11 @@
     ],
     "MGFM": [],
     "MGFR": [],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "DOSE",
         "clusterProfiler",
