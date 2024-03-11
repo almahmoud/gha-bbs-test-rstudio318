@@ -1360,7 +1360,6 @@
         "CoGAPS",
         "DelayedArray",
         "DirichletMultinomial",
-        "GeneOverlap",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5802,7 +5801,6 @@
         "Rgraphviz",
         "Rhdf5lib",
         "S4Vectors",
-        "SamSPECTRAL",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -7133,7 +7131,6 @@
     "ddPCRclust": [
         "Rhdf5lib",
         "S4Vectors",
-        "SamSPECTRAL",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -7496,7 +7493,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
@@ -7757,7 +7753,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -8634,10 +8629,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "ecolitk": [],
     "EDASeq": [
         "AnnotationDbi",
@@ -8677,7 +8669,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "snm",
         "sva",
         "zlibbioc"
     ],
@@ -9957,7 +9948,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "fdrame": [],
     "FEAST": [
         "BiocParallel",
         "DelayedArray",
@@ -10989,7 +10979,6 @@
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
@@ -12305,7 +12294,6 @@
         "fgsea",
         "zlibbioc"
     ],
-    "GSgalgoR": [],
     "GSReg": [
         "AnnotationDbi",
         "BiocIO",
@@ -13471,7 +13459,6 @@
         "cytolib",
         "flowCore"
     ],
-    "IMPCdata": [],
     "INDEED": [],
     "iNETgrate": [
         "AnnotationDbi",
@@ -13847,7 +13834,6 @@
     "IRanges": [
         "S4Vectors"
     ],
-    "ISAnalytics": [],
     "iSEE": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -14008,10 +13994,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -19412,8 +19395,7 @@
     ],
     "OSAT": [],
     "Oscope": [
-        "BiocParallel",
-        "EBSeq"
+        "BiocParallel"
     ],
     "OTUbase": [
         "BiocParallel",
@@ -20937,7 +20919,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BSgenome",
@@ -23114,7 +23095,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RNAdecay": [],
     "rnaEditr": [
         "AnnotationDbi",
         "BiocIO",
@@ -23838,7 +23818,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BiocStyle",
         "Biostrings",
@@ -24290,7 +24269,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -24314,7 +24292,6 @@
     "scDDboost": [
         "BiocParallel",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -26271,7 +26248,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biostrings",
@@ -26310,7 +26286,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "snm": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
@@ -28179,7 +28154,6 @@
         "BiocParallel",
         "mixOmics"
     ],
-    "timescape": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "BiocParallel",
