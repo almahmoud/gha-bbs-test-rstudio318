@@ -367,7 +367,6 @@
         "illuminaio"
     ],
     "BeadDataPackR": [],
-    "BEARscc": [],
     "BEAT": [
         "ShortRead"
     ],
@@ -2103,7 +2102,6 @@
         "SpatialExperiment"
     ],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "ShortRead"
@@ -2495,7 +2493,6 @@
         "VariantAnnotation"
     ],
     "LinkHD": [],
-    "LinTInd": [],
     "lipidr": [
         "fgsea",
         "ropls"
@@ -2840,9 +2837,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microSTASIS": [],
     "MICSQTL": [],
     "midasHLA": [],
@@ -2871,7 +2866,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -3238,7 +3232,6 @@
     "nipalsMCIA": [
         "fgsea"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -4095,7 +4088,6 @@
         "genefilter",
         "zinbwave"
     ],
-    "scBubbletree": [],
     "scCB2": [
         "DropletUtils"
     ],
@@ -4177,7 +4169,6 @@
         "dir.expiry"
     ],
     "scran": [],
-    "scReClassify": [],
     "scRecover": [],
     "screenCounter": [],
     "scRepertoire": [],
