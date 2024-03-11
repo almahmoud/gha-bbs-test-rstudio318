@@ -2634,7 +2634,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "biobtreeR": [],
     "bioCancer": [
         "AnVIL",
         "AnnotationDbi",
@@ -3139,7 +3138,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -6553,7 +6551,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "ComPrAn": [],
     "compSPOT": [],
     "concordexR": [
         "BiocGenerics",
@@ -8523,7 +8520,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "deltaGseg": [],
     "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
@@ -10326,7 +10322,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
         "BeadDataPackR",
@@ -12719,7 +12714,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "genomes": [],
     "GenomicAlignments": [
         "Biobase",
         "BiocGenerics",
@@ -14028,7 +14022,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "GSEAmining": [],
     "gsean": [
         "AnnotationDbi",
         "Biobase",
@@ -14996,7 +14989,6 @@
         "zlibbioc"
     ],
     "iBBiG": [],
-    "ibh": [],
     "iBMQ": [
         "Biobase",
         "BiocGenerics"
@@ -17162,7 +17154,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "MassArray": [],
     "massiR": [
         "Biobase",
         "BiocGenerics"
@@ -18250,7 +18241,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "planet",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -18844,7 +18834,6 @@
         "BiocGenerics",
         "BiocParallel",
         "DelayedArray",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -20512,7 +20501,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "MultiMed": [],
     "multiMiR": [
         "AnnotationDbi",
         "Biobase",
@@ -22814,7 +22802,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "pepXMLTab": [],
     "periodicDNA": [
         "BSgenome",
         "Biobase",
@@ -23214,7 +23201,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "planet": [],
     "planttfhunter": [
         "Biobase",
         "BiocGenerics",
@@ -25296,7 +25282,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -27569,7 +27554,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "AnnotationDbi",
         "Biobase",
@@ -32275,7 +32259,6 @@
         "Biobase",
         "BiocGenerics",
         "DelayedArray",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -33028,7 +33011,6 @@
         "zlibbioc"
     ],
     "tximport": [],
-    "TypeInfo": [],
     "UCell": [
         "Biobase",
         "BiocGenerics",
@@ -34021,7 +34003,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "xmapbridge": [],
     "XNAString": [
         "BSgenome",
         "Biobase",
