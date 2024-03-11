@@ -412,11 +412,9 @@
     ],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
-    "biodbNci": [],
     "biodbUniprot": [],
     "biomvRCNS": [
         "Gviz",
@@ -1353,12 +1351,10 @@
         "DESeq2",
         "quantiseqr"
     ],
-    "easylift": [],
     "easyreporting": [],
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2",
         "EmpiricalBrownsMethod"
@@ -1545,8 +1541,7 @@
         "biovizBase"
     ],
     "factR": [
-        "drawProteins",
-        "wiggleplotr"
+        "drawProteins"
     ],
     "famat": [
         "DOSE",
@@ -1956,7 +1951,6 @@
         "ChIPpeakAnno",
         "regioneR"
     ],
-    "Guitar": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1985,7 +1979,6 @@
         "DESeq2"
     ],
     "Herper": [],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -2012,9 +2005,7 @@
     "hipathia": [
         "BiocVersion"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
     "hoodscanR": [],
     "hpar": [
@@ -2162,7 +2153,6 @@
         "DEXSeq",
         "genefilter",
         "geneplotter",
-        "satuRn",
         "sva",
         "tximeta",
         "tximport"
@@ -2374,9 +2364,7 @@
         "CompoundDb",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "BiocVersion",
@@ -3591,7 +3579,6 @@
     "SARC": [
         "plyranges"
     ],
-    "satuRn": [],
     "SBGNview": [
         "pathview"
     ],
@@ -3653,7 +3640,6 @@
     "scGPS": [
         "DESeq2"
     ],
-    "scHOT": [],
     "scider": [],
     "scifer": [
         "flowCore"
@@ -4042,12 +4028,8 @@
     "stJoincount": [],
     "strandCheckR": [],
     "STRINGdb": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "surfaltr": [],
     "sva": [
@@ -4339,7 +4321,6 @@
     "weaver": [],
     "webbioc": [],
     "weitrix": [],
-    "wiggleplotr": [],
     "wppi": [
         "OmnipathR"
     ],
