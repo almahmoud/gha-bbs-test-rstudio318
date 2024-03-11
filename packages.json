@@ -499,7 +499,6 @@
         "genefilter",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -1543,7 +1542,6 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "DNAshapeR": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -1783,7 +1781,6 @@
     "ExCluster": [
         "Rsubread"
     ],
-    "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
@@ -2038,9 +2035,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -2170,7 +2165,6 @@
         "sva"
     ],
     "GEOfastq": [],
-    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools"
     ],
@@ -2899,7 +2893,6 @@
     "methrix": [
         "HDF5Array"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "HDF5Array",
         "bumphunter",
@@ -3058,7 +3051,6 @@
         "genefilter"
     ],
     "miRNApath": [],
-    "miRNAtap": [],
     "mirTarRnaSeq": [],
     "missMethyl": [
         "HDF5Array",
@@ -3303,12 +3295,10 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "multiMiR": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
         "DESeq2"
     ],
-    "multiWGCNA": [],
     "mumosa": [
         "batchelor",
         "scran"
@@ -3724,7 +3714,6 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "DESeq2",
         "mixOmics"
@@ -4257,10 +4246,8 @@
     ],
     "RTNsurvival": [],
     "RTopper": [],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [],
     "RUVcorr": [],
@@ -4669,7 +4656,6 @@
     "SMAD": [],
     "SMAP": [],
     "SMITE": [
-        "BioNet",
         "goseq"
     ],
     "snapCGH": [
@@ -4775,9 +4761,7 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spikeLI": [],
     "spiky": [],
     "spkTools": [],
@@ -4805,7 +4789,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SRAdb": [],
     "srnadiff": [
         "BiocStyle",
         "DESeq2",
@@ -4834,8 +4817,7 @@
         "splots"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap"
+        "SpidermiR"
     ],
     "Statial": [
         "SpatialExperiment"
