@@ -206,7 +206,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "TFBSTools",
         "chromVAR",
@@ -214,14 +213,12 @@
     ],
     "ATACseqQC": [
         "BiocVersion",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -229,7 +226,6 @@
         "BiocVersion"
     ],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -613,7 +609,6 @@
     ],
     "chromstaR": [],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "cicero": [
@@ -665,7 +660,6 @@
     ],
     "cn.farms": [],
     "cn.mops": [],
-    "CNEr": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -916,7 +910,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -1105,7 +1098,6 @@
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -1124,7 +1116,6 @@
         "DOSE"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "TFBSTools",
         "clusterProfiler",
@@ -1183,7 +1174,6 @@
     ],
     "ERSSA": [],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "TFBSTools",
@@ -1831,7 +1821,6 @@
         "BiocVersion"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "MBAmethyl": [],
@@ -1979,7 +1968,6 @@
     "MetNet": [
         "GENIE3"
     ],
-    "MGFM": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
@@ -2065,7 +2053,6 @@
     ],
     "MoleculeExperiment": [],
     "monaLisa": [
-        "CNEr",
         "TFBSTools"
     ],
     "monocle": [],
@@ -2084,18 +2071,15 @@
         "QUBIC"
     ],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
         "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "MQmetrics": [],
@@ -2217,7 +2201,6 @@
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
-        "CNEr",
         "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
         "GenomicScores",
@@ -2359,7 +2342,6 @@
         "sva"
     ],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2478,7 +2460,6 @@
     ],
     "primirTSS": [
         "BiocVersion",
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
@@ -2731,7 +2712,6 @@
         "baySeq"
     ],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "Rsubread",
@@ -2834,9 +2814,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [
-        "MGFM"
-    ],
+    "sampleClassifier": [],
     "sangeranalyseR": [
         "BiocStyle"
     ],
@@ -3138,7 +3116,6 @@
         "GeomxTools"
     ],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -3259,9 +3236,7 @@
     "terraTCGAdata": [
         "AnVIL"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFHAZ": [
         "ORFik"
     ],
