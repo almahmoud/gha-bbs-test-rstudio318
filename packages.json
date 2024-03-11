@@ -23,10 +23,8 @@
     "adductomicsR": [
         "BiocVersion"
     ],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
-        "DESeq2",
         "GOstats",
         "GSEABase",
         "Glimma",
@@ -47,7 +45,6 @@
     "agilp": [],
     "AgiMicroRna": [
         "Category",
-        "DESeq2",
         "GOstats",
         "GSEABase",
         "Glimma",
@@ -156,16 +153,12 @@
     "amplican": [
         "ShortRead"
     ],
-    "Anaquin": [
-        "DESeq2"
-    ],
+    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [
-        "DESeq2"
-    ],
+    "animalcules": [],
     "annmap": [
         "genefilter"
     ],
@@ -180,9 +173,7 @@
         "BiocVersion",
         "regioneR"
     ],
-    "anota2seq": [
-        "DESeq2"
-    ],
+    "anota2seq": [],
     "AnVIL": [],
     "AnVILPublish": [
         "AnVIL"
@@ -191,7 +182,6 @@
         "AnVIL"
     ],
     "APAlyzer": [
-        "DESeq2",
         "Rsubread"
     ],
     "apComplex": [],
@@ -338,7 +328,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "DESeq2",
         "Maaslin2",
         "genefilter",
         "mixOmics",
@@ -365,7 +354,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "AnVIL",
         "DOSE",
@@ -444,7 +432,6 @@
         "globaltest"
     ],
     "blacksheepr": [
-        "DESeq2",
         "DEXSeq",
         "genefilter",
         "geneplotter"
@@ -474,8 +461,7 @@
     "BOBaFIT": [
         "OrganismDbi",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -496,9 +482,7 @@
     ],
     "branchpointer": [],
     "breakpointR": [],
-    "BRGenomics": [
-        "DESeq2"
-    ],
+    "BRGenomics": [],
     "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
@@ -510,9 +494,7 @@
         "BufferedMatrix"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "CAFE": [
         "OrganismDbi",
         "biovizBase",
@@ -646,7 +628,6 @@
     ],
     "ceRNAnetsim": [],
     "CeTF": [
-        "DESeq2",
         "DOSE",
         "clusterProfiler",
         "enrichplot"
@@ -658,9 +639,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -709,9 +688,7 @@
         "regioneR"
     ],
     "ChIPQC": [
-        "DESeq2",
         "DiffBind",
-        "GreyListChIP",
         "ShortRead",
         "chipseq",
         "systemPipeR"
@@ -753,7 +730,6 @@
     "CIMICE": [],
     "circRNAprofiler": [
         "BiocVersion",
-        "DESeq2",
         "gwascat"
     ],
     "CircSeqAlignTk": [
@@ -896,7 +872,6 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "DESeq2",
         "EDASeq",
         "RUVSeq",
         "ShortRead"
@@ -930,7 +905,6 @@
         "piano"
     ],
     "coseq": [
-        "DESeq2",
         "HTSFilter"
     ],
     "CoSIA": [
@@ -950,7 +924,6 @@
         "PCAtools"
     ],
     "countsimQC": [
-        "DESeq2",
         "genefilter"
     ],
     "CoverageView": [],
@@ -1105,7 +1078,6 @@
         "bumphunter"
     ],
     "DaMiRseq": [
-        "DESeq2",
         "EDASeq",
         "ShortRead",
         "genefilter",
@@ -1128,7 +1100,6 @@
     ],
     "debCAM": [],
     "debrowser": [
-        "DESeq2",
         "DOSE",
         "Harman",
         "clusterProfiler",
@@ -1152,27 +1123,19 @@
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DEFormats": [
-        "DESeq2"
-    ],
+    "DEFormats": [],
     "DegNorm": [],
     "DEGraph": [
         "NCIgraph"
     ],
-    "DEGreport": [
-        "DESeq2"
-    ],
+    "DEGreport": [],
     "DelayedDataFrame": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DELocal": [
-        "DESeq2"
-    ],
-    "deltaCaptureC": [
-        "DESeq2"
-    ],
+    "DELocal": [],
+    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "bsseq",
@@ -1208,29 +1171,21 @@
         "ChIPpeakAnno",
         "regioneR"
     ],
-    "DESeq2": [],
     "DEsingle": [],
     "DESpace": [],
     "destiny": [],
-    "DEsubs": [
-        "DESeq2"
-    ],
-    "DEWSeq": [
-        "DESeq2"
-    ],
+    "DEsubs": [],
+    "DEWSeq": [],
     "DExMA": [
         "genefilter",
         "sva"
     ],
     "DEXSeq": [
-        "DESeq2",
         "genefilter",
         "geneplotter"
     ],
     "DIAlignR": [],
     "DiffBind": [
-        "DESeq2",
-        "GreyListChIP",
         "ShortRead",
         "systemPipeR"
     ],
@@ -1247,7 +1202,6 @@
     "diffHic": [],
     "diffuStats": [],
     "diffUTR": [
-        "DESeq2",
         "DEXSeq",
         "Rsubread",
         "genefilter",
@@ -1319,7 +1273,6 @@
     ],
     "easier": [
         "BiocVersion",
-        "DESeq2",
         "quantiseqr"
     ],
     "easyreporting": [],
@@ -1327,7 +1280,6 @@
         "ShortRead"
     ],
     "EBSEA": [
-        "DESeq2",
         "EmpiricalBrownsMethod"
     ],
     "EDASeq": [
@@ -1391,7 +1343,6 @@
         "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
-        "DESeq2",
         "DOSE",
         "enrichplot",
         "genomation"
@@ -1403,7 +1354,6 @@
         "illuminaio"
     ],
     "epigraHMM": [
-        "GreyListChIP",
         "bamsignals"
     ],
     "EpiMix": [
@@ -1447,9 +1397,7 @@
         "GenomicFiles",
         "OrganismDbi"
     ],
-    "ERSSA": [
-        "DESeq2"
-    ],
+    "ERSSA": [],
     "esATAC": [
         "CNEr",
         "ChIPseeker",
@@ -1480,9 +1428,7 @@
         "Rsubread"
     ],
     "exomeCopy": [],
-    "exomePeak2": [
-        "DESeq2"
-    ],
+    "exomePeak2": [],
     "ExperimentHub": [
         "BiocVersion"
     ],
@@ -1641,7 +1587,6 @@
     "fmrs": [],
     "fobitools": [],
     "FRASER": [
-        "DESeq2",
         "OUTRIDER",
         "Rsubread"
     ],
@@ -1659,7 +1604,6 @@
         "GA4GHclient"
     ],
     "GARS": [
-        "DESeq2",
         "DaMiRseq",
         "EDASeq",
         "MLSeq",
@@ -1680,7 +1624,6 @@
     ],
     "gcapc": [],
     "GDCRNATools": [
-        "DESeq2",
         "DOSE",
         "clusterProfiler",
         "enrichplot",
@@ -1745,9 +1688,7 @@
     ],
     "geNetClassifier": [],
     "GeneticsPed": [],
-    "GeneTonic": [
-        "DESeq2"
-    ],
+    "GeneTonic": [],
     "geneXtendeR": [
         "BiocStyle"
     ],
@@ -1766,8 +1707,7 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "plyranges"
+        "genomation"
     ],
     "GenomicScores": [
         "BiocVersion"
@@ -1793,9 +1733,7 @@
         "genefilter",
         "splots"
     ],
-    "gg4way": [
-        "DESeq2"
-    ],
+    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "biovizBase"
@@ -1821,9 +1759,7 @@
         "genefilter"
     ],
     "GLAD": [],
-    "Glimma": [
-        "DESeq2"
-    ],
+    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [
@@ -1865,13 +1801,11 @@
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
-        "BiocVersion",
-        "DESeq2"
+        "BiocVersion"
     ],
     "GraphAlignment": [],
     "GraphPAC": [],
     "GRENITS": [],
-    "GreyListChIP": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
@@ -1923,9 +1857,7 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "hermes": [
-        "DESeq2"
-    ],
+    "hermes": [],
     "Herper": [],
     "HiCBricks": [],
     "HiCcompare": [],
@@ -1966,9 +1898,7 @@
         "chipseq",
         "gmapR"
     ],
-    "HTSFilter": [
-        "DESeq2"
-    ],
+    "HTSFilter": [],
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
@@ -1978,7 +1908,6 @@
     "iasva": [],
     "Icens": [],
     "icetea": [
-        "DESeq2",
         "ShortRead"
     ],
     "iCheck": [
@@ -1992,7 +1921,6 @@
     "iCNV": [],
     "ideal": [
         "Category",
-        "DESeq2",
         "GOstats",
         "GSEABase",
         "genefilter",
@@ -2037,13 +1965,9 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
-    "INSPEcT": [
-        "DESeq2"
-    ],
-    "InTAD": [],
+    "INSPEcT": [],
     "intansv": [
         "OrganismDbi",
         "biovizBase",
@@ -2057,7 +1981,6 @@
     ],
     "InterCellar": [],
     "IntEREst": [
-        "DESeq2",
         "DEXSeq",
         "GenomicFiles",
         "genefilter",
@@ -2076,9 +1999,7 @@
         "Spectra",
         "xcms"
     ],
-    "iSEEde": [
-        "DESeq2"
-    ],
+    "iSEEde": [],
     "iSEEhex": [],
     "iSEEhub": [
         "BiocVersion"
@@ -2092,7 +2013,6 @@
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
-        "DESeq2",
         "DEXSeq",
         "genefilter",
         "geneplotter",
@@ -2101,8 +2021,7 @@
         "tximport"
     ],
     "isomiRs": [
-        "DEGreport",
-        "DESeq2"
+        "DEGreport"
     ],
     "ITALICS": [
         "GLAD"
@@ -2114,15 +2033,12 @@
         "biovizBase",
         "regioneR"
     ],
-    "katdetectr": [
-        "plyranges"
-    ],
+    "katdetectr": [],
     "KBoost": [],
     "KCsmart": [],
     "KEGGlincs": [],
     "KinSwingR": [],
     "kissDE": [
-        "DESeq2",
         "DSS",
         "bsseq"
     ],
@@ -2196,7 +2112,6 @@
         "pathview"
     ],
     "magpie": [
-        "DESeq2",
         "TRESS"
     ],
     "magrene": [],
@@ -2214,8 +2129,7 @@
     "MantelCorr": [],
     "maPredictDSC": [],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -2331,7 +2245,6 @@
     "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
-        "DESeq2",
         "DSS",
         "EDASeq",
         "ShortRead",
@@ -2361,8 +2274,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -2420,13 +2332,10 @@
     "microbiomeDASim": [
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "DESeq2"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "DESeq2",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2494,7 +2403,6 @@
         "genefilter"
     ],
     "MLSeq": [
-        "DESeq2",
         "sSeq"
     ],
     "MMDiff2": [],
@@ -2669,7 +2577,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [
@@ -2679,16 +2586,13 @@
         "HiCcompare"
     ],
     "MultimodalExperiment": [],
-    "MultiRNAflow": [
-        "DESeq2"
-    ],
+    "MultiRNAflow": [],
     "mumosa": [
         "batchelor",
         "scran"
     ],
     "MungeSumstats": [],
     "muscat": [
-        "DESeq2",
         "variancePartition"
     ],
     "musicatk": [
@@ -2717,7 +2621,6 @@
     ],
     "NanoTube": [],
     "NBAMSeq": [
-        "DESeq2",
         "genefilter"
     ],
     "ncdfFlow": [
@@ -2730,15 +2633,11 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "nempi": [
         "epiNEM"
     ],
-    "NetActivity": [
-        "DESeq2"
-    ],
+    "NetActivity": [],
     "netboost": [
         "BiocStyle"
     ],
@@ -2790,12 +2689,9 @@
         "ShortRead"
     ],
     "nuCpos": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "octad": [
         "BiocVersion",
-        "DESeq2",
         "EDASeq",
         "GSEABase",
         "GSVA",
@@ -2826,7 +2722,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "OncoScore": [],
-    "OncoSimulR": [],
     "ontoProc": [
         "BiocVersion"
     ],
@@ -2851,9 +2746,7 @@
         "flowMeans"
     ],
     "ORFhunteR": [],
-    "ORFik": [
-        "DESeq2"
-    ],
+    "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthos": [
@@ -2867,9 +2760,7 @@
     "OTUbase": [
         "ShortRead"
     ],
-    "OUTRIDER": [
-        "DESeq2"
-    ],
+    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo",
@@ -2888,7 +2779,6 @@
     "PAIRADISE": [],
     "paircompviz": [],
     "pairedGSEA": [
-        "DESeq2",
         "DEXSeq",
         "genefilter",
         "geneplotter",
@@ -2917,7 +2807,6 @@
     "PathNet": [],
     "PathoStat": [
         "BiocStyle",
-        "DESeq2",
         "phyloseq"
     ],
     "pathRender": [],
@@ -2925,7 +2814,6 @@
     "pathwayPCA": [],
     "pcaExplorer": [
         "Category",
-        "DESeq2",
         "GOstats",
         "GSEABase",
         "genefilter"
@@ -2952,9 +2840,7 @@
     ],
     "peco": [],
     "periodicDNA": [],
-    "phantasus": [
-        "DESeq2"
-    ],
+    "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -3001,21 +2887,15 @@
         "GSEABase",
         "genefilter"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "podkat": [],
     "pogos": [
         "BiocVersion",
         "ontoProc"
     ],
     "POMA": [
-        "DESeq2",
         "mixOmics"
     ],
     "POWSC": [],
@@ -3043,9 +2923,7 @@
     "PrInCE": [
         "MSnbase"
     ],
-    "proActiv": [
-        "DESeq2"
-    ],
+    "proActiv": [],
     "PROcess": [
         "Icens"
     ],
@@ -3260,7 +3138,6 @@
     "regionReport": [
         "BiocStyle",
         "DEFormats",
-        "DESeq2",
         "GenomicFiles",
         "bumphunter",
         "derfinder"
@@ -3284,7 +3161,6 @@
     ],
     "ReportingTools": [
         "Category",
-        "DESeq2",
         "GOstats",
         "GSEABase",
         "OrganismDbi",
@@ -3319,19 +3195,14 @@
         "regioneR"
     ],
     "rGREAT": [],
-    "rgsepd": [
-        "DESeq2"
-    ],
+    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
     "RiboCrypt": [
-        "DESeq2",
         "ORFik"
     ],
-    "RiboDiPA": [
-        "DESeq2"
-    ],
+    "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
         "biovizBase",
@@ -3376,8 +3247,7 @@
         "MSnbase"
     ],
     "Rmmquant": [
-        "BiocStyle",
-        "DESeq2"
+        "BiocStyle"
     ],
     "RNAAgeCalc": [
         "GenomicFiles",
@@ -3456,7 +3326,6 @@
         "MotifDb"
     ],
     "runibic": [],
-    "RUVcorr": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead"
@@ -3475,9 +3344,7 @@
         "BiocStyle"
     ],
     "SANTA": [],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
@@ -3503,7 +3370,6 @@
         "gdsfmt"
     ],
     "scBFA": [
-        "DESeq2",
         "genefilter",
         "zinbwave"
     ],
@@ -3536,9 +3402,7 @@
         "SingleCellSignalR",
         "scran"
     ],
-    "scGPS": [
-        "DESeq2"
-    ],
+    "scGPS": [],
     "scider": [],
     "scifer": [
         "flowCore"
@@ -3647,9 +3511,7 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGSEA": [
-        "DESeq2"
-    ],
+    "SeqGSEA": [],
     "seqsetvis": [],
     "SeqSQC": [
         "BiocVersion",
@@ -3665,7 +3527,6 @@
         "illuminaio"
     ],
     "SEtools": [
-        "DESeq2",
         "genefilter",
         "sva"
     ],
@@ -3739,7 +3600,6 @@
     ],
     "singleCellTK": [
         "BiocVersion",
-        "DESeq2",
         "DropletUtils",
         "GSEABase",
         "GSVA",
@@ -3797,9 +3657,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SNPhood": [
-        "DESeq2"
-    ],
+    "SNPhood": [],
     "SNPRelate": [
         "gdsfmt"
     ],
@@ -3886,7 +3744,6 @@
     ],
     "srnadiff": [
         "BiocStyle",
-        "DESeq2",
         "Gviz",
         "baySeq",
         "biovizBase"
@@ -3944,9 +3801,7 @@
         "ShortRead"
     ],
     "systemPipeShiny": [],
-    "systemPipeTools": [
-        "DESeq2"
-    ],
+    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -3960,7 +3815,6 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "DESeq2",
         "GSEABase",
         "GSVA",
         "genefilter",
@@ -3968,7 +3822,6 @@
         "sva"
     ],
     "TCC": [
-        "DESeq2",
         "baySeq"
     ],
     "TCGAbiolinks": [],
@@ -3984,9 +3837,7 @@
         "enrichplot",
         "tximport"
     ],
-    "TEKRABber": [
-        "DESeq2"
-    ],
+    "TEKRABber": [],
     "tenXplore": [
         "BiocVersion",
         "ontoProc",
@@ -4001,7 +3852,6 @@
         "CNEr"
     ],
     "TFHAZ": [
-        "DESeq2",
         "ORFik"
     ],
     "TFutils": [
@@ -4059,9 +3909,7 @@
     "transformGamPoi": [
         "glmGamPoi"
     ],
-    "tRanslatome": [
-        "DESeq2"
-    ],
+    "tRanslatome": [],
     "traseR": [],
     "traviz": [
         "slingshot"
@@ -4106,11 +3954,9 @@
     "Ularcirc": [
         "BiocVersion",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
-        "DESeq2",
         "Rbowtie2",
         "ShortRead",
         "regioneR"
@@ -4165,9 +4011,7 @@
     ],
     "veloviz": [],
     "VennDetail": [],
-    "vidger": [
-        "DESeq2"
-    ],
+    "vidger": [],
     "ViSEAGO": [],
     "vissE": [
         "BiocVersion",
@@ -4183,9 +4027,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DESeq2",
         "DiffBind",
-        "GreyListChIP",
         "ShortRead",
         "regioneR",
         "systemPipeR"
