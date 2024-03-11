@@ -179,7 +179,6 @@
     ],
     "ArrayExpress": [],
     "arrayMvout": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -316,7 +315,6 @@
     ],
     "BiGGR": [],
     "bigmelon": [
-        "bumphunter",
         "gdsfmt",
         "genefilter",
         "illuminaio",
@@ -388,7 +386,6 @@
         "QDNAseq",
         "annotatr",
         "bsseq",
-        "bumphunter",
         "dmrseq"
     ],
     "BiSeq": [
@@ -434,7 +431,6 @@
         "BiocVersion",
         "GenomicFiles",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -449,7 +445,6 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "bumphunter": [],
     "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
@@ -607,7 +602,6 @@
         "Gviz",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "genefilter",
         "globaltest",
         "illuminaio",
@@ -664,7 +658,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2"
     ],
     "cisPath": [],
@@ -745,7 +738,6 @@
     ],
     "codelink": [],
     "CoGAPS": [],
-    "Cogito": [],
     "coGPS": [],
     "comapr": [
         "Gviz",
@@ -759,8 +751,7 @@
         "biovizBase"
     ],
     "coMethDMR": [
-        "BiocVersion",
-        "bumphunter"
+        "BiocVersion"
     ],
     "COMPASS": [
         "BiocStyle"
@@ -799,7 +790,6 @@
         "exomeCopy"
     ],
     "conumee": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -835,7 +825,6 @@
     "countsimQC": [
         "genefilter"
     ],
-    "CoverageView": [],
     "covRNA": [
         "genefilter"
     ],
@@ -976,9 +965,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DAMEfinder": [
-        "bumphunter"
-    ],
+    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq",
         "genefilter",
@@ -1013,7 +1000,6 @@
         "scran"
     ],
     "deconvR": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -1049,13 +1035,11 @@
     ],
     "DepecheR": [],
     "derfinder": [
-        "GenomicFiles",
-        "bumphunter"
+        "GenomicFiles"
     ],
     "derfinderPlot": [
         "GenomicFiles",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "ggbio"
     ],
@@ -1104,13 +1088,11 @@
     ],
     "distinct": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "BiocVersion",
         "Gviz",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "methylumi",
@@ -1120,8 +1102,7 @@
     "dmrseq": [
         "BiocVersion",
         "annotatr",
-        "bsseq",
-        "bumphunter"
+        "bsseq"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -1185,7 +1166,6 @@
     ],
     "ENmix": [
         "BiocVersion",
-        "bumphunter",
         "genefilter",
         "geneplotter",
         "illuminaio",
@@ -1234,7 +1214,6 @@
         "BiocVersion",
         "Gviz",
         "biovizBase",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -1245,7 +1224,6 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
@@ -1253,7 +1231,6 @@
     ],
     "epivizrData": [],
     "epivizrStandalone": [
-        "bumphunter",
         "epivizr",
         "epivizrData"
     ],
@@ -1265,7 +1242,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1324,7 +1300,6 @@
         "TSCAN"
     ],
     "ffpe": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -1444,7 +1419,6 @@
     "FRGEpistasis": [],
     "frma": [],
     "funtooNorm": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -1722,7 +1696,6 @@
     "Icens": [],
     "icetea": [],
     "iCheck": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -1761,7 +1734,6 @@
         "DOSE",
         "Pigengene",
         "ReactomePA",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1865,7 +1837,6 @@
         "BiocVersion"
     ],
     "lumi": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "methylumi",
@@ -1892,7 +1863,6 @@
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
-        "bumphunter",
         "crlmm",
         "genefilter",
         "illuminaio",
@@ -1958,7 +1928,6 @@
     "MEAL": [
         "Gviz",
         "biovizBase",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "methylumi",
@@ -1968,7 +1937,6 @@
     ],
     "MeasurementError.cor": [],
     "MEAT": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -2043,14 +2011,12 @@
     ],
     "methrix": [],
     "MethylAid": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
     ],
     "methylCC": [
         "bsseq",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -2059,14 +2025,12 @@
         "AnnotationHubData",
         "BiocVersion",
         "ExperimentHubData",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
     ],
     "methylGSA": [
         "DOSE",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -2088,7 +2052,6 @@
         "bsseq"
     ],
     "methylumi": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -2126,7 +2089,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -2134,7 +2096,6 @@
         "minfi"
     ],
     "minfi": [
-        "bumphunter",
         "genefilter",
         "illuminaio"
     ],
@@ -2159,7 +2120,6 @@
     "miRNApath": [],
     "mirTarRnaSeq": [],
     "missMethyl": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "methylumi",
@@ -2221,12 +2181,10 @@
     "motifbreakR": [
         "CNEr",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "CNEr",
         "TFBSTools"
@@ -2411,7 +2369,6 @@
         "GOstats",
         "GSEABase",
         "STRINGdb",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi",
@@ -2691,7 +2648,6 @@
     "psichomics": [
         "BiocVersion",
         "GenomicFiles",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
@@ -2729,7 +2685,6 @@
     ],
     "quantiseqr": [],
     "quantro": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -2772,7 +2727,6 @@
         "dada2"
     ],
     "Rbowtie": [],
-    "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
         "genomation"
@@ -2817,13 +2771,11 @@
     ],
     "recount": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder"
     ],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
-        "bumphunter",
         "dir.expiry",
         "genefilter",
         "illuminaio",
@@ -2844,7 +2796,6 @@
         "BiocStyle",
         "DEFormats",
         "GenomicFiles",
-        "bumphunter",
         "derfinder"
     ],
     "regsplice": [],
@@ -2855,7 +2806,6 @@
     ],
     "REMP": [
         "BiocVersion",
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -2941,13 +2891,10 @@
     ],
     "RNAAgeCalc": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "GSEABase",
@@ -2978,12 +2925,10 @@
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "methylumi",
@@ -3008,9 +2953,7 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "runibic": [],
     "RUVSeq": [
         "EDASeq"
@@ -3115,7 +3058,6 @@
         "dir.expiry"
     ],
     "scran": [],
-    "scRecover": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3143,7 +3085,6 @@
         "GSEABase"
     ],
     "scTreeViz": [
-        "bumphunter",
         "epivizr",
         "epivizrData",
         "scran"
@@ -3178,7 +3119,6 @@
         "GLAD"
     ],
     "SeqGSEA": [],
-    "seqsetvis": [],
     "SeqSQC": [
         "BiocVersion",
         "SNPRelate",
@@ -3203,13 +3143,11 @@
         "genefilter"
     ],
     "shinyepico": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
     ],
     "shinyMethyl": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi"
@@ -3289,7 +3227,6 @@
     ],
     "sizepower": [],
     "skewr": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -3582,9 +3519,7 @@
         "Organism.dplyr",
         "plotgardener"
     ],
-    "UMI4Cats": [
-        "Rbowtie2"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
@@ -3650,7 +3585,6 @@
         "systemPipeR"
     ],
     "wateRmelon": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -3688,7 +3622,6 @@
         "ggbio"
     ],
     "yarn": [
-        "bumphunter",
         "genefilter",
         "illuminaio",
         "minfi",
