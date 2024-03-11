@@ -393,7 +393,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "AnVIL",
         "DOSE",
@@ -1471,7 +1470,6 @@
         "globaltest",
         "pathview"
     ],
-    "eiR": [],
     "ELMER": [
         "Gviz",
         "TCGAbiolinks",
@@ -3633,7 +3631,6 @@
         "dir.expiry"
     ],
     "rexposome": [],
-    "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [
@@ -4456,7 +4453,6 @@
     "tRanslatome": [
         "DESeq2"
     ],
-    "TransView": [],
     "traseR": [],
     "traviz": [
         "slingshot"
