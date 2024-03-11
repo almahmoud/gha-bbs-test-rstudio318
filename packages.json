@@ -792,7 +792,6 @@
         "quantiseqr"
     ],
     "easyreporting": [],
-    "easyRNASeq": [],
     "EBSEA": [
         "EmpiricalBrownsMethod"
     ],
@@ -1080,7 +1079,6 @@
     ],
     "GGPA": [],
     "GIGSEA": [],
-    "girafe": [],
     "GISPA": [],
     "GLAD": [],
     "GlobalAncova": [],
@@ -1518,7 +1516,6 @@
     ],
     "MsExperiment": [],
     "msgbsR": [
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [],
