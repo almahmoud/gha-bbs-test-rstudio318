@@ -207,11 +207,9 @@
     ],
     "AUCell": [],
     "BADER": [],
-    "BadRegionFinder": [],
     "ballgown": [
         "sva"
     ],
-    "BANDITS": [],
     "bandle": [
         "BiocStyle",
         "MLInterfaces",
@@ -850,7 +848,6 @@
         "flowCore"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
         "tximport"
     ],
     "diffGeneAnalysis": [],
@@ -1322,7 +1319,6 @@
         "sva"
     ],
     "Harshlight": [],
-    "HelloRanges": [],
     "hermes": [],
     "Herper": [],
     "HiCDCPlus": [
@@ -1912,9 +1908,7 @@
     "omicRexposome": [
         "sva"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2094,7 +2088,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ProteoDisco": [],
     "protGear": [],
     "psichomics": [
         "BiocVersion",
@@ -2705,7 +2698,6 @@
         "rWikiPathways"
     ],
     "TissueEnrich": [],
-    "TitanCNA": [],
     "TNBC.CMS": [
         "GSVA"
     ],
