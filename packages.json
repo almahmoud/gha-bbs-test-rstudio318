@@ -677,7 +677,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
@@ -954,7 +953,6 @@
         "dir.expiry"
     ],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "BiocVersion",
         "Gviz",
@@ -1096,7 +1094,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "debCAM": [],
     "debrowser": [
         "DOSE",
         "Harman",
@@ -1412,7 +1409,6 @@
     ],
     "escheR": [],
     "esetVis": [],
-    "eudysbiome": [],
     "EventPointer": [
         "SGSeq",
         "tximport"
@@ -1915,7 +1911,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "idiogram": [],
     "igvR": [],
     "illuminaio": [],
@@ -2333,7 +2328,6 @@
     ],
     "MicrobiotaProcess": [],
     "microSTASIS": [],
-    "MICSQTL": [],
     "miloR": [],
     "mimager": [
         "affyPLM"
@@ -3101,7 +3095,6 @@
         "illuminaio",
         "minfi"
     ],
-    "recoup": [],
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
@@ -3871,7 +3864,6 @@
         "piano"
     ],
     "TPP2D": [],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "biovizBase"
@@ -3913,7 +3905,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TRONCO": [],
     "TSAR": [],
     "TSCAN": [],
     "TurboNorm": [],
@@ -3923,7 +3914,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "txcutr": [],
     "tximeta": [
         "BiocVersion",
         "tximport"
