@@ -51,7 +51,6 @@
     "AGDEX": [
         "GSEABase"
     ],
-    "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "Category",
@@ -2039,7 +2038,6 @@
     "GenomicScores": [
         "BiocVersion"
     ],
-    "GenomicSuperSignature": [],
     "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
@@ -2394,26 +2392,16 @@
         "Spectra",
         "xcms"
     ],
-    "iSEE": [],
     "iSEEde": [
-        "DESeq2",
-        "iSEE"
+        "DESeq2"
     ],
-    "iSEEhex": [
-        "iSEE"
-    ],
+    "iSEEhex": [],
     "iSEEhub": [
-        "BiocVersion",
-        "iSEE"
+        "BiocVersion"
     ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "ISLET": [],
@@ -3410,7 +3398,6 @@
         "DESeq2",
         "fgsea"
     ],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "fgsea",
@@ -4600,7 +4587,6 @@
     "TEKRABber": [
         "DESeq2"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "BiocVersion",
         "ontoProc",
