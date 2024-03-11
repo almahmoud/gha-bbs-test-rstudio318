@@ -219,7 +219,6 @@
     "BatchQC": [
         "sva"
     ],
-    "BayesSpace": [],
     "baySeq": [],
     "beadarray": [
         "BeadDataPackR",
@@ -233,7 +232,6 @@
         "tximport"
     ],
     "BHC": [],
-    "BicARE": [],
     "bigmelon": [
         "gdsfmt",
         "illuminaio",
@@ -385,9 +383,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [],
     "cellHTS2": [
         "Category",
@@ -528,9 +524,7 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "contiBAIT": [],
     "conumee": [
         "illuminaio",
@@ -769,9 +763,7 @@
     "edge": [
         "sva"
     ],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz"
     ],
@@ -832,9 +824,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1024,7 +1014,6 @@
         "sva"
     ],
     "GEOfastq": [],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2",
@@ -1075,7 +1064,6 @@
         "STRINGdb"
     ],
     "GSRI": [],
-    "GSVA": [],
     "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [
@@ -1580,7 +1568,6 @@
     "nuCpos": [],
     "octad": [
         "BiocVersion",
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1603,9 +1590,7 @@
         "ncdfFlow"
     ],
     "OpenStats": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -1728,7 +1713,6 @@
         "MLInterfaces",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
@@ -1836,9 +1820,7 @@
     ],
     "REDseq": [],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regionReport": [
         "BiocStyle",
         "derfinder"
@@ -1991,7 +1973,6 @@
     "scDD": [],
     "scFeatures": [
         "AUCell",
-        "GSVA",
         "SingleCellSignalR"
     ],
     "scifer": [],
@@ -2094,7 +2075,6 @@
         "enrichplot"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SIM": [],
@@ -2110,7 +2090,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
-        "GSVA",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -2220,7 +2199,6 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
         "singscore",
         "sva"
     ],
@@ -2254,9 +2232,7 @@
         "rWikiPathways"
     ],
     "TissueEnrich": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [
         "ClassifyR"
     ],
