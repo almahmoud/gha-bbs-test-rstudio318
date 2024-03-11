@@ -2455,7 +2455,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "BG2": [],
     "BgeeCall": [
         "AnnotationDbi",
         "Biobase",
@@ -2856,7 +2855,6 @@
         "zlibbioc"
     ],
     "BiocStyle": [],
-    "biocthis": [],
     "BiocVersion": [],
     "biocViews": [
         "Biobase",
@@ -4372,8 +4370,7 @@
         "zlibbioc"
     ],
     "ccImpute": [
-        "BiocParallel",
-        "SIMLR"
+        "BiocParallel"
     ],
     "ccmap": [
         "AnnotationDbi",
@@ -4666,7 +4663,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "cellxgenedp": [],
     "CEMiTool": [
         "AnnotationDbi",
         "Biobase",
@@ -5886,7 +5882,6 @@
         "edgeR",
         "zlibbioc"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [
         "Biobase",
         "BiocGenerics"
@@ -6727,7 +6722,6 @@
         "topGO",
         "zlibbioc"
     ],
-    "CONSTANd": [],
     "contiBAIT": [
         "AnnotationDbi",
         "BSgenome",
@@ -13374,7 +13368,6 @@
         "zlibbioc"
     ],
     "GLAD": [],
-    "GladiaTOX": [],
     "Glimma": [
         "Biobase",
         "BiocGenerics",
@@ -14692,7 +14685,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "hierGWAS": [],
     "hierinf": [],
     "HilbertCurve": [
         "BiocGenerics",
@@ -14920,9 +14912,7 @@
         "edgeR",
         "zlibbioc"
     ],
-    "HubPub": [
-        "biocthis"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "Biobase",
         "BiocGenerics",
@@ -14988,7 +14978,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iBBiG": [],
     "iBMQ": [
         "Biobase",
         "BiocGenerics"
@@ -16341,7 +16330,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "LBE": [],
     "ldblock": [
         "BiocGenerics"
     ],
@@ -18560,7 +18548,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "mgsa": [],
     "mia": [
         "Biobase",
         "BiocBaseUtils",
@@ -21863,7 +21850,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "onlineFDR": [],
     "ontoProc": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -25014,7 +25000,6 @@
         "BrowserViz",
         "graph"
     ],
-    "rDGIdb": [],
     "Rdisop": [],
     "RDRToolbox": [],
     "ReactomeContentService4R": [],
@@ -29485,7 +29470,6 @@
         "zlibbioc"
     ],
     "similaRpeak": [],
-    "SIMLR": [],
     "simona": [
         "BiocGenerics",
         "ComplexHeatmap",
@@ -29961,7 +29945,6 @@
         "dir.expiry"
     ],
     "snm": [],
-    "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
@@ -31348,7 +31331,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "SwathXtend": [],
     "swfdr": [],
     "switchBox": [],
     "switchde": [
