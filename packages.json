@@ -26,8 +26,7 @@
         "ADAM"
     ],
     "adductomicsR": [
-        "BiocVersion",
-        "mzR"
+        "BiocVersion"
     ],
     "ADImpute": [],
     "AffiXcan": [],
@@ -323,7 +322,6 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "pRoloc"
     ],
     "banocc": [],
@@ -376,7 +374,6 @@
         "ALDEx2",
         "ANCOMBC",
         "DESeq2",
-        "MAST",
         "Maaslin2",
         "biomformat",
         "genefilter",
@@ -616,7 +613,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "canceR": [
@@ -691,9 +687,7 @@
         "PROMISE"
     ],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scran"
     ],
@@ -878,13 +872,11 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "clstutils": [],
     "CluMSID": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "clustComp": [],
     "clusterExperiment": [
@@ -1068,7 +1060,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "cosmosR": [
@@ -1271,8 +1262,7 @@
         "MSnbase",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "mzR"
+        "fgsea"
     ],
     "dce": [
         "epiNEM",
@@ -1354,8 +1344,7 @@
         "dir.expiry"
     ],
     "DEP": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "DepecheR": [
         "mixOmics"
@@ -1400,9 +1389,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
         "GreyListChIP",
@@ -1768,7 +1755,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "FLAMES": [
@@ -2165,9 +2151,7 @@
         "DESeq2"
     ],
     "GraphAlignment": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [],
     "groHMM": [],
@@ -2398,7 +2382,6 @@
     "IONiseR": [
         "ShortRead"
     ],
-    "iPAC": [],
     "iPath": [],
     "ipdDb": [
         "BiocVersion"
@@ -2409,7 +2392,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "iSEE": [],
@@ -2509,7 +2491,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "loci2path": [],
@@ -2579,7 +2560,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "MANOR": [
@@ -2598,7 +2578,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "MAST": [],
     "mastR": [
         "BiocVersion",
         "GSEABase"
@@ -2711,7 +2690,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "MetaPhOR": [
@@ -2916,7 +2894,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "MODA": [
@@ -3016,32 +2993,25 @@
         "scran"
     ],
     "msmsEDA": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "msmsTests": [
         "MSnbase",
-        "msmsEDA",
-        "mzR"
+        "msmsEDA"
     ],
-    "MSnbase": [
-        "mzR"
-    ],
+    "MSnbase": [],
     "MSnID": [
         "BiocStyle",
         "BiocVersion",
         "MSnbase",
         "msmsEDA",
-        "msmsTests",
-        "mzR"
+        "msmsTests"
     ],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -3071,13 +3041,11 @@
         "MSstatsTMT"
     ],
     "MSstatsQC": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "MSstatsQCgui": [
         "MSnbase",
-        "MSstatsQC",
-        "mzR"
+        "MSstatsQC"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -3144,7 +3112,6 @@
     "myvariant": [
         "VariantAnnotation"
     ],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
@@ -3180,7 +3147,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "NCIgraph": [
@@ -3432,8 +3398,7 @@
         "ncdfFlow"
     ],
     "peakPantheR": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "PECA": [
         "genefilter"
@@ -3464,7 +3429,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "philr": [],
     "PhosR": [],
     "PhyloProfile": [
         "BiocStyle",
@@ -3523,9 +3487,7 @@
         "DESeq2",
         "mixOmics"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [
         "STRINGdb",
         "fgsea"
@@ -3551,8 +3513,7 @@
         "biovizBase"
     ],
     "PrInCE": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "proActiv": [
         "DESeq2"
@@ -3576,14 +3537,12 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "genefilter",
-        "mzR"
+        "genefilter"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "pRoloc"
     ],
     "PROMISE": [
@@ -3599,8 +3558,7 @@
         "MSnbase",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "mzR"
+        "fgsea"
     ],
     "ProteoDisco": [
         "VariantAnnotation"
@@ -3624,8 +3582,7 @@
         "BgeeDB"
     ],
     "ptairMS": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "puma": [],
     "PureCN": [
@@ -3648,8 +3605,7 @@
     "QFeatures": [],
     "qpcrNorm": [],
     "qPLEXanalyzer": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "qsea": [],
     "qsmooth": [
@@ -3669,8 +3625,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles",
@@ -3705,7 +3660,6 @@
         "VariantAnnotation",
         "gdsfmt"
     ],
-    "rain": [],
     "ramwas": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
@@ -3914,7 +3868,6 @@
         "MsExperiment",
         "QFeatures",
         "Spectra",
-        "mzR",
         "xcms"
     ],
     "RITAN": [
@@ -3930,8 +3883,7 @@
         "regioneR"
     ],
     "RMassBank": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "Rmmquant": [
         "BiocStyle",
@@ -4095,7 +4047,6 @@
         "Cepo",
         "GSEABase"
     ],
-    "sccomp": [],
     "scDataviz": [
         "cytolib",
         "flowCore"
@@ -4331,9 +4282,7 @@
     "SIM": [
         "globaltest"
     ],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter"
@@ -4363,7 +4312,6 @@
         "DropletUtils",
         "GSEABase",
         "GSVA",
-        "MAST",
         "SingleR",
         "TSCAN",
         "basilisk",
@@ -4446,9 +4394,7 @@
         "bsseq",
         "regioneR"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "scran"
@@ -4566,7 +4512,6 @@
         "SpatialExperiment"
     ],
     "STdeconvolve": [],
-    "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
@@ -4601,8 +4546,7 @@
     "swfdr": [],
     "switchBox": [],
     "synapter": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "SynExtend": [],
     "syntenet": [],
@@ -4622,9 +4566,7 @@
         "HiCcompare"
     ],
     "TAPseq": [],
-    "TargetDecoy": [
-        "mzR"
-    ],
+    "TargetDecoy": [],
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
@@ -4714,8 +4656,7 @@
         "genefilter"
     ],
     "topdownr": [
-        "MSnbase",
-        "mzR"
+        "MSnbase"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -4914,8 +4855,7 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
-        "mzR"
+        "Spectra"
     ],
     "xcore": [],
     "XDE": [
@@ -4932,9 +4872,7 @@
         "STRINGdb"
     ],
     "XNAString": [],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "SomaticSignatures",
