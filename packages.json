@@ -14,7 +14,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "adductomicsR": [
         "BiocVersion"
     ],
@@ -213,7 +212,6 @@
     "bandle": [
         "BiocStyle",
         "MLInterfaces",
-        "MSnbase",
         "pRoloc"
     ],
     "banocc": [],
@@ -379,7 +377,6 @@
     ],
     "calm": [],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -524,13 +521,10 @@
     "clevRvis": [],
     "clipper": [],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clustComp": [],
     "clusterExperiment": [
         "zinbwave"
@@ -631,7 +625,6 @@
         "BiocVersion"
     ],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -772,7 +765,6 @@
     ],
     "DAPAR": [
         "DOSE",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -820,9 +812,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "DepecheR": [],
     "derfinder": [
         "GenomicFiles"
@@ -1040,7 +1030,6 @@
     "FitHiC": [],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1414,7 +1403,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1422,7 +1410,6 @@
     "iSEEhub": [
         "BiocVersion"
     ],
-    "iSEEpathways": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
@@ -1457,7 +1444,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1501,7 +1487,6 @@
     "magpie": [],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1586,7 +1571,6 @@
     "metahdep": [],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1695,7 +1679,6 @@
     ],
     "MMUPHin": [],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1753,18 +1736,13 @@
         "ggbio"
     ],
     "msImpute": [],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
         "BiocStyle",
         "BiocVersion",
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -1794,11 +1772,8 @@
         "MSstatsConvert",
         "MSstatsTMT"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC"
     ],
     "MSstatsShiny": [
@@ -1848,7 +1823,6 @@
         "flowCore"
     ],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1994,9 +1968,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PECA": [],
     "phantasus": [],
     "PharmacoGx": [
@@ -2054,9 +2026,7 @@
         "Gviz",
         "TFBSTools"
     ],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "proActiv": [],
     "PROcess": [
         "Icens"
@@ -2069,12 +2039,10 @@
         "soGGi"
     ],
     "pRoloc": [
-        "MLInterfaces",
-        "MSnbase"
+        "MLInterfaces"
     ],
     "pRolocGUI": [
         "MLInterfaces",
-        "MSnbase",
         "pRoloc"
     ],
     "PROMISE": [],
@@ -2084,7 +2052,6 @@
     "Prostar": [
         "DAPAR",
         "DOSE",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2097,9 +2064,7 @@
     ],
     "PSMatch": [],
     "psygenet2r": [],
-    "ptairMS": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
     "Pviz": [
         "Gviz"
     ],
@@ -2108,9 +2073,7 @@
         "STRINGdb"
     ],
     "QDNAseq": [],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "qsmooth": [
         "sva"
     ],
@@ -2272,7 +2235,6 @@
     "RImmPort": [],
     "Ringo": [],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -2284,9 +2246,7 @@
     "RLSeq": [
         "BiocVersion"
     ],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "Rmmquant": [
         "BiocStyle"
     ],
@@ -2643,9 +2603,7 @@
     ],
     "swfdr": [],
     "switchBox": [],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [],
@@ -2653,7 +2611,6 @@
         "Gviz"
     ],
     "TADCompare": [],
-    "TargetDecoy": [],
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
@@ -2704,9 +2661,7 @@
     "TOP": [
         "ClassifyR"
     ],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "ToxicoGx": [
         "CoreGx",
         "piano"
@@ -2812,7 +2767,6 @@
         "OmnipathR"
     ],
     "xcms": [
-        "MSnbase",
         "MsExperiment"
     ],
     "XDE": [
