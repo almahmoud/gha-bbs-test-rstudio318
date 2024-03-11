@@ -32,7 +32,6 @@
         "genefilter",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -351,9 +350,7 @@
         "bsseq",
         "dmrseq"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq",
         "genefilter"
@@ -552,7 +549,6 @@
         "biovizBase",
         "bsseq",
         "genefilter",
-        "globaltest",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -1063,7 +1059,6 @@
     ],
     "EGSEA": [
         "GSVA",
-        "globaltest",
         "pathview"
     ],
     "ELMER": [
@@ -1465,10 +1460,7 @@
     "GLAD": [],
     "Glimma": [],
     "glmGamPoi": [],
-    "GlobalAncova": [
-        "globaltest"
-    ],
-    "globaltest": [],
+    "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -2935,9 +2927,7 @@
         "consensusOV"
     ],
     "SigsPack": [],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
