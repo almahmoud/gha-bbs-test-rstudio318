@@ -283,7 +283,6 @@
     "biomvRCNS": [
         "Gviz"
     ],
-    "BioNAR": [],
     "BioNERO": [
         "GENIE3",
         "sva"
@@ -997,7 +996,6 @@
     ],
     "fmrs": [],
     "FRASER": [
-        "OUTRIDER",
         "Rsubread"
     ],
     "FRGEpistasis": [],
@@ -1707,7 +1705,6 @@
     ],
     "OSAT": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -2340,7 +2337,6 @@
     "synapter": [],
     "systemPipeR": [],
     "systemPipeShiny": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz"
     ],
