@@ -1237,7 +1237,6 @@
     "GenomicScores": [
         "BiocVersion"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "sva"
@@ -2427,7 +2426,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "scoreInvHap": [],
     "scPipe": [
         "Rsubread",
         "basilisk",
@@ -2648,14 +2646,9 @@
     "StarBioTrek": [],
     "STRINGdb": [],
     "structToolbox": [],
-    "StructuralVariantAnnotation": [],
     "sva": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [
         "DOSE"
     ],
