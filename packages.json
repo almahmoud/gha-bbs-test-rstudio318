@@ -170,7 +170,6 @@
     "APAlyzer": [
         "Rsubread"
     ],
-    "APL": [],
     "appreci8R": [
         "BiocVersion",
         "GenomicScores"
@@ -1234,7 +1233,6 @@
         "enrichplot",
         "rWikiPathways"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [],
     "fCCAC": [
         "genomation"
@@ -1845,7 +1843,6 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mbQTL": [],
     "mCSEA": [
         "Gviz",
         "biovizBase"
@@ -1983,7 +1980,6 @@
         "GENIE3"
     ],
     "MGFM": [],
-    "MGFR": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
@@ -2048,7 +2044,6 @@
         "sSeq"
     ],
     "MMUPHin": [],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -2481,7 +2476,6 @@
     "preciseTAD": [
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "BiocVersion",
         "CNEr",
@@ -2841,8 +2835,7 @@
         "gdsfmt"
     ],
     "sampleClassifier": [
-        "MGFM",
-        "MGFR"
+        "MGFM"
     ],
     "sangeranalyseR": [
         "BiocStyle"
