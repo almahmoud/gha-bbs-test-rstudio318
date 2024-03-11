@@ -21,10 +21,7 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAM": [],
-    "ADAMgui": [
-        "ADAM"
-    ],
+    "ADAMgui": [],
     "adductomicsR": [
         "BiocVersion"
     ],
@@ -1234,7 +1231,6 @@
     "dagLogo": [
         "CNEr",
         "TFBSTools",
-        "UniProt.ws",
         "motifStack"
     ],
     "DAMEfinder": [
@@ -1468,9 +1464,7 @@
     ],
     "DRIMSeq": [],
     "DropletUtils": [],
-    "drugTargetInteractions": [
-        "UniProt.ws"
-    ],
+    "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress"
     ],
@@ -1877,7 +1871,6 @@
     ],
     "FRGEpistasis": [],
     "frma": [],
-    "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
         "bumphunter",
@@ -2814,7 +2807,6 @@
     "MIRA": [
         "bsseq"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -3300,7 +3292,6 @@
         "geneplotter",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -3564,7 +3555,6 @@
         "CGHcall"
     ],
     "QFeatures": [],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -4687,7 +4677,6 @@
         "biovizBase"
     ],
     "unifiedWMWqPCR": [],
-    "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
