@@ -56,20 +56,14 @@
         "annotate",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase",
@@ -91,7 +85,6 @@
         "annotate",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
@@ -287,7 +280,6 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
         "genefilter",
         "illuminaio",
         "vsn"
@@ -454,7 +446,6 @@
         "annotate",
         "biomformat",
         "genefilter",
-        "metagenomeSeq",
         "mixOmics",
         "phyloseq",
         "zinbwave"
@@ -463,9 +454,7 @@
         "tximport"
     ],
     "BgeeDB": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BHC": [],
     "BicARE": [
         "GSEABase",
@@ -1012,8 +1001,7 @@
         "BiocVersion",
         "DESeq2",
         "VariantAnnotation",
-        "gwascat",
-        "universalmotif"
+        "gwascat"
     ],
     "CircSeqAlignTk": [
         "Rbowtie2",
@@ -2270,7 +2258,6 @@
     ],
     "gcapc": [],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -2971,12 +2958,9 @@
     "m6Aboost": [
         "BiocVersion"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "macat": [
         "annotate"
@@ -3038,9 +3022,7 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "HDF5Array",
         "plotgardener",
@@ -3053,9 +3035,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [],
     "mastR": [
         "BiocVersion",
@@ -3086,9 +3066,7 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MCbiclust": [],
     "mCSEA": [
         "Gviz",
@@ -3137,16 +3115,12 @@
         "BPRMeth",
         "BiocStyle"
     ],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "Mergeomics": [],
-    "MeSHDbi": [],
     "meshes": [
         "BiocVersion",
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot",
         "fgsea"
     ],
@@ -3154,7 +3128,6 @@
         "BiocStyle",
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "annotate",
         "genefilter"
     ],
@@ -3187,7 +3160,6 @@
         "flowCore"
     ],
     "metagene2": [],
-    "metagenomeSeq": [],
     "metahdep": [],
     "metaMS": [
         "CAMERA",
@@ -3340,20 +3312,17 @@
     ],
     "microbiomeDASim": [
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "biomformat",
-        "metagenomeSeq"
+        "biomformat"
     ],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
         "DESeq2",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -3372,8 +3341,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "AnnotationForge",
@@ -3455,8 +3423,7 @@
     ],
     "MMDiff2": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [],
@@ -4312,7 +4279,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "BiocVersion",
         "STRINGdb"
@@ -4339,7 +4305,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "annotate",
         "genefilter",
@@ -4962,7 +4927,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "annotate",
         "enrichplot",
@@ -5415,7 +5379,6 @@
         "graphite",
         "miRNAtap"
     ],
-    "STATegRa": [],
     "Statial": [
         "SpatialExperiment"
     ],
@@ -5727,7 +5690,6 @@
     "Uniquorn": [
         "VariantAnnotation"
     ],
-    "universalmotif": [],
     "uSORT": [
         "monocle"
     ],
@@ -5831,7 +5793,6 @@
     "weaver": [],
     "webbioc": [
         "annaffy",
-        "gcrma",
         "vsn"
     ],
     "weitrix": [],
