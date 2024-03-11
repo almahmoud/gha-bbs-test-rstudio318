@@ -893,7 +893,6 @@
         "pathview",
         "zenith"
     ],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [],
     "dupRadar": [
@@ -1001,7 +1000,6 @@
     "escape": [
         "GSVA"
     ],
-    "escheR": [],
     "EventPointer": [
         "tximport"
     ],
@@ -2411,7 +2409,6 @@
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "scider": [],
     "scifer": [
         "flowCore"
     ],
@@ -2599,7 +2596,6 @@
     ],
     "Spaniel": [],
     "sparrow": [],
-    "spaSim": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
