@@ -121,7 +121,6 @@
         "BiocVersion"
     ],
     "AMOUNTAIN": [],
-    "AneuFinder": [],
     "annmap": [],
     "AnnotationHub": [
         "BiocVersion"
@@ -450,8 +449,7 @@
     "ChIPexoQual": [],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -460,7 +458,6 @@
     "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [],
-    "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -745,9 +742,7 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -1589,7 +1584,6 @@
         "BiocVersion"
     ],
     "mumosa": [],
-    "muscat": [],
     "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
@@ -2303,7 +2297,6 @@
     "swfdr": [],
     "switchBox": [],
     "synapter": [],
-    "systemPipeR": [],
     "systemPipeShiny": [],
     "tadar": [
         "Gviz"
@@ -2433,8 +2426,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "illuminaio",
