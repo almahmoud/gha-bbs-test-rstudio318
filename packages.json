@@ -740,9 +740,7 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [
         "genefilter"
     ],
@@ -1148,8 +1146,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "esetVis": [],
@@ -2311,7 +2308,6 @@
         "GOstats",
         "genefilter"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx",
         "piano",
@@ -2447,7 +2443,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [],
     "PureCN": [],
     "Pviz": [
         "Gviz",
@@ -2568,9 +2563,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -3218,7 +3211,6 @@
         "tximport"
     ],
     "tximport": [],
-    "UCell": [],
     "Ularcirc": [
         "BiocVersion",
         "plotgardener"
