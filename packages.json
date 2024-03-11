@@ -2331,7 +2331,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "Biobase": [],
     "biobroom": [],
     "bioCancer": [
         "AnVIL",
@@ -8138,7 +8137,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "dks": [],
     "DMCFB": [
         "BiocIO",
         "BiocParallel",
@@ -21941,7 +21939,6 @@
         "dada2",
         "zlibbioc"
     ],
-    "RBGL": [],
     "RBioFormats": [
         "EBImage",
         "S4Vectors"
