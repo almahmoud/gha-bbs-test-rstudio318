@@ -719,7 +719,6 @@
         "dir.expiry"
     ],
     "DEP": [],
-    "DepecheR": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
@@ -837,16 +836,10 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [],
     "esATAC": [
@@ -2077,8 +2070,7 @@
         "BiocStyle"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "scviR": [
         "basilisk",
