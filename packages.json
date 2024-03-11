@@ -1242,7 +1242,6 @@
         "pcaExplorer"
     ],
     "illuminaio": [],
-    "IMAS": [],
     "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
@@ -1483,7 +1482,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz"
     ],
