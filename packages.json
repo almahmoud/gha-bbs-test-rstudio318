@@ -3442,7 +3442,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [],
     "tximeta": [
         "BiocVersion",
         "tximport"
