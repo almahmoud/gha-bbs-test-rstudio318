@@ -27,10 +27,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AGDEX": [],
     "agilp": [],
     "AgiMicroRna": [
@@ -169,7 +166,6 @@
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
-        "affyPLM",
         "beadarray",
         "illuminaio"
     ],
@@ -487,9 +483,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "CGHcall",
         "QDNAseq"
@@ -1036,8 +1030,7 @@
         "BiocVersion",
         "ChIPseeker",
         "DOSE",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigenomix": [
         "BeadDataPackR",
@@ -1123,9 +1116,7 @@
         "rWikiPathways"
     ],
     "FastqCleaner": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcScan": [],
     "FEAST": [
         "TSCAN"
@@ -1327,7 +1318,6 @@
     ],
     "GENIE3": [],
     "genoCN": [],
-    "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -1338,8 +1328,7 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenomicScores": [
         "BiocVersion"
@@ -1369,7 +1358,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [],
     "GGPA": [],
     "ggspavis": [],
     "GIGSEA": [],
@@ -1814,9 +1802,7 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "Category",
         "GOstats",
@@ -2372,9 +2358,7 @@
     ],
     "Rbowtie": [],
     "Rbwa": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCASPAR": [],
     "rCGH": [],
     "RCM": [],
