@@ -2061,7 +2061,6 @@
     "ggmsa": [],
     "GGPA": [],
     "ggspavis": [],
-    "ggtreeDendro": [],
     "GIGSEA": [],
     "girafe": [
         "ShortRead"
@@ -2315,7 +2314,6 @@
         "illuminaio",
         "minfi"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
@@ -3179,7 +3177,6 @@
     "nullranges": [
         "plyranges"
     ],
-    "OCplus": [],
     "octad": [
         "BiocVersion",
         "DESeq2",
@@ -3930,7 +3927,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RTopper": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -4069,7 +4065,6 @@
     "scran": [],
     "scRecover": [],
     "screenCounter": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -4284,7 +4279,6 @@
     "singscore": [
         "GSEABase"
     ],
-    "SiPSiC": [],
     "sitadela": [],
     "sizepower": [],
     "skewr": [
