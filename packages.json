@@ -126,7 +126,6 @@
     "amplican": [],
     "Anaquin": [],
     "AneuFinder": [],
-    "animalcules": [],
     "annmap": [],
     "AnnotationHub": [
         "BiocVersion"
@@ -317,9 +316,7 @@
         "beadarray",
         "illuminaio"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [
         "BiocVersion"
     ],
@@ -327,7 +324,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "sva"
     ],
     "BOBaFIT": [
@@ -346,7 +342,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "BRGenomics": [],
     "BubbleTree": [
         "BiocStyle"
     ],
@@ -768,9 +763,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowCore",
         "flowDensity",
@@ -933,7 +926,6 @@
     ],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
         "DOSE",
@@ -954,7 +946,6 @@
         "illuminaio",
         "minfi"
     ],
-    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -993,7 +984,6 @@
     "ExCluster": [
         "Rsubread"
     ],
-    "exomePeak2": [],
     "ExperimentHub": [
         "BiocVersion"
     ],
@@ -1656,9 +1646,7 @@
         "illuminaio"
     ],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
@@ -1828,10 +1816,7 @@
     ],
     "NCIgraph": [],
     "nearBynding": [],
-    "nempi": [
-        "epiNEM"
-    ],
-    "NetActivity": [],
+    "nempi": [],
     "netboost": [
         "BiocStyle"
     ],
@@ -1867,7 +1852,6 @@
     "NTW": [],
     "nucleR": [],
     "nuCpos": [],
-    "nullranges": [],
     "octad": [
         "BiocVersion",
         "EDASeq",
@@ -2287,7 +2271,6 @@
         "methylumi",
         "minfi"
     ],
-    "ROntoTools": [],
     "RPA": [
         "BiocStyle"
     ],
