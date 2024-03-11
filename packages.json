@@ -340,7 +340,6 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "BUSpaRse": [],
     "CAFE": [
         "ggbio"
     ],
@@ -1405,7 +1404,6 @@
     ],
     "MetaboSignal": [
         "BiocVersion",
-        "MWASTools",
         "hpar"
     ],
     "metaCCA": [],
@@ -1636,7 +1634,6 @@
     "mumosa": [],
     "muscat": [],
     "musicatk": [],
-    "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
@@ -1679,7 +1676,6 @@
         "quantro",
         "yarn"
     ],
-    "nipalsMCIA": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -1725,7 +1721,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "ORFik": [],
     "orthos": [
         "BiocVersion",
         "basilisk",
@@ -2016,10 +2011,7 @@
     ],
     "RgnTX": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
-    "RiboDiPA": [],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -2413,9 +2405,7 @@
         "AnVIL"
     ],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tilingArray": [],
     "timeOmics": [],
