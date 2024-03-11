@@ -258,7 +258,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "batchelor": [],
     "BatchQC": [
         "genefilter",
         "sva"
@@ -581,9 +580,7 @@
     "ChIPsim": [],
     "ChIPXpress": [],
     "ChromHeatMap": [],
-    "ChromSCape": [
-        "batchelor"
-    ],
+    "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
@@ -2130,9 +2127,7 @@
     ],
     "multiHiCcompare": [],
     "MultiRNAflow": [],
-    "mumosa": [
-        "batchelor"
-    ],
+    "mumosa": [],
     "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
@@ -2796,9 +2791,7 @@
     "scifer": [
         "flowCore"
     ],
-    "scMerge": [
-        "batchelor"
-    ],
+    "scMerge": [],
     "scMET": [
         "BiocStyle"
     ],
@@ -2950,7 +2943,6 @@
         "TSCAN",
         "basilisk",
         "basilisk.utils",
-        "batchelor",
         "celda",
         "dir.expiry",
         "genefilter",
@@ -3201,7 +3193,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [
         "genefilter",
         "sva"
