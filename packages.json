@@ -494,7 +494,6 @@
         "CNTools"
     ],
     "CGHnormaliter": [],
-    "CGHregions": [],
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
@@ -1088,7 +1087,6 @@
         "AnnotationHubData",
         "BiocVersion"
     ],
-    "ExperimentSubset": [],
     "ExpressionAtlas": [
         "BiocStyle"
     ],
@@ -1381,7 +1379,6 @@
         "BiocVersion"
     ],
     "GraphAlignment": [],
-    "GraphPAC": [],
     "GRENITS": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
@@ -1789,7 +1786,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "mimager": [],
     "MineICA": [
         "Category",
@@ -2303,7 +2299,6 @@
         "minfi"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
@@ -2858,7 +2853,6 @@
     ],
     "StarBioTrek": [],
     "Statial": [],
-    "stJoincount": [],
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
@@ -2977,7 +2971,6 @@
     "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "biovizBase",
