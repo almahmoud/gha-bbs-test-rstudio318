@@ -857,7 +857,6 @@
         "bsseq",
         "sva"
     ],
-    "demuxSNP": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -997,7 +996,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
@@ -1935,7 +1933,6 @@
     ],
     "MutationalPatterns": [],
     "MWASTools": [],
-    "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
@@ -2547,7 +2544,6 @@
         "flowCore"
     ],
     "scoreInvHap": [],
-    "scp": [],
     "scPipe": [
         "Rsubread",
         "basilisk",
@@ -2644,7 +2640,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "GSVA",
         "consensusOV"
@@ -2887,8 +2882,7 @@
     "TSAR": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "tximeta": [
         "BiocVersion",
