@@ -73,7 +73,6 @@
     "adSplit": [
         "multtest"
     ],
-    "adverSCarial": [],
     "AffiXcan": [
         "BiocParallel",
         "MultiAssayExperiment"
@@ -543,7 +542,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -758,7 +756,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BAGS": [],
     "ballgown": [
         "BiocIO",
         "BiocParallel",
@@ -1028,7 +1025,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -1431,7 +1427,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "derfinderPlot",
         "ensembldb",
         "ggbio",
@@ -1532,7 +1527,6 @@
         "rtracklayer"
     ],
     "BumpyMatrix": [],
-    "BUS": [],
     "BUScorrect": [],
     "BUSpaRse": [
         "BSgenome",
@@ -2021,7 +2015,6 @@
         "DMRcate",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -2193,7 +2186,6 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "GEOquery",
         "affxparser",
         "frma",
         "oligo",
@@ -2604,7 +2596,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -2800,7 +2791,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -3076,7 +3066,6 @@
     ],
     "crossmeta": [
         "BiocParallel",
-        "GEOquery",
         "affxparser",
         "annotate",
         "genefilter",
@@ -3440,7 +3429,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -3592,7 +3580,6 @@
     "DepInfeR": [
         "BiocParallel"
     ],
-    "DEqMS": [],
     "derfinder": [
         "BSgenome",
         "BiocIO",
@@ -3605,10 +3592,8 @@
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
-        "derfinderHelper",
         "rtracklayer"
     ],
-    "derfinderHelper": [],
     "derfinderPlot": [
         "BSgenome",
         "BiocIO",
@@ -3624,7 +3609,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "ensembldb",
         "ggbio",
         "rtracklayer"
@@ -3670,7 +3654,6 @@
     ],
     "DExMA": [
         "BiocParallel",
-        "GEOquery",
         "annotate",
         "genefilter",
         "snpStats",
@@ -3817,7 +3800,6 @@
         "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -3972,7 +3954,6 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
         "affxparser",
         "annotate",
         "biomaRt",
@@ -4065,9 +4046,7 @@
     "EDIRquery": [
         "InteractionSet"
     ],
-    "EGAD": [
-        "GEOquery"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "BiocParallel",
         "BiocSingular",
@@ -4141,7 +4120,6 @@
         "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4324,7 +4302,6 @@
         "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -4692,7 +4669,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4990,7 +4966,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5391,19 +5366,15 @@
     ],
     "GEOexplorer": [
         "BiocParallel",
-        "GEOquery",
         "annotate",
         "genefilter",
         "sva"
     ],
     "GEOfastq": [],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
+    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools"
     ],
-    "GEOquery": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
         "cqn"
@@ -5554,7 +5525,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "AnVIL",
@@ -5839,7 +5809,6 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "Rhdf5lib",
         "rhdf5",
@@ -5860,7 +5829,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HEM": [],
     "hermes": [
         "BiocParallel",
         "ComplexHeatmap",
@@ -6069,7 +6037,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6208,7 +6175,6 @@
         "BiocStyle",
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6660,7 +6626,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6741,7 +6706,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6969,7 +6933,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -7002,7 +6965,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7081,7 +7043,6 @@
     "MesKit": [
         "ComplexHeatmap"
     ],
-    "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationHub",
@@ -7259,7 +7220,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7284,7 +7244,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7318,7 +7277,6 @@
         "DelayedMatrixStats",
         "ExperimentHub",
         "ExperimentHubData",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7346,7 +7304,6 @@
         "BiocParallel",
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7446,7 +7403,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7628,7 +7584,6 @@
         "BiocParallel",
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "GSEABase",
         "GenomicAlignments",
@@ -7658,7 +7613,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7738,7 +7692,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7888,7 +7841,6 @@
         "BiocVersion",
         "ComplexHeatmap",
         "DOSE",
-        "GEOquery",
         "GOSemSim",
         "GenomicAlignments",
         "Rhtslib",
@@ -7903,7 +7855,6 @@
     "MoonlightR": [
         "BiocParallel",
         "DOSE",
-        "GEOquery",
         "GOSemSim",
         "TCGAbiolinks",
         "biomaRt",
@@ -8555,7 +8506,6 @@
         "BiocParallel",
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "GSEABase",
         "GenomicAlignments",
@@ -9147,7 +9097,6 @@
     "phantasus": [
         "BiocParallel",
         "DESeq2",
-        "GEOquery",
         "Rhdf5lib",
         "fgsea",
         "rhdf5",
@@ -9575,7 +9524,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocVersion",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -9585,7 +9533,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "interactiveDisplayBase",
         "recount",
         "rtracklayer"
@@ -9731,7 +9678,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10005,7 +9951,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -10015,7 +9960,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "rtracklayer"
     ],
     "recount3": [
@@ -10030,7 +9974,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10147,7 +10090,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "rtracklayer"
     ],
     "regsplice": [],
@@ -10177,7 +10119,6 @@
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10558,7 +10499,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -10568,7 +10508,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount",
         "rtracklayer"
     ],
@@ -10669,7 +10608,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -10679,7 +10617,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount",
         "rtracklayer"
     ],
@@ -10687,7 +10624,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10819,7 +10755,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "Rtreemix": [],
     "rTRM": [],
     "rTRMui": [
         "BiocIO",
@@ -10902,7 +10837,6 @@
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "BiocParallel",
-        "GEOquery",
         "affxparser",
         "annotate",
         "genefilter",
@@ -11579,7 +11513,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -11603,7 +11536,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -11909,7 +11841,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12154,7 +12085,6 @@
         "SingleCellExperiment"
     ],
     "specL": [],
-    "SpeCond": [],
     "Spectra": [
         "BiocParallel",
         "MetaboCoreUtils",
@@ -12284,9 +12214,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "BSgenome",
         "BiocIO",
@@ -12774,7 +12702,6 @@
     ],
     "TnT": [],
     "TOAST": [],
-    "tomoda": [],
     "tomoseqr": [],
     "TOP": [
         "BiocParallel",
@@ -13333,7 +13260,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -13468,7 +13394,6 @@
         "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
