@@ -37,7 +37,6 @@
         "BiocStyle"
     ],
     "ABSSeq": [],
-    "acde": [],
     "ACE": [
         "BiocParallel",
         "Biostrings",
@@ -738,7 +737,6 @@
         "BiocParallel",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "ropls"
     ],
     "ASpli": [
@@ -1041,7 +1039,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -1060,7 +1057,6 @@
         "bluster",
         "edgeR",
         "glmGamPoi",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -1115,7 +1111,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -1216,7 +1211,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "dearseq",
         "decontam",
         "edgeR",
         "genefilter",
@@ -1561,7 +1555,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -2268,7 +2261,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -2698,7 +2690,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "chopsticks": [],
     "chromDraw": [],
     "ChromHeatMap": [
         "AnnotationDbi",
@@ -2736,7 +2727,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -2852,7 +2842,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -3783,8 +3772,7 @@
         "Biostrings",
         "Rhtslib",
         "Rsamtools",
-        "edgeR",
-        "metapod"
+        "edgeR"
     ],
     "csdR": [
         "AnnotationDbi",
@@ -4105,7 +4093,6 @@
         "tkWidgets",
         "vsn"
     ],
-    "DCATS": [],
     "dce": [
         "AnnotationDbi",
         "Biostrings",
@@ -4129,7 +4116,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "dearseq": [],
     "debCAM": [
         "BiocParallel"
     ],
@@ -4189,7 +4175,6 @@
         "bluster",
         "celda",
         "edgeR",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -4547,7 +4532,6 @@
         "Rsamtools",
         "csaw",
         "edgeR",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -4587,7 +4571,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -5236,7 +5219,6 @@
         "bamsignals",
         "csaw",
         "edgeR",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -5621,7 +5603,6 @@
         "csaw",
         "edgeR",
         "ensembldb",
-        "metapod",
         "rtracklayer"
     ],
     "fabia": [],
@@ -5838,7 +5819,6 @@
         "edgeR",
         "ensembldb",
         "ggbio",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -7201,7 +7181,6 @@
         "multtest"
     ],
     "Herper": [],
-    "HGC": [],
     "hiAnnotator": [
         "BSgenome",
         "BiocIO",
@@ -7345,7 +7324,6 @@
         "rtracklayer"
     ],
     "hmdbQuery": [],
-    "HMMcopy": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "SingleCellExperiment",
@@ -7427,7 +7405,6 @@
         "biomaRt",
         "csaw",
         "edgeR",
-        "metapod",
         "rtracklayer"
     ],
     "iCheck": [
@@ -8027,7 +8004,6 @@
     ],
     "lapmix": [],
     "ldblock": [],
-    "LEA": [],
     "LedPred": [],
     "lefser": [],
     "lemur": [
@@ -8190,7 +8166,6 @@
         "msa"
     ],
     "M3C": [],
-    "M3Drop": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8809,7 +8784,6 @@
         "fgsea",
         "ggtree"
     ],
-    "metapod": [],
     "metapone": [
         "BiocParallel",
         "fgsea"
@@ -9328,7 +9302,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "mina": [],
     "MineICA": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -9889,7 +9862,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -10157,7 +10129,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -10302,7 +10273,6 @@
         "edgeR",
         "ensembldb",
         "interactiveDisplayBase",
-        "metapod",
         "motifStack",
         "multtest",
         "regioneR",
@@ -11206,7 +11176,6 @@
     "pengls": [
         "BiocParallel"
     ],
-    "PepsNMR": [],
     "pepStat": [],
     "periodicDNA": [
         "BSgenome",
@@ -11363,7 +11332,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -11464,7 +11432,6 @@
         "DESeq2",
         "mixOmics"
     ],
-    "powerTCR": [],
     "POWSC": [
         "MAST",
         "SingleCellExperiment"
@@ -11940,7 +11907,6 @@
         "BiocParallel",
         "Biostrings",
         "GenomicAlignments",
-        "HMMcopy",
         "Rhtslib",
         "Rsamtools",
         "rtracklayer"
@@ -12418,7 +12384,6 @@
         "bluster",
         "edgeR",
         "fgsea",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -12910,7 +12875,6 @@
         "rtracklayer"
     ],
     "RLassoCox": [],
-    "RLMM": [],
     "RLSeq": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13575,7 +13539,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -13592,7 +13555,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -13645,7 +13607,6 @@
         "bluster",
         "edgeR",
         "ensembldb",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -13686,7 +13647,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "M3Drop",
         "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -13694,7 +13654,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -13836,7 +13795,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -13853,8 +13811,7 @@
         "edgeR"
     ],
     "scRepertoire": [
-        "SingleCellExperiment",
-        "powerTCR"
+        "SingleCellExperiment"
     ],
     "scRNAseqApp": [
         "BiocIO",
@@ -13968,7 +13925,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -14483,7 +14439,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "multtest",
         "scran",
         "scuttle",
@@ -14510,7 +14465,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "KEGGREST",
-        "M3Drop",
         "MAST",
         "ResidualMatrix",
         "Rhdf5lib",
@@ -14535,7 +14489,6 @@
         "genefilter",
         "ggtree",
         "interactiveDisplayBase",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -14787,7 +14740,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -14862,7 +14814,6 @@
         "bluster",
         "edgeR",
         "genefilter",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -15317,7 +15268,6 @@
         "pcaMethods",
         "vsn"
     ],
-    "synergyfinder": [],
     "SynExtend": [
         "Biostrings",
         "DECIPHER"
@@ -16382,7 +16332,6 @@
         "csaw",
         "edgeR",
         "ensembldb",
-        "metapod",
         "multtest",
         "regioneR",
         "rtracklayer",
