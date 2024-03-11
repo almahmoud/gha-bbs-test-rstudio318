@@ -400,7 +400,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -554,7 +553,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "CluMSID": [
@@ -629,9 +627,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "compSPOT": [],
     "condiments": [],
     "CONFESS": [
@@ -672,7 +668,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "cosmosR": [
@@ -746,7 +741,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "customCMPdb": [
         "BiocVersion"
     ],
@@ -1112,7 +1106,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "FLAMES": [
@@ -1509,7 +1502,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "iSEEde": [],
@@ -1559,7 +1551,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "lpNet": [],
@@ -1604,7 +1595,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MANOR": [
@@ -1675,8 +1665,7 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "BiocVersion",
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
@@ -1694,7 +1683,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MetaPhOR": [
@@ -1708,9 +1696,7 @@
         "EDASeq",
         "bsseq"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [
         "BiocVersion",
@@ -1815,7 +1801,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MODA": [
@@ -1860,27 +1845,15 @@
         "TFBSTools"
     ],
     "MQmetrics": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
     "MsDataHub": [
         "BiocVersion"
     ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -1908,8 +1881,7 @@
     "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstats": [
         "MSstatsConvert"
@@ -1994,7 +1966,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "NCIgraph": [],
@@ -2436,7 +2407,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "RITAN": [
@@ -2780,7 +2750,6 @@
         "motifmatchr"
     ],
     "specL": [],
-    "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
@@ -3014,8 +2983,7 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "XDE": [
         "GeneMeta"
