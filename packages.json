@@ -246,7 +246,6 @@
     ],
     "BHC": [],
     "BicARE": [],
-    "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
         "illuminaio",
@@ -694,7 +693,6 @@
     "customCMPdb": [
         "BiocVersion"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowClust",
         "flowCore",
@@ -1239,7 +1237,6 @@
     "GLAD": [],
     "Glimma": [],
     "GlobalAncova": [],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats"
@@ -1322,8 +1319,7 @@
     "HPiP": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
-        "gmapR"
+        "chipseq"
     ],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [
@@ -1786,7 +1782,6 @@
         "BiocVersion"
     ],
     "multiHiCcompare": [],
-    "MultiRNAflow": [],
     "mumosa": [],
     "muscat": [],
     "musicatk": [
@@ -2178,7 +2173,6 @@
         "GOstats",
         "ggbio"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
