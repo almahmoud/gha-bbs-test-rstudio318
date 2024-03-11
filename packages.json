@@ -292,7 +292,6 @@
         "glmGamPoi",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -803,7 +802,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "exomeCopy"
     ],
@@ -867,8 +865,7 @@
     ],
     "consensusOV": [
         "GSEABase",
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consensusSeekeR": [],
     "consICA": [],
@@ -1156,7 +1153,6 @@
         "ChIPpeakAnno",
         "regioneR"
     ],
-    "DEsingle": [],
     "DESpace": [],
     "DEsubs": [],
     "DEWSeq": [],
@@ -1638,7 +1634,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [],
     "GeneGA": [],
     "GeneGeneInteR": [],
     "GeneMeta": [
@@ -1875,7 +1870,6 @@
     "hypeR": [
         "BiocStyle"
     ],
-    "iasva": [],
     "Icens": [],
     "icetea": [
         "ShortRead"
@@ -2082,7 +2076,6 @@
         "TRESS"
     ],
     "magrene": [],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2184,7 +2177,6 @@
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
-    "metabomxtr": [],
     "MetaboSignal": [
         "BiocVersion",
         "MWASTools",
@@ -2417,7 +2409,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
         "Gviz",
@@ -2677,7 +2668,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2780,7 +2770,6 @@
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "genefu",
         "piano",
         "switchBox"
     ],
@@ -2797,7 +2786,6 @@
         "genefilter"
     ],
     "peco": [],
-    "periodicDNA": [],
     "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
@@ -3343,7 +3331,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scde": [],
     "scDesign3": [],
     "SCFA": [],
     "scFeatures": [
@@ -3519,8 +3506,7 @@
     "signifinder": [
         "GSEABase",
         "GSVA",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SigsPack": [],
     "SIM": [
