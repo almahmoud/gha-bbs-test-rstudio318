@@ -317,7 +317,6 @@
     "BEAT": [
         "ShortRead"
     ],
-    "BEclear": [],
     "beer": [],
     "benchdamic": [
         "ANCOMBC",
@@ -387,7 +386,6 @@
     ],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbKegg": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbUniprot": [],
@@ -440,7 +438,6 @@
         "BiocVersion"
     ],
     "bnbc": [
-        "HiCBricks",
         "genefilter",
         "sva"
     ],
@@ -733,7 +730,6 @@
     "ClassifyR": [
         "genefilter"
     ],
-    "cleanUpdTSeq": [],
     "clevRvis": [],
     "clipper": [],
     "cliqueMS": [
@@ -1089,7 +1085,6 @@
         "sva"
     ],
     "decompTumor2Sig": [],
-    "DeconRNASeq": [],
     "decontX": [
         "celda",
         "scran"
@@ -1222,9 +1217,7 @@
     ],
     "Doscheda": [],
     "DOSE": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -1343,7 +1336,6 @@
         "minfi"
     ],
     "epiNEM": [],
-    "epistasisGA": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -1448,7 +1440,6 @@
         "methylumi",
         "minfi"
     ],
-    "FilterFFPE": [],
     "FindIT2": [],
     "FitHiC": [],
     "flagme": [
@@ -1823,7 +1814,6 @@
     "HelloRanges": [],
     "hermes": [],
     "Herper": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1925,9 +1915,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "intansv": [
         "OrganismDbi",
@@ -3693,7 +3681,6 @@
         "SpidermiR"
     ],
     "Statial": [],
-    "STdeconvolve": [],
     "stJoincount": [],
     "strandCheckR": [],
     "STRINGdb": [],
@@ -3719,7 +3706,6 @@
         "MSnbase"
     ],
     "SynExtend": [],
-    "syntenet": [],
     "systemPipeR": [
         "ShortRead"
     ],
@@ -3920,7 +3906,6 @@
         "GenomicFiles"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
