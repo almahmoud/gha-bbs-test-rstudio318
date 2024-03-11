@@ -245,8 +245,7 @@
         "lumi",
         "mdqc",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQuality": [],
     "arrayQualityMetrics": [
@@ -426,7 +425,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -824,7 +822,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva",
         "wateRmelon"
     ],
@@ -1093,10 +1090,8 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
         "bamsignals",
@@ -1374,8 +1369,7 @@
         "genefilter",
         "illuminaio",
         "methylKit",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "DeepBlueR": [],
     "deepSNV": [
@@ -1521,8 +1515,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "dmrseq": [
         "BiocVersion",
@@ -1631,8 +1624,7 @@
         "genefilter",
         "geneplotter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
@@ -1700,8 +1692,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "epiNEM": [
         "mnem"
@@ -1834,8 +1825,7 @@
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "fgsea": [],
     "FilterFFPE": [],
@@ -1998,8 +1988,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "GA4GHclient": [
         "VariantAnnotation"
@@ -2263,7 +2252,6 @@
     "GRENITS": [],
     "GreyListChIP": [],
     "groHMM": [],
-    "GSCA": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
@@ -2403,8 +2391,7 @@
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "iCNV": [
         "CODEX"
@@ -2460,8 +2447,7 @@
         "fgsea",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "infercnv": [],
     "infinityFlow": [
@@ -2572,9 +2558,7 @@
         "plyranges"
     ],
     "KBoost": [],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -2638,8 +2622,7 @@
         "genefilter",
         "illuminaio",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "LymphoSeq": [],
     "M3C": [],
@@ -2671,8 +2654,7 @@
         "genefilter",
         "illuminaio",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "BiocVersion",
@@ -2765,7 +2747,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva"
     ],
     "MeasurementError.cor": [],
@@ -2777,7 +2758,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "MEB": [],
@@ -2837,7 +2817,6 @@
         "mzR",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -2876,8 +2855,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "HDF5Array",
@@ -2886,8 +2864,7 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "plyranges",
-        "siggenes"
+        "plyranges"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -2899,8 +2876,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylGSA": [
         "DOSE",
@@ -2913,8 +2889,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "methylInheritance": [
         "methylKit"
@@ -2939,8 +2914,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MetID": [],
     "MetNet": [
@@ -2995,15 +2969,13 @@
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "minfi": [
         "HDF5Array",
         "bumphunter",
         "genefilter",
-        "illuminaio",
-        "siggenes"
+        "illuminaio"
     ],
     "MinimumDistance": [
         "VanillaICE",
@@ -3036,8 +3008,7 @@
         "genefilter",
         "illuminaio",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "missRows": [],
     "mistyR": [],
@@ -3382,7 +3353,6 @@
         "illuminaio",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "NewWave": [],
@@ -3810,7 +3780,6 @@
         "CGHcall"
     ],
     "QFeatures": [],
-    "qmtools": [],
     "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -3831,8 +3800,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
@@ -3955,8 +3923,7 @@
         "dir.expiry",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "recoup": [],
     "RedisParam": [],
@@ -3998,8 +3965,7 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "Ringo",
@@ -4172,8 +4138,7 @@
         "genefilter",
         "illuminaio",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "roar": [],
     "RolDE": [],
@@ -4481,16 +4446,14 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
         "HDF5Array",
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "ShortRead": [],
     "SIAMCAT": [
@@ -4503,7 +4466,6 @@
         "genefilter"
     ],
     "sigFeature": [],
-    "siggenes": [],
     "signatureSearch": [
         "BiocVersion",
         "DOSE",
@@ -4605,7 +4567,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "slalom": [
@@ -4981,9 +4942,7 @@
         "genefilter",
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -4994,9 +4953,7 @@
     "TRONCO": [],
     "TSAR": [],
     "TSCAN": [],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
@@ -5122,8 +5079,7 @@
         "illuminaio",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "wavClusteR": [],
     "weaver": [],
@@ -5144,8 +5100,7 @@
     "xcore": [],
     "XDE": [
         "GeneMeta",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "Xeva": [
         "CoreGx",
@@ -5173,8 +5128,7 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zellkonverter": [
         "basilisk",
