@@ -241,7 +241,6 @@
     ],
     "BayesSpace": [],
     "baySeq": [],
-    "BBCAnalyzer": [],
     "beadarray": [
         "BeadDataPackR",
         "illuminaio"
@@ -833,7 +832,6 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEFormats": [],
     "DEGraph": [
         "NCIgraph"
@@ -916,7 +914,6 @@
         "annotatr"
     ],
     "DNAfusion": [],
-    "DominoEffect": [],
     "doppelgangR": [
         "sva"
     ],
@@ -1239,7 +1236,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1761,9 +1757,7 @@
         "minfi"
     ],
     "mistyR": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MLInterfaces": [],
     "MLSeq": [
         "sSeq"
@@ -2188,7 +2182,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "PureCN": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -2966,6 +2959,5 @@
         "SPIA",
         "pathview"
     ],
-    "zinbwave": [],
-    "ZygosityPredictor": []
+    "zinbwave": []
 }
