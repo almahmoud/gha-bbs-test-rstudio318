@@ -1257,7 +1257,6 @@
         "zlibbioc"
     ],
     "ASAFE": [],
-    "ASGSCA": [],
     "ASICS": [
         "BiocParallel",
         "DelayedArray",
@@ -2262,7 +2261,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -4318,7 +4316,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "ProtGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -4377,7 +4374,6 @@
         "bioDist",
         "zlibbioc"
     ],
-    "Chicago": [],
     "chihaya": [
         "DelayedArray",
         "HDF5Array",
@@ -5099,12 +5095,8 @@
         "xcms",
         "zlibbioc"
     ],
-    "Clomial": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -10453,7 +10445,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [
         "Biostrings",
@@ -11522,7 +11513,6 @@
         "SummarizedExperiment",
         "XVector",
         "cqn",
-        "topconfects",
         "zlibbioc"
     ],
     "gep2pep": [
@@ -12174,7 +12164,6 @@
         "zlibbioc"
     ],
     "granulator": [],
-    "graper": [],
     "GraphAlignment": [],
     "GraphAT": [],
     "graphite": [
@@ -12354,7 +12343,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "les",
         "zlibbioc"
     ],
     "GSVA": [
@@ -13982,7 +13970,6 @@
         "iSEEhex",
         "zlibbioc"
     ],
-    "iSeq": [],
     "ISLET": [
         "BiocParallel",
         "DelayedArray",
@@ -14370,7 +14357,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "les": [],
     "levi": [],
     "limmaGUI": [],
     "LineagePulse": [
@@ -14949,7 +14935,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "S4Vectors",
         "XVector",
         "affy",
@@ -15233,7 +15218,6 @@
         "Wrench",
         "metagenomeSeq"
     ],
-    "MBttest": [],
     "MCbiclust": [
         "AnnotationDbi",
         "BiocParallel",
@@ -15365,7 +15349,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -16884,7 +16867,6 @@
         "zlibbioc"
     ],
     "mistyR": [],
-    "mitch": [],
     "mitoClone2": [
         "AnnotationDbi",
         "BSgenome",
@@ -18465,9 +18447,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "ndexr": [
-        "RCX"
-    ],
+    "ndexr": [],
     "nearBynding": [
         "AnnotationDbi",
         "BiocIO",
@@ -21906,7 +21886,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCX": [],
     "RCy3": [],
     "RCyjs": [
         "BrowserViz"
@@ -23326,7 +23305,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "rnaseqcomp": [],
     "RNAseqCovarImpute": [
         "BiocParallel",
         "edgeR"
@@ -23430,7 +23408,6 @@
         "zlibbioc"
     ],
     "roastgsa": [],
-    "ROC": [],
     "ROCpAI": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -25318,7 +25295,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "seqcombo": [],
     "SeqGate": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -26206,7 +26182,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -27063,7 +27038,6 @@
     "SQLDataFrame": [
         "S4Vectors"
     ],
-    "SQUADD": [],
     "sRACIPE": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -27267,9 +27241,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "statTarget": [
-        "ROC"
-    ],
+    "statTarget": [],
     "STdeconvolve": [
         "BiocParallel"
     ],
@@ -27815,7 +27787,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "ROC",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -28410,7 +28381,6 @@
         "genefilter",
         "zlibbioc"
     ],
-    "topconfects": [],
     "topdownr": [
         "BiocParallel",
         "Biostrings",
@@ -29699,7 +29669,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -29781,7 +29750,6 @@
         "SummarizedExperiment",
         "XVector",
         "sparseMatrixStats",
-        "topconfects",
         "zlibbioc"
     ],
     "wiggleplotr": [
