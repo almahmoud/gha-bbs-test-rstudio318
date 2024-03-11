@@ -546,7 +546,6 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromHeatMap": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -779,7 +778,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [],
     "cydar": [
         "flowCore"
     ],
@@ -1657,7 +1655,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [],
     "mariner": [
         "plotgardener"
     ],
@@ -1665,7 +1662,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "maskBAD": [],
     "mastR": [
         "BiocVersion"
     ],
@@ -2887,7 +2883,6 @@
     ],
     "sSeq": [],
     "ssize": [],
-    "sSNAPPY": [],
     "ssrch": [],
     "standR": [
         "EDASeq",
