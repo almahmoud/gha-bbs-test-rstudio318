@@ -488,18 +488,15 @@
     ],
     "ClustIRR": [],
     "cmapR": [],
-    "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVRanger": [
@@ -550,7 +547,6 @@
         "minfi"
     ],
     "CopyNumberPlots": [
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -1659,9 +1655,7 @@
         "DEXSeq",
         "sva"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -1944,7 +1938,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2",
