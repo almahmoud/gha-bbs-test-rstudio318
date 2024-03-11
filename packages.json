@@ -1989,7 +1989,6 @@
         "phenoTest",
         "rtracklayer"
     ],
-    "cancerclass": [],
     "cardelino": [
         "AnnotationDbi",
         "BSgenome",
@@ -3765,8 +3764,7 @@
         "flowViz"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -3968,7 +3966,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "tkWidgets",
         "vsn"
     ],
     "dce": [
@@ -4436,7 +4433,6 @@
     ],
     "dir.expiry": [],
     "DirichletMultinomial": [],
-    "discordant": [],
     "DiscoRhythm": [
         "BiocStyle"
     ],
@@ -4859,7 +4855,6 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "EnMCB": [],
     "ENmix": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -6957,7 +6952,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "HEM": [],
     "hermes": [
         "AnnotationDbi",
@@ -8196,7 +8190,6 @@
     "MBASED": [
         "BiocParallel"
     ],
-    "MBCB": [],
     "MBECS": [
         "AnnotationDbi",
         "BiocParallel",
@@ -8853,9 +8846,7 @@
         "BiocParallel",
         "GENIE3"
     ],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
         "Biostrings",
@@ -9800,8 +9791,7 @@
         "BiocParallel",
         "ComplexHeatmap",
         "DESeq2",
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "multiscan": [],
     "multiWGCNA": [
@@ -10239,7 +10229,6 @@
         "annotate"
     ],
     "NTW": [],
-    "nucleoSim": [],
     "nucleR": [
         "BiocParallel",
         "Biostrings",
@@ -10337,8 +10326,7 @@
     ],
     "OLINgui": [
         "OLIN",
-        "marray",
-        "tkWidgets"
+        "marray"
     ],
     "omada": [],
     "OmaDB": [
@@ -10350,7 +10338,6 @@
     "omicade4": [
         "made4"
     ],
-    "OmicCircos": [],
     "omicplotR": [
         "ALDEx2",
         "BiocParallel",
@@ -10471,9 +10458,7 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BiocIO",
@@ -10696,7 +10681,6 @@
         "dir.expiry",
         "fgsea"
     ],
-    "parglms": [],
     "partCNV": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -10885,7 +10869,6 @@
         "biodbChebi",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "AnnotationDbi",
         "Biostrings",
@@ -11250,7 +11233,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [],
     "projectR": [],
     "pRoloc": [
@@ -11325,7 +11307,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "tkWidgets",
         "vsn"
     ],
     "ProteoDisco": [
@@ -11789,7 +11770,6 @@
         "seqPattern"
     ],
     "RCASPAR": [],
-    "rcellminer": [],
     "rCGH": [
         "AnnotationDbi",
         "BiocIO",
@@ -13818,7 +13798,6 @@
     "siggenes": [
         "multtest"
     ],
-    "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -14692,7 +14671,6 @@
         "Biostrings",
         "KEGGREST"
     ],
-    "subSeq": [],
     "SUITOR": [
         "BiocParallel"
     ],
@@ -15095,8 +15073,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "rWikiPathways",
-        "tkWidgets"
+        "rWikiPathways"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -15125,7 +15102,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
@@ -15444,7 +15420,6 @@
     "tweeDEseq": [
         "cqn"
     ],
-    "twilight": [],
     "twoddpcr": [],
     "txcutr": [
         "AnnotationDbi",
