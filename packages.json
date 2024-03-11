@@ -684,7 +684,6 @@
     "countsimQC": [],
     "covRNA": [],
     "cpvSNP": [],
-    "CRImage": [],
     "crisprBowtie": [
         "Rbowtie"
     ],
@@ -1567,7 +1566,6 @@
         "Spectra",
         "xcms"
     ],
-    "LoomExperiment": [],
     "lpNet": [],
     "LRcell": [
         "BiocVersion"
@@ -2051,7 +2049,6 @@
         "GSVA",
         "RUVSeq"
     ],
-    "odseq": [],
     "OGRE": [
         "BiocVersion",
         "Gviz",
@@ -2836,7 +2833,6 @@
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
-    "surfaltr": [],
     "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation"
