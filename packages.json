@@ -474,9 +474,7 @@
         "BiocVersion",
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "cisPath": [],
     "CiteFuse": [],
     "ClassifyR": [],
@@ -1389,7 +1387,6 @@
         "EDASeq"
     ],
     "MetCirc": [],
-    "methInheritSim": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -1659,7 +1656,6 @@
         "BiocVersion",
         "Gviz"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "sva"
     ],
@@ -1961,7 +1957,6 @@
         "BiocVersion"
     ],
     "RgnTX": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
@@ -1985,7 +1980,6 @@
     "RITAN": [
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [
         "BiocVersion"
