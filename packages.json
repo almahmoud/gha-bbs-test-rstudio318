@@ -362,8 +362,7 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "geNetClassifier"
+        "enrichplot"
     ],
     "BioCartaImage": [],
     "biocGraph": [
@@ -536,7 +535,6 @@
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "genefilter",
         "phenoTest"
     ],
@@ -1173,7 +1171,6 @@
     ],
     "DEsingle": [],
     "DESpace": [],
-    "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
@@ -1189,7 +1186,6 @@
         "ShortRead",
         "systemPipeR"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "flowCore"
@@ -1638,20 +1634,15 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
         "piano"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
         "piano"
     ],
     "gDRstyle": [],
-    "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1686,7 +1677,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneticsPed": [],
     "GeneTonic": [],
     "geneXtendeR": [
@@ -1881,7 +1871,6 @@
         "dir.expiry"
     ],
     "hicVennDiagram": [],
-    "HiLDA": [],
     "hipathia": [
         "BiocVersion"
     ],
@@ -2010,7 +1999,6 @@
         "iSEEhex"
     ],
     "ISLET": [],
-    "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DEXSeq",
@@ -2711,7 +2699,6 @@
     ],
     "omicRexposome": [
         "genefilter",
-        "rexposome",
         "sva"
     ],
     "OMICsPCA": [
@@ -2777,7 +2764,6 @@
         "motifmatchr"
     ],
     "PAIRADISE": [],
-    "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -2846,7 +2832,6 @@
         "piano"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -2902,7 +2887,6 @@
     "PPInfer": [
         "STRINGdb"
     ],
-    "pram": [],
     "prebs": [
         "BiocStyle",
         "RPA",
@@ -2964,7 +2948,6 @@
         "enrichplot"
     ],
     "ProteoDisco": [],
-    "ProteoMM": [],
     "protGear": [
         "genefilter"
     ],
@@ -3184,7 +3167,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "rexposome": [],
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [
@@ -3493,9 +3475,7 @@
         "ShortRead",
         "baySeq"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "SemDist": [],
     "semisup": [],
     "seqArchRplus": [
@@ -3826,7 +3806,6 @@
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [],
-    "TCseq": [],
     "TDbasedUFE": [
         "tximport"
     ],
