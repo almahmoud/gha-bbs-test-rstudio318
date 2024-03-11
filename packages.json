@@ -1154,9 +1154,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [
         "basilisk",
@@ -1597,7 +1595,6 @@
     "multiGSEA": [
         "BiocVersion"
     ],
-    "multiHiCcompare": [],
     "mumosa": [],
     "muscat": [],
     "musicatk": [],
