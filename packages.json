@@ -113,7 +113,6 @@
         "annotate",
         "genefilter",
         "multtest",
-        "preprocessCore",
         "snapCGH",
         "tilingArray",
         "vsn",
@@ -239,7 +238,6 @@
         "Biobase",
         "BiocGenerics",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "affycomp": [
@@ -251,7 +249,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "affycoretools": [
@@ -302,7 +299,6 @@
         "ggbio",
         "graph",
         "oligoClasses",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -318,7 +314,6 @@
         "affy",
         "affyio",
         "gcrma",
-        "preprocessCore",
         "zlibbioc"
     ],
     "affyio": [
@@ -338,7 +333,6 @@
         "affyPLM",
         "affyio",
         "gcrma",
-        "preprocessCore",
         "zlibbioc"
     ],
     "affyPLM": [
@@ -352,7 +346,6 @@
         "affy",
         "affyio",
         "gcrma",
-        "preprocessCore",
         "zlibbioc"
     ],
     "AffyRNADegradation": [
@@ -360,7 +353,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "AGDEX": [
@@ -444,7 +436,6 @@
         "ggbio",
         "graph",
         "oligoClasses",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -868,7 +859,6 @@
         "graph",
         "hypergraph",
         "makecdfenv",
-        "preprocessCore",
         "zlibbioc"
     ],
     "AMARETTO": [
@@ -1351,7 +1341,6 @@
         "affyio",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "arrayMvout": [
@@ -1394,7 +1383,6 @@
         "minfi",
         "multtest",
         "parody",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -1426,7 +1414,6 @@
         "gcrma",
         "genefilter",
         "illuminaio",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -1444,7 +1431,6 @@
         "S4Vectors",
         "XVector",
         "marray",
-        "preprocessCore",
         "zlibbioc"
     ],
     "ASAFE": [],
@@ -1984,7 +1970,6 @@
         "mzR",
         "pRoloc",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -2510,7 +2495,6 @@
         "affy",
         "affyio",
         "gcrma",
-        "preprocessCore",
         "zlibbioc"
     ],
     "BHC": [],
@@ -2586,7 +2570,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -2968,7 +2951,6 @@
         "XVector",
         "fgsea",
         "graph",
-        "preprocessCore",
         "zlibbioc"
     ],
     "BioNERO": [
@@ -2994,7 +2976,6 @@
         "edgeR",
         "genefilter",
         "minet",
-        "preprocessCore",
         "sva",
         "zlibbioc"
     ],
@@ -3296,7 +3277,6 @@
         "SummarizedExperiment",
         "XVector",
         "interactiveDisplayBase",
-        "preprocessCore",
         "zlibbioc"
     ],
     "bluster": [
@@ -3328,7 +3308,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "sva",
@@ -3359,7 +3338,6 @@
         "graph",
         "minet",
         "mnem",
-        "preprocessCore",
         "sva",
         "vsn",
         "zlibbioc"
@@ -3863,7 +3841,6 @@
         "ensembldb",
         "ggbio",
         "graph",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -3943,7 +3920,6 @@
         "ggbio",
         "graph",
         "minet",
-        "preprocessCore",
         "rtracklayer",
         "sva",
         "zlibbioc"
@@ -4024,7 +4000,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -4047,7 +4022,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -4550,7 +4524,6 @@
         "annotate",
         "genefilter",
         "graph",
-        "preprocessCore",
         "splots",
         "vsn",
         "zlibbioc"
@@ -4680,7 +4653,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "preprocessCore",
         "treeio",
         "zlibbioc"
     ],
@@ -4960,7 +4932,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5333,7 +5304,6 @@
         "frma",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "chopsticks": [],
@@ -5785,7 +5755,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -5813,7 +5782,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -5949,7 +5917,6 @@
         "affyio",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "cn.mops": [
@@ -6787,7 +6754,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6881,7 +6847,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "corral": [
@@ -6972,7 +6937,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -7107,9 +7071,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "cqn": [
-        "preprocessCore"
-    ],
+    "cqn": [],
     "CRImage": [
         "Biobase",
         "BiocGenerics",
@@ -7392,7 +7354,6 @@
         "affyio",
         "illuminaio",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "crossmeta": [
@@ -7421,7 +7382,6 @@
         "genefilter",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "sva",
         "zlibbioc"
     ],
@@ -7465,7 +7425,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "CSSQ": [
@@ -7669,8 +7628,7 @@
         "BiocGenerics",
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "Biobase",
@@ -8069,11 +8027,9 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "tkWidgets",
         "treeio",
         "vsn",
-        "widgetTools",
         "zlibbioc"
     ],
     "DART": [],
@@ -8282,7 +8238,6 @@
         "methylKit",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8616,7 +8571,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -8936,7 +8890,6 @@
         "XVector",
         "multtest",
         "pcaMethods",
-        "preprocessCore",
         "zlibbioc"
     ],
     "diffcyt": [
@@ -9271,7 +9224,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9428,7 +9380,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -9539,7 +9490,6 @@
         "edgeR",
         "zlibbioc"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "Biobase",
         "BiocGenerics",
@@ -9622,7 +9572,6 @@
         "biomaRt",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "DSS": [
@@ -9709,7 +9658,6 @@
         "XVector",
         "decoupleR",
         "interactiveDisplayBase",
-        "preprocessCore",
         "progeny",
         "quantiseqr",
         "zlibbioc"
@@ -9970,8 +9918,7 @@
         "zlibbioc"
     ],
     "EMDomics": [
-        "BiocParallel",
-        "preprocessCore"
+        "BiocParallel"
     ],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
@@ -10045,7 +9992,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -10448,7 +10394,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -10931,7 +10876,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "exomeCopy": [
@@ -11180,7 +11124,6 @@
         "LiquidAssociation",
         "S4Vectors",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "FastqCleaner": [
@@ -11370,7 +11313,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -11484,7 +11426,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -11897,7 +11838,6 @@
         "affyio",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "frmaTools": [
@@ -11905,7 +11845,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "FunChIP": [
@@ -11961,7 +11900,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -12064,7 +12002,6 @@
         "graph"
     ],
     "GAprediction": [],
-    "garfield": [],
     "GARS": [
         "AnnotationDbi",
         "Biobase",
@@ -12189,7 +12126,6 @@
         "XVector",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "GDCRNATools": [
@@ -13091,7 +13027,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "GeoTcgaData": [
@@ -13108,7 +13043,6 @@
         "SummarizedExperiment",
         "XVector",
         "cqn",
-        "preprocessCore",
         "topconfects",
         "zlibbioc"
     ],
@@ -13151,7 +13085,6 @@
         "cellHTS2",
         "genefilter",
         "graph",
-        "preprocessCore",
         "splots",
         "vsn",
         "zlibbioc"
@@ -13171,7 +13104,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "GEWIST": [],
     "gg4way": [
         "Biobase",
         "BiocGenerics",
@@ -13524,7 +13456,6 @@
         "annotate",
         "genefilter",
         "graph",
-        "preprocessCore",
         "zlibbioc"
     ],
     "gmoviz": [
@@ -14307,7 +14238,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "h5vc": [
@@ -14369,7 +14299,6 @@
         "graph",
         "hypergraph",
         "makecdfenv",
-        "preprocessCore",
         "zlibbioc"
     ],
     "hca": [],
@@ -14399,7 +14328,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "Heatplus": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -14744,7 +14672,6 @@
         "SummarizedExperiment",
         "XVector",
         "interactiveDisplayBase",
-        "preprocessCore",
         "zlibbioc"
     ],
     "HIPPO": [
@@ -14836,7 +14763,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "HPAanalyze": [],
     "hpar": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -14859,7 +14785,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "HTSeqGenie": [
@@ -15054,7 +14979,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -15197,7 +15121,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "Biobase",
         "BiocGenerics",
@@ -15348,7 +15271,6 @@
         "flowWorkspace",
         "graph",
         "ncdfFlow",
-        "preprocessCore",
         "zlibbioc"
     ],
     "immunoClust": [
@@ -15410,7 +15332,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -15472,11 +15393,9 @@
         "biomaRt",
         "cleanUpdTSeq",
         "plyranges",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
-    "INPower": [],
     "INSPEcT": [
         "AnnotationDbi",
         "Biobase",
@@ -15783,7 +15702,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -16014,7 +15932,6 @@
         "genefilter",
         "geneplotter",
         "interactiveDisplayBase",
-        "pfamAnalyzeR",
         "rtracklayer",
         "satuRn",
         "sva",
@@ -16066,7 +15983,6 @@
         "affyio",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "iterativeBMA": [
@@ -16303,7 +16219,6 @@
         "cqn",
         "edgeR",
         "genefilter",
-        "preprocessCore",
         "sva",
         "zlibbioc"
     ],
@@ -16566,7 +16481,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -16685,7 +16599,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -16764,7 +16677,6 @@
         "XVector",
         "edgeR",
         "metagenomeSeq",
-        "preprocessCore",
         "zlibbioc"
     ],
     "macat": [
@@ -16841,7 +16753,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -16888,7 +16799,6 @@
         "minfi",
         "multtest",
         "oligoClasses",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17007,7 +16917,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -17017,7 +16926,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "MANOR": [
@@ -17038,7 +16946,6 @@
         "affy",
         "affyio",
         "gcrma",
-        "preprocessCore",
         "zlibbioc"
     ],
     "mariner": [
@@ -17139,7 +17046,6 @@
         "affy",
         "affyio",
         "gcrma",
-        "preprocessCore",
         "zlibbioc"
     ],
     "massiR": [
@@ -17189,7 +17095,6 @@
         "interactiveDisplayBase",
         "zlibbioc"
     ],
-    "matchBox": [],
     "MatrixGenerics": [],
     "MatrixQCvis": [
         "AnnotationDbi",
@@ -17215,7 +17120,6 @@
         "affyio",
         "interactiveDisplayBase",
         "pcaMethods",
-        "preprocessCore",
         "proDA",
         "vsn",
         "zlibbioc"
@@ -17272,9 +17176,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "MBCB": [
-        "preprocessCore"
-    ],
+    "MBCB": [],
     "MBECS": [
         "AnnotationDbi",
         "Biobase",
@@ -17352,7 +17254,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "mbQTL": [
@@ -17373,7 +17274,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "mCSEA": [
@@ -17480,7 +17380,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17528,7 +17427,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17588,7 +17486,6 @@
         "XVector",
         "biomaRt",
         "edgeR",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -17885,7 +17782,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -17977,7 +17873,6 @@
         "bsseq",
         "edgeR",
         "genefilter",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18055,7 +17950,6 @@
         "XVector",
         "illuminaio",
         "interactiveDisplayBase",
-        "preprocessCore",
         "sesame",
         "zlibbioc"
     ],
@@ -18130,7 +18024,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18175,7 +18068,6 @@
         "minfi",
         "multtest",
         "plyranges",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18229,7 +18121,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18278,7 +18169,6 @@
         "minfi",
         "missMethyl",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18481,7 +18371,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18518,8 +18407,7 @@
         "Biobase",
         "BiocGenerics",
         "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -18893,7 +18781,6 @@
         "gcrma",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "mina": [],
@@ -18942,7 +18829,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18983,7 +18869,6 @@
         "genefilter",
         "illuminaio",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -19017,7 +18902,6 @@
         "crlmm",
         "illuminaio",
         "oligoClasses",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -19194,7 +19078,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -19394,7 +19277,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -19410,7 +19292,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "ModCon": [],
@@ -20069,7 +19950,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -20090,7 +19970,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -20108,7 +19987,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -20139,7 +20017,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -20164,7 +20041,6 @@
         "edgeR",
         "genefilter",
         "pcaMethods",
-        "preprocessCore",
         "sva",
         "zlibbioc"
     ],
@@ -20224,14 +20100,12 @@
     ],
     "MSstats": [
         "MSstatsConvert",
-        "marray",
-        "preprocessCore"
+        "marray"
     ],
     "MSstatsBig": [
         "MSstats",
         "MSstatsConvert",
-        "marray",
-        "preprocessCore"
+        "marray"
     ],
     "MSstatsConvert": [],
     "MSstatsLiP": [
@@ -20246,7 +20120,6 @@
         "S4Vectors",
         "XVector",
         "marray",
-        "preprocessCore",
         "zlibbioc"
     ],
     "MSstatsLOBD": [],
@@ -20261,7 +20134,6 @@
         "S4Vectors",
         "XVector",
         "marray",
-        "preprocessCore",
         "zlibbioc"
     ],
     "MSstatsQC": [
@@ -20279,7 +20151,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "qcmetrics",
         "vsn",
         "zlibbioc"
@@ -20300,7 +20171,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "qcmetrics",
         "vsn",
         "zlibbioc"
@@ -20317,14 +20187,12 @@
         "S4Vectors",
         "XVector",
         "marray",
-        "preprocessCore",
         "zlibbioc"
     ],
     "MSstatsTMT": [
         "MSstats",
         "MSstatsConvert",
-        "marray",
-        "preprocessCore"
+        "marray"
     ],
     "MuData": [
         "Biobase",
@@ -20536,7 +20404,6 @@
         "SummarizedExperiment",
         "XVector",
         "tkWidgets",
-        "widgetTools",
         "zlibbioc"
     ],
     "multiscan": [
@@ -20559,7 +20426,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "multtest": [
@@ -20998,7 +20864,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -21107,7 +20972,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "netDx": [
@@ -21170,7 +21034,6 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "preprocessCore",
         "zlibbioc"
     ],
     "netSmooth": [
@@ -21255,7 +21118,6 @@
         "minfi",
         "multtest",
         "pandaR",
-        "preprocessCore",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -21346,7 +21208,6 @@
         "HTqPCR",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "NoRCE": [
@@ -21396,7 +21257,6 @@
         "XVector",
         "affy",
         "affyio",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -21617,7 +21477,6 @@
         "affxparser",
         "affyio",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "oligoClasses": [
@@ -21644,8 +21503,7 @@
         "DynDoc",
         "OLIN",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase",
@@ -22219,7 +22077,6 @@
         "biomaRt",
         "edgeR",
         "genefilter",
-        "preprocessCore",
         "rtracklayer",
         "vsn",
         "zlibbioc"
@@ -22437,7 +22294,6 @@
         "ggtree",
         "graph",
         "multtest",
-        "preprocessCore",
         "treeio",
         "zlibbioc"
     ],
@@ -22446,7 +22302,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "PANR": [
@@ -22685,7 +22540,6 @@
         "affyio",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "PeacoQC": [
@@ -22725,7 +22579,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -22746,7 +22599,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "preprocessCore",
         "zlibbioc"
     ],
     "peco": [
@@ -22811,7 +22663,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "pfamAnalyzeR": [],
     "phantasus": [
         "AnnotationDbi",
         "Biobase",
@@ -22941,7 +22792,6 @@
         "Category",
         "GSEABase",
         "GenomeInfoDb",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -22979,7 +22829,6 @@
         "edgeR",
         "zlibbioc"
     ],
-    "phosphonormalizer": [],
     "PhosR": [
         "Biobase",
         "BiocGenerics",
@@ -22994,7 +22843,6 @@
         "SummarizedExperiment",
         "XVector",
         "pcaMethods",
-        "preprocessCore",
         "zlibbioc"
     ],
     "PhyloProfile": [
@@ -23096,7 +22944,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "preprocessCore",
         "treeio",
         "zlibbioc"
     ],
@@ -23213,7 +23060,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "PloGO2": [
@@ -23328,7 +23174,6 @@
         "pcaMethods",
         "zlibbioc"
     ],
-    "PoDCall": [],
     "podkat": [
         "BSgenome",
         "Biobase",
@@ -23500,7 +23345,6 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -23533,7 +23377,6 @@
         "affyio",
         "biomaRt",
         "multtest",
-        "preprocessCore",
         "rCGH",
         "rtracklayer",
         "zlibbioc"
@@ -23552,7 +23395,6 @@
         "multtest",
         "zlibbioc"
     ],
-    "preprocessCore": [],
     "primirTSS": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -23614,7 +23456,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -23732,7 +23573,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "preprocessCore",
         "rGREAT",
         "rtracklayer",
         "soGGi",
@@ -23781,7 +23621,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -23816,7 +23655,6 @@
         "mzR",
         "pRoloc",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -23887,11 +23725,9 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "tkWidgets",
         "treeio",
         "vsn",
-        "widgetTools",
         "zlibbioc"
     ],
     "proteinProfiles": [],
@@ -23952,7 +23788,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -24052,7 +23887,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "vsn",
@@ -24077,7 +23911,6 @@
         "affyio",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "zlibbioc"
     ],
     "PureCN": [
@@ -24117,7 +23950,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "pvca": [
@@ -24125,7 +23957,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -24260,7 +24091,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "qpgraph": [
@@ -24310,7 +24140,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -24430,7 +24259,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "quantro": [
@@ -24466,7 +24294,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -24938,7 +24765,6 @@
         "affyio",
         "biomaRt",
         "multtest",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -25163,7 +24989,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -25467,7 +25292,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -25504,7 +25328,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "preprocessCore",
         "rtracklayer",
         "vsn",
         "zlibbioc"
@@ -25780,7 +25603,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "rgoslin": [],
     "RGraph2js": [
         "BiocGenerics",
         "graph"
@@ -26110,7 +25932,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -26149,7 +25970,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "xcms",
         "zlibbioc"
@@ -26269,7 +26089,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -26408,7 +26227,6 @@
         "genefilter",
         "geneplotter",
         "graph",
-        "preprocessCore",
         "splots",
         "vsn",
         "zlibbioc"
@@ -26644,7 +26462,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -26657,7 +26474,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "roar": [
@@ -26775,7 +26591,6 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -27374,7 +27189,6 @@
         "genefilter",
         "oligo",
         "oligoClasses",
-        "preprocessCore",
         "sva",
         "zlibbioc"
     ],
@@ -28708,7 +28522,6 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "preprocessCore",
         "zlibbioc"
     ],
     "seqArchR": [
@@ -28940,7 +28753,6 @@
         "XVector",
         "illuminaio",
         "interactiveDisplayBase",
-        "preprocessCore",
         "zlibbioc"
     ],
     "SEtools": [
@@ -29085,7 +28897,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -29126,7 +28937,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -29421,7 +29231,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -29819,7 +29628,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -29919,7 +29727,6 @@
         "annotate",
         "genefilter",
         "multtest",
-        "preprocessCore",
         "tilingArray",
         "vsn",
         "zlibbioc"
@@ -30002,7 +29809,6 @@
         "SummarizedExperiment",
         "XVector",
         "chipseq",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -30167,7 +29973,6 @@
     "sparseMatrixStats": [
         "MatrixGenerics"
     ],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "Biobase",
@@ -30753,7 +30558,6 @@
         "edgeR",
         "multtest",
         "phyloseq",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -30949,7 +30753,6 @@
         "cellHTS2",
         "genefilter",
         "graph",
-        "preprocessCore",
         "splots",
         "vsn",
         "zlibbioc"
@@ -30976,7 +30779,6 @@
         "affy",
         "affyio",
         "edgeR",
-        "preprocessCore",
         "zlibbioc"
     ],
     "Statial": [
@@ -31373,7 +31175,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -31970,7 +31771,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "tidySingleCellExperiment": [
@@ -32043,7 +31843,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -32090,7 +31889,6 @@
         "rWikiPathways",
         "tkWidgets",
         "treeio",
-        "widgetTools",
         "zlibbioc"
     ],
     "TIN": [
@@ -32104,7 +31902,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "preprocessCore",
         "zlibbioc"
     ],
     "TissueEnrich": [
@@ -32157,8 +31954,7 @@
         "zlibbioc"
     ],
     "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
+        "DynDoc"
     ],
     "tLOH": [
         "AnnotationDbi",
@@ -32311,7 +32107,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -32537,7 +32332,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -32883,7 +32677,6 @@
         "affyio",
         "convert",
         "marray",
-        "preprocessCore",
         "zlibbioc"
     ],
     "TVTB": [
@@ -32922,8 +32715,7 @@
     ],
     "tweeDEseq": [
         "cqn",
-        "edgeR",
-        "preprocessCore"
+        "edgeR"
     ],
     "twilight": [
         "Biobase",
@@ -33123,7 +32915,6 @@
         "HTqPCR",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "UniProt.ws": [
@@ -33239,7 +33030,6 @@
         "crlmm",
         "illuminaio",
         "oligoClasses",
-        "preprocessCore",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -33632,7 +33422,6 @@
         "BiocGenerics",
         "affy",
         "affyio",
-        "preprocessCore",
         "zlibbioc"
     ],
     "vtpnet": [
@@ -33770,7 +33559,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "preprocessCore",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -33820,7 +33608,6 @@
         "annaffy",
         "gcrma",
         "multtest",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -33843,7 +33630,6 @@
         "topconfects",
         "zlibbioc"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "Biobase",
         "BiocGenerics",
@@ -33917,7 +33703,6 @@
         "mzID",
         "mzR",
         "pcaMethods",
-        "preprocessCore",
         "vsn",
         "zlibbioc"
     ],
@@ -34107,7 +33892,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "preprocessCore",
         "quantro",
         "rhdf5",
         "rhdf5filters",
