@@ -2157,17 +2157,14 @@
         "VariantAnnotation"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "genefilter",
         "sva"
     ],
     "GEOfastq": [],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase"
@@ -2193,7 +2190,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -2264,7 +2260,6 @@
     "GOTHiC": [
         "ShortRead"
     ],
-    "goTools": [],
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
@@ -3347,7 +3342,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "NanoStringNCTools": [],
     "NanoTube": [
         "fgsea"
     ],
@@ -3578,7 +3572,6 @@
         "enrichplot",
         "fgsea"
     ],
-    "panp": [],
     "pareg": [
         "DOSE",
         "basilisk",
@@ -3725,7 +3718,6 @@
         "STRINGdb",
         "fgsea"
     ],
-    "pqsfinder": [],
     "pram": [],
     "prebs": [
         "BiocStyle",
@@ -4071,7 +4063,6 @@
         "dir.expiry"
     ],
     "rexposome": [],
-    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
@@ -4716,8 +4707,7 @@
         "dir.expiry"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
@@ -4729,7 +4719,6 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
         "RBioFormats"
     ],
     "spatzie": [
@@ -4797,7 +4786,6 @@
         "baySeq",
         "biovizBase"
     ],
-    "sscu": [],
     "sSeq": [],
     "ssize": [],
     "sSNAPPY": [],
@@ -4838,7 +4826,6 @@
     ],
     "SUITOR": [],
     "SummarizedBenchmark": [],
-    "supersigs": [],
     "surfaltr": [],
     "sva": [
         "genefilter"
