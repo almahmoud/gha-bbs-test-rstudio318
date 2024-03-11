@@ -432,7 +432,6 @@
     "cfdnakit": [
         "QDNAseq"
     ],
-    "cfDNAPro": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -740,13 +739,11 @@
     "DEGraph": [
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedDataFrame": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "sva"
@@ -1047,11 +1044,9 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRcore",
         "gDRimport",
         "piano"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
@@ -1277,9 +1272,7 @@
         "tximeta",
         "tximport"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1305,7 +1298,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "lpNet": [],
     "LRcell": [
         "BiocVersion"
     ],
@@ -1644,7 +1636,6 @@
     "mumosa": [],
     "muscat": [],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
@@ -2008,9 +1999,7 @@
         "GOstats",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -2212,7 +2201,6 @@
     "segmentSeq": [
         "baySeq"
     ],
-    "selectKSigs": [],
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -2338,7 +2326,6 @@
         "dir.expiry"
     ],
     "SpatialDecon": [],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
@@ -2517,14 +2504,11 @@
     ],
     "veloviz": [],
     "VennDetail": [],
-    "vidger": [],
     "ViSEAGO": [],
     "vissE": [
         "BiocVersion"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "BiocVersion",
         "gwascat"
