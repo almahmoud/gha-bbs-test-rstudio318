@@ -1588,7 +1588,6 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [],
     "M3C": [],
     "m6Aboost": [
         "BiocVersion"
@@ -3051,7 +3050,6 @@
         "minfi"
     ],
     "weaver": [],
-    "webbioc": [],
     "wppi": [
         "OmnipathR"
     ],
