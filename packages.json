@@ -300,7 +300,6 @@
         "ANCOMBC",
         "Maaslin2",
         "genefilter",
-        "phyloseq",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -327,7 +326,6 @@
         "DOSE",
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot"
@@ -360,7 +358,6 @@
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
-    "biodbExpasy": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -482,7 +479,6 @@
         "Category",
         "GSEABase",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "genefilter",
         "phenoTest"
@@ -511,15 +507,13 @@
     "cbaf": [
         "AnVIL",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "genefilter"
     ],
     "CBEA": [],
     "cBioPortalData": [
         "AnVIL",
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "BiocVersion",
@@ -541,7 +535,6 @@
         "scran"
     ],
     "CellBarcode": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "GSEABase",
@@ -736,9 +729,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -1146,7 +1137,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "EMDomics": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
@@ -1570,11 +1560,9 @@
         "GSEABase",
         "genefilter"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "AnVIL",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "GOSim": [],
@@ -1898,7 +1886,6 @@
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
-        "phyloseq",
         "sva"
     ],
     "mBPCR": [
@@ -2050,16 +2037,11 @@
     "MGFR": [],
     "miaSim": [],
     "miaViz": [],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "phyloseq"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -2180,8 +2162,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
-    "MPRAnalyze": [],
     "MQmetrics": [],
     "MsBackendMassbank": [
         "Spectra"
@@ -2430,9 +2410,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "orthos": [
         "BiocVersion",
         "basilisk",
@@ -2483,8 +2461,7 @@
     "Path2PPI": [],
     "PathNet": [],
     "PathoStat": [
-        "BiocStyle",
-        "phyloseq"
+        "BiocStyle"
     ],
     "pathview": [],
     "pathwayPCA": [],
@@ -2532,7 +2509,6 @@
         "BiocVersion",
         "OmaDB"
     ],
-    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "pickgene": [],
@@ -2571,8 +2547,7 @@
     ],
     "prebs": [
         "BiocStyle",
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "rCGH"
@@ -2718,9 +2693,7 @@
     ],
     "RCASPAR": [],
     "rCGH": [],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcollectl": [],
     "Rcpi": [],
     "Rcwl": [
@@ -2751,9 +2724,7 @@
         "BiocStyle",
         "dir.expiry"
     ],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -2822,7 +2793,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "rfPred": [],
     "rGenomeTracks": [
         "BiocVersion"
     ],
@@ -2920,8 +2890,7 @@
     ],
     "ROntoTools": [],
     "RPA": [
-        "BiocStyle",
-        "phyloseq"
+        "BiocStyle"
     ],
     "Rqc": [
         "BiocStyle",
@@ -2934,9 +2903,7 @@
     "Rsubread": [],
     "RSVSim": [],
     "rSWeeP": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "rTRMui": [],
     "runibic": [],
     "RUVSeq": [
@@ -3133,9 +3100,7 @@
         "illuminaio",
         "minfi"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces",
         "genefilter"
@@ -3165,8 +3130,7 @@
     "SimBu": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "phyloseq"
+        "dir.expiry"
     ],
     "simpleSeg": [
         "cytomapper"
@@ -3306,9 +3270,7 @@
     ],
     "splots": [],
     "SpotClean": [],
-    "SPsimSeq": [
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "srnadiff": [
         "BiocStyle",
         "Gviz",
@@ -3379,7 +3341,6 @@
     "TCC": [
         "baySeq"
     ],
-    "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -3397,8 +3358,7 @@
         "restfulSE"
     ],
     "terraTCGAdata": [
-        "AnVIL",
-        "TCGAutils"
+        "AnVIL"
     ],
     "TFBSTools": [
         "CNEr"
@@ -3495,7 +3455,6 @@
     "UCell": [],
     "Ularcirc": [
         "BiocVersion",
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
@@ -3536,7 +3495,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "VDJdive": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -3570,7 +3528,6 @@
         "methylumi",
         "minfi"
     ],
-    "wavClusteR": [],
     "weaver": [],
     "webbioc": [],
     "weitrix": [],
