@@ -244,7 +244,6 @@
     ],
     "bioCancer": [
         "AnVIL",
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler",
@@ -356,7 +355,6 @@
     "canceR": [
         "AnVIL",
         "Category",
-        "RTCGAToolbox",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -372,12 +370,10 @@
     ],
     "cbaf": [
         "AnVIL",
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "AnVIL",
-        "RTCGAToolbox"
+        "AnVIL"
     ],
     "CBNplot": [
         "BiocVersion",
@@ -1057,7 +1053,6 @@
     ],
     "GNOSIS": [
         "AnVIL",
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -1380,7 +1375,6 @@
         "GENIE3"
     ],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1965,7 +1959,6 @@
     "RRHO": [],
     "Rsubread": [],
     "rSWeeP": [],
-    "RTCGAToolbox": [],
     "runibic": [],
     "RUVSeq": [],
     "rWikiPathways": [],
