@@ -7,7 +7,6 @@
         "BiocStyle"
     ],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -154,8 +153,7 @@
         "Rsubread"
     ],
     "appreci8R": [
-        "BiocVersion",
-        "GenomicScores"
+        "BiocVersion"
     ],
     "arrayMvout": [
         "illuminaio",
@@ -193,7 +191,6 @@
     "ATACseqQC": [
         "BiocVersion",
         "ChIPpeakAnno",
-        "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
@@ -320,7 +317,6 @@
     "biovizBase": [],
     "biscuiteer": [
         "BiocVersion",
-        "CGHcall",
         "QDNAseq",
         "annotatr",
         "bsseq",
@@ -485,7 +481,6 @@
     ],
     "CexoR": [],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
     "cfDNAPro": [],
@@ -495,13 +490,10 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "BiocVersion",
@@ -1294,7 +1286,6 @@
     "GEM": [],
     "gemini": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "GeneGA": [],
@@ -1748,7 +1739,6 @@
         "illuminaio",
         "sesame"
     ],
-    "methrix": [],
     "MethylAid": [
         "illuminaio",
         "minfi"
@@ -2010,7 +2000,6 @@
         "BiocVersion",
         "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -2239,7 +2228,6 @@
     ],
     "primirTSS": [
         "BiocVersion",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase"
@@ -2300,9 +2288,7 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -2347,8 +2333,7 @@
     "randRotation": [],
     "RAREsim": [],
     "RareVariantVis": [
-        "BiocVersion",
-        "GenomicScores"
+        "BiocVersion"
     ],
     "Rarr": [],
     "Rbec": [
@@ -3030,7 +3015,6 @@
     ],
     "VariantFiltering": [
         "BiocVersion",
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
