@@ -430,7 +430,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "AnVIL",
         "RTCGAToolbox"
@@ -1411,7 +1410,6 @@
         "BiocVersion"
     ],
     "hiReadsProcessor": [],
-    "hoodscanR": [],
     "hpar": [
         "BiocVersion"
     ],
