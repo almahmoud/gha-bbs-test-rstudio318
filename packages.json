@@ -3,24 +3,20 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "genefilter"
     ],
     "a4Base": [
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "genefilter"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [],
     "abseqR": [
         "BiocParallel",
@@ -59,8 +55,7 @@
     ],
     "adSplit": [],
     "AffiXcan": [
-        "BiocParallel",
-        "MultiAssayExperiment"
+        "BiocParallel"
     ],
     "affxparser": [],
     "affyContam": [],
@@ -159,7 +154,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "beachmat",
@@ -173,7 +167,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "SpatialExperiment",
@@ -211,7 +204,6 @@
     ],
     "alabaster.mae": [
         "HDF5Array",
-        "MultiAssayExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -309,9 +301,7 @@
     ],
     "AMARETTO": [
         "BiocVersion",
-        "ComplexHeatmap",
-        "HDF5Array",
-        "MultiAssayExperiment"
+        "HDF5Array"
     ],
     "AMOUNTAIN": [],
     "amplican": [
@@ -331,7 +321,6 @@
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
-        "MultiAssayExperiment",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -350,8 +339,7 @@
     ],
     "animalcules": [
         "BiocParallel",
-        "DESeq2",
-        "MultiAssayExperiment"
+        "DESeq2"
     ],
     "annaffy": [],
     "annmap": [
@@ -489,7 +477,6 @@
     "ASAFE": [],
     "ASICS": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "MultiDataSet",
         "ropls"
     ],
@@ -519,9 +506,7 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [
-        "ComplexHeatmap"
-    ],
+    "ASURAT": [],
     "ATACCoGAPS": [
         "BSgenome",
         "BiocIO",
@@ -612,7 +597,6 @@
         "annotate"
     ],
     "autonomics": [
-        "MultiAssayExperiment",
         "pcaMethods"
     ],
     "BaalChIP": [
@@ -824,7 +808,6 @@
         "DelayedMatrixStats",
         "MAST",
         "Maaslin2",
-        "MultiAssayExperiment",
         "NOISeq",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
@@ -894,7 +877,6 @@
     "BindingSiteFinder": [
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -915,7 +897,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "ReactomePA",
@@ -957,11 +938,9 @@
         "BiocIO",
         "BiocParallel",
         "BiocVersion",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "MultiAssayExperiment",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -1050,7 +1029,6 @@
     ],
     "BioNERO": [
         "BiocParallel",
-        "ComplexHeatmap",
         "GENIE3",
         "annotate",
         "genefilter",
@@ -1064,7 +1042,6 @@
         "pathview"
     ],
     "biosigner": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "ropls"
     ],
@@ -1132,7 +1109,6 @@
     ],
     "blacksheepr": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "DEXSeq",
         "Rhtslib",
@@ -1154,8 +1130,7 @@
         "Rgraphviz"
     ],
     "BloodGen3Module": [
-        "BiocVersion",
-        "ComplexHeatmap"
+        "BiocVersion"
     ],
     "bluster": [
         "BiocNeighbors",
@@ -1378,7 +1353,6 @@
         "BioNERO",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GENIE3",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1407,7 +1381,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1423,7 +1396,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1442,7 +1414,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rhtslib",
@@ -1496,7 +1467,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
@@ -1529,7 +1499,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rhtslib",
@@ -1554,7 +1523,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rhtslib",
@@ -1583,9 +1551,7 @@
         "BiocParallel"
     ],
     "ccmap": [],
-    "CCPlotR": [
-        "ComplexHeatmap"
-    ],
+    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE",
@@ -1601,7 +1567,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "beachmat",
@@ -1674,7 +1639,6 @@
     ],
     "censcyt": [
         "BiocParallel",
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
@@ -1691,7 +1655,6 @@
     "ceRNAnetsim": [],
     "CeTF": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "DOSE",
         "GOSemSim",
@@ -2041,7 +2004,6 @@
     ],
     "ClassifyR": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "annotate",
         "genefilter"
     ],
@@ -2085,7 +2047,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2094,10 +2055,7 @@
         "vsn",
         "xcms"
     ],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "BiocParallel",
         "MSnbase",
@@ -2256,7 +2214,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
@@ -2296,9 +2253,7 @@
         "rtracklayer"
     ],
     "coGPS": [],
-    "cola": [
-        "ComplexHeatmap"
-    ],
+    "cola": [],
     "comapr": [
         "BSgenome",
         "BiocIO",
@@ -2365,7 +2320,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "ComplexHeatmap": [],
     "CompoundDb": [
         "BiocParallel",
         "ChemmineR",
@@ -2495,14 +2449,11 @@
     "coRdon": [],
     "CoreGx": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "fgsea",
         "piano"
     ],
     "Cormotif": [],
-    "corral": [
-        "MultiAssayExperiment"
-    ],
+    "corral": [],
     "coseq": [
         "BiocParallel",
         "DESeq2",
@@ -2519,7 +2470,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2536,7 +2486,6 @@
     "COTAN": [
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "PCAtools",
         "ScaledMatrix",
@@ -2789,7 +2738,6 @@
     ],
     "CyTOFpower": [
         "BiocParallel",
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
@@ -2803,7 +2751,6 @@
         "BiocSingular",
         "BiocStyle",
         "CATALYST",
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
@@ -2818,8 +2765,7 @@
         "BiocParallel"
     ],
     "cytoKernel": [
-        "BiocParallel",
-        "ComplexHeatmap"
+        "BiocParallel"
     ],
     "cytolib": [],
     "cytomapper": [
@@ -2844,7 +2790,6 @@
     ],
     "CytoPipeline": [
         "BiocParallel",
-        "ComplexHeatmap",
         "PeacoQC",
         "Rgraphviz",
         "cytolib",
@@ -2856,7 +2801,6 @@
     ],
     "CytoPipelineGUI": [
         "BiocParallel",
-        "ComplexHeatmap",
         "CytoPipeline",
         "PeacoQC",
         "Rgraphviz",
@@ -2993,7 +2937,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "beachmat",
@@ -3064,7 +3007,6 @@
     ],
     "DEGreport": [
         "BiocParallel",
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DESeq2"
     ],
@@ -3125,7 +3067,6 @@
     ],
     "DEP": [
         "BiocParallel",
-        "ComplexHeatmap",
         "MSnbase",
         "mzID",
         "mzR",
@@ -3246,7 +3187,6 @@
         "pcaMethods"
     ],
     "diffcyt": [
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
@@ -3274,7 +3214,6 @@
     "diffUTR": [
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "DEXSeq",
         "GenomicAlignments",
@@ -3580,11 +3519,9 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "TCGAbiolinks",
@@ -3632,9 +3569,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "EnrichedHeatmap": [
-        "ComplexHeatmap"
-    ],
+    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -3940,9 +3875,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "evaluomeR": [
-        "MultiAssayExperiment"
-    ],
+    "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
         "BiocIO",
@@ -4021,7 +3954,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "EnrichedHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4072,7 +4004,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -4138,7 +4069,6 @@
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -4154,7 +4084,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -4169,13 +4098,11 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "MultiAssayExperiment",
         "OrganismDbi",
         "Rhtslib",
         "Rsamtools",
@@ -4444,9 +4371,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "gCrisprTools": [
-        "ComplexHeatmap"
-    ],
+    "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
         "BiocParallel",
@@ -4479,7 +4404,6 @@
     "gDR": [
         "BiocParallel",
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
         "gDRcore",
@@ -4489,13 +4413,11 @@
     ],
     "gDRcore": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
         "BiocParallel",
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
         "gDRutils",
@@ -4506,8 +4428,7 @@
         "biocViews"
     ],
     "gDRutils": [
-        "BiocParallel",
-        "MultiAssayExperiment"
+        "BiocParallel"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -4592,7 +4513,6 @@
     "GeneticsPed": [],
     "GeneTonic": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2"
     ],
     "geneXtendeR": [
@@ -4694,7 +4614,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "RCAS",
@@ -4710,9 +4629,7 @@
         "BiocVersion",
         "HDF5Array"
     ],
-    "GenomicSuperSignature": [
-        "ComplexHeatmap"
-    ],
+    "GenomicSuperSignature": [],
     "GenomicTuples": [],
     "GenProSeq": [],
     "GenVisR": [
@@ -4827,7 +4744,6 @@
         "beachmat"
     ],
     "glmSparseNet": [
-        "MultiAssayExperiment",
         "biomaRt"
     ],
     "GlobalAncova": [
@@ -4865,7 +4781,6 @@
     "gmoviz": [
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -4881,7 +4796,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rhtslib",
@@ -4896,9 +4810,7 @@
         "biomaRt"
     ],
     "GOfuncR": [],
-    "GOpro": [
-        "MultiAssayExperiment"
-    ],
+    "GOpro": [],
     "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
@@ -4953,7 +4865,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocVersion",
-        "ComplexHeatmap",
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5144,9 +5055,7 @@
     ],
     "hermes": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
-        "MultiAssayExperiment",
         "biomaRt"
     ],
     "HERON": [],
@@ -5219,7 +5128,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "HilbertCurve": [],
     "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome",
@@ -5233,8 +5141,7 @@
         "rtracklayer"
     ],
     "hipathia": [
-        "BiocVersion",
-        "MultiAssayExperiment"
+        "BiocVersion"
     ],
     "HIPPO": [],
     "hiReadsProcessor": [
@@ -5256,7 +5163,6 @@
         "rtracklayer"
     ],
     "hoodscanR": [
-        "ComplexHeatmap",
         "SpatialExperiment"
     ],
     "hopach": [],
@@ -5495,7 +5401,6 @@
         "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "rtracklayer"
@@ -5518,9 +5423,7 @@
     ],
     "interacCircos": [],
     "InteractionSet": [],
-    "InteractiveComplexHeatmap": [
-        "ComplexHeatmap"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -5528,7 +5431,6 @@
         "genefilter"
     ],
     "InterCellar": [
-        "ComplexHeatmap",
         "biomaRt"
     ],
     "IntEREst": [
@@ -5573,7 +5475,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -5582,34 +5483,26 @@
         "vsn",
         "xcms"
     ],
-    "iSEE": [
-        "ComplexHeatmap"
-    ],
+    "iSEE": [],
     "iSEEde": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "iSEE"
     ],
     "iSEEhex": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEhub": [
         "BiocVersion",
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEindex": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEpathways": [
-        "ComplexHeatmap",
         "iSEE"
     ],
     "iSEEu": [
-        "ComplexHeatmap",
         "iSEE",
         "iSEEhex"
     ],
@@ -5645,7 +5538,6 @@
     ],
     "isomiRs": [
         "BiocParallel",
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2"
@@ -5752,8 +5644,7 @@
         "glmGamPoi"
     ],
     "LineagePulse": [
-        "BiocParallel",
-        "ComplexHeatmap"
+        "BiocParallel"
     ],
     "lineagespot": [
         "BSgenome",
@@ -5767,14 +5658,11 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "LinkHD": [
-        "MultiAssayExperiment"
-    ],
+    "LinkHD": [],
     "LinTInd": [],
     "lionessR": [],
     "lipidr": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "MultiDataSet",
         "fgsea",
         "pcaMethods",
@@ -5784,7 +5672,6 @@
     "lisaClust": [
         "BiocParallel",
         "ClassifyR",
-        "MultiAssayExperiment",
         "SpatialExperiment",
         "annotate",
         "genefilter",
@@ -5797,7 +5684,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -5875,7 +5761,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "made4": [],
     "MADSEQ": [
         "BSgenome",
         "BiocIO",
@@ -5951,7 +5836,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -6011,7 +5895,6 @@
     ],
     "MatrixQCvis": [
         "BiocVersion",
-        "ComplexHeatmap",
         "pcaMethods",
         "proDA",
         "vsn"
@@ -6180,9 +6063,7 @@
         "annotate",
         "genefilter"
     ],
-    "MesKit": [
-        "ComplexHeatmap"
-    ],
+    "MesKit": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "BiocParallel",
@@ -6190,13 +6071,11 @@
         "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
     "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
-        "MultiAssayExperiment",
         "rols",
         "struct"
     ],
@@ -6207,7 +6086,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocVersion",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGgraph",
@@ -6245,7 +6123,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -6518,7 +6395,6 @@
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
-        "MultiAssayExperiment",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -6537,7 +6413,6 @@
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
-        "MultiAssayExperiment",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -6568,11 +6443,9 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
-        "MultiAssayExperiment",
         "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
@@ -6605,9 +6478,7 @@
         "BiocParallel",
         "TOAST"
     ],
-    "midasHLA": [
-        "MultiAssayExperiment"
-    ],
+    "midasHLA": [],
     "miloR": [
         "BiocNeighbors",
         "BiocParallel",
@@ -6734,9 +6605,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "missRows": [
-        "MultiAssayExperiment"
-    ],
+    "missRows": [],
     "mistyR": [],
     "mitoClone2": [
         "BSgenome",
@@ -6789,7 +6658,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -6823,16 +6691,12 @@
         "BiocParallel",
         "SpatialExperiment"
     ],
-    "MOMA": [
-        "ComplexHeatmap",
-        "MultiAssayExperiment"
-    ],
+    "MOMA": [],
     "monaLisa": [
         "BSgenome",
         "BiocIO",
         "BiocParallel",
         "CNEr",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -6847,7 +6711,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocVersion",
-        "ComplexHeatmap",
         "DOSE",
         "GOSemSim",
         "GenomicAlignments",
@@ -6877,7 +6740,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -6981,7 +6843,6 @@
     "MsExperiment": [
         "BiocParallel",
         "MetaboCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
@@ -7065,14 +6926,12 @@
     ],
     "msqrob2": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "MsQuality": [
         "BiocParallel",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
@@ -7123,13 +6982,9 @@
         "MSstats",
         "MSstatsConvert"
     ],
-    "MuData": [
-        "MultiAssayExperiment"
-    ],
+    "MuData": [],
     "Mulcom": [],
-    "MultiAssayExperiment": [],
     "MultiBaC": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "pcaMethods",
         "ropls"
@@ -7170,12 +7025,9 @@
         "InteractionSet"
     ],
     "multiMiR": [],
-    "MultimodalExperiment": [
-        "MultiAssayExperiment"
-    ],
+    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "Mfuzz"
     ],
@@ -7209,7 +7061,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "ScaledMatrix",
@@ -7223,7 +7074,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -7247,7 +7097,6 @@
         "rtracklayer"
     ],
     "MWASTools": [
-        "ComplexHeatmap",
         "KEGGgraph",
         "Rgraphviz"
     ],
@@ -7343,7 +7192,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -7357,7 +7205,6 @@
         "RCy3",
         "Rgraphviz"
     ],
-    "ncRNAtools": [],
     "nearBynding": [
         "BiocIO",
         "BiocParallel",
@@ -7383,9 +7230,7 @@
     "netboost": [
         "BiocStyle"
     ],
-    "netDx": [
-        "MultiAssayExperiment"
-    ],
+    "netDx": [],
     "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH",
@@ -7452,8 +7297,6 @@
     "ngsReports": [],
     "nipalsMCIA": [
         "BiocParallel",
-        "ComplexHeatmap",
-        "MultiAssayExperiment",
         "fgsea"
     ],
     "nnNorm": [],
@@ -7577,9 +7420,7 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2",
         "BiocParallel"
@@ -7589,7 +7430,6 @@
         "MultiDataSet",
         "annotate",
         "genefilter",
-        "made4",
         "omicade4",
         "pcaMethods",
         "rexposome",
@@ -7602,7 +7442,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HelloRanges",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -7610,7 +7449,6 @@
         "rtracklayer"
     ],
     "omicsPrint": [
-        "MultiAssayExperiment",
         "RaggedExperiment"
     ],
     "omicsViewer": [
@@ -7620,7 +7458,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "oncomix": [],
-    "oncoscanR": [],
     "OncoScore": [
         "biomaRt"
     ],
@@ -7767,9 +7604,7 @@
         "sva"
     ],
     "packFinder": [],
-    "padma": [
-        "MultiAssayExperiment"
-    ],
+    "padma": [],
     "PADOG": [],
     "pageRank": [
         "BSgenome",
@@ -7823,7 +7658,6 @@
         "fgsea"
     ],
     "panp": [],
-    "PANR": [],
     "pareg": [
         "BiocParallel",
         "DOSE",
@@ -7849,7 +7683,6 @@
     "PathoStat": [
         "BiocParallel",
         "BiocStyle",
-        "ComplexHeatmap",
         "DESeq2",
         "biomformat",
         "phyloseq"
@@ -7890,7 +7723,6 @@
         "BiocParallel",
         "ConsensusClusterPlus",
         "CoreGx",
-        "MultiAssayExperiment",
         "biomaRt",
         "fgsea",
         "genefu",
@@ -7903,7 +7735,6 @@
         "oligoClasses"
     ],
     "PeacoQC": [
-        "ComplexHeatmap",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -7955,7 +7786,6 @@
     "PharmacoGx": [
         "BiocParallel",
         "CoreGx",
-        "MultiAssayExperiment",
         "fgsea",
         "piano"
     ],
@@ -7966,7 +7796,6 @@
         "pcaMethods"
     ],
     "phenomis": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "biodb",
         "biodbChebi",
@@ -8041,7 +7870,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "beachmat",
@@ -8119,7 +7947,6 @@
     "polyester": [],
     "POMA": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "mixOmics"
     ],
@@ -8228,7 +8055,6 @@
         "BiocIO",
         "BiocParallel",
         "ChIPseeker",
-        "ComplexHeatmap",
         "DOSE",
         "EnrichedHeatmap",
         "GOSemSim",
@@ -8337,7 +8163,6 @@
     ],
     "PSMatch": [
         "BiocParallel",
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "psygenet2r": [
@@ -8405,9 +8230,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "QFeatures": [
-        "MultiAssayExperiment"
-    ],
+    "QFeatures": [],
     "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [
@@ -8534,7 +8357,6 @@
     "RadioGx": [
         "BiocParallel",
         "CoreGx",
-        "MultiAssayExperiment",
         "fgsea",
         "piano"
     ],
@@ -8600,7 +8422,6 @@
         "rtracklayer"
     ],
     "Rarr": [],
-    "RbcBook1": [],
     "Rbec": [
         "BiocParallel",
         "GenomicAlignments",
@@ -8741,7 +8562,6 @@
     "recoup": [
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -9116,7 +8936,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "biocViews",
@@ -9155,7 +8974,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocVersion",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -9353,7 +9171,6 @@
         "Rgraphviz"
     ],
     "ropls": [
-        "MultiAssayExperiment",
         "MultiDataSet"
     ],
     "RPA": [
@@ -9380,11 +9197,9 @@
         "rtracklayer"
     ],
     "rqt": [
-        "MultiAssayExperiment",
         "MultiDataSet",
         "ropls"
     ],
-    "rqubic": [],
     "rRDP": [],
     "RRHO": [],
     "rrvgo": [
@@ -9411,7 +9226,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
@@ -9760,7 +9574,6 @@
         "snpStats"
     ],
     "scp": [
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "scPCA": [
@@ -9774,7 +9587,6 @@
         "DropletUtils",
         "GenomicAlignments",
         "HDF5Array",
-        "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
         "Rsubread",
@@ -9807,7 +9619,6 @@
     "scRNAseqApp": [
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -9914,14 +9725,11 @@
         "scater",
         "scuttle"
     ],
-    "sechm": [
-        "ComplexHeatmap"
-    ],
+    "sechm": [],
     "segmenter": [
         "BiocIO",
         "BiocParallel",
         "ChIPseeker",
-        "ComplexHeatmap",
         "DOSE",
         "GOSemSim",
         "GenomicAlignments",
@@ -10038,7 +9846,6 @@
     ],
     "SEtools": [
         "BiocParallel",
-        "ComplexHeatmap",
         "DESeq2",
         "annotate",
         "genefilter",
@@ -10165,7 +9972,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -10226,9 +10032,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "simona": [
-        "ComplexHeatmap"
-    ],
+    "simona": [],
     "simpleSeg": [
         "BiocParallel",
         "HDF5Array",
@@ -10236,7 +10040,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [
-        "ComplexHeatmap",
         "GOSemSim"
     ],
     "single": [
@@ -10262,7 +10065,6 @@
         "BiocParallel",
         "BiocSingular",
         "BiocVersion",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "DropletUtils",
@@ -10482,7 +10284,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocSet",
-        "ComplexHeatmap",
         "DelayedMatrixStats",
         "GSEABase",
         "annotate"
@@ -10578,7 +10379,6 @@
     "spicyR": [
         "BiocParallel",
         "ClassifyR",
-        "MultiAssayExperiment",
         "SpatialExperiment",
         "annotate",
         "genefilter"
@@ -10893,7 +10693,6 @@
         "ASSIGN",
         "BiocParallel",
         "BiocSingular",
-        "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
         "GSEABase",
@@ -10920,7 +10719,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
@@ -10977,7 +10775,6 @@
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
-        "MultiAssayExperiment",
         "RaggedExperiment",
         "Rhtslib",
         "Rsamtools",
@@ -10985,7 +10782,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "BiocIO",
@@ -11047,7 +10843,6 @@
         "DOSE",
         "GOSemSim",
         "Mfuzz",
-        "MultiAssayExperiment",
         "RCy3",
         "biomaRt",
         "clusterProfiler",
@@ -11103,7 +10898,6 @@
     "TOP": [
         "BiocParallel",
         "ClassifyR",
-        "MultiAssayExperiment",
         "annotate",
         "genefilter"
     ],
@@ -11119,7 +10913,6 @@
     "ToxicoGx": [
         "BiocParallel",
         "CoreGx",
-        "MultiAssayExperiment",
         "fgsea",
         "piano"
     ],
@@ -11206,7 +10999,6 @@
         "slingshot"
     ],
     "treekoR": [
-        "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
@@ -11393,7 +11185,6 @@
         "rtracklayer"
     ],
     "universalmotif": [],
-    "updateObject": [],
     "uSORT": [
         "biocViews",
         "monocle"
@@ -11556,9 +11347,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "vsclust": [
-        "MultiAssayExperiment"
-    ],
+    "vsclust": [],
     "vsn": [],
     "vtpnet": [
         "BSgenome",
@@ -11657,7 +11446,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -11665,9 +11453,7 @@
         "pcaMethods",
         "vsn"
     ],
-    "xcore": [
-        "MultiAssayExperiment"
-    ],
+    "xcore": [],
     "XDE": [
         "GeneMeta",
         "annotate",
@@ -11676,9 +11462,7 @@
     ],
     "Xeva": [
         "BiocParallel",
-        "ComplexHeatmap",
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
         "piano"
@@ -11702,7 +11486,6 @@
         "BSgenome",
         "BiocIO",
         "BiocParallel",
-        "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
