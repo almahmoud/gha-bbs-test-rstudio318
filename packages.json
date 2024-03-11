@@ -201,7 +201,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AssessORF": [],
     "ASSET": [],
     "ASSIGN": [
         "genefilter",
@@ -731,7 +730,6 @@
     ],
     "compSPOT": [],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -1046,7 +1044,6 @@
     "DiscoRhythm": [
         "BiocStyle"
     ],
-    "distinct": [],
     "DMRcate": [
         "BiocVersion",
         "Gviz",
@@ -2005,7 +2002,6 @@
     ],
     "MGFM": [],
     "MGFR": [],
-    "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
@@ -2436,7 +2432,6 @@
         "piano",
         "switchBox"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowCore",
         "flowWorkspace",
@@ -2962,7 +2957,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
@@ -3464,7 +3458,6 @@
     ],
     "weaver": [],
     "webbioc": [],
-    "weitrix": [],
     "wppi": [
         "OmnipathR"
     ],
