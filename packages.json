@@ -491,7 +491,6 @@
     "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -1738,7 +1737,6 @@
         "BiocVersion",
         "ontoProc"
     ],
-    "POMA": [],
     "PPInfer": [
         "STRINGdb"
     ],
