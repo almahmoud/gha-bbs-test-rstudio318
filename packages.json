@@ -738,7 +738,6 @@
     "celda": [
         "scran"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
@@ -924,7 +923,6 @@
         "genefilter"
     ],
     "cleanUpdTSeq": [],
-    "cleaver": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph"
@@ -1617,7 +1615,6 @@
         "sva"
     ],
     "EDIRquery": [],
-    "EGAD": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
@@ -1725,7 +1722,6 @@
     ],
     "epistasisGA": [],
     "EpiTxDb": [
-        "Modstrings",
         "tRNA",
         "tRNAdbImport"
     ],
@@ -2345,7 +2341,6 @@
         "VariantAnnotation",
         "gdsfmt"
     ],
-    "GWENA": [],
     "h5vc": [],
     "hapFabia": [],
     "Harman": [],
@@ -2406,7 +2401,6 @@
         "BiocVersion"
     ],
     "HPiP": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -3121,7 +3115,6 @@
         "AMOUNTAIN"
     ],
     "ModCon": [],
-    "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
@@ -3170,7 +3163,6 @@
         "biovizBase",
         "motifStack"
     ],
-    "motifcounter": [],
     "MotifDb": [],
     "motifmatchr": [
         "CNEr",
@@ -3455,9 +3447,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -3837,8 +3827,7 @@
         "mzR"
     ],
     "ProteoDisco": [
-        "VariantAnnotation",
-        "cleaver"
+        "VariantAnnotation"
     ],
     "ProteoMM": [],
     "protGear": [
@@ -4210,27 +4199,23 @@
     ],
     "RNAmodR": [
         "Gviz",
-        "Modstrings",
         "VariantAnnotation",
         "biovizBase"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase"
     ],
     "RNAmodR.ML": [
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase"
     ],
     "RNAmodR.RiboMethSeq": [
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase"
@@ -4914,7 +4899,6 @@
     "synapsis": [],
     "synapter": [
         "MSnbase",
-        "cleaver",
         "mzR"
     ],
     "SynExtend": [],
@@ -5092,15 +5076,11 @@
         "siggenes"
     ],
     "triplex": [],
-    "tRNA": [
-        "Modstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
-        "Modstrings",
         "tRNA"
     ],
     "TRONCO": [],
@@ -5143,9 +5123,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation"
