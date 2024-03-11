@@ -20,7 +20,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "ggbio"
     ],
@@ -30,7 +29,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "ggbio"
@@ -174,7 +172,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr"
@@ -536,7 +533,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "CoGAPS": [],
     "coGPS": [],
     "comapr": [
         "Gviz"
@@ -1117,7 +1113,6 @@
     "girafe": [],
     "GISPA": [],
     "GLAD": [],
-    "Glimma": [],
     "GlobalAncova": [],
     "GmicR": [
         "Category",
@@ -1175,7 +1170,6 @@
         "sva"
     ],
     "Harshlight": [],
-    "hermes": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1287,7 +1281,6 @@
     ],
     "LedPred": [],
     "lemur": [],
-    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "spicyR"
@@ -1835,7 +1828,6 @@
         "TFBSTools"
     ],
     "PrInCE": [],
-    "proActiv": [],
     "PROcess": [
         "Icens"
     ],
@@ -2105,7 +2097,6 @@
         "BiocStyle"
     ],
     "SANTA": [],
-    "SARC": [],
     "SBGNview": [],
     "SBMLR": [],
     "SCAN.UPC": [
@@ -2494,7 +2485,6 @@
     ],
     "veloviz": [],
     "VennDetail": [],
-    "ViSEAGO": [],
     "vissE": [
         "BiocVersion"
     ],
