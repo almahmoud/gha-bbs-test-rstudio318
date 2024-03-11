@@ -2259,7 +2259,6 @@
         "maftools"
     ],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [],
     "goseq": [],
     "GOSim": [],
@@ -2342,7 +2341,6 @@
         "gdsfmt"
     ],
     "h5vc": [],
-    "hapFabia": [],
     "Harman": [],
     "HarmonizR": [
         "genefilter",
@@ -3067,7 +3065,6 @@
         "ctc",
         "genefilter"
     ],
-    "miRNAmeConverter": [],
     "miRNApath": [],
     "miRNAtap": [],
     "mirTarRnaSeq": [],
@@ -4295,10 +4292,8 @@
         "MGFR"
     ],
     "sangeranalyseR": [
-        "BiocStyle",
-        "sangerseqR"
+        "BiocStyle"
     ],
-    "sangerseqR": [],
     "SANTA": [],
     "SARC": [
         "plyranges"
@@ -4381,8 +4376,7 @@
     ],
     "scifer": [
         "cytolib",
-        "flowCore",
-        "sangerseqR"
+        "flowCore"
     ],
     "scmap": [],
     "scMerge": [
