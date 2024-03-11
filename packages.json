@@ -135,7 +135,6 @@
     "annotatr": [
         "BiocVersion"
     ],
-    "anota2seq": [],
     "AnVIL": [],
     "AnVILPublish": [
         "AnVIL"
@@ -292,9 +291,7 @@
         "GENIE3",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "BioTIP": [],
     "biscuiteer": [
         "BiocVersion",
@@ -374,7 +371,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO"
     ],
@@ -589,9 +585,7 @@
     "CoreGx": [
         "piano"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -733,7 +727,6 @@
         "Harman",
         "clusterProfiler",
         "enrichplot",
-        "pathview",
         "sva"
     ],
     "decontX": [
@@ -773,7 +766,6 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DEWSeq": [],
     "DExMA": [
         "sva"
     ],
@@ -820,7 +812,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "zenith"
     ],
     "DrugVsDisease": [],
@@ -842,8 +833,7 @@
         "sva"
     ],
     "EGSEA": [
-        "GSVA",
-        "pathview"
+        "GSVA"
     ],
     "ELMER": [
         "Gviz"
@@ -860,8 +850,7 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "enrichplot": [],
     "enrichTF": [
@@ -1023,7 +1012,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER",
         "Rsubread"
@@ -1051,8 +1039,7 @@
     ],
     "GDCRNATools": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDNAx": [
         "BiocVersion"
@@ -1094,7 +1081,6 @@
         "Gviz"
     ],
     "GeneticsPed": [],
-    "GeneTonic": [],
     "geneXtendeR": [
         "BiocStyle"
     ],
@@ -1166,8 +1152,7 @@
     "GSEABenchmarkeR": [
         "BiocVersion",
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "gsean": [
         "PPInfer",
@@ -1221,7 +1206,6 @@
     "HTSeqGenie": [
         "chipseq"
     ],
-    "HTSFilter": [],
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
@@ -1263,7 +1247,6 @@
     ],
     "infinityFlow": [],
     "InPAS": [],
-    "INSPEcT": [],
     "intansv": [
         "ggbio"
     ],
@@ -1354,8 +1337,7 @@
     "MAGeCKFlute": [
         "BiocVersion",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [],
     "MAIT": [
@@ -1675,7 +1657,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
@@ -1734,7 +1715,6 @@
         "sva"
     ],
     "OMICsPCA": [],
-    "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
     "ontoProc": [
@@ -1799,7 +1779,6 @@
     "PathoStat": [
         "BiocStyle"
     ],
-    "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
         "Category",
@@ -2146,9 +2125,7 @@
     ],
     "SANTA": [],
     "SARC": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SBMLR": [],
     "SCAN.UPC": [
         "sva"
@@ -2406,7 +2383,6 @@
     ],
     "StarBioTrek": [],
     "STRINGdb": [],
-    "structToolbox": [],
     "sva": [],
     "svaNUMT": [],
     "svaRetro": [],
@@ -2598,8 +2574,7 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "zinbwave": []
 }
