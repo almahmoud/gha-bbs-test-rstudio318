@@ -840,7 +840,6 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [],
     "DEWSeq": [],
     "DExMA": [
         "sva"
@@ -1837,7 +1836,6 @@
     "multiHiCcompare": [],
     "MultiRNAflow": [],
     "mumosa": [],
-    "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
@@ -2774,7 +2772,6 @@
     "uncoverappLib": [
         "Gviz"
     ],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
