@@ -139,7 +139,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "gcrma",
         "genefilter",
@@ -213,7 +212,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "gcrma",
         "genefilter",
@@ -600,7 +598,6 @@
     "anota2seq": [
         "BiocParallel",
         "DESeq2",
-        "edgeR",
         "multtest"
     ],
     "AnVIL": [],
@@ -756,7 +753,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "rtracklayer"
     ],
@@ -771,7 +767,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -806,8 +801,7 @@
         "rGREAT",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqQC": [
         "AnnotationDbi",
@@ -833,7 +827,6 @@
         "TFBSTools",
         "annotate",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "interactiveDisplayBase",
         "motifStack",
@@ -841,8 +834,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqTFEA": [
         "AnnotationDbi",
@@ -859,8 +851,7 @@
         "TFBSTools",
         "annotate",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "atena": [
         "AnnotationDbi",
@@ -890,8 +881,7 @@
         "TFBSTools",
         "annotate",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "attract": [
         "AnnotationDbi",
@@ -916,12 +906,9 @@
     ],
     "autonomics": [
         "MultiAssayExperiment",
-        "edgeR",
         "pcaMethods"
     ],
-    "AWFisher": [
-        "edgeR"
-    ],
+    "AWFisher": [],
     "awst": [],
     "BaalChIP": [
         "BiocParallel",
@@ -960,7 +947,6 @@
         "Rhtslib",
         "Rsamtools",
         "annotate",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -984,8 +970,7 @@
     ],
     "BANDITS": [
         "BiocParallel",
-        "DRIMSeq",
-        "edgeR"
+        "DRIMSeq"
     ],
     "bandle": [
         "AnnotationDbi",
@@ -1038,7 +1023,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -1055,7 +1039,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "glmGamPoi",
         "rhdf5",
         "rhdf5filters",
@@ -1095,7 +1078,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -1110,7 +1092,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -1122,9 +1103,7 @@
         "BiocParallel",
         "SingleCellExperiment"
     ],
-    "baySeq": [
-        "edgeR"
-    ],
+    "baySeq": [],
     "BBCAnalyzer": [
         "AnnotationDbi",
         "BSgenome",
@@ -1182,8 +1161,7 @@
     ],
     "beer": [
         "BiocParallel",
-        "PhIPData",
-        "edgeR"
+        "PhIPData"
     ],
     "benchdamic": [
         "ALDEx2",
@@ -1212,7 +1190,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "edgeR",
         "genefilter",
         "metagenomeSeq",
         "mia",
@@ -1518,7 +1495,6 @@
         "GENIE3",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -1536,9 +1512,7 @@
         "Rgraphviz",
         "pathview"
     ],
-    "BioQC": [
-        "edgeR"
-    ],
+    "BioQC": [],
     "biosigner": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -1554,7 +1528,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -1683,7 +1656,6 @@
         "KEGGREST",
         "Rhdf5lib",
         "annotate",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -1700,7 +1672,6 @@
         "affy",
         "affyio",
         "annotate",
-        "edgeR",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -1981,7 +1952,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "ggbio",
@@ -2260,7 +2230,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scater",
         "scran",
         "scuttle",
@@ -2361,7 +2330,6 @@
         "Rhdf5lib",
         "cytolib",
         "diffcyt",
-        "edgeR",
         "flowCore"
     ],
     "Cepo": [
@@ -2495,7 +2463,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "globaltest",
@@ -2726,7 +2693,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "edgeR",
         "rtracklayer",
         "scater",
         "scran",
@@ -2755,8 +2721,7 @@
         "Rsamtools",
         "TFBSTools",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "CHRONOS": [
         "AnnotationDbi",
@@ -2806,7 +2771,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "edgeR",
         "gwascat",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -2841,7 +2805,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -2949,7 +2912,6 @@
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "edgeR",
         "genefilter",
         "mbkmeans",
         "rhdf5",
@@ -2970,8 +2932,7 @@
     ],
     "clusterSeq": [
         "BiocParallel",
-        "baySeq",
-        "edgeR"
+        "baySeq"
     ],
     "clusterStab": [],
     "clustifyr": [
@@ -3111,7 +3072,6 @@
         "RaggedExperiment",
         "SNPRelate",
         "SeqArray",
-        "edgeR",
         "gdsfmt"
     ],
     "CNVrd2": [
@@ -3272,9 +3232,7 @@
     "COMPASS": [
         "BiocStyle"
     ],
-    "compcodeR": [
-        "edgeR"
-    ],
+    "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -3353,7 +3311,6 @@
         "Rsamtools",
         "ShortRead",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "pcaMethods",
         "rtracklayer"
@@ -3489,12 +3446,10 @@
         "MultiAssayExperiment",
         "SingleCellExperiment"
     ],
-    "CORREP": [],
     "coseq": [
         "BiocParallel",
         "DESeq2",
-        "HTSFilter",
-        "edgeR"
+        "HTSFilter"
     ],
     "CoSIA": [
         "AnnotationDbi",
@@ -3553,7 +3508,6 @@
         "DESeq2",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter"
     ],
     "covEB": [],
@@ -3760,7 +3714,6 @@
         "affy",
         "affyio",
         "annotate",
-        "edgeR",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -3771,8 +3724,7 @@
         "BiocParallel",
         "Biostrings",
         "Rhtslib",
-        "Rsamtools",
-        "edgeR"
+        "Rsamtools"
     ],
     "csdR": [
         "AnnotationDbi",
@@ -3906,7 +3858,6 @@
         "Rhdf5lib",
         "cytolib",
         "diffcyt",
-        "edgeR",
         "flowCore"
     ],
     "cytofQC": [
@@ -4029,10 +3980,8 @@
         "annotate",
         "biomaRt",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
-    "daMA": [],
     "DAMEfinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -4064,7 +4013,6 @@
         "ShortRead",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -4099,7 +4047,6 @@
         "KEGGREST",
         "Linnorm",
         "Rgraphviz",
-        "edgeR",
         "epiNEM",
         "graphite",
         "mnem",
@@ -4133,7 +4080,6 @@
         "annotate",
         "apeglm",
         "clusterProfiler",
-        "edgeR",
         "enrichplot",
         "fgsea",
         "genefilter",
@@ -4174,7 +4120,6 @@
         "beachmat",
         "bluster",
         "celda",
-        "edgeR",
         "scater",
         "scran",
         "scuttle",
@@ -4236,8 +4181,7 @@
     ],
     "DEFormats": [
         "BiocParallel",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "DegNorm": [
         "AnnotationDbi",
@@ -4262,8 +4206,7 @@
         "BiocParallel",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "DEGseq": [],
     "DelayedArray": [],
@@ -4308,7 +4251,6 @@
         "annotate",
         "beachmat",
         "bsseq",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -4316,7 +4258,6 @@
         "sparseMatrixStats",
         "sva"
     ],
-    "demuxmix": [],
     "demuxSNP": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -4332,7 +4273,6 @@
         "SingleCellExperiment",
         "VariantAnnotation",
         "biomaRt",
-        "demuxmix",
         "ensembldb",
         "rtracklayer"
     ],
@@ -4434,8 +4374,7 @@
     "DESpace": [
         "BiocParallel",
         "SingleCellExperiment",
-        "SpatialExperiment",
-        "edgeR"
+        "SpatialExperiment"
     ],
     "destiny": [
         "SingleCellExperiment",
@@ -4443,8 +4382,7 @@
     ],
     "DEsubs": [
         "BiocParallel",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "DEWSeq": [
         "BiocParallel",
@@ -4457,7 +4395,6 @@
         "GEOquery",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "snpStats",
         "sva"
@@ -4508,7 +4445,6 @@
         "FlowSOM",
         "Rhdf5lib",
         "cytolib",
-        "edgeR",
         "flowCore"
     ],
     "DifferentialRegulation": [
@@ -4516,7 +4452,6 @@
         "BiocParallel",
         "DRIMSeq",
         "SingleCellExperiment",
-        "edgeR",
         "tximport"
     ],
     "diffGeneAnalysis": [],
@@ -4531,7 +4466,6 @@
         "Rhtslib",
         "Rsamtools",
         "csaw",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -4554,7 +4488,6 @@
         "Rsubread",
         "annotate",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -4570,7 +4503,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -4643,7 +4575,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "illuminaio",
@@ -4726,7 +4657,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -4743,9 +4673,7 @@
         "KEGGREST",
         "fgsea"
     ],
-    "doseR": [
-        "edgeR"
-    ],
+    "doseR": [],
     "doubletrouble": [
         "AnnotationDbi",
         "BiocIO",
@@ -4776,7 +4704,6 @@
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "edgeR",
         "graphite",
         "pathview",
         "safe",
@@ -4785,8 +4712,7 @@
         "zenith"
     ],
     "DRIMSeq": [
-        "BiocParallel",
-        "edgeR"
+        "BiocParallel"
     ],
     "DropletUtils": [
         "BiocParallel",
@@ -4795,7 +4721,6 @@
         "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle",
@@ -4892,7 +4817,6 @@
         "Rsamtools",
         "ShortRead",
         "biomaRt",
-        "edgeR",
         "genomeIntervals"
     ],
     "EBarrays": [],
@@ -4927,11 +4851,9 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
-    "edgeR": [],
     "EDIRquery": [
         "InteractionSet"
     ],
@@ -4956,7 +4878,6 @@
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "edgeR",
         "gage",
         "globaltest",
         "multtest",
@@ -4970,9 +4891,7 @@
     "eiR": [
         "ChemmineR"
     ],
-    "eisaR": [
-        "edgeR"
-    ],
+    "eisaR": [],
     "ELMER": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -5015,8 +4934,7 @@
         "TFBSTools",
         "annotate",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "EnMCB": [],
     "ENmix": [
@@ -5063,7 +4981,6 @@
         "Rgraphviz",
         "SPIA",
         "annotate",
-        "edgeR",
         "graphite",
         "pathview",
         "safe"
@@ -5100,8 +5017,7 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "enrichViewNet": [
         "AnnotationDbi",
@@ -5218,7 +5134,6 @@
         "Rsamtools",
         "bamsignals",
         "csaw",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -5374,9 +5289,7 @@
         "epivizrData",
         "rtracklayer"
     ],
-    "erccdashboard": [
-        "edgeR"
-    ],
+    "erccdashboard": [],
     "erma": [
         "AnnotationDbi",
         "BSgenome",
@@ -5397,8 +5310,7 @@
     "ERSSA": [
         "BiocParallel",
         "DESeq2",
-        "apeglm",
-        "edgeR"
+        "apeglm"
     ],
     "esATAC": [
         "AnnotationDbi",
@@ -5427,8 +5339,7 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "escape": [
         "AnnotationDbi",
@@ -5601,7 +5512,6 @@
         "biomaRt",
         "biovizBase",
         "csaw",
-        "edgeR",
         "ensembldb",
         "rtracklayer"
     ],
@@ -5816,7 +5726,6 @@
         "biovizBase",
         "bluster",
         "dir.expiry",
-        "edgeR",
         "ensembldb",
         "ggbio",
         "rhdf5",
@@ -5896,7 +5805,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowGraph": [],
     "flowMatch": [
         "Rhdf5lib",
         "cytolib",
@@ -6094,7 +6002,6 @@
         "KEGGREST"
     ],
     "gaggle": [],
-    "GAprediction": [],
     "GARS": [
         "AnnotationDbi",
         "BiocIO",
@@ -6112,7 +6019,6 @@
         "ShortRead",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sSeq",
@@ -6168,7 +6074,6 @@
         "Rgraphviz",
         "biomaRt",
         "clusterProfiler",
-        "edgeR",
         "enrichplot",
         "fgsea",
         "ggtree",
@@ -6487,11 +6392,9 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "edgeR",
         "genomation",
         "plyranges",
         "rtracklayer",
-        "seqLogo",
         "seqPattern"
     ],
     "GenomicRanges": [],
@@ -6541,7 +6444,6 @@
         "GEOquery",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -6589,8 +6491,7 @@
     "getDEE2": [],
     "gg4way": [
         "BiocParallel",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "ggbio": [
         "AnnotationDbi",
@@ -6670,8 +6571,7 @@
     "GLAD": [],
     "Glimma": [
         "BiocParallel",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "glmGamPoi": [
         "DelayedMatrixStats",
@@ -6889,7 +6789,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "granulator": [],
     "GraphAlignment": [],
     "GraphAT": [],
     "graphite": [
@@ -6948,7 +6847,6 @@
         "Rgraphviz",
         "SPIA",
         "annotate",
-        "edgeR",
         "graphite",
         "interactiveDisplayBase",
         "pathview",
@@ -7126,7 +7024,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -7144,7 +7041,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "HDTD": [],
     "heatmaps": [
         "Biostrings",
         "EBImage"
@@ -7174,8 +7070,7 @@
         "DESeq2",
         "KEGGREST",
         "MultiAssayExperiment",
-        "biomaRt",
-        "edgeR"
+        "biomaRt"
     ],
     "HERON": [
         "multtest"
@@ -7191,7 +7086,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "HIBAG": [],
     "HiCBricks": [
         "BiocParallel",
         "Rhdf5lib",
@@ -7231,7 +7125,6 @@
         "HiCcompare",
         "InteractionSet",
         "Rhdf5lib",
-        "edgeR",
         "multiHiCcompare",
         "rhdf5",
         "rhdf5filters"
@@ -7365,8 +7258,7 @@
     ],
     "HTSFilter": [
         "BiocParallel",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "HubPub": [],
     "HumanTranscriptomeCompendium": [
@@ -7382,7 +7274,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iASeq": [],
     "iasva": [
         "BiocParallel"
     ],
@@ -7404,7 +7295,6 @@
         "VariantAnnotation",
         "biomaRt",
         "csaw",
-        "edgeR",
         "rtracklayer"
     ],
     "iCheck": [
@@ -7607,15 +7497,13 @@
         "sparseMatrixStats"
     ],
     "infercnv": [
-        "SingleCellExperiment",
-        "edgeR"
+        "SingleCellExperiment"
     ],
     "infinityFlow": [
         "Rhdf5lib",
         "cytolib",
         "flowCore"
     ],
-    "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -7717,11 +7605,9 @@
         "VariantAnnotation",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "geneplotter",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "InterMineR": [
         "Biostrings"
@@ -7786,7 +7672,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "SingleCellExperiment",
-        "edgeR",
         "iSEE"
     ],
     "iSEEhex": [
@@ -7851,7 +7736,6 @@
         "Rsamtools",
         "annotate",
         "biomaRt",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "geneplotter",
@@ -7870,8 +7754,7 @@
         "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2",
-        "KEGGREST",
-        "edgeR"
+        "KEGGREST"
     ],
     "ITALICS": [
         "Biostrings",
@@ -7992,7 +7875,6 @@
         "KEGGREST",
         "annotate",
         "cqn",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -8184,7 +8066,6 @@
     ],
     "Maaslin2": [
         "Wrench",
-        "edgeR",
         "metagenomeSeq"
     ],
     "Macarron": [
@@ -8194,7 +8075,6 @@
         "KEGGREST",
         "Maaslin2",
         "Wrench",
-        "edgeR",
         "metagenomeSeq"
     ],
     "macat": [
@@ -8408,7 +8288,6 @@
         "KEGGREST",
         "SingleCellExperiment",
         "annotate",
-        "edgeR",
         "interactiveDisplayBase"
     ],
     "MatrixQCvis": [
@@ -8440,8 +8319,7 @@
         "Rsamtools",
         "TFBSTools",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "matter": [
         "BiocParallel"
@@ -8459,7 +8337,6 @@
         "Rhdf5lib",
         "annotate",
         "biomformat",
-        "edgeR",
         "genefilter",
         "multtest",
         "phyloseq",
@@ -8544,7 +8421,6 @@
         "biomaRt",
         "biovizBase",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "illuminaio",
@@ -8600,7 +8476,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "edgeR",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -8616,7 +8491,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "edgeR",
         "rtracklayer"
     ],
     "MEDME": [
@@ -8816,7 +8690,6 @@
         "beachmat",
         "biomaRt",
         "bsseq",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -9028,9 +8901,7 @@
         "rtracklayer"
     ],
     "MethylMix": [],
-    "methylMnM": [
-        "edgeR"
-    ],
+    "methylMnM": [],
     "methylPipe": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9238,7 +9109,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "edgeR",
         "ggtree",
         "metagenomeSeq",
         "mia",
@@ -9289,8 +9159,7 @@
         "BiocSingular",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "beachmat",
-        "edgeR"
+        "beachmat"
     ],
     "mimager": [
         "Biostrings",
@@ -9509,7 +9378,6 @@
     "MLSeq": [
         "BiocParallel",
         "DESeq2",
-        "edgeR",
         "sSeq"
     ],
     "MMDiff2": [
@@ -9525,7 +9393,6 @@
     "MMUPHin": [
         "Maaslin2",
         "Wrench",
-        "edgeR",
         "metagenomeSeq"
     ],
     "mnem": [
@@ -9536,7 +9403,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "edgeR",
         "topGO"
     ],
     "MobilityTransformR": [
@@ -9620,8 +9486,7 @@
         "Rsamtools",
         "TFBSTools",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "monocle": [
         "biocViews"
@@ -9683,7 +9548,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "edgeR",
         "rtracklayer"
     ],
     "motifbreakR": [
@@ -9709,8 +9573,7 @@
         "biovizBase",
         "ensembldb",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifcounter": [
         "Biostrings"
@@ -9738,8 +9601,7 @@
         "Rsamtools",
         "TFBSTools",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifStack": [
         "AnnotationDbi",
@@ -9755,8 +9617,7 @@
         "Rsamtools",
         "TFBSTools",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "MouseFM": [
         "AnnotationDbi",
@@ -9797,8 +9658,7 @@
         "BiocParallel",
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsBackendSql": [
         "BiocParallel",
@@ -9846,7 +9706,6 @@
         "biomaRt",
         "biovizBase",
         "easyRNASeq",
-        "edgeR",
         "ensembldb",
         "genomeIntervals",
         "ggbio",
@@ -9861,7 +9720,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -9890,7 +9748,6 @@
         "Rhdf5lib",
         "affy",
         "affyio",
-        "edgeR",
         "msmsEDA",
         "mzID",
         "mzR",
@@ -9921,7 +9778,6 @@
         "Rhdf5lib",
         "affy",
         "affyio",
-        "edgeR",
         "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests",
@@ -9936,7 +9792,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "pcaMethods",
         "sva"
@@ -10091,7 +9946,6 @@
         "HiCcompare",
         "InteractionSet",
         "Rhdf5lib",
-        "edgeR",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -10128,7 +9982,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -10158,7 +10011,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "edgeR",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -10270,7 +10122,6 @@
         "biomaRt",
         "biovizBase",
         "csaw",
-        "edgeR",
         "ensembldb",
         "interactiveDisplayBase",
         "motifStack",
@@ -10279,7 +10130,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -10433,7 +10283,6 @@
         "annotate",
         "beachmat",
         "clusterExperiment",
-        "edgeR",
         "genefilter",
         "mbkmeans",
         "rhdf5",
@@ -10467,7 +10316,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "edgeR",
         "genefilter",
         "illuminaio",
         "minfi",
@@ -10610,7 +10458,6 @@
         "annotate",
         "beachmat",
         "biomaRt",
-        "edgeR",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -10685,7 +10532,6 @@
         "KEGGREST",
         "MultiDataSet",
         "annotate",
-        "edgeR",
         "genefilter",
         "made4",
         "omicade4",
@@ -10913,7 +10759,6 @@
         "affyio",
         "annotate",
         "biomaRt",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -10927,7 +10772,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -10957,8 +10801,7 @@
         "TFBSTools",
         "annotate",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PAIRADISE": [
         "BiocParallel"
@@ -10977,7 +10820,6 @@
         "Rsamtools",
         "annotate",
         "biomaRt",
-        "edgeR",
         "fgsea",
         "genefilter",
         "geneplotter",
@@ -11057,7 +10899,6 @@
         "DESeq2",
         "Rhdf5lib",
         "biomformat",
-        "edgeR",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -11105,7 +10946,6 @@
         "beachmat",
         "sparseMatrixStats"
     ],
-    "pcxn": [],
     "PDATK": [
         "AIMS",
         "AnnotationDbi",
@@ -11195,7 +11035,6 @@
         "GEOquery",
         "KEGGREST",
         "Rhdf5lib",
-        "edgeR",
         "fgsea",
         "rhdf5",
         "rhdf5filters"
@@ -11242,9 +11081,7 @@
     "philr": [
         "ggtree"
     ],
-    "PhIPData": [
-        "edgeR"
-    ],
+    "PhIPData": [],
     "PhosR": [
         "pcaMethods"
     ],
@@ -11331,7 +11168,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scater",
         "scran",
         "scuttle",
@@ -11436,9 +11272,7 @@
         "MAST",
         "SingleCellExperiment"
     ],
-    "ppcseq": [
-        "edgeR"
-    ],
+    "ppcseq": [],
     "PPInfer": [
         "AnnotationDbi",
         "BiocParallel",
@@ -11531,8 +11365,7 @@
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PrInCE": [
         "BiocParallel",
@@ -11655,16 +11488,13 @@
         "KEGGREST",
         "annotate"
     ],
-    "PROPER": [
-        "edgeR"
-    ],
+    "PROPER": [],
     "PROPS": [
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -11746,7 +11576,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "edgeR",
         "interactiveDisplayBase",
         "recount",
         "rtracklayer"
@@ -11835,8 +11664,7 @@
         "rtracklayer"
     ],
     "PWMEnrich": [
-        "Biostrings",
-        "seqLogo"
+        "Biostrings"
     ],
     "pwOmics": [
         "AnnotationDbi",
@@ -11917,7 +11745,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -11930,7 +11757,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -12131,7 +11957,6 @@
         "rtracklayer"
     ],
     "Rarr": [],
-    "rawrr": [],
     "RbcBook1": [],
     "Rbec": [
         "BiocParallel",
@@ -12172,7 +11997,6 @@
         "biomaRt",
         "genomation",
         "rtracklayer",
-        "seqLogo",
         "seqPattern"
     ],
     "RCASPAR": [],
@@ -12198,7 +12022,6 @@
         "Biostrings",
         "Rhdf5lib",
         "biomformat",
-        "edgeR",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -12234,7 +12057,6 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
         "BiocParallel",
@@ -12382,7 +12204,6 @@
         "TOAST",
         "beachmat",
         "bluster",
-        "edgeR",
         "fgsea",
         "rhdf5",
         "rhdf5filters",
@@ -12432,12 +12253,9 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "edgeR",
         "rtracklayer"
     ],
-    "regsplice": [
-        "edgeR"
-    ],
+    "regsplice": [],
     "regutools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -12506,7 +12324,6 @@
         "affy",
         "affyio",
         "annotate",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -12534,7 +12351,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "ggbio",
@@ -12615,8 +12431,7 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rGenomeTracks": [
         "AnnotationDbi",
@@ -12765,9 +12580,7 @@
         "Biostrings",
         "Rhtslib",
         "Rsamtools",
-        "baySeq",
-        "edgeR",
-        "seqLogo"
+        "baySeq"
     ],
     "ribosomeProfilingQC": [
         "AnnotationDbi",
@@ -12789,10 +12602,8 @@
         "TFBSTools",
         "annotate",
         "biomaRt",
-        "edgeR",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rifi": [
         "BiocIO",
@@ -12909,7 +12720,6 @@
         "pcaMethods",
         "vsn"
     ],
-    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "BiocIO",
@@ -13070,8 +12880,7 @@
     ],
     "RNAsense": [],
     "RNAseqCovarImpute": [
-        "BiocParallel",
-        "edgeR"
+        "BiocParallel"
     ],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
@@ -13092,7 +12901,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "edgeR",
         "recount",
         "rtracklayer"
     ],
@@ -13153,9 +12961,7 @@
         "MultiAssayExperiment",
         "MultiDataSet"
     ],
-    "ROSeq": [
-        "edgeR"
-    ],
+    "ROSeq": [],
     "ROTS": [],
     "RPA": [
         "BiocStyle",
@@ -13301,12 +13107,9 @@
         "Rsamtools",
         "ShortRead",
         "biomaRt",
-        "edgeR",
         "rtracklayer"
     ],
-    "Rvisdiff": [
-        "edgeR"
-    ],
+    "Rvisdiff": [],
     "RVS": [
         "snpStats"
     ],
@@ -13388,7 +13191,6 @@
         "affy",
         "affyio",
         "annotate",
-        "edgeR",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -13396,8 +13198,7 @@
     ],
     "scanMiR": [
         "BiocParallel",
-        "Biostrings",
-        "seqLogo"
+        "Biostrings"
     ],
     "scanMiRApp": [
         "AnnotationDbi",
@@ -13416,8 +13217,7 @@
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
-        "scanMiR",
-        "seqLogo"
+        "scanMiR"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
@@ -13477,7 +13277,6 @@
         "KEGGREST",
         "SingleCellExperiment",
         "annotate",
-        "edgeR",
         "genefilter",
         "zinbwave"
     ],
@@ -13492,7 +13291,6 @@
         "Rhdf5lib",
         "SingleCellExperiment",
         "beachmat",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scuttle",
@@ -13538,7 +13336,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "rtracklayer",
         "scater",
         "scran",
@@ -13554,7 +13351,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -13566,7 +13362,6 @@
     ],
     "scde": [
         "BiocParallel",
-        "edgeR",
         "pcaMethods"
     ],
     "scDesign3": [
@@ -13605,7 +13400,6 @@
         "beachmat",
         "biomaRt",
         "bluster",
-        "edgeR",
         "ensembldb",
         "multtest",
         "rhdf5",
@@ -13653,7 +13447,6 @@
         "batchelor",
         "beachmat",
         "bluster",
-        "edgeR",
         "scater",
         "scran",
         "scuttle",
@@ -13710,7 +13503,6 @@
         "ShortRead",
         "SingleCellExperiment",
         "biomaRt",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -13778,7 +13570,6 @@
         "beachmat",
         "biomaRt",
         "dir.expiry",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -13794,7 +13585,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -13807,9 +13597,7 @@
     "screenCounter": [
         "BiocParallel"
     ],
-    "ScreenR": [
-        "edgeR"
-    ],
+    "ScreenR": [],
     "scRepertoire": [
         "SingleCellExperiment"
     ],
@@ -13921,7 +13709,6 @@
         "biomaRt",
         "bluster",
         "bumphunter",
-        "edgeR",
         "ensembldb",
         "epivizr",
         "epivizrData",
@@ -13985,8 +13772,7 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "baySeq",
-        "edgeR"
+        "baySeq"
     ],
     "selectKSigs": [
         "AnnotationDbi",
@@ -14083,7 +13869,6 @@
         "KEGGREST",
         "biomaRt"
     ],
-    "seqLogo": [],
     "seqPattern": [
         "Biostrings"
     ],
@@ -14132,7 +13917,6 @@
         "DESeq2",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sechm",
         "sva"
@@ -14391,7 +14175,6 @@
         "sparseMatrixStats"
     ],
     "SIMD": [
-        "edgeR",
         "methylMnM"
     ],
     "SimFFPE": [
@@ -14438,7 +14221,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "multtest",
         "scran",
         "scuttle",
@@ -14484,7 +14266,6 @@
         "bluster",
         "celda",
         "dir.expiry",
-        "edgeR",
         "ensembldb",
         "genefilter",
         "ggtree",
@@ -14539,8 +14320,7 @@
         "Biostrings",
         "GSEABase",
         "KEGGREST",
-        "annotate",
-        "edgeR"
+        "annotate"
     ],
     "SiPSiC": [
         "SingleCellExperiment"
@@ -14739,7 +14519,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "edgeR",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -14758,7 +14537,6 @@
         "GSEABase",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "sparseMatrixStats"
     ],
     "SparseArray": [],
@@ -14812,7 +14590,6 @@
         "annotate",
         "beachmat",
         "bluster",
-        "edgeR",
         "genefilter",
         "scater",
         "scran",
@@ -14850,12 +14627,10 @@
         "biovizBase",
         "ensembldb",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "speckle": [
-        "SingleCellExperiment",
-        "edgeR"
+        "SingleCellExperiment"
     ],
     "specL": [],
     "SpeCond": [],
@@ -14917,7 +14692,6 @@
         "DelayedMatrixStats",
         "SingleCellExperiment",
         "beachmat",
-        "edgeR",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -14985,8 +14759,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "splots": [],
     "SpotClean": [
@@ -15008,7 +14781,6 @@
         "Rhdf5lib",
         "SingleCellExperiment",
         "biomformat",
-        "edgeR",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -15038,7 +14810,6 @@
         "baySeq",
         "biomaRt",
         "biovizBase",
-        "edgeR",
         "ensembldb",
         "rtracklayer"
     ],
@@ -15051,7 +14822,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "edgeR",
         "graphite"
     ],
     "ssPATHS": [],
@@ -15079,7 +14849,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "biomaRt",
-        "edgeR",
         "rtracklayer"
     ],
     "staRank": [
@@ -15106,8 +14875,7 @@
     ],
     "STATegRa": [
         "affy",
-        "affyio",
-        "edgeR"
+        "affyio"
     ],
     "Statial": [
         "BiocParallel",
@@ -15195,7 +14963,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter"
     ],
     "svaNUMT": [
@@ -15369,7 +15136,6 @@
         "SingleCellExperiment",
         "annotate",
         "beachmat",
-        "edgeR",
         "genefilter",
         "rhdf5",
         "rhdf5filters",
@@ -15380,8 +15146,7 @@
     "TCC": [
         "BiocParallel",
         "DESeq2",
-        "baySeq",
-        "edgeR"
+        "baySeq"
     ],
     "TCGAbiolinks": [
         "AnnotationDbi",
@@ -15410,8 +15175,7 @@
         "Biostrings",
         "GenomicAlignments",
         "Rhtslib",
-        "Rsamtools",
-        "edgeR"
+        "Rsamtools"
     ],
     "TDbasedUFE": [
         "tximport"
@@ -15498,8 +15262,7 @@
         "Rhtslib",
         "Rsamtools",
         "annotate",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "TFEA.ChIP": [
         "AnnotationDbi",
@@ -15734,7 +15497,6 @@
         "BiocParallel",
         "SingleCellExperiment",
         "TrajectoryUtils",
-        "edgeR",
         "slingshot"
     ],
     "TrajectoryGeometry": [],
@@ -15785,7 +15547,6 @@
         "GOSemSim",
         "KEGGREST",
         "anota",
-        "edgeR",
         "multtest",
         "topGO"
     ],
@@ -15821,7 +15582,6 @@
         "SingleCellExperiment",
         "cytolib",
         "diffcyt",
-        "edgeR",
         "flowCore",
         "ggtree",
         "hopach"
@@ -15869,7 +15629,6 @@
         "Biostrings",
         "KEGGREST",
         "annotate",
-        "edgeR",
         "genefilter",
         "sva"
     ],
@@ -15940,8 +15699,7 @@
         "rtracklayer"
     ],
     "tweeDEseq": [
-        "cqn",
-        "edgeR"
+        "cqn"
     ],
     "twilight": [],
     "twoddpcr": [],
@@ -16192,7 +15950,6 @@
         "Rsamtools",
         "annotate",
         "ballgown",
-        "edgeR",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -16242,8 +15999,7 @@
     "VennDetail": [],
     "vidger": [
         "BiocParallel",
-        "DESeq2",
-        "edgeR"
+        "DESeq2"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -16330,7 +16086,6 @@
         "apeglm",
         "biomaRt",
         "csaw",
-        "edgeR",
         "ensembldb",
         "multtest",
         "regioneR",
@@ -16437,8 +16192,7 @@
         "vsn"
     ],
     "xcore": [
-        "MultiAssayExperiment",
-        "edgeR"
+        "MultiAssayExperiment"
     ],
     "XDE": [
         "AnnotationDbi",
@@ -16521,7 +16275,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "edgeR",
         "genefilter",
         "illuminaio",
         "minfi",
@@ -16550,7 +16303,6 @@
         "Rgraphviz",
         "SPIA",
         "annotate",
-        "edgeR",
         "graphite",
         "pathview",
         "safe",
@@ -16564,7 +16316,6 @@
         "KEGGREST",
         "SingleCellExperiment",
         "annotate",
-        "edgeR",
         "genefilter"
     ],
     "ZygosityPredictor": [
