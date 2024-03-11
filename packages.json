@@ -31,7 +31,6 @@
         "Rsamtools"
     ],
     "aCGH": [],
-    "ACME": [],
     "ADaCGH2": [
         "GLAD",
         "aCGH",
@@ -61,7 +60,6 @@
     "affycoretools": [
         "AnnotationForge",
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "DESeq2",
@@ -106,7 +104,6 @@
     "AgiMicroRna": [
         "AnnotationForge",
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "DESeq2",
@@ -135,7 +132,6 @@
         "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -150,14 +146,12 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
     ],
     "alabaster": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -187,7 +181,6 @@
         "alabaster.schemas"
     ],
     "alabaster.files": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -244,7 +237,6 @@
     ],
     "alabaster.vcf": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -268,7 +260,6 @@
     ],
     "AllelicImbalance": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -311,7 +302,6 @@
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
         "bluster",
@@ -345,7 +335,6 @@
     "AnnotationHubData": [
         "AnnotationForge",
         "BiocCheck",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -358,7 +347,6 @@
     "annotationTools": [],
     "annotatr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -382,7 +370,6 @@
     ],
     "APAlyzer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -402,7 +389,6 @@
     ],
     "appreci8R": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -421,7 +407,6 @@
         "oligoClasses"
     ],
     "arrayMvout": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -464,7 +449,6 @@
     ],
     "ASpli": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "GenomicAlignments",
@@ -490,7 +474,6 @@
     "ASURAT": [],
     "ATACCoGAPS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "CoGAPS",
@@ -509,7 +492,6 @@
     ],
     "ATACseqQC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "CNEr",
@@ -529,7 +511,6 @@
     ],
     "ATACseqTFEA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -547,7 +528,6 @@
     ],
     "atSNP": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -585,7 +565,6 @@
     "BADER": [],
     "BadRegionFinder": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -595,7 +574,6 @@
         "rtracklayer"
     ],
     "ballgown": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -606,7 +584,6 @@
     ],
     "bambu": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -644,7 +621,6 @@
     "BaseSpaceR": [],
     "Basic4Cseq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -655,7 +631,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
@@ -668,7 +643,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "HDF5Array",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "glmGamPoi",
@@ -693,7 +667,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ResidualMatrix",
-        "ScaledMatrix",
         "beachmat",
         "scuttle"
     ],
@@ -708,7 +681,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scater",
@@ -721,7 +693,6 @@
     "baySeq": [],
     "BBCAnalyzer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -745,7 +716,6 @@
     "BEARscc": [],
     "BEAT": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -756,8 +726,7 @@
         "BiocParallel"
     ],
     "beer": [
-        "BiocParallel",
-        "PhIPData"
+        "BiocParallel"
     ],
     "benchdamic": [
         "ALDEx2",
@@ -771,7 +740,6 @@
         "MAST",
         "Maaslin2",
         "NOISeq",
-        "ScaledMatrix",
         "TreeSummarizedExperiment",
         "annotate",
         "beachmat",
@@ -788,7 +756,6 @@
         "zinbwave"
     ],
     "BgeeCall": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -813,7 +780,6 @@
         "hyperdraw"
     ],
     "bigmelon": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -834,7 +800,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -842,18 +807,14 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "bioCancer": [
         "AnVIL",
-        "BiocIO",
         "BiocParallel",
         "DOSE",
         "EBarrays",
         "GOSemSim",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -885,12 +846,10 @@
     "BiocHubsShiny": [
         "BiocVersion"
     ],
-    "BiocIO": [],
     "BiocNeighbors": [
         "BiocParallel"
     ],
     "BiocOncoTK": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -908,12 +867,9 @@
     ],
     "BiocParallel": [],
     "BiocPkgTools": [],
-    "BiocSet": [
-        "BiocIO"
-    ],
+    "BiocSet": [],
     "BiocSingular": [
         "BiocParallel",
-        "ScaledMatrix",
         "beachmat"
     ],
     "BiocSklearn": [
@@ -961,7 +917,6 @@
     ],
     "biomvRCNS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1000,7 +955,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
@@ -1011,7 +965,6 @@
     ],
     "biovizBase": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1023,7 +976,6 @@
     ],
     "biscuiteer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "CGHbase",
@@ -1046,7 +998,6 @@
         "rtracklayer"
     ],
     "BiSeq": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1102,7 +1053,6 @@
     ],
     "BOBaFIT": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1118,7 +1068,6 @@
     ],
     "borealis": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DSS",
         "DelayedMatrixStats",
@@ -1135,7 +1084,6 @@
     "BRAIN": [],
     "brainflowprobes": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -1155,7 +1103,6 @@
     ],
     "branchpointer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1171,7 +1118,6 @@
         "BiocParallel"
     ],
     "BRGenomics": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -1179,7 +1125,6 @@
         "rtracklayer"
     ],
     "BSgenome": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1187,7 +1132,6 @@
     ],
     "BSgenomeForge": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1195,7 +1139,6 @@
     ],
     "bsseq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -1206,7 +1149,6 @@
     ],
     "BubbleTree": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "GenomicAlignments",
@@ -1224,7 +1166,6 @@
     ],
     "BUMHMM": [],
     "bumphunter": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1234,7 +1175,6 @@
     ],
     "BUSpaRse": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1248,7 +1188,6 @@
     "CAEN": [],
     "CAFE": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1264,7 +1203,6 @@
     ],
     "CAGEfightR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1281,7 +1219,6 @@
     "cageminer": [
         "BSgenome",
         "BioNERO",
-        "BiocIO",
         "BiocParallel",
         "GENIE3",
         "GenomicAlignments",
@@ -1300,7 +1237,6 @@
     ],
     "CAGEr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CAGEfightR",
         "DelayedMatrixStats",
@@ -1333,13 +1269,11 @@
     ],
     "canceR": [
         "AnVIL",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "EBarrays",
         "GSEABase",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -1356,15 +1290,13 @@
     ],
     "cardelino": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "Cardinal": [
         "BiocParallel",
@@ -1377,7 +1309,6 @@
     ],
     "CARNIVAL": [],
     "casper": [
-        "BiocIO",
         "BiocParallel",
         "EBarrays",
         "GenomicAlignments",
@@ -1394,7 +1325,6 @@
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
-        "ScaledMatrix",
         "beachmat",
         "cytolib",
         "flowCore",
@@ -1417,10 +1347,8 @@
     ],
     "cbaf": [
         "AnVIL",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -1433,17 +1361,14 @@
         "rtracklayer"
     ],
     "CBEA": [
-        "BiocIO",
         "BiocParallel",
         "BiocSet",
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
         "AnVIL",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -1489,7 +1414,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scater",
@@ -1523,7 +1447,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "fgsea",
         "scater",
@@ -1538,7 +1461,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
@@ -1579,12 +1501,10 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "snpStats"
+        "fgsea"
     ],
     "CexoR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1601,7 +1521,6 @@
     ],
     "cfDNAPro": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1632,7 +1551,6 @@
     ],
     "ChAMP": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DMRcate",
@@ -1663,14 +1581,12 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineR": [],
     "CHETAH": [],
     "chihaya": [
         "HDF5Array"
     ],
     "chimeraviz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "GenomicAlignments",
@@ -1686,7 +1602,6 @@
     ],
     "ChIPanalyser": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1694,14 +1609,12 @@
     ],
     "ChIPComp": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer"
     ],
     "chipenrich": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1709,7 +1622,6 @@
     ],
     "ChIPexoQual": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1722,7 +1634,6 @@
     ],
     "ChIPpeakAnno": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1734,7 +1645,6 @@
     ],
     "ChIPQC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DiffBind",
@@ -1749,7 +1659,6 @@
         "systemPipeR"
     ],
     "ChIPseeker": [
-        "BiocIO",
         "BiocParallel",
         "DOSE",
         "GOSemSim",
@@ -1786,7 +1695,6 @@
         "oligoClasses"
     ],
     "ChromHeatMap": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1797,7 +1705,6 @@
         "biomaRt"
     ],
     "ChromSCape": [
-        "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
@@ -1806,7 +1713,6 @@
         "GenomicAlignments",
         "ResidualMatrix",
         "Rsamtools",
-        "ScaledMatrix",
         "batchelor",
         "beachmat",
         "bluster",
@@ -1823,7 +1729,6 @@
     ],
     "chromVAR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -1837,7 +1742,6 @@
     ],
     "cicero": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1856,7 +1760,6 @@
     "CINdex": [],
     "circRNAprofiler": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DESeq2",
@@ -1867,11 +1770,9 @@
         "biomaRt",
         "gwascat",
         "rtracklayer",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1889,7 +1790,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
@@ -1902,7 +1802,6 @@
     ],
     "cleanUpdTSeq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1911,7 +1810,6 @@
     "cleaver": [],
     "clevRvis": [],
     "clipper": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1925,7 +1823,6 @@
     ],
     "cliProfiler": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -1959,7 +1856,6 @@
         "BiocParallel",
         "BiocSingular",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat",
         "genefilter",
@@ -1998,7 +1894,6 @@
         "exomeCopy"
     ],
     "CNEr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -2027,7 +1922,6 @@
     ],
     "CNVfilteR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CopyNumberPlots",
         "GenomicAlignments",
@@ -2047,7 +1941,6 @@
     "cnvGSA": [],
     "CNViz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CopyNumberPlots",
         "GenomicAlignments",
@@ -2083,7 +1976,6 @@
     ],
     "CNVrd2": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2095,7 +1987,6 @@
     "CoCiteStats": [],
     "COCOA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -2111,7 +2002,6 @@
     ],
     "CODEX": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -2124,7 +2014,6 @@
     ],
     "cogeqc": [],
     "Cogito": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2136,7 +2025,6 @@
     "cola": [],
     "comapr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2154,7 +2042,6 @@
     ],
     "coMET": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2167,7 +2054,6 @@
         "rtracklayer"
     ],
     "coMethDMR": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -2182,7 +2068,6 @@
     ],
     "compEpiTools": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2198,7 +2083,6 @@
     ],
     "CompoundDb": [
         "BiocParallel",
-        "ChemmineR",
         "MetaboCoreUtils",
         "Spectra"
     ],
@@ -2211,7 +2095,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "TrajectoryUtils",
         "beachmat",
         "distinct",
@@ -2230,7 +2113,6 @@
     "consensus": [],
     "ConsensusClusterPlus": [],
     "consensusDE": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "EDASeq",
@@ -2251,14 +2133,12 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat",
         "biomaRt",
         "genefu"
     ],
     "consensusSeekeR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -2270,7 +2150,6 @@
     ],
     "contiBAIT": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2282,7 +2161,6 @@
         "rtracklayer"
     ],
     "conumee": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -2301,7 +2179,6 @@
     "convert": [],
     "CopyNumberPlots": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2359,7 +2236,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "PCAtools",
-        "ScaledMatrix",
         "beachmat"
     ],
     "countsimQC": [
@@ -2369,7 +2245,6 @@
         "genefilter"
     ],
     "CoverageView": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -2380,7 +2255,6 @@
         "genefilter"
     ],
     "cpvSNP": [
-        "BiocIO",
         "BiocParallel",
         "GSEABase",
         "GenomicAlignments",
@@ -2397,7 +2271,6 @@
     "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rbowtie",
@@ -2407,7 +2280,6 @@
     ],
     "crisprBwa": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rbwa",
@@ -2417,7 +2289,6 @@
     ],
     "crisprDesign": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -2442,7 +2313,6 @@
     ],
     "CRISPRseek": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -2455,7 +2325,6 @@
     ],
     "crisprVerse": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -2479,7 +2348,6 @@
     ],
     "crisprViz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -2519,7 +2387,6 @@
     ],
     "csdR": [],
     "CSSQ": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2543,7 +2410,6 @@
     ],
     "cummeRbund": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2559,12 +2425,10 @@
         "HDF5Array"
     ],
     "customCMPdb": [
-        "BiocVersion",
-        "ChemmineR"
+        "BiocVersion"
     ],
     "customProDB": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2611,7 +2475,6 @@
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
-        "ScaledMatrix",
         "beachmat",
         "cytolib",
         "flowCore",
@@ -2682,7 +2545,6 @@
     ],
     "dagLogo": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -2696,7 +2558,6 @@
     ],
     "DAMEfinder": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2707,7 +2568,6 @@
         "rtracklayer"
     ],
     "DaMiRseq": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "EDASeq",
@@ -2772,7 +2632,6 @@
     "DECIPHER": [],
     "decompTumor2Sig": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2790,7 +2649,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "celda",
@@ -2799,7 +2657,6 @@
         "scuttle"
     ],
     "deconvR": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -2817,7 +2674,6 @@
         "siggenes"
     ],
     "DeepBlueR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -2825,7 +2681,6 @@
     ],
     "deepSNV": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2839,7 +2694,6 @@
         "DESeq2"
     ],
     "DegNorm": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2865,7 +2719,6 @@
         "BiocSingular",
         "DelayedRandomArray",
         "HDF5Array",
-        "ScaledMatrix",
         "beachmat"
     ],
     "DELocal": [
@@ -2878,7 +2731,6 @@
     ],
     "DeMixT": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DSS",
         "DelayedMatrixStats",
@@ -2894,7 +2746,6 @@
     ],
     "demuxSNP": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2926,7 +2777,6 @@
     ],
     "derfinder": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2939,7 +2789,6 @@
     ],
     "derfinderPlot": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2957,7 +2806,6 @@
     ],
     "DEScan2": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "ChIPpeakAnno",
         "GenomicAlignments",
@@ -2993,7 +2841,6 @@
         "BiocParallel",
         "annotate",
         "genefilter",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
@@ -3011,7 +2858,6 @@
     ],
     "DiffBind": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -3039,7 +2885,6 @@
     "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -3048,7 +2893,6 @@
     ],
     "diffuStats": [],
     "diffUTR": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DEXSeq",
@@ -3069,7 +2913,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
@@ -3084,21 +2927,18 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
     ],
     "dittoSeq": [],
     "DMCFB": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer"
     ],
     "DMCHMM": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -3107,7 +2947,6 @@
     "DMRcaller": [],
     "DMRcate": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -3134,7 +2973,6 @@
     ],
     "dmrseq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -3151,7 +2989,6 @@
         "rtracklayer"
     ],
     "DNAfusion": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3163,7 +3000,6 @@
     "DNAshapeR": [],
     "DominoEffect": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3188,7 +3024,6 @@
     ],
     "doseR": [],
     "doubletrouble": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3226,7 +3061,6 @@
         "scuttle"
     ],
     "drugTargetInteractions": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3246,7 +3080,6 @@
     ],
     "DSS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -3271,7 +3104,6 @@
         "quantiseqr"
     ],
     "easylift": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -3283,8 +3115,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "ShortRead",
-        "biomaRt",
-        "genomeIntervals"
+        "biomaRt"
     ],
     "EBarrays": [],
     "EBcoexpress": [
@@ -3296,7 +3127,6 @@
         "EmpiricalBrownsMethod"
     ],
     "EDASeq": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3323,7 +3153,6 @@
         "KEGGgraph",
         "PADOG",
         "Rgraphviz",
-        "ScaledMatrix",
         "annotate",
         "beachmat",
         "gage",
@@ -3332,12 +3161,9 @@
         "safe",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "ELMER": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3357,7 +3183,6 @@
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -3368,7 +3193,6 @@
         "rtracklayer"
     ],
     "ENmix": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -3405,7 +3229,6 @@
     ],
     "enrichTF": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "DOSE",
@@ -3429,7 +3252,6 @@
         "fgsea"
     ],
     "ensembldb": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3439,7 +3261,6 @@
     ],
     "ensemblVEP": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3450,7 +3271,6 @@
     ],
     "epialleleR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3462,7 +3282,6 @@
     "EpiCompare": [
         "BRGenomics",
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "ChIPseeker",
@@ -3480,7 +3299,6 @@
         "seqPattern"
     ],
     "epidecodeR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -3495,7 +3313,6 @@
     ],
     "epigraHMM": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GreyListChIP",
@@ -3505,7 +3322,6 @@
         "rtracklayer"
     ],
     "EpiMix": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -3516,7 +3332,6 @@
     ],
     "epimutacions": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -3547,7 +3362,6 @@
         "BiocParallel"
     ],
     "EpiTxDb": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3560,7 +3374,6 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3573,7 +3386,6 @@
         "rtracklayer"
     ],
     "epivizrChart": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3585,7 +3397,6 @@
         "rtracklayer"
     ],
     "epivizrData": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3596,7 +3407,6 @@
         "rtracklayer"
     ],
     "epivizrStandalone": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3612,7 +3422,6 @@
     "erccdashboard": [],
     "erma": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3629,7 +3438,6 @@
     ],
     "esATAC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "ChIPseeker",
@@ -3658,7 +3466,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "ScaledMatrix",
         "UCell",
         "annotate",
         "beachmat"
@@ -3676,7 +3483,6 @@
     "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3694,7 +3500,6 @@
         "orthogene"
     ],
     "ExCluster": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -3708,7 +3513,6 @@
     ],
     "exomePeak2": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -3724,7 +3528,6 @@
         "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -3744,7 +3547,6 @@
     ],
     "extraChIPs": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "EnrichedHeatmap",
         "GenomicAlignments",
@@ -3760,7 +3562,6 @@
         "rtracklayer"
     ],
     "factR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3790,7 +3591,6 @@
     ],
     "fCCAC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -3800,7 +3600,6 @@
     ],
     "fcScan": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3821,7 +3620,6 @@
         "biomaRt"
     ],
     "ffpe": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -3847,7 +3645,6 @@
         "Rsamtools"
     ],
     "FindIT2": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3875,7 +3672,6 @@
     ],
     "FLAMES": [
         "BSgenome",
-        "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
@@ -3886,7 +3682,6 @@
         "HDF5Array",
         "OrganismDbi",
         "Rsamtools",
-        "ScaledMatrix",
         "VariantAnnotation",
         "bambu",
         "basilisk",
@@ -4024,9 +3819,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fmrs": [],
     "fobitools": [
         "BiocParallel",
@@ -4034,7 +3827,6 @@
     ],
     "FRASER": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DelayedMatrixStats",
@@ -4061,7 +3853,6 @@
         "Rsamtools"
     ],
     "funtooNorm": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -4080,7 +3871,6 @@
     "FuseSOM": [],
     "GA4GHclient": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4091,7 +3881,6 @@
     ],
     "GA4GHshiny": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GA4GHclient",
         "GenomicAlignments",
@@ -4106,7 +3895,6 @@
     ],
     "gage": [],
     "GARS": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DaMiRseq",
@@ -4138,7 +3926,6 @@
     ],
     "gcapc": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4151,7 +3938,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "GenomicDataCommons",
         "KEGGgraph",
         "Rgraphviz",
         "biomaRt",
@@ -4162,7 +3948,6 @@
     ],
     "gDNAx": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -4211,7 +3996,6 @@
     "gemini": [],
     "gemma.R": [],
     "geneAttribution": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4235,8 +4019,7 @@
     "GeneGA": [],
     "GeneGeneInteR": [
         "BiocParallel",
-        "Rsamtools",
-        "snpStats"
+        "Rsamtools"
     ],
     "GeneMeta": [
         "annotate",
@@ -4262,7 +4045,6 @@
     ],
     "GeneStructureTools": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4283,7 +4065,6 @@
         "DESeq2"
     ],
     "geneXtendeR": [
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "GenomicAlignments",
@@ -4294,7 +4075,6 @@
     "genoCN": [],
     "genomation": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4304,15 +4084,12 @@
     "GenomAutomorphism": [
         "BiocParallel"
     ],
-    "genomeIntervals": [],
     "GenomicAlignments": [
         "BiocParallel",
         "Rsamtools"
     ],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4321,7 +4098,6 @@
     ],
     "GenomicFiles": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4331,7 +4107,6 @@
         "rtracklayer"
     ],
     "GenomicInteractionNodes": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4341,7 +4116,6 @@
     ],
     "GenomicInteractions": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4355,7 +4129,6 @@
     ],
     "GenomicOZone": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4370,7 +4143,6 @@
     ],
     "GenomicPlot": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4391,7 +4163,6 @@
     "GenProSeq": [],
     "GenVisR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4440,7 +4211,6 @@
     ],
     "ggbio": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4479,8 +4249,7 @@
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "GSEABase",
@@ -4513,7 +4282,6 @@
     ],
     "gmapR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4532,7 +4300,6 @@
         "genefilter"
     ],
     "gmoviz": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4542,10 +4309,8 @@
     ],
     "GNOSIS": [
         "AnVIL",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -4564,7 +4329,6 @@
     "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4599,7 +4363,6 @@
     "GOsummaries": [],
     "GOTHiC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4610,7 +4373,6 @@
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DESeq2",
@@ -4630,14 +4392,12 @@
     "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer"
     ],
     "groHMM": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4668,7 +4428,6 @@
         "fgsea"
     ],
     "GSReg": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4688,13 +4447,11 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat"
     ],
     "GUIDEseq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -4707,7 +4464,6 @@
         "rtracklayer"
     ],
     "Guitar": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4717,7 +4473,6 @@
     ],
     "Gviz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4730,7 +4485,6 @@
     ],
     "gwascat": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -4738,15 +4492,13 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "GWASTools": [
         "gdsfmt"
     ],
     "gwasurvivr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GWASTools",
         "GenomicAlignments",
@@ -4779,7 +4531,6 @@
     "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4797,7 +4548,6 @@
     "Herper": [],
     "hiAnnotator": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4811,7 +4561,6 @@
     ],
     "HiCDCPlus": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4830,16 +4579,13 @@
         "multiHiCcompare"
     ],
     "HiCExperiment": [
-        "BiocIO",
         "BiocParallel"
     ],
     "HiContacts": [
-        "BiocIO",
         "BiocParallel",
         "HiCExperiment"
     ],
     "HiCool": [
-        "BiocIO",
         "BiocParallel",
         "HiCExperiment",
         "basilisk",
@@ -4847,7 +4593,6 @@
         "dir.expiry"
     ],
     "hicVennDiagram": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4856,7 +4601,6 @@
     "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4870,7 +4614,6 @@
     "HIPPO": [],
     "hiReadsProcessor": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4878,7 +4621,6 @@
         "rtracklayer"
     ],
     "HiTC": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -4895,7 +4637,6 @@
     "HTqPCR": [],
     "HTSeqGenie": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4915,7 +4656,6 @@
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
-    "hummingbird": [],
     "HybridMTest": [],
     "hypeR": [
         "BiocStyle"
@@ -4929,7 +4669,6 @@
     "Icens": [],
     "icetea": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -4942,7 +4681,6 @@
         "rtracklayer"
     ],
     "iCheck": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -4962,7 +4700,6 @@
     ],
     "iCNV": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CODEX",
         "GenomicAlignments",
@@ -4972,7 +4709,6 @@
     "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "DESeq2",
@@ -4991,7 +4727,6 @@
         "topGO"
     ],
     "IdeoViz": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5005,7 +4740,6 @@
     "IFAA": [],
     "igvR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5017,7 +4751,6 @@
     "illuminaio": [],
     "ILoReg": [],
     "IMAS": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5052,7 +4785,6 @@
     ],
     "INDEED": [],
     "iNETgrate": [
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "DOSE",
@@ -5086,7 +4818,6 @@
     ],
     "InPAS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5097,7 +4828,6 @@
         "rtracklayer"
     ],
     "INSPEcT": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -5107,7 +4837,6 @@
         "rtracklayer"
     ],
     "InTAD": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5115,7 +4844,6 @@
     ],
     "intansv": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5141,7 +4869,6 @@
     ],
     "IntEREst": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DEXSeq",
@@ -5219,7 +4946,6 @@
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DESeq2",
@@ -5252,7 +4978,6 @@
     ],
     "iterativeBMAsurv": [],
     "IVAS": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5263,7 +4988,6 @@
     "ivygapSE": [],
     "karyoploteR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5278,7 +5002,6 @@
     ],
     "katdetectr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5307,7 +5030,6 @@
     ],
     "kissDE": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DSS",
@@ -5330,7 +5052,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "LedPred": [],
     "lefser": [],
     "lemur": [
@@ -5346,7 +5067,6 @@
     ],
     "lineagespot": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5394,7 +5114,6 @@
     ],
     "LOLA": [],
     "LoomExperiment": [
-        "BiocIO",
         "HDF5Array"
     ],
     "lpNet": [
@@ -5407,7 +5126,6 @@
         "BiocVersion"
     ],
     "lumi": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5430,7 +5148,6 @@
     "M3C": [],
     "m6Aboost": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -5458,7 +5175,6 @@
     ],
     "MADSEQ": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5469,7 +5185,6 @@
     ],
     "maftools": [],
     "MAGAR": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5487,8 +5202,7 @@
         "minfi",
         "oligoClasses",
         "rtracklayer",
-        "siggenes",
-        "snpStats"
+        "siggenes"
     ],
     "MAGeCKFlute": [
         "BiocParallel",
@@ -5503,7 +5217,6 @@
         "pathview"
     ],
     "magpie": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -5543,7 +5256,6 @@
         "gcrma"
     ],
     "mariner": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "HDF5Array",
@@ -5553,12 +5265,9 @@
         "rtracklayer"
     ],
     "marr": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5588,7 +5297,6 @@
     ],
     "MatrixRider": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -5629,7 +5337,6 @@
     ],
     "mCSEA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5652,7 +5359,6 @@
     ],
     "MEAL": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5678,7 +5384,6 @@
     ],
     "MeasurementError.cor": [],
     "MEAT": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5702,14 +5407,12 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
     ],
     "MEDIPS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5748,7 +5451,6 @@
     "MetaboAnnotation": [
         "BiocParallel",
         "BiocVersion",
-        "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
         "QFeatures",
@@ -5763,7 +5465,6 @@
         "BiocParallel"
     ],
     "MetaboSignal": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -5786,7 +5487,6 @@
         "flowCore"
     ],
     "metagene2": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5828,7 +5528,6 @@
     "metaseqR2": [
         "ABSSeq",
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "DSS",
@@ -5854,7 +5553,6 @@
     ],
     "methimpute": [],
     "methInheritSim": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5869,7 +5567,6 @@
     ],
     "methrix": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5879,7 +5576,6 @@
     ],
     "MethTargetedNGS": [],
     "MethylAid": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5897,7 +5593,6 @@
     ],
     "methylCC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -5920,7 +5615,6 @@
         "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -5940,7 +5634,6 @@
         "siggenes"
     ],
     "methylGSA": [
-        "BiocIO",
         "BiocParallel",
         "DOSE",
         "DelayedMatrixStats",
@@ -5964,7 +5657,6 @@
         "siggenes"
     ],
     "methylInheritance": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5972,7 +5664,6 @@
         "rtracklayer"
     ],
     "methylKit": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -5982,7 +5673,6 @@
     "methylMnM": [],
     "methylPipe": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5999,7 +5689,6 @@
     ],
     "MethylSeekR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6009,7 +5698,6 @@
     ],
     "methylSig": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DSS",
         "DelayedMatrixStats",
@@ -6021,7 +5709,6 @@
         "rtracklayer"
     ],
     "methylumi": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -6037,9 +5724,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [
         "BiocParallel",
         "GENIE3"
@@ -6058,7 +5743,6 @@
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
         "bluster",
@@ -6076,7 +5760,6 @@
         "BiocSingular",
         "DECIPHER",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
         "bluster",
@@ -6109,7 +5792,6 @@
         "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "TreeSummarizedExperiment",
         "beachmat",
         "biomformat",
@@ -6146,7 +5828,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat"
     ],
     "mimager": [
@@ -6158,7 +5839,6 @@
     ],
     "MineICA": [
         "AnnotationForge",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "DelayedMatrixStats",
@@ -6181,7 +5861,6 @@
         "siggenes"
     ],
     "minfi": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -6198,7 +5877,6 @@
     ],
     "MinimumDistance": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6212,7 +5890,6 @@
     "miQC": [],
     "MIRA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -6246,7 +5923,6 @@
     "miRNAtap": [],
     "mirTarRnaSeq": [],
     "missMethyl": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -6267,7 +5943,6 @@
     "mistyR": [],
     "mitoClone2": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6292,7 +5967,6 @@
     ],
     "MMDiff2": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6349,7 +6023,6 @@
     "MOMA": [],
     "monaLisa": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -6360,7 +6033,6 @@
     ],
     "monocle": [],
     "Moonlight2R": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DOSE",
@@ -6392,7 +6064,6 @@
     ],
     "Motif2Site": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6400,7 +6071,6 @@
     ],
     "motifbreakR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -6419,7 +6089,6 @@
     ],
     "motifcounter": [],
     "MotifDb": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6427,7 +6096,6 @@
     ],
     "motifmatchr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -6438,7 +6106,6 @@
     ],
     "motifStack": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -6494,7 +6161,6 @@
     "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6506,7 +6172,6 @@
         "biovizBase",
         "easyRNASeq",
         "ensembldb",
-        "genomeIntervals",
         "ggbio",
         "rtracklayer"
     ],
@@ -6515,7 +6180,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
@@ -6638,7 +6302,6 @@
     ],
     "multicrispr": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CRISPRseek",
         "GenomicAlignments",
@@ -6680,7 +6343,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ResidualMatrix",
-        "ScaledMatrix",
         "batchelor",
         "beachmat",
         "bluster",
@@ -6689,7 +6351,6 @@
     ],
     "MungeSumstats": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6704,7 +6365,6 @@
         "BiocSingular",
         "DESeq2",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle",
@@ -6713,7 +6373,6 @@
     "muscle": [],
     "musicatk": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6726,7 +6385,6 @@
     ],
     "MutationalPatterns": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6740,7 +6398,6 @@
         "Rgraphviz"
     ],
     "mygene": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6750,7 +6407,6 @@
     ],
     "myvariant": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6764,7 +6420,6 @@
     "NADfinder": [
         "ATACseqQC",
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "CNEr",
@@ -6791,19 +6446,16 @@
     ],
     "NanoMethViz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "HDF5Array",
         "Rsamtools",
-        "ScaledMatrix",
         "beachmat",
         "bsseq",
         "rtracklayer"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [
@@ -6839,7 +6491,6 @@
         "Rgraphviz"
     ],
     "nearBynding": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6882,7 +6533,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat",
         "clusterExperiment",
@@ -6894,7 +6544,6 @@
     ],
     "netZooR": [
         "AnnotationForge",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "DelayedMatrixStats",
@@ -6921,7 +6570,6 @@
     "NewWave": [
         "BiocParallel",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat"
     ],
     "ngsReports": [],
@@ -6939,7 +6587,6 @@
         "HTqPCR"
     ],
     "NoRCE": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6956,7 +6603,6 @@
     ],
     "NormqPCR": [],
     "normr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6979,7 +6625,6 @@
     ],
     "nuCpos": [],
     "nullranges": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -6988,7 +6633,6 @@
     ],
     "OCplus": [],
     "octad": [
-        "BiocIO",
         "BiocParallel",
         "BiocSingular",
         "BiocVersion",
@@ -7002,7 +6646,6 @@
         "HDF5Array",
         "RUVSeq",
         "Rsamtools",
-        "ScaledMatrix",
         "ShortRead",
         "annotate",
         "beachmat",
@@ -7015,7 +6658,6 @@
     ],
     "OGRE": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -7057,7 +6699,6 @@
     ],
     "OMICsPCA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7113,7 +6754,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat"
     ],
@@ -7125,7 +6765,6 @@
     "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7133,7 +6772,6 @@
     ],
     "ORFik": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -7143,7 +6781,6 @@
         "rtracklayer"
     ],
     "Organism.dplyr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7152,7 +6789,6 @@
         "rtracklayer"
     ],
     "OrganismDbi": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7180,7 +6816,6 @@
         "ShortRead"
     ],
     "OUTRIDER": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -7192,7 +6827,6 @@
     ],
     "OutSplice": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7219,7 +6853,6 @@
     "PADOG": [],
     "pageRank": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -7279,7 +6912,6 @@
         "BiocVersion"
     ],
     "PAST": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7323,7 +6955,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat"
     ],
     "PDATK": [
@@ -7365,7 +6996,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
@@ -7375,7 +7005,6 @@
     ],
     "periodicDNA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7413,7 +7042,6 @@
         "hopach"
     ],
     "philr": [],
-    "PhIPData": [],
     "PhosR": [
         "pcaMethods"
     ],
@@ -7453,7 +7081,6 @@
     ],
     "PING": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7471,7 +7098,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scater",
@@ -7480,7 +7106,6 @@
     ],
     "pipeFrame": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7499,7 +7124,6 @@
         "genefilter"
     ],
     "plotgardener": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7508,7 +7132,6 @@
     ],
     "plotGrouper": [],
     "plyinteractions": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7516,7 +7139,6 @@
         "rtracklayer"
     ],
     "plyranges": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7527,7 +7149,6 @@
     ],
     "podkat": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7547,7 +7168,6 @@
     "POWSC": [
         "MAST"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "BiocParallel",
         "STRINGdb",
@@ -7556,7 +7176,6 @@
     ],
     "pqsfinder": [],
     "pram": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7572,7 +7191,6 @@
         "phyloseq"
     ],
     "preciseTAD": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7587,7 +7205,6 @@
     ],
     "primirTSS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "CNEr",
@@ -7614,7 +7231,6 @@
         "vsn"
     ],
     "proActiv": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -7624,7 +7240,6 @@
         "rtracklayer"
     ],
     "proBAMr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7640,7 +7255,6 @@
     ],
     "proDA": [],
     "profileplyr": [
-        "BiocIO",
         "BiocParallel",
         "ChIPseeker",
         "DOSE",
@@ -7688,7 +7302,6 @@
         "GSEABase",
         "annotate"
     ],
-    "PROPER": [],
     "PROPS": [
         "BiocParallel",
         "annotate",
@@ -7712,7 +7325,6 @@
     ],
     "ProteoDisco": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7732,7 +7344,6 @@
     ],
     "psichomics": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -7770,7 +7381,6 @@
     ],
     "PureCN": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7785,7 +7395,6 @@
     ],
     "Pviz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7814,7 +7423,6 @@
     "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7834,7 +7442,6 @@
     ],
     "qsea": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7856,7 +7463,6 @@
     "QTLExperiment": [],
     "quantiseqr": [],
     "quantro": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -7879,7 +7485,6 @@
     ],
     "QuasR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7894,7 +7499,6 @@
     "QUBIC": [],
     "R3CPET": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7908,7 +7512,6 @@
         "rtracklayer"
     ],
     "r3Cseq": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -7916,7 +7519,6 @@
     ],
     "R453Plus1Toolbox": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7935,7 +7537,6 @@
     ],
     "raer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7946,7 +7547,6 @@
     "RaggedExperiment": [],
     "RAIDS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GENESIS",
         "GWASTools",
@@ -7978,7 +7578,6 @@
     "RAREsim": [],
     "RareVariantVis": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -8009,7 +7608,6 @@
     "Rbwa": [],
     "RCAS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8021,7 +7619,6 @@
     ],
     "RCASPAR": [],
     "rCGH": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8080,7 +7677,6 @@
     ],
     "recount": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8093,14 +7689,12 @@
         "rtracklayer"
     ],
     "recount3": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer"
     ],
     "recountmethylation": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -8120,7 +7714,6 @@
         "siggenes"
     ],
     "recoup": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8133,7 +7726,6 @@
     ],
     "REDseq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "ChIPpeakAnno",
         "GenomicAlignments",
@@ -8149,7 +7741,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "PCAtools",
-        "ScaledMatrix",
         "beachmat"
     ],
     "RegionalST": [
@@ -8158,7 +7749,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "TOAST",
         "beachmat",
         "bluster",
@@ -8169,7 +7759,6 @@
     ],
     "regioneR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8177,7 +7766,6 @@
     ],
     "regioneReloaded": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8186,7 +7774,6 @@
     ],
     "regionReport": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "DEFormats",
@@ -8204,7 +7791,6 @@
     "regsplice": [],
     "regutools": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -8219,7 +7805,6 @@
     ],
     "REMP": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -8238,7 +7823,6 @@
     ],
     "Repitools": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Ringo",
@@ -8251,7 +7835,6 @@
     "ReportingTools": [
         "AnnotationForge",
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "Category",
         "DESeq2",
@@ -8284,7 +7867,6 @@
     "ResidualMatrix": [],
     "RESOLVE": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8317,7 +7899,6 @@
     ],
     "rGADEM": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8327,7 +7908,6 @@
         "BiocVersion"
     ],
     "RGMQL": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8335,7 +7915,6 @@
     ],
     "RgnTX": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8346,7 +7925,6 @@
     ],
     "Rgraphviz": [],
     "rGREAT": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8355,7 +7933,6 @@
         "rtracklayer"
     ],
     "rgsepd": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -8366,7 +7943,6 @@
         "rtracklayer"
     ],
     "Rhisat2": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8377,7 +7953,6 @@
     ],
     "RiboCrypt": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -8388,7 +7963,6 @@
         "rtracklayer"
     ],
     "RiboDiPA": [
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -8399,7 +7973,6 @@
     ],
     "RiboProfiling": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8420,7 +7993,6 @@
     ],
     "ribosomeProfilingQC": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "EDASeq",
@@ -8437,14 +8009,12 @@
         "rtracklayer"
     ],
     "rifi": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
         "rtracklayer"
     ],
     "rifiComparative": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8472,7 +8042,6 @@
     ],
     "RITAN": [
         "BgeeDB",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8484,7 +8053,6 @@
         "topGO"
     ],
     "RJMCMCNucleosomes": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8494,7 +8062,6 @@
     "RLassoCox": [],
     "RLSeq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -8507,7 +8074,6 @@
     "Rmagpie": [],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineR",
         "MSnbase",
         "mzID",
         "mzR",
@@ -8515,7 +8081,6 @@
         "vsn"
     ],
     "Rmmquant": [
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "DESeq2",
@@ -8526,7 +8091,6 @@
         "rtracklayer"
     ],
     "rmspc": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8534,7 +8098,6 @@
     ],
     "RNAAgeCalc": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8548,7 +8111,6 @@
         "rtracklayer"
     ],
     "rnaEditr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8569,7 +8131,6 @@
     ],
     "RNAmodR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8584,7 +8145,6 @@
     ],
     "RNAmodR.AlkAnilineSeq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8600,7 +8160,6 @@
     ],
     "RNAmodR.ML": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8616,7 +8175,6 @@
     ],
     "RNAmodR.RiboMethSeq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8636,7 +8194,6 @@
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8650,7 +8207,6 @@
         "rtracklayer"
     ],
     "RnBeads": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -8669,7 +8225,6 @@
     ],
     "Rnits": [],
     "roar": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8692,7 +8247,6 @@
     "rprimer": [],
     "Rqc": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "GenomicAlignments",
@@ -8729,10 +8283,8 @@
     "rSWeeP": [],
     "RTCGA": [],
     "RTCGAToolbox": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RaggedExperiment",
         "Rsamtools",
@@ -8744,14 +8296,12 @@
     "RTopper": [],
     "Rtpca": [],
     "rtracklayer": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools"
     ],
     "rTRM": [],
     "rTRMui": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "MotifDb",
@@ -8764,7 +8314,6 @@
         "BiocParallel"
     ],
     "RUVSeq": [
-        "BiocIO",
         "BiocParallel",
         "EDASeq",
         "GenomicAlignments",
@@ -8774,9 +8323,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "rWikiPathways": [],
     "safe": [],
     "sagenhaft": [],
@@ -8798,7 +8345,6 @@
     "sangerseqR": [],
     "SANTA": [],
     "SARC": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8819,7 +8365,6 @@
     ],
     "SBMLR": [],
     "SC3": [],
-    "ScaledMatrix": [],
     "SCAN.UPC": [
         "BiocParallel",
         "affxparser",
@@ -8833,7 +8378,6 @@
         "BiocParallel"
     ],
     "scanMiRApp": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -8848,7 +8392,6 @@
         "BiocVersion"
     ],
     "SCANVIS": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -8858,7 +8401,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "gdsfmt"
     ],
@@ -8867,7 +8409,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "SCArray",
-        "ScaledMatrix",
         "beachmat",
         "gdsfmt"
     ],
@@ -8876,7 +8417,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scuttle"
     ],
@@ -8911,14 +8451,12 @@
         "flowCore"
     ],
     "scDblFinder": [
-        "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "Rsamtools",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "rtracklayer",
@@ -8931,7 +8469,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
@@ -8954,7 +8491,6 @@
     ],
     "scFeatures": [
         "AUCell",
-        "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
@@ -8965,7 +8501,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "Rsamtools",
-        "ScaledMatrix",
         "SingleCellSignalR",
         "annotate",
         "beachmat",
@@ -9000,7 +8535,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ResidualMatrix",
-        "ScaledMatrix",
         "batchelor",
         "beachmat",
         "bluster",
@@ -9013,7 +8547,6 @@
     ],
     "scmeth": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -9032,7 +8565,6 @@
         "BiocParallel"
     ],
     "scone": [
-        "BiocIO",
         "BiocParallel",
         "EDASeq",
         "GenomicAlignments",
@@ -9049,7 +8581,6 @@
     ],
     "SCOPE": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9057,25 +8588,21 @@
     ],
     "scoreInvHap": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "scp": [
         "QFeatures"
     ],
     "scPCA": [
-        "BiocParallel",
-        "ScaledMatrix"
+        "BiocParallel"
     ],
     "scPipe": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "DropletUtils",
@@ -9096,7 +8623,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scuttle"
@@ -9110,7 +8636,6 @@
     ],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9120,7 +8645,6 @@
     ],
     "scruff": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9138,7 +8662,6 @@
     "scry": [
         "BiocParallel",
         "BiocSingular",
-        "ScaledMatrix",
         "beachmat"
     ],
     "scShapes": [
@@ -9175,7 +8698,6 @@
         "BiocParallel"
     ],
     "scTreeViz": [
-        "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
@@ -9184,7 +8706,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "Rsamtools",
-        "ScaledMatrix",
         "beachmat",
         "biomaRt",
         "bluster",
@@ -9207,7 +8728,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -9217,7 +8737,6 @@
     ],
     "sechm": [],
     "segmenter": [
-        "BiocIO",
         "BiocParallel",
         "ChIPseeker",
         "DOSE",
@@ -9240,7 +8759,6 @@
     ],
     "selectKSigs": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9262,7 +8780,6 @@
     ],
     "seqArchRplus": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "ChIPseeker",
         "DOSE",
@@ -9285,7 +8802,6 @@
     "seqbias": [],
     "seqCAT": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9304,7 +8820,6 @@
     ],
     "seqPattern": [],
     "seqsetvis": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9333,7 +8848,6 @@
         "sva"
     ],
     "sevenC": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9349,7 +8863,6 @@
         "genefilter"
     ],
     "SGSeq": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9358,7 +8871,6 @@
         "rtracklayer"
     ],
     "shinyepico": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -9375,7 +8887,6 @@
         "siggenes"
     ],
     "shinyMethyl": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -9413,7 +8924,6 @@
     "sigFeature": [
         "BiocParallel"
     ],
-    "SigFuge": [],
     "siggenes": [],
     "signatureSearch": [
         "BiocParallel",
@@ -9429,7 +8939,6 @@
     ],
     "signeR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9439,7 +8948,6 @@
         "rtracklayer"
     ],
     "signifinder": [
-        "BiocIO",
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
@@ -9449,7 +8957,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "Rsamtools",
-        "ScaledMatrix",
         "SpatialExperiment",
         "annotate",
         "beachmat",
@@ -9461,7 +8968,6 @@
     ],
     "SigsPack": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9519,14 +9025,12 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scran",
         "scuttle"
     ],
     "singleCellTK": [
-        "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
@@ -9542,7 +9046,6 @@
         "MAST",
         "ResidualMatrix",
         "Rsamtools",
-        "ScaledMatrix",
         "SingleR",
         "TSCAN",
         "TrajectoryUtils",
@@ -9571,7 +9074,6 @@
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9589,7 +9091,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat"
     ],
     "singscore": [
@@ -9599,7 +9100,6 @@
     ],
     "SiPSiC": [],
     "sitadela": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9610,7 +9110,6 @@
     "sitePath": [],
     "sizepower": [],
     "skewr": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -9640,7 +9139,6 @@
     "SMAP": [],
     "SMITE": [
         "BioNet",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9664,7 +9162,6 @@
     ],
     "SNPhood": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -9677,9 +9174,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "snpStats": [],
     "soGGi": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9689,7 +9184,6 @@
     ],
     "SomaticSignatures": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9705,7 +9199,6 @@
     ],
     "SOMNiBUS": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -9730,7 +9223,6 @@
         "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "ScaledMatrix",
         "beachmat",
         "bluster",
         "scater",
@@ -9738,7 +9230,6 @@
         "scuttle"
     ],
     "sparrow": [
-        "BiocIO",
         "BiocParallel",
         "BiocSet",
         "DelayedMatrixStats",
@@ -9747,7 +9238,6 @@
     ],
     "SparseSignatures": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9777,7 +9267,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "annotate",
         "beachmat",
         "bluster",
@@ -9793,7 +9282,6 @@
     ],
     "spatzie": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -9842,7 +9330,6 @@
     "spikeLI": [],
     "spiky": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -9857,7 +9344,6 @@
     ],
     "SpliceWiz": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "DelayedMatrixStats",
@@ -9870,7 +9356,6 @@
     ],
     "SplicingFactory": [],
     "SplicingGraphs": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9885,7 +9370,6 @@
     ],
     "SPLINTER": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9909,7 +9393,6 @@
     "SRAdb": [],
     "srnadiff": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocStyle",
         "DESeq2",
@@ -9937,7 +9420,6 @@
     ],
     "stageR": [],
     "standR": [
-        "BiocIO",
         "BiocParallel",
         "EDASeq",
         "GenomicAlignments",
@@ -9976,7 +9458,6 @@
         "SpatialExperiment"
     ],
     "strandCheckR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9995,7 +9476,6 @@
     ],
     "StructuralVariantAnnotation": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10023,7 +9503,6 @@
     ],
     "svaNUMT": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10035,7 +9514,6 @@
     ],
     "svaRetro": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10072,7 +9550,6 @@
     ],
     "SynMut": [],
     "syntenet": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10091,7 +9568,6 @@
     ],
     "tadar": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10110,7 +9586,6 @@
     "tanggle": [],
     "TAPseq": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10133,7 +9608,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat",
         "genefilter",
@@ -10149,10 +9623,8 @@
         "biomaRt"
     ],
     "TCGAutils": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RaggedExperiment",
         "Rsamtools",
@@ -10183,9 +9655,7 @@
         "DESeq2",
         "biomaRt"
     ],
-    "TENxIO": [
-        "BiocIO"
-    ],
+    "TENxIO": [],
     "tenXplore": [
         "BiocVersion",
         "Rgraphviz",
@@ -10201,10 +9671,8 @@
     ],
     "terraTCGAdata": [
         "AnVIL",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "RaggedExperiment",
         "Rsamtools",
@@ -10214,7 +9682,6 @@
     ],
     "TFBSTools": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "CNEr",
         "GenomicAlignments",
@@ -10223,7 +9690,6 @@
         "rtracklayer"
     ],
     "TFEA.ChIP": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10233,7 +9699,6 @@
     ],
     "TFHAZ": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -10282,7 +9747,6 @@
     ],
     "TitanCNA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10293,7 +9757,6 @@
     ],
     "tLOH": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10313,7 +9776,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "ScaledMatrix",
         "annotate",
         "beachmat"
     ],
@@ -10349,7 +9811,6 @@
     ],
     "trackViewer": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10374,7 +9835,6 @@
         "topGO"
     ],
     "transcriptR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10402,7 +9862,6 @@
     "TransView": [],
     "traseR": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10427,7 +9886,6 @@
         "BiocParallel"
     ],
     "TRESS": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10440,7 +9898,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
@@ -10466,7 +9923,6 @@
     ],
     "tRNAscanImport": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Modstrings",
@@ -10487,7 +9943,6 @@
     ],
     "TVTB": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10503,9 +9958,7 @@
     "tweeDEseq": [
         "cqn"
     ],
-    "twoddpcr": [],
     "txcutr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10514,7 +9967,6 @@
         "rtracklayer"
     ],
     "tximeta": [
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -10532,7 +9984,6 @@
     ],
     "Ularcirc": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -10546,7 +9997,6 @@
     ],
     "UMI4Cats": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "DESeq2",
         "GenomicAlignments",
@@ -10561,7 +10011,6 @@
     ],
     "uncoverappLib": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10580,7 +10029,6 @@
     "UniProt.ws": [],
     "Uniquorn": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10598,14 +10046,12 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "beachmat",
         "scater",
         "scuttle"
     ],
     "VanillaICE": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10616,7 +10062,6 @@
     ],
     "VarCon": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10627,7 +10072,6 @@
     ],
     "VariantAnnotation": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10644,7 +10088,6 @@
     ],
     "VariantFiltering": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -10661,7 +10104,6 @@
     ],
     "VariantTools": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10671,7 +10113,6 @@
         "rtracklayer"
     ],
     "VaSP": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10684,7 +10125,6 @@
     "vbmp": [],
     "VCFArray": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10704,7 +10144,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ScaledMatrix",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -10747,7 +10186,6 @@
     "vsn": [],
     "vtpnet": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "BiocVersion",
         "GenomicAlignments",
@@ -10756,12 +10194,10 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "vulcan": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "ChIPpeakAnno",
         "DESeq2",
@@ -10782,7 +10218,6 @@
         "BiocParallel"
     ],
     "wateRmelon": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -10801,7 +10236,6 @@
         "siggenes"
     ],
     "wavClusteR": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10820,7 +10254,6 @@
         "DelayedMatrixStats"
     ],
     "wiggleplotr": [
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10862,7 +10295,6 @@
     ],
     "XNAString": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "Rsamtools",
@@ -10873,7 +10305,6 @@
     ],
     "YAPSA": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10889,7 +10320,6 @@
         "rtracklayer"
     ],
     "yarn": [
-        "BiocIO",
         "BiocParallel",
         "DelayedMatrixStats",
         "GenomicAlignments",
@@ -10931,7 +10361,6 @@
     ],
     "ZygosityPredictor": [
         "BSgenome",
-        "BiocIO",
         "BiocParallel",
         "GenomicAlignments",
         "GenomicFeatures",
