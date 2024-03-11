@@ -314,7 +314,6 @@
     "BEAT": [
         "ShortRead"
     ],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "Maaslin2",
@@ -853,7 +852,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -991,7 +989,6 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "FlowSOM",
         "diffcyt",
         "flowCore"
@@ -1002,7 +999,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "CytoGLMM": [],
     "cytomapper": [],
     "cytoMEM": [
         "flowCore"
@@ -1614,7 +1610,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "geneplotter": [],
     "GeneRegionScan": [],
     "GENESIS": [
@@ -1964,7 +1959,6 @@
     "KBoost": [],
     "KCsmart": [],
     "KEGGlincs": [],
-    "KinSwingR": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -2074,7 +2068,6 @@
     ],
     "matter": [],
     "MBAmethyl": [],
-    "MBASED": [],
     "MBECS": [
         "genefilter",
         "phyloseq",
@@ -2779,7 +2772,6 @@
     "plotgardener": [],
     "plotGrouper": [],
     "plyinteractions": [],
-    "podkat": [],
     "pogos": [
         "BiocVersion",
         "ontoProc"
@@ -2933,7 +2925,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RAREsim": [],
@@ -3073,7 +3064,6 @@
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
@@ -3117,9 +3107,7 @@
         "BgeeDB",
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [
         "BiocVersion",
@@ -3235,10 +3223,8 @@
         "genefilter",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
-        "BiocVersion",
-        "scanMiR"
+        "BiocVersion"
     ],
     "scAnnotatR": [
         "BiocVersion"
@@ -3498,7 +3484,6 @@
     "singscore": [
         "GSEABase"
     ],
-    "sitadela": [],
     "sizepower": [],
     "skewr": [
         "bumphunter",
@@ -3911,7 +3896,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
