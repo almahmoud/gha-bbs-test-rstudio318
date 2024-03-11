@@ -1321,9 +1321,7 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz"
     ],
@@ -1791,7 +1789,6 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [],
     "plotGrouper": [],
     "pogos": [
         "BiocVersion",
@@ -2261,7 +2258,6 @@
     "slalom": [],
     "SMAD": [],
     "SMAP": [],
-    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "tilingArray"
@@ -2427,8 +2423,7 @@
     ],
     "tximport": [],
     "Ularcirc": [
-        "BiocVersion",
-        "plotgardener"
+        "BiocVersion"
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
