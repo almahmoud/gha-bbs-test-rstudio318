@@ -1,13 +1,11 @@
 {
     "a4": [
         "a4Base",
-        "a4Classif",
         "genefilter"
     ],
     "a4Base": [
         "genefilter"
     ],
-    "a4Classif": [],
     "abseqR": [
         "BiocStyle"
     ],
@@ -148,7 +146,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "mixOmics"
     ],
@@ -282,7 +279,6 @@
         "GSEABase"
     ],
     "autonomics": [],
-    "BaalChIP": [],
     "bacon": [],
     "BADER": [],
     "BadRegionFinder": [],
@@ -362,9 +358,7 @@
     "BicARE": [
         "GSEABase"
     ],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "bumphunter",
         "gdsfmt",
@@ -420,12 +414,10 @@
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
-    "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -585,9 +577,7 @@
         "matter"
     ],
     "CARNIVAL": [],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "flowCore"
@@ -918,7 +908,6 @@
         "Spectra"
     ],
     "compSPOT": [],
-    "concordexR": [],
     "condiments": [
         "distinct",
         "slingshot"
@@ -1719,7 +1708,6 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "gaga": [],
     "GARS": [
         "DESeq2",
         "DaMiRseq",
@@ -2048,7 +2036,6 @@
     "hypeR": [
         "BiocStyle"
     ],
-    "hyperdraw": [],
     "iasva": [],
     "Icens": [],
     "icetea": [
@@ -3082,7 +3069,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "PhosR": [],
     "PhyloProfile": [
         "BiocStyle",
         "BiocVersion",
@@ -4146,7 +4132,6 @@
     "TFBSTools": [
         "CNEr"
     ],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
