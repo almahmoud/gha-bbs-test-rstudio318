@@ -57,8 +57,6 @@
         "GLAD",
         "KEGGREST",
         "aCGH",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "multtest",
@@ -104,14 +102,9 @@
         "MultiAssayExperiment"
     ],
     "affxparser": [],
-    "affy": [
-        "affyio"
-    ],
+    "affy": [],
     "affycomp": [],
-    "affyContam": [
-        "affy",
-        "affyio"
-    ],
+    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -134,8 +127,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -149,30 +140,20 @@
     "affyILM": [
         "Biostrings",
         "affxparser",
-        "affy",
-        "affyio",
         "gcrma"
     ],
-    "affyio": [],
     "affylmGUI": [
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "affy",
         "affyPLM",
-        "affyio",
         "gcrma"
     ],
     "affyPLM": [
         "Biostrings",
-        "affy",
-        "affyio",
         "gcrma"
     ],
-    "AffyRNADegradation": [
-        "affy",
-        "affyio"
-    ],
+    "AffyRNADegradation": [],
     "AGDEX": [
         "AnnotationDbi",
         "Biostrings",
@@ -206,9 +187,7 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
         "affycoretools",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -240,7 +219,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocParallel",
@@ -449,9 +427,6 @@
     ],
     "altcdfenvs": [
         "Biostrings",
-        "affy",
-        "affyio",
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -666,7 +641,6 @@
     "ArrayExpress": [
         "Biostrings",
         "affxparser",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -684,9 +658,7 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
         "affyContam",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -711,9 +683,7 @@
         "BeadDataPackR",
         "Biostrings",
         "KEGGREST",
-        "affy",
         "affyPLM",
-        "affyio",
         "annotate",
         "beadarray",
         "gcrma",
@@ -982,8 +952,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -1228,8 +1196,6 @@
     ],
     "bgx": [
         "Biostrings",
-        "affy",
-        "affyio",
         "gcrma"
     ],
     "BHC": [],
@@ -1244,9 +1210,7 @@
     "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
-        "hyperdraw",
-        "hypergraph",
-        "rsbml"
+        "hyperdraw"
     ],
     "bigmelon": [
         "AnnotationDbi",
@@ -1262,8 +1226,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -1669,8 +1631,6 @@
         "KEGGREST",
         "Linnorm",
         "Rgraphviz",
-        "affy",
-        "affyio",
         "annotate",
         "epiNEM",
         "genefilter",
@@ -1901,8 +1861,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -1997,8 +1955,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -2262,8 +2218,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "splots",
@@ -2455,8 +2409,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
-        "affyio",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -2483,7 +2435,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment",
@@ -2651,8 +2602,6 @@
         "Biostrings",
         "GEOquery",
         "affxparser",
-        "affy",
-        "affyio",
         "frma",
         "oligo",
         "oligoClasses"
@@ -2874,8 +2823,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -2892,8 +2839,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -2941,7 +2886,6 @@
         "fgsea"
     ],
     "ClustIRR": [],
-    "CMA": [],
     "cmapR": [
         "Rhdf5lib",
         "cytolib",
@@ -2952,7 +2896,6 @@
     "cn.farms": [
         "Biostrings",
         "affxparser",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -3316,7 +3259,6 @@
         "rtracklayer"
     ],
     "consensusOV": [
-        "AIMS",
         "AnnotationDbi",
         "BiocParallel",
         "BiocSingular",
@@ -3438,10 +3380,7 @@
         "marray",
         "piano"
     ],
-    "Cormotif": [
-        "affy",
-        "affyio"
-    ],
+    "Cormotif": [],
     "corral": [
         "MultiAssayExperiment",
         "SingleCellExperiment"
@@ -3474,8 +3413,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -3510,7 +3447,6 @@
         "annotate",
         "genefilter"
     ],
-    "covEB": [],
     "CoverageView": [
         "BiocIO",
         "BiocParallel",
@@ -3700,7 +3636,6 @@
     ],
     "crlmm": [
         "Biostrings",
-        "affyio",
         "illuminaio",
         "oligoClasses"
     ],
@@ -3711,8 +3646,6 @@
         "GEOquery",
         "KEGGREST",
         "affxparser",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "oligo",
@@ -4028,8 +3961,6 @@
         "Mfuzz",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -4209,7 +4140,6 @@
         "DESeq2"
     ],
     "DEGseq": [],
-    "DelayedArray": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
@@ -4287,8 +4217,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -4661,8 +4589,6 @@
         "sva"
     ],
     "Doscheda": [
-        "affy",
-        "affyio",
         "vsn"
     ],
     "DOSE": [
@@ -4749,8 +4675,6 @@
         "GEOquery",
         "KEGGREST",
         "affxparser",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "oligo",
@@ -5425,10 +5349,7 @@
         "Rsubread",
         "rtracklayer"
     ],
-    "ExiMiR": [
-        "affy",
-        "affyio"
-    ],
+    "ExiMiR": [],
     "exomeCopy": [
         "BiocParallel",
         "Biostrings",
@@ -5624,8 +5545,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -5685,8 +5604,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -5918,15 +5835,10 @@
     "frma": [
         "Biostrings",
         "affxparser",
-        "affy",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
-    "frmaTools": [
-        "affy",
-        "affyio"
-    ],
+    "frmaTools": [],
     "FunChIP": [
         "BiocParallel",
         "Biostrings",
@@ -6057,9 +5969,7 @@
         "ComplexHeatmap"
     ],
     "gcrma": [
-        "Biostrings",
-        "affy",
-        "affyio"
+        "Biostrings"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -6170,7 +6080,6 @@
         "Rsamtools",
         "marray"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [
         "AnnotationDbi",
@@ -6179,7 +6088,6 @@
         "annotate"
     ],
     "genefu": [
-        "AIMS",
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
@@ -6285,7 +6193,6 @@
         "BiocParallel",
         "Biostrings"
     ],
-    "GenomeInfoDb": [],
     "genomeIntervals": [],
     "GenomicAlignments": [
         "BiocParallel",
@@ -6397,7 +6304,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "GenomicRanges": [],
     "GenomicScores": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -6456,10 +6362,7 @@
         "NanoStringNCTools"
     ],
     "GEOquery": [],
-    "GEOsubmission": [
-        "affy",
-        "affyio"
-    ],
+    "GEOsubmission": [],
     "GeoTcgaData": [
         "cqn"
     ],
@@ -6479,8 +6382,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "cellHTS2",
@@ -7029,10 +6930,7 @@
     ],
     "Harshlight": [
         "Biostrings",
-        "affy",
-        "affyio",
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "hca": [],
@@ -7233,10 +7131,7 @@
         "interactiveDisplayBase"
     ],
     "HPiP": [],
-    "HTqPCR": [
-        "affy",
-        "affyio"
-    ],
+    "HTqPCR": [],
     "HTSeqGenie": [
         "AnnotationDbi",
         "BSgenome",
@@ -7270,10 +7165,8 @@
         "BiocStyle"
     ],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [
         "BiocParallel"
     ],
@@ -7312,8 +7205,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -7653,8 +7544,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -7662,7 +7551,6 @@
         "vsn",
         "xcms"
     ],
-    "IRanges": [],
     "iSEE": [
         "ComplexHeatmap",
         "SingleCellExperiment"
@@ -7760,13 +7648,11 @@
         "Biostrings",
         "GLAD",
         "affxparser",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
-    "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocIO",
@@ -7781,7 +7667,6 @@
         "rtracklayer"
     ],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -7971,8 +7856,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -8026,8 +7909,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -8131,7 +8012,6 @@
         "Rhtslib",
         "RnBeads",
         "Rsamtools",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -8202,8 +8082,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -8211,10 +8089,7 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [
-        "affy",
-        "affyio"
-    ],
+    "makecdfenv": [],
     "MANOR": [
         "GLAD"
     ],
@@ -8223,8 +8098,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "affy",
-        "affyio",
         "gcrma"
     ],
     "mariner": [
@@ -8270,8 +8143,6 @@
     "maSigPro": [],
     "maskBAD": [
         "Biostrings",
-        "affy",
-        "affyio",
         "gcrma"
     ],
     "massiR": [],
@@ -8298,8 +8169,6 @@
         "ComplexHeatmap",
         "ExperimentHub",
         "KEGGREST",
-        "affy",
-        "affyio",
         "interactiveDisplayBase",
         "pcaMethods",
         "proDA",
@@ -8353,7 +8222,6 @@
     "mBPCR": [
         "Biostrings",
         "GWASTools",
-        "affyio",
         "gdsfmt",
         "oligoClasses"
     ],
@@ -8450,8 +8318,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -8633,8 +8499,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -8684,8 +8548,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "affy",
-        "affyio",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -8717,7 +8579,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8993,7 +8854,6 @@
         "BiocParallel",
         "GENIE3"
     ],
-    "mfa": [],
     "Mfuzz": [
         "tkWidgets"
     ],
@@ -9056,7 +8916,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "MiChip": [],
     "microbiome": [
         "Biostrings",
         "Rhdf5lib",
@@ -9164,9 +9023,7 @@
     "mimager": [
         "Biostrings",
         "affxparser",
-        "affy",
         "affyPLM",
-        "affyio",
         "gcrma",
         "oligo",
         "oligoClasses"
@@ -9190,8 +9047,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -9243,7 +9098,6 @@
         "Rhtslib",
         "Rsamtools",
         "VanillaICE",
-        "affyio",
         "crlmm",
         "illuminaio",
         "oligoClasses",
@@ -9417,8 +9271,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -9734,8 +9586,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9746,8 +9596,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "msmsEDA",
         "mzID",
         "mzR",
@@ -9758,8 +9606,6 @@
         "BiocParallel",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9776,8 +9622,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests",
@@ -9848,8 +9692,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9862,8 +9704,6 @@
         "MSstatsQC",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10193,8 +10033,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -10356,9 +10194,7 @@
     ],
     "NOISeq": [],
     "nondetects": [
-        "HTqPCR",
-        "affy",
-        "affyio"
+        "HTqPCR"
     ],
     "NoRCE": [
         "AnnotationDbi",
@@ -10378,8 +10214,6 @@
         "illuminaio"
     ],
     "NormalyzerDE": [
-        "affy",
-        "affyio",
         "vsn"
     ],
     "NormqPCR": [
@@ -10494,12 +10328,10 @@
     "oligo": [
         "Biostrings",
         "affxparser",
-        "affyio",
         "oligoClasses"
     ],
     "oligoClasses": [
-        "Biostrings",
-        "affyio"
+        "Biostrings"
     ],
     "OLIN": [
         "marray"
@@ -10755,8 +10587,6 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -10853,10 +10683,7 @@
         "ggtree",
         "multtest"
     ],
-    "panp": [
-        "affy",
-        "affyio"
-    ],
+    "panp": [],
     "PANR": [],
     "pareg": [
         "AnnotationDbi",
@@ -10947,7 +10774,6 @@
         "sparseMatrixStats"
     ],
     "PDATK": [
-        "AIMS",
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
@@ -10966,7 +10792,6 @@
     "pdInfoBuilder": [
         "Biostrings",
         "affxparser",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -10984,8 +10809,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10996,8 +10819,6 @@
         "Biostrings",
         "KEGGREST",
         "ROTS",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter"
     ],
@@ -11188,10 +11009,7 @@
     ],
     "plasmut": [],
     "plgem": [],
-    "plier": [
-        "affy",
-        "affyio"
-    ],
+    "plier": [],
     "PloGO2": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -11303,8 +11121,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -11322,8 +11138,6 @@
         "Rhtslib",
         "Rsamtools",
         "aCGH",
-        "affy",
-        "affyio",
         "biomaRt",
         "multtest",
         "rCGH",
@@ -11372,8 +11186,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -11451,8 +11263,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -11470,8 +11280,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -11510,8 +11318,6 @@
         "Mfuzz",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -11549,8 +11355,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -11600,8 +11404,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -11612,8 +11414,6 @@
     "puma": [
         "Biostrings",
         "affxparser",
-        "affy",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -11635,13 +11435,8 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "pvac": [
-        "affy",
-        "affyio"
-    ],
+    "pvac": [],
     "pvca": [
-        "affy",
-        "affyio",
         "vsn"
     ],
     "Pviz": [
@@ -11697,10 +11492,7 @@
     "qmtools": [
         "MsCoreUtils"
     ],
-    "qpcrNorm": [
-        "affy",
-        "affyio"
-    ],
+    "qpcrNorm": [],
     "qpgraph": [
         "AnnotationDbi",
         "BiocIO",
@@ -11722,8 +11514,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12012,8 +11802,6 @@
         "Rhtslib",
         "Rsamtools",
         "aCGH",
-        "affy",
-        "affyio",
         "biomaRt",
         "multtest",
         "rtracklayer"
@@ -12321,8 +12109,6 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "rtracklayer",
@@ -12628,8 +12414,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -12646,8 +12430,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "biocViews",
         "multtest",
         "mzID",
@@ -12708,13 +12490,10 @@
     "Rmagpie": [],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineOB",
         "ChemmineR",
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12786,8 +12565,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -12932,10 +12709,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "Rnits": [
-        "affy",
-        "affyio"
-    ],
+    "Rnits": [],
     "roar": [
         "BiocIO",
         "BiocParallel",
@@ -12967,8 +12741,6 @@
         "BiocStyle",
         "Biostrings",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -13022,7 +12794,6 @@
         "Biostrings",
         "Rhtslib"
     ],
-    "rsbml": [],
     "rScudo": [],
     "Rsubread": [],
     "RSVSim": [
@@ -13114,7 +12885,6 @@
         "snpStats"
     ],
     "rWikiPathways": [],
-    "S4Arrays": [],
     "safe": [
         "AnnotationDbi",
         "Biostrings",
@@ -13188,8 +12958,6 @@
         "GEOquery",
         "KEGGREST",
         "affxparser",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "oligo",
@@ -14090,7 +13858,6 @@
         "rtracklayer"
     ],
     "signifinder": [
-        "AIMS",
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocIO",
@@ -14154,8 +13921,6 @@
         "Biostrings",
         "KEGGREST",
         "Ringo",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -14356,8 +14121,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -14409,8 +14172,6 @@
         "GLAD",
         "KEGGREST",
         "aCGH",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "multtest",
@@ -14539,7 +14300,6 @@
         "annotate",
         "sparseMatrixStats"
     ],
-    "SparseArray": [],
     "sparseMatrixStats": [],
     "SparseSignatures": [
         "BSgenome",
@@ -14857,8 +14617,6 @@
         "Category",
         "GSEABase",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -14873,10 +14631,7 @@
         "graphite",
         "miRNAtap"
     ],
-    "STATegRa": [
-        "affy",
-        "affyio"
-    ],
+    "STATegRa": [],
     "Statial": [
         "BiocParallel",
         "SingleCellExperiment",
@@ -14945,7 +14700,6 @@
     "SummarizedBenchmark": [
         "BiocParallel"
     ],
-    "SummarizedExperiment": [],
     "supersigs": [
         "Biostrings"
     ],
@@ -15026,8 +14780,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "cleaver",
         "multtest",
         "mzID",
@@ -15307,7 +15059,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "tigre": [
         "AnnotationDbi",
         "Biostrings",
@@ -15319,8 +15070,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -15436,8 +15185,6 @@
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -15573,7 +15320,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -15673,8 +15419,6 @@
     ],
     "TTMap": [],
     "TurboNorm": [
-        "affy",
-        "affyio",
         "convert",
         "marray"
     ],
@@ -15801,11 +15545,8 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
-        "HTqPCR",
-        "affy",
-        "affyio"
+        "HTqPCR"
     ],
     "UniProt.ws": [
         "AnnotationDbi",
@@ -15856,7 +15597,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "affyio",
         "crlmm",
         "illuminaio",
         "oligoClasses",
@@ -16041,10 +15781,7 @@
     "vsclust": [
         "MultiAssayExperiment"
     ],
-    "vsn": [
-        "affy",
-        "affyio"
-    ],
+    "vsn": [],
     "vtpnet": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -16110,8 +15847,6 @@
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -16145,8 +15880,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "affy",
-        "affyio",
         "annaffy",
         "gcrma",
         "multtest",
@@ -16183,8 +15916,6 @@
         "QFeatures",
         "Rhdf5lib",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -16228,7 +15959,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "XVector": [],
     "yamss": [
         "EBImage",
         "Rhdf5lib",
