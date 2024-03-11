@@ -831,7 +831,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [
         "HDF5Array"
     ],
@@ -3478,10 +3477,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "OmaDB": [],
     "omicade4": [],
     "omicplotR": [
@@ -4903,7 +4899,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "tanggle": [],
     "TAPseq": [],
     "TargetDecoy": [
         "mzR"
@@ -4970,7 +4965,6 @@
     "tilingArray": [
         "genefilter"
     ],
-    "timecourse": [],
     "timeOmics": [
         "mixOmics"
     ],
