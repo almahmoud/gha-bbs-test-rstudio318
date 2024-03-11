@@ -853,7 +853,6 @@
         "Spectra",
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase"
     ],
@@ -1676,7 +1675,6 @@
     "FEAST": [
         "TSCAN"
     ],
-    "fedup": [],
     "fenr": [],
     "ffpe": [
         "bumphunter",
@@ -2030,7 +2028,6 @@
         "cBioPortalData"
     ],
     "GOexpress": [],
-    "GOpro": [],
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
@@ -3619,9 +3616,7 @@
         "ggbio"
     ],
     "RepViz": [],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -3796,7 +3791,6 @@
         "ShortRead"
     ],
     "rSWeeP": [],
-    "RTCGA": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
@@ -4004,7 +3998,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -4370,7 +4363,6 @@
     ],
     "TDbasedUFEadv": [
         "DOSE",
-        "RTCGA",
         "STRINGdb",
         "TDbasedUFE",
         "enrichplot",
@@ -4591,7 +4583,6 @@
         "SpatialFeatureExperiment"
     ],
     "VplotR": [],
-    "vsclust": [],
     "vtpnet": [
         "BiocVersion",
         "VariantAnnotation",
@@ -4629,7 +4620,6 @@
         "MsExperiment",
         "Spectra"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "genefilter"
