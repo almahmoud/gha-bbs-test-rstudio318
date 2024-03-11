@@ -1878,7 +1878,6 @@
     "MSPrep": [
         "sva"
     ],
-    "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
@@ -2752,7 +2751,6 @@
     "specL": [],
     "SpectralTAD": [],
     "SPIA": [],
-    "SPIAT": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -2767,7 +2765,6 @@
         "biovizBase"
     ],
     "splots": [],
-    "SpotClean": [],
     "SPsimSeq": [],
     "srnadiff": [
         "BiocStyle",
