@@ -124,7 +124,6 @@
     ],
     "AMOUNTAIN": [],
     "amplican": [],
-    "Anaquin": [],
     "AneuFinder": [],
     "annmap": [],
     "AnnotationHub": [
@@ -333,7 +332,6 @@
     ],
     "brainflowprobes": [
         "BiocVersion",
-        "GenomicFiles",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -350,7 +348,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -362,7 +359,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -385,8 +381,7 @@
     "CardinalIO": [],
     "CARNIVAL": [],
     "CATALYST": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "Category": [],
     "categoryCompare": [
@@ -429,8 +424,7 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "Cepo": [],
     "ceRNAnetsim": [],
@@ -492,7 +486,6 @@
         "Gviz",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "BiocVersion",
         "gwascat"
@@ -522,9 +515,7 @@
         "baySeq"
     ],
     "ClustIRR": [],
-    "cmapR": [
-        "flowCore"
-    ],
+    "cmapR": [],
     "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
@@ -575,7 +566,6 @@
     "condiments": [],
     "CONFESS": [
         "flowClust",
-        "flowCore",
         "flowMeans",
         "flowMerge"
     ],
@@ -587,9 +577,7 @@
     "consensusOV": [
         "GSVA"
     ],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "illuminaio",
         "minfi"
@@ -683,33 +671,23 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
-    "cydar": [
-        "flowCore"
-    ],
-    "CytoDx": [
-        "flowCore"
-    ],
+    "cydar": [],
+    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "cytofQC": [
         "BiocStyle",
         "CATALYST",
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
-    "cytoMEM": [
-        "flowCore"
-    ],
+    "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -719,7 +697,6 @@
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -728,7 +705,6 @@
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -750,7 +726,6 @@
     ],
     "dce": [],
     "ddPCRclust": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
@@ -761,7 +736,6 @@
         "pathview",
         "sva"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "celda"
     ],
@@ -791,11 +765,8 @@
     ],
     "DEP": [],
     "DepecheR": [],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "derfinder",
         "ggbio"
     ],
@@ -811,8 +782,7 @@
         "systemPipeR"
     ],
     "diffcyt": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "DifferentialRegulation": [
         "tximport"
@@ -937,9 +907,7 @@
         "epivizr",
         "epivizrData"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "TFBSTools",
@@ -1002,91 +970,56 @@
         "dir.expiry",
         "ggbio"
     ],
-    "flowAI": [
-        "flowCore"
-    ],
-    "flowBeads": [
-        "flowCore"
-    ],
+    "flowAI": [],
+    "flowBeads": [],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [
-        "flowCore"
-    ],
-    "flowClean": [
-        "flowCore"
-    ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowCHIC": [],
+    "flowClean": [],
+    "flowClust": [],
     "flowCut": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
-    "flowMeans": [
-        "flowCore"
-    ],
+    "flowMatch": [],
+    "flowMeans": [],
     "flowMerge": [
-        "flowClust",
-        "flowCore"
+        "flowClust"
     ],
-    "flowPloidy": [
-        "flowCore"
-    ],
-    "FlowSOM": [
-        "flowCore"
-    ],
-    "flowSpecs": [
-        "flowCore"
-    ],
+    "flowPloidy": [],
+    "FlowSOM": [],
+    "flowSpecs": [],
     "flowStats": [
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [
-        "flowCore"
-    ],
+    "flowTime": [],
     "flowTrans": [
         "flowClust",
-        "flowCore",
         "flowViz"
     ],
-    "flowViz": [
-        "flowCore"
-    ],
+    "flowViz": [],
     "flowVS": [
-        "flowCore",
         "flowStats",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "flowCore",
         "ncdfFlow"
     ],
     "fmrs": [],
@@ -1109,7 +1042,6 @@
         "sva"
     ],
     "GateFinder": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
@@ -1123,8 +1055,7 @@
         "pathview"
     ],
     "gDNAx": [
-        "BiocVersion",
-        "GenomicFiles"
+        "BiocVersion"
     ],
     "gDR": [
         "CoreGx",
@@ -1169,7 +1100,6 @@
     ],
     "GENIE3": [],
     "genoCN": [],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -1195,7 +1125,6 @@
     ],
     "ggbio": [],
     "ggcyto": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1312,7 +1241,6 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "igvR": [],
     "illuminaio": [],
     "IMAS": [],
     "imcRtools": [],
@@ -1320,13 +1248,10 @@
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "INDEED": [],
     "iNETgrate": [
         "BiocStyle",
@@ -1337,9 +1262,7 @@
         "illuminaio",
         "minfi"
     ],
-    "infinityFlow": [
-        "flowCore"
-    ],
+    "infinityFlow": [],
     "InPAS": [],
     "INSPEcT": [],
     "intansv": [
@@ -1350,8 +1273,7 @@
         "Category"
     ],
     "IntEREst": [
-        "DEXSeq",
-        "GenomicFiles"
+        "DEXSeq"
     ],
     "IONiseR": [],
     "ipdDb": [
@@ -1515,8 +1437,7 @@
     ],
     "metaCCA": [],
     "MetaCyto": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "metahdep": [],
     "metaMS": [
@@ -1742,9 +1663,7 @@
     "multiHiCcompare": [],
     "mumosa": [],
     "muscat": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MWASTools": [],
     "NADfinder": [
@@ -1760,9 +1679,7 @@
     "NanoMethViz": [],
     "NanoTube": [],
     "NBAMSeq": [],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
         "xcms"
@@ -1827,7 +1744,6 @@
     ],
     "openCyto": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
@@ -1838,7 +1754,6 @@
         "GSVA"
     ],
     "optimalFlow": [
-        "flowCore",
         "flowMeans"
     ],
     "ORFik": [],
@@ -1898,7 +1813,6 @@
         "switchBox"
     ],
     "PeacoQC": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1987,7 +1901,6 @@
     "protGear": [],
     "psichomics": [
         "BiocVersion",
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -2015,7 +1928,6 @@
     ],
     "QuartPAC": [],
     "QuasR": [
-        "GenomicFiles",
         "Rbowtie"
     ],
     "QUBIC": [],
@@ -2080,7 +1992,6 @@
     ],
     "reconsi": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [
@@ -2100,7 +2011,6 @@
     "regioneReloaded": [],
     "regionReport": [
         "BiocStyle",
-        "GenomicFiles",
         "derfinder"
     ],
     "regsplice": [],
@@ -2176,7 +2086,6 @@
         "BiocStyle"
     ],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -2203,7 +2112,6 @@
     ],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -2216,10 +2124,8 @@
         "BiocStyle"
     ],
     "Rqc": [
-        "BiocStyle",
-        "GenomicFiles"
+        "BiocStyle"
     ],
-    "rqt": [],
     "RRHO": [],
     "Rsubread": [],
     "RSVSim": [],
@@ -2269,9 +2175,7 @@
     "scClassify": [
         "Cepo"
     ],
-    "scDataviz": [
-        "flowCore"
-    ],
+    "scDataviz": [],
     "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
@@ -2280,9 +2184,7 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scifer": [
-        "flowCore"
-    ],
+    "scifer": [],
     "scMerge": [],
     "scMET": [
         "BiocStyle"
@@ -2295,9 +2197,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "Sconify": [
-        "flowCore"
-    ],
+    "Sconify": [],
     "scPipe": [
         "Rsubread",
         "basilisk",
@@ -2350,7 +2250,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [
         "BiocVersion",
         "SNPRelate",
@@ -2418,7 +2317,6 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR",
         "Rbowtie"
     ],
@@ -2589,8 +2487,7 @@
     "traviz": [],
     "treekoR": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "trigger": [
         "sva"
@@ -2637,9 +2534,7 @@
         "sva"
     ],
     "vbmp": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
