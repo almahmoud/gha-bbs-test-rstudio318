@@ -1017,7 +1017,6 @@
         "genefilter",
         "sva"
     ],
-    "Doscheda": [],
     "DOSE": [],
     "doubletrouble": [],
     "drawProteins": [],
@@ -2218,7 +2217,6 @@
         "biovizBase"
     ],
     "OLINgui": [],
-    "OmaDB": [],
     "omicplotR": [],
     "omicRexposome": [
         "genefilter",
@@ -2337,8 +2335,7 @@
     ],
     "PhyloProfile": [
         "BiocStyle",
-        "BiocVersion",
-        "OmaDB"
+        "BiocVersion"
     ],
     "Pi": [],
     "piano": [],
