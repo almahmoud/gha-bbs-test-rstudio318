@@ -181,7 +181,6 @@
     "APAlyzer": [
         "Rsubread"
     ],
-    "apComplex": [],
     "APL": [],
     "appreci8R": [
         "BiocVersion",
@@ -228,8 +227,7 @@
         "OrganismDbi",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "BiocVersion",
@@ -1722,7 +1720,6 @@
         "globaltest"
     ],
     "globaltest": [],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1814,14 +1811,12 @@
     "HelloRanges": [],
     "hermes": [],
     "Herper": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiCExperiment": [],
@@ -1881,9 +1876,7 @@
     "idiogram": [],
     "igvR": [],
     "illuminaio": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1975,7 +1968,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "IVAS": [],
     "karyoploteR": [
         "biovizBase",
         "regioneR"
@@ -2521,9 +2513,7 @@
     "multiGSEA": [
         "BiocVersion"
     ],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [],
     "mumosa": [
         "batchelor",
@@ -2748,7 +2738,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "PCAN": [],
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
@@ -2861,7 +2850,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "pRoloc": [
@@ -3116,7 +3104,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
@@ -3312,8 +3299,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scDesign3": [],
-    "SCFA": [],
     "scFeatures": [
         "AUCell",
         "GSEABase",
@@ -3361,7 +3346,6 @@
     ],
     "scran": [],
     "scRecover": [],
-    "screenCounter": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -3625,9 +3609,7 @@
     ],
     "specL": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [
@@ -3636,7 +3618,6 @@
     ],
     "SpidermiR": [],
     "spikeLI": [],
-    "spiky": [],
     "spkTools": [],
     "splatter": [],
     "SpliceWiz": [
@@ -3715,9 +3696,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TargetDecoy": [],
     "TargetScore": [],
     "TargetSearch": [],
@@ -3923,7 +3902,6 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vtpnet": [
         "BiocVersion",
         "gwascat"
