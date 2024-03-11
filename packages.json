@@ -550,7 +550,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA"
     ],
@@ -989,7 +988,6 @@
     ],
     "FastqCleaner": [],
     "fCCAC": [],
-    "fcScan": [],
     "FEAST": [],
     "ffpe": [
         "illuminaio",
@@ -2410,7 +2408,6 @@
         "GSVA",
         "consensusOV"
     ],
-    "SigsPack": [],
     "SIM": [],
     "SimBindProfiles": [
         "Ringo"
