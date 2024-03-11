@@ -1040,7 +1040,6 @@
         "fgsea",
         "piano"
     ],
-    "corral": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -1498,7 +1497,6 @@
         "genefilter",
         "sva"
     ],
-    "EDIRquery": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
@@ -1725,7 +1723,6 @@
     "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [],
-    "fishpond": [],
     "FitHiC": [],
     "flagme": [
         "CAMERA",
@@ -2016,7 +2013,6 @@
     "GenomicScores": [
         "BiocVersion"
     ],
-    "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
     ],
@@ -2433,7 +2429,6 @@
     "lineagespot": [
         "VariantAnnotation"
     ],
-    "LinkHD": [],
     "lipidr": [
         "fgsea",
         "ropls"
@@ -2740,7 +2735,6 @@
         "illuminaio",
         "minfi"
     ],
-    "MetID": [],
     "MetNet": [
         "GENIE3"
     ],
@@ -3195,13 +3189,11 @@
     ],
     "OLINgui": [],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
     "omicRexposome": [
         "genefilter",
-        "omicade4",
         "rexposome",
         "sva"
     ],
@@ -3792,7 +3784,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "riboSeqR": [
         "baySeq"
     ],
@@ -4237,7 +4228,6 @@
     ],
     "SIMD": [],
     "SimFFPE": [],
-    "simona": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -4367,7 +4357,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [
