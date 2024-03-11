@@ -227,9 +227,7 @@
         "MSstatsConvert"
     ],
     "ASAFE": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "BiocStyle",
         "Gviz",
@@ -332,7 +330,6 @@
     "BayesSpace": [
         "scran"
     ],
-    "bayNorm": [],
     "baySeq": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
@@ -445,13 +442,10 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [
         "scran"
     ],
-    "biotmle": [],
     "biovizBase": [],
     "biscuiteer": [
         "BiocVersion",
@@ -635,7 +629,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccImpute": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
@@ -782,7 +775,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "biovizBase",
@@ -2239,11 +2231,9 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [],
     "lipidr": [
-        "fgsea",
-        "ropls"
+        "fgsea"
     ],
     "lisaClust": [
         "ClassifyR",
@@ -2257,7 +2247,6 @@
         "Spectra",
         "xcms"
     ],
-    "loci2path": [],
     "LoomExperiment": [],
     "lpNet": [
         "KEGGgraph"
@@ -2788,9 +2777,7 @@
         "MSstatsConvert"
     ],
     "Mulcom": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multiClust": [
         "ctc"
     ],
@@ -2985,7 +2972,6 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oposSOM": [],
     "oppar": [
         "GSEABase",
         "GSVA"
@@ -3118,8 +3104,7 @@
         "monocle"
     ],
     "phenomis": [
-        "biodbChebi",
-        "ropls"
+        "biodbChebi"
     ],
     "phenoTest": [
         "Category",
@@ -3607,7 +3592,6 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
     "RPA": [
         "BiocStyle",
         "phyloseq"
@@ -3618,9 +3602,7 @@
         "ShortRead",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RRHO": [],
     "rrvgo": [],
     "Rsubread": [],
@@ -4067,7 +4049,6 @@
         "BiocVersion",
         "genefilter"
     ],
-    "SplicingGraphs": [],
     "splineTimeR": [
         "GSEABase"
     ],
