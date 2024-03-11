@@ -1050,7 +1050,6 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -2063,7 +2062,6 @@
     ],
     "nipalsMCIA": [],
     "nnSVG": [],
-    "nondetects": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -2845,7 +2843,6 @@
     "spicyR": [
         "ClassifyR"
     ],
-    "SpidermiR": [],
     "spikeLI": [],
     "spkTools": [],
     "SpliceWiz": [
@@ -2877,9 +2874,7 @@
         "cellHTS2",
         "splots"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [],
     "STRINGdb": [],
@@ -2996,13 +2991,8 @@
         "sva"
     ],
     "trio": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [],
     "TurboNorm": [],
