@@ -422,7 +422,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "genefilter",
         "sva"
@@ -571,7 +570,6 @@
     "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
-    "CellNOptR": [],
     "cellscape": [],
     "CEMiTool": [
         "DOSE",
@@ -724,18 +722,10 @@
         "exomeCopy"
     ],
     "CNEr": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [
         "genefilter"
     ],
@@ -888,7 +878,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CRISPRseek": [],
     "crisprVerse": [
         "BiocVersion",
         "Gviz",
@@ -1540,14 +1529,12 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
     ],
     "genefilter": [],
     "GeneGA": [],
-    "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -1662,7 +1649,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase",
@@ -1700,7 +1686,6 @@
         "GSEABase"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1736,12 +1721,8 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
     "HiCool": [
-        "HiCExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1750,7 +1731,6 @@
         "BiocVersion"
     ],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hoodscanR": [],
     "hpar": [
         "BiocVersion"
@@ -1861,7 +1841,6 @@
     "iSEEu": [
         "iSEEhex"
     ],
-    "ISLET": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DEXSeq",
@@ -2059,8 +2038,7 @@
     "MetaboSignal": [
         "BiocVersion",
         "MWASTools",
-        "hpar",
-        "mygene"
+        "hpar"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -2393,7 +2371,6 @@
         "ctc"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "Rbowtie",
         "biovizBase",
         "karyoploteR"
@@ -2414,7 +2391,6 @@
     ],
     "MutationalPatterns": [],
     "MWASTools": [],
-    "mygene": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -2461,7 +2437,6 @@
     "netresponse": [
         "BiocStyle"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
@@ -3323,7 +3298,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "single": [],
     "SingleCellSignalR": [
         "scran"
     ],
@@ -3612,7 +3586,6 @@
         "glmGamPoi"
     ],
     "tRanslatome": [],
-    "traseR": [],
     "traviz": [
         "slingshot"
     ],
