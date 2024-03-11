@@ -2,11 +2,9 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "a4Classif": [],
@@ -198,7 +196,6 @@
     "animalcules": [
         "DESeq2"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -725,7 +722,6 @@
     ],
     "ccfindR": [],
     "ccImpute": [],
-    "ccmap": [],
     "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
@@ -1773,9 +1769,7 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
@@ -2608,7 +2602,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -3087,7 +3080,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2",
         "sSeq"
@@ -4485,7 +4477,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SELEX": [],
     "SemDist": [],
     "semisup": [],
     "seq2pathway": [],
@@ -4990,7 +4981,6 @@
         "fgsea",
         "rWikiPathways"
     ],
-    "TIN": [],
     "TissueEnrich": [
         "GSEABase"
     ],
@@ -5069,7 +5059,6 @@
     "trio": [
         "siggenes"
     ],
-    "triplex": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -5215,9 +5204,7 @@
     ],
     "wavClusteR": [],
     "weaver": [],
-    "webbioc": [
-        "annaffy"
-    ],
+    "webbioc": [],
     "weitrix": [],
     "wiggleplotr": [],
     "wppi": [
