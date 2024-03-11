@@ -402,7 +402,6 @@
         "PROMISE"
     ],
     "celda": [],
-    "CellBarcode": [],
     "cellHTS2": [
         "Category",
         "splots"
@@ -457,13 +456,11 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
@@ -694,7 +691,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1177,9 +1173,7 @@
         "BiocVersion"
     ],
     "HPiP": [],
-    "HTSeqGenie": [
-        "chipseq"
-    ],
+    "HTSeqGenie": [],
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
@@ -1809,7 +1803,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -1884,9 +1877,7 @@
         "BiocVersion"
     ],
     "Rarr": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "Rbowtie": [],
     "Rbwa": [],
     "RCAS": [],
@@ -2265,9 +2256,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -2393,9 +2382,7 @@
     ],
     "tradeSeq": [],
     "TrajectoryGeometry": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [],
     "traviz": [],
     "treekoR": [
