@@ -488,7 +488,6 @@
     "CiteFuse": [],
     "ClassifyR": [],
     "clevRvis": [],
-    "clipper": [],
     "cliqueMS": [
         "MsExperiment",
         "xcms"
@@ -731,9 +730,7 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DelayedDataFrame": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -803,7 +800,6 @@
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "zenith"
     ],
     "DrugVsDisease": [],
@@ -841,9 +837,7 @@
         "illuminaio",
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "SPIA"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
@@ -1140,8 +1134,7 @@
     "GRENITS": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer",
@@ -1272,7 +1265,6 @@
     "iterativeBMAsurv": [],
     "karyoploteR": [],
     "KBoost": [],
-    "KEGGlincs": [],
     "kissDE": [
         "DSS"
     ],
@@ -1644,7 +1636,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "NCIgraph": [],
     "nempi": [],
     "netboost": [
         "BiocStyle"
@@ -2319,7 +2310,6 @@
     ],
     "specL": [],
     "SpectralTAD": [],
-    "SPIA": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -2537,8 +2527,7 @@
         "dir.expiry"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "zinbwave": []
 }
