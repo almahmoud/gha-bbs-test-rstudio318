@@ -462,9 +462,7 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "breakpointR": [],
     "BRGenomics": [],
-    "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
         "BiocStyle",
@@ -522,12 +520,9 @@
     ],
     "cardelino": [],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "CARNIVAL": [],
     "casper": [],
     "CATALYST": [
@@ -711,7 +706,6 @@
     "CircSeqAlignTk": [
         "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
         "ShortRead"
     ],
     "cisPath": [],
@@ -1086,7 +1080,6 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -1268,7 +1261,6 @@
         "illuminaio",
         "minfi"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "SPIA",
@@ -1366,7 +1358,6 @@
     "escheR": [],
     "esetVis": [],
     "EventPointer": [
-        "SGSeq",
         "tximport"
     ],
     "EWCE": [
@@ -1390,7 +1381,6 @@
         "BiocStyle"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -1782,7 +1772,6 @@
         "SNPRelate",
         "gdsfmt"
     ],
-    "h5vc": [],
     "Harman": [],
     "HarmonizR": [
         "genefilter",
@@ -2066,7 +2055,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "matter": [],
     "MBAmethyl": [],
     "MBECS": [
         "genefilter",
@@ -2656,7 +2644,6 @@
         "Ringo",
         "genefilter"
     ],
-    "OVESEG": [],
     "PAA": [
         "genefilter",
         "sva"
@@ -2666,7 +2653,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
@@ -2811,7 +2797,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -2908,7 +2893,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [
         "ShortRead"
     ],
@@ -3068,9 +3052,7 @@
         "regioneR"
     ],
     "rgsepd": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -3394,7 +3376,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "bumphunter",
         "genefilter",
