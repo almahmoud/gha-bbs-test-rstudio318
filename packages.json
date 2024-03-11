@@ -575,9 +575,7 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [],
     "CoSIA": [
         "BiocVersion"
@@ -1033,13 +1031,11 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -1756,7 +1752,6 @@
     ],
     "PDATK": [
         "CoreGx",
-        "piano",
         "switchBox"
     ],
     "PeacoQC": [
@@ -1766,8 +1761,7 @@
     "peakPantheR": [],
     "PECA": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -1781,7 +1775,6 @@
         "BiocVersion"
     ],
     "Pi": [],
-    "piano": [],
     "pickgene": [],
     "Pigengene": [
         "BiocStyle",
@@ -1882,8 +1875,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [
         "GENESIS",
@@ -2404,8 +2396,7 @@
     ],
     "topdownr": [],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz"
@@ -2506,8 +2497,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [
         "STRINGdb"
