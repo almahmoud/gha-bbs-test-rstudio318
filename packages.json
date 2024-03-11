@@ -227,8 +227,7 @@
     "BaseSpaceR": [],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "basilisk": [
         "basilisk.utils",
@@ -636,9 +635,7 @@
         "Spectra"
     ],
     "compSPOT": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowCore",
@@ -1107,9 +1104,7 @@
     "FastqCleaner": [],
     "fCCAC": [],
     "fcScan": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "illuminaio",
         "lumi",
@@ -1352,7 +1347,6 @@
     "GISPA": [],
     "GLAD": [],
     "Glimma": [],
-    "glmGamPoi": [],
     "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
@@ -1559,9 +1553,7 @@
         "sva"
     ],
     "LedPred": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
@@ -2611,9 +2603,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "Rsubread",
         "biovizBase",
@@ -2727,7 +2717,6 @@
         "BiocVersion",
         "DropletUtils",
         "GSVA",
-        "TSCAN",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -2754,7 +2743,6 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [],
     "SMAD": [],
     "SMAP": [],
     "SMITE": [],
@@ -2936,20 +2924,14 @@
         "Gviz",
         "biovizBase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "TrajectoryGeometry": [],
     "transcriptR": [
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt",
@@ -2958,11 +2940,9 @@
     "trigger": [
         "sva"
     ],
-    "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSAR": [],
-    "TSCAN": [],
     "TVTB": [
         "Gviz",
         "biovizBase",
