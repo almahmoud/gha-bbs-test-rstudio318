@@ -463,7 +463,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "breakpointR": [],
     "BRGenomics": [],
     "BSgenomeForge": [],
@@ -1086,7 +1085,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -1122,7 +1120,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "bumphunter"
@@ -1217,7 +1214,6 @@
         "GSEABase",
         "SPIA",
         "pathview",
-        "variancePartition",
         "zenith"
     ],
     "DropletUtils": [],
@@ -2045,7 +2041,6 @@
     "magpie": [
         "TRESS"
     ],
-    "magrene": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2091,7 +2086,6 @@
         "gdsfmt"
     ],
     "mbQTL": [],
-    "MCbiclust": [],
     "mCSEA": [
         "Gviz",
         "OrganismDbi",
@@ -2121,7 +2115,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "MEDIPS": [],
     "Melissa": [
         "BPRMeth",
         "BiocStyle"
@@ -2182,9 +2175,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -2225,10 +2216,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
@@ -2510,9 +2498,7 @@
         "scran"
     ],
     "MungeSumstats": [],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -3320,7 +3306,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [],
     "scp": [],
     "scPipe": [
@@ -3653,7 +3638,6 @@
     "STRINGdb": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
-    "SummarizedBenchmark": [],
     "surfaltr": [],
     "sva": [
         "genefilter"
@@ -3714,7 +3698,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "AnVIL",
         "TCGAutils"
@@ -3844,8 +3827,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "VarCon": [],
-    "variancePartition": [],
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
@@ -3954,8 +3935,7 @@
         "EnrichmentBrowser",
         "GSEABase",
         "SPIA",
-        "pathview",
-        "variancePartition"
+        "pathview"
     ],
     "zinbwave": [
         "genefilter"
