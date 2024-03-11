@@ -263,7 +263,6 @@
     "BgeeCall": [
         "tximport"
     ],
-    "BgeeDB": [],
     "BHC": [],
     "BicARE": [],
     "BiGGR": [],
@@ -1349,14 +1348,11 @@
         "BiocVersion"
     ],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "sva"
     ],
     "GEOfastq": [],
-    "GeomxTools": [],
     "gep2pep": [],
     "gespeR": [
         "Category",
@@ -2111,7 +2107,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "OLINgui": [],
     "omicplotR": [],
     "omicRexposome": [
         "sva"
@@ -2313,9 +2308,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase"
     ],
@@ -2514,7 +2507,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "STRINGdb"
     ],
     "RJMCMCNucleosomes": [],
@@ -2855,14 +2847,10 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
