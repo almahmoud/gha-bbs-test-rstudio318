@@ -317,7 +317,6 @@
         "BiocVersion",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "BiSeq": [],
@@ -347,8 +346,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "BPRMeth": [
         "BiocStyle"
@@ -362,7 +360,6 @@
         "ggbio"
     ],
     "BRGenomics": [],
-    "bsseq": [],
     "BubbleTree": [
         "BiocStyle",
         "biovizBase"
@@ -495,7 +492,6 @@
         "DMRcate",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -601,8 +597,7 @@
     ],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "CoGAPS": [],
     "coGPS": [],
@@ -853,7 +848,6 @@
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
         "sva"
     ],
     "densvis": [
@@ -912,7 +906,6 @@
         "BiocVersion",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -920,8 +913,7 @@
     ],
     "dmrseq": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -939,9 +931,7 @@
     ],
     "drugTargetInteractions": [],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "dupRadar": [
         "Rsubread"
     ],
@@ -1518,11 +1508,9 @@
     ],
     "katdetectr": [],
     "KBoost": [],
-    "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [
         "sva"
@@ -1681,8 +1669,7 @@
     "metapone": [],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
-        "bsseq"
+        "EDASeq"
     ],
     "MetCirc": [],
     "methInheritSim": [],
@@ -1696,7 +1683,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "illuminaio",
         "minfi"
     ],
@@ -1723,8 +1709,7 @@
     ],
     "MethylSeekR": [],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "illuminaio",
@@ -1759,9 +1744,7 @@
         "crlmm",
         "illuminaio"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1940,9 +1923,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
@@ -2153,9 +2134,7 @@
         "BiocStyle",
         "RPA"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "BiocVersion",
         "Gviz",
@@ -2270,7 +2249,6 @@
     "Rbwa": [],
     "RCAS": [],
     "RCASPAR": [],
-    "rCGH": [],
     "RCM": [],
     "Rcollectl": [],
     "Rcwl": [
@@ -2529,8 +2507,7 @@
     ],
     "scmeth": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -2706,8 +2683,7 @@
     ],
     "SOMNiBUS": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "Spaniel": [],
     "sparrow": [],
