@@ -1626,7 +1626,6 @@
     "escheR": [],
     "esetVis": [],
     "eudysbiome": [],
-    "evaluomeR": [],
     "EventPointer": [
         "SGSeq",
         "fgsea",
@@ -2276,7 +2275,6 @@
         "ggbio"
     ],
     "interacCircos": [],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -2471,7 +2469,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "martini": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -2556,7 +2553,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "MesKit": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "BiocVersion",
@@ -2761,7 +2757,6 @@
         "methylumi",
         "minfi"
     ],
-    "missRows": [],
     "mistyR": [],
     "mitoClone2": [
         "VariantAnnotation",
@@ -2946,7 +2941,6 @@
         "MSstats",
         "MSstatsConvert"
     ],
-    "MuData": [],
     "Mulcom": [],
     "MultiBaC": [
         "ropls"
@@ -3468,7 +3462,6 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "qckitfastq": [],
     "QDNAseq": [
         "CGHcall"
     ],
