@@ -439,7 +439,6 @@
         "sva"
     ],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [],
@@ -473,7 +472,6 @@
         "illuminaio"
     ],
     "BLMA": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "BloodGen3Module": [
@@ -801,9 +799,7 @@
     ],
     "cleanUpdTSeq": [],
     "clevRvis": [],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -1101,7 +1097,6 @@
         "flowCore"
     ],
     "CytoGLMM": [],
-    "cytoKernel": [],
     "cytomapper": [],
     "cytoMEM": [
         "flowCore"
@@ -1175,7 +1170,6 @@
         "DESeq2",
         "DOSE",
         "Harman",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1203,7 +1197,6 @@
     ],
     "DegNorm": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph"
     ],
     "DEGreport": [
@@ -1349,7 +1342,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "variancePartition",
@@ -1392,7 +1384,6 @@
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "KEGGgraph",
         "globaltest",
         "pathview"
     ],
@@ -1420,7 +1411,6 @@
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -1754,7 +1744,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1830,7 +1819,6 @@
     "GENIE3": [],
     "genoCN": [],
     "genomation": [],
-    "GenomAutomorphism": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
@@ -1957,7 +1945,6 @@
         "BiocVersion",
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview"
     ],
@@ -2212,10 +2199,7 @@
     ],
     "KBoost": [],
     "KCsmart": [],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -2226,7 +2210,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "LedPred": [],
     "lemur": [
         "glmGamPoi"
@@ -2248,9 +2231,7 @@
         "xcms"
     ],
     "LoomExperiment": [],
-    "lpNet": [
-        "KEGGgraph"
-    ],
+    "lpNet": [],
     "LRcell": [
         "BiocVersion"
     ],
@@ -2292,7 +2273,6 @@
     "MAGeCKFlute": [
         "BiocVersion",
         "DOSE",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2413,7 +2393,6 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "BiocVersion",
-        "KEGGgraph",
         "MWASTools",
         "hpar",
         "mygene"
@@ -2580,7 +2559,6 @@
         "bsseq"
     ],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -2814,9 +2792,7 @@
         "decompTumor2Sig"
     ],
     "MutationalPatterns": [],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "mygene": [],
     "myvariant": [],
     "NADfinder": [
@@ -2852,9 +2828,7 @@
         "Spectra",
         "xcms"
     ],
-    "NCIgraph": [
-        "KEGGgraph"
-    ],
+    "NCIgraph": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -3046,7 +3020,6 @@
     "partCNV": [
         "BiocVersion"
     ],
-    "PAST": [],
     "Path2PPI": [],
     "PathNet": [],
     "PathoStat": [
@@ -3055,9 +3028,7 @@
         "phyloseq"
     ],
     "pathRender": [],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
         "Category",
@@ -3123,7 +3094,6 @@
         "fgsea"
     ],
     "pickgene": [],
-    "PICS": [],
     "Pigengene": [
         "BiocStyle",
         "DOSE",
@@ -3134,7 +3104,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [
@@ -3385,7 +3354,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -3589,9 +3557,7 @@
         "minfi"
     ],
     "roar": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "RPA": [
         "BiocStyle",
         "phyloseq"
@@ -3641,7 +3607,6 @@
     ],
     "satuRn": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "SBMLR": [],
@@ -4032,9 +3997,7 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [],
     "spicyR": [
         "ClassifyR",
@@ -4436,7 +4399,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "variancePartition"
