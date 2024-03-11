@@ -288,7 +288,6 @@
     "BeadDataPackR": [],
     "BEAT": [],
     "benchdamic": [
-        "Maaslin2",
         "genefilter",
         "zinbwave"
     ],
@@ -320,9 +319,7 @@
         "enrichplot"
     ],
     "BioCartaImage": [],
-    "biocGraph": [
-        "geneplotter"
-    ],
+    "biocGraph": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -376,8 +373,7 @@
     ],
     "blacksheepr": [
         "DEXSeq",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "blima": [
         "BeadDataPackR",
@@ -747,7 +743,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "consICA": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1014,8 +1009,7 @@
         "sva"
     ],
     "DEXSeq": [
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "DIAlignR": [],
     "DiffBind": [
@@ -1035,8 +1029,7 @@
     "diffUTR": [
         "DEXSeq",
         "Rsubread",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "diggit": [],
     "Dino": [],
@@ -1120,7 +1113,6 @@
     "ENmix": [
         "BiocVersion",
         "genefilter",
-        "geneplotter",
         "illuminaio",
         "minfi"
     ],
@@ -1436,7 +1428,6 @@
     "GeneMeta": [
         "genefilter"
     ],
-    "geneplotter": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -1534,7 +1525,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -1654,7 +1644,6 @@
         "genefilter",
         "pcaExplorer"
     ],
-    "idiogram": [],
     "igvR": [],
     "illuminaio": [],
     "IMAS": [],
@@ -1702,8 +1691,7 @@
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
-        "genefilter",
-        "geneplotter"
+        "genefilter"
     ],
     "IONiseR": [],
     "ipdDb": [
@@ -1730,7 +1718,6 @@
         "BiocVersion",
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "sva",
         "tximeta",
         "tximport"
@@ -1791,10 +1778,7 @@
     "m6Aboost": [
         "BiocVersion"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "macat": [],
     "maCorrPlot": [],
     "MACSQuantifyR": [],
@@ -1985,9 +1969,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "MethylSeekR": [
-        "geneplotter"
-    ],
+    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -2066,9 +2048,7 @@
     "MLSeq": [
         "sSeq"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -2392,7 +2372,6 @@
     "pairedGSEA": [
         "DEXSeq",
         "genefilter",
-        "geneplotter",
         "sva"
     ],
     "panelcn.mops": [
@@ -2803,7 +2782,6 @@
         "GSEABase",
         "cellHTS2",
         "genefilter",
-        "geneplotter",
         "splots"
     ],
     "RNAmodR": [
@@ -2991,7 +2969,6 @@
         "baySeq"
     ],
     "selectKSigs": [],
-    "SemDist": [],
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -3339,7 +3316,6 @@
         "slingshot"
     ],
     "TrajectoryGeometry": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
