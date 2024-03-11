@@ -1093,7 +1093,6 @@
     "HarmonizR": [
         "sva"
     ],
-    "Harshlight": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1578,7 +1577,6 @@
     "normalize450K": [
         "illuminaio"
     ],
-    "npGSEA": [],
     "NTW": [],
     "nuCpos": [],
     "octad": [
@@ -1961,7 +1959,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [],
     "sangeranalyseR": [
         "BiocStyle"
     ],
@@ -2188,7 +2185,6 @@
     "SpliceWiz": [
         "BiocVersion"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz"
     ],
