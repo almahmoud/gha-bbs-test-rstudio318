@@ -266,7 +266,6 @@
         "genefilter",
         "sva"
     ],
-    "bambu": [],
     "BANDITS": [],
     "bandle": [
         "BiocStyle",
@@ -382,10 +381,7 @@
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
-    "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbUniprot": [],
     "biomvRCNS": [
         "Gviz",
@@ -695,7 +691,6 @@
         "frma"
     ],
     "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "batchelor",
         "scran"
@@ -1263,7 +1258,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "EMDomics": [],
@@ -1438,7 +1432,6 @@
         "methylumi",
         "minfi"
     ],
-    "FindIT2": [],
     "FitHiC": [],
     "flagme": [
         "CAMERA",
@@ -1450,7 +1443,6 @@
     "FLAMES": [
         "DropletUtils",
         "OrganismDbi",
-        "bambu",
         "basilisk",
         "basilisk.utils",
         "biovizBase",
@@ -2315,7 +2307,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "TCGAbiolinks",
         "ctc",
         "genefilter"
     ],
@@ -2377,7 +2368,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2729,7 +2719,6 @@
         "BiocStyle",
         "phyloseq"
     ],
-    "pathRender": [],
     "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
@@ -2765,9 +2754,7 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [
-        "biodbChebi"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -3336,7 +3323,6 @@
     "SCOPE": [],
     "scoreInvHap": [],
     "scp": [],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "Rsubread",
@@ -3711,7 +3697,6 @@
     "TCC": [
         "baySeq"
     ],
-    "TCGAbiolinks": [],
     "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
