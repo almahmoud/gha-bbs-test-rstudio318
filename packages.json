@@ -276,8 +276,6 @@
     "AUCell": [
         "GSEABase"
     ],
-    "autonomics": [],
-    "bacon": [],
     "BADER": [],
     "BadRegionFinder": [],
     "ballgown": [
@@ -612,7 +610,6 @@
         "GSEABase",
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [],
     "celda": [
         "scran"
@@ -688,7 +685,6 @@
         "bumphunter",
         "genefilter",
         "globaltest",
-        "goseq",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -858,7 +854,6 @@
         "bsseq"
     ],
     "codelink": [],
-    "CODEX": [],
     "CoGAPS": [],
     "Cogito": [],
     "coGPS": [],
@@ -1643,7 +1638,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "fmrs": [],
     "fobitools": [],
     "FRASER": [
@@ -1853,7 +1847,6 @@
         "cBioPortalData"
     ],
     "GOexpress": [],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
@@ -1996,16 +1989,13 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "DESeq2",
         "GOstats",
         "GSEABase",
         "genefilter",
-        "goseq",
         "pcaExplorer"
     ],
     "IdeoViz": [],
@@ -2325,7 +2315,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagene2": [],
     "metahdep": [],
     "metaMS": [
         "CAMERA",
@@ -3020,7 +3009,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmp": [],
     "podkat": [],
     "pogos": [
         "BiocVersion",
@@ -3058,7 +3046,6 @@
     "proActiv": [
         "DESeq2"
     ],
-    "proBAMr": [],
     "PROcess": [
         "Icens"
     ],
@@ -3333,8 +3320,7 @@
     ],
     "rGREAT": [],
     "rgsepd": [
-        "DESeq2",
-        "goseq"
+        "DESeq2"
     ],
     "Rhisat2": [
         "SGSeq"
@@ -3648,14 +3634,11 @@
     ],
     "SemDist": [],
     "semisup": [],
-    "seq2pathway": [],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "seqArchR"
+        "enrichplot"
     ],
     "SeqArray": [
         "gdsfmt"
@@ -3803,9 +3786,7 @@
     "slingshot": [],
     "SMAD": [],
     "SMAP": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "GLAD",
         "genefilter",
