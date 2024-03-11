@@ -134,7 +134,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "alevinQC": [
         "tximport"
     ],
@@ -321,7 +320,6 @@
     "BEclear": [],
     "beer": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "Maaslin2",
         "genefilter",
@@ -2129,7 +2127,6 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "biovizBase",
@@ -2293,7 +2290,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "phyloseq"
     ],
@@ -2658,9 +2654,7 @@
     ],
     "OLINgui": [],
     "OmaDB": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "genefilter",
         "sva"
@@ -3127,7 +3121,6 @@
         "dir.expiry"
     ],
     "rfPred": [],
-    "rGADEM": [],
     "rGenomeTracks": [
         "BiocVersion"
     ],
@@ -3617,7 +3610,6 @@
     "sparrow": [
         "GSEABase"
     ],
-    "SparseSignatures": [],
     "spaSim": [],
     "spatialDE": [
         "basilisk",
@@ -3958,7 +3950,6 @@
         "regioneR",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "bumphunter",
         "genefilter",
