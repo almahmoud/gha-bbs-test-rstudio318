@@ -944,7 +944,6 @@
     "erma": [
         "GenomicFiles"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "TFBSTools",
@@ -1777,7 +1776,6 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [],
     "nempi": [],
     "netboost": [
         "BiocStyle"
@@ -1949,7 +1947,6 @@
     ],
     "plotgardener": [],
     "plotGrouper": [],
-    "plyinteractions": [],
     "pogos": [
         "BiocVersion",
         "ontoProc"
@@ -2559,7 +2556,6 @@
         "enrichplot",
         "tximport"
     ],
-    "TEKRABber": [],
     "tenXplore": [
         "BiocVersion",
         "ontoProc",
