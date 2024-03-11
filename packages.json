@@ -296,7 +296,6 @@
     "BioNetStat": [
         "pathview"
     ],
-    "biosigner": [],
     "BioTIP": [],
     "biscuiteer": [
         "BiocVersion",
@@ -416,7 +415,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "celaref": [],
     "celda": [],
     "CellBarcode": [],
     "cellHTS2": [
@@ -677,7 +675,6 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -1196,7 +1193,6 @@
         "cellHTS2",
         "splots"
     ],
-    "gg4way": [],
     "ggbio": [],
     "ggcyto": [
         "flowCore",
@@ -1532,7 +1528,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaseqR2": [
         "DSS",
         "EDASeq"
@@ -2449,7 +2444,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SNPhood": [],
     "SNPRelate": [
         "gdsfmt"
     ],
