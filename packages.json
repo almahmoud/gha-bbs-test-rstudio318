@@ -3129,7 +3129,6 @@
         "DropletUtils",
         "GSEABase",
         "GSVA",
-        "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -3150,7 +3149,6 @@
         "QuasR",
         "Rbowtie"
     ],
-    "SingleR": [],
     "singscore": [
         "GSEABase"
     ],
