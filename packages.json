@@ -858,7 +858,6 @@
         "tximport"
     ],
     "diffGeneAnalysis": [],
-    "diffHic": [],
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq",
@@ -1158,10 +1157,7 @@
         "illuminaio",
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq",
@@ -1465,7 +1461,6 @@
     ],
     "LedPred": [],
     "lemur": [],
-    "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
         "ClassifyR",
@@ -1788,7 +1783,6 @@
     "MSPrep": [
         "sva"
     ],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
     ],
