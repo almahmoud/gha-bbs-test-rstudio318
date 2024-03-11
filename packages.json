@@ -55,8 +55,7 @@
         "mzR"
     ],
     "ADImpute": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "adSplit": [],
     "AffiXcan": [
@@ -64,7 +63,6 @@
         "MultiAssayExperiment"
     ],
     "affxparser": [],
-    "affycomp": [],
     "affyContam": [],
     "affycoretools": [
         "AnnotationForge",
@@ -110,9 +108,7 @@
         "GSEABase",
         "annotate"
     ],
-    "aggregateBioVar": [
-        "SingleCellExperiment"
-    ],
+    "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "AnnotationForge",
@@ -166,7 +162,6 @@
         "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
@@ -181,7 +176,6 @@
         "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
@@ -235,7 +229,6 @@
     ],
     "alabaster.sce": [
         "HDF5Array",
-        "SingleCellExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -252,7 +245,6 @@
     ],
     "alabaster.spatial": [
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
@@ -341,7 +333,6 @@
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
         "bluster",
@@ -435,7 +426,6 @@
         "Rgraphviz"
     ],
     "APL": [
-        "SingleCellExperiment",
         "topGO"
     ],
     "appreci8R": [
@@ -530,8 +520,7 @@
         "sva"
     ],
     "ASURAT": [
-        "ComplexHeatmap",
-        "SingleCellExperiment"
+        "ComplexHeatmap"
     ],
     "ATACCoGAPS": [
         "BSgenome",
@@ -544,7 +533,6 @@
         "OrganismDbi",
         "Rhtslib",
         "Rsamtools",
-        "SingleCellExperiment",
         "TFBSTools",
         "annotate",
         "biomaRt",
@@ -717,7 +705,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -731,7 +718,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "glmGamPoi",
@@ -758,7 +744,6 @@
         "DelayedMatrixStats",
         "ResidualMatrix",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scuttle"
     ],
@@ -775,7 +760,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scater",
@@ -783,8 +767,7 @@
         "scuttle"
     ],
     "bayNorm": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "baySeq": [],
     "BBCAnalyzer": [
@@ -812,9 +795,7 @@
     ],
     "beadarraySNP": [],
     "BeadDataPackR": [],
-    "BEARscc": [
-        "SingleCellExperiment"
-    ],
+    "BEARscc": [],
     "BEAT": [
         "BSgenome",
         "BiocIO",
@@ -846,7 +827,6 @@
         "MultiAssayExperiment",
         "NOISeq",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "annotate",
         "beachmat",
@@ -948,7 +928,6 @@
         "enrichplot",
         "fgsea",
         "geNetClassifier",
-        "ggtree",
         "graphite",
         "rtracklayer"
     ],
@@ -1095,7 +1074,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -1357,9 +1335,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "BUSseq": [
-        "SingleCellExperiment"
-    ],
+    "BUSseq": [],
     "CaDrA": [],
     "CAEN": [],
     "CAFE": [
@@ -1491,7 +1467,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "ggtree",
         "rtracklayer",
         "snpStats"
     ],
@@ -1526,7 +1501,6 @@
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "cytolib",
         "flowCore",
@@ -1571,7 +1545,6 @@
         "BiocIO",
         "BiocParallel",
         "BiocSet",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
@@ -1598,7 +1571,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graphite"
     ],
     "cbpManager": [
@@ -1606,9 +1578,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [
-        "SingleCellExperiment"
-    ],
+    "ccfindR": [],
     "ccImpute": [
         "BiocParallel"
     ],
@@ -1622,12 +1592,10 @@
         "annotate"
     ],
     "CDI": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "celaref": [
-        "MAST",
-        "SingleCellExperiment"
+        "MAST"
     ],
     "celda": [
         "BiocNeighbors",
@@ -1636,7 +1604,6 @@
         "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scater",
@@ -1657,8 +1624,7 @@
         "Rsamtools"
     ],
     "CellBench": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "cellHTS2": [
         "Category",
@@ -1674,7 +1640,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "fgsea",
         "scater",
@@ -1690,7 +1655,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
@@ -1699,17 +1663,14 @@
         "Rgraphviz"
     ],
     "cellscape": [],
-    "CellTrails": [
-        "SingleCellExperiment"
-    ],
+    "CellTrails": [],
     "CEMiTool": [
         "BiocParallel",
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "censcyt": [
         "BiocParallel",
@@ -1725,7 +1686,6 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "SingleCellExperiment",
         "annotate"
     ],
     "ceRNAnetsim": [],
@@ -1739,7 +1699,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "snpStats"
     ],
     "CexoR": [
@@ -1828,9 +1787,7 @@
         "wateRmelon"
     ],
     "ChemmineR": [],
-    "CHETAH": [
-        "SingleCellExperiment"
-    ],
+    "CHETAH": [],
     "chihaya": [
         "HDF5Array"
     ],
@@ -1934,7 +1891,6 @@
         "biomaRt",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "rtracklayer"
     ],
     "chipseq": [
@@ -1988,7 +1944,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "batchelor",
         "beachmat",
         "bluster",
@@ -2079,7 +2034,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -2158,7 +2112,6 @@
         "BiocSingular",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "genefilter",
@@ -2171,8 +2124,7 @@
         "DOSE",
         "GOSemSim",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "clusterSeq": [
         "BiocParallel",
@@ -2181,7 +2133,6 @@
     "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
-        "SingleCellExperiment",
         "fgsea"
     ],
     "ClustIRR": [],
@@ -2200,7 +2151,6 @@
         "Rsamtools",
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "BiocIO",
         "BiocParallel",
@@ -2331,13 +2281,10 @@
     ],
     "CoGAPS": [
         "BiocParallel",
-        "SingleCellExperiment",
         "biomaRt",
         "fgsea"
     ],
-    "cogeqc": [
-        "ggtree"
-    ],
+    "cogeqc": [],
     "Cogito": [
         "BiocIO",
         "BiocParallel",
@@ -2435,7 +2382,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "beachmat",
         "distinct",
@@ -2477,7 +2423,6 @@
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -2556,8 +2501,7 @@
     ],
     "Cormotif": [],
     "corral": [
-        "MultiAssayExperiment",
-        "SingleCellExperiment"
+        "MultiAssayExperiment"
     ],
     "coseq": [
         "BiocParallel",
@@ -2787,7 +2731,6 @@
     "ctsGE": [],
     "CTSV": [
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "cummeRbund": [
@@ -2806,8 +2749,7 @@
         "rtracklayer"
     ],
     "CuratedAtlasQueryR": [
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "customCMPdb": [
         "BiocVersion",
@@ -2838,7 +2780,6 @@
     "cydar": [
         "BiocNeighbors",
         "BiocParallel",
-        "SingleCellExperiment",
         "cytolib",
         "flowCore"
     ],
@@ -2867,7 +2808,6 @@
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "cytolib",
         "flowCore",
@@ -2885,7 +2825,6 @@
     "cytomapper": [
         "BiocParallel",
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "cytoMEM": [
@@ -2931,7 +2870,6 @@
     "cytoviewer": [
         "BiocParallel",
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -2995,7 +2933,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -3032,7 +2969,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "pathview",
         "sva"
     ],
@@ -3060,7 +2996,6 @@
         "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "celda",
@@ -3178,7 +3113,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "SingleCellExperiment",
         "VariantAnnotation",
         "biomaRt",
         "ensembldb",
@@ -3261,11 +3195,9 @@
     ],
     "DESpace": [
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "destiny": [
-        "SingleCellExperiment",
         "pcaMethods"
     ],
     "DEsubs": [
@@ -3324,7 +3256,6 @@
         "BANDITS",
         "BiocParallel",
         "DRIMSeq",
-        "SingleCellExperiment",
         "tximport"
     ],
     "diffGeneAnalysis": [],
@@ -3365,7 +3296,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -3381,15 +3311,11 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [
-        "SingleCellExperiment"
-    ],
-    "divergence": [],
+    "dittoSeq": [],
     "DMCFB": [
         "BiocIO",
         "BiocParallel",
@@ -3515,7 +3441,6 @@
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "graphite",
@@ -3531,7 +3456,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "beachmat",
         "scuttle"
     ],
@@ -3641,7 +3565,6 @@
         "PADOG",
         "Rgraphviz",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "gage",
@@ -3726,8 +3649,7 @@
         "BiocParallel",
         "DOSE",
         "GOSemSim",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "enrichTF": [
         "BSgenome",
@@ -3744,7 +3666,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "rtracklayer"
@@ -3755,8 +3676,7 @@
         "GOSemSim",
         "RCy3",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "ensembldb": [
         "BiocIO",
@@ -3810,7 +3730,6 @@
         "enrichplot",
         "fgsea",
         "genomation",
-        "ggtree",
         "rtracklayer",
         "seqPattern"
     ],
@@ -3993,7 +3912,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "rtracklayer"
@@ -4007,13 +3925,11 @@
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "UCell",
         "annotate",
         "beachmat"
     ],
     "escheR": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "esetVis": [
@@ -4045,8 +3961,6 @@
     "EWCE": [
         "BiocParallel",
         "BiocVersion",
-        "SingleCellExperiment",
-        "ggtree",
         "orthogene"
     ],
     "ExCluster": [
@@ -4097,7 +4011,6 @@
     ],
     "ExperimentSubset": [
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
@@ -4143,7 +4056,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
@@ -4183,7 +4095,6 @@
     "FEAST": [
         "BiocParallel",
         "SC3",
-        "SingleCellExperiment",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -4214,7 +4125,6 @@
         "rtracklayer",
         "siggenes"
     ],
-    "fgga": [],
     "fgsea": [
         "BiocParallel"
     ],
@@ -4235,9 +4145,7 @@
         "rtracklayer"
     ],
     "FISHalyseR": [],
-    "fishpond": [
-        "SingleCellExperiment"
-    ],
+    "fishpond": [],
     "FitHiC": [],
     "flagme": [
         "BiocParallel",
@@ -4272,7 +4180,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "VariantAnnotation",
         "bambu",
         "basilisk",
@@ -4553,7 +4460,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "pathview"
     ],
     "gDNAx": [
@@ -4887,24 +4793,15 @@
         "gdsfmt"
     ],
     "ggmsa": [
-        "R4RNA",
-        "ggtree"
+        "R4RNA"
     ],
     "GGPA": [],
-    "ggsc": [
-        "SingleCellExperiment"
-    ],
+    "ggsc": [],
     "ggspavis": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "BiocParallel",
@@ -4927,7 +4824,6 @@
     "glmGamPoi": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "beachmat"
     ],
     "glmSparseNet": [
@@ -4943,8 +4839,7 @@
         "annotate"
     ],
     "GloScope": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "gmapR": [
         "BSgenome",
@@ -5027,7 +4922,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "goProfiles"
     ],
     "goSTAG": [
@@ -5071,7 +4965,6 @@
         "topGO"
     ],
     "GraphAlignment": [],
-    "GraphAT": [],
     "graphite": [],
     "GraphPAC": [
         "iPAC"
@@ -5111,7 +5004,6 @@
         "pathview",
         "safe"
     ],
-    "GSEAlm": [],
     "gsean": [
         "BiocParallel",
         "PPInfer",
@@ -5142,7 +5034,6 @@
         "GSEABase",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat"
     ],
@@ -5345,9 +5236,7 @@
         "BiocVersion",
         "MultiAssayExperiment"
     ],
-    "HIPPO": [
-        "SingleCellExperiment"
-    ],
+    "HIPPO": [],
     "hiReadsProcessor": [
         "BSgenome",
         "BiocIO",
@@ -5368,7 +5257,6 @@
     ],
     "hoodscanR": [
         "ComplexHeatmap",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "hopach": [],
@@ -5470,7 +5358,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IHW",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -5508,11 +5395,8 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "illuminaio": [],
-    "ILoReg": [
-        "SingleCellExperiment"
-    ],
+    "ILoReg": [],
     "IMAS": [
         "BiocIO",
         "BiocParallel",
@@ -5529,7 +5413,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "beachmat",
         "cytomapper",
@@ -5573,16 +5456,13 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graphite",
         "illuminaio",
         "minfi",
         "rtracklayer",
         "siggenes"
     ],
-    "infercnv": [
-        "SingleCellExperiment"
-    ],
+    "infercnv": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
@@ -5703,40 +5583,33 @@
         "xcms"
     ],
     "iSEE": [
-        "ComplexHeatmap",
-        "SingleCellExperiment"
+        "ComplexHeatmap"
     ],
     "iSEEde": [
         "BiocParallel",
         "ComplexHeatmap",
         "DESeq2",
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEhex": [
         "ComplexHeatmap",
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEhub": [
         "BiocVersion",
         "ComplexHeatmap",
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEindex": [
         "ComplexHeatmap",
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEpathways": [
         "ComplexHeatmap",
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEu": [
         "ComplexHeatmap",
-        "SingleCellExperiment",
         "iSEE",
         "iSEEhex"
     ],
@@ -5875,14 +5748,12 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "beachmat",
         "glmGamPoi"
     ],
     "LineagePulse": [
         "BiocParallel",
-        "ComplexHeatmap",
-        "SingleCellExperiment"
+        "ComplexHeatmap"
     ],
     "lineagespot": [
         "BSgenome",
@@ -5899,9 +5770,7 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "LinTInd": [
-        "ggtree"
-    ],
+    "LinTInd": [],
     "lionessR": [],
     "lipidr": [
         "BiocParallel",
@@ -5916,7 +5785,6 @@
         "BiocParallel",
         "ClassifyR",
         "MultiAssayExperiment",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "annotate",
         "genefilter",
@@ -5944,8 +5812,7 @@
     "LOLA": [],
     "LoomExperiment": [
         "BiocIO",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "lpNet": [
         "KEGGgraph",
@@ -5976,7 +5843,6 @@
         "siggenes"
     ],
     "LymphoSeq": [
-        "ggtree",
         "msa"
     ],
     "M3C": [],
@@ -6058,7 +5924,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "pathview"
     ],
     "magpie": [
@@ -6138,13 +6003,10 @@
         "gcrma"
     ],
     "massiR": [],
-    "MAST": [
-        "SingleCellExperiment"
-    ],
+    "MAST": [],
     "mastR": [
         "BiocVersion",
         "GSEABase",
-        "SingleCellExperiment",
         "annotate"
     ],
     "MatrixQCvis": [
@@ -6183,7 +6045,6 @@
     ],
     "mbkmeans": [
         "BiocParallel",
-        "SingleCellExperiment",
         "beachmat"
     ],
     "mBPCR": [
@@ -6278,7 +6139,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
@@ -6310,8 +6170,7 @@
         "GOSemSim",
         "MeSHDbi",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "meshr": [
         "BiocStyle",
@@ -6395,9 +6254,7 @@
         "vsn",
         "xcms"
     ],
-    "MetaNeighbor": [
-        "SingleCellExperiment"
-    ],
+    "MetaNeighbor": [],
     "MetaPhOR": [
         "BiocParallel",
         "DOSE",
@@ -6405,8 +6262,7 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "metapone": [
         "BiocParallel",
@@ -6554,7 +6410,6 @@
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -6665,7 +6520,6 @@
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
         "bluster",
@@ -6675,7 +6529,6 @@
     ],
     "miaSim": [
         "BiocParallel",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
     "miaViz": [
@@ -6686,12 +6539,10 @@
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
         "bluster",
         "decontam",
-        "ggtree",
         "mia",
         "scater",
         "scuttle"
@@ -6723,13 +6574,11 @@
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "beachmat",
         "biomformat",
         "bluster",
         "decontam",
-        "ggtree",
         "metagenomeSeq",
         "mia",
         "phyloseq",
@@ -6742,17 +6591,14 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "MicrobiotaProcess": [
-        "ggtree",
         "ggtreeExtra"
     ],
     "microRNA": [],
     "microSTASIS": [
         "BiocParallel",
-        "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
     "MICSQTL": [
@@ -6767,7 +6613,6 @@
         "BiocParallel",
         "BiocSingular",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat"
     ],
     "mimager": [
@@ -6833,9 +6678,7 @@
         "rtracklayer"
     ],
     "MiPP": [],
-    "miQC": [
-        "SingleCellExperiment"
-    ],
+    "miQC": [],
     "MIRA": [
         "BSgenome",
         "BiocIO",
@@ -6978,7 +6821,6 @@
     ],
     "MoleculeExperiment": [
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "MOMA": [
@@ -7014,7 +6856,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "rtracklayer"
     ],
     "MoonlightR": [
@@ -7025,8 +6866,7 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "mosaics": [
         "BiocParallel",
@@ -7171,7 +7011,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -7285,8 +7124,7 @@
         "MSstatsConvert"
     ],
     "MuData": [
-        "MultiAssayExperiment",
-        "SingleCellExperiment"
+        "MultiAssayExperiment"
     ],
     "Mulcom": [],
     "MultiAssayExperiment": [],
@@ -7349,7 +7187,6 @@
         "DelayedMatrixStats",
         "ResidualMatrix",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "batchelor",
         "beachmat",
         "bluster",
@@ -7376,7 +7213,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle",
@@ -7533,9 +7369,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "Nebulosa": [
-        "SingleCellExperiment"
-    ],
+    "Nebulosa": [],
     "nempi": [
         "Rgraphviz",
         "epiNEM",
@@ -7572,7 +7406,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "clusterExperiment",
@@ -7614,8 +7447,6 @@
         "BiocParallel",
         "BiocSingular",
         "ScaledMatrix",
-        "SharedObject",
-        "SingleCellExperiment",
         "beachmat"
     ],
     "ngsReports": [],
@@ -7628,7 +7459,6 @@
     "nnNorm": [],
     "nnSVG": [
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "NOISeq": [],
@@ -7709,7 +7539,6 @@
         "Rsamtools",
         "ScaledMatrix",
         "ShortRead",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -7830,7 +7659,6 @@
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat"
     ],
@@ -7881,9 +7709,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "orthogene": [
-        "ggtree"
-    ],
+    "orthogene": [],
     "orthos": [
         "BiocParallel",
         "BiocVersion",
@@ -7994,8 +7820,7 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "panp": [],
     "PANR": [],
@@ -8009,8 +7834,7 @@
         "fgsea"
     ],
     "partCNV": [
-        "BiocVersion",
-        "SingleCellExperiment"
+        "BiocVersion"
     ],
     "PAST": [
         "BiocIO",
@@ -8104,7 +7928,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
@@ -8137,7 +7960,6 @@
         "piano"
     ],
     "phemd": [
-        "SingleCellExperiment",
         "biocViews",
         "destiny",
         "monocle",
@@ -8159,9 +7981,7 @@
         "hopach"
     ],
     "PhenStat": [],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhIPData": [],
     "PhosR": [
         "pcaMethods"
@@ -8199,7 +8019,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graphite"
     ],
     "PING": [
@@ -8225,7 +8044,6 @@
         "ComplexHeatmap",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scater",
@@ -8306,8 +8124,7 @@
         "mixOmics"
     ],
     "POWSC": [
-        "MAST",
-        "SingleCellExperiment"
+        "MAST"
     ],
     "ppcseq": [],
     "PPInfer": [
@@ -8424,7 +8241,6 @@
         "chipseq",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "rGREAT",
         "rtracklayer",
         "soGGi"
@@ -8476,7 +8292,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -8731,7 +8546,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "SingleCellExperiment",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8865,7 +8679,6 @@
         "GOSemSim",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "graphite"
     ],
     "ReadqPCR": [],
@@ -8969,7 +8782,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "TOAST",
         "beachmat",
         "bluster",
@@ -9173,7 +8985,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "RGraph2js": [],
     "Rgraphviz": [],
     "rGREAT": [
         "BiocIO",
@@ -9691,9 +9502,7 @@
         "pathview"
     ],
     "SBMLR": [],
-    "SC3": [
-        "SingleCellExperiment"
-    ],
+    "SC3": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "BiocParallel",
@@ -9721,8 +9530,7 @@
         "scanMiR"
     ],
     "scAnnotatR": [
-        "BiocVersion",
-        "SingleCellExperiment"
+        "BiocVersion"
     ],
     "SCANVIS": [
         "BiocIO",
@@ -9737,7 +9545,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "gdsfmt"
     ],
@@ -9747,7 +9554,6 @@
         "DelayedMatrixStats",
         "SCArray",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "gdsfmt"
     ],
@@ -9757,27 +9563,22 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scuttle"
     ],
     "scBFA": [
         "BiocParallel",
         "DESeq2",
-        "SingleCellExperiment",
         "annotate",
         "genefilter",
         "zinbwave"
     ],
-    "scBubbletree": [
-        "ggtree"
-    ],
+    "scBubbletree": [],
     "scCB2": [
         "BiocParallel",
         "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "SingleCellExperiment",
         "beachmat",
         "scuttle"
     ],
@@ -9787,15 +9588,11 @@
         "DelayedMatrixStats",
         "GSEABase",
         "HDF5Array",
-        "SingleCellExperiment",
         "annotate",
         "hopach"
     ],
-    "sccomp": [
-        "SingleCellExperiment"
-    ],
+    "sccomp": [],
     "scDataviz": [
-        "SingleCellExperiment",
         "cytolib",
         "flowCore"
     ],
@@ -9809,7 +9606,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "rtracklayer",
@@ -9823,7 +9619,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -9831,20 +9626,16 @@
     ],
     "scDDboost": [
         "BiocParallel",
-        "Oscope",
-        "SingleCellExperiment"
+        "Oscope"
     ],
     "scde": [
         "BiocParallel",
         "pcaMethods"
     ],
     "scDesign3": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
-    "scds": [
-        "SingleCellExperiment"
-    ],
+    "scds": [],
     "SCFA": [
         "BiocParallel"
     ],
@@ -9863,7 +9654,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "SingleCellSignalR",
         "annotate",
         "beachmat",
@@ -9876,18 +9666,13 @@
     ],
     "scGPS": [
         "BiocParallel",
-        "DESeq2",
-        "SingleCellExperiment"
+        "DESeq2"
     ],
-    "schex": [
-        "SingleCellExperiment"
-    ],
+    "schex": [],
     "scHOT": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "scider": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "scifer": [
@@ -9896,9 +9681,7 @@
         "flowCore",
         "sangerseqR"
     ],
-    "scmap": [
-        "SingleCellExperiment"
-    ],
+    "scmap": [],
     "scMerge": [
         "BiocNeighbors",
         "BiocParallel",
@@ -9906,7 +9689,6 @@
         "DelayedMatrixStats",
         "ResidualMatrix",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "batchelor",
         "beachmat",
         "bluster",
@@ -9915,8 +9697,7 @@
         "scuttle"
     ],
     "scMET": [
-        "BiocStyle",
-        "SingleCellExperiment"
+        "BiocStyle"
     ],
     "scmeth": [
         "BSgenome",
@@ -9937,8 +9718,7 @@
         "rtracklayer"
     ],
     "SCnorm": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "scone": [
         "BiocIO",
@@ -9950,7 +9730,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "SingleCellExperiment",
         "biomaRt",
         "rtracklayer"
     ],
@@ -9982,8 +9761,7 @@
     ],
     "scp": [
         "MultiAssayExperiment",
-        "QFeatures",
-        "SingleCellExperiment"
+        "QFeatures"
     ],
     "scPCA": [
         "BiocParallel",
@@ -10000,7 +9778,6 @@
         "Rhtslib",
         "Rsamtools",
         "Rsubread",
-        "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -10015,23 +9792,18 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scuttle"
     ],
-    "scReClassify": [
-        "SingleCellExperiment"
-    ],
+    "scReClassify": [],
     "scRecover": [
         "BiocParallel"
     ],
     "screenCounter": [
         "BiocParallel"
     ],
-    "scRepertoire": [
-        "SingleCellExperiment"
-    ],
+    "scRepertoire": [],
     "scRNAseqApp": [
         "BiocIO",
         "BiocParallel",
@@ -10039,7 +9811,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "rtracklayer",
         "slingshot"
@@ -10055,7 +9826,6 @@
         "Rsamtools",
         "Rsubread",
         "ShortRead",
-        "SingleCellExperiment",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -10067,7 +9837,6 @@
         "BiocParallel",
         "BiocSingular",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat"
     ],
     "scShapes": [
@@ -10086,12 +9855,10 @@
         "MeSHDbi",
         "ReactomePA",
         "Rgraphviz",
-        "SingleCellExperiment",
         "annotate",
         "enrichplot",
         "fgsea",
         "genefilter",
-        "ggtree",
         "graphite",
         "meshr",
         "schex"
@@ -10099,7 +9866,6 @@
     "scTGIF": [
         "BiocStyle",
         "GSEABase",
-        "SingleCellExperiment",
         "annotate",
         "schex"
     ],
@@ -10118,7 +9884,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "biomaRt",
         "bluster",
@@ -10134,7 +9899,6 @@
     "scuttle": [
         "BiocParallel",
         "DelayedMatrixStats",
-        "SingleCellExperiment",
         "beachmat"
     ],
     "scviR": [
@@ -10143,7 +9907,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -10151,7 +9914,6 @@
         "scater",
         "scuttle"
     ],
-    "SDAMS": [],
     "sechm": [
         "ComplexHeatmap"
     ],
@@ -10170,7 +9932,6 @@
         "biomaRt",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "rtracklayer"
     ],
     "segmentSeq": [
@@ -10219,7 +9980,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "heatmaps",
         "rtracklayer",
         "seqArchR",
@@ -10314,7 +10074,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "BiocIO",
         "BiocParallel",
@@ -10388,8 +10147,7 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "ggtree"
+        "fgsea"
     ],
     "signeR": [
         "BSgenome",
@@ -10417,7 +10175,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "annotate",
         "beachmat",
@@ -10475,7 +10232,6 @@
     "simpleSeg": [
         "BiocParallel",
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -10489,14 +10245,12 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "SingleCellExperiment": [],
     "SingleCellSignalR": [
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scran",
@@ -10522,7 +10276,6 @@
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "SingleR",
         "TSCAN",
         "TrajectoryUtils",
@@ -10537,7 +10290,6 @@
         "dir.expiry",
         "ensembldb",
         "genefilter",
-        "ggtree",
         "rtracklayer",
         "scDblFinder",
         "scMerge",
@@ -10579,9 +10331,7 @@
         "GSEABase",
         "annotate"
     ],
-    "SiPSiC": [
-        "SingleCellExperiment"
-    ],
+    "SiPSiC": [],
     "sitadela": [
         "BiocIO",
         "BiocParallel",
@@ -10592,9 +10342,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "sizepower": [],
     "skewr": [
         "BiocIO",
@@ -10619,11 +10367,9 @@
     ],
     "slalom": [
         "GSEABase",
-        "SingleCellExperiment",
         "annotate"
     ],
     "slingshot": [
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "SMAD": [],
@@ -10648,7 +10394,6 @@
         "tilingArray",
         "vsn"
     ],
-    "snapcount": [],
     "snifter": [
         "basilisk",
         "basilisk.utils",
@@ -10727,7 +10472,6 @@
         "DropletUtils",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "bluster",
         "scater",
@@ -10753,12 +10497,9 @@
         "rtracklayer"
     ],
     "spaSim": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "basilisk",
         "basilisk.utils",
@@ -10768,13 +10509,10 @@
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "SpatialExperiment": [
-        "SingleCellExperiment"
-    ],
+    "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
         "BiocNeighbors",
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
@@ -10783,7 +10521,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "bluster",
@@ -10818,9 +10555,7 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "speckle": [
-        "SingleCellExperiment"
-    ],
+    "speckle": [],
     "specL": [],
     "Spectra": [
         "BiocParallel",
@@ -10837,7 +10572,6 @@
         "Rgraphviz"
     ],
     "SPIAT": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "dittoSeq"
     ],
@@ -10845,7 +10579,6 @@
         "BiocParallel",
         "ClassifyR",
         "MultiAssayExperiment",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "annotate",
         "genefilter"
@@ -10867,7 +10600,6 @@
     "splatter": [
         "BiocParallel",
         "DelayedMatrixStats",
-        "SingleCellExperiment",
         "beachmat",
         "scuttle"
     ],
@@ -10918,14 +10650,10 @@
     ],
     "splots": [],
     "SpotClean": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SPOTlight": [
-        "SingleCellExperiment"
-    ],
+    "SPOTlight": [],
     "SPsimSeq": [
-        "SingleCellExperiment",
         "biomformat",
         "phyloseq"
     ],
@@ -10971,7 +10699,6 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "biomaRt",
         "rtracklayer"
@@ -10993,7 +10720,6 @@
     "STATegRa": [],
     "Statial": [
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "STdeconvolve": [
@@ -11001,7 +10727,6 @@
     ],
     "stepNorm": [],
     "stJoincount": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "strandCheckR": [
@@ -11091,9 +10816,7 @@
     ],
     "swfdr": [],
     "switchBox": [],
-    "switchde": [
-        "SingleCellExperiment"
-    ],
+    "switchde": [],
     "synapsis": [],
     "synapter": [
         "BiocParallel",
@@ -11126,8 +10849,7 @@
     "systemPipeShiny": [],
     "systemPipeTools": [
         "BiocParallel",
-        "DESeq2",
-        "ggtree"
+        "DESeq2"
     ],
     "tadar": [
         "BSgenome",
@@ -11149,9 +10871,7 @@
         "HiCcompare",
         "InteractionSet"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TAPseq": [
         "BSgenome",
         "BiocIO",
@@ -11163,7 +10883,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "target": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
@@ -11181,7 +10900,6 @@
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat",
         "genefilter",
@@ -11227,7 +10945,6 @@
         "TDbasedUFE",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "tximport"
     ],
     "TEKRABber": [
@@ -11236,8 +10953,7 @@
         "biomaRt"
     ],
     "TENxIO": [
-        "BiocIO",
-        "SingleCellExperiment"
+        "BiocIO"
     ],
     "tenXplore": [
         "BiocVersion",
@@ -11312,9 +11028,7 @@
         "annotate"
     ],
     "tidybulk": [],
-    "tidySingleCellExperiment": [
-        "SingleCellExperiment"
-    ],
+    "tidySingleCellExperiment": [],
     "tigre": [
         "annotate"
     ],
@@ -11339,7 +11053,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
         "rWikiPathways"
     ],
     "TIN": [],
@@ -11383,7 +11096,6 @@
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "annotate",
         "beachmat"
     ],
@@ -11439,14 +11151,11 @@
     ],
     "tradeSeq": [
         "BiocParallel",
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "slingshot"
     ],
     "TrajectoryGeometry": [],
-    "TrajectoryUtils": [
-        "SingleCellExperiment"
-    ],
+    "TrajectoryUtils": [],
     "transcriptogramer": [
         "biomaRt",
         "topGO"
@@ -11466,7 +11175,6 @@
     "transformGamPoi": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "beachmat",
         "glmGamPoi"
     ],
@@ -11494,7 +11202,6 @@
         "rtracklayer"
     ],
     "traviz": [
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "slingshot"
     ],
@@ -11502,16 +11209,13 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "SingleCellExperiment",
         "cytolib",
         "diffcyt",
         "flowCore",
-        "ggtree",
         "hopach"
     ],
     "TreeSummarizedExperiment": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "Trendy": [
         "BiocParallel"
@@ -11532,7 +11236,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
@@ -11573,7 +11276,6 @@
     ],
     "TSAR": [],
     "TSCAN": [
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "TurboNorm": [
@@ -11625,8 +11327,7 @@
     "tximport": [],
     "UCell": [
         "BiocNeighbors",
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "Ularcirc": [
         "BSgenome",
@@ -11703,7 +11404,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "beachmat",
         "scater",
         "scuttle"
@@ -11807,8 +11507,7 @@
         "rtracklayer"
     ],
     "VDJdive": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "VegaMC": [
         "biomaRt"
@@ -11818,7 +11517,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
         "beachmat",
@@ -11848,7 +11546,6 @@
     "Voyager": [
         "BiocNeighbors",
         "BiocParallel",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
         "bluster"
@@ -11900,8 +11597,7 @@
         "systemPipeR"
     ],
     "waddR": [
-        "BiocParallel",
-        "SingleCellExperiment"
+        "BiocParallel"
     ],
     "wateRmelon": [
         "BiocIO",
@@ -12041,7 +11737,6 @@
         "siggenes"
     ],
     "zellkonverter": [
-        "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -12061,7 +11756,6 @@
     ],
     "zinbwave": [
         "BiocParallel",
-        "SingleCellExperiment",
         "annotate",
         "genefilter"
     ],
