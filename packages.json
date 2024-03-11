@@ -366,10 +366,7 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM"
