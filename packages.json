@@ -373,7 +373,6 @@
         "dir.expiry"
     ],
     "CCPROMISE": [],
-    "celda": [],
     "cellHTS2": [
         "Category",
         "splots"
@@ -658,9 +657,7 @@
         "enrichplot",
         "sva"
     ],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "illuminaio",
         "minfi"
@@ -706,7 +703,6 @@
         "Rsubread"
     ],
     "diggit": [],
-    "Dino": [],
     "dir.expiry": [],
     "DiscoRhythm": [
         "BiocStyle"
@@ -2049,7 +2045,6 @@
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
-        "celda",
         "dir.expiry",
         "scMerge",
         "sva",
@@ -2061,7 +2056,6 @@
         "QuasR",
         "Rbowtie"
     ],
-    "singscore": [],
     "sizepower": [],
     "skewr": [
         "illuminaio",
@@ -2152,7 +2146,6 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "singscore",
         "sva"
     ],
     "TCC": [
