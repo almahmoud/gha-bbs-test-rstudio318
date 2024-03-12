@@ -9,11 +9,8 @@
     "adductomicsR": [
         "BiocVersion"
     ],
-    "affycoretools": [],
     "agilp": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "AHMassBank": [
         "BiocVersion"
     ],
@@ -383,7 +380,6 @@
     "cytofQC": [
         "BiocStyle"
     ],
-    "CytoPipelineGUI": [],
     "debrowser": [
         "Harman"
     ],
