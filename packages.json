@@ -763,9 +763,7 @@
         "illuminaio",
         "minfi"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [],
     "epivizrChart": [],
     "epivizrStandalone": [
@@ -956,9 +954,7 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenomicScores": [
         "BiocVersion"
     ],
@@ -1683,7 +1679,6 @@
     "Rbec": [],
     "Rbowtie": [],
     "Rbwa": [],
-    "RCAS": [],
     "RCASPAR": [],
     "Rcollectl": [],
     "Rcwl": [
@@ -2118,8 +2113,6 @@
     "trigger": [
         "sva"
     ],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TSAR": [],
     "TVTB": [
         "Gviz"
