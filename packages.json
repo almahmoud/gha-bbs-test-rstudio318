@@ -263,9 +263,7 @@
     "bnbc": [],
     "bnem": [],
     "BOBaFIT": [],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "BPRMeth": [
         "BiocStyle"
     ],
@@ -416,9 +414,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "coGPS": [],
     "comapr": [
         "Gviz"
@@ -595,9 +591,7 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -645,7 +639,6 @@
         "EnrichmentBrowser",
         "zenith"
     ],
-    "DSS": [],
     "dupRadar": [
         "Rsubread"
     ],
@@ -1027,9 +1020,7 @@
     ],
     "iterativeBMAsurv": [],
     "KBoost": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "KnowSeq": [],
     "LedPred": [],
     "lisaClust": [
@@ -1149,9 +1140,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -1183,9 +1172,7 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -1212,7 +1199,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "MIRA": [],
     "miRLAB": [
         "GOstats",
         "ctc"
@@ -1330,7 +1316,6 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "ncdfFlow": [],
     "ncGTW": [
         "xcms"
@@ -1373,7 +1358,6 @@
         "Gviz"
     ],
     "omicRexposome": [],
-    "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
     "ontoProc": [
@@ -1890,7 +1874,6 @@
         "splots"
     ],
     "STRINGdb": [],
-    "svaNUMT": [],
     "SVMDO": [],
     "swfdr": [],
     "switchBox": [],
