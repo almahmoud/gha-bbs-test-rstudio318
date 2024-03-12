@@ -406,9 +406,7 @@
         "flowMerge"
     ],
     "consensus": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [],
     "conumee": [
         "illuminaio",
@@ -1210,8 +1208,7 @@
     "NTW": [],
     "nuCpos": [],
     "octad": [
-        "BiocVersion",
-        "RUVSeq"
+        "BiocVersion"
     ],
     "OGRE": [
         "BiocVersion"
@@ -1436,7 +1433,6 @@
         "baySeq"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "Rsubread",
         "motifStack"
     ],
@@ -1490,7 +1486,6 @@
     "Rsubread": [],
     "rSWeeP": [],
     "runibic": [],
-    "RUVSeq": [],
     "rWikiPathways": [],
     "sagenhaft": [],
     "SAIGEgds": [
@@ -1527,9 +1522,7 @@
         "BiocVersion",
         "annotatr"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scPipe": [
         "Rsubread",
         "basilisk",
@@ -1676,9 +1669,7 @@
     "sSeq": [],
     "ssize": [],
     "ssrch": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "cellHTS2",
         "splots"
