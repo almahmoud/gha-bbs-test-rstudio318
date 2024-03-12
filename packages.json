@@ -362,7 +362,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [],
     "cfdnakit": [
         "QDNAseq"
     ],
@@ -461,7 +460,6 @@
     ],
     "CompoundDb": [],
     "compSPOT": [],
-    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -2031,7 +2029,6 @@
     "tradeSeq": [],
     "TrajectoryGeometry": [],
     "transcriptR": [],
-    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
