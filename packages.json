@@ -403,7 +403,6 @@
     ],
     "consensus": [],
     "consensusDE": [],
-    "consensusOV": [],
     "conumee": [
         "illuminaio",
         "minfi"
@@ -1558,9 +1557,7 @@
         "BiocVersion",
         "clusterProfiler"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SimBindProfiles": [],
     "SimBu": [
         "basilisk",
