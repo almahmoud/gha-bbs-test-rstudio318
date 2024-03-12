@@ -12,12 +12,10 @@
         "BiocVersion"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools"
     ],
     "agilp": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools"
     ],
@@ -149,9 +147,7 @@
         "BiocStyle"
     ],
     "ASSET": [],
-    "ASSIGN": [],
     "ATACCoGAPS": [
-        "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
@@ -167,9 +163,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BADER": [],
     "bandle": [
         "BiocStyle",
@@ -285,14 +279,11 @@
     ],
     "canceR": [
         "AnVIL",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CARNIVAL": [],
     "CATALYST": [],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "AnVIL",
         "cBioPortalData"
@@ -346,7 +337,6 @@
     ],
     "ChIPQC": [],
     "ChIPseeker": [],
-    "chromVAR": [],
     "cicero": [
         "monocle"
     ],
@@ -509,7 +499,6 @@
         "Harman",
         "clusterProfiler"
     ],
-    "decontX": [],
     "deconvR": [
         "illuminaio",
         "minfi"
@@ -738,7 +727,6 @@
     "genoCN": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "GenomicPlot": [],
     "GenomicScores": [
         "BiocVersion"
     ],
@@ -757,9 +745,7 @@
     "GGPA": [],
     "GIGSEA": [],
     "GLAD": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNOSIS": [
         "AnVIL",
         "cBioPortalData"
@@ -767,7 +753,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
@@ -825,7 +810,6 @@
         "minfi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "illuminaio": [],
@@ -869,7 +853,6 @@
     "iterativeBMAsurv": [],
     "KBoost": [],
     "kissDE": [],
-    "KnowSeq": [],
     "LedPred": [],
     "lisaClust": [
         "spicyR"
@@ -1017,7 +1000,6 @@
         "clusterProfiler"
     ],
     "MineICA": [
-        "GOstats",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -1032,7 +1014,6 @@
         "illuminaio"
     ],
     "miRLAB": [
-        "GOstats",
         "ctc"
     ],
     "miRNApath": [],
@@ -1152,7 +1133,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "STRINGdb",
         "illuminaio",
         "minfi",
@@ -1214,9 +1194,7 @@
         "BiocStyle"
     ],
     "pathwayPCA": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
         "switchBox"
     ],
@@ -1227,7 +1205,6 @@
     "phemd": [
         "monocle"
     ],
-    "phenoTest": [],
     "PhyloProfile": [
         "BiocStyle",
         "BiocVersion"
@@ -1241,9 +1218,7 @@
     ],
     "PING": [],
     "plasmut": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotGrouper": [],
     "pogos": [
         "BiocVersion",
@@ -1269,7 +1244,6 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
@@ -1360,9 +1334,7 @@
         "illuminaio",
         "minfi"
     ],
-    "ReportingTools": [
-        "GOstats"
-    ],
+    "ReportingTools": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -1446,7 +1418,6 @@
     ],
     "SANTA": [],
     "SBMLR": [],
-    "SCAN.UPC": [],
     "scanMiRApp": [
         "BiocVersion"
     ],
@@ -1482,7 +1453,6 @@
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
-        "GOstats",
         "ReactomePA",
         "meshr"
     ],
@@ -1525,10 +1495,7 @@
         "BiocVersion",
         "illuminaio"
     ],
-    "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [
         "illuminaio",
         "minfi"
@@ -1623,9 +1590,7 @@
     "tadar": [],
     "TargetScore": [],
     "TargetSearch": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [
         "baySeq"
     ],
@@ -1650,7 +1615,6 @@
         "rWikiPathways"
     ],
     "TNBC.CMS": [],
-    "TOP": [],
     "ToxicoGx": [],
     "trackViewer": [],
     "TrajectoryGeometry": [],
