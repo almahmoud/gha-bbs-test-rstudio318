@@ -1,5 +1,4 @@
 {
-    "a4": [],
     "abseqR": [
         "BiocStyle"
     ],
@@ -147,15 +146,11 @@
         "BiocStyle"
     ],
     "ASSET": [],
-    "ATACCoGAPS": [
-        "motifmatchr"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "BiocVersion"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atena": [
         "BiocVersion"
     ],
@@ -163,12 +158,10 @@
     "attract": [],
     "BADER": [],
     "bandle": [
-        "BiocStyle",
-        "pRoloc"
+        "BiocStyle"
     ],
     "banocc": [],
     "BaseSpaceR": [],
-    "BASiCStan": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -556,17 +549,14 @@
     "ELMER": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "BiocVersion",
         "illuminaio",
         "minfi"
     ],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "EpiCompare": [
@@ -586,14 +576,11 @@
         "illuminaio",
         "minfi"
     ],
-    "EpiTxDb": [],
     "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
-    "escape": [],
     "EventPointer": [
         "tximport"
     ],
@@ -825,7 +812,6 @@
     "intansv": [],
     "interacCircos": [],
     "interactiveDisplay": [],
-    "IntEREst": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -901,7 +887,6 @@
     "MatrixQCvis": [
         "BiocVersion"
     ],
-    "MatrixRider": [],
     "MBAmethyl": [],
     "mBPCR": [
         "GWASTools",
@@ -1033,7 +1018,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
@@ -1046,7 +1030,6 @@
         "QUBIC"
     ],
     "motifbreakR": [],
-    "motifmatchr": [],
     "MQmetrics": [],
     "MsDataHub": [
         "BiocVersion"
@@ -1143,7 +1126,6 @@
     "OGRE": [
         "BiocVersion"
     ],
-    "omicRexposome": [],
     "Omixer": [],
     "OmnipathR": [],
     "ontoProc": [
@@ -1163,9 +1145,7 @@
     "OSAT": [],
     "OutSplice": [],
     "PAA": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler"
@@ -1230,10 +1210,7 @@
     "profileplyr": [
         "ChIPseeker"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
@@ -1248,7 +1225,6 @@
         "STRINGdb"
     ],
     "qsmooth": [],
-    "qsvaR": [],
     "quantiseqr": [],
     "quantro": [
         "illuminaio",
@@ -1493,7 +1469,6 @@
         "illuminaio",
         "minfi"
     ],
-    "SigCheck": [],
     "signatureSearch": [
         "BiocVersion",
         "clusterProfiler"
@@ -1548,8 +1523,7 @@
         "dir.expiry"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "motifmatchr"
+        "GenomicInteractions"
     ],
     "specL": [],
     "spicyR": [],
@@ -1603,7 +1577,6 @@
         "clusterProfiler",
         "rWikiPathways"
     ],
-    "TNBC.CMS": [],
     "ToxicoGx": [],
     "trackViewer": [],
     "TrajectoryGeometry": [],
