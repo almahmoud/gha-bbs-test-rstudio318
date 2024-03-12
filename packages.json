@@ -187,7 +187,6 @@
     ],
     "bandle": [
         "BiocStyle",
-        "MLInterfaces",
         "pRoloc"
     ],
     "banocc": [],
@@ -425,7 +424,6 @@
     ],
     "CircSeqAlignTk": [],
     "cisPath": [],
-    "ClassifyR": [],
     "clevRvis": [],
     "cliqueMS": [
         "MsExperiment",
@@ -1129,7 +1127,6 @@
     "LedPred": [],
     "lemur": [],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -1333,7 +1330,6 @@
     ],
     "mistyR": [],
     "mitoClone2": [],
-    "MLInterfaces": [],
     "MLSeq": [
         "sSeq"
     ],
@@ -1622,11 +1618,8 @@
         "enrichplot",
         "soGGi"
     ],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "PROPS": [
@@ -1643,7 +1636,6 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [],
     "ptairMS": [],
     "Pviz": [
         "Gviz"
@@ -1966,9 +1958,7 @@
         "illuminaio",
         "minfi"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "BiocVersion",
         "clusterProfiler",
@@ -2041,9 +2031,7 @@
         "motifmatchr"
     ],
     "specL": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "spikeLI": [],
     "spkTools": [],
     "SpliceWiz": [
@@ -2114,9 +2102,7 @@
         "rWikiPathways"
     ],
     "TNBC.CMS": [],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [],
     "ToxicoGx": [
         "CoreGx"
