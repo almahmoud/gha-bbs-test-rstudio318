@@ -186,7 +186,6 @@
     ],
     "bioCancer": [
         "AnVIL",
-        "ReactomePA",
         "cBioPortalData"
     ],
     "BioCartaImage": [],
@@ -688,7 +687,6 @@
     "iNETgrate": [
         "BiocStyle",
         "Pigengene",
-        "ReactomePA",
         "illuminaio",
         "minfi"
     ],
@@ -830,7 +828,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -1018,8 +1015,7 @@
     "Pi": [],
     "pickgene": [],
     "Pigengene": [
-        "BiocStyle",
-        "ReactomePA"
+        "BiocStyle"
     ],
     "plasmut": [],
     "PloGO2": [],
@@ -1098,7 +1094,6 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -1226,7 +1221,6 @@
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
-        "ReactomePA",
         "meshr"
     ],
     "scTGIF": [
