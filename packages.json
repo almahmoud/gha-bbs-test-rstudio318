@@ -2,7 +2,6 @@
     "abseqR": [
         "BiocStyle"
     ],
-    "ACE": [],
     "ADaCGH2": [
         "GLAD",
         "snapCGH"
@@ -232,7 +231,6 @@
     "BloodGen3Module": [
         "BiocVersion"
     ],
-    "BOBaFIT": [],
     "borealis": [],
     "BPRMeth": [
         "BiocStyle"
@@ -1201,7 +1199,6 @@
         "Rbowtie"
     ],
     "QUBIC": [],
-    "R3CPET": [],
     "RadioGx": [],
     "RAIDS": [
         "GENESIS",
@@ -1361,7 +1358,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scBFA": [],
     "scMET": [
         "BiocStyle"
     ],
@@ -1476,7 +1472,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [],
     "SOMNiBUS": [
         "BiocVersion",
         "annotatr"
@@ -1608,9 +1603,7 @@
     "XINA": [
         "STRINGdb"
     ],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "illuminaio",
         "minfi",
