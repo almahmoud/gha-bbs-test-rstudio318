@@ -13,15 +13,13 @@
     ],
     "affycoretools": [
         "GOstats",
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "agilp": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "AHMassBank": [
         "AnnotationHubData",
@@ -264,9 +262,7 @@
     ],
     "bnbc": [],
     "bnem": [],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "borealis": [
         "DSS"
     ],
@@ -276,8 +272,7 @@
     "brainflowprobes": [
         "BiocVersion",
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "BubbleTree": [
         "BiocStyle"
@@ -286,17 +281,14 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions",
         "Gviz"
     ],
     "cageminer": [
         "BioNERO",
-        "GENIE3",
-        "ggbio"
+        "GENIE3"
     ],
     "CAGEr": [
         "CAGEfightR",
@@ -618,8 +610,7 @@
     "DEP": [],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
     "DEScan2": [],
     "DExMA": [],
@@ -773,8 +764,7 @@
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "ggbio"
+        "dir.expiry"
     ],
     "flowAI": [],
     "flowBeads": [],
@@ -895,9 +885,7 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [],
     "GenomicScores": [
         "BiocVersion"
@@ -908,7 +896,6 @@
         "cellHTS2",
         "splots"
     ],
-    "ggbio": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -1018,9 +1005,7 @@
         "minfi"
     ],
     "infinityFlow": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interacCircos": [],
     "interactiveDisplay": [],
     "IntEREst": [],
@@ -1283,14 +1268,10 @@
     "motifmatchr": [],
     "motifStack": [],
     "MQmetrics": [],
-    "MsBackendMassbank": [],
-    "MsBackendMsp": [],
     "MsDataHub": [
         "BiocVersion"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -1551,9 +1532,7 @@
         "Rbowtie"
     ],
     "QUBIC": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RadioGx": [
         "CoreGx"
     ],
@@ -1632,8 +1611,7 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
-        "ggbio"
+        "GOstats"
     ],
     "RESOLVE": [],
     "restfulSE": [
@@ -1651,9 +1629,7 @@
         "BiocVersion"
     ],
     "RiboCrypt": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "riboSeqR": [
         "baySeq"
     ],
@@ -1770,8 +1746,7 @@
         "dir.expiry"
     ],
     "scruff": [
-        "Rsubread",
-        "ggbio"
+        "Rsubread"
     ],
     "scTensor": [
         "BiocStyle",
@@ -1885,9 +1860,7 @@
         "gdsfmt"
     ],
     "soGGi": [],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [
         "BiocVersion",
         "annotatr"
@@ -2064,8 +2037,7 @@
         "STRINGdb"
     ],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "illuminaio",
