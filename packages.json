@@ -156,9 +156,7 @@
         "Gviz"
     ],
     "ASSET": [],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACCoGAPS": [
         "chromVAR",
         "motifmatchr"
@@ -180,9 +178,7 @@
         "GOstats"
     ],
     "BADER": [],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bandle": [
         "BiocStyle",
         "pRoloc"
@@ -197,9 +193,7 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "baySeq": [],
     "beadarray": [
         "BeadDataPackR",
@@ -254,8 +248,7 @@
         "Gviz"
     ],
     "BioNERO": [
-        "GENIE3",
-        "sva"
+        "GENIE3"
     ],
     "BioNetStat": [],
     "biscuiteer": [
@@ -274,12 +267,8 @@
     "BloodGen3Module": [
         "BiocVersion"
     ],
-    "bnbc": [
-        "sva"
-    ],
-    "bnem": [
-        "sva"
-    ],
+    "bnbc": [],
+    "bnem": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -312,8 +301,7 @@
     "cageminer": [
         "BioNERO",
         "GENIE3",
-        "ggbio",
-        "sva"
+        "ggbio"
     ],
     "CAGEr": [
         "CAGEfightR",
@@ -395,7 +383,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "chimeraviz": [
@@ -554,9 +541,7 @@
     "crlmm": [
         "illuminaio"
     ],
-    "crossmeta": [
-        "sva"
-    ],
+    "crossmeta": [],
     "ctc": [],
     "CTdata": [
         "BiocVersion"
@@ -614,9 +599,7 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DaMiRseq": [
-        "sva"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler",
         "enrichplot"
@@ -629,8 +612,7 @@
     "debrowser": [
         "Harman",
         "clusterProfiler",
-        "enrichplot",
-        "sva"
+        "enrichplot"
     ],
     "decontX": [],
     "deconvR": [
@@ -645,8 +627,7 @@
         "DelayedRandomArray"
     ],
     "DeMixT": [
-        "DSS",
-        "sva"
+        "DSS"
     ],
     "densvis": [
         "basilisk",
@@ -660,9 +641,7 @@
         "ggbio"
     ],
     "DEScan2": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
@@ -692,9 +671,7 @@
         "BiocVersion",
         "annotatr"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -712,9 +689,7 @@
     "EBSEA": [
         "EmpiricalBrownsMethod"
     ],
-    "edge": [
-        "sva"
-    ],
+    "edge": [],
     "EGSEA": [],
     "ELMER": [
         "Gviz"
@@ -888,8 +863,7 @@
     "GARS": [
         "DaMiRseq",
         "MLSeq",
-        "sSeq",
-        "sva"
+        "sSeq"
     ],
     "GateFinder": [
         "flowFP",
@@ -953,9 +927,7 @@
     "GenomicScores": [
         "BiocVersion"
     ],
-    "GEOexplorer": [
-        "sva"
-    ],
+    "GEOexplorer": [],
     "GEOfastq": [],
     "gespeR": [
         "cellHTS2",
@@ -1001,7 +973,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSRI": [],
     "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [
@@ -1016,9 +987,7 @@
         "gdsfmt"
     ],
     "Harman": [],
-    "HarmonizR": [
-        "sva"
-    ],
+    "HarmonizR": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1096,7 +1065,6 @@
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
-        "sva",
         "tximeta",
         "tximport"
     ],
@@ -1110,9 +1078,7 @@
     "kissDE": [
         "DSS"
     ],
-    "KnowSeq": [
-        "sva"
-    ],
+    "KnowSeq": [],
     "LedPred": [],
     "lemur": [],
     "lisaClust": [
@@ -1176,9 +1142,7 @@
     ],
     "MatrixRider": [],
     "MBAmethyl": [],
-    "MBECS": [
-        "sva"
-    ],
+    "MBECS": [],
     "mBPCR": [
         "GWASTools",
         "gdsfmt"
@@ -1193,8 +1157,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MeasurementError.cor": [],
     "MEAT": [
@@ -1377,9 +1340,7 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -1482,9 +1443,7 @@
         "BiocVersion",
         "Gviz"
     ],
-    "omicRexposome": [
-        "sva"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -1512,15 +1471,11 @@
     "OutSplice": [
         "Repitools"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [
-        "sva"
-    ],
+    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
@@ -1609,9 +1564,7 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
@@ -1633,12 +1586,8 @@
     ],
     "QDNAseq": [],
     "qPLEXanalyzer": [],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantiseqr": [],
     "quantro": [
         "illuminaio",
@@ -1831,9 +1780,7 @@
     "SANTA": [],
     "SBGNview": [],
     "SBMLR": [],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scanMiRApp": [
         "BiocVersion"
     ],
@@ -1927,9 +1874,7 @@
         "BiocVersion",
         "illuminaio"
     ],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGCP": [
         "GOstats"
     ],
@@ -1962,7 +1907,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "sva",
         "tximport",
         "zellkonverter",
         "zinbwave"
@@ -2006,7 +1950,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [],
     "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
@@ -2040,7 +1983,6 @@
         "splots"
     ],
     "STRINGdb": [],
-    "sva": [],
     "svaNUMT": [],
     "svaRetro": [],
     "SVMDO": [],
@@ -2054,8 +1996,7 @@
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "sva"
+        "ASSIGN"
     ],
     "TCC": [
         "baySeq"
@@ -2101,9 +2042,7 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "TSAR": [],
     "TVTB": [
         "Gviz"
@@ -2138,8 +2077,7 @@
         "Gviz"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "vbmp": [],
     "VCFArray": [],
