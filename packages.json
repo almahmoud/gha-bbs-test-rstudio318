@@ -1352,8 +1352,7 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "pRoloc": [],
     "pRolocGUI": [
@@ -1698,7 +1697,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [],
     "SomaticSignatures": [],
     "SOMNiBUS": [
         "BiocVersion",
