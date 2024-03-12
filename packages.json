@@ -14,7 +14,6 @@
         "BiocVersion"
     ],
     "affycoretools": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "ggbio"
@@ -22,7 +21,6 @@
     "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "affycoretools",
@@ -181,7 +179,6 @@
         "motifStack"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "BADER": [],
@@ -271,9 +268,7 @@
         "dmrseq"
     ],
     "BiSeq": [],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray",
@@ -336,7 +331,6 @@
     ],
     "canceR": [
         "AnVIL",
-        "Category",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -345,9 +339,7 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -369,7 +361,6 @@
     ],
     "CCPROMISE": [],
     "cellHTS2": [
-        "Category",
         "splots"
     ],
     "cellmigRation": [],
@@ -681,7 +672,6 @@
     "DExMA": [
         "sva"
     ],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
@@ -692,7 +682,6 @@
     "diffGeneAnalysis": [],
     "diffuStats": [],
     "diffUTR": [
-        "DEXSeq",
         "Rsubread"
     ],
     "diggit": [],
@@ -977,13 +966,11 @@
     "GenomicScores": [
         "BiocVersion"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "sva"
     ],
     "GEOfastq": [],
     "gespeR": [
-        "Category",
         "cellHTS2",
         "splots"
     ],
@@ -1002,7 +989,6 @@
     "GLAD": [],
     "GlobalAncova": [],
     "GmicR": [
-        "Category",
         "GOstats"
     ],
     "GNOSIS": [
@@ -1013,9 +999,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
@@ -1082,7 +1066,6 @@
         "minfi"
     ],
     "ideal": [
-        "Category",
         "GOstats",
         "pcaExplorer"
     ],
@@ -1111,12 +1094,8 @@
         "ggbio"
     ],
     "interacCircos": [],
-    "interactiveDisplay": [
-        "Category"
-    ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "interactiveDisplay": [],
+    "IntEREst": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -1131,7 +1110,6 @@
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
-        "DEXSeq",
         "sva",
         "tximeta",
         "tximport"
@@ -1251,8 +1229,7 @@
         "enrichplot"
     ],
     "meshr": [
-        "BiocStyle",
-        "Category"
+        "BiocStyle"
     ],
     "metabinR": [],
     "MetaboAnnotation": [
@@ -1328,7 +1305,6 @@
     ],
     "mimager": [],
     "MineICA": [
-        "Category",
         "GOstats",
         "illuminaio",
         "lumi",
@@ -1346,7 +1322,6 @@
     "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
-        "Category",
         "GOstats",
         "ctc"
     ],
@@ -1376,7 +1351,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "mogsa": [],
     "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -1504,7 +1478,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "STRINGdb",
         "illuminaio",
@@ -1565,7 +1538,6 @@
         "motifmatchr"
     ],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "panelcn.mops": [],
@@ -1588,7 +1560,6 @@
     ],
     "pathwayPCA": [],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PDATK": [
@@ -1607,9 +1578,7 @@
     "phemd": [
         "monocle"
     ],
-    "phenoTest": [
-        "Category"
-    ],
+    "phenoTest": [],
     "PhyloProfile": [
         "BiocStyle",
         "BiocVersion"
@@ -1627,7 +1596,6 @@
     ],
     "plasmut": [],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "plotGrouper": [],
@@ -1787,7 +1755,6 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "Category",
         "GOstats",
         "ggbio"
     ],
@@ -1839,7 +1806,6 @@
         "recount"
     ],
     "RNAinteract": [
-        "Category",
         "cellHTS2",
         "splots"
     ],
@@ -1940,7 +1906,6 @@
     "scTensor": [
         "BiocStyle",
         "BiocVersion",
-        "Category",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -1993,7 +1958,6 @@
         "sva"
     ],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "shinyepico": [
@@ -2015,7 +1979,6 @@
     "signifinder": [
         "consensusOV"
     ],
-    "SIM": [],
     "SimBindProfiles": [],
     "SimBu": [
         "basilisk",
@@ -2104,7 +2067,6 @@
         "RUVSeq"
     ],
     "staRank": [
-        "Category",
         "cellHTS2",
         "splots"
     ],
