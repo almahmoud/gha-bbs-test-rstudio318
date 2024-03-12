@@ -476,7 +476,6 @@
         "ggcyto"
     ],
     "dagLogo": [],
-    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -658,7 +657,6 @@
         "minfi"
     ],
     "GARS": [
-        "DaMiRseq",
         "MLSeq",
         "sSeq"
     ],
@@ -811,7 +809,6 @@
     ],
     "intansv": [],
     "interacCircos": [],
-    "interactiveDisplay": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -834,9 +831,7 @@
     "KBoost": [],
     "kissDE": [],
     "LedPred": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "xcms"
@@ -1224,7 +1219,6 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "qsmooth": [],
     "quantiseqr": [],
     "quantro": [
         "illuminaio",
@@ -1397,7 +1391,6 @@
         "gdsfmt"
     ],
     "scBFA": [],
-    "scFeatures": [],
     "scMET": [
         "BiocStyle"
     ],
@@ -1526,7 +1519,6 @@
         "GenomicInteractions"
     ],
     "specL": [],
-    "spicyR": [],
     "spikeLI": [],
     "spkTools": [],
     "SpliceWiz": [
