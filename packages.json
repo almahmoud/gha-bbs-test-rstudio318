@@ -240,7 +240,6 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
@@ -591,12 +590,9 @@
         "BiocVersion"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1035,7 +1031,6 @@
     "PeacoQC": [
         "flowWorkspace"
     ],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1468,9 +1463,7 @@
     "wppi": [
         "OmnipathR"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
