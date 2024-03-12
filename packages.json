@@ -188,8 +188,7 @@
     "bioCancer": [
         "AnVIL",
         "ReactomePA",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "BioCartaImage": [],
     "BiocHail": [
@@ -270,8 +269,7 @@
         "AnVIL"
     ],
     "CBNplot": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
     "cbpManager": [
         "basilisk",
@@ -283,16 +281,12 @@
     ],
     "cellmigRation": [],
     "cellscape": [],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CEMiTool": [],
     "censcyt": [
         "diffcyt"
     ],
     "ceRNAnetsim": [],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -326,7 +320,6 @@
     "cliqueMS": [],
     "clustComp": [],
     "ClusterJudge": [],
-    "clusterProfiler": [],
     "clusterSeq": [
         "baySeq"
     ],
@@ -449,13 +442,10 @@
         "ggcyto"
     ],
     "dagLogo": [],
-    "DAPAR": [
-        "clusterProfiler"
-    ],
+    "DAPAR": [],
     "ddPCRclust": [],
     "debrowser": [
-        "Harman",
-        "clusterProfiler"
+        "Harman"
     ],
     "deconvR": [
         "illuminaio",
@@ -523,9 +513,7 @@
         "illuminaio",
         "minfi"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
     "EpiCompare": [
         "BiocVersion",
         "ChIPseeker"
@@ -545,8 +533,7 @@
     ],
     "epivizrStandalone": [],
     "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "EventPointer": [
         "tximport"
@@ -571,7 +558,6 @@
         "drawProteins"
     ],
     "famat": [
-        "clusterProfiler",
         "rWikiPathways"
     ],
     "ffpe": [
@@ -627,9 +613,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "gDNAx": [
         "BiocVersion"
     ],
@@ -686,9 +670,7 @@
         "AnVIL",
         "cBioPortalData"
     ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
@@ -757,7 +739,6 @@
         "BiocStyle",
         "Pigengene",
         "ReactomePA",
-        "clusterProfiler",
         "illuminaio",
         "minfi"
     ],
@@ -815,8 +796,7 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
     "MAIT": [
         "CAMERA"
@@ -874,14 +854,11 @@
         "hpar"
     ],
     "metaCCA": [],
-    "MetaCyto": [],
     "metahdep": [],
     "metaMS": [
         "CAMERA"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [],
     "MethReg": [
         "BiocVersion",
@@ -902,7 +879,6 @@
         "minfi"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -916,9 +892,7 @@
     "MetNet": [
         "GENIE3"
     ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MineICA": [
         "illuminaio",
         "lumi",
@@ -959,12 +933,9 @@
     ],
     "monocle": [],
     "Moonlight2R": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -1077,9 +1048,7 @@
     "OSAT": [],
     "OutSplice": [],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "pareg": [
         "basilisk",
         "basilisk.utils",
@@ -1113,8 +1082,7 @@
     "pickgene": [],
     "Pigengene": [
         "BiocStyle",
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "PING": [],
     "plasmut": [],
@@ -1142,8 +1110,7 @@
     ],
     "pRolocGUI": [],
     "Prostar": [
-        "DAPAR",
-        "clusterProfiler"
+        "DAPAR"
     ],
     "psichomics": [
         "BiocVersion",
@@ -1352,8 +1319,7 @@
     ],
     "semisup": [],
     "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "SeqArray": [
         "gdsfmt"
@@ -1384,8 +1350,7 @@
         "minfi"
     ],
     "signatureSearch": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
     "signifinder": [],
     "SimBu": [
@@ -1460,7 +1425,6 @@
     "swfdr": [],
     "switchBox": [],
     "systemPipeShiny": [],
-    "tadar": [],
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [],
@@ -1484,7 +1448,6 @@
         "AnVIL"
     ],
     "TimiRGeN": [
-        "clusterProfiler",
         "rWikiPathways"
     ],
     "ToxicoGx": [],
@@ -1503,7 +1466,6 @@
     "Ularcirc": [
         "BiocVersion"
     ],
-    "uncoverappLib": [],
     "uSORT": [
         "monocle"
     ],
