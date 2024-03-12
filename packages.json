@@ -210,8 +210,7 @@
         "AnVIL",
         "ReactomePA",
         "cBioPortalData",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "BioCartaImage": [],
     "BiocHail": [
@@ -308,8 +307,7 @@
     ],
     "CBNplot": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "cbpManager": [
         "basilisk",
@@ -323,16 +321,14 @@
     "cellmigRation": [],
     "cellscape": [],
     "CEMiTool": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "censcyt": [
         "diffcyt"
     ],
     "ceRNAnetsim": [],
     "CeTF": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "cfdnakit": [],
     "cfTools": [
@@ -358,9 +354,7 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPseeker": [
-        "enrichplot"
-    ],
+    "ChIPseeker": [],
     "chromVAR": [],
     "cicero": [
         "monocle"
@@ -378,9 +372,7 @@
     "clustComp": [],
     "clusterExperiment": [],
     "ClusterJudge": [],
-    "clusterProfiler": [
-        "enrichplot"
-    ],
+    "clusterProfiler": [],
     "clusterSeq": [
         "baySeq"
     ],
@@ -529,16 +521,14 @@
     ],
     "DaMiRseq": [],
     "DAPAR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "ddPCRclust": [
         "flowDensity"
     ],
     "debrowser": [
         "Harman",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "decontX": [],
     "deconvR": [
@@ -615,19 +605,14 @@
         "illuminaio",
         "minfi"
     ],
-    "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr"
     ],
-    "enrichViewNet": [
-        "enrichplot"
-    ],
+    "enrichViewNet": [],
     "EpiCompare": [
         "BiocVersion",
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "epigenomix": [
         "BeadDataPackR",
@@ -651,7 +636,6 @@
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr"
     ],
     "escape": [],
@@ -682,7 +666,6 @@
     ],
     "famat": [
         "clusterProfiler",
-        "enrichplot",
         "rWikiPathways"
     ],
     "ffpe": [
@@ -752,8 +735,7 @@
         "gdsfmt"
     ],
     "GDCRNATools": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "gDNAx": [
         "BiocVersion"
@@ -822,8 +804,7 @@
         "cBioPortalData"
     ],
     "goSorensen": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "GOstats": [],
     "gpls": [],
@@ -904,7 +885,6 @@
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "illuminaio",
         "minfi"
     ],
@@ -971,8 +951,7 @@
     ],
     "MAGeCKFlute": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MAIT": [
         "CAMERA",
@@ -1020,8 +999,7 @@
     ],
     "Mergeomics": [],
     "meshes": [
-        "BiocVersion",
-        "enrichplot"
+        "BiocVersion"
     ],
     "meshr": [
         "BiocStyle"
@@ -1042,8 +1020,7 @@
         "xcms"
     ],
     "MetaPhOR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "metaseqR2": [],
     "MethReg": [
@@ -1068,7 +1045,6 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "enrichplot",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -1084,8 +1060,7 @@
         "GENIE3"
     ],
     "MicrobiomeProfiler": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MineICA": [
         "GOstats",
@@ -1133,12 +1108,10 @@
     "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MoonlightR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "mosbi": [
         "QUBIC"
@@ -1280,8 +1253,7 @@
     "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "pareg": [
         "basilisk",
@@ -1324,8 +1296,7 @@
     "Pigengene": [
         "BiocStyle",
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PING": [],
     "plasmut": [],
@@ -1351,8 +1322,7 @@
         "Icens"
     ],
     "profileplyr": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "pRoloc": [],
     "pRolocGUI": [
@@ -1361,8 +1331,7 @@
     "PROPS": [],
     "Prostar": [
         "DAPAR",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "psichomics": [
         "BiocVersion",
@@ -1425,9 +1394,7 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomePA": [
-        "enrichplot"
-    ],
+    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -1591,7 +1558,6 @@
         "BiocVersion",
         "GOstats",
         "ReactomePA",
-        "enrichplot",
         "meshr"
     ],
     "scTGIF": [
@@ -1606,8 +1572,7 @@
         "dir.expiry"
     ],
     "segmenter": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "segmentSeq": [
         "baySeq"
@@ -1615,8 +1580,7 @@
     "semisup": [],
     "seqArchRplus": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "SeqArray": [
         "gdsfmt"
@@ -1652,8 +1616,7 @@
     "SigCheck": [],
     "signatureSearch": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "signifinder": [
         "consensusOV"
@@ -1735,7 +1698,6 @@
         "splots"
     ],
     "STRINGdb": [],
-    "SVMDO": [],
     "swfdr": [],
     "switchBox": [],
     "systemPipeShiny": [],
@@ -1754,7 +1716,6 @@
     "TDbasedUFEadv": [
         "STRINGdb",
         "TDbasedUFE",
-        "enrichplot",
         "tximport"
     ],
     "tenXplore": [
@@ -1767,7 +1728,6 @@
     ],
     "TimiRGeN": [
         "clusterProfiler",
-        "enrichplot",
         "rWikiPathways"
     ],
     "TNBC.CMS": [],
