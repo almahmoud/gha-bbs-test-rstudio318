@@ -238,7 +238,6 @@
     "BioNERO": [
         "GENIE3"
     ],
-    "BioNetStat": [],
     "biscuiteer": [
         "BiocVersion",
         "annotatr",
@@ -952,7 +951,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "mariner": [],
     "maser": [],
     "mastR": [
         "BiocVersion"
