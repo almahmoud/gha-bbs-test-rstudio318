@@ -300,7 +300,6 @@
         "BiocStyle"
     ],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "cicero": [
         "monocle"
     ],
@@ -491,8 +490,7 @@
     ],
     "enrichTF": [],
     "EpiCompare": [
-        "BiocVersion",
-        "ChIPseeker"
+        "BiocVersion"
     ],
     "epigenomix": [
         "BeadDataPackR",
@@ -508,9 +506,7 @@
         "minfi"
     ],
     "epivizrStandalone": [],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1061,16 +1057,13 @@
     "PROcess": [
         "Icens"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "pRolocGUI": [],
     "Prostar": [
         "DAPAR"
     ],
     "psichomics": [
-        "BiocVersion",
-        "recount"
+        "BiocVersion"
     ],
     "pwOmics": [
         "BiocVersion",
@@ -1129,7 +1122,6 @@
         "BiocStyle",
         "dir.expiry"
     ],
-    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -1182,9 +1174,7 @@
     "Rmmquant": [
         "BiocStyle"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAinteract": [
         "cellHTS2",
         "splots"
@@ -1193,9 +1183,7 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RNASeqPower": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -1266,16 +1254,12 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "segmentSeq": [
         "baySeq"
     ],
     "semisup": [],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "seqArchRplus": [],
     "SeqArray": [
         "gdsfmt"
     ],
