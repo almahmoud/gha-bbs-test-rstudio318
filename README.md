@@ -1,12 +1,12 @@
 # Summary
 
-1543 Bioconductor sotware binaries built
+1544 Bioconductor sotware binaries built
 
-3104 Other dependency binaries built
+3105 Other dependency binaries built
 
 0 failed packages
 
-651 unclaimed packages
+650 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (651)
+## Unclaimed (650)
 | Package                      | Status    | Blocked By                                                                                                                                                                                                            |
 |------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Unclaimed |                                                                                                                                                                                                                       |
@@ -158,7 +158,6 @@
 | CONFESS                      | Unclaimed | Incomplete Bioc dependencies: flowMerge.                                                                                                                                                                              |
 | consensus                    | Unclaimed |                                                                                                                                                                                                                       |
 | consensusDE                  | Unclaimed |                                                                                                                                                                                                                       |
-| consensusOV                  | Unclaimed |                                                                                                                                                                                                                       |
 | conumee                      | Unclaimed | Incomplete Bioc dependencies: illuminaio, minfi.                                                                                                                                                                      |
 | CopyNumberPlots              | Unclaimed |                                                                                                                                                                                                                       |
 | CoSIA                        | Unclaimed | Incomplete Bioc dependencies: BiocVersion.                                                                                                                                                                            |
@@ -589,7 +588,7 @@
 | shinyMethyl                  | Unclaimed | Incomplete Bioc dependencies: illuminaio, minfi.                                                                                                                                                                      |
 | SigCheck                     | Unclaimed |                                                                                                                                                                                                                       |
 | signatureSearch              | Unclaimed | Incomplete Bioc dependencies: BiocVersion, clusterProfiler.                                                                                                                                                           |
-| signifinder                  | Unclaimed | Incomplete Bioc dependencies: consensusOV.                                                                                                                                                                            |
+| signifinder                  | Unclaimed |                                                                                                                                                                                                                       |
 | SimBindProfiles              | Unclaimed |                                                                                                                                                                                                                       |
 | SimBu                        | Unclaimed | Incomplete Bioc dependencies: basilisk, basilisk.utils, dir.expiry.                                                                                                                                                   |
 | singleCellTK                 | Unclaimed | Incomplete Bioc dependencies: BiocVersion, basilisk, basilisk.utils, dir.expiry, tximport, zellkonverter.                                                                                                             |
@@ -669,7 +668,7 @@
 | zellkonverter                | Unclaimed | Incomplete Bioc dependencies: basilisk, basilisk.utils, dir.expiry.                                                                                                                                                   |
 | zenith                       | Unclaimed |                                                                                                                                                                                                                       |
 
-## Bioconductor Software Binaries Built (1543)
+## Bioconductor Software Binaries Built (1544)
 | Package                     | Status    | Tarball                                                                                                                                                                                                                                                          |
 |-----------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4Base                      | Succeeded | [a4Base_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/a4Base_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -946,6 +945,7 @@
 | concordexR                  | Succeeded | [concordexR_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/concordexR_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | condiments                  | Succeeded | [condiments_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/condiments_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | ConsensusClusterPlus        | Succeeded | [ConsensusClusterPlus_1.66.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/ConsensusClusterPlus_1.66.0_R_x86_64-pc-linux-gnu.tar.gz)               |
+| consensusOV                 | Succeeded | [consensusOV_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/consensusOV_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | consensusSeekeR             | Succeeded | [consensusSeekeR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/consensusSeekeR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | consICA                     | Succeeded | [consICA_2.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/consICA_2.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | CONSTANd                    | Succeeded | [CONSTANd_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/CONSTANd_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -2216,7 +2216,7 @@
 | zlibbioc                    | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | ZygosityPredictor           | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                       |
 
-## Other Dependency Binaries (1543)
+## Other Dependency Binaries (1544)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | rebus.datetimes                             | Succeeded | [rebus.datetimes_0.0-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/rebus.datetimes_0.0-2_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
@@ -2262,6 +2262,7 @@
 | fCCAC                                       | Succeeded | [fCCAC_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/fCCAC_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | limSolve                                    | Succeeded | [limSolve_1.5.7.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/limSolve_1.5.7.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | ILoReg                                      | Succeeded | [ILoReg_1.12.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/ILoReg_1.12.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
+| consensusOV                                 | Succeeded | [consensusOV_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/consensusOV_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                               |
 | lwgeom                                      | Succeeded | [lwgeom_0.2-14_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/lwgeom_0.2-14_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | pmp                                         | Succeeded | [pmp_1.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/pmp_1.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | BiocSet                                     | Succeeded | [BiocSet_1.16.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/BiocSet_1.16.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
