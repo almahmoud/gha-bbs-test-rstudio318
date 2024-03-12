@@ -1215,7 +1215,6 @@
         "motifmatchr"
     ],
     "pairedGSEA": [],
-    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -1367,7 +1366,6 @@
         "illuminaio",
         "minfi"
     ],
-    "REDseq": [],
     "RegionalST": [],
     "regionReport": [
         "BiocStyle"
