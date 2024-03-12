@@ -18,7 +18,6 @@
         "ReportingTools",
         "ggbio"
     ],
-    "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
         "GOstats",
@@ -385,9 +384,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [],
     "ChAMP": [
         "BiocVersion",
@@ -442,7 +439,6 @@
     ],
     "ClustIRR": [],
     "cmapR": [],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -510,7 +506,6 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "countsimQC": [],
     "covRNA": [],
     "crisprBowtie": [
         "Rbowtie"
@@ -1293,7 +1288,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mimager": [],
     "MineICA": [
         "GOstats",
         "illuminaio",
@@ -1650,7 +1644,6 @@
         "illuminaio",
         "minfi"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "Rbowtie"
     ],
@@ -1879,7 +1872,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scRNAseqApp": [],
     "scruff": [
         "Rsubread",
         "ggbio"
@@ -2047,7 +2039,6 @@
         "cellHTS2",
         "splots"
     ],
-    "StarBioTrek": [],
     "STRINGdb": [],
     "sva": [],
     "svaNUMT": [],
