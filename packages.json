@@ -330,7 +330,6 @@
     "clevRvis": [],
     "cliqueMS": [],
     "clustComp": [],
-    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [],
     "clusterSeq": [
@@ -672,7 +671,6 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "GeneBreak": [],
     "GeneGA": [],
     "GENESIS": [
         "GWASTools",
@@ -1070,9 +1068,7 @@
     "netresponse": [
         "BiocStyle"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "STRINGdb",
         "illuminaio",
@@ -1279,7 +1275,6 @@
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RiboProfiling": [],
     "riboSeqR": [
         "baySeq"
     ],
