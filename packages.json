@@ -255,7 +255,6 @@
         "cBioPortalData"
     ],
     "CARNIVAL": [],
-    "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [
         "AnVIL",
@@ -406,8 +405,7 @@
     "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [
-        "BiocStyle",
-        "CATALYST"
+        "BiocStyle"
     ],
     "CytoML": [
         "flowWorkspace",
@@ -1373,7 +1371,6 @@
     "sSeq": [],
     "ssize": [],
     "ssrch": [],
-    "standR": [],
     "staRank": [
         "cellHTS2",
         "splots"
