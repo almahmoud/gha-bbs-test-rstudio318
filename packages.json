@@ -402,18 +402,10 @@
     "cytofQC": [
         "BiocStyle"
     ],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "CytoPipeline"
     ],
     "dagLogo": [],
     "DAPAR": [],
@@ -538,13 +530,8 @@
         "dir.expiry"
     ],
     "flowBin": [],
-    "flowGate": [
-        "ggcyto"
-    ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowGate": [],
+    "flowVS": [],
     "fmrs": [],
     "FRASER": [
         "Rsubread"
@@ -601,7 +588,6 @@
         "cellHTS2",
         "splots"
     ],
-    "ggcyto": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -675,7 +661,6 @@
     "IMMAN": [
         "STRINGdb"
     ],
-    "ImmuneSpaceR": [],
     "INDEED": [],
     "iNETgrate": [
         "BiocStyle",
@@ -958,7 +943,6 @@
     "ontoProc": [
         "BiocVersion"
     ],
-    "openCyto": [],
     "OpenStats": [],
     "orthos": [
         "BiocVersion",
@@ -988,7 +972,6 @@
     "PDATK": [
         "switchBox"
     ],
-    "PeacoQC": [],
     "phemd": [
         "monocle"
     ],
