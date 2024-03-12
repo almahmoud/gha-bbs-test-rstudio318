@@ -379,7 +379,6 @@
         "BiocStyle",
         "Gviz"
     ],
-    "ChIPexoQual": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -839,7 +838,6 @@
         "illuminaio",
         "minfi"
     ],
-    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
