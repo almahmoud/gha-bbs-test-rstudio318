@@ -171,7 +171,6 @@
         "GOstats"
     ],
     "BADER": [],
-    "ballgown": [],
     "bandle": [
         "BiocStyle",
         "pRoloc"
@@ -243,7 +242,6 @@
         "annotatr",
         "dmrseq"
     ],
-    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray",
@@ -252,7 +250,6 @@
     "BloodGen3Module": [
         "BiocVersion"
     ],
-    "bnbc": [],
     "bnem": [],
     "BOBaFIT": [],
     "borealis": [],
@@ -334,7 +331,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "cghMCR": [],
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
@@ -531,7 +527,6 @@
         "dir.expiry"
     ],
     "derfinderPlot": [],
-    "DExMA": [],
     "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
@@ -747,7 +742,6 @@
     "GenomicScores": [
         "BiocVersion"
     ],
-    "GEOexplorer": [],
     "GEOfastq": [],
     "gespeR": [
         "cellHTS2",
@@ -932,7 +926,6 @@
     ],
     "MatrixRider": [],
     "MBAmethyl": [],
-    "MBECS": [],
     "mBPCR": [
         "GWASTools",
         "gdsfmt"
@@ -1093,7 +1086,6 @@
         "BiocVersion",
         "msmsTests"
     ],
-    "MSPrep": [],
     "MsQuality": [],
     "MSstats": [
         "MSstatsConvert"
@@ -1191,7 +1183,6 @@
         "flowWorkspace"
     ],
     "OpenStats": [],
-    "oppar": [],
     "optimalFlow": [],
     "orthos": [
         "BiocVersion",
@@ -1470,7 +1461,6 @@
         "gdsfmt"
     ],
     "scBFA": [],
-    "scClassify": [],
     "scFeatures": [],
     "scMET": [
         "BiocStyle"
@@ -1553,7 +1543,6 @@
         "clusterProfiler"
     ],
     "signifinder": [],
-    "SimBindProfiles": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
@@ -1697,9 +1686,7 @@
     "VariantFiltering": [
         "BiocVersion"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "vbmp": [],
     "velociraptor": [
         "basilisk",
@@ -1728,7 +1715,6 @@
         "OmnipathR"
     ],
     "xcms": [],
-    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
