@@ -363,7 +363,6 @@
         "BiocVersion",
         "gwascat"
     ],
-    "CircSeqAlignTk": [],
     "cisPath": [],
     "clevRvis": [],
     "cliqueMS": [
@@ -839,7 +838,6 @@
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
-    "HiCDOC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
