@@ -9,12 +9,9 @@
     "adductomicsR": [
         "BiocVersion"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "agilp": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AHMassBank": [
@@ -143,15 +140,12 @@
         "BiocStyle"
     ],
     "ASSET": [],
-    "ATACCoGAPS": [],
     "ATACseqQC": [
         "BiocVersion"
     ],
     "atena": [
         "BiocVersion"
     ],
-    "atSNP": [],
-    "attract": [],
     "BADER": [],
     "bandle": [
         "BiocStyle"
@@ -329,7 +323,6 @@
     "CoSIA": [
         "BiocVersion"
     ],
-    "cosmiq": [],
     "cosmosR": [
         "CARNIVAL"
     ],
@@ -396,7 +389,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline"
     ],
-    "dagLogo": [],
     "debrowser": [
         "Harman"
     ],
@@ -573,7 +565,6 @@
     "GGPA": [],
     "GIGSEA": [],
     "GLAD": [],
-    "GmicR": [],
     "GNOSIS": [
         "AnVIL",
         "cBioPortalData"
@@ -810,7 +801,6 @@
     "MLSeq": [
         "sSeq"
     ],
-    "MobilityTransformR": [],
     "MODA": [
         "AMOUNTAIN"
     ],
@@ -827,7 +817,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "motifbreakR": [],
     "MQmetrics": [],
     "MsDataHub": [
         "BiocVersion"
@@ -927,7 +916,6 @@
     ],
     "OSAT": [],
     "OutSplice": [],
-    "pageRank": [],
     "PanomiR": [],
     "pareg": [
         "basilisk",
@@ -1058,7 +1046,6 @@
         "illuminaio",
         "minfi"
     ],
-    "ReportingTools": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -1080,7 +1067,6 @@
         "Rsubread"
     ],
     "RImmPort": [],
-    "Risa": [],
     "RITAN": [
         "STRINGdb"
     ],
@@ -1188,7 +1174,6 @@
         "BiocVersion",
         "illuminaio"
     ],
-    "SGCP": [],
     "shinyepico": [
         "illuminaio",
         "minfi"
@@ -1200,7 +1185,6 @@
     "signatureSearch": [
         "BiocVersion"
     ],
-    "signifinder": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
@@ -1322,7 +1306,6 @@
     "VariantFiltering": [
         "BiocVersion"
     ],
-    "VaSP": [],
     "vbmp": [],
     "velociraptor": [
         "basilisk",
