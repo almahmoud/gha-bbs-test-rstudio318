@@ -340,7 +340,6 @@
     "compSPOT": [],
     "CONFESS": [],
     "consensus": [],
-    "consensusDE": [],
     "conumee": [
         "illuminaio",
         "minfi"
@@ -479,9 +478,7 @@
         "annotatr"
     ],
     "drawProteins": [],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "dupRadar": [
         "Rsubread"
     ],
@@ -563,11 +560,8 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [],
-    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -593,9 +587,7 @@
         "MLSeq",
         "sSeq"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -1066,7 +1058,6 @@
         "BiocStyle",
         "ReactomePA"
     ],
-    "PING": [],
     "plasmut": [],
     "PloGO2": [],
     "plotGrouper": [],
@@ -1507,6 +1498,5 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
-    ],
-    "zenith": []
+    ]
 }
