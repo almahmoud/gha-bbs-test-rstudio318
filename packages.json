@@ -417,7 +417,6 @@
     "compSPOT": [],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge"
     ],
     "consensus": [],
@@ -500,8 +499,7 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cydar": [],
     "CytoDx": [],
@@ -516,7 +514,6 @@
     ],
     "CytoML": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -546,8 +543,7 @@
         "enrichplot"
     ],
     "ddPCRclust": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "debrowser": [
         "Harman",
@@ -724,49 +720,35 @@
     ],
     "flowAI": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCHIC": [],
-    "flowClean": [],
     "flowClust": [],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
-    "flowPloidy": [],
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -788,8 +770,7 @@
         "sSeq"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -1309,15 +1290,12 @@
     ],
     "openCyto": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "OpenStats": [],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "orthos": [
         "BiocVersion",
         "basilisk",
@@ -1610,7 +1588,6 @@
         "BiocStyle"
     ],
     "SANTA": [],
-    "SBGNview": [],
     "SBMLR": [],
     "SCAN.UPC": [],
     "scanMiRApp": [
