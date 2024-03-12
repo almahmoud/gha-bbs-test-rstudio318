@@ -147,7 +147,6 @@
     "ATACseqQC": [
         "BiocVersion"
     ],
-    "ATACseqTFEA": [],
     "atena": [
         "BiocVersion"
     ],
@@ -248,7 +247,6 @@
         "CAGEfightR"
     ],
     "calm": [],
-    "CAMERA": [],
     "canceR": [
         "AnVIL",
         "cBioPortalData"
@@ -419,7 +417,6 @@
     ],
     "dagLogo": [],
     "DAPAR": [],
-    "ddPCRclust": [],
     "debrowser": [
         "Harman"
     ],
@@ -534,16 +531,13 @@
         "minfi"
     ],
     "FitHiC": [],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
     "flowBin": [],
-    "flowCut": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -693,9 +687,7 @@
     "ipdDb": [
         "BiocVersion"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "iSEEhub": [
         "BiocVersion"
     ],
@@ -711,9 +703,7 @@
     "KBoost": [],
     "LedPred": [],
     "lisaClust": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LRcell": [
         "BiocVersion"
     ],
@@ -744,9 +734,7 @@
     "MAGeCKFlute": [
         "BiocVersion"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "MANOR": [
         "GLAD"
     ],
@@ -799,9 +787,7 @@
     ],
     "metaCCA": [],
     "metahdep": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [],
     "MethReg": [
         "BiocVersion",
@@ -834,7 +820,6 @@
     "MetNet": [
         "GENIE3"
     ],
-    "MicrobiomeProfiler": [],
     "MineICA": [
         "illuminaio",
         "lumi",
@@ -1157,7 +1142,6 @@
         "cellHTS2",
         "splots"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RNASeqPower": [],
@@ -1316,7 +1300,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "spatzie": [],
     "specL": [],
     "spikeLI": [],
     "spkTools": [],
