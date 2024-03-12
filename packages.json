@@ -255,7 +255,6 @@
     "BiocOncoTK": [
         "BiocVersion"
     ],
-    "BioCor": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -1430,7 +1429,6 @@
     "msgbsR": [
         "ggbio"
     ],
-    "msImpute": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
