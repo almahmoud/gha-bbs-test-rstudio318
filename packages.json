@@ -231,8 +231,7 @@
         "BiocStyle"
     ],
     "brainflowprobes": [
-        "BiocVersion",
-        "derfinderPlot"
+        "BiocVersion"
     ],
     "BubbleTree": [
         "BiocStyle"
@@ -405,7 +404,6 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "cummeRbund": [],
     "customCMPdb": [
         "BiocVersion"
     ],
@@ -455,7 +453,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "derfinderPlot": [],
     "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
@@ -496,7 +493,6 @@
     "EBSEA": [
         "EmpiricalBrownsMethod"
     ],
-    "ELMER": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
@@ -753,7 +749,6 @@
     ],
     "iterativeBMAsurv": [],
     "KBoost": [],
-    "kissDE": [],
     "LedPred": [],
     "lisaClust": [],
     "LOBSTAHS": [
@@ -1026,7 +1021,6 @@
         "flowWorkspace"
     ],
     "OpenStats": [],
-    "optimalFlow": [],
     "orthos": [
         "BiocVersion",
         "basilisk",
@@ -1274,7 +1268,6 @@
         "BiocVersion",
         "annotatr"
     ],
-    "scone": [],
     "scPipe": [
         "Rsubread",
         "basilisk",
