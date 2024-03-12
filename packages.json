@@ -723,7 +723,6 @@
         "dir.expiry"
     ],
     "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -1629,7 +1628,6 @@
     ],
     "scBFA": [],
     "scClassify": [],
-    "scDataviz": [],
     "scFeatures": [],
     "scifer": [],
     "scMET": [
