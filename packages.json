@@ -759,7 +759,6 @@
         "enrichplot",
         "rWikiPathways"
     ],
-    "fCCAC": [],
     "ffpe": [
         "illuminaio",
         "lumi",
@@ -1000,7 +999,6 @@
         "pcaExplorer"
     ],
     "illuminaio": [],
-    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
