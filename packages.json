@@ -188,7 +188,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "BADER": [],
     "ballgown": [
         "sva"
@@ -429,7 +428,6 @@
     "ChIPseeker": [
         "enrichplot"
     ],
-    "ChromSCape": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
@@ -529,7 +527,6 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "COTAN": [],
     "countsimQC": [],
     "covRNA": [],
     "crisprBowtie": [
@@ -1320,7 +1317,6 @@
     "methylPipe": [
         "Gviz"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS"
     ],
@@ -1926,9 +1922,7 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scFeatures": [
-        "AUCell"
-    ],
+    "scFeatures": [],
     "scifer": [],
     "scMerge": [],
     "scMET": [
