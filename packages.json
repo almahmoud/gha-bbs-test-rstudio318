@@ -279,9 +279,7 @@
     "cellmigRation": [],
     "cellscape": [],
     "CEMiTool": [],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "ceRNAnetsim": [],
     "CeTF": [],
     "cfTools": [
@@ -407,9 +405,7 @@
         "BiocVersion"
     ],
     "cyanoFilter": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [
         "BiocStyle",
         "CATALYST"
@@ -452,7 +448,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
     ],
@@ -944,7 +939,6 @@
         "MSstatsConvert",
         "MSstatsTMT"
     ],
-    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstats",
         "MSstatsConvert",
@@ -1424,11 +1418,8 @@
     "ToxicoGx": [],
     "trackViewer": [],
     "TrajectoryGeometry": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TSAR": [],
-    "TVTB": [],
     "tximeta": [
         "BiocVersion",
         "tximport"
