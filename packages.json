@@ -175,7 +175,6 @@
         "illuminaio"
     ],
     "BeadDataPackR": [],
-    "benchdamic": [],
     "BgeeCall": [
         "tximport"
     ],
@@ -301,7 +300,6 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "cfdnakit": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -1017,7 +1015,6 @@
         "BiocVersion",
         "msmsTests"
     ],
-    "MsQuality": [],
     "MSstats": [
         "MSstatsConvert"
     ],
@@ -1119,7 +1116,6 @@
     "OSAT": [],
     "OutSplice": [],
     "pageRank": [],
-    "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler"
     ],
