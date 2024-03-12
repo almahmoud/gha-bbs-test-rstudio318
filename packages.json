@@ -493,7 +493,6 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "covRNA": [],
     "crisprBowtie": [
         "Rbowtie"
     ],
@@ -1950,7 +1949,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
