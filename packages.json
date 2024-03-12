@@ -151,8 +151,7 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "BiocVersion",
-        "motifStack"
+        "BiocVersion"
     ],
     "ATACseqTFEA": [
         "motifmatchr"
@@ -160,9 +159,7 @@
     "atena": [
         "BiocVersion"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "BADER": [],
     "bandle": [
@@ -485,9 +482,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
@@ -558,7 +553,6 @@
         "EmpiricalBrownsMethod"
     ],
     "edge": [],
-    "EGSEA": [],
     "ELMER": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
@@ -1051,11 +1045,8 @@
     "mosbi": [
         "QUBIC"
     ],
-    "motifbreakR": [
-        "motifStack"
-    ],
+    "motifbreakR": [],
     "motifmatchr": [],
-    "motifStack": [],
     "MQmetrics": [],
     "MsDataHub": [
         "BiocVersion"
@@ -1113,7 +1104,6 @@
         "ATACseqQC",
         "BiocVersion",
         "EmpiricalBrownsMethod",
-        "motifStack",
         "trackViewer"
     ],
     "ncGTW": [
@@ -1354,8 +1344,7 @@
         "baySeq"
     ],
     "ribosomeProfilingQC": [
-        "Rsubread",
-        "motifStack"
+        "Rsubread"
     ],
     "RImmPort": [],
     "Risa": [
