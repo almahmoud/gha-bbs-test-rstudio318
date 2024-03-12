@@ -231,7 +231,6 @@
     "BloodGen3Module": [
         "BiocVersion"
     ],
-    "borealis": [],
     "BPRMeth": [
         "BiocStyle"
     ],
@@ -247,16 +246,13 @@
         "BufferedMatrix"
     ],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "GENIE3"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "calm": [],
     "CAMERA": [],
@@ -356,9 +352,7 @@
     "COMPASS": [
         "BiocStyle"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
         "flowMerge"
@@ -581,9 +575,7 @@
     "ExpressionAtlas": [
         "BiocStyle"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "factR": [
         "drawProteins"
     ],
@@ -684,7 +676,6 @@
     ],
     "GENIE3": [],
     "genoCN": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [
         "BiocVersion"
@@ -739,9 +730,7 @@
     ],
     "Harman": [],
     "Herper": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -935,7 +924,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylPipe": [],
     "methylSig": [],
     "methylumi": [
         "illuminaio",
@@ -1474,9 +1462,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "spikeLI": [],
     "spkTools": [],
