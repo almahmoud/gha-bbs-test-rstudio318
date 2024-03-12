@@ -270,7 +270,6 @@
         "sva"
     ],
     "BioNetStat": [],
-    "BioTIP": [],
     "biscuiteer": [
         "BiocVersion",
         "QDNAseq",
@@ -1932,10 +1931,8 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDblFinder": [],
     "scFeatures": [
-        "AUCell",
-        "SingleCellSignalR"
+        "AUCell"
     ],
     "scifer": [],
     "scMerge": [],
@@ -2049,14 +2046,12 @@
         "dir.expiry"
     ],
     "simpleSeg": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "celda",
         "dir.expiry",
-        "scDblFinder",
         "scMerge",
         "sva",
         "tximport",
