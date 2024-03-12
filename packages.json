@@ -349,9 +349,7 @@
     "chimeraviz": [
         "BiocStyle"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "chromVAR": [],
     "cicero": [
@@ -537,7 +535,6 @@
     "derfinderPlot": [],
     "DEScan2": [],
     "DExMA": [],
-    "DiffBind": [],
     "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
@@ -1736,9 +1733,7 @@
         "BiocVersion",
         "gwascat"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "illuminaio",
         "lumi",
