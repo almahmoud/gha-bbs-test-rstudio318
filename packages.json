@@ -611,10 +611,7 @@
         "minfi"
     ],
     "EpiTxDb": [],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1509,9 +1506,7 @@
     "scTGIF": [
         "BiocStyle"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
