@@ -113,7 +113,6 @@
         "BiocVersion"
     ],
     "AMOUNTAIN": [],
-    "annmap": [],
     "AnnotationHub": [
         "BiocVersion"
     ],
@@ -982,7 +981,6 @@
     ],
     "GGPA": [],
     "GIGSEA": [],
-    "GISPA": [],
     "GLAD": [],
     "GlobalAncova": [],
     "GmicR": [
@@ -1450,7 +1448,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
@@ -1727,7 +1724,6 @@
         "minfi"
     ],
     "REDseq": [],
-    "regionalpcs": [],
     "RegionalST": [],
     "regionReport": [
         "BiocStyle",
