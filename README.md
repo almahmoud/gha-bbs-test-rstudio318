@@ -1,12 +1,12 @@
 # Summary
 
-1664 Bioconductor sotware binaries built
+1665 Bioconductor sotware binaries built
 
-3304 Other dependency binaries built
+3305 Other dependency binaries built
 
 0 failed packages
 
-530 unclaimed packages
+529 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (530)
+## Unclaimed (529)
 | Package                      | Status    | Blocked By                                                                                                                                                                                                            |
 |------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | abseqR                       | Unclaimed | Incomplete Bioc dependencies: BiocStyle.                                                                                                                                                                              |
@@ -148,9 +148,9 @@
 | cyanoFilter                  | Unclaimed |                                                                                                                                                                                                                       |
 | CyTOFpower                   | Unclaimed |                                                                                                                                                                                                                       |
 | cytofQC                      | Unclaimed | Incomplete Bioc dependencies: BiocStyle.                                                                                                                                                                              |
-| CytoML                       | Unclaimed | Incomplete Bioc dependencies: flowWorkspace, ggcyto, openCyto.                                                                                                                                                        |
-| CytoPipeline                 | Unclaimed | Incomplete Bioc dependencies: PeacoQC, flowWorkspace, ggcyto.                                                                                                                                                         |
-| CytoPipelineGUI              | Unclaimed | Incomplete Bioc dependencies: CytoPipeline, PeacoQC, flowWorkspace, ggcyto.                                                                                                                                           |
+| CytoML                       | Unclaimed | Incomplete Bioc dependencies: ggcyto, openCyto.                                                                                                                                                                       |
+| CytoPipeline                 | Unclaimed | Incomplete Bioc dependencies: PeacoQC, ggcyto.                                                                                                                                                                        |
+| CytoPipelineGUI              | Unclaimed | Incomplete Bioc dependencies: CytoPipeline, PeacoQC, ggcyto.                                                                                                                                                          |
 | dagLogo                      | Unclaimed |                                                                                                                                                                                                                       |
 | DAPAR                        | Unclaimed |                                                                                                                                                                                                                       |
 | ddPCRclust                   | Unclaimed |                                                                                                                                                                                                                       |
@@ -200,10 +200,9 @@
 | FLAMES                       | Unclaimed | Incomplete Bioc dependencies: basilisk, basilisk.utils, dir.expiry.                                                                                                                                                   |
 | flowBin                      | Unclaimed |                                                                                                                                                                                                                       |
 | flowCut                      | Unclaimed |                                                                                                                                                                                                                       |
-| flowGate                     | Unclaimed | Incomplete Bioc dependencies: flowWorkspace, ggcyto.                                                                                                                                                                  |
-| flowStats                    | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                                                                                                                          |
-| flowVS                       | Unclaimed | Incomplete Bioc dependencies: flowStats, flowWorkspace.                                                                                                                                                               |
-| flowWorkspace                | Unclaimed |                                                                                                                                                                                                                       |
+| flowGate                     | Unclaimed | Incomplete Bioc dependencies: ggcyto.                                                                                                                                                                                 |
+| flowStats                    | Unclaimed |                                                                                                                                                                                                                       |
+| flowVS                       | Unclaimed | Incomplete Bioc dependencies: flowStats.                                                                                                                                                                              |
 | fmrs                         | Unclaimed |                                                                                                                                                                                                                       |
 | FRASER                       | Unclaimed | Incomplete Bioc dependencies: Rsubread.                                                                                                                                                                               |
 | FRGEpistasis                 | Unclaimed |                                                                                                                                                                                                                       |
@@ -227,7 +226,7 @@
 | genoCN                       | Unclaimed |                                                                                                                                                                                                                       |
 | GEOfastq                     | Unclaimed |                                                                                                                                                                                                                       |
 | gespeR                       | Unclaimed | Incomplete Bioc dependencies: cellHTS2, splots.                                                                                                                                                                       |
-| ggcyto                       | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                                                                                                                          |
+| ggcyto                       | Unclaimed |                                                                                                                                                                                                                       |
 | ggmanh                       | Unclaimed | Incomplete Bioc dependencies: SeqArray, gdsfmt.                                                                                                                                                                       |
 | GGPA                         | Unclaimed |                                                                                                                                                                                                                       |
 | GIGSEA                       | Unclaimed |                                                                                                                                                                                                                       |
@@ -259,7 +258,7 @@
 | ideal                        | Unclaimed | Incomplete Bioc dependencies: pcaExplorer.                                                                                                                                                                            |
 | illuminaio                   | Unclaimed |                                                                                                                                                                                                                       |
 | IMMAN                        | Unclaimed | Incomplete Bioc dependencies: STRINGdb.                                                                                                                                                                               |
-| ImmuneSpaceR                 | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                                                                                                                          |
+| ImmuneSpaceR                 | Unclaimed |                                                                                                                                                                                                                       |
 | INDEED                       | Unclaimed |                                                                                                                                                                                                                       |
 | iNETgrate                    | Unclaimed | Incomplete Bioc dependencies: BiocStyle, Pigengene, ReactomePA, illuminaio, minfi.                                                                                                                                    |
 | interacCircos                | Unclaimed |                                                                                                                                                                                                                       |
@@ -364,7 +363,7 @@
 | Omixer                       | Unclaimed |                                                                                                                                                                                                                       |
 | OmnipathR                    | Unclaimed |                                                                                                                                                                                                                       |
 | ontoProc                     | Unclaimed | Incomplete Bioc dependencies: BiocVersion.                                                                                                                                                                            |
-| openCyto                     | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                                                                                                                          |
+| openCyto                     | Unclaimed |                                                                                                                                                                                                                       |
 | OpenStats                    | Unclaimed |                                                                                                                                                                                                                       |
 | orthos                       | Unclaimed | Incomplete Bioc dependencies: BiocVersion, basilisk, basilisk.utils, dir.expiry.                                                                                                                                      |
 | OSAT                         | Unclaimed |                                                                                                                                                                                                                       |
@@ -379,7 +378,7 @@
 | pathwayPCA                   | Unclaimed |                                                                                                                                                                                                                       |
 | pcaExplorer                  | Unclaimed |                                                                                                                                                                                                                       |
 | PDATK                        | Unclaimed | Incomplete Bioc dependencies: switchBox.                                                                                                                                                                              |
-| PeacoQC                      | Unclaimed | Incomplete Bioc dependencies: flowWorkspace.                                                                                                                                                                          |
+| PeacoQC                      | Unclaimed |                                                                                                                                                                                                                       |
 | phemd                        | Unclaimed | Incomplete Bioc dependencies: monocle.                                                                                                                                                                                |
 | PhyloProfile                 | Unclaimed | Incomplete Bioc dependencies: BiocStyle, BiocVersion.                                                                                                                                                                 |
 | Pi                           | Unclaimed |                                                                                                                                                                                                                       |
@@ -548,7 +547,7 @@
 | yarn                         | Unclaimed | Incomplete Bioc dependencies: illuminaio, minfi, quantro.                                                                                                                                                             |
 | zellkonverter                | Unclaimed | Incomplete Bioc dependencies: basilisk, basilisk.utils, dir.expiry.                                                                                                                                                   |
 
-## Bioconductor Software Binaries Built (1664)
+## Bioconductor Software Binaries Built (1665)
 | Package                     | Status    | Tarball                                                                                                                                                                                                                                                          |
 |-----------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                          | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
@@ -1088,6 +1087,7 @@
 | flowTime                    | Succeeded | [flowTime_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/flowTime_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | flowTrans                   | Succeeded | [flowTrans_1.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/flowTrans_1.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | flowViz                     | Succeeded | [flowViz_1.66.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/flowViz_1.66.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
+| flowWorkspace               | Succeeded | [flowWorkspace_4.14.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/flowWorkspace_4.14.2_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | fmcsR                       | Succeeded | [fmcsR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/fmcsR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | fobitools                   | Succeeded | [fobitools_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/fobitools_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | frenchFISH                  | Succeeded | [frenchFISH_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/frenchFISH_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
@@ -2216,7 +2216,7 @@
 | zlibbioc                    | Succeeded | [zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/zlibbioc_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | ZygosityPredictor           | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                       |
 
-## Other Dependency Binaries (1664)
+## Other Dependency Binaries (1665)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | rebus.datetimes                             | Succeeded | [rebus.datetimes_0.0-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/rebus.datetimes_0.0-2_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
@@ -3422,6 +3422,7 @@
 | glm2                                        | Succeeded | [glm2_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/glm2_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | GenomicDistributionsData                    | Succeeded | [GenomicDistributionsData_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/GenomicDistributionsData_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | survivalsvm                                 | Succeeded | [survivalsvm_0.0.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/survivalsvm_0.0.5_R_x86_64-pc-linux-gnu.tar.gz)                                                                 |
+| flowWorkspace                               | Succeeded | [flowWorkspace_4.14.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/flowWorkspace_4.14.2_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | NCmisc                                      | Succeeded | [NCmisc_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/NCmisc_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | sqldf                                       | Succeeded | [sqldf_0.4-11_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/sqldf_0.4-11_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | outliers                                    | Succeeded | [outliers_0.15_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-11-05-35/binaries/src/contrib/outliers_0.15_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
