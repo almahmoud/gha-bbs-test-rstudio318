@@ -383,11 +383,7 @@
     "cytofQC": [
         "BiocStyle"
     ],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "debrowser": [
         "Harman"
     ],
@@ -499,14 +495,11 @@
         "minfi"
     ],
     "FitHiC": [],
-    "flagme": [],
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "flowGate": [],
-    "flowVS": [],
     "fmrs": [],
     "FRASER": [
         "Rsubread"
@@ -639,7 +632,6 @@
     "ipdDb": [
         "BiocVersion"
     ],
-    "IPO": [],
     "iSEEhub": [
         "BiocVersion"
     ],
@@ -655,7 +647,6 @@
     "KBoost": [],
     "LedPred": [],
     "lisaClust": [],
-    "LOBSTAHS": [],
     "LRcell": [
         "BiocVersion"
     ],
@@ -686,7 +677,6 @@
     "MAGeCKFlute": [
         "BiocVersion"
     ],
-    "MAIT": [],
     "MANOR": [
         "GLAD"
     ],
@@ -739,7 +729,6 @@
     ],
     "metaCCA": [],
     "metahdep": [],
-    "metaMS": [],
     "MetaPhOR": [],
     "MethReg": [
         "BiocVersion",
