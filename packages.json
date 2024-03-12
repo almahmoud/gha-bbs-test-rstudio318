@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "abseqR": [
         "BiocStyle"
     ],
@@ -11,8 +8,7 @@
     ],
     "ADaCGH2": [
         "GLAD",
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "adductomicsR": [
         "BiocVersion"
@@ -953,7 +949,6 @@
         "QDNAseq"
     ],
     "GeneGA": [],
-    "GeneMeta": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -1561,8 +1556,7 @@
     ],
     "OSAT": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [
         "sva"
@@ -1791,9 +1785,7 @@
         "illuminaio",
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -1827,7 +1819,6 @@
         "motifStack"
     ],
     "RImmPort": [],
-    "Ringo": [],
     "Risa": [
         "MsExperiment",
         "xcms"
@@ -2025,9 +2016,7 @@
         "consensusOV"
     ],
     "SIM": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
@@ -2059,8 +2048,7 @@
     "SMAD": [],
     "SMAP": [],
     "snapCGH": [
-        "GLAD",
-        "tilingArray"
+        "GLAD"
     ],
     "snifter": [
         "basilisk",
@@ -2086,7 +2074,6 @@
     ],
     "SpatialDecon": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2161,7 +2148,6 @@
         "AnVIL"
     ],
     "TFHAZ": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot",
@@ -2263,9 +2249,7 @@
     "xcms": [
         "MsExperiment"
     ],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
