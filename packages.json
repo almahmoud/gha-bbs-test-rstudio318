@@ -238,14 +238,11 @@
     "BufferedMatrixMethods": [
         "BufferedMatrix"
     ],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "GENIE3"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "calm": [],
     "canceR": [
         "AnVIL",
@@ -273,9 +270,7 @@
     ],
     "cellmigRation": [],
     "cellscape": [],
-    "CEMiTool": [],
     "ceRNAnetsim": [],
-    "CeTF": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -326,7 +321,6 @@
     ],
     "compEpiTools": [],
     "compSPOT": [],
-    "CONFESS": [],
     "consensus": [],
     "conumee": [
         "illuminaio",
@@ -394,7 +388,6 @@
     "customCMPdb": [
         "BiocVersion"
     ],
-    "cyanoFilter": [],
     "cytofQC": [
         "BiocStyle"
     ],
@@ -404,7 +397,6 @@
         "CytoPipeline"
     ],
     "dagLogo": [],
-    "DAPAR": [],
     "debrowser": [
         "Harman"
     ],
@@ -503,7 +495,6 @@
     "ExpressionAtlas": [
         "BiocStyle"
     ],
-    "extraChIPs": [],
     "factR": [
         "drawProteins"
     ],
@@ -542,7 +533,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "GDCRNATools": [],
     "gDNAx": [
         "BiocVersion"
     ],
@@ -616,7 +606,6 @@
     ],
     "Harman": [],
     "Herper": [],
-    "HiCDCPlus": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -835,7 +824,6 @@
     "Moonlight2R": [
         "BiocVersion"
     ],
-    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -893,7 +881,6 @@
         "BiocVersion",
         "EmpiricalBrownsMethod"
     ],
-    "ncGTW": [],
     "netboost": [
         "BiocStyle"
     ],
@@ -992,10 +979,7 @@
     "PROcess": [
         "Icens"
     ],
-    "pRolocGUI": [],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "psichomics": [
         "BiocVersion"
     ],
@@ -1111,8 +1095,6 @@
         "cellHTS2",
         "splots"
     ],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RNASeqPower": [],
     "RnBeads": [
         "illuminaio",
@@ -1371,7 +1353,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "YAPSA": [],
     "yarn": [
         "illuminaio",
         "minfi",
