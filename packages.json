@@ -305,7 +305,6 @@
     ],
     "calm": [],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -400,7 +399,6 @@
     "cisPath": [],
     "clevRvis": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "CluMSID": [],
@@ -449,7 +447,6 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "compSPOT": [],
     "CONFESS": [
         "flowClust",
@@ -475,7 +472,6 @@
         "BiocVersion"
     ],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "cosmosR": [
@@ -774,7 +770,6 @@
     "FitHiC": [],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [
@@ -1038,7 +1033,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEhub": [
@@ -1067,7 +1061,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "LRcell": [
@@ -1104,7 +1097,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MANOR": [
@@ -1162,8 +1154,7 @@
     ],
     "metabinR": [],
     "MetaboAnnotation": [
-        "BiocVersion",
-        "CompoundDb"
+        "BiocVersion"
     ],
     "MetaboSignal": [
         "BiocVersion",
@@ -1176,7 +1167,6 @@
     "metahdep": [],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [
@@ -1265,7 +1255,6 @@
         "sSeq"
     ],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "MODA": [
@@ -1303,7 +1292,6 @@
     "MsDataHub": [
         "BiocVersion"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1318,9 +1306,7 @@
         "msmsTests"
     ],
     "MSPrep": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstats": [
         "MSstatsConvert"
     ],
@@ -1378,7 +1364,6 @@
     "NanoMethViz": [],
     "ncdfFlow": [],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "nempi": [],
@@ -1683,7 +1668,6 @@
     ],
     "RImmPort": [],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RITAN": [
@@ -1871,7 +1855,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "simpleSeg": [],
     "singleCellTK": [
         "BiocVersion",
         "basilisk",
@@ -2075,9 +2058,7 @@
     "wppi": [
         "OmnipathR"
     ],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "XDE": [],
     "Xeva": [
         "CoreGx",
