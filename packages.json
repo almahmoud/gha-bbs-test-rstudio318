@@ -415,7 +415,6 @@
         "minfi"
     ],
     "CopyNumberPlots": [],
-    "CoreGx": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -485,7 +484,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
         "diffcyt"
@@ -740,12 +738,10 @@
         "BiocVersion"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRimport"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "GDSArray": [
@@ -1270,16 +1266,13 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
         "switchBox"
     ],
     "PeacoQC": [
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1351,9 +1344,7 @@
     ],
     "QUBIC": [],
     "R3CPET": [],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1540,7 +1531,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "Sconify": [],
     "scPipe": [
         "Rsubread",
         "basilisk",
@@ -1729,9 +1719,7 @@
     ],
     "TNBC.CMS": [],
     "TOP": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [],
     "TrajectoryGeometry": [],
     "transcriptR": [],
@@ -1771,7 +1759,6 @@
         "ballgown"
     ],
     "vbmp": [],
-    "VCFArray": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -1803,7 +1790,6 @@
     "xcms": [],
     "XDE": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XINA": [
