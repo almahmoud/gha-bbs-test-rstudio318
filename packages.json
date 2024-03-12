@@ -492,23 +492,20 @@
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "dagLogo": [
         "motifStack"
@@ -689,24 +686,19 @@
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMerge": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTrans": [],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "fmrs": [],
     "FRASER": [
         "Rsubread"
@@ -778,8 +770,7 @@
         "splots"
     ],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggmanh": [
         "SeqArray",
@@ -865,10 +856,8 @@
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "immunoClust": [],
     "INDEED": [],
     "iNETgrate": [
         "BiocStyle",
@@ -1164,7 +1153,6 @@
     "multiGSEA": [
         "BiocVersion"
     ],
-    "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
@@ -1172,7 +1160,6 @@
         "motifStack",
         "trackViewer"
     ],
-    "ncdfFlow": [],
     "ncGTW": [
         "xcms"
     ],
@@ -1218,8 +1205,7 @@
         "BiocVersion"
     ],
     "openCyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "OpenStats": [],
     "oppar": [],
@@ -1264,8 +1250,7 @@
         "switchBox"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "PharmacoGx": [],
     "phemd": [
@@ -1512,7 +1497,6 @@
     "scBFA": [],
     "scClassify": [],
     "scFeatures": [],
-    "scifer": [],
     "scMET": [
         "BiocStyle"
     ],
