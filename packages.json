@@ -18,7 +18,6 @@
         "affycoretools"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
         "BiocVersion"
     ],
     "alabaster": [
@@ -354,9 +353,7 @@
     ],
     "compEpiTools": [],
     "compSPOT": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensus": [],
     "consensusDE": [],
     "conumee": [
@@ -427,9 +424,7 @@
     "customCMPdb": [
         "BiocVersion"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -457,9 +452,7 @@
     "DAPAR": [
         "clusterProfiler"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "Harman",
         "clusterProfiler"
@@ -533,7 +526,6 @@
     "enrichTF": [
         "clusterProfiler"
     ],
-    "enrichViewNet": [],
     "EpiCompare": [
         "BiocVersion",
         "ChIPseeker"
@@ -569,7 +561,6 @@
         "BiocVersion"
     ],
     "ExperimentHubData": [
-        "AnnotationHubData",
         "BiocVersion"
     ],
     "ExpressionAtlas": [
@@ -601,16 +592,12 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
@@ -669,7 +656,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneStructureTools": [],
     "GeneticsPed": [],
     "geneXtendeR": [
         "BiocStyle"
@@ -911,9 +897,7 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "BiocVersion",
-        "ExperimentHubData",
         "illuminaio",
         "minfi"
     ],
@@ -990,11 +974,9 @@
         "BiocVersion"
     ],
     "msgbsR": [],
-    "msmsTests": [],
     "MSnID": [
         "BiocStyle",
-        "BiocVersion",
-        "msmsTests"
+        "BiocVersion"
     ],
     "MSstats": [
         "MSstatsConvert"
@@ -1167,7 +1149,6 @@
         "BiocVersion",
         "recount"
     ],
-    "Pviz": [],
     "pwOmics": [
         "BiocVersion",
         "STRINGdb"
@@ -1181,7 +1162,6 @@
         "Rbowtie"
     ],
     "QUBIC": [],
-    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1286,16 +1266,9 @@
         "cellHTS2",
         "splots"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "recount"
