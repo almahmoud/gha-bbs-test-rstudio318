@@ -582,7 +582,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -1301,7 +1300,6 @@
     "MQmetrics": [],
     "MsBackendMassbank": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsDataHub": [
         "BiocVersion"
     ],
@@ -1954,7 +1952,6 @@
     ],
     "STRINGdb": [],
     "svaNUMT": [],
-    "svaRetro": [],
     "SVMDO": [],
     "swfdr": [],
     "switchBox": [],
