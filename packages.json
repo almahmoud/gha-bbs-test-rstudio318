@@ -405,12 +405,10 @@
     "ClustIRR": [],
     "cmapR": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNVRanger": [
         "GDSArray",
@@ -454,9 +452,7 @@
         "illuminaio",
         "minfi"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "CoreGx": [],
     "coseq": [],
     "CoSIA": [
@@ -1030,7 +1026,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "karyoploteR": [],
     "KBoost": [],
     "kissDE": [
         "DSS"
@@ -1322,8 +1317,7 @@
         "ctc"
     ],
     "multicrispr": [
-        "Rbowtie",
-        "karyoploteR"
+        "Rbowtie"
     ],
     "multiGSEA": [
         "BiocVersion"
