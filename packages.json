@@ -274,7 +274,6 @@
     "cellmigRation": [],
     "cellscape": [],
     "CEMiTool": [],
-    "censcyt": [],
     "ceRNAnetsim": [],
     "CeTF": [],
     "cfTools": [
@@ -312,8 +311,6 @@
         "baySeq"
     ],
     "ClustIRR": [],
-    "CNVfilteR": [],
-    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -398,7 +395,6 @@
         "BiocVersion"
     ],
     "cyanoFilter": [],
-    "CyTOFpower": [],
     "cytofQC": [
         "BiocStyle"
     ],
@@ -452,7 +448,6 @@
         "annotatr"
     ],
     "drawProteins": [],
-    "dreamlet": [],
     "dupRadar": [
         "Rsubread"
     ],
@@ -528,7 +523,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "flowBin": [],
     "flowGate": [],
     "flowVS": [],
     "fmrs": [],
@@ -544,7 +538,6 @@
         "MLSeq",
         "sSeq"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -553,10 +546,7 @@
     "gDNAx": [
         "BiocVersion"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1325,7 +1315,6 @@
         "rWikiPathways"
     ],
     "TrajectoryGeometry": [],
-    "treekoR": [],
     "TSAR": [],
     "tximeta": [
         "BiocVersion",
@@ -1380,7 +1369,6 @@
     "wppi": [
         "OmnipathR"
     ],
-    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
