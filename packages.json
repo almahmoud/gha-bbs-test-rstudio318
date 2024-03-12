@@ -200,10 +200,7 @@
     ],
     "banocc": [],
     "BaseSpaceR": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -393,7 +390,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
@@ -1934,12 +1930,9 @@
         "zinbwave"
     ],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [],
     "scDblFinder": [],
-    "scDD": [],
     "scFeatures": [
         "AUCell",
         "SingleCellSignalR"
@@ -2189,7 +2182,6 @@
         "AnVIL"
     ],
     "TFHAZ": [],
-    "TFutils": [],
     "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
