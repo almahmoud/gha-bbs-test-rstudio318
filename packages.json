@@ -1213,7 +1213,6 @@
         "illuminaio"
     ],
     "MIRA": [],
-    "mirIntegrator": [],
     "miRLAB": [
         "GOstats",
         "ctc"
@@ -1336,7 +1335,6 @@
     "ncGTW": [
         "xcms"
     ],
-    "nempi": [],
     "netboost": [
         "BiocStyle"
     ],
@@ -1640,7 +1638,6 @@
     "RLSeq": [
         "BiocVersion"
     ],
-    "RMassBank": [],
     "Rmmquant": [
         "BiocStyle"
     ],
