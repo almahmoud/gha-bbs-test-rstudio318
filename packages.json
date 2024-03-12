@@ -514,7 +514,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowViz",
@@ -546,7 +545,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowViz"
@@ -671,7 +669,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -976,7 +973,6 @@
         "tximeta",
         "tximport"
     ],
-    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
