@@ -389,7 +389,6 @@
         "baySeq"
     ],
     "ClustIRR": [],
-    "cmapR": [],
     "CNVfilteR": [
         "CopyNumberPlots"
     ],
@@ -426,7 +425,6 @@
         "RUVSeq"
     ],
     "consensusOV": [],
-    "contiBAIT": [],
     "conumee": [
         "illuminaio",
         "minfi"
@@ -564,7 +562,6 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "DEGraph": [],
     "DelayedDataFrame": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -960,7 +957,6 @@
         "illuminaio",
         "minfi"
     ],
-    "infinityFlow": [],
     "intansv": [],
     "interacCircos": [],
     "interactiveDisplay": [],
@@ -1241,10 +1237,7 @@
         "MSstatsConvert",
         "MSstatsTMT"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstats",
         "MSstatsConvert",
