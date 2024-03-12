@@ -490,7 +490,6 @@
         "minfi"
     ],
     "epivizrStandalone": [],
-    "esATAC": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1004,7 +1003,6 @@
     "PROcess": [
         "Icens"
     ],
-    "profileplyr": [],
     "pRolocGUI": [],
     "Prostar": [
         "DAPAR"
@@ -1120,7 +1118,6 @@
     "Rmmquant": [
         "BiocStyle"
     ],
-    "RNAAgeCalc": [],
     "RNAinteract": [
         "cellHTS2",
         "splots"
@@ -1128,7 +1125,6 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RNASeqPower": [],
-    "RnaSeqSampleSize": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -1198,12 +1194,10 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "segmenter": [],
     "segmentSeq": [
         "baySeq"
     ],
     "semisup": [],
-    "seqArchRplus": [],
     "SeqArray": [
         "gdsfmt"
     ],
