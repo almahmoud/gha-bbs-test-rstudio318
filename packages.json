@@ -481,7 +481,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -496,14 +495,12 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
@@ -675,7 +672,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "flowAI": [],
     "flowBin": [
         "flowFP"
     ],
@@ -689,7 +685,6 @@
         "ggcyto"
     ],
     "flowMerge": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowWorkspace"
     ],
@@ -1395,7 +1390,6 @@
     "ReportingTools": [
         "GOstats"
     ],
-    "RESOLVE": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -1410,7 +1404,6 @@
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RiboCrypt": [],
     "RiboProfiling": [],
     "riboSeqR": [
         "baySeq"
