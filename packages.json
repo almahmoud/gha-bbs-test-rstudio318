@@ -379,7 +379,6 @@
     "cliqueMS": [
         "xcms"
     ],
-    "CluMSID": [],
     "clustComp": [],
     "clusterExperiment": [],
     "ClusterJudge": [],
@@ -1376,7 +1375,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [],
     "PharmacoGx": [
         "CoreGx"
     ],
