@@ -169,7 +169,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "BatchQC": [],
     "baySeq": [],
     "beadarray": [
         "BeadDataPackR",
@@ -234,7 +233,6 @@
     "BloodGen3Module": [
         "BiocVersion"
     ],
-    "bnem": [],
     "BOBaFIT": [],
     "borealis": [],
     "BPRMeth": [
@@ -264,9 +262,7 @@
         "GenomicInteractions"
     ],
     "calm": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "AnVIL",
         "cBioPortalData"
@@ -336,9 +332,7 @@
     ],
     "cisPath": [],
     "clevRvis": [],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "clustComp": [],
     "clusterExperiment": [],
     "ClusterJudge": [],
@@ -386,9 +380,7 @@
     "CoSIA": [
         "BiocVersion"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "cosmosR": [
         "CARNIVAL"
     ],
@@ -437,7 +429,6 @@
     "crlmm": [
         "illuminaio"
     ],
-    "crossmeta": [],
     "ctc": [],
     "CTdata": [
         "BiocVersion"
@@ -528,7 +519,6 @@
         "BiocVersion",
         "annotatr"
     ],
-    "doppelgangR": [],
     "drawProteins": [],
     "dreamlet": [
         "zenith"
@@ -544,7 +534,6 @@
     "EBSEA": [
         "EmpiricalBrownsMethod"
     ],
-    "edge": [],
     "ELMER": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
@@ -617,8 +606,7 @@
     ],
     "FitHiC": [],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [
         "basilisk",
@@ -758,7 +746,6 @@
         "gdsfmt"
     ],
     "Harman": [],
-    "HarmonizR": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions"
@@ -813,8 +800,7 @@
         "BiocVersion"
     ],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "iSEEhub": [
         "BiocVersion"
@@ -833,8 +819,7 @@
     "LedPred": [],
     "lisaClust": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LRcell": [
         "BiocVersion"
@@ -868,8 +853,7 @@
         "clusterProfiler"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MANOR": [
         "GLAD"
@@ -927,8 +911,7 @@
     "MetaCyto": [],
     "metahdep": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "clusterProfiler"
@@ -1001,9 +984,7 @@
     "MLSeq": [
         "sSeq"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MODA": [
         "AMOUNTAIN"
     ],
@@ -1084,9 +1065,7 @@
         "EmpiricalBrownsMethod",
         "trackViewer"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netboost": [
         "BiocStyle"
     ],
@@ -1139,7 +1118,6 @@
     ],
     "OSAT": [],
     "OutSplice": [],
-    "PAA": [],
     "pageRank": [],
     "pairedGSEA": [],
     "PanomiR": [
@@ -1317,9 +1295,7 @@
         "Rsubread"
     ],
     "RImmPort": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "STRINGdb"
     ],
@@ -1575,7 +1551,6 @@
     "treekoR": [
         "diffcyt"
     ],
-    "trigger": [],
     "TSAR": [],
     "TVTB": [],
     "tximeta": [
@@ -1632,7 +1607,6 @@
     "wppi": [
         "OmnipathR"
     ],
-    "xcms": [],
     "Xeva": [
         "PharmacoGx"
     ],
