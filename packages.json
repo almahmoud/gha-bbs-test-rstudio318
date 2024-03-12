@@ -96,7 +96,6 @@
     "alevinQC": [
         "tximport"
     ],
-    "AllelicImbalance": [],
     "AMARETTO": [
         "BiocVersion"
     ],
@@ -212,7 +211,6 @@
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
-    "biomvRCNS": [],
     "BioNERO": [
         "GENIE3"
     ],
@@ -324,12 +322,8 @@
         "baySeq"
     ],
     "ClustIRR": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -337,7 +331,6 @@
         "gdsfmt"
     ],
     "coGPS": [],
-    "comapr": [],
     "coMethDMR": [
         "BiocVersion"
     ],
@@ -353,7 +346,6 @@
         "illuminaio",
         "minfi"
     ],
-    "CopyNumberPlots": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -587,7 +579,6 @@
     "flowStats": [
         "flowWorkspace"
     ],
-    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace"
@@ -805,7 +796,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maser": [],
     "mastR": [
         "BiocVersion"
     ],
@@ -817,7 +807,6 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mCSEA": [],
     "mdp": [],
     "mdqc": [],
     "MEAL": [
@@ -944,7 +933,6 @@
     "MsDataHub": [
         "BiocVersion"
     ],
-    "msgbsR": [],
     "MSnID": [
         "BiocStyle",
         "BiocVersion"
@@ -1407,7 +1395,6 @@
     "SpliceWiz": [
         "BiocVersion"
     ],
-    "SPLINTER": [],
     "splots": [],
     "srnadiff": [
         "BiocStyle",
