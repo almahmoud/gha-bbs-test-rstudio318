@@ -3,9 +3,7 @@
     "abseqR": [
         "BiocStyle"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "GLAD",
         "snapCGH"
@@ -200,9 +198,7 @@
         "illuminaio"
     ],
     "BeadDataPackR": [],
-    "benchdamic": [
-        "zinbwave"
-    ],
+    "benchdamic": [],
     "BgeeCall": [
         "tximport"
     ],
@@ -253,7 +249,6 @@
     "BioNetStat": [],
     "biscuiteer": [
         "BiocVersion",
-        "QDNAseq",
         "annotatr",
         "dmrseq"
     ],
@@ -362,9 +357,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -412,9 +405,7 @@
     ],
     "CluMSID": [],
     "clustComp": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "enrichplot"
@@ -892,9 +883,7 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "GeneGA": [],
     "GENESIS": [
         "GWASTools",
@@ -1406,8 +1395,7 @@
         "BiocStyle"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "GOstats",
@@ -1559,7 +1547,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "protGear": [],
     "psichomics": [
         "BiocVersion",
         "derfinder",
@@ -1573,7 +1560,6 @@
         "BiocVersion",
         "STRINGdb"
     ],
-    "QDNAseq": [],
     "qPLEXanalyzer": [],
     "qsmooth": [],
     "qsvaR": [],
@@ -1783,9 +1769,7 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scClassify": [],
     "scDataviz": [],
     "scFeatures": [],
@@ -1896,8 +1880,7 @@
         "basilisk.utils",
         "dir.expiry",
         "tximport",
-        "zellkonverter",
-        "zinbwave"
+        "zellkonverter"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -2122,6 +2105,5 @@
     ],
     "zenith": [
         "EnrichmentBrowser"
-    ],
-    "zinbwave": []
+    ]
 }
