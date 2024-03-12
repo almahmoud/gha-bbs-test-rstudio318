@@ -442,7 +442,6 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DeMixT": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -830,7 +829,6 @@
         "CAMERA"
     ],
     "MetaPhOR": [],
-    "metaseqR2": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -962,8 +960,7 @@
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
-        "EmpiricalBrownsMethod",
-        "trackViewer"
+        "EmpiricalBrownsMethod"
     ],
     "ncGTW": [],
     "netboost": [
@@ -1415,8 +1412,6 @@
     "TimiRGeN": [
         "rWikiPathways"
     ],
-    "ToxicoGx": [],
-    "trackViewer": [],
     "TrajectoryGeometry": [],
     "treekoR": [],
     "TSAR": [],
