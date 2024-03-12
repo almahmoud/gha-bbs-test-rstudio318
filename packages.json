@@ -1924,7 +1924,6 @@
     "scDataviz": [],
     "scFeatures": [],
     "scifer": [],
-    "scMerge": [],
     "scMET": [
         "BiocStyle"
     ],
@@ -2040,7 +2039,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "scMerge",
         "sva",
         "tximport",
         "zellkonverter",
