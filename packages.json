@@ -1181,14 +1181,10 @@
         "BiocVersion"
     ],
     "msgbsR": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
         "BiocStyle",
         "BiocVersion",
-        "msmsEDA",
         "msmsTests"
     ],
     "MSPrep": [],
