@@ -70,26 +70,18 @@
     "AnnotationHub": [],
     "AnnotationHubData": [],
     "annotatr": [],
-    "AnVIL": [],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
-    "AnVILWorkflow": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
+    "AnVILWorkflow": [],
     "APAlyzer": [],
     "appreci8R": [],
     "arrayMvout": [
-        "illuminaio",
         "lumi",
         "mdqc",
         "methylumi",
         "minfi"
     ],
     "arrayQualityMetrics": [
-        "BeadDataPackR",
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "artMS": [
         "MSstats"
@@ -107,23 +99,17 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "beadarray": [
-        "BeadDataPackR",
-        "illuminaio"
-    ],
-    "BeadDataPackR": [],
+    "beadarray": [],
     "BgeeCall": [],
     "BHC": [],
     "bigmelon": [
         "gdsfmt",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
         "wateRmelon"
     ],
     "bioCancer": [
-        "AnVIL",
         "cBioPortalData"
     ],
     "BioCartaImage": [],
@@ -146,9 +132,7 @@
         "dmrseq"
     ],
     "blima": [
-        "BeadDataPackR",
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "BloodGen3Module": [],
     "BPRMeth": [],
@@ -159,18 +143,14 @@
         "BioNERO"
     ],
     "canceR": [
-        "AnVIL",
         "cBioPortalData"
     ],
     "CARNIVAL": [],
     "categoryCompare": [],
     "cbaf": [
-        "AnVIL",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "AnVIL"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [],
     "cbpManager": [
         "basilisk",
@@ -189,7 +169,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -208,7 +187,6 @@
     "cliqueMS": [],
     "ClusterJudge": [],
     "clusterSeq": [],
-    "ClustIRR": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -220,7 +198,6 @@
     "COMPASS": [],
     "consensus": [],
     "conumee": [
-        "illuminaio",
         "minfi"
     ],
     "CoSIA": [],
@@ -258,16 +235,13 @@
         "crisprScore",
         "dir.expiry"
     ],
-    "crlmm": [
-        "illuminaio"
-    ],
+    "crlmm": [],
     "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
     "cytofQC": [],
     "debrowser": [],
     "deconvR": [
-        "illuminaio",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -287,7 +261,6 @@
     "dir.expiry": [],
     "DiscoRhythm": [],
     "DMRcate": [
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -295,26 +268,21 @@
     "dmrseq": [
         "annotatr"
     ],
-    "drawProteins": [],
     "dupRadar": [],
     "easier": [],
     "EBSEA": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
     "ENmix": [
-        "illuminaio",
         "minfi"
     ],
     "enrichTF": [],
     "EpiCompare": [],
     "epigenomix": [
-        "BeadDataPackR",
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "EpiMix": [],
     "epimutacions": [
-        "illuminaio",
         "minfi"
     ],
     "epivizrStandalone": [],
@@ -324,14 +292,11 @@
     "ExperimentHub": [],
     "ExperimentHubData": [],
     "ExpressionAtlas": [],
-    "factR": [
-        "drawProteins"
-    ],
+    "factR": [],
     "famat": [
         "rWikiPathways"
     ],
     "ffpe": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -344,7 +309,6 @@
     "fmrs": [],
     "FRASER": [],
     "funtooNorm": [
-        "illuminaio",
         "minfi"
     ],
     "GARS": [
@@ -386,12 +350,10 @@
     "GIGSEA": [],
     "GLAD": [],
     "GNOSIS": [
-        "AnVIL",
         "cBioPortalData"
     ],
     "goSorensen": [],
     "GRaNIE": [],
-    "GRENITS": [],
     "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
@@ -418,7 +380,6 @@
     "HumanTranscriptomeCompendium": [],
     "hypeR": [],
     "iCheck": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -426,14 +387,12 @@
     "ideal": [
         "pcaExplorer"
     ],
-    "illuminaio": [],
     "IMMAN": [
         "STRINGdb"
     ],
     "INDEED": [],
     "iNETgrate": [
         "Pigengene",
-        "illuminaio",
         "minfi"
     ],
     "interacCircos": [],
@@ -449,7 +408,6 @@
     "lisaClust": [],
     "LRcell": [],
     "lumi": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -463,7 +421,6 @@
     "MAGAR": [
         "RnBeads",
         "crlmm",
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -482,14 +439,12 @@
     "mdp": [],
     "mdqc": [],
     "MEAL": [
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "MeasurementError.cor": [],
     "MEAT": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -507,51 +462,39 @@
     ],
     "metaCCA": [],
     "MethReg": [
-        "illuminaio",
         "sesame"
     ],
     "MethylAid": [
-        "illuminaio",
         "minfi"
     ],
     "methylCC": [
-        "illuminaio",
         "minfi"
     ],
     "methylclock": [
-        "illuminaio",
         "minfi"
     ],
     "methylGSA": [
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "methylumi": [
-        "illuminaio",
         "minfi"
     ],
     "MetNet": [],
     "MineICA": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "minfi": [
-        "illuminaio"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "illuminaio"
+        "crlmm"
     ],
     "miRLAB": [],
     "miRNApath": [],
-    "mirTarRnaSeq": [],
     "missMethyl": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -604,7 +547,6 @@
     "netresponse": [],
     "netZooR": [
         "STRINGdb",
-        "illuminaio",
         "minfi",
         "quantro",
         "yarn"
@@ -612,9 +554,7 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "normalize450K": [
-        "illuminaio"
-    ],
+    "normalize450K": [],
     "octad": [],
     "OGRE": [],
     "Omixer": [],
@@ -626,7 +566,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "OutSplice": [],
     "pareg": [
         "basilisk",
         "basilisk.utils",
@@ -663,7 +602,6 @@
         "STRINGdb"
     ],
     "quantro": [
-        "illuminaio",
         "minfi"
     ],
     "QuasR": [],
@@ -680,8 +618,6 @@
     "randRotation": [],
     "RAREsim": [],
     "RareVariantVis": [],
-    "Rarr": [],
-    "Rcollectl": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -693,12 +629,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "Rdisop": [],
-    "RDRToolbox": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "REBET": [
         "ASSET"
     ],
@@ -709,14 +640,12 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "illuminaio",
         "minfi"
     ],
     "regionReport": [],
     "regsplice": [],
     "regutools": [],
     "REMP": [
-        "illuminaio",
         "minfi"
     ],
     "restfulSE": [],
@@ -742,7 +671,6 @@
         "splots"
     ],
     "RnBeads": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -755,7 +683,6 @@
         "gdsfmt"
     ],
     "sangeranalyseR": [],
-    "SBMLR": [],
     "scanMiRApp": [],
     "scAnnotatR": [],
     "SCArray": [
@@ -800,15 +727,11 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sesame": [
-        "illuminaio"
-    ],
+    "sesame": [],
     "shinyepico": [
-        "illuminaio",
         "minfi"
     ],
     "shinyMethyl": [
-        "illuminaio",
         "minfi"
     ],
     "signatureSearch": [],
@@ -827,7 +750,6 @@
         "QuasR"
     ],
     "skewr": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -877,9 +799,7 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "AnVIL"
-    ],
+    "terraTCGAdata": [],
     "TimiRGeN": [
         "rWikiPathways"
     ],
@@ -890,8 +810,7 @@
         "monocle"
     ],
     "VanillaICE": [
-        "crlmm",
-        "illuminaio"
+        "crlmm"
     ],
     "VariantExperiment": [
         "DelayedDataFrame",
@@ -912,9 +831,7 @@
     "vtpnet": [
         "gwascat"
     ],
-    "vulcan": [],
     "wateRmelon": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -926,7 +843,6 @@
         "STRINGdb"
     ],
     "yarn": [
-        "illuminaio",
         "minfi",
         "quantro"
     ],
