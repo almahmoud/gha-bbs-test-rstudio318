@@ -132,7 +132,6 @@
     ],
     "canceR": [],
     "CARNIVAL": [],
-    "categoryCompare": [],
     "cbaf": [],
     "CBNplot": [],
     "cbpManager": [
@@ -248,14 +247,11 @@
     "easier": [],
     "EBSEA": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [],
     "ENmix": [],
-    "enrichTF": [],
     "EpiCompare": [],
     "epigenomix": [],
     "EpiMix": [],
     "epimutacions": [],
-    "epivizrStandalone": [],
     "EventPointer": [],
     "EWCE": [],
     "ExCluster": [],
@@ -314,7 +310,6 @@
     "GIGSEA": [],
     "GLAD": [],
     "GNOSIS": [],
-    "goSorensen": [],
     "GRaNIE": [],
     "GSEABenchmarkeR": [],
     "gsean": [
@@ -344,9 +339,7 @@
         "lumi",
         "methylumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -362,7 +355,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "lisaClust": [],
     "LRcell": [],
     "lumi": [
         "methylumi"
@@ -509,7 +501,6 @@
     "Path2PPI": [],
     "PathNet": [],
     "PathoStat": [],
-    "pcaExplorer": [],
     "PDATK": [],
     "phemd": [
         "monocle"
@@ -517,7 +508,6 @@
     "PhyloProfile": [],
     "Pi": [],
     "pickgene": [],
-    "PloGO2": [],
     "plotGrouper": [],
     "pogos": [
         "ontoProc"
@@ -631,7 +621,6 @@
         "meshr"
     ],
     "scTGIF": [],
-    "scTreeViz": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
@@ -704,7 +693,6 @@
     ],
     "STRINGdb": [],
     "swfdr": [],
-    "TBSignatureProfiler": [],
     "TCC": [],
     "TDbasedUFE": [],
     "TDbasedUFEadv": [
