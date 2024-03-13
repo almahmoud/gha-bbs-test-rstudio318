@@ -4,12 +4,8 @@
         "GLAD",
         "snapCGH"
     ],
-    "adductomicsR": [
-        "BiocVersion"
-    ],
-    "AHMassBank": [
-        "BiocVersion"
-    ],
+    "adductomicsR": [],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -17,88 +13,66 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [
-        "alabaster.schemas"
-    ],
+    "alabaster.base": [],
     "alabaster.bumpy": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.files": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.mae": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se"
     ],
     "alabaster.matrix": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.ranges": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.sce": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se"
     ],
-    "alabaster.schemas": [],
     "alabaster.se": [
         "alabaster.base",
         "alabaster.matrix",
-        "alabaster.ranges",
-        "alabaster.schemas"
+        "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se"
     ],
     "alabaster.string": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.vcf": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.string"
     ],
     "alevinQC": [
         "tximport"
     ],
-    "AMARETTO": [
-        "BiocVersion"
-    ],
+    "AMARETTO": [],
     "AMOUNTAIN": [],
-    "AnnotationHub": [
-        "BiocVersion"
-    ],
-    "AnnotationHubData": [
-        "BiocVersion"
-    ],
-    "annotatr": [
-        "BiocVersion"
-    ],
+    "AnnotationHub": [],
+    "AnnotationHubData": [],
+    "annotatr": [],
     "AnVIL": [],
     "AnVILPublish": [
         "AnVIL"
@@ -107,9 +81,7 @@
         "AnVIL"
     ],
     "APAlyzer": [],
-    "appreci8R": [
-        "BiocVersion"
-    ],
+    "appreci8R": [],
     "arrayMvout": [
         "illuminaio",
         "lumi",
@@ -123,20 +95,14 @@
         "illuminaio"
     ],
     "artMS": [
-        "MSstats",
-        "MSstatsConvert"
+        "MSstats"
     ],
     "ASAFE": [],
     "ASpli": [],
     "ASSET": [],
-    "ATACseqQC": [
-        "BiocVersion"
-    ],
-    "atena": [
-        "BiocVersion"
-    ],
+    "ATACseqQC": [],
+    "atena": [],
     "bandle": [],
-    "banocc": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -172,24 +138,16 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocHubsShiny": [
-        "BiocVersion"
-    ],
-    "BiocOncoTK": [
-        "BiocVersion"
-    ],
+    "BiocHubsShiny": [],
+    "BiocOncoTK": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocVersion": [],
     "BiocWorkflowTools": [],
-    "BioNERO": [
-        "GENIE3"
-    ],
+    "BioNERO": [],
     "biscuiteer": [
-        "BiocVersion",
         "annotatr",
         "dmrseq"
     ],
@@ -198,18 +156,13 @@
         "beadarray",
         "illuminaio"
     ],
-    "BloodGen3Module": [
-        "BiocVersion"
-    ],
+    "BloodGen3Module": [],
     "BPRMeth": [],
-    "brainflowprobes": [
-        "BiocVersion"
-    ],
+    "brainflowprobes": [],
     "BubbleTree": [],
     "BufferedMatrixMethods": [],
     "cageminer": [
-        "BioNERO",
-        "GENIE3"
+        "BioNERO"
     ],
     "canceR": [
         "AnVIL",
@@ -224,9 +177,7 @@
     "cBioPortalData": [
         "AnVIL"
     ],
-    "CBNplot": [
-        "BiocVersion"
-    ],
+    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -238,13 +189,11 @@
     "cellmigRation": [],
     "ceRNAnetsim": [],
     "cfTools": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
     "ChAMP": [
-        "BiocVersion",
         "DMRcate",
         "illuminaio",
         "lumi",
@@ -258,13 +207,11 @@
         "monocle"
     ],
     "circRNAprofiler": [
-        "BiocVersion",
         "gwascat"
     ],
     "cisPath": [],
     "clevRvis": [],
     "cliqueMS": [],
-    "clustComp": [],
     "ClusterJudge": [],
     "clusterSeq": [
         "baySeq"
@@ -277,20 +224,15 @@
         "gdsfmt"
     ],
     "coGPS": [],
-    "coMethDMR": [
-        "BiocVersion"
-    ],
+    "coMethDMR": [],
     "COMPASS": [],
     "compEpiTools": [],
-    "compSPOT": [],
     "consensus": [],
     "conumee": [
         "illuminaio",
         "minfi"
     ],
-    "CoSIA": [
-        "BiocVersion"
-    ],
+    "CoSIA": [],
     "cosmosR": [
         "CARNIVAL"
     ],
@@ -301,7 +243,6 @@
         "Rbwa"
     ],
     "crisprDesign": [
-        "BiocVersion",
         "Rbowtie",
         "basilisk",
         "basilisk.utils",
@@ -310,13 +251,11 @@
         "dir.expiry"
     ],
     "crisprScore": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
     "crisprVerse": [
-        "BiocVersion",
         "Rbowtie",
         "basilisk",
         "basilisk.utils",
@@ -327,7 +266,6 @@
         "dir.expiry"
     ],
     "crisprViz": [
-        "BiocVersion",
         "Rbowtie",
         "basilisk",
         "basilisk.utils",
@@ -339,16 +277,9 @@
     "crlmm": [
         "illuminaio"
     ],
-    "ctc": [],
-    "CTdata": [
-        "BiocVersion"
-    ],
-    "cTRAP": [
-        "BiocVersion"
-    ],
-    "customCMPdb": [
-        "BiocVersion"
-    ],
+    "CTdata": [],
+    "cTRAP": [],
+    "customCMPdb": [],
     "cytofQC": [],
     "debrowser": [],
     "deconvR": [
@@ -375,44 +306,35 @@
     "dir.expiry": [],
     "DiscoRhythm": [],
     "DMRcate": [
-        "BiocVersion",
         "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "BiocVersion",
         "annotatr"
     ],
     "drawProteins": [],
     "dupRadar": [],
     "easier": [
-        "BiocVersion",
         "quantiseqr"
     ],
     "EBSEA": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
     "ENmix": [
-        "BiocVersion",
         "illuminaio",
         "minfi"
     ],
     "enrichTF": [],
-    "EpiCompare": [
-        "BiocVersion"
-    ],
+    "EpiCompare": [],
     "epigenomix": [
         "BeadDataPackR",
         "beadarray",
         "illuminaio"
     ],
-    "EpiMix": [
-        "BiocVersion"
-    ],
+    "EpiMix": [],
     "epimutacions": [
-        "BiocVersion",
         "illuminaio",
         "minfi"
     ],
@@ -420,16 +342,10 @@
     "EventPointer": [
         "tximport"
     ],
-    "EWCE": [
-        "BiocVersion"
-    ],
+    "EWCE": [],
     "ExCluster": [],
-    "ExperimentHub": [
-        "BiocVersion"
-    ],
-    "ExperimentHubData": [
-        "BiocVersion"
-    ],
+    "ExperimentHub": [],
+    "ExperimentHubData": [],
     "ExpressionAtlas": [],
     "factR": [
         "drawProteins"
@@ -461,9 +377,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "gDNAx": [
-        "BiocVersion"
-    ],
+    "gDNAx": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -481,11 +395,8 @@
     ],
     "GeneticsPed": [],
     "geneXtendeR": [],
-    "GENIE3": [],
     "genoCN": [],
-    "GenomicScores": [
-        "BiocVersion"
-    ],
+    "GenomicScores": [],
     "GEOfastq": [],
     "gespeR": [
         "cellHTS2",
@@ -504,20 +415,14 @@
     ],
     "goSorensen": [],
     "gpuMagic": [],
-    "GRaNIE": [
-        "BiocVersion"
-    ],
+    "GRaNIE": [],
     "GRENITS": [],
-    "GSEABenchmarkeR": [
-        "BiocVersion"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
     ],
-    "gwascat": [
-        "BiocVersion"
-    ],
+    "gwascat": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -532,16 +437,11 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hipathia": [
-        "BiocVersion"
-    ],
-    "hpar": [
-        "BiocVersion"
-    ],
+    "hipathia": [],
+    "hpar": [],
     "HPiP": [],
     "HumanTranscriptomeCompendium": [],
     "hypeR": [],
-    "Icens": [],
     "iCheck": [
         "illuminaio",
         "lumi",
@@ -562,14 +462,9 @@
         "minfi"
     ],
     "interacCircos": [],
-    "ipdDb": [
-        "BiocVersion"
-    ],
-    "iSEEhub": [
-        "BiocVersion"
-    ],
+    "ipdDb": [],
+    "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
-        "BiocVersion",
         "tximeta",
         "tximport"
     ],
@@ -578,21 +473,16 @@
     ],
     "iterativeBMAsurv": [],
     "lisaClust": [],
-    "LRcell": [
-        "BiocVersion"
-    ],
+    "LRcell": [],
     "lumi": [
         "illuminaio",
         "methylumi",
         "minfi"
     ],
-    "m6Aboost": [
-        "BiocVersion"
-    ],
+    "m6Aboost": [],
     "maCorrPlot": [],
     "MACSQuantifyR": [],
     "MACSr": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -604,19 +494,13 @@
         "methylumi",
         "minfi"
     ],
-    "MAGeCKFlute": [
-        "BiocVersion"
-    ],
+    "MAGeCKFlute": [],
     "MANOR": [
         "GLAD"
     ],
     "MantelCorr": [],
-    "mastR": [
-        "BiocVersion"
-    ],
-    "MatrixQCvis": [
-        "BiocVersion"
-    ],
+    "mastR": [],
+    "MatrixQCvis": [],
     "MBAmethyl": [],
     "mBPCR": [
         "GWASTools",
@@ -641,21 +525,15 @@
     "Melissa": [
         "BPRMeth"
     ],
-    "meshes": [
-        "BiocVersion"
-    ],
+    "meshes": [],
     "meshr": [],
     "metabinR": [],
-    "MetaboAnnotation": [
-        "BiocVersion"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
-        "BiocVersion",
         "hpar"
     ],
     "metaCCA": [],
     "MethReg": [
-        "BiocVersion",
         "illuminaio",
         "sesame"
     ],
@@ -668,7 +546,6 @@
         "minfi"
     ],
     "methylclock": [
-        "BiocVersion",
         "illuminaio",
         "minfi"
     ],
@@ -682,9 +559,7 @@
         "illuminaio",
         "minfi"
     ],
-    "MetNet": [
-        "GENIE3"
-    ],
+    "MetNet": [],
     "MineICA": [
         "illuminaio",
         "lumi",
@@ -699,9 +574,7 @@
         "crlmm",
         "illuminaio"
     ],
-    "miRLAB": [
-        "ctc"
-    ],
+    "miRLAB": [],
     "miRNApath": [],
     "mirTarRnaSeq": [],
     "missMethyl": [
@@ -719,60 +592,41 @@
         "dir.expiry"
     ],
     "monocle": [],
-    "Moonlight2R": [
-        "BiocVersion"
-    ],
+    "Moonlight2R": [],
     "mosbi": [
         "QUBIC"
     ],
-    "MsDataHub": [
-        "BiocVersion"
-    ],
-    "MSnID": [
-        "BiocVersion"
-    ],
-    "MSstats": [
-        "MSstatsConvert"
-    ],
+    "MsDataHub": [],
+    "MSnID": [],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "MSstatsConvert"
+        "MSstats"
     ],
-    "MSstatsConvert": [],
     "MSstatsLiP": [
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsConvert",
         "MSstatsTMT"
     ],
     "MSstatsShiny": [
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "MSstatsConvert"
+        "MSstats"
     ],
     "Mulcom": [],
-    "multiClust": [
-        "ctc"
-    ],
+    "multiClust": [],
     "multicrispr": [
         "Rbowtie"
     ],
-    "multiGSEA": [
-        "BiocVersion"
-    ],
+    "multiGSEA": [],
     "NADfinder": [
-        "ATACseqQC",
-        "BiocVersion"
+        "ATACseqQC"
     ],
     "netboost": [],
     "netOmics": [
@@ -780,7 +634,6 @@
     ],
     "NetPathMiner": [],
     "netresponse": [],
-    "netSmooth": [],
     "netZooR": [
         "STRINGdb",
         "illuminaio",
@@ -794,20 +647,13 @@
     "normalize450K": [
         "illuminaio"
     ],
-    "octad": [
-        "BiocVersion"
-    ],
-    "OGRE": [
-        "BiocVersion"
-    ],
+    "octad": [],
+    "OGRE": [],
     "Omixer": [],
     "OmnipathR": [],
-    "ontoProc": [
-        "BiocVersion"
-    ],
+    "ontoProc": [],
     "OpenStats": [],
     "orthos": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -818,28 +664,22 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "partCNV": [
-        "BiocVersion"
-    ],
+    "partCNV": [],
     "Path2PPI": [],
     "PathNet": [],
     "PathoStat": [],
-    "pathwayPCA": [],
     "pcaExplorer": [],
     "PDATK": [],
     "phemd": [
         "monocle"
     ],
-    "PhyloProfile": [
-        "BiocVersion"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "pickgene": [],
     "Pigengene": [],
     "PloGO2": [],
     "plotGrouper": [],
     "pogos": [
-        "BiocVersion",
         "ontoProc"
     ],
     "PPInfer": [
@@ -848,17 +688,10 @@
     "prebs": [
         "RPA"
     ],
-    "primirTSS": [
-        "BiocVersion"
-    ],
-    "PROcess": [
-        "Icens"
-    ],
-    "psichomics": [
-        "BiocVersion"
-    ],
+    "primirTSS": [],
+    "PROcess": [],
+    "psichomics": [],
     "pwOmics": [
-        "BiocVersion",
         "STRINGdb"
     ],
     "quantiseqr": [],
@@ -881,9 +714,7 @@
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RAREsim": [],
-    "RareVariantVis": [
-        "BiocVersion"
-    ],
+    "RareVariantVis": [],
     "Rarr": [],
     "Rbowtie": [],
     "Rbwa": [],
@@ -920,17 +751,12 @@
     ],
     "regionReport": [],
     "regsplice": [],
-    "regutools": [
-        "BiocVersion"
-    ],
+    "regutools": [],
     "REMP": [
-        "BiocVersion",
         "illuminaio",
         "minfi"
     ],
-    "restfulSE": [
-        "BiocVersion"
-    ],
+    "restfulSE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -939,9 +765,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "rGenomeTracks": [
-        "BiocVersion"
-    ],
+    "rGenomeTracks": [],
     "riboSeqR": [
         "baySeq"
     ],
@@ -950,9 +774,7 @@
         "STRINGdb"
     ],
     "RLassoCox": [],
-    "RLSeq": [
-        "BiocVersion"
-    ],
+    "RLSeq": [],
     "Rmmquant": [],
     "RNAinteract": [
         "cellHTS2",
@@ -973,14 +795,9 @@
         "gdsfmt"
     ],
     "sangeranalyseR": [],
-    "SANTA": [],
     "SBMLR": [],
-    "scanMiRApp": [
-        "BiocVersion"
-    ],
-    "scAnnotatR": [
-        "BiocVersion"
-    ],
+    "scanMiRApp": [],
+    "scAnnotatR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -990,7 +807,6 @@
     ],
     "scMET": [],
     "scmeth": [
-        "BiocVersion",
         "annotatr"
     ],
     "scPipe": [
@@ -1000,7 +816,6 @@
     ],
     "scruff": [],
     "scTensor": [
-        "BiocVersion",
         "meshr"
     ],
     "scTGIF": [],
@@ -1021,7 +836,6 @@
         "GLAD"
     ],
     "SeqSQC": [
-        "BiocVersion",
         "SNPRelate",
         "gdsfmt"
     ],
@@ -1030,7 +844,6 @@
         "gdsfmt"
     ],
     "sesame": [
-        "BiocVersion",
         "illuminaio"
     ],
     "shinyepico": [
@@ -1041,16 +854,13 @@
         "illuminaio",
         "minfi"
     ],
-    "signatureSearch": [
-        "BiocVersion"
-    ],
+    "signatureSearch": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
     "singleCellTK": [
-        "BiocVersion",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1061,7 +871,6 @@
         "QuasR",
         "Rbowtie"
     ],
-    "sizepower": [],
     "skewr": [
         "illuminaio",
         "lumi",
@@ -1082,7 +891,6 @@
         "gdsfmt"
     ],
     "SOMNiBUS": [
-        "BiocVersion",
         "annotatr"
     ],
     "spatialDE": [
@@ -1093,9 +901,7 @@
     "specL": [],
     "spikeLI": [],
     "spkTools": [],
-    "SpliceWiz": [
-        "BiocVersion"
-    ],
+    "SpliceWiz": [],
     "splots": [],
     "srnadiff": [
         "baySeq"
@@ -1120,7 +926,6 @@
         "tximport"
     ],
     "tenXplore": [
-        "BiocVersion",
         "ontoProc",
         "restfulSE"
     ],
@@ -1130,16 +935,12 @@
     "TimiRGeN": [
         "rWikiPathways"
     ],
-    "TrajectoryGeometry": [],
     "TSAR": [],
     "tximeta": [
-        "BiocVersion",
         "tximport"
     ],
     "tximport": [],
-    "Ularcirc": [
-        "BiocVersion"
-    ],
+    "Ularcirc": [],
     "uSORT": [
         "monocle"
     ],
@@ -1154,10 +955,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [
-        "BiocVersion"
-    ],
-    "vbmp": [],
+    "VariantFiltering": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -1166,11 +964,8 @@
     ],
     "veloviz": [],
     "VennDetail": [],
-    "vissE": [
-        "BiocVersion"
-    ],
+    "vissE": [],
     "vtpnet": [
-        "BiocVersion",
         "gwascat"
     ],
     "vulcan": [],
