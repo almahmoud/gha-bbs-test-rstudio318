@@ -49,7 +49,6 @@
     ],
     "AMARETTO": [],
     "annotatr": [],
-    "APAlyzer": [],
     "appreci8R": [],
     "arrayMvout": [
         "lumi",
@@ -126,9 +125,7 @@
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "cisPath": [],
     "clevRvis": [],
     "cliqueMS": [],
@@ -141,7 +138,6 @@
         "gdsfmt"
     ],
     "coGPS": [],
-    "coMethDMR": [],
     "consensus": [],
     "conumee": [],
     "cosmosR": [
@@ -174,7 +170,6 @@
         "crisprScore",
         "dir.expiry"
     ],
-    "cTRAP": [],
     "cytofQC": [],
     "debrowser": [],
     "deconvR": [],
@@ -256,12 +251,10 @@
     "GIGSEA": [],
     "GLAD": [],
     "GNOSIS": [],
-    "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
     ],
-    "gwascat": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -313,7 +306,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "MatrixQCvis": [],
     "MBAmethyl": [],
     "mBPCR": [
         "GWASTools",
@@ -345,7 +337,6 @@
         "missMethyl"
     ],
     "methylumi": [],
-    "MetNet": [],
     "MineICA": [
         "lumi",
         "methylumi"
@@ -430,8 +421,6 @@
     "prebs": [
         "RPA"
     ],
-    "primirTSS": [],
-    "PROcess": [],
     "pwOmics": [
         "STRINGdb"
     ],
@@ -483,8 +472,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "rGenomeTracks": [],
-    "riboSeqR": [],
     "RITAN": [
         "STRINGdb"
     ],
@@ -507,7 +494,6 @@
         "gdsfmt"
     ],
     "sangeranalyseR": [],
-    "scanMiRApp": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -625,9 +611,7 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
