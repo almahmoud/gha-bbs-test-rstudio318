@@ -4,17 +4,9 @@
         "snapCGH"
     ],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
-    "alabaster.vcf": [],
+    "alabaster.spatial": [],
     "arrayMvout": [
         "mdqc"
     ],
@@ -29,8 +21,7 @@
     ],
     "BHC": [],
     "bigmelon": [
-        "gdsfmt",
-        "wateRmelon"
+        "gdsfmt"
     ],
     "BioCartaImage": [],
     "BiocHail": [
@@ -61,10 +52,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
@@ -122,12 +110,10 @@
     ],
     "diffuStats": [],
     "dir.expiry": [],
-    "DMRcate": [],
     "EnhancedVolcano": [],
     "famat": [
         "rWikiPathways"
     ],
-    "ffpe": [],
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
@@ -185,7 +171,6 @@
         "dir.expiry"
     ],
     "HPiP": [],
-    "iCheck": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -201,7 +186,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MAGAR": [],
     "MANOR": [
         "GLAD"
     ],
@@ -213,15 +197,10 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MEAL": [],
     "MeasurementError.cor": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "metabinR": [],
     "metaCCA": [],
-    "methylGSA": [],
-    "MineICA": [],
     "miRNApath": [],
     "MOFA2": [
         "basilisk",
@@ -370,9 +349,7 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -425,7 +402,6 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "wateRmelon": [],
     "wppi": [
         "OmnipathR"
     ],
