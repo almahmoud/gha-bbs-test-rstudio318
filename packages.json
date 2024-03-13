@@ -6,8 +6,6 @@
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
@@ -17,40 +15,25 @@
     "alabaster.bumpy": [],
     "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix",
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
     ],
     "arrayMvout": [
         "lumi",
-        "mdqc",
-        "methylumi"
+        "mdqc"
     ],
-    "arrayQualityMetrics": [],
     "ASAFE": [],
     "ASSET": [],
     "basilisk": [
@@ -64,7 +47,6 @@
     "bigmelon": [
         "gdsfmt",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BioCartaImage": [],
@@ -80,10 +62,8 @@
         "dir.expiry"
     ],
     "biscuiteer": [],
-    "blima": [],
     "canceR": [],
     "CARNIVAL": [],
-    "cbaf": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -102,7 +82,6 @@
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -121,7 +100,6 @@
     ],
     "coGPS": [],
     "consensus": [],
-    "conumee": [],
     "cosmosR": [
         "CARNIVAL"
     ],
@@ -166,7 +144,6 @@
     "diffuStats": [],
     "dir.expiry": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "EnhancedVolcano": [],
@@ -177,8 +154,7 @@
         "rWikiPathways"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FLAMES": [
         "basilisk",
@@ -186,7 +162,6 @@
         "dir.expiry"
     ],
     "fmrs": [],
-    "funtooNorm": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -240,23 +215,19 @@
     ],
     "HPiP": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [],
     "IMMAN": [
         "STRINGdb"
     ],
     "INDEED": [],
-    "iNETgrate": [],
     "interacCircos": [],
     "ITALICS": [
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
@@ -264,8 +235,7 @@
         "dir.expiry"
     ],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MANOR": [
         "GLAD"
@@ -279,38 +249,27 @@
     "mdp": [],
     "mdqc": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MeasurementError.cor": [],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
-    "Melissa": [],
     "metabinR": [],
     "metaCCA": [],
-    "MethReg": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
-    "methylumi": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miRNApath": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "MOFA2": [
         "basilisk",
         "basilisk.utils",
@@ -398,7 +357,6 @@
         "dir.expiry"
     ],
     "regsplice": [],
-    "REMP": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -416,9 +374,7 @@
         "cellHTS2",
         "splots"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "RRHO": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -437,7 +393,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scTensor": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
@@ -457,7 +412,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "shinyepico": [],
     "shinyMethyl": [],
     "SimBu": [
         "basilisk",
@@ -472,7 +426,6 @@
     ],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SMAP": [],
@@ -513,7 +466,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
@@ -529,8 +481,7 @@
     ],
     "veloviz": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "wppi": [
         "OmnipathR"
