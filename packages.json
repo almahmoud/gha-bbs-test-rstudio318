@@ -47,7 +47,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "alevinQC": [],
     "AMARETTO": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -91,13 +90,11 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocWorkflowTools": [],
     "biscuiteer": [
         "annotatr",
         "dmrseq"
     ],
     "blima": [],
-    "BloodGen3Module": [],
     "brainflowprobes": [],
     "BubbleTree": [],
     "cageminer": [],
@@ -152,12 +149,10 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
-        "crisprBowtie",
         "crisprScore",
         "dir.expiry"
     ],
@@ -169,7 +164,6 @@
     "crisprVerse": [
         "basilisk",
         "basilisk.utils",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz",
@@ -178,7 +172,6 @@
     "crisprViz": [
         "basilisk",
         "basilisk.utils",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "dir.expiry"
@@ -199,7 +192,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "DifferentialRegulation": [],
     "diffuStats": [],
     "diffUTR": [],
     "dir.expiry": [],
@@ -216,7 +208,6 @@
     "ENmix": [],
     "EpiCompare": [],
     "epigenomix": [],
-    "EpiMix": [],
     "epimutacions": [],
     "EventPointer": [],
     "ExCluster": [],
@@ -271,7 +262,6 @@
     "GIGSEA": [],
     "GLAD": [],
     "GNOSIS": [],
-    "GRaNIE": [],
     "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
@@ -292,7 +282,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hpar": [],
     "HPiP": [],
     "iCheck": [
         "lumi",
@@ -355,9 +344,7 @@
     "meshes": [],
     "metabinR": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [
-        "hpar"
-    ],
+    "MetaboSignal": [],
     "metaCCA": [],
     "MethReg": [],
     "MethylAid": [],
@@ -376,7 +363,6 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "miRLAB": [],
     "miRNApath": [],
     "missMethyl": [
         "methylumi"
@@ -388,7 +374,6 @@
         "dir.expiry"
     ],
     "monocle": [],
-    "Moonlight2R": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -408,7 +393,6 @@
     "MSstatsTMT": [],
     "multiClust": [],
     "multicrispr": [],
-    "multiGSEA": [],
     "NADfinder": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -460,7 +444,6 @@
     ],
     "primirTSS": [],
     "PROcess": [],
-    "psichomics": [],
     "pwOmics": [
         "STRINGdb"
     ],
@@ -514,7 +497,6 @@
     ],
     "rGenomeTracks": [],
     "riboSeqR": [],
-    "ribosomeProfilingQC": [],
     "RITAN": [
         "STRINGdb"
     ],
@@ -546,7 +528,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scMET": [],
     "scmeth": [
         "annotatr"
     ],
@@ -556,7 +537,6 @@
         "dir.expiry"
     ],
     "scTensor": [],
-    "scTGIF": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
