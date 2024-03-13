@@ -65,11 +65,8 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "alevinQC": [
-        "tximport"
-    ],
+    "alevinQC": [],
     "AMARETTO": [],
-    "AMOUNTAIN": [],
     "AnnotationHub": [],
     "AnnotationHubData": [],
     "annotatr": [],
@@ -110,15 +107,12 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "baySeq": [],
     "beadarray": [
         "BeadDataPackR",
         "illuminaio"
     ],
     "BeadDataPackR": [],
-    "BgeeCall": [
-        "tximport"
-    ],
+    "BgeeCall": [],
     "BHC": [],
     "bigmelon": [
         "gdsfmt",
@@ -213,9 +207,7 @@
     "clevRvis": [],
     "cliqueMS": [],
     "ClusterJudge": [],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "ClustIRR": [],
     "CNVRanger": [
         "GDSArray",
@@ -226,7 +218,6 @@
     "coGPS": [],
     "coMethDMR": [],
     "COMPASS": [],
-    "compEpiTools": [],
     "consensus": [],
     "conumee": [
         "illuminaio",
@@ -236,14 +227,9 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "crisprBowtie": [
-        "Rbowtie"
-    ],
-    "crisprBwa": [
-        "Rbwa"
-    ],
+    "crisprBowtie": [],
+    "crisprBwa": [],
     "crisprDesign": [
-        "Rbowtie",
         "basilisk",
         "basilisk.utils",
         "crisprBowtie",
@@ -256,7 +242,6 @@
         "dir.expiry"
     ],
     "crisprVerse": [
-        "Rbowtie",
         "basilisk",
         "basilisk.utils",
         "crisprBowtie",
@@ -266,7 +251,6 @@
         "dir.expiry"
     ],
     "crisprViz": [
-        "Rbowtie",
         "basilisk",
         "basilisk.utils",
         "crisprBowtie",
@@ -297,12 +281,9 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "DifferentialRegulation": [
-        "tximport"
-    ],
+    "DifferentialRegulation": [],
     "diffuStats": [],
     "diffUTR": [],
-    "diggit": [],
     "dir.expiry": [],
     "DiscoRhythm": [],
     "DMRcate": [
@@ -316,9 +297,7 @@
     ],
     "drawProteins": [],
     "dupRadar": [],
-    "easier": [
-        "quantiseqr"
-    ],
+    "easier": [],
     "EBSEA": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
@@ -339,9 +318,7 @@
         "minfi"
     ],
     "epivizrStandalone": [],
-    "EventPointer": [
-        "tximport"
-    ],
+    "EventPointer": [],
     "EWCE": [],
     "ExCluster": [],
     "ExperimentHub": [],
@@ -397,7 +374,6 @@
     "geneXtendeR": [],
     "genoCN": [],
     "GenomicScores": [],
-    "GEOfastq": [],
     "gespeR": [
         "cellHTS2",
         "splots"
@@ -414,7 +390,6 @@
         "cBioPortalData"
     ],
     "goSorensen": [],
-    "gpuMagic": [],
     "GRaNIE": [],
     "GRENITS": [],
     "GSEABenchmarkeR": [],
@@ -465,8 +440,7 @@
     "ipdDb": [],
     "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
-        "tximeta",
-        "tximport"
+        "tximeta"
     ],
     "ITALICS": [
         "GLAD"
@@ -480,7 +454,6 @@
         "minfi"
     ],
     "m6Aboost": [],
-    "maCorrPlot": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
@@ -583,9 +556,7 @@
         "minfi"
     ],
     "MLSeq": [],
-    "MODA": [
-        "AMOUNTAIN"
-    ],
+    "MODA": [],
     "MOFA2": [
         "basilisk",
         "basilisk.utils",
@@ -619,11 +590,8 @@
     "MSstatsTMT": [
         "MSstats"
     ],
-    "Mulcom": [],
     "multiClust": [],
-    "multicrispr": [
-        "Rbowtie"
-    ],
+    "multicrispr": [],
     "multiGSEA": [],
     "NADfinder": [
         "ATACseqQC"
@@ -694,14 +662,11 @@
     "pwOmics": [
         "STRINGdb"
     ],
-    "quantiseqr": [],
     "quantro": [
         "illuminaio",
         "minfi"
     ],
-    "QuasR": [
-        "Rbowtie"
-    ],
+    "QuasR": [],
     "QUBIC": [],
     "RAIDS": [
         "GENESIS",
@@ -716,8 +681,6 @@
     "RAREsim": [],
     "RareVariantVis": [],
     "Rarr": [],
-    "Rbowtie": [],
-    "Rbwa": [],
     "Rcollectl": [],
     "Rcwl": [
         "basilisk",
@@ -766,9 +729,7 @@
         "dir.expiry"
     ],
     "rGenomeTracks": [],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [],
     "RITAN": [
         "STRINGdb"
@@ -788,7 +749,6 @@
     "RPA": [],
     "Rqc": [],
     "RRHO": [],
-    "runibic": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray",
@@ -825,10 +785,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "segmentSeq": [
-        "baySeq"
-    ],
-    "semisup": [],
+    "segmentSeq": [],
     "SeqArray": [
         "gdsfmt"
     ],
@@ -864,12 +821,10 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "tximport",
         "zellkonverter"
     ],
     "SingleMoleculeFootprinting": [
-        "QuasR",
-        "Rbowtie"
+        "QuasR"
     ],
     "skewr": [
         "illuminaio",
@@ -903,9 +858,7 @@
     "spkTools": [],
     "SpliceWiz": [],
     "splots": [],
-    "srnadiff": [
-        "baySeq"
-    ],
+    "srnadiff": [],
     "ssize": [],
     "staRank": [
         "cellHTS2",
@@ -914,16 +867,11 @@
     "STRINGdb": [],
     "swfdr": [],
     "TBSignatureProfiler": [],
-    "TCC": [
-        "baySeq"
-    ],
-    "TDbasedUFE": [
-        "tximport"
-    ],
+    "TCC": [],
+    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "STRINGdb",
-        "TDbasedUFE",
-        "tximport"
+        "TDbasedUFE"
     ],
     "tenXplore": [
         "ontoProc",
@@ -936,10 +884,7 @@
         "rWikiPathways"
     ],
     "TSAR": [],
-    "tximeta": [
-        "tximport"
-    ],
-    "tximport": [],
+    "tximeta": [],
     "Ularcirc": [],
     "uSORT": [
         "monocle"
@@ -963,7 +908,6 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "VennDetail": [],
     "vissE": [],
     "vtpnet": [
         "gwascat"
