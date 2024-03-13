@@ -6,26 +6,16 @@
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "arrayMvout": [
-        "lumi",
         "mdqc"
     ],
     "ASAFE": [],
@@ -40,7 +30,6 @@
     "BHC": [],
     "bigmelon": [
         "gdsfmt",
-        "lumi",
         "wateRmelon"
     ],
     "BioCartaImage": [],
@@ -74,8 +63,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "cicero": [
@@ -135,16 +122,12 @@
     ],
     "diffuStats": [],
     "dir.expiry": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "EnhancedVolcano": [],
     "famat": [
         "rWikiPathways"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FLAMES": [
         "basilisk",
         "basilisk.utils",
@@ -202,9 +185,7 @@
         "dir.expiry"
     ],
     "HPiP": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -214,16 +195,13 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "lumi": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MANOR": [
         "GLAD"
     ],
@@ -235,25 +213,16 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MeasurementError.cor": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "metabinR": [],
     "metaCCA": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
-    "MineICA": [
-        "lumi"
-    ],
-    "MinimumDistance": [],
+    "methylGSA": [],
+    "MineICA": [],
     "miRNApath": [],
-    "missMethyl": [],
     "MOFA2": [
         "basilisk",
         "basilisk.utils",
@@ -269,8 +238,7 @@
     ],
     "NetPathMiner": [],
     "netZooR": [
-        "STRINGdb",
-        "yarn"
+        "STRINGdb"
     ],
     "NoRCE": [
         "rWikiPathways"
@@ -354,7 +322,6 @@
         "cellHTS2",
         "splots"
     ],
-    "RnBeads": [],
     "RRHO": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -404,7 +371,6 @@
         "zellkonverter"
     ],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "SMAP": [],
@@ -459,16 +425,13 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "wppi": [
         "OmnipathR"
     ],
     "XINA": [
         "STRINGdb"
     ],
-    "yarn": [],
     "zellkonverter": [
         "basilisk",
         "basilisk.utils",
