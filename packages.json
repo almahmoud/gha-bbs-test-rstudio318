@@ -369,7 +369,6 @@
     "DifferentialRegulation": [
         "tximport"
     ],
-    "diffGeneAnalysis": [],
     "diffuStats": [],
     "diffUTR": [],
     "diggit": [],
@@ -392,10 +391,7 @@
         "BiocVersion",
         "quantiseqr"
     ],
-    "EBSEA": [
-        "EmpiricalBrownsMethod"
-    ],
-    "EmpiricalBrownsMethod": [],
+    "EBSEA": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
     "ENmix": [
@@ -459,8 +455,7 @@
         "minfi"
     ],
     "GARS": [
-        "MLSeq",
-        "sSeq"
+        "MLSeq"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -477,7 +472,6 @@
     "gdsfmt": [],
     "GEM": [],
     "gemini": [],
-    "GeneGA": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -513,7 +507,6 @@
     "GRaNIE": [
         "BiocVersion"
     ],
-    "GraphAlignment": [],
     "GRENITS": [],
     "GSEABenchmarkeR": [
         "BiocVersion"
@@ -584,7 +577,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "LedPred": [],
     "lisaClust": [],
     "LRcell": [
         "BiocVersion"
@@ -649,7 +641,6 @@
     "Melissa": [
         "BPRMeth"
     ],
-    "Mergeomics": [],
     "meshes": [
         "BiocVersion"
     ],
@@ -663,7 +654,6 @@
         "hpar"
     ],
     "metaCCA": [],
-    "metahdep": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -719,9 +709,7 @@
         "methylumi",
         "minfi"
     ],
-    "MLSeq": [
-        "sSeq"
-    ],
+    "MLSeq": [],
     "MODA": [
         "AMOUNTAIN"
     ],
@@ -784,8 +772,7 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "BiocVersion",
-        "EmpiricalBrownsMethod"
+        "BiocVersion"
     ],
     "netboost": [],
     "netOmics": [
@@ -825,9 +812,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "OSAT": [],
     "OutSplice": [],
-    "PanomiR": [],
     "pareg": [
         "basilisk",
         "basilisk.utils",
@@ -973,7 +958,6 @@
         "cellHTS2",
         "splots"
     ],
-    "RNASeqPower": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -982,7 +966,6 @@
     "RPA": [],
     "Rqc": [],
     "RRHO": [],
-    "rSWeeP": [],
     "runibic": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -1086,7 +1069,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMAD": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -1118,7 +1100,6 @@
     "srnadiff": [
         "baySeq"
     ],
-    "sSeq": [],
     "ssize": [],
     "staRank": [
         "cellHTS2",
@@ -1126,7 +1107,6 @@
     ],
     "STRINGdb": [],
     "swfdr": [],
-    "TargetScore": [],
     "TBSignatureProfiler": [],
     "TCC": [
         "baySeq"
@@ -1200,7 +1180,6 @@
         "methylumi",
         "minfi"
     ],
-    "weaver": [],
     "wppi": [
         "OmnipathR"
     ],
