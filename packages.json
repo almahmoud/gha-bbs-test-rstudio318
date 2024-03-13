@@ -142,12 +142,10 @@
     "atena": [
         "BiocVersion"
     ],
-    "BADER": [],
     "bandle": [
         "BiocStyle"
     ],
     "banocc": [],
-    "BaseSpaceR": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -232,7 +230,6 @@
         "BioNERO",
         "GENIE3"
     ],
-    "calm": [],
     "canceR": [
         "AnVIL",
         "cBioPortalData"
@@ -379,9 +376,7 @@
     "cytofQC": [
         "BiocStyle"
     ],
-    "debrowser": [
-        "Harman"
-    ],
+    "debrowser": [],
     "deconvR": [
         "illuminaio",
         "minfi"
@@ -557,7 +552,6 @@
         "cBioPortalData"
     ],
     "goSorensen": [],
-    "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
         "BiocVersion"
@@ -582,7 +576,6 @@
         "SNPRelate",
         "gdsfmt"
     ],
-    "Harman": [],
     "Herper": [],
     "HiCool": [
         "basilisk",
@@ -596,9 +589,7 @@
         "BiocVersion"
     ],
     "HPiP": [],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hypeR": [
         "BiocStyle"
     ],
@@ -639,7 +630,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "KBoost": [],
     "LedPred": [],
     "lisaClust": [],
     "LRcell": [
@@ -822,7 +812,6 @@
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsLOBD": [],
     "MSstatsPTM": [
         "MSstats",
         "MSstatsConvert",
@@ -878,7 +867,6 @@
         "illuminaio"
     ],
     "NTW": [],
-    "nuCpos": [],
     "octad": [
         "BiocVersion"
     ],
@@ -915,9 +903,7 @@
     ],
     "pathwayPCA": [],
     "pcaExplorer": [],
-    "PDATK": [
-        "switchBox"
-    ],
+    "PDATK": [],
     "phemd": [
         "monocle"
     ],
@@ -930,7 +916,6 @@
     "Pigengene": [
         "BiocStyle"
     ],
-    "plasmut": [],
     "PloGO2": [],
     "plotGrouper": [],
     "pogos": [
@@ -983,7 +968,6 @@
     "Rarr": [],
     "Rbowtie": [],
     "Rbwa": [],
-    "RCASPAR": [],
     "Rcollectl": [],
     "Rcwl": [
         "basilisk",
@@ -1048,7 +1032,6 @@
     "ribosomeProfilingQC": [
         "Rsubread"
     ],
-    "RImmPort": [],
     "RITAN": [
         "STRINGdb"
     ],
@@ -1227,17 +1210,13 @@
     ],
     "sSeq": [],
     "ssize": [],
-    "ssrch": [],
     "staRank": [
         "cellHTS2",
         "splots"
     ],
     "STRINGdb": [],
     "swfdr": [],
-    "switchBox": [],
-    "systemPipeShiny": [],
     "TargetScore": [],
-    "TargetSearch": [],
     "TBSignatureProfiler": [],
     "TCC": [
         "baySeq"
