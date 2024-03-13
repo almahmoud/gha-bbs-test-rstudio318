@@ -79,9 +79,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "blima": [],
     "canceR": [],
     "CARNIVAL": [],
@@ -171,7 +169,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "EnhancedVolcano": [],
     "ENmix": [],
     "epigenomix": [],
@@ -323,13 +320,8 @@
     "mosbi": [
         "QUBIC"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
+    "MSstatsShiny": [],
     "multicrispr": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -440,7 +432,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scmeth": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
@@ -496,7 +487,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SOMNiBUS": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
