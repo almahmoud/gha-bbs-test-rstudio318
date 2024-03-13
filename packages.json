@@ -59,7 +59,6 @@
     "arrayQualityMetrics": [],
     "artMS": [],
     "ASAFE": [],
-    "ASpli": [],
     "ASSET": [],
     "bandle": [],
     "basilisk": [
@@ -145,7 +144,6 @@
     "coMethDMR": [],
     "consensus": [],
     "conumee": [],
-    "CoSIA": [],
     "cosmosR": [
         "CARNIVAL"
     ],
@@ -177,7 +175,6 @@
         "dir.expiry"
     ],
     "cTRAP": [],
-    "customCMPdb": [],
     "cytofQC": [],
     "debrowser": [],
     "deconvR": [],
@@ -195,7 +192,6 @@
     "diffuStats": [],
     "diffUTR": [],
     "dir.expiry": [],
-    "DiscoRhythm": [],
     "DMRcate": [
         "methylumi",
         "missMethyl"
@@ -203,14 +199,12 @@
     "dmrseq": [
         "annotatr"
     ],
-    "dupRadar": [],
     "EnhancedVolcano": [],
     "ENmix": [],
     "EpiCompare": [],
     "epigenomix": [],
     "epimutacions": [],
     "EventPointer": [],
-    "ExCluster": [],
     "ExperimentHubData": [],
     "famat": [
         "rWikiPathways"
@@ -294,9 +288,7 @@
     "INDEED": [],
     "iNETgrate": [],
     "interacCircos": [],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -321,7 +313,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "mastR": [],
     "MatrixQCvis": [],
     "MBAmethyl": [],
     "mBPCR": [
@@ -341,7 +332,6 @@
         "wateRmelon"
     ],
     "Melissa": [],
-    "meshes": [],
     "metabinR": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
@@ -407,7 +397,6 @@
         "rWikiPathways"
     ],
     "octad": [],
-    "OGRE": [],
     "Omixer": [],
     "OmnipathR": [],
     "ontoProc": [],
@@ -425,7 +414,6 @@
     "Path2PPI": [],
     "PathNet": [],
     "PathoStat": [],
-    "PDATK": [],
     "phemd": [
         "monocle"
     ],
@@ -520,7 +508,6 @@
     ],
     "sangeranalyseR": [],
     "scanMiRApp": [],
-    "scAnnotatR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -620,8 +607,6 @@
         "rWikiPathways"
     ],
     "TSAR": [],
-    "tximeta": [],
-    "Ularcirc": [],
     "uSORT": [
         "monocle"
     ],
@@ -640,7 +625,6 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "vissE": [],
     "vtpnet": [
         "gwascat"
     ],
