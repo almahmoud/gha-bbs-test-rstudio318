@@ -89,13 +89,10 @@
         "dmrseq"
     ],
     "blima": [],
-    "brainflowprobes": [],
-    "BubbleTree": [],
     "cageminer": [],
     "canceR": [],
     "CARNIVAL": [],
     "cbaf": [],
-    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -139,7 +136,6 @@
     "cosmosR": [
         "CARNIVAL"
     ],
-    "crisprBwa": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
@@ -180,7 +176,6 @@
         "dir.expiry"
     ],
     "diffuStats": [],
-    "diffUTR": [],
     "dir.expiry": [],
     "DMRcate": [
         "methylumi",
@@ -191,7 +186,6 @@
     ],
     "EnhancedVolcano": [],
     "ENmix": [],
-    "EpiCompare": [],
     "epigenomix": [],
     "epimutacions": [],
     "EventPointer": [],
@@ -208,14 +202,12 @@
         "dir.expiry"
     ],
     "fmrs": [],
-    "FRASER": [],
     "funtooNorm": [],
     "GARS": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
     ],
-    "gDNAx": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -363,7 +355,6 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "multiClust": [],
     "multicrispr": [],
     "NADfinder": [],
     "netOmics": [
@@ -393,7 +384,6 @@
     ],
     "Path2PPI": [],
     "PathNet": [],
-    "PathoStat": [],
     "phemd": [
         "monocle"
     ],
@@ -444,9 +434,7 @@
         "dir.expiry"
     ],
     "regsplice": [],
-    "regutools": [],
     "REMP": [],
-    "restfulSE": [],
     "retrofit": [],
     "ReUseData": [
         "Rcwl",
@@ -468,7 +456,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [],
     "RRHO": [],
     "rWikiPathways": [],
     "SAIGEgds": [
@@ -496,7 +483,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "segmentSeq": [],
     "SeqArray": [
         "gdsfmt"
     ],
@@ -553,7 +539,6 @@
     "specL": [],
     "spikeLI": [],
     "spkTools": [],
-    "SpliceWiz": [],
     "splots": [],
     "srnadiff": [],
     "ssize": [],
@@ -566,9 +551,7 @@
     "TDbasedUFEadv": [
         "STRINGdb"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "TimiRGeN": [
         "rWikiPathways"
     ],
