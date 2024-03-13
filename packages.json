@@ -3,10 +3,7 @@
         "GLAD",
         "snapCGH"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "arrayMvout": [
         "mdqc"
     ],
@@ -35,7 +32,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biscuiteer": [],
     "CARNIVAL": [],
     "cbpManager": [
         "basilisk",
@@ -52,7 +48,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
@@ -198,7 +193,6 @@
     "mdp": [],
     "mdqc": [],
     "MeasurementError.cor": [],
-    "MEAT": [],
     "metabinR": [],
     "metaCCA": [],
     "miRNApath": [],
@@ -349,7 +343,6 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "skewr": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
