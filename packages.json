@@ -4,16 +4,12 @@
         "snapCGH"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.se"
     ],
@@ -25,10 +21,8 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "arrayMvout": [
         "lumi",
@@ -62,7 +56,6 @@
         "dir.expiry"
     ],
     "biscuiteer": [],
-    "canceR": [],
     "CARNIVAL": [],
     "cbpManager": [
         "basilisk",
@@ -129,7 +122,6 @@
         "crisprScore",
         "dir.expiry"
     ],
-    "deconvR": [],
     "DeepBlueR": [],
     "DelayedDataFrame": [],
     "DelayedRandomArray": [],
@@ -147,9 +139,6 @@
         "missMethyl"
     ],
     "EnhancedVolcano": [],
-    "ENmix": [],
-    "epigenomix": [],
-    "epimutacions": [],
     "famat": [
         "rWikiPathways"
     ],
@@ -194,7 +183,6 @@
     "GGPA": [],
     "GIGSEA": [],
     "GLAD": [],
-    "GNOSIS": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
@@ -217,7 +205,6 @@
     "iCheck": [
         "lumi"
     ],
-    "ideal": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -258,9 +245,6 @@
     ],
     "metabinR": [],
     "metaCCA": [],
-    "MethylAid": [],
-    "methylCC": [],
-    "methylclock": [],
     "methylGSA": [
         "missMethyl"
     ],
@@ -288,7 +272,6 @@
     "NetPathMiner": [],
     "netZooR": [
         "STRINGdb",
-        "quantro",
         "yarn"
     ],
     "NoRCE": [
@@ -321,7 +304,6 @@
     "pwOmics": [
         "STRINGdb"
     ],
-    "quantro": [],
     "QUBIC": [],
     "RAIDS": [
         "GENESIS",
@@ -412,7 +394,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "shinyMethyl": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
@@ -489,9 +470,7 @@
     "XINA": [
         "STRINGdb"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zellkonverter": [
         "basilisk",
         "basilisk.utils",
