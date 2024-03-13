@@ -1,5 +1,4 @@
 {
-    "abseqR": [],
     "ADaCGH2": [
         "GLAD",
         "snapCGH"
@@ -59,7 +58,6 @@
     "artMS": [],
     "ASAFE": [],
     "ASSET": [],
-    "bandle": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -80,7 +78,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BiocSklearn": [
         "basilisk",
@@ -170,7 +167,6 @@
         "dir.expiry"
     ],
     "cytofQC": [],
-    "debrowser": [],
     "deconvR": [],
     "DeepBlueR": [],
     "DelayedDataFrame": [],
@@ -199,7 +195,6 @@
     "epigenomix": [],
     "epimutacions": [],
     "EventPointer": [],
-    "ExperimentHubData": [],
     "famat": [
         "rWikiPathways"
     ],
@@ -300,7 +295,6 @@
         "RnBeads",
         "methylumi"
     ],
-    "MAGeCKFlute": [],
     "MANOR": [
         "GLAD"
     ],
@@ -347,7 +341,6 @@
     "missMethyl": [
         "methylumi"
     ],
-    "MODA": [],
     "MOFA2": [
         "basilisk",
         "basilisk.utils",
@@ -357,7 +350,6 @@
     "mosbi": [
         "QUBIC"
     ],
-    "MSnID": [],
     "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM",
@@ -386,10 +378,8 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "octad": [],
     "Omixer": [],
     "OmnipathR": [],
-    "ontoProc": [],
     "OpenStats": [],
     "orthos": [
         "basilisk",
@@ -407,19 +397,14 @@
     "phemd": [
         "monocle"
     ],
-    "PhyloProfile": [],
     "Pi": [],
     "pickgene": [],
     "plotGrouper": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "PPInfer": [
         "STRINGdb"
     ],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "pwOmics": [
         "STRINGdb"
     ],
@@ -436,7 +421,6 @@
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RAREsim": [],
-    "RareVariantVis": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -484,7 +468,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "RPA": [],
     "Rqc": [],
     "RRHO": [],
     "rWikiPathways": [],
@@ -492,7 +475,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sangeranalyseR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -585,7 +567,6 @@
         "STRINGdb"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "TimiRGeN": [
