@@ -51,7 +51,6 @@
         "methylumi"
     ],
     "arrayQualityMetrics": [],
-    "artMS": [],
     "ASAFE": [],
     "ASSET": [],
     "basilisk": [
@@ -84,7 +83,6 @@
         "dmrseq"
     ],
     "blima": [],
-    "cageminer": [],
     "canceR": [],
     "CARNIVAL": [],
     "cbaf": [],
@@ -193,7 +191,6 @@
     ],
     "fmrs": [],
     "funtooNorm": [],
-    "GARS": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -329,21 +326,14 @@
     "mosbi": [
         "QUBIC"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "multicrispr": [],
-    "NADfinder": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
