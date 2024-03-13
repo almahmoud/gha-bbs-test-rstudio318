@@ -67,7 +67,6 @@
     ],
     "alevinQC": [],
     "AMARETTO": [],
-    "AnnotationHub": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "AnVILPublish": [],
@@ -289,7 +288,6 @@
     "EventPointer": [],
     "EWCE": [],
     "ExCluster": [],
-    "ExperimentHub": [],
     "ExperimentHubData": [],
     "factR": [],
     "famat": [
@@ -740,7 +738,6 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "methylumi",
