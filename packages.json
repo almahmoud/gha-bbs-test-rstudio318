@@ -58,13 +58,10 @@
         "methylumi"
     ],
     "arrayQualityMetrics": [],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASAFE": [],
     "ASpli": [],
     "ASSET": [],
-    "ATACseqQC": [],
     "bandle": [],
     "basilisk": [
         "basilisk.utils",
@@ -95,7 +92,6 @@
         "dir.expiry"
     ],
     "BiocWorkflowTools": [],
-    "BioNERO": [],
     "biscuiteer": [
         "annotatr",
         "dmrseq"
@@ -104,9 +100,7 @@
     "BloodGen3Module": [],
     "brainflowprobes": [],
     "BubbleTree": [],
-    "cageminer": [
-        "BioNERO"
-    ],
+    "cageminer": [],
     "canceR": [],
     "CARNIVAL": [],
     "cbaf": [],
@@ -152,7 +146,6 @@
     ],
     "coGPS": [],
     "coMethDMR": [],
-    "COMPASS": [],
     "consensus": [],
     "conumee": [],
     "CoSIA": [],
@@ -190,7 +183,6 @@
         "crisprScore",
         "dir.expiry"
     ],
-    "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
     "cytofQC": [],
@@ -220,8 +212,6 @@
         "annotatr"
     ],
     "dupRadar": [],
-    "easier": [],
-    "EBSEA": [],
     "EnhancedVolcano": [],
     "ENmix": [],
     "EpiCompare": [],
@@ -229,7 +219,6 @@
     "EpiMix": [],
     "epimutacions": [],
     "EventPointer": [],
-    "EWCE": [],
     "ExCluster": [],
     "ExperimentHubData": [],
     "famat": [
@@ -247,9 +236,7 @@
     "fmrs": [],
     "FRASER": [],
     "funtooNorm": [],
-    "GARS": [
-        "MLSeq"
-    ],
+    "GARS": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -271,9 +258,7 @@
         "gdsfmt"
     ],
     "GeneticsPed": [],
-    "geneXtendeR": [],
     "genoCN": [],
-    "GenomicScores": [],
     "gespeR": [
         "cellHTS2",
         "splots"
@@ -307,7 +292,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hipathia": [],
     "hpar": [],
     "HPiP": [],
     "iCheck": [
@@ -321,7 +305,6 @@
     "INDEED": [],
     "iNETgrate": [],
     "interacCircos": [],
-    "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta"
     ],
@@ -398,7 +381,6 @@
     "missMethyl": [
         "methylumi"
     ],
-    "MLSeq": [],
     "MODA": [],
     "MOFA2": [
         "basilisk",
@@ -410,35 +392,24 @@
     "mosbi": [
         "QUBIC"
     ],
-    "MsDataHub": [],
     "MSnID": [],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "multiClust": [],
     "multicrispr": [],
     "multiGSEA": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -584,7 +555,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scruff": [],
     "scTensor": [],
     "scTGIF": [],
     "scviR": [
@@ -683,7 +653,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
