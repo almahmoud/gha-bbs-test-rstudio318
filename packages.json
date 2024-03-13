@@ -111,7 +111,6 @@
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [],
     "cisPath": [],
     "clevRvis": [],
     "cliqueMS": [],
@@ -254,7 +253,6 @@
     "INDEED": [],
     "iNETgrate": [],
     "interacCircos": [],
-    "IsoformSwitchAnalyzeR": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -295,7 +293,6 @@
     ],
     "Melissa": [],
     "metabinR": [],
-    "MetaboSignal": [],
     "metaCCA": [],
     "MethReg": [],
     "MethylAid": [],
@@ -367,11 +364,9 @@
     "Pi": [],
     "pickgene": [],
     "plotGrouper": [],
-    "pogos": [],
     "PPInfer": [
         "STRINGdb"
     ],
-    "prebs": [],
     "pwOmics": [
         "STRINGdb"
     ],
@@ -543,7 +538,6 @@
         "zellkonverter"
     ],
     "veloviz": [],
-    "vtpnet": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
