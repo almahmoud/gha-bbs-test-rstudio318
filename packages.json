@@ -82,7 +82,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
         "alabaster.bumpy",
@@ -126,7 +125,6 @@
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -263,7 +261,6 @@
     "ballgown": [],
     "bambu": [],
     "bamsignals": [],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -852,11 +849,8 @@
     "cosmosR": [
         "GSEABase"
     ],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [],
-    "covRNA": [],
     "cpvSNP": [
         "GSEABase"
     ],
@@ -905,9 +899,7 @@
     "CSSQ": [],
     "CTDquerier": [],
     "cTRAP": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -952,9 +944,7 @@
     ],
     "CytoGLMM": [],
     "cytolib": [],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoMEM": [
         "cytolib",
         "flowCore"
@@ -992,7 +982,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dagLogo": [
@@ -1063,7 +1052,6 @@
         "VariantAnnotation"
     ],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
@@ -1111,11 +1099,8 @@
         "ChIPpeakAnno"
     ],
     "DEsingle": [],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "destiny": [],
-    "DEsubs": [],
     "DExMA": [],
     "DEXSeq": [],
     "DFP": [],
@@ -1131,9 +1116,7 @@
         "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [
         "DEXSeq",
@@ -1340,9 +1323,7 @@
         "GSVA",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "EventPointer": [
         "SGSeq",
         "affxparser"
@@ -1360,9 +1341,7 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "ExploreModelMatrix": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1386,7 +1365,6 @@
         "VariantAnnotation"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -1626,9 +1604,7 @@
         "affxparser"
     ],
     "geneRxCluster": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "VariantAnnotation",
@@ -1705,9 +1681,7 @@
     ],
     "GGPA": [],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtree": [],
     "ggtreeDendro": [
         "ggtree"
@@ -1804,7 +1778,6 @@
         "CRISPRseek",
         "ChIPpeakAnno"
     ],
-    "Guitar": [],
     "Gviz": [
         "VariantAnnotation",
         "biovizBase"
@@ -1854,9 +1827,7 @@
     "hiReadsProcessor": [],
     "HiTC": [],
     "hmdbQuery": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "hpar": [],
     "HTSeqGenie": [
         "VariantAnnotation",
@@ -1912,7 +1883,6 @@
         "IVAS"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [
@@ -2006,8 +1976,7 @@
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "satuRn",
-        "tximeta"
+        "satuRn"
     ],
     "isomiRs": [
         "DEGreport"
@@ -2044,7 +2013,6 @@
         "bsseq"
     ],
     "KnowSeq": [],
-    "LACE": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -2062,7 +2030,6 @@
     ],
     "lisaClust": [
         "ClassifyR",
-        "SpatialExperiment",
         "spicyR"
     ],
     "lmdme": [],
@@ -2435,9 +2402,7 @@
         "GSEABase",
         "graphite"
     ],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
         "TFBSTools",
@@ -2716,9 +2681,7 @@
     ],
     "ngsReports": [],
     "nipalsMCIA": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "NOISeq": [],
     "NoRCE": [],
     "normalize450K": [
@@ -2773,7 +2736,6 @@
     "omicsViewer": [],
     "oncomix": [],
     "oncoscanR": [],
-    "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz"
     ],
@@ -2866,7 +2828,6 @@
         "Rgraphviz"
     ],
     "PCAN": [],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx",
         "genefu"
@@ -3118,7 +3079,6 @@
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
-        "SeqVarTools",
         "VariantAnnotation"
     ],
     "rain": [],
@@ -3174,9 +3134,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -3397,7 +3355,6 @@
         "Rgraphviz",
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "affxparser",
         "oligo"
@@ -3443,11 +3400,8 @@
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "schex": [],
     "scHOT": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -3504,12 +3458,10 @@
         "enrichplot",
         "ggtree",
         "graphite",
-        "meshr",
-        "schex"
+        "meshr"
     ],
     "scTGIF": [
-        "GSEABase",
-        "schex"
+        "GSEABase"
     ],
     "scTHI": [],
     "scTreeViz": [
@@ -3545,7 +3497,6 @@
     "SeqGate": [],
     "seqLogo": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "sesame": [
         "illuminaio"
     ],
@@ -3589,7 +3540,6 @@
     "signifinder": [
         "GSEABase",
         "GSVA",
-        "SpatialExperiment",
         "consensusOV",
         "genefu"
     ],
@@ -3607,7 +3557,6 @@
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "single": [],
@@ -3684,20 +3633,13 @@
     "sparrow": [
         "GSEABase"
     ],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools",
@@ -3725,12 +3667,10 @@
         "Rgraphviz"
     ],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
     "spicyR": [
-        "ClassifyR",
-        "SpatialExperiment"
+        "ClassifyR"
     ],
     "SpidermiR": [],
     "splatter": [],
@@ -3748,10 +3688,7 @@
         "biovizBase",
         "seqLogo"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
-    "SPOTlight": [],
+    "SpotClean": [],
     "spqn": [],
     "SPsimSeq": [],
     "SQLDataFrame": [],
@@ -3767,8 +3704,7 @@
     "ssPATHS": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "Category",
@@ -3779,14 +3715,10 @@
         "SpidermiR",
         "graphite"
     ],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [],
     "stepNorm": [],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "Streamer": [],
     "struct": [],
     "structToolbox": [
@@ -3808,7 +3740,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "SWATH2stats": [],
     "switchde": [],
     "synapter": [
         "MSnbase",
@@ -3937,7 +3868,6 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
@@ -3987,7 +3917,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "tximeta": [],
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
@@ -4044,7 +3973,6 @@
         "GSEABase"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vsclust": [],
