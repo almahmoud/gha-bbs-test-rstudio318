@@ -446,7 +446,6 @@
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
-    "biodbNci": [],
     "biodbUniprot": [],
     "biomformat": [],
     "BioMVCClass": [
@@ -2613,7 +2612,6 @@
         "sva"
     ],
     "mbkmeans": [],
-    "mBPCR": [],
     "MBQN": [],
     "mbQTL": [],
     "MCbiclust": [],
@@ -2854,7 +2852,6 @@
     ],
     "microRNA": [],
     "microSTASIS": [],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -3106,12 +3103,9 @@
     ],
     "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "MsCoreUtils",
@@ -3126,10 +3120,8 @@
         "mzR"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
@@ -4250,7 +4242,6 @@
         "MsCoreUtils",
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
