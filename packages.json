@@ -169,7 +169,6 @@
         "Rgraphviz"
     ],
     "appreci8R": [
-        "GenomicScores",
         "OrganismDbi",
         "VariantAnnotation"
     ],
@@ -211,7 +210,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "TFBSTools",
         "motifStack",
         "seqLogo"
@@ -308,7 +306,6 @@
     "biocGraph": [
         "Rgraphviz"
     ],
-    "BiocHail": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [
         "Rgraphviz"
@@ -339,7 +336,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation"
     ],
@@ -507,7 +503,6 @@
     "celaref": [
         "MAST"
     ],
-    "celda": [],
     "cellHTS2": [
         "Category",
         "GSEABase"
@@ -590,7 +585,6 @@
         "oligo"
     ],
     "chromPlot": [],
-    "ChromSCape": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -618,7 +612,6 @@
         "SGSeq"
     ],
     "cisPath": [],
-    "CiteFuse": [],
     "ClassifyR": [],
     "clipper": [
         "KEGGgraph",
@@ -852,7 +845,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -979,9 +971,7 @@
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "illuminaio",
         "methylKit",
@@ -1011,14 +1001,12 @@
     "demuxSNP": [
         "VariantAnnotation"
     ],
-    "densvis": [],
     "DEP": [
         "MSnbase",
         "MsCoreUtils",
         "mzID",
         "mzR"
     ],
-    "DepecheR": [],
     "DEqMS": [],
     "derfinder": [
         "GenomicFiles",
@@ -1060,7 +1048,6 @@
         "DEXSeq",
         "Rsubread"
     ],
-    "Dino": [],
     "discordant": [],
     "DiscoRhythm": [],
     "distinct": [],
@@ -1554,7 +1541,6 @@
         "genomation",
         "seqLogo"
     ],
-    "GenomicScores": [],
     "GenomicTuples": [],
     "GenProSeq": [
         "DeepPINCS"
@@ -2116,7 +2102,6 @@
         "illuminaio",
         "sesame"
     ],
-    "methrix": [],
     "MethylAid": [
         "illuminaio",
         "minfi"
@@ -2351,7 +2336,6 @@
         "genomeIntervals",
         "ggbio"
     ],
-    "msImpute": [],
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
@@ -2460,7 +2444,6 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
-        "GenomicScores",
         "Gviz",
         "Rgraphviz",
         "TFBSTools",
@@ -2620,7 +2603,6 @@
     "orthogene": [
         "ggtree"
     ],
-    "orthos": [],
     "OSAT": [],
     "OUTRIDER": [],
     "OutSplice": [
@@ -2749,7 +2731,6 @@
         "Rgraphviz",
         "ontoProc"
     ],
-    "POMA": [],
     "POWSC": [
         "MAST"
     ],
@@ -2760,7 +2741,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -2920,7 +2900,6 @@
     ],
     "randRotation": [],
     "RareVariantVis": [
-        "GenomicScores",
         "VariantAnnotation"
     ],
     "rawrr": [],
@@ -3190,7 +3169,6 @@
     "scBubbletree": [
         "ggtree"
     ],
-    "scCB2": [],
     "scClassify": [
         "Cepo",
         "GSEABase"
@@ -3199,7 +3177,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scDDboost": [],
     "scDesign3": [],
     "SCFA": [],
     "scFeatures": [
@@ -3362,7 +3339,6 @@
         "MAST",
         "TSCAN",
         "TrajectoryUtils",
-        "celda",
         "ggtree"
     ],
     "SingleMoleculeFootprinting": [
@@ -3717,7 +3693,6 @@
         "GDSArray"
     ],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "VariantAnnotation",
         "biovizBase"
