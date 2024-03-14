@@ -246,7 +246,6 @@
         "pRoloc"
     ],
     "banocc": [],
-    "BASiCStan": [],
     "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -360,9 +359,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
@@ -674,9 +671,7 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -953,9 +948,7 @@
         "DelayedRandomArray"
     ],
     "deltaCaptureC": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxSNP": [
         "VariantAnnotation"
     ],
@@ -1040,7 +1033,6 @@
         "affxparser",
         "oligo"
     ],
-    "DSS": [],
     "DTA": [],
     "dupRadar": [
         "Rsubread"
@@ -1571,7 +1563,6 @@
     "gpls": [],
     "granulator": [],
     "graphite": [],
-    "GraphPAC": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1803,9 +1794,7 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
@@ -1998,9 +1987,7 @@
     "metaSeq": [
         "NOISeq"
     ],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "MetCirc": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -2048,9 +2035,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -2106,7 +2091,6 @@
     ],
     "MiPP": [],
     "miQC": [],
-    "MIRA": [],
     "MiRaGE": [],
     "miRcomp": [],
     "mirIntegrator": [
@@ -2353,7 +2337,6 @@
         "seqLogo",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "NanoStringNCTools": [],
     "NanoTube": [],
     "NBAMSeq": [],
@@ -2615,7 +2598,6 @@
     "POWSC": [
         "MAST"
     ],
-    "prebs": [],
     "primirTSS": [
         "Gviz",
         "TFBSTools",
@@ -2734,10 +2716,7 @@
         "illuminaio",
         "minfi"
     ],
-    "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -2774,7 +2753,6 @@
     ],
     "RCASPAR": [],
     "rcellminer": [],
-    "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomeGSA": [],
     "ReactomePA": [
@@ -2838,9 +2816,7 @@
     "restfulSE": [
         "rhdf5client"
     ],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
@@ -3213,7 +3189,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "sparrow": [
         "GSEABase"
     ],
