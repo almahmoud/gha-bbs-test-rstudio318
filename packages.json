@@ -69,7 +69,6 @@
     "affy": [
         "affyio"
     ],
-    "affycomp": [],
     "affyContam": [
         "affy",
         "affyio"
@@ -388,7 +387,6 @@
         "Rsamtools",
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [
         "DESeq2",
         "MultiAssayExperiment"
@@ -977,12 +975,10 @@
         "rtracklayer"
     ],
     "bioassayR": [],
-    "biobroom": [],
     "bioCancer": [
         "AnVIL",
         "BiocIO",
         "DOSE",
-        "EBarrays",
         "GOSemSim",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -1511,7 +1507,6 @@
         "AnVIL",
         "BiocIO",
         "Category",
-        "EBarrays",
         "GSEABase",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -1552,7 +1547,6 @@
     ],
     "casper": [
         "BiocIO",
-        "EBarrays",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -2377,7 +2371,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -3677,10 +3670,7 @@
         "edgeR",
         "genomeIntervals"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2",
         "EmpiricalBrownsMethod"
@@ -4589,9 +4579,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gaga": [
-        "EBarrays"
-    ],
+    "gaga": [],
     "gage": [],
     "gaggle": [],
     "GARS": [
@@ -4631,7 +4619,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "gcatest": [],
     "gCrisprTools": [
         "ComplexHeatmap"
     ],
@@ -4770,9 +4757,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "geNetClassifier": [
-        "EBarrays"
-    ],
+    "geNetClassifier": [],
     "GeneTonic": [
         "ComplexHeatmap",
         "DESeq2"
@@ -5336,7 +5321,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "HEM": [],
     "hermes": [
         "ComplexHeatmap",
@@ -6600,7 +6584,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationHub",
         "BiocVersion",
@@ -7703,7 +7686,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [
@@ -7879,9 +7861,7 @@
         "affyio",
         "vsn"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "GenomicAlignments",
@@ -8662,7 +8642,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [],
     "projectR": [],
     "pRoloc": [
@@ -9032,7 +9011,6 @@
     "RandomWalkRestartMH": [
         "Rgraphviz"
     ],
-    "randPack": [],
     "randRotation": [],
     "RareVariantVis": [
         "AnnotationHub",
@@ -9134,7 +9112,6 @@
         "ggtree",
         "graphite"
     ],
-    "ReadqPCR": [],
     "REBET": [],
     "rebook": [],
     "receptLoss": [],
@@ -9626,7 +9603,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
@@ -9880,7 +9856,6 @@
         "ShortRead"
     ],
     "rSWeeP": [],
-    "RTCA": [],
     "RTCGA": [],
     "RTCGAToolbox": [
         "BiocIO",
@@ -11127,7 +11102,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
         "Rgraphviz"
@@ -11662,9 +11636,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -11705,9 +11677,7 @@
         "marray",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "TPP2D": [],
     "tracktables": [
         "Rhtslib",
