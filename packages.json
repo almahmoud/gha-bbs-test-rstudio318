@@ -255,7 +255,6 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "BatchQC": [],
     "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -323,7 +322,6 @@
         "biovizBase"
     ],
     "BioNAR": [],
-    "BioNERO": [],
     "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
@@ -414,7 +412,6 @@
         "biovizBase"
     ],
     "cageminer": [
-        "BioNERO",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -718,7 +715,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "coMethDMR": [],
     "compcodeR": [],
     "compEpiTools": [
         "Gviz",
@@ -770,7 +766,6 @@
         "karyoploteR"
     ],
     "coRdon": [],
-    "CoreGx": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -1039,7 +1034,6 @@
         "flowCore"
     ],
     "DifferentialRegulation": [],
-    "diffHic": [],
     "diffUTR": [
         "DEXSeq",
         "Rsubread"
@@ -1109,7 +1103,6 @@
     ],
     "EBSeqHMM": [],
     "ecolitk": [],
-    "edge": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
@@ -1481,14 +1474,12 @@
         "VariantAnnotation"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "GDSArray": [],
@@ -1547,7 +1538,6 @@
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "GEOexplorer": [],
     "GeomxTools": [
         "NanoStringNCTools"
     ],
@@ -1678,7 +1668,6 @@
     "GWENA": [],
     "h5vc": [],
     "hapFabia": [],
-    "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs",
         "hypergraph"
@@ -1711,7 +1700,6 @@
     "hicVennDiagram": [],
     "HiLDA": [],
     "hipathia": [],
-    "hiReadsProcessor": [],
     "hmdbQuery": [],
     "hoodscanR": [],
     "hpar": [],
@@ -1885,7 +1873,6 @@
         "DSS",
         "bsseq"
     ],
-    "KnowSeq": [],
     "lemur": [],
     "LineagePulse": [],
     "lineagespot": [
@@ -1934,7 +1921,6 @@
         "ggtree"
     ],
     "m6Aboost": [],
-    "Macarron": [],
     "maCorrPlot": [],
     "MADSEQ": [
         "VariantAnnotation"
@@ -2646,9 +2632,7 @@
         "Rgraphviz"
     ],
     "PCAN": [],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [
         "affxparser",
         "oligo"
@@ -2670,9 +2654,7 @@
     "phantasusLite": [
         "rhdf5client"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny",
         "monocle"
@@ -2846,8 +2828,6 @@
         "mzID",
         "mzR"
     ],
-    "qsmooth": [],
-    "qsvaR": [],
     "quantro": [
         "illuminaio",
         "minfi"
@@ -2873,9 +2853,7 @@
         "VariantAnnotation"
     ],
     "R4RNA": [],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
@@ -2892,7 +2870,6 @@
         "VariantAnnotation"
     ],
     "rawrr": [],
-    "Rbec": [],
     "RCAS": [
         "genomation",
         "seqLogo"
@@ -3589,9 +3566,7 @@
         "mzID",
         "mzR"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "TPP": [],
     "TPP2D": [],
     "trackViewer": [
@@ -3623,7 +3598,6 @@
     "Trendy": [],
     "TRESS": [],
     "tricycle": [],
-    "trigger": [],
     "trio": [],
     "tRNA": [],
     "tRNAdbImport": [
@@ -3734,7 +3708,6 @@
         "GeneMeta"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "yamss": [
