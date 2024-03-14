@@ -23,7 +23,6 @@
     "abseqR": [],
     "acde": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -63,21 +62,16 @@
         "Rgraphviz",
         "VariantAnnotation",
         "biovizBase",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
     "affyILM": [
-        "affxparser",
-        "gcrma"
+        "affxparser"
     ],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "GSEABase"
     ],
@@ -96,7 +90,6 @@
         "VariantAnnotation",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
@@ -276,7 +269,6 @@
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
-        "gcrma",
         "genefilter",
         "illuminaio"
     ],
@@ -318,7 +310,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
-        "InteractionSet",
         "TFBSTools",
         "motifStack",
         "multtest",
@@ -463,9 +454,7 @@
     ],
     "BgeeCall": [],
     "BgeeDB": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "GSEABase",
         "multtest"
@@ -570,7 +559,6 @@
         "VariantAnnotation"
     ],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "HDF5Array",
         "OrganismDbi",
@@ -651,7 +639,6 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUScorrect": [],
     "BUSpaRse": [
         "plyranges"
     ],
@@ -668,7 +655,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -686,7 +672,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -858,7 +843,6 @@
         "genomation"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -870,21 +854,15 @@
         "basilisk.utils"
     ],
     "CGEN": [],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [
         "CNTools",
         "genefilter"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -926,7 +904,6 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [
-        "InteractionSet",
         "multtest",
         "regioneR"
     ],
@@ -1115,8 +1092,7 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
-        "SeqArray"
+        "RaggedExperiment"
     ],
     "CNVrd2": [
         "VariantAnnotation"
@@ -1584,7 +1560,6 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "InteractionSet",
         "multtest",
         "regioneR"
     ],
@@ -1627,7 +1602,6 @@
         "SingleCellExperiment"
     ],
     "diffHic": [
-        "InteractionSet",
         "csaw"
     ],
     "diffUTR": [
@@ -1747,9 +1721,7 @@
         "genefilter",
         "sva"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "EGAD": [],
     "EGSEA": [
         "BiocSingular",
@@ -1949,7 +1921,6 @@
         "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase",
         "csaw"
@@ -2196,12 +2167,9 @@
     "gatom": [
         "BioNet"
     ],
-    "GBScleanR": [
-        "SeqArray"
-    ],
+    "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "GenomicDataCommons",
@@ -2237,13 +2205,10 @@
         "BiocCheck"
     ],
     "gDRutils": [],
-    "GDSArray": [
-        "SeqArray"
-    ],
+    "GDSArray": [],
     "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -2263,7 +2228,6 @@
     ],
     "geneRxCluster": [],
     "GENESIS": [
-        "SeqArray",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -2283,7 +2247,6 @@
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -2347,9 +2310,7 @@
         "ncdfFlow"
     ],
     "ggkegg": [],
-    "ggmanh": [
-        "SeqArray"
-    ],
+    "ggmanh": [],
     "ggmsa": [
         "R4RNA",
         "ggtree"
@@ -2478,7 +2439,6 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "InteractionSet",
         "multtest",
         "regioneR"
     ],
@@ -2515,37 +2475,27 @@
     ],
     "hiAnnotator": [],
     "HiCBricks": [],
-    "HiCcompare": [
-        "InteractionSet"
-    ],
+    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [
-        "InteractionSet"
-    ],
+    "HiCExperiment": [],
     "HiContacts": [
-        "HiCExperiment",
-        "InteractionSet"
+        "HiCExperiment"
     ],
     "HiCool": [
         "HiCExperiment",
-        "InteractionSet",
         "basilisk",
         "basilisk.utils"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
+    "hicVennDiagram": [],
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [
@@ -2578,7 +2528,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iasva": [],
     "iCARE": [],
     "icetea": [
         "ShortRead",
@@ -2684,7 +2633,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
@@ -2751,7 +2699,6 @@
     ],
     "ISLET": [],
     "isobar": [],
-    "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
@@ -2922,25 +2869,19 @@
         "mzR",
         "xcms"
     ],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "HDF5Array",
-        "InteractionSet",
         "plotgardener",
         "plyranges"
     ],
-    "marr": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
         "biovizBase"
     ],
     "maSigPro": [],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -3189,7 +3130,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mia": [
         "BiocSingular",
@@ -3268,7 +3208,6 @@
     "mimager": [
         "affxparser",
         "affyPLM",
-        "gcrma",
         "oligo"
     ],
     "MineICA": [
@@ -3580,8 +3519,7 @@
         "multtest"
     ],
     "multiHiCcompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
@@ -3638,7 +3576,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "InteractionSet",
         "Rgraphviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -3764,7 +3701,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges"
     ],
     "OCplus": [
@@ -3915,7 +3851,6 @@
         "ggtree",
         "multtest"
     ],
-    "panp": [],
     "pareg": [
         "DOSE",
         "basilisk",
@@ -4060,7 +3995,6 @@
         "plyranges"
     ],
     "plyinteractions": [
-        "InteractionSet",
         "plyranges"
     ],
     "plyranges": [],
@@ -4079,7 +4013,6 @@
         "MAST",
         "SingleCellExperiment"
     ],
-    "ppcseq": [],
     "PPInfer": [],
     "pram": [],
     "prebs": [
@@ -4222,7 +4155,6 @@
     "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "QFeatures": [
@@ -4294,7 +4226,6 @@
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
-        "SeqArray",
         "SeqVarTools",
         "VariantAnnotation"
     ],
@@ -4382,7 +4313,6 @@
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "InteractionSet",
         "multtest",
         "regioneR"
     ],
@@ -4583,7 +4513,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -4654,11 +4583,8 @@
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "SamSPECTRAL": [],
@@ -4759,7 +4685,6 @@
         "Oscope",
         "SingleCellExperiment"
     ],
-    "scde": [],
     "scDesign3": [
         "SingleCellExperiment"
     ],
@@ -4951,7 +4876,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "SeqArray": [],
     "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
@@ -4961,9 +4885,7 @@
     "seqLogo": [],
     "seqsetvis": [],
     "SeqSQC": [],
-    "SeqVarTools": [
-        "SeqArray"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "illuminaio"
     ],
@@ -4973,9 +4895,7 @@
         "sva"
     ],
     "sevenbridges": [],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "SGCP": [
         "AnnotationForge",
         "Category",
@@ -5239,7 +5159,6 @@
         "CNEr",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
@@ -5254,8 +5173,7 @@
         "MsCoreUtils"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "SPIA": [
         "KEGGgraph",
@@ -5403,8 +5321,7 @@
         "biovizBase"
     ],
     "TADCompare": [
-        "HiCcompare",
-        "InteractionSet"
+        "HiCcompare"
     ],
     "tanggle": [
         "ggtree"
@@ -5469,7 +5386,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "TileDBArray": [],
     "tilingArray": [
         "genefilter"
@@ -5529,7 +5445,6 @@
     "tracktables": [],
     "trackViewer": [
         "Gviz",
-        "InteractionSet",
         "Rgraphviz",
         "VariantAnnotation",
         "biovizBase"
@@ -5661,8 +5576,7 @@
     "VariantAnnotation": [],
     "VariantExperiment": [
         "DelayedDataFrame",
-        "GDSArray",
-        "SeqArray"
+        "GDSArray"
     ],
     "VariantFiltering": [
         "GenomicScores",
@@ -5719,7 +5633,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "GreyListChIP",
-        "InteractionSet",
         "ShortRead",
         "csaw",
         "multtest",
@@ -5743,7 +5656,6 @@
     "wavClusteR": [],
     "webbioc": [
         "annaffy",
-        "gcrma",
         "multtest"
     ],
     "weitrix": [],
@@ -5810,7 +5722,6 @@
         "pathview",
         "safe"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "SingleCellExperiment",
         "genefilter"
