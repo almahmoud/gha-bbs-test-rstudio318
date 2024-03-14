@@ -179,9 +179,7 @@
         "AnnotationForge",
         "OrganismDbi"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota": [
         "multtest"
     ],
@@ -235,7 +233,6 @@
     "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "OrganismDbi",
         "TFBSTools",
@@ -246,24 +243,20 @@
         "seqLogo"
     ],
     "ATACseqQC": [
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
         "motifStack",
         "multtest",
-        "regioneR",
         "seqLogo"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr",
         "seqLogo"
     ],
     "atena": [],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack",
         "seqLogo"
@@ -408,8 +401,7 @@
         "VariantAnnotation",
         "annotatr",
         "bsseq",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -574,7 +566,6 @@
         "MAST"
     ],
     "celda": [],
-    "cellbaseR": [],
     "cellHTS2": [
         "Category",
         "GSEABase"
@@ -652,8 +643,7 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [
-        "multtest",
-        "regioneR"
+        "multtest"
     ],
     "ChIPQC": [
         "DiffBind",
@@ -680,7 +670,6 @@
         "bamsignals"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools",
         "seqLogo"
     ],
@@ -754,10 +743,7 @@
         "affxparser",
         "oligo"
     ],
-    "cn.mops": [
-        "exomeCopy"
-    ],
-    "CNEr": [],
+    "cn.mops": [],
     "CNORdt": [
         "CellNOptR",
         "Rgraphviz"
@@ -780,9 +766,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "cnvGSA": [],
     "CNViz": [
@@ -791,14 +775,11 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVMetrics": [],
     "CNVPanelizer": [
-        "NOISeq",
-        "exomeCopy"
+        "NOISeq"
     ],
     "CNVRanger": [
         "GDSArray",
@@ -816,7 +797,6 @@
         "ggtree"
     ],
     "Cogito": [],
-    "cola": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -873,8 +853,7 @@
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "exomeCopy"
+        "VariantAnnotation"
     ],
     "conumee": [
         "illuminaio",
@@ -887,9 +866,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "coRdon": [],
     "CoreGx": [],
@@ -1060,7 +1037,6 @@
         "cytomapper"
     ],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "UniProt.ws",
         "motifStack",
@@ -1177,8 +1153,7 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "multtest",
-        "regioneR"
+        "multtest"
     ],
     "DEsingle": [],
     "DESpace": [
@@ -1232,8 +1207,7 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -1244,9 +1218,7 @@
     "doppelgangR": [],
     "Doscheda": [],
     "DOSE": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
@@ -1286,7 +1258,6 @@
     "ecolitk": [],
     "EDASeq": [],
     "edge": [],
-    "EGAD": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
@@ -1306,7 +1277,6 @@
     "EMDomics": [],
     "EmpiricalBrownsMethod": [],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr",
         "seqLogo"
@@ -1331,7 +1301,6 @@
         "ggtree"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "TFBSTools",
         "clusterProfiler",
@@ -1411,7 +1380,6 @@
     ],
     "ERSSA": [],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "TFBSTools",
@@ -1442,7 +1410,6 @@
     "ExCluster": [
         "Rsubread"
     ],
-    "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationForge",
@@ -1898,8 +1865,7 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "multtest",
-        "regioneR"
+        "multtest"
     ],
     "Guitar": [],
     "Gviz": [
@@ -2127,8 +2093,7 @@
     "karyoploteR": [
         "VariantAnnotation",
         "bamsignals",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "VariantAnnotation",
@@ -2267,7 +2232,6 @@
         "proDA"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools",
         "seqLogo"
     ],
@@ -2585,7 +2549,6 @@
     ],
     "MOMA": [],
     "monaLisa": [
-        "CNEr",
         "TFBSTools",
         "seqLogo"
     ],
@@ -2607,9 +2570,7 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "Motif2Site": [],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -2618,12 +2579,10 @@
         "seqLogo"
     ],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools",
         "seqLogo"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools",
         "seqLogo"
     ],
@@ -2744,8 +2703,7 @@
         "VariantAnnotation",
         "bamsignals",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "MultiDataSet": [],
     "multiGSEA": [
@@ -2792,7 +2750,6 @@
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "CNEr",
         "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
         "GenomicScores",
@@ -2803,7 +2760,6 @@
         "biovizBase",
         "motifStack",
         "multtest",
-        "regioneR",
         "seqLogo",
         "trackViewer"
     ],
@@ -2992,7 +2948,6 @@
     "packFinder": [],
     "padma": [],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr",
         "seqLogo"
@@ -3004,8 +2959,7 @@
         "DEXSeq"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -3149,7 +3103,6 @@
         "multtest"
     ],
     "primirTSS": [
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
@@ -3273,7 +3226,6 @@
         "mzID",
         "mzR"
     ],
-    "qsea": [],
     "qsmooth": [],
     "qsvaR": [],
     "quantro": [
@@ -3300,7 +3252,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [
         "VariantAnnotation"
     ],
@@ -3379,8 +3330,7 @@
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "multtest",
-        "regioneR"
+        "multtest"
     ],
     "regionalpcs": [
         "PCAtools"
@@ -3388,10 +3338,7 @@
     "RegionalST": [
         "BayesSpace"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -3447,9 +3394,7 @@
     ],
     "rGenomeTracks": [],
     "RGMQL": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgoslin": [],
     "Rgraphviz": [],
     "rGREAT": [],
@@ -3475,7 +3420,6 @@
         "seqLogo"
     ],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "Rsubread",
@@ -3504,9 +3448,7 @@
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase",
         "MsCoreUtils",
@@ -3640,7 +3582,6 @@
         "seqLogo"
     ],
     "scAnnotatR": [],
-    "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -3690,8 +3631,7 @@
     "scMET": [],
     "scmeth": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SCnorm": [],
     "scone": [
@@ -3778,7 +3718,6 @@
     ],
     "SeqGate": [],
     "seqLogo": [],
-    "seqsetvis": [],
     "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [
@@ -3928,8 +3867,7 @@
     ],
     "SOMNiBUS": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SpacePAC": [
         "iPAC",
@@ -3939,7 +3877,6 @@
     "sparrow": [
         "GSEABase"
     ],
-    "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3960,7 +3897,6 @@
         "NanoStringNCTools"
     ],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -4080,7 +4016,6 @@
         "mzR"
     ],
     "SynExtend": [],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [
@@ -4134,7 +4069,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [
-        "CNEr",
         "seqLogo"
     ],
     "TFEA.ChIP": [],
@@ -4262,9 +4196,7 @@
         "Organism.dplyr",
         "plotgardener"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
@@ -4329,7 +4261,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "multtest",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
