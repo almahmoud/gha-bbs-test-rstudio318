@@ -461,8 +461,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -492,9 +491,7 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -598,7 +595,6 @@
     "cbpManager": [],
     "ccfindR": [],
     "ccImpute": [],
-    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
@@ -650,9 +646,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [],
     "CGEN": [],
     "CGHcall": [],
@@ -860,7 +854,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [
         "ggtree"
@@ -1293,7 +1286,6 @@
     "dittoSeq": [],
     "divergence": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1402,7 +1394,6 @@
         "multtest",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -1549,7 +1540,6 @@
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
@@ -1859,7 +1849,6 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "plyranges",
         "seqLogo"
     ],
     "GenomicScores": [],
@@ -2110,9 +2099,7 @@
         "siggenes"
     ],
     "iChip": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "AnnotationForge",
         "Category",
@@ -2124,7 +2111,6 @@
         "lpsymphony",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "idr2d": [],
     "iGC": [],
     "igvR": [
@@ -2176,8 +2162,7 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [],
     "InTAD": [],
@@ -2265,8 +2250,7 @@
     ],
     "katdetectr": [
         "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "maftools"
     ],
     "KCsmart": [
         "multtest",
@@ -2391,8 +2375,7 @@
     ],
     "maPredictDSC": [],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -2422,7 +2405,6 @@
     ],
     "mbkmeans": [],
     "MBQN": [],
-    "mbQTL": [],
     "MCbiclust": [],
     "mCSEA": [
         "Gviz",
@@ -2471,7 +2453,6 @@
         "Category",
         "GSEABase"
     ],
-    "MesKit": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -2558,7 +2539,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "plyranges",
         "siggenes"
     ],
     "methylclock": [
@@ -2726,7 +2706,6 @@
     "mnem": [
         "Rgraphviz"
     ],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -2916,7 +2895,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "MultiDataSet": [],
@@ -3007,9 +2985,7 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "Rgraphviz",
@@ -3072,9 +3048,7 @@
         "GSEABase"
     ],
     "nucleR": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "OCplus": [
         "multtest"
     ],
@@ -3312,17 +3286,11 @@
         "GSEABase",
         "Rgraphviz"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
+    "plyinteractions": [],
     "pmm": [],
     "pmp": [],
     "PoDCall": [],
-    "podkat": [],
     "pogos": [
         "Rgraphviz",
         "ontoProc"
@@ -3370,7 +3338,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
         "ggtree",
@@ -3587,7 +3554,6 @@
         "derfinder",
         "derfinderHelper"
     ],
-    "recount3": [],
     "recountmethylation": [
         "bumphunter",
         "illuminaio",
@@ -3664,7 +3630,6 @@
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
-    "rfPred": [],
     "rGADEM": [
         "seqLogo"
     ],
@@ -3706,7 +3671,6 @@
         "motifStack",
         "seqLogo"
     ],
-    "rifi": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -3853,8 +3817,7 @@
     "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
-        "multtest",
-        "plyranges"
+        "multtest"
     ],
     "sarks": [],
     "satuRn": [],
@@ -4268,7 +4231,6 @@
         "phyloseq"
     ],
     "SQLDataFrame": [],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "VariantAnnotation",
@@ -4523,8 +4485,7 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "Rbowtie2",
