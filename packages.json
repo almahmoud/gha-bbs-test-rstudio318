@@ -144,7 +144,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AlpsNMR": [],
     "altcdfenvs": [
         "hypergraph"
     ],
@@ -263,11 +262,9 @@
     "banocc": [],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "BatchQC": [],
-    "BayesSpace": [],
     "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -277,7 +274,6 @@
         "illuminaio"
     ],
     "beadarraySNP": [],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -509,7 +505,6 @@
         "ggtree",
         "graphite"
     ],
-    "cbpManager": [],
     "ccImpute": [],
     "CCPROMISE": [
         "GSEABase",
@@ -556,7 +551,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfTools": [],
     "CGEN": [],
     "CGHcall": [],
     "CGHnormaliter": [
@@ -1637,7 +1631,6 @@
     "GISPA": [
         "GSEABase"
     ],
-    "glmGamPoi": [],
     "GlobalAncova": [
         "GSEABase"
     ],
@@ -1935,9 +1928,7 @@
         "bsseq"
     ],
     "KnowSeq": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
@@ -1988,7 +1979,6 @@
     "m6Aboost": [],
     "Macarron": [],
     "maCorrPlot": [],
-    "MACSr": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -2309,7 +2299,6 @@
         "mzR",
         "xcms"
     ],
-    "MOFA2": [],
     "mogsa": [
         "GSEABase",
         "graphite"
@@ -2829,7 +2818,6 @@
     ],
     "proBAMr": [],
     "PROcess": [],
-    "procoil": [],
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
@@ -3022,9 +3010,7 @@
         "ChIPpeakAnno"
     ],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
@@ -3263,8 +3249,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scDblFinder": [],
-    "scDD": [],
     "scDDboost": [],
     "scDesign3": [],
     "SCFA": [],
@@ -3281,7 +3265,6 @@
         "flowCore"
     ],
     "scmap": [],
-    "scMerge": [],
     "scMET": [],
     "scmeth": [
         "annotatr",
@@ -3342,7 +3325,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -3434,9 +3416,7 @@
         "TSCAN",
         "TrajectoryUtils",
         "celda",
-        "ggtree",
-        "scDblFinder",
-        "scMerge"
+        "ggtree"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -3667,7 +3647,6 @@
     "tidybulk": [],
     "TileDBArray": [],
     "tilingArray": [],
-    "timeOmics": [],
     "timescape": [],
     "TimiRGeN": [
         "DOSE",
@@ -3723,9 +3702,7 @@
     ],
     "TrajectoryUtils": [],
     "transcriptR": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "anota"
@@ -3815,7 +3792,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "velociraptor": [],
     "VERSO": [],
     "ViSEAGO": [
         "AnnotationForge"
