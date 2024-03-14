@@ -240,7 +240,6 @@
         "beadarray",
         "illuminaio"
     ],
-    "artMS": [],
     "ASAFE": [],
     "ASICS": [
         "MultiDataSet",
@@ -440,13 +439,7 @@
         "basilisk.utils"
     ],
     "biodbChebi": [],
-    "biodbExpasy": [],
     "biodbHmdb": [],
-    "biodbKegg": [],
-    "biodbLipidmaps": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
-    "biodbUniprot": [],
     "biomformat": [],
     "BioMVCClass": [
         "Rgraphviz"
@@ -883,7 +876,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "clusterSeq": [],
     "clustifyr": [],
     "CMA": [],
     "cmapR": [
@@ -1725,7 +1717,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [],
     "fenr": [],
     "ffpe": [
         "HDF5Array",
@@ -2953,7 +2944,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "graphite"
@@ -3101,7 +3091,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM"
     ],
@@ -4828,7 +4817,6 @@
         "anota",
         "multtest"
     ],
-    "transomics2cytoscape": [],
     "traseR": [],
     "traviz": [
         "TrajectoryUtils",
