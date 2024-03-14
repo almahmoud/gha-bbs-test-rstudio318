@@ -279,7 +279,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [],
     "BayesSpace": [],
     "bayNorm": [],
@@ -425,10 +424,8 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
-    "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -816,7 +813,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -955,7 +951,6 @@
         "flowCore"
     ],
     "CytoGLMM": [],
-    "cytoKernel": [],
     "cytolib": [],
     "cytomapper": [
         "SpatialExperiment"
@@ -1150,7 +1145,6 @@
     "distinct": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1262,7 +1256,6 @@
         "enrichplot",
         "ggtree",
         "motifmatchr",
-        "pipeFrame",
         "seqLogo"
     ],
     "enrichViewNet": [
@@ -1284,7 +1277,6 @@
         "genomation",
         "ggtree"
     ],
-    "epidecodeR": [],
     "epigenomix": [
         "beadarray",
         "illuminaio"
@@ -1341,7 +1333,6 @@
         "enrichplot",
         "ggtree",
         "motifmatchr",
-        "pipeFrame",
         "seqLogo"
     ],
     "escape": [
@@ -1352,7 +1343,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "eudysbiome": [],
     "EventPointer": [
         "SGSeq",
         "affxparser"
@@ -2424,7 +2414,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MMDiff2": [],
     "MMUPHin": [],
     "mnem": [
         "Rgraphviz"
@@ -2900,7 +2889,6 @@
         "mzR"
     ],
     "pengls": [],
-    "periodicDNA": [],
     "phantasus": [],
     "phantasusLite": [
         "rhdf5client"
@@ -2944,7 +2932,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
@@ -3247,7 +3234,6 @@
         "seqLogo"
     ],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [],
     "rgoslin": [],
     "Rgraphviz": [],
@@ -3298,9 +3284,7 @@
         "xcms"
     ],
     "RITAN": [],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
@@ -3964,7 +3948,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -4064,7 +4047,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
@@ -4109,7 +4091,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "XNAString": [],
     "yamss": [
         "mzR"
     ],
