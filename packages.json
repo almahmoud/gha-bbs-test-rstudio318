@@ -766,7 +766,6 @@
     "cpvSNP": [
         "GSEABase"
     ],
-    "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -938,7 +937,6 @@
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
-    "decontX": [],
     "deconvR": [
         "illuminaio",
         "methylKit",
@@ -1807,7 +1805,6 @@
         "VariantAnnotation",
         "maftools"
     ],
-    "KCsmart": [],
     "KEGGgraph": [
         "Rgraphviz"
     ],
@@ -2631,9 +2628,7 @@
         "MAST"
     ],
     "prebs": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "TFBSTools",
@@ -2793,7 +2788,6 @@
     ],
     "RCASPAR": [],
     "rcellminer": [],
-    "rCGH": [],
     "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomeGSA": [],
@@ -3462,7 +3456,6 @@
     "transcriptR": [],
     "transformGamPoi": [],
     "transite": [],
-    "tRanslatome": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -3477,7 +3470,6 @@
     "Trendy": [],
     "TRESS": [],
     "tricycle": [],
-    "trio": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -3536,7 +3528,6 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [],
     "VCFArray": [
         "GenomicFiles",
         "VariantAnnotation"
