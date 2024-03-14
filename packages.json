@@ -419,7 +419,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -562,7 +561,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [],
     "cfTools": [],
     "CGEN": [],
     "CGHcall": [],
@@ -1812,7 +1810,6 @@
         "siggenes"
     ],
     "iChip": [],
-    "iCNV": [],
     "ideal": [
         "AnnotationForge",
         "Category",
@@ -2055,9 +2052,7 @@
         "xcms"
     ],
     "maPredictDSC": [],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -2579,7 +2574,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "Rgraphviz",
@@ -2631,7 +2625,6 @@
         "GSEABase"
     ],
     "nucleR": [],
-    "nullranges": [],
     "OCplus": [],
     "octad": [
         "EDASeq",
@@ -2832,8 +2825,6 @@
         "GSEABase",
         "Rgraphviz"
     ],
-    "plotgardener": [],
-    "plyinteractions": [],
     "pmm": [],
     "pmp": [],
     "PoDCall": [],
@@ -3827,8 +3818,7 @@
     "tweeDEseq": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
