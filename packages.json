@@ -87,7 +87,6 @@
     "AHMassBank": [
         "AnnotationForge",
         "AnnotationHubData",
-        "BiocCheck",
         "OrganismDbi"
     ],
     "airpart": [],
@@ -178,7 +177,6 @@
     "AnnotationForge": [],
     "AnnotationHubData": [
         "AnnotationForge",
-        "BiocCheck",
         "OrganismDbi"
     ],
     "annotatr": [
@@ -286,7 +284,6 @@
     "autonomics": [],
     "AWFisher": [],
     "awst": [],
-    "BaalChIP": [],
     "bacon": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -377,7 +374,6 @@
         "ggtree",
         "graphite"
     ],
-    "BiocCheck": [],
     "biocGraph": [
         "Rgraphviz"
     ],
@@ -548,10 +544,7 @@
         "VariantAnnotation",
         "ggtree"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "casper": [
         "gaga"
     ],
@@ -1344,7 +1337,6 @@
     "easier": [
         "progeny"
     ],
-    "easylift": [],
     "easyRNASeq": [
         "genomeIntervals"
     ],
@@ -1526,7 +1518,6 @@
     "ExperimentHubData": [
         "AnnotationForge",
         "AnnotationHubData",
-        "BiocCheck",
         "OrganismDbi"
     ],
     "ExperimentSubset": [
@@ -1756,7 +1747,6 @@
         "BioNet"
     ],
     "GBScleanR": [],
-    "gcapc": [],
     "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
@@ -1789,9 +1779,7 @@
         "gDRutils",
         "piano"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "gDRutils": [],
     "GDSArray": [],
     "geneAttribution": [],
@@ -2028,7 +2016,6 @@
     "HERON": [
         "multtest"
     ],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -2052,9 +2039,7 @@
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [
@@ -2475,7 +2460,6 @@
         "cytolib",
         "flowCore"
     ],
-    "metagene2": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2537,7 +2521,6 @@
     "methylclock": [
         "AnnotationForge",
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "OrganismDbi",
         "bumphunter",
@@ -2568,7 +2551,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -3063,7 +3045,6 @@
         "widgetTools"
     ],
     "omada": [],
-    "OmaDB": [],
     "omicade4": [],
     "omicplotR": [
         "ALDEx2",
@@ -3240,9 +3221,7 @@
     "philr": [
         "ggtree"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [
         "biomformat",
         "multtest"
@@ -3516,7 +3495,6 @@
         "multtest",
         "phyloseq"
     ],
-    "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -4013,7 +3991,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sigFeature": [],
     "siggenes": [
         "multtest"
     ],
@@ -4056,7 +4033,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "single": [],
     "SingleCellSignalR": [
         "multtest"
@@ -4191,7 +4167,6 @@
         "SpatialExperiment"
     ],
     "SpidermiR": [],
-    "spiky": [],
     "splatter": [],
     "SpliceWiz": [],
     "SplicingFactory": [],
@@ -4399,7 +4374,6 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "Rgraphviz",
@@ -4459,7 +4433,6 @@
         "TrajectoryUtils"
     ],
     "TTMap": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
