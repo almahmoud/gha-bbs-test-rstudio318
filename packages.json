@@ -2616,7 +2616,6 @@
         "mnem",
         "multtest"
     ],
-    "dcGSA": [],
     "ddCt": [],
     "ddPCRclust": [
         "SamSPECTRAL",
@@ -3057,7 +3056,6 @@
         "graphite",
         "pathview",
         "safe",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -6259,7 +6257,6 @@
     "MouseFM": [
         "biomaRt"
     ],
-    "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
@@ -6509,8 +6506,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "variancePartition"
+        "scuttle"
     ],
     "muscle": [],
     "musicatk": [
@@ -6734,7 +6730,6 @@
         "MultiAssayExperiment",
         "fgsea"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -10287,7 +10282,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "variancePartition": [],
     "VariantAnnotation": [
         "BSgenome",
         "BiocIO",
@@ -10575,8 +10569,7 @@
         "SPIA",
         "graphite",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zFPKM": [],
     "zinbwave": [
