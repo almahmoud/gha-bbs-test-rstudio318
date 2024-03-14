@@ -198,7 +198,6 @@
         "biovizBase"
     ],
     "AssessORF": [],
-    "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
         "OrganismDbi",
@@ -241,7 +240,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [],
     "bambu": [],
     "bamsignals": [],
     "bandle": [
@@ -456,7 +454,6 @@
         "VariantAnnotation",
         "ggtree"
     ],
-    "Cardinal": [],
     "casper": [
         "gaga"
     ],
@@ -1029,7 +1026,6 @@
     "DEsingle": [],
     "DESpace": [],
     "destiny": [],
-    "DExMA": [],
     "DEXSeq": [],
     "DFP": [],
     "DIAlignR": [
@@ -1495,7 +1491,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "gDRstyle": [],
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -2231,7 +2226,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MMUPHin": [],
     "mnem": [
         "Rgraphviz"
     ],
@@ -2362,7 +2356,6 @@
         "mzID",
         "mzR"
     ],
-    "MSPrep": [],
     "msPurity": [
         "mzR"
     ],
@@ -2609,7 +2602,6 @@
         "Repitools",
         "Ringo"
     ],
-    "PAA": [],
     "packFinder": [],
     "padma": [],
     "pageRank": [
@@ -2698,7 +2690,6 @@
     "philr": [
         "ggtree"
     ],
-    "PhyloProfile": [],
     "Pi": [
         "Rgraphviz"
     ],
@@ -2784,7 +2775,6 @@
         "GSEABase"
     ],
     "PROPER": [],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DOSE",
@@ -2815,7 +2805,6 @@
         "MsCoreUtils",
         "QFeatures"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "MsCoreUtils",
@@ -3040,7 +3029,6 @@
         "mzR",
         "xcms"
     ],
-    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
@@ -3058,7 +3046,6 @@
         "recount"
     ],
     "RNAdecay": [],
-    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "GSEABase",
@@ -3127,7 +3114,6 @@
     ],
     "RTNsurvival": [],
     "Rtreemix": [],
-    "rTRMui": [],
     "RUVSeq": [],
     "Rvisdiff": [],
     "RVS": [],
@@ -3281,7 +3267,6 @@
     "sesame": [
         "illuminaio"
     ],
-    "SEtools": [],
     "sevenbridges": [],
     "sevenC": [],
     "SGCP": [
@@ -3526,7 +3511,6 @@
         "mzR"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
         "GSEABase",
         "GSVA",
         "singscore"
@@ -3700,9 +3684,7 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "GenomicFiles",
         "VariantAnnotation"
