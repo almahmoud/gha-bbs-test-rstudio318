@@ -2081,7 +2081,6 @@
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment",
-        "SNPRelate",
         "SeqArray",
         "edgeR"
     ],
@@ -4250,7 +4249,6 @@
         "MultiAssayExperiment"
     ],
     "GDSArray": [
-        "SNPRelate",
         "SeqArray"
     ],
     "gemma.R": [],
@@ -4289,8 +4287,6 @@
     "geneRxCluster": [],
     "GeneSelectMMD": [],
     "GENESIS": [
-        "GWASTools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools"
     ],
@@ -4771,15 +4767,12 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
         "BSgenome",
         "BiocIO",
-        "GWASTools",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SNPRelate",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -5203,7 +5196,6 @@
     ],
     "InterMineR": [],
     "IntOMICS": [],
-    "IntramiRExploreR": [],
     "IONiseR": [
         "GenomicAlignments",
         "Rsamtools",
@@ -5463,7 +5455,6 @@
         "SingleCellExperiment",
         "rhdf5"
     ],
-    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz"
@@ -5686,7 +5677,6 @@
         "beachmat"
     ],
     "mBPCR": [
-        "GWASTools",
         "oligoClasses"
     ],
     "MBQN": [],
@@ -7650,7 +7640,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "GenomicAlignments",
@@ -8099,11 +8088,9 @@
         "BSgenome",
         "BiocIO",
         "GENESIS",
-        "GWASTools",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "VariantAnnotation",
@@ -8199,7 +8186,6 @@
     ],
     "RCy3": [],
     "RCyjs": [],
-    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
@@ -9484,7 +9470,6 @@
     "SeqSQC": [
         "AnnotationHub",
         "ExperimentHub",
-        "SNPRelate",
         "interactiveDisplayBase"
     ],
     "SeqVarTools": [
@@ -9861,7 +9846,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [],
     "soGGi": [
         "BiocIO",
         "GenomicAlignments",
@@ -10840,7 +10824,6 @@
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
-        "SNPRelate",
         "SeqArray"
     ],
     "VariantFiltering": [
