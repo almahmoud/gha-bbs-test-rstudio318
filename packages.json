@@ -42,7 +42,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "Rgraphviz",
@@ -66,7 +65,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "Rgraphviz",
@@ -219,7 +217,6 @@
         "chromVAR",
         "motifmatchr",
         "projectR",
-        "rGREAT",
         "seqLogo"
     ],
     "ATACseqQC": [
@@ -522,7 +519,6 @@
         "graphite"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "ccImpute": [],
     "CCPROMISE": [
         "GSEABase",
@@ -576,7 +572,6 @@
     "CGHnormaliter": [
         "CGHcall"
     ],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -885,7 +880,6 @@
         "oligo"
     ],
     "csdR": [],
-    "CSSQ": [],
     "CTDquerier": [],
     "cTRAP": [],
     "CTSV": [],
@@ -1639,7 +1633,6 @@
         "cellHTS2"
     ],
     "getDEE2": [],
-    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1674,7 +1667,6 @@
     "GISPA": [
         "GSEABase"
     ],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [
@@ -1726,7 +1718,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GSCA": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1883,7 +1874,6 @@
         "minfi",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
@@ -2285,7 +2275,6 @@
         "ggtreeExtra"
     ],
     "microRNA": [],
-    "microSTASIS": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2549,7 +2538,6 @@
     "MungeSumstats": [
         "VariantAnnotation"
     ],
-    "muscat": [],
     "muscle": [],
     "musicatk": [
         "VariantAnnotation",
@@ -2815,7 +2803,6 @@
         "mzR"
     ],
     "pengls": [],
-    "phantasus": [],
     "phantasusLite": [
         "rhdf5client"
     ],
@@ -2910,7 +2897,6 @@
         "chipseq",
         "enrichplot",
         "ggtree",
-        "rGREAT",
         "soGGi"
     ],
     "progeny": [],
@@ -3158,7 +3144,6 @@
     "RgnTX": [],
     "rgoslin": [],
     "Rgraphviz": [],
-    "rGREAT": [],
     "rgsepd": [],
     "rhdf5client": [],
     "Rhisat2": [
@@ -3349,7 +3334,6 @@
     "scDD": [],
     "scDDboost": [],
     "scDesign3": [],
-    "scds": [],
     "SCFA": [],
     "scFeatures": [
         "AUCell",
@@ -3524,8 +3508,7 @@
         "celda",
         "ggtree",
         "scDblFinder",
-        "scMerge",
-        "scds"
+        "scMerge"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -3606,7 +3589,6 @@
         "motifmatchr",
         "seqLogo"
     ],
-    "speckle": [],
     "Spectra": [
         "MetaboCoreUtils",
         "MsCoreUtils"
@@ -3698,7 +3680,6 @@
         "mzID",
         "mzR"
     ],
-    "SynExtend": [],
     "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [
@@ -3960,7 +3941,6 @@
         "mzID",
         "mzR"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta",
         "siggenes"
