@@ -537,7 +537,6 @@
         "GSEABase"
     ],
     "CelliD": [],
-    "cellity": [],
     "CellMixS": [],
     "CellNOptR": [
         "Rgraphviz"
@@ -624,7 +623,6 @@
         "frma",
         "oligo"
     ],
-    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [
@@ -656,7 +654,6 @@
     "cisPath": [],
     "CiteFuse": [],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [
         "KEGGgraph",
         "Rgraphviz",
@@ -864,7 +861,6 @@
         "crisprBowtie"
     ],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "VariantAnnotation",
@@ -1517,7 +1513,6 @@
         "oligo"
     ],
     "frmaTools": [],
-    "FunChIP": [],
     "funtooNorm": [
         "illuminaio",
         "minfi",
@@ -1582,7 +1577,6 @@
     ],
     "GeneExpressionSignature": [],
     "genefu": [],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [
         "Rgraphviz"
@@ -1598,7 +1592,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "geneXtendeR": [],
     "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
@@ -1735,7 +1728,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "groHMM": [],
     "GSCA": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
@@ -1809,7 +1801,6 @@
     "HiLDA": [],
     "hipathia": [],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [],
     "hpar": [],
@@ -1899,9 +1890,7 @@
         "cytolib",
         "flowCore"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [
@@ -2120,7 +2109,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "MultiDataSet",
@@ -2748,7 +2736,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -3227,7 +3214,6 @@
         "mzR"
     ],
     "Rmmquant": [],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -3527,12 +3513,9 @@
         "Ringo"
     ],
     "SimBu": [],
-    "SimFFPE": [],
-    "simona": [],
     "simpleSeg": [
         "cytomapper"
     ],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSEABase",
