@@ -1434,12 +1434,9 @@
         "VariantAnnotation"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -2561,7 +2558,6 @@
         "Rgraphviz"
     ],
     "PCAN": [],
-    "PDATK": [],
     "pdInfoBuilder": [
         "affxparser",
         "oligo"
@@ -2583,7 +2579,6 @@
     "phantasusLite": [
         "rhdf5client"
     ],
-    "PharmacoGx": [],
     "phemd": [
         "destiny",
         "monocle"
@@ -2778,7 +2773,6 @@
         "VariantAnnotation"
     ],
     "R4RNA": [],
-    "RadioGx": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "VariantAnnotation"
@@ -3452,7 +3446,6 @@
         "mzID",
         "mzR"
     ],
-    "ToxicoGx": [],
     "TPP": [],
     "TPP2D": [],
     "trackViewer": [
@@ -3589,9 +3582,7 @@
     "XDE": [
         "GeneMeta"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "yamss": [
         "mzR"
     ],
