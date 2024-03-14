@@ -149,7 +149,6 @@
         "hypergraph"
     ],
     "AMARETTO": [],
-    "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
@@ -262,7 +261,6 @@
         "pRoloc"
     ],
     "banocc": [],
-    "basecallQC": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -279,7 +277,6 @@
         "illuminaio"
     ],
     "beadarraySNP": [],
-    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -499,7 +496,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -594,18 +590,13 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "chipseq",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "DOSE",
         "enrichplot",
         "ggtree"
     ],
-    "chipseq": [],
-    "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "affxparser",
         "frma",
@@ -780,7 +771,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -964,9 +954,7 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "DOSE",
         "MSnbase",
@@ -1077,9 +1065,7 @@
     "DIAlignR": [
         "mzR"
     ],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
@@ -1159,7 +1145,6 @@
     ],
     "EBSeqHMM": [],
     "ecolitk": [],
-    "EDASeq": [],
     "edge": [],
     "EGSEA": [
         "GSEABase",
@@ -1318,7 +1303,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "factR": [],
     "FamAgg": [],
     "famat": [
         "DOSE",
@@ -1510,8 +1494,7 @@
     "gage": [],
     "gaggle": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "cytolib",
@@ -1696,7 +1679,6 @@
         "GSEABase",
         "Rgraphviz"
     ],
-    "GOTHiC": [],
     "gpls": [],
     "granulator": [],
     "graphite": [],
@@ -1781,7 +1763,6 @@
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HTSFilter": [],
@@ -2160,7 +2141,6 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq"
     ],
     "MetCirc": [
@@ -2617,10 +2597,8 @@
     "npGSEA": [
         "GSEABase"
     ],
-    "nucleR": [],
     "OCplus": [],
     "octad": [
-        "EDASeq",
         "GSEABase",
         "GSVA",
         "RUVSeq"
@@ -2697,7 +2675,6 @@
     ],
     "orthos": [],
     "OSAT": [],
-    "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
@@ -2858,7 +2835,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "chipseq",
         "enrichplot",
         "ggtree",
         "soGGi"
@@ -3126,7 +3102,6 @@
         "seqLogo"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "Rsubread",
         "TFBSTools",
@@ -3230,7 +3205,6 @@
     ],
     "rRDP": [],
     "Rsubread": [],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -3240,9 +3214,7 @@
     "RTopper": [],
     "Rtreemix": [],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
@@ -3318,7 +3290,6 @@
     ],
     "SCnorm": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [
@@ -3380,7 +3351,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA"
     ],
@@ -3507,9 +3477,7 @@
     "SNPhood": [
         "VariantAnnotation"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -3596,7 +3564,6 @@
     ],
     "ssPATHS": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -3638,7 +3605,6 @@
         "mzID",
         "mzR"
     ],
-    "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [
         "ggtree"
@@ -3757,9 +3723,7 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -3870,8 +3834,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "illuminaio",
