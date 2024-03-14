@@ -2942,7 +2942,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache"
     ],
@@ -27234,7 +27233,6 @@
         "marray",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
