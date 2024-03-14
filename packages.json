@@ -60,7 +60,6 @@
         "MultiAssayExperiment"
     ],
     "affxparser": [],
-    "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
         "AnnotationForge",
@@ -84,7 +83,6 @@
         "gcrma",
         "genefilter",
         "ggbio",
-        "oligoClasses",
         "rtracklayer"
     ],
     "affyILM": [
@@ -98,7 +96,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase"
     ],
@@ -129,7 +126,6 @@
         "gcrma",
         "genefilter",
         "ggbio",
-        "oligoClasses",
         "rtracklayer"
     ],
     "AHMassBank": [
@@ -416,8 +412,7 @@
     ],
     "ArrayExpress": [
         "affxparser",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "arrayMvout": [
         "BiocIO",
@@ -427,7 +422,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "Rsamtools",
-        "affyContam",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -1150,7 +1144,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
         "BiocIO",
@@ -1698,8 +1691,7 @@
         "GEOquery",
         "affxparser",
         "frma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "chromDraw": [],
     "ChromHeatMap": [
@@ -1894,8 +1886,7 @@
     ],
     "cn.farms": [
         "affxparser",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "cn.mops": [
         "Rsamtools",
@@ -2386,18 +2377,15 @@
         "rtracklayer"
     ],
     "crlmm": [
-        "illuminaio",
-        "oligoClasses"
+        "illuminaio"
     ],
     "crossmeta": [
         "GEOquery",
         "affxparser",
         "genefilter",
         "oligo",
-        "oligoClasses",
         "sva"
     ],
-    "CSAR": [],
     "csaw": [
         "Rsamtools"
     ],
@@ -2793,7 +2781,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "DEqMS": [],
     "derfinder": [
         "BSgenome",
@@ -3098,8 +3085,7 @@
         "GEOquery",
         "affxparser",
         "biomaRt",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "DSS": [
         "BSgenome",
@@ -3900,8 +3886,7 @@
     ],
     "frma": [
         "affxparser",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "frmaTools": [],
     "FunChIP": [
@@ -4241,7 +4226,6 @@
     ],
     "GEOquery": [],
     "GEOsubmission": [],
-    "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase",
         "rhdf5"
@@ -4984,7 +4968,6 @@
     "iPAC": [
         "multtest"
     ],
-    "iPath": [],
     "ipdDb": [
         "AnnotationHub",
         "interactiveDisplayBase"
@@ -5077,8 +5060,7 @@
     ],
     "ITALICS": [
         "affxparser",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "iterativeBMA": [],
     "iterClust": [],
@@ -5315,7 +5297,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "oligoClasses",
         "rhdf5",
         "rtracklayer",
         "siggenes"
@@ -5441,9 +5422,7 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "mBPCR": [
-        "oligoClasses"
-    ],
+    "mBPCR": [],
     "MBQN": [],
     "mbQTL": [
         "metagenomeSeq"
@@ -5969,9 +5948,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [
         "MultiAssayExperiment"
     ],
@@ -5985,8 +5962,7 @@
         "affxparser",
         "affyPLM",
         "gcrma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "MineICA": [
         "AnnotationForge",
@@ -6038,7 +6014,6 @@
         "VanillaICE",
         "crlmm",
         "illuminaio",
-        "oligoClasses",
         "rtracklayer"
     ],
     "MiPP": [],
@@ -6794,7 +6769,6 @@
     "npGSEA": [
         "GSEABase"
     ],
-    "nucleoSim": [],
     "nucleR": [
         "GenomicAlignments",
         "Rsamtools",
@@ -6855,10 +6829,8 @@
         "rtracklayer"
     ],
     "oligo": [
-        "affxparser",
-        "oligoClasses"
+        "affxparser"
     ],
-    "oligoClasses": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
@@ -7143,8 +7115,7 @@
     ],
     "pdInfoBuilder": [
         "affxparser",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PeacoQC": [
         "ComplexHeatmap",
@@ -7560,8 +7531,7 @@
     ],
     "puma": [
         "affxparser",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PureCN": [
         "BSgenome",
@@ -7649,7 +7619,6 @@
         "sva"
     ],
     "QTLExperiment": [],
-    "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
         "BiocIO",
@@ -7937,7 +7906,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "SingleCellExperiment",
-        "TOAST",
         "beachmat",
         "bluster",
         "fgsea",
@@ -8427,7 +8395,6 @@
         "rtracklayer",
         "siggenes"
     ],
-    "Rnits": [],
     "roar": [
         "BiocIO",
         "GenomicAlignments",
@@ -8522,7 +8489,6 @@
         "rtracklayer"
     ],
     "runibic": [],
-    "RUVcorr": [],
     "RUVSeq": [
         "BiocIO",
         "EDASeq",
@@ -8577,7 +8543,6 @@
         "affxparser",
         "genefilter",
         "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiR": [
@@ -9646,7 +9611,6 @@
         "rhdf5"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -9792,7 +9756,6 @@
     "SynExtend": [
         "DECIPHER"
     ],
-    "SynMut": [],
     "syntenet": [
         "BiocIO",
         "GenomicAlignments",
@@ -10027,7 +9990,6 @@
         "rhdf5"
     ],
     "TnT": [],
-    "TOAST": [],
     "tomoda": [],
     "tomoseqr": [],
     "TOP": [
@@ -10316,7 +10278,6 @@
         "Rsamtools",
         "crlmm",
         "illuminaio",
-        "oligoClasses",
         "rtracklayer"
     ],
     "VarCon": [
