@@ -322,7 +322,6 @@
         "ALDEx2",
         "ANCOMBC",
         "MAST",
-        "Maaslin2",
         "NOISeq",
         "biomformat",
         "multtest",
@@ -330,7 +329,6 @@
         "zinbwave"
     ],
     "BgeeCall": [],
-    "BgeeDB": [],
     "bgx": [],
     "BicARE": [
         "GSEABase",
@@ -375,7 +373,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [],
     "BiocSklearn": [],
     "biodbChebi": [],
     "biodbHmdb": [],
@@ -650,7 +647,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
         "biovizBase"
@@ -704,7 +700,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq"
     ],
@@ -1419,7 +1414,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1675,7 +1669,6 @@
         "BioNet"
     ],
     "GBScleanR": [],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
         "GenomicDataCommons",
@@ -1854,7 +1847,6 @@
     "GOpro": [],
     "goProfiles": [],
     "goseq": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2066,7 +2058,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase"
@@ -2215,10 +2206,7 @@
         "ggtree"
     ],
     "m6Aboost": [],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "maCorrPlot": [],
     "MACSr": [],
     "MADSEQ": [
@@ -2570,9 +2558,7 @@
     ],
     "MLInterfaces": [],
     "MMDiff2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "mnem": [
         "Rgraphviz"
     ],
@@ -2617,7 +2603,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "mosaics": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -3112,7 +3097,6 @@
     "Pi": [
         "Rgraphviz"
     ],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -3124,7 +3108,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3247,9 +3230,7 @@
         "MsCoreUtils",
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "MsCoreUtils",
@@ -3349,7 +3330,6 @@
     ],
     "rawrr": [],
     "Rbec": [],
-    "Rbowtie2": [],
     "RCAS": [
         "genomation",
         "seqLogo"
@@ -3520,9 +3500,7 @@
         "mzR",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
@@ -3613,7 +3591,6 @@
         "ropls"
     ],
     "rRDP": [],
-    "rrvgo": [],
     "Rsubread": [],
     "RSVSim": [],
     "RTCGAToolbox": [
@@ -3725,7 +3702,6 @@
         "cytolib",
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation"
     ],
@@ -4139,7 +4115,6 @@
         "GenomicDataCommons",
         "RaggedExperiment"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot",
@@ -4153,7 +4128,6 @@
         "restfulSE",
         "rhdf5client"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -4289,7 +4263,6 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -4313,7 +4286,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "VarCon": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray"
