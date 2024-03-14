@@ -547,9 +547,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "enrichplot",
@@ -720,9 +718,7 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [
         "GSEABase",
         "GSVA"
@@ -885,7 +881,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [],
     "dagLogo": [
         "TFBSTools",
         "UniProt.ws",
@@ -895,7 +890,6 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "DOSE",
         "MSnbase",
@@ -995,7 +989,6 @@
     "DIAlignR": [
         "mzR"
     ],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -1404,9 +1397,7 @@
     "gaga": [],
     "gage": [],
     "gaggle": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "cytolib",
         "flowCore",
@@ -1699,7 +1690,6 @@
     "IMAS": [
         "IVAS"
     ],
-    "imcRtools": [],
     "ImmuneSpaceR": [
         "Rgraphviz",
         "cytolib",
@@ -1816,7 +1806,6 @@
     "kissDE": [
         "DSS"
     ],
-    "lemur": [],
     "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
@@ -2437,8 +2426,7 @@
     ],
     "octad": [
         "GSEABase",
-        "GSVA",
-        "RUVSeq"
+        "GSVA"
     ],
     "OGRE": [
         "Gviz",
@@ -2648,8 +2636,7 @@
         "ChIPseeker",
         "DOSE",
         "enrichplot",
-        "ggtree",
-        "soGGi"
+        "ggtree"
     ],
     "progeny": [],
     "projectR": [],
@@ -2810,7 +2797,6 @@
     "recoup": [],
     "RedisParam": [],
     "REDseq": [],
-    "RegionalST": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -2882,7 +2868,6 @@
         "seqLogo"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "Rsubread",
         "TFBSTools",
         "motifStack",
@@ -2987,7 +2972,6 @@
     ],
     "RTNsurvival": [],
     "Rtreemix": [],
-    "RUVSeq": [],
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
@@ -3051,9 +3035,7 @@
     "scMET": [],
     "scmeth": [],
     "SCnorm": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -3181,7 +3163,6 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "simpleSeg": [],
     "singleCellTK": [
         "GSEABase",
         "GSVA",
@@ -3225,7 +3206,6 @@
     "SNPhood": [
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -3298,9 +3278,7 @@
         "graphite"
     ],
     "ssPATHS": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "Category",
         "GSEABase",
@@ -3452,8 +3430,6 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptR": [],
-    "transformGamPoi": [],
     "transite": [],
     "traviz": [
         "TrajectoryUtils",
@@ -3544,9 +3520,7 @@
         "VariantAnnotation",
         "gwascat"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "illuminaio",
         "lumi",
