@@ -144,7 +144,6 @@
     "altcdfenvs": [
         "hypergraph"
     ],
-    "AMARETTO": [],
     "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
@@ -251,15 +250,11 @@
         "pRoloc"
     ],
     "banocc": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
-    "beachmat.hdf5": [],
     "beadarray": [
         "illuminaio"
     ],
@@ -310,7 +305,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocSklearn": [],
     "biodbChebi": [],
     "biodbHmdb": [],
     "BioMVCClass": [
@@ -341,7 +335,6 @@
         "QDNAseq",
         "VariantAnnotation",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "BiSeq": [],
@@ -374,8 +367,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "BPRMeth": [],
     "BRAIN": [],
@@ -392,7 +384,6 @@
     "branchpointer": [],
     "brendaDb": [],
     "BRGenomics": [],
-    "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase"
@@ -544,7 +535,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "illuminaio",
         "lumi",
         "methylumi",
@@ -553,7 +543,6 @@
         "wateRmelon"
     ],
     "CHETAH": [],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "Rgraphviz",
@@ -698,8 +687,7 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "cogeqc": [
         "ggtree"
@@ -987,8 +975,7 @@
     ],
     "deltaCaptureC": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxSNP": [
         "VariantAnnotation"
@@ -1047,15 +1034,13 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -1085,9 +1070,7 @@
         "affxparser",
         "oligo"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "DTA": [],
     "dupRadar": [
         "Rsubread"
@@ -1870,8 +1853,7 @@
     ],
     "keggorthology": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "lemur": [],
     "LineagePulse": [],
@@ -2068,8 +2050,7 @@
         "NOISeq"
     ],
     "metaseqR2": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "MetCirc": [
         "MetaboCoreUtils",
@@ -2088,7 +2069,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "illuminaio",
         "minfi"
     ],
@@ -2120,8 +2100,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "illuminaio",
@@ -2180,9 +2159,7 @@
     ],
     "MiPP": [],
     "miQC": [],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "MiRaGE": [],
     "miRcomp": [],
     "mirIntegrator": [
@@ -2397,7 +2374,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
@@ -2432,9 +2408,7 @@
         "seqLogo",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NanoStringNCTools": [],
     "NanoTube": [],
     "NBAMSeq": [],
@@ -2689,7 +2663,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
@@ -2878,10 +2851,7 @@
     "rcellminer": [],
     "rCGH": [],
     "RCM": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomeGSA": [],
     "ReactomePA": [
@@ -2952,7 +2922,6 @@
         "rhdf5client"
     ],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "rexposome": [],
@@ -3157,8 +3126,7 @@
     "scmap": [],
     "scMET": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SCnorm": [],
     "scone": [
@@ -3335,7 +3303,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "snifter": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
@@ -3347,13 +3314,11 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [
         "iPAC"
     ],
-    "Spaniel": [],
     "sparrow": [
         "GSEABase"
     ],
@@ -3363,7 +3328,6 @@
         "NanoStringNCTools"
     ],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools",
         "NanoStringNCTools"
@@ -3396,7 +3360,6 @@
     ],
     "SpidermiR": [],
     "splatter": [],
-    "SpliceWiz": [],
     "SplicingFactory": [],
     "SplicingGraphs": [
         "Rgraphviz"
