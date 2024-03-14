@@ -13,7 +13,6 @@
         "a4Core"
     ],
     "a4Core": [],
-    "ABarray": [],
     "abseqR": [],
     "acde": [],
     "ACE": [
@@ -919,7 +918,6 @@
     ],
     "CytoGLMM": [],
     "cytolib": [],
-    "cytomapper": [],
     "cytoMEM": [
         "cytolib",
         "flowCore"
@@ -956,9 +954,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "TFBSTools",
         "UniProt.ws",
@@ -1833,9 +1829,7 @@
     "IMAS": [
         "IVAS"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "Rgraphviz",
         "cytolib",
@@ -2239,7 +2233,6 @@
     "miaViz": [
         "ggtree"
     ],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
@@ -3463,9 +3456,7 @@
         "Ringo"
     ],
     "SimBu": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSEABase",
@@ -3620,7 +3611,6 @@
     "Statial": [],
     "statTarget": [],
     "stepNorm": [],
-    "stJoincount": [],
     "Streamer": [],
     "struct": [],
     "structToolbox": [
