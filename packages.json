@@ -135,7 +135,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
         "VariantAnnotation",
@@ -155,7 +154,6 @@
         "AnnotationForge",
         "OrganismDbi"
     ],
-    "annotatr": [],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
@@ -206,7 +204,6 @@
         "seqLogo"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "TFBSTools",
         "motifStack",
         "seqLogo"
@@ -259,7 +256,6 @@
     ],
     "beadarraySNP": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "MAST",
         "NOISeq"
@@ -333,7 +329,6 @@
         "OrganismDbi",
         "QDNAseq",
         "VariantAnnotation",
-        "annotatr",
         "dmrseq"
     ],
     "BiSeq": [],
@@ -552,7 +547,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -640,7 +634,6 @@
         "affxparser",
         "oligo"
     ],
-    "cn.mops": [],
     "CNORdt": [
         "CellNOptR",
         "Rgraphviz"
@@ -662,7 +655,6 @@
         "VariantAnnotation",
         "bamsignals",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "cnvGSA": [],
@@ -671,7 +663,6 @@
         "VariantAnnotation",
         "bamsignals",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVMetrics": [],
@@ -749,7 +740,6 @@
         "VariantAnnotation",
         "bamsignals",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "coRdon": [],
@@ -773,7 +763,6 @@
     "cosmosR": [
         "GSEABase"
     ],
-    "COTAN": [],
     "cpvSNP": [
         "GSEABase"
     ],
@@ -818,7 +807,6 @@
     "csdR": [],
     "CTDquerier": [],
     "cTRAP": [],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -1001,9 +989,7 @@
         "derfinderHelper",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DEsingle": [],
     "destiny": [],
     "DEXSeq": [],
@@ -1035,9 +1021,7 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -1472,7 +1456,6 @@
         "affxparser"
     ],
     "geneRxCluster": [],
-    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "VariantAnnotation",
@@ -1624,8 +1607,7 @@
         "GSEABase"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
-        "ChIPpeakAnno"
+        "CRISPRseek"
     ],
     "Gviz": [
         "VariantAnnotation",
@@ -2099,7 +2081,6 @@
         "ggtree"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "ggtree"
     ],
@@ -2379,7 +2360,6 @@
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
         "Gviz",
         "Rgraphviz",
@@ -2422,7 +2402,6 @@
     ],
     "NetActivity": [],
     "netboost": [],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH",
         "Rgraphviz"
@@ -2482,9 +2461,7 @@
         "widgetTools"
     ],
     "omada": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "rexposome"
@@ -2556,9 +2533,7 @@
     "pairedGSEA": [
         "DEXSeq"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GSEABase",
@@ -2806,7 +2781,6 @@
     "RadioGx": [],
     "RaggedExperiment": [],
     "RAIDS": [
-        "GENESIS",
         "VariantAnnotation"
     ],
     "ramr": [],
@@ -2848,12 +2822,8 @@
     ],
     "recoup": [],
     "RedisParam": [],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
-    "regionalpcs": [],
+    "REDseq": [],
     "RegionalST": [],
-    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -3086,16 +3056,13 @@
         "GSVA"
     ],
     "scGPS": [],
-    "scider": [],
     "scifer": [
         "cytolib",
         "flowCore"
     ],
     "scmap": [],
     "scMET": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "SCnorm": [],
     "scone": [
         "RUVSeq"
@@ -3199,7 +3166,6 @@
         "illuminaio",
         "minfi"
     ],
-    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -3279,9 +3245,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "annotatr"
-    ],
+    "SOMNiBUS": [],
     "SpacePAC": [],
     "sparrow": [
         "GSEABase"
@@ -3290,7 +3254,6 @@
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "SpatialFeatureExperiment": [],
     "SpatialOmicsOverlay": [
         "GeomxTools",
         "NanoStringNCTools"
@@ -3360,7 +3323,6 @@
         "SpidermiR",
         "graphite"
     ],
-    "Statial": [],
     "statTarget": [],
     "stepNorm": [],
     "Streamer": [],
@@ -3548,7 +3510,6 @@
     "Ularcirc": [
         "Organism.dplyr"
     ],
-    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
@@ -3594,16 +3555,13 @@
     "vissE": [
         "GSEABase"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "wateRmelon": [
