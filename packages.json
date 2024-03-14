@@ -573,7 +573,6 @@
     "cfTools": [],
     "CGEN": [],
     "CGHcall": [],
-    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall"
     ],
@@ -1138,7 +1137,6 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doppelgangR": [],
     "Doscheda": [],
     "DOSE": [],
     "doubletrouble": [],
