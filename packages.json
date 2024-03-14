@@ -63,7 +63,6 @@
     "aCGH": [
         "multtest"
     ],
-    "ACME": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
@@ -1486,7 +1485,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BAGS": [],
     "ballgown": [
         "AnnotationDbi",
         "BiocIO",
@@ -1739,7 +1737,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocFileCache",
         "BiocNeighbors",
@@ -2270,7 +2267,6 @@
     ],
     "BiocVersion": [],
     "biocViews": [],
-    "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache"
     ],
@@ -4733,7 +4729,6 @@
         "baySeq",
         "edgeR"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
@@ -5475,7 +5470,6 @@
     "convert": [
         "marray"
     ],
-    "copa": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -11253,7 +11247,6 @@
         "pathview",
         "safe"
     ],
-    "GSEAlm": [],
     "GSEAmining": [],
     "gsean": [
         "AnnotationDbi",
@@ -11799,7 +11792,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -13099,7 +13091,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "lefser": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -14865,7 +14856,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "mfa": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -16329,7 +16319,6 @@
         "pcaMethods",
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -17015,7 +17004,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "pandaR",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -17945,7 +17933,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "pandaR": [],
     "panelcn.mops": [
         "BiocParallel",
         "Biostrings",
@@ -17999,7 +17986,6 @@
         "dir.expiry",
         "fgsea"
     ],
-    "parglms": [],
     "parody": [],
     "partCNV": [
         "AnnotationDbi",
@@ -18201,7 +18187,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROTS",
         "S4Vectors",
         "XVector",
         "affy",
@@ -21396,7 +21381,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROTS",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -21430,7 +21414,6 @@
     "ROSeq": [
         "edgeR"
     ],
-    "ROTS": [],
     "RPA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -21695,7 +21678,6 @@
     "RUVcorr": [
         "BiocParallel"
     ],
-    "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
         "BiocFileCache",
