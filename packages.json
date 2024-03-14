@@ -2486,10 +2486,7 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "MsCoreUtils",
@@ -2503,9 +2500,7 @@
         "mzID",
         "mzR"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
