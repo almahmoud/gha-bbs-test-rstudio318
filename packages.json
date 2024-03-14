@@ -993,10 +993,8 @@
     "crisprDesign": [
         "VariantAnnotation",
         "crisprBase",
-        "crisprBowtie",
-        "crisprScore"
+        "crisprBowtie"
     ],
-    "crisprScore": [],
     "CRISPRseek": [],
     "CrispRVariants": [],
     "crisprVerse": [
@@ -1006,7 +1004,6 @@
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
@@ -1015,8 +1012,7 @@
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crlmm": [
         "illuminaio"
@@ -3088,7 +3084,6 @@
         "GSVA",
         "RUVSeq"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "VariantAnnotation",
