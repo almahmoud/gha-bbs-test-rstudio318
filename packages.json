@@ -988,12 +988,9 @@
         "ggtree"
     ],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "casper": [
         "GenomicFeatures",
         "biomaRt",
@@ -2286,7 +2283,6 @@
     "DOSE": [
         "fgsea"
     ],
-    "doseR": [],
     "doubletrouble": [
         "GenomicFeatures",
         "MSA2dist",
@@ -3098,7 +3094,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "GenomicFeatures",
         "biomaRt"
@@ -4047,7 +4042,6 @@
         "TFBSTools",
         "seqLogo"
     ],
-    "matter": [],
     "MBASED": [],
     "MBECS": [
         "biomformat",
@@ -4126,7 +4120,6 @@
         "biomaRt"
     ],
     "MEDME": [],
-    "megadepth": [],
     "Melissa": [
         "BPRMeth"
     ],
