@@ -156,7 +156,6 @@
         "OrganismDbi"
     ],
     "annotatr": [],
-    "anota2seq": [],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
@@ -1006,7 +1005,6 @@
         "ChIPpeakAnno"
     ],
     "DEsingle": [],
-    "DESpace": [],
     "destiny": [],
     "DEXSeq": [],
     "DFP": [],
@@ -1014,7 +1012,6 @@
         "mzR"
     ],
     "DiffBind": [],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "cytolib",
@@ -1454,10 +1451,8 @@
     ],
     "gDR": [
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "PharmacoGx"
     ],
@@ -1654,7 +1649,6 @@
         "VariantAnnotation"
     ],
     "hermes": [],
-    "HERON": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -1678,7 +1672,6 @@
     "HiLDA": [],
     "hipathia": [],
     "hmdbQuery": [],
-    "hoodscanR": [],
     "hpar": [],
     "HTSeqGenie": [
         "VariantAnnotation",
@@ -2105,7 +2098,6 @@
     "miaViz": [
         "ggtree"
     ],
-    "microbiomeDASim": [],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
@@ -2470,7 +2462,6 @@
     "npGSEA": [
         "GSEABase"
     ],
-    "OCplus": [],
     "octad": [
         "GSEABase",
         "GSVA",
@@ -2579,7 +2570,6 @@
         "DOSE"
     ],
     "partCNV": [],
-    "PathoStat": [],
     "pathRender": [
         "Rgraphviz"
     ],
@@ -2836,7 +2826,6 @@
     "RCASPAR": [],
     "rcellminer": [],
     "rCGH": [],
-    "RCM": [],
     "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomeGSA": [],
@@ -2915,7 +2904,6 @@
     "rGADEM": [
         "seqLogo"
     ],
-    "RgnTX": [],
     "rgoslin": [],
     "Rgraphviz": [],
     "rhdf5client": [],
@@ -2959,7 +2947,6 @@
         "mzR",
         "xcms"
     ],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
@@ -3080,7 +3067,6 @@
         "SCArray"
     ],
     "scatterHatch": [],
-    "scBFA": [],
     "scBubbletree": [
         "ggtree"
     ],
@@ -3097,8 +3083,7 @@
     "scFeatures": [
         "AUCell",
         "GSEABase",
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "scGPS": [],
     "scider": [],
@@ -3244,7 +3229,6 @@
         "Ringo"
     ],
     "simpleSeg": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSEABase",
         "GSVA",
@@ -3353,7 +3337,6 @@
         "seqLogo"
     ],
     "spqn": [],
-    "SPsimSeq": [],
     "SQLDataFrame": [],
     "srnadiff": [
         "Gviz",
