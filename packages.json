@@ -168,7 +168,6 @@
     ],
     "AMARETTO": [],
     "amplican": [],
-    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
@@ -599,7 +598,6 @@
         "GSEABase",
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [
         "MAST"
     ],
@@ -1030,7 +1028,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -1248,7 +1245,6 @@
     ],
     "destiny": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "sva"
     ],
@@ -1361,7 +1357,6 @@
     "edge": [
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [],
     "EGSEA": [
         "GSEABase",
@@ -1515,7 +1510,6 @@
     ],
     "esetVis": [],
     "eudysbiome": [],
-    "evaluomeR": [],
     "EventPointer": [
         "SGSeq",
         "affxparser"
@@ -1750,7 +1744,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "sva"
     ],
     "GateFinder": [
@@ -2698,7 +2691,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2"
@@ -2884,7 +2876,6 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -3005,7 +2996,6 @@
     "netresponse": [
         "Rgraphviz"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
@@ -3386,7 +3376,6 @@
     "ProteoDisco": [
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [],
     "PSEA": [],
     "psichomics": [
@@ -3418,7 +3407,6 @@
         "VariantAnnotation"
     ],
     "pvac": [],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "VariantAnnotation",
@@ -3980,7 +3968,6 @@
         "VariantAnnotation"
     ],
     "SeqGate": [],
-    "SeqGSEA": [],
     "seqLogo": [],
     "seqsetvis": [],
     "SeqSQC": [],
@@ -4498,7 +4485,6 @@
         "biovizBase"
     ],
     "UNDO": [],
-    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation"
@@ -4539,7 +4525,6 @@
     "VegaMC": [],
     "velociraptor": [],
     "VERSO": [],
-    "vidger": [],
     "ViSEAGO": [
         "AnnotationForge"
     ],
@@ -4575,7 +4560,6 @@
         "multtest",
         "siggenes"
     ],
-    "wavClusteR": [],
     "webbioc": [
         "annaffy",
         "multtest"
