@@ -35,7 +35,6 @@
     ],
     "ADImpute": [],
     "adSplit": [],
-    "AffiXcan": [],
     "affxparser": [],
     "affycoretools": [
         "AnnotationForge",
@@ -211,7 +210,6 @@
     "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "OrganismDbi",
         "TFBSTools",
         "chromVAR",
@@ -290,7 +288,6 @@
         "MAST",
         "NOISeq"
     ],
-    "BgeeCall": [],
     "bgx": [],
     "BicARE": [
         "GSEABase"
@@ -742,7 +739,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -792,8 +788,7 @@
     ],
     "consensusOV": [
         "GSEABase",
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "CONSTANd": [],
     "contiBAIT": [
@@ -835,7 +830,6 @@
         "GSEABase"
     ],
     "COTAN": [],
-    "countsimQC": [],
     "cpvSNP": [
         "GSEABase"
     ],
@@ -1568,7 +1562,6 @@
         "QDNAseq"
     ],
     "GeneExpressionSignature": [],
-    "genefu": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [
         "Rgraphviz"
@@ -1668,7 +1661,6 @@
         "GSEABase"
     ],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [
         "GSEABase"
     ],
@@ -1712,7 +1704,6 @@
     ],
     "GOTHiC": [],
     "gpls": [],
-    "GRaNIE": [],
     "granulator": [],
     "graphite": [],
     "GraphPAC": [
@@ -1880,7 +1871,6 @@
     ],
     "InPAS": [],
     "INSPEcT": [],
-    "InTAD": [],
     "intansv": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -2116,7 +2106,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEDME": [],
     "Melissa": [
         "BPRMeth"
@@ -2170,7 +2159,6 @@
         "mzR",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -2666,13 +2654,11 @@
         "widgetTools"
     ],
     "omada": [],
-    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
     "omicRexposome": [
         "MultiDataSet",
-        "omicade4",
         "rexposome"
     ],
     "OMICsPCA": [
@@ -2777,8 +2763,7 @@
     ],
     "PCAN": [],
     "PDATK": [
-        "CoreGx",
-        "genefu"
+        "CoreGx"
     ],
     "pdInfoBuilder": [
         "affxparser",
@@ -3019,7 +3004,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
@@ -3135,7 +3119,6 @@
     "rGADEM": [
         "seqLogo"
     ],
-    "rGenomeTracks": [],
     "RgnTX": [],
     "rgoslin": [],
     "Rgraphviz": [],
@@ -3476,8 +3459,7 @@
     "signifinder": [
         "GSEABase",
         "GSVA",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SigsPack": [
         "VariantAnnotation"
@@ -3911,7 +3893,6 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "illuminaio",
         "lumi",
@@ -3922,7 +3903,6 @@
     "webbioc": [
         "annaffy"
     ],
-    "weitrix": [],
     "widgetTools": [],
     "wpm": [],
     "xcms": [
