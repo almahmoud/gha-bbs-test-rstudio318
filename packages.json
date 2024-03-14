@@ -578,7 +578,6 @@
         "MAST"
     ],
     "celda": [],
-    "CellBarcode": [],
     "cellbaseR": [],
     "cellHTS2": [
         "Category",
@@ -1072,7 +1071,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
@@ -1490,7 +1488,6 @@
         "ggtree"
     ],
     "fastLiquidAssociation": [],
-    "FastqCleaner": [],
     "fCCAC": [
         "genomation"
     ],
@@ -2099,7 +2096,6 @@
         "seqLogo"
     ],
     "IntOMICS": [],
-    "IONiseR": [],
     "iPAC": [
         "multtest"
     ],
@@ -3374,9 +3370,7 @@
         "VariantAnnotation"
     ],
     "rawrr": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "Rbowtie2": [],
     "RCAS": [
         "genomation",
