@@ -2201,7 +2201,6 @@
         "TreeSummarizedExperiment"
     ],
     "ExploreModelMatrix": [],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "EnrichedHeatmap",
         "GenomicInteractions",
@@ -2263,7 +2262,6 @@
     "FindIT2": [
         "MultiAssayExperiment"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "SingleCellExperiment"
     ],
@@ -3273,7 +3271,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -3606,7 +3603,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylscaper": [],
     "MethylSeekR": [],
     "methylSig": [
         "DSS",
@@ -4334,9 +4330,7 @@
     ],
     "omada": [],
     "OmaDB": [],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2",
         "multtest"
@@ -4344,7 +4338,6 @@
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
-        "made4",
         "omicade4",
         "rexposome",
         "sva"
