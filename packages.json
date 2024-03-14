@@ -299,7 +299,6 @@
     ],
     "banocc": [],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -651,7 +650,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -663,7 +661,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -720,7 +717,6 @@
         "Rgraphviz",
         "qpgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -879,7 +875,6 @@
         "genefu"
     ],
     "consensusSeekeR": [],
-    "consICA": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -928,7 +923,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [
         "GSEABase"
@@ -975,7 +969,6 @@
         "affxparser",
         "oligo"
     ],
-    "csaw": [],
     "csdR": [],
     "CSSQ": [],
     "CTDquerier": [],
@@ -1205,7 +1198,6 @@
         "mzR"
     ],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1219,9 +1211,7 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq",
         "Rsubread"
@@ -1381,9 +1371,7 @@
         "illuminaio"
     ],
     "epigraHMM": [
-        "GreyListChIP",
-        "bamsignals",
-        "csaw"
+        "bamsignals"
     ],
     "EpiMix": [],
     "epimutacions": [
@@ -1448,7 +1436,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "eudysbiome": [],
     "EventPointer": [
         "SGSeq",
@@ -1476,8 +1463,7 @@
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [],
     "FamAgg": [],
@@ -1509,7 +1495,6 @@
         "siggenes"
     ],
     "fgga": [],
-    "FilterFFPE": [],
     "FindIT2": [],
     "flagme": [
         "CAMERA",
@@ -1786,7 +1771,6 @@
         "NanoStringNCTools"
     ],
     "GEOexplorer": [],
-    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools"
     ],
@@ -1894,7 +1878,6 @@
         "iPAC",
         "multtest"
     ],
-    "GreyListChIP": [],
     "groHMM": [],
     "GSCA": [],
     "GSEABase": [],
@@ -2000,8 +1983,7 @@
     "hypergraph": [],
     "iCARE": [],
     "icetea": [
-        "VariantAnnotation",
-        "csaw"
+        "VariantAnnotation"
     ],
     "iCheck": [
         "illuminaio",
@@ -2644,14 +2626,12 @@
     "motifbreakR": [
         "CNEr",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
         "seqLogo"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "CNEr",
         "TFBSTools",
@@ -2836,7 +2816,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "csaw",
         "motifStack",
         "multtest",
         "regioneR",
@@ -3172,7 +3151,6 @@
         "MAST"
     ],
     "PPInfer": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -3610,7 +3588,6 @@
         "multtest",
         "siggenes"
     ],
-    "roar": [],
     "roastgsa": [],
     "ROCpAI": [],
     "ROntoTools": [
@@ -3649,9 +3626,7 @@
         "multtest"
     ],
     "Rtreemix": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
     ],
@@ -3801,7 +3776,6 @@
         "epivizrData"
     ],
     "scviR": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -3834,9 +3808,7 @@
     "sesame": [
         "illuminaio"
     ],
-    "SEtools": [
-        "sechm"
-    ],
+    "SEtools": [],
     "sevenbridges": [],
     "sevenC": [],
     "SGCP": [
@@ -3865,7 +3837,6 @@
         "multtest",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -4385,8 +4356,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
-        "csaw",
         "multtest",
         "regioneR",
         "systemPipeR"
