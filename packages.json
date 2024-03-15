@@ -46,7 +46,6 @@
         "affycoretools",
         "ggbio"
     ],
-    "AHMassBank": [],
     "airpart": [],
     "alabaster": [],
     "altcdfenvs": [
@@ -57,7 +56,6 @@
         "bamsignals"
     ],
     "annaffy": [],
-    "AnnotationHubData": [],
     "appreci8R": [],
     "arrayQualityMetrics": [
         "affyPLM"
@@ -516,21 +514,14 @@
         "bamsignals"
     ],
     "EpiMix": [],
-    "epimutacions": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [],
     "escape": [
@@ -540,7 +531,6 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "ExperimentHubData": [],
     "ExploreModelMatrix": [],
     "extraChIPs": [],
     "FamAgg": [],
@@ -1414,7 +1404,6 @@
         "GSEABase",
         "cellHTS2"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
@@ -1494,8 +1483,7 @@
         "GSEABase"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "bamsignals"
