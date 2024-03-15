@@ -60,31 +60,23 @@
     "airpart": [],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
     "AllelicImbalance": [
@@ -105,7 +97,6 @@
         "OrganismDbi"
     ],
     "APAlyzer": [],
-    "apComplex": [],
     "appreci8R": [
         "OrganismDbi"
     ],
@@ -203,7 +194,6 @@
     ],
     "BioNet": [],
     "BioNetStat": [
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [
@@ -221,7 +211,6 @@
     ],
     "blima": [],
     "BLMA": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "BloodGen3Module": [],
@@ -229,7 +218,6 @@
         "HiCBricks"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM"
     ],
     "BOBaFIT": [
@@ -337,7 +325,6 @@
         "GSEABase"
     ],
     "CelliD": [],
-    "CellNOptR": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -381,9 +368,7 @@
         "biovizBase"
     ],
     "ChIPseeker": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "chromPlot": [],
     "chromstaR": [
         "bamsignals"
@@ -405,9 +390,7 @@
         "SGSeq"
     ],
     "cisPath": [],
-    "clipper": [
-        "KEGGgraph"
-    ],
+    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -430,7 +413,6 @@
         "mzID",
         "mzR"
     ],
-    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [],
     "CMA": [],
@@ -438,19 +420,10 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.farms": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -661,7 +634,6 @@
         "flowViz"
     ],
     "debrowser": [
-        "KEGGgraph",
         "clusterProfiler",
         "pathview"
     ],
@@ -671,7 +643,6 @@
     "deepSNV": [],
     "DEFormats": [],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph"
     ],
     "DelayedRandomArray": [],
@@ -727,7 +698,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "safe",
@@ -738,13 +708,11 @@
     ],
     "DrugVsDisease": [],
     "DTA": [],
-    "easyRNASeq": [],
     "EBSEA": [],
     "EBSeqHMM": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "KEGGgraph",
         "gage",
         "pathview",
         "safe"
@@ -760,7 +728,6 @@
     "ENmix": [],
     "EnrichmentBrowser": [
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "safe"
@@ -982,7 +949,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "frma": [],
     "frmaTools": [],
     "funtooNorm": [],
     "GA4GHclient": [],
@@ -1003,7 +969,6 @@
     ],
     "GDCRNATools": [
         "GenomicDataCommons",
-        "KEGGgraph",
         "clusterProfiler",
         "pathview"
     ],
@@ -1017,7 +982,6 @@
         "QDNAseq"
     ],
     "GeneMeta": [],
-    "GeneNetworkBuilder": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -1075,7 +1039,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "girafe": [],
     "GISPA": [
         "GSEABase"
     ],
@@ -1115,7 +1078,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "safe"
@@ -1256,10 +1218,7 @@
     "katdetectr": [
         "maftools"
     ],
-    "KEGGgraph": [],
-    "KEGGlincs": [
-        "KEGGgraph"
-    ],
+    "KEGGlincs": [],
     "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
@@ -1283,9 +1242,7 @@
         "xcms"
     ],
     "loci2path": [],
-    "lpNet": [
-        "KEGGgraph"
-    ],
+    "lpNet": [],
     "LRBaseDbi": [],
     "LRcell": [],
     "lumi": [
@@ -1300,7 +1257,6 @@
         "methylumi"
     ],
     "MAGeCKFlute": [
-        "KEGGgraph",
         "clusterProfiler",
         "pathview"
     ],
@@ -1373,7 +1329,6 @@
         "struct"
     ],
     "MetaboSignal": [
-        "KEGGgraph",
         "MWASTools",
         "hpar"
     ],
@@ -1455,7 +1410,6 @@
     ],
     "MiRaGE": [],
     "mirIntegrator": [
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -1545,7 +1499,6 @@
     "msgbsR": [
         "OrganismDbi",
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msmsEDA": [
@@ -1629,9 +1582,7 @@
         "maftools"
     ],
     "MutationalPatterns": [],
-    "MWASTools": [
-        "KEGGgraph"
-    ],
+    "MWASTools": [],
     "myvariant": [],
     "mzID": [],
     "mzR": [],
@@ -1659,9 +1610,7 @@
         "mzR",
         "xcms"
     ],
-    "NCIgraph": [
-        "KEGGgraph"
-    ],
+    "NCIgraph": [],
     "nempi": [
         "epiNEM"
     ],
@@ -1670,9 +1619,7 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "AnnotationForge",
         "Category",
@@ -1746,7 +1693,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq"
     ],
@@ -1754,9 +1700,7 @@
         "GSEABase",
         "clusterProfiler"
     ],
-    "pathview": [
-        "KEGGgraph"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "AnnotationForge",
         "Category",
@@ -1764,7 +1708,6 @@
         "GSEABase"
     ],
     "PCAN": [],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
         "flowCore",
@@ -1869,7 +1812,6 @@
         "mzID",
         "mzR"
     ],
-    "puma": [],
     "PureCN": [],
     "Pviz": [
         "Gviz",
@@ -2033,9 +1975,7 @@
     ],
     "roastgsa": [],
     "ROCpAI": [],
-    "ROntoTools": [
-        "KEGGgraph"
-    ],
+    "ROntoTools": [],
     "ropls": [
         "MultiDataSet"
     ],
@@ -2059,10 +1999,8 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "SARC": [],
     "satuRn": [],
     "SBGNview": [
-        "KEGGgraph",
         "pathview"
     ],
     "scanMiR": [],
@@ -2230,9 +2168,7 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [
         "dittoSeq"
     ],
@@ -2276,7 +2212,6 @@
     "svaRetro": [
         "StructuralVariantAnnotation"
     ],
-    "SVMDO": [],
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
@@ -2456,7 +2391,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "KEGGgraph",
         "SPIA",
         "pathview",
         "safe"
