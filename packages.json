@@ -1,13 +1,11 @@
 {
     "a4": [
         "a4Base",
-        "a4Classif",
         "annaffy"
     ],
     "a4Base": [
         "annaffy"
     ],
-    "a4Classif": [],
     "acde": [],
     "ACE": [
         "CGHcall",
@@ -64,43 +62,33 @@
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
     "alabaster.bumpy": [],
     "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.matrix": [],
-    "alabaster.ranges": [],
     "alabaster.sce": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.matrix",
-        "alabaster.ranges"
+        "alabaster.matrix"
     ],
     "alabaster.spatial": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
-        "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AllelicImbalance": [
         "Gviz",
@@ -215,7 +203,6 @@
     ],
     "biodbChebi": [],
     "biodbHmdb": [],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -353,7 +340,6 @@
         "GSEABase",
         "PROMISE"
     ],
-    "celaref": [],
     "cellHTS2": [
         "Category",
         "GSEABase"
@@ -1232,7 +1218,6 @@
     "idr2d": [],
     "igvR": [],
     "IHW": [],
-    "IMAS": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -1296,7 +1281,6 @@
         "DEXSeq",
         "satuRn"
     ],
-    "ITALICS": [],
     "iterClust": [],
     "karyoploteR": [
         "bamsignals",
@@ -1354,7 +1338,6 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1771,10 +1754,8 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "oncoscanR": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "openCyto": [
         "cytolib",
@@ -1819,8 +1800,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pareg": [],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -2318,7 +2297,6 @@
     "SpidermiR": [],
     "splatter": [],
     "SplicingFactory": [],
-    "SplicingGraphs": [],
     "splineTimeR": [
         "GSEABase"
     ],
@@ -2331,7 +2309,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "sSNAPPY": [],
     "ssPATHS": [],
     "staRank": [
         "Category",
