@@ -497,7 +497,6 @@
         "GDSArray"
     ],
     "CNVrd2": [],
-    "cogeqc": [],
     "Cogito": [],
     "comapr": [
         "Gviz",
@@ -773,7 +772,6 @@
         "ArrayExpress"
     ],
     "DTA": [],
-    "easier": [],
     "easyRNASeq": [],
     "EBSEA": [],
     "EBSeqHMM": [],
@@ -867,9 +865,7 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationForge",
         "AnnotationHubData",
@@ -1092,7 +1088,6 @@
         "genomation"
     ],
     "GenomicTuples": [],
-    "GenProSeq": [],
     "GenVisR": [],
     "GeoDiff": [
         "GeomxTools",
@@ -1125,7 +1120,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [
         "GSEABase"
@@ -1320,14 +1314,11 @@
     "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
-    "LinTInd": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1351,7 +1342,6 @@
     "lumi": [
         "methylumi"
     ],
-    "LymphoSeq": [],
     "m6Aboost": [],
     "maCorrPlot": [],
     "MADSEQ": [],
@@ -1390,7 +1380,6 @@
     "mastR": [
         "GSEABase"
     ],
-    "MatrixQCvis": [],
     "MatrixRider": [],
     "MBASED": [],
     "MBQN": [],
@@ -1506,9 +1495,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microRNA": [],
     "midasHLA": [],
     "miloR": [],
@@ -1818,7 +1805,6 @@
     ],
     "ORFik": [],
     "OrganismDbi": [],
-    "orthogene": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -1863,7 +1849,6 @@
         "mzR"
     ],
     "pengls": [],
-    "phantasusLite": [],
     "phemd": [
         "destiny",
         "monocle"
@@ -2041,7 +2026,6 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "restfulSE": [],
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
@@ -2283,7 +2267,6 @@
         "GSEABase"
     ],
     "sitadela": [],
-    "sitePath": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -2337,7 +2320,6 @@
     "SPIAT": [
         "dittoSeq"
     ],
-    "spicyR": [],
     "SpidermiR": [],
     "splatter": [],
     "SplicingFactory": [],
@@ -2387,7 +2369,6 @@
         "mzID",
         "mzR"
     ],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -2395,7 +2376,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "tanggle": [],
     "TAPseq": [],
     "target": [],
     "TargetDecoy": [
@@ -2413,9 +2393,7 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -2451,7 +2429,6 @@
         "GSVA"
     ],
     "tomoda": [],
-    "TOP": [],
     "topdownr": [
         "MSnbase",
         "MsCoreUtils",
