@@ -31,7 +31,6 @@
         "mzR"
     ],
     "ADImpute": [],
-    "affxparser": [],
     "affycoretools": [
         "AnnotationForge",
         "Category",
@@ -44,9 +43,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "affyILM": [
-        "affxparser"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -157,7 +154,6 @@
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
-        "HybridMTest",
         "VariantAnnotation"
     ],
     "apComplex": [
@@ -168,7 +164,6 @@
         "VariantAnnotation"
     ],
     "ArrayExpress": [
-        "affxparser",
         "oligo"
     ],
     "arrayMvout": [
@@ -534,7 +529,6 @@
         "ggtree"
     ],
     "ChIPXpress": [
-        "affxparser",
         "frma",
         "oligo"
     ],
@@ -608,7 +602,6 @@
         "flowCore"
     ],
     "cn.farms": [
-        "affxparser",
         "oligo"
     ],
     "CNORdt": [
@@ -686,7 +679,6 @@
     ],
     "CONFESS": [
         "Rgraphviz",
-        "SamSPECTRAL",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -767,7 +759,6 @@
     ],
     "crlmm": [],
     "crossmeta": [
-        "affxparser",
         "oligo"
     ],
     "csdR": [],
@@ -883,7 +874,6 @@
     ],
     "ddCt": [],
     "ddPCRclust": [
-        "SamSPECTRAL",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -950,7 +940,6 @@
     "DEsingle": [],
     "destiny": [],
     "DEXSeq": [],
-    "DFP": [],
     "DIAlignR": [
         "mzR"
     ],
@@ -999,7 +988,6 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "affxparser",
         "oligo"
     ],
     "DTA": [],
@@ -1012,7 +1000,6 @@
     ],
     "EBSEA": [],
     "EBSeqHMM": [],
-    "ecolitk": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
@@ -1136,8 +1123,7 @@
         "UCell"
     ],
     "EventPointer": [
-        "SGSeq",
-        "affxparser"
+        "SGSeq"
     ],
     "EWCE": [
         "ggtree",
@@ -1324,7 +1310,6 @@
         "OUTRIDER"
     ],
     "frma": [
-        "affxparser",
         "oligo"
     ],
     "frmaTools": [],
@@ -1372,15 +1357,12 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneExpressionSignature": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
     "geneRecommender": [],
-    "GeneRegionScan": [
-        "affxparser"
-    ],
+    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GeneStructureTools": [
         "Gviz",
@@ -1586,7 +1568,6 @@
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
-    "HybridMTest": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -1708,10 +1689,8 @@
         "DEGreport"
     ],
     "ITALICS": [
-        "affxparser",
         "oligo"
     ],
-    "iterativeBMA": [],
     "iterClust": [],
     "IVAS": [],
     "karyoploteR": [
@@ -1988,7 +1967,6 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affxparser",
         "affyPLM",
         "oligo"
     ],
@@ -2009,7 +1987,6 @@
     ],
     "miQC": [],
     "MiRaGE": [],
-    "miRcomp": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -2300,9 +2277,7 @@
         "yarn"
     ],
     "NeuCA": [],
-    "NewWave": [
-        "SharedObject"
-    ],
+    "NewWave": [],
     "ngsReports": [],
     "nipalsMCIA": [],
     "NOISeq": [],
@@ -2323,16 +2298,13 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "oligo": [
-        "affxparser"
-    ],
+    "oligo": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
         "tkWidgets",
         "widgetTools"
     ],
-    "omada": [],
     "omicRexposome": [
         "MultiDataSet",
         "rexposome"
@@ -2429,7 +2401,6 @@
     ],
     "PCAN": [],
     "pdInfoBuilder": [
-        "affxparser",
         "oligo"
     ],
     "PeacoQC": [
@@ -2492,7 +2463,6 @@
     ],
     "pmm": [],
     "pmp": [],
-    "PoDCall": [],
     "pogos": [
         "Rgraphviz",
         "ontoProc"
@@ -2579,7 +2549,6 @@
         "mzR"
     ],
     "puma": [
-        "affxparser",
         "oligo"
     ],
     "PureCN": [
@@ -2647,7 +2616,6 @@
     "RCAS": [
         "genomation"
     ],
-    "rcellminer": [],
     "RCyjs": [],
     "ReactomePA": [
         "DOSE",
@@ -2837,7 +2805,6 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment"
@@ -2850,7 +2817,6 @@
         "pathview"
     ],
     "SCAN.UPC": [
-        "affxparser",
         "oligo"
     ],
     "scanMiR": [],
@@ -2973,7 +2939,6 @@
         "Rgraphviz"
     ],
     "SGSeq": [],
-    "SharedObject": [],
     "shinyepico": [
         "minfi"
     ],
@@ -3156,7 +3121,6 @@
         "mzID",
         "mzR"
     ],
-    "systemPipeShiny": [],
     "systemPipeTools": [
         "ggtree"
     ],
