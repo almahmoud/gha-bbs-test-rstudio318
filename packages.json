@@ -149,7 +149,6 @@
     "biodbHmdb": [],
     "biomvRCNS": [],
     "BioNet": [],
-    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -252,7 +251,6 @@
         "GSEABase"
     ],
     "CelliD": [],
-    "CEMiTool": [],
     "censcyt": [
         "FlowSOM",
         "cytolib",
@@ -262,7 +260,6 @@
     "Cepo": [
         "GSEABase"
     ],
-    "CeTF": [],
     "CexoR": [
         "genomation"
     ],
@@ -291,7 +288,6 @@
     "CIMICE": [
         "maftools"
     ],
-    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2",
         "SGSeq"
@@ -505,7 +501,6 @@
     ],
     "DeepBlueR": [],
     "DEFormats": [],
-    "DEGraph": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
@@ -569,7 +564,6 @@
         "GSEABase",
         "safe"
     ],
-    "enrichTF": [],
     "EpiCompare": [
         "genomation"
     ],
@@ -603,7 +597,6 @@
     "erma": [
         "OrganismDbi"
     ],
-    "esATAC": [],
     "escape": [
         "GSEABase",
         "GSVA"
@@ -621,7 +614,6 @@
         "GenomicInteractions"
     ],
     "FamAgg": [],
-    "famat": [],
     "fCCAC": [
         "genomation"
     ],
@@ -763,7 +755,6 @@
         "ncdfFlow"
     ],
     "frmaTools": [],
-    "GA4GHshiny": [],
     "gaga": [],
     "gage": [],
     "gaggle": [],
@@ -899,7 +890,6 @@
     ],
     "hmdbQuery": [],
     "hpar": [],
-    "HTSeqGenie": [],
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
@@ -934,8 +924,7 @@
     ],
     "INDEED": [],
     "iNETgrate": [
-        "OrganismDbi",
-        "Pigengene"
+        "OrganismDbi"
     ],
     "infinityFlow": [
         "cytolib",
@@ -1087,7 +1076,6 @@
         "mzR",
         "xcms"
     ],
-    "MetaPhOR": [],
     "MetCirc": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -1155,8 +1143,6 @@
         "GSEABase"
     ],
     "monocle": [],
-    "Moonlight2R": [],
-    "MoonlightR": [],
     "mosbi": [
         "QUBIC"
     ],
@@ -1410,7 +1396,6 @@
     ],
     "PhenStat": [],
     "Pi": [],
-    "Pigengene": [],
     "PING": [],
     "PloGO2": [
         "AnnotationForge",
@@ -1891,7 +1876,6 @@
         "GSEABase"
     ],
     "vsclust": [],
-    "vtpnet": [],
     "wateRmelon": [
         "lumi"
     ],
