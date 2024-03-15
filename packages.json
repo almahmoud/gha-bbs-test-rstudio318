@@ -102,7 +102,6 @@
         "hyperdraw",
         "hypergraph"
     ],
-    "bigmelon": [],
     "bioCancer": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -148,7 +147,6 @@
     "cageminer": [
         "ggbio"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -227,7 +225,6 @@
     "CGHnormaliter": [
         "CGHcall"
     ],
-    "ChAMP": [],
     "chromPlot": [],
     "chromstaR": [
         "bamsignals"
@@ -515,11 +512,7 @@
         "tRNA",
         "tRNAdbImport"
     ],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "escape": [
         "GSEABase",
@@ -913,7 +906,6 @@
     "MEAL": [
         "MultiDataSet"
     ],
-    "MEAT": [],
     "MEDME": [],
     "Melissa": [
         "BPRMeth"
@@ -1474,9 +1466,7 @@
     "scTGIF": [
         "GSEABase"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [
         "bamsignals"
     ],
@@ -1516,7 +1506,6 @@
         "GSEABase"
     ],
     "sitadela": [],
-    "skewr": [],
     "slalom": [
         "GSEABase"
     ],
