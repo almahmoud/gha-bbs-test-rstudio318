@@ -13,7 +13,6 @@
         "a4Core"
     ],
     "a4Core": [],
-    "abseqR": [],
     "acde": [],
     "ACE": [
         "CGHcall",
@@ -144,7 +143,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [],
     "annaffy": [],
     "AnnotationForge": [],
     "AnnotationHubData": [
@@ -504,7 +502,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chimeraviz": [
         "Gviz",
         "Rgraphviz",
@@ -847,7 +844,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "DART": [],
     "dcanr": [],
     "dce": [
         "Rgraphviz",
@@ -1287,7 +1283,6 @@
     "funtooNorm": [
         "minfi"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "VariantAnnotation"
     ],
@@ -1395,7 +1390,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [],
     "ggmsa": [
         "R4RNA"
@@ -1668,7 +1662,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "keggorthology": [],
     "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
@@ -1973,7 +1966,6 @@
         "GSEABase",
         "graphite"
     ],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2024,8 +2016,7 @@
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
@@ -2135,7 +2126,6 @@
     "MungeSumstats": [
         "VariantAnnotation"
     ],
-    "muscle": [],
     "musicatk": [
         "VariantAnnotation",
         "decompTumor2Sig",
@@ -2254,7 +2244,6 @@
         "RaggedExperiment"
     ],
     "omicsViewer": [],
-    "oncomix": [],
     "oncoscanR": [],
     "OncoSimulR": [
         "Rgraphviz"
@@ -2350,9 +2339,7 @@
         "mzR"
     ],
     "pengls": [],
-    "phantasusLite": [
-        "rhdf5client"
-    ],
+    "phantasusLite": [],
     "phemd": [
         "destiny",
         "monocle"
@@ -2480,7 +2467,6 @@
     "PureCN": [
         "VariantAnnotation"
     ],
-    "pvac": [],
     "Pviz": [
         "Gviz",
         "VariantAnnotation",
@@ -2538,7 +2524,6 @@
     "RareVariantVis": [
         "VariantAnnotation"
     ],
-    "rawrr": [],
     "RCAS": [
         "genomation"
     ],
@@ -2590,23 +2575,18 @@
         "ggbio"
     ],
     "RepViz": [],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [
-        "rhdf5client"
-    ],
+    "restfulSE": [],
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
     "rGADEM": [],
     "rgoslin": [],
     "Rgraphviz": [],
-    "rhdf5client": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -2839,7 +2819,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -2989,7 +2968,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "graphite"
     ],
@@ -3068,8 +3046,7 @@
     "tenXplore": [
         "Rgraphviz",
         "ontoProc",
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "terraTCGAdata": [
         "GenomicDataCommons",
