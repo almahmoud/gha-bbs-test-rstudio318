@@ -2,17 +2,12 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "a4Core",
         "annaffy"
     ],
     "a4Base": [
-        "a4Core",
         "annaffy"
     ],
-    "a4Classif": [
-        "a4Core"
-    ],
-    "a4Core": [],
+    "a4Classif": [],
     "acde": [],
     "ACE": [
         "CGHcall",
@@ -316,7 +311,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -414,7 +408,6 @@
         "GSEABase"
     ],
     "CelliD": [],
-    "CellMixS": [],
     "CellNOptR": [],
     "CEMiTool": [
         "DOSE",
@@ -526,9 +519,7 @@
         "mzID",
         "mzR"
     ],
-    "clusterExperiment": [
-        "mbkmeans"
-    ],
+    "clusterExperiment": [],
     "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
@@ -1044,7 +1035,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "fCCAC": [
         "genomation"
     ],
@@ -1345,7 +1335,6 @@
     ],
     "GOexpress": [],
     "GOfuncR": [],
-    "GOpro": [],
     "goProfiles": [],
     "goSorensen": [
         "DOSE",
@@ -1461,9 +1450,7 @@
     ],
     "IHW": [],
     "ILoReg": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -1550,7 +1537,6 @@
         "oligo"
     ],
     "iterClust": [],
-    "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
         "bamsignals",
@@ -1654,7 +1640,6 @@
         "TFBSTools"
     ],
     "MBASED": [],
-    "mbkmeans": [],
     "MBQN": [],
     "MCbiclust": [],
     "mCSEA": [
@@ -1733,7 +1718,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaSeq": [],
     "MetCirc": [
         "MetaboCoreUtils",
@@ -1817,7 +1801,6 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miQC": [],
     "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
@@ -2072,8 +2055,7 @@
     ],
     "netresponse": [],
     "netSmooth": [
-        "clusterExperiment",
-        "mbkmeans"
+        "clusterExperiment"
     ],
     "netZooR": [
         "AnnotationForge",
@@ -2367,7 +2349,6 @@
         "VariantAnnotation"
     ],
     "ramr": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RareVariantVis": [
@@ -2473,7 +2454,6 @@
         "mzID",
         "mzR"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2659,7 +2639,6 @@
     "SeqGate": [],
     "SeqSQC": [],
     "sesame": [],
-    "sevenC": [],
     "SGCP": [
         "AnnotationForge",
         "Category",
@@ -2863,7 +2842,6 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "TENxIO": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
