@@ -27,8 +27,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "affyILM": [],
     "affylmGUI": [
@@ -43,11 +42,9 @@
         "GOstats",
         "GSEABase",
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "airpart": [],
-    "alabaster": [],
     "altcdfenvs": [
         "hypergraph"
     ],
@@ -56,7 +53,6 @@
         "bamsignals"
     ],
     "annaffy": [],
-    "appreci8R": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
@@ -131,22 +127,15 @@
     "bnbc": [
         "HiCBricks"
     ],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "brendaDb": [],
-    "CAFE": [
-        "ggbio"
-    ],
-    "cageminer": [
-        "ggbio"
-    ],
+    "CAFE": [],
+    "cageminer": [],
     "CAMERA": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -285,7 +274,6 @@
     ],
     "Cogito": [],
     "compcodeR": [],
-    "compEpiTools": [],
     "CompoundDb": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -455,9 +443,7 @@
         "mzR"
     ],
     "DEqMS": [],
-    "derfinderPlot": [
-        "ggbio"
-    ],
+    "derfinderPlot": [],
     "DEsingle": [],
     "destiny": [],
     "DEXSeq": [],
@@ -513,7 +499,6 @@
         "tRNAdbImport"
     ],
     "epivizrStandalone": [],
-    "erma": [],
     "escape": [
         "GSEABase",
         "GSVA"
@@ -545,8 +530,7 @@
         "xcms"
     ],
     "FLAMES": [
-        "bambu",
-        "ggbio"
+        "bambu"
     ],
     "flowAI": [
         "cytolib",
@@ -688,9 +672,7 @@
     "genomation": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation"
@@ -713,7 +695,6 @@
         "cellHTS2"
     ],
     "getDEE2": [],
-    "ggbio": [],
     "ggcyto": [
         "cytolib",
         "flowCore",
@@ -761,7 +742,6 @@
         "GSEABase",
         "safe"
     ],
-    "GSReg": [],
     "GSRI": [
         "GSEABase"
     ],
@@ -812,14 +792,11 @@
         "flowCore"
     ],
     "INDEED": [],
-    "iNETgrate": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
     ],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase"
@@ -902,7 +879,6 @@
     "MBASED": [],
     "MBQN": [],
     "MCbiclust": [],
-    "mCSEA": [],
     "MEAL": [
         "MultiDataSet"
     ],
@@ -958,7 +934,6 @@
     "MethReg": [
         "sesame"
     ],
-    "methylclock": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -1042,9 +1017,7 @@
     "MsFeatures": [
         "MsCoreUtils"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
@@ -1124,7 +1097,6 @@
     ],
     "mzID": [],
     "mzR": [],
-    "NADfinder": [],
     "NanoStringNCTools": [],
     "ncdfFlow": [
         "cytolib",
@@ -1317,9 +1289,7 @@
     ],
     "QUBIC": [],
     "qusage": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "R4RNA": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
@@ -1340,8 +1310,7 @@
     "ReportingTools": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "ggbio"
+        "GSEABase"
     ],
     "RepViz": [],
     "rexposome": [],
@@ -1356,9 +1325,7 @@
         "ORFik"
     ],
     "RiboDiPA": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribor": [],
     "rifiComparative": [
         "DTA"
@@ -1389,8 +1356,6 @@
         "GSEABase",
         "cellHTS2"
     ],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "roastgsa": [],
     "ROCpAI": [],
     "ropls": [
@@ -1454,9 +1419,7 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "Category",
         "GOstats",
@@ -1518,9 +1481,7 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "sparrow": [
         "GSEABase"
     ],
@@ -1657,7 +1618,6 @@
         "TrajectoryUtils"
     ],
     "TTMap": [],
-    "uncoverappLib": [],
     "UNDO": [],
     "UniProt.ws": [],
     "uSORT": [
@@ -1666,7 +1626,6 @@
     "VariantExperiment": [
         "GDSArray"
     ],
-    "ViSEAGO": [],
     "vissE": [
         "GSEABase"
     ],
@@ -1694,8 +1653,7 @@
         "mzR"
     ],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "zenith": [
         "EnrichmentBrowser",
