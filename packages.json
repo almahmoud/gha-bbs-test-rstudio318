@@ -86,7 +86,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "ASpli": [],
     "AssessORF": [],
     "ATACCoGAPS": [
         "OrganismDbi",
@@ -176,16 +175,13 @@
         "OrganismDbi",
         "ggbio"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "OrganismDbi",
         "ggbio"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -270,7 +266,6 @@
         "DMRcate",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "chromPlot": [],
     "chromstaR": [
         "bamsignals"
@@ -330,8 +325,6 @@
         "GDSArray"
     ],
     "Cogito": [],
-    "comapr": [],
-    "coMET": [],
     "compcodeR": [],
     "compEpiTools": [
         "methylPipe"
@@ -403,7 +396,6 @@
         "crisprDesign"
     ],
     "CTDquerier": [],
-    "cummeRbund": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -601,9 +593,7 @@
         "OrganismDbi"
     ],
     "ExploreModelMatrix": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "FamAgg": [],
     "fCCAC": [
         "genomation"
@@ -773,7 +763,6 @@
     "genomation": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [
         "OrganismDbi",
         "ggbio"
@@ -870,9 +859,7 @@
     "hermes": [],
     "HiCBricks": [],
     "HiCcompare": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "HiCcompare",
         "multiHiCcompare"
@@ -1371,7 +1358,6 @@
     ],
     "PhenStat": [],
     "Pi": [],
-    "PING": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
@@ -1379,7 +1365,6 @@
         "GSEABase"
     ],
     "pmm": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
@@ -1416,9 +1401,7 @@
         "widgetTools"
     ],
     "PSEA": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "PSMatch": [
         "MsCoreUtils",
         "QFeatures"
@@ -1462,13 +1445,11 @@
     ],
     "RCyjs": [],
     "REBET": [],
-    "recount": [],
     "recoup": [],
     "RedisParam": [],
     "regionReport": [
         "DEFormats"
     ],
-    "regutools": [],
     "Repitools": [
         "Ringo"
     ],
@@ -1521,9 +1502,7 @@
         "mzID",
         "mzR"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAdecay": [],
     "RNAinteract": [
         "Category",
@@ -1540,9 +1519,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "roastgsa": [],
     "ROCpAI": [],
     "ropls": [
@@ -1661,7 +1638,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "SingleMoleculeFootprinting": [],
     "singscore": [
         "GSEABase"
     ],
@@ -1696,9 +1672,7 @@
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "Spectra": [
         "MetaboCoreUtils",
         "MsCoreUtils"
@@ -1715,7 +1689,6 @@
     "splineTimeR": [
         "GSEABase"
     ],
-    "SPLINTER": [],
     "SQLDataFrame": [],
     "srnadiff": [],
     "ssPATHS": [],
@@ -1828,7 +1801,6 @@
         "TrajectoryUtils"
     ],
     "TTMap": [],
-    "TVTB": [],
     "uncoverappLib": [
         "OrganismDbi"
     ],
