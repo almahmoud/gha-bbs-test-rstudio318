@@ -1248,7 +1248,6 @@
     ],
     "GGPA": [],
     "ggsc": [],
-    "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [
@@ -1687,7 +1686,6 @@
         "widgetTools"
     ],
     "MGFR": [],
-    "miaViz": [],
     "microbiomeMarker": [
         "ANCOMBC"
     ],
@@ -2100,7 +2098,6 @@
         "GSEABase"
     ],
     "PhenStat": [],
-    "philr": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -2290,7 +2287,6 @@
         "ggbio"
     ],
     "RepViz": [],
-    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -2432,7 +2428,6 @@
     "scAnnotatR": [],
     "SCArray.sat": [],
     "scatterHatch": [],
-    "scBubbletree": [],
     "scClassify": [
         "Cepo",
         "GSEABase"
@@ -2818,7 +2813,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VAExprs": [],
     "VanillaICE": [
         "crlmm"
     ],
