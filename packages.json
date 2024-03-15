@@ -110,7 +110,6 @@
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -621,7 +620,6 @@
         "Gviz"
     ],
     "EMDomics": [],
-    "enhancerHomologSearch": [],
     "ENmix": [],
     "EnrichmentBrowser": [
         "GSEABase",
@@ -1234,7 +1232,6 @@
         "methylumi"
     ],
     "mitch": [],
-    "mitoClone2": [],
     "MobilityTransformR": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -1475,7 +1472,6 @@
     ],
     "packFinder": [],
     "padma": [],
-    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq"
     ],
@@ -1644,7 +1640,6 @@
         "ggbio"
     ],
     "RepViz": [],
-    "RESOLVE": [],
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
