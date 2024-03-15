@@ -543,7 +543,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPQC": [],
     "ChIPseeker": [
         "DOSE",
         "enrichplot",
@@ -712,7 +711,6 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusDE": [],
     "consensusOV": [
         "GSEABase",
         "GSVA"
@@ -1386,7 +1384,6 @@
     "gaga": [],
     "gage": [],
     "gaggle": [],
-    "GARS": [],
     "GateFinder": [
         "cytolib",
         "flowCore",
@@ -3000,7 +2997,6 @@
     "scmap": [],
     "scMET": [],
     "SCnorm": [],
-    "scone": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -3241,7 +3237,6 @@
         "graphite"
     ],
     "ssPATHS": [],
-    "standR": [],
     "staRank": [
         "Category",
         "GSEABase",
@@ -3482,7 +3477,6 @@
         "VariantAnnotation",
         "gwascat"
     ],
-    "vulcan": [],
     "wateRmelon": [
         "illuminaio",
         "lumi",
