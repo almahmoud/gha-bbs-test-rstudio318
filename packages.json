@@ -59,7 +59,6 @@
     "annaffy": [],
     "AnnotationHubData": [],
     "appreci8R": [],
-    "arrayMvout": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
@@ -105,9 +104,7 @@
         "hyperdraw",
         "hypergraph"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioCancer": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -235,10 +232,7 @@
     "CGHnormaliter": [
         "CGHcall"
     ],
-    "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "chromPlot": [],
     "chromstaR": [
         "bamsignals"
@@ -489,7 +483,6 @@
     "DiscoRhythm": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMRcate": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -558,7 +551,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "ffpe": [],
     "fgga": [],
     "flagme": [
         "CAMERA",
@@ -821,7 +813,6 @@
     ],
     "hypergraph": [],
     "iCARE": [],
-    "iCheck": [],
     "iChip": [],
     "ideal": [
         "Category",
@@ -911,7 +902,6 @@
     "m6Aboost": [],
     "maCorrPlot": [],
     "maftools": [],
-    "MAGAR": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -938,9 +928,7 @@
     "MEAL": [
         "MultiDataSet"
     ],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MEDME": [],
     "Melissa": [
         "BPRMeth"
@@ -994,7 +982,6 @@
         "sesame"
     ],
     "methylclock": [],
-    "methylGSA": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -1549,9 +1536,7 @@
         "GSEABase"
     ],
     "sitadela": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "slalom": [
         "GSEABase"
     ],
@@ -1718,7 +1703,6 @@
         "GSEABase"
     ],
     "vsclust": [],
-    "wateRmelon": [],
     "webbioc": [
         "annaffy"
     ],
