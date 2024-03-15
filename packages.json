@@ -358,7 +358,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [],
     "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
@@ -669,7 +668,6 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "COCOA": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -945,7 +943,6 @@
         "DelayedRandomArray"
     ],
     "deltaCaptureC": [],
-    "DeMixT": [],
     "demuxSNP": [
         "VariantAnnotation"
     ],
@@ -1784,7 +1781,6 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "kissDE": [],
     "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
@@ -1977,7 +1973,6 @@
     "metaSeq": [
         "NOISeq"
     ],
-    "metaseqR2": [],
     "MetCirc": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -2025,7 +2020,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -2704,7 +2698,6 @@
         "illuminaio",
         "minfi"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -2803,7 +2796,6 @@
     "restfulSE": [
         "rhdf5client"
     ],
-    "ReUseData": [],
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
