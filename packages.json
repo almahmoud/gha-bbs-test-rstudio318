@@ -84,7 +84,6 @@
         "AnnotationForge",
         "OrganismDbi"
     ],
-    "APAlyzer": [],
     "appreci8R": [
         "OrganismDbi"
     ],
@@ -341,9 +340,7 @@
     "CIMICE": [
         "maftools"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2",
         "SGSeq"
@@ -483,7 +480,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -556,7 +552,6 @@
         "UniProt.ws",
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DAPAR": [
         "MSnbase",
         "Mfuzz",
@@ -667,7 +662,6 @@
         "clusterProfiler"
     ],
     "enrichViewNet": [],
-    "ensemblVEP": [],
     "EpiCompare": [
         "genomation"
     ],
@@ -870,10 +864,7 @@
         "ncdfFlow"
     ],
     "frmaTools": [],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "gaga": [],
     "gage": [],
     "gaggle": [],
@@ -957,7 +948,6 @@
         "GSEABase"
     ],
     "GloScope": [],
-    "gmapR": [],
     "GmicR": [
         "AnnotationForge",
         "Category",
@@ -1002,7 +992,6 @@
         "GSEABase"
     ],
     "Gviz": [],
-    "gwascat": [],
     "GWENA": [],
     "Harshlight": [
         "altcdfenvs",
@@ -1020,12 +1009,9 @@
         "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCool": [],
     "hmdbQuery": [],
     "hpar": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
@@ -1034,7 +1020,6 @@
     ],
     "hypergraph": [],
     "iCARE": [],
-    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -1096,7 +1081,6 @@
         "mzR",
         "xcms"
     ],
-    "iSEEindex": [],
     "iSEEu": [],
     "ISLET": [],
     "isobar": [],
@@ -1141,7 +1125,6 @@
     ],
     "m6Aboost": [],
     "maCorrPlot": [],
-    "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
         "RnBeads",
@@ -1452,7 +1435,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "MungeSumstats": [],
     "musicatk": [
         "maftools"
     ],
@@ -1698,12 +1680,10 @@
         "OrganismDbi",
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "R4RNA": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RareVariantVis": [],
     "RCAS": [
         "genomation"
     ],
@@ -2075,7 +2055,6 @@
     "TissueEnrich": [
         "GSEABase"
     ],
-    "TitanCNA": [],
     "tkWidgets": [
         "widgetTools"
     ],
@@ -2125,8 +2104,7 @@
     ],
     "TTMap": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "uncoverappLib": [
         "Gviz",
@@ -2152,9 +2130,7 @@
         "GSEABase"
     ],
     "vsclust": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
