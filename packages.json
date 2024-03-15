@@ -498,7 +498,6 @@
         "tRNA",
         "tRNAdbImport"
     ],
-    "epivizrStandalone": [],
     "escape": [
         "GSEABase",
         "GSVA"
@@ -1429,7 +1428,6 @@
     "scTGIF": [
         "GSEABase"
     ],
-    "scTreeViz": [],
     "segmenter": [
         "bamsignals"
     ],
