@@ -77,9 +77,7 @@
     "appreci8R": [
         "OrganismDbi"
     ],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
@@ -94,8 +92,6 @@
         "OrganismDbi",
         "projectR"
     ],
-    "ATACseqQC": [],
-    "atSNP": [],
     "attract": [
         "AnnotationForge",
         "Category",
@@ -131,7 +127,6 @@
         "hypergraph"
     ],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -273,8 +268,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "chimeraviz": [],
@@ -534,9 +527,7 @@
     "DiscoRhythm": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -621,9 +612,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "fgga": [],
     "flagme": [
         "CAMERA",
@@ -898,9 +887,7 @@
     ],
     "hypergraph": [],
     "iCARE": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "iChip": [],
     "ideal": [
         "AnnotationForge",
@@ -991,13 +978,10 @@
     "loci2path": [],
     "LRBaseDbi": [],
     "LRcell": [],
-    "lumi": [],
     "m6Aboost": [],
     "maCorrPlot": [],
     "maftools": [],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1025,11 +1009,9 @@
         "OrganismDbi"
     ],
     "MEAL": [
-        "MultiDataSet",
-        "missMethyl"
+        "MultiDataSet"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "MEDME": [],
@@ -1090,9 +1072,7 @@
         "ExperimentHubData",
         "OrganismDbi"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "methylPipe": [],
     "Mfuzz": [
         "tkWidgets",
@@ -1112,10 +1092,8 @@
         "AnnotationForge",
         "Category",
         "GOstats",
-        "GSEABase",
-        "lumi"
+        "GSEABase"
     ],
-    "MinimumDistance": [],
     "MiRaGE": [],
     "miRLAB": [
         "AnnotationForge",
@@ -1125,7 +1103,6 @@
     ],
     "miRNAmeConverter": [],
     "miRNApath": [],
-    "missMethyl": [],
     "mitch": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1267,7 +1244,6 @@
     "mzID": [],
     "mzR": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "NanoStringNCTools": [],
@@ -1296,8 +1272,7 @@
         "AnnotationForge",
         "Category",
         "GOstats",
-        "GSEABase",
-        "yarn"
+        "GSEABase"
     ],
     "NewWave": [],
     "normr": [
@@ -1523,7 +1498,6 @@
         "ggbio"
     ],
     "ribor": [],
-    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -1569,7 +1543,6 @@
     "RnaSeqSampleSize": [
         "recount"
     ],
-    "RnBeads": [],
     "roastgsa": [],
     "ROCpAI": [],
     "ropls": [
@@ -1694,7 +1667,6 @@
     ],
     "sitadela": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "slalom": [
@@ -1876,9 +1848,7 @@
         "GSEABase"
     ],
     "vsclust": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "webbioc": [
         "annaffy"
     ],
@@ -1906,7 +1876,6 @@
         "SomaticSignatures",
         "ggbio"
     ],
-    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
