@@ -133,9 +133,7 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -206,10 +204,8 @@
         "VariantAnnotation"
     ],
     "beadarray": [],
-    "beadarraySNP": [],
     "benchdamic": [
-        "ANCOMBC",
-        "MAST"
+        "ANCOMBC"
     ],
     "bgx": [],
     "BicARE": [
@@ -400,9 +396,7 @@
         "GSEABase",
         "PROMISE"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "cellHTS2": [
         "Category",
         "GSEABase"
@@ -464,8 +458,7 @@
         "enrichplot"
     ],
     "ChIPXpress": [
-        "frma",
-        "oligo"
+        "frma"
     ],
     "chromPlot": [],
     "chromstaR": [
@@ -474,7 +467,6 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "VariantAnnotation",
@@ -484,7 +476,6 @@
     "CIMICE": [
         "maftools"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "VariantAnnotation",
         "gwascat"
@@ -530,9 +521,7 @@
         "cytolib",
         "flowCore"
     ],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "CNORdt": [
         "CellNOptR"
     ],
@@ -594,7 +583,6 @@
     ],
     "condiments": [
         "TrajectoryUtils",
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -623,7 +611,6 @@
         "karyoploteR"
     ],
     "coRdon": [],
-    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -676,9 +663,7 @@
         "crisprDesign"
     ],
     "crlmm": [],
-    "crossmeta": [
-        "oligo"
-    ],
+    "crossmeta": [],
     "CTDquerier": [],
     "cTRAP": [],
     "cummeRbund": [
@@ -855,7 +840,6 @@
         "DEXSeq"
     ],
     "DiscoRhythm": [],
-    "distinct": [],
     "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
@@ -887,15 +871,12 @@
         "UniProt.ws"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "oligo"
+        "ArrayExpress"
     ],
     "DTA": [],
     "dupRadar": [],
     "easier": [],
-    "easyRNASeq": [
-        "genomeIntervals"
-    ],
+    "easyRNASeq": [],
     "EBSEA": [],
     "EBSeqHMM": [],
     "EGSEA": [
@@ -995,7 +976,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -1052,7 +1032,6 @@
         "minfi"
     ],
     "fgga": [],
-    "FindIT2": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1188,9 +1167,7 @@
     "FRASER": [
         "OUTRIDER"
     ],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi"
@@ -1243,7 +1220,6 @@
         "biovizBase"
     ],
     "genomation": [],
-    "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -1297,7 +1273,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "ggmsa": [
         "R4RNA"
     ],
@@ -1305,9 +1280,7 @@
     "ggsc": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
-    "girafe": [
-        "genomeIntervals"
-    ],
+    "girafe": [],
     "GISPA": [
         "GSEABase"
     ],
@@ -1449,7 +1422,6 @@
         "VariantAnnotation"
     ],
     "IHW": [],
-    "ILoReg": [],
     "IMAS": [],
     "ImmuneSpaceR": [
         "cytolib",
@@ -1533,9 +1505,7 @@
     "isomiRs": [
         "DEGreport"
     ],
-    "ITALICS": [
-        "oligo"
-    ],
+    "ITALICS": [],
     "iterClust": [],
     "karyoploteR": [
         "VariantAnnotation",
@@ -1631,7 +1601,6 @@
     ],
     "maSigPro": [],
     "maskBAD": [],
-    "MAST": [],
     "mastR": [
         "GSEABase"
     ],
@@ -1784,8 +1753,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "oligo"
+        "affyPLM"
     ],
     "MineICA": [
         "AnnotationForge",
@@ -1912,7 +1880,6 @@
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
-        "genomeIntervals",
         "ggbio"
     ],
     "msmsEDA": [
@@ -2086,7 +2053,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "oligo": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
@@ -2170,9 +2136,7 @@
         "GSEABase"
     ],
     "PCAN": [],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
         "flowCore",
@@ -2224,9 +2188,7 @@
     "pogos": [
         "ontoProc"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "primirTSS": [
         "Gviz",
         "TFBSTools",
@@ -2240,7 +2202,6 @@
         "mzR"
     ],
     "proBAMr": [],
-    "PROcess": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -2298,9 +2259,7 @@
         "mzID",
         "mzR"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
@@ -2536,9 +2495,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SCAN.UPC": [
-        "oligo"
-    ],
+    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -2680,7 +2637,6 @@
     "singleCellTK": [
         "GSEABase",
         "GSVA",
-        "MAST",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -2841,7 +2797,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "TEKRABber": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
@@ -2919,7 +2874,6 @@
     ],
     "Trendy": [],
     "TRESS": [],
-    "tricycle": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -2938,7 +2892,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [],
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr"
