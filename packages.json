@@ -1859,7 +1859,6 @@
     "oncoscanR": [],
     "OncoSimulR": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "openCyto": [
         "cytolib",
         "flowClust",
@@ -1963,9 +1962,7 @@
         "GSEABase"
     ],
     "pmm": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POWSC": [],
     "primirTSS": [
         "Gviz",
@@ -2238,7 +2235,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -2502,7 +2498,6 @@
         "enrichplot"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
@@ -2578,7 +2573,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
