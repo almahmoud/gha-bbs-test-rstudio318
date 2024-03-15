@@ -24,11 +24,9 @@
     ],
     "ADImpute": [],
     "affycoretools": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
-        "OrganismDbi",
         "ReportingTools",
         "ggbio"
     ],
@@ -41,26 +39,16 @@
         "GSEABase"
     ],
     "AgiMicroRna": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
-        "OrganismDbi",
         "ReportingTools",
         "affycoretools",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationForge",
-        "AnnotationHubData",
-        "OrganismDbi"
-    ],
+    "AHMassBank": [],
     "airpart": [],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
-    "AllelicImbalance": [],
+    "alabaster": [],
     "altcdfenvs": [
         "hypergraph"
     ],
@@ -69,14 +57,8 @@
         "bamsignals"
     ],
     "annaffy": [],
-    "AnnotationForge": [],
-    "AnnotationHubData": [
-        "AnnotationForge",
-        "OrganismDbi"
-    ],
-    "appreci8R": [
-        "OrganismDbi"
-    ],
+    "AnnotationHubData": [],
+    "appreci8R": [],
     "arrayMvout": [],
     "arrayQualityMetrics": [
         "affyPLM"
@@ -88,11 +70,9 @@
     ],
     "AssessORF": [],
     "ATACCoGAPS": [
-        "OrganismDbi",
         "projectR"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -141,7 +121,6 @@
     ],
     "biodbChebi": [],
     "biodbHmdb": [],
-    "biomvRCNS": [],
     "BioNet": [],
     "biosigner": [
         "MultiDataSet",
@@ -149,7 +128,6 @@
     ],
     "biscuiteer": [
         "CGHcall",
-        "OrganismDbi",
         "QDNAseq"
     ],
     "blacksheepr": [
@@ -160,24 +138,20 @@
         "HiCBricks"
     ],
     "BOBaFIT": [
-        "OrganismDbi",
         "ggbio"
     ],
     "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
-        "OrganismDbi",
         "derfinderPlot",
         "ggbio"
     ],
     "brendaDb": [],
     "CAFE": [
-        "OrganismDbi",
         "ggbio"
     ],
     "CAGEfightR": [],
     "cageminer": [
-        "OrganismDbi",
         "ggbio"
     ],
     "CAGEr": [
@@ -216,7 +190,6 @@
         "GSEABase"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -326,9 +299,7 @@
     ],
     "Cogito": [],
     "compcodeR": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CompoundDb": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -499,7 +470,6 @@
     ],
     "DEqMS": [],
     "derfinderPlot": [
-        "OrganismDbi",
         "ggbio"
     ],
     "DEsingle": [],
@@ -541,7 +511,6 @@
         "gage",
         "safe"
     ],
-    "ELMER": [],
     "EMDomics": [],
     "EnrichmentBrowser": [
         "GSEABase",
@@ -554,32 +523,23 @@
         "bamsignals"
     ],
     "EpiMix": [],
-    "epimutacions": [
-        "OrganismDbi"
-    ],
+    "epimutacions": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
-        "OrganismDbi",
         "epivizrData"
     ],
     "epivizrChart": [
-        "OrganismDbi",
         "epivizrData"
     ],
-    "epivizrData": [
-        "OrganismDbi"
-    ],
+    "epivizrData": [],
     "epivizrStandalone": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData"
     ],
-    "erma": [
-        "OrganismDbi"
-    ],
+    "erma": [],
     "escape": [
         "GSEABase",
         "GSVA"
@@ -587,11 +547,7 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "ExperimentHubData": [
-        "AnnotationForge",
-        "AnnotationHubData",
-        "OrganismDbi"
-    ],
+    "ExperimentHubData": [],
     "ExploreModelMatrix": [],
     "extraChIPs": [],
     "FamAgg": [],
@@ -618,7 +574,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "OrganismDbi",
         "bambu",
         "ggbio"
     ],
@@ -759,12 +714,10 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneStructureTools": [],
     "genomation": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicOZone": [
-        "OrganismDbi",
         "ggbio"
     ],
     "GenomicPlot": [
@@ -789,9 +742,7 @@
         "cellHTS2"
     ],
     "getDEE2": [],
-    "ggbio": [
-        "OrganismDbi"
-    ],
+    "ggbio": [],
     "ggcyto": [
         "cytolib",
         "flowCore",
@@ -810,7 +761,6 @@
     ],
     "GloScope": [],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -831,7 +781,6 @@
         "goProfiles"
     ],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase"
     ],
@@ -841,9 +790,7 @@
         "GSEABase",
         "safe"
     ],
-    "GSReg": [
-        "OrganismDbi"
-    ],
+    "GSReg": [],
     "GSRI": [
         "GSEABase"
     ],
@@ -877,7 +824,6 @@
     "iCheck": [],
     "iChip": [],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -897,15 +843,12 @@
         "flowCore"
     ],
     "INDEED": [],
-    "iNETgrate": [
-        "OrganismDbi"
-    ],
+    "iNETgrate": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
     ],
     "intansv": [
-        "OrganismDbi",
         "ggbio"
     ],
     "interactiveDisplay": [
@@ -983,7 +926,6 @@
         "xcms"
     ],
     "maPredictDSC": [],
-    "maser": [],
     "maSigPro": [],
     "maskBAD": [],
     "mastR": [
@@ -992,9 +934,7 @@
     "MBASED": [],
     "MBQN": [],
     "MCbiclust": [],
-    "mCSEA": [
-        "OrganismDbi"
-    ],
+    "mCSEA": [],
     "MEAL": [
         "MultiDataSet"
     ],
@@ -1053,14 +993,8 @@
     "MethReg": [
         "sesame"
     ],
-    "methylclock": [
-        "AnnotationForge",
-        "AnnotationHubData",
-        "ExperimentHubData",
-        "OrganismDbi"
-    ],
+    "methylclock": [],
     "methylGSA": [],
-    "methylPipe": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -1076,14 +1010,12 @@
         "affyPLM"
     ],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
     ],
     "MiRaGE": [],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -1111,7 +1043,6 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "motifbreakR": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -1148,7 +1079,6 @@
         "MsCoreUtils"
     ],
     "msgbsR": [
-        "OrganismDbi",
         "ggbio"
     ],
     "msmsEDA": [
@@ -1230,9 +1160,7 @@
     ],
     "mzID": [],
     "mzR": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "NanoStringNCTools": [],
     "ncdfFlow": [
         "cytolib",
@@ -1256,7 +1184,6 @@
         "RandomWalkRestartMH"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -1272,7 +1199,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "OGRE": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
@@ -1310,7 +1236,6 @@
         "flowMeans"
     ],
     "ORFik": [],
-    "OrganismDbi": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -1324,7 +1249,6 @@
         "GSEABase"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -1359,7 +1283,6 @@
     "PhenStat": [],
     "Pi": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -1412,7 +1335,6 @@
         "mzID",
         "mzR"
     ],
-    "Pviz": [],
     "PWMEnrich": [],
     "qckitfastq": [],
     "QDNAseq": [
@@ -1433,7 +1355,6 @@
     "QUBIC": [],
     "qusage": [],
     "R3CPET": [
-        "OrganismDbi",
         "ggbio"
     ],
     "R4RNA": [],
@@ -1454,11 +1375,9 @@
         "Ringo"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
-        "OrganismDbi",
         "ggbio"
     ],
     "RepViz": [],
@@ -1475,7 +1394,6 @@
     ],
     "RiboDiPA": [],
     "RiboProfiling": [
-        "OrganismDbi",
         "ggbio"
     ],
     "ribor": [],
@@ -1509,16 +1427,9 @@
         "GSEABase",
         "cellHTS2"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
     "roastgsa": [],
     "ROCpAI": [],
@@ -1584,11 +1495,9 @@
         "slingshot"
     ],
     "scruff": [
-        "OrganismDbi",
         "ggbio"
     ],
     "scTensor": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -1598,7 +1507,6 @@
         "GSEABase"
     ],
     "scTreeViz": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData"
     ],
@@ -1611,7 +1519,6 @@
     "SeqSQC": [],
     "sesame": [],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase"
@@ -1658,7 +1565,6 @@
         "tilingArray"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
         "ggbio"
     ],
     "sparrow": [
@@ -1690,7 +1596,6 @@
         "GSEABase"
     ],
     "SQLDataFrame": [],
-    "srnadiff": [],
     "ssPATHS": [],
     "staRank": [
         "Category",
@@ -1715,7 +1620,6 @@
         "mzID",
         "mzR"
     ],
-    "tadar": [],
     "TADCompare": [
         "HiCcompare"
     ],
@@ -1772,7 +1676,6 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "trackViewer": [],
     "tradeSeq": [
         "TrajectoryUtils",
         "slingshot"
@@ -1801,9 +1704,7 @@
         "TrajectoryUtils"
     ],
     "TTMap": [],
-    "uncoverappLib": [
-        "OrganismDbi"
-    ],
+    "uncoverappLib": [],
     "UNDO": [],
     "UniProt.ws": [],
     "uSORT": [
@@ -1812,10 +1713,7 @@
     "VariantExperiment": [
         "GDSArray"
     ],
-    "VariantFiltering": [],
-    "ViSEAGO": [
-        "AnnotationForge"
-    ],
+    "ViSEAGO": [],
     "vissE": [
         "GSEABase"
     ],
@@ -1844,7 +1742,6 @@
         "mzR"
     ],
     "YAPSA": [
-        "OrganismDbi",
         "SomaticSignatures",
         "ggbio"
     ],
