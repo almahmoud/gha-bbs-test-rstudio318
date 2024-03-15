@@ -57,20 +57,10 @@
     ],
     "airpart": [],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
-    "alabaster.vcf": [],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "alabaster.spatial": [],
+    "AllelicImbalance": [],
     "altcdfenvs": [
         "hypergraph"
     ],
@@ -98,9 +88,7 @@
         "MultiDataSet",
         "ropls"
     ],
-    "ASpli": [
-        "Gviz"
-    ],
+    "ASpli": [],
     "AssessORF": [],
     "ATACCoGAPS": [
         "OrganismDbi",
@@ -159,9 +147,7 @@
     ],
     "biodbChebi": [],
     "biodbHmdb": [],
-    "biomvRCNS": [
-        "Gviz"
-    ],
+    "biomvRCNS": [],
     "BioNet": [],
     "BioNetStat": [],
     "biosigner": [
@@ -188,19 +174,16 @@
     "BRAIN": [],
     "brainflowprobes": [
         "OrganismDbi",
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
     "brendaDb": [],
-    "BubbleTree": [],
     "CAFE": [
         "OrganismDbi",
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "cageminer": [
         "OrganismDbi",
@@ -208,8 +191,7 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "CAMERA": [
         "MSnbase",
@@ -294,21 +276,16 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "Gviz",
         "lumi",
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [
-        "Gviz"
-    ],
-    "ChIPexoQual": [],
+    "chimeraviz": [],
     "chromPlot": [],
     "chromstaR": [
         "bamsignals"
     ],
     "cicero": [
-        "Gviz",
         "monocle"
     ],
     "CIMICE": [
@@ -364,15 +341,10 @@
         "GDSArray"
     ],
     "Cogito": [],
-    "comapr": [
-        "Gviz"
-    ],
-    "coMET": [
-        "Gviz"
-    ],
+    "comapr": [],
+    "coMET": [],
     "compcodeR": [],
     "compEpiTools": [
-        "Gviz",
         "methylPipe"
     ],
     "CompoundDb": [
@@ -396,7 +368,6 @@
         "GSVA"
     ],
     "CONSTANd": [],
-    "contiBAIT": [],
     "CopyNumberPlots": [
         "bamsignals",
         "karyoploteR"
@@ -432,22 +403,18 @@
         "crisprBowtie"
     ],
     "crisprVerse": [
-        "Gviz",
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "Gviz",
         "crisprBase",
         "crisprBowtie",
         "crisprDesign"
     ],
     "CTDquerier": [],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "cummeRbund": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -551,10 +518,8 @@
         "mzR"
     ],
     "DEqMS": [],
-    "derfinder": [],
     "derfinderPlot": [
         "OrganismDbi",
-        "derfinder",
         "ggbio"
     ],
     "DEsingle": [],
@@ -575,7 +540,6 @@
     "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
-        "Gviz",
         "missMethyl"
     ],
     "DNAfusion": [
@@ -599,9 +563,7 @@
         "gage",
         "safe"
     ],
-    "ELMER": [
-        "Gviz"
-    ],
+    "ELMER": [],
     "EMDomics": [],
     "EnrichmentBrowser": [
         "GSEABase",
@@ -616,7 +578,6 @@
     ],
     "EpiMix": [],
     "epimutacions": [
-        "Gviz",
         "OrganismDbi"
     ],
     "EpiTxDb": [
@@ -657,8 +618,7 @@
     ],
     "ExploreModelMatrix": [],
     "extraChIPs": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "FamAgg": [],
     "famat": [],
@@ -819,7 +779,6 @@
     "GDCRNATools": [
         "GenomicDataCommons"
     ],
-    "gDNAx": [],
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -830,15 +789,11 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
     "genomation": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicInteractions": [
-        "Gviz"
-    ],
+    "GenomicInteractions": [],
     "GenomicOZone": [
         "OrganismDbi",
         "ggbio"
@@ -926,7 +881,6 @@
     "GSVA": [
         "GSEABase"
     ],
-    "Gviz": [],
     "GWENA": [],
     "Harshlight": [
         "altcdfenvs",
@@ -937,8 +891,7 @@
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HiCDOC": [
         "HiCcompare",
@@ -1013,7 +966,6 @@
         "mzR",
         "xcms"
     ],
-    "iSEEu": [],
     "ISLET": [],
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
@@ -1071,9 +1023,7 @@
         "xcms"
     ],
     "maPredictDSC": [],
-    "maser": [
-        "Gviz"
-    ],
+    "maser": [],
     "maSigPro": [],
     "maskBAD": [],
     "mastR": [
@@ -1083,11 +1033,9 @@
     "MBQN": [],
     "MCbiclust": [],
     "mCSEA": [
-        "Gviz",
         "OrganismDbi"
     ],
     "MEAL": [
-        "Gviz",
         "MultiDataSet",
         "missMethyl"
     ],
@@ -1157,9 +1105,7 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [
-        "Gviz"
-    ],
+    "methylPipe": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -1215,9 +1161,7 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "motifbreakR": [
-        "Gviz"
-    ],
+    "motifbreakR": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -1338,7 +1282,6 @@
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "Gviz",
         "trackViewer"
     ],
     "NanoStringNCTools": [],
@@ -1381,9 +1324,7 @@
         "GSEABase",
         "GSVA"
     ],
-    "OGRE": [
-        "Gviz"
-    ],
+    "OGRE": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
@@ -1470,9 +1411,7 @@
     "PhenStat": [],
     "Pi": [],
     "Pigengene": [],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
@@ -1480,9 +1419,7 @@
         "GSEABase"
     ],
     "pmm": [],
-    "primirTSS": [
-        "Gviz"
-    ],
+    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
@@ -1490,7 +1427,6 @@
         "mzR"
     ],
     "proBAMr": [],
-    "profileplyr": [],
     "projectR": [],
     "pRoloc": [
         "MSnbase",
@@ -1521,7 +1457,6 @@
     ],
     "PSEA": [],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "PSMatch": [
@@ -1534,9 +1469,7 @@
         "mzID",
         "mzR"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "PWMEnrich": [],
     "qckitfastq": [],
     "QDNAseq": [
@@ -1554,7 +1487,6 @@
         "mzID",
         "mzR"
     ],
-    "QuasR": [],
     "QUBIC": [],
     "qusage": [],
     "R3CPET": [
@@ -1570,18 +1502,13 @@
     ],
     "RCyjs": [],
     "REBET": [],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recoup": [],
     "RedisParam": [],
     "regionReport": [
-        "DEFormats",
-        "derfinder"
+        "DEFormats"
     ],
-    "regutools": [
-        "Gviz"
-    ],
+    "regutools": [],
     "Repitools": [
         "Ringo"
     ],
@@ -1636,7 +1563,6 @@
         "mzR"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAdecay": [],
@@ -1645,23 +1571,17 @@
         "GSEABase",
         "cellHTS2"
     ],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [],
@@ -1670,7 +1590,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "Rqc": [],
     "rqt": [
         "MultiDataSet",
         "ropls"
@@ -1784,9 +1703,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "singscore": [
         "GSEABase"
     ],
@@ -1823,8 +1740,7 @@
         "NanoStringNCTools"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "Spectra": [
         "MetaboCoreUtils",
@@ -1842,13 +1758,9 @@
     "splineTimeR": [
         "GSEABase"
     ],
-    "SPLINTER": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
     "SQLDataFrame": [],
-    "srnadiff": [
-        "Gviz"
-    ],
+    "srnadiff": [],
     "ssPATHS": [],
     "staRank": [
         "Category",
@@ -1873,9 +1785,7 @@
         "mzID",
         "mzR"
     ],
-    "tadar": [
-        "Gviz"
-    ],
+    "tadar": [],
     "TADCompare": [
         "HiCcompare"
     ],
@@ -1932,9 +1842,7 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "trackViewer": [
-        "Gviz"
-    ],
+    "trackViewer": [],
     "tradeSeq": [
         "TrajectoryUtils",
         "slingshot"
@@ -1963,11 +1871,8 @@
         "TrajectoryUtils"
     ],
     "TTMap": [],
-    "TVTB": [
-        "Gviz"
-    ],
+    "TVTB": [],
     "uncoverappLib": [
-        "Gviz",
         "OrganismDbi"
     ],
     "UNDO": [],
@@ -1978,10 +1883,7 @@
     "VariantExperiment": [
         "GDSArray"
     ],
-    "VariantFiltering": [
-        "Gviz"
-    ],
-    "VCFArray": [],
+    "VariantFiltering": [],
     "ViSEAGO": [
         "AnnotationForge"
     ],
