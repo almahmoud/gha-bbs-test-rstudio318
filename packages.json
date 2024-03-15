@@ -119,16 +119,12 @@
     "AssessORF": [],
     "ATACCoGAPS": [
         "OrganismDbi",
-        "chromVAR",
-        "motifmatchr",
         "projectR"
     ],
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -370,7 +366,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase",
@@ -718,9 +713,7 @@
         "biovizBase"
     ],
     "EMDomics": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
     "EnrichmentBrowser": [
         "GSEABase",
@@ -729,8 +722,7 @@
         "safe"
     ],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "ensemblVEP": [],
@@ -776,8 +768,7 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "escape": [
         "GSEABase",
@@ -786,7 +777,6 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationForge",
         "AnnotationHubData",
@@ -946,7 +936,6 @@
         "ncdfFlow"
     ],
     "frmaTools": [],
-    "funtooNorm": [],
     "GA4GHclient": [],
     "GA4GHshiny": [
         "GA4GHclient"
@@ -1355,7 +1344,6 @@
     "MethReg": [
         "sesame"
     ],
-    "MethylAid": [],
     "methylCC": [],
     "methylclock": [
         "AnnotationForge",
@@ -1384,7 +1372,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MicrobiotaProcess": [],
     "microRNA": [],
     "midasHLA": [],
     "miloR": [],
@@ -1436,7 +1423,6 @@
     "mogsa": [
         "GSEABase"
     ],
-    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler"
@@ -1453,7 +1439,6 @@
         "biovizBase",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -1682,9 +1667,7 @@
     ],
     "packFinder": [],
     "padma": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq"
     ],
@@ -1854,7 +1837,6 @@
         "GenomicFiles",
         "derfinder"
     ],
-    "recountmethylation": [],
     "recoup": [],
     "RedisParam": [],
     "regionReport": [
@@ -2080,7 +2062,6 @@
     ],
     "SGSeq": [],
     "shinyepico": [],
-    "shinyMethyl": [],
     "signatureSearch": [
         "GSEABase",
         "clusterProfiler"
@@ -2149,8 +2130,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "motifmatchr"
+        "biovizBase"
     ],
     "Spectra": [
         "MetaboCoreUtils",
