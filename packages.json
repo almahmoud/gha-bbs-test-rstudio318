@@ -158,7 +158,6 @@
     "AnVILWorkflow": [],
     "APAlyzer": [
         "HybridMTest",
-        "Rsubread",
         "VariantAnnotation"
     ],
     "apComplex": [
@@ -173,15 +172,13 @@
         "oligo"
     ],
     "arrayMvout": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "ASAFE": [],
     "ASICS": [
@@ -200,23 +197,19 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
-        "seqLogo"
+        "projectR"
     ],
     "ATACseqQC": [
         "TFBSTools",
-        "motifStack",
-        "seqLogo"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "TFBSTools",
-        "motifmatchr",
-        "seqLogo"
+        "motifmatchr"
     ],
     "atSNP": [
         "TFBSTools",
-        "motifStack",
-        "seqLogo"
+        "motifStack"
     ],
     "attract": [
         "AnnotationForge",
@@ -245,14 +238,11 @@
         "mzR",
         "pRoloc"
     ],
-    "banocc": [],
     "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
-    "beadarray": [
-        "illuminaio"
-    ],
+    "beadarray": [],
     "beadarraySNP": [],
     "benchdamic": [
         "ANCOMBC",
@@ -269,7 +259,6 @@
         "hypergraph"
     ],
     "bigmelon": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -334,8 +323,7 @@
         "DEXSeq"
     ],
     "blima": [
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "BLMA": [
         "KEGGgraph",
@@ -514,7 +502,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "CGEN": [],
     "CGHcall": [],
     "CGHnormaliter": [
         "CGHcall"
@@ -524,7 +511,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -557,8 +543,7 @@
         "bamsignals"
     ],
     "chromVAR": [
-        "TFBSTools",
-        "seqLogo"
+        "TFBSTools"
     ],
     "CHRONOS": [],
     "cicero": [
@@ -694,7 +679,6 @@
         "MsCoreUtils",
         "Spectra"
     ],
-    "ComPrAn": [],
     "condiments": [
         "TrajectoryUtils",
         "distinct",
@@ -719,7 +703,6 @@
         "VariantAnnotation"
     ],
     "conumee": [
-        "illuminaio",
         "minfi"
     ],
     "CopyNumberPlots": [
@@ -782,9 +765,7 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "crlmm": [
-        "illuminaio"
-    ],
+    "crlmm": [],
     "crossmeta": [
         "affxparser",
         "oligo"
@@ -874,8 +855,7 @@
     "dagLogo": [
         "TFBSTools",
         "UniProt.ws",
-        "motifStack",
-        "seqLogo"
+        "motifStack"
     ],
     "DAMEfinder": [
         "VariantAnnotation"
@@ -922,7 +902,6 @@
         "VariantAnnotation"
     ],
     "deconvR": [
-        "illuminaio",
         "methylKit",
         "minfi"
     ],
@@ -981,8 +960,7 @@
         "flowCore"
     ],
     "diffUTR": [
-        "DEXSeq",
-        "Rsubread"
+        "DEXSeq"
     ],
     "discordant": [],
     "DiscoRhythm": [],
@@ -993,7 +971,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -1026,18 +1003,14 @@
         "oligo"
     ],
     "DTA": [],
-    "dupRadar": [
-        "Rsubread"
-    ],
+    "dupRadar": [],
     "easier": [
         "progeny"
     ],
     "easyRNASeq": [
         "genomeIntervals"
     ],
-    "EBSEA": [
-        "EmpiricalBrownsMethod"
-    ],
+    "EBSEA": [],
     "EBSeqHMM": [],
     "ecolitk": [],
     "EGSEA": [
@@ -1056,14 +1029,11 @@
         "biovizBase"
     ],
     "EMDomics": [],
-    "EmpiricalBrownsMethod": [],
     "enhancerHomologSearch": [
         "TFBSTools",
-        "motifmatchr",
-        "seqLogo"
+        "motifmatchr"
     ],
     "ENmix": [
-        "illuminaio",
         "minfi"
     ],
     "EnrichmentBrowser": [
@@ -1085,8 +1055,7 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "motifmatchr",
-        "seqLogo"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1108,8 +1077,7 @@
         "ggtree"
     ],
     "epigenomix": [
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "epigraHMM": [
         "bamsignals"
@@ -1120,7 +1088,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "illuminaio",
         "minfi"
     ],
     "epiNEM": [
@@ -1161,8 +1128,7 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "motifmatchr",
-        "seqLogo"
+        "motifmatchr"
     ],
     "escape": [
         "GSEABase",
@@ -1177,9 +1143,7 @@
         "ggtree",
         "orthogene"
     ],
-    "ExCluster": [
-        "Rsubread"
-    ],
+    "ExCluster": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationForge",
@@ -1213,7 +1177,6 @@
     ],
     "fenr": [],
     "ffpe": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -1358,8 +1321,7 @@
     ],
     "fobitools": [],
     "FRASER": [
-        "OUTRIDER",
-        "Rsubread"
+        "OUTRIDER"
     ],
     "frma": [
         "affxparser",
@@ -1367,7 +1329,6 @@
     ],
     "frmaTools": [],
     "funtooNorm": [
-        "illuminaio",
         "minfi"
     ],
     "FuseSOM": [],
@@ -1446,8 +1407,7 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "seqLogo"
+        "genomation"
     ],
     "GenomicTuples": [],
     "GenProSeq": [
@@ -1547,8 +1507,6 @@
         "GSEABase",
         "Rgraphviz"
     ],
-    "gpls": [],
-    "granulator": [],
     "graphite": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
@@ -1639,7 +1597,6 @@
         "VariantAnnotation"
     ],
     "iCheck": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -1652,18 +1609,13 @@
         "GSEABase",
         "IHW",
         "Rgraphviz",
-        "lpsymphony",
         "pcaExplorer"
     ],
     "idr2d": [],
-    "iGC": [],
     "igvR": [
         "VariantAnnotation"
     ],
-    "IHW": [
-        "lpsymphony"
-    ],
-    "illuminaio": [],
+    "IHW": [],
     "ILoReg": [],
     "IMAS": [
         "IVAS"
@@ -1690,7 +1642,6 @@
         "enrichplot",
         "ggtree",
         "graphite",
-        "illuminaio",
         "minfi"
     ],
     "infinityFlow": [
@@ -1711,8 +1662,7 @@
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
-        "VariantAnnotation",
-        "seqLogo"
+        "VariantAnnotation"
     ],
     "IntOMICS": [],
     "IPO": [
@@ -1816,11 +1766,9 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [],
     "LRcell": [],
     "lumi": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -1836,7 +1784,6 @@
     "MAGAR": [
         "RnBeads",
         "crlmm",
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -1881,8 +1828,7 @@
         "proDA"
     ],
     "MatrixRider": [
-        "TFBSTools",
-        "seqLogo"
+        "TFBSTools"
     ],
     "MBASED": [],
     "mbkmeans": [],
@@ -1899,13 +1845,11 @@
         "MultiDataSet",
         "VariantAnnotation",
         "biovizBase",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "MEAT": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -1982,15 +1926,12 @@
         "methylKit"
     ],
     "MethReg": [
-        "illuminaio",
         "sesame"
     ],
     "MethylAid": [
-        "illuminaio",
         "minfi"
     ],
     "methylCC": [
-        "illuminaio",
         "minfi"
     ],
     "methylclock": [
@@ -1998,7 +1939,6 @@
         "AnnotationHubData",
         "ExperimentHubData",
         "OrganismDbi",
-        "illuminaio",
         "minfi"
     ],
     "methylGSA": [
@@ -2006,7 +1946,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -2021,7 +1960,6 @@
         "biovizBase"
     ],
     "methylumi": [
-        "illuminaio",
         "minfi"
     ],
     "Mfuzz": [
@@ -2060,18 +1998,14 @@
         "GOstats",
         "GSEABase",
         "Rgraphviz",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "minfi": [
-        "illuminaio"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "illuminaio"
+        "crlmm"
     ],
     "MiPP": [],
     "miQC": [],
@@ -2093,7 +2027,6 @@
     "miRNAmeConverter": [],
     "miRNApath": [],
     "missMethyl": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -2125,8 +2058,7 @@
     ],
     "MOMA": [],
     "monaLisa": [
-        "TFBSTools",
-        "seqLogo"
+        "TFBSTools"
     ],
     "monocle": [],
     "Moonlight2R": [
@@ -2151,16 +2083,13 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "motifStack",
-        "seqLogo"
+        "motifStack"
     ],
     "motifmatchr": [
-        "TFBSTools",
-        "seqLogo"
+        "TFBSTools"
     ],
     "motifStack": [
-        "TFBSTools",
-        "seqLogo"
+        "TFBSTools"
     ],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -2311,14 +2240,12 @@
     "mzR": [],
     "NADfinder": [
         "ATACseqQC",
-        "EmpiricalBrownsMethod",
         "Gviz",
         "Rgraphviz",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
-        "seqLogo",
         "trackViewer"
     ],
     "NanoStringNCTools": [],
@@ -2369,7 +2296,6 @@
         "GOstats",
         "GSEABase",
         "Rgraphviz",
-        "illuminaio",
         "minfi",
         "quantro",
         "yarn"
@@ -2382,9 +2308,7 @@
     "nipalsMCIA": [],
     "NOISeq": [],
     "NoRCE": [],
-    "normalize450K": [
-        "illuminaio"
-    ],
+    "normalize450K": [],
     "normr": [
         "bamsignals"
     ],
@@ -2462,7 +2386,6 @@
     "orthogene": [
         "ggtree"
     ],
-    "OSAT": [],
     "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
@@ -2472,8 +2395,7 @@
     "padma": [],
     "pageRank": [
         "TFBSTools",
-        "motifmatchr",
-        "seqLogo"
+        "motifmatchr"
     ],
     "paircompviz": [
         "Rgraphviz"
@@ -2499,7 +2421,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationForge",
         "Category",
@@ -2584,8 +2505,7 @@
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
-        "biovizBase",
-        "seqLogo"
+        "biovizBase"
     ],
     "PrInCE": [
         "MSnbase",
@@ -2672,9 +2592,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "PWMEnrich": [
-        "seqLogo"
-    ],
+    "PWMEnrich": [],
     "qckitfastq": [],
     "QDNAseq": [
         "CGHcall"
@@ -2695,7 +2613,6 @@
         "mzR"
     ],
     "quantro": [
-        "illuminaio",
         "minfi"
     ],
     "QuasR": [
@@ -2729,13 +2646,11 @@
     ],
     "rawrr": [],
     "RCAS": [
-        "genomation",
-        "seqLogo"
+        "genomation"
     ],
     "RCASPAR": [],
     "rcellminer": [],
     "RCyjs": [],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
@@ -2750,7 +2665,6 @@
         "derfinderHelper"
     ],
     "recountmethylation": [
-        "illuminaio",
         "minfi"
     ],
     "recoup": [],
@@ -2768,7 +2682,6 @@
         "biovizBase"
     ],
     "REMP": [
-        "illuminaio",
         "minfi"
     ],
     "Repitools": [
@@ -2799,9 +2712,7 @@
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
-    "rGADEM": [
-        "seqLogo"
-    ],
+    "rGADEM": [],
     "rgoslin": [],
     "Rgraphviz": [],
     "rhdf5client": [],
@@ -2819,14 +2730,10 @@
         "ggbio"
     ],
     "ribor": [],
-    "riboSeqR": [
-        "seqLogo"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "Rsubread",
         "TFBSTools",
-        "motifStack",
-        "seqLogo"
+        "motifStack"
     ],
     "rifiComparative": [
         "DTA"
@@ -2896,7 +2803,6 @@
         "recount"
     ],
     "RnBeads": [
-        "illuminaio",
         "methylumi",
         "minfi"
     ],
@@ -2919,7 +2825,6 @@
         "ropls"
     ],
     "rRDP": [],
-    "Rsubread": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -2950,12 +2855,9 @@
         "affxparser",
         "oligo"
     ],
-    "scanMiR": [
-        "seqLogo"
-    ],
+    "scanMiR": [],
     "scanMiRApp": [
-        "scanMiR",
-        "seqLogo"
+        "scanMiR"
     ],
     "scAnnotatR": [],
     "SCArray": [],
@@ -3000,9 +2902,7 @@
         "MsCoreUtils",
         "QFeatures"
     ],
-    "scPipe": [
-        "Rsubread"
-    ],
+    "scPipe": [],
     "scReClassify": [],
     "screenCounter": [],
     "scRepertoire": [],
@@ -3012,7 +2912,6 @@
     ],
     "scruff": [
         "OrganismDbi",
-        "Rsubread",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3064,11 +2963,8 @@
         "VariantAnnotation"
     ],
     "SeqGate": [],
-    "seqLogo": [],
     "SeqSQC": [],
-    "sesame": [
-        "illuminaio"
-    ],
+    "sesame": [],
     "sevenbridges": [],
     "sevenC": [],
     "SGCP": [
@@ -3081,11 +2977,9 @@
     "SGSeq": [],
     "SharedObject": [],
     "shinyepico": [
-        "illuminaio",
         "minfi"
     ],
     "shinyMethyl": [
-        "illuminaio",
         "minfi"
     ],
     "SigCheck": [
@@ -3138,7 +3032,6 @@
         "ggtree"
     ],
     "skewr": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -3182,8 +3075,7 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "motifmatchr",
-        "seqLogo"
+        "motifmatchr"
     ],
     "Spectra": [
         "MetaboCoreUtils",
@@ -3214,8 +3106,7 @@
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "seqLogo"
+        "biovizBase"
     ],
     "spqn": [],
     "SQLDataFrame": [],
@@ -3317,9 +3208,7 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFBSTools": [
-        "seqLogo"
-    ],
+    "TFBSTools": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -3438,8 +3327,7 @@
         "DeepPINCS"
     ],
     "VanillaICE": [
-        "crlmm",
-        "illuminaio"
+        "crlmm"
     ],
     "VariantAnnotation": [],
     "VariantExperiment": [
@@ -3457,7 +3345,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VERSO": [],
     "ViSEAGO": [
         "AnnotationForge"
     ],
@@ -3470,7 +3357,6 @@
         "gwascat"
     ],
     "wateRmelon": [
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi"
@@ -3505,7 +3391,6 @@
         "ggbio"
     ],
     "yarn": [
-        "illuminaio",
         "minfi",
         "quantro"
     ],
