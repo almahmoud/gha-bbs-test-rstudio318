@@ -44,7 +44,6 @@
     "AGDEX": [
         "GSEABase"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "AnnotationForge",
         "Category",
@@ -243,7 +242,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BioNAR": [],
     "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
@@ -300,7 +298,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase"
@@ -775,7 +772,6 @@
         "VariantAnnotation"
     ],
     "deconvR": [
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -787,7 +783,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
@@ -846,7 +841,6 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "Doscheda": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
@@ -913,7 +907,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot",
         "genomation"
@@ -1144,9 +1137,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frma": [],
     "frmaTools": [],
     "funtooNorm": [
@@ -1328,7 +1319,6 @@
         "VariantAnnotation"
     ],
     "GWENA": [],
-    "h5vc": [],
     "Harshlight": [
         "altcdfenvs",
         "hypergraph"
@@ -1357,7 +1347,6 @@
     "HiCool": [
         "HiCExperiment"
     ],
-    "HiLDA": [],
     "hipathia": [],
     "hmdbQuery": [],
     "hpar": [],
@@ -1476,9 +1465,7 @@
         "DEXSeq",
         "satuRn"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [],
     "iterClust": [],
     "karyoploteR": [
@@ -1662,9 +1649,7 @@
         "MsCoreUtils",
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -1688,10 +1673,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -1830,7 +1812,6 @@
         "Spectra"
     ],
     "MsCoreUtils": [],
-    "MsDataHub": [],
     "MsExperiment": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -1953,7 +1934,6 @@
         "trackViewer"
     ],
     "NanoStringNCTools": [],
-    "NanoTube": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -2057,10 +2037,8 @@
         "flowMeans"
     ],
     "ORFik": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthogene": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -2432,7 +2410,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "Rtreemix": [],
     "Rvisdiff": [],
     "RVS": [],
@@ -2489,7 +2466,6 @@
         "QFeatures"
     ],
     "scPipe": [],
-    "scReClassify": [],
     "screenCounter": [],
     "scRepertoire": [],
     "scRNAseqApp": [
@@ -2502,7 +2478,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "AnnotationForge",
         "Category",
@@ -2525,9 +2500,7 @@
         "bamsignals",
         "enrichplot"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "SemDist": [],
     "seq2pathway": [],
     "seqArchRplus": [
@@ -2830,9 +2803,7 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "Ularcirc": [
-        "Organism.dplyr"
-    ],
+    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
