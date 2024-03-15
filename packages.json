@@ -176,12 +176,10 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [
         "HiCBricks"
     ],
-    "bnem": [],
     "BOBaFIT": [
         "OrganismDbi",
         "ggbio"
@@ -262,7 +260,6 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CBNplot": [],
     "ccImpute": [],
     "CCPROMISE": [
         "GSEABase",
@@ -532,7 +529,6 @@
         "widgetTools"
     ],
     "dcanr": [],
-    "dce": [],
     "ddCt": [],
     "ddPCRclust": [
         "cytolib",
@@ -540,7 +536,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "debrowser": [],
     "DeepBlueR": [],
     "DEFormats": [],
     "DEGraph": [],
@@ -1062,7 +1057,6 @@
     "MAGAR": [
         "RnBeads"
     ],
-    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1174,7 +1168,6 @@
     "microbiomeMarker": [
         "ANCOMBC"
     ],
-    "MicrobiomeProfiler": [],
     "microRNA": [],
     "midasHLA": [],
     "miloR": [],
@@ -1190,7 +1183,6 @@
     ],
     "MinimumDistance": [],
     "MiRaGE": [],
-    "mirIntegrator": [],
     "miRLAB": [
         "AnnotationForge",
         "Category",
@@ -1366,7 +1358,6 @@
         "mzR",
         "xcms"
     ],
-    "nempi": [],
     "NetActivity": [],
     "netboost": [],
     "netOmics": [
@@ -1697,7 +1688,6 @@
         "MGFR"
     ],
     "satuRn": [],
-    "SBGNview": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -1763,7 +1753,6 @@
     ],
     "SemDist": [],
     "seq2pathway": [],
-    "seqArchRplus": [],
     "SeqGate": [],
     "SeqSQC": [],
     "sesame": [],
