@@ -241,8 +241,7 @@
     "beadarraySNP": [],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
-        "NOISeq"
+        "MAST"
     ],
     "bgx": [],
     "BicARE": [
@@ -636,9 +635,7 @@
         "karyoploteR"
     ],
     "CNVMetrics": [],
-    "CNVPanelizer": [
-        "NOISeq"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment"
@@ -951,7 +948,6 @@
     "diffUTR": [
         "DEXSeq"
     ],
-    "discordant": [],
     "DiscoRhythm": [],
     "distinct": [],
     "dittoSeq": [],
@@ -1893,9 +1889,7 @@
         "ggtree"
     ],
     "metapone": [],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "MetCirc": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -2280,7 +2274,6 @@
     "NewWave": [],
     "ngsReports": [],
     "nipalsMCIA": [],
-    "NOISeq": [],
     "NoRCE": [],
     "normalize450K": [],
     "normr": [
