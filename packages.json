@@ -327,8 +327,7 @@
         "CGHcall",
         "OrganismDbi",
         "QDNAseq",
-        "VariantAnnotation",
-        "dmrseq"
+        "VariantAnnotation"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -974,7 +973,6 @@
         "derfinderHelper",
         "ggbio"
     ],
-    "DEScan2": [],
     "DEsingle": [],
     "destiny": [],
     "DEXSeq": [],
@@ -1005,7 +1003,6 @@
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -1414,10 +1411,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -2426,7 +2420,6 @@
         "widgetTools"
     ],
     "omada": [],
-    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "rexposome"
@@ -2498,7 +2491,6 @@
     "pairedGSEA": [
         "DEXSeq"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GSEABase",
@@ -2774,7 +2766,6 @@
     ],
     "recoup": [],
     "RedisParam": [],
-    "REDseq": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -3009,7 +3000,6 @@
     ],
     "scmap": [],
     "scMET": [],
-    "scmeth": [],
     "SCnorm": [],
     "scone": [],
     "Sconify": [
@@ -3188,7 +3178,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "SOMNiBUS": [],
     "sparrow": [
         "GSEABase"
     ],
@@ -3489,7 +3478,6 @@
     "vissE": [
         "GSEABase"
     ],
-    "Voyager": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
@@ -3521,7 +3509,6 @@
     "XDE": [
         "GeneMeta"
     ],
-    "Xeva": [],
     "yamss": [
         "mzR"
     ],
