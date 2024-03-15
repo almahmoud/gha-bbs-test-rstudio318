@@ -145,13 +145,10 @@
     "CAFE": [
         "ggbio"
     ],
-    "CAGEfightR": [],
     "cageminer": [
         "ggbio"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -532,7 +529,6 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "extraChIPs": [],
     "FamAgg": [],
     "fCCAC": [
         "genomation"
@@ -788,7 +784,6 @@
     "hermes": [],
     "HiCBricks": [],
     "HiCcompare": [],
-    "HiCDCPlus": [],
     "HiCDOC": [
         "HiCcompare",
         "multiHiCcompare"
@@ -1301,7 +1296,6 @@
         "widgetTools"
     ],
     "PSEA": [],
-    "psichomics": [],
     "PSMatch": [
         "MsCoreUtils",
         "QFeatures"
@@ -1397,7 +1391,6 @@
         "mzID",
         "mzR"
     ],
-    "RNAAgeCalc": [],
     "RNAdecay": [],
     "RNAinteract": [
         "Category",
@@ -1406,7 +1399,6 @@
     ],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [],
     "roastgsa": [],
     "ROCpAI": [],
     "ropls": [
@@ -1551,7 +1543,6 @@
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "spatzie": [],
     "Spectra": [
         "MetaboCoreUtils",
         "MsCoreUtils"
