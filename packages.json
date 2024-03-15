@@ -1025,7 +1025,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "FRASER": [],
     "frma": [],
     "frmaTools": [],
     "funtooNorm": [],
@@ -1297,7 +1296,6 @@
         "DEXSeq",
         "satuRn"
     ],
-    "isomiRs": [],
     "ITALICS": [],
     "iterClust": [],
     "karyoploteR": [
@@ -1459,7 +1457,6 @@
         "MsCoreUtils",
         "Spectra"
     ],
-    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -1477,7 +1474,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
@@ -2212,7 +2208,6 @@
         "bamsignals",
         "enrichplot"
     ],
-    "selectKSigs": [],
     "SemDist": [],
     "seq2pathway": [],
     "seqArchRplus": [
@@ -2474,7 +2469,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
