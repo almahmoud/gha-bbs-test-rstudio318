@@ -1619,7 +1619,6 @@
         "MultiDataSet",
         "rexposome"
     ],
-    "OMICsPCA": [],
     "omicsViewer": [],
     "oncoscanR": [],
     "onlineFDR": [],
@@ -2157,8 +2156,6 @@
     ],
     "SUITOR": [],
     "surfaltr": [],
-    "svaNUMT": [],
-    "svaRetro": [],
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
