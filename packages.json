@@ -70,7 +70,6 @@
     "airpart": [],
     "alabaster": [
         "VariantAnnotation",
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -81,49 +80,33 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
         "VariantAnnotation",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -217,7 +200,6 @@
     "bambu": [],
     "bamsignals": [],
     "bandle": [
-        "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
         "mzID",
@@ -248,12 +230,10 @@
         "minfi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "DOSE",
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -327,7 +307,6 @@
         "VariantAnnotation",
         "biovizBase",
         "derfinder",
-        "derfinderHelper",
         "derfinderPlot",
         "ggbio"
     ],
@@ -382,7 +361,6 @@
         "GSEABase",
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "phenoTest"
@@ -410,14 +388,12 @@
     "cbaf": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -596,8 +572,7 @@
     "CNVMetrics": [],
     "CNVPanelizer": [],
     "CNVRanger": [
-        "GDSArray",
-        "RaggedExperiment"
+        "GDSArray"
     ],
     "CNVrd2": [
         "VariantAnnotation"
@@ -661,7 +636,6 @@
     "coseq": [
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -865,17 +839,14 @@
     "DEqMS": [],
     "derfinder": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "derfinderHelper"
+        "VariantAnnotation"
     ],
-    "derfinderHelper": [],
     "derfinderPlot": [
         "GenomicFiles",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "derfinder",
-        "derfinderHelper",
         "ggbio"
     ],
     "DEsingle": [],
@@ -946,7 +917,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -1029,7 +999,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles",
         "OrganismDbi",
@@ -1255,7 +1224,6 @@
     "gatom": [
         "BioNet"
     ],
-    "GBScleanR": [],
     "GDCRNATools": [
         "DOSE",
         "GenomicDataCommons",
@@ -1371,7 +1339,6 @@
     "GNOSIS": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
@@ -1521,7 +1488,6 @@
         "cytolib",
         "flowCore"
     ],
-    "INSPEcT": [],
     "intansv": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1861,8 +1827,7 @@
         "AnnotationForge",
         "Category",
         "GOstats",
-        "GSEABase",
-        "TCGAbiolinks"
+        "GSEABase"
     ],
     "miRNAmeConverter": [],
     "miRNApath": [],
@@ -1876,7 +1841,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1904,7 +1868,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2098,7 +2061,6 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2157,9 +2119,7 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [],
     "oncoscanR": [],
     "OncoSimulR": [],
@@ -2279,7 +2239,6 @@
         "GSEABase"
     ],
     "pmm": [],
-    "pmp": [],
     "pogos": [
         "ontoProc"
     ],
@@ -2307,14 +2266,12 @@
     ],
     "projectR": [],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
         "mzID",
         "mzR"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
         "mzID",
@@ -2347,7 +2304,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "PSMatch": [
@@ -2407,7 +2363,6 @@
         "VariantAnnotation"
     ],
     "R4RNA": [],
-    "RaggedExperiment": [],
     "RAIDS": [
         "VariantAnnotation"
     ],
@@ -2430,8 +2385,7 @@
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "recountmethylation": [
         "minfi"
@@ -2442,8 +2396,7 @@
         "DEFormats",
         "GenomicFiles",
         "VariantAnnotation",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "regutools": [
         "Gviz",
@@ -2525,7 +2478,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "RNAdecay": [],
@@ -2561,7 +2513,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "RnBeads": [
@@ -2588,7 +2539,6 @@
     "rRDP": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RTNsurvival": [],
@@ -2600,9 +2550,7 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "SARC": [
-        "RaggedExperiment"
-    ],
+    "SARC": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -2683,7 +2631,6 @@
     "scTGIF": [
         "GSEABase"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "OrganismDbi",
         "epivizr",
@@ -2712,7 +2659,6 @@
     "SeqGate": [],
     "SeqSQC": [],
     "sesame": [],
-    "sevenbridges": [],
     "sevenC": [],
     "SGCP": [
         "AnnotationForge",
@@ -2727,9 +2673,7 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "DOSE",
         "GSEABase",
@@ -2844,7 +2788,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "spqn": [],
     "SQLDataFrame": [],
     "srnadiff": [
         "Gviz",
@@ -2912,10 +2855,8 @@
         "singscore"
     ],
     "TCC": [],
-    "TCGAbiolinks": [],
     "TCGAutils": [
-        "GenomicDataCommons",
-        "RaggedExperiment"
+        "GenomicDataCommons"
     ],
     "TDbasedUFEadv": [
         "DOSE",
@@ -2929,7 +2870,6 @@
     ],
     "terraTCGAdata": [
         "GenomicDataCommons",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [],
