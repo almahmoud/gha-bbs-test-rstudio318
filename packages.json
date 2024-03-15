@@ -88,8 +88,7 @@
         "OrganismDbi"
     ],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "arrayQualityMetrics": [
         "affyPLM"
@@ -107,12 +106,8 @@
         "OrganismDbi",
         "projectR"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
+    "atSNP": [],
     "attract": [
         "AnnotationForge",
         "Category",
@@ -149,7 +144,6 @@
     ],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -182,7 +176,6 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "blima": [],
     "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [
@@ -306,7 +299,6 @@
         "DMRcate",
         "Gviz",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -408,7 +400,6 @@
     ],
     "CONSTANd": [],
     "contiBAIT": [],
-    "conumee": [],
     "CopyNumberPlots": [
         "bamsignals",
         "karyoploteR"
@@ -529,8 +520,7 @@
         "ncdfFlow"
     ],
     "dagLogo": [
-        "UniProt.ws",
-        "motifStack"
+        "UniProt.ws"
     ],
     "DAPAR": [
         "MSnbase",
@@ -551,7 +541,6 @@
         "flowViz"
     ],
     "debrowser": [],
-    "deconvR": [],
     "DeepBlueR": [],
     "DEFormats": [],
     "DEGraph": [],
@@ -592,7 +581,6 @@
     "divergence": [],
     "DMRcate": [
         "Gviz",
-        "methylumi",
         "missMethyl"
     ],
     "DNAfusion": [
@@ -620,7 +608,6 @@
         "Gviz"
     ],
     "EMDomics": [],
-    "ENmix": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "safe"
@@ -629,7 +616,6 @@
     "EpiCompare": [
         "genomation"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -689,8 +675,7 @@
         "TrajectoryUtils"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "fgga": [],
     "flagme": [
@@ -976,8 +961,7 @@
     "hypergraph": [],
     "iCARE": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "iChip": [],
     "ideal": [
@@ -1054,7 +1038,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1072,15 +1055,12 @@
     "loci2path": [],
     "LRBaseDbi": [],
     "LRcell": [],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "m6Aboost": [],
     "maCorrPlot": [],
     "maftools": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [],
     "MAIT": [
@@ -1105,7 +1085,6 @@
     "mastR": [
         "GSEABase"
     ],
-    "MatrixRider": [],
     "MBASED": [],
     "MBQN": [],
     "MCbiclust": [],
@@ -1116,12 +1095,10 @@
     "MEAL": [
         "Gviz",
         "MultiDataSet",
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "MEDME": [],
@@ -1177,7 +1154,6 @@
     "MethReg": [
         "sesame"
     ],
-    "methylCC": [],
     "methylclock": [
         "AnnotationForge",
         "AnnotationHubData",
@@ -1185,13 +1161,11 @@
         "OrganismDbi"
     ],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [
         "Gviz"
     ],
-    "methylumi": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -1212,12 +1186,9 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MiRaGE": [],
     "mirIntegrator": [],
     "miRLAB": [
@@ -1228,9 +1199,7 @@
     ],
     "miRNAmeConverter": [],
     "miRNApath": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mitch": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1255,10 +1224,8 @@
     ],
     "MOSim": [],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
-    "motifStack": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -1380,7 +1347,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "NanoStringNCTools": [],
@@ -1411,7 +1377,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "quantro",
         "yarn"
     ],
     "NewWave": [],
@@ -1598,7 +1563,6 @@
         "mzID",
         "mzR"
     ],
-    "quantro": [],
     "QuasR": [],
     "QUBIC": [],
     "qusage": [],
@@ -1627,7 +1591,6 @@
     "regutools": [
         "Gviz"
     ],
-    "REMP": [],
     "Repitools": [
         "Ringo"
     ],
@@ -1657,9 +1620,7 @@
         "ggbio"
     ],
     "ribor": [],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "rifiComparative": [
         "DTA"
     ],
@@ -1712,9 +1673,7 @@
         "derfinder",
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "roastgsa": [],
     "ROCpAI": [],
     "ropls": [
@@ -1815,7 +1774,6 @@
         "GSEABase"
     ],
     "SGSeq": [],
-    "shinyepico": [],
     "signatureSearch": [
         "GSEABase"
     ],
@@ -1846,7 +1804,6 @@
     "sitadela": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "slalom": [
@@ -1947,7 +1904,6 @@
     "TCGAutils": [
         "GenomicDataCommons"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -2030,7 +1986,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [
         "GDSArray"
     ],
@@ -2047,8 +2002,7 @@
     "vsclust": [],
     "vtpnet": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "webbioc": [
         "annaffy"
@@ -2077,9 +2031,7 @@
         "SomaticSignatures",
         "ggbio"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
