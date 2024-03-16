@@ -249,14 +249,12 @@
         "GDSArray"
     ],
     "Cogito": [],
-    "compcodeR": [],
     "CompoundDb": [
         "MetaboCoreUtils",
         "MsCoreUtils",
         "Spectra"
     ],
     "condiments": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "CONFESS": [
@@ -337,7 +335,6 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "FlowSOM",
         "cytolib",
         "diffcyt",
@@ -349,7 +346,6 @@
         "cytolib",
         "flowCore"
     ],
-    "CytoGLMM": [],
     "cytolib": [],
     "cytoMEM": [
         "cytolib",
@@ -416,7 +412,6 @@
     ],
     "DEqMS": [],
     "DEsingle": [],
-    "destiny": [],
     "DEXSeq": [],
     "DIAlignR": [
         "mzR"
@@ -478,8 +473,7 @@
         "genomation"
     ],
     "FEAST": [
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fgga": [],
     "flagme": [
@@ -720,7 +714,6 @@
     ],
     "hmdbQuery": [],
     "hpar": [],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [
@@ -728,7 +721,6 @@
     ],
     "hypergraph": [],
     "iCARE": [],
-    "iChip": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -821,7 +813,6 @@
         "GSEABase"
     ],
     "MBASED": [],
-    "MCbiclust": [],
     "MEAL": [
         "MultiDataSet"
     ],
@@ -884,7 +875,6 @@
     "microbiomeMarker": [
         "ANCOMBC"
     ],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM"
@@ -1042,7 +1032,6 @@
         "mzR",
         "xcms"
     ],
-    "NetActivity": [],
     "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -1128,9 +1117,7 @@
         "MsCoreUtils",
         "mzR"
     ],
-    "pengls": [],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -1292,7 +1279,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scAnnotatR": [],
     "scatterHatch": [],
     "scClassify": [
         "Cepo",
@@ -1324,7 +1310,6 @@
     "screenCounter": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scTensor": [
@@ -1367,8 +1352,7 @@
     "singleCellTK": [
         "GSEABase",
         "GSVA",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "singscore": [
         "GSEABase"
@@ -1377,9 +1361,7 @@
     "slalom": [
         "GSEABase"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "BioNet"
     ],
@@ -1413,7 +1395,6 @@
     "splineTimeR": [
         "GSEABase"
     ],
-    "SQLDataFrame": [],
     "ssPATHS": [],
     "staRank": [
         "Category",
@@ -1440,7 +1421,6 @@
         "HiCcompare"
     ],
     "TAPseq": [],
-    "target": [],
     "TargetDecoy": [
         "mzR"
     ],
@@ -1482,21 +1462,16 @@
         "GSEABase",
         "GSVA"
     ],
-    "tomoda": [],
     "topdownr": [
         "MSnbase",
         "MsCoreUtils",
         "mzR"
     ],
-    "TPP": [],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transite": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -1513,9 +1488,7 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "TTMap": [],
     "UniProt.ws": [],
     "uSORT": [
