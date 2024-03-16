@@ -129,7 +129,6 @@
     ],
     "BPRMeth": [],
     "BRAIN": [],
-    "brainflowprobes": [],
     "brendaDb": [],
     "CAMERA": [
         "MSnbase",
@@ -1637,7 +1636,6 @@
     "yamss": [
         "mzR"
     ],
-    "YAPSA": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
