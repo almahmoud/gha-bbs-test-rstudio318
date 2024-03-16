@@ -16,7 +16,6 @@
     ],
     "adductomicsR": [],
     "affycoretools": [
-        "Category",
         "GOstats",
         "ReportingTools"
     ],
@@ -26,7 +25,6 @@
     "affyPLM": [],
     "AGDEX": [],
     "AgiMicroRna": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "affycoretools"
@@ -50,7 +48,6 @@
         "projectR"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "AUCell": [],
@@ -73,7 +70,6 @@
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
-    "BioCor": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -88,13 +84,11 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
     ],
     "canceR": [
-        "Category",
         "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
@@ -106,9 +100,7 @@
         "FlowSOM",
         "flowCore"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -125,9 +117,7 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "censcyt": [
         "FlowSOM",
         "diffcyt",
@@ -154,12 +144,10 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase"
     ],
@@ -184,9 +172,7 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowCore",
@@ -205,7 +191,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -325,7 +310,6 @@
         "bamsignals"
     ],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "drugTargetInteractions": [
@@ -335,7 +319,6 @@
     "EGSEA": [
         "GSVA"
     ],
-    "EnrichmentBrowser": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -350,15 +333,12 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -457,7 +437,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GDCRNATools": [
         "GenomicDataCommons"
     ],
@@ -473,9 +452,7 @@
         "GeomxTools"
     ],
     "GeomxTools": [],
-    "gep2pep": [],
     "gespeR": [
-        "Category",
         "cellHTS2"
     ],
     "ggcyto": [
@@ -490,7 +467,6 @@
     "GISPA": [],
     "GlobalAncova": [],
     "GmicR": [
-        "Category",
         "GOstats"
     ],
     "GNET2": [],
@@ -502,21 +478,15 @@
     ],
     "GOfuncR": [],
     "goSorensen": [],
-    "GOstats": [
-        "Category"
-    ],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GOstats": [],
+    "GSEABenchmarkeR": [],
     "GSRI": [],
     "GSVA": [],
     "Harshlight": [
         "altcdfenvs",
         "hypergraph"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "hmdbQuery": [],
     "hpar": [],
     "hummingbird": [],
@@ -526,7 +496,6 @@
     "hypergraph": [],
     "iCARE": [],
     "ideal": [
-        "Category",
         "GOstats",
         "pcaExplorer"
     ],
@@ -543,9 +512,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "IntEREst": [],
     "IntOMICS": [],
     "IPO": [
@@ -553,7 +520,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -574,7 +540,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -587,7 +552,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -600,9 +564,7 @@
     ],
     "Melissa": [],
     "memes": [],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -624,7 +586,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -646,11 +607,9 @@
         "affyPLM"
     ],
     "MineICA": [
-        "Category",
         "GOstats"
     ],
     "miRLAB": [
-        "Category",
         "GOstats"
     ],
     "miRNAmeConverter": [],
@@ -660,12 +619,10 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
     ],
-    "mogsa": [],
     "monocle": [],
     "mosbi": [
         "QUBIC"
@@ -696,7 +653,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msmsEDA": [
         "MSnbase"
     ],
@@ -736,7 +692,6 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "multiHiCcompare": [],
     "MultiRNAflow": [
         "Mfuzz",
         "tkWidgets",
@@ -753,7 +708,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -762,7 +716,6 @@
         "RandomWalkRestartMH"
     ],
     "netZooR": [
-        "Category",
         "GOstats"
     ],
     "normr": [
@@ -802,14 +755,10 @@
         "flowCore",
         "flowMeans"
     ],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "padma": [],
     "pairedGSEA": [],
-    "PanomiR": [],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PCAN": [],
@@ -828,12 +777,9 @@
         "MultiDataSet",
         "ropls"
     ],
-    "phenoTest": [
-        "Category"
-    ],
+    "phenoTest": [],
     "Pi": [],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "pmm": [],
@@ -877,9 +823,7 @@
     "randRotation": [],
     "RedisParam": [],
     "regionReport": [],
-    "Repitools": [],
     "ReportingTools": [
-        "Category",
         "GOstats"
     ],
     "rfaRm": [],
@@ -897,7 +841,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "xcms"
@@ -908,7 +851,6 @@
     ],
     "RNAdecay": [],
     "RNAinteract": [
-        "Category",
         "cellHTS2"
     ],
     "ROCpAI": [],
@@ -953,11 +895,8 @@
         "QFeatures"
     ],
     "scRepertoire": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scTensor": [
-        "Category",
         "GOstats",
         "meshr"
     ],
@@ -968,7 +907,6 @@
     "SeqSQC": [],
     "sesame": [],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "SGSeq": [],
@@ -978,14 +916,11 @@
         "consensusOV"
     ],
     "SIMAT": [],
-    "SimBindProfiles": [],
     "singleCellTK": [
-        "GSVA",
-        "TSCAN"
+        "GSVA"
     ],
     "singscore": [],
     "slalom": [],
-    "slingshot": [],
     "SMITE": [],
     "snapCGH": [],
     "sparrow": [],
@@ -998,12 +933,10 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [],
     "SPIAT": [],
     "SpidermiR": [],
     "splineTimeR": [],
     "staRank": [
-        "Category",
         "cellHTS2"
     ],
     "StarBioTrek": [
@@ -1047,13 +980,9 @@
     "topdownr": [
         "MSnbase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transite": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt",
@@ -1066,7 +995,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TSCAN": [],
     "TTMap": [],
     "UniProt.ws": [],
     "uSORT": [
@@ -1080,13 +1008,10 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra"
     ],
     "XDE": [],
     "yamss": [],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
