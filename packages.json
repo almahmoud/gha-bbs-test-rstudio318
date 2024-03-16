@@ -59,7 +59,6 @@
     "brendaDb": [],
     "CAMERA": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -83,7 +82,6 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CCPROMISE": [],
     "censcyt": [
         "FlowSOM",
         "diffcyt"
@@ -101,7 +99,6 @@
     "cisPath": [],
     "cliqueMS": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "ClusterJudge": [],
@@ -118,11 +115,8 @@
         "karyoploteR"
     ],
     "Cogito": [],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "CONFESS": [
-        "flowClust",
         "flowMerge"
     ],
     "consensusOV": [],
@@ -133,7 +127,6 @@
     ],
     "cosmiq": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "crisprBase": [],
@@ -159,7 +152,6 @@
         "crisprDesign"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity"
     ],
     "cycle": [
@@ -167,7 +159,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -177,7 +168,6 @@
         "FlowSOM"
     ],
     "CytoML": [
-        "flowClust",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -228,7 +218,6 @@
         "UniProt.ws"
     ],
     "DTA": [],
-    "EGSEA": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -236,7 +225,6 @@
         "tRNA",
         "tRNAdbImport"
     ],
-    "escape": [],
     "EventPointer": [
         "SGSeq"
     ],
@@ -244,15 +232,12 @@
     "flagme": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "flowAI": [],
     "flowBin": [
         "flowFP"
     ],
-    "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity"
     ],
@@ -263,11 +248,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [],
-    "flowMerge": [
-        "flowClust"
-    ],
-    "flowPloidy": [],
+    "flowMerge": [],
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
@@ -275,9 +256,7 @@
         "ncdfFlow"
     ],
     "flowTime": [],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
@@ -340,7 +319,6 @@
     "IPO": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -356,7 +334,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "LRcell": [],
@@ -365,7 +342,6 @@
     "MAIT": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "maPredictDSC": [],
@@ -376,8 +352,7 @@
     "memes": [],
     "metabinR": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [
         "hpar"
@@ -388,12 +363,9 @@
     "metaMS": [
         "CAMERA",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "MethReg": [
         "sesame"
     ],
@@ -412,7 +384,6 @@
     "mitch": [],
     "MobilityTransformR": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "monocle": [],
@@ -420,35 +391,18 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsQCgui": [],
     "MultiBaC": [
@@ -471,7 +425,6 @@
     "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "netOmics": [
@@ -493,7 +446,6 @@
     "omicsViewer": [],
     "onlineFDR": [],
     "openCyto": [
-        "flowClust",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -502,7 +454,6 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oppar": [],
     "optimalFlow": [],
     "padma": [],
     "pcaExplorer": [],
@@ -536,7 +487,6 @@
     ],
     "PSEA": [],
     "PSMatch": [],
-    "qPLEXanalyzer": [],
     "QUBIC": [],
     "R4RNA": [],
     "ramr": [],
@@ -556,7 +506,6 @@
     ],
     "Risa": [
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "RLSeq": [],
@@ -586,7 +535,6 @@
     ],
     "scatterHatch": [],
     "scClassify": [],
-    "scifer": [],
     "Sconify": [],
     "scRepertoire": [],
     "scTensor": [],
@@ -601,16 +549,13 @@
         "consensusOV"
     ],
     "singleCellTK": [],
-    "Spectra": [],
     "SpidermiR": [],
     "staRank": [],
     "StarBioTrek": [
         "SpidermiR"
     ],
     "stepNorm": [],
-    "synapter": [],
     "TAPseq": [],
-    "TBSignatureProfiler": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
@@ -647,7 +592,6 @@
     ],
     "widgetTools": [],
     "xcms": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ]
 }
