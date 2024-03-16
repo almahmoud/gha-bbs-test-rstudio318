@@ -64,14 +64,12 @@
     ],
     "AUCell": [],
     "autonomics": [],
-    "bacon": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
         "mzR",
         "pRoloc"
     ],
-    "bayNorm": [],
     "benchdamic": [
         "ANCOMBC"
     ],
@@ -87,7 +85,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "biodbChebi": [],
@@ -101,9 +98,7 @@
     ],
     "blacksheepr": [],
     "BloodGen3Module": [],
-    "bnbc": [
-        "HiCBricks"
-    ],
+    "bnbc": [],
     "BPRMeth": [],
     "brendaDb": [],
     "CAMERA": [
@@ -158,9 +153,7 @@
         "flowCore"
     ],
     "Cepo": [],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "QDNAseq"
     ],
@@ -194,7 +187,6 @@
         "mzR"
     ],
     "ClusterJudge": [],
-    "CMA": [],
     "cmapR": [
         "flowCore"
     ],
@@ -346,7 +338,6 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "deltaCaptureC": [],
     "DEP": [
         "MSnbase",
         "mzR"
@@ -375,16 +366,13 @@
     ],
     "DTA": [],
     "EBSEA": [],
-    "EBSeqHMM": [],
     "EGSEA": [
         "GSVA",
         "gage"
     ],
     "EMDomics": [],
     "EnrichmentBrowser": [],
-    "EpiCompare": [
-        "genomation"
-    ],
+    "EpiCompare": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -400,9 +388,7 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "FEAST": [
         "TSCAN"
     ],
@@ -524,12 +510,10 @@
     ],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "genomation": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenomicTuples": [],
     "GeoDiff": [
@@ -552,7 +536,6 @@
     "GGPA": [],
     "GISPA": [],
     "GlobalAncova": [],
-    "GloScope": [],
     "GmicR": [
         "Category",
         "GOstats"
@@ -585,7 +568,6 @@
     ],
     "hca": [],
     "hermes": [],
-    "HiCBricks": [],
     "HiCDOC": [
         "multiHiCcompare"
     ],
@@ -669,7 +651,6 @@
     ],
     "maPredictDSC": [],
     "maSigPro": [],
-    "maskBAD": [],
     "mastR": [],
     "MEAL": [
         "MultiDataSet"
@@ -903,7 +884,6 @@
     "OutSplice": [
         "Repitools"
     ],
-    "packFinder": [],
     "padma": [],
     "pairedGSEA": [],
     "PanomiR": [],
@@ -984,9 +964,7 @@
     "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCyjs": [],
     "recoup": [],
     "RedisParam": [],
@@ -1039,7 +1017,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "Rtreemix": [],
     "Rvisdiff": [],
     "RVS": [],
     "sampleClassifier": [
@@ -1057,7 +1034,6 @@
     "scDataviz": [
         "flowCore"
     ],
-    "scDesign3": [],
     "scFeatures": [
         "AUCell",
         "GSVA"
@@ -1108,7 +1084,6 @@
         "TSCAN"
     ],
     "singscore": [],
-    "sitadela": [],
     "slalom": [],
     "slingshot": [],
     "SMITE": [],
@@ -1129,7 +1104,6 @@
     ],
     "SpidermiR": [],
     "splineTimeR": [],
-    "ssPATHS": [],
     "staRank": [
         "Category",
         "cellHTS2"
