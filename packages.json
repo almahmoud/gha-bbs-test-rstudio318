@@ -83,7 +83,6 @@
     ],
     "blacksheepr": [],
     "BloodGen3Module": [],
-    "bnbc": [],
     "brendaDb": [],
     "CAMERA": [
         "MSnbase",
@@ -135,7 +134,6 @@
         "flowCore"
     ],
     "Cepo": [],
-    "CexoR": [],
     "cfdnakit": [
         "QDNAseq"
     ],
@@ -338,7 +336,6 @@
         "GSVA"
     ],
     "EnrichmentBrowser": [],
-    "EpiCompare": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -353,7 +350,6 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "fCCAC": [],
     "FEAST": [
         "TSCAN"
     ],
@@ -471,9 +467,7 @@
     ],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenomicTuples": [],
     "GeoDiff": [
         "GeomxTools"
@@ -881,7 +875,6 @@
     "ramr": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
-    "RCAS": [],
     "RedisParam": [],
     "regionReport": [],
     "Repitools": [],
