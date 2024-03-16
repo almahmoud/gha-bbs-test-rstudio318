@@ -1,11 +1,8 @@
 {
     "a4": [
-        "a4Base",
-        "annaffy"
+        "a4Base"
     ],
-    "a4Base": [
-        "annaffy"
-    ],
+    "a4Base": [],
     "acde": [],
     "ACE": [
         "QDNAseq"
@@ -45,7 +42,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "annaffy": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
@@ -87,8 +83,6 @@
     ],
     "BiocOncoTK": [],
     "BioCor": [],
-    "biodbChebi": [],
-    "biodbHmdb": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -202,9 +196,7 @@
         "karyoploteR"
     ],
     "CNVMetrics": [],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "Cogito": [],
     "CompoundDb": [
         "MetaboCoreUtils",
@@ -365,18 +357,15 @@
         "UniProt.ws"
     ],
     "DTA": [],
-    "EBSEA": [],
     "EGSEA": [
         "GSVA",
         "gage"
     ],
-    "EMDomics": [],
     "EnrichmentBrowser": [],
     "EpiCompare": [],
     "epigraHMM": [
         "bamsignals"
     ],
-    "EpiMix": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -503,13 +492,11 @@
     "GDCRNATools": [
         "GenomicDataCommons"
     ],
-    "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
         "QDNAseq"
     ],
     "GeneRegionScan": [],
-    "geneRxCluster": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicPlot": [
@@ -540,7 +527,6 @@
         "Category",
         "GOstats"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -835,7 +821,6 @@
         "mzR",
         "xcms"
     ],
-    "netboost": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -860,7 +845,6 @@
         "MultiDataSet"
     ],
     "omicsViewer": [],
-    "oncoscanR": [],
     "onlineFDR": [],
     "openCyto": [
         "flowClust",
@@ -906,13 +890,11 @@
     ],
     "phenomis": [
         "MultiDataSet",
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
         "Category"
     ],
-    "PhenStat": [],
     "Pi": [],
     "PloGO2": [
         "Category",
@@ -966,7 +948,6 @@
     "randRotation": [],
     "RCAS": [],
     "RCyjs": [],
-    "recoup": [],
     "RedisParam": [],
     "regionReport": [],
     "Repitools": [],
@@ -1147,7 +1128,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "TIN": [],
     "TissueEnrich": [],
     "tkWidgets": [
         "widgetTools"
@@ -1185,14 +1165,9 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "vissE": [],
-    "vsclust": [],
-    "webbioc": [
-        "annaffy"
-    ],
+    "webbioc": [],
     "widgetTools": [],
     "xcms": [
         "MSnbase",
