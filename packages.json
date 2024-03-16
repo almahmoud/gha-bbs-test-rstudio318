@@ -7,9 +7,7 @@
     "ACE": [
         "QDNAseq"
     ],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAM": [],
     "ADAMgui": [
         "ADAM"
@@ -82,9 +80,7 @@
     "brendaDb": [],
     "CAMERA": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -114,9 +110,7 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "cellHTS2": [],
     "censcyt": [
         "FlowSOM",
@@ -127,7 +121,6 @@
     "cfdnakit": [
         "QDNAseq"
     ],
-    "CGHnormaliter": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -142,9 +135,7 @@
     "cisPath": [],
     "cliqueMS": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -169,7 +160,6 @@
     "CNVRanger": [],
     "Cogito": [],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "condiments": [],
@@ -189,9 +179,7 @@
     ],
     "cosmiq": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -337,9 +325,7 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -463,7 +449,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "GISPA": [],
     "GlobalAncova": [],
     "GmicR": [
         "GOstats"
@@ -517,9 +502,7 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -529,7 +512,6 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "katdetectr": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
@@ -537,9 +519,7 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -549,15 +529,12 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
     "maPredictDSC": [],
     "maSigPro": [],
-    "mastR": [],
     "MEAL": [
         "MultiDataSet"
     ],
@@ -567,11 +544,8 @@
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "hpar"
@@ -583,14 +557,11 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MethReg": [
@@ -616,9 +587,7 @@
     "mitch": [],
     "MobilityTransformR": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -628,28 +597,21 @@
     ],
     "MOSim": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsExperiment": [
-        "MetaboCoreUtils",
-        "QFeatures",
         "Spectra"
     ],
     "msmsEDA": [
@@ -666,13 +628,9 @@
         "msmsTests"
     ],
     "msPurity": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsQC": [
@@ -699,15 +657,12 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "musicatk": [],
     "ncdfFlow": [
         "flowCore"
     ],
     "ncGTW": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -720,7 +675,6 @@
     "normr": [
         "bamsignals"
     ],
-    "npGSEA": [],
     "octad": [
         "GSVA"
     ],
@@ -794,7 +748,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROMISE": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
@@ -803,15 +756,11 @@
         "widgetTools"
     ],
     "PSEA": [],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "ptairMS": [
         "MSnbase"
     ],
     "QDNAseq": [],
-    "QFeatures": [],
-    "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -838,9 +787,7 @@
     ],
     "Risa": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -890,9 +837,7 @@
     "Sconify": [
         "flowCore"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scRepertoire": [],
     "scRNAseqApp": [],
     "scTensor": [
@@ -920,8 +865,6 @@
     ],
     "singscore": [],
     "slalom": [],
-    "SMITE": [],
-    "snapCGH": [],
     "sparrow": [],
     "SpatialDecon": [
         "GeomxTools"
@@ -929,9 +872,7 @@
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SPIAT": [],
     "SpidermiR": [],
     "splineTimeR": [],
@@ -960,8 +901,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [],
-    "TFutils": [],
     "tidybulk": [],
     "timescape": [],
     "TimiRGeN": [
@@ -969,7 +908,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "TissueEnrich": [],
     "tkWidgets": [
         "widgetTools"
     ],
@@ -1005,9 +943,7 @@
     "widgetTools": [],
     "xcms": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "XDE": [],
