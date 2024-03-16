@@ -55,7 +55,6 @@
     "BloodGen3Module": [],
     "brendaDb": [],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -64,7 +63,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [
         "GenomicDataCommons",
@@ -92,7 +90,6 @@
     ],
     "cisPath": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "ClusterJudge": [],
@@ -118,7 +115,6 @@
         "karyoploteR"
     ],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "crisprBase": [],
@@ -152,23 +148,18 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "dagLogo": [
@@ -180,7 +171,6 @@
         "widgetTools"
     ],
     "dcanr": [],
-    "ddPCRclust": [],
     "DeepBlueR": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -210,25 +200,18 @@
     "ExploreModelMatrix": [],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "flowBin": [],
-    "flowCut": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowMerge": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "gaggle": [],
     "GateFinder": [],
     "GDCRNATools": [
@@ -239,9 +222,7 @@
     "GenomicInteractionNodes": [],
     "GenomicTuples": [],
     "gespeR": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmsa": [
         "R4RNA"
     ],
@@ -271,14 +252,11 @@
         "pcaExplorer"
     ],
     "idr2d": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "INDEED": [],
     "IntOMICS": [],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -293,7 +271,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "LRcell": [],
@@ -301,7 +278,6 @@
     "maCorrPlot": [],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "maPredictDSC": [],
@@ -320,7 +296,6 @@
     "MetaCyto": [],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetCirc": [],
@@ -341,7 +316,6 @@
     "miRNApath": [],
     "mitch": [],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "monocle": [],
@@ -349,19 +323,10 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MSnID": [],
+    "MsQuality": [],
     "MSstatsQCgui": [],
     "MultiBaC": [
         "MultiDataSet",
@@ -381,7 +346,6 @@
         "dcanr"
     ],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "netOmics": [
@@ -402,9 +366,7 @@
     ],
     "omicsViewer": [],
     "onlineFDR": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "openPrimeR": [],
     "openPrimeRui": [
         "openPrimeR"
@@ -413,9 +375,7 @@
     "padma": [],
     "pcaExplorer": [],
     "PCAN": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "phemd": [
         "monocle"
     ],
@@ -454,7 +414,6 @@
         "DTA"
     ],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RLSeq": [],
@@ -533,7 +492,5 @@
         "monocle"
     ],
     "widgetTools": [],
-    "xcms": [
-        "MsExperiment"
-    ]
+    "xcms": []
 }
