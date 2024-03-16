@@ -54,7 +54,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "benchdamic": [],
     "bgx": [],
     "BicARE": [],
     "BiGGR": [
@@ -461,7 +460,6 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "goSorensen": [],
     "GOstats": [],
     "GSEABenchmarkeR": [],
     "GSRI": [],
@@ -572,7 +570,6 @@
         "widgetTools"
     ],
     "MGFR": [],
-    "microbiomeMarker": [],
     "mimager": [
         "affyPLM"
     ],
@@ -873,7 +870,6 @@
         "GeomxTools"
     ],
     "Spectra": [],
-    "SPIAT": [],
     "SpidermiR": [],
     "splineTimeR": [],
     "staRank": [
