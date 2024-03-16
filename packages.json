@@ -1,8 +1,6 @@
 {
-    "a4": [],
     "acde": [],
     "ACE": [],
-    "ADaCGH2": [],
     "ADAM": [],
     "ADAMgui": [
         "ADAM"
@@ -91,7 +89,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "cfdnakit": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -108,7 +105,6 @@
         "Spectra",
         "xcms"
     ],
-    "CluMSID": [],
     "ClusterJudge": [],
     "cmapR": [],
     "CNVfilteR": [
@@ -128,7 +124,6 @@
     ],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge"
     ],
     "consensusOV": [],
@@ -166,8 +161,7 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cycle": [
         "Mfuzz",
@@ -184,10 +178,8 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -218,8 +210,7 @@
     ],
     "dcanr": [],
     "ddPCRclust": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "DeepBlueR": [],
     "DelayedRandomArray": [],
@@ -262,29 +253,22 @@
     "flowAI": [],
     "flowBeads": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -292,19 +276,15 @@
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -313,8 +293,7 @@
     ],
     "gaggle": [],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GDCRNATools": [
         "GenomicDataCommons"
@@ -515,7 +494,6 @@
     "normr": [
         "bamsignals"
     ],
-    "octad": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
@@ -529,7 +507,6 @@
     "onlineFDR": [],
     "openCyto": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -539,9 +516,7 @@
     ],
     "OpenStats": [],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "padma": [],
     "pcaExplorer": [],
     "PCAN": [],
@@ -575,7 +550,6 @@
     ],
     "PSEA": [],
     "PSMatch": [],
-    "ptairMS": [],
     "qPLEXanalyzer": [],
     "QUBIC": [],
     "R4RNA": [],
@@ -626,11 +600,8 @@
     ],
     "scatterHatch": [],
     "scClassify": [],
-    "scDataviz": [],
-    "scFeatures": [],
     "scifer": [],
     "Sconify": [],
-    "scp": [],
     "scRepertoire": [],
     "scTensor": [],
     "segmenter": [
@@ -644,7 +615,6 @@
         "consensusOV"
     ],
     "singleCellTK": [],
-    "SpatialDecon": [],
     "SpatialOmicsOverlay": [],
     "Spectra": [],
     "SpidermiR": [],
