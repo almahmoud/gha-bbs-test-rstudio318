@@ -53,7 +53,6 @@
     ],
     "BloodGen3Module": [],
     "brendaDb": [],
-    "CAMERA": [],
     "canceR": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -102,7 +101,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "cosmiq": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -130,11 +128,7 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "dagLogo": [
         "UniProt.ws"
     ],
@@ -170,11 +164,7 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "flagme": [
-        "CAMERA"
-    ],
-    "flowGate": [],
-    "flowVS": [],
+    "flagme": [],
     "gaggle": [],
     "GDCRNATools": [
         "GenomicDataCommons"
@@ -215,9 +205,7 @@
     "idr2d": [],
     "INDEED": [],
     "IntOMICS": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
@@ -228,15 +216,11 @@
         "MultiDataSet",
         "ropls"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LRcell": [],
     "m6Aboost": [],
     "maCorrPlot": [],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maPredictDSC": [],
     "maSigPro": [],
     "MEAL": [
@@ -247,9 +231,7 @@
     "MetaboSignal": [
         "hpar"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MethReg": [
         "sesame"
     ],
@@ -266,7 +248,6 @@
     "miRNAmeConverter": [],
     "miRNApath": [],
     "mitch": [],
-    "MobilityTransformR": [],
     "monocle": [],
     "mosbi": [
         "QUBIC"
@@ -289,7 +270,6 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -352,7 +332,6 @@
     "rifiComparative": [
         "DTA"
     ],
-    "Risa": [],
     "RLSeq": [],
     "RNAdecay": [],
     "RNAinteract": [],
