@@ -106,7 +106,6 @@
     ],
     "biodbChebi": [],
     "biodbHmdb": [],
-    "BioNet": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -114,15 +113,12 @@
     "biscuiteer": [
         "QDNAseq"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "BloodGen3Module": [],
     "bnbc": [
         "HiCBricks"
     ],
     "BPRMeth": [],
-    "BRAIN": [],
     "brendaDb": [],
     "CAMERA": [
         "MSnbase",
@@ -273,7 +269,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "coRdon": [],
     "cosmiq": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -399,7 +394,6 @@
         "flowViz"
     ],
     "DeepBlueR": [],
-    "DEFormats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
@@ -412,7 +406,6 @@
     ],
     "DEqMS": [],
     "DEsingle": [],
-    "DEXSeq": [],
     "DIAlignR": [
         "mzR"
     ],
@@ -421,9 +414,7 @@
         "cytolib",
         "flowCore"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "DiscoRhythm": [],
     "dittoSeq": [],
     "divergence": [],
@@ -610,9 +601,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GDCRNATools": [
         "GenomicDataCommons"
     ],
@@ -633,12 +622,9 @@
     ],
     "GenomicTuples": [],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOsubmission": [],
     "gep2pep": [
         "GSEABase"
@@ -714,7 +700,6 @@
     ],
     "hmdbQuery": [],
     "hpar": [],
-    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [
         "hypergraph"
@@ -747,9 +732,7 @@
         "Category",
         "GSEABase"
     ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "IntOMICS": [],
     "IPO": [
         "CAMERA",
@@ -764,9 +747,7 @@
         "xcms"
     ],
     "ISLET": [],
-    "isobar": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "satuRn"
     ],
     "karyoploteR": [
@@ -812,11 +793,9 @@
     "mastR": [
         "GSEABase"
     ],
-    "MBASED": [],
     "MEAL": [
         "MultiDataSet"
     ],
-    "MEDME": [],
     "Melissa": [
         "BPRMeth"
     ],
@@ -1016,7 +995,6 @@
     ],
     "musicatk": [],
     "mzR": [],
-    "NanoStringNCTools": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -1059,8 +1037,7 @@
         "widgetTools"
     ],
     "omicRexposome": [
-        "MultiDataSet",
-        "rexposome"
+        "MultiDataSet"
     ],
     "omicsViewer": [],
     "oncoscanR": [],
@@ -1094,9 +1071,7 @@
     ],
     "packFinder": [],
     "padma": [],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "PanomiR": [
         "GSEABase"
     ],
@@ -1205,9 +1180,7 @@
     "REBET": [],
     "recoup": [],
     "RedisParam": [],
-    "regionReport": [
-        "DEFormats"
-    ],
+    "regionReport": [],
     "Repitools": [
         "Ringo"
     ],
@@ -1216,7 +1189,6 @@
         "GOstats",
         "GSEABase"
     ],
-    "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
     "rgoslin": [],
@@ -1298,7 +1270,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scmap": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -1362,9 +1333,7 @@
         "GSEABase"
     ],
     "slingshot": [],
-    "SMITE": [
-        "BioNet"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "tilingArray"
     ],
@@ -1372,12 +1341,10 @@
         "GSEABase"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "Spectra": [
         "MetaboCoreUtils",
@@ -1404,7 +1371,6 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "statTarget": [],
     "stepNorm": [],
     "struct": [],
     "structToolbox": [
@@ -1480,7 +1446,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "Trendy": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -1505,7 +1470,6 @@
         "annaffy"
     ],
     "widgetTools": [],
-    "wpm": [],
     "xcms": [
         "MSnbase",
         "MetaboCoreUtils",
