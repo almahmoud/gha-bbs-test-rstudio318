@@ -75,7 +75,6 @@
     ],
     "autonomics": [],
     "AWFisher": [],
-    "awst": [],
     "bacon": [],
     "bambu": [],
     "bamsignals": [],
@@ -235,10 +234,7 @@
         "mzR",
         "xcms"
     ],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
@@ -416,7 +412,6 @@
         "widgetTools"
     ],
     "dcanr": [],
-    "ddCt": [],
     "ddPCRclust": [
         "cytolib",
         "flowCore",
@@ -499,7 +494,6 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "FamAgg": [],
     "fCCAC": [
         "genomation"
     ],
@@ -685,7 +679,6 @@
         "GSEABase",
         "cellHTS2"
     ],
-    "getDEE2": [],
     "ggcyto": [
         "cytolib",
         "flowCore",
@@ -767,11 +760,9 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "IHW",
         "pcaExplorer"
     ],
     "idr2d": [],
-    "IHW": [],
     "ImmuneSpaceR": [
         "cytolib",
         "flowCore",
@@ -814,7 +805,6 @@
         "DEXSeq",
         "satuRn"
     ],
-    "iterClust": [],
     "karyoploteR": [
         "bamsignals"
     ],
@@ -822,7 +812,6 @@
         "maftools"
     ],
     "LineagePulse": [],
-    "LinkHD": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
@@ -867,7 +856,6 @@
         "GSEABase"
     ],
     "MBASED": [],
-    "MBQN": [],
     "MCbiclust": [],
     "MEAL": [
         "MultiDataSet"
@@ -1077,7 +1065,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "multiscan": [],
     "multiWGCNA": [
         "dcanr"
     ],
@@ -1154,7 +1141,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -1304,7 +1290,6 @@
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
-    "rGADEM": [],
     "rgoslin": [],
     "Rhisat2": [
         "SGSeq"
@@ -1352,7 +1337,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "rRDP": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -1505,7 +1489,6 @@
     ],
     "statTarget": [],
     "stepNorm": [],
-    "Streamer": [],
     "struct": [],
     "structToolbox": [
         "struct"
@@ -1602,7 +1585,6 @@
         "TrajectoryUtils"
     ],
     "TTMap": [],
-    "UNDO": [],
     "UniProt.ws": [],
     "uSORT": [
         "monocle"
