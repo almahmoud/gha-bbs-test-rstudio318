@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "acde": [],
     "ACE": [],
     "ADaCGH2": [],
@@ -10,7 +7,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "GOstats",
         "ReportingTools"
@@ -47,7 +43,6 @@
     ],
     "bamsignals": [],
     "bandle": [
-        "MSnbase",
         "pRoloc"
     ],
     "bgx": [],
@@ -70,7 +65,6 @@
     "BloodGen3Module": [],
     "brendaDb": [],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -118,14 +112,11 @@
     ],
     "cisPath": [],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
     ],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "ClusterJudge": [],
     "cmapR": [],
     "CNVfilteR": [
@@ -139,7 +130,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVRanger": [],
     "Cogito": [],
     "CompoundDb": [
         "Spectra"
@@ -157,7 +147,6 @@
         "karyoploteR"
     ],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -232,7 +221,6 @@
         "UniProt.ws"
     ],
     "DAPAR": [
-        "MSnbase",
         "Mfuzz",
         "tkWidgets",
         "widgetTools"
@@ -247,11 +235,8 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "DEsingle": [],
-    "DIAlignR": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -282,7 +267,6 @@
     "FEAST": [],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -406,7 +390,6 @@
     "IntOMICS": [],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -423,7 +406,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -433,7 +415,6 @@
     "maCorrPlot": [],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -443,7 +424,6 @@
     "MEAL": [
         "MultiDataSet"
     ],
-    "Melissa": [],
     "memes": [],
     "meshr": [],
     "metabinR": [],
@@ -451,7 +431,6 @@
         "CompoundDb",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "hpar"
     ],
@@ -460,7 +439,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -489,7 +467,6 @@
     "miRNApath": [],
     "mitch": [],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -517,30 +494,21 @@
     "MsExperiment": [
         "Spectra"
     ],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
-    "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC"
     ],
     "MultiBaC": [
@@ -562,7 +530,6 @@
     ],
     "ncdfFlow": [],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
@@ -613,9 +580,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "phemd": [
         "monocle"
     ],
@@ -629,33 +594,23 @@
         "GOstats"
     ],
     "pmm": [],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "proBAMr": [],
     "projectR": [],
-    "pRoloc": [
-        "MSnbase"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MSnbase",
         "pRoloc"
     ],
     "Prostar": [
         "DAPAR",
-        "MSnbase",
         "Mfuzz",
         "tkWidgets",
         "widgetTools"
     ],
     "PSEA": [],
     "PSMatch": [],
-    "ptairMS": [
-        "MSnbase"
-    ],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
+    "qPLEXanalyzer": [],
     "QUBIC": [],
     "R4RNA": [],
     "ramr": [],
@@ -676,15 +631,12 @@
         "DTA"
     ],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "Spectra",
         "xcms"
     ],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "RNAdecay": [],
     "RNAinteract": [
         "cellHTS2"
@@ -735,7 +687,6 @@
     "signifinder": [
         "consensusOV"
     ],
-    "SIMAT": [],
     "singleCellTK": [],
     "SpatialDecon": [],
     "SpatialOmicsOverlay": [],
@@ -748,12 +699,8 @@
         "SpidermiR"
     ],
     "stepNorm": [],
-    "structToolbox": [],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "TAPseq": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [],
     "TCGAutils": [
         "GenomicDataCommons"
@@ -773,9 +720,7 @@
         "widgetTools"
     ],
     "TNBC.CMS": [],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "tradeSeq": [],
     "transite": [],
     "traviz": [],
@@ -795,14 +740,10 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantExperiment": [],
-    "webbioc": [],
     "widgetTools": [],
     "xcms": [
-        "MSnbase",
         "MsExperiment",
         "Spectra"
     ],
-    "yamss": [],
     "zenith": []
 }
