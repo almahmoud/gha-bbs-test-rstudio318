@@ -31,11 +31,9 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "airpart": [],
     "altcdfenvs": [
         "hypergraph"
     ],
-    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -61,9 +59,7 @@
         "MSnbase",
         "pRoloc"
     ],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "bgx": [],
     "BicARE": [],
     "BiGGR": [
@@ -184,7 +180,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVMetrics": [],
     "CNVRanger": [],
     "Cogito": [],
     "CompoundDb": [
@@ -320,7 +315,6 @@
     "DEP": [
         "MSnbase"
     ],
-    "DEqMS": [],
     "DEsingle": [],
     "DIAlignR": [],
     "diffcyt": [
@@ -328,7 +322,6 @@
         "flowCore"
     ],
     "diffUTR": [],
-    "dittoSeq": [],
     "divergence": [],
     "DNAfusion": [
         "bamsignals"
@@ -462,7 +455,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "frmaTools": [],
     "gaggle": [],
     "GateFinder": [
         "flowCore",
@@ -514,12 +506,8 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOexpress": [],
     "GOfuncR": [],
-    "goProfiles": [],
-    "goSorensen": [
-        "goProfiles"
-    ],
+    "goSorensen": [],
     "GOstats": [
         "Category"
     ],
@@ -532,7 +520,6 @@
         "altcdfenvs",
         "hypergraph"
     ],
-    "hca": [],
     "HiCDOC": [
         "multiHiCcompare"
     ],
@@ -660,10 +647,7 @@
         "widgetTools"
     ],
     "MGFR": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
-    "miloR": [],
+    "microbiomeMarker": [],
     "mimager": [
         "affyPLM"
     ],
@@ -946,7 +930,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "Rvisdiff": [],
     "RVS": [],
     "sampleClassifier": [
         "MGFR"
@@ -989,8 +972,6 @@
     "segmenter": [
         "bamsignals"
     ],
-    "SemDist": [],
-    "seq2pathway": [],
     "SeqSQC": [],
     "sesame": [],
     "SGCP": [
@@ -1003,7 +984,6 @@
         "GSVA",
         "consensusOV"
     ],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [],
     "singleCellTK": [
@@ -1026,9 +1006,7 @@
         "MetaboCoreUtils"
     ],
     "SpectralTAD": [],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "SpidermiR": [],
     "splineTimeR": [],
     "staRank": [
@@ -1040,7 +1018,6 @@
     ],
     "stepNorm": [],
     "structToolbox": [],
-    "surfaltr": [],
     "synapter": [
         "MSnbase"
     ],
