@@ -21,7 +21,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
@@ -55,7 +54,6 @@
         "pRoloc"
     ],
     "bgx": [],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw",
         "hypergraph"
@@ -74,7 +72,6 @@
     "biscuiteer": [
         "QDNAseq"
     ],
-    "blacksheepr": [],
     "BloodGen3Module": [],
     "brendaDb": [],
     "CAMERA": [
@@ -90,7 +87,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "flowCore"
@@ -168,9 +164,7 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "CONSTANd": [],
     "CopyNumberPlots": [
         "bamsignals",
@@ -182,7 +176,6 @@
         "Spectra",
         "xcms"
     ],
-    "cosmosR": [],
     "cpvSNP": [],
     "crisprBase": [],
     "crisprBowtie": [
@@ -291,7 +284,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "diffUTR": [],
     "divergence": [],
     "DNAfusion": [
         "bamsignals"
@@ -303,9 +295,7 @@
         "UniProt.ws"
     ],
     "DTA": [],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -313,9 +303,7 @@
         "tRNA",
         "tRNAdbImport"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "EventPointer": [
         "SGSeq"
     ],
@@ -448,7 +436,6 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "GlobalAncova": [],
     "GmicR": [
         "GOstats"
     ],
@@ -462,8 +449,6 @@
     "GOfuncR": [],
     "GOstats": [],
     "GSEABenchmarkeR": [],
-    "GSRI": [],
-    "GSVA": [],
     "Harshlight": [
         "altcdfenvs",
         "hypergraph"
@@ -672,9 +657,7 @@
     "normr": [
         "bamsignals"
     ],
-    "octad": [
-        "GSVA"
-    ],
+    "octad": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN",
@@ -698,16 +681,13 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowCore",
         "flowMeans"
     ],
     "OutSplice": [],
     "padma": [],
-    "pairedGSEA": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -767,7 +747,6 @@
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RedisParam": [],
-    "regionReport": [],
     "ReportingTools": [
         "GOstats"
     ],
@@ -825,8 +804,7 @@
         "flowCore"
     ],
     "scFeatures": [
-        "AUCell",
-        "GSVA"
+        "AUCell"
     ],
     "scifer": [
         "flowCore"
@@ -841,7 +819,6 @@
         "GOstats",
         "meshr"
     ],
-    "scTGIF": [],
     "segmenter": [
         "bamsignals"
     ],
@@ -851,15 +828,11 @@
         "GOstats"
     ],
     "SGSeq": [],
-    "signatureSearch": [],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SIMAT": [],
-    "singleCellTK": [
-        "GSVA"
-    ],
+    "singleCellTK": [],
     "singscore": [],
     "slalom": [],
     "sparrow": [],
@@ -871,7 +844,6 @@
     ],
     "Spectra": [],
     "SpidermiR": [],
-    "splineTimeR": [],
     "staRank": [
         "cellHTS2"
     ],
@@ -883,11 +855,9 @@
     "synapter": [
         "MSnbase"
     ],
-    "TADCompare": [],
     "TAPseq": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
-        "GSVA",
         "singscore"
     ],
     "TCGAutils": [
@@ -907,9 +877,7 @@
     "tkWidgets": [
         "widgetTools"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "topdownr": [
         "MSnbase"
     ],
