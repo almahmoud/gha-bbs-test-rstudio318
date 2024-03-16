@@ -8,7 +8,6 @@
         "ADAM"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools"
     ],
     "affylmGUI": [
@@ -16,7 +15,6 @@
     ],
     "affyPLM": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools"
     ],
@@ -38,9 +36,7 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "bamsignals": [],
     "bandle": [
         "pRoloc"
@@ -73,15 +69,12 @@
         "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CATALYST": [
         "FlowSOM"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -94,7 +87,6 @@
         "TCGAutils"
     ],
     "CCPROMISE": [],
-    "cellHTS2": [],
     "censcyt": [
         "FlowSOM",
         "diffcyt"
@@ -134,7 +126,6 @@
     "CompoundDb": [
         "Spectra"
     ],
-    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -244,9 +235,7 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -264,7 +253,6 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "FEAST": [],
     "flagme": [
         "CAMERA",
         "MsExperiment",
@@ -337,9 +325,7 @@
     "GenomicInteractionNodes": [],
     "GenomicTuples": [],
     "GeoDiff": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -348,9 +334,7 @@
         "R4RNA"
     ],
     "GGPA": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -359,13 +343,10 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "GOstats": [],
-    "GSEABenchmarkeR": [],
     "Harshlight": [
         "altcdfenvs",
         "hypergraph"
     ],
-    "HiCDOC": [],
     "hmdbQuery": [],
     "hpar": [],
     "hummingbird": [],
@@ -375,7 +356,6 @@
     "hypergraph": [],
     "iCARE": [],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "idr2d": [],
@@ -386,7 +366,6 @@
     "immunoClust": [],
     "INDEED": [],
     "infinityFlow": [],
-    "interactiveDisplay": [],
     "IntOMICS": [],
     "IPO": [
         "CAMERA",
@@ -425,7 +404,6 @@
         "MultiDataSet"
     ],
     "memes": [],
-    "meshr": [],
     "metabinR": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -457,12 +435,8 @@
     "mimager": [
         "affyPLM"
     ],
-    "MineICA": [
-        "GOstats"
-    ],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "MineICA": [],
+    "miRLAB": [],
     "miRNAmeConverter": [],
     "miRNApath": [],
     "mitch": [],
@@ -537,9 +511,7 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netZooR": [
-        "GOstats"
-    ],
+    "netZooR": [],
     "normr": [
         "bamsignals"
     ],
@@ -570,11 +542,8 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "OutSplice": [],
     "padma": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PCAN": [],
     "PeacoQC": [
         "flowWorkspace",
@@ -588,11 +557,8 @@
         "MultiDataSet",
         "ropls"
     ],
-    "phenoTest": [],
     "Pi": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "pmm": [],
     "PrInCE": [],
     "proBAMr": [],
@@ -617,9 +583,7 @@
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RedisParam": [],
-    "ReportingTools": [
-        "GOstats"
-    ],
+    "ReportingTools": [],
     "rfaRm": [],
     "Rfastp": [],
     "rgoslin": [],
@@ -638,9 +602,7 @@
     "RLSeq": [],
     "RMassBank": [],
     "RNAdecay": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "ROCpAI": [],
     "ropls": [
         "MultiDataSet"
@@ -670,19 +632,13 @@
     "Sconify": [],
     "scp": [],
     "scRepertoire": [],
-    "scRNAseqApp": [],
-    "scTensor": [
-        "GOstats",
-        "meshr"
-    ],
+    "scTensor": [],
     "segmenter": [
         "bamsignals"
     ],
     "SeqSQC": [],
     "sesame": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "SGSeq": [],
     "signifinder": [
         "consensusOV"
@@ -692,9 +648,7 @@
     "SpatialOmicsOverlay": [],
     "Spectra": [],
     "SpidermiR": [],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [
         "SpidermiR"
     ],
@@ -721,9 +675,7 @@
     ],
     "TNBC.CMS": [],
     "topdownr": [],
-    "tradeSeq": [],
     "transite": [],
-    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
@@ -744,6 +696,5 @@
     "xcms": [
         "MsExperiment",
         "Spectra"
-    ],
-    "zenith": []
+    ]
 }
