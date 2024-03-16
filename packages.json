@@ -8,7 +8,6 @@
     ],
     "acde": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -22,7 +21,6 @@
     "adductomicsR": [
         "mzR"
     ],
-    "ADImpute": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -76,12 +74,10 @@
     "autonomics": [],
     "AWFisher": [],
     "bacon": [],
-    "bambu": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pRoloc"
     ],
@@ -116,7 +112,6 @@
         "ropls"
     ],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq"
     ],
     "blacksheepr": [
@@ -137,7 +132,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -200,13 +194,9 @@
         "genomation"
     ],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
-    "CGHcall": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "chromPlot": [],
     "chromstaR": [
         "bamsignals"
@@ -214,9 +204,7 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "CircSeqAlignTk": [
         "Rhisat2",
         "SGSeq"
@@ -230,7 +218,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -238,7 +225,6 @@
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "ClusterJudge": [],
@@ -298,7 +284,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -406,7 +391,6 @@
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "tkWidgets",
         "widgetTools"
@@ -428,7 +412,6 @@
     "DEP": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "DEqMS": [],
@@ -455,7 +438,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "GSEABase",
-        "safe",
         "zenith"
     ],
     "drugTargetInteractions": [
@@ -467,13 +449,11 @@
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "gage",
-        "safe"
+        "gage"
     ],
     "EMDomics": [],
     "EnrichmentBrowser": [
-        "GSEABase",
-        "safe"
+        "GSEABase"
     ],
     "EpiCompare": [
         "genomation"
@@ -511,13 +491,10 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
-    "FLAMES": [
-        "bambu"
-    ],
+    "FLAMES": [],
     "flowAI": [
         "cytolib",
         "flowCore"
@@ -648,11 +625,9 @@
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "GeneMeta": [],
-    "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
     "genomation": [],
@@ -707,8 +682,7 @@
         "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "GOexpress": [],
     "GOfuncR": [],
@@ -723,8 +697,7 @@
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "GSEABase",
-        "safe"
+        "GSEABase"
     ],
     "GSRI": [
         "GSEABase"
@@ -795,7 +768,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -808,15 +780,11 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "katdetectr": [
-        "maftools"
-    ],
-    "LineagePulse": [],
+    "katdetectr": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
     ],
-    "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -826,7 +794,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -835,7 +802,6 @@
     "LRcell": [],
     "m6Aboost": [],
     "maCorrPlot": [],
-    "maftools": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -845,7 +811,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -900,7 +865,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -920,7 +884,6 @@
     "microbiomeMarker": [
         "ANCOMBC"
     ],
-    "microRNA": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -948,7 +911,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -998,19 +960,16 @@
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "msmsTests": [
         "MSnbase",
         "MsCoreUtils",
         "msmsEDA",
-        "mzID",
         "mzR"
     ],
     "MSnbase": [
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "MSnID": [
@@ -1018,7 +977,6 @@
         "MsCoreUtils",
         "msmsEDA",
         "msmsTests",
-        "mzID",
         "mzR"
     ],
     "msPurity": [
@@ -1038,14 +996,12 @@
     "MSstatsQC": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "MultiBaC": [
@@ -1068,10 +1024,7 @@
     "multiWGCNA": [
         "dcanr"
     ],
-    "musicatk": [
-        "maftools"
-    ],
-    "mzID": [],
+    "musicatk": [],
     "mzR": [],
     "NanoStringNCTools": [],
     "ncdfFlow": [
@@ -1086,7 +1039,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -1174,7 +1126,6 @@
     "peakPantheR": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "pengls": [],
@@ -1202,7 +1153,6 @@
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "proBAMr": [],
@@ -1210,13 +1160,11 @@
     "pRoloc": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "pRolocGUI": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "pRoloc"
     ],
@@ -1229,7 +1177,6 @@
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
-        "mzID",
         "mzR",
         "tkWidgets",
         "widgetTools"
@@ -1242,14 +1189,11 @@
     "ptairMS": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "PWMEnrich": [],
     "qckitfastq": [],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "QFeatures": [
         "MsCoreUtils"
     ],
@@ -1259,7 +1203,6 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "QUBIC": [],
@@ -1286,7 +1229,6 @@
         "GOstats",
         "GSEABase"
     ],
-    "RepViz": [],
     "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
@@ -1311,7 +1253,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR",
         "xcms"
     ],
@@ -1319,7 +1260,6 @@
     "RMassBank": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "RNAdecay": [],
@@ -1344,7 +1284,6 @@
     "Rtreemix": [],
     "Rvisdiff": [],
     "RVS": [],
-    "safe": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -1364,7 +1303,6 @@
         "flowCore"
     ],
     "scDesign3": [],
-    "SCFA": [],
     "scFeatures": [
         "AUCell",
         "GSEABase",
@@ -1375,7 +1313,6 @@
         "flowCore"
     ],
     "scmap": [],
-    "SCnorm": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -1404,7 +1341,6 @@
     ],
     "SemDist": [],
     "seq2pathway": [],
-    "SeqGate": [],
     "SeqSQC": [],
     "sesame": [],
     "SGCP": [
@@ -1498,7 +1434,6 @@
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "TADCompare": [
@@ -1507,7 +1442,6 @@
     "TAPseq": [],
     "target": [],
     "TargetDecoy": [
-        "mzID",
         "mzR"
     ],
     "TBSignatureProfiler": [
@@ -1552,11 +1486,9 @@
     "topdownr": [
         "MSnbase",
         "MsCoreUtils",
-        "mzID",
         "mzR"
     ],
     "TPP": [],
-    "TPP2D": [],
     "tradeSeq": [
         "TrajectoryUtils",
         "slingshot"
@@ -1609,7 +1541,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzID",
         "mzR"
     ],
     "XDE": [
@@ -1620,7 +1551,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "GSEABase",
-        "safe"
+        "GSEABase"
     ]
 }
