@@ -127,15 +127,10 @@
     "bnbc": [
         "HiCBricks"
     ],
-    "BOBaFIT": [],
     "BPRMeth": [],
     "BRAIN": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
-    "CAFE": [],
-    "cageminer": [],
     "CAMERA": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -443,7 +438,6 @@
         "mzR"
     ],
     "DEqMS": [],
-    "derfinderPlot": [],
     "DEsingle": [],
     "destiny": [],
     "DEXSeq": [],
@@ -671,7 +665,6 @@
     "genomation": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation"
@@ -795,7 +788,6 @@
         "cytolib",
         "flowCore"
     ],
-    "intansv": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase"
@@ -1016,7 +1008,6 @@
     "MsFeatures": [
         "MsCoreUtils"
     ],
-    "msgbsR": [],
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
@@ -1288,7 +1279,6 @@
     ],
     "QUBIC": [],
     "qusage": [],
-    "R3CPET": [],
     "R4RNA": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
@@ -1324,7 +1314,6 @@
         "ORFik"
     ],
     "RiboDiPA": [],
-    "RiboProfiling": [],
     "ribor": [],
     "rifiComparative": [
         "DTA"
@@ -1418,7 +1407,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "scruff": [],
     "scTensor": [
         "Category",
         "GOstats",
@@ -1479,7 +1467,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "SomaticSignatures": [],
     "sparrow": [
         "GSEABase"
     ],
@@ -1650,9 +1637,7 @@
     "yamss": [
         "mzR"
     ],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
