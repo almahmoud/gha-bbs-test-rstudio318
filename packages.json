@@ -11,8 +11,7 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAM": [],
     "ADAMgui": [
@@ -69,7 +68,6 @@
     "bamsignals": [],
     "bandle": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "pRoloc"
     ],
@@ -111,7 +109,6 @@
     "CAMERA": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -184,7 +181,6 @@
     "cliqueMS": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -195,7 +191,6 @@
     "clstutils": [],
     "CluMSID": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "ClusterJudge": [],
@@ -221,7 +216,6 @@
     "Cogito": [],
     "CompoundDb": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "condiments": [
@@ -244,7 +238,6 @@
     "cosmiq": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -276,7 +269,6 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "CTDquerier": [],
     "cyanoFilter": [
         "flowClust",
         "flowCore",
@@ -339,7 +331,6 @@
     "DAPAR": [
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "mzR",
         "tkWidgets",
         "widgetTools"
@@ -358,7 +349,6 @@
     "deltaCaptureC": [],
     "DEP": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "DEqMS": [],
@@ -416,12 +406,10 @@
     "FEAST": [
         "TSCAN"
     ],
-    "fgga": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -534,7 +522,6 @@
     "GeneBreak": [
         "QDNAseq"
     ],
-    "GeneMeta": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
     "genomation": [],
@@ -549,7 +536,6 @@
         "GeomxTools"
     ],
     "GeomxTools": [],
-    "GEOsubmission": [],
     "gep2pep": [],
     "gespeR": [
         "Category",
@@ -600,9 +586,7 @@
     "hca": [],
     "hermes": [],
     "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "hmdbQuery": [],
@@ -640,7 +624,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -663,7 +646,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -671,8 +653,6 @@
         "mzR",
         "xcms"
     ],
-    "loci2path": [],
-    "LRBaseDbi": [],
     "LRcell": [],
     "m6Aboost": [],
     "maCorrPlot": [],
@@ -680,7 +660,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -706,13 +685,10 @@
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "struct"
     ],
@@ -727,7 +703,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -737,7 +712,6 @@
     ],
     "MetCirc": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MethReg": [
@@ -759,7 +733,6 @@
         "Category",
         "GOstats"
     ],
-    "MiRaGE": [],
     "miRLAB": [
         "Category",
         "GOstats"
@@ -770,7 +743,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -786,57 +758,44 @@
     "MOSim": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
-    "MsCoreUtils": [],
     "MsExperiment": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [
-        "MsCoreUtils"
-    ],
+    "MsFeatures": [],
     "msmsEDA": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "msmsTests": [
         "MSnbase",
-        "MsCoreUtils",
         "msmsEDA",
         "mzR"
     ],
     "MSnbase": [
-        "MsCoreUtils",
         "mzR"
     ],
     "MSnID": [
         "MSnbase",
-        "MsCoreUtils",
         "msmsEDA",
         "msmsTests",
         "mzR"
@@ -845,25 +804,21 @@
         "mzR"
     ],
     "msqrob2": [
-        "MsCoreUtils",
         "QFeatures"
     ],
     "MsQuality": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "QFeatures",
         "Spectra"
     ],
     "MSstatsQC": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "MsCoreUtils",
         "mzR"
     ],
     "MultiBaC": [
@@ -875,9 +830,7 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [
         "Mfuzz",
         "tkWidgets",
@@ -894,7 +847,6 @@
     "ncGTW": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -910,7 +862,6 @@
         "Category",
         "GOstats"
     ],
-    "NewWave": [],
     "normr": [
         "bamsignals"
     ],
@@ -949,10 +900,8 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "packFinder": [],
     "padma": [],
@@ -970,7 +919,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "phemd": [
@@ -993,19 +941,16 @@
     "pmm": [],
     "PrInCE": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "proBAMr": [],
     "projectR": [],
     "pRoloc": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "pRolocGUI": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "pRoloc"
     ],
@@ -1014,32 +959,24 @@
         "DAPAR",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "mzR",
         "tkWidgets",
         "widgetTools"
     ],
     "PSEA": [],
     "PSMatch": [
-        "MsCoreUtils",
         "QFeatures"
     ],
     "ptairMS": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "PWMEnrich": [],
     "QDNAseq": [],
-    "QFeatures": [
-        "MsCoreUtils"
-    ],
-    "qmtools": [
-        "MsCoreUtils"
-    ],
+    "QFeatures": [],
+    "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "QUBIC": [],
@@ -1054,9 +991,7 @@
     "recoup": [],
     "RedisParam": [],
     "regionReport": [],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats"
@@ -1067,18 +1002,14 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "ribor": [],
     "rifiComparative": [
         "DTA"
     ],
-    "Ringo": [],
     "Risa": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -1089,7 +1020,6 @@
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "RNAdecay": [],
@@ -1097,7 +1027,6 @@
         "Category",
         "cellHTS2"
     ],
-    "roastgsa": [],
     "ROCpAI": [],
     "ropls": [
         "MultiDataSet"
@@ -1140,10 +1069,8 @@
         "flowCore"
     ],
     "scp": [
-        "MsCoreUtils",
         "QFeatures"
     ],
-    "screenCounter": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
@@ -1175,9 +1102,7 @@
     "SIMAT": [
         "mzR"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "singleCellTK": [
         "GSVA",
         "TSCAN"
@@ -1187,9 +1112,7 @@
     "slalom": [],
     "slingshot": [],
     "SMITE": [],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "sparrow": [],
     "SpatialDecon": [
         "GeomxTools"
@@ -1198,12 +1121,9 @@
         "GeomxTools"
     ],
     "Spectra": [
-        "MetaboCoreUtils",
-        "MsCoreUtils"
+        "MetaboCoreUtils"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [
         "dittoSeq"
     ],
@@ -1226,12 +1146,9 @@
     "surfaltr": [],
     "synapter": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TAPseq": [],
     "TargetDecoy": [
         "mzR"
@@ -1247,12 +1164,9 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidybulk": [],
-    "tilingArray": [],
     "timescape": [],
     "TimiRGeN": [
         "Mfuzz",
@@ -1270,7 +1184,6 @@
     ],
     "topdownr": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR"
     ],
     "tradeSeq": [
@@ -1310,16 +1223,13 @@
     "xcms": [
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzR"
     ],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "yamss": [
         "mzR"
     ],
