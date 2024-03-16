@@ -35,7 +35,6 @@
     ],
     "attract": [],
     "bamsignals": [],
-    "bandle": [],
     "bgx": [],
     "BiGGR": [
         "hyperdraw",
@@ -75,9 +74,7 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -105,10 +102,7 @@
         "karyoploteR"
     ],
     "Cogito": [],
-    "CompoundDb": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "CONSTANd": [],
     "CopyNumberPlots": [
         "bamsignals",
@@ -139,15 +133,12 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "cyanoFilter": [],
     "cycle": [
         "Mfuzz",
         "tkWidgets",
         "widgetTools"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
         "ggcyto",
@@ -177,7 +168,6 @@
         "DelayedRandomArray"
     ],
     "DEsingle": [],
-    "diffcyt": [],
     "divergence": [],
     "DNAfusion": [
         "bamsignals"
@@ -202,18 +192,14 @@
         "CAMERA",
         "xcms"
     ],
-    "flowBin": [],
     "flowGate": [
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats"
     ],
     "gaggle": [],
-    "GateFinder": [],
     "GDCRNATools": [
         "GenomicDataCommons"
     ],
@@ -287,18 +273,14 @@
     ],
     "memes": [],
     "metabinR": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "hpar"
     ],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "xcms"
     ],
-    "MetCirc": [],
     "MethReg": [
         "sesame"
     ],
@@ -323,11 +305,8 @@
         "QUBIC"
     ],
     "MOSim": [],
-    "MsBackendMgf": [],
-    "MsBackendSql": [],
     "MSnID": [],
     "MsQuality": [],
-    "MSstatsQCgui": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -388,7 +367,6 @@
     "pmm": [],
     "proBAMr": [],
     "projectR": [],
-    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "Mfuzz",
@@ -450,7 +428,6 @@
     "sesame": [],
     "SGCP": [],
     "SGSeq": [],
-    "signifinder": [],
     "SpidermiR": [],
     "staRank": [],
     "StarBioTrek": [
@@ -476,9 +453,7 @@
         "widgetTools"
     ],
     "transite": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
