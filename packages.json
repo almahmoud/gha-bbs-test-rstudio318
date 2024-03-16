@@ -143,9 +143,7 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "cycle": [
         "Mfuzz",
         "tkWidgets",
@@ -182,9 +180,7 @@
         "widgetTools"
     ],
     "dcanr": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "DeepBlueR": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -217,14 +213,8 @@
         "MsExperiment",
         "xcms"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
-    "flowFP": [],
+    "flowBin": [],
+    "flowCut": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -240,9 +230,7 @@
     ],
     "flowWorkspace": [],
     "gaggle": [],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "GenomicDataCommons"
     ],
@@ -422,7 +410,6 @@
         "openPrimeR"
     ],
     "OpenStats": [],
-    "optimalFlow": [],
     "padma": [],
     "pcaExplorer": [],
     "PCAN": [],
