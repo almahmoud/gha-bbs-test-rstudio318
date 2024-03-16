@@ -55,7 +55,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "biscuiteer": [],
     "BloodGen3Module": [],
     "brendaDb": [],
     "CAMERA": [
@@ -168,7 +167,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
@@ -217,7 +215,6 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DEP": [],
     "DEsingle": [],
     "diffcyt": [
         "FlowSOM"
@@ -251,11 +248,9 @@
         "xcms"
     ],
     "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowFP"
     ],
-    "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
@@ -299,11 +294,9 @@
         "GenomicDataCommons"
     ],
     "geneAttribution": [],
-    "GeneBreak": [],
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicTuples": [],
-    "GeoDiff": [],
     "gespeR": [],
     "ggcyto": [
         "flowWorkspace",
@@ -342,9 +335,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "INDEED": [],
-    "infinityFlow": [],
     "IntOMICS": [],
     "IPO": [
         "CAMERA",
@@ -455,15 +446,11 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -535,7 +522,6 @@
     "Pi": [],
     "PloGO2": [],
     "pmm": [],
-    "PrInCE": [],
     "proBAMr": [],
     "projectR": [],
     "pRoloc": [],
@@ -615,7 +601,6 @@
         "consensusOV"
     ],
     "singleCellTK": [],
-    "SpatialOmicsOverlay": [],
     "Spectra": [],
     "SpidermiR": [],
     "staRank": [],
@@ -643,8 +628,6 @@
     "tkWidgets": [
         "widgetTools"
     ],
-    "TNBC.CMS": [],
-    "topdownr": [],
     "transite": [],
     "treekoR": [
         "FlowSOM",
