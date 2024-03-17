@@ -128,7 +128,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "CytoPipelineGUI": [],
     "dagLogo": [
         "UniProt.ws"
     ],
@@ -164,7 +163,6 @@
         "SGSeq"
     ],
     "ExploreModelMatrix": [],
-    "flagme": [],
     "gaggle": [],
     "GDCRNATools": [
         "GenomicDataCommons"
@@ -205,7 +203,6 @@
     "idr2d": [],
     "INDEED": [],
     "IntOMICS": [],
-    "IPO": [],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
@@ -216,11 +213,9 @@
         "MultiDataSet",
         "ropls"
     ],
-    "LOBSTAHS": [],
     "LRcell": [],
     "m6Aboost": [],
     "maCorrPlot": [],
-    "MAIT": [],
     "maPredictDSC": [],
     "maSigPro": [],
     "MEAL": [
@@ -231,7 +226,6 @@
     "MetaboSignal": [
         "hpar"
     ],
-    "metaMS": [],
     "MethReg": [
         "sesame"
     ],
