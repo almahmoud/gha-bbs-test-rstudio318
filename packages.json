@@ -13,7 +13,6 @@
         "a4Classif",
         "a4Core",
         "a4Preproc",
-        "a4Reporting",
         "annaffy",
         "annotate",
         "genefilter",
@@ -54,7 +53,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "a4Reporting": [],
     "ABarray": [
         "Biobase",
         "BiocGenerics",
@@ -1441,7 +1439,6 @@
         "IRanges",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -3966,7 +3963,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "calm": [],
     "CAMERA": [
         "AnnotationFilter",
         "Biobase",
@@ -4761,7 +4757,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "CFAssay": [],
     "cfdnakit": [
         "Biobase",
         "BiocGenerics",
@@ -4970,7 +4965,6 @@
         "bioDist",
         "zlibbioc"
     ],
-    "Chicago": [],
     "chihaya": [
         "BiocGenerics",
         "DelayedArray",
@@ -5852,7 +5846,6 @@
         "limma",
         "zlibbioc"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [
         "Biobase",
         "BiocGenerics"
@@ -9935,7 +9928,6 @@
         "BiocParallel"
     ],
     "EmpiricalBrownsMethod": [],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
@@ -12063,7 +12055,6 @@
         "genefilter",
         "limma",
         "rtracklayer",
-        "sSeq",
         "sva",
         "zlibbioc"
     ],
@@ -14932,7 +14923,6 @@
         "BiocGenerics",
         "graph"
     ],
-    "iASeq": [],
     "iasva": [
         "Biobase",
         "BiocGenerics",
@@ -16576,10 +16566,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [
         "BiocGenerics",
         "KEGGgraph",
@@ -19264,7 +19251,6 @@
         "XVector",
         "edgeR",
         "limma",
-        "sSeq",
         "zlibbioc"
     ],
     "MMDiff2": [
@@ -19378,7 +19364,6 @@
         "impute",
         "zlibbioc"
     ],
-    "ModCon": [],
     "Modstrings": [
         "BiocGenerics",
         "Biostrings",
@@ -19803,7 +19788,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "MQmetrics": [],
     "msa": [
         "BiocGenerics",
         "Biostrings",
@@ -22728,7 +22712,6 @@
     "pengls": [
         "BiocParallel"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "Biobase",
         "BiocGenerics",
@@ -23209,8 +23192,7 @@
     "plotGrouper": [],
     "PLPE": [
         "Biobase",
-        "BiocGenerics",
-        "LPE"
+        "BiocGenerics"
     ],
     "plyinteractions": [
         "Biobase",
@@ -26040,7 +26022,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RImmPort": [],
     "Ringo": [
         "AnnotationDbi",
         "Biobase",
@@ -30724,7 +30705,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
@@ -31452,7 +31432,6 @@
         "mzID",
         "mzR"
     ],
-    "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -31939,7 +31918,6 @@
         "BiocParallel",
         "mixOmics"
     ],
-    "timescape": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "Biobase",
