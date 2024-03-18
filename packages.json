@@ -252,8 +252,7 @@
         "RBGL",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -387,7 +386,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
         "graphite"
     ],
     "BiocCheck": [
@@ -589,7 +587,6 @@
         "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "phenoTest"
     ],
     "cardelino": [
@@ -826,7 +823,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq",
         "ShortRead"
@@ -1592,7 +1588,6 @@
     "esATAC": [
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "clusterProfiler",
@@ -1882,7 +1877,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -1954,7 +1948,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [],
     "geneXtendeR": [],
     "genomation": [
@@ -2607,7 +2600,6 @@
         "CellNOptR",
         "RBGL"
     ],
-    "Melissa": [],
     "memes": [],
     "Mergeomics": [],
     "meshes": [
@@ -3474,7 +3466,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "progeny": [
@@ -3651,7 +3642,6 @@
     "RBGL": [],
     "RBioinf": [],
     "rBiopaxParser": [],
-    "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
         "genomation",
@@ -3771,11 +3761,9 @@
         "impute"
     ],
     "Rfastp": [],
-    "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [],
     "RGraph2js": [],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -4519,7 +4507,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "RaggedExperiment",
         "TCGAutils"
@@ -4666,7 +4653,6 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "ShortRead"
     ],
     "uncoverappLib": [
