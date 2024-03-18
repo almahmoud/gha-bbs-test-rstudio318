@@ -2802,7 +2802,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
         "TFBSTools",
@@ -3496,7 +3495,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [
         "VariantAnnotation"
     ],
