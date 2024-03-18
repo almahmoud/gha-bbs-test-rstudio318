@@ -1251,7 +1251,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "aroma.light",
         "sva"
     ],
@@ -1438,9 +1437,7 @@
         "pathview",
         "safe"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSgalgoR": [],
     "GSReg": [
         "OrganismDbi"
@@ -1915,7 +1912,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -2327,7 +2323,6 @@
     "POWSC": [
         "MAST"
     ],
-    "PPInfer": [],
     "prebs": [
         "RPA",
         "phyloseq"
@@ -2797,7 +2792,6 @@
         "GLAD"
     ],
     "SeqGate": [],
-    "SeqGSEA": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
