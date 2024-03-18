@@ -77,8 +77,7 @@
         "biovizBase",
         "gcrma",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "affyILM": [
         "affy",
@@ -119,8 +118,7 @@
         "biovizBase",
         "gcrma",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "AHMassBank": [
         "AnnotationHubData",
@@ -136,7 +134,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "apeglm",
         "scater",
         "scuttle"
     ],
@@ -309,7 +306,6 @@
         "RBGL",
         "Rgraphviz"
     ],
-    "apeglm": [],
     "APL": [
         "SingleCellExperiment",
         "topGO"
@@ -322,10 +318,7 @@
         "VariantAnnotation"
     ],
     "aroma.light": [],
-    "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -522,7 +515,6 @@
     "beadarray": [
         "BeadDataPackR"
     ],
-    "beadarraySNP": [],
     "BeadDataPackR": [],
     "BEARscc": [
         "SingleCellExperiment"
@@ -908,7 +900,6 @@
         "genefilter",
         "phenoTest"
     ],
-    "cancerclass": [],
     "cardelino": [
         "VariantAnnotation",
         "ggtree"
@@ -1189,7 +1180,6 @@
         "DiffBind",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "chipseq",
         "systemPipeR"
     ],
@@ -1212,9 +1202,7 @@
     ],
     "ChIPXpress": [
         "affy",
-        "frma",
-        "oligo",
-        "oligoClasses"
+        "frma"
     ],
     "chopsticks": [],
     "ChromHeatMap": [],
@@ -1255,7 +1243,6 @@
         "DNAcopy",
         "maftools"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "DESeq2",
         "VariantAnnotation",
@@ -1285,7 +1272,6 @@
     ],
     "cleanUpdTSeq": [],
     "clevRvis": [],
-    "clippda": [],
     "clipper": [
         "KEGGgraph",
         "Rgraphviz",
@@ -1351,9 +1337,7 @@
         "flowCore"
     ],
     "cn.farms": [
-        "DNAcopy",
-        "oligo",
-        "oligoClasses"
+        "DNAcopy"
     ],
     "cn.mops": [
         "exomeCopy"
@@ -1649,14 +1633,10 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
     "crossmeta": [
         "affy",
         "genefilter",
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "csaw": [],
@@ -1847,7 +1827,6 @@
         "Harman",
         "KEGGgraph",
         "Rgraphviz",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2002,7 +1981,6 @@
         "DESeq2",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -2139,9 +2117,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "affy",
-        "oligo",
-        "oligoClasses"
+        "affy"
     ],
     "DSS": [
         "DelayedMatrixStats",
@@ -2160,8 +2136,7 @@
     "easylift": [],
     "easyreporting": [],
     "easyRNASeq": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "EBcoexpress": [],
     "EBSEA": [
@@ -2355,8 +2330,7 @@
         "VariantAnnotation"
     ],
     "ERSSA": [
-        "DESeq2",
-        "apeglm"
+        "DESeq2"
     ],
     "esATAC": [
         "CNEr",
@@ -2684,9 +2658,7 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [
-        "affy",
-        "oligo",
-        "oligoClasses"
+        "affy"
     ],
     "frmaTools": [
         "affy"
@@ -2832,7 +2804,6 @@
     ],
     "GeneOverlap": [],
     "geneRecommender": [],
-    "GeneRegionScan": [],
     "GeneSelectMMD": [],
     "GENESIS": [
         "DNAcopy",
@@ -2856,7 +2827,6 @@
         "impute",
         "seqPattern"
     ],
-    "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
@@ -2971,8 +2941,7 @@
     ],
     "GIGSEA": [],
     "girafe": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "GSEABase",
@@ -3373,7 +3342,6 @@
         "genefilter"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -3456,9 +3424,7 @@
         "DESeq2"
     ],
     "ITALICS": [
-        "GLAD",
-        "oligo",
-        "oligoClasses"
+        "GLAD"
     ],
     "iterativeBMAsurv": [],
     "IVAS": [],
@@ -3501,7 +3467,6 @@
         "sva"
     ],
     "LACE": [],
-    "lapmix": [],
     "LBE": [],
     "ldblock": [],
     "LEA": [],
@@ -3628,7 +3593,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "oligoClasses",
         "siggenes"
     ],
     "MAGeCKFlute": [
@@ -3727,8 +3691,7 @@
     "mBPCR": [
         "DNAcopy",
         "GWASTools",
-        "gdsfmt",
-        "oligoClasses"
+        "gdsfmt"
     ],
     "mbQTL": [
         "Wrench",
@@ -4054,7 +4017,6 @@
         "scater",
         "scuttle"
     ],
-    "MiChip": [],
     "microbiome": [
         "biomformat",
         "multtest",
@@ -4127,9 +4089,7 @@
     "mimager": [
         "affy",
         "affyPLM",
-        "gcrma",
-        "oligo",
-        "oligoClasses"
+        "gcrma"
     ],
     "MineICA": [
         "Category",
@@ -4159,8 +4119,7 @@
     "MinimumDistance": [
         "DNAcopy",
         "VanillaICE",
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "miQC": [
         "SingleCellExperiment"
@@ -4351,7 +4310,6 @@
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
-        "genomeIntervals",
         "ggbio"
     ],
     "msImpute": [
@@ -4729,7 +4687,6 @@
     "normr": [
         "bamsignals"
     ],
-    "NPARC": [],
     "npGSEA": [
         "GSEABase"
     ],
@@ -4767,10 +4724,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
     "OLIN": [],
     "OLINgui": [
         "DynDoc",
@@ -4983,10 +4936,7 @@
         "impute",
         "piano"
     ],
-    "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "RBGL",
         "Rgraphviz",
@@ -5198,7 +5148,6 @@
         "DESeq2"
     ],
     "proBAMr": [],
-    "PROcess": [],
     "procoil": [],
     "proDA": [],
     "profileplyr": [
@@ -5303,9 +5252,7 @@
         "vsn"
     ],
     "puma": [
-        "affy",
-        "oligo",
-        "oligoClasses"
+        "affy"
     ],
     "PureCN": [
         "DNAcopy",
@@ -5719,8 +5666,7 @@
     ],
     "rmelting": [],
     "Rmmquant": [
-        "DESeq2",
-        "apeglm"
+        "DESeq2"
     ],
     "rmspc": [],
     "RNAAgeCalc": [
@@ -5883,8 +5829,6 @@
     "SCAN.UPC": [
         "affy",
         "genefilter",
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiRApp": [],
@@ -6796,8 +6740,7 @@
         "tximport"
     ],
     "TEKRABber": [
-        "DESeq2",
-        "apeglm"
+        "DESeq2"
     ],
     "TENxIO": [
         "BiocBaseUtils",
@@ -6832,7 +6775,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tigre": [],
     "tilingArray": [
         "affy",
         "genefilter",
@@ -6882,7 +6824,6 @@
         "SingleCellExperiment"
     ],
     "TnT": [],
-    "tomoseqr": [],
     "TOP": [
         "BiocBaseUtils",
         "ClassifyR",
@@ -7077,8 +7018,7 @@
         "ttgsea"
     ],
     "VanillaICE": [
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "VarCon": [],
     "VariantAnnotation": [],
@@ -7161,7 +7101,6 @@
         "GreyListChIP",
         "RBGL",
         "ShortRead",
-        "apeglm",
         "csaw",
         "multtest",
         "regioneR",
