@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "ABarray": [],
     "ACE": [
         "CGHcall",
@@ -265,7 +262,6 @@
     "BiocSklearn": [],
     "biocthis": [],
     "biocViews": [],
-    "biodbHmdb": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "BioMVCClass": [
@@ -656,7 +652,6 @@
     ],
     "compSPOT": [],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "slingshot"
     ],
@@ -820,7 +815,6 @@
     "dada2": [],
     "dagLogo": [
         "TFBSTools",
-        "UniProt.ws",
         "motifStack"
     ],
     "DAMEfinder": [],
@@ -909,7 +903,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DEsubs": [],
     "DExMA": [
         "impute",
@@ -973,9 +966,7 @@
         "zenith"
     ],
     "DriverNet": [],
-    "drugTargetInteractions": [
-        "UniProt.ws"
-    ],
+    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
         "bsseq"
@@ -1139,8 +1130,7 @@
     "fdrame": [],
     "FEAST": [
         "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fedup": [],
     "ffpe": [
@@ -1496,7 +1486,6 @@
     ],
     "HelloRanges": [],
     "hermes": [],
-    "HERON": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -2244,7 +2233,6 @@
     "PAA": [
         "sva"
     ],
-    "padma": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -2309,7 +2297,6 @@
     ],
     "phemd": [
         "biocViews",
-        "destiny",
         "monocle"
     ],
     "PhenoGeneRanker": [],
@@ -2592,7 +2579,6 @@
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
         "biovizBase",
@@ -2690,7 +2676,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
@@ -2715,7 +2700,6 @@
     "SCAN.UPC": [
         "sva"
     ],
-    "scAnnotatR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -2783,7 +2767,6 @@
         "powerTCR"
     ],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -2898,7 +2881,6 @@
         "M3Drop",
         "MAST",
         "TSCAN",
-        "TrajectoryUtils",
         "celda",
         "eds",
         "scDblFinder",
@@ -2922,9 +2904,7 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -2997,7 +2977,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -3141,10 +3120,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
@@ -3157,7 +3134,6 @@
     ],
     "transomics2cytoscape": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -3174,9 +3150,7 @@
     "tRNAscanImport": [],
     "TRONCO": [],
     "TSAR": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "ttgsea": [],
     "TurboNorm": [],
     "TVTB": [
@@ -3199,7 +3173,6 @@
         "biovizBase"
     ],
     "unifiedWMWqPCR": [],
-    "UniProt.ws": [],
     "Uniquorn": [],
     "uSORT": [
         "biocViews",
