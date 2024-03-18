@@ -187,7 +187,6 @@
         "sva"
     ],
     "bandle": [
-        "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID",
@@ -214,7 +213,6 @@
     "BEAT": [],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
         "Maaslin2",
         "phyloseq",
         "zinbwave"
@@ -422,9 +420,7 @@
     ],
     "ccrepe": [],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBarcode": [],
     "CellBench": [],
@@ -646,7 +642,6 @@
     ],
     "compSPOT": [],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -682,7 +677,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [],
     "cosmiq": [
         "MSnbase",
@@ -920,7 +914,6 @@
         "DEXSeq"
     ],
     "Dino": [],
-    "distinct": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -1130,7 +1123,6 @@
     ],
     "fgga": [],
     "FGNet": [],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1518,7 +1510,6 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
         "SpatialExperiment",
@@ -1703,7 +1694,6 @@
     ],
     "maskBAD": [],
     "MassArray": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [
         "impute"
@@ -1909,7 +1899,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -2180,7 +2169,6 @@
     "omicsPrint": [
         "RaggedExperiment"
     ],
-    "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoSimulR": [],
@@ -2318,9 +2306,7 @@
         "impute"
     ],
     "powerTCR": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "prebs": [
         "RPA",
         "phyloseq"
@@ -2350,13 +2336,11 @@
         "decoupleR"
     ],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID",
@@ -2815,9 +2799,7 @@
     "SIAMCAT": [
         "phyloseq"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "sigFeature": [
         "biocViews"
     ],
@@ -2851,7 +2833,6 @@
     "singleCellTK": [
         "GSVA",
         "M3Drop",
-        "MAST",
         "TSCAN",
         "celda",
         "eds",
@@ -3112,7 +3093,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [
         "sva"
     ],
