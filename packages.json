@@ -304,7 +304,6 @@
     "ballgown": [
         "sva"
     ],
-    "bambu": [],
     "bamsignals": [],
     "BANDITS": [],
     "bandle": [
@@ -531,8 +530,7 @@
         "RBGL",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -564,9 +562,7 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -681,7 +677,6 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
@@ -751,9 +746,7 @@
         "aroma.light",
         "impute"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [
         "basilisk"
     ],
@@ -1459,7 +1452,6 @@
     "dittoSeq": [],
     "divergence": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "HDF5Array",
@@ -1814,7 +1806,6 @@
         "OrganismDbi",
         "RBGL",
         "VariantAnnotation",
-        "bambu",
         "basilisk",
         "biovizBase",
         "ggbio",
@@ -2098,8 +2089,7 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "impute",
-        "plyranges"
+        "impute"
     ],
     "GenomicScores": [
         "HDF5Array"
@@ -2120,7 +2110,6 @@
         "sva"
     ],
     "GEOfastq": [],
-    "GEOmetadb": [],
     "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
@@ -2397,7 +2386,6 @@
         "pcaExplorer",
         "topGO"
     ],
-    "IdeoViz": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -2446,8 +2434,7 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INPower": [],
     "INSPEcT": [],
@@ -2544,8 +2531,7 @@
     "katdetectr": [
         "DNAcopy",
         "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "maftools"
     ],
     "KBoost": [],
     "KCsmart": [
@@ -2689,8 +2675,7 @@
     ],
     "mariner": [
         "HDF5Array",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "martini": [],
     "maser": [
@@ -2872,7 +2857,6 @@
         "bsseq",
         "bumphunter",
         "minfi",
-        "plyranges",
         "siggenes"
     ],
     "methylclock": [
@@ -3088,7 +3072,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -3243,7 +3226,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [
@@ -3338,9 +3320,7 @@
     "ndexr": [
         "RCX"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "RBGL",
@@ -3411,9 +3391,7 @@
     "nucleR": [
         "ShortRead"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NuPoP": [],
     "occugene": [],
     "OCplus": [],
@@ -3432,10 +3410,8 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLIN": [],
     "OLINgui": [
         "DynDoc",
-        "OLIN",
         "tkWidgets"
     ],
     "OmaDB": [
@@ -3669,14 +3645,9 @@
         "RBGL",
         "Rgraphviz"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "pmp": [
         "impute"
     ],
@@ -4026,7 +3997,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -4223,7 +4193,6 @@
         "ShortRead",
         "aroma.light"
     ],
-    "RVS": [],
     "safe": [],
     "SAIGEgds": [
         "SeqArray",
@@ -4235,8 +4204,7 @@
     "sangeranalyseR": [],
     "SANTA": [],
     "SARC": [
-        "RaggedExperiment",
-        "plyranges"
+        "RaggedExperiment"
     ],
     "SBGNview": [
         "KEGGgraph",
@@ -4802,7 +4770,6 @@
         "HiCcompare"
     ],
     "tanggle": [],
-    "TAPseq": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
@@ -4993,8 +4960,7 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "Rbowtie2",
