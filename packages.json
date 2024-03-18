@@ -7,7 +7,6 @@
     "a4Classif": [],
     "ABarray": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
@@ -452,7 +451,6 @@
     ],
     "BiRewire": [],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "HDF5Array",
@@ -514,11 +512,9 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
     "BridgeDbR": [],
-    "BSgenomeForge": [],
     "bsseq": [
         "HDF5Array"
     ],
@@ -691,7 +687,6 @@
         "impute"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
@@ -702,9 +697,7 @@
     "cfTools": [
         "basilisk"
     ],
-    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
         "DNAcopy",
         "impute"
     ],
@@ -713,14 +706,11 @@
         "DNAcopy"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "impute"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "DNAcopy",
@@ -969,7 +959,6 @@
         "genefu",
         "impute"
     ],
-    "consensusSeekeR": [],
     "consICA": [
         "topGO"
     ],
@@ -985,7 +974,6 @@
         "minfi",
         "siggenes"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
         "biovizBase",
@@ -1120,7 +1108,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytolib": [],
     "cytomapper": [
         "HDF5Array",
@@ -1340,7 +1327,6 @@
     "distinct": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "HDF5Array",
@@ -1574,7 +1560,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
         "RBGL",
@@ -1884,7 +1869,6 @@
     "gdsfmt": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
@@ -2152,7 +2136,6 @@
         "HiCExperiment",
         "basilisk"
     ],
-    "hicVennDiagram": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -2441,9 +2424,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -2869,7 +2850,6 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "QFeatures",
         "Spectra"
@@ -3195,7 +3175,6 @@
     ],
     "ORFhunteR": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [
         "RBGL"
     ],
@@ -3288,7 +3267,6 @@
     ],
     "peco": [],
     "pepXMLTab": [],
-    "periodicDNA": [],
     "pfamAnalyzeR": [],
     "phantasus": [],
     "phantasusLite": [],
@@ -3496,7 +3474,6 @@
         "seqTools"
     ],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "impute"
@@ -3694,7 +3671,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "RGMQL": [],
     "RgnTX": [],
     "RGraph2js": [],
     "rgsepd": [],
@@ -3741,9 +3717,7 @@
         "BgeeDB",
         "topGO"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
@@ -4505,7 +4479,6 @@
     "transomics2cytoscape": [
         "RCy3"
     ],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -4516,7 +4489,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [
         "sva"
@@ -4537,9 +4509,7 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
@@ -4554,7 +4524,6 @@
     "tximport": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
