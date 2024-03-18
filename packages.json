@@ -283,7 +283,6 @@
     "AnVILWorkflow": [],
     "APAlyzer": [
         "DESeq2",
-        "HybridMTest",
         "VariantAnnotation"
     ],
     "apComplex": [
@@ -1342,7 +1341,6 @@
         "DNAcopy",
         "VariantAnnotation"
     ],
-    "CoCiteStats": [],
     "COCOA": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -1878,7 +1876,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "DFP": [],
     "DIAlignR": [
         "mzR"
     ],
@@ -2038,7 +2035,6 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "ecolitk": [],
     "EDASeq": [
         "ShortRead",
         "aroma.light"
@@ -2071,7 +2067,6 @@
         "topGO"
     ],
     "eiR": [],
-    "eisaR": [],
     "ELMER": [
         "BiocBaseUtils",
         "Gviz",
@@ -2877,7 +2872,6 @@
     "GOTHiC": [
         "ShortRead"
     ],
-    "goTools": [],
     "GPA": [],
     "GRaNIE": [
         "DESeq2",
@@ -3048,7 +3042,6 @@
         "biocthis"
     ],
     "HumanTranscriptomeCompendium": [],
-    "HybridMTest": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -3910,7 +3903,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "miRcomp": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -4701,7 +4693,6 @@
         "scater",
         "scuttle"
     ],
-    "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [],
     "pfamAnalyzeR": [],
@@ -4826,7 +4817,6 @@
     "PPInfer": [
         "fgsea"
     ],
-    "pqsfinder": [],
     "pram": [],
     "prebs": [
         "RPA",
@@ -5696,7 +5686,6 @@
         "SingleCellExperiment"
     ],
     "scRecover": [],
-    "ScreenR": [],
     "scRepertoire": [
         "SingleCellExperiment",
         "powerTCR"
@@ -5720,7 +5709,6 @@
         "ScaledMatrix",
         "SingleCellExperiment"
     ],
-    "scShapes": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -5773,7 +5761,6 @@
         "scater",
         "scuttle"
     ],
-    "SDAMS": [],
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
@@ -6250,7 +6237,6 @@
     "statTarget": [
         "impute"
     ],
-    "STdeconvolve": [],
     "stepNorm": [],
     "stJoincount": [
         "SingleCellExperiment",
@@ -6386,7 +6372,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFARM": [],
     "TFBSTools": [
         "CNEr"
     ],
