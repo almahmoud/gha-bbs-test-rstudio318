@@ -576,9 +576,7 @@
         "HilbertVis"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "chopsticks": [],
     "ChromSCape": [
         "batchelor",
@@ -761,7 +759,6 @@
     "CoreGx": [
         "piano"
     ],
-    "Cormotif": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -826,7 +823,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
@@ -1208,7 +1204,6 @@
         "tximport"
     ],
     "EWCE": [],
-    "ExiMiR": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -1373,7 +1368,6 @@
     ],
     "frenchFISH": [],
     "FRGEpistasis": [],
-    "frma": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
@@ -1656,7 +1650,6 @@
         "SpatialExperiment"
     ],
     "HPAanalyze": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "VariantTools",
         "chipseq",
@@ -2406,9 +2399,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NormalyzerDE": [
         "vsn"
     ],
@@ -2570,7 +2561,6 @@
     "phenoTest": [
         "Category"
     ],
-    "philr": [],
     "PhyloProfile": [
         "OmaDB",
         "topGO"
@@ -2704,7 +2694,6 @@
         "mzID",
         "vsn"
     ],
-    "puma": [],
     "PureCN": [
         "DNAcopy"
     ],
@@ -3561,9 +3550,7 @@
         "OrganismDbi",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [],
     "uSORT": [
