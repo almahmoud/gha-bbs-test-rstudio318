@@ -10,11 +10,9 @@
         "QDNAseq",
         "impute"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "DNAcopy",
         "GLAD",
-        "aCGH",
         "snapCGH",
         "tilingArray",
         "vsn"
@@ -146,8 +144,7 @@
     "arrayMvout": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
@@ -230,7 +227,6 @@
     "BayesSpace": [
         "scran"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "beadarray": [
@@ -261,7 +257,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "biobtreeR": [],
@@ -540,7 +535,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva",
         "wateRmelon"
     ],
@@ -736,8 +730,7 @@
     ],
     "conumee": [
         "DNAcopy",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "CopyNumberPlots": [
         "biovizBase",
@@ -773,8 +766,7 @@
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
-        "DNAcopy",
-        "aCGH"
+        "DNAcopy"
     ],
     "crisprBwa": [
         "Rbwa"
@@ -925,8 +917,7 @@
         "scran"
     ],
     "deconvR": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -1006,7 +997,6 @@
         "scran"
     ],
     "distinct": [],
-    "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -1014,8 +1004,7 @@
         "bsseq",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "dmrseq": [
         "annotatr",
@@ -1089,8 +1078,7 @@
     ],
     "ENmix": [
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "EnrichmentBrowser": [
         "KEGGgraph",
@@ -1134,8 +1122,7 @@
         "Gviz",
         "OrganismDbi",
         "biovizBase",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "epiNEM": [
         "mnem"
@@ -1231,8 +1218,7 @@
     "ffpe": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "fgga": [],
     "FGNet": [],
@@ -1353,8 +1339,7 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "GA4GHclient": [],
     "GA4GHshiny": [
@@ -1522,7 +1507,6 @@
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
-    "GloScope": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -1643,8 +1627,7 @@
     "iCheck": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "iCNV": [],
     "ideal": [
@@ -1677,8 +1660,7 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "infercnv": [],
     "infinityFlow": [
@@ -1763,9 +1745,7 @@
         "maftools"
     ],
     "KBoost": [],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -1786,7 +1766,6 @@
     "lfa": [],
     "LineagePulse": [],
     "lineagespot": [],
-    "LinkHD": [],
     "lipidr": [
         "impute",
         "ropls"
@@ -1814,8 +1793,7 @@
     ],
     "lumi": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "M3C": [],
     "M3Drop": [],
@@ -1833,8 +1811,7 @@
         "RnBeads",
         "impute",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "DOSE",
@@ -1907,7 +1884,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva"
     ],
     "MEAT": [
@@ -1915,7 +1891,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "MEB": [],
@@ -1984,13 +1959,11 @@
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "bsseq",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -2000,8 +1973,7 @@
         "biocViews",
         "impute",
         "minfi",
-        "planet",
-        "siggenes"
+        "planet"
     ],
     "methylGSA": [
         "DOSE",
@@ -2009,8 +1981,7 @@
         "enrichplot",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "methylInheritance": [],
     "MethylMix": [
@@ -2025,8 +1996,7 @@
         "bsseq"
     ],
     "methylumi": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MetID": [],
     "Mfuzz": [
@@ -2067,12 +2037,9 @@
         "GOstats",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
-    "minfi": [
-        "siggenes"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "DNAcopy",
         "VanillaICE"
@@ -2092,8 +2059,7 @@
     ],
     "missMethyl": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "missRows": [],
     "mistyR": [],
@@ -2353,7 +2319,6 @@
         "GOstats",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "NeuCA": [],
@@ -2570,10 +2535,8 @@
     ],
     "preciseTAD": [
         "DNAcopy",
-        "aCGH",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -2686,8 +2649,7 @@
         "sva"
     ],
     "quantro": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
@@ -2735,8 +2697,7 @@
         "impute"
     ],
     "rCGH": [
-        "DNAcopy",
-        "aCGH"
+        "DNAcopy"
     ],
     "RCM": [
         "phyloseq"
@@ -2768,8 +2729,7 @@
         "derfinder"
     ],
     "recountmethylation": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "REDseq": [
         "ChIPpeakAnno"
@@ -2792,8 +2752,7 @@
     ],
     "REMP": [
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "DNAcopy",
@@ -2901,8 +2860,7 @@
     ],
     "RnBeads": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Rnits": [
         "impute"
@@ -2983,7 +2941,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scDesign3": [],
     "scds": [],
     "SCFA": [],
     "scFeatureFilter": [],
@@ -3112,12 +3069,10 @@
         "GOstats"
     ],
     "shinyepico": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "SIAMCAT": [
         "phyloseq"
@@ -3128,7 +3083,6 @@
     "sigFeature": [
         "biocViews"
     ],
-    "siggenes": [],
     "signatureSearch": [
         "DOSE",
         "clusterProfiler",
@@ -3193,7 +3147,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "slalom": [],
@@ -3209,7 +3162,6 @@
     "snapCGH": [
         "DNAcopy",
         "GLAD",
-        "aCGH",
         "tilingArray",
         "vsn"
     ],
@@ -3273,8 +3225,7 @@
         "KEGGgraph"
     ],
     "SPIAT": [
-        "SpatialExperiment",
-        "dittoSeq"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "ClassifyR",
@@ -3465,9 +3416,7 @@
     "trigger": [
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TRONCO": [],
@@ -3555,8 +3504,7 @@
     "wateRmelon": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "webbioc": [
         "vsn"
@@ -3578,8 +3526,7 @@
     ],
     "xcore": [],
     "XDE": [
-        "GeneMeta",
-        "siggenes"
+        "GeneMeta"
     ],
     "Xeva": [
         "CoreGx",
@@ -3595,8 +3542,7 @@
     ],
     "yarn": [
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zellkonverter": [],
     "zenith": [
