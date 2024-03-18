@@ -212,7 +212,6 @@
         "minfi",
         "siggenes"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "BeadDataPackR",
         "affyPLM",
@@ -717,7 +716,6 @@
         "biovizBase"
     ],
     "ChIPComp": [],
-    "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
         "biovizBase"
@@ -1345,7 +1343,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "dyebias": [],
     "DynDoc": [],
     "easier": [
         "decoupleR",
@@ -2729,7 +2726,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "motifbreakR": [
         "Gviz",
         "TFBSTools",
@@ -3205,7 +3201,6 @@
     ],
     "Pi": [],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -3216,7 +3211,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3584,7 +3578,6 @@
         "aroma.light",
         "motifStack"
     ],
-    "rifiComparative": [],
     "Ringo": [
         "vsn"
     ],
@@ -4172,7 +4165,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "Streamer": [
         "RBGL"
     ],
