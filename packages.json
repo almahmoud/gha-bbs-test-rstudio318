@@ -191,7 +191,6 @@
         "BeadDataPackR"
     ],
     "BeadDataPackR": [],
-    "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
         "Maaslin2"
@@ -426,7 +425,6 @@
         "impute"
     ],
     "cghMCR": [
-        "CNTools",
         "DNAcopy"
     ],
     "CGHnormaliter": [
@@ -541,7 +539,6 @@
     "CNORode": [
         "CellNOptR"
     ],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -1044,7 +1041,6 @@
     ],
     "fgga": [],
     "FGNet": [],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1384,7 +1380,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "HIPPO": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
     "hoodscanR": [],
@@ -2481,7 +2476,6 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scDDboost": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
