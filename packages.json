@@ -299,7 +299,6 @@
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
-    "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
@@ -640,7 +639,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "clusterSeq": [],
     "clustifyr": [],
     "ClustIRR": [],
     "cmapR": [
@@ -1190,7 +1188,6 @@
         "GenomicFiles",
         "OrganismDbi"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
@@ -2889,7 +2886,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -3442,7 +3438,6 @@
         "enrichplot",
         "tximport"
     ],
-    "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
         "ontoProc"
@@ -3552,7 +3547,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [],
     "tximeta": [
         "tximport"
     ],
