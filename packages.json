@@ -287,7 +287,6 @@
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "BioMVCClass": [
@@ -740,9 +739,7 @@
         "piano"
     ],
     "corral": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -793,7 +790,6 @@
     "csdR": [
         "impute"
     ],
-    "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
     ],
@@ -1616,7 +1612,6 @@
         "chipseq",
         "gmapR"
     ],
-    "HTSFilter": [],
     "HubPub": [
         "biocthis"
     ],
@@ -3314,7 +3309,6 @@
         "singscore",
         "sva"
     ],
-    "TCC": [],
     "TCGAutils": [
         "RaggedExperiment"
     ],
