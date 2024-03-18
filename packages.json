@@ -359,7 +359,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioassayR": [],
     "biobtreeR": [],
     "bioCancer": [
@@ -1832,7 +1831,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [
         "impute"
     ],
@@ -2079,7 +2077,6 @@
     "HIPPO": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
@@ -3075,7 +3072,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "ORFik": [],
     "OrganismDbi": [
         "RBGL"
@@ -3552,7 +3548,6 @@
     "rexposome": [
         "impute"
     ],
-    "Rfastp": [],
     "RgnTX": [],
     "RGraph2js": [],
     "rgsepd": [],
