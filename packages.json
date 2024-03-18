@@ -269,7 +269,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "bioassayR": [],
     "biobtreeR": [],
     "bioCancer": [
         "DOSE",
@@ -1588,7 +1587,6 @@
     ],
     "GRENITS": [],
     "GSALightning": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -2880,7 +2878,6 @@
         "impute"
     ],
     "RgnTX": [],
-    "RGraph2js": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
@@ -2987,7 +2984,6 @@
     "rqt": [
         "ropls"
     ],
-    "rrvgo": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RSVSim": [],
@@ -3381,7 +3377,6 @@
         "vsn"
     ],
     "StarBioTrek": [],
-    "STATegRa": [],
     "Statial": [
         "SpatialExperiment"
     ],
