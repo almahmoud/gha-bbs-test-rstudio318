@@ -1439,7 +1439,6 @@
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBcoexpress": [],
     "EBSEA": [],
     "EDASeq": [
         "ShortRead",
@@ -2255,9 +2254,7 @@
         "VariantAnnotation"
     ],
     "ILoReg": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "HDF5Array",
         "SpatialExperiment",
@@ -2378,7 +2375,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase"
@@ -2519,7 +2515,6 @@
         "HDF5Array",
         "plotgardener"
     ],
-    "martini": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -3625,7 +3620,6 @@
         "gdsfmt"
     ],
     "rain": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "RankProd": [],
     "RareVariantVis": [
@@ -4135,7 +4129,6 @@
         "sechm",
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
