@@ -935,7 +935,6 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -2791,7 +2790,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
