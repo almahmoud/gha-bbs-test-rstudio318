@@ -164,7 +164,6 @@
         "OrganismDbi"
     ],
     "aroma.light": [],
-    "ArrayExpress": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -970,7 +969,6 @@
         "scran"
     ],
     "deconvR": [
-        "methylKit",
         "minfi",
         "siggenes"
     ],
@@ -1100,9 +1098,7 @@
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -1662,7 +1658,6 @@
     "GWENA": [
         "impute"
     ],
-    "h5vc": [],
     "Harman": [],
     "HarmonizR": [
         "sva"
@@ -1922,7 +1917,6 @@
         "pathview"
     ],
     "magpie": [],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2064,9 +2058,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -2098,10 +2090,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -2841,7 +2830,6 @@
         "GenomicScores"
     ],
     "Rarr": [],
-    "RbcBook1": [],
     "Rbec": [
         "dada2"
     ],
