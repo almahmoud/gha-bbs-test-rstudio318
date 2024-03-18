@@ -1102,7 +1102,6 @@
         "safe",
         "topGO"
     ],
-    "eiR": [],
     "ELMER": [
         "Gviz",
         "biovizBase"
@@ -1584,7 +1583,6 @@
     ],
     "graper": [],
     "GraphAlignment": [],
-    "GraphAT": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -2541,7 +2539,6 @@
         "impute",
         "piano"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowCore",
         "flowWorkspace",
@@ -2579,7 +2576,6 @@
         "Category"
     ],
     "philr": [],
-    "PhosR": [],
     "PhyloProfile": [
         "OmaDB",
         "topGO"
@@ -2806,7 +2802,6 @@
         "phyloseq"
     ],
     "Rcollectl": [],
-    "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
