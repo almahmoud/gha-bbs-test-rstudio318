@@ -3781,7 +3781,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
@@ -4388,7 +4387,6 @@
         "impute",
         "phyloseq"
     ],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "VariantAnnotation",
