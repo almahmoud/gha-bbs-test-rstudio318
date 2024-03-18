@@ -598,7 +598,6 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -883,7 +882,6 @@
     "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -1022,7 +1020,6 @@
         "topGO"
     ],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "compSPOT": [],
@@ -1092,7 +1089,6 @@
     "CoSIA": [],
     "cosmiq": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -1164,7 +1160,6 @@
     "csdR": [
         "impute"
     ],
-    "CSSQ": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1344,7 +1339,6 @@
         "VariantAnnotation"
     ],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
@@ -1782,7 +1776,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2254,7 +2247,6 @@
         "RBGL",
         "regioneR"
     ],
-    "Guitar": [],
     "Gviz": [
         "VariantAnnotation",
         "biovizBase"
@@ -2439,7 +2431,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -2460,7 +2451,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2544,7 +2534,6 @@
     "KnowSeq": [
         "sva"
     ],
-    "LACE": [],
     "LBE": [],
     "LEA": [],
     "LedPred": [],
@@ -2572,7 +2561,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2645,7 +2633,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2767,11 +2754,9 @@
     "messina": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "MetaboCoreUtils",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "struct"
     ],
@@ -2793,7 +2778,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -2824,7 +2808,6 @@
         "vsn"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methInheritSim": [
@@ -3012,7 +2995,6 @@
     ],
     "MobilityTransformR": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -3082,28 +3064,22 @@
     ],
     "MPFE": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsDataHub": [],
     "MsExperiment": [
-        "MetaboCoreUtils",
         "QFeatures",
         "Spectra"
     ],
@@ -3163,7 +3139,6 @@
         "QFeatures"
     ],
     "MsQuality": [
-        "MetaboCoreUtils",
         "MsExperiment",
         "QFeatures",
         "Spectra"
@@ -3287,7 +3262,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -3424,7 +3398,6 @@
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
-    "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz"
     ],
@@ -3456,7 +3429,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
@@ -4045,7 +4017,6 @@
     ],
     "Risa": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
@@ -4202,7 +4173,6 @@
     "SCAN.UPC": [
         "sva"
     ],
-    "scanMiRApp": [],
     "scAnnotatR": [],
     "SCANVIS": [],
     "SCArray": [
@@ -4618,9 +4588,7 @@
         "motifmatchr"
     ],
     "speckle": [],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare"
     ],
@@ -4726,7 +4694,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "SWATH2stats": [],
     "swfdr": [],
     "switchde": [],
     "synapter": [
@@ -4736,7 +4703,6 @@
         "mzR",
         "vsn"
     ],
-    "SynExtend": [],
     "synlet": [
         "RankProd"
     ],
@@ -4772,7 +4738,6 @@
     "TCGAutils": [
         "RaggedExperiment"
     ],
-    "TCseq": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -4808,7 +4773,6 @@
     "tilingArray": [
         "vsn"
     ],
-    "timecourse": [],
     "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
@@ -4890,7 +4854,6 @@
     "transomics2cytoscape": [
         "RCy3"
     ],
-    "TransView": [],
     "traseR": [],
     "traviz": [
         "TrajectoryUtils",
@@ -4976,7 +4939,6 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "VarCon": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray",
@@ -5063,7 +5025,6 @@
     ],
     "xcms": [
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "QFeatures",
