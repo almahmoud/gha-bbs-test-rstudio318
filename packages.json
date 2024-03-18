@@ -126,7 +126,6 @@
         "biocViews"
     ],
     "annotatr": [],
-    "anota": [],
     "anota2seq": [],
     "antiProfiles": [],
     "AnVILBilling": [],
@@ -1347,7 +1346,6 @@
         "impute"
     ],
     "GeneGA": [],
-    "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneRecommender": [],
@@ -2212,7 +2210,6 @@
         "yarn"
     ],
     "NeuCA": [],
-    "NewWave": [],
     "nipalsMCIA": [],
     "nnSVG": [
         "SpatialExperiment"
@@ -3204,8 +3201,7 @@
         "glmGamPoi"
     ],
     "tRanslatome": [
-        "RankProd",
-        "anota"
+        "RankProd"
     ],
     "transomics2cytoscape": [],
     "traviz": [
@@ -3292,7 +3288,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "gwascat"
     ],
@@ -3323,9 +3318,7 @@
         "mzID"
     ],
     "xcore": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
