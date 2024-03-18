@@ -860,7 +860,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
@@ -1234,8 +1233,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1311,8 +1309,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -1321,7 +1318,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "evaluomeR": [],
     "EventPointer": [
         "tximport"
@@ -1806,7 +1802,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
@@ -2808,7 +2803,6 @@
     "pipeComp": [
         "scran"
     ],
-    "pipeFrame": [],
     "planet": [],
     "plasmut": [],
     "plier": [],
@@ -3392,9 +3386,7 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
