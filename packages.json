@@ -135,9 +135,7 @@
     "artMS": [],
     "ASEB": [],
     "ASGSCA": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "Gviz",
         "biovizBase"
@@ -256,9 +254,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [],
     "BiRewire": [],
@@ -1447,7 +1443,6 @@
         "impute",
         "minfi"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "flowCore"
     ],
@@ -1528,8 +1523,7 @@
     "lfa": [],
     "lineagespot": [],
     "lipidr": [
-        "impute",
-        "ropls"
+        "impute"
     ],
     "lisaClust": [
         "spicyR"
@@ -1748,7 +1742,6 @@
     ],
     "MicrobiotaProcess": [],
     "microRNA": [],
-    "microSTASIS": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1913,9 +1906,7 @@
     ],
     "MSstatsTMT": [],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
         "karyoploteR"
@@ -1932,7 +1923,6 @@
     ],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "DNAcopy",
         "decompTumor2Sig",
@@ -2123,9 +2113,7 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category"
     ],
@@ -2459,15 +2447,12 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
     "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RSVSim": [],
@@ -2961,7 +2946,6 @@
         "impute",
         "mzID"
     ],
-    "xcore": [],
     "XDE": [],
     "Xeva": [
         "CoreGx",
