@@ -64,7 +64,6 @@
     "ABSSeq": [
         "limma"
     ],
-    "acde": [],
     "ACE": [
         "Biobase",
         "BiocGenerics",
@@ -1573,7 +1572,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "ATACseqQC": [
@@ -1625,7 +1623,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "ATACseqTFEA": [
@@ -1656,7 +1653,6 @@
         "limma",
         "motifmatchr",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "atena": [
@@ -1713,7 +1709,6 @@
         "annotate",
         "motifStack",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "attract": [
@@ -1967,7 +1962,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "banocc": [],
     "barcodetrackR": [
         "Biobase",
         "BiocGenerics",
@@ -4816,7 +4810,6 @@
         "interactiveDisplayBase",
         "zlibbioc"
     ],
-    "CGEN": [],
     "CGHbase": [
         "Biobase",
         "BiocGenerics",
@@ -5425,7 +5418,6 @@
         "XVector",
         "annotate",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "CHRONOS": [
@@ -5564,7 +5556,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "Biobase",
         "BiocGenerics",
@@ -7915,7 +7906,6 @@
         "biomaRt",
         "motifStack",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "DAMEfinder": [
@@ -9942,7 +9932,6 @@
         "annotate",
         "motifmatchr",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "EnMCB": [
@@ -10086,7 +10075,6 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "seqLogo",
         "treeio",
         "zlibbioc"
     ],
@@ -10691,7 +10679,6 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "seqLogo",
         "treeio",
         "zlibbioc"
     ],
@@ -12878,7 +12865,6 @@
         "limma",
         "plyranges",
         "rtracklayer",
-        "seqLogo",
         "seqPattern",
         "zlibbioc"
     ],
@@ -13751,7 +13737,6 @@
         "zlibbioc"
     ],
     "GPA": [],
-    "gpls": [],
     "gpuMagic": [
         "BiocGenerics"
     ],
@@ -13792,7 +13777,6 @@
         "topGO",
         "zlibbioc"
     ],
-    "granulator": [],
     "graper": [],
     "graph": [
         "BiocGenerics"
@@ -15137,7 +15121,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "Biobase",
         "BiocGenerics",
@@ -15590,7 +15573,6 @@
         "geneplotter",
         "limma",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "InterMineR": [
@@ -16709,7 +16691,6 @@
         "annotate",
         "zlibbioc"
     ],
-    "maCorrPlot": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationDbi",
@@ -17177,7 +17158,6 @@
         "XVector",
         "annotate",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "matter": [
@@ -17639,7 +17619,6 @@
         "BiocGenerics",
         "S4Vectors"
     ],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -19070,7 +19049,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "miRNApath": [],
     "miRNAtap": [
         "AnnotationDbi",
         "Biobase",
@@ -19142,7 +19120,6 @@
         "zlibbioc"
     ],
     "mistyR": [],
-    "mitch": [],
     "mitoClone2": [
         "AnnotationDbi",
         "BSgenome",
@@ -19452,7 +19429,6 @@
         "XVector",
         "annotate",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "monocle": [
@@ -19622,7 +19598,6 @@
         "ensembldb",
         "motifStack",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "motifcounter": [
@@ -19681,7 +19656,6 @@
         "XVector",
         "annotate",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "motifStack": [
@@ -19710,7 +19684,6 @@
         "XVector",
         "annotate",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "MouseFM": [
@@ -20767,7 +20740,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "trackViewer",
         "zlibbioc"
     ],
@@ -22233,7 +22205,6 @@
         "annotate",
         "motifmatchr",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "PAIRADISE": [
@@ -23486,7 +23457,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "PrInCE": [
@@ -24059,7 +24029,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "seqLogo",
         "zlibbioc"
     ],
     "pwOmics": [
@@ -24659,7 +24628,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [
         "AnnotationDbi",
@@ -24788,7 +24756,6 @@
         "genomation",
         "impute",
         "rtracklayer",
-        "seqLogo",
         "seqPattern",
         "zlibbioc"
     ],
@@ -25598,7 +25565,6 @@
         "SummarizedExperiment",
         "XVector",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "rGenomeTracks": [
@@ -25895,7 +25861,6 @@
         "baySeq",
         "edgeR",
         "limma",
-        "seqLogo",
         "zlibbioc"
     ],
     "ribosomeProfilingQC": [
@@ -25935,7 +25900,6 @@
         "limma",
         "motifStack",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "rifi": [
@@ -27260,7 +27224,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "seqLogo",
         "zlibbioc"
     ],
     "scanMiRApp": [
@@ -27294,7 +27257,6 @@
         "interactiveDisplayBase",
         "rtracklayer",
         "scanMiR",
-        "seqLogo",
         "zlibbioc"
     ],
     "scAnnotatR": [
@@ -27408,7 +27370,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "AnnotationDbi",
         "Biobase",
@@ -28699,7 +28660,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "seqLogo": [],
     "seqPattern": [
         "BiocGenerics",
         "Biostrings",
@@ -30207,7 +30167,6 @@
         "ensembldb",
         "motifmatchr",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "speckle": [
@@ -30503,7 +30462,6 @@
         "biovizBase",
         "ensembldb",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "splots": [],
@@ -31694,7 +31652,6 @@
         "XVector",
         "annotate",
         "rtracklayer",
-        "seqLogo",
         "zlibbioc"
     ],
     "TFEA.ChIP": [
@@ -33307,7 +33264,6 @@
     ],
     "veloviz": [],
     "VennDetail": [],
-    "VERSO": [],
     "vidger": [
         "Biobase",
         "BiocGenerics",
