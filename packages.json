@@ -3,13 +3,11 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Core",
-        "annaffy",
         "genefilter",
         "multtest"
     ],
@@ -335,7 +333,6 @@
         "DESeq2",
         "MultiAssayExperiment"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -432,7 +429,6 @@
     "ASICS": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "ASpli": [
@@ -606,7 +602,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocNeighbors",
         "BiocSingular",
@@ -882,7 +877,6 @@
     "biosigner": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -1127,8 +1121,7 @@
     "cancerclass": [],
     "cardelino": [
         "VariantAnnotation",
-        "ggtree",
-        "snpStats"
+        "ggtree"
     ],
     "Cardinal": [
         "CardinalIO",
@@ -1346,8 +1339,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
-        "snpStats"
+        "graph"
     ],
     "CexoR": [
         "genomation",
@@ -1532,7 +1524,6 @@
         "DESeq2",
         "VariantAnnotation",
         "gwascat",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -2412,7 +2403,6 @@
     "DExMA": [
         "genefilter",
         "impute",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
@@ -2692,7 +2682,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "EMDomics": [],
     "enhancerHomologSearch": [
         "CNEr",
         "DirichletMultinomial",
@@ -3420,9 +3409,7 @@
         "impute"
     ],
     "GeneGA": [],
-    "GeneGeneInteR": [
-        "snpStats"
-    ],
+    "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -3433,7 +3420,6 @@
     "GeneOverlap": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
-    "geneRxCluster": [],
     "GeneSelectMMD": [],
     "GENESIS": [
         "DNAcopy",
@@ -3649,7 +3635,6 @@
     "gmoviz": [
         "ComplexHeatmap"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "BiocBaseUtils",
@@ -3792,8 +3777,7 @@
         "biovizBase"
     ],
     "gwascat": [
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "GWASTools": [
         "DNAcopy",
@@ -3922,7 +3906,6 @@
     ],
     "HIREewas": [],
     "HiTC": [],
-    "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "SingleCellExperiment",
@@ -4318,7 +4301,6 @@
     "lipidr": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "fgsea",
         "impute",
         "pcaMethods",
@@ -4432,7 +4414,6 @@
         "rhdf5",
         "rhdf5filters",
         "siggenes",
-        "snpStats",
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
@@ -4496,9 +4477,7 @@
         "rhdf5filters"
     ],
     "marr": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -4578,7 +4557,6 @@
         "DelayedMatrixStats",
         "Gviz",
         "HDF5Array",
-        "MultiDataSet",
         "Rhdf5lib",
         "VariantAnnotation",
         "biovizBase",
@@ -5452,7 +5430,6 @@
     "MultiBaC": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "pcaMethods",
         "ropls"
     ],
@@ -5468,7 +5445,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "fgsea",
         "graph",
@@ -5832,7 +5808,6 @@
         "multtest"
     ],
     "omicRexposome": [
-        "MultiDataSet",
         "genefilter",
         "impute",
         "made4",
@@ -5859,7 +5834,6 @@
     "OmnipathR": [],
     "ompBAM": [],
     "oncomix": [],
-    "oncoscanR": [],
     "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz",
@@ -6003,7 +5977,6 @@
         "basilisk.utils",
         "fgsea"
     ],
-    "parglms": [],
     "partCNV": [
         "SingleCellExperiment"
     ],
@@ -6140,7 +6113,6 @@
     "phenomis": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "biodb",
         "biodbChebi",
         "ropls"
@@ -7022,7 +6994,6 @@
         "impute"
     ],
     "roar": [],
-    "roastgsa": [],
     "RolDE": [],
     "rols": [],
     "ROntoTools": [
@@ -7032,8 +7003,7 @@
     ],
     "ropls": [
         "BiocBaseUtils",
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "ROSeq": [],
     "RPA": [
@@ -7056,7 +7026,6 @@
     "rqt": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "MultiDataSet",
         "multtest",
         "ropls"
     ],
@@ -7080,7 +7049,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "RTN": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
@@ -7104,9 +7072,7 @@
         "ShortRead",
         "aroma.light"
     ],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "safe": [],
     "SAIGEgds": [
         "SeqArray",
@@ -7360,8 +7326,7 @@
         "DNAcopy"
     ],
     "scoreInvHap": [
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "scp": [
         "BiocBaseUtils",
@@ -7403,7 +7368,6 @@
         "SingleCellExperiment"
     ],
     "scRecover": [],
-    "screenCounter": [],
     "ScreenR": [],
     "scRepertoire": [
         "SingleCellExperiment",
@@ -7864,7 +7828,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "snpStats": [],
     "soGGi": [
         "ShortRead",
         "chipseq"
@@ -8518,7 +8481,6 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TTMap": [],
     "TurboNorm": [
         "affy",
         "convert"
@@ -8680,8 +8642,7 @@
     "vtpnet": [
         "VariantAnnotation",
         "graph",
-        "gwascat",
-        "snpStats"
+        "gwascat"
     ],
     "vulcan": [
         "ChIPpeakAnno",
@@ -8720,7 +8681,6 @@
     "wavClusteR": [],
     "webbioc": [
         "affy",
-        "annaffy",
         "gcrma",
         "multtest",
         "vsn"
