@@ -1007,7 +1007,6 @@
         "biovizBase"
     ],
     "BufferedMatrixMethods": [],
-    "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [],
     "BumpyMatrix": [],
@@ -2454,7 +2453,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -2477,7 +2475,6 @@
         "BiocBaseUtils",
         "bamsignals"
     ],
-    "DNAshapeR": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -3741,7 +3738,6 @@
         "VariantAnnotation"
     ],
     "HELP": [],
-    "HEM": [],
     "hermes": [
         "BiocBaseUtils",
         "DESeq2",
@@ -4021,7 +4017,6 @@
     "iPAC": [
         "multtest"
     ],
-    "iPath": [],
     "ipdDb": [],
     "IPO": [
         "BiocBaseUtils",
@@ -4174,7 +4169,6 @@
         "sparseMatrixStats"
     ],
     "lfa": [],
-    "limmaGUI": [],
     "LineagePulse": [
         "SingleCellExperiment"
     ],
@@ -5604,7 +5598,6 @@
         "graph"
     ],
     "NTW": [],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -5745,9 +5738,7 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [
         "DESeq2"
@@ -5975,7 +5966,6 @@
         "biodbChebi",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase",
@@ -6332,7 +6322,6 @@
         "genefilter",
         "sva"
     ],
-    "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
         "DelayedMatrixStats",
@@ -6904,7 +6893,6 @@
         "MotifDb"
     ],
     "runibic": [],
-    "RUVcorr": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead",
@@ -6942,7 +6930,6 @@
     "SC3": [
         "SingleCellExperiment"
     ],
-    "Scale4C": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "affy",
@@ -7844,7 +7831,6 @@
         "rhdf5filters"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [
         "graph"
     ],
@@ -7961,7 +7947,6 @@
     "synlet": [
         "RankProd"
     ],
-    "SynMut": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -8294,7 +8279,6 @@
     "tweeDEseq": [
         "cqn"
     ],
-    "twilight": [],
     "twoddpcr": [],
     "txcutr": [],
     "tximeta": [
