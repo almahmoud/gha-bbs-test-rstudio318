@@ -208,9 +208,7 @@
         "vsn"
     ],
     "ARRmNormalization": [],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASEB": [],
     "ASGSCA": [],
     "ASICS": [
@@ -287,7 +285,6 @@
         "glmGamPoi",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "batchelor": [],
     "BatchQC": [
         "sva"
@@ -738,8 +735,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "scran"
@@ -1367,7 +1363,6 @@
         "genomation",
         "impute"
     ],
-    "epidecodeR": [],
     "epigenomix": [
         "BeadDataPackR",
         "beadarray"
@@ -1446,7 +1441,6 @@
     "evaluomeR": [],
     "EventPointer": [
         "RBGL",
-        "SGSeq",
         "tximport"
     ],
     "EWCE": [],
@@ -1734,7 +1728,6 @@
         "gdsfmt"
     ],
     "gdsfmt": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
         "DNAcopy",
@@ -1871,7 +1864,6 @@
         "RBGL",
         "impute"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "DNAcopy",
         "RTCGAToolbox",
@@ -2561,7 +2553,6 @@
     ],
     "MLInterfaces": [],
     "MLSeq": [],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
         "metagenomeSeq"
@@ -2698,17 +2689,12 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -2725,13 +2711,10 @@
         "vsn"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [
         "ropls"
@@ -3228,7 +3211,6 @@
         "impute"
     ],
     "QFeatures": [],
-    "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [],
     "qPLEXanalyzer": [
@@ -3403,9 +3385,7 @@
     "RgnTX": [],
     "RGraph2js": [],
     "rgsepd": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -3739,7 +3719,6 @@
         "GSEABase",
         "RBGL"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "minfi",
         "siggenes"
@@ -4261,7 +4240,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vsn": [],
     "vtpnet": [
@@ -4310,7 +4288,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
