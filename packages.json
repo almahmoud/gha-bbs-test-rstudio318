@@ -275,7 +275,6 @@
     "biocViews": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "BioMVCClass": [
@@ -352,7 +351,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "BridgeDbR": [],
     "bsseq": [],
     "BubbleTree": [
@@ -1062,7 +1060,6 @@
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "enrichplot",
@@ -1288,9 +1285,7 @@
         "ncdfFlow"
     ],
     "fobitools": [],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [
@@ -2194,7 +2189,6 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
         "flowCore"
@@ -2316,7 +2310,6 @@
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools",
@@ -3164,7 +3157,6 @@
         "RankProd"
     ],
     "systemPipeR": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "biovizBase"
