@@ -1,12 +1,12 @@
 # Summary
 
-651 Bioconductor sotware binaries built
+652 Bioconductor sotware binaries built
 
-1517 Other dependency binaries built
+1518 Other dependency binaries built
 
 0 failed packages
 
-1546 unclaimed packages
+1545 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (1546)
+## Unclaimed (1545)
 | Package                     | Status    | Blocked By                                                                                                                                                                                                                                          |
 |-----------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                          | Unclaimed | Incomplete Bioc dependencies: a4Base, a4Classif.                                                                                                                                                                                                    |
@@ -71,7 +71,6 @@
 | anota2seq                   | Unclaimed |                                                                                                                                                                                                                                                     |
 | antiProfiles                | Unclaimed |                                                                                                                                                                                                                                                     |
 | AnVILBilling                | Unclaimed |                                                                                                                                                                                                                                                     |
-| AnVILPublish                | Unclaimed |                                                                                                                                                                                                                                                     |
 | APAlyzer                    | Unclaimed | Incomplete Bioc dependencies: VariantAnnotation.                                                                                                                                                                                                    |
 | apComplex                   | Unclaimed | Incomplete Bioc dependencies: RBGL, Rgraphviz.                                                                                                                                                                                                      |
 | APL                         | Unclaimed | Incomplete Bioc dependencies: topGO.                                                                                                                                                                                                                |
@@ -1564,7 +1563,7 @@
 | zinbwave                    | Unclaimed |                                                                                                                                                                                                                                                     |
 | ZygosityPredictor           | Unclaimed | Incomplete Bioc dependencies: VariantAnnotation.                                                                                                                                                                                                    |
 
-## Bioconductor Software Binaries Built (651)
+## Bioconductor Software Binaries Built (652)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4Core                       | Succeeded | [a4Core_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/a4Core_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
@@ -1593,6 +1592,7 @@
 | AnnotationHub                | Succeeded | [AnnotationHub_3.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/AnnotationHub_3.10.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | annotationTools              | Succeeded | [annotationTools_1.76.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/annotationTools_1.76.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | AnVIL                        | Succeeded | [AnVIL_1.14.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/AnVIL_1.14.2_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| AnVILPublish                 | Succeeded | [AnVILPublish_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/AnVILPublish_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | AnVILWorkflow                | Succeeded | [AnVILWorkflow_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/AnVILWorkflow_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | apeglm                       | Succeeded | [apeglm_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/apeglm_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | ASAFE                        | Succeeded | [ASAFE_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/ASAFE_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2219,7 +2219,7 @@
 | zFPKM                        | Succeeded | [zFPKM_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/zFPKM_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 
-## Other Dependency Binaries (651)
+## Other Dependency Binaries (652)
 | Package                            | Status    | Tarball                                                                                                                                                                                                                                                                        |
 |------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | mitml                              | Succeeded | [mitml_0.4-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/mitml_0.4-5_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
@@ -2605,6 +2605,7 @@
 | MetaCycle                          | Succeeded | [MetaCycle_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/MetaCycle_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | segmented                          | Succeeded | [segmented_2.0-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/segmented_2.0-3_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | ggtree                             | Succeeded | [ggtree_3.10.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/ggtree_3.10.1_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
+| AnVILPublish                       | Succeeded | [AnVILPublish_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/AnVILPublish_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | invgamma                           | Succeeded | [invgamma_1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/invgamma_1.1_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | Biostrings                         | Succeeded | [Biostrings_2.70.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/Biostrings_2.70.3_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | combinat                           | Succeeded | [combinat_0.0-8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/combinat_0.0-8_R_x86_64-pc-linux-gnu.tar.gz)                                                       |
