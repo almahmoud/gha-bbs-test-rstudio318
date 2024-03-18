@@ -289,7 +289,6 @@
     "BiocSklearn": [],
     "biocthis": [],
     "biocViews": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
@@ -1063,7 +1062,6 @@
     ],
     "easyreporting": [],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EDASeq": [
         "aroma.light"
     ],
@@ -1819,7 +1817,6 @@
         "minfi",
         "siggenes"
     ],
-    "LymphoSeq": [],
     "M3C": [],
     "M3Drop": [],
     "Maaslin2": [],
@@ -1929,7 +1926,6 @@
         "CNORode",
         "CellNOptR"
     ],
-    "memes": [],
     "Mergeomics": [],
     "meshes": [
         "DOSE",
@@ -2430,7 +2426,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
@@ -2519,7 +2514,6 @@
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -2827,9 +2821,7 @@
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
@@ -3396,9 +3388,7 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [
