@@ -1,10 +1,8 @@
 {
     "a4": [
-        "a4Base",
-        "a4Classif"
+        "a4Base"
     ],
     "a4Base": [],
-    "a4Classif": [],
     "ABarray": [],
     "ACE": [
         "CGHcall",
@@ -1516,9 +1514,7 @@
         "SGSeq",
         "tximport"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExiMiR": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -1729,7 +1725,6 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [],
-    "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
         "HDF5Array",
@@ -3089,7 +3084,6 @@
     "OrganismDbi": [
         "RBGL"
     ],
-    "orthogene": [],
     "orthos": [
         "HDF5Array"
     ],
@@ -3284,7 +3278,6 @@
         "vsn"
     ],
     "proActiv": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -4221,7 +4214,6 @@
         "biovizBase"
     ],
     "TADCompare": [],
-    "tanggle": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
