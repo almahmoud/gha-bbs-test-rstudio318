@@ -201,7 +201,6 @@
     "ballgown": [
         "sva"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -985,7 +984,6 @@
         "flowCore"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
         "tximport"
     ],
     "diffHic": [],
