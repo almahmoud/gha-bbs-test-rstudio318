@@ -145,7 +145,6 @@
     "ASSET": [],
     "ASSIGN": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
         "OrganismDbi",
         "TFBSTools",
@@ -578,7 +577,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "cola": [
         "impute"
     ],
@@ -654,7 +652,6 @@
     ],
     "COSNet": [],
     "COTAN": [],
-    "countsimQC": [],
     "cpvSNP": [],
     "CRImage": [
         "DNAcopy"
@@ -1313,7 +1310,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
@@ -1460,7 +1456,6 @@
     ],
     "InPAS": [],
     "INPower": [],
-    "InTAD": [],
     "intansv": [
         "OrganismDbi",
         "biovizBase",
@@ -1688,12 +1683,10 @@
         "mzID",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaSeq": [],
     "metaseqR2": [
         "DSS",
         "EDASeq",
@@ -2749,7 +2742,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [
