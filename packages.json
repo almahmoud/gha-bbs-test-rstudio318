@@ -34,7 +34,6 @@
     ],
     "affyPLM": [],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "Category",
@@ -96,7 +95,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "alevinQC": [
         "tximport"
     ],
@@ -221,7 +219,6 @@
     "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "MAST",
         "Maaslin2",
@@ -382,7 +379,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -564,7 +560,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -706,7 +701,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1163,7 +1157,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1416,7 +1409,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
     ],
@@ -1609,30 +1601,17 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoCorrectoR": [],
@@ -1695,7 +1674,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1737,7 +1715,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1821,7 +1798,6 @@
     "messina": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -1839,7 +1815,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1916,7 +1891,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "phyloseq"
     ],
@@ -1976,7 +1950,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2035,7 +2008,6 @@
         "Spectra"
     ],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "msgbsR": [
@@ -2074,12 +2046,9 @@
         "sva"
     ],
     "msPurity": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsBig": [],
@@ -2160,7 +2129,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2184,7 +2152,6 @@
         "impute"
     ],
     "netDx": [],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -2236,9 +2203,7 @@
         "tkWidgets"
     ],
     "OmaDB": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "impute",
         "rexposome",
@@ -2460,9 +2425,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -2491,7 +2454,6 @@
         "DNAcopy",
         "impute"
     ],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -2649,7 +2611,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "biocViews",
         "impute",
@@ -2817,9 +2778,7 @@
         "DNAcopy"
     ],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scReClassify": [],
     "scRepertoire": [
@@ -3307,7 +3266,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID"
