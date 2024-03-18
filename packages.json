@@ -105,7 +105,6 @@
     "AneuFinder": [
         "DNAcopy"
     ],
-    "annmap": [],
     "AnnotationHubData": [
         "BiocCheck",
         "OrganismDbi",
@@ -147,7 +146,6 @@
     "ASSIGN": [
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "GeneOverlap",
@@ -326,7 +324,6 @@
         "biovizBase"
     ],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "biovizBase",
@@ -540,7 +537,6 @@
     ],
     "clustComp": [],
     "clusterExperiment": [
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -1357,7 +1353,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOpro": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -1652,7 +1647,6 @@
         "phyloseq",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "DNAcopy",
         "GWASTools",
@@ -1982,7 +1976,6 @@
     ],
     "multiGSEA": [],
     "multiHiCcompare": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -2019,7 +2012,6 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "NBAMSeq": [],
     "ncdfFlow": [
         "flowCore"
     ],
@@ -2057,7 +2049,6 @@
     ],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -2067,7 +2058,6 @@
         "quantro",
         "yarn"
     ],
-    "NeuCA": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
@@ -2617,7 +2607,6 @@
     "scMerge": [
         "M3Drop"
     ],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq"
@@ -2756,7 +2745,6 @@
         "QuasR"
     ],
     "singscore": [],
-    "SiPSiC": [],
     "sizepower": [],
     "skewr": [
         "lumi",
