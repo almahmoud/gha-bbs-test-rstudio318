@@ -624,10 +624,7 @@
     "cardelino": [
         "VariantAnnotation"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "CARNIVAL": [],
     "casper": [
         "gaga"
@@ -1168,7 +1165,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1384,7 +1380,6 @@
         "mzR",
         "vsn"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1715,7 +1710,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [],
@@ -2203,7 +2197,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase",
@@ -2452,7 +2445,6 @@
         "GSEABase",
         "RBGL"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
@@ -2465,7 +2457,6 @@
         "ShortRead"
     ],
     "iPAC": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -2789,8 +2780,7 @@
         "KEGGgraph",
         "MWASTools",
         "Rgraphviz",
-        "hpar",
-        "mygene"
+        "hpar"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -2896,7 +2886,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
@@ -3091,7 +3080,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MPFE": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -3265,7 +3253,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
@@ -3885,7 +3872,6 @@
     "RBGL": [],
     "RBioinf": [],
     "rBiopaxParser": [],
-    "RBM": [],
     "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
@@ -4481,7 +4467,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [],
     "SimFFPE": [],
     "SIMLR": [],
     "simona": [],
@@ -4652,7 +4637,6 @@
         "SpatialExperiment"
     ],
     "SpidermiR": [],
-    "spiky": [],
     "splatter": [],
     "SpliceWiz": [
         "HDF5Array"
@@ -4876,7 +4860,6 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "Rgraphviz",
