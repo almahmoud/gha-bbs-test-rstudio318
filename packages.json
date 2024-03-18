@@ -33,19 +33,13 @@
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [],
@@ -59,7 +53,6 @@
         "VariantAnnotation",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
     "AHMassBank": [
@@ -193,7 +186,6 @@
         "BeadDataPackR",
         "affyPLM",
         "beadarray",
-        "gcrma",
         "vsn"
     ],
     "ARRmNormalization": [],
@@ -300,9 +292,7 @@
     "BgeeDB": [
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [],
     "BiGGR": [
         "hyperdraw",
@@ -507,8 +497,7 @@
     "Category": [],
     "categoryCompare": [
         "Category",
-        "GOstats",
-        "RCy3"
+        "GOstats"
     ],
     "CausalR": [],
     "cbaf": [
@@ -574,7 +563,6 @@
     "Cepo": [],
     "CeTF": [
         "DOSE",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -907,7 +895,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "crossmeta": [
         "sva"
     ],
@@ -1041,7 +1028,6 @@
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
-    "DeconRNASeq": [],
     "decontX": [
         "celda",
         "scran"
@@ -1062,8 +1048,7 @@
     "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [],
     "DelayedTensor": [],
@@ -1254,7 +1239,6 @@
     ],
     "enrichViewNet": [
         "DOSE",
-        "RCy3",
         "enrichplot"
     ],
     "ensemblVEP": [
@@ -1386,9 +1370,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "fenr": [],
     "ffpe": [
         "lumi",
@@ -1550,7 +1532,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "KEGGgraph",
@@ -2057,7 +2038,6 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "impute",
         "methylumi",
         "minfi",
@@ -2087,9 +2067,7 @@
     "MANOR": [
         "GLAD"
     ],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "plotgardener"
     ],
@@ -2098,9 +2076,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MassArray": [],
     "MAST": [],
     "mastR": [],
@@ -2206,7 +2182,6 @@
     "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
-        "RCy3",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2312,8 +2287,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -2328,8 +2302,7 @@
     ],
     "MinimumDistance": [
         "DNAcopy",
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "miQC": [],
     "MIRA": [
@@ -2380,9 +2353,7 @@
         "impute"
     ],
     "MOFA2": [],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "graphite"
     ],
@@ -2595,8 +2566,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RCy3"
+        "KEGGgraph"
     ],
     "ndexr": [
         "RCX"
@@ -2630,7 +2600,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "RCy3",
         "minfi",
         "quantro",
         "siggenes",
@@ -2749,7 +2718,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "PanViz": [],
     "pareg": [
         "DOSE"
@@ -3068,7 +3036,6 @@
         "Rcwl"
     ],
     "RCX": [],
-    "RCy3": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -3114,7 +3081,6 @@
     ],
     "regutools": [
         "Gviz",
-        "RCy3",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3783,7 +3749,6 @@
         "DOSE",
         "DynDoc",
         "Mfuzz",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "tkWidgets"
@@ -3846,9 +3811,7 @@
         "anota",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -3916,9 +3879,7 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray",
@@ -3978,7 +3939,6 @@
         "siggenes"
     ],
     "webbioc": [
-        "gcrma",
         "vsn"
     ],
     "weitrix": [
