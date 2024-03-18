@@ -2424,7 +2424,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "BG2": [],
     "BgeeCall": [
         "AnnotationDbi",
         "Biobase",
@@ -3658,10 +3657,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache"
     ],
@@ -6310,7 +6306,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "COHCAP": [],
     "cola": [
         "BiocGenerics",
         "ComplexHeatmap",
@@ -7923,7 +7918,6 @@
         "seqLogo",
         "zlibbioc"
     ],
-    "daMA": [],
     "DAMEfinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -9109,7 +9103,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "dks": [],
     "DMCFB": [
         "Biobase",
         "BiocGenerics",
@@ -13982,7 +13975,6 @@
         "KEGGREST",
         "PPInfer",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -15011,7 +15003,6 @@
     "iChip": [
         "limma"
     ],
-    "iClusterPlus": [],
     "iCNV": [
         "BSgenome",
         "Biobase",
@@ -15272,7 +15263,6 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "zlibbioc"
     ],
@@ -15305,7 +15295,6 @@
         "cytolib",
         "flowCore"
     ],
-    "immunotation": [],
     "IMPCdata": [],
     "impute": [],
     "INDEED": [],
@@ -16311,7 +16300,6 @@
         "zlibbioc"
     ],
     "les": [],
-    "levi": [],
     "lfa": [],
     "limma": [],
     "limmaGUI": [
@@ -19095,7 +19083,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "mirTarRnaSeq": [],
     "missMethyl": [
         "AnnotationDbi",
         "Biobase",
@@ -21156,7 +21143,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -22552,7 +22538,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "pcxn": [],
     "PDATK": [
         "AIMS",
         "AnnotationDbi",
@@ -23346,7 +23331,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -24091,7 +24075,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "graph",
@@ -26079,7 +26062,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -28682,7 +28664,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "seqcombo": [],
     "SeqGate": [
         "Biobase",
         "BiocGenerics",
@@ -30348,7 +30329,6 @@
         "miRNAtap",
         "zlibbioc"
     ],
-    "spikeLI": [],
     "spiky": [
         "BSgenome",
         "Biobase",
@@ -30901,7 +30881,6 @@
         "RBGL",
         "graph"
     ],
-    "STRINGdb": [],
     "struct": [
         "Biobase",
         "BiocGenerics",
@@ -31558,7 +31537,6 @@
         "KEGGREST",
         "RTCGA",
         "S4Vectors",
-        "STRINGdb",
         "TDbasedUFE",
         "XVector",
         "enrichplot",
@@ -32613,7 +32591,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "tripr": [],
     "tRNA": [
         "BiocGenerics",
         "Biostrings",
@@ -33805,9 +33782,7 @@
         "piano",
         "zlibbioc"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [
         "BSgenome",
         "Biobase",
