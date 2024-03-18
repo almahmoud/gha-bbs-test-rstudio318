@@ -115,7 +115,6 @@
         "biocViews"
     ],
     "annotatr": [],
-    "anota2seq": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "APAlyzer": [],
@@ -234,7 +233,6 @@
     "biobtreeR": [],
     "bioCancer": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -372,7 +370,6 @@
     "canceR": [
         "Category",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "phenoTest"
@@ -393,14 +390,12 @@
     "CausalR": [],
     "cbaf": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -485,7 +480,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -533,7 +527,6 @@
         "Rhisat2"
     ],
     "CiteFuse": [],
-    "ClassifyR": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph"
@@ -600,7 +593,6 @@
     "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
@@ -1326,15 +1318,12 @@
         "ttgsea"
     ],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "impute",
         "sva"
     ],
     "GEOfastq": [],
-    "GeomxTools": [],
     "GeoTcgaData": [
         "topconfects"
     ],
@@ -1376,7 +1365,6 @@
     "GNOSIS": [
         "DNAcopy",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
@@ -1516,7 +1504,6 @@
     ],
     "InPAS": [],
     "INPower": [],
-    "INSPEcT": [],
     "InTAD": [],
     "intansv": [
         "OrganismDbi",
@@ -1602,7 +1589,6 @@
         "ropls"
     ],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "lmdme": [],
@@ -1892,7 +1878,6 @@
     "MOGAMUN": [],
     "mogsa": [],
     "MoleculeExperiment": [],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2069,7 +2054,6 @@
         "RCX"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2135,9 +2119,7 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoSimulR": [],
@@ -2396,7 +2378,6 @@
         "CoreGx"
     ],
     "raer": [],
-    "RaggedExperiment": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -2595,7 +2576,6 @@
     "RSeqAn": [],
     "RSVSim": [],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "rTRMui": [],
@@ -2610,9 +2590,7 @@
     ],
     "sampleClassifier": [],
     "SANTA": [],
-    "SARC": [
-        "RaggedExperiment"
-    ],
+    "SARC": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -2650,7 +2628,6 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "schex": [],
     "scHOT": [],
     "scider": [],
@@ -2855,14 +2832,10 @@
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2877,9 +2850,7 @@
         "KEGGgraph"
     ],
     "SPIAT": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -2951,9 +2922,7 @@
         "singscore",
         "sva"
     ],
-    "TCGAutils": [
-        "RaggedExperiment"
-    ],
+    "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -2966,7 +2935,6 @@
         "ontoProc"
     ],
     "terraTCGAdata": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [],
@@ -2995,9 +2963,7 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topconfects": [],
     "topdownr": [
         "MSnbase",
