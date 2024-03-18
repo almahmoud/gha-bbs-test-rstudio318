@@ -23,7 +23,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "biovizBase",
@@ -40,7 +39,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "affycoretools",
@@ -1405,7 +1403,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "biovizBase"
@@ -1428,7 +1425,6 @@
     "GISPA": [],
     "GLAD": [],
     "GladiaTOX": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -2344,7 +2340,6 @@
     "peco": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
-    "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
