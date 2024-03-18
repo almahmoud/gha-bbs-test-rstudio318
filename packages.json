@@ -1887,7 +1887,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
         "DSS",
@@ -2721,7 +2720,6 @@
         "mzID"
     ],
     "rmelting": [],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
