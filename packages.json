@@ -259,7 +259,6 @@
     "BiocSklearn": [],
     "biocthis": [],
     "biocViews": [],
-    "biodbUniprot": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -1087,7 +1086,6 @@
         "tximport"
     ],
     "EWCE": [],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
