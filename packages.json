@@ -176,8 +176,7 @@
     "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [
-        "DNAcopy",
-        "bamsignals"
+        "DNAcopy"
     ],
     "animalcules": [],
     "annmap": [],
@@ -298,7 +297,6 @@
     "ballgown": [
         "sva"
     ],
-    "bamsignals": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -408,7 +406,6 @@
     "BiocHail": [
         "basilisk"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [
         "HDF5Array"
     ],
@@ -583,7 +580,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -817,9 +813,7 @@
         "batchelor",
         "scran"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -863,7 +857,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -925,7 +918,6 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR",
@@ -934,7 +926,6 @@
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR",
@@ -957,7 +948,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [],
     "Cogito": [],
@@ -1038,7 +1028,6 @@
     "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR",
@@ -1056,7 +1045,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -1425,9 +1413,7 @@
     ],
     "DNABarcodes": [],
     "DNAcopy": [],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -1522,7 +1508,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "GSEABase",
         "KEGGgraph",
@@ -1569,7 +1554,6 @@
     ],
     "epigraHMM": [
         "GreyListChIP",
-        "bamsignals",
         "csaw"
     ],
     "EpiMix": [
@@ -1673,7 +1657,6 @@
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
@@ -1732,7 +1715,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -2122,7 +2104,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "GOpro": [],
     "goseq": [],
     "GOSim": [
@@ -2292,9 +2273,7 @@
         "minfi",
         "siggenes"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -2383,7 +2362,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -2413,7 +2391,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "isobar": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR"
@@ -2436,7 +2413,6 @@
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "regioneR"
     ],
@@ -2489,7 +2465,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -2558,7 +2533,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -2673,7 +2647,6 @@
         "GSEABase",
         "RBGL"
     ],
-    "MesKit": [],
     "messina": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -2701,7 +2674,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -2840,7 +2812,6 @@
     ],
     "microRNA": [],
     "microSTASIS": [],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2913,7 +2884,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -3000,7 +2970,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "RBGL",
@@ -3103,7 +3072,6 @@
     "multicrispr": [
         "CRISPRseek",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "karyoploteR",
         "regioneR"
@@ -3176,7 +3144,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -3249,9 +3216,7 @@
         "vsn"
     ],
     "NormqPCR": [],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "npGSEA": [
         "GSEABase"
     ],
@@ -3500,7 +3465,6 @@
     "pmp": [
         "impute"
     ],
-    "podkat": [],
     "pogos": [
         "ontoProc"
     ],
@@ -3546,7 +3510,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -3778,7 +3741,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "HDF5Array",
         "basilisk",
@@ -3855,8 +3817,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "rfPred": [],
-    "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
@@ -3899,7 +3859,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -4197,7 +4156,6 @@
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "bamsignals",
         "enrichplot"
     ],
     "segmentSeq": [
@@ -4360,7 +4318,6 @@
         "GSEABase"
     ],
     "SiPSiC": [],
-    "sitadela": [],
     "sitePath": [],
     "sizepower": [],
     "skewr": [
@@ -4891,7 +4848,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
