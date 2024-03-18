@@ -1,12 +1,12 @@
 # Summary
 
-2015 Bioconductor sotware binaries built
+2016 Bioconductor sotware binaries built
 
-3906 Other dependency binaries built
+3907 Other dependency binaries built
 
 0 failed packages
 
-180 unclaimed packages
+179 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (180)
+## Unclaimed (179)
 | Package                 | Status    | Blocked By                                                                                 |
 |-------------------------|-----------|--------------------------------------------------------------------------------------------|
 | acde                    | Unclaimed |                                                                                            |
@@ -22,7 +22,6 @@
 | ADAMgui                 | Unclaimed | Incomplete Bioc dependencies: ADAM.                                                        |
 | affylmGUI               | Unclaimed | Incomplete Bioc dependencies: affyPLM.                                                     |
 | affyPLM                 | Unclaimed |                                                                                            |
-| AgiMicroRna             | Unclaimed |                                                                                            |
 | altcdfenvs              | Unclaimed | Incomplete Bioc dependencies: hypergraph.                                                  |
 | AneuFinder              | Unclaimed | Incomplete Bioc dependencies: bamsignals.                                                  |
 | arrayQualityMetrics     | Unclaimed | Incomplete Bioc dependencies: affyPLM.                                                     |
@@ -198,7 +197,7 @@
 | uSORT                   | Unclaimed | Incomplete Bioc dependencies: monocle.                                                     |
 | widgetTools             | Unclaimed |                                                                                            |
 
-## Bioconductor Software Binaries Built (2015)
+## Bioconductor Software Binaries Built (2016)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -230,6 +229,7 @@
 | AGDEX                        | Succeeded | [AGDEX_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/AGDEX_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | aggregateBioVar              | Succeeded | [aggregateBioVar_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/aggregateBioVar_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | agilp                        | Succeeded | [agilp_3.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/agilp_3.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| AgiMicroRna                  | Succeeded | [AgiMicroRna_2.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/AgiMicroRna_2.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | AHMassBank                   | Succeeded | [AHMassBank_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/AHMassBank_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | AIMS                         | Succeeded | [AIMS_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/AIMS_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | airpart                      | Succeeded | [airpart_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/airpart_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2217,7 +2217,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (2015)
+## Other Dependency Binaries (2016)
 | Package                                       | Status    | Tarball                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | geneRecommender                               | Succeeded | [geneRecommender_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/geneRecommender_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
@@ -5364,6 +5364,7 @@
 | scPCA                                         | Succeeded | [scPCA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/scPCA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | GSRI                                          | Succeeded | [GSRI_2.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/GSRI_2.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
 | ChIPexoQual                                   | Succeeded | [ChIPexoQual_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/ChIPexoQual_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
+| AgiMicroRna                                   | Succeeded | [AgiMicroRna_2.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/AgiMicroRna_2.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | tidydr                                        | Succeeded | [tidydr_0.0.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/tidydr_0.0.5_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | seqLogo                                       | Succeeded | [seqLogo_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/seqLogo_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | RMallow                                       | Succeeded | [RMallow_1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-14-10-57/binaries/src/contrib/RMallow_1.1_R_x86_64-pc-linux-gnu.tar.gz)                                                                                 |
