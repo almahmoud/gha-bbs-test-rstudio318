@@ -824,7 +824,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -1192,7 +1191,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1638,7 +1636,6 @@
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -2343,7 +2340,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "biovizBase",
         "karyoploteR"
     ],
@@ -3099,7 +3095,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scde": [],
     "scDesign3": [],
     "scds": [],
     "SCFA": [],
@@ -3598,13 +3593,8 @@
     "trio": [
         "siggenes"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSAR": [],
     "TSCAN": [
