@@ -3,24 +3,20 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -288,8 +284,7 @@
     ],
     "AlphaBeta": [],
     "AlpsNMR": [
-        "impute",
-        "mixOmics"
+        "impute"
     ],
     "altcdfenvs": [
         "affy",
@@ -355,7 +350,6 @@
         "biocViews",
         "graph"
     ],
-    "annotationTools": [],
     "annotatr": [
         "regioneR"
     ],
@@ -637,7 +631,6 @@
         "VariantAnnotation"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -685,7 +678,6 @@
         "genefilter",
         "metagenomeSeq",
         "mia",
-        "mixOmics",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -714,7 +706,6 @@
         "graph",
         "multtest"
     ],
-    "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
         "graph",
@@ -1911,9 +1902,7 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [
-        "annotationTools"
-    ],
+    "CoSIA": [],
     "cosmiq": [
         "BiocBaseUtils",
         "MSnbase",
@@ -2324,7 +2313,6 @@
         "DESeq2"
     ],
     "DEGseq": [],
-    "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
     ],
@@ -2378,9 +2366,7 @@
         "pcaMethods",
         "vsn"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
@@ -3122,7 +3108,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "Rhdf5lib",
         "cytolib",
@@ -4881,7 +4866,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -5154,7 +5138,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -5950,7 +5933,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -6013,7 +5995,6 @@
     "panp": [
         "affy"
     ],
-    "PANR": [],
     "PanViz": [],
     "pareg": [
         "DOSE",
@@ -6276,8 +6257,7 @@
         "ComplexHeatmap",
         "DESeq2",
         "RankProd",
-        "impute",
-        "mixOmics"
+        "impute"
     ],
     "powerTCR": [],
     "POWSC": [
@@ -6529,7 +6509,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
@@ -7081,7 +7060,6 @@
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -7271,7 +7249,6 @@
         "sparseMatrixStats"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [
@@ -7654,7 +7631,6 @@
         "biocViews",
         "graph"
     ],
-    "SigFuge": [],
     "siggenes": [
         "multtest"
     ],
@@ -7725,9 +7701,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "SIMLR": [],
     "simona": [
@@ -8170,7 +8144,6 @@
     "subSeq": [],
     "SummarizedBenchmark": [],
     "Summix": [],
-    "supersigs": [],
     "surfaltr": [
         "msa"
     ],
@@ -8339,9 +8312,7 @@
         "vsn"
     ],
     "timecourse": [],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "BiocBaseUtils",
         "DOSE",
@@ -8602,7 +8573,6 @@
         "VariantAnnotation"
     ],
     "universalmotif": [],
-    "updateObject": [],
     "uSORT": [
         "RBGL",
         "biocViews",
@@ -8630,7 +8600,6 @@
     "variancePartition": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
-        "DelayedDataFrame",
         "GDSArray",
         "SNPRelate",
         "SeqArray",
