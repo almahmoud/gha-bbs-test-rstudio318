@@ -60,7 +60,6 @@
     "airpart": [],
     "alabaster": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -71,49 +70,33 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -296,8 +279,7 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "BiocCheck": [
         "biocViews"
@@ -480,8 +462,7 @@
     "CBNplot": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "cbpManager": [],
     "ccfindR": [],
@@ -632,8 +613,7 @@
     "ClassifyR": [],
     "clevRvis": [],
     "clipper": [
-        "KEGGgraph",
-        "qpgraph"
+        "KEGGgraph"
     ],
     "cliqueMS": [
         "MSnbase",
@@ -941,7 +921,6 @@
     "DCATS": [],
     "dce": [
         "epiNEM",
-        "graphite",
         "mnem"
     ],
     "ddPCRclust": [
@@ -1084,7 +1063,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe",
         "zenith"
@@ -1141,7 +1119,6 @@
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
@@ -1608,7 +1585,6 @@
     "graper": [],
     "GraphAlignment": [],
     "GraphAT": [],
-    "graphite": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -1619,7 +1595,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
@@ -1737,7 +1712,6 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "graphite",
         "impute",
         "minfi",
         "siggenes"
@@ -2199,9 +2173,7 @@
     ],
     "MOFA2": [],
     "MOGAMUN": [],
-    "mogsa": [
-        "graphite"
-    ],
+    "mogsa": [],
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
@@ -2338,9 +2310,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "multiGSEA": [
-        "graphite"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
@@ -2622,7 +2592,6 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "graphite",
         "impute"
     ],
     "PING": [
@@ -2768,7 +2737,6 @@
         "impute"
     ],
     "QFeatures": [],
-    "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -2851,8 +2819,7 @@
     ],
     "ReactomePA": [
         "DOSE",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "REBET": [
         "ASSET"
@@ -3159,7 +3126,6 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "graphite",
         "meshr",
         "schex"
     ],
@@ -3407,9 +3373,7 @@
         "biovizBase"
     ],
     "ssize": [],
-    "sSNAPPY": [
-        "graphite"
-    ],
+    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3421,9 +3385,7 @@
         "cellHTS2",
         "vsn"
     ],
-    "StarBioTrek": [
-        "graphite"
-    ],
+    "StarBioTrek": [],
     "STATegRa": [],
     "Statial": [
         "SpatialExperiment"
@@ -3726,7 +3688,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
