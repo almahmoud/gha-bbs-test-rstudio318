@@ -54,7 +54,6 @@
     "adSplit": [
         "multtest"
     ],
-    "adverSCarial": [],
     "AffiXcan": [
         "BiocBaseUtils",
         "MultiAssayExperiment"
@@ -1442,7 +1441,6 @@
         "oligoClasses"
     ],
     "chopsticks": [],
-    "chromDraw": [],
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
@@ -1959,7 +1957,6 @@
         "oligoClasses",
         "sva"
     ],
-    "CSAR": [],
     "csaw": [],
     "csdR": [
         "impute"
@@ -2167,7 +2164,6 @@
         "mnem",
         "multtest"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "Rhdf5lib",
         "cytolib",
@@ -2307,7 +2303,6 @@
         "vsn"
     ],
     "DepecheR": [],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2510,7 +2505,6 @@
         "pathview",
         "safe",
         "sparseMatrixStats",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -2547,7 +2541,6 @@
         "sparseMatrixStats"
     ],
     "dStruct": [],
-    "Dune": [],
     "dupRadar": [],
     "dyebias": [],
     "DynDoc": [],
@@ -3845,7 +3838,6 @@
         "graph"
     ],
     "iasva": [],
-    "iBMQ": [],
     "icetea": [
         "DESeq2",
         "ShortRead",
@@ -3872,7 +3864,6 @@
     "iCNV": [
         "CODEX"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "Category",
@@ -4100,7 +4091,6 @@
     "iterativeBMAsurv": [],
     "IVAS": [],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "VariantAnnotation",
         "bamsignals",
@@ -4529,7 +4519,6 @@
     "metabolomicsWorkbenchR": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "rols",
         "struct"
     ],
     "metabomxtr": [
@@ -4873,9 +4862,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [
         "BiocBaseUtils",
         "MultiAssayExperiment"
@@ -5116,7 +5103,6 @@
     ],
     "MouseFM": [],
     "MPFE": [],
-    "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
@@ -5367,8 +5353,7 @@
         "beachmat",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "variancePartition"
+        "sparseMatrixStats"
     ],
     "muscle": [],
     "musicatk": [
@@ -6317,7 +6302,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "genefilter",
         "sva"
@@ -6539,7 +6523,6 @@
         "Rhdf5lib",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "TOAST",
         "beachmat",
         "bluster",
         "fgsea",
@@ -6798,7 +6781,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -6826,7 +6808,6 @@
     ],
     "roar": [],
     "RolDE": [],
-    "rols": [],
     "ROntoTools": [
         "KEGGgraph",
         "Rgraphviz",
@@ -7893,12 +7874,9 @@
         "RBGL",
         "graph"
     ],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "Structstrings": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -8119,7 +8097,6 @@
         "sparseMatrixStats"
     ],
     "TnT": [],
-    "TOAST": [],
     "tomoseqr": [],
     "TOP": [
         "BiocBaseUtils",
@@ -8343,7 +8320,6 @@
         "oligoClasses"
     ],
     "VarCon": [],
-    "variancePartition": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray",
@@ -8560,8 +8536,7 @@
         "graph",
         "graphite",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zinbwave": [
         "SingleCellExperiment",
