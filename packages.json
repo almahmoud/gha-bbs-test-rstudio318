@@ -110,7 +110,6 @@
     "AneuFinder": [
         "DNAcopy"
     ],
-    "animalcules": [],
     "annmap": [],
     "AnnotationHubData": [
         "BiocCheck",
@@ -182,7 +181,6 @@
         "GOstats"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BADER": [],
     "BadRegionFinder": [],
     "ballgown": [
@@ -434,7 +432,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "CelliD": [],
     "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
@@ -1478,7 +1475,6 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "hermes": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1880,7 +1876,6 @@
     "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM"
@@ -2125,7 +2120,6 @@
         "epiNEM",
         "mnem"
     ],
-    "NetActivity": [],
     "netbiov": [],
     "netboost": [
         "impute"
@@ -2165,7 +2159,6 @@
     "nullranges": [],
     "NuPoP": [],
     "occugene": [],
-    "OCplus": [],
     "octad": [
         "EDASeq",
         "GSVA",
