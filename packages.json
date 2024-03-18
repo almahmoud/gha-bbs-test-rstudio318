@@ -290,7 +290,6 @@
         "dmrseq",
         "impute"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -1461,7 +1460,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
@@ -1870,7 +1868,6 @@
         "methylumi",
         "minfi"
     ],
-    "missRows": [],
     "mistyR": [],
     "mitoClone2": [
         "deepSNV"
@@ -2189,7 +2186,6 @@
     ],
     "PanViz": [],
     "pareg": [],
-    "partCNV": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
