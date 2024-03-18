@@ -1,6 +1,5 @@
 {
     "a4": [],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "DNAcopy",
@@ -380,7 +379,6 @@
         "PROMISE"
     ],
     "ccrepe": [],
-    "CDI": [],
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
@@ -995,7 +993,6 @@
         "GSVA"
     ],
     "escheR": [],
-    "evaluomeR": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1317,9 +1314,7 @@
     "GRaNIE": [],
     "graper": [],
     "GraphAlignment": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [],
     "GSALightning": [],
     "GSEABenchmarkeR": [
@@ -1449,7 +1444,6 @@
         "FGNet"
     ],
     "IONiseR": [],
-    "iPAC": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1890,7 +1884,6 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "MuData": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
@@ -2235,8 +2228,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles"
@@ -2660,9 +2652,7 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
