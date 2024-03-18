@@ -139,7 +139,6 @@
         "biocViews",
         "graph"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1004,7 +1003,6 @@
     ],
     "BridgeDbR": [],
     "BrowserViz": [],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -1773,7 +1771,6 @@
         "Spectra"
     ],
     "compSPOT": [],
-    "concordexR": [],
     "condiments": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1810,7 +1807,6 @@
         "pcaMethods"
     ],
     "consensusOV": [
-        "AIMS",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSEABase",
@@ -2937,7 +2933,6 @@
         "biovizBase",
         "csaw"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "drawProteins",
@@ -3391,7 +3386,6 @@
     "GeneExpressionSignature": [],
     "genefilter": [],
     "genefu": [
-        "AIMS",
         "impute"
     ],
     "GeneGA": [],
@@ -3434,7 +3428,6 @@
     ],
     "GenomAutomorphism": [],
     "genomeIntervals": [],
-    "GenomicAlignments": [],
     "GenomicDataCommons": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
@@ -3782,9 +3775,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "Harman": [],
     "HarmonizR": [
         "genefilter",
@@ -4321,7 +4312,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz",
@@ -5064,7 +5054,6 @@
         "graph",
         "impute"
     ],
-    "miRNAtap": [],
     "missMethyl": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -5191,9 +5180,7 @@
         "ggtree"
     ],
     "mosaics": [],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -5989,7 +5976,6 @@
         "sparseMatrixStats"
     ],
     "PDATK": [
-        "AIMS",
         "BiocBaseUtils",
         "BumpyMatrix",
         "ConsensusClusterPlus",
@@ -6852,7 +6838,6 @@
         "graph",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
@@ -7016,10 +7001,8 @@
     "Rtreemix": [
         "graph"
     ],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [],
     "RUVcorr": [],
@@ -7571,7 +7554,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "AIMS",
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -7594,7 +7576,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "sigsquared": [],
     "SIM": [
         "globaltest"
     ],
@@ -7768,7 +7749,6 @@
         "tilingArray",
         "vsn"
     ],
-    "snapcount": [],
     "snifter": [
         "basilisk",
         "basilisk.utils"
@@ -7921,11 +7901,8 @@
         "SpatialExperiment",
         "genefilter"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spiky": [],
-    "spkTools": [],
     "splatter": [
         "DelayedMatrixStats",
         "SingleCellExperiment",
@@ -8019,8 +7996,7 @@
     "StarBioTrek": [
         "SpidermiR",
         "graph",
-        "graphite",
-        "miRNAtap"
+        "graphite"
     ],
     "STATegRa": [
         "affy"
@@ -8055,7 +8031,6 @@
         "VariantAnnotation"
     ],
     "SubCellBarCode": [],
-    "subSeq": [],
     "SummarizedBenchmark": [],
     "Summix": [],
     "surfaltr": [
@@ -8191,7 +8166,6 @@
         "rhdf5client"
     ],
     "TEQC": [],
-    "ternarynet": [],
     "terraTCGAdata": [
         "BiocBaseUtils",
         "GenomicDataCommons",
@@ -8403,7 +8377,6 @@
         "multtest",
         "siggenes"
     ],
-    "triplex": [],
     "tRNA": [
         "Structstrings"
     ],
