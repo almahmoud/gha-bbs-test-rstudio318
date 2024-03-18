@@ -137,9 +137,7 @@
     "AnVILBilling": [],
     "APAlyzer": [],
     "apComplex": [],
-    "APL": [
-        "topGO"
-    ],
+    "APL": [],
     "appreci8R": [
         "GenomicScores",
         "OrganismDbi"
@@ -246,16 +244,13 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "metagenomeSeq",
         "phyloseq",
         "zinbwave"
     ],
     "BgeeCall": [
         "tximport"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "bgx": [],
     "BicARE": [],
     "BiGGR": [
@@ -485,9 +480,7 @@
         "vsn"
     ],
     "CelliD": [],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
     "CellNOptR": [],
@@ -690,7 +683,6 @@
         "bsseq"
     ],
     "CoGAPS": [],
-    "cogeqc": [],
     "cola": [
         "impute"
     ],
@@ -709,8 +701,7 @@
     "compEpiTools": [
         "Gviz",
         "biovizBase",
-        "methylPipe",
-        "topGO"
+        "methylPipe"
     ],
     "CompoundDb": [
         "Spectra"
@@ -739,9 +730,7 @@
         "genefu",
         "impute"
     ],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "DNAcopy",
         "GenomicFiles"
@@ -1092,8 +1081,7 @@
         "GSVA",
         "KEGGgraph",
         "pathview",
-        "safe",
-        "topGO"
+        "safe"
     ],
     "ELMER": [
         "Gviz",
@@ -1523,7 +1511,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1555,9 +1542,7 @@
         "maftools"
     ],
     "GOpro": [],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -1568,9 +1553,7 @@
     ],
     "GOTHiC": [],
     "GPA": [],
-    "GRaNIE": [
-        "topGO"
-    ],
+    "GRaNIE": [],
     "graper": [],
     "GraphAlignment": [],
     "GraphPAC": [
@@ -1671,8 +1654,7 @@
     "ideal": [
         "Category",
         "GOstats",
-        "pcaExplorer",
-        "topGO"
+        "pcaExplorer"
     ],
     "igvR": [],
     "ILoReg": [],
@@ -1842,13 +1824,10 @@
     "LymphoSeq": [],
     "M3C": [],
     "M3Drop": [],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "Maaslin2",
-        "impute",
-        "metagenomeSeq"
+        "impute"
     ],
     "MACSr": [],
     "MADSEQ": [],
@@ -1913,9 +1892,7 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -1980,7 +1957,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2069,16 +2045,12 @@
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "metagenomeSeq",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "metagenomeSeq"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2137,13 +2109,10 @@
     "MLInterfaces": [],
     "MLSeq": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -2426,9 +2395,7 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicade4": [],
     "omicplotR": [
         "ALDEx2"
@@ -2515,8 +2482,7 @@
     "pathwayPCA": [],
     "pcaExplorer": [
         "Category",
-        "GOstats",
-        "topGO"
+        "GOstats"
     ],
     "PCAtools": [],
     "PDATK": [
@@ -2562,8 +2528,7 @@
         "Category"
     ],
     "PhyloProfile": [
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "phyloseq": [],
     "Pi": [],
@@ -2685,8 +2650,7 @@
         "QFeatures"
     ],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [
         "MSnbase",
@@ -2897,8 +2861,7 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "RJMCMCNucleosomes": [],
     "RLassoCox": [],
@@ -3476,7 +3439,6 @@
         "mzID",
         "vsn"
     ],
-    "topGO": [],
     "ToxicoGx": [
         "CoreGx",
         "piano"
@@ -3491,9 +3453,7 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
@@ -3502,8 +3462,7 @@
     ],
     "tRanslatome": [
         "RankProd",
-        "anota",
-        "topGO"
+        "anota"
     ],
     "transomics2cytoscape": [],
     "traviz": [
@@ -3589,9 +3548,7 @@
     "veloviz": [],
     "VennDetail": [],
     "vidger": [],
-    "ViSEAGO": [
-        "topGO"
-    ],
+    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialExperiment",
