@@ -28,10 +28,8 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Glimma",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
@@ -49,18 +47,14 @@
         "gcrma"
     ],
     "AffyRNADegradation": [],
-    "AGDEX": [
-        "GSEABase"
-    ],
+    "AGDEX": [],
     "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Glimma",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "VariantAnnotation",
         "affycoretools",
@@ -72,7 +66,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi",
-        "RBGL",
         "biocViews"
     ],
     "airpart": [],
@@ -168,7 +161,6 @@
     "AnnotationHubData": [
         "BiocCheck",
         "OrganismDbi",
-        "RBGL",
         "biocViews"
     ],
     "annotatr": [],
@@ -179,16 +171,13 @@
     "APAlyzer": [
         "VariantAnnotation"
     ],
-    "apComplex": [
-        "RBGL"
-    ],
+    "apComplex": [],
     "APL": [
         "topGO"
     ],
     "appreci8R": [
         "GenomicScores",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation"
     ],
     "aroma.light": [],
@@ -228,7 +217,6 @@
         "CoGAPS",
         "GeneOverlap",
         "OrganismDbi",
-        "RBGL",
         "TFBSTools",
         "chromVAR",
         "motifmatchr"
@@ -236,7 +224,6 @@
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
-        "RBGL",
         "TFBSTools",
         "motifStack"
     ],
@@ -250,13 +237,9 @@
     ],
     "attract": [
         "Category",
-        "GOstats",
-        "GSEABase",
-        "RBGL"
+        "GOstats"
     ],
-    "AUCell": [
-        "GSEABase"
-    ],
+    "AUCell": [],
     "autonomics": [],
     "BADER": [],
     "BadRegionFinder": [
@@ -302,7 +285,6 @@
     "BeadDataPackR": [],
     "BEARscc": [],
     "BEAT": [],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -321,9 +303,7 @@
     "bgx": [
         "gcrma"
     ],
-    "BicARE": [
-        "GSEABase"
-    ],
+    "BicARE": [],
     "BiGGR": [
         "hyperdraw",
         "rsbml"
@@ -350,25 +330,19 @@
         "graphite"
     ],
     "BiocCheck": [
-        "RBGL",
         "biocViews"
     ],
     "BiocFHIR": [],
     "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BioCor": [
-        "GSEABase"
-    ],
+    "BioCor": [],
     "BiocPkgTools": [
-        "RBGL",
         "biocViews"
     ],
     "BiocSklearn": [],
     "biocthis": [],
-    "biocViews": [
-        "RBGL"
-    ],
+    "biocViews": [],
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
@@ -393,9 +367,7 @@
         "impute",
         "sva"
     ],
-    "BioNet": [
-        "RBGL"
-    ],
+    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -415,7 +387,6 @@
         "DNAcopy",
         "OrganismDbi",
         "QDNAseq",
-        "RBGL",
         "VariantAnnotation",
         "annotatr",
         "bsseq",
@@ -440,7 +411,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "RBGL",
         "epiNEM",
         "mnem",
         "sva",
@@ -448,7 +418,6 @@
     ],
     "BOBaFIT": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -460,7 +429,6 @@
     "brainflowprobes": [
         "GenomicFiles",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "derfinder",
@@ -480,7 +448,6 @@
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -495,7 +462,6 @@
     "cageminer": [
         "BioNERO",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio",
@@ -514,7 +480,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "impute",
         "mzID",
@@ -523,8 +488,6 @@
     ],
     "canceR": [
         "Category",
-        "GSEABase",
-        "RBGL",
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
@@ -539,18 +502,12 @@
     "casper": [],
     "CATALYST": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
-    "Category": [
-        "GSEABase",
-        "RBGL"
-    ],
+    "Category": [],
     "categoryCompare": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "RCy3"
     ],
     "CausalR": [],
@@ -578,7 +535,6 @@
         "SIMLR"
     ],
     "CCPROMISE": [
-        "GSEABase",
         "PROMISE"
     ],
     "ccrepe": [],
@@ -593,8 +549,6 @@
     "CellBench": [],
     "cellHTS2": [
         "Category",
-        "GSEABase",
-        "RBGL",
         "vsn"
     ],
     "CelliD": [],
@@ -603,9 +557,7 @@
     ],
     "cellmigRation": [],
     "CellMixS": [],
-    "CellNOptR": [
-        "RBGL"
-    ],
+    "CellNOptR": [],
     "CellTrails": [],
     "cellxgenedp": [],
     "CEMiTool": [
@@ -616,13 +568,10 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
-    "Cepo": [
-        "GSEABase"
-    ],
+    "Cepo": [],
     "CeTF": [
         "DOSE",
         "RCy3",
@@ -684,9 +633,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "RBGL"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "chipseq",
@@ -714,12 +661,9 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "CHRONOS": [
-        "RBGL"
-    ],
+    "CHRONOS": [],
     "cicero": [
         "Gviz",
-        "RBGL",
         "VariantAnnotation",
         "biocViews",
         "biovizBase",
@@ -776,7 +720,6 @@
     "clustifyr": [],
     "ClustIRR": [],
     "cmapR": [
-        "cytolib",
         "flowCore"
     ],
     "cn.farms": [
@@ -787,20 +730,16 @@
         "DNAcopy"
     ],
     "CNORdt": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNORfeeder": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNORfuzzy": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNORode": [
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "CNTools": [],
     "CNVfilteR": [
@@ -869,7 +808,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowMeans",
@@ -883,7 +821,6 @@
         "aroma.light"
     ],
     "consensusOV": [
-        "GSEABase",
         "GSVA",
         "genefu",
         "impute"
@@ -928,7 +865,6 @@
     ],
     "cosmosR": [
         "CARNIVAL",
-        "GSEABase",
         "decoupleR"
     ],
     "COSNet": [],
@@ -938,9 +874,7 @@
     "countsimQC": [],
     "CoverageView": [],
     "covRNA": [],
-    "cpvSNP": [
-        "GSEABase"
-    ],
+    "cpvSNP": [],
     "CRImage": [
         "DNAcopy",
         "aCGH"
@@ -995,7 +929,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowDensity",
@@ -1007,36 +940,28 @@
         "tkWidgets"
     ],
     "cydar": [
-        "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
     "cytofQC": [
         "CATALYST",
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
-    "cytolib": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
     "cytoMEM": [
-        "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "RBGL",
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -1047,8 +972,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "RBGL",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1058,8 +981,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "RBGL",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1098,13 +1019,11 @@
     ],
     "DCATS": [],
     "dce": [
-        "RBGL",
         "epiNEM",
         "graphite",
         "mnem"
     ],
     "ddPCRclust": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowPeaks",
@@ -1144,7 +1063,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RBGL",
         "RCy3"
     ],
     "DEGreport": [],
@@ -1176,23 +1094,19 @@
     "derfinderPlot": [
         "GenomicFiles",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "derfinder",
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "RBGL"
+        "ChIPpeakAnno"
     ],
     "DESpace": [
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEsubs": [
-        "RBGL"
-    ],
+    "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
         "impute",
@@ -1208,7 +1122,6 @@
     ],
     "diffcyt": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "DifferentialRegulation": [
@@ -1261,7 +1174,6 @@
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
@@ -1300,7 +1212,6 @@
         "impute"
     ],
     "EGSEA": [
-        "GSEABase",
         "GSVA",
         "KEGGgraph",
         "pathview",
@@ -1324,7 +1235,6 @@
         "siggenes"
     ],
     "EnrichmentBrowser": [
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
@@ -1372,14 +1282,12 @@
     "epimutacions": [
         "Gviz",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "minfi",
         "siggenes"
     ],
     "epiNEM": [
-        "RBGL",
         "mnem"
     ],
     "EpiTxDb": [
@@ -1388,25 +1296,21 @@
     ],
     "epivizr": [
         "OrganismDbi",
-        "RBGL",
         "epivizrData",
         "epivizrServer"
     ],
     "epivizrChart": [
         "OrganismDbi",
-        "RBGL",
         "epivizrData",
         "epivizrServer"
     ],
     "epivizrData": [
         "OrganismDbi",
-        "RBGL",
         "epivizrServer"
     ],
     "epivizrServer": [],
     "epivizrStandalone": [
         "OrganismDbi",
-        "RBGL",
         "epivizr",
         "epivizrData",
         "epivizrServer"
@@ -1414,7 +1318,6 @@
     "erma": [
         "GenomicFiles",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation"
     ],
     "ERSSA": [],
@@ -1428,7 +1331,6 @@
         "pipeFrame"
     ],
     "escape": [
-        "GSEABase",
         "GSVA",
         "UCell"
     ],
@@ -1438,7 +1340,6 @@
     "esetVis": [],
     "evaluomeR": [],
     "EventPointer": [
-        "RBGL",
         "tximport"
     ],
     "EWCE": [],
@@ -1448,7 +1349,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi",
-        "RBGL",
         "biocViews"
     ],
     "ExperimentSubset": [
@@ -1496,9 +1396,7 @@
         "minfi",
         "siggenes"
     ],
-    "fgga": [
-        "RBGL"
-    ],
+    "fgga": [],
     "FGNet": [],
     "FindIT2": [],
     "fishpond": [],
@@ -1507,7 +1405,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "impute",
         "mzID",
@@ -1517,117 +1414,90 @@
     "FLAMES": [
         "DropletUtils",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio",
         "scran"
     ],
     "flowAI": [
-        "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowCHIC": [
-        "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "cytolib",
         "flowCore"
     ],
-    "flowCore": [
-        "cytolib"
-    ],
+    "flowCore": [],
     "flowCut": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowCyBar": [],
     "flowDensity": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [
-        "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPeaks": [],
     "flowPloidy": [
-        "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
-        "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [
-        "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "flowStats",
         "flowViz",
@@ -1635,8 +1505,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "ncdfFlow"
     ],
@@ -1668,14 +1536,12 @@
         "sva"
     ],
     "GateFinder": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "gatom": [
-        "BioNet",
-        "RBGL"
+        "BioNet"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -1715,7 +1581,6 @@
     ],
     "gDRstyle": [
         "BiocCheck",
-        "RBGL",
         "biocViews"
     ],
     "gDRutils": [],
@@ -1759,9 +1624,7 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "GenomicInteractionNodes": [
-        "RBGL"
-    ],
+    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
@@ -1769,7 +1632,6 @@
     ],
     "GenomicOZone": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -1799,13 +1661,9 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gep2pep": [
-        "GSEABase"
-    ],
+    "gep2pep": [],
     "gespeR": [
         "Category",
-        "GSEABase",
-        "RBGL",
         "cellHTS2",
         "vsn"
     ],
@@ -1814,13 +1672,10 @@
     "gg4way": [],
     "ggbio": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase"
     ],
     "ggcyto": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -1838,17 +1693,13 @@
     "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [],
-    "GISPA": [
-        "GSEABase"
-    ],
+    "GISPA": [],
     "GLAD": [],
     "GladiaTOX": [],
     "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
-    "GlobalAncova": [
-        "GSEABase"
-    ],
+    "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
@@ -1856,8 +1707,6 @@
     "GmicR": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "impute"
     ],
     "GNOSIS": [
@@ -1870,7 +1719,6 @@
     ],
     "GOpro": [],
     "GOSim": [
-        "RBGL",
         "topGO"
     ],
     "goSorensen": [
@@ -1879,9 +1727,7 @@
         "enrichplot"
     ],
     "GOstats": [
-        "Category",
-        "GSEABase",
-        "RBGL"
+        "Category"
     ],
     "GOTHiC": [],
     "GPA": [],
@@ -1898,10 +1744,8 @@
     "GRENITS": [],
     "GSALightning": [],
     "GSCA": [],
-    "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
@@ -1913,19 +1757,13 @@
     ],
     "GSgalgoR": [],
     "GSReg": [
-        "OrganismDbi",
-        "RBGL"
+        "OrganismDbi"
     ],
-    "GSRI": [
-        "GSEABase"
-    ],
-    "GSVA": [
-        "GSEABase"
-    ],
+    "GSRI": [],
+    "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "RBGL"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "VariantAnnotation",
@@ -2022,8 +1860,6 @@
     "ideal": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "pcaExplorer",
         "topGO"
     ],
@@ -2037,14 +1873,11 @@
         "cytomapper"
     ],
     "ImmuneSpaceR": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "cytolib",
         "flowCore"
     ],
     "IMPCdata": [],
@@ -2053,7 +1886,6 @@
         "DOSE",
         "OrganismDbi",
         "Pigengene",
-        "RBGL",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -2064,7 +1896,6 @@
     ],
     "infercnv": [],
     "infinityFlow": [
-        "cytolib",
         "flowCore"
     ],
     "InPAS": [],
@@ -2073,15 +1904,12 @@
     "InTAD": [],
     "intansv": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
     ],
     "interactiveDisplay": [
-        "Category",
-        "GSEABase",
-        "RBGL"
+        "Category"
     ],
     "IntEREst": [
         "DEXSeq",
@@ -2098,7 +1926,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "impute",
         "mzID",
@@ -2195,7 +2022,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "impute",
         "mzID",
@@ -2251,7 +2077,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "impute",
         "mzID",
@@ -2278,9 +2103,7 @@
     ],
     "MassArray": [],
     "MAST": [],
-    "mastR": [
-        "GSEABase"
-    ],
+    "mastR": [],
     "MatrixQCvis": [
         "impute",
         "vsn"
@@ -2308,7 +2131,6 @@
     "mCSEA": [
         "Gviz",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -2340,8 +2162,7 @@
     ],
     "MEIGOR": [
         "CNORode",
-        "CellNOptR",
-        "RBGL"
+        "CellNOptR"
     ],
     "memes": [],
     "Mergeomics": [],
@@ -2350,9 +2171,7 @@
         "enrichplot"
     ],
     "meshr": [
-        "Category",
-        "GSEABase",
-        "RBGL"
+        "Category"
     ],
     "messina": [],
     "MetaboAnnotation": [
@@ -2370,7 +2189,6 @@
     "metaCCA": [],
     "MetaCyto": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "metagenomeSeq": [],
@@ -2379,7 +2197,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "impute",
         "mzID",
@@ -2424,7 +2241,6 @@
         "BiocCheck",
         "ExperimentHubData",
         "OrganismDbi",
-        "RBGL",
         "biocViews",
         "impute",
         "minfi",
@@ -2502,8 +2318,6 @@
     "MineICA": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "lumi",
         "methylumi",
         "minfi",
@@ -2528,8 +2342,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "TCGAbiolinks",
         "impute"
     ],
@@ -2572,7 +2384,6 @@
         "RCy3"
     ],
     "mogsa": [
-        "GSEABase",
         "graphite"
     ],
     "MoleculeExperiment": [
@@ -2583,7 +2394,6 @@
         "TFBSTools"
     ],
     "monocle": [
-        "RBGL",
         "biocViews"
     ],
     "Moonlight2R": [
@@ -2632,7 +2442,6 @@
     ],
     "msgbsR": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
@@ -2761,7 +2570,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
-        "RBGL",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
@@ -2774,7 +2582,6 @@
     "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
-        "cytolib",
         "flowCore"
     ],
     "ncGTW": [
@@ -2789,7 +2596,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RBGL",
         "RCy3"
     ],
     "ndexr": [
@@ -2798,7 +2604,6 @@
     "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
-        "RBGL",
         "epiNEM",
         "mnem"
     ],
@@ -2825,8 +2630,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "RCy3",
         "minfi",
         "quantro",
@@ -2848,9 +2651,7 @@
         "vsn"
     ],
     "normr": [],
-    "npGSEA": [
-        "GSEABase"
-    ],
+    "npGSEA": [],
     "NTW": [],
     "nucleR": [],
     "nullranges": [],
@@ -2859,7 +2660,6 @@
     "OCplus": [],
     "octad": [
         "EDASeq",
-        "GSEABase",
         "GSVA",
         "RUVSeq",
         "aroma.light"
@@ -2900,8 +2700,6 @@
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
-        "RBGL",
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -2913,18 +2711,14 @@
         "openPrimeR"
     ],
     "oppar": [
-        "GSEABase",
         "GSVA"
     ],
     "optimalFlow": [
-        "cytolib",
         "flowCore",
         "flowMeans"
     ],
     "ORFik": [],
-    "OrganismDbi": [
-        "RBGL"
-    ],
+    "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
     "OUTRIDER": [],
@@ -2952,7 +2746,6 @@
     ],
     "PanomiR": [
         "DOSE",
-        "GSEABase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2976,8 +2769,6 @@
     "pcaExplorer": [
         "Category",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "topGO"
     ],
     "PCAtools": [],
@@ -2989,8 +2780,6 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "RBGL",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -3014,7 +2803,6 @@
         "piano"
     ],
     "phemd": [
-        "RBGL",
         "biocViews",
         "destiny",
         "monocle"
@@ -3025,11 +2813,8 @@
         "ropls"
     ],
     "phenoTest": [
-        "Category",
-        "GSEABase",
-        "RBGL"
+        "Category"
     ],
-    "PhenStat": [],
     "philr": [],
     "PhosR": [],
     "PhyloProfile": [
@@ -3061,9 +2846,7 @@
     "plier": [],
     "PloGO2": [
         "Category",
-        "GOstats",
-        "GSEABase",
-        "RBGL"
+        "GOstats"
     ],
     "plotgardener": [],
     "plotGrouper": [],
@@ -3132,9 +2915,7 @@
         "pRoloc",
         "vsn"
     ],
-    "PROMISE": [
-        "GSEABase"
-    ],
+    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
@@ -3231,7 +3012,6 @@
     ],
     "R3CPET": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3267,7 +3047,6 @@
     "Rbec": [
         "dada2"
     ],
-    "RBGL": [],
     "RBioinf": [],
     "rBiopaxParser": [],
     "Rbwa": [],
@@ -3317,8 +3096,7 @@
         "siggenes"
     ],
     "REDseq": [
-        "ChIPpeakAnno",
-        "RBGL"
+        "ChIPpeakAnno"
     ],
     "regionalpcs": [
         "PCAtools"
@@ -3353,9 +3131,7 @@
     "ReportingTools": [
         "Category",
         "GOstats",
-        "GSEABase",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3382,7 +3158,6 @@
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3402,7 +3177,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "RBGL",
         "Spectra",
         "biocViews",
         "impute",
@@ -3435,8 +3209,6 @@
     "rnaEditr": [],
     "RNAinteract": [
         "Category",
-        "GSEABase",
-        "RBGL",
         "cellHTS2",
         "vsn"
     ],
@@ -3544,12 +3316,10 @@
         "DropletUtils"
     ],
     "scClassify": [
-        "Cepo",
-        "GSEABase"
+        "Cepo"
     ],
     "sccomp": [],
     "scDataviz": [
-        "cytolib",
         "flowCore"
     ],
     "scDblFinder": [
@@ -3566,7 +3336,6 @@
     "scFeatureFilter": [],
     "scFeatures": [
         "AUCell",
-        "GSEABase",
         "GSVA",
         "SingleCellSignalR",
         "scran"
@@ -3578,7 +3347,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "cytolib",
         "flowCore"
     ],
     "scmap": [],
@@ -3599,7 +3367,6 @@
         "aroma.light"
     ],
     "Sconify": [
-        "cytolib",
         "flowCore"
     ],
     "SCOPE": [
@@ -3626,7 +3393,6 @@
     ],
     "scruff": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3636,8 +3402,6 @@
         "Category",
         "DOSE",
         "GOstats",
-        "GSEABase",
-        "RBGL",
         "ReactomePA",
         "enrichplot",
         "graphite",
@@ -3645,12 +3409,10 @@
         "schex"
     ],
     "scTGIF": [
-        "GSEABase",
         "schex"
     ],
     "scTreeViz": [
         "OrganismDbi",
-        "RBGL",
         "epivizr",
         "epivizrData",
         "epivizrServer",
@@ -3704,9 +3466,7 @@
     ],
     "SGCP": [
         "Category",
-        "GOstats",
-        "GSEABase",
-        "RBGL"
+        "GOstats"
     ],
     "shinyepico": [
         "minfi",
@@ -3723,13 +3483,11 @@
         "MLInterfaces"
     ],
     "sigFeature": [
-        "RBGL",
         "biocViews"
     ],
     "siggenes": [],
     "signatureSearch": [
         "DOSE",
-        "GSEABase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -3737,7 +3495,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "GSEABase",
         "GSVA",
         "SpatialExperiment",
         "consensusOV",
@@ -3768,7 +3525,6 @@
     ],
     "singleCellTK": [
         "DropletUtils",
-        "GSEABase",
         "GSVA",
         "M3Drop",
         "MAST",
@@ -3793,9 +3549,7 @@
         "VariantAnnotation"
     ],
     "SingleR": [],
-    "singscore": [
-        "GSEABase"
-    ],
+    "singscore": [],
     "SiPSiC": [],
     "sizepower": [],
     "skewr": [
@@ -3805,9 +3559,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slalom": [
-        "GSEABase"
-    ],
+    "slalom": [],
     "slingshot": [
         "TrajectoryUtils"
     ],
@@ -3815,8 +3567,7 @@
     "SMAD": [],
     "SMAP": [],
     "SMITE": [
-        "BioNet",
-        "RBGL"
+        "BioNet"
     ],
     "snapCGH": [
         "DNAcopy",
@@ -3839,7 +3590,6 @@
     ],
     "SomaticSignatures": [
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3855,9 +3605,7 @@
         "DropletUtils",
         "scran"
     ],
-    "sparrow": [
-        "GSEABase"
-    ],
+    "sparrow": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3903,9 +3651,7 @@
     "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
-    "splineTimeR": [
-        "GSEABase"
-    ],
+    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
@@ -3936,8 +3682,6 @@
     ],
     "staRank": [
         "Category",
-        "GSEABase",
-        "RBGL",
         "cellHTS2",
         "vsn"
     ],
@@ -3955,9 +3699,7 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "Streamer": [
-        "RBGL"
-    ],
+    "Streamer": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
@@ -4001,7 +3743,6 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSEABase",
         "GSVA",
         "singscore",
         "sva"
@@ -4033,9 +3774,7 @@
     "TFHAZ": [
         "ORFik"
     ],
-    "TFutils": [
-        "GSEABase"
-    ],
+    "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [
         "vsn"
@@ -4054,9 +3793,7 @@
         "aroma.light",
         "impute"
     ],
-    "TissueEnrich": [
-        "GSEABase"
-    ],
+    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
@@ -4067,7 +3804,6 @@
         "VariantAnnotation"
     ],
     "TNBC.CMS": [
-        "GSEABase",
         "GSVA"
     ],
     "TOP": [
@@ -4119,7 +3855,6 @@
     ],
     "treekoR": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -4163,7 +3898,6 @@
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -4175,7 +3909,6 @@
         "VariantAnnotation"
     ],
     "uSORT": [
-        "RBGL",
         "biocViews",
         "monocle"
     ],
@@ -4196,7 +3929,6 @@
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
-        "RBGL",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -4222,9 +3954,7 @@
     "ViSEAGO": [
         "topGO"
     ],
-    "vissE": [
-        "GSEABase"
-    ],
+    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
@@ -4238,7 +3968,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "RBGL",
         "systemPipeR"
     ],
     "waddR": [],
@@ -4280,7 +4009,6 @@
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
-        "RBGL",
         "SomaticSignatures",
         "VariantAnnotation",
         "biovizBase",
@@ -4294,7 +4022,6 @@
     "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
