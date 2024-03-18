@@ -14,7 +14,6 @@
         "tilingArray"
     ],
     "adductomicsR": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -1633,7 +1632,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEDIPS": [
         "DNAcopy"
     ],
@@ -2267,7 +2265,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -2277,7 +2274,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "rain": [],
     "RandomWalkRestartMH": [],
     "RankProd": [],
     "RareVariantVis": [
@@ -2926,7 +2922,6 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
