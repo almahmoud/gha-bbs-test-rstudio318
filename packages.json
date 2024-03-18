@@ -1045,8 +1045,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "evaluomeR": [],
@@ -2082,7 +2081,6 @@
         "yarn"
     ],
     "NeuCA": [],
-    "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
@@ -2654,7 +2652,6 @@
     "scoreInvHap": [],
     "scp": [],
     "scPipe": [],
-    "scReClassify": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -2666,7 +2663,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "Category",
         "GOstats",
@@ -3012,7 +3008,6 @@
         "tximport"
     ],
     "tximport": [],
-    "UCell": [],
     "Ularcirc": [
         "plotgardener"
     ],
