@@ -4,15 +4,12 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "affylmGUI": [
         "affyPLM"
     ],
     "affyPLM": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "altcdfenvs": [
@@ -33,7 +30,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "attract": [],
     "bamsignals": [],
     "bgx": [],
     "BiGGR": [
@@ -147,7 +143,6 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "dreamlet": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -171,12 +166,10 @@
     "GenomicDataCommons": [],
     "GenomicInteractionNodes": [],
     "GenomicTuples": [],
-    "gespeR": [],
     "ggmsa": [
         "R4RNA"
     ],
     "GGPA": [],
-    "GmicR": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -238,7 +231,6 @@
         "affyPLM"
     ],
     "MineICA": [],
-    "miRLAB": [],
     "miRNAmeConverter": [],
     "miRNApath": [],
     "mitch": [],
@@ -315,7 +307,6 @@
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RedisParam": [],
-    "ReportingTools": [],
     "rfaRm": [],
     "Rfastp": [],
     "rgoslin": [],
@@ -328,7 +319,6 @@
     ],
     "RLSeq": [],
     "RNAdecay": [],
-    "RNAinteract": [],
     "ROCpAI": [],
     "ropls": [
         "MultiDataSet"
@@ -358,10 +348,8 @@
     ],
     "SeqSQC": [],
     "sesame": [],
-    "SGCP": [],
     "SGSeq": [],
     "SpidermiR": [],
-    "staRank": [],
     "StarBioTrek": [
         "SpidermiR"
     ],
