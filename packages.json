@@ -20,9 +20,7 @@
         "vsn"
     ],
     "ADAMgui": [],
-    "adductomicsR": [
-        "mzR"
-    ],
+    "adductomicsR": [],
     "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
@@ -79,7 +77,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "HDF5Array",
         "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
@@ -101,34 +98,29 @@
         "alabaster.base"
     ],
     "alabaster.mae": [
-        "HDF5Array",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.matrix": [
-        "HDF5Array",
         "alabaster.base"
     ],
     "alabaster.ranges": [
         "alabaster.base"
     ],
     "alabaster.sce": [
-        "HDF5Array",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "HDF5Array",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "HDF5Array",
         "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
@@ -140,7 +132,6 @@
         "alabaster.base"
     ],
     "alabaster.vcf": [
-        "HDF5Array",
         "VariantAnnotation",
         "alabaster.base",
         "alabaster.matrix",
@@ -164,7 +155,6 @@
         "makecdfenv"
     ],
     "AMARETTO": [
-        "HDF5Array",
         "impute"
     ],
     "amplican": [],
@@ -197,7 +187,6 @@
     ],
     "appreci8R": [
         "GenomicScores",
-        "HDF5Array",
         "OrganismDbi",
         "RBGL",
         "VariantAnnotation"
@@ -205,7 +194,6 @@
     "aroma.light": [],
     "ArrayExpress": [],
     "arrayMvout": [
-        "HDF5Array",
         "affyContam",
         "lumi",
         "methylumi",
@@ -250,7 +238,6 @@
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
-        "HDF5Array",
         "RBGL",
         "TFBSTools",
         "motifStack"
@@ -287,7 +274,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -298,7 +284,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "HDF5Array",
         "glmGamPoi",
         "scran"
     ],
@@ -314,9 +299,7 @@
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
-    "beachmat.hdf5": [
-        "HDF5Array"
-    ],
+    "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR"
     ],
@@ -329,7 +312,6 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "biomformat",
         "metagenomeSeq",
         "phyloseq",
         "zinbwave"
@@ -351,7 +333,6 @@
         "rsbml"
     ],
     "bigmelon": [
-        "HDF5Array",
         "gdsfmt",
         "lumi",
         "methylumi",
@@ -379,9 +360,7 @@
     "BiocFHIR": [],
     "biocGraph": [],
     "BiocHail": [],
-    "BiocOncoTK": [
-        "HDF5Array"
-    ],
+    "BiocOncoTK": [],
     "BioCor": [
         "GSEABase"
     ],
@@ -403,7 +382,6 @@
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "biomformat": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -439,7 +417,6 @@
     "biscuiteer": [
         "CGHcall",
         "DNAcopy",
-        "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
         "RBGL",
@@ -482,7 +459,6 @@
     ],
     "borealis": [
         "DSS",
-        "HDF5Array",
         "bsseq"
     ],
     "brainflowprobes": [
@@ -499,9 +475,7 @@
     "brendaDb": [],
     "BRGenomics": [],
     "BridgeDbR": [],
-    "bsseq": [
-        "HDF5Array"
-    ],
+    "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase"
@@ -548,7 +522,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -652,8 +625,7 @@
         "flowCore"
     ],
     "Cepo": [
-        "GSEABase",
-        "HDF5Array"
+        "GSEABase"
     ],
     "CeTF": [
         "DOSE",
@@ -692,7 +664,6 @@
         "DMRcate",
         "DNAcopy",
         "Gviz",
-        "HDF5Array",
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
@@ -706,9 +677,7 @@
         "wateRmelon"
     ],
     "CHETAH": [],
-    "chihaya": [
-        "HDF5Array"
-    ],
+    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "VariantAnnotation",
@@ -790,7 +759,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -799,12 +767,10 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "clustComp": [],
     "clusterExperiment": [
-        "HDF5Array",
         "mbkmeans",
         "zinbwave"
     ],
@@ -870,7 +836,6 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "HDF5Array",
         "MIRA",
         "bsseq"
     ],
@@ -885,7 +850,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -927,7 +891,6 @@
     "consensusOV": [
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "genefu",
         "impute"
     ],
@@ -941,7 +904,6 @@
     ],
     "conumee": [
         "DNAcopy",
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
@@ -967,7 +929,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1034,9 +995,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [
-        "HDF5Array"
-    ],
+    "CuratedAtlasQueryR": [],
     "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
@@ -1075,7 +1034,6 @@
     ],
     "cytolib": [],
     "cytomapper": [
-        "HDF5Array",
         "SpatialExperiment"
     ],
     "cytoMEM": [
@@ -1115,7 +1073,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "HDF5Array",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -1142,7 +1099,6 @@
         "enrichplot",
         "impute",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn"
     ],
@@ -1178,7 +1134,6 @@
         "scran"
     ],
     "deconvR": [
-        "HDF5Array",
         "methylKit",
         "minfi",
         "siggenes"
@@ -1199,15 +1154,12 @@
         "RCy3"
     ],
     "DEGreport": [],
-    "DelayedTensor": [
-        "HDF5Array"
-    ],
+    "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "deltaGseg": [],
     "DeMixT": [
         "DSS",
-        "HDF5Array",
         "bsseq",
         "sva"
     ],
@@ -1221,7 +1173,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "derfinder": [
@@ -1254,9 +1205,7 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
     ],
@@ -1285,7 +1234,6 @@
     "divergence": [],
     "DMRcate": [
         "Gviz",
-        "HDF5Array",
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
@@ -1295,7 +1243,6 @@
         "siggenes"
     ],
     "dmrseq": [
-        "HDF5Array",
         "annotatr",
         "bsseq"
     ],
@@ -1329,9 +1276,7 @@
         "zenith"
     ],
     "DriverNet": [],
-    "DropletUtils": [
-        "HDF5Array"
-    ],
+    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -1339,7 +1284,6 @@
         "ArrayExpress"
     ],
     "DSS": [
-        "HDF5Array",
         "bsseq"
     ],
     "DynDoc": [],
@@ -1364,9 +1308,7 @@
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "KEGGgraph",
-        "gage",
         "pathview",
         "safe",
         "topGO"
@@ -1383,7 +1325,6 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "HDF5Array",
         "impute",
         "minfi",
         "siggenes"
@@ -1437,7 +1378,6 @@
     ],
     "epimutacions": [
         "Gviz",
-        "HDF5Array",
         "OrganismDbi",
         "RBGL",
         "VariantAnnotation",
@@ -1497,7 +1437,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "UCell"
     ],
     "escheR": [
@@ -1560,7 +1499,6 @@
     ],
     "fenr": [],
     "ffpe": [
-        "HDF5Array",
         "lumi",
         "methylumi",
         "minfi",
@@ -1581,13 +1519,11 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
     "FLAMES": [
         "DropletUtils",
-        "HDF5Array",
         "OrganismDbi",
         "RBGL",
         "VariantAnnotation",
@@ -1715,7 +1651,6 @@
     "fmcsR": [],
     "fobitools": [],
     "FRASER": [
-        "HDF5Array",
         "OUTRIDER"
     ],
     "frenchFISH": [],
@@ -1723,7 +1658,6 @@
     "frma": [],
     "FunChIP": [],
     "funtooNorm": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
@@ -1734,7 +1668,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "gage": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -1857,9 +1790,7 @@
         "genomation",
         "impute"
     ],
-    "GenomicScores": [
-        "HDF5Array"
-    ],
+    "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1924,9 +1855,7 @@
     "GLAD": [],
     "GladiaTOX": [],
     "Glimma": [],
-    "glmGamPoi": [
-        "HDF5Array"
-    ],
+    "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [
         "GSEABase"
@@ -2003,8 +1932,7 @@
         "GSEABase"
     ],
     "GSVA": [
-        "GSEABase",
-        "HDF5Array"
+        "GSEABase"
     ],
     "GUIDEseq": [
         "CRISPRseek",
@@ -2042,7 +1970,6 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "HDF5Array": [],
     "HelloRanges": [
         "VariantAnnotation"
     ],
@@ -2098,7 +2025,6 @@
         "VariantAnnotation"
     ],
     "iCheck": [
-        "HDF5Array",
         "lumi",
         "methylumi",
         "minfi",
@@ -2119,7 +2045,6 @@
     "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
-        "HDF5Array",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -2138,7 +2063,6 @@
     "impute": [],
     "iNETgrate": [
         "DOSE",
-        "HDF5Array",
         "OrganismDbi",
         "Pigengene",
         "RBGL",
@@ -2192,7 +2116,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2255,7 +2178,6 @@
     "keggorthology": [],
     "kissDE": [
         "DSS",
-        "HDF5Array",
         "bsseq"
     ],
     "KnowSeq": [
@@ -2265,7 +2187,6 @@
     "LEA": [],
     "LedPred": [],
     "lemur": [
-        "HDF5Array",
         "glmGamPoi"
     ],
     "lfa": [],
@@ -2293,18 +2214,14 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
-    "LoomExperiment": [
-        "HDF5Array"
-    ],
+    "LoomExperiment": [],
     "lpNet": [
         "KEGGgraph"
     ],
     "lumi": [
-        "HDF5Array",
         "methylumi",
         "minfi",
         "siggenes"
@@ -2328,7 +2245,6 @@
         "DNAcopy"
     ],
     "MAGAR": [
-        "HDF5Array",
         "RnBeads",
         "crlmm",
         "impute",
@@ -2354,7 +2270,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2366,7 +2281,6 @@
         "gcrma"
     ],
     "mariner": [
-        "HDF5Array",
         "plotgardener"
     ],
     "maser": [
@@ -2390,7 +2304,6 @@
         "TFBSTools"
     ],
     "MBECS": [
-        "biomformat",
         "phyloseq",
         "sva"
     ],
@@ -2420,7 +2333,6 @@
     ],
     "MEAL": [
         "Gviz",
-        "HDF5Array",
         "VariantAnnotation",
         "biovizBase",
         "methylumi",
@@ -2430,7 +2342,6 @@
         "sva"
     ],
     "MEAT": [
-        "HDF5Array",
         "impute",
         "lumi",
         "methylumi",
@@ -2487,7 +2398,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2503,7 +2413,6 @@
     "metaseqR2": [
         "DSS",
         "EDASeq",
-        "HDF5Array",
         "aroma.light",
         "bsseq",
         "vsn"
@@ -2515,16 +2424,12 @@
         "methylKit"
     ],
     "MethReg": [],
-    "methrix": [
-        "HDF5Array"
-    ],
+    "methrix": [],
     "MethylAid": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
     "methylCC": [
-        "HDF5Array",
         "bsseq",
         "minfi",
         "siggenes"
@@ -2533,7 +2438,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
-        "HDF5Array",
         "OrganismDbi",
         "RBGL",
         "biocViews",
@@ -2544,7 +2448,6 @@
     ],
     "methylGSA": [
         "DOSE",
-        "HDF5Array",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -2566,11 +2469,9 @@
     ],
     "methylSig": [
         "DSS",
-        "HDF5Array",
         "bsseq"
     ],
     "methylumi": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
@@ -2582,22 +2483,18 @@
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "biomformat",
         "metagenomeSeq"
     ],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "biomformat",
         "metagenomeSeq",
         "phyloseq"
     ],
@@ -2621,7 +2518,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "HDF5Array",
         "RBGL",
         "lumi",
         "methylumi",
@@ -2629,7 +2525,6 @@
         "siggenes"
     ],
     "minfi": [
-        "HDF5Array",
         "siggenes"
     ],
     "MinimumDistance": [
@@ -2639,7 +2534,6 @@
     ],
     "miQC": [],
     "MIRA": [
-        "HDF5Array",
         "bsseq"
     ],
     "mirIntegrator": [
@@ -2655,7 +2549,6 @@
         "impute"
     ],
     "missMethyl": [
-        "HDF5Array",
         "methylumi",
         "minfi",
         "siggenes"
@@ -2684,16 +2577,13 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
     "MODA": [
         "impute"
     ],
-    "MOFA2": [
-        "HDF5Array"
-    ],
+    "MOFA2": [],
     "MOGAMUN": [
         "RCy3"
     ],
@@ -2774,7 +2664,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "msmsTests": [
@@ -2782,13 +2671,11 @@
         "impute",
         "msmsEDA",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnbase": [
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnID": [
@@ -2797,15 +2684,12 @@
         "msmsEDA",
         "msmsTests",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSPrep": [
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -2831,7 +2715,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -2839,7 +2722,6 @@
         "MSstatsQC",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -2898,13 +2780,11 @@
         "VariantAnnotation"
     ],
     "mzID": [],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
-        "HDF5Array",
         "RBGL",
         "TFBSTools",
         "VariantAnnotation",
@@ -2913,7 +2793,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [
-        "HDF5Array",
         "bsseq"
     ],
     "NanoTube": [],
@@ -2929,7 +2808,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2964,7 +2842,6 @@
         "impute"
     ],
     "netSmooth": [
-        "HDF5Array",
         "clusterExperiment",
         "mbkmeans",
         "zinbwave"
@@ -2973,7 +2850,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "HDF5Array",
         "RBGL",
         "RCy3",
         "minfi",
@@ -3009,7 +2885,6 @@
         "EDASeq",
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "RUVSeq",
         "aroma.light"
     ],
@@ -3064,8 +2939,7 @@
     "oposSOM": [],
     "oppar": [
         "GSEABase",
-        "GSVA",
-        "HDF5Array"
+        "GSVA"
     ],
     "optimalFlow": [
         "cytolib",
@@ -3076,9 +2950,7 @@
     "OrganismDbi": [
         "RBGL"
     ],
-    "orthos": [
-        "HDF5Array"
-    ],
+    "orthos": [],
     "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
@@ -3119,7 +2991,6 @@
     "pathifier": [],
     "PathNet": [],
     "PathoStat": [
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [],
@@ -3153,7 +3024,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "PECA": [
@@ -3164,7 +3034,6 @@
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "phantasus": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -3192,9 +3061,7 @@
         "OmaDB",
         "topGO"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "Pigengene": [
@@ -3243,7 +3110,6 @@
     "PPInfer": [],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -3255,7 +3121,6 @@
     "primirTSS": [
         "GenomicScores",
         "Gviz",
-        "HDF5Array",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase"
@@ -3264,7 +3129,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "proActiv": [],
@@ -3283,7 +3147,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "pRolocGUI": [
@@ -3291,7 +3154,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -3311,7 +3173,6 @@
         "enrichplot",
         "impute",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn"
     ],
@@ -3338,7 +3199,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "puma": [],
@@ -3375,7 +3235,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "qsmooth": [
@@ -3385,7 +3244,6 @@
         "sva"
     ],
     "quantro": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
@@ -3429,7 +3287,6 @@
     "RankProd": [],
     "RareVariantVis": [
         "GenomicScores",
-        "HDF5Array",
         "VariantAnnotation"
     ],
     "Rarr": [],
@@ -3450,7 +3307,6 @@
         "aCGH"
     ],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcollectl": [],
@@ -3477,7 +3333,6 @@
     ],
     "rebook": [],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -3486,7 +3341,6 @@
         "derfinder"
     ],
     "recountmethylation": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
@@ -3515,7 +3369,6 @@
         "biovizBase"
     ],
     "REMP": [
-        "HDF5Array",
         "impute",
         "minfi",
         "siggenes"
@@ -3540,7 +3393,6 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -3585,7 +3437,6 @@
         "biocViews",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -3600,7 +3451,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "rmelting": [],
@@ -3650,7 +3500,6 @@
         "recount"
     ],
     "RnBeads": [
-        "HDF5Array",
         "methylumi",
         "minfi",
         "siggenes"
@@ -3664,7 +3513,6 @@
     ],
     "ropls": [],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "Rqc": [
@@ -3724,13 +3572,11 @@
     ],
     "scBubbletree": [],
     "scCB2": [
-        "DropletUtils",
-        "HDF5Array"
+        "DropletUtils"
     ],
     "scClassify": [
         "Cepo",
-        "GSEABase",
-        "HDF5Array"
+        "GSEABase"
     ],
     "sccomp": [],
     "scDataviz": [
@@ -3753,7 +3599,6 @@
         "AUCell",
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "SingleCellSignalR",
         "scran"
     ],
@@ -3775,7 +3620,6 @@
     ],
     "scMET": [],
     "scmeth": [
-        "HDF5Array",
         "annotatr",
         "bsseq"
     ],
@@ -3800,8 +3644,7 @@
     ],
     "scPCA": [],
     "scPipe": [
-        "DropletUtils",
-        "HDF5Array"
+        "DropletUtils"
     ],
     "scran": [],
     "scReClassify": [],
@@ -3898,17 +3741,14 @@
     ],
     "SGSeq": [],
     "shinyepico": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
     "shinyMethyl": [
-        "HDF5Array",
         "minfi",
         "siggenes"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [
@@ -3922,7 +3762,6 @@
     "signatureSearch": [
         "DOSE",
         "GSEABase",
-        "HDF5Array",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -3932,7 +3771,6 @@
     "signifinder": [
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "SpatialExperiment",
         "consensusOV",
         "genefu",
@@ -3942,20 +3780,16 @@
         "VariantAnnotation"
     ],
     "SIM": [],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "vsn"
     ],
     "SimBu": [
-        "biomformat",
         "phyloseq"
     ],
     "SIMLR": [],
     "simpleSeg": [
-        "HDF5Array",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -3968,7 +3802,6 @@
         "DropletUtils",
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "M3Drop",
         "MAST",
         "SingleR",
@@ -3998,7 +3831,6 @@
     "SiPSiC": [],
     "sizepower": [],
     "skewr": [
-        "HDF5Array",
         "lumi",
         "methylumi",
         "minfi",
@@ -4045,7 +3877,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "HDF5Array",
         "annotatr",
         "bsseq"
     ],
@@ -4054,7 +3885,6 @@
     ],
     "Spaniel": [
         "DropletUtils",
-        "HDF5Array",
         "scran"
     ],
     "sparrow": [
@@ -4103,9 +3933,7 @@
     ],
     "SpidermiR": [],
     "splatter": [],
-    "SpliceWiz": [
-        "HDF5Array"
-    ],
+    "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [
         "GSEABase"
@@ -4120,7 +3948,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "biomformat",
         "impute",
         "phyloseq"
     ],
@@ -4187,7 +4014,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "synlet": [
@@ -4202,15 +4028,13 @@
     ],
     "TADCompare": [],
     "TargetDecoy": [
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSEABase",
         "GSVA",
-        "HDF5Array",
         "singscore",
         "sva"
     ],
@@ -4231,8 +4055,7 @@
     "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
-        "ontoProc",
-        "restfulSE"
+        "ontoProc"
     ],
     "terraTCGAdata": [
         "RaggedExperiment",
@@ -4277,8 +4100,7 @@
     ],
     "TNBC.CMS": [
         "GSEABase",
-        "GSVA",
-        "HDF5Array"
+        "GSVA"
     ],
     "TOP": [
         "ClassifyR"
@@ -4288,7 +4110,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "topGO": [],
@@ -4314,7 +4135,6 @@
         "chipseq"
     ],
     "transformGamPoi": [
-        "HDF5Array",
         "glmGamPoi"
     ],
     "tRanslatome": [
@@ -4408,7 +4228,6 @@
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
-        "HDF5Array",
         "RBGL",
         "VariantAnnotation",
         "biovizBase"
@@ -4457,7 +4276,6 @@
     ],
     "waddR": [],
     "wateRmelon": [
-        "HDF5Array",
         "lumi",
         "methylumi",
         "minfi",
@@ -4480,7 +4298,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "xcore": [],
@@ -4494,9 +4311,7 @@
         "piano"
     ],
     "XNAString": [],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "RBGL",
@@ -4506,7 +4321,6 @@
         "ggbio"
     ],
     "yarn": [
-        "HDF5Array",
         "minfi",
         "quantro",
         "siggenes"
