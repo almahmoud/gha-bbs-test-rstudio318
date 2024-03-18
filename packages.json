@@ -2299,10 +2299,7 @@
         "xcms"
     ],
     "Clomial": [],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
@@ -2344,7 +2341,6 @@
         "fgsea"
     ],
     "ClustIRR": [],
-    "CMA": [],
     "cmapR": [
         "Rhdf5lib",
         "cytolib",
@@ -2839,14 +2835,12 @@
         "aCGH",
         "multtest"
     ],
-    "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "crisprBase",
         "rtracklayer"
     ],
     "crisprBwa": [
@@ -2856,7 +2850,6 @@
         "Rbwa",
         "Rhtslib",
         "Rsamtools",
-        "crisprBase",
         "rtracklayer"
     ],
     "crisprDesign": [
@@ -2872,7 +2865,6 @@
         "basilisk",
         "basilisk.utils",
         "biomaRt",
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "interactiveDisplayBase",
@@ -2917,7 +2909,6 @@
         "basilisk.utils",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -2942,7 +2933,6 @@
         "basilisk.utils",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -3242,7 +3232,6 @@
         "multtest"
     ],
     "dcGSA": [],
-    "ddCt": [],
     "ddPCRclust": [
         "Rhdf5lib",
         "cytolib",
@@ -3373,10 +3362,8 @@
     "DelayedMatrixStats": [
         "sparseMatrixStats"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array",
         "Rhdf5lib",
         "ScaledMatrix",
@@ -3499,7 +3486,6 @@
         "rtracklayer"
     ],
     "DESeq2": [],
-    "DEsingle": [],
     "DESpace": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -5213,7 +5199,6 @@
         "graph",
         "vsn"
     ],
-    "getDEE2": [],
     "geva": [],
     "GEWIST": [],
     "gg4way": [
@@ -5891,7 +5876,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IHW",
         "RBGL",
         "Rgraphviz",
         "Rhtslib",
@@ -5928,7 +5912,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "ILoReg": [
         "SingleCellExperiment"
     ],
@@ -6622,7 +6605,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "affy",
         "gcrma"
@@ -6686,7 +6668,6 @@
         "gdsfmt",
         "oligoClasses"
     ],
-    "MBQN": [],
     "mbQTL": [
         "Wrench",
         "metagenomeSeq"
@@ -7968,7 +7949,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "multiscan": [],
     "multiWGCNA": [
         "impute"
     ],
@@ -8974,7 +8954,6 @@
         "rtracklayer"
     ],
     "plotGrouper": [],
-    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "GenomicAlignments",
@@ -9234,7 +9213,6 @@
         "genefilter",
         "vsn"
     ],
-    "PSEA": [],
     "psichomics": [
         "AnnotationHub",
         "BSgenome",
@@ -10517,7 +10495,6 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -10529,8 +10506,7 @@
         "biomaRt",
         "ensembldb",
         "interactiveDisplayBase",
-        "rtracklayer",
-        "scanMiR"
+        "rtracklayer"
     ],
     "scAnnotatR": [
         "AnnotationHub",
@@ -11817,7 +11793,6 @@
         "graph",
         "graphite"
     ],
-    "ssPATHS": [],
     "ssviz": [
         "Rhtslib",
         "Rsamtools"
