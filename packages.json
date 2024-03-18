@@ -276,7 +276,6 @@
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
-    "biodbLipidmaps": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "BioMVCClass": [
@@ -1388,7 +1387,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "genomation": [
         "impute"
     ],
@@ -2282,13 +2280,11 @@
         "tkWidgets"
     ],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
     "omicRexposome": [
         "impute",
-        "omicade4",
         "rexposome",
         "sva"
     ],
@@ -2470,7 +2466,6 @@
         "impute",
         "mzID"
     ],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
