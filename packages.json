@@ -194,8 +194,7 @@
     "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
-        "Maaslin2",
-        "zinbwave"
+        "Maaslin2"
     ],
     "BgeeCall": [
         "tximport"
@@ -515,9 +514,7 @@
         "mzID"
     ],
     "clustComp": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -1195,22 +1192,17 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "gDRutils"
+        "gDRimport"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "gDRutils"
+        "PharmacoGx"
     ],
     "gDRstyle": [
         "BiocCheck",
         "biocViews"
     ],
-    "gDRutils": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -1972,7 +1964,6 @@
     "netboost": [
         "impute"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1982,8 +1973,7 @@
         "impute"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "Category",
@@ -2481,9 +2471,7 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [],
     "scClassify": [
         "Cepo"
@@ -2632,8 +2620,7 @@
         "eds",
         "scDblFinder",
         "scMerge",
-        "tximport",
-        "zinbwave"
+        "tximport"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2748,7 +2735,6 @@
     ],
     "SVMDO": [],
     "swfdr": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "impute",
@@ -2964,6 +2950,5 @@
         "pathview",
         "safe"
     ],
-    "zinbwave": [],
     "ZygosityPredictor": []
 }
