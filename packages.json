@@ -14,7 +14,6 @@
         "tilingArray"
     ],
     "adductomicsR": [],
-    "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
@@ -262,7 +261,6 @@
     "BiocSklearn": [],
     "biocthis": [],
     "biocViews": [],
-    "biodbNci": [],
     "biodbUniprot": [],
     "BioMVCClass": [
         "MVCClass"
@@ -870,7 +868,6 @@
         "NCIgraph"
     ],
     "DelayedTensor": [],
-    "DELocal": [],
     "deltaGseg": [],
     "DeMixT": [
         "DSS",
@@ -1645,7 +1642,6 @@
         "glmGamPoi"
     ],
     "lfa": [],
-    "LineagePulse": [],
     "lineagespot": [],
     "lipidr": [
         "impute",
@@ -2180,7 +2176,6 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "biovizBase"
