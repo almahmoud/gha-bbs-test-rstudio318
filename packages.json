@@ -2329,7 +2329,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "Biobase": [],
     "biobroom": [],
     "biobtreeR": [],
     "bioCancer": [
@@ -27169,7 +27168,6 @@
         "limma",
         "zlibbioc"
     ],
-    "specL": [],
     "SpeCond": [],
     "Spectra": [
         "BiocParallel",
