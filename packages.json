@@ -14,7 +14,6 @@
         "tilingArray"
     ],
     "adductomicsR": [],
-    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "Category",
@@ -46,7 +45,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -104,7 +102,6 @@
         "impute"
     ],
     "amplican": [],
-    "ANCOMBC": [],
     "AneuFinder": [
         "DNAcopy"
     ],
@@ -209,7 +206,6 @@
     "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
-        "ANCOMBC",
         "Maaslin2",
         "phyloseq",
         "zinbwave"
@@ -288,9 +284,7 @@
         "dmrseq",
         "impute"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray"
@@ -870,7 +864,6 @@
         "impute",
         "sva"
     ],
-    "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
@@ -887,9 +880,7 @@
     ],
     "diffHic": [],
     "diffuStats": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "divergence": [],
     "DMRcate": [
@@ -1511,7 +1502,6 @@
         "Category"
     ],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles"
     ],
     "IntramiRExploreR": [
@@ -1541,7 +1531,6 @@
         "IsoCorrectoR"
     ],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "pfamAnalyzeR",
         "sva",
         "tximeta",
@@ -1809,7 +1798,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1819,7 +1807,6 @@
     "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
-    "miloR": [],
     "mimager": [
         "affyPLM"
     ],
@@ -2152,7 +2139,6 @@
     ],
     "paircompviz": [],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "panelcn.mops": [
@@ -2628,7 +2614,6 @@
     "scifer": [
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [
         "M3Drop"
     ],
@@ -2637,7 +2622,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
@@ -2743,7 +2727,6 @@
         "impute"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
