@@ -740,7 +740,6 @@
         "scran"
     ],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph",
@@ -1649,7 +1648,6 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [],
-    "FunChIP": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
@@ -1737,7 +1735,6 @@
         "impute"
     ],
     "GeneGA": [],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
@@ -2070,9 +2067,7 @@
         "cytolib",
         "flowCore"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INPower": [],
     "INSPEcT": [],
     "InTAD": [],
@@ -2166,7 +2161,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -2918,7 +2912,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSEABase",
         "GSVA"
@@ -3188,7 +3181,6 @@
         "DNAcopy",
         "VariantAnnotation"
     ],
-    "pvac": [],
     "pvca": [
         "vsn"
     ],
@@ -3298,7 +3290,6 @@
     ],
     "RCX": [],
     "RCy3": [],
-    "RCyjs": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -3524,7 +3515,6 @@
         "gdsfmt"
     ],
     "sampleClassifier": [],
-    "sangeranalyseR": [],
     "SANTA": [],
     "SARC": [
         "RaggedExperiment"
