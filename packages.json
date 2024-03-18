@@ -24,7 +24,6 @@
     "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
-    "affyContam": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -39,7 +38,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "agilp": [],
@@ -168,7 +166,6 @@
     "aroma.light": [],
     "ArrayExpress": [],
     "arrayMvout": [
-        "affyContam",
         "lumi",
         "methylumi",
         "minfi",
@@ -1695,13 +1692,8 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -2809,7 +2801,6 @@
         "impute"
     ],
     "QFeatures": [],
-    "qpcrNorm": [],
     "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase",
