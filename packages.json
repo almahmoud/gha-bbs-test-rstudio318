@@ -298,7 +298,6 @@
     ],
     "basecallQC": [],
     "BaseSpaceR": [],
-    "Basic4Cseq": [],
     "BASiCS": [
         "scran"
     ],
@@ -749,7 +748,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -1056,7 +1054,6 @@
     "crossmeta": [
         "sva"
     ],
-    "csaw": [],
     "csdR": [
         "impute"
     ],
@@ -1299,7 +1296,6 @@
         "mzR"
     ],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1314,9 +1310,7 @@
         "BANDITS",
         "tximport"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffuStats": [],
     "diffUTR": [
         "DEXSeq"
@@ -1481,10 +1475,7 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "epigraHMM": [
-        "GreyListChIP",
-        "csaw"
-    ],
+    "epigraHMM": [],
     "EpiMix": [
         "impute"
     ],
@@ -1585,8 +1576,7 @@
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [
         "drawProteins"
@@ -1630,7 +1620,6 @@
         "RBGL"
     ],
     "FGNet": [],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "flagme": [
@@ -1799,7 +1788,6 @@
         "VariantAnnotation"
     ],
     "gage": [],
-    "gaggle": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -2046,8 +2034,6 @@
         "iPAC"
     ],
     "GRENITS": [],
-    "GreyListChIP": [],
-    "groHMM": [],
     "GSALightning": [],
     "GSCA": [],
     "GSEABase": [],
@@ -2169,8 +2155,7 @@
     ],
     "hyperdraw": [],
     "icetea": [
-        "VariantAnnotation",
-        "csaw"
+        "VariantAnnotation"
     ],
     "iCheck": [
         "HDF5Array",
@@ -2668,7 +2653,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MGFR": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -2821,13 +2805,11 @@
     "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -3007,7 +2989,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "csaw",
         "motifStack",
         "trackViewer"
     ],
@@ -3095,7 +3076,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [],
     "npGSEA": [
         "GSEABase"
@@ -3348,7 +3328,6 @@
         "MAST"
     ],
     "PPInfer": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -3787,7 +3766,6 @@
     "Rnits": [
         "impute"
     ],
-    "roar": [],
     "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
@@ -3816,9 +3794,7 @@
     ],
     "RTNsurvival": [],
     "RTopper": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
         "aroma.light"
@@ -3828,9 +3804,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "sangeranalyseR": [],
     "SANTA": [],
     "SARC": [
@@ -4051,7 +4025,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -4096,7 +4069,6 @@
         "phyloseq"
     ],
     "SIMLR": [],
-    "simona": [],
     "simpleSeg": [
         "HDF5Array",
         "SpatialExperiment",
@@ -4140,7 +4112,6 @@
         "GSEABase"
     ],
     "SiPSiC": [],
-    "sitePath": [],
     "sizepower": [],
     "skewr": [
         "HDF5Array",
@@ -4609,9 +4580,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "RBGL",
-        "csaw",
         "systemPipeR"
     ],
     "waddR": [],
