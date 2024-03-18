@@ -708,7 +708,6 @@
         "pcaMethods"
     ],
     "AWFisher": [],
-    "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
         "Rhtslib",
@@ -2423,7 +2422,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationFilter",
         "BSgenome",
@@ -3448,7 +3446,6 @@
         "mixOmics"
     ],
     "DepInfeR": [],
-    "DEqMS": [],
     "derfinder": [
         "BSgenome",
         "BiocIO",
@@ -4423,7 +4420,6 @@
         "rtracklayer",
         "wiggleplotr"
     ],
-    "FamAgg": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -5375,7 +5371,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "BiocIO",
@@ -5397,8 +5392,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "goProfiles"
+        "ggtree"
     ],
     "goSTAG": [
         "biomaRt"
@@ -5639,7 +5633,6 @@
         "hypergraph",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "Rhdf5lib",
         "rhdf5",
@@ -5828,7 +5821,6 @@
         "biocthis"
     ],
     "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
     "HybridMTest": [],
     "hypeR": [],
     "hyperdraw": [
@@ -6237,7 +6229,6 @@
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
-    "iterClust": [],
     "IVAS": [
         "BiocIO",
         "GenomicAlignments",
@@ -7635,7 +7626,6 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -8528,7 +8518,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "Rhdf5lib",
         "cytolib",
@@ -8746,7 +8735,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -10401,7 +10389,6 @@
         "ropls"
     ],
     "rqubic": [],
-    "rRDP": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -10478,7 +10465,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Rvisdiff": [],
     "RVS": [
         "snpStats"
     ],
@@ -12576,7 +12562,6 @@
         "graph",
         "rtracklayer"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy"
@@ -12908,7 +12893,6 @@
         "marray",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
