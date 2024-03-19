@@ -296,7 +296,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -396,7 +395,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -1135,7 +1133,6 @@
         "Gviz",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "ncGTW": [
         "MSnbase",
         "impute",
@@ -1472,7 +1469,6 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [],
-    "scifer": [],
     "scMerge": [
         "M3Drop"
     ],
