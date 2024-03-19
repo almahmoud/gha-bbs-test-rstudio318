@@ -876,7 +876,6 @@
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
-    "GraphPAC": [],
     "GRENITS": [],
     "GSALightning": [],
     "GSEABenchmarkeR": [
@@ -1483,7 +1482,6 @@
     "qsmooth": [],
     "quantro": [],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [],
