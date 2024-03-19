@@ -842,7 +842,6 @@
     "FEAST": [
         "TSCAN"
     ],
-    "fedup": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -921,10 +920,7 @@
     "funtooNorm": [
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -1121,9 +1117,7 @@
     "HIREewas": [],
     "hoodscanR": [],
     "HPAanalyze": [],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "HubPub": [
         "biocthis"
     ],
@@ -1378,7 +1372,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -2360,7 +2353,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
