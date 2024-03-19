@@ -401,9 +401,7 @@
         "DNAcopy",
         "maftools"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [],
     "CiteFuse": [],
     "clevRvis": [],
@@ -1103,7 +1101,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "gwascat": [],
     "GWASTools": [
         "DNAcopy",
         "gdsfmt"
@@ -1131,7 +1128,6 @@
     ],
     "HiCDOC": [],
     "HiContacts": [],
-    "HiCool": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -1296,7 +1292,6 @@
     "MANOR": [
         "GLAD"
     ],
-    "maPredictDSC": [],
     "mariner": [],
     "maser": [
         "Gviz",
@@ -1442,8 +1437,7 @@
     ],
     "minfi": [],
     "MinimumDistance": [
-        "DNAcopy",
-        "VanillaICE"
+        "DNAcopy"
     ],
     "MIRA": [],
     "mirIntegrator": [
@@ -2390,7 +2384,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [
         "GDSArray",
         "SNPRelate",
@@ -2417,9 +2410,7 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind"
