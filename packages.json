@@ -852,7 +852,6 @@
         "aroma.light"
     ],
     "MethylAid": [],
-    "methylCC": [],
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData",
@@ -1055,7 +1054,6 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1315,7 +1313,6 @@
         "gdsfmt"
     ],
     "SGCP": [],
-    "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [
         "clusterProfiler"
