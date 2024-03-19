@@ -106,9 +106,7 @@
     "APAlyzer": [],
     "apComplex": [],
     "APL": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "aroma.light": [],
     "arrayMvout": [
         "lumi",
@@ -138,7 +136,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -1133,7 +1130,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1205,7 +1201,6 @@
     "gsean": [],
     "GSgalgoR": [],
     "GSReg": [],
-    "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
@@ -1504,7 +1499,6 @@
     ],
     "MetCirc": [],
     "methInheritSim": [],
-    "methrix": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1720,7 +1714,6 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "biovizBase",
         "motifStack",
@@ -1911,7 +1904,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
@@ -2024,9 +2016,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rarr": [],
     "Rbec": [],
     "rBiopaxParser": [],
@@ -2571,7 +2561,6 @@
         "gdsfmt"
     ],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
