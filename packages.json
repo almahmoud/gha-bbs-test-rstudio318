@@ -90,15 +90,11 @@
         "chromVAR",
         "motifmatchr"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [
         "GOstats"
     ],
@@ -472,9 +468,7 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -507,9 +501,7 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "deltaGseg": [],
     "DeMixT": [
         "DSS"
@@ -1173,11 +1165,9 @@
         "clusterProfiler"
     ],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
     "motifmatchr": [],
-    "motifStack": [],
     "MPFE": [],
     "MsBackendMassbank": [],
     "MsBackendRawFileReader": [],
@@ -1252,7 +1242,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -1264,7 +1253,6 @@
         "mzID",
         "xcms"
     ],
-    "NCIgraph": [],
     "ndexr": [
         "RCX"
     ],
@@ -1538,8 +1526,7 @@
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
-        "aroma.light",
-        "motifStack"
+        "aroma.light"
     ],
     "Risa": [
         "MSnbase",
