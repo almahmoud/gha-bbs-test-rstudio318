@@ -785,10 +785,8 @@
     "gDNAx": [],
     "gDR": [
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "PharmacoGx"
     ],
@@ -1149,7 +1147,6 @@
         "tkWidgets"
     ],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
