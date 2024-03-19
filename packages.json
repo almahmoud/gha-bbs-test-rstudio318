@@ -85,7 +85,6 @@
         "Gviz"
     ],
     "ASSET": [],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "GeneOverlap",
         "chromVAR",
@@ -1143,7 +1142,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
@@ -1815,9 +1813,7 @@
         "mzID"
     ],
     "TargetSearch": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TDbasedUFE": [
         "tximport"
     ],
