@@ -1778,7 +1778,6 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDblFinder": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
@@ -1882,7 +1881,6 @@
         "TSCAN",
         "celda",
         "eds",
-        "scDblFinder",
         "scMerge",
         "tximport"
     ],
