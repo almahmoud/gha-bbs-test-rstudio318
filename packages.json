@@ -214,7 +214,6 @@
     ],
     "chimeraviz": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -456,7 +455,6 @@
     ],
     "enrichViewNet": [],
     "EpiCompare": [
-        "ChIPseeker",
         "genomation",
         "impute"
     ],
@@ -486,7 +484,6 @@
         "epivizrServer"
     ],
     "esATAC": [
-        "ChIPseeker",
         "clusterProfiler"
     ],
     "EventPointer": [
@@ -1064,9 +1061,7 @@
         "impute",
         "mzID"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
@@ -1260,16 +1255,13 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
     ],
     "seqArchRplus": [
-        "ChIPseeker",
         "clusterProfiler"
     ],
     "SeqArray": [
