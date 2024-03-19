@@ -467,7 +467,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
@@ -492,9 +491,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -957,9 +954,7 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -1781,9 +1776,7 @@
     "SimBindProfiles": [],
     "SimBu": [],
     "SIMLR": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [
         "M3Drop",
         "eds",
@@ -1818,7 +1811,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatzie": [
@@ -1851,7 +1843,6 @@
     "statTarget": [
         "impute"
     ],
-    "stJoincount": [],
     "Summix": [],
     "svaNUMT": [],
     "svaRetro": [],
