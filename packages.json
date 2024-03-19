@@ -11,15 +11,13 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "AHMassBank": [
         "AnnotationHubData"
@@ -144,28 +142,22 @@
     ],
     "BLMA": [],
     "bnem": [],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "brendaDb": [],
     "BridgeDbR": [],
     "BubbleTree": [],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions",
         "Gviz"
     ],
     "cageminer": [
         "BioNERO",
-        "ggbio",
         "impute"
     ],
     "CAGEr": [
@@ -453,10 +445,8 @@
     ],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
-    "DEScan2": [],
     "DExMA": [
         "impute"
     ],
@@ -598,9 +588,7 @@
         "mzID",
         "xcms"
     ],
-    "FLAMES": [
-        "ggbio"
-    ],
+    "FLAMES": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -706,9 +694,7 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -728,7 +714,6 @@
     "gespeR": [],
     "geva": [],
     "GEWIST": [],
-    "ggbio": [],
     "ggcyto": [
         "flowWorkspace"
     ],
@@ -815,9 +800,7 @@
         "impute"
     ],
     "INPower": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "IntEREst": [],
     "IntramiRExploreR": [
         "FGNet"
@@ -1023,9 +1006,7 @@
         "Gviz"
     ],
     "MPFE": [],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "mslp": [
         "RankProd"
     ],
@@ -1276,9 +1257,7 @@
     ],
     "quantro": [],
     "QuartPAC": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RadioGx": [],
     "RAIDS": [
         "DNAcopy",
@@ -1330,17 +1309,13 @@
     "Repitools": [
         "DNAcopy"
     ],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "RESOLVE": [],
     "ReUseData": [],
     "rexposome": [
         "impute"
     ],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -1434,9 +1409,7 @@
         "powerTCR"
     ],
     "scRNAseqApp": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "ReactomePA"
     ],
@@ -1512,9 +1485,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [],
     "spatzie": [
         "GenomicInteractions",
@@ -1655,8 +1626,7 @@
         "PharmacoGx"
     ],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "quantro"
