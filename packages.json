@@ -665,7 +665,6 @@
         "AnnotationHubData",
         "BiocCheck"
     ],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -1780,7 +1779,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "SpatialDecon": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
