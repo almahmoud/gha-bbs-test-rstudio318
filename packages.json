@@ -411,7 +411,6 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "CoreGx": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -804,14 +803,12 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "gDRstyle": [
@@ -999,7 +996,6 @@
         "xcms"
     ],
     "iSEEhub": [],
-    "iSEEpathways": [],
     "iSEEu": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
@@ -1407,7 +1403,6 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "impute"
     ],
@@ -1426,9 +1421,7 @@
     ],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1550,9 +1543,7 @@
     "R3CPET": [
         "ggbio"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -1926,9 +1917,7 @@
         "impute",
         "mzID"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "TPP2D": [],
     "trackViewer": [
         "Gviz"
@@ -2005,7 +1994,6 @@
         "mzID"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "YAPSA": [
