@@ -547,12 +547,9 @@
     ],
     "GDCRNATools": [],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
@@ -984,7 +981,6 @@
     ],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1372,9 +1368,7 @@
         "impute",
         "mzID"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
