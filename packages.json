@@ -383,7 +383,6 @@
     "chopsticks": [],
     "ChromSCape": [],
     "chromVAR": [],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "biovizBase",
@@ -516,7 +515,6 @@
     ],
     "COSNet": [],
     "COTAN": [],
-    "cpvSNP": [],
     "CRImage": [
         "DNAcopy"
     ],
@@ -1509,7 +1507,6 @@
         "mzID"
     ],
     "MSPrep": [],
-    "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
@@ -2133,7 +2130,6 @@
         "genefu",
         "impute"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
     ],
@@ -2187,7 +2183,6 @@
     "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [],
-    "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
@@ -2377,7 +2372,6 @@
     "veloviz": [],
     "VennDetail": [],
     "ViSEAGO": [],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
@@ -2409,7 +2403,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
