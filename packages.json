@@ -173,8 +173,7 @@
     ],
     "canceR": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CARNIVAL": [],
     "CATALYST": [],
@@ -611,12 +610,10 @@
     "flowMerge": [],
     "flowPeaks": [],
     "flowPloidy": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowViz"
     ],
@@ -836,7 +833,6 @@
     "LBE": [],
     "LEA": [],
     "LedPred": [],
-    "lemur": [],
     "lfa": [],
     "lipidr": [
         "impute"
@@ -1119,7 +1115,6 @@
         "flowViz",
         "flowWorkspace"
     ],
-    "oppar": [],
     "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
@@ -1158,7 +1153,6 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "phenoTest": [],
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
@@ -1485,7 +1479,6 @@
         "gdsfmt"
     ],
     "SomaticSignatures": [],
-    "SOMNiBUS": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz"
@@ -1604,7 +1597,6 @@
     "veloviz": [],
     "VennDetail": [],
     "Voyager": [],
-    "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
         "lumi",
