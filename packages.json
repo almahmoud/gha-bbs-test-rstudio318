@@ -87,7 +87,6 @@
     "ASSET": [],
     "ATACCoGAPS": [
         "GeneOverlap",
-        "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [],
@@ -289,7 +288,6 @@
         "HilbertVis"
     ],
     "chopsticks": [],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -1068,9 +1066,7 @@
     "meshr": [],
     "messina": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [
         "FlowSOM"
@@ -1237,7 +1233,6 @@
         "maftools"
     ],
     "MVCClass": [],
-    "MWASTools": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
