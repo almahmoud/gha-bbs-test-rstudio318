@@ -1463,7 +1463,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "OmaDB": [],
     "omicplotR": [],
     "omicRexposome": [
         "impute",
@@ -1538,9 +1537,7 @@
     "PhenoGeneRanker": [],
     "phenomis": [],
     "phenoTest": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
