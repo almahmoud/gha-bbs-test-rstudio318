@@ -146,7 +146,6 @@
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
-        "dmrseq",
         "impute"
     ],
     "blima": [
@@ -523,7 +522,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
     ],
