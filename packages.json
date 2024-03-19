@@ -137,8 +137,7 @@
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "BiocCheck": [],
     "BiocOncoTK": [],
@@ -243,8 +242,7 @@
         "TCGAutils"
     ],
     "CBNplot": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "ccImpute": [
         "SIMLR"
@@ -257,7 +255,6 @@
     "cellxgenedp": [],
     "CEMiTool": [
         "clusterProfiler",
-        "enrichplot",
         "impute"
     ],
     "censcyt": [
@@ -265,8 +262,7 @@
         "diffcyt"
     ],
     "CeTF": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CexoR": [
         "genomation",
@@ -308,9 +304,7 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPseeker": [
-        "enrichplot"
-    ],
+    "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -345,9 +339,7 @@
     ],
     "clustComp": [],
     "clusterExperiment": [],
-    "clusterProfiler": [
-        "enrichplot"
-    ],
+    "clusterProfiler": [],
     "ClustIRR": [],
     "cmapR": [],
     "cn.farms": [
@@ -520,7 +512,6 @@
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
-        "enrichplot",
         "impute",
         "mzID",
         "tkWidgets"
@@ -537,7 +528,6 @@
     "debrowser": [
         "Harman",
         "clusterProfiler",
-        "enrichplot",
         "pathview"
     ],
     "decontX": [],
@@ -645,18 +635,13 @@
         "pathview",
         "safe"
     ],
-    "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr"
     ],
-    "enrichViewNet": [
-        "enrichplot"
-    ],
+    "enrichViewNet": [],
     "EpiCompare": [
         "ChIPseeker",
-        "enrichplot",
         "genomation",
         "impute"
     ],
@@ -693,7 +678,6 @@
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr"
     ],
     "escape": [],
@@ -714,8 +698,7 @@
         "drawProteins"
     ],
     "famat": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "fastLiquidAssociation": [
         "impute"
@@ -821,7 +804,6 @@
     ],
     "GDCRNATools": [
         "clusterProfiler",
-        "enrichplot",
         "pathview"
     ],
     "gDNAx": [],
@@ -924,8 +906,7 @@
         "maftools"
     ],
     "goSorensen": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "GOstats": [],
     "GPA": [],
@@ -1002,7 +983,6 @@
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "impute"
     ],
     "infinityFlow": [],
@@ -1094,7 +1074,6 @@
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "enrichplot",
         "pathview"
     ],
     "MAIT": [
@@ -1152,9 +1131,7 @@
         "CNORode"
     ],
     "Mergeomics": [],
-    "meshes": [
-        "enrichplot"
-    ],
+    "meshes": [],
     "meshr": [],
     "messina": [],
     "MetaboAnnotation": [
@@ -1176,8 +1153,7 @@
         "xcms"
     ],
     "MetaPhOR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "metaseqR2": [
         "DSS",
@@ -1196,7 +1172,6 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "enrichplot",
         "methylumi",
         "missMethyl"
     ],
@@ -1218,8 +1193,7 @@
     "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "microRNA": [],
     "mimager": [],
@@ -1259,12 +1233,10 @@
     "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MoonlightR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "motifbreakR": [
         "Gviz",
@@ -1436,8 +1408,7 @@
     "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PanViz": [],
     "Path2PPI": [],
@@ -1483,7 +1454,6 @@
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "impute"
     ],
     "PING": [
@@ -1522,7 +1492,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
         "soGGi"
     ],
     "progeny": [
@@ -1546,7 +1515,6 @@
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
-        "enrichplot",
         "impute",
         "mzID",
         "tkWidgets"
@@ -1631,9 +1599,7 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomePA": [
-        "enrichplot"
-    ],
+    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -1790,7 +1756,6 @@
     "scTensor": [
         "GOstats",
         "ReactomePA",
-        "enrichplot",
         "meshr"
     ],
     "scTGIF": [],
@@ -1800,8 +1765,7 @@
         "epivizrServer"
     ],
     "segmenter": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "semisup": [],
     "seq.hotSPOT": [],
@@ -1810,8 +1774,7 @@
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "SeqArray": [
         "gdsfmt"
@@ -1839,8 +1802,7 @@
     "SigCheck": [],
     "sigFeature": [],
     "signatureSearch": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "signifinder": [
         "consensusOV",
@@ -1887,7 +1849,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "Spaniel": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
@@ -1953,7 +1914,6 @@
     ],
     "TDbasedUFEadv": [
         "TDbasedUFE",
-        "enrichplot",
         "tximport"
     ],
     "tenXplore": [],
@@ -1964,7 +1924,6 @@
         "DynDoc",
         "Mfuzz",
         "clusterProfiler",
-        "enrichplot",
         "tkWidgets"
     ],
     "TIN": [
