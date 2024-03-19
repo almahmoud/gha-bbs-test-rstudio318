@@ -117,7 +117,6 @@
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
-    "BiocPkgTools": [],
     "biocthis": [],
     "BioMVCClass": [
         "MVCClass"
@@ -270,7 +269,6 @@
         "DNAcopy",
         "maftools"
     ],
-    "circRNAprofiler": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -327,7 +325,6 @@
     "compSPOT": [],
     "condiments": [],
     "CONFESS": [
-        "flowClust",
         "flowMerge",
         "flowPeaks"
     ],
@@ -381,7 +378,6 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowViz"
     ],
@@ -399,7 +395,6 @@
         "FlowSOM"
     ],
     "CytoML": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -574,7 +569,6 @@
         "ChIPseeker",
         "clusterProfiler"
     ],
-    "escape": [],
     "EventPointer": [
         "tximport"
     ],
@@ -621,7 +615,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -637,10 +630,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMatch": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPeaks": [],
     "flowPloidy": [],
     "FlowSOM": [],
@@ -651,7 +641,6 @@
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
         "flowViz"
     ],
     "flowViz": [],
@@ -1162,7 +1151,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [
-        "flowClust",
         "flowViz",
         "flowWorkspace"
     ],
