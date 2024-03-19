@@ -1351,7 +1351,6 @@
     "multiWGCNA": [
         "impute"
     ],
-    "mumosa": [],
     "musicatk": [
         "DNAcopy",
         "maftools"
@@ -1775,9 +1774,7 @@
     "scDataviz": [],
     "SCFA": [],
     "scFeatureFilter": [],
-    "scFeatures": [
-        "SingleCellSignalR"
-    ],
+    "scFeatures": [],
     "scider": [],
     "scifer": [],
     "scMerge": [
@@ -1868,7 +1865,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "M3Drop",
         "TSCAN",
