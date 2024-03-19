@@ -436,7 +436,6 @@
     "csdR": [
         "impute"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -1431,7 +1430,6 @@
         "impute"
     ],
     "powerTCR": [],
-    "POWSC": [],
     "prebs": [
         "RPA"
     ],
@@ -1748,7 +1746,6 @@
     "shinyepico": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
-    "SigCheck": [],
     "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler"
@@ -1797,7 +1794,6 @@
     "SOMNiBUS": [],
     "SpacePAC": [],
     "SpatialDecon": [],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1931,9 +1927,7 @@
     "VCFArray": [],
     "veloviz": [],
     "VennDetail": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [],
     "vulcan": [
         "DiffBind"
