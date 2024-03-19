@@ -294,7 +294,6 @@
     "clustComp": [],
     "clusterProfiler": [],
     "ClustIRR": [],
-    "cmapR": [],
     "cn.farms": [
         "DNAcopy"
     ],
@@ -416,23 +415,20 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [],
     "dagLogo": [],
@@ -656,8 +652,7 @@
     ],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMatch": [],
     "flowMeans": [],
@@ -670,8 +665,7 @@
     "flowSpecs": [],
     "flowStats": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTime": [],
     "flowTrans": [
@@ -682,12 +676,9 @@
     "flowVS": [
         "flowStats",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [],
@@ -782,8 +773,7 @@
     "GEWIST": [],
     "ggbio": [],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggmanh": [
         "SeqArray",
@@ -858,8 +848,7 @@
     ],
     "imcRtools": [],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "IMPCdata": [],
     "impute": [],
@@ -1155,7 +1144,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "impute",
@@ -1207,8 +1195,7 @@
     "openCyto": [
         "flowClust",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "oppar": [],
     "optimalFlow": [
@@ -1233,8 +1220,7 @@
         "impute"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase",
@@ -1490,7 +1476,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scClassify": [],
     "scDataviz": [],
     "SCFA": [],
     "scFeatureFilter": [],
@@ -1676,7 +1661,6 @@
         "Gviz"
     ],
     "tradeSeq": [],
-    "transformGamPoi": [],
     "tRanslatome": [
         "RankProd"
     ],
