@@ -411,7 +411,6 @@
         "DNAcopy",
         "impute"
     ],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "DNAcopy",
@@ -436,8 +435,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -784,9 +782,7 @@
         "impute"
     ],
     "DIAlignR": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -948,7 +944,6 @@
     "EventPointer": [
         "tximport"
     ],
-    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
@@ -2147,10 +2142,7 @@
     ],
     "RCM": [],
     "Rcollectl": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "RCX": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
@@ -2205,7 +2197,6 @@
         "MutationalPatterns"
     ],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "rexposome": [
@@ -2498,7 +2489,6 @@
         "GLAD",
         "tilingArray"
     ],
-    "snifter": [],
     "snm": [],
     "SNPediaR": [],
     "SNPhood": [],
@@ -2584,7 +2574,6 @@
     "synlet": [
         "RankProd"
     ],
-    "systemPipeR": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -2742,8 +2731,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "lumi",
