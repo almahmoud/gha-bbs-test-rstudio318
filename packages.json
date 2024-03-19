@@ -705,7 +705,6 @@
     "DEGraph": [
         "NCIgraph"
     ],
-    "DelayedTensor": [],
     "deltaGseg": [],
     "DeMixT": [
         "DSS",
@@ -1417,7 +1416,6 @@
     ],
     "maskBAD": [],
     "MassArray": [],
-    "mastR": [],
     "MatrixQCvis": [
         "impute"
     ],
@@ -2391,7 +2389,6 @@
     "SPIAT": [],
     "spicyR": [],
     "SpliceWiz": [],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
