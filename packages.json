@@ -11,14 +11,12 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
         "ggbio"
     ],
     "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools",
         "ggbio"
@@ -90,9 +88,7 @@
     "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BADER": [],
     "bandle": [
         "MSnbase",
@@ -199,9 +195,7 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "CausalR": [],
     "cbaf": [
         "RTCGAToolbox",
@@ -801,7 +795,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "GmicR": [
-        "GOstats",
         "impute"
     ],
     "GNOSIS": [
@@ -813,7 +806,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
@@ -865,7 +857,6 @@
         "methylumi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "imcRtools": [],
@@ -1066,7 +1057,6 @@
     "microRNA": [],
     "mimager": [],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi"
     ],
@@ -1075,7 +1065,6 @@
     ],
     "mirIntegrator": [],
     "miRLAB": [
-        "GOstats",
         "impute"
     ],
     "missMethyl": [
@@ -1193,7 +1182,6 @@
     ],
     "netSmooth": [],
     "netZooR": [
-        "GOstats",
         "quantro",
         "yarn"
     ],
@@ -1242,9 +1230,7 @@
     "pathifier": [],
     "PathNet": [],
     "pathwayPCA": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
         "genefu",
         "impute"
@@ -1282,9 +1268,7 @@
     ],
     "planet": [],
     "plasmut": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotGrouper": [],
     "pmp": [
         "impute"
@@ -1426,7 +1410,6 @@
         "DNAcopy"
     ],
     "ReportingTools": [
-        "GOstats",
         "ggbio"
     ],
     "RESOLVE": [],
@@ -1537,7 +1520,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "meshr"
     ],
@@ -1574,9 +1556,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "sigFeature": [],
