@@ -1450,8 +1450,7 @@
     ],
     "OutSplice": [
         "DNAcopy",
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [],
     "pageRank": [
@@ -1684,8 +1683,7 @@
         "impute"
     ],
     "Repitools": [
-        "DNAcopy",
-        "Ringo"
+        "DNAcopy"
     ],
     "ReportingTools": [
         "GOstats",
@@ -1707,7 +1705,6 @@
         "aroma.light",
         "motifStack"
     ],
-    "Ringo": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -1886,9 +1883,7 @@
         "genefu",
         "impute"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "SimBu": [],
     "SIMLR": [],
     "simpleSeg": [
