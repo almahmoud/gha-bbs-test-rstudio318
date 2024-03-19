@@ -171,7 +171,6 @@
     ],
     "BgeeDB": [],
     "bgx": [],
-    "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
@@ -493,7 +492,6 @@
         "aroma.light"
     ],
     "consensusOV": [
-        "GSVA",
         "genefu",
         "impute"
     ],
@@ -741,7 +739,6 @@
         "impute"
     ],
     "EGSEA": [
-        "GSVA",
         "pathview",
         "safe"
     ],
@@ -820,9 +817,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [
         "tximport"
@@ -1094,7 +1089,6 @@
     "gsean": [],
     "GSgalgoR": [],
     "GSReg": [],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1175,7 +1169,6 @@
         "minfi"
     ],
     "infinityFlow": [],
-    "InPAS": [],
     "INPower": [],
     "intansv": [
         "biovizBase",
@@ -1628,7 +1621,6 @@
     "occugene": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq",
         "aroma.light"
     ],
@@ -1659,9 +1651,7 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -2057,7 +2047,6 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
-        "GSVA",
         "SingleCellSignalR"
     ],
     "scider": [],
@@ -2151,7 +2140,6 @@
     ],
     "signeR": [],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "genefu",
         "impute"
@@ -2168,7 +2156,6 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "GSVA",
         "M3Drop",
         "TSCAN",
         "celda",
@@ -2284,8 +2271,7 @@
     ],
     "TargetSearch": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TCGAutils": [],
     "TDbasedUFE": [
@@ -2319,9 +2305,7 @@
         "DynDoc"
     ],
     "tLOH": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "topconfects": [],
     "topdownr": [
