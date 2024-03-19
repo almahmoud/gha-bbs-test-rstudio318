@@ -359,7 +359,6 @@
     "ccrepe": [],
     "celaref": [],
     "celda": [],
-    "CellBarcode": [],
     "cellHTS2": [
         "Category"
     ],
@@ -600,22 +599,17 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [],
     "csdR": [
@@ -955,7 +949,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -1215,7 +1208,6 @@
     ],
     "ggspavis": [],
     "GIGSEA": [],
-    "girafe": [],
     "GISPA": [],
     "GLAD": [],
     "GladiaTOX": [],
@@ -1368,7 +1360,6 @@
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -2639,7 +2630,6 @@
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "biovizBase",
