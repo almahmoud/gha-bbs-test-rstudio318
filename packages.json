@@ -104,7 +104,6 @@
     "antiProfiles": [],
     "AnVILBilling": [],
     "APAlyzer": [],
-    "apComplex": [],
     "APL": [],
     "appreci8R": [],
     "aroma.light": [],
@@ -729,7 +728,6 @@
     "DExMA": [
         "impute"
     ],
-    "DIAlignR": [],
     "DiffBind": [],
     "diffcoexp": [
         "impute"
@@ -1152,7 +1150,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
-    "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
         "GOstats",
@@ -1642,12 +1639,9 @@
         "MsExperiment"
     ],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -1660,10 +1654,8 @@
         "mzID"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
