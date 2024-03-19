@@ -1342,8 +1342,7 @@
         "mzID"
     ],
     "profileplyr": [
-        "ChIPseeker",
-        "soGGi"
+        "ChIPseeker"
     ],
     "progeny": [
         "decoupleR"
@@ -1661,7 +1660,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
