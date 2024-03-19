@@ -542,7 +542,6 @@
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe",
         "zenith"
     ],
@@ -577,7 +576,6 @@
         "impute"
     ],
     "EnrichmentBrowser": [
-        "SPIA",
         "safe"
     ],
     "enrichTF": [
@@ -850,7 +848,6 @@
     "GSALightning": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe"
     ],
     "GSgalgoR": [],
@@ -1343,7 +1340,6 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [],
     "POMA": [
         "RankProd",
         "impute"
@@ -1693,7 +1689,6 @@
         "Gviz",
         "motifmatchr"
     ],
-    "SPIA": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -1844,7 +1839,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe"
     ]
 }
