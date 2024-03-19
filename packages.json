@@ -325,7 +325,6 @@
         "mzID"
     ],
     "clustComp": [],
-    "clusterExperiment": [],
     "clusterProfiler": [],
     "ClustIRR": [],
     "cmapR": [],
@@ -1306,9 +1305,7 @@
     "NetSAM": [
         "impute"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "GOstats",
         "quantro",
@@ -1495,7 +1492,6 @@
         "mzID"
     ],
     "qsmooth": [],
-    "qsvaR": [],
     "quantro": [],
     "QuartPAC": [
         "GraphPAC",
@@ -1871,7 +1867,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "trigger": [],
     "TSAR": [],
     "ttgsea": [],
     "TVTB": [
