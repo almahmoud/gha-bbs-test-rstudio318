@@ -218,7 +218,6 @@
     ],
     "CCPROMISE": [],
     "ccrepe": [],
-    "cellHTS2": [],
     "cellmigRation": [],
     "cellxgenedp": [],
     "CEMiTool": [
@@ -329,9 +328,7 @@
     "CNVrd2": [
         "DNAcopy"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cola": [
         "impute"
     ],
@@ -791,9 +788,7 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "geva": [],
     "GEWIST": [],
     "ggbio": [],
@@ -1083,7 +1078,6 @@
     "MinimumDistance": [
         "DNAcopy"
     ],
-    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "GOstats",
@@ -1144,10 +1138,7 @@
         "mzID"
     ],
     "MsQuality": [],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -1159,9 +1150,7 @@
         "impute",
         "mzID"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multicrispr": [
         "karyoploteR"
     ],
@@ -1401,7 +1390,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "RareVariantVis": [],
     "Rarr": [],
     "Rbec": [],
     "rBiopaxParser": [],
@@ -1479,9 +1467,7 @@
         "impute",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz"
     ],
@@ -1662,9 +1648,7 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "statTarget": [
         "impute"
     ],
