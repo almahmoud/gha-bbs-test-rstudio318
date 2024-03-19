@@ -86,13 +86,10 @@
     ],
     "ASSET": [],
     "ATACCoGAPS": [
-        "GeneOverlap",
-        "motifmatchr"
+        "GeneOverlap"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [
         "GOstats"
@@ -565,9 +562,7 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "impute"
     ],
@@ -575,8 +570,7 @@
         "safe"
     ],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "EpiCompare": [
@@ -615,8 +609,7 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "escape": [],
     "EventPointer": [
@@ -1129,7 +1122,6 @@
     "motifbreakR": [
         "Gviz"
     ],
-    "motifmatchr": [],
     "MPFE": [],
     "msgbsR": [
         "ggbio"
@@ -1265,9 +1257,7 @@
         "DNAcopy",
         "Repitools"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -1432,7 +1422,6 @@
         "DNAcopy"
     ],
     "Rcollectl": [],
-    "RcwlPipelines": [],
     "RCX": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
@@ -1466,9 +1455,7 @@
         "ggbio"
     ],
     "RESOLVE": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "rexposome": [
         "impute"
     ],
@@ -1666,8 +1653,7 @@
     "SOMNiBUS": [],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "SPLINTER": [
         "Gviz"
