@@ -31,31 +31,23 @@
     ],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
     "alevinQC": [
@@ -692,7 +684,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot",
@@ -1010,7 +1001,6 @@
     "Harman": [],
     "HarmonizR": [],
     "Harshlight": [],
-    "HelloRanges": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1040,7 +1030,6 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "igvR": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1117,7 +1106,6 @@
     "LedPred": [],
     "lemur": [],
     "lfa": [],
-    "lineagespot": [],
     "lipidr": [
         "impute"
     ],
@@ -1500,9 +1488,7 @@
         "impute",
         "rexposome"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
