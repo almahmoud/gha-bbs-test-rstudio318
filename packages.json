@@ -51,8 +51,7 @@
     "AnVILBilling": [],
     "aroma.light": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
@@ -89,7 +88,6 @@
     "bigmelon": [
         "gdsfmt",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "biobtreeR": [],
@@ -212,7 +210,6 @@
         "DNAcopy",
         "impute",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -411,7 +408,6 @@
     "diffuStats": [],
     "divergence": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "DNABarcodeCompatibility": [
@@ -520,8 +516,7 @@
     "fdrame": [],
     "FEAST": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FGNet": [],
     "flagme": [
@@ -700,8 +695,7 @@
         "biocthis"
     ],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [
         "pcaExplorer"
@@ -767,9 +761,7 @@
         "mzID",
         "xcms"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "M3C": [],
     "M3Drop": [],
     "Macarron": [
@@ -780,8 +772,7 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "impute",
-        "methylumi"
+        "impute"
     ],
     "MAGeCKFlute": [
         "clusterProfiler"
@@ -816,13 +807,11 @@
         "DNAcopy"
     ],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "impute",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "MEDIPS": [
@@ -859,7 +848,6 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "methylumi",
         "missMethyl"
     ],
     "MethylMix": [
@@ -867,7 +855,6 @@
     ],
     "methylPipe": [],
     "methylSig": [],
-    "methylumi": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -877,8 +864,7 @@
     ],
     "microRNA": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MinimumDistance": [
         "DNAcopy"
@@ -887,9 +873,7 @@
     "miRLAB": [
         "impute"
     ],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mistyR": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1175,7 +1159,6 @@
         "ASSET"
     ],
     "recount": [],
-    "recountmethylation": [],
     "RegionalST": [],
     "regionReport": [],
     "regutools": [],
@@ -1228,9 +1211,7 @@
     "RnaSeqSampleSize": [
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rnits": [
         "impute"
     ],
@@ -1334,7 +1315,6 @@
     "sizepower": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SLqPCR": [],
@@ -1452,8 +1432,7 @@
     "Voyager": [],
     "vulcan": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "weitrix": [
         "topconfects"
