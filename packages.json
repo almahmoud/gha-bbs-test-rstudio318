@@ -39,7 +39,6 @@
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
         "alabaster.se"
@@ -149,7 +148,6 @@
         "tximport"
     ],
     "BgeeDB": [],
-    "bgx": [],
     "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
@@ -1995,7 +1993,6 @@
     "SCOPE": [
         "DNAcopy"
     ],
-    "scoreInvHap": [],
     "scp": [],
     "scPipe": [],
     "scRepertoire": [
@@ -2260,7 +2257,6 @@
     ],
     "trigger": [],
     "trio": [],
-    "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
