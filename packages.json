@@ -36,16 +36,13 @@
         "BiocCheck"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
     "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
@@ -64,11 +61,9 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "alevinQC": [
         "tximport"
@@ -80,7 +75,6 @@
     "AlpsNMR": [
         "impute"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "impute"
     ],
@@ -623,7 +617,6 @@
         "enrichplot",
         "pathview"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "celda"
     ],
@@ -778,9 +771,7 @@
         "minfi"
     ],
     "epiNEM": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -1095,9 +1086,7 @@
     ],
     "Harman": [],
     "HarmonizR": [],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HelloRanges": [],
     "Herper": [],
     "HiCDCPlus": [
@@ -1442,7 +1431,6 @@
     "MODA": [
         "impute"
     ],
-    "MOGAMUN": [],
     "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [],
@@ -1540,7 +1528,6 @@
     "MungeSumstats": [],
     "musicatk": [
         "DNAcopy",
-        "decompTumor2Sig",
         "maftools"
     ],
     "MutationalPatterns": [],
@@ -2072,7 +2059,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "selectKSigs": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -2117,7 +2103,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -2315,7 +2300,6 @@
     ],
     "trigger": [],
     "trio": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSAR": [],
     "TSCAN": [],
