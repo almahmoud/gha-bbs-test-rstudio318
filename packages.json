@@ -1340,7 +1340,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
@@ -1478,7 +1477,6 @@
         "impute",
         "mzID"
     ],
-    "qsmooth": [],
     "quantro": [],
     "QuartPAC": [
         "SpacePAC"
@@ -1667,7 +1665,6 @@
         "ReactomePA",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
