@@ -398,7 +398,6 @@
         "aroma.light",
         "impute"
     ],
-    "cfTools": [],
     "CGHcall": [
         "DNAcopy",
         "impute"
@@ -1479,7 +1478,6 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1888,7 +1886,6 @@
     "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
-    "ontoProc": [],
     "openCyto": [
         "flowClust",
         "flowCore",
@@ -1992,9 +1989,7 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "RankProd",
         "impute"
@@ -2596,9 +2591,7 @@
         "enrichplot",
         "tximport"
     ],
-    "tenXplore": [
-        "ontoProc"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -2667,7 +2660,6 @@
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TRONCO": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
