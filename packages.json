@@ -730,9 +730,7 @@
     ],
     "fCI": [],
     "fdrame": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi"
@@ -946,7 +944,6 @@
         "pathview",
         "safe"
     ],
-    "gsean": [],
     "GSgalgoR": [],
     "GSReg": [],
     "GUIDEseq": [],
@@ -1867,7 +1864,6 @@
     ],
     "singleCellTK": [
         "M3Drop",
-        "TSCAN",
         "celda",
         "eds",
         "scMerge",
@@ -2018,7 +2014,6 @@
     ],
     "trigger": [],
     "TSAR": [],
-    "TSCAN": [],
     "ttgsea": [],
     "TVTB": [
         "Gviz"
