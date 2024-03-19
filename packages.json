@@ -366,7 +366,6 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "compSPOT": [],
     "condiments": [],
     "CONFESS": [
@@ -1076,9 +1075,7 @@
     "meshes": [],
     "meshr": [],
     "messina": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -1185,7 +1182,6 @@
     "MsBackendMassbank": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsExperiment": [],
     "msgbsR": [
         "ggbio"
