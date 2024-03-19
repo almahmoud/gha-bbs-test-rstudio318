@@ -114,10 +114,7 @@
         "pRoloc"
     ],
     "BaseSpaceR": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BatchQC": [],
     "beadarray": [
         "BeadDataPackR"
@@ -1457,7 +1454,6 @@
         "enrichplot"
     ],
     "PanViz": [],
-    "pareg": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
@@ -2075,7 +2071,6 @@
     ],
     "vbmp": [],
     "VCFArray": [],
-    "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
     "Voyager": [
