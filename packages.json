@@ -271,7 +271,6 @@
         "maftools"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -624,7 +623,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowClean": [],
     "flowClust": [],
     "flowCut": [
         "flowDensity",
@@ -669,7 +667,6 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [],
-    "GA4GHshiny": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -1543,7 +1540,6 @@
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
-    "SMITE": [],
     "snapCGH": [
         "DNAcopy",
         "GLAD"
