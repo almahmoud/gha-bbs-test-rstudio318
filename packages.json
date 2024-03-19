@@ -397,9 +397,7 @@
     ],
     "CompoundDb": [],
     "compSPOT": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -1800,9 +1798,7 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -1890,7 +1886,6 @@
         "methylumi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -2015,17 +2010,13 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
         "RankProd"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
