@@ -2194,7 +2194,6 @@
     "RITAN": [
         "BgeeDB"
     ],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2253,7 +2252,6 @@
     "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
@@ -2346,7 +2344,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
