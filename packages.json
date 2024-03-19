@@ -12,7 +12,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "GOstats",
         "ReportingTools",
@@ -35,8 +34,7 @@
     ],
     "AHMassBank": [
         "AnnotationHubData",
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "alabaster": [
         "alabaster.bumpy",
@@ -98,8 +96,7 @@
         "DNAcopy"
     ],
     "AnnotationHubData": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "antiProfiles": [],
     "AnVILBilling": [],
@@ -158,13 +155,11 @@
     "BaseSpaceR": [],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [],
-    "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR"
     ],
@@ -195,15 +190,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "BiocOncoTK": [],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "biocthis": [],
-    "biocViews": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -383,7 +373,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "biovizBase"
@@ -408,7 +397,6 @@
     "CHRONOS": [],
     "cicero": [
         "Gviz",
-        "biocViews",
         "biovizBase",
         "monocle"
     ],
@@ -419,9 +407,7 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [],
     "clevRvis": [],
     "clipper": [],
@@ -856,8 +842,7 @@
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -1006,8 +991,7 @@
         "PharmacoGx"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -1089,7 +1073,6 @@
     "GIGSEA": [],
     "GLAD": [],
     "GladiaTOX": [],
-    "glmGamPoi": [],
     "gmapR": [],
     "GmicR": [
         "GOstats",
@@ -1268,9 +1251,7 @@
     "LBE": [],
     "LEA": [],
     "LedPred": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lfa": [],
     "lineagespot": [],
     "lipidr": [
@@ -1423,7 +1404,6 @@
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
-        "biocViews",
         "impute",
         "minfi",
         "planet"
@@ -1511,9 +1491,7 @@
     "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
         "enrichplot"
@@ -1755,7 +1733,6 @@
         "CoreGx"
     ],
     "phemd": [
-        "biocViews",
         "monocle"
     ],
     "PhenoGeneRanker": [],
@@ -1984,7 +1961,6 @@
     "rexposome": [
         "impute"
     ],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
@@ -2000,7 +1976,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "biocViews",
         "impute",
         "mzID",
         "xcms"
@@ -2187,9 +2162,7 @@
     ],
     "SIAMCAT": [],
     "SigCheck": [],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -2346,7 +2319,6 @@
         "TCGAutils"
     ],
     "TFHAZ": [],
-    "TFutils": [],
     "tilingArray": [],
     "TimiRGeN": [
         "DynDoc",
@@ -2360,7 +2332,6 @@
         "aroma.light",
         "impute"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tkWidgets": [
         "DynDoc"
@@ -2389,9 +2360,7 @@
     ],
     "transcriptogramer": [],
     "transcriptR": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "RankProd"
     ],
@@ -2427,7 +2396,6 @@
     "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
