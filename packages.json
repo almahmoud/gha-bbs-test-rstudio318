@@ -200,9 +200,7 @@
     "BgeeDB": [],
     "bgx": [],
     "BicARE": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
         "lumi",
@@ -1359,9 +1357,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [],
     "HilbertCurve": [
@@ -1383,7 +1379,6 @@
     "HubPub": [
         "biocthis"
     ],
-    "hyperdraw": [],
     "icetea": [],
     "iCheck": [
         "lumi",
@@ -1883,7 +1878,6 @@
         "karyoploteR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
