@@ -169,7 +169,6 @@
         "mzID",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BaseSpaceR": [],
     "BASiCS": [],
     "BASiCStan": [
@@ -431,13 +430,11 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "chipseq"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -1319,7 +1316,6 @@
     "HPAanalyze": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HubPub": [
@@ -1460,7 +1456,6 @@
         "Maaslin2",
         "impute"
     ],
-    "MACSr": [],
     "MADSEQ": [],
     "maftools": [
         "DNAcopy"
@@ -2012,7 +2007,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -2485,9 +2479,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "biovizBase",
@@ -2633,9 +2625,7 @@
         "slingshot"
     ],
     "transcriptogramer": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
