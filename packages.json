@@ -307,8 +307,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
@@ -651,7 +649,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
@@ -876,7 +873,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
