@@ -990,7 +990,6 @@
     "kissDE": [
         "DSS"
     ],
-    "KnowSeq": [],
     "LBE": [],
     "LEA": [],
     "LedPred": [],
@@ -1411,9 +1410,7 @@
         "impute"
     ],
     "powerTCR": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "DNAcopy",
         "rCGH"
@@ -1622,7 +1619,6 @@
         "impute"
     ],
     "ROntoTools": [],
-    "RPA": [],
     "Rqc": [],
     "rsemmed": [],
     "RSeqAn": [],
