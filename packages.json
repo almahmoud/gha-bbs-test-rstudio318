@@ -105,7 +105,6 @@
         "GOstats"
     ],
     "BADER": [],
-    "ballgown": [],
     "bandle": [
         "MSnbase",
         "impute",
@@ -1917,9 +1916,7 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "vbmp": [],
     "VCFArray": [],
     "veloviz": [],
