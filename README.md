@@ -1,12 +1,12 @@
 # Summary
 
-1478 Bioconductor sotware binaries built
+1479 Bioconductor sotware binaries built
 
-3047 Other dependency binaries built
+3048 Other dependency binaries built
 
 0 failed packages
 
-719 unclaimed packages
+718 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (719)
+## Unclaimed (718)
 | Package                    | Status    | Blocked By                                                                                                  |
 |----------------------------|-----------|-------------------------------------------------------------------------------------------------------------|
 | ACE                        | Unclaimed | Incomplete Bioc dependencies: CGHcall, DNAcopy, QDNAseq, impute.                                            |
@@ -422,7 +422,6 @@
 | metaMS                     | Unclaimed | Incomplete Bioc dependencies: CAMERA, MSnbase, MsExperiment, impute, mzID, xcms.                            |
 | MetaPhOR                   | Unclaimed | Incomplete Bioc dependencies: clusterProfiler.                                                              |
 | metaseqR2                  | Unclaimed | Incomplete Bioc dependencies: DSS, EDASeq, aroma.light.                                                     |
-| MetCirc                    | Unclaimed |                                                                                                             |
 | MethylAid                  | Unclaimed |                                                                                                             |
 | methylCC                   | Unclaimed |                                                                                                             |
 | methylclock                | Unclaimed | Incomplete Bioc dependencies: AnnotationHubData, BiocCheck, ExperimentHubData, impute, planet.              |
@@ -737,7 +736,7 @@
 | yarn                       | Unclaimed | Incomplete Bioc dependencies: quantro.                                                                      |
 | zenith                     | Unclaimed | Incomplete Bioc dependencies: EnrichmentBrowser, SPIA, pathview, safe.                                      |
 
-## Bioconductor Software Binaries Built (1478)
+## Bioconductor Software Binaries Built (1479)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -1513,6 +1512,7 @@
 | metapod                      | Succeeded | [metapod_1.10.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/metapod_1.10.1_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | metapone                     | Succeeded | [metapone_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/metapone_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | metaSeq                      | Succeeded | [metaSeq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/metaSeq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| MetCirc                      | Succeeded | [MetCirc_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/MetCirc_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | methimpute                   | Succeeded | [methimpute_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/methimpute_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | methInheritSim               | Succeeded | [methInheritSim_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/methInheritSim_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | MethPed                      | Succeeded | [MethPed_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/MethPed_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2219,7 +2219,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1478)
+## Other Dependency Binaries (1479)
 | Package                                     | Status    | Tarball                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | DLBCL                                       | Succeeded | [DLBCL_1.42.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/DLBCL_1.42.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
@@ -4116,6 +4116,7 @@
 | FIs                                         | Succeeded | [FIs_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/FIs_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
 | rARPACK                                     | Succeeded | [rARPACK_0.11-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/rARPACK_0.11-0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | HiContactsData                              | Succeeded | [HiContactsData_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/HiContactsData_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
+| MetCirc                                     | Succeeded | [MetCirc_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/MetCirc_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | stable                                      | Succeeded | [stable_1.1.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/stable_1.1.6_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | EBSeq                                       | Succeeded | [EBSeq_2.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/EBSeq_2.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                             |
 | sendmailR                                   | Succeeded | [sendmailR_1.4-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-18-11-43/binaries/src/contrib/sendmailR_1.4-0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
