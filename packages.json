@@ -778,7 +778,6 @@
         "impute"
     ],
     "Harman": [],
-    "Harshlight": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1277,7 +1276,6 @@
     ],
     "quantro": [],
     "QuartPAC": [],
-    "QuasR": [],
     "R3CPET": [
         "ggbio"
     ],
@@ -1495,9 +1493,7 @@
         "scMerge",
         "tximport"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "sizepower": [],
     "skewr": [
         "lumi",
