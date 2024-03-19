@@ -328,7 +328,6 @@
     "condiments": [],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge",
         "flowPeaks"
     ],
@@ -399,7 +398,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowViz",
@@ -640,7 +638,6 @@
         "ggcyto"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -1170,9 +1167,7 @@
         "flowWorkspace"
     ],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -1510,7 +1505,6 @@
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
