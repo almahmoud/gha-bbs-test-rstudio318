@@ -1562,9 +1562,7 @@
         "GLAD"
     ],
     "maPredictDSC": [],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -2112,7 +2110,6 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [],
     "plotGrouper": [],
     "plyinteractions": [],
     "pmp": [
@@ -2834,9 +2831,7 @@
         "tximport"
     ],
     "tximport": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
