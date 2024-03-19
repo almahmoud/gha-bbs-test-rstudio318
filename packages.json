@@ -108,7 +108,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "annotatr": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "APAlyzer": [],
@@ -256,7 +255,6 @@
         "DNAcopy",
         "OrganismDbi",
         "QDNAseq",
-        "annotatr",
         "bsseq",
         "dmrseq",
         "impute"
@@ -828,7 +826,6 @@
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
         "bsseq"
     ],
     "DNABarcodeCompatibility": [
@@ -2412,7 +2409,6 @@
         "M3Drop"
     ],
     "scmeth": [
-        "annotatr",
         "bsseq"
     ],
     "scone": [
@@ -2577,7 +2573,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
         "bsseq"
     ],
     "SpacePAC": [],
