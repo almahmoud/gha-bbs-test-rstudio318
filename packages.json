@@ -132,7 +132,6 @@
     ],
     "BatchQC": [],
     "BayesSpace": [],
-    "BBCAnalyzer": [],
     "beadarray": [
         "BeadDataPackR"
     ],
@@ -246,7 +245,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "cardelino": [],
     "CARNIVAL": [],
     "CATALYST": [
         "FlowSOM"
@@ -635,7 +633,6 @@
     ],
     "DNABarcodes": [],
     "DNAcopy": [],
-    "DominoEffect": [],
     "doppelgangR": [
         "impute"
     ],
@@ -2068,14 +2065,9 @@
         "impute"
     ],
     "stJoincount": [],
-    "StructuralVariantAnnotation": [],
     "Summix": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [],
     "swfdr": [],
     "synapter": [
