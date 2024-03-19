@@ -252,7 +252,6 @@
     "CCPROMISE": [],
     "ccrepe": [],
     "celaref": [],
-    "celda": [],
     "cellHTS2": [],
     "cellmigRation": [],
     "cellxgenedp": [],
@@ -541,9 +540,7 @@
         "enrichplot",
         "pathview"
     ],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -588,7 +585,6 @@
     ],
     "diffuStats": [],
     "diffUTR": [],
-    "Dino": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -1287,7 +1283,6 @@
     "msgbsR": [
         "ggbio"
     ],
-    "msImpute": [],
     "mslp": [
         "RankProd"
     ],
@@ -1864,7 +1859,6 @@
     ],
     "singleCellTK": [
         "M3Drop",
-        "celda",
         "eds",
         "scMerge",
         "tximport"
