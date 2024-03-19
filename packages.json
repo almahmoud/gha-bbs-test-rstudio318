@@ -93,8 +93,7 @@
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "BiocOncoTK": [],
     "biocthis": [],
@@ -162,9 +161,7 @@
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -172,15 +169,12 @@
     "cellmigRation": [],
     "cellxgenedp": [],
     "CEMiTool": [
-        "clusterProfiler",
         "impute"
     ],
     "censcyt": [
         "diffcyt"
     ],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -239,7 +233,6 @@
         "mzID"
     ],
     "clustComp": [],
-    "clusterProfiler": [],
     "ClustIRR": [],
     "cn.farms": [
         "DNAcopy"
@@ -359,7 +352,6 @@
         "DynDoc",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "mzID",
         "tkWidgets"
@@ -371,8 +363,7 @@
         "flowPeaks"
     ],
     "debrowser": [
-        "Harman",
-        "clusterProfiler"
+        "Harman"
     ],
     "decontX": [],
     "decoupleR": [],
@@ -450,9 +441,7 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
     "enrichViewNet": [],
     "EpiCompare": [
         "genomation",
@@ -483,9 +472,7 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "esATAC": [
-        "clusterProfiler"
-    ],
+    "esATAC": [],
     "EventPointer": [
         "tximport"
     ],
@@ -498,9 +485,7 @@
     "factR": [
         "drawProteins"
     ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "famat": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -565,9 +550,7 @@
     "gcatest": [
         "lfa"
     ],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "gDR": [
         "PharmacoGx",
         "gDRimport"
@@ -646,9 +629,7 @@
         "cBioPortalData",
         "maftools"
     ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
@@ -704,7 +685,6 @@
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
-        "clusterProfiler",
         "impute"
     ],
     "INPower": [],
@@ -769,9 +749,7 @@
         "RnBeads",
         "impute"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -827,9 +805,7 @@
         "mzID",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [
         "EDASeq",
         "aroma.light"
@@ -841,7 +817,6 @@
         "planet"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "missMethyl"
     ],
     "MethylMix": [
@@ -853,9 +828,7 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [
         "lumi"
@@ -879,12 +852,8 @@
         "impute"
     ],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "motifbreakR": [],
     "MPFE": [],
     "msgbsR": [],
@@ -999,9 +968,7 @@
         "Repitools"
     ],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "PanViz": [],
     "Path2PPI": [],
     "pathifier": [],
@@ -1034,7 +1001,6 @@
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
-        "clusterProfiler",
         "impute"
     ],
     "PING": [],
@@ -1081,7 +1047,6 @@
         "DynDoc",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "mzID",
         "tkWidgets"
@@ -1260,9 +1225,7 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchRplus": [
-        "clusterProfiler"
-    ],
+    "seqArchRplus": [],
     "SeqArray": [
         "gdsfmt"
     ],
@@ -1280,9 +1243,7 @@
         "gdsfmt"
     ],
     "SGCP": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -1360,7 +1321,6 @@
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
-        "clusterProfiler",
         "tkWidgets"
     ],
     "TIN": [
