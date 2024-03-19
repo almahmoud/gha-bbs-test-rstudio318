@@ -19,10 +19,7 @@
         "ggbio"
     ],
     "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
         "GOstats",
@@ -97,7 +94,6 @@
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
-        "affyPLM",
         "beadarray"
     ],
     "ARRmNormalization": [],
@@ -1379,9 +1375,7 @@
     ],
     "MicrobiotaProcess": [],
     "microRNA": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "GOstats",
         "lumi",
