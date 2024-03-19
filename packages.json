@@ -363,8 +363,7 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cycle": [
         "DynDoc",
@@ -378,7 +377,6 @@
         "CATALYST"
     ],
     "CytoML": [
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "openCyto"
@@ -413,8 +411,7 @@
     "dce": [],
     "ddPCRclust": [
         "flowDensity",
-        "flowPeaks",
-        "flowViz"
+        "flowPeaks"
     ],
     "debrowser": [
         "Harman",
@@ -540,7 +537,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler"
@@ -585,20 +581,14 @@
     ],
     "FLAMES": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "flowCyBar": [],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -606,16 +596,11 @@
     "flowMerge": [],
     "flowPeaks": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace"
     ],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace"
     ],
     "flowWorkspace": [],
@@ -629,8 +614,7 @@
         "aroma.light"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -1104,7 +1088,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [
-        "flowViz",
         "flowWorkspace"
     ],
     "optimalFlow": [],
@@ -1374,7 +1357,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scDataviz": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [],
@@ -1494,7 +1476,6 @@
         "impute"
     ],
     "Summix": [],
-    "svaNUMT": [],
     "svaRetro": [],
     "swfdr": [],
     "synapter": [
