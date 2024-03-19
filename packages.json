@@ -274,8 +274,7 @@
     "bnbc": [],
     "bnem": [
         "CellNOptR",
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "BOBaFIT": [
         "OrganismDbi",
@@ -328,7 +327,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -492,7 +490,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -515,7 +512,6 @@
     "cn.farms": [
         "DNAcopy"
     ],
-    "cn.mops": [],
     "CNAnorm": [
         "DNAcopy"
     ],
@@ -534,13 +530,11 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVPanelizer": [],
@@ -575,9 +569,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "compSPOT": [],
     "condiments": [
         "slingshot"
@@ -611,7 +603,6 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -619,7 +610,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -747,8 +737,7 @@
     ],
     "DCATS": [],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowCore",
@@ -945,9 +934,7 @@
         "biovizBase",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -1036,7 +1023,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1438,7 +1424,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1503,7 +1488,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1544,7 +1528,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1617,8 +1600,7 @@
     ],
     "messina": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaboSignal": [
         "KEGGgraph",
@@ -1633,7 +1615,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1648,9 +1629,7 @@
         "aroma.light",
         "bsseq"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
@@ -1745,12 +1724,10 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1789,24 +1766,12 @@
         "TFBSTools"
     ],
     "MPFE": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "OrganismDbi",
         "biovizBase",
@@ -1843,8 +1808,7 @@
     "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsBig": [],
     "MSstatsLiP": [
@@ -1917,7 +1881,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID",
         "xcms"
@@ -1929,8 +1892,7 @@
         "RCX"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "netbiov": [],
     "netboost": [
@@ -1940,7 +1902,6 @@
         "RandomWalkRestartMH"
     ],
     "netprioR": [],
-    "netresponse": [],
     "NetSAM": [
         "impute"
     ],
@@ -2019,9 +1980,7 @@
     ],
     "paircompviz": [],
     "pairedGSEA": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -2336,7 +2295,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "biocViews",
         "impute",
         "mzID",
@@ -2646,7 +2604,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
@@ -2883,7 +2840,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "impute",
         "mzID"
     ],
