@@ -580,7 +580,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
@@ -1706,7 +1705,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "orthos": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools",
