@@ -39,7 +39,6 @@
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
@@ -50,30 +49,24 @@
     "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.matrix": [],
-    "alabaster.ranges": [],
     "alabaster.sce": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.matrix",
-        "alabaster.ranges"
+        "alabaster.matrix"
     ],
     "alabaster.spatial": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
     ],
@@ -551,7 +544,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowClust",
         "flowDensity",
@@ -1055,7 +1047,6 @@
     "GIGSEA": [],
     "GLAD": [],
     "GladiaTOX": [],
-    "gmapR": [],
     "GmicR": [
         "GOstats",
         "impute"
@@ -1133,8 +1124,7 @@
     "hoodscanR": [],
     "HPAanalyze": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "HubPub": [
         "biocthis"
@@ -1369,7 +1359,6 @@
         "aroma.light"
     ],
     "MetCirc": [],
-    "methInheritSim": [],
     "MethylAid": [
         "minfi"
     ],
@@ -2299,7 +2288,6 @@
         "aroma.light",
         "impute"
     ],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc"
     ],
