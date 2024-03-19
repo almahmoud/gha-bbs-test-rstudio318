@@ -82,7 +82,6 @@
     ],
     "antiProfiles": [],
     "AnVILBilling": [],
-    "APAlyzer": [],
     "APL": [],
     "appreci8R": [],
     "aroma.light": [],
@@ -577,7 +576,6 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -738,7 +736,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -1094,7 +1091,6 @@
     "HubPub": [
         "biocthis"
     ],
-    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -1214,7 +1210,6 @@
         "Maaslin2",
         "impute"
     ],
-    "MADSEQ": [],
     "maftools": [
         "DNAcopy"
     ],
@@ -1245,7 +1240,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "maskBAD": [],
     "MassArray": [],
     "MatrixQCvis": [
         "impute"
@@ -1413,7 +1407,6 @@
     "MODA": [
         "impute"
     ],
-    "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [],
     "monocle": [],
@@ -1507,7 +1500,6 @@
         "impute"
     ],
     "mumosa": [],
-    "MungeSumstats": [],
     "musicatk": [
         "DNAcopy",
         "maftools"
@@ -1790,7 +1782,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx"
     ],
@@ -2275,8 +2266,7 @@
     "ttgsea": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "tximeta": [
         "tximport"
