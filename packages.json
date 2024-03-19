@@ -864,7 +864,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "impute"
     ],
@@ -1035,9 +1034,7 @@
     "lipidr": [
         "impute"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1374,7 +1371,6 @@
         "rexposome"
     ],
     "OMICsPCA": [],
-    "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [
@@ -1839,7 +1835,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
@@ -1851,7 +1846,6 @@
     ],
     "SPIA": [],
     "SPIAT": [],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz"
     ],
