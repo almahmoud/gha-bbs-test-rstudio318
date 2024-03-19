@@ -23,7 +23,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "agilp": [],
     "AgiMicroRna": [
         "GOstats",
@@ -231,7 +230,6 @@
     ],
     "bnbc": [],
     "bnem": [
-        "CellNOptR",
         "epiNEM"
     ],
     "BOBaFIT": [
@@ -323,7 +321,6 @@
     "cellHTS2": [],
     "cellity": [],
     "cellmigRation": [],
-    "CellNOptR": [],
     "cellxgenedp": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -437,18 +434,10 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -1356,8 +1345,7 @@
         "DNAcopy"
     ],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "Mergeomics": [],
     "meshes": [
