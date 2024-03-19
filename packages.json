@@ -571,7 +571,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deepSNV": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -638,7 +637,6 @@
     ],
     "DriverNet": [],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [],
     "DSS": [],
     "DynDoc": [],
     "easier": [
@@ -756,7 +754,6 @@
         "impute"
     ],
     "fCI": [],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "TSCAN"
@@ -1308,9 +1305,7 @@
         "minfi"
     ],
     "mistyR": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1404,7 +1399,6 @@
     "multicrispr": [
         "karyoploteR"
     ],
-    "multiGSEA": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -1420,7 +1414,6 @@
     ],
     "MVCClass": [],
     "MWASTools": [],
-    "myvariant": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1998,7 +1991,6 @@
     ],
     "snm": [],
     "SNPediaR": [],
-    "SNPhood": [],
     "SNPRelate": [
         "gdsfmt"
     ],
