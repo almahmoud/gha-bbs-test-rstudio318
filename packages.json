@@ -148,9 +148,7 @@
     "BOBaFIT": [
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
@@ -296,7 +294,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -459,9 +456,7 @@
     ],
     "DEGraph": [],
     "deltaGseg": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -511,7 +506,6 @@
         "zenith"
     ],
     "DriverNet": [],
-    "DSS": [],
     "DynDoc": [],
     "easier": [
         "decoupleR",
@@ -886,9 +880,7 @@
         "maftools"
     ],
     "KBoost": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "LBE": [],
     "LEA": [],
     "LedPred": [],
@@ -972,12 +964,9 @@
     "MEDIPS": [
         "DNAcopy"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Mergeomics": [],
     "meshes": [],
-    "meshr": [],
     "messina": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
@@ -996,7 +985,6 @@
         "clusterProfiler"
     ],
     "metaseqR2": [
-        "DSS",
         "EDASeq",
         "aroma.light"
     ],
@@ -1019,9 +1007,7 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [],
     "Mfuzz": [
         "DynDoc",
@@ -1489,8 +1475,7 @@
         "ggbio"
     ],
     "scTensor": [
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTreeViz": [
         "epivizr",
