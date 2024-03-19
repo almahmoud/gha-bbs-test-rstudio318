@@ -338,7 +338,6 @@
         "phenoTest"
     ],
     "cardelino": [],
-    "Cardinal": [],
     "CARNIVAL": [],
     "casper": [],
     "CATALYST": [
@@ -536,7 +535,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -1988,7 +1986,6 @@
     "pathifier": [],
     "PathNet": [],
     "PathoStat": [],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
