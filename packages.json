@@ -114,7 +114,6 @@
     "BgeeCall": [
         "tximport"
     ],
-    "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
         "lumi",
@@ -144,9 +143,7 @@
     "BioNERO": [
         "impute"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
@@ -280,9 +277,7 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
@@ -489,8 +484,7 @@
     ],
     "debrowser": [
         "Harman",
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "decontX": [],
     "deconvR": [],
@@ -522,7 +516,6 @@
     "DExMA": [
         "impute"
     ],
-    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -552,7 +545,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe",
         "zenith"
     ],
@@ -575,7 +567,6 @@
         "impute"
     ],
     "EGSEA": [
-        "pathview",
         "safe"
     ],
     "ELMER": [
@@ -589,7 +580,6 @@
     ],
     "EnrichmentBrowser": [
         "SPIA",
-        "pathview",
         "safe"
     ],
     "enrichTF": [
@@ -757,8 +747,7 @@
         "lfa"
     ],
     "GDCRNATools": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "gDNAx": [],
     "gDR": [
@@ -864,7 +853,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ],
     "GSgalgoR": [],
@@ -1006,8 +994,7 @@
         "methylumi"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "MAIT": [
         "CAMERA",
@@ -1313,7 +1300,6 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
         "GOstats"
@@ -1585,9 +1571,7 @@
         "gdsfmt"
     ],
     "SANTA": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SBMLR": [],
     "SCArray": [
         "gdsfmt"
@@ -1764,7 +1748,6 @@
         "TDbasedUFE",
         "tximport"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [],
     "TimiRGeN": [
         "DynDoc",
@@ -1838,9 +1821,7 @@
     "VennDetail": [],
     "Voyager": [],
     "vtpnet": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
@@ -1870,7 +1851,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ]
 }
