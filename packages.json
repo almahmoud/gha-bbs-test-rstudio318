@@ -1265,7 +1265,6 @@
     ],
     "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -2146,7 +2145,6 @@
     "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
-    "ViSEAGO": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
