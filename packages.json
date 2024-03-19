@@ -1206,7 +1206,6 @@
         "impute"
     ],
     "GeneGA": [],
-    "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneRecommender": [],
     "GENESIS": [
@@ -1621,7 +1620,6 @@
         "CompoundDb",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools"
@@ -1959,7 +1957,6 @@
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
-    "normr": [],
     "npGSEA": [],
     "NTW": [],
     "nucleR": [],
