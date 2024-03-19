@@ -9,8 +9,7 @@
     "ADaCGH2": [
         "DNAcopy",
         "GLAD",
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "affycoretools": [
         "GOstats",
@@ -120,7 +119,6 @@
         "BASiCS"
     ],
     "BatchQC": [],
-    "BayesSpace": [],
     "beadarray": [
         "BeadDataPackR"
     ],
@@ -1670,9 +1668,7 @@
     "recountmethylation": [],
     "REDseq": [],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regionReport": [
         "derfinder"
     ],
@@ -1915,8 +1911,7 @@
     "SMITE": [],
     "snapCGH": [
         "DNAcopy",
-        "GLAD",
-        "tilingArray"
+        "GLAD"
     ],
     "snm": [],
     "SNPediaR": [],
@@ -2004,7 +1999,6 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "tilingArray": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
