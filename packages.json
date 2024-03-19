@@ -185,9 +185,7 @@
         "phenoTest"
     ],
     "CARNIVAL": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "categoryCompare": [],
     "CausalR": [],
     "cbaf": [
@@ -212,7 +210,6 @@
         "impute"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -387,12 +384,10 @@
         "tkWidgets"
     ],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "CytoML": [
         "flowViz",
@@ -402,14 +397,12 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
@@ -470,9 +463,7 @@
     "diffcoexp": [
         "impute"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
     ],
@@ -610,7 +601,6 @@
     "FLAMES": [
         "ggbio"
     ],
-    "flowAI": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -633,7 +623,6 @@
     "flowMerge": [],
     "flowPeaks": [],
     "flowPloidy": [],
-    "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
         "flowViz",
@@ -826,7 +815,6 @@
         "clusterProfiler",
         "impute"
     ],
-    "infinityFlow": [],
     "INPower": [],
     "intansv": [
         "ggbio"
@@ -954,9 +942,7 @@
     "MetaboAnnotation": [],
     "MetaboSignal": [],
     "metaCCA": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1443,7 +1429,6 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "Sconify": [],
     "SCOPE": [
         "DNAcopy"
     ],
@@ -1617,7 +1602,6 @@
     ],
     "traviz": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "TSAR": [],
