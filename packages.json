@@ -599,7 +599,6 @@
         "zenith"
     ],
     "DriverNet": [],
-    "drugTargetInteractions": [],
     "DSS": [],
     "DynDoc": [],
     "easier": [
@@ -1003,13 +1002,9 @@
         "mzID",
         "xcms"
     ],
-    "iSEEde": [],
-    "iSEEhex": [],
     "iSEEhub": [],
     "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR"
@@ -1378,7 +1373,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "impute",
         "rexposome"
