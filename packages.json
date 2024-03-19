@@ -429,7 +429,6 @@
         "genefu",
         "impute"
     ],
-    "consICA": [],
     "contiBAIT": [
         "DNAcopy"
     ],
@@ -2123,7 +2122,6 @@
         "diffcyt"
     ],
     "trigger": [],
-    "trio": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
