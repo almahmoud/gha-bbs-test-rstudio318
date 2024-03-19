@@ -2144,7 +2144,6 @@
         "genefu",
         "impute"
     ],
-    "SigsPack": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
@@ -2437,6 +2436,5 @@
         "SPIA",
         "pathview",
         "safe"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
