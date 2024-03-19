@@ -342,7 +342,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils"
@@ -1307,7 +1306,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hiReadsProcessor": [],
     "HIREewas": [],
     "hoodscanR": [],
     "HPAanalyze": [],
@@ -1846,7 +1844,6 @@
     "NormalyzerDE": [],
     "npGSEA": [],
     "NTW": [],
-    "nucleR": [],
     "NuPoP": [],
     "occugene": [],
     "octad": [
