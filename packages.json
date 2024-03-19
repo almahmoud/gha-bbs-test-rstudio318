@@ -833,7 +833,6 @@
     ],
     "DNABarcodes": [],
     "DNAcopy": [],
-    "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [
         "impute"
@@ -1364,7 +1363,6 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -2628,7 +2626,6 @@
     ],
     "stJoincount": [],
     "Streamer": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
     "svaNUMT": [
