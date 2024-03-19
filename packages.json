@@ -292,7 +292,6 @@
     "circRNAprofiler": [],
     "CircSeqAlignTk": [],
     "clevRvis": [],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -971,7 +970,6 @@
         "mzID",
         "xcms"
     ],
-    "lpNet": [],
     "lumi": [
         "methylumi"
     ],
