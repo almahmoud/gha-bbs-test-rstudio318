@@ -92,7 +92,6 @@
     "biobtreeR": [],
     "bioCancer": [
         "RTCGAToolbox",
-        "ReactomePA",
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
@@ -442,7 +441,6 @@
         "safe"
     ],
     "enrichTF": [],
-    "enrichViewNet": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -684,7 +682,6 @@
     "impute": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
         "impute"
     ],
     "INPower": [],
@@ -1000,7 +997,6 @@
     "PhenoGeneRanker": [],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
         "impute"
     ],
     "PING": [],
@@ -1111,7 +1107,6 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -1211,9 +1206,7 @@
     ],
     "scRNAseqApp": [],
     "scruff": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
