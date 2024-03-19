@@ -213,7 +213,6 @@
     "BiocCheck": [
         "biocViews"
     ],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocPkgTools": [
@@ -751,7 +750,6 @@
     "demuxSNP": [
         "demuxmix"
     ],
-    "densvis": [],
     "DEP": [
         "MSnbase",
         "impute",
@@ -833,7 +831,6 @@
         "progeny"
     ],
     "easyreporting": [],
-    "easyRNASeq": [],
     "EDASeq": [
         "aroma.light"
     ],
@@ -1710,7 +1707,6 @@
     "msgbsR": [
         "OrganismDbi",
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [],
@@ -2188,7 +2184,6 @@
     "rexposome": [
         "impute"
     ],
-    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
