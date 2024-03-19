@@ -939,14 +939,12 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
     ],
     "GOstats": [],
     "GPA": [],
-    "GRaNIE": [],
     "graper": [],
     "GraphAlignment": [],
     "GraphPAC": [],
