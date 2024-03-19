@@ -127,13 +127,10 @@
         "BeadDataPackR"
     ],
     "BeadDataPackR": [],
-    "benchdamic": [
-        "Maaslin2"
-    ],
+    "benchdamic": [],
     "BgeeCall": [
         "tximport"
     ],
-    "BgeeDB": [],
     "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
@@ -1122,9 +1119,7 @@
     ],
     "M3C": [],
     "M3Drop": [],
-    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
         "impute"
     ],
     "maftools": [
@@ -1303,9 +1298,7 @@
     ],
     "mistyR": [],
     "mitoClone2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1629,9 +1622,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -1769,9 +1760,7 @@
         "mzID",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2105,7 +2094,6 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptogramer": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
