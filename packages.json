@@ -91,7 +91,6 @@
     ],
     "biobtreeR": [],
     "bioCancer": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
@@ -146,7 +145,6 @@
         "xcms"
     ],
     "canceR": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "CARNIVAL": [],
@@ -154,12 +152,9 @@
     "categoryCompare": [],
     "CausalR": [],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [],
     "ccImpute": [
         "SIMLR"
@@ -617,7 +612,6 @@
     ],
     "GNOSIS": [
         "DNAcopy",
-        "RTCGAToolbox",
         "cBioPortalData",
         "maftools"
     ],
@@ -1158,7 +1152,6 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTCGAToolbox": [],
     "RUVSeq": [
         "EDASeq",
         "aroma.light"
