@@ -1478,9 +1478,7 @@
         "mzID"
     ],
     "quantro": [],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [],
     "R3CPET": [
         "ggbio"
@@ -1748,7 +1746,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
