@@ -220,7 +220,6 @@
     "BiocCheck": [
         "biocViews"
     ],
-    "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
@@ -2240,7 +2239,6 @@
     "RegionalST": [
         "BayesSpace"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
