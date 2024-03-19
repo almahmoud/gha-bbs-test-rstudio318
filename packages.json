@@ -156,9 +156,7 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "bnem": [],
     "BOBaFIT": [
         "ggbio"
@@ -1014,7 +1012,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "MatrixRider": [],
     "mBPCR": [
         "DNAcopy",
         "GWASTools",
@@ -1116,9 +1113,7 @@
         "DNAcopy"
     ],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "GOstats",
         "impute"
@@ -1556,7 +1551,6 @@
     "Rnits": [
         "impute"
     ],
-    "ROntoTools": [],
     "Rqc": [],
     "rsemmed": [],
     "RSeqAn": [],
