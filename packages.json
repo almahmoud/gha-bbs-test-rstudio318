@@ -992,7 +992,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "impute"
@@ -1082,7 +1081,6 @@
         "biovizBase"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -1600,7 +1598,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [],
     "optimalFlow": [
         "flowMeans"
@@ -2053,7 +2050,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqCAT": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -2270,7 +2266,6 @@
     "tRanslatome": [
         "RankProd"
     ],
-    "transomics2cytoscape": [],
     "traviz": [
         "slingshot"
     ],
