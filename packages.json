@@ -13,7 +13,6 @@
     "affycoretools": [
         "ReportingTools"
     ],
-    "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
         "ReportingTools",
@@ -524,7 +523,6 @@
     "epimutacions": [
         "Gviz"
     ],
-    "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -644,7 +642,6 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "gDNAx": [],
     "gDR": [
         "PharmacoGx",
         "gDRimport"
@@ -740,7 +737,6 @@
         "safe"
     ],
     "GSgalgoR": [],
-    "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [
         "DNAcopy",
