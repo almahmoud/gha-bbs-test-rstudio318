@@ -101,7 +101,6 @@
         "beadarray"
     ],
     "ARRmNormalization": [],
-    "artMS": [],
     "ASEB": [],
     "ASGSCA": [],
     "ASICS": [],
@@ -117,7 +116,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -298,9 +296,7 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "celaref": [],
     "celda": [],
@@ -363,7 +359,6 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -654,9 +649,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESpace": [],
     "DExMA": [
         "impute"
@@ -1065,9 +1058,7 @@
     "gsean": [],
     "GSgalgoR": [],
     "GSReg": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1537,7 +1528,6 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "biovizBase",
         "motifStack",
@@ -1742,7 +1732,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
@@ -1862,9 +1851,7 @@
     "recountmethylation": [
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
@@ -2176,7 +2163,6 @@
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
-    "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
@@ -2353,7 +2339,6 @@
     ],
     "vtpnet": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "wateRmelon": [
