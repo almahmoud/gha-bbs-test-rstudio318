@@ -99,7 +99,6 @@
     "AMARETTO": [
         "impute"
     ],
-    "amplican": [],
     "AneuFinder": [
         "DNAcopy"
     ],
@@ -221,7 +220,6 @@
     "BiocPkgTools": [
         "biocViews"
     ],
-    "BiocSklearn": [],
     "biocthis": [],
     "biocViews": [],
     "BioMVCClass": [
@@ -2294,7 +2292,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [],
     "SANTA": [],
     "SARC": [],
     "SBGNview": [
