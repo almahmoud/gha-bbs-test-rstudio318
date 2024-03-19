@@ -390,15 +390,12 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
-        "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "Gviz",
-        "crisprDesign"
+        "Gviz"
     ],
     "csdR": [
         "impute"
