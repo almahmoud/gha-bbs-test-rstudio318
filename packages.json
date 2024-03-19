@@ -361,7 +361,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -2354,7 +2353,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
         "aroma.light"
