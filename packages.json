@@ -167,9 +167,7 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -492,9 +490,7 @@
         "tkWidgets"
     ],
     "DCATS": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowPeaks",
@@ -627,7 +623,6 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epiNEM": [],
     "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
@@ -1189,7 +1184,6 @@
     "motifStack": [],
     "MPFE": [],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -1280,9 +1274,7 @@
     "ndexr": [
         "RCX"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netbiov": [],
     "netboost": [
         "impute"
