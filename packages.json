@@ -18,7 +18,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
@@ -1513,7 +1512,6 @@
         "DNAcopy",
         "maftools"
     ],
-    "MutationalPatterns": [],
     "MVCClass": [],
     "MWASTools": [],
     "myvariant": [],
@@ -1868,9 +1866,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "ReUseData": [
         "RcwlPipelines"
     ],
@@ -2166,7 +2162,6 @@
         "biovizBase"
     ],
     "ssize": [],
-    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -2240,7 +2235,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "tLOH": [],
     "TNBC.CMS": [],
     "TOP": [],
     "topconfects": [],
