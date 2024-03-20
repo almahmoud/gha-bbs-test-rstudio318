@@ -67,7 +67,6 @@
     ],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [],
     "attract": [],
     "BADER": [],
     "bandle": [
@@ -360,7 +359,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "DEGraph": [],
     "deltaGseg": [],
     "DeMixT": [],
     "demuxmix": [],
@@ -772,7 +770,6 @@
     "MEIGOR": [],
     "Mergeomics": [],
     "messina": [],
-    "MetaboAnnotation": [],
     "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [],
