@@ -993,7 +993,6 @@
         "impute"
     ],
     "powerTCR": [],
-    "prebs": [],
     "preciseTAD": [
         "DNAcopy",
         "rCGH"
@@ -1279,7 +1278,6 @@
         "mzID"
     ],
     "TargetSearch": [],
-    "TBSignatureProfiler": [],
     "TDbasedUFE": [
         "tximport"
     ],
