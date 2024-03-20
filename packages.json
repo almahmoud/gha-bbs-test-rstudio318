@@ -33,7 +33,6 @@
     "alevinQC": [
         "tximport"
     ],
-    "AllelicImbalance": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -606,7 +605,6 @@
         "impute"
     ],
     "INPower": [],
-    "intansv": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -763,7 +761,6 @@
     "MoonlightR": [],
     "motifbreakR": [],
     "MPFE": [],
-    "msgbsR": [],
     "mslp": [
         "RankProd"
     ],
@@ -1221,7 +1218,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [],
     "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
