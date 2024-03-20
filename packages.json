@@ -361,7 +361,6 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "enrichTF": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -514,7 +513,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "goSorensen": [],
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
@@ -812,7 +810,6 @@
         "DNAcopy",
         "Repitools"
     ],
-    "PanomiR": [],
     "PanViz": [],
     "Path2PPI": [],
     "pathifier": [],
