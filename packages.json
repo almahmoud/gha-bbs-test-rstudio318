@@ -67,9 +67,7 @@
         "wateRmelon"
     ],
     "biobtreeR": [],
-    "bioCancer": [
-        "cBioPortalData"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
     "biocthis": [],
     "BioMVCClass": [
@@ -109,15 +107,10 @@
         "mzID",
         "xcms"
     ],
-    "canceR": [
-        "cBioPortalData"
-    ],
+    "canceR": [],
     "CARNIVAL": [],
     "CausalR": [],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -493,7 +486,6 @@
     ],
     "GNOSIS": [
         "DNAcopy",
-        "cBioPortalData",
         "maftools"
     ],
     "GPA": [],
