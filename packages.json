@@ -65,7 +65,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "ATACseqQC": [],
     "ATACseqTFEA": [],
     "attract": [],
     "BADER": [],
@@ -884,7 +883,6 @@
     "MVCClass": [],
     "mzID": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "ncGTW": [
