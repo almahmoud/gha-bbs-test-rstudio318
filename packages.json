@@ -15,20 +15,12 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
+    "alabaster.spatial": [],
     "alabaster.vcf": [],
     "alevinQC": [
         "tximport"
@@ -42,7 +34,6 @@
     "AneuFinder": [
         "DNAcopy"
     ],
-    "AnnotationHubData": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "aroma.light": [],
@@ -266,10 +257,7 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "csdR": [
         "impute"
     ],
@@ -380,7 +368,6 @@
     "EGSEA": [
         "safe"
     ],
-    "ELMER": [],
     "ENmix": [
         "impute"
     ],
@@ -421,9 +408,6 @@
     "EventPointer": [
         "tximport"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -462,7 +446,6 @@
     ],
     "flowPeaks": [],
     "flowStats": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats"
     ],
@@ -718,8 +701,6 @@
         "aroma.light"
     ],
     "methylclock": [
-        "AnnotationHubData",
-        "ExperimentHubData",
         "impute",
         "planet"
     ],
@@ -844,7 +825,6 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "OGRE": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -1024,16 +1004,9 @@
     "RNAAgeCalc": [
         "impute"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [],
     "Rnits": [
@@ -1159,7 +1132,6 @@
     "synlet": [
         "RankProd"
     ],
-    "tadar": [],
     "TargetDecoy": [
         "mzID"
     ],
