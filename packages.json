@@ -330,7 +330,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -418,7 +417,6 @@
         "safe"
     ],
     "ELMER": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "impute"
     ],
@@ -854,7 +852,6 @@
         "mzID"
     ],
     "MsQuality": [],
-    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -866,7 +863,6 @@
         "impute",
         "mzID"
     ],
-    "MSstatsShiny": [],
     "multicrispr": [],
     "MultiRNAflow": [
         "DynDoc",
@@ -935,7 +931,6 @@
         "DNAcopy",
         "Repitools"
     ],
-    "pageRank": [],
     "PanomiR": [],
     "PanViz": [],
     "Path2PPI": [],
@@ -1322,7 +1317,6 @@
     "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
-    "vulcan": [],
     "wateRmelon": [
         "lumi"
     ],
