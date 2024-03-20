@@ -10,12 +10,9 @@
         "GLAD",
         "snapCGH"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "agilp": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AHMassBank": [
@@ -113,13 +110,11 @@
         "beadarray"
     ],
     "BOBaFIT": [],
-    "borealis": [],
     "brainflowprobes": [
         "derfinderPlot"
     ],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
@@ -156,9 +151,7 @@
     "CEMiTool": [
         "impute"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [],
     "CexoR": [
         "genomation",
@@ -249,7 +242,6 @@
     ],
     "compSPOT": [],
     "CONFESS": [
-        "flowMerge",
         "flowPeaks"
     ],
     "consensus": [],
@@ -302,9 +294,7 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
         "ggcyto",
@@ -362,7 +352,6 @@
     "diffcoexp": [
         "impute"
     ],
-    "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
     ],
@@ -476,7 +465,6 @@
         "mzID",
         "xcms"
     ],
-    "FLAMES": [],
     "flowBin": [
         "flowFP"
     ],
@@ -489,7 +477,6 @@
     "flowGate": [
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowPeaks": [],
     "flowStats": [],
     "flowTrans": [],
@@ -628,9 +615,7 @@
     "iCheck": [
         "lumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
@@ -738,7 +723,6 @@
     "MEDIPS": [
         "DNAcopy"
     ],
-    "MEIGOR": [],
     "Mergeomics": [],
     "messina": [],
     "metaCCA": [],
@@ -906,7 +890,6 @@
     "pathifier": [],
     "PathNet": [],
     "pathwayPCA": [],
-    "pcaExplorer": [],
     "PDATK": [
         "genefu",
         "impute"
@@ -1046,7 +1029,6 @@
     "Repitools": [
         "DNAcopy"
     ],
-    "ReportingTools": [],
     "rexposome": [
         "impute"
     ],
@@ -1187,7 +1169,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
     ],
@@ -1251,9 +1232,7 @@
     "tRanslatome": [
         "RankProd"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TSAR": [],
     "ttgsea": [],
     "TVTB": [],
@@ -1294,9 +1273,7 @@
         "mzID"
     ],
     "Xeva": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
