@@ -65,7 +65,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "attract": [],
     "BADER": [],
     "bandle": [
         "MSnbase",
@@ -551,7 +550,6 @@
         "impute"
     ],
     "GenomicInteractions": [],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -744,7 +742,6 @@
     "Mergeomics": [],
     "messina": [],
     "metaCCA": [],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -899,7 +896,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [],
-    "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -938,7 +934,6 @@
     "PING": [],
     "planet": [],
     "plasmut": [],
-    "PloGO2": [],
     "plotGrouper": [],
     "pmp": [
         "impute"
@@ -1161,7 +1156,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "SGCP": [],
     "signatureSearch": [],
     "signifinder": [
         "consensusOV",
