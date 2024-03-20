@@ -104,7 +104,6 @@
     "BioNERO": [
         "impute"
     ],
-    "BioNetStat": [],
     "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
@@ -1120,7 +1119,6 @@
         "impute",
         "recount"
     ],
-    "RNAinteract": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
