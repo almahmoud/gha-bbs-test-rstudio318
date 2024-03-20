@@ -184,7 +184,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -217,12 +216,8 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -260,7 +255,6 @@
     "conumee": [
         "DNAcopy"
     ],
-    "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -285,7 +279,6 @@
     "csdR": [
         "impute"
     ],
-    "cummeRbund": [],
     "cyanoFilter": [
         "flowDensity"
     ],
@@ -465,15 +458,12 @@
         "mzID",
         "xcms"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [
         "flowDensity"
     ],
     "flowCyBar": [],
     "flowDensity": [],
-    "flowFP": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -491,9 +481,7 @@
         "EDASeq",
         "aroma.light"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -960,9 +948,7 @@
         "mzID",
         "tkWidgets"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -1020,8 +1006,6 @@
     "REBET": [
         "ASSET"
     ],
-    "recount": [],
-    "regionReport": [],
     "regutools": [],
     "REMP": [
         "impute"
@@ -1053,8 +1037,7 @@
     ],
     "rmelting": [],
     "RNAAgeCalc": [
-        "impute",
-        "recount"
+        "impute"
     ],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
@@ -1066,9 +1049,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "Rnits": [
         "impute"
@@ -1172,7 +1153,6 @@
     "spatzie": [
         "GenomicInteractions"
     ],
-    "SPLINTER": [],
     "SPsimSeq": [
         "impute"
     ],
