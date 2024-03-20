@@ -65,7 +65,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "ATACseqTFEA": [],
     "attract": [],
     "BADER": [],
     "bandle": [
@@ -114,7 +113,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "BLMA": [],
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
@@ -243,7 +241,6 @@
     "CNVrd2": [
         "DNAcopy"
     ],
-    "COCOA": [],
     "cola": [
         "impute"
     ],
@@ -761,7 +758,6 @@
     "MEIGOR": [],
     "Mergeomics": [],
     "messina": [],
-    "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [],
     "metaMS": [
@@ -789,7 +785,6 @@
         "impute"
     ],
     "methylPipe": [],
-    "methylSig": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -802,7 +797,6 @@
     "MinimumDistance": [
         "DNAcopy"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "impute"
     ],
@@ -848,7 +842,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MsQuality": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -1135,7 +1128,6 @@
         "gdsfmt"
     ],
     "SANTA": [],
-    "SBGNview": [],
     "SBMLR": [],
     "SCArray": [
         "gdsfmt"
