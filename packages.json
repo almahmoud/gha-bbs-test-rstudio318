@@ -128,7 +128,6 @@
         "impute"
     ],
     "censcyt": [],
-    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -381,7 +380,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "esATAC": [],
     "EventPointer": [
         "tximport"
     ],
@@ -986,7 +984,6 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scTensor": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
