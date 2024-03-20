@@ -157,7 +157,6 @@
         "DMRcate",
         "DNAcopy",
         "impute",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIPseqR": [
@@ -314,9 +313,7 @@
     ],
     "diffuStats": [],
     "divergence": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
     ],
@@ -439,7 +436,6 @@
     "gcatest": [
         "lfa"
     ],
-    "GDCRNATools": [],
     "gDR": [
         "gDRimport"
     ],
@@ -608,7 +604,6 @@
         "DNAcopy"
     ],
     "MAGAR": [
-        "RnBeads",
         "impute"
     ],
     "MAGeCKFlute": [],
@@ -639,9 +634,7 @@
     "MDTS": [
         "DNAcopy"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "impute",
         "wateRmelon"
@@ -667,9 +660,7 @@
         "impute",
         "planet"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MethylMix": [
         "impute"
     ],
@@ -686,7 +677,6 @@
     "miRLAB": [
         "impute"
     ],
-    "missMethyl": [],
     "mistyR": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -698,7 +688,6 @@
         "impute"
     ],
     "monocle": [],
-    "Moonlight2R": [],
     "MPFE": [],
     "mslp": [
         "RankProd"
@@ -961,7 +950,6 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "Rnits": [
         "impute"
     ],
@@ -1007,7 +995,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "segmenter": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
