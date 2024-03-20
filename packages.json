@@ -108,10 +108,7 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
     "CAGEfightR": [
@@ -230,7 +227,6 @@
         "impute"
     ],
     "comapr": [],
-    "coMET": [],
     "compEpiTools": [
         "methylPipe"
     ],
@@ -337,7 +333,6 @@
         "impute",
         "mzID"
     ],
-    "derfinderPlot": [],
     "DExMA": [
         "impute"
     ],
@@ -1003,7 +998,6 @@
     "REBET": [
         "ASSET"
     ],
-    "regutools": [],
     "REMP": [
         "impute"
     ],
@@ -1013,7 +1007,6 @@
     "rexposome": [
         "impute"
     ],
-    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -1129,7 +1122,6 @@
         "scMerge",
         "tximport"
     ],
-    "SingleMoleculeFootprinting": [],
     "sizepower": [],
     "skewr": [
         "lumi",
@@ -1211,7 +1203,6 @@
     "treekoR": [],
     "TSAR": [],
     "ttgsea": [],
-    "TVTB": [],
     "tximeta": [
         "tximport"
     ],
