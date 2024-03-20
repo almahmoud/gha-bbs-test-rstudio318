@@ -118,7 +118,6 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CBNplot": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -668,7 +667,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [],
     "MinimumDistance": [
@@ -1000,7 +998,6 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchRplus": [],
     "SeqArray": [
         "gdsfmt"
     ],
@@ -1017,7 +1014,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
