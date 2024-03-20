@@ -142,7 +142,6 @@
         "cBioPortalData"
     ],
     "CARNIVAL": [],
-    "CATALYST": [],
     "CausalR": [],
     "cbaf": [
         "cBioPortalData"
@@ -307,23 +306,18 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "DaMiRseq": [
@@ -494,20 +488,15 @@
     "flowDensity": [],
     "flowFP": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowMerge": [],
     "flowPeaks": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "garfield": [],
@@ -581,9 +570,7 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -646,9 +633,7 @@
     "ideal": [
         "pcaExplorer"
     ],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -913,9 +898,7 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
@@ -932,9 +915,7 @@
         "genefu",
         "impute"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "impute",
@@ -1030,7 +1011,6 @@
         "impute",
         "mzID"
     ],
-    "R3CPET": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
