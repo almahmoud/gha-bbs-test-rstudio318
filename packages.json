@@ -17,11 +17,9 @@
     ],
     "AHMassBank": [],
     "alabaster": [
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "alabaster.vcf": [],
     "alevinQC": [
         "tximport"
     ],
@@ -101,16 +99,13 @@
     "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "impute"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -217,9 +212,7 @@
         "impute"
     ],
     "comapr": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
         "flowPeaks"
@@ -408,9 +401,7 @@
     "EventPointer": [
         "tximport"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "factR": [
         "drawProteins"
     ],
@@ -500,7 +491,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicInteractions": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -561,9 +551,7 @@
     ],
     "Harman": [],
     "Herper": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -710,7 +698,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylPipe": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -740,7 +727,6 @@
     "monocle": [],
     "Moonlight2R": [],
     "MoonlightR": [],
-    "motifbreakR": [],
     "MPFE": [],
     "mslp": [
         "RankProd"
@@ -886,7 +872,6 @@
         "DNAcopy",
         "rCGH"
     ],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "impute",
@@ -1107,9 +1092,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SPsimSeq": [
         "impute"
     ],
