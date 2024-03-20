@@ -91,7 +91,6 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "biomvRCNS": [],
     "BioNAR": [
         "impute"
     ],
@@ -681,7 +680,6 @@
     "MANOR": [
         "GLAD"
     ],
-    "maser": [],
     "MassArray": [],
     "MatrixQCvis": [
         "impute"
@@ -957,7 +955,6 @@
     "PureCN": [
         "DNAcopy"
     ],
-    "Pviz": [],
     "pwOmics": [
         "rBiopaxParser"
     ],
@@ -1156,7 +1153,6 @@
     "SPsimSeq": [
         "impute"
     ],
-    "srnadiff": [],
     "ssize": [],
     "standR": [
         "EDASeq",
