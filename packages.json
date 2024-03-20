@@ -45,7 +45,6 @@
     "ARRmNormalization": [],
     "ASEB": [],
     "ASGSCA": [],
-    "ASpli": [],
     "ASSET": [],
     "ATACCoGAPS": [
         "GeneOverlap"
@@ -211,7 +210,6 @@
     "cola": [
         "impute"
     ],
-    "comapr": [],
     "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
@@ -254,9 +252,7 @@
     "csdR": [
         "impute"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "cycle": [
         "DynDoc",
         "Mfuzz",
@@ -291,7 +287,6 @@
     ],
     "DCATS": [],
     "ddPCRclust": [
-        "flowDensity",
         "flowPeaks"
     ],
     "debrowser": [
@@ -425,11 +420,8 @@
         "xcms"
     ],
     "flowBin": [],
-    "flowCut": [
-        "flowDensity"
-    ],
+    "flowCut": [],
     "flowCyBar": [],
-    "flowDensity": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -654,7 +646,6 @@
     "MCbiclust": [
         "impute"
     ],
-    "mCSEA": [],
     "mdp": [],
     "MDTS": [
         "DNAcopy"
@@ -797,9 +788,7 @@
     "NetSAM": [
         "impute"
     ],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NTW": [],
     "NuPoP": [],
     "occugene": [],
@@ -853,7 +842,6 @@
     "Pigengene": [
         "impute"
     ],
-    "PING": [],
     "planet": [],
     "plasmut": [],
     "plotGrouper": [],
@@ -1185,7 +1173,6 @@
     ],
     "Xeva": [],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
