@@ -812,9 +812,7 @@
     ],
     "MVCClass": [],
     "mzID": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "ncGTW": [
         "MSnbase",
         "impute",
@@ -1193,7 +1191,6 @@
         "mzID"
     ],
     "TPP2D": [],
-    "trackViewer": [],
     "tRanslatome": [
         "RankProd"
     ],
