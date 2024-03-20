@@ -303,7 +303,6 @@
         "ttgsea"
     ],
     "deltaGseg": [],
-    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -487,7 +486,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneStructureTools": [],
     "genomation": [
         "impute"
     ],
