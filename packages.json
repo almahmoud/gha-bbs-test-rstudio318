@@ -35,9 +35,7 @@
     "antiProfiles": [],
     "AnVILBilling": [],
     "aroma.light": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "arrayQualityMetrics": [
         "BeadDataPackR",
         "beadarray"
@@ -66,7 +64,6 @@
     ],
     "bigmelon": [
         "gdsfmt",
-        "lumi",
         "wateRmelon"
     ],
     "biobtreeR": [],
@@ -160,7 +157,6 @@
         "DMRcate",
         "DNAcopy",
         "impute",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -407,9 +403,7 @@
     ],
     "fCI": [],
     "fdrame": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FGNet": [],
     "flagme": [
         "CAMERA",
@@ -551,9 +545,7 @@
     "HubPub": [
         "biocthis"
     ],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "ideal": [],
     "ImmuneSpaceR": [],
     "IMPCdata": [],
@@ -607,7 +599,6 @@
         "mzID",
         "xcms"
     ],
-    "lumi": [],
     "M3C": [],
     "M3Drop": [],
     "Macarron": [
@@ -653,7 +644,6 @@
     ],
     "MEAT": [
         "impute",
-        "lumi",
         "wateRmelon"
     ],
     "MEDIPS": [
@@ -689,9 +679,7 @@
     ],
     "MicrobiomeProfiler": [],
     "microRNA": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MinimumDistance": [
         "DNAcopy"
     ],
@@ -1057,7 +1045,6 @@
     ],
     "sizepower": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "SLqPCR": [],
@@ -1152,9 +1139,7 @@
     "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "weitrix": [
         "topconfects"
     ],
