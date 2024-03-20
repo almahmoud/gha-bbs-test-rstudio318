@@ -432,10 +432,7 @@
     "gcatest": [
         "lfa"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
