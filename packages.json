@@ -387,7 +387,6 @@
     "factR": [
         "drawProteins"
     ],
-    "famat": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -829,7 +828,6 @@
         "impute",
         "mzID"
     ],
-    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
