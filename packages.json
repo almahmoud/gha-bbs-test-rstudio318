@@ -94,7 +94,6 @@
         "mzID",
         "xcms"
     ],
-    "canceR": [],
     "CARNIVAL": [],
     "CausalR": [],
     "ccImpute": [
@@ -130,7 +129,6 @@
         "impute"
     ],
     "ChAMP": [
-        "DMRcate",
         "DNAcopy",
         "impute"
     ],
@@ -273,7 +271,6 @@
     ],
     "diffuStats": [],
     "divergence": [],
-    "DMRcate": [],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
     ],
@@ -385,7 +382,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gDR": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -484,7 +480,6 @@
     "HubPub": [
         "biocthis"
     ],
-    "iCheck": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -599,7 +594,6 @@
         "impute",
         "planet"
     ],
-    "methylGSA": [],
     "MethylMix": [
         "impute"
     ],
