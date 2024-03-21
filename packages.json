@@ -81,7 +81,6 @@
     "CGHcall": [
         "impute"
     ],
-    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall",
         "impute"
@@ -108,7 +107,6 @@
         "impute"
     ],
     "cn.farms": [],
-    "CNAnorm": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -488,7 +486,6 @@
         "impute",
         "xcms"
     ],
-    "ndexr": [],
     "netboost": [
         "impute"
     ],
@@ -580,7 +577,6 @@
         "MSnbase",
         "impute"
     ],
-    "PureCN": [],
     "qckitfastq": [
         "RSeqAn"
     ],
@@ -719,7 +715,6 @@
     "synlet": [
         "RankProd"
     ],
-    "TargetDecoy": [],
     "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "TDbasedUFE"
