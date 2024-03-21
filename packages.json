@@ -16,9 +16,7 @@
     ],
     "AneuFinder": [],
     "AnVILBilling": [],
-    "arrayQualityMetrics": [
-        "beadarray"
-    ],
+    "arrayQualityMetrics": [],
     "ASEB": [],
     "ASSET": [],
     "ATACCoGAPS": [
@@ -29,7 +27,6 @@
         "impute",
         "pRoloc"
     ],
-    "beadarray": [],
     "bigmelon": [
         "gdsfmt"
     ],
@@ -45,9 +42,7 @@
         "QDNAseq",
         "impute"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO",
@@ -111,10 +106,8 @@
     "cola": [
         "impute"
     ],
-    "CONFESS": [],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -143,9 +136,7 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "DynDoc",
         "MSnbase",
@@ -153,13 +144,11 @@
         "impute",
         "tkWidgets"
     ],
-    "ddPCRclust": [],
     "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
         "ttgsea"
     ],
-    "demuxSNP": [],
     "DEP": [
         "MSnbase",
         "impute"
@@ -184,7 +173,6 @@
         "decoupleR",
         "progeny"
     ],
-    "EDASeq": [],
     "edge": [],
     "EGAD": [
         "impute"
@@ -196,9 +184,7 @@
         "genomation",
         "impute"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "EpiMix": [
         "impute"
     ],
@@ -207,7 +193,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "factR": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -226,8 +211,7 @@
     "frenchFISH": [],
     "garfield": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -306,7 +290,6 @@
     ],
     "Herper": [],
     "HIREewas": [],
-    "HubPub": [],
     "impute": [],
     "iNETgrate": [
         "Pigengene",
@@ -385,9 +368,7 @@
         "impute",
         "xcms"
     ],
-    "metaseqR2": [
-        "EDASeq"
-    ],
+    "metaseqR2": [],
     "methylclock": [
         "impute",
         "planet"
@@ -472,7 +453,6 @@
     "NTW": [],
     "occugene": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "OLINgui": [
@@ -500,7 +480,6 @@
         "MSnbase",
         "impute"
     ],
-    "PECA": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "phemd": [
@@ -577,7 +556,6 @@
     ],
     "rCGH": [],
     "Rdisop": [],
-    "ReactomeGraph4R": [],
     "REBET": [
         "ASSET"
     ],
@@ -589,7 +567,6 @@
         "impute"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Risa": [
@@ -611,9 +588,7 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "SAIGEgds": [
         "SeqArray",
         "gdsfmt"
@@ -626,11 +601,9 @@
         "gdsfmt"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
-    "scRepertoire": [],
     "scTreeViz": [
         "epivizr"
     ],
@@ -670,7 +643,6 @@
     ],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "statTarget": [
