@@ -99,7 +99,6 @@
         "impute"
     ],
     "consensus": [],
-    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute"
@@ -149,7 +148,6 @@
     "doppelgangR": [
         "impute"
     ],
-    "dreamlet": [],
     "DriverNet": [],
     "DynDoc": [],
     "easier": [
@@ -170,7 +168,6 @@
     "EpiMix": [
         "impute"
     ],
-    "epivizrStandalone": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -188,7 +185,6 @@
     ],
     "frenchFISH": [],
     "garfield": [],
-    "GARS": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -413,7 +409,6 @@
     ],
     "NTW": [],
     "occugene": [],
-    "octad": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -517,7 +512,6 @@
     "rexposome": [
         "impute"
     ],
-    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "impute",
@@ -548,8 +542,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scone": [],
-    "scTreeViz": [],
     "seq2pathway": [
         "impute"
     ],
@@ -584,7 +576,6 @@
         "impute"
     ],
     "ssize": [],
-    "standR": [],
     "statTarget": [
         "impute"
     ],
