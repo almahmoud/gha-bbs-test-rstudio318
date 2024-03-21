@@ -8,7 +8,6 @@
         "GLAD",
         "snapCGH"
     ],
-    "alevinQC": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -31,12 +30,10 @@
         "pRoloc"
     ],
     "beadarray": [],
-    "BgeeCall": [],
     "bigmelon": [
         "gdsfmt"
     ],
     "BiocOncoTK": [],
-    "BioMVCClass": [],
     "BioNAR": [
         "impute"
     ],
@@ -62,7 +59,6 @@
         "xcms"
     ],
     "CARNIVAL": [],
-    "ccImpute": [],
     "ccrepe": [],
     "cellmigRation": [],
     "CEMiTool": [
@@ -87,7 +83,6 @@
     "ChAMP": [
         "impute"
     ],
-    "ChIPseqR": [],
     "cicero": [
         "monocle"
     ],
@@ -181,7 +176,6 @@
         "impute"
     ],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "DriverNet": [],
@@ -195,11 +189,9 @@
     "EGAD": [
         "impute"
     ],
-    "EGSEA": [],
     "ENmix": [
         "impute"
     ],
-    "EnrichmentBrowser": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -210,18 +202,11 @@
     "EpiMix": [
         "impute"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
-    "EventPointer": [],
     "factR": [],
     "fastLiquidAssociation": [
         "impute"
@@ -307,9 +292,7 @@
     ],
     "GPA": [],
     "graper": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -322,7 +305,6 @@
         "impute"
     ],
     "Herper": [],
-    "HilbertVisGUI": [],
     "HIREewas": [],
     "HubPub": [],
     "impute": [],
@@ -339,10 +321,8 @@
         "impute",
         "xcms"
     ],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
-        "pfamAnalyzeR",
-        "tximeta"
+        "pfamAnalyzeR"
     ],
     "ISoLDE": [],
     "ITALICS": [
@@ -645,7 +625,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scMerge": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -653,8 +632,7 @@
     "SCOPE": [],
     "scRepertoire": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "seq2pathway": [
         "impute"
@@ -678,9 +656,7 @@
         "genefu",
         "impute"
     ],
-    "singleCellTK": [
-        "scMerge"
-    ],
+    "singleCellTK": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -708,10 +684,7 @@
     "synlet": [
         "RankProd"
     ],
-    "TDbasedUFE": [],
-    "TDbasedUFEadv": [
-        "TDbasedUFE"
-    ],
+    "TDbasedUFEadv": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
@@ -732,7 +705,6 @@
     ],
     "TSAR": [],
     "ttgsea": [],
-    "tximeta": [],
     "uSORT": [
         "monocle"
     ],
@@ -755,7 +727,5 @@
         "MSnbase",
         "impute"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
