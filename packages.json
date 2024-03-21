@@ -15,7 +15,6 @@
         "impute"
     ],
     "AnVILBilling": [],
-    "arrayQualityMetrics": [],
     "ASEB": [],
     "ASSET": [],
     "ATACCoGAPS": [
@@ -41,7 +40,6 @@
         "QDNAseq",
         "impute"
     ],
-    "blima": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO",
@@ -101,9 +99,7 @@
         "impute"
     ],
     "consensus": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute"
@@ -126,7 +122,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "DynDoc",
         "MSnbase",
@@ -154,9 +149,7 @@
     "doppelgangR": [
         "impute"
     ],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "DriverNet": [],
     "DynDoc": [],
     "easier": [
@@ -174,15 +167,10 @@
         "genomation",
         "impute"
     ],
-    "epigenomix": [],
     "EpiMix": [
         "impute"
     ],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -200,9 +188,7 @@
     ],
     "frenchFISH": [],
     "garfield": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -262,7 +248,6 @@
     ],
     "GPA": [],
     "graper": [],
-    "GSEABenchmarkeR": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -349,7 +334,6 @@
         "impute",
         "xcms"
     ],
-    "metaseqR2": [],
     "methylclock": [
         "impute",
         "planet"
@@ -429,9 +413,7 @@
     ],
     "NTW": [],
     "occugene": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -535,9 +517,7 @@
     "rexposome": [
         "impute"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "impute",
@@ -557,7 +537,6 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RUVSeq": [],
     "SAIGEgds": [
         "SeqArray",
         "gdsfmt"
@@ -569,12 +548,8 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scone": [],
+    "scTreeViz": [],
     "seq2pathway": [
         "impute"
     ],
@@ -597,7 +572,6 @@
         "genefu",
         "impute"
     ],
-    "singleCellTK": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -610,9 +584,7 @@
         "impute"
     ],
     "ssize": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "statTarget": [
         "impute"
     ],
@@ -624,7 +596,6 @@
     "synlet": [
         "RankProd"
     ],
-    "TDbasedUFEadv": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
@@ -665,6 +636,5 @@
     "xcms": [
         "MSnbase",
         "impute"
-    ],
-    "zenith": []
+    ]
 }
