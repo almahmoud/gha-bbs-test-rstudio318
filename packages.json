@@ -114,9 +114,7 @@
         "DNAcopy",
         "impute"
     ],
-    "ChIPseqR": [
-        "HilbertVis"
-    ],
+    "ChIPseqR": [],
     "cicero": [
         "monocle"
     ],
@@ -137,7 +135,6 @@
         "impute",
         "mzID"
     ],
-    "clustComp": [],
     "ClustIRR": [],
     "cn.farms": [
         "DNAcopy"
@@ -253,7 +250,6 @@
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "safe",
         "zenith"
     ],
     "DriverNet": [],
@@ -266,22 +262,16 @@
     "EDASeq": [
         "aroma.light"
     ],
-    "edge": [
-        "snm"
-    ],
+    "edge": [],
     "eds": [],
     "EGAD": [
         "impute"
     ],
-    "EGSEA": [
-        "safe"
-    ],
+    "EGSEA": [],
     "ENmix": [
         "impute"
     ],
-    "EnrichmentBrowser": [
-        "safe"
-    ],
+    "EnrichmentBrowser": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -326,7 +316,6 @@
         "mzID",
         "xcms"
     ],
-    "flowCyBar": [],
     "flowPeaks": [],
     "frenchFISH": [],
     "garfield": [],
@@ -404,11 +393,9 @@
     ],
     "GPA": [],
     "graper": [],
-    "GraphAlignment": [],
     "GSALightning": [],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "safe"
+        "EnrichmentBrowser"
     ],
     "GWASTools": [
         "DNAcopy",
@@ -424,13 +411,8 @@
         "impute"
     ],
     "Herper": [],
-    "HilbertCurve": [
-        "HilbertVis"
-    ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertCurve": [],
+    "HilbertVisGUI": [],
     "HIREewas": [],
     "HubPub": [
         "biocthis"
@@ -465,14 +447,12 @@
         "DNAcopy",
         "maftools"
     ],
-    "KBoost": [],
     "LEA": [],
     "LedPred": [],
     "lfa": [],
     "lipidr": [
         "impute"
     ],
-    "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -547,7 +527,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "microRNA": [],
     "MinimumDistance": [
         "DNAcopy"
     ],
@@ -677,7 +656,6 @@
     "phemd": [
         "monocle"
     ],
-    "PhenoGeneRanker": [],
     "Pi": [],
     "Pigengene": [
         "impute"
@@ -732,12 +710,9 @@
     "PureCN": [
         "DNAcopy"
     ],
-    "pwOmics": [
-        "rBiopaxParser"
-    ],
+    "pwOmics": [],
     "qckitfastq": [
-        "RSeqAn",
-        "seqTools"
+        "RSeqAn"
     ],
     "QDNAseq": [
         "CGHcall",
@@ -760,7 +735,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "rBiopaxParser": [],
     "Rbwa": [],
     "RCAS": [
         "genomation",
@@ -817,7 +791,6 @@
         "EDASeq",
         "aroma.light"
     ],
-    "safe": [],
     "SAIGEgds": [
         "SeqArray",
         "gdsfmt"
@@ -855,12 +828,10 @@
     "seqCNA": [
         "GLAD"
     ],
-    "SeqGate": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "SeqArray",
         "gdsfmt"
@@ -874,13 +845,11 @@
         "eds",
         "scMerge"
     ],
-    "SLqPCR": [],
     "SMAP": [],
     "snapCGH": [
         "DNAcopy",
         "GLAD"
     ],
-    "snm": [],
     "SNPediaR": [],
     "SNPRelate": [
         "gdsfmt"
@@ -933,7 +902,6 @@
         "impute",
         "mzID"
     ],
-    "TPP2D": [],
     "tRanslatome": [
         "RankProd"
     ],
@@ -966,7 +934,6 @@
         "mzID"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "safe"
+        "EnrichmentBrowser"
     ]
 }
