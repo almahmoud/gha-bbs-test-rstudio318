@@ -10,12 +10,9 @@
         "GLAD",
         "snapCGH"
     ],
-    "agilp": [],
     "AgiMicroRna": [],
     "alabaster": [],
-    "alevinQC": [
-        "tximport"
-    ],
+    "alevinQC": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -32,7 +29,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "ARRmNormalization": [],
     "ASEB": [],
     "ASSET": [],
     "ATACCoGAPS": [
@@ -44,23 +40,18 @@
         "mzID",
         "pRoloc"
     ],
-    "BaseSpaceR": [],
     "beadarray": [
         "BeadDataPackR"
     ],
     "BeadDataPackR": [],
-    "BgeeCall": [
-        "tximport"
-    ],
+    "BgeeCall": [],
     "bigmelon": [
         "gdsfmt"
     ],
     "bioCancer": [],
     "BiocOncoTK": [],
     "biocthis": [],
-    "BioMVCClass": [
-        "MVCClass"
-    ],
+    "BioMVCClass": [],
     "BioNAR": [
         "impute"
     ],
@@ -248,9 +239,7 @@
     "diffcoexp": [
         "impute"
     ],
-    "DifferentialRegulation": [
-        "tximport"
-    ],
+    "DifferentialRegulation": [],
     "diffuStats": [],
     "divergence": [],
     "DNABarcodeCompatibility": [
@@ -305,25 +294,17 @@
         "impute"
     ],
     "epivizr": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "epivizrChart": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
-    "epivizrData": [
-        "epivizrServer"
-    ],
-    "epivizrServer": [],
+    "epivizrData": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
-    "EventPointer": [
-        "tximport"
-    ],
+    "EventPointer": [],
     "factR": [
         "drawProteins"
     ],
@@ -424,13 +405,11 @@
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
-    "GRENITS": [],
     "GSALightning": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
     ],
-    "GSgalgoR": [],
     "GWASTools": [
         "DNAcopy",
         "gdsfmt"
@@ -453,7 +432,6 @@
         "HilbertVis"
     ],
     "HIREewas": [],
-    "HPAanalyze": [],
     "HubPub": [
         "biocthis"
     ],
@@ -476,8 +454,7 @@
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "pfamAnalyzeR",
-        "tximeta",
-        "tximport"
+        "tximeta"
     ],
     "ISoLDE": [],
     "ITALICS": [
@@ -503,7 +480,6 @@
         "mzID",
         "xcms"
     ],
-    "M3C": [],
     "Macarron": [
         "impute"
     ],
@@ -547,7 +523,6 @@
     "MEDIPS": [
         "DNAcopy"
     ],
-    "Mergeomics": [],
     "messina": [],
     "metaCCA": [],
     "metaMS": [
@@ -639,7 +614,6 @@
         "DNAcopy",
         "maftools"
     ],
-    "MVCClass": [],
     "mzID": [],
     "ncGTW": [
         "MSnbase",
@@ -650,7 +624,6 @@
     "ndexr": [
         "RCX"
     ],
-    "netbiov": [],
     "netboost": [
         "impute"
     ],
@@ -662,7 +635,6 @@
         "impute"
     ],
     "NTW": [],
-    "NuPoP": [],
     "occugene": [],
     "octad": [
         "EDASeq",
@@ -711,7 +683,6 @@
         "impute"
     ],
     "planet": [],
-    "plasmut": [],
     "plotGrouper": [],
     "pmp": [
         "impute"
@@ -873,8 +844,7 @@
     ],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "seq2pathway": [
         "impute"
@@ -902,8 +872,7 @@
     ],
     "singleCellTK": [
         "eds",
-        "scMerge",
-        "tximport"
+        "scMerge"
     ],
     "SLqPCR": [],
     "SMAP": [],
@@ -941,12 +910,9 @@
         "mzID"
     ],
     "TargetSearch": [],
-    "TDbasedUFE": [
-        "tximport"
-    ],
+    "TDbasedUFE": [],
     "TDbasedUFEadv": [
-        "TDbasedUFE",
-        "tximport"
+        "TDbasedUFE"
     ],
     "TimiRGeN": [
         "DynDoc",
@@ -973,10 +939,7 @@
     ],
     "TSAR": [],
     "ttgsea": [],
-    "tximeta": [
-        "tximport"
-    ],
-    "tximport": [],
+    "tximeta": [],
     "uSORT": [
         "monocle"
     ],
@@ -990,7 +953,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "vbmp": [],
     "veloviz": [],
     "weitrix": [
         "topconfects"
