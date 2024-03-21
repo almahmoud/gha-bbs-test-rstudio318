@@ -10,16 +10,9 @@
         "GLAD",
         "snapCGH"
     ],
-    "affycoretools": [],
     "agilp": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
-    "AHMassBank": [],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "AgiMicroRna": [],
+    "alabaster": [],
     "alevinQC": [
         "tximport"
     ],
@@ -90,7 +83,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
     "CAGEfightR": [],
@@ -120,7 +112,6 @@
     "CEMiTool": [
         "impute"
     ],
-    "censcyt": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -183,7 +174,6 @@
         "DNAcopy"
     ],
     "CNVfilteR": [],
-    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -196,7 +186,6 @@
     "cola": [
         "impute"
     ],
-    "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
         "flowPeaks"
@@ -244,19 +233,15 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
-        "ggcyto",
-        "openCyto"
+        "ggcyto"
     ],
     "CytoPipeline": [
-        "PeacoQC",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
         "ggcyto"
     ],
     "DaMiRseq": [
@@ -417,7 +402,6 @@
         "EDASeq",
         "aroma.light"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -744,7 +728,6 @@
     "NetSAM": [
         "impute"
     ],
-    "netZooR": [],
     "NTW": [],
     "NuPoP": [],
     "occugene": [],
@@ -763,7 +746,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "openCyto": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -777,7 +759,6 @@
         "genefu",
         "impute"
     ],
-    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "impute",
@@ -928,7 +909,6 @@
     "RNAAgeCalc": [
         "impute"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
@@ -1025,7 +1005,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "spatzie": [],
     "SPsimSeq": [
         "impute"
     ],
@@ -1117,7 +1096,6 @@
         "impute",
         "mzID"
     ],
-    "YAPSA": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
