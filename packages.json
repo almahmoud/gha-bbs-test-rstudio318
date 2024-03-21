@@ -87,7 +87,6 @@
         "BioNERO",
         "impute"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "impute",
@@ -221,11 +220,7 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -364,9 +359,7 @@
         "xcms"
     ],
     "flowCyBar": [],
-    "flowGate": [],
     "flowPeaks": [],
-    "flowVS": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "garfield": [],
@@ -949,7 +942,6 @@
         "tximport"
     ],
     "sizepower": [],
-    "skewr": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
