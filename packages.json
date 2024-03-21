@@ -70,7 +70,6 @@
     "BioNERO": [
         "impute"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
         "DNAcopy",
@@ -100,7 +99,6 @@
     ],
     "ccrepe": [],
     "cellmigRation": [],
-    "cellxgenedp": [],
     "CEMiTool": [
         "impute"
     ],
@@ -134,7 +132,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "chopsticks": [],
     "cicero": [
         "monocle"
     ],
@@ -244,7 +241,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deltaGseg": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -360,7 +356,6 @@
     "flowCyBar": [],
     "flowPeaks": [],
     "frenchFISH": [],
-    "FRGEpistasis": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -489,10 +484,7 @@
         "mzID",
         "xcms"
     ],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "pfamAnalyzeR",
         "tximeta",
@@ -611,7 +603,6 @@
         "impute"
     ],
     "monocle": [],
-    "MPFE": [],
     "mslp": [
         "RankProd"
     ],
@@ -812,7 +803,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "Rarr": [],
     "rBiopaxParser": [],
     "Rbwa": [],
     "RCAS": [
@@ -822,7 +812,6 @@
     "rCGH": [
         "DNAcopy"
     ],
-    "Rcollectl": [],
     "RCX": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
@@ -878,7 +867,6 @@
         "gdsfmt"
     ],
     "SANTA": [],
-    "SBMLR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -887,7 +875,6 @@
         "gdsfmt"
     ],
     "SCFA": [],
-    "scFeatureFilter": [],
     "scMerge": [
         "M3Drop"
     ],
@@ -907,8 +894,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "semisup": [],
-    "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
     ],
@@ -940,7 +925,6 @@
         "scMerge",
         "tximport"
     ],
-    "sizepower": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -1030,7 +1014,6 @@
     ],
     "vbmp": [],
     "veloviz": [],
-    "VennDetail": [],
     "weitrix": [
         "topconfects"
     ],
