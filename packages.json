@@ -28,7 +28,6 @@
     "antiProfiles": [],
     "AnVILBilling": [],
     "aroma.light": [],
-    "arrayMvout": [],
     "arrayQualityMetrics": [
         "BeadDataPackR",
         "beadarray"
@@ -56,8 +55,7 @@
         "tximport"
     ],
     "bigmelon": [
-        "gdsfmt",
-        "wateRmelon"
+        "gdsfmt"
     ],
     "biobtreeR": [],
     "bioCancer": [],
@@ -135,8 +133,7 @@
     "ChAMP": [
         "DMRcate",
         "DNAcopy",
-        "impute",
-        "wateRmelon"
+        "impute"
     ],
     "ChIPseqR": [
         "HilbertVis"
@@ -220,7 +217,6 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprVerse": [],
     "csdR": [
         "impute"
     ],
@@ -231,15 +227,10 @@
         "tkWidgets"
     ],
     "cytofQC": [],
-    "CytoML": [
-        "ggcyto"
-    ],
-    "CytoPipeline": [
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "ggcyto"
+        "CytoPipeline"
     ],
     "DaMiRseq": [
         "EDASeq",
@@ -381,14 +372,9 @@
         "xcms"
     ],
     "flowCyBar": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowPeaks": [],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "garfield": [],
@@ -452,7 +438,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "ggcyto": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -506,7 +491,6 @@
         "biocthis"
     ],
     "iCheck": [],
-    "ideal": [],
     "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
@@ -599,8 +583,7 @@
     ],
     "MEAL": [],
     "MEAT": [
-        "impute",
-        "wateRmelon"
+        "impute"
     ],
     "MEDIPS": [
         "DNAcopy"
@@ -632,7 +615,6 @@
         "tkWidgets"
     ],
     "microRNA": [],
-    "MineICA": [],
     "MinimumDistance": [
         "DNAcopy"
     ],
@@ -903,9 +885,6 @@
     "RNAAgeCalc": [
         "impute"
     ],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [],
     "Rnits": [
         "impute"
     ],
@@ -984,9 +963,7 @@
         "tximport"
     ],
     "sizepower": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -1055,7 +1032,6 @@
     "tRanslatome": [
         "RankProd"
     ],
-    "treekoR": [],
     "TSAR": [],
     "ttgsea": [],
     "tximeta": [
@@ -1078,7 +1054,6 @@
     "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
-    "wateRmelon": [],
     "weitrix": [
         "topconfects"
     ],
