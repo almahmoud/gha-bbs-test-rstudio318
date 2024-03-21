@@ -14,7 +14,6 @@
     "AMARETTO": [
         "impute"
     ],
-    "AneuFinder": [],
     "AnVILBilling": [],
     "arrayQualityMetrics": [],
     "ASEB": [],
@@ -81,9 +80,7 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -95,14 +92,12 @@
         "MSnbase",
         "impute"
     ],
-    "cn.farms": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [],
     "cola": [
         "impute"
     ],
@@ -114,8 +109,6 @@
         "genefu",
         "impute"
     ],
-    "contiBAIT": [],
-    "conumee": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -126,8 +119,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "CRImage": [],
-    "crisprBwa": [],
     "csdR": [
         "impute"
     ],
@@ -258,7 +249,6 @@
     "GEOexplorer": [
         "impute"
     ],
-    "GeoTcgaData": [],
     "geva": [],
     "GEWIST": [],
     "ggmanh": [
@@ -271,9 +261,7 @@
     "GmicR": [
         "impute"
     ],
-    "GNOSIS": [
-        "maftools"
-    ],
+    "GNOSIS": [],
     "GPA": [],
     "graper": [],
     "GSEABenchmarkeR": [],
@@ -312,9 +300,7 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "katdetectr": [
-        "maftools"
-    ],
+    "katdetectr": [],
     "LEA": [],
     "lfa": [],
     "lipidr": [
@@ -329,7 +315,6 @@
     "Macarron": [
         "impute"
     ],
-    "maftools": [],
     "MAGAR": [
         "impute"
     ],
@@ -355,7 +340,6 @@
         "impute"
     ],
     "mdp": [],
-    "MDTS": [],
     "MEAT": [
         "impute"
     ],
@@ -380,7 +364,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MinimumDistance": [],
     "miRLAB": [
         "impute"
     ],
@@ -432,9 +415,7 @@
     "multiWGCNA": [
         "impute"
     ],
-    "musicatk": [
-        "maftools"
-    ],
+    "musicatk": [],
     "ncGTW": [
         "MSnbase",
         "impute",
@@ -465,9 +446,7 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "PanViz": [],
     "Path2PPI": [],
     "pathifier": [],
@@ -498,9 +477,7 @@
         "RankProd",
         "impute"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "PrInCE": [
         "MSnbase",
         "impute"
@@ -554,7 +531,6 @@
         "genomation",
         "impute"
     ],
-    "rCGH": [],
     "Rdisop": [],
     "REBET": [
         "ASSET"
@@ -562,7 +538,6 @@
     "REMP": [
         "impute"
     ],
-    "Repitools": [],
     "rexposome": [
         "impute"
     ],
@@ -603,7 +578,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "SCOPE": [],
     "scTreeViz": [
         "epivizr"
     ],
@@ -691,7 +665,6 @@
         "gdsfmt"
     ],
     "veloviz": [],
-    "weitrix": [],
     "wppi": [
         "OmnipathR"
     ],
