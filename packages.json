@@ -34,12 +34,10 @@
     ],
     "ARRmNormalization": [],
     "ASEB": [],
-    "ASGSCA": [],
     "ASSET": [],
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "BADER": [],
     "bandle": [
         "MSnbase",
         "impute",
@@ -57,7 +55,6 @@
     "bigmelon": [
         "gdsfmt"
     ],
-    "biobtreeR": [],
     "bioCancer": [],
     "BiocOncoTK": [],
     "biocthis": [],
@@ -93,10 +90,7 @@
         "xcms"
     ],
     "CARNIVAL": [],
-    "CausalR": [],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccrepe": [],
     "cellmigRation": [],
     "CEMiTool": [
@@ -233,9 +227,7 @@
     "ddPCRclust": [
         "flowPeaks"
     ],
-    "debrowser": [
-        "Harman"
-    ],
+    "debrowser": [],
     "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
@@ -384,7 +376,6 @@
     "genefu": [
         "impute"
     ],
-    "GeneGA": [],
     "GeneOverlap": [],
     "geneRecommender": [],
     "GENESIS": [
@@ -453,7 +444,6 @@
     "GWENA": [
         "impute"
     ],
-    "Harman": [],
     "Herper": [],
     "HilbertCurve": [
         "HilbertVis"
@@ -467,7 +457,6 @@
     "HubPub": [
         "biocthis"
     ],
-    "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
         "Pigengene",
@@ -500,7 +489,6 @@
         "maftools"
     ],
     "KBoost": [],
-    "LBE": [],
     "LEA": [],
     "LedPred": [],
     "lfa": [],
@@ -516,7 +504,6 @@
         "xcms"
     ],
     "M3C": [],
-    "M3Drop": [],
     "Macarron": [
         "impute"
     ],
@@ -700,7 +687,6 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "pathwayPCA": [],
     "PDATK": [
         "genefu",
         "impute"
@@ -848,7 +834,6 @@
         "impute",
         "mzID"
     ],
-    "rmelting": [],
     "RNAAgeCalc": [
         "impute"
     ],
@@ -866,7 +851,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "SANTA": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -875,9 +859,7 @@
         "gdsfmt"
     ],
     "SCFA": [],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
@@ -918,15 +900,12 @@
         "genefu",
         "impute"
     ],
-    "SIMLR": [],
     "singleCellTK": [
-        "M3Drop",
         "eds",
         "scMerge",
         "tximport"
     ],
     "SLqPCR": [],
-    "SMAD": [],
     "SMAP": [],
     "snapCGH": [
         "DNAcopy",
@@ -949,7 +928,6 @@
     "statTarget": [
         "impute"
     ],
-    "Summix": [],
     "swfdr": [],
     "synapter": [
         "MSnbase",
