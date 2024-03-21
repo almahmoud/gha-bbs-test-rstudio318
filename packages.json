@@ -85,14 +85,11 @@
     ],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "impute"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "impute",
@@ -383,8 +380,6 @@
         "mzID",
         "xcms"
     ],
-    "flowBin": [],
-    "flowCut": [],
     "flowCyBar": [],
     "flowGate": [
         "ggcyto"
@@ -821,7 +816,6 @@
         "mzID",
         "tkWidgets"
     ],
-    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute",
