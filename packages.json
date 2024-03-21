@@ -1,17 +1,14 @@
 {
     "ACE": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "impute"
     ],
     "ADaCGH2": [
-        "DNAcopy",
         "GLAD",
         "snapCGH"
     ],
     "AgiMicroRna": [],
-    "alabaster": [],
     "alevinQC": [],
     "AlpsNMR": [
         "impute"
@@ -19,9 +16,7 @@
     "AMARETTO": [
         "impute"
     ],
-    "AneuFinder": [
-        "DNAcopy"
-    ],
+    "AneuFinder": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "aroma.light": [],
@@ -37,7 +32,6 @@
     "bandle": [
         "MSnbase",
         "impute",
-        "mzID",
         "pRoloc"
     ],
     "beadarray": [
@@ -60,7 +54,6 @@
     ],
     "biscuiteer": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "impute"
     ],
@@ -77,7 +70,6 @@
     "CAMERA": [
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "CARNIVAL": [],
@@ -93,25 +85,19 @@
     ],
     "cfdnakit": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "aroma.light",
         "impute"
     ],
     "CGHcall": [
-        "DNAcopy",
         "impute"
     ],
-    "cghMCR": [
-        "DNAcopy"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall",
-        "DNAcopy",
         "impute"
     ],
     "ChAMP": [
-        "DNAcopy",
         "impute"
     ],
     "ChIPseqR": [],
@@ -119,42 +105,31 @@
         "monocle"
     ],
     "CIMICE": [
-        "DNAcopy",
         "maftools"
     ],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "Clomial": [],
     "CluMSID": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
-    "ClustIRR": [],
-    "cn.farms": [
-        "DNAcopy"
-    ],
-    "CNAnorm": [
-        "DNAcopy"
-    ],
+    "cn.farms": [],
+    "CNAnorm": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [
-        "DNAcopy"
-    ],
+    "CNVrd2": [],
     "cola": [
         "impute"
     ],
-    "compSPOT": [],
     "CONFESS": [
         "flowPeaks"
     ],
@@ -168,16 +143,11 @@
         "genefu",
         "impute"
     ],
-    "contiBAIT": [
-        "DNAcopy"
-    ],
-    "conumee": [
-        "DNAcopy"
-    ],
+    "contiBAIT": [],
+    "conumee": [],
     "cosmiq": [
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "cosmosR": [
@@ -185,12 +155,8 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "CRImage": [
-        "DNAcopy"
-    ],
-    "crisprBwa": [
-        "Rbwa"
-    ],
+    "CRImage": [],
+    "crisprBwa": [],
     "csdR": [
         "impute"
     ],
@@ -208,7 +174,6 @@
         "MSnbase",
         "Mfuzz",
         "impute",
-        "mzID",
         "tkWidgets"
     ],
     "DCATS": [],
@@ -227,8 +192,7 @@
     ],
     "DEP": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "DExMA": [
         "impute"
@@ -243,7 +207,6 @@
         "DNABarcodes"
     ],
     "DNABarcodes": [],
-    "DNAcopy": [],
     "doppelgangR": [
         "impute"
     ],
@@ -263,7 +226,6 @@
         "aroma.light"
     ],
     "edge": [],
-    "eds": [],
     "EGAD": [
         "impute"
     ],
@@ -313,7 +275,6 @@
         "CAMERA",
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "flowPeaks": [],
@@ -339,7 +300,6 @@
     "gdsfmt": [],
     "GeneBreak": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "impute"
     ],
@@ -349,7 +309,6 @@
     "GeneOverlap": [],
     "geneRecommender": [],
     "GENESIS": [
-        "DNAcopy",
         "GWASTools",
         "SNPRelate",
         "SeqArray",
@@ -371,10 +330,7 @@
     "GEOexplorer": [
         "impute"
     ],
-    "GEOfastq": [],
-    "GeoTcgaData": [
-        "topconfects"
-    ],
+    "GeoTcgaData": [],
     "geva": [],
     "GEWIST": [],
     "ggmanh": [
@@ -388,21 +344,17 @@
         "impute"
     ],
     "GNOSIS": [
-        "DNAcopy",
         "maftools"
     ],
     "GPA": [],
     "graper": [],
-    "GSALightning": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
     "GWASTools": [
-        "DNAcopy",
         "gdsfmt"
     ],
     "gwasurvivr": [
-        "DNAcopy",
         "GWASTools",
         "SNPRelate",
         "gdsfmt"
@@ -422,7 +374,6 @@
         "Pigengene",
         "impute"
     ],
-    "INPower": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -430,7 +381,6 @@
         "CAMERA",
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "IsoCorrectoRGUI": [],
@@ -444,7 +394,6 @@
     ],
     "iterativeBMAsurv": [],
     "katdetectr": [
-        "DNAcopy",
         "maftools"
     ],
     "LEA": [],
@@ -457,15 +406,12 @@
         "CAMERA",
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "Macarron": [
         "impute"
     ],
-    "maftools": [
-        "DNAcopy"
-    ],
+    "maftools": [],
     "MAGAR": [
         "impute"
     ],
@@ -473,7 +419,6 @@
         "CAMERA",
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "MANOR": [
@@ -484,7 +429,6 @@
         "impute"
     ],
     "mBPCR": [
-        "DNAcopy",
         "GWASTools",
         "gdsfmt"
     ],
@@ -493,23 +437,18 @@
         "impute"
     ],
     "mdp": [],
-    "MDTS": [
-        "DNAcopy"
-    ],
+    "MDTS": [],
     "MEAL": [],
     "MEAT": [
         "impute"
     ],
-    "MEDIPS": [
-        "DNAcopy"
-    ],
+    "MEDIPS": [],
     "messina": [],
     "metaCCA": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "metaseqR2": [
@@ -527,17 +466,13 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MinimumDistance": [
-        "DNAcopy"
-    ],
+    "MinimumDistance": [],
     "miRLAB": [
         "impute"
     ],
-    "mistyR": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "MODA": [
@@ -549,36 +484,30 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "msmsTests": [
         "MSnbase",
         "impute",
-        "msmsEDA",
-        "mzID"
+        "msmsEDA"
     ],
     "MSnbase": [
-        "impute",
-        "mzID"
+        "impute"
     ],
     "MSnID": [
         "MSnbase",
         "impute",
         "msmsEDA",
-        "msmsTests",
-        "mzID"
+        "msmsTests"
     ],
     "MSstatsQC": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "multicrispr": [],
     "MultiRNAflow": [
@@ -590,19 +519,14 @@
         "impute"
     ],
     "musicatk": [
-        "DNAcopy",
         "maftools"
     ],
-    "mzID": [],
     "ncGTW": [
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
-    "ndexr": [
-        "RCX"
-    ],
+    "ndexr": [],
     "netboost": [
         "impute"
     ],
@@ -631,7 +555,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "OutSplice": [
-        "DNAcopy",
         "Repitools"
     ],
     "PanViz": [],
@@ -644,11 +567,9 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "PECA": [
-        "DNAcopy",
         "aroma.light"
     ],
     "pepXMLTab": [],
@@ -671,26 +592,22 @@
     ],
     "powerTCR": [],
     "preciseTAD": [
-        "DNAcopy",
         "rCGH"
     ],
     "PrInCE": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "progeny": [
         "decoupleR"
     ],
     "pRoloc": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "pRolocGUI": [
         "MSnbase",
         "impute",
-        "mzID",
         "pRoloc"
     ],
     "Prostar": [
@@ -699,33 +616,26 @@
         "MSnbase",
         "Mfuzz",
         "impute",
-        "mzID",
         "tkWidgets"
     ],
     "ptairMS": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
-    "PureCN": [
-        "DNAcopy"
-    ],
+    "PureCN": [],
     "pwOmics": [],
     "qckitfastq": [
         "RSeqAn"
     ],
     "QDNAseq": [
         "CGHcall",
-        "DNAcopy",
         "impute"
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "RAIDS": [
-        "DNAcopy",
         "GENESIS",
         "GWASTools",
         "SNPRelate",
@@ -735,15 +645,11 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "Rbwa": [],
     "RCAS": [
         "genomation",
         "impute"
     ],
-    "rCGH": [
-        "DNAcopy"
-    ],
-    "RCX": [],
+    "rCGH": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -755,9 +661,7 @@
     "REMP": [
         "impute"
     ],
-    "Repitools": [
-        "DNAcopy"
-    ],
+    "Repitools": [],
     "rexposome": [
         "impute"
     ],
@@ -769,15 +673,13 @@
     "Risa": [
         "MSnbase",
         "impute",
-        "mzID",
         "xcms"
     ],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "RNAAgeCalc": [
         "impute"
@@ -802,16 +704,13 @@
         "SCArray",
         "gdsfmt"
     ],
-    "SCFA": [],
     "scMerge": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
         "aroma.light"
     ],
-    "SCOPE": [
-        "DNAcopy"
-    ],
+    "SCOPE": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -842,12 +741,10 @@
         "impute"
     ],
     "singleCellTK": [
-        "eds",
         "scMerge"
     ],
     "SMAP": [],
     "snapCGH": [
-        "DNAcopy",
         "GLAD"
     ],
     "SNPediaR": [],
@@ -869,16 +766,12 @@
     "swfdr": [],
     "synapter": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "synlet": [
         "RankProd"
     ],
-    "TargetDecoy": [
-        "mzID"
-    ],
-    "TargetSearch": [],
+    "TargetDecoy": [],
     "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "TDbasedUFE"
@@ -889,18 +782,15 @@
         "tkWidgets"
     ],
     "TIN": [
-        "DNAcopy",
         "aroma.light",
         "impute"
     ],
     "tkWidgets": [
         "DynDoc"
     ],
-    "topconfects": [],
     "topdownr": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "tRanslatome": [
         "RankProd"
@@ -922,16 +812,13 @@
         "gdsfmt"
     ],
     "veloviz": [],
-    "weitrix": [
-        "topconfects"
-    ],
+    "weitrix": [],
     "wppi": [
         "OmnipathR"
     ],
     "xcms": [
         "MSnbase",
-        "impute",
-        "mzID"
+        "impute"
     ],
     "zenith": [
         "EnrichmentBrowser"
