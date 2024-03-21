@@ -97,7 +97,6 @@
     "canceR": [],
     "CARNIVAL": [],
     "CausalR": [],
-    "cbaf": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -167,7 +166,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNVfilteR": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -220,13 +218,11 @@
     "csdR": [
         "impute"
     ],
-    "cyanoFilter": [],
     "cycle": [
         "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
-    "cytofQC": [],
     "CytoML": [],
     "CytoPipeline": [],
     "CytoPipelineGUI": [
@@ -349,7 +345,6 @@
     "EventPointer": [
         "tximport"
     ],
-    "extraChIPs": [],
     "factR": [
         "drawProteins"
     ],
@@ -477,7 +472,6 @@
     ],
     "Harman": [],
     "Herper": [],
-    "HiCDCPlus": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -491,7 +485,6 @@
         "biocthis"
     ],
     "iCheck": [],
-    "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -684,7 +677,6 @@
     ],
     "MVCClass": [],
     "mzID": [],
-    "NADfinder": [],
     "ncGTW": [
         "MSnbase",
         "impute",
