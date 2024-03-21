@@ -80,7 +80,6 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -261,7 +260,6 @@
     "GmicR": [
         "impute"
     ],
-    "GNOSIS": [],
     "GPA": [],
     "graper": [],
     "GSEABenchmarkeR": [],
@@ -300,7 +298,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "katdetectr": [],
     "LEA": [],
     "lfa": [],
     "lipidr": [
@@ -415,7 +412,6 @@
     "multiWGCNA": [
         "impute"
     ],
-    "musicatk": [],
     "ncGTW": [
         "MSnbase",
         "impute",
@@ -446,7 +442,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "OutSplice": [],
     "PanViz": [],
     "Path2PPI": [],
     "pathifier": [],
@@ -477,7 +472,6 @@
         "RankProd",
         "impute"
     ],
-    "preciseTAD": [],
     "PrInCE": [
         "MSnbase",
         "impute"
