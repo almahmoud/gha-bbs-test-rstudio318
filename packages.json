@@ -17,11 +17,8 @@
         "impute"
     ],
     "AneuFinder": [],
-    "antiProfiles": [],
     "AnVILBilling": [],
-    "aroma.light": [],
     "arrayQualityMetrics": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "ASEB": [],
@@ -34,17 +31,12 @@
         "impute",
         "pRoloc"
     ],
-    "beadarray": [
-        "BeadDataPackR"
-    ],
-    "BeadDataPackR": [],
+    "beadarray": [],
     "BgeeCall": [],
     "bigmelon": [
         "gdsfmt"
     ],
-    "bioCancer": [],
     "BiocOncoTK": [],
-    "biocthis": [],
     "BioMVCClass": [],
     "BioNAR": [
         "impute"
@@ -58,11 +50,9 @@
         "impute"
     ],
     "blima": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "brendaDb": [],
-    "BridgeDbR": [],
     "cageminer": [
         "BioNERO",
         "impute"
@@ -86,7 +76,6 @@
     "cfdnakit": [
         "CGHcall",
         "QDNAseq",
-        "aroma.light",
         "impute"
     ],
     "CGHcall": [
@@ -130,14 +119,11 @@
     "cola": [
         "impute"
     ],
-    "CONFESS": [
-        "flowPeaks"
-    ],
+    "CONFESS": [],
     "consensus": [],
     "consensusDE": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "consensusOV": [
         "genefu",
@@ -166,8 +152,7 @@
         "tkWidgets"
     ],
     "DaMiRseq": [
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "DAPAR": [
         "DynDoc",
@@ -176,20 +161,14 @@
         "impute",
         "tkWidgets"
     ],
-    "DCATS": [],
-    "ddPCRclust": [
-        "flowPeaks"
-    ],
+    "ddPCRclust": [],
     "debrowser": [],
     "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
         "ttgsea"
     ],
-    "demuxmix": [],
-    "demuxSNP": [
-        "demuxmix"
-    ],
+    "demuxSNP": [],
     "DEP": [
         "MSnbase",
         "impute"
@@ -210,7 +189,6 @@
     "doppelgangR": [
         "impute"
     ],
-    "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "zenith"
@@ -221,10 +199,7 @@
         "decoupleR",
         "progeny"
     ],
-    "easyreporting": [],
-    "EDASeq": [
-        "aroma.light"
-    ],
+    "EDASeq": [],
     "edge": [],
     "EGAD": [
         "impute"
@@ -239,7 +214,6 @@
         "impute"
     ],
     "epigenomix": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "EpiMix": [
@@ -257,9 +231,7 @@
         "epivizrData"
     ],
     "EventPointer": [],
-    "factR": [
-        "drawProteins"
-    ],
+    "factR": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -267,7 +239,6 @@
         "genomation",
         "impute"
     ],
-    "fCI": [],
     "fdrame": [],
     "ffpe": [],
     "FGNet": [],
@@ -277,13 +248,11 @@
         "impute",
         "xcms"
     ],
-    "flowPeaks": [],
     "frenchFISH": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -366,9 +335,7 @@
     "HilbertCurve": [],
     "HilbertVisGUI": [],
     "HIREewas": [],
-    "HubPub": [
-        "biocthis"
-    ],
+    "HubPub": [],
     "impute": [],
     "iNETgrate": [
         "Pigengene",
@@ -397,7 +364,6 @@
         "maftools"
     ],
     "LEA": [],
-    "LedPred": [],
     "lfa": [],
     "lipidr": [
         "impute"
@@ -452,8 +418,7 @@
         "xcms"
     ],
     "metaseqR2": [
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "methylclock": [
         "impute",
@@ -541,8 +506,7 @@
     "occugene": [],
     "octad": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "OLINgui": [
         "DynDoc",
@@ -569,9 +533,7 @@
         "MSnbase",
         "impute"
     ],
-    "PECA": [
-        "aroma.light"
-    ],
+    "PECA": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "phemd": [
@@ -590,7 +552,6 @@
         "RankProd",
         "impute"
     ],
-    "powerTCR": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -651,10 +612,7 @@
     ],
     "rCGH": [],
     "Rdisop": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "REBET": [
         "ASSET"
     ],
@@ -667,8 +625,7 @@
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "Risa": [
         "MSnbase",
@@ -690,8 +647,7 @@
     "rsemmed": [],
     "RSeqAn": [],
     "RUVSeq": [
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "SAIGEgds": [
         "SeqArray",
@@ -707,13 +663,10 @@
     "scMerge": [],
     "scone": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "SCOPE": [],
-    "scRepertoire": [
-        "powerTCR"
-    ],
+    "scRepertoire": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -757,8 +710,7 @@
     "ssize": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "statTarget": [
         "impute"
@@ -782,7 +734,6 @@
         "tkWidgets"
     ],
     "TIN": [
-        "aroma.light",
         "impute"
     ],
     "tkWidgets": [
