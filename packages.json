@@ -1,8 +1,6 @@
 {
     "ACE": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADImpute": [],
     "affycoretools": [
         "ReportingTools",
@@ -52,7 +50,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "chromVAR",
         "motifmatchr",
@@ -96,7 +93,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "BioNERO": [],
     "biovizBase": [],
     "biscuiteer": [
         "dmrseq"
@@ -131,7 +127,6 @@
         "biovizBase"
     ],
     "cageminer": [
-        "BioNERO",
         "biovizBase",
         "ggbio"
     ],
@@ -150,8 +145,7 @@
     ],
     "canceR": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "cardelino": [
         "snpStats"
@@ -174,7 +168,6 @@
         "MAST"
     ],
     "CellBench": [],
-    "cellHTS2": [],
     "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler"
@@ -239,9 +232,7 @@
         "karyoploteR"
     ],
     "CNVrd2": [],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cogeqc": [],
     "comapr": [
         "Gviz",
@@ -298,8 +289,6 @@
         "biovizBase",
         "crisprDesign"
     ],
-    "crossmeta": [],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -365,7 +354,6 @@
         "ggbio"
     ],
     "DEScan2": [],
-    "DESpace": [],
     "destiny": [],
     "DExMA": [
         "snpStats"
@@ -527,9 +515,7 @@
     "GenomicPlot": [],
     "GenProSeq": [],
     "GenVisR": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [
         "biovizBase"
     ],
@@ -570,7 +556,6 @@
     "HiContacts": [],
     "HiCool": [],
     "HIPPO": [],
-    "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
         "gmapR"
@@ -619,7 +604,6 @@
         "iSEEhex"
     ],
     "isobar": [],
-    "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
     "iterClust": [],
     "karyoploteR": [
@@ -740,7 +724,6 @@
     ],
     "MinimumDistance": [],
     "miQC": [],
-    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [],
     "missMethyl": [
@@ -897,7 +880,6 @@
         "destiny",
         "monocle"
     ],
-    "phenoTest": [],
     "philr": [],
     "Pi": [],
     "Pigengene": [
@@ -1019,9 +1001,7 @@
         "derfinder",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "biovizBase"
@@ -1064,7 +1044,6 @@
     "SCArray.sat": [],
     "scBFA": [],
     "scBubbletree": [],
-    "scClassify": [],
     "sccomp": [],
     "scDesign3": [],
     "scds": [],
@@ -1113,7 +1092,6 @@
     "seqCAT": [],
     "SeqSQC": [],
     "seqTools": [],
-    "SEtools": [],
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
@@ -1150,7 +1128,6 @@
     "slingshot": [
         "TrajectoryUtils"
     ],
-    "snapCGH": [],
     "SNPhood": [],
     "snpStats": [],
     "soGGi": [],
@@ -1160,7 +1137,6 @@
     ],
     "SOMNiBUS": [],
     "spaSim": [],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1189,9 +1165,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "Statial": [],
     "surfaltr": [],
     "switchde": [],
@@ -1202,9 +1176,7 @@
     ],
     "tanggle": [],
     "TAPseq": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
     "tenXplore": [],
     "terraTCGAdata": [],
@@ -1267,9 +1239,7 @@
         "GenomicFiles"
     ],
     "VDJdive": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "gwascat",
         "snpStats"
@@ -1287,7 +1257,6 @@
         "MsFeatures",
         "Spectra"
     ],
-    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
