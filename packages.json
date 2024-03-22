@@ -215,7 +215,6 @@
         "snpStats"
     ],
     "CexoR": [],
-    "cfdnakit": [],
     "cghMCR": [],
     "ChAMP": [
         "DMRcate",
@@ -564,16 +563,13 @@
         "ggbio"
     ],
     "flowAI": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
@@ -613,9 +609,7 @@
         "DaMiRseq",
         "EDASeq"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot"
@@ -707,7 +701,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [],
     "HIPPO": [],
@@ -1208,7 +1201,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [],
     "RCM": [
         "phyloseq"
     ],
@@ -1499,7 +1491,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [],
     "surfaltr": [],
