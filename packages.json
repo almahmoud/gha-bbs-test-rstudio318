@@ -3,18 +3,14 @@
         "a4Base",
         "a4Classif",
         "annaffy",
-        "genefilter",
-        "multtest"
+        "genefilter"
     ],
     "a4Base": [
         "annaffy",
-        "genefilter",
-        "multtest"
+        "genefilter"
     ],
     "a4Classif": [],
-    "ABarray": [
-        "multtest"
-    ],
+    "ABarray": [],
     "abseqR": [],
     "ACE": [
         "CGHbase",
@@ -23,13 +19,10 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "aCGH": [
-        "multtest"
-    ],
+    "aCGH": [],
     "ADaCGH2": [
         "aCGH",
         "genefilter",
-        "multtest",
         "snapCGH",
         "tilingArray",
         "vsn"
@@ -46,9 +39,7 @@
     "ADImpute": [
         "SingleCellExperiment"
     ],
-    "adSplit": [
-        "multtest"
-    ],
+    "adSplit": [],
     "adverSCarial": [],
     "AffiXcan": [
         "MultiAssayExperiment"
@@ -273,9 +264,7 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "ALDEx2": [
-        "multtest"
-    ],
+    "ALDEx2": [],
     "AllelicImbalance": [
         "AnnotationFilter",
         "BSgenome",
@@ -376,12 +365,9 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [
-        "multtest"
-    ],
+    "anota": [],
     "anota2seq": [
-        "DESeq2",
-        "multtest"
+        "DESeq2"
     ],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
@@ -439,7 +425,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -529,7 +514,6 @@
         "biomaRt",
         "ensembldb",
         "motifStack",
-        "multtest",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -776,7 +760,6 @@
         "metagenomeSeq",
         "mia",
         "mixOmics",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters",
@@ -802,8 +785,7 @@
         "gcrma"
     ],
     "BicARE": [
-        "GSEABase",
-        "multtest"
+        "GSEABase"
     ],
     "BiFET": [],
     "BiGGR": [
@@ -823,7 +805,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -1314,7 +1295,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -1637,7 +1617,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -1716,7 +1695,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "multtest",
         "regioneR",
         "rtracklayer"
     ],
@@ -1929,7 +1907,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -2142,7 +2119,6 @@
     ],
     "combi": [
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -2284,7 +2260,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -2343,7 +2318,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -2385,8 +2359,7 @@
         "rtracklayer"
     ],
     "CRImage": [
-        "aCGH",
-        "multtest"
+        "aCGH"
     ],
     "crisprBase": [],
     "crisprBowtie": [
@@ -2722,7 +2695,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "multtest",
         "mzID",
         "mzR",
         "tkWidgets",
@@ -2731,8 +2703,7 @@
     "dce": [
         "epiNEM",
         "graphite",
-        "mnem",
-        "multtest"
+        "mnem"
     ],
     "dcGSA": [],
     "ddCt": [],
@@ -2798,7 +2769,6 @@
         "genefilter",
         "methylKit",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -2956,7 +2926,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "multtest",
         "regioneR",
         "rtracklayer"
     ],
@@ -3003,9 +2972,7 @@
         "rtracklayer",
         "systemPipeR"
     ],
-    "diffcoexp": [
-        "multtest"
-    ],
+    "diffcoexp": [],
     "diffcyt": [
         "ComplexHeatmap",
         "FlowSOM",
@@ -3057,7 +3024,6 @@
         "scuttle"
     ],
     "DirichletMultinomial": [],
-    "discordant": [],
     "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
@@ -3112,7 +3078,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -3302,7 +3267,6 @@
         "beachmat",
         "gage",
         "globaltest",
-        "multtest",
         "pathview",
         "rhdf5",
         "rhdf5filters",
@@ -3357,7 +3321,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -3516,7 +3479,6 @@
         "ensembldb",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -3830,7 +3792,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -3867,7 +3828,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -4062,7 +4022,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -4212,7 +4171,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "GeneExpressionSignature": [],
     "genefilter": [],
     "genefu": [
         "biomaRt"
@@ -4598,8 +4556,7 @@
     ],
     "graphite": [],
     "GraphPAC": [
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "GreyListChIP": [
         "BSgenome",
@@ -4679,7 +4636,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "multtest",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -4773,9 +4729,7 @@
         "MultiAssayExperiment",
         "biomaRt"
     ],
-    "HERON": [
-        "multtest"
-    ],
+    "HERON": [],
     "hiAnnotator": [
         "BSgenome",
         "BiocIO",
@@ -4943,7 +4897,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5059,7 +5012,6 @@
         "ggtree",
         "graphite",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5156,9 +5108,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "iPAC": [
-        "multtest"
-    ],
+    "iPAC": [],
     "iPath": [],
     "ipdDb": [
         "AnnotationHub"
@@ -5174,7 +5124,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -5293,7 +5242,6 @@
         "rtracklayer"
     ],
     "KCsmart": [
-        "multtest",
         "siggenes"
     ],
     "kebabs": [],
@@ -5386,7 +5334,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -5423,7 +5370,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5487,7 +5433,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "multtest",
         "oligoClasses",
         "rhdf5",
         "rhdf5filters",
@@ -5531,7 +5476,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -5609,7 +5553,6 @@
     "MBECS": [
         "biomformat",
         "genefilter",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters",
@@ -5671,7 +5614,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5692,7 +5634,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5767,9 +5708,7 @@
         "MultiAssayExperiment",
         "struct"
     ],
-    "metabomxtr": [
-        "multtest"
-    ],
+    "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -5812,7 +5751,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -5900,7 +5838,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5921,7 +5858,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "plyranges",
         "rhdf5",
         "rhdf5filters",
@@ -5947,7 +5883,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5973,7 +5908,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6048,7 +5982,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6101,7 +6034,6 @@
     ],
     "microbiome": [
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -6109,7 +6041,6 @@
     "microbiomeDASim": [
         "biomformat",
         "metagenomeSeq",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -6141,7 +6072,6 @@
         "ggtree",
         "metagenomeSeq",
         "mia",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters",
@@ -6202,7 +6132,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6219,7 +6148,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6282,7 +6210,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6337,7 +6264,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -6679,8 +6605,7 @@
     "multiGSEA": [
         "AnnotationHub",
         "fgsea",
-        "graphite",
-        "multtest"
+        "graphite"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -6700,7 +6625,6 @@
     ],
     "multiscan": [],
     "multiWGCNA": [],
-    "multtest": [],
     "mumosa": [
         "BiocNeighbors",
         "BiocSingular",
@@ -6814,7 +6738,6 @@
         "csaw",
         "ensembldb",
         "motifStack",
-        "multtest",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -6860,7 +6783,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -6896,9 +6818,7 @@
     "netDx": [
         "MultiAssayExperiment"
     ],
-    "nethet": [
-        "multtest"
-    ],
+    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -6939,7 +6859,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -6953,7 +6872,6 @@
     "NewWave": [
         "BiocSingular",
         "ScaledMatrix",
-        "SharedObject",
         "SingleCellExperiment",
         "beachmat"
     ],
@@ -7013,9 +6931,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "OCplus": [
-        "multtest"
-    ],
+    "OCplus": [],
     "octad": [
         "AnnotationHub",
         "BiocIO",
@@ -7070,7 +6986,6 @@
         "OLIN",
         "tkWidgets"
     ],
-    "omada": [],
     "OmaDB": [
         "topGO"
     ],
@@ -7079,8 +6994,7 @@
     ],
     "OmicCircos": [],
     "omicplotR": [
-        "ALDEx2",
-        "multtest"
+        "ALDEx2"
     ],
     "omicRexposome": [
         "MultiDataSet",
@@ -7287,8 +7201,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "multtest"
+        "ggtree"
     ],
     "panp": [],
     "pareg": [
@@ -7313,7 +7226,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -7437,7 +7349,6 @@
     ],
     "phyloseq": [
         "biomformat",
-        "multtest",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -7573,7 +7484,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -7586,13 +7496,10 @@
         "Rsamtools",
         "aCGH",
         "biomaRt",
-        "multtest",
         "rCGH",
         "rtracklayer"
     ],
-    "PREDA": [
-        "multtest"
-    ],
+    "PREDA": [],
     "primirTSS": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -7709,7 +7616,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "multtest",
         "mzID",
         "mzR",
         "tkWidgets",
@@ -7879,7 +7785,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -7888,8 +7793,7 @@
     "QuartPAC": [
         "GraphPAC",
         "SpacePAC",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "QuasR": [
         "BSgenome",
@@ -7976,9 +7880,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "rain": [
-        "multtest"
-    ],
+    "rain": [],
     "ramr": [],
     "ramwas": [
         "GenomicAlignments",
@@ -8036,12 +7938,10 @@
         "Rsamtools",
         "aCGH",
         "biomaRt",
-        "multtest",
         "rtracklayer"
     ],
     "RCM": [
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -8072,7 +7972,6 @@
     "receptLoss": [],
     "reconsi": [
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -8113,7 +8012,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8142,7 +8040,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "multtest",
         "regioneR",
         "rtracklayer"
     ],
@@ -8235,7 +8132,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8474,7 +8370,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn",
@@ -8670,7 +8565,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8696,7 +8590,6 @@
     "ROSeq": [],
     "RPA": [
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -8722,7 +8615,6 @@
     "rqt": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "multtest",
         "ropls"
     ],
     "rRDP": [],
@@ -8756,9 +8648,7 @@
     "RTNsurvival": [
         "RTNduals"
     ],
-    "RTopper": [
-        "multtest"
-    ],
+    "RTopper": [],
     "rtracklayer": [
         "BiocIO",
         "GenomicAlignments",
@@ -8814,7 +8704,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "multtest",
         "plyranges",
         "rtracklayer"
     ],
@@ -8981,7 +8870,6 @@
         "biomaRt",
         "bluster",
         "ensembldb",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9378,7 +9266,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -9391,7 +9278,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9409,7 +9295,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9422,7 +9307,6 @@
     ],
     "SIAMCAT": [
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -9437,9 +9321,7 @@
     ],
     "sigFeature": [],
     "SigFuge": [],
-    "siggenes": [
-        "multtest"
-    ],
+    "siggenes": [],
     "signatureSearch": [
         "AnnotationHub",
         "DOSE",
@@ -9516,7 +9398,6 @@
         "basilisk",
         "basilisk.utils",
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -9557,7 +9438,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "multtest",
         "scran",
         "scuttle"
     ],
@@ -9596,7 +9476,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9663,7 +9542,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9692,7 +9570,6 @@
     "snapCGH": [
         "aCGH",
         "genefilter",
-        "multtest",
         "tilingArray",
         "vsn"
     ],
@@ -9759,8 +9636,7 @@
         "rtracklayer"
     ],
     "SpacePAC": [
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "Spaniel": [
         "BiocNeighbors",
@@ -9957,7 +9833,6 @@
     "SPsimSeq": [
         "SingleCellExperiment",
         "biomformat",
-        "multtest",
         "phyloseq",
         "rhdf5",
         "rhdf5filters"
@@ -10107,7 +9982,6 @@
         "MSnbase",
         "MsCoreUtils",
         "cleaver",
-        "multtest",
         "mzID",
         "mzR",
         "vsn"
@@ -10447,7 +10321,6 @@
         "DESeq2",
         "GOSemSim",
         "anota",
-        "multtest",
         "topGO"
     ],
     "transomics2cytoscape": [],
@@ -10505,7 +10378,6 @@
         "sva"
     ],
     "trio": [
-        "multtest",
         "siggenes"
     ],
     "triplex": [],
@@ -10825,7 +10697,6 @@
         "biomaRt",
         "csaw",
         "ensembldb",
-        "multtest",
         "regioneR",
         "rtracklayer",
         "systemPipeR"
@@ -10847,7 +10718,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -10865,7 +10735,6 @@
     "webbioc": [
         "annaffy",
         "gcrma",
-        "multtest",
         "vsn"
     ],
     "weitrix": [
@@ -10889,7 +10758,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "multtest",
         "mzID",
         "mzR",
         "vsn"
@@ -10900,7 +10768,6 @@
     "XDE": [
         "GeneMeta",
         "genefilter",
-        "multtest",
         "siggenes"
     ],
     "Xeva": [
@@ -10954,7 +10821,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "multtest",
         "quantro",
         "rhdf5",
         "rhdf5filters",
