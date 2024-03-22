@@ -249,7 +249,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity"
     ],
@@ -291,13 +290,11 @@
     "debrowser": [
         "clusterProfiler"
     ],
-    "decompTumor2Sig": [],
     "decontX": [],
     "deconvR": [],
     "DeepBlueR": [],
     "deepSNV": [],
     "DeMixT": [],
-    "DEP": [],
     "DEqMS": [],
     "derfinder": [],
     "derfinderPlot": [
@@ -410,10 +407,7 @@
     ],
     "flowWorkspace": [],
     "funtooNorm": [],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq"
     ],
@@ -473,7 +467,6 @@
     "gwascat": [
         "snpStats"
     ],
-    "gwasurvivr": [],
     "Harshlight": [],
     "HelloRanges": [],
     "HiCDCPlus": [
@@ -483,7 +476,6 @@
     "HiCool": [],
     "HIPPO": [],
     "HTSeqGenie": [
-        "VariantTools",
         "gmapR"
     ],
     "icetea": [],
@@ -517,7 +509,6 @@
         "xcms"
     ],
     "iSEEhub": [],
-    "iSEEindex": [],
     "iSEEpathways": [],
     "iSEEu": [],
     "isobar": [],
@@ -677,7 +668,6 @@
         "msmsTests"
     ],
     "MSPrep": [],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -693,10 +683,7 @@
     ],
     "multiscan": [],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
-    "MutationalPatterns": [],
+    "musicatk": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -782,7 +769,6 @@
     "primirTSS": [
         "Gviz"
     ],
-    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "soGGi"
@@ -842,9 +828,7 @@
         "ggbio"
     ],
     "RepViz": [],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "ReUseData": [],
     "RiboProfiling": [
         "ggbio"
@@ -859,7 +843,6 @@
         "xcms"
     ],
     "RLSeq": [],
-    "RMassBank": [],
     "RNAAgeCalc": [
         "derfinder",
         "recount"
@@ -897,7 +880,6 @@
     "sampleClassifier": [],
     "SC3": [],
     "SCArray.sat": [],
-    "scBFA": [],
     "scBubbletree": [],
     "sccomp": [],
     "scDesign3": [],
@@ -937,7 +919,6 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler"
@@ -1023,13 +1004,11 @@
     "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
     "tenXplore": [],
-    "terraTCGAdata": [],
     "tidySingleCellExperiment": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
     "TitanCNA": [],
-    "tLOH": [],
     "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [],
@@ -1069,7 +1048,6 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
