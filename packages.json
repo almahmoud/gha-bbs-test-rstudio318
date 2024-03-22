@@ -11,7 +11,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "affylmGUI": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "GOstats",
@@ -92,7 +91,6 @@
     "BatchQC": [],
     "bayNorm": [],
     "BEARscc": [],
-    "BEAT": [],
     "benchdamic": [
         "MAST",
         "phyloseq"
@@ -214,7 +212,6 @@
         "enrichplot",
         "snpStats"
     ],
-    "CexoR": [],
     "cghMCR": [],
     "ChAMP": [
         "DMRcate",
@@ -257,9 +254,7 @@
         "gwascat",
         "snpStats"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "cliqueMS": [
         "MsExperiment",
         "MsFeatures",
@@ -298,7 +293,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "coMethDMR": [],
     "compEpiTools": [
         "Gviz",
         "biovizBase",
@@ -372,23 +366,20 @@
         "flowClust",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [
         "cytomapper"
@@ -537,7 +528,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [],
     "fcScan": [],
     "FEAST": [
         "SC3",
@@ -572,31 +562,24 @@
     "flowDensity": [],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMatch": [],
     "flowMerge": [
         "flowClust"
     ],
     "flowPloidy": [],
-    "flowSpecs": [],
     "flowStats": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowClust"
     ],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "FRASER": [],
     "funtooNorm": [
         "minfi"
@@ -658,8 +641,7 @@
         "biovizBase"
     ],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggsc": [],
     "ggspavis": [],
@@ -726,8 +708,7 @@
         "cytomapper"
     ],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "iNETgrate": [
         "Pigengene",
@@ -1032,7 +1013,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
         "MsFeatures",
@@ -1069,8 +1049,7 @@
     "ompBAM": [],
     "openCyto": [
         "flowClust",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "oppar": [],
     "oppti": [],
@@ -1102,8 +1081,7 @@
         "CoreGx"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [],
     "PharmacoGx": [
@@ -1113,7 +1091,6 @@
         "destiny",
         "monocle"
     ],
-    "phenomis": [],
     "phenoTest": [],
     "philr": [],
     "phyloseq": [],
@@ -1250,8 +1227,6 @@
     ],
     "RgnTX": [],
     "rgsepd": [],
-    "Rhisat2": [],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -1269,7 +1244,6 @@
         "xcms"
     ],
     "RITAN": [],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
@@ -1378,7 +1352,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -1514,7 +1487,6 @@
     "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
-    "TFHAZ": [],
     "tidySingleCellExperiment": [],
     "TimiRGeN": [
         "clusterProfiler",
@@ -1547,7 +1519,6 @@
         "diffcyt"
     ],
     "trigger": [],
-    "tRNAscanImport": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
