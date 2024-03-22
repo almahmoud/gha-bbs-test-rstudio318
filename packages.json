@@ -231,7 +231,6 @@
     "celaref": [
         "MAST"
     ],
-    "celda": [],
     "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [],
@@ -251,9 +250,7 @@
     ],
     "CexoR": [],
     "cfdnakit": [],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -313,7 +310,6 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -363,9 +359,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -466,9 +460,7 @@
         "enrichplot"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "minfi"
     ],
@@ -478,7 +470,6 @@
     "DeMixT": [],
     "demuxSNP": [],
     "DEP": [],
-    "DepecheR": [],
     "DEqMS": [],
     "derfinder": [
         "GenomicFiles"
@@ -505,7 +496,6 @@
     ],
     "DifferentialRegulation": [],
     "diffUTR": [],
-    "Dino": [],
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
@@ -526,9 +516,7 @@
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "biovizBase"
@@ -586,9 +574,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [],
     "EWCE": [
@@ -771,8 +757,6 @@
     "GSEAlm": [],
     "gsean": [],
     "GSReg": [],
-    "GSRI": [],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -944,7 +928,6 @@
         "CompoundDb",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM"
@@ -968,7 +951,6 @@
         "Spectra"
     ],
     "MethReg": [],
-    "methrix": [],
     "MethylAid": [
         "minfi"
     ],
@@ -995,7 +977,6 @@
     "methylumi": [
         "minfi"
     ],
-    "miaSim": [],
     "microbiome": [
         "phyloseq"
     ],
@@ -1160,7 +1141,6 @@
     "nucleR": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1176,9 +1156,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "oppti": [],
     "optimalFlow": [
         "flowMeans"
@@ -1215,7 +1193,6 @@
         "ncdfFlow"
     ],
     "peakPantheR": [],
-    "peco": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -1243,7 +1220,6 @@
     ],
     "PLPE": [],
     "pogos": [],
-    "POMA": [],
     "POWSC": [
         "MAST"
     ],
@@ -1449,14 +1425,11 @@
     "SCArray.sat": [],
     "scBFA": [],
     "scBubbletree": [],
-    "scCB2": [],
     "scClassify": [],
     "sccomp": [],
     "scDesign3": [],
     "scds": [],
-    "scFeatures": [
-        "GSVA"
-    ],
+    "scFeatures": [],
     "schex": [],
     "scHOT": [],
     "scider": [],
@@ -1476,7 +1449,6 @@
         "snpStats"
     ],
     "scp": [],
-    "scPipe": [],
     "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
@@ -1534,7 +1506,6 @@
     ],
     "signeR": [],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SigsPack": [],
@@ -1546,11 +1517,9 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "GSVA",
         "MAST",
         "TSCAN",
         "TrajectoryUtils",
-        "celda",
         "scds"
     ],
     "SingleMoleculeFootprinting": [
@@ -1644,10 +1613,8 @@
     ],
     "tanggle": [],
     "TAPseq": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TDbasedUFEadv": [
         "enrichplot"
@@ -1663,9 +1630,7 @@
     ],
     "TitanCNA": [],
     "tLOH": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [],
     "ToxicoGx": [
