@@ -71,7 +71,6 @@
         "pRoloc"
     ],
     "BASiCStan": [],
-    "BatchQC": [],
     "bayNorm": [],
     "BEARscc": [],
     "benchdamic": [
@@ -97,9 +96,7 @@
     "biscuiteer": [
         "dmrseq"
     ],
-    "blacksheepr": [],
     "BLMA": [],
-    "bnbc": [],
     "BOBaFIT": [
         "biovizBase",
         "ggbio"
@@ -276,7 +273,6 @@
         "Spectra",
         "xcms"
     ],
-    "COTAN": [],
     "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
@@ -361,7 +357,6 @@
     "DiffBind": [],
     "diffcyt": [],
     "DifferentialRegulation": [],
-    "diffUTR": [],
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
@@ -374,7 +369,6 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "edge": [],
     "EGSEA": [],
     "ELMER": [
         "Gviz",
@@ -413,7 +407,6 @@
         "motifmatchr"
     ],
     "escape": [],
-    "escheR": [],
     "EWCE": [
         "orthogene"
     ],
@@ -584,7 +577,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "interactiveDisplay": [],
     "IntEREst": [
         "GenomicFiles"
     ],
@@ -740,7 +732,6 @@
         "Spectra",
         "xcms"
     ],
-    "MoleculeExperiment": [],
     "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
@@ -818,7 +809,6 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "ncGTW": [
         "MsExperiment",
         "MsFeatures",
@@ -935,7 +925,6 @@
         "seqTools"
     ],
     "qPLEXanalyzer": [],
-    "qsvaR": [],
     "quantro": [],
     "QuartPAC": [],
     "QuasR": [
@@ -959,7 +948,6 @@
     ],
     "recountmethylation": [],
     "REDseq": [],
-    "regionalpcs": [],
     "RegionalST": [],
     "regionReport": [
         "GenomicFiles",
@@ -1050,7 +1038,6 @@
     "scFeatures": [],
     "schex": [],
     "scHOT": [],
-    "scider": [],
     "scmap": [],
     "scMET": [],
     "scmeth": [],
@@ -1166,7 +1153,6 @@
         "RUVSeq"
     ],
     "staRank": [],
-    "Statial": [],
     "surfaltr": [],
     "switchde": [],
     "synapter": [],
@@ -1208,7 +1194,6 @@
     "treekoR": [
         "diffcyt"
     ],
-    "trigger": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
