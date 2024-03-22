@@ -20,36 +20,26 @@
         "biovizBase",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
     "alabaster.mae": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "AllelicImbalance": [
@@ -57,7 +47,6 @@
         "biovizBase"
     ],
     "amplican": [],
-    "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [],
@@ -66,7 +55,6 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [],
     "ASICS": [],
     "ASpli": [
         "Gviz",
@@ -374,8 +362,6 @@
         "flowClust",
         "flowDensity"
     ],
-    "cycle": [],
-    "cydar": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -474,7 +460,6 @@
         "annotatr"
     ],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "DrugVsDisease": [],
@@ -493,7 +478,6 @@
     "ENmix": [
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
@@ -542,9 +526,7 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -582,11 +564,9 @@
         "ggbio"
     ],
     "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowFP"
     ],
-    "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
@@ -676,7 +656,6 @@
     "GenomicPlot": [],
     "GenProSeq": [],
     "GenVisR": [],
-    "GeoDiff": [],
     "GEOexplorer": [],
     "gespeR": [
         "cellHTS2"
@@ -707,11 +686,8 @@
     ],
     "GOstats": [],
     "GOTHiC": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSEAlm": [],
-    "gsean": [],
     "GSReg": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
@@ -760,7 +736,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -835,7 +810,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MsExperiment",
@@ -909,7 +883,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "minfi"
     ],
@@ -934,7 +907,6 @@
     "microbiomeDASim": [
         "phyloseq"
     ],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "phyloseq"
     ],
@@ -1313,7 +1285,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "cellHTS2"
     ],
@@ -1605,7 +1576,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz",
         "biovizBase"
@@ -1655,8 +1625,6 @@
         "minfi",
         "quantro"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "ZygosityPredictor": []
 }
