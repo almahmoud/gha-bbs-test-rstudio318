@@ -114,7 +114,6 @@
         "biovizBase"
     ],
     "BioNERO": [],
-    "BioNetStat": [],
     "biovizBase": [],
     "biscuiteer": [
         "annotatr",
@@ -239,8 +238,6 @@
     "ChIPseeker": [
         "enrichplot"
     ],
-    "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [],
     "chromVAR": [
         "TFBSTools"
@@ -276,7 +273,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
         "MIRA"
@@ -310,7 +306,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [],
@@ -370,14 +365,12 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
@@ -389,9 +382,7 @@
         "motifStack"
     ],
     "DAMEfinder": [],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler",
         "enrichplot"
@@ -454,7 +445,6 @@
     ],
     "DrugVsDisease": [],
     "easyRNASeq": [],
-    "EDASeq": [],
     "edge": [],
     "EGSEA": [],
     "ELMER": [
@@ -552,7 +542,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "flowAI": [],
     "flowBin": [],
     "flowClean": [],
     "flowClust": [],
@@ -589,8 +578,7 @@
         "GA4GHclient"
     ],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [],
     "GDCRNATools": [
@@ -661,7 +649,6 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GOTHiC": [],
     "GSEABenchmarkeR": [],
     "GSEAlm": [],
     "GSReg": [],
@@ -703,7 +690,6 @@
     ],
     "igvR": [],
     "ILoReg": [],
-    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -718,7 +704,6 @@
         "minfi"
     ],
     "infercnv": [],
-    "infinityFlow": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -843,13 +828,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [
-        "EDASeq"
-    ],
+    "metaseqR2": [],
     "MetCirc": [
         "Spectra"
     ],
-    "MethReg": [],
     "MethylAid": [
         "minfi"
     ],
@@ -995,7 +977,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "MultiRNAflow": [],
     "multiscan": [],
     "MungeSumstats": [],
     "musicatk": [
@@ -1036,7 +1017,6 @@
     "nnSVG": [],
     "nucleR": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1056,7 +1036,6 @@
     "optimalFlow": [],
     "OPWeight": [],
     "orthogene": [],
-    "OTUbase": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -1225,14 +1204,12 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "RgnTX": [],
     "rgsepd": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1243,7 +1220,6 @@
         "Spectra",
         "xcms"
     ],
-    "RITAN": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
@@ -1291,9 +1267,7 @@
     ],
     "rqt": [],
     "RTCGAToolbox": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "RVS": [
         "snpStats"
     ],
@@ -1319,7 +1293,6 @@
     ],
     "SCnorm": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "scoreInvHap": [
@@ -1427,7 +1400,6 @@
     "spaSim": [],
     "spatialDE": [],
     "SpatialFeatureExperiment": [],
-    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1458,7 +1430,6 @@
         "biovizBase"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
