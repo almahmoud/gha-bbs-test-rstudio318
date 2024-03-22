@@ -109,7 +109,6 @@
     ],
     "ArrayExpress": [],
     "arrayMvout": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi"
@@ -194,7 +193,6 @@
     ],
     "BgeeCall": [],
     "bigmelon": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -234,7 +232,6 @@
         "VariantAnnotation",
         "annotatr",
         "bsseq",
-        "bumphunter",
         "dmrseq"
     ],
     "BiSeq": [],
@@ -265,7 +262,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -276,7 +272,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "bumphunter": [],
     "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
@@ -327,7 +322,6 @@
         "snpStats"
     ],
     "Cardinal": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "flowCore"
@@ -401,7 +395,6 @@
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -477,7 +470,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "clustifyr": [],
     "cmapR": [
         "flowCore"
     ],
@@ -528,9 +520,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "coMethDMR": [
-        "bumphunter"
-    ],
+    "coMethDMR": [],
     "compEpiTools": [
         "Gviz",
         "VariantAnnotation",
@@ -566,7 +556,6 @@
         "VariantAnnotation"
     ],
     "conumee": [
-        "bumphunter",
         "minfi"
     ],
     "CopyNumberPlots": [
@@ -575,9 +564,7 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [],
     "CoSIA": [],
@@ -620,7 +607,6 @@
         "sva"
     ],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -631,7 +617,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -701,8 +686,7 @@
         "motifStack"
     ],
     "DAMEfinder": [
-        "VariantAnnotation",
-        "bumphunter"
+        "VariantAnnotation"
     ],
     "DaMiRseq": [
         "EDASeq",
@@ -732,7 +716,6 @@
         "celda"
     ],
     "deconvR": [
-        "bumphunter",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -759,14 +742,12 @@
     "DEqMS": [],
     "derfinder": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "bumphunter"
+        "VariantAnnotation"
     ],
     "derfinderPlot": [
         "GenomicFiles",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "ggbio"
     ],
@@ -805,15 +786,13 @@
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
-        "bumphunter"
+        "bsseq"
     ],
     "DNAfusion": [],
     "DominoEffect": [
@@ -855,7 +834,6 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "bumphunter",
         "minfi"
     ],
     "EnrichmentBrowser": [],
@@ -885,14 +863,12 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "minfi"
     ],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
     "epivizr": [
-        "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
@@ -900,7 +876,6 @@
     ],
     "epivizrData": [],
     "epivizrStandalone": [
-        "bumphunter",
         "epivizr",
         "epivizrData"
     ],
@@ -958,7 +933,6 @@
     ],
     "fenr": [],
     "ffpe": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi"
@@ -1072,7 +1046,6 @@
         "OUTRIDER"
     ],
     "funtooNorm": [
-        "bumphunter",
         "minfi"
     ],
     "GA4GHclient": [
@@ -1107,8 +1080,7 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRcore": [
         "gDRutils"
@@ -1116,8 +1088,7 @@
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRstyle": [],
     "gDRutils": [],
@@ -1223,9 +1194,7 @@
         "EnrichmentBrowser"
     ],
     "GSEAlm": [],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [],
     "GSRI": [],
     "GSVA": [],
@@ -1287,7 +1256,6 @@
         "VariantAnnotation"
     ],
     "iCheck": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi"
@@ -1318,7 +1286,6 @@
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "minfi"
@@ -1432,7 +1399,6 @@
     "LPEadj": [],
     "lpNet": [],
     "lumi": [
-        "bumphunter",
         "methylumi",
         "minfi"
     ],
@@ -1446,7 +1412,6 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "bumphunter",
         "methylumi",
         "minfi",
         "snpStats"
@@ -1497,14 +1462,12 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "methylumi",
         "minfi",
         "missMethyl",
         "sva"
     ],
     "MEAT": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -1562,22 +1525,18 @@
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
-        "bumphunter",
         "minfi"
     ],
     "methylCC": [
         "bsseq",
-        "bumphunter",
         "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData",
-        "bumphunter",
         "minfi"
     ],
     "methylGSA": [
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -1595,7 +1554,6 @@
         "bsseq"
     ],
     "methylumi": [
-        "bumphunter",
         "minfi"
     ],
     "MGFR": [],
@@ -1627,14 +1585,11 @@
     "MineICA": [
         "Category",
         "GOstats",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "minfi": [
-        "bumphunter"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "VanillaICE"
     ],
@@ -1651,7 +1606,6 @@
         "TCGAbiolinks"
     ],
     "missMethyl": [
-        "bumphunter",
         "methylumi",
         "minfi"
     ],
@@ -1846,7 +1800,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
@@ -1855,7 +1808,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "bumphunter",
         "minfi",
         "quantro",
         "yarn"
@@ -1883,7 +1835,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OmaDB": [],
     "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
@@ -1954,8 +1905,7 @@
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "genefu",
-        "piano"
+        "genefu"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -1971,8 +1921,7 @@
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "destiny",
@@ -1985,12 +1934,9 @@
         "Category"
     ],
     "philr": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
@@ -2014,7 +1960,6 @@
     "POWSC": [
         "MAST"
     ],
-    "PPInfer": [],
     "prebs": [
         "RPA",
         "phyloseq"
@@ -2063,12 +2008,10 @@
     "ProteoDisco": [
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [],
     "psichomics": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
@@ -2103,7 +2046,6 @@
         "sva"
     ],
     "quantro": [
-        "bumphunter",
         "minfi"
     ],
     "QuartPAC": [
@@ -2123,8 +2065,7 @@
         "VariantAnnotation"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "raer": [],
     "RAIDS": [
@@ -2158,11 +2099,9 @@
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder"
     ],
     "recountmethylation": [
-        "bumphunter",
         "minfi"
     ],
     "recoup": [],
@@ -2179,7 +2118,6 @@
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder"
     ],
     "regutools": [
@@ -2188,7 +2126,6 @@
         "biovizBase"
     ],
     "REMP": [
-        "bumphunter",
         "minfi"
     ],
     "Repitools": [
@@ -2248,13 +2185,10 @@
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2"
@@ -2285,12 +2219,10 @@
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
-        "bumphunter",
         "methylumi",
         "minfi"
     ],
@@ -2411,7 +2343,6 @@
         "schex"
     ],
     "scTreeViz": [
-        "bumphunter",
         "epivizr",
         "epivizrData"
     ],
@@ -2433,7 +2364,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "seqTools": [],
     "SeqVarTools": [],
@@ -2447,11 +2377,9 @@
         "GOstats"
     ],
     "shinyepico": [
-        "bumphunter",
         "minfi"
     ],
     "shinyMethyl": [
-        "bumphunter",
         "minfi"
     ],
     "SIAMCAT": [
@@ -2511,7 +2439,6 @@
     "SiPSiC": [],
     "sitePath": [],
     "skewr": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -2675,7 +2602,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [],
     "TFutils": [],
     "tidySingleCellExperiment": [],
@@ -2702,8 +2628,7 @@
         "MSnbase"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz",
@@ -2747,7 +2672,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "txcutr": [],
     "tximeta": [],
     "Ularcirc": [
         "Organism.dplyr",
@@ -2791,7 +2715,6 @@
         "VariantAnnotation"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [],
     "vissE": [],
     "Voyager": [
@@ -2811,12 +2734,10 @@
     ],
     "waddR": [],
     "wateRmelon": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "wavClusteR": [],
     "webbioc": [],
     "weitrix": [],
     "xcms": [
@@ -2833,8 +2754,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "yamss": [],
     "YAPSA": [
@@ -2844,7 +2764,6 @@
         "ggbio"
     ],
     "yarn": [
-        "bumphunter",
         "minfi",
         "quantro"
     ],
