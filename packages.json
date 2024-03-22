@@ -102,7 +102,6 @@
     "attract": [
         "GOstats"
     ],
-    "BadRegionFinder": [],
     "ballgown": [],
     "bambu": [],
     "bandle": [
@@ -111,7 +110,6 @@
     "BASiCStan": [],
     "BatchQC": [],
     "bayNorm": [],
-    "BBCAnalyzer": [],
     "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
@@ -291,7 +289,6 @@
         "xcms"
     ],
     "clstutils": [],
-    "CluMSID": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
@@ -489,7 +486,6 @@
     "dmrseq": [
         "annotatr"
     ],
-    "DominoEffect": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "zenith"
@@ -904,7 +900,6 @@
         "CompoundDb",
         "Spectra"
     ],
-    "MetaboSignal": [],
     "MetaCyto": [],
     "metaMS": [
         "CAMERA",
@@ -1415,7 +1410,6 @@
     "scoreInvHap": [
         "snpStats"
     ],
-    "scp": [],
     "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
@@ -1560,14 +1554,9 @@
     "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [],
-    "StructuralVariantAnnotation": [],
     "surfaltr": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [],
     "switchde": [],
     "synapter": [],
