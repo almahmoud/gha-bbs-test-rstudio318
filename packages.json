@@ -220,7 +220,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "biodbLipidmaps": [],
     "biomformat": [],
     "biomvRCNS": [
         "Gviz",
@@ -428,7 +427,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
         "biovizBase"
@@ -954,7 +952,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData"
@@ -1212,7 +1209,6 @@
         "ncdfFlow"
     ],
     "ggmanh": [],
-    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1523,7 +1519,6 @@
         "sva"
     ],
     "mbkmeans": [],
-    "mBPCR": [],
     "mCSEA": [
         "Gviz",
         "VariantAnnotation",
@@ -1626,7 +1621,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -1736,7 +1730,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -2046,7 +2039,6 @@
     ],
     "Pi": [],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
@@ -2054,7 +2046,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -2207,7 +2198,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -2302,7 +2292,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifiComparative": [],
     "Ringo": [],
     "Risa": [
         "MSnbase",
@@ -2460,7 +2449,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation",
         "snpStats"
@@ -2760,7 +2748,6 @@
     "tenXplore": [
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -2797,7 +2784,6 @@
         "CoreGx",
         "piano"
     ],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "VariantAnnotation",
