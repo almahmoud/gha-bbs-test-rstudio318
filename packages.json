@@ -24,18 +24,14 @@
         "AnnotationHubData"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
         "alabaster.ranges",
@@ -58,12 +54,10 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AllelicImbalance": [
         "Gviz",
@@ -114,7 +108,6 @@
     "bandle": [
         "pRoloc"
     ],
-    "basecallQC": [],
     "BASiCStan": [],
     "BatchQC": [],
     "bayNorm": [],
@@ -207,10 +200,7 @@
     "cardelino": [
         "snpStats"
     ],
-    "Cardinal": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "categoryCompare": [
         "GOstats"
     ],
@@ -240,7 +230,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -272,13 +261,11 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
@@ -309,7 +296,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "cmapR": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -405,12 +391,10 @@
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "cytomapper": [],
     "cytoMEM": [],
@@ -491,9 +475,7 @@
     "DiffBind": [
         "systemPipeR"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DifferentialRegulation": [],
     "diffUTR": [],
     "dittoSeq": [],
@@ -550,9 +532,7 @@
         "biovizBase",
         "minfi"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "epivizrData"
     ],
@@ -645,7 +625,6 @@
         "flowClust"
     ],
     "flowPloidy": [],
-    "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
         "flowWorkspace",
@@ -715,9 +694,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenProSeq": [],
     "GenVisR": [],
     "GeoDiff": [],
@@ -782,7 +759,6 @@
     "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "icetea": [],
@@ -929,9 +905,7 @@
         "Spectra"
     ],
     "MetaboSignal": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -1178,7 +1152,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pareg": [],
     "PathoStat": [
         "phyloseq"
     ],
@@ -1203,7 +1176,6 @@
     "phenomis": [],
     "phenoTest": [],
     "philr": [],
-    "PhyloProfile": [],
     "phyloseq": [],
     "Pi": [],
     "Pigengene": [
@@ -1236,7 +1208,6 @@
     "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -1258,7 +1229,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [],
     "ptairMS": [],
     "PureCN": [],
     "Pviz": [
@@ -1292,7 +1262,6 @@
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "Rbec": [],
-    "RCAS": [],
     "RCM": [
         "phyloseq"
     ],
@@ -1410,7 +1379,6 @@
         "biovizBase"
     ],
     "rqt": [],
-    "RSVSim": [],
     "RTCGAToolbox": [],
     "RUVSeq": [
         "EDASeq"
@@ -1444,7 +1412,6 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "Sconify": [],
     "scoreInvHap": [
         "snpStats"
     ],
@@ -1541,9 +1508,7 @@
     "snapCGH": [],
     "SNPhood": [],
     "snpStats": [],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
         "ggbio"
@@ -1645,20 +1610,16 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "trigger": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSCAN": [
         "TrajectoryUtils"
