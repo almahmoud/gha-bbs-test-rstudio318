@@ -559,7 +559,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "dce": [],
     "ddCt": [],
     "ddPCRclust": [
         "flowDensity",
@@ -619,7 +618,6 @@
         "FlowSOM"
     ],
     "DifferentialRegulation": [],
-    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -1387,7 +1385,6 @@
     ],
     "nearBynding": [],
     "Nebulosa": [],
-    "nempi": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1408,7 +1405,6 @@
     ],
     "nondetects": [],
     "NormalyzerDE": [],
-    "normr": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
@@ -1756,7 +1752,6 @@
         "snpStats"
     ],
     "sampleClassifier": [],
-    "SARC": [],
     "SBGNview": [],
     "SC3": [],
     "SCAN.UPC": [
@@ -2024,7 +2019,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [],
     "tanggle": [],
     "TAPseq": [],
     "TargetDecoy": [],
