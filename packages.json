@@ -379,7 +379,6 @@
         "Category"
     ],
     "CelliD": [],
-    "cellity": [],
     "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
@@ -449,7 +448,6 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -535,7 +533,6 @@
     ],
     "CoGAPS": [],
     "cogeqc": [],
-    "Cogito": [],
     "cola": [],
     "comapr": [
         "Gviz",
@@ -766,9 +763,7 @@
         "VariantAnnotation"
     ],
     "DegNorm": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [],
     "DelayedTensor": [],
     "DeMixT": [
@@ -1178,7 +1173,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
@@ -1315,7 +1309,6 @@
     "hoodscanR": [
         "SpatialExperiment"
     ],
-    "hpar": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -1476,7 +1469,6 @@
         "methylumi",
         "minfi"
     ],
-    "m6Aboost": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -1572,7 +1564,6 @@
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools",
-        "hpar",
         "mygene"
     ],
     "MetaCyto": [
@@ -1604,9 +1595,7 @@
         "Spectra"
     ],
     "methInheritSim": [],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "bumphunter",
@@ -1902,11 +1891,9 @@
         "Spectra",
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [],
     "Nebulosa": [],
     "nempi": [],
-    "NetActivity": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1947,7 +1934,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLINgui": [],
     "OmaDB": [],
     "omicade4": [],
     "omicplotR": [],
@@ -1970,7 +1956,6 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oposSOM": [],
     "oppar": [
         "GSVA"
     ],
@@ -2305,7 +2290,6 @@
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "VariantAnnotation",
         "biovizBase",
@@ -2425,7 +2409,6 @@
         "sva"
     ],
     "scanMiRApp": [],
-    "scAnnotatR": [],
     "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
@@ -2537,7 +2520,6 @@
     "SeqSQC": [],
     "seqTools": [],
     "SeqVarTools": [],
-    "sesame": [],
     "SEtools": [
         "sechm",
         "sva"
@@ -2694,7 +2676,6 @@
     "SpliceWiz": [
         "ompBAM"
     ],
-    "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
@@ -2907,7 +2888,6 @@
     "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [],
-    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialExperiment",
