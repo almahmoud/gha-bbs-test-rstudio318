@@ -859,7 +859,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "zlibbioc"
     ],
     "ANCOMBC": [
@@ -1078,8 +1077,7 @@
         "zlibbioc"
     ],
     "anota": [
-        "multtest",
-        "qvalue"
+        "multtest"
     ],
     "anota2seq": [
         "BiocParallel",
@@ -1097,7 +1095,6 @@
         "edgeR",
         "limma",
         "multtest",
-        "qvalue",
         "zlibbioc"
     ],
     "antiProfiles": [],
@@ -1326,7 +1323,6 @@
         "IRanges",
         "KEGGREST",
         "MSstats",
-        "MSstatsConvert",
         "S4Vectors",
         "XVector",
         "limma",
@@ -2492,7 +2488,6 @@
         "graph",
         "graphite",
         "minet",
-        "qvalue",
         "rtracklayer",
         "treeio",
         "zlibbioc"
@@ -3266,7 +3261,6 @@
         "graph",
         "interactiveDisplayBase",
         "limma",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -4077,7 +4071,6 @@
         "graph",
         "graphite",
         "interactiveDisplayBase",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -4382,7 +4375,6 @@
         "fgsea",
         "ggtree",
         "preprocessCore",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -4463,7 +4455,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "snpStats",
         "treeio",
         "zlibbioc"
@@ -4650,7 +4641,6 @@
         "missMethyl",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -4919,7 +4909,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rtracklayer",
         "treeio",
         "zlibbioc"
@@ -5506,7 +5495,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -7087,7 +7075,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "zlibbioc"
     ],
     "cummeRbund": [
@@ -7576,7 +7563,6 @@
         "mzR",
         "pcaMethods",
         "preprocessCore",
-        "qvalue",
         "tkWidgets",
         "treeio",
         "vsn",
@@ -7669,7 +7655,6 @@
         "graph",
         "limma",
         "pathview",
-        "qvalue",
         "sva",
         "treeio",
         "zlibbioc"
@@ -7778,7 +7763,6 @@
         "minfi",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -7906,9 +7890,7 @@
         "limma",
         "zlibbioc"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "DelayedArray": [
         "IRanges",
         "MatrixGenerics",
@@ -8140,7 +8122,6 @@
         "bumphunter",
         "derfinderHelper",
         "limma",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -8185,7 +8166,6 @@
         "ggbio",
         "graph",
         "limma",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -8293,7 +8273,6 @@
         "edgeR",
         "graph",
         "limma",
-        "qvalue",
         "zlibbioc"
     ],
     "DEWSeq": [
@@ -8881,7 +8860,6 @@
         "S4Vectors",
         "XVector",
         "fgsea",
-        "qvalue",
         "zlibbioc"
     ],
     "doseR": [
@@ -9056,7 +9034,6 @@
         "oligo",
         "oligoClasses",
         "preprocessCore",
-        "qvalue",
         "zlibbioc"
     ],
     "DSS": [
@@ -9258,7 +9235,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "qvalue",
         "sva",
         "zlibbioc"
     ],
@@ -9514,7 +9490,6 @@
         "XVector",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -9550,7 +9525,6 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "qvalue",
         "rtracklayer",
         "seqLogo",
         "treeio",
@@ -9572,7 +9546,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -9692,7 +9665,6 @@
         "genomation",
         "ggtree",
         "interactiveDisplayBase",
-        "qvalue",
         "rtracklayer",
         "seqPattern",
         "treeio",
@@ -10049,8 +10021,7 @@
     ],
     "erccdashboard": [
         "edgeR",
-        "limma",
-        "qvalue"
+        "limma"
     ],
     "erma": [
         "AnnotationDbi",
@@ -10139,7 +10110,6 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "qvalue",
         "rtracklayer",
         "seqLogo",
         "treeio",
@@ -10262,7 +10232,6 @@
         "fgsea",
         "graph",
         "limma",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -10536,7 +10505,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rWikiPathways",
         "treeio",
         "zlibbioc"
@@ -10780,7 +10748,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -10799,7 +10766,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "zlibbioc"
     ],
     "FitHiC": [],
@@ -11005,7 +10971,6 @@
         "ncdfFlow",
         "zlibbioc"
     ],
-    "flowGraph": [],
     "flowMatch": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -11354,7 +11319,6 @@
     "gaggle": [
         "graph"
     ],
-    "GAprediction": [],
     "garfield": [],
     "GARS": [
         "AnnotationDbi",
@@ -11505,7 +11469,6 @@
         "graph",
         "limma",
         "pathview",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -12630,7 +12593,6 @@
         "graph",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "AnnotationDbi",
         "Biostrings",
@@ -12903,7 +12865,6 @@
         "fgsea",
         "ggtree",
         "goProfiles",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -14057,11 +14018,8 @@
         "XVector",
         "zlibbioc"
     ],
-    "iBBiG": [],
-    "ibh": [],
     "iBMQ": [],
     "iCARE": [],
-    "Icens": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
@@ -14470,7 +14428,6 @@
         "minfi",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -14560,7 +14517,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "INTACT": [],
     "InTAD": [
         "BiocBaseUtils",
         "BiocIO",
@@ -14580,7 +14536,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -15883,7 +15838,6 @@
         "graph",
         "interactiveDisplayBase",
         "pathview",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -16410,7 +16364,6 @@
         "missMethyl",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -16594,7 +16547,6 @@
         "fgsea",
         "ggtree",
         "interactiveDisplayBase",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -16724,7 +16676,6 @@
         "hpar",
         "interactiveDisplayBase",
         "mygene",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -16834,7 +16785,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -16886,7 +16836,6 @@
         "genefilter",
         "limma",
         "preprocessCore",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -16933,7 +16882,6 @@
         "fastseg",
         "limma",
         "methylKit",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -17181,7 +17129,6 @@
         "missMethyl",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17210,7 +17157,6 @@
         "fastseg",
         "limma",
         "methylKit",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -17233,7 +17179,6 @@
         "XVector",
         "fastseg",
         "limma",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -17640,7 +17585,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -17762,7 +17706,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "mina": [],
     "MineICA": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -18330,7 +18273,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "qvalue",
         "zlibbioc"
     ],
     "monaLisa": [
@@ -18400,7 +18342,6 @@
         "ggtree",
         "interactiveDisplayBase",
         "limma",
-        "qvalue",
         "rtracklayer",
         "treeio",
         "zlibbioc"
@@ -18431,7 +18372,6 @@
         "fgsea",
         "ggtree",
         "limma",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -18880,7 +18820,6 @@
         "mzR",
         "pcaMethods",
         "preprocessCore",
-        "qvalue",
         "vsn",
         "zlibbioc"
     ],
@@ -18928,7 +18867,6 @@
         "mzR",
         "pcaMethods",
         "preprocessCore",
-        "qvalue",
         "vsn",
         "zlibbioc"
     ],
@@ -19006,25 +18944,21 @@
         "zlibbioc"
     ],
     "MSstats": [
-        "MSstatsConvert",
         "limma",
         "marray",
         "preprocessCore"
     ],
     "MSstatsBig": [
         "MSstats",
-        "MSstatsConvert",
         "limma",
         "marray",
         "preprocessCore"
     ],
-    "MSstatsConvert": [],
     "MSstatsLiP": [
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT",
         "S4Vectors",
@@ -19040,7 +18974,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSstats",
-        "MSstatsConvert",
         "MSstatsTMT",
         "S4Vectors",
         "XVector",
@@ -19093,7 +19026,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT",
         "S4Vectors",
@@ -19105,7 +19037,6 @@
     ],
     "MSstatsTMT": [
         "MSstats",
-        "MSstatsConvert",
         "limma",
         "marray",
         "preprocessCore"
@@ -19258,7 +19189,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "MultiMed": [],
     "multiMiR": [
         "AnnotationDbi",
         "Biostrings",
@@ -19491,7 +19421,6 @@
         "SummarizedExperiment",
         "XVector",
         "graph",
-        "qvalue",
         "zlibbioc"
     ],
     "mygene": [
@@ -19874,8 +19803,7 @@
     "netresponse": [
         "Rgraphviz",
         "graph",
-        "minet",
-        "qvalue"
+        "minet"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -20139,7 +20067,6 @@
         "SummarizedExperiment",
         "XVector",
         "bamsignals",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -20426,7 +20353,6 @@
         "made4",
         "omicade4",
         "pcaMethods",
-        "qvalue",
         "rexposome",
         "sva",
         "zlibbioc"
@@ -20655,9 +20581,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "OrderedList": [
         "twilight"
     ],
@@ -21086,7 +21010,6 @@
         "limma",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -21115,7 +21038,6 @@
         "basilisk.utils",
         "dir.expiry",
         "fgsea",
-        "qvalue",
         "zlibbioc"
     ],
     "parglms": [],
@@ -21158,7 +21080,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -21298,7 +21219,6 @@
         "marray",
         "piano",
         "survcomp",
-        "switchBox",
         "zlibbioc"
     ],
     "pdInfoBuilder": [
@@ -21594,7 +21514,6 @@
         "limma",
         "zlibbioc"
     ],
-    "phosphonormalizer": [],
     "PhosR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -21700,7 +21619,6 @@
         "graph",
         "graphite",
         "preprocessCore",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -22238,9 +22156,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "PROcess": [
-        "Icens"
-    ],
+    "PROcess": [],
     "procoil": [
         "Biostrings",
         "GenomeInfoDb",
@@ -22296,7 +22212,6 @@
         "fgsea",
         "ggtree",
         "preprocessCore",
-        "qvalue",
         "rGREAT",
         "rtracklayer",
         "soGGi",
@@ -22444,7 +22359,6 @@
         "mzR",
         "pcaMethods",
         "preprocessCore",
-        "qvalue",
         "tkWidgets",
         "treeio",
         "vsn",
@@ -22545,7 +22459,6 @@
         "edgeR",
         "interactiveDisplayBase",
         "limma",
-        "qvalue",
         "recount",
         "rtracklayer",
         "zlibbioc"
@@ -23042,7 +22955,6 @@
     "qusage": [
         "limma"
     ],
-    "qvalue": [],
     "R3CPET": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -23095,7 +23007,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -23277,7 +23188,6 @@
     "randPack": [],
     "randRotation": [],
     "RankProd": [],
-    "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -23505,7 +23415,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "qvalue",
         "treeio",
         "zlibbioc"
     ],
@@ -23574,7 +23483,6 @@
         "derfinder",
         "derfinderHelper",
         "limma",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -23837,7 +23745,6 @@
         "derfinderHelper",
         "edgeR",
         "limma",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -24386,7 +24293,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "qvalue",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -24772,7 +24678,6 @@
         "derfinder",
         "derfinderHelper",
         "limma",
-        "qvalue",
         "recount",
         "rtracklayer",
         "zlibbioc"
@@ -24976,7 +24881,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "zlibbioc"
     ],
     "rnaseqcomp": [],
@@ -25017,7 +24921,6 @@
         "derfinderHelper",
         "edgeR",
         "limma",
-        "qvalue",
         "recount",
         "rtracklayer",
         "zlibbioc"
@@ -25069,7 +24972,6 @@
         "affyio",
         "limma",
         "preprocessCore",
-        "qvalue",
         "zlibbioc"
     ],
     "roar": [
@@ -25121,7 +25023,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "zlibbioc"
     ],
     "rols": [],
@@ -25889,7 +25790,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "SCBN": [],
     "scBubbletree": [
         "ggtree",
         "treeio"
@@ -26699,7 +26599,6 @@
         "graphite",
         "interactiveDisplayBase",
         "meshr",
-        "qvalue",
         "schex",
         "treeio",
         "zlibbioc"
@@ -26833,7 +26732,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "qvalue",
         "zlibbioc"
     ],
     "sechm": [
@@ -26880,7 +26778,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "rtracklayer",
         "treeio",
         "zlibbioc"
@@ -27010,7 +26907,6 @@
         "fgsea",
         "ggtree",
         "heatmaps",
-        "qvalue",
         "rtracklayer",
         "seqArchR",
         "seqPattern",
@@ -27462,9 +27358,7 @@
     "siggenes": [
         "multtest"
     ],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -27496,7 +27390,6 @@
         "ggtree",
         "graph",
         "interactiveDisplayBase",
-        "qvalue",
         "rhdf5",
         "rhdf5filters",
         "treeio",
@@ -29242,9 +29135,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "subSeq": [
-        "qvalue"
-    ],
+    "subSeq": [],
     "SUITOR": [
         "BiocParallel"
     ],
@@ -29407,7 +29298,6 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "qvalue",
         "zlibbioc"
     ],
     "SWATH2stats": [
@@ -29423,7 +29313,6 @@
         "zlibbioc"
     ],
     "SwathXtend": [],
-    "switchBox": [],
     "switchde": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -29461,7 +29350,6 @@
         "mzR",
         "pcaMethods",
         "preprocessCore",
-        "qvalue",
         "vsn",
         "zlibbioc"
     ],
@@ -29792,7 +29680,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "qvalue",
         "treeio",
         "tximport",
         "zlibbioc"
@@ -29811,7 +29698,6 @@
         "MatrixGenerics",
         "S4Arrays",
         "S4Vectors",
-        "SCBN",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -30131,7 +30017,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "qvalue",
         "rWikiPathways",
         "tkWidgets",
         "treeio",
@@ -30569,7 +30454,6 @@
         "graph",
         "limma",
         "multtest",
-        "qvalue",
         "topGO",
         "zlibbioc"
     ],
@@ -30770,7 +30654,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "qvalue",
         "sva",
         "zlibbioc"
     ],
@@ -31572,7 +31455,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "qvalue",
         "zlibbioc"
     ],
     "vsn": [
@@ -31762,7 +31644,6 @@
         "limma",
         "multtest",
         "preprocessCore",
-        "qvalue",
         "vsn",
         "zlibbioc"
     ],
