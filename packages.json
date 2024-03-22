@@ -7,7 +7,6 @@
         "genefilter"
     ],
     "ABarray": [],
-    "abseqR": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -19,9 +18,7 @@
         "vsn"
     ],
     "ADAMgui": [],
-    "adductomicsR": [
-        "mzR"
-    ],
+    "adductomicsR": [],
     "ADImpute": [],
     "AffiXcan": [],
     "affycoretools": [
@@ -269,7 +266,6 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -525,7 +521,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -778,14 +773,12 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
     "clstutils": [],
     "CluMSID": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "clusterExperiment": [
@@ -946,7 +939,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1111,7 +1103,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "mzR",
         "vsn"
     ],
     "dce": [
@@ -1181,7 +1172,6 @@
     ],
     "DEP": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "DepecheR": [
@@ -1220,9 +1210,7 @@
     "DEXSeq": [
         "genefilter"
     ],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "GreyListChIP",
         "ShortRead",
@@ -1506,7 +1494,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [],
     "fenr": [],
     "ffpe": [
         "HDF5Array",
@@ -1527,7 +1514,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1648,7 +1634,6 @@
         "genefilter",
         "minfi"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "VariantAnnotation"
     ],
@@ -1789,7 +1774,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [],
     "ggmsa": [],
     "ggsc": [],
@@ -1827,7 +1811,6 @@
         "maftools"
     ],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [],
     "goseq": [],
     "GOSim": [],
@@ -2044,7 +2027,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2072,7 +2054,6 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "genefilter",
-        "satuRn",
         "sva",
         "tximeta"
     ],
@@ -2096,7 +2077,6 @@
     ],
     "KCsmart": [],
     "KEGGlincs": [],
-    "keggorthology": [],
     "kissDE": [
         "DSS",
         "HDF5Array",
@@ -2136,7 +2116,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2195,7 +2174,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2287,9 +2265,7 @@
         "Spectra"
     ],
     "MetaboCoreUtils": [],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools",
         "hpar",
@@ -2308,7 +2284,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2523,7 +2498,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2619,33 +2593,27 @@
     ],
     "msmsEDA": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
-        "mzR",
         "vsn"
     ],
     "MSnbase": [
-        "mzR",
         "vsn"
     ],
     "MSnID": [
         "MSnbase",
         "msmsEDA",
         "msmsTests",
-        "mzR",
         "vsn"
     ],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -2665,13 +2633,11 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "mzR",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -2731,7 +2697,6 @@
     "myvariant": [
         "VariantAnnotation"
     ],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "CNEr",
@@ -2766,7 +2731,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2829,7 +2793,6 @@
     "nullranges": [
         "plyranges"
     ],
-    "OCplus": [],
     "octad": [
         "BiocSingular",
         "EDASeq",
@@ -2965,7 +2928,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "PECA": [
@@ -2978,9 +2940,7 @@
     ],
     "periodicDNA": [],
     "phantasus": [],
-    "phantasusLite": [
-        "rhdf5client"
-    ],
+    "phantasusLite": [],
     "PharmacoGx": [
         "BumpyMatrix",
         "CoreGx",
@@ -3074,7 +3034,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "proActiv": [],
@@ -3095,14 +3054,12 @@
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "vsn"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "genefilter",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -3118,7 +3075,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "mzR",
         "vsn"
     ],
     "ProteoDisco": [
@@ -3144,14 +3100,12 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
-    "pvac": [],
     "pvca": [
         "vsn"
     ],
@@ -3160,7 +3114,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "PWMEnrich": [],
     "pwOmics": [],
     "qckitfastq": [
         "seqTools"
@@ -3172,7 +3125,6 @@
     "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "qsea": [],
@@ -3252,7 +3204,6 @@
         "Rcwl",
         "basilisk"
     ],
-    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
@@ -3337,9 +3288,7 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [
-        "rhdf5client"
-    ],
+    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
@@ -3357,7 +3306,6 @@
     "rgsepd": [
         "goseq"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -3394,7 +3342,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -3409,7 +3356,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "Rmmquant": [],
@@ -3512,7 +3458,6 @@
     "SARC": [
         "plyranges"
     ],
-    "satuRn": [],
     "SBGNview": [
         "pathview"
     ],
@@ -3767,9 +3712,7 @@
         "VariantAnnotation"
     ],
     "SIM": [],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
@@ -3979,7 +3922,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "sscu": [],
     "sSNAPPY": [],
     "ssviz": [],
     "standR": [
@@ -4005,10 +3947,7 @@
         "SpatialExperiment"
     ],
     "strandCheckR": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -4033,7 +3972,6 @@
     "switchde": [],
     "synapter": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "SynExtend": [],
@@ -4052,9 +3990,7 @@
     ],
     "tanggle": [],
     "TAPseq": [],
-    "TargetDecoy": [
-        "mzR"
-    ],
+    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "BiocSingular",
@@ -4076,8 +4012,7 @@
     "TENxIO": [],
     "tenXplore": [
         "ontoProc",
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "TEQC": [],
     "ternarynet": [],
@@ -4124,7 +4059,6 @@
     ],
     "topdownr": [
         "MSnbase",
-        "mzR",
         "vsn"
     ],
     "ToxicoGx": [
@@ -4312,7 +4246,6 @@
         "MsFeatures",
         "QFeatures",
         "Spectra",
-        "mzR",
         "vsn"
     ],
     "xcore": [],
@@ -4327,9 +4260,7 @@
         "piano"
     ],
     "XNAString": [],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "SomaticSignatures",
