@@ -115,15 +115,10 @@
     "ballgown": [],
     "bambu": [],
     "bandle": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "basecallQC": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
-    ],
+    "BASiCStan": [],
     "BatchQC": [],
     "bayNorm": [],
     "BBCAnalyzer": [],
@@ -161,7 +156,6 @@
         "dmrseq"
     ],
     "blacksheepr": [],
-    "blima": [],
     "BLMA": [],
     "bnbc": [],
     "bnem": [],
@@ -376,7 +370,6 @@
     ],
     "condiments": [
         "TrajectoryUtils",
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -535,7 +528,6 @@
     "DifferentialRegulation": [],
     "diffUTR": [],
     "Dino": [],
-    "distinct": [],
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
@@ -787,7 +779,6 @@
     "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
-    "glmGamPoi": [],
     "GloScope": [],
     "gmapR": [],
     "GmicR": [
@@ -803,7 +794,6 @@
     ],
     "GOstats": [],
     "GOTHiC": [],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
@@ -910,9 +900,7 @@
         "DSS"
     ],
     "KnowSeq": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "LinTInd": [],
     "lipidr": [],
@@ -1092,7 +1080,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MMUPHin": [],
     "moanin": [],
     "MobilityTransformR": [
@@ -1159,7 +1146,6 @@
         "msmsTests"
     ],
     "MSPrep": [],
-    "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
@@ -1339,11 +1325,8 @@
         "soGGi"
     ],
     "projectR": [],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "PROPS": [],
@@ -1376,9 +1359,7 @@
     "quantro": [
         "minfi"
     ],
-    "QuartPAC": [
-        "GraphPAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "GenomicFiles"
     ],
@@ -1533,7 +1514,6 @@
     "scCB2": [],
     "scClassify": [],
     "sccomp": [],
-    "scDD": [],
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
@@ -1583,7 +1563,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
@@ -1611,9 +1590,7 @@
     "SIAMCAT": [
         "phyloseq"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -1688,7 +1665,6 @@
         "dittoSeq"
     ],
     "spicyR": [],
-    "SpidermiR": [],
     "SpliceWiz": [
         "ompBAM"
     ],
@@ -1712,12 +1688,9 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "surfaltr": [],
     "svaNUMT": [
@@ -1775,9 +1748,7 @@
     "transcriptR": [
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -1786,7 +1757,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "tricycle": [],
     "trigger": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
@@ -1825,7 +1795,6 @@
         "GenomicFiles"
     ],
     "VDJdive": [],
-    "velociraptor": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
@@ -1854,7 +1823,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
