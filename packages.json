@@ -214,7 +214,6 @@
     "basecallQC": [
         "ShortRead"
     ],
-    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -270,9 +269,7 @@
     "BiocSklearn": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
-    "biodbMirbase": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "biomformat": [],
     "biomvRCNS": [
         "Gviz",
@@ -522,7 +519,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "ShortRead",
         "chipseq",
         "systemPipeR"
@@ -575,7 +571,6 @@
     "ClassifyR": [],
     "cleanUpdTSeq": [],
     "clipper": [],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -597,7 +592,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "clusterSeq": [],
     "clustifyr": [],
     "cmapR": [
         "flowCore"
@@ -710,9 +704,7 @@
         "piano"
     ],
     "corral": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [],
     "cosmiq": [
         "MSnbase",
@@ -761,7 +753,6 @@
     "crossmeta": [
         "sva"
     ],
-    "csaw": [],
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
@@ -945,7 +936,6 @@
     "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
-        "GreyListChIP",
         "ShortRead",
         "systemPipeR"
     ],
@@ -956,9 +946,7 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -1070,10 +1058,7 @@
     ],
     "epidecodeR": [],
     "epigenomix": [],
-    "epigraHMM": [
-        "GreyListChIP",
-        "csaw"
-    ],
+    "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
         "Gviz",
@@ -1151,8 +1136,7 @@
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [
         "wiggleplotr"
@@ -1185,7 +1169,6 @@
         "methylumi",
         "minfi"
     ],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "flagme": [
@@ -1471,7 +1454,6 @@
     ],
     "GRaNIE": [],
     "GraphPAC": [],
-    "GreyListChIP": [],
     "groHMM": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1549,11 +1531,9 @@
         "chipseq",
         "gmapR"
     ],
-    "HTSFilter": [],
     "icetea": [
         "ShortRead",
-        "VariantAnnotation",
-        "csaw"
+        "VariantAnnotation"
     ],
     "iCheck": [
         "bumphunter",
@@ -2033,13 +2013,11 @@
     "motifbreakR": [
         "CNEr",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "CNEr",
         "TFBSTools"
@@ -2175,7 +2153,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "csaw",
         "motifStack",
         "regioneR",
         "trackViewer"
@@ -2415,7 +2392,6 @@
         "MAST"
     ],
     "PPInfer": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -2677,7 +2653,6 @@
         "ggbio"
     ],
     "ribor": [],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -2760,7 +2735,6 @@
         "methylumi",
         "minfi"
     ],
-    "roar": [],
     "ROntoTools": [],
     "ropls": [],
     "RPA": [
@@ -2783,9 +2757,7 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead"
@@ -2955,7 +2927,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -3187,7 +3158,6 @@
         "singscore",
         "sva"
     ],
-    "TCC": [],
     "TCGAbiolinks": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
@@ -3361,9 +3331,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "ShortRead",
-        "csaw",
         "regioneR",
         "systemPipeR"
     ],
