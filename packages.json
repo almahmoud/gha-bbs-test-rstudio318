@@ -2,21 +2,16 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "a4Core",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
-        "a4Core",
         "annaffy",
         "genefilter",
         "multtest"
     ],
-    "a4Classif": [
-        "a4Core"
-    ],
-    "a4Core": [],
+    "a4Classif": [],
     "ABarray": [
         "multtest"
     ],
@@ -60,7 +55,6 @@
         "MultiAssayExperiment"
     ],
     "affxparser": [],
-    "affycomp": [],
     "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
@@ -353,7 +347,6 @@
         "Rsamtools",
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [
         "DESeq2",
         "MultiAssayExperiment"
@@ -801,7 +794,6 @@
         "MAST",
         "Maaslin2",
         "MultiAssayExperiment",
-        "NOISeq",
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -1714,7 +1706,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [
         "SingleCellExperiment"
     ],
@@ -2138,7 +2129,6 @@
     ],
     "CNVMetrics": [],
     "CNVPanelizer": [
-        "NOISeq",
         "Rhtslib",
         "Rsamtools",
         "exomeCopy"
@@ -4392,7 +4382,6 @@
         "affxparser"
     ],
     "geneRxCluster": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -4946,7 +4935,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "hermes": [
         "ComplexHeatmap",
         "DESeq2",
@@ -5120,7 +5108,6 @@
     "iCheck": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GeneSelectMMD",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5427,7 +5414,6 @@
         "biomaRt"
     ],
     "IsoBayes": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -6064,9 +6050,7 @@
     "metapone": [
         "fgsea"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "BSgenome",
         "BiocIO",
@@ -6104,7 +6088,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationHub",
         "ExperimentHub",
@@ -7252,7 +7235,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR"
     ],
@@ -7989,7 +7971,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [],
     "projectR": [],
     "pRoloc": [
@@ -8870,9 +8851,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Rmagpie": [],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
         "mzID",
@@ -10256,7 +10235,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
         "Rgraphviz"
@@ -10750,9 +10728,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
