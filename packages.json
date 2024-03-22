@@ -113,9 +113,7 @@
         "minfi"
     ],
     "arrayQualityMetrics": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "Gviz",
         "VariantAnnotation",
@@ -124,7 +122,6 @@
     "ASSIGN": [
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "TFBSTools",
@@ -217,9 +214,7 @@
         "sva"
     ],
     "BioNetStat": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation"
@@ -344,9 +339,7 @@
     ],
     "cbpManager": [],
     "ccfindR": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -385,7 +378,6 @@
         "CNTools"
     ],
     "CGHnormaliter": [],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -461,7 +453,6 @@
         "MSnbase"
     ],
     "clusterExperiment": [
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -638,7 +629,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
@@ -915,7 +905,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [],
     "fCCAC": [],
     "fcScan": [
@@ -1095,9 +1084,7 @@
     ],
     "GeneMeta": [],
     "geneRecommender": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "VariantAnnotation",
@@ -1160,13 +1147,11 @@
         "Category",
         "GOstats"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOpro": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -1365,9 +1350,7 @@
         "VariantAnnotation"
     ],
     "LinTInd": [],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "SpatialExperiment",
@@ -1431,7 +1414,6 @@
         "biovizBase"
     ],
     "MAST": [],
-    "mastR": [],
     "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
@@ -1440,7 +1422,6 @@
         "phyloseq",
         "sva"
     ],
-    "mbkmeans": [],
     "mCSEA": [
         "Gviz",
         "VariantAnnotation",
@@ -1723,9 +1704,7 @@
         "MSstatsPTM"
     ],
     "Mulcom": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "VariantAnnotation",
         "biovizBase",
@@ -1733,7 +1712,6 @@
     ],
     "multiGSEA": [],
     "multiHiCcompare": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "multiscan": [],
     "mumosa": [],
@@ -1789,7 +1767,6 @@
     ],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -1809,7 +1786,6 @@
     "NoRCE": [],
     "NormalyzerDE": [],
     "normr": [],
-    "npGSEA": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
@@ -1914,9 +1890,7 @@
         "destiny",
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category"
     ],
@@ -1982,7 +1956,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
@@ -2057,7 +2030,6 @@
     "raer": [],
     "RAIDS": [
         "GENESIS",
-        "SeqVarTools",
         "VariantAnnotation"
     ],
     "RandomWalkRestartMH": [],
@@ -2214,7 +2186,6 @@
         "minfi"
     ],
     "ROntoTools": [],
-    "ropls": [],
     "RPA": [
         "phyloseq"
     ],
@@ -2223,9 +2194,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
@@ -2350,11 +2319,9 @@
     ],
     "SeqSQC": [],
     "seqTools": [],
-    "SeqVarTools": [],
     "SEtools": [
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats"
@@ -2493,7 +2460,6 @@
     "SpliceWiz": [
         "ompBAM"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
