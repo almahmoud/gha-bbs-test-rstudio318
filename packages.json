@@ -23,7 +23,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -48,7 +47,6 @@
     "alabaster": [
         "SpatialExperiment",
         "VariantAnnotation",
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -59,50 +57,34 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
         "VariantAnnotation",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -129,7 +111,6 @@
     "annotatr": [
         "regioneR"
     ],
-    "anota2seq": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -519,7 +500,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [],
@@ -546,7 +526,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
@@ -697,11 +676,9 @@
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
-        "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [],
@@ -711,7 +688,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
@@ -720,7 +696,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore"
     ],
@@ -1050,7 +1025,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ERSSA": [],
     "esATAC": [
         "CNEr",
         "ChIPseeker",
@@ -1300,7 +1274,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -1394,7 +1367,6 @@
     ],
     "GRaNIE": [],
     "GraphPAC": [],
-    "groHMM": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "pathview"
@@ -1455,7 +1427,6 @@
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
@@ -1514,9 +1485,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [
@@ -1696,7 +1665,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "VariantAnnotation",
@@ -2156,7 +2124,6 @@
         "flowMeans"
     ],
     "OPWeight": [],
-    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -2494,7 +2461,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "Rfastp": [],
     "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
@@ -2815,7 +2781,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -3085,7 +3050,6 @@
     "trigger": [
         "sva"
     ],
-    "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSCAN": [
