@@ -95,7 +95,6 @@
     "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "animalcules": [],
     "annmap": [],
     "AnnotationHubData": [],
     "annotatr": [],
@@ -152,7 +151,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "autonomics": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -198,7 +196,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
@@ -565,7 +562,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [],
     "CoSIA": [],
     "cosmiq": [
@@ -582,7 +578,6 @@
     ],
     "countsimQC": [],
     "covRNA": [],
-    "cpvSNP": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore"
@@ -937,7 +932,6 @@
         "methylumi",
         "minfi"
     ],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1065,7 +1059,6 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [],
     "gCrisprTools": [],
     "GDCRNATools": [
         "clusterProfiler",
@@ -1132,13 +1125,10 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "sva"
     ],
-    "GeomxTools": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1152,7 +1142,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1240,7 +1229,6 @@
     ],
     "hicVennDiagram": [],
     "HiLDA": [],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
     "hoodscanR": [
@@ -1633,7 +1621,6 @@
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2255,7 +2242,6 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "sangeranalyseR": [],
     "SARC": [],
     "SBGNview": [],
     "SC3": [],
@@ -2284,7 +2270,6 @@
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "SingleCellSignalR"
     ],
@@ -2347,7 +2332,6 @@
         "epivizrData"
     ],
     "scviR": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
@@ -2368,7 +2352,6 @@
     "seqTools": [],
     "SeqVarTools": [],
     "SEtools": [
-        "sechm",
         "sva"
     ],
     "sevenC": [],
@@ -2412,7 +2395,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
@@ -2478,17 +2460,13 @@
     "spatialDE": [
         "SpatialExperiment"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
     ],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2716,7 +2694,6 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
