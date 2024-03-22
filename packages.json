@@ -10,7 +10,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "adductomicsR": [],
     "ADImpute": [],
     "AffiXcan": [],
@@ -105,7 +104,6 @@
         "GenomicScores",
         "VariantAnnotation"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -219,7 +217,6 @@
         "bsseq",
         "dmrseq"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -227,7 +224,6 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "BloodGen3Module": [],
     "bnbc": [
         "sva"
     ],
@@ -288,7 +284,6 @@
     "CAMERA": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -428,7 +423,6 @@
     "cliqueMS": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -527,7 +521,6 @@
     "cosmiq": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -656,7 +649,6 @@
         "VariantAnnotation"
     ],
     "DEGraph": [],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DeMixT": [
         "DSS",
@@ -733,9 +725,7 @@
         "EnrichmentBrowser",
         "zenith"
     ],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -820,7 +810,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "EventPointer": [],
     "EWCE": [
         "orthogene"
@@ -864,7 +853,6 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1095,14 +1083,8 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
-    "hicVennDiagram": [],
+    "HiContacts": [],
+    "HiCool": [],
     "HiLDA": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
@@ -1174,28 +1156,15 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "isobar": [],
@@ -1203,9 +1172,7 @@
         "DEXSeq",
         "sva"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "iterClust": [],
     "karyoploteR": [
         "VariantAnnotation",
@@ -1240,7 +1207,6 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1269,7 +1235,6 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1323,7 +1288,6 @@
     ],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -1338,7 +1302,6 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1438,7 +1401,6 @@
         "methylumi",
         "minfi"
     ],
-    "missRows": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
@@ -1449,7 +1411,6 @@
     "MobilityTransformR": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1501,7 +1462,6 @@
     ],
     "MsDataHub": [],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "MsFeatures": [],
@@ -1524,12 +1484,9 @@
         "sva"
     ],
     "msPurity": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsLiP": [
@@ -1591,7 +1548,6 @@
     "ncGTW": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1613,7 +1569,6 @@
     ],
     "NeuCA": [],
     "NewWave": [],
-    "nipalsMCIA": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -1792,9 +1747,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [],
     "PureCN": [
@@ -1809,7 +1762,6 @@
         "seqTools"
     ],
     "QDNAseq": [],
-    "QFeatures": [],
     "qPLEXanalyzer": [],
     "qsmooth": [
         "sva"
@@ -1938,7 +1890,6 @@
     "Risa": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -2012,7 +1963,6 @@
     "RVS": [
         "snpStats"
     ],
-    "SAIGEgds": [],
     "sampleClassifier": [],
     "SARC": [],
     "SBGNview": [],
@@ -2063,9 +2013,7 @@
         "VariantAnnotation",
         "snpStats"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scReClassify": [],
     "scRepertoire": [],
@@ -2329,7 +2277,6 @@
     ],
     "TFBSTools": [],
     "TFHAZ": [],
-    "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [],
     "timeOmics": [],
@@ -2337,7 +2284,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
@@ -2458,7 +2404,6 @@
     "xcms": [
         "MsExperiment",
         "MsFeatures",
-        "QFeatures",
         "Spectra"
     ],
     "xcore": [],
