@@ -3228,7 +3228,6 @@
         "edgeR"
     ],
     "DEGseq": [],
-    "DelayedArray": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
@@ -4920,7 +4919,6 @@
         "seqLogo",
         "seqPattern"
     ],
-    "GenomicRanges": [],
     "GenomicScores": [
         "AnnotationHub",
         "BiocVersion",
@@ -10003,7 +10001,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RTN": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
@@ -10050,7 +10047,6 @@
     "RVS": [
         "snpStats"
     ],
-    "S4Arrays": [],
     "safe": [],
     "SAIGEgds": [
         "SeqArray"
@@ -11149,7 +11145,6 @@
         "edgeR",
         "sparseMatrixStats"
     ],
-    "SparseArray": [],
     "sparseMatrixStats": [],
     "sparsenetgls": [],
     "SparseSignatures": [
@@ -11461,7 +11456,6 @@
     "subSeq": [],
     "SUITOR": [],
     "SummarizedBenchmark": [],
-    "SummarizedExperiment": [],
     "supersigs": [],
     "surfaltr": [
         "biomaRt",
