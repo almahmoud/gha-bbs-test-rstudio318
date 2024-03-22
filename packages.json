@@ -38,7 +38,6 @@
     "aCGH": [
         "multtest"
     ],
-    "ACME": [],
     "ADaCGH2": [
         "aCGH",
         "affy",
@@ -708,7 +707,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BAGS": [],
     "ballgown": [
         "BiocIO",
         "GenomicAlignments",
@@ -822,7 +820,6 @@
         "genefilter",
         "sva"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2249,7 +2246,6 @@
         "SingleCellExperiment",
         "fgsea"
     ],
-    "CMA": [],
     "cmapR": [
         "cytolib",
         "flowCore",
@@ -2601,7 +2597,6 @@
     "convert": [
         "marray"
     ],
-    "copa": [],
     "CopyNumberPlots": [
         "AnnotationFilter",
         "BSgenome",
@@ -5461,7 +5456,6 @@
         "rtracklayer"
     ],
     "HilbertCurve": [],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome",
         "BiocIO",
@@ -6307,7 +6301,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "affy",
         "affyio",
@@ -7573,7 +7566,6 @@
         "pcaMethods",
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "AnnotationFilter",
         "BSgenome",
@@ -7898,7 +7890,6 @@
         "illuminaio",
         "minfi",
         "multtest",
-        "pandaR",
         "quantro",
         "rhdf5",
         "rhdf5filters",
@@ -8284,7 +8275,6 @@
         "sva"
     ],
     "pairkat": [],
-    "pandaR": [],
     "panelcn.mops": [
         "Rhtslib",
         "Rsamtools",
@@ -8313,7 +8303,6 @@
         "basilisk.utils",
         "fgsea"
     ],
-    "parglms": [],
     "partCNV": [
         "AnnotationHub",
         "BiocVersion",
@@ -8402,7 +8391,6 @@
         "vsn"
     ],
     "PECA": [
-        "ROTS",
         "affy",
         "affyio",
         "genefilter"
@@ -8835,7 +8823,6 @@
         "genefilter",
         "vsn"
     ],
-    "PSEA": [],
     "psichomics": [
         "AnnotationHub",
         "BSgenome",
@@ -9039,7 +9026,6 @@
         "rtracklayer"
     ],
     "QUBIC": [],
-    "qusage": [],
     "R3CPET": [
         "AnnotationFilter",
         "BSgenome",
@@ -9917,11 +9903,8 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "roastgsa": [],
     "ROCpAI": [],
-    "RolDE": [
-        "ROTS"
-    ],
+    "RolDE": [],
     "rols": [],
     "ROntoTools": [
         "KEGGgraph",
@@ -9934,7 +9917,6 @@
     "ROSeq": [
         "edgeR"
     ],
-    "ROTS": [],
     "RPA": [
         "affy",
         "affyio",
