@@ -208,9 +208,7 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "HDF5Array",
         "bumphunter",
@@ -536,7 +534,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "derfinderPlot",
         "ggbio"
     ],
@@ -829,8 +826,7 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "frma",
-        "oligo"
+        "frma"
     ],
     "chromDraw": [],
     "ChromHeatMap": [],
@@ -863,7 +859,6 @@
     "CIMICE": [
         "maftools"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "VariantAnnotation",
         "gwascat",
@@ -925,9 +920,7 @@
     "cmapR": [
         "flowCore"
     ],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "cn.mops": [
         "exomeCopy"
     ],
@@ -1147,7 +1140,6 @@
     "crlmm": [],
     "crossmeta": [
         "genefilter",
-        "oligo",
         "sva"
     ],
     "csaw": [],
@@ -1357,10 +1349,8 @@
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
-        "derfinderHelper"
+        "bumphunter"
     ],
-    "derfinderHelper": [],
     "derfinderPlot": [
         "GenomicFiles",
         "OrganismDbi",
@@ -1368,7 +1358,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "ggbio"
     ],
     "DEScan2": [
@@ -1487,8 +1476,7 @@
     ],
     "drugTargetInteractions": [],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "oligo"
+        "ArrayExpress"
     ],
     "DSS": [
         "HDF5Array",
@@ -1499,8 +1487,7 @@
     "easier": [],
     "easylift": [],
     "easyRNASeq": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "EBSEA": [],
     "EDASeq": [
@@ -1732,7 +1719,6 @@
     "FindIT2": [
         "MultiAssayExperiment"
     ],
-    "FISHalyseR": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1859,9 +1845,7 @@
         "HDF5Array",
         "OUTRIDER"
     ],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
@@ -1960,7 +1944,6 @@
         "genefilter"
     ],
     "geneRecommender": [],
-    "GeneRegionScan": [],
     "GENESIS": [
         "SeqArray",
         "SeqVarTools"
@@ -1976,7 +1959,6 @@
     ],
     "geneXtendeR": [],
     "genomation": [],
-    "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -2052,8 +2034,7 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [
-        "ShortRead",
-        "genomeIntervals"
+        "ShortRead"
     ],
     "GISPA": [
         "genefilter"
@@ -2332,7 +2313,6 @@
         "genefilter"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IONiseR": [
         "ShortRead"
     ],
@@ -2391,9 +2371,7 @@
         "ComplexHeatmap",
         "DEGreport"
     ],
-    "ITALICS": [
-        "oligo"
-    ],
+    "ITALICS": [],
     "iterClust": [],
     "IVAS": [],
     "ivygapSE": [],
@@ -2733,7 +2711,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylscaper": [],
     "MethylSeekR": [],
     "methylSig": [
         "DSS",
@@ -2821,8 +2798,7 @@
         "beachmat"
     ],
     "mimager": [
-        "affyPLM",
-        "oligo"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -2990,7 +2966,6 @@
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
-        "genomeIntervals",
         "ggbio"
     ],
     "msImpute": [
@@ -3237,7 +3212,6 @@
     "normr": [
         "bamsignals"
     ],
-    "NPARC": [],
     "npGSEA": [],
     "nucleR": [
         "ShortRead"
@@ -3262,7 +3236,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "oligo": [],
     "OLINgui": [],
     "OmaDB": [],
     "omicade4": [
@@ -3373,7 +3346,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "pathRender": [],
     "pathview": [],
     "pcaExplorer": [
         "Category",
@@ -3391,9 +3363,7 @@
         "genefu",
         "piano"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "ComplexHeatmap",
         "flowCore",
@@ -3486,7 +3456,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmp": [],
     "podkat": [],
     "pogos": [
         "ontoProc"
@@ -3582,7 +3551,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "PSMatch": [
@@ -3597,9 +3565,7 @@
         "mzR",
         "vsn"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
@@ -3725,8 +3691,7 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "recount3": [],
     "recountmethylation": [
@@ -3767,8 +3732,7 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "regutools": [
         "Gviz",
@@ -3890,7 +3854,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "rnaEditr": [
@@ -3932,7 +3895,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "RnBeads": [
@@ -4008,7 +3970,6 @@
     "SC3": [],
     "SCAN.UPC": [
         "genefilter",
-        "oligo",
         "sva"
     ],
     "scanMiRApp": [],
@@ -4234,7 +4195,6 @@
         "sechm",
         "sva"
     ],
-    "sevenbridges": [],
     "sevenC": [
         "InteractionSet"
     ],
@@ -4518,7 +4478,6 @@
         "SpatialExperiment"
     ],
     "SPOTlight": [],
-    "spqn": [],
     "SPsimSeq": [
         "biomformat",
         "phyloseq"
@@ -4756,7 +4715,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
@@ -4769,7 +4727,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [],
     "txcutr": [],
     "tximeta": [],
     "UCell": [],
