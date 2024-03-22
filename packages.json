@@ -2,11 +2,9 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "a4Classif": [],
@@ -17,9 +15,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "aCGH": [],
     "ADaCGH2": [
-        "aCGH",
         "genefilter",
         "snapCGH",
         "tilingArray",
@@ -212,7 +208,6 @@
     "animalcules": [
         "MultiAssayExperiment"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -269,7 +264,6 @@
     "artMS": [],
     "ASICS": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "ASpli": [
@@ -361,7 +355,6 @@
     "bandle": [
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "biomaRt",
         "genefilter",
         "mzR",
@@ -546,7 +539,6 @@
     ],
     "biosigner": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -732,7 +724,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1089,7 +1080,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1102,7 +1092,6 @@
     "clstutils": [],
     "CluMSID": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -1248,7 +1237,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "concordexR": [],
@@ -1336,7 +1324,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1367,9 +1354,7 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
@@ -1425,7 +1410,6 @@
         "biomaRt"
     ],
     "CTdata": [],
-    "CTDquerier": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1560,7 +1544,6 @@
         "DOSE",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
         "mzR",
@@ -1659,7 +1642,6 @@
     "DEP": [
         "ComplexHeatmap",
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -1867,7 +1849,6 @@
     "EDIRquery": [
         "InteractionSet"
     ],
-    "EGAD": [],
     "EGSEA": [
         "BiocSingular",
         "GSEABase",
@@ -2158,7 +2139,6 @@
         "methylumi",
         "minfi"
     ],
-    "fgga": [],
     "FilterFFPE": [],
     "FindIT2": [
         "GenomicFeatures",
@@ -2172,7 +2152,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2532,7 +2511,6 @@
     "GeomxTools": [
         "NanoStringNCTools"
     ],
-    "GEOsubmission": [],
     "gep2pep": [
         "GSEABase"
     ],
@@ -2957,7 +2935,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3080,7 +3057,6 @@
     "LinTInd": [],
     "lipidr": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "LiquidAssociation": [],
@@ -3097,7 +3073,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3107,7 +3082,6 @@
         "vsn",
         "xcms"
     ],
-    "loci2path": [],
     "LOLA": [],
     "LoomExperiment": [
         "HDF5Array"
@@ -3116,7 +3090,6 @@
     "lpNet": [
         "KEGGgraph"
     ],
-    "LRBaseDbi": [],
     "LRcell": [],
     "lumi": [
         "GenomicFeatures",
@@ -3174,7 +3147,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3248,7 +3220,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "MultiDataSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3304,14 +3275,11 @@
         "AnnotationFilter",
         "CompoundDb",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
         "struct"
@@ -3338,7 +3306,6 @@
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3370,7 +3337,6 @@
     ],
     "MetCirc": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "methInheritSim": [
@@ -3565,7 +3531,6 @@
         "beachmat",
         "bsseq"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools"
@@ -3613,7 +3578,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3694,42 +3658,33 @@
     "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra"
     ],
-    "MsCoreUtils": [],
     "MsDataHub": [],
     "MsExperiment": [
         "AnnotationFilter",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [
-        "MsCoreUtils"
-    ],
+    "MsFeatures": [],
     "msgbsR": [
         "AnnotationFilter",
         "GenomicFeatures",
@@ -3753,25 +3708,21 @@
     "mslp": [],
     "msmsEDA": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
-        "MsCoreUtils",
         "msmsEDA",
         "mzR",
         "vsn"
     ],
     "MSnbase": [
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
     "MSnID": [
         "MSnbase",
-        "MsCoreUtils",
         "msmsEDA",
         "msmsTests",
         "mzR",
@@ -3786,14 +3737,12 @@
     ],
     "msqrob2": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures"
     ],
     "MsQuality": [
         "AnnotationFilter",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
         "QFeatures",
@@ -3809,14 +3758,12 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -3832,7 +3779,6 @@
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -3848,7 +3794,6 @@
         "plyranges",
         "regioneR"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "graphite"
     ],
@@ -3954,7 +3899,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3978,7 +3922,6 @@
         "mnem"
     ],
     "NetActivity": [],
-    "netboost": [],
     "netDx": [
         "MultiAssayExperiment"
     ],
@@ -4084,7 +4027,6 @@
         "ALDEx2"
     ],
     "omicRexposome": [
-        "MultiDataSet",
         "genefilter",
         "made4",
         "omicade4",
@@ -4249,7 +4191,6 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -4279,7 +4220,6 @@
     ],
     "phenomis": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "biodbChebi",
         "ropls"
     ],
@@ -4368,7 +4308,6 @@
     ],
     "preciseTAD": [
         "GenomicFeatures",
-        "aCGH",
         "biomaRt",
         "rCGH"
     ],
@@ -4388,7 +4327,6 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -4419,7 +4357,6 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "biomaRt",
         "genefilter",
         "mzR",
@@ -4428,7 +4365,6 @@
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "biomaRt",
         "genefilter",
         "mzR",
@@ -4448,7 +4384,6 @@
         "DOSE",
         "MSnbase",
         "Mfuzz",
-        "MsCoreUtils",
         "clusterProfiler",
         "enrichplot",
         "mzR",
@@ -4479,7 +4414,6 @@
     ],
     "PSMatch": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures"
     ],
@@ -4489,7 +4423,6 @@
     ],
     "ptairMS": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -4527,12 +4460,9 @@
     ],
     "QFeatures": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment"
     ],
-    "qmtools": [
-        "MsCoreUtils"
-    ],
+    "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [
         "GenomicFeatures",
@@ -4540,7 +4470,6 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -4637,7 +4566,6 @@
     ],
     "rCGH": [
         "GenomicFeatures",
-        "aCGH",
         "biomaRt"
     ],
     "RCM": [
@@ -4850,7 +4778,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4878,7 +4805,6 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -4974,14 +4900,12 @@
         "minfi"
     ],
     "roar": [],
-    "ROCpAI": [],
     "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
     "ropls": [
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "ROSeq": [],
     "RPA": [
@@ -5000,7 +4924,6 @@
     ],
     "rqt": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "rrvgo": [],
@@ -5194,7 +5117,6 @@
     ],
     "scp": [
         "AnnotationFilter",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures"
     ],
@@ -5215,7 +5137,6 @@
         "scuttle"
     ],
     "scReClassify": [],
-    "screenCounter": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "ComplexHeatmap",
@@ -5526,7 +5447,6 @@
         "goseq"
     ],
     "snapCGH": [
-        "aCGH",
         "genefilter",
         "tilingArray",
         "vsn"
@@ -5629,8 +5549,7 @@
     ],
     "speckle": [],
     "Spectra": [
-        "MetaboCoreUtils",
-        "MsCoreUtils"
+        "MetaboCoreUtils"
     ],
     "SpectralTAD": [
         "HiCcompare",
@@ -5776,7 +5695,6 @@
     "switchde": [],
     "synapter": [
         "MSnbase",
-        "MsCoreUtils",
         "cleaver",
         "mzR",
         "vsn"
@@ -5916,7 +5834,6 @@
     ],
     "topdownr": [
         "MSnbase",
-        "MsCoreUtils",
         "mzR",
         "vsn"
     ],
@@ -6004,7 +5921,6 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "TTMap": [],
     "TurboNorm": [
         "convert"
     ],
@@ -6179,7 +6095,6 @@
         "biomaRt"
     ],
     "webbioc": [
-        "annaffy",
         "vsn"
     ],
     "weitrix": [],
@@ -6188,7 +6103,6 @@
         "AnnotationFilter",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
