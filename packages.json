@@ -120,7 +120,6 @@
     "cardelino": [
         "snpStats"
     ],
-    "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [
         "cBioPortalData"
@@ -146,7 +145,6 @@
         "clusterProfiler",
         "snpStats"
     ],
-    "cghMCR": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -238,9 +236,7 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -301,7 +297,6 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "EGSEA": [],
     "ELMER": [
         "Gviz"
     ],
@@ -413,7 +408,6 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [],
     "GenProSeq": [],
     "gespeR": [],
     "ggbio": [],
@@ -807,7 +801,6 @@
     "sccomp": [],
     "scDesign3": [],
     "scds": [],
-    "scFeatures": [],
     "schex": [],
     "scHOT": [],
     "scmap": [],
