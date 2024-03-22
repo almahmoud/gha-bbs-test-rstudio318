@@ -408,7 +408,6 @@
         "HybridMTest",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -456,7 +455,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -472,7 +470,6 @@
         "beadarray",
         "gcrma",
         "genefilter",
-        "illuminaio",
         "vsn"
     ],
     "artMS": [
@@ -763,9 +760,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "beadarray": [
-        "illuminaio"
-    ],
+    "beadarray": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -851,7 +846,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -1093,8 +1087,7 @@
         "genefilter"
     ],
     "blima": [
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "BLMA": [
         "KEGGgraph",
@@ -1692,7 +1685,6 @@
         "genefilter",
         "globaltest",
         "goseq",
-        "illuminaio",
         "interactiveDisplayBase",
         "lumi",
         "methylumi",
@@ -2024,7 +2016,6 @@
         "rhdf5filters",
         "zinbwave"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "DOSE",
         "GOSemSim",
@@ -2273,7 +2264,6 @@
         "MsCoreUtils",
         "Spectra"
     ],
-    "ComPrAn": [],
     "concordexR": [],
     "condiments": [
         "BiocNeighbors",
@@ -2360,7 +2350,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -2578,7 +2567,6 @@
         "rtracklayer"
     ],
     "crlmm": [
-        "illuminaio",
         "oligoClasses"
     ],
     "crossmeta": [
@@ -2665,8 +2653,7 @@
     ],
     "cycle": [
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -2819,11 +2806,8 @@
         "mzID",
         "mzR",
         "tkWidgets",
-        "vsn",
-        "widgetTools"
+        "vsn"
     ],
-    "DART": [],
-    "dcanr": [],
     "dce": [
         "Rgraphviz",
         "epiNEM",
@@ -2895,7 +2879,6 @@
         "bumphunter",
         "fastseg",
         "genefilter",
-        "illuminaio",
         "methylKit",
         "minfi",
         "multtest",
@@ -3142,7 +3125,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "biomaRt",
         "ensembldb",
         "genefilter",
@@ -3213,7 +3195,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "illuminaio",
         "interactiveDisplayBase",
         "methylumi",
         "minfi",
@@ -3350,11 +3331,8 @@
         "rtracklayer"
     ],
     "dStruct": [],
-    "DTA": [],
     "Dune": [],
-    "dupRadar": [
-        "Rsubread"
-    ],
+    "dupRadar": [],
     "dyebias": [],
     "easier": [
         "AnnotationHub",
@@ -3381,8 +3359,7 @@
     ],
     "EBcoexpress": [],
     "EBSEA": [
-        "DESeq2",
-        "EmpiricalBrownsMethod"
+        "DESeq2"
     ],
     "EBSeqHMM": [],
     "ecolitk": [],
@@ -3446,7 +3423,6 @@
         "rtracklayer"
     ],
     "EMDomics": [],
-    "EmpiricalBrownsMethod": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "BiocIO",
@@ -3473,7 +3449,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "interactiveDisplayBase",
         "minfi",
         "multtest",
@@ -3591,8 +3566,7 @@
     "epigenomix": [
         "Rhtslib",
         "Rsamtools",
-        "beadarray",
-        "illuminaio"
+        "beadarray"
     ],
     "epigraHMM": [
         "BSgenome",
@@ -3639,7 +3613,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "illuminaio",
         "interactiveDisplayBase",
         "minfi",
         "multtest",
@@ -3819,7 +3792,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "rtracklayer"
     ],
     "ExiMiR": [],
@@ -3962,7 +3934,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -4176,7 +4147,6 @@
         "OUTRIDER",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "biomaRt",
         "rhdf5",
         "rhdf5filters",
@@ -4204,7 +4174,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -4758,7 +4727,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "granulator": [],
     "graphite": [],
     "GraphPAC": [
         "iPAC",
@@ -5116,7 +5084,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -5151,7 +5118,6 @@
         "biomaRt",
         "genefilter",
         "goseq",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO"
@@ -5179,10 +5145,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [
-        "lpsymphony"
-    ],
-    "illuminaio": [],
+    "IHW": [],
     "ILoReg": [
         "SingleCellExperiment"
     ],
@@ -5243,7 +5206,6 @@
         "genefilter",
         "ggtree",
         "graphite",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -5604,7 +5566,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
@@ -5622,7 +5583,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "methylumi",
         "minfi",
         "multtest",
@@ -5689,7 +5649,6 @@
         "bumphunter",
         "crlmm",
         "genefilter",
-        "illuminaio",
         "methylumi",
         "minfi",
         "multtest",
@@ -5878,7 +5837,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -5900,7 +5858,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -6091,7 +6048,6 @@
     "MethReg": [
         "AnnotationHub",
         "ExperimentHub",
-        "illuminaio",
         "interactiveDisplayBase",
         "sesame"
     ],
@@ -6119,7 +6075,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6141,7 +6096,6 @@
         "bsseq",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "plyranges",
@@ -6169,7 +6123,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "interactiveDisplayBase",
         "minfi",
         "multtest",
@@ -6195,7 +6148,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "illuminaio",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -6273,7 +6225,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6284,8 +6235,7 @@
     "MetID": [],
     "MetNet": [],
     "Mfuzz": [
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [],
     "MGFR": [
@@ -6429,7 +6379,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -6450,7 +6399,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -6465,7 +6413,6 @@
         "Rsamtools",
         "VanillaICE",
         "crlmm",
-        "illuminaio",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -6517,7 +6464,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "methylumi",
         "minfi",
         "multtest",
@@ -6743,8 +6689,7 @@
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
@@ -6947,13 +6892,10 @@
         "ComplexHeatmap",
         "DESeq2",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "multiscan": [],
-    "multiWGCNA": [
-        "dcanr"
-    ],
+    "multiWGCNA": [],
     "multtest": [],
     "mumosa": [
         "BiocNeighbors",
@@ -7054,7 +6996,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "DirichletMultinomial",
-        "EmpiricalBrownsMethod",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicScores",
@@ -7204,7 +7145,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "quantro",
@@ -7247,9 +7187,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "normalize450K": [
-        "illuminaio"
-    ],
+    "normalize450K": [],
     "NormalyzerDE": [
         "vsn"
     ],
@@ -7340,8 +7278,7 @@
     "OLIN": [],
     "OLINgui": [
         "OLIN",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [],
     "OmaDB": [
@@ -7489,7 +7426,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "OSAT": [],
     "Oscope": [],
     "OTUbase": [
         "GenomicAlignments",
@@ -7610,7 +7546,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationForge",
         "Category",
@@ -8017,8 +7952,7 @@
         "mzID",
         "mzR",
         "tkWidgets",
-        "vsn",
-        "widgetTools"
+        "vsn"
     ],
     "ProteoDisco": [
         "BSgenome",
@@ -8187,7 +8121,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8318,7 +8251,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "rawrr": [],
     "RbcBook1": [],
     "Rbec": [
         "GenomicAlignments",
@@ -8380,7 +8312,6 @@
     ],
     "RCy3": [],
     "RCyjs": [],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -8434,7 +8365,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8559,7 +8489,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "interactiveDisplayBase",
         "minfi",
         "multtest",
@@ -8773,7 +8702,6 @@
         "RUVSeq",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "ShortRead",
         "TFBSTools",
         "biomaRt",
@@ -8789,7 +8717,6 @@
     ],
     "rifiComparative": [
         "BiocIO",
-        "DTA",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -9006,7 +8933,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "methylumi",
         "minfi",
         "multtest",
@@ -9074,7 +9000,6 @@
     ],
     "rsbml": [],
     "rScudo": [],
-    "Rsubread": [],
     "RSVSim": [
         "GenomicAlignments",
         "Rhtslib",
@@ -9457,7 +9382,6 @@
         "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
@@ -9507,7 +9431,6 @@
         "OrganismDbi",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "ShortRead",
         "SingleCellExperiment",
         "VariantAnnotation",
@@ -9700,7 +9623,6 @@
     "sesame": [
         "AnnotationHub",
         "ExperimentHub",
-        "illuminaio",
         "interactiveDisplayBase"
     ],
     "SEtools": [
@@ -9748,7 +9670,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -9767,7 +9688,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "rhdf5",
@@ -10024,7 +9944,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -10696,8 +10615,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "TIN": [],
     "TissueEnrich": [
@@ -10714,9 +10632,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "tkWidgets": [
-        "widgetTools"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "BSgenome",
         "BiocIO",
@@ -11054,7 +10970,6 @@
         "Rhtslib",
         "Rsamtools",
         "crlmm",
-        "illuminaio",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -11238,7 +11153,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "lumi",
         "methylumi",
         "minfi",
@@ -11266,7 +11180,6 @@
     "weitrix": [
         "DelayedMatrixStats"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "BiocIO",
         "GenomicAlignments",
@@ -11350,7 +11263,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "illuminaio",
         "minfi",
         "multtest",
         "quantro",
