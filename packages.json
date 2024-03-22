@@ -41,7 +41,6 @@
     "adductomicsR": [
         "AnnotationHub",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "mzR"
     ],
     "ADImpute": [
@@ -142,7 +141,6 @@
         "Rsamtools",
         "biocViews",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "airpart": [
@@ -312,7 +310,6 @@
         "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -359,9 +356,7 @@
     ],
     "AnnotationFilter": [],
     "AnnotationForge": [],
-    "AnnotationHub": [
-        "interactiveDisplayBase"
-    ],
+    "AnnotationHub": [],
     "AnnotationHubData": [
         "AnnotationForge",
         "AnnotationHub",
@@ -374,7 +369,6 @@
         "Rsamtools",
         "biocViews",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "annotatr": [
@@ -386,7 +380,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "interactiveDisplayBase",
         "regioneR",
         "rtracklayer"
     ],
@@ -405,7 +398,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "HybridMTest",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -433,7 +425,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -548,7 +539,6 @@
         "TFBSTools",
         "biomaRt",
         "ensembldb",
-        "interactiveDisplayBase",
         "motifStack",
         "multtest",
         "regioneR",
@@ -572,8 +562,7 @@
         "AnnotationHub",
         "GenomicAlignments",
         "Rhtslib",
-        "Rsamtools",
-        "interactiveDisplayBase"
+        "Rsamtools"
     ],
     "atSNP": [
         "BSgenome",
@@ -904,8 +893,7 @@
     ],
     "BiocHubsShiny": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "BiocIO": [],
     "BiocNeighbors": [],
@@ -922,7 +910,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -1063,7 +1050,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -1098,8 +1084,7 @@
     "BloodGen3Module": [
         "AnnotationHub",
         "ComplexHeatmap",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "bluster": [
         "BiocNeighbors"
@@ -1174,7 +1159,6 @@
         "derfinderPlot",
         "ensembldb",
         "ggbio",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "branchpointer": [
@@ -1487,8 +1471,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graphite",
-        "interactiveDisplayBase"
+        "graphite"
     ],
     "cbpManager": [
         "basilisk",
@@ -1643,8 +1626,7 @@
         "AnnotationHub",
         "ExperimentHub",
         "basilisk",
-        "basilisk.utils",
-        "interactiveDisplayBase"
+        "basilisk.utils"
     ],
     "CGHbase": [],
     "CGHcall": [
@@ -1685,7 +1667,6 @@
         "genefilter",
         "globaltest",
         "goseq",
-        "interactiveDisplayBase",
         "lumi",
         "methylumi",
         "minfi",
@@ -1913,7 +1894,6 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "interactiveDisplayBase",
         "rtracklayer",
         "snpStats",
         "universalmotif"
@@ -2235,7 +2215,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "compcodeR": [],
@@ -2397,8 +2376,7 @@
     "CoSIA": [
         "AnnotationHub",
         "ExperimentHub",
-        "biomaRt",
-        "interactiveDisplayBase"
+        "biomaRt"
     ],
     "cosmiq": [
         "AnnotationFilter",
@@ -2451,7 +2429,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cqn": [],
     "CRImage": [
         "aCGH",
         "multtest"
@@ -2491,15 +2468,13 @@
         "crisprBase",
         "crisprBowtie",
         "crisprScore",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "crisprScore": [
         "AnnotationHub",
         "ExperimentHub",
         "basilisk",
-        "basilisk.utils",
-        "interactiveDisplayBase"
+        "basilisk.utils"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -2538,7 +2513,6 @@
         "crisprScore",
         "crisprViz",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "crisprViz": [
@@ -2562,7 +2536,6 @@
         "crisprDesign",
         "crisprScore",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "crlmm": [
@@ -2592,14 +2565,12 @@
     ],
     "CTdata": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
         "fgsea",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -2629,8 +2600,7 @@
         "rhdf5filters"
     ],
     "customCMPdb": [
-        "AnnotationHub",
-        "interactiveDisplayBase"
+        "AnnotationHub"
     ],
     "customProDB": [
         "BSgenome",
@@ -3071,7 +3041,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "DFP": [],
     "DIAlignR": [
         "mzR"
     ],
@@ -3194,7 +3163,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "interactiveDisplayBase",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -3220,7 +3188,6 @@
         "biomaRt",
         "bsseq",
         "bumphunter",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -3337,7 +3304,6 @@
         "AnnotationHub",
         "DESeq2",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "progeny",
         "quantiseqr"
     ],
@@ -3361,7 +3327,6 @@
         "DESeq2"
     ],
     "EBSeqHMM": [],
-    "ecolitk": [],
     "EDASeq": [
         "BiocIO",
         "GenomicAlignments",
@@ -3448,7 +3413,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -3551,7 +3515,6 @@
         "fgsea",
         "genomation",
         "ggtree",
-        "interactiveDisplayBase",
         "rtracklayer",
         "seqPattern"
     ],
@@ -3589,7 +3552,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "epimutacions": [
@@ -3612,7 +3574,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -3783,7 +3744,6 @@
         "ExperimentHub",
         "SingleCellExperiment",
         "ggtree",
-        "interactiveDisplayBase",
         "orthogene"
     ],
     "ExCluster": [
@@ -3810,8 +3770,7 @@
         "rtracklayer"
     ],
     "ExperimentHub": [
-        "AnnotationHub",
-        "interactiveDisplayBase"
+        "AnnotationHub"
     ],
     "ExperimentHubData": [
         "AnnotationForge",
@@ -3827,7 +3786,6 @@
         "Rsamtools",
         "biocViews",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "ExperimentSubset": [
@@ -4272,7 +4230,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "gDR": [
@@ -4477,7 +4434,6 @@
     "GenomicScores": [
         "AnnotationHub",
         "HDF5Array",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4512,9 +4468,7 @@
         "NanoStringNCTools"
     ],
     "GEOsubmission": [],
-    "GeoTcgaData": [
-        "cqn"
-    ],
+    "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase",
         "rhdf5",
@@ -4720,7 +4674,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "topGO"
     ],
@@ -4760,7 +4713,6 @@
         "Rgraphviz",
         "SPIA",
         "graphite",
-        "interactiveDisplayBase",
         "pathview",
         "safe"
     ],
@@ -4848,7 +4800,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "interactiveDisplayBase",
         "rtracklayer",
         "snpStats"
     ],
@@ -4992,8 +4943,7 @@
     ],
     "hipathia": [
         "AnnotationHub",
-        "MultiAssayExperiment",
-        "interactiveDisplayBase"
+        "MultiAssayExperiment"
     ],
     "HIPPO": [
         "SingleCellExperiment"
@@ -5022,8 +4972,7 @@
     ],
     "hpar": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "HTqPCR": [],
     "HTSeqGenie": [
@@ -5047,7 +4996,6 @@
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
-    "HybridMTest": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -5269,10 +5217,8 @@
     "interactiveDisplay": [
         "Category",
         "GSEABase",
-        "genefilter",
-        "interactiveDisplayBase"
+        "genefilter"
     ],
-    "interactiveDisplayBase": [],
     "InterCellar": [
         "ComplexHeatmap",
         "biomaRt"
@@ -5307,8 +5253,7 @@
     ],
     "iPath": [],
     "ipdDb": [
-        "AnnotationHub",
-        "interactiveDisplayBase"
+        "AnnotationHub"
     ],
     "IPO": [
         "AnnotationFilter",
@@ -5347,8 +5292,7 @@
         "ComplexHeatmap",
         "ExperimentHub",
         "SingleCellExperiment",
-        "iSEE",
-        "interactiveDisplayBase"
+        "iSEE"
     ],
     "iSEEindex": [
         "ComplexHeatmap",
@@ -5385,7 +5329,6 @@
         "biomaRt",
         "ensembldb",
         "genefilter",
-        "interactiveDisplayBase",
         "rtracklayer",
         "satuRn",
         "sva",
@@ -5401,7 +5344,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "iterativeBMA": [],
     "iterClust": [],
     "IVAS": [
         "BiocIO",
@@ -5474,7 +5416,6 @@
         "rtracklayer"
     ],
     "KnowSeq": [
-        "cqn",
         "genefilter",
         "sva"
     ],
@@ -5564,8 +5505,7 @@
     "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "lumi": [
         "BiocIO",
@@ -5598,7 +5538,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "Maaslin2": [
@@ -5613,8 +5552,7 @@
         "AnnotationHub",
         "ExperimentHub",
         "basilisk",
-        "basilisk.utils",
-        "interactiveDisplayBase"
+        "basilisk.utils"
     ],
     "made4": [],
     "MADSEQ": [
@@ -5665,7 +5603,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "interactiveDisplayBase",
         "pathview"
     ],
     "magpie": [
@@ -5745,14 +5682,12 @@
         "AnnotationHub",
         "ExperimentHub",
         "GSEABase",
-        "SingleCellExperiment",
-        "interactiveDisplayBase"
+        "SingleCellExperiment"
     ],
     "MatrixQCvis": [
         "AnnotationHub",
         "ComplexHeatmap",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "proDA",
         "vsn"
     ],
@@ -5769,7 +5704,6 @@
     ],
     "matter": [],
     "MBASED": [],
-    "MBCB": [],
     "MBECS": [
         "biomformat",
         "genefilter",
@@ -5903,8 +5837,7 @@
         "MeSHDbi",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "interactiveDisplayBase"
+        "ggtree"
     ],
     "meshr": [
         "Category",
@@ -5924,8 +5857,7 @@
         "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
-        "interactiveDisplayBase"
+        "Spectra"
     ],
     "MetaboCoreUtils": [
         "MsCoreUtils"
@@ -5953,7 +5885,6 @@
         "biomaRt",
         "ensembldb",
         "hpar",
-        "interactiveDisplayBase",
         "mygene",
         "rtracklayer"
     ],
@@ -6043,7 +5974,6 @@
     "MethReg": [
         "AnnotationHub",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "sesame"
     ],
     "methrix": [
@@ -6118,7 +6048,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6411,7 +6340,6 @@
         "oligoClasses",
         "rtracklayer"
     ],
-    "MiPP": [],
     "miQC": [
         "SingleCellExperiment"
     ],
@@ -6430,7 +6358,6 @@
         "rtracklayer"
     ],
     "MiRaGE": [],
-    "miRcomp": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -6579,7 +6506,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "MoonlightR": [
@@ -6694,8 +6620,7 @@
     "MsCoreUtils": [],
     "MsDataHub": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "MsExperiment": [
         "AnnotationFilter",
@@ -6764,7 +6689,6 @@
         "AnnotationHub",
         "MSnbase",
         "MsCoreUtils",
-        "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests",
         "mzID",
@@ -6870,7 +6794,6 @@
         "AnnotationHub",
         "fgsea",
         "graphite",
-        "interactiveDisplayBase",
         "multtest"
     ],
     "multiHiCcompare": [
@@ -7006,7 +6929,6 @@
         "biovizBase",
         "csaw",
         "ensembldb",
-        "interactiveDisplayBase",
         "motifStack",
         "multtest",
         "regioneR",
@@ -7239,7 +7161,6 @@
         "SingleCellExperiment",
         "beachmat",
         "biomaRt",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -7262,7 +7183,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "oligo": [
@@ -7327,8 +7247,7 @@
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
-        "Rgraphviz",
-        "interactiveDisplayBase"
+        "Rgraphviz"
     ],
     "openCyto": [
         "Rgraphviz",
@@ -7417,7 +7336,6 @@
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -7515,8 +7433,7 @@
     ],
     "partCNV": [
         "AnnotationHub",
-        "SingleCellExperiment",
-        "interactiveDisplayBase"
+        "SingleCellExperiment"
     ],
     "PAST": [
         "BiocIO",
@@ -7657,7 +7574,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "OmaDB",
-        "interactiveDisplayBase",
         "topGO"
     ],
     "phyloseq": [
@@ -7774,7 +7690,6 @@
     "pogos": [
         "AnnotationHub",
         "Rgraphviz",
-        "interactiveDisplayBase",
         "ontoProc"
     ],
     "polyester": [],
@@ -7845,7 +7760,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -7982,7 +7896,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "interactiveDisplayBase",
         "recount",
         "rtracklayer"
     ],
@@ -8046,8 +7959,7 @@
     "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
-        "biomaRt",
-        "interactiveDisplayBase"
+        "biomaRt"
     ],
     "qckitfastq": [
         "seqTools"
@@ -8240,7 +8152,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -8273,7 +8184,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "rcellminer": [],
     "rCGH": [
         "BiocIO",
         "GenomicAlignments",
@@ -8467,7 +8377,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "REMP": [
@@ -8483,7 +8392,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "interactiveDisplayBase",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8551,7 +8459,6 @@
     "restfulSE": [
         "AnnotationHub",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "rhdf5client"
     ],
     "ReUseData": [
@@ -8578,8 +8485,7 @@
         "rtracklayer"
     ],
     "rGenomeTracks": [
-        "AnnotationHub",
-        "interactiveDisplayBase"
+        "AnnotationHub"
     ],
     "RGMQL": [
         "BiocIO",
@@ -8768,7 +8674,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "interactiveDisplayBase",
         "regioneR",
         "rtracklayer"
     ],
@@ -9111,14 +9016,12 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer",
         "scanMiR"
     ],
     "scAnnotatR": [
         "AnnotationHub",
-        "SingleCellExperiment",
-        "interactiveDisplayBase"
+        "SingleCellExperiment"
     ],
     "SCANVIS": [
         "BiocIO",
@@ -9309,7 +9212,6 @@
         "beachmat",
         "biomaRt",
         "bsseq",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -9458,7 +9360,6 @@
         "genefilter",
         "ggtree",
         "graphite",
-        "interactiveDisplayBase",
         "meshr",
         "schex"
     ],
@@ -9606,8 +9507,7 @@
     ],
     "SeqSQC": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "seqTools": [],
     "SeqVarTools": [
@@ -9615,8 +9515,7 @@
     ],
     "sesame": [
         "AnnotationHub",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "SEtools": [
         "ComplexHeatmap",
@@ -9726,7 +9625,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -9872,7 +9770,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "interactiveDisplayBase",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -10030,7 +9927,6 @@
         "beachmat",
         "biomaRt",
         "bsseq",
-        "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -10190,7 +10086,6 @@
         "Rhtslib",
         "Rsamtools",
         "genefilter",
-        "interactiveDisplayBase",
         "ompBAM",
         "rhdf5",
         "rhdf5filters",
@@ -10520,7 +10415,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "Rgraphviz",
-        "interactiveDisplayBase",
         "ontoProc",
         "restfulSE",
         "rhdf5client"
@@ -10846,9 +10740,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twoddpcr": [],
     "txcutr": [
         "BiocIO",
@@ -10869,7 +10761,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "interactiveDisplayBase",
         "rtracklayer"
     ],
     "UCell": [
@@ -10887,7 +10778,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "interactiveDisplayBase",
         "plotgardener",
         "plyranges",
         "rtracklayer"
@@ -11005,7 +10895,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -11073,8 +10962,7 @@
     "vissE": [
         "AnnotationHub",
         "ExperimentHub",
-        "GSEABase",
-        "interactiveDisplayBase"
+        "GSEABase"
     ],
     "Voyager": [
         "BiocNeighbors",
@@ -11103,7 +10991,6 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "interactiveDisplayBase",
         "rtracklayer",
         "snpStats"
     ],
