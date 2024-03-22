@@ -37,7 +37,6 @@
     "AllelicImbalance": [
         "Gviz"
     ],
-    "APAlyzer": [],
     "appreci8R": [],
     "arrayMvout": [
         "lumi",
@@ -75,7 +74,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler"
@@ -119,7 +117,6 @@
         "xcms"
     ],
     "canceR": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "cardelino": [
@@ -128,12 +125,9 @@
     "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -269,7 +263,6 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
@@ -320,7 +313,6 @@
         "clusterProfiler"
     ],
     "enrichViewNet": [],
-    "ensemblVEP": [],
     "EpiCompare": [
         "ChIPseeker"
     ],
@@ -435,10 +427,8 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "GloScope": [],
-    "gmapR": [],
     "GmicR": [],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -451,17 +441,12 @@
     "gwascat": [
         "snpStats"
     ],
-    "Harshlight": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCool": [],
     "HIPPO": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
-    "icetea": [],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -514,7 +499,6 @@
     "lumi": [
         "methylumi"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "methylumi",
@@ -603,7 +587,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MMUPHin": [],
     "moanin": [],
     "MobilityTransformR": [
         "MsExperiment",
@@ -645,17 +628,13 @@
         "MsExperiment"
     ],
     "MSstatsLiP": [],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsShiny": [],
     "Mulcom": [],
     "multicrispr": [
         "karyoploteR"
     ],
     "multiscan": [],
-    "MungeSumstats": [],
     "musicatk": [],
     "myvariant": [],
     "NADfinder": [
@@ -765,7 +744,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [],
     "RAIDS": [],
     "RandomWalkRestartMH": [],
@@ -833,7 +811,6 @@
         "methylumi"
     ],
     "Rqc": [],
-    "RTCGAToolbox": [],
     "RVS": [
         "snpStats"
     ],
@@ -961,10 +938,8 @@
     "TimiRGeN": [
         "clusterProfiler"
     ],
-    "TitanCNA": [],
     "TNBC.CMS": [],
     "TOP": [],
-    "topdownr": [],
     "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
@@ -987,8 +962,7 @@
         "TrajectoryUtils"
     ],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "Ularcirc": [],
     "uncoverappLib": [
