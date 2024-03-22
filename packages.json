@@ -321,8 +321,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -345,9 +344,7 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -474,9 +471,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [],
     "cghMCR": [
@@ -554,9 +549,7 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "circRNAprofiler": [
         "VariantAnnotation",
         "gwascat",
@@ -631,7 +624,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [],
     "Cogito": [],
@@ -885,7 +877,6 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DEFormats": [],
     "DegNorm": [],
     "DEGraph": [
         "NCIgraph"
@@ -954,7 +945,6 @@
     "distinct": [],
     "dittoSeq": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1375,8 +1365,7 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "plyranges"
+        "genomation"
     ],
     "GenomicScores": [],
     "GenomicSuperSignature": [],
@@ -1433,8 +1422,7 @@
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "GOexpress": [],
     "GOpro": [],
@@ -1541,16 +1529,13 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
         "goseq",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -1585,8 +1570,7 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [],
     "InTAD": [],
@@ -1658,9 +1642,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KEGGlincs": [],
     "kissDE": [
@@ -1717,7 +1699,6 @@
     "MADSEQ": [
         "VariantAnnotation"
     ],
-    "maftools": [],
     "MAGAR": [
         "RnBeads",
         "bumphunter",
@@ -1744,10 +1725,8 @@
         "Spectra",
         "xcms"
     ],
-    "maPredictDSC": [],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "martini": [
         "snpStats"
@@ -1866,8 +1845,7 @@
     "methylCC": [
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1930,7 +1908,6 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2089,7 +2066,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM"
     ],
@@ -2114,7 +2090,6 @@
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -2133,8 +2108,7 @@
     "muscat": [],
     "musicatk": [
         "VariantAnnotation",
-        "decompTumor2Sig",
-        "maftools"
+        "decompTumor2Sig"
     ],
     "MutationalPatterns": [
         "VariantAnnotation"
@@ -2175,9 +2149,7 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM"
@@ -2215,9 +2187,7 @@
     "nucleR": [
         "ShortRead"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "octad": [
         "EDASeq",
         "GSVA",
@@ -2375,15 +2345,9 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "PLPE": [],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
-    "podkat": [],
+    "plyinteractions": [],
     "pogos": [
         "ontoProc"
     ],
@@ -2413,7 +2377,6 @@
     ],
     "proActiv": [],
     "proBAMr": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -2567,7 +2530,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "bumphunter",
         "minfi"
@@ -2588,7 +2550,6 @@
         "regioneR"
     ],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
@@ -2628,8 +2589,6 @@
         "RcwlPipelines"
     ],
     "Rfastp": [],
-    "rfPred": [],
-    "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
@@ -2652,7 +2611,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -2770,9 +2728,7 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
@@ -3268,8 +3224,7 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "ShortRead",
