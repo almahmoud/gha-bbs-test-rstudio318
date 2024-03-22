@@ -1,6 +1,5 @@
 {
     "ACE": [],
-    "ADaCGH2": [],
     "ADImpute": [],
     "affycoretools": [
         "ReportingTools",
@@ -187,7 +186,6 @@
         "CopyNumberPlots",
         "karyoploteR"
     ],
-    "COCOA": [],
     "cogeqc": [],
     "comapr": [
         "Gviz"
@@ -594,9 +592,7 @@
         "motifStack"
     ],
     "motifStack": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
     "MsExperiment": [],
