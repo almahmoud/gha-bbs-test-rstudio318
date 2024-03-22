@@ -201,8 +201,6 @@
         "regioneR"
     ],
     "anota2seq": [],
-    "AnVILPublish": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -417,14 +415,12 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
-        "graphite"
+        "geNetClassifier"
     ],
     "BiocCheck": [],
     "BiocHail": [
@@ -628,7 +624,6 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
@@ -671,7 +666,6 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "genefilter"
@@ -684,14 +678,12 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "cbpManager": [
         "basilisk"
@@ -915,9 +907,7 @@
     ],
     "cleanUpdTSeq": [],
     "cleaver": [],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
@@ -1002,7 +992,6 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SeqArray"
     ],
     "CNVrd2": [
@@ -1188,7 +1177,6 @@
         "sva"
     ],
     "csaw": [],
-    "csdR": [],
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
@@ -1321,7 +1309,6 @@
     ],
     "dce": [
         "epiNEM",
-        "graphite",
         "mnem"
     ],
     "ddCt": [],
@@ -1530,7 +1517,6 @@
         "GSEABase",
         "SPIA",
         "beachmat",
-        "graphite",
         "pathview",
         "zenith"
     ],
@@ -1603,7 +1589,6 @@
     "EnrichmentBrowser": [
         "GSEABase",
         "SPIA",
-        "graphite",
         "pathview"
     ],
     "enrichplot": [
@@ -1683,7 +1668,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles",
         "OrganismDbi",
@@ -2063,7 +2047,6 @@
     "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2093,7 +2076,6 @@
     "GenomicSuperSignature": [
         "ComplexHeatmap"
     ],
-    "GenomicTuples": [],
     "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
@@ -2181,7 +2163,6 @@
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
@@ -2210,7 +2191,6 @@
     "GRaNIE": [
         "ComplexHeatmap"
     ],
-    "graphite": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -2224,7 +2204,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "SPIA",
-        "graphite",
         "pathview"
     ],
     "GSEAlm": [],
@@ -2265,7 +2244,6 @@
     ],
     "GWENA": [],
     "h5vc": [],
-    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -2402,7 +2380,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "graphite",
         "minfi"
     ],
     "infercnv": [],
@@ -2661,7 +2638,6 @@
     ],
     "MatrixQCvis": [
         "ComplexHeatmap",
-        "proDA",
         "vsn"
     ],
     "MatrixRider": [
@@ -3023,8 +2999,7 @@
     ],
     "mogsa": [
         "GSEABase",
-        "genefilter",
-        "graphite"
+        "genefilter"
     ],
     "MoleculeExperiment": [
         "SpatialExperiment"
@@ -3203,9 +3178,7 @@
         "plyranges",
         "regioneR"
     ],
-    "multiGSEA": [
-        "graphite"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare",
         "InteractionSet"
@@ -3238,7 +3211,6 @@
         "scater",
         "scuttle"
     ],
-    "muscle": [],
     "musicatk": [
         "ComplexHeatmap",
         "VariantAnnotation",
@@ -3345,7 +3317,6 @@
         "BiocSingular",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "ComplexHeatmap",
         "MultiAssayExperiment"
@@ -3414,12 +3385,10 @@
         "VariantAnnotation"
     ],
     "omicsPrint": [
-        "MultiAssayExperiment",
-        "RaggedExperiment"
+        "MultiAssayExperiment"
     ],
     "omicsViewer": [],
     "ompBAM": [],
-    "oncomix": [],
     "OncoScore": [],
     "ontoProc": [],
     "openCyto": [
@@ -3591,8 +3560,7 @@
         "DOSE",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "PING": [
         "Gviz",
@@ -3667,7 +3635,6 @@
     "proActiv": [],
     "proBAMr": [],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "ComplexHeatmap",
@@ -3771,7 +3738,6 @@
     ],
     "qmtools": [],
     "qpcrNorm": [],
-    "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzR",
@@ -3822,7 +3788,6 @@
         "piano"
     ],
     "raer": [],
-    "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
         "SeqArray",
@@ -3861,8 +3826,7 @@
     "RCyjs": [],
     "ReactomePA": [
         "DOSE",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "rebook": [],
     "reconsi": [
@@ -4122,7 +4086,6 @@
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RTNsurvival": [],
@@ -4152,10 +4115,8 @@
     ],
     "sangerseqR": [],
     "SARC": [
-        "RaggedExperiment",
         "plyranges"
     ],
-    "sarks": [],
     "satuRn": [],
     "SBGNview": [
         "pathview"
@@ -4325,7 +4286,6 @@
         "ReactomePA",
         "enrichplot",
         "genefilter",
-        "graphite",
         "meshr",
         "schex"
     ],
@@ -4333,7 +4293,6 @@
         "GSEABase",
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "BiocSingular",
         "OrganismDbi",
@@ -4707,9 +4666,7 @@
         "biovizBase"
     ],
     "sscu": [],
-    "sSNAPPY": [
-        "graphite"
-    ],
+    "sSNAPPY": [],
     "ssviz": [],
     "standR": [
         "EDASeq",
@@ -4726,7 +4683,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
         "miRNAtap"
     ],
     "Statial": [
@@ -4807,8 +4763,7 @@
     "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
-        "RaggedExperiment"
+        "MultiAssayExperiment"
     ],
     "TCseq": [],
     "TDbasedUFEadv": [
@@ -4827,7 +4782,6 @@
     "terraTCGAdata": [
         "GenomicDataCommons",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [
@@ -4843,7 +4797,6 @@
     ],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
-    "TileDBArray": [],
     "tilingArray": [
         "genefilter",
         "vsn"
@@ -5135,7 +5088,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "SPIA",
-        "graphite",
         "pathview"
     ],
     "zFPKM": [],
