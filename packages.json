@@ -39,7 +39,6 @@
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
-    "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
         "Category",
@@ -56,8 +55,7 @@
         "ensembldb",
         "gcrma",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "affyILM": [
         "gcrma"
@@ -69,7 +67,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase"
     ],
@@ -91,8 +88,7 @@
         "ensembldb",
         "gcrma",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "AHMassBank": [
         "AnnotationHub",
@@ -285,14 +281,12 @@
         "biomaRt"
     ],
     "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "arrayMvout": [
         "DelayedMatrixStats",
         "GenomicFeatures",
         "HDF5Array",
-        "affyContam",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -788,7 +782,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
         "GenomicFeatures",
@@ -1173,8 +1166,7 @@
     ],
     "ChIPXpress": [
         "frma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "chromDraw": [],
     "ChromHeatMap": [],
@@ -1307,8 +1299,7 @@
         "flowCore"
     ],
     "cn.farms": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "cn.mops": [
         "exomeCopy"
@@ -1625,16 +1616,12 @@
         "crisprScore",
         "ensembldb"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
     "crossmeta": [
         "genefilter",
         "oligo",
-        "oligoClasses",
         "sva"
     ],
-    "CSAR": [],
     "csaw": [],
     "csdR": [],
     "CSSQ": [
@@ -1805,7 +1792,6 @@
         "graphite",
         "mnem"
     ],
-    "dcGSA": [],
     "ddCt": [],
     "ddPCRclust": [
         "cytolib",
@@ -1920,7 +1906,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "DEqMS": [],
     "derfinder": [
         "GenomicFeatures",
@@ -2104,7 +2089,6 @@
         "beachmat",
         "graphite",
         "pathview",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -2123,8 +2107,7 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "biomaRt",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "DSS": [
         "DelayedMatrixStats",
@@ -2676,8 +2659,7 @@
         "biomaRt"
     ],
     "frma": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "frmaTools": [],
     "FunChIP": [],
@@ -3359,7 +3341,6 @@
         "ShortRead"
     ],
     "iPAC": [],
-    "iPath": [],
     "ipdDb": [
         "AnnotationHub"
     ],
@@ -3433,8 +3414,7 @@
         "DESeq2"
     ],
     "ITALICS": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "iterClust": [],
     "IVAS": [
@@ -3594,7 +3574,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "oligoClasses",
         "snpStats"
     ],
     "MAGeCKFlute": [
@@ -3686,9 +3665,7 @@
     "mbkmeans": [
         "beachmat"
     ],
-    "mBPCR": [
-        "oligoClasses"
-    ],
+    "mBPCR": [],
     "mbQTL": [
         "metagenomeSeq"
     ],
@@ -4046,9 +4023,7 @@
     "microSTASIS": [
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [
         "MultiAssayExperiment"
     ],
@@ -4061,8 +4036,7 @@
     "mimager": [
         "affyPLM",
         "gcrma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "MineICA": [
         "Category",
@@ -4088,8 +4062,7 @@
     ],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "miQC": [],
     "MIRA": [
@@ -4235,7 +4208,6 @@
     "MouseFM": [
         "biomaRt"
     ],
-    "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
@@ -4460,8 +4432,7 @@
         "ScaledMatrix",
         "beachmat",
         "scater",
-        "scuttle",
-        "variancePartition"
+        "scuttle"
     ],
     "muscle": [],
     "musicatk": [
@@ -4618,7 +4589,6 @@
         "MultiAssayExperiment",
         "fgsea"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
@@ -4678,10 +4648,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
+    "oligo": [],
     "OLINgui": [
         "tkWidgets"
     ],
@@ -4879,8 +4846,7 @@
         "piano"
     ],
     "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PeacoQC": [
         "ComplexHeatmap",
@@ -5169,8 +5135,7 @@
         "vsn"
     ],
     "puma": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PureCN": [
         "GenomicFeatures",
@@ -5400,7 +5365,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "ScaledMatrix",
-        "TOAST",
         "beachmat",
         "bluster",
         "fgsea",
@@ -5690,7 +5654,6 @@
         "methylumi",
         "minfi"
     ],
-    "Rnits": [],
     "roar": [],
     "ROCpAI": [],
     "RolDE": [],
@@ -5787,7 +5750,6 @@
     "SCAN.UPC": [
         "genefilter",
         "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiRApp": [
@@ -6522,7 +6484,6 @@
         "phyloseq"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
         "AnnotationFilter",
@@ -6627,7 +6588,6 @@
     ],
     "SynExtend": [],
     "synlet": [],
-    "SynMut": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -6780,7 +6740,6 @@
         "beachmat"
     ],
     "TnT": [],
-    "TOAST": [],
     "TOP": [
         "ClassifyR",
         "MultiAssayExperiment",
@@ -6973,11 +6932,9 @@
         "scuttle"
     ],
     "VanillaICE": [
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "VarCon": [],
-    "variancePartition": [],
     "VariantAnnotation": [
         "GenomicFeatures",
         "biomaRt"
@@ -7166,8 +7123,7 @@
         "KEGGgraph",
         "SPIA",
         "graphite",
-        "pathview",
-        "variancePartition"
+        "pathview"
     ],
     "zFPKM": [],
     "zinbwave": [
