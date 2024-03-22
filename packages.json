@@ -90,7 +90,6 @@
         "biovizBase"
     ],
     "AlpsNMR": [],
-    "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
     "ANCOMBC": [],
@@ -252,7 +251,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -410,7 +408,6 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "VariantAnnotation",
@@ -428,7 +425,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "clipper": [],
     "cliqueMS": [
         "MsExperiment",
         "MsFeatures",
@@ -513,7 +509,6 @@
         "GSVA",
         "genefu"
     ],
-    "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -529,7 +524,6 @@
     ],
     "CoreGx": [],
     "coseq": [],
-    "CoSIA": [],
     "cosmiq": [
         "MsExperiment",
         "MsFeatures",
@@ -756,7 +750,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -832,7 +825,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -1090,9 +1082,7 @@
     "HarmonizR": [
         "sva"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HelloRanges": [
         "VariantAnnotation"
     ],
@@ -1163,7 +1153,6 @@
     "infercnv": [],
     "infinityFlow": [],
     "InPAS": [],
-    "INSPEcT": [],
     "InTAD": [],
     "intansv": [
         "VariantAnnotation",
@@ -1256,7 +1245,6 @@
         "xcms"
     ],
     "LPEadj": [],
-    "lpNet": [],
     "lumi": [
         "methylumi",
         "minfi"
@@ -1402,7 +1390,6 @@
     "methylumi": [
         "minfi"
     ],
-    "MGFR": [],
     "miaSim": [],
     "microbiome": [
         "phyloseq"
@@ -1445,8 +1432,7 @@
     ],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "TCGAbiolinks"
+        "GOstats"
     ],
     "missMethyl": [
         "methylumi",
@@ -1481,7 +1467,6 @@
         "enrichplot"
     ],
     "MoonlightR": [
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1658,7 +1643,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsViewer": [],
     "ompBAM": [],
     "openCyto": [
         "flowClust",
@@ -1703,7 +1687,6 @@
         "enrichplot"
     ],
     "pareg": [],
-    "partCNV": [],
     "PathoStat": [
         "phyloseq"
     ],
@@ -2030,9 +2013,7 @@
         "snpStats"
     ],
     "SAIGEgds": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SARC": [],
     "SBGNview": [],
     "SC3": [],
@@ -2285,7 +2266,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -2337,12 +2317,10 @@
         "GSVA",
         "sva"
     ],
-    "TCGAbiolinks": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TEKRABber": [],
     "tenXplore": [
         "restfulSE"
     ],
