@@ -269,7 +269,6 @@
     "ANCOMBC": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -412,9 +411,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -663,7 +660,6 @@
         "ANCOMBC",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -982,7 +978,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -1968,7 +1963,6 @@
         "bumphunter",
         "rtracklayer"
     ],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationFilter",
         "BSgenome",
@@ -2350,7 +2344,6 @@
     ],
     "CyTOFpower": [
         "ComplexHeatmap",
-        "CytoGLMM",
         "FlowSOM",
         "cytolib",
         "diffcyt",
@@ -2370,7 +2363,6 @@
         "scater",
         "scuttle"
     ],
-    "CytoGLMM": [],
     "cytoKernel": [
         "ComplexHeatmap"
     ],
@@ -2504,7 +2496,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "BSgenome",
         "BiocIO",
@@ -2998,7 +2989,6 @@
         "PADOG",
         "ScaledMatrix",
         "beachmat",
-        "gage",
         "globaltest",
         "pathview",
         "topGO"
@@ -3737,7 +3727,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gage": [],
     "GARS": [
         "BiocIO",
         "DESeq2",
@@ -4066,9 +4055,7 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -4483,7 +4470,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "iasva": [],
     "icetea": [
@@ -5121,7 +5107,6 @@
     "mbQTL": [
         "metagenomeSeq"
     ],
-    "MCbiclust": [],
     "mCSEA": [
         "AnnotationFilter",
         "BSgenome",
@@ -5208,9 +5193,7 @@
         "CNORode",
         "CellNOptR"
     ],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "universalmotif"
     ],
@@ -5513,7 +5496,6 @@
     "mia": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -5530,7 +5512,6 @@
     "miaViz": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -5562,7 +5543,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -5678,7 +5658,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "miRNAmeConverter": [],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
@@ -6466,11 +6445,8 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [
@@ -6696,7 +6672,6 @@
         "scater",
         "scuttle"
     ],
-    "pengls": [],
     "pepStat": [],
     "periodicDNA": [
         "BSgenome",
@@ -7213,7 +7188,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "BumpyMatrix",
         "CoreGx",
@@ -8019,7 +7993,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "sangerseqR": [],
@@ -8179,7 +8152,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "cytolib",
         "flowCore",
         "sangerseqR"
@@ -9109,7 +9081,6 @@
         "rtracklayer"
     ],
     "SubCellBarCode": [],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
     "surfaltr": [
@@ -9161,9 +9132,7 @@
         "mzR",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [],
     "SynMut": [],
     "syntenet": [
@@ -9212,7 +9181,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "target": [],
     "TargetDecoy": [
         "mzR"
     ],
@@ -9382,7 +9350,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -9394,7 +9361,6 @@
     ],
     "TnT": [],
     "TOAST": [],
-    "tomoda": [],
     "tomoseqr": [],
     "TOP": [
         "ClassifyR",
@@ -9415,7 +9381,6 @@
         "fgsea",
         "piano"
     ],
-    "TPP": [],
     "tracktables": [
         "Rhtslib",
         "Rsamtools"
