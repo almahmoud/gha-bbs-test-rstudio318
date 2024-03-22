@@ -1,5 +1,4 @@
 {
-    "ACE": [],
     "ADImpute": [],
     "affycoretools": [
         "ReportingTools",
@@ -56,10 +55,7 @@
     ],
     "attract": [],
     "bambu": [],
-    "bandle": [
-        "pRoloc"
-    ],
-    "BASiCStan": [],
+    "bandle": [],
     "bayNorm": [],
     "BEARscc": [],
     "benchdamic": [
@@ -228,9 +224,7 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -260,9 +254,7 @@
         "clusterProfiler"
     ],
     "ddCt": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "clusterProfiler"
     ],
@@ -355,10 +347,7 @@
         "ggbio"
     ],
     "flowBin": [],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -392,7 +381,6 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "GeneBreak": [],
     "GeneGeneInteR": [
         "snpStats"
     ],
@@ -472,7 +460,6 @@
     "karyoploteR": [],
     "katdetectr": [],
     "kissDE": [],
-    "lemur": [],
     "LinTInd": [],
     "lisaClust": [],
     "lmdme": [],
@@ -500,7 +487,6 @@
         "MsFeatures",
         "xcms"
     ],
-    "mariner": [],
     "martini": [
         "snpStats"
     ],
@@ -565,7 +551,6 @@
         "lumi",
         "methylumi"
     ],
-    "MinimumDistance": [],
     "miQC": [],
     "miRLAB": [],
     "missMethyl": [
@@ -611,9 +596,7 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsLiP": [],
     "MSstatsQCgui": [],
-    "MSstatsShiny": [],
     "Mulcom": [],
     "multicrispr": [
         "karyoploteR"
@@ -698,10 +681,7 @@
         "soGGi"
     ],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
@@ -718,7 +698,6 @@
         "seqTools"
     ],
     "quantro": [],
-    "QuartPAC": [],
     "QuasR": [],
     "R3CPET": [
         "ggbio"
@@ -792,7 +771,6 @@
     ],
     "sampleClassifier": [],
     "SC3": [],
-    "SCArray.sat": [],
     "scBubbletree": [],
     "sccomp": [],
     "scDesign3": [],
@@ -839,7 +817,6 @@
     "shinyepico": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
-    "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
@@ -920,7 +897,6 @@
     ],
     "TrajectoryUtils": [],
     "transcriptR": [],
-    "transformGamPoi": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -934,7 +910,6 @@
     "TVTB": [
         "Gviz"
     ],
-    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz"
     ],
