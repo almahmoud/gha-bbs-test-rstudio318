@@ -124,9 +124,7 @@
     ],
     "Anaquin": [],
     "ANCOMBC": [],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [],
     "annmap": [],
     "AnnotationHubData": [
@@ -164,7 +162,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "sva"
     ],
@@ -212,7 +209,6 @@
         "sva"
     ],
     "bambu": [],
-    "bamsignals": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -242,7 +238,6 @@
     "BEAT": [
         "ShortRead"
     ],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "MAST",
@@ -279,9 +274,7 @@
     "BioCor": [],
     "BiocSet": [],
     "BiocSklearn": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
@@ -329,7 +322,6 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [
-        "HiCBricks",
         "sva"
     ],
     "bnem": [
@@ -568,9 +560,7 @@
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -628,9 +618,7 @@
         "flowCore"
     ],
     "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [],
     "CNORdt": [],
     "CNORfeeder": [],
@@ -640,26 +628,20 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray"
     ],
@@ -726,8 +708,7 @@
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "exomeCopy"
+        "VariantAnnotation"
     ],
     "conumee": [
         "bumphunter",
@@ -735,10 +716,8 @@
     ],
     "CopyNumberPlots": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -941,7 +920,6 @@
     "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "bsseq",
@@ -1025,9 +1003,7 @@
         "bumphunter",
         "regioneR"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -1036,9 +1012,7 @@
     ],
     "Doscheda": [],
     "DOSE": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1057,7 +1031,6 @@
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBSEA": [],
     "EDASeq": [
         "ShortRead"
     ],
@@ -1122,7 +1095,6 @@
     "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
-        "bamsignals",
         "csaw"
     ],
     "EpiMix": [],
@@ -1192,7 +1164,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -1576,7 +1547,6 @@
     ],
     "hermes": [],
     "hiAnnotator": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1739,7 +1709,6 @@
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "regioneR"
     ],
@@ -1845,7 +1814,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "maskBAD": [],
     "MAST": [],
     "mastR": [],
     "MatrixQCvis": [],
@@ -2218,7 +2186,6 @@
     "multicrispr": [
         "CRISPRseek",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "karyoploteR",
         "plyranges",
@@ -2318,9 +2285,7 @@
     "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "npGSEA": [],
     "nucleR": [
         "ShortRead"
@@ -2406,8 +2371,7 @@
         "sva"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -2457,7 +2421,6 @@
         "monocle"
     ],
     "phenomis": [
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -2780,7 +2743,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
     "rifiComparative": [],
     "Ringo": [],
     "Risa": [
@@ -3005,7 +2967,6 @@
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "bamsignals",
         "enrichplot"
     ],
     "segmentSeq": [
@@ -3026,7 +2987,6 @@
         "VariantAnnotation"
     ],
     "SeqGSEA": [],
-    "seqsetvis": [],
     "SeqSQC": [],
     "seqTools": [],
     "SeqVarTools": [],
@@ -3158,7 +3118,6 @@
     "sparrow": [
         "BiocSet"
     ],
-    "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3272,7 +3231,6 @@
         "MSnbase"
     ],
     "SynExtend": [],
-    "syntenet": [],
     "systemPipeR": [
         "ShortRead"
     ],
