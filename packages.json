@@ -90,7 +90,6 @@
     "biscuiteer": [
         "dmrseq"
     ],
-    "BLMA": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -236,15 +235,12 @@
         "MsFeatures",
         "xcms"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
-        "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "Gviz",
-        "crisprDesign"
+        "Gviz"
     ],
     "cummeRbund": [
         "Gviz"
@@ -308,7 +304,6 @@
     ],
     "DiffBind": [],
     "diffcyt": [],
-    "DifferentialRegulation": [],
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
@@ -334,7 +329,6 @@
     ],
     "enrichViewNet": [],
     "ensemblVEP": [],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker"
     ],
@@ -468,7 +462,6 @@
         "snpStats"
     ],
     "Harshlight": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -486,7 +479,6 @@
     "ideal": [
         "pcaExplorer"
     ],
-    "igvR": [],
     "ILoReg": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
@@ -508,7 +500,6 @@
         "MsFeatures",
         "xcms"
     ],
-    "iSEEhub": [],
     "iSEEpathways": [],
     "iSEEu": [],
     "isobar": [],
@@ -518,7 +509,6 @@
     "katdetectr": [],
     "kissDE": [],
     "lemur": [],
-    "lineagespot": [],
     "LinTInd": [],
     "lisaClust": [
         "spicyR"
@@ -534,7 +524,6 @@
     "lumi": [
         "methylumi"
     ],
-    "Macarron": [],
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
@@ -620,7 +609,6 @@
     ],
     "MinimumDistance": [],
     "miQC": [],
-    "mirIntegrator": [],
     "miRLAB": [],
     "missMethyl": [
         "methylumi"
@@ -713,9 +701,7 @@
     "OGRE": [
         "Gviz"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "ompBAM": [],
     "openCyto": [
         "flowWorkspace"
@@ -788,8 +774,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "ptairMS": [],
-    "PureCN": [],
     "Pviz": [
         "Gviz"
     ],
@@ -937,7 +921,6 @@
     "signifinder": [
         "consensusOV"
     ],
-    "SigsPack": [],
     "SimBindProfiles": [],
     "SimBu": [],
     "simpleSeg": [],
@@ -995,7 +978,6 @@
     "staRank": [],
     "surfaltr": [],
     "switchde": [],
-    "synapter": [],
     "tadar": [
         "Gviz"
     ],
@@ -1080,6 +1062,5 @@
     "yarn": [
         "quantro"
     ],
-    "zenith": [],
-    "ZygosityPredictor": []
+    "zenith": []
 }
