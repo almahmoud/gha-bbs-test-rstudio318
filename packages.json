@@ -79,9 +79,7 @@
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -102,7 +100,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
@@ -154,7 +151,6 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "BiocSklearn": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -166,7 +162,6 @@
     "biscuiteer": [
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [],
@@ -179,8 +174,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -189,7 +183,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -260,7 +253,6 @@
     "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [],
-    "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -288,7 +280,6 @@
         "DMRcate",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -365,8 +356,7 @@
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "cogeqc": [],
     "comapr": [
@@ -425,11 +415,7 @@
         "Spectra",
         "xcms"
     ],
-    "COTAN": [
-        "PCAtools"
-    ],
-    "countsimQC": [],
-    "covRNA": [],
+    "COTAN": [],
     "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
@@ -525,10 +511,8 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEGraph": [],
-    "DelayedTensor": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxSNP": [],
     "DEP": [],
@@ -565,14 +549,12 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -584,9 +566,7 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
@@ -810,7 +790,6 @@
     "GenomicPlot": [
         "RCAS"
     ],
-    "GenomicScores": [],
     "GenProSeq": [],
     "GenVisR": [],
     "GeoDiff": [],
@@ -830,7 +809,6 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [],
-    "GISPA": [],
     "glmGamPoi": [],
     "GloScope": [],
     "gmapR": [],
@@ -952,8 +930,7 @@
     ],
     "katdetectr": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "lemur": [
@@ -1060,8 +1037,7 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
-        "bsseq"
+        "EDASeq"
     ],
     "MetCirc": [
         "Spectra"
@@ -1073,7 +1049,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -1094,8 +1069,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -1118,7 +1092,6 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "microSTASIS": [],
     "mimager": [],
     "MineICA": [
         "GOstats",
@@ -1131,9 +1104,7 @@
         "VanillaICE"
     ],
     "miQC": [],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
@@ -1240,7 +1211,6 @@
     "multiscan": [],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -1249,16 +1219,13 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
@@ -1339,7 +1306,6 @@
     "pcaExplorer": [
         "GOstats"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx"
     ],
@@ -1389,7 +1355,6 @@
     ],
     "preciseTAD": [],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase"
@@ -1459,9 +1424,7 @@
         "GENESIS"
     ],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rbec": [
         "dada2"
     ],
@@ -1469,10 +1432,7 @@
     "RCM": [
         "phyloseq"
     ],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "ReactomePA": [
         "enrichplot"
     ],
@@ -1489,9 +1449,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
@@ -1517,7 +1475,6 @@
         "MutationalPatterns"
     ],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "RgnTX": [],
@@ -1626,8 +1583,7 @@
     "scmap": [],
     "scMET": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SCnorm": [],
     "scone": [
@@ -1739,7 +1695,6 @@
     ],
     "SMITE": [],
     "snapCGH": [],
-    "snifter": [],
     "SNPhood": [],
     "snpStats": [],
     "soGGi": [
@@ -1750,8 +1705,7 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [],
     "Spaniel": [],
@@ -1760,7 +1714,6 @@
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
@@ -1902,7 +1855,6 @@
     "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
@@ -1933,7 +1885,6 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [],
     "xcms": [
         "MsExperiment",
         "MsFeatures",
