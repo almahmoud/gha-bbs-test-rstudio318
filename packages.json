@@ -4,14 +4,12 @@
     "ADImpute": [],
     "affycoretools": [
         "ReportingTools",
-        "biovizBase",
         "ggbio"
     ],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "ReportingTools",
         "affycoretools",
-        "biovizBase",
         "ggbio"
     ],
     "AHMassBank": [],
@@ -37,8 +35,7 @@
         "alabaster.se"
     ],
     "AllelicImbalance": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "APAlyzer": [],
     "appreci8R": [],
@@ -47,8 +44,7 @@
         "methylumi"
     ],
     "ASpli": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "ATACCoGAPS": [
         "chromVAR",
@@ -89,55 +85,41 @@
     ],
     "BiocOncoTK": [],
     "biomvRCNS": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "biovizBase": [],
     "biscuiteer": [
         "dmrseq"
     ],
     "BLMA": [],
     "BOBaFIT": [
-        "biovizBase",
         "ggbio"
     ],
     "borealis": [],
     "brainflowprobes": [
-        "GenomicFiles",
-        "biovizBase",
         "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
-    "BubbleTree": [
-        "biovizBase"
-    ],
+    "BubbleTree": [],
     "BUSseq": [],
     "CAFE": [
-        "biovizBase",
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "cageminer": [
-        "biovizBase",
         "ggbio"
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "CAMERA": [
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -180,7 +162,6 @@
     "ChAMP": [
         "DMRcate",
         "Gviz",
-        "biovizBase",
         "lumi",
         "methylumi",
         "missMethyl",
@@ -188,12 +169,9 @@
     ],
     "CHETAH": [],
     "chimeraviz": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "ChIPexoQual": [
-        "biovizBase"
-    ],
+    "ChIPexoQual": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -201,7 +179,6 @@
     "chromVAR": [],
     "cicero": [
         "Gviz",
-        "biovizBase",
         "monocle"
     ],
     "circRNAprofiler": [
@@ -212,42 +189,32 @@
     "cliqueMS": [
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "clstutils": [],
-    "clusterExperiment": [],
     "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
-        "biovizBase",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
-        "biovizBase",
         "karyoploteR"
     ],
-    "CNVrd2": [],
     "COCOA": [],
     "cogeqc": [],
     "comapr": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "combi": [],
     "coMET": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "compEpiTools": [
         "Gviz",
-        "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [
         "TrajectoryUtils",
         "slingshot"
@@ -259,35 +226,28 @@
         "RUVSeq"
     ],
     "consensusOV": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
-        "biovizBase",
         "karyoploteR"
     ],
     "cosmiq": [
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
-        "biovizBase",
         "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
-        "biovizBase",
         "crisprDesign"
     ],
     "cummeRbund": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "customProDB": [],
     "cyanoFilter": [
@@ -337,15 +297,10 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DeMixT": [],
-    "demuxSNP": [],
     "DEP": [],
     "DEqMS": [],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
-        "biovizBase",
         "derfinder",
         "ggbio"
     ],
@@ -360,7 +315,6 @@
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
-        "biovizBase",
         "methylumi",
         "missMethyl"
     ],
@@ -371,8 +325,7 @@
     "DrugVsDisease": [],
     "EGSEA": [],
     "ELMER": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "enhancerHomologSearch": [
         "motifmatchr"
@@ -389,8 +342,7 @@
         "ChIPseeker"
     ],
     "epimutacions": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "EpiTxDb": [],
     "epivizr": [],
@@ -398,9 +350,7 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -413,8 +363,7 @@
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "FamAgg": [],
     "famat": [
@@ -435,12 +384,10 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "FLAMES": [
         "bambu",
-        "biovizBase",
         "ggbio"
     ],
     "flowBin": [],
@@ -462,7 +409,6 @@
         "flowWorkspace"
     ],
     "flowWorkspace": [],
-    "FRASER": [],
     "funtooNorm": [],
     "GA4GHclient": [],
     "GA4GHshiny": [
@@ -475,9 +421,7 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "gDNAx": [
-        "GenomicFiles"
-    ],
+    "gDNAx": [],
     "gDR": [
         "PharmacoGx",
         "gDRcore",
@@ -493,25 +437,18 @@
     ],
     "geneRecommender": [],
     "GeneStructureTools": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "GenomicOZone": [
-        "biovizBase",
         "ggbio"
     ],
     "GenomicPlot": [],
     "GenProSeq": [],
-    "GenVisR": [],
     "gespeR": [],
-    "ggbio": [
-        "biovizBase"
-    ],
+    "ggbio": [],
     "ggcyto": [
         "flowWorkspace"
     ],
@@ -532,9 +469,7 @@
     "GSEABenchmarkeR": [],
     "GSEAlm": [],
     "GUIDEseq": [],
-    "Gviz": [
-        "biovizBase"
-    ],
+    "Gviz": [],
     "gwascat": [
         "snpStats"
     ],
@@ -543,10 +478,8 @@
     "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "HiContacts": [],
     "HiCool": [],
     "HIPPO": [],
     "HTSeqGenie": [
@@ -574,33 +507,23 @@
     ],
     "infercnv": [],
     "intansv": [
-        "biovizBase",
         "ggbio"
     ],
-    "IntEREst": [
-        "GenomicFiles"
-    ],
+    "IntEREst": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
-    "iSEEde": [],
-    "iSEEhex": [],
     "iSEEhub": [],
     "iSEEindex": [],
     "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "isobar": [],
     "isomiRs": [],
     "iterClust": [],
-    "karyoploteR": [
-        "biovizBase"
-    ],
+    "karyoploteR": [],
     "katdetectr": [],
     "kissDE": [],
     "lemur": [],
@@ -614,7 +537,6 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "LPEadj": [],
@@ -635,7 +557,6 @@
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "mariner": [],
@@ -643,19 +564,16 @@
         "snpStats"
     ],
     "maser": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "MAST": [],
     "MatrixRider": [],
     "MBECS": [],
     "mCSEA": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "MEAL": [
         "Gviz",
-        "biovizBase",
         "methylumi",
         "missMethyl"
     ],
@@ -666,15 +584,13 @@
     ],
     "meshes": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -682,9 +598,7 @@
         "clusterProfiler"
     ],
     "metaseqR2": [],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
@@ -696,8 +610,7 @@
         "missMethyl"
     ],
     "methylPipe": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "methylSig": [],
     "methylumi": [],
@@ -729,7 +642,6 @@
     "MobilityTransformR": [
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "monaLisa": [],
@@ -742,32 +654,18 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "biovizBase",
         "motifStack"
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "MsFeatures": [],
     "msgbsR": [
-        "biovizBase",
         "ggbio"
     ],
     "msmsEDA": [],
@@ -781,8 +679,7 @@
     "MSPrep": [],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsLiP": [],
     "MSstatsQC": [],
@@ -792,7 +689,6 @@
     "MSstatsShiny": [],
     "Mulcom": [],
     "multicrispr": [
-        "biovizBase",
         "karyoploteR"
     ],
     "multiscan": [],
@@ -805,23 +701,19 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "biovizBase",
         "motifStack",
         "trackViewer"
     ],
     "ncGTW": [
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "Nebulosa": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "quantro",
         "yarn"
@@ -832,8 +724,7 @@
         "RUVSeq"
     ],
     "OGRE": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "OMICsPCA": [
         "HelloRanges"
@@ -877,8 +768,7 @@
         "clusterProfiler"
     ],
     "PING": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "PloGO2": [],
     "PLPE": [],
@@ -890,8 +780,7 @@
     ],
     "preciseTAD": [],
     "primirTSS": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "PrInCE": [],
     "profileplyr": [
@@ -908,9 +797,7 @@
         "DAPAR",
         "clusterProfiler"
     ],
-    "ProteoDisco": [],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -918,20 +805,15 @@
     "ptairMS": [],
     "PureCN": [],
     "Pviz": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "qckitfastq": [
         "seqTools"
     ],
-    "qPLEXanalyzer": [],
     "quantro": [],
     "QuartPAC": [],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
-        "biovizBase",
         "ggbio"
     ],
     "R453Plus1Toolbox": [],
@@ -943,24 +825,20 @@
     "ReactomePA": [],
     "reconsi": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [],
     "REDseq": [],
     "RegionalST": [],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "REMP": [],
     "Repitools": [],
     "ReportingTools": [
-        "biovizBase",
         "ggbio"
     ],
     "RepViz": [],
@@ -969,7 +847,6 @@
     ],
     "ReUseData": [],
     "RiboProfiling": [
-        "biovizBase",
         "ggbio"
     ],
     "ribosomeProfilingQC": [
@@ -979,38 +856,31 @@
     "Risa": [
         "MsExperiment",
         "MsFeatures",
-        "Spectra",
         "xcms"
     ],
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
     "RNAinteract": [],
     "RNAmodR": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "Gviz",
-        "RNAmodR",
-        "biovizBase"
+        "RNAmodR"
     ],
     "RNAmodR.ML": [
         "Gviz",
-        "RNAmodR",
-        "biovizBase"
+        "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
         "Gviz",
-        "RNAmodR",
-        "biovizBase"
+        "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1018,10 +888,7 @@
         "methylumi"
     ],
     "RPA": [],
-    "Rqc": [
-        "GenomicFiles",
-        "biovizBase"
-    ],
+    "Rqc": [],
     "RTCGAToolbox": [],
     "RUVSeq": [],
     "RVS": [
@@ -1055,7 +922,6 @@
         "slingshot"
     ],
     "scruff": [
-        "biovizBase",
         "ggbio"
     ],
     "scTensor": [
@@ -1076,7 +942,6 @@
         "ChIPseeker",
         "clusterProfiler"
     ],
-    "seqCAT": [],
     "SeqSQC": [],
     "seqTools": [],
     "SGCP": [],
@@ -1102,7 +967,6 @@
         "scds"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "SiPSiC": [],
@@ -1119,7 +983,6 @@
     "snpStats": [],
     "soGGi": [],
     "SomaticSignatures": [
-        "biovizBase",
         "ggbio"
     ],
     "SOMNiBUS": [],
@@ -1127,11 +990,9 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
         "motifmatchr"
     ],
     "speckle": [],
-    "Spectra": [],
     "SPIAT": [
         "dittoSeq"
     ],
@@ -1140,14 +1001,12 @@
         "ompBAM"
     ],
     "SPLINTER": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "SPOTlight": [],
     "SPsimSeq": [],
     "srnadiff": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "standR": [
         "RUVSeq"
@@ -1157,8 +1016,7 @@
     "switchde": [],
     "synapter": [],
     "tadar": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "tanggle": [],
     "TAPseq": [],
@@ -1177,8 +1035,7 @@
     "topdownr": [],
     "ToxicoGx": [],
     "trackViewer": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "tradeSeq": [
         "TrajectoryUtils",
@@ -1199,30 +1056,24 @@
     ],
     "TVTB": [
         "Gviz",
-        "biovizBase",
         "ensemblVEP"
     ],
     "Ularcirc": [],
     "uncoverappLib": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "UNDO": [],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
     "VariantFiltering": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "VDJdive": [],
     "Voyager": [],
     "vtpnet": [
@@ -1239,15 +1090,13 @@
     ],
     "xcms": [
         "MsExperiment",
-        "MsFeatures",
-        "Spectra"
+        "MsFeatures"
     ],
     "Xeva": [
         "PharmacoGx"
     ],
     "YAPSA": [
         "SomaticSignatures",
-        "biovizBase",
         "ggbio"
     ],
     "yarn": [
