@@ -36,7 +36,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -50,14 +49,11 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [
-        "GSEABase"
-    ],
+    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -285,12 +281,9 @@
     "attract": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter"
     ],
-    "AUCell": [
-        "GSEABase"
-    ],
+    "AUCell": [],
     "autonomics": [
         "MultiAssayExperiment"
     ],
@@ -393,9 +386,7 @@
     "BgeeCall": [],
     "BgeeDB": [],
     "bgx": [],
-    "BicARE": [
-        "GSEABase"
-    ],
+    "BicARE": [],
     "BiFET": [],
     "BiGGR": [],
     "bigmelon": [
@@ -432,9 +423,7 @@
         "HDF5Array",
         "MultiAssayExperiment"
     ],
-    "BioCor": [
-        "GSEABase"
-    ],
+    "BioCor": [],
     "BiocSet": [],
     "BiocSingular": [
         "beachmat"
@@ -620,7 +609,6 @@
     ],
     "canceR": [
         "Category",
-        "GSEABase",
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -647,19 +635,16 @@
         "ComplexHeatmap",
         "FlowSOM",
         "beachmat",
-        "cytolib",
         "flowCore",
         "scater",
         "scuttle"
     ],
     "Category": [
-        "GSEABase",
         "genefilter"
     ],
     "categoryCompare": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter"
     ],
     "cbaf": [
@@ -694,7 +679,6 @@
         "ComplexHeatmap"
     ],
     "CCPROMISE": [
-        "GSEABase",
         "PROMISE"
     ],
     "CDI": [],
@@ -717,7 +701,6 @@
     "CellBench": [],
     "cellHTS2": [
         "Category",
-        "GSEABase",
         "genefilter",
         "vsn"
     ],
@@ -744,12 +727,10 @@
     "censcyt": [
         "ComplexHeatmap",
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
     "Cepo": [
-        "GSEABase",
         "HDF5Array"
     ],
     "CeTF": [
@@ -942,7 +923,6 @@
     "clusterSeq": [],
     "clustifyr": [],
     "cmapR": [
-        "cytolib",
         "flowCore"
     ],
     "cn.farms": [
@@ -1051,7 +1031,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowMeans",
@@ -1064,7 +1043,6 @@
     ],
     "consensusOV": [
         "BiocSingular",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "beachmat",
@@ -1118,9 +1096,7 @@
         "vsn",
         "xcms"
     ],
-    "cosmosR": [
-        "GSEABase"
-    ],
+    "cosmosR": [],
     "COTAN": [
         "BiocSingular",
         "ComplexHeatmap",
@@ -1134,9 +1110,7 @@
     "covRNA": [
         "genefilter"
     ],
-    "cpvSNP": [
-        "GSEABase"
-    ],
+    "cpvSNP": [],
     "CRImage": [],
     "crisprBowtie": [],
     "crisprBwa": [],
@@ -1196,7 +1170,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowDensity",
@@ -1206,17 +1179,14 @@
         "Mfuzz"
     ],
     "cydar": [
-        "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "ComplexHeatmap",
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -1226,7 +1196,6 @@
         "ComplexHeatmap",
         "FlowSOM",
         "beachmat",
-        "cytolib",
         "flowCore",
         "scater",
         "scuttle"
@@ -1234,17 +1203,14 @@
     "cytoKernel": [
         "ComplexHeatmap"
     ],
-    "cytolib": [],
     "cytomapper": [
         "HDF5Array",
         "SpatialExperiment"
     ],
     "cytoMEM": [
-        "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -1256,7 +1222,6 @@
     "CytoPipeline": [
         "ComplexHeatmap",
         "PeacoQC",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1267,7 +1232,6 @@
         "ComplexHeatmap",
         "CytoPipeline",
         "PeacoQC",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1313,7 +1277,6 @@
     ],
     "ddCt": [],
     "ddPCRclust": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
@@ -1439,7 +1402,6 @@
     "diffcyt": [
         "ComplexHeatmap",
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "DifferentialRegulation": [
@@ -1462,7 +1424,6 @@
         "scuttle"
     ],
     "DirichletMultinomial": [],
-    "DiscoRhythm": [],
     "distinct": [
         "BiocSingular",
         "beachmat",
@@ -1514,7 +1475,6 @@
     ],
     "dreamlet": [
         "EnrichmentBrowser",
-        "GSEABase",
         "SPIA",
         "beachmat",
         "pathview",
@@ -1555,7 +1515,6 @@
     ],
     "EGSEA": [
         "BiocSingular",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "beachmat",
@@ -1587,7 +1546,6 @@
         "ComplexHeatmap"
     ],
     "EnrichmentBrowser": [
-        "GSEABase",
         "SPIA",
         "pathview"
     ],
@@ -1689,7 +1647,6 @@
     ],
     "escape": [
         "BiocSingular",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "UCell",
@@ -1723,7 +1680,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "ComplexHeatmap",
@@ -1810,106 +1766,83 @@
         "scuttle"
     ],
     "flowAI": [
-        "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowcatchR": [],
     "flowCHIC": [
-        "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "cytolib",
         "flowCore"
     ],
-    "flowCore": [
-        "cytolib"
-    ],
+    "flowCore": [],
     "flowCut": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [
-        "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
-        "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "cytolib",
         "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [
-        "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "cytolib",
         "flowCore",
         "flowStats",
         "flowViz",
@@ -1917,7 +1850,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "cytolib",
         "flowCore",
         "ncdfFlow"
     ],
@@ -1955,7 +1887,6 @@
         "sva"
     ],
     "GateFinder": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
@@ -2091,12 +2022,9 @@
     "GeomxTools": [
         "NanoStringNCTools"
     ],
-    "gep2pep": [
-        "GSEABase"
-    ],
+    "gep2pep": [],
     "gespeR": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -2108,7 +2036,6 @@
         "biovizBase"
     ],
     "ggcyto": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -2129,7 +2056,6 @@
         "genomeIntervals"
     ],
     "GISPA": [
-        "GSEABase",
         "genefilter"
     ],
     "Glimma": [],
@@ -2141,7 +2067,6 @@
         "MultiAssayExperiment"
     ],
     "GlobalAncova": [
-        "GSEABase",
         "globaltest"
     ],
     "globaltest": [],
@@ -2152,7 +2077,6 @@
     "GmicR": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter"
     ],
     "gmoviz": [
@@ -2182,7 +2106,6 @@
     "goSTAG": [],
     "GOstats": [
         "Category",
-        "GSEABase",
         "genefilter"
     ],
     "GOTHiC": [
@@ -2199,10 +2122,8 @@
     "groHMM": [],
     "GSCA": [],
     "gscreend": [],
-    "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "GSEABase",
         "SPIA",
         "pathview"
     ],
@@ -2214,12 +2135,10 @@
         "OrganismDbi"
     ],
     "GSRI": [
-        "GSEABase",
         "genefilter"
     ],
     "GSVA": [
         "BiocSingular",
-        "GSEABase",
         "HDF5Array",
         "beachmat"
     ],
@@ -2242,7 +2161,6 @@
     "gwasurvivr": [
         "VariantAnnotation"
     ],
-    "GWENA": [],
     "h5vc": [],
     "HarmonizR": [
         "genefilter",
@@ -2259,7 +2177,6 @@
         "ComplexHeatmap",
         "MultiAssayExperiment"
     ],
-    "HERON": [],
     "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [
@@ -2336,7 +2253,6 @@
     "ideal": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter",
         "goseq",
         "pcaExplorer"
@@ -2361,13 +2277,11 @@
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "cytolib",
         "flowCore"
     ],
     "iNETgrate": [
@@ -2384,7 +2298,6 @@
     ],
     "infercnv": [],
     "infinityFlow": [
-        "cytolib",
         "flowCore"
     ],
     "InPAS": [
@@ -2407,7 +2320,6 @@
     ],
     "interactiveDisplay": [
         "Category",
-        "GSEABase",
         "genefilter"
     ],
     "InterCellar": [
@@ -2467,7 +2379,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
@@ -2633,9 +2544,7 @@
     ],
     "maskBAD": [],
     "MAST": [],
-    "mastR": [
-        "GSEABase"
-    ],
+    "mastR": [],
     "MatrixQCvis": [
         "ComplexHeatmap",
         "vsn"
@@ -2706,7 +2615,6 @@
     ],
     "meshr": [
         "Category",
-        "GSEABase",
         "genefilter"
     ],
     "MesKit": [
@@ -2732,7 +2640,6 @@
     ],
     "MetaCyto": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "metagene2": [],
@@ -2920,7 +2827,6 @@
     "MineICA": [
         "Category",
         "GOstats",
-        "GSEABase",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -2949,7 +2855,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "GSEABase",
         "TCGAbiolinks",
         "genefilter"
     ],
@@ -2998,7 +2903,6 @@
         "basilisk"
     ],
     "mogsa": [
-        "GSEABase",
         "genefilter"
     ],
     "MoleculeExperiment": [
@@ -3257,7 +3161,6 @@
         "genefilter"
     ],
     "ncdfFlow": [
-        "cytolib",
         "flowCore"
     ],
     "ncGTW": [
@@ -3304,7 +3207,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "GSEABase",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -3336,9 +3238,7 @@
         "bamsignals"
     ],
     "NPARC": [],
-    "npGSEA": [
-        "GSEABase"
-    ],
+    "npGSEA": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -3350,7 +3250,6 @@
     "octad": [
         "BiocSingular",
         "EDASeq",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "RUVSeq",
@@ -3392,7 +3291,6 @@
     "OncoScore": [],
     "ontoProc": [],
     "openCyto": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -3406,14 +3304,12 @@
     "oposSOM": [],
     "oppar": [
         "BiocSingular",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "beachmat"
     ],
     "oppti": [],
     "optimalFlow": [
-        "cytolib",
         "flowCore",
         "flowMeans"
     ],
@@ -3462,7 +3358,6 @@
     ],
     "PanomiR": [
         "DOSE",
-        "GSEABase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -3483,7 +3378,6 @@
     "pcaExplorer": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter"
     ],
     "PCAtools": [
@@ -3502,7 +3396,6 @@
     ],
     "PeacoQC": [
         "ComplexHeatmap",
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -3543,7 +3436,6 @@
     ],
     "phenoTest": [
         "Category",
-        "GSEABase",
         "genefilter"
     ],
     "philr": [],
@@ -3583,7 +3475,6 @@
     "PloGO2": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter"
     ],
     "plotgardener": [
@@ -3662,10 +3553,7 @@
         "pRoloc",
         "vsn"
     ],
-    "PROMISE": [
-        "GSEABase"
-    ],
-    "PROPER": [],
+    "PROMISE": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -3901,7 +3789,6 @@
     "ReportingTools": [
         "Category",
         "GOstats",
-        "GSEABase",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -3926,7 +3813,6 @@
         "basilisk"
     ],
     "rexposome": [],
-    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
@@ -4012,7 +3898,6 @@
     ],
     "RNAinteract": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -4089,7 +3974,6 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "RTopper": [],
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
@@ -4157,12 +4041,10 @@
     ],
     "scClassify": [
         "Cepo",
-        "GSEABase",
         "HDF5Array"
     ],
     "sccomp": [],
     "scDataviz": [
-        "cytolib",
         "flowCore"
     ],
     "scDblFinder": [
@@ -4187,7 +4069,6 @@
     "scFeatures": [
         "AUCell",
         "BiocSingular",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "SingleCellSignalR",
@@ -4203,7 +4084,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "cytolib",
         "flowCore",
         "sangerseqR"
     ],
@@ -4233,7 +4113,6 @@
         "ShortRead"
     ],
     "Sconify": [
-        "cytolib",
         "flowCore"
     ],
     "SCOPE": [],
@@ -4282,7 +4161,6 @@
         "Category",
         "DOSE",
         "GOstats",
-        "GSEABase",
         "ReactomePA",
         "enrichplot",
         "genefilter",
@@ -4290,7 +4168,6 @@
         "schex"
     ],
     "scTGIF": [
-        "GSEABase",
         "schex"
     ],
     "scTreeViz": [
@@ -4364,7 +4241,6 @@
     "SGCP": [
         "Category",
         "GOstats",
-        "GSEABase",
         "genefilter"
     ],
     "SGSeq": [],
@@ -4394,7 +4270,6 @@
     "SigFuge": [],
     "signatureSearch": [
         "DOSE",
-        "GSEABase",
         "HDF5Array",
         "clusterProfiler",
         "enrichplot"
@@ -4405,7 +4280,6 @@
     "signifinder": [
         "BiocSingular",
         "ComplexHeatmap",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "SpatialExperiment",
@@ -4459,7 +4333,6 @@
         "BiocSingular",
         "ComplexHeatmap",
         "DropletUtils",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "MAST",
@@ -4493,9 +4366,7 @@
         "BiocSingular",
         "beachmat"
     ],
-    "singscore": [
-        "GSEABase"
-    ],
+    "singscore": [],
     "SiPSiC": [],
     "sitadela": [],
     "sitePath": [],
@@ -4508,9 +4379,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [
-        "GSEABase"
-    ],
+    "slalom": [],
     "slingshot": [
         "TrajectoryUtils"
     ],
@@ -4563,8 +4432,7 @@
     ],
     "sparrow": [
         "BiocSet",
-        "ComplexHeatmap",
-        "GSEABase"
+        "ComplexHeatmap"
     ],
     "SparseSignatures": [],
     "spaSim": [
@@ -4639,11 +4507,8 @@
         "genefilter",
         "ompBAM"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [],
-    "splineTimeR": [
-        "GSEABase"
-    ],
+    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
@@ -4658,7 +4523,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SQLDataFrame": [],
     "SRAdb": [],
     "srnadiff": [
         "Gviz",
@@ -4676,7 +4540,6 @@
     ],
     "staRank": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -4689,7 +4552,6 @@
         "SpatialExperiment"
     ],
     "statTarget": [],
-    "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
@@ -4751,7 +4613,6 @@
         "ASSIGN",
         "BiocSingular",
         "ComplexHeatmap",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "beachmat",
@@ -4792,9 +4653,7 @@
     "TFHAZ": [
         "ORFik"
     ],
-    "TFutils": [
-        "GSEABase"
-    ],
+    "TFutils": [],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tilingArray": [
@@ -4811,9 +4670,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [
-        "GSEABase"
-    ],
+    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
@@ -4822,7 +4679,6 @@
     ],
     "TNBC.CMS": [
         "BiocSingular",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "beachmat"
@@ -4865,7 +4721,6 @@
         "beachmat",
         "glmGamPoi"
     ],
-    "transite": [],
     "tRanslatome": [],
     "TransView": [],
     "traseR": [],
@@ -4876,7 +4731,6 @@
     "treekoR": [
         "ComplexHeatmap",
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -4992,9 +4846,7 @@
     ],
     "vidger": [],
     "ViSEAGO": [],
-    "vissE": [
-        "GSEABase"
-    ],
+    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment",
@@ -5086,7 +4938,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "GSEABase",
         "SPIA",
         "pathview"
     ],
