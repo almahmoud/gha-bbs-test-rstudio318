@@ -432,8 +432,7 @@
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cycle": [],
     "cydar": [],
@@ -450,7 +449,6 @@
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -474,7 +472,6 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -489,8 +486,7 @@
     ],
     "ddCt": [],
     "ddPCRclust": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "debrowser": [
         "clusterProfiler",
@@ -677,22 +673,16 @@
     "flowAI": [],
     "flowBeads": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
@@ -707,19 +697,15 @@
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -739,8 +725,7 @@
         "EDASeq"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GDCRNATools": [
         "clusterProfiler",
@@ -802,7 +787,6 @@
     "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
-    "girafe": [],
     "glmGamPoi": [],
     "GloScope": [],
     "gmapR": [],
@@ -899,7 +883,6 @@
     "IntEREst": [
         "GenomicFiles"
     ],
-    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -1086,7 +1069,6 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "mimager": [],
     "MineICA": [
         "GOstats",
         "lumi",
@@ -1260,7 +1242,6 @@
     "ompBAM": [],
     "openCyto": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1414,9 +1395,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [],
     "RCM": [
         "phyloseq"
@@ -1554,7 +1533,6 @@
     "scCB2": [],
     "scClassify": [],
     "sccomp": [],
-    "scDataviz": [],
     "scDD": [],
     "scDesign3": [],
     "scds": [],
