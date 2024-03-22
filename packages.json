@@ -215,7 +215,6 @@
         "zinbwave"
     ],
     "BgeeCall": [],
-    "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
         "bumphunter",
@@ -362,10 +361,7 @@
         "VariantAnnotation",
         "snpStats"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "casper": [],
     "CATALYST": [
         "FlowSOM",
@@ -489,9 +485,7 @@
     "ChIPsim": [
         "ShortRead"
     ],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [],
@@ -659,7 +653,6 @@
         "Spectra",
         "xcms"
     ],
-    "cosmosR": [],
     "COTAN": [
         "PCAtools"
     ],
@@ -930,7 +923,6 @@
     "edge": [
         "sva"
     ],
-    "EDIRquery": [],
     "EGSEA": [
         "GSVA",
         "pathview"
@@ -1028,7 +1020,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
         "orthogene"
@@ -1187,7 +1178,6 @@
     "FRASER": [
         "OUTRIDER"
     ],
-    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "bumphunter",
@@ -1281,7 +1271,6 @@
         "genomation"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [],
     "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
@@ -1321,7 +1310,6 @@
     "GISPA": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
-    "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
@@ -1483,7 +1471,6 @@
     "interactiveDisplay": [
         "Category"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
@@ -1959,7 +1946,6 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "MuData": [],
     "Mulcom": [],
     "MultiBaC": [
         "ropls"
@@ -2027,7 +2013,6 @@
     "Nebulosa": [],
     "nempi": [],
     "NetActivity": [],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -2289,7 +2274,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
@@ -2758,7 +2742,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -3032,7 +3015,6 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
