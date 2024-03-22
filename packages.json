@@ -4,7 +4,6 @@
     ],
     "a4Base": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -265,7 +264,6 @@
     "BiocHail": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocSklearn": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
@@ -291,7 +289,6 @@
         "VariantAnnotation"
     ],
     "biscuiteer": [
-        "CGHcall",
         "OrganismDbi",
         "QDNAseq",
         "VariantAnnotation",
@@ -314,7 +311,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "sva"
     ],
     "BOBaFIT": [
@@ -426,7 +422,6 @@
     ],
     "cbpManager": [],
     "ccfindR": [],
-    "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
@@ -468,18 +463,14 @@
         "genomation"
     ],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
     "cfDNAPro": [],
     "cfTools": [],
-    "CGHcall": [],
     "cghMCR": [
         "CNTools"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "DMRcate",
@@ -595,7 +586,6 @@
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -847,9 +837,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddCt": [],
     "ddPCRclust": [
         "flowCore",
@@ -1014,7 +1002,6 @@
         "bumphunter",
         "minfi"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "SPIA",
         "pathview"
@@ -1058,7 +1045,6 @@
         "bumphunter",
         "minfi"
     ],
-    "epiNEM": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -1122,7 +1108,6 @@
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
@@ -1293,7 +1278,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [],
     "gCrisprTools": [],
     "GDCRNATools": [
@@ -1328,7 +1312,6 @@
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "genefu": [],
@@ -1380,7 +1363,6 @@
         "sva"
     ],
     "GeomxTools": [],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1484,7 +1466,6 @@
         "VariantAnnotation"
     ],
     "hermes": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1492,7 +1473,6 @@
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiCExperiment": [],
@@ -1656,11 +1636,9 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
-    "LinkHD": [],
     "LinTInd": [],
     "lipidr": [
         "ropls"
@@ -1777,9 +1755,7 @@
     ],
     "MEB": [],
     "MEDIPS": [],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "memes": [],
     "meshes": [
         "DOSE",
@@ -1788,7 +1764,6 @@
     "meshr": [
         "Category"
     ],
-    "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
@@ -2093,9 +2068,7 @@
         "regioneR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz"
@@ -2151,9 +2124,7 @@
     "NCIgraph": [],
     "nearBynding": [],
     "Nebulosa": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [],
     "netDx": [],
     "netOmics": [
@@ -2212,7 +2183,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "ompBAM": [],
     "OncoScore": [],
@@ -2380,7 +2350,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -2444,9 +2413,7 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "QFeatures": [],
     "qmtools": [],
     "qPLEXanalyzer": [
@@ -2903,7 +2870,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
@@ -3014,9 +2980,7 @@
     "Spectra": [
         "MetaboCoreUtils"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [
         "SpatialExperiment",
@@ -3102,9 +3066,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "TAPseq": [],
     "TargetDecoy": [],
