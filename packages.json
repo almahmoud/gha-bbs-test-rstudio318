@@ -6,7 +6,6 @@
     "ADaCGH2": [
         "snapCGH"
     ],
-    "adductomicsR": [],
     "ADImpute": [],
     "affycoretools": [
         "GOstats",
@@ -72,10 +71,8 @@
         "Gviz",
         "biovizBase"
     ],
-    "AMARETTO": [],
     "amplican": [],
     "AneuFinder": [],
-    "annmap": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -130,7 +127,6 @@
     "BatchQC": [],
     "bayNorm": [],
     "BBCAnalyzer": [],
-    "beachmat.hdf5": [],
     "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
@@ -287,7 +283,6 @@
         "wateRmelon"
     ],
     "CHETAH": [],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "biovizBase"
@@ -559,7 +554,6 @@
     "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [],
-    "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -1209,7 +1203,6 @@
     "multiHiCcompare": [],
     "MultiRNAflow": [],
     "multiscan": [],
-    "mumosa": [],
     "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
@@ -1226,7 +1219,6 @@
         "trackViewer"
     ],
     "NanoMethViz": [],
-    "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
@@ -1337,7 +1329,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "GOstats"
     ],
@@ -1381,7 +1372,6 @@
         "enrichplot"
     ],
     "ProteoDisco": [],
-    "protGear": [],
     "psichomics": [
         "GenomicFiles",
         "derfinder",
@@ -1406,8 +1396,7 @@
         "minfi"
     ],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [
         "GenomicFiles"
@@ -1559,10 +1548,7 @@
     "SBGNview": [],
     "SC3": [],
     "SCAN.UPC": [],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [],
     "scBubbletree": [],
     "scCB2": [],
@@ -1573,8 +1559,7 @@
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "schex": [],
     "scHOT": [],
@@ -1606,7 +1591,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "GOstats",
         "ReactomePA",
@@ -1669,7 +1653,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "MAST",
@@ -1707,8 +1690,6 @@
     "SOMNiBUS": [
         "annotatr"
     ],
-    "SpacePAC": [],
-    "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
