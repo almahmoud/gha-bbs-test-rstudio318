@@ -23,10 +23,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
@@ -127,10 +124,7 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
-    "artMS": [],
+    "arrayQualityMetrics": [],
     "ASICS": [
         "ropls"
     ],
@@ -199,7 +193,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [
         "sva"
     ],
@@ -244,7 +237,6 @@
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "biodbExpasy": [],
     "biodbLipidmaps": [],
     "biodbNci": [],
     "biomformat": [],
@@ -636,7 +628,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -676,13 +667,11 @@
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
@@ -894,7 +883,6 @@
     "Dino": [],
     "distinct": [],
     "dittoSeq": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -987,7 +975,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [],
     "EpiMix": [],
@@ -1035,8 +1022,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [
         "SpatialExperiment"
@@ -1381,7 +1367,6 @@
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "regioneR"
     ],
@@ -1808,9 +1793,7 @@
     "microSTASIS": [],
     "midasHLA": [],
     "miloR": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "Category",
         "GOstats",
@@ -1982,7 +1965,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
@@ -2186,7 +2168,6 @@
     ],
     "PECA": [],
     "peco": [],
-    "periodicDNA": [],
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
@@ -2462,7 +2443,6 @@
         "RcwlPipelines"
     ],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
@@ -2501,9 +2481,7 @@
         "xcms"
     ],
     "RITAN": [],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR"
     ],
@@ -3036,7 +3014,6 @@
         "glmGamPoi"
     ],
     "tRanslatome": [],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -3064,7 +3041,6 @@
     ],
     "txcutr": [],
     "tximeta": [],
-    "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
         "plotgardener"
@@ -3119,7 +3095,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
@@ -3161,7 +3136,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
