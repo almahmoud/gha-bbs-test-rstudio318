@@ -12,7 +12,6 @@
     ],
     "adductomicsR": [],
     "ADImpute": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -21,7 +20,6 @@
         "ggbio"
     ],
     "affylmGUI": [],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -171,7 +169,6 @@
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot"
@@ -260,7 +257,6 @@
     "canceR": [
         "Category",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -278,13 +274,11 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "clusterProfiler",
@@ -397,9 +391,7 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "cn.farms": [],
     "cn.mops": [],
-    "CNORfuzzy": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -850,7 +842,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot"
@@ -883,7 +874,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -923,7 +913,6 @@
     "girafe": [],
     "GISPA": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GloScope": [],
     "gmapR": [],
     "GmicR": [
@@ -932,7 +921,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -943,7 +931,6 @@
         "Category"
     ],
     "GOTHiC": [],
-    "GRaNIE": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
@@ -1022,12 +1009,10 @@
     "infercnv": [],
     "infinityFlow": [],
     "InPAS": [],
-    "InTAD": [],
     "intansv": [
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category"
     ],
@@ -1164,9 +1149,7 @@
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM"
     ],
@@ -1380,7 +1363,6 @@
         "decompTumor2Sig"
     ],
     "MutationalPatterns": [],
-    "MWASTools": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1439,7 +1421,6 @@
         "biovizBase"
     ],
     "omicade4": [],
-    "omicplotR": [],
     "omicRexposome": [
         "omicade4",
         "sva"
@@ -1500,7 +1481,6 @@
     "PDATK": [
         "CoreGx"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowWorkspace",
         "ncdfFlow"
@@ -1767,9 +1747,7 @@
     ],
     "rqt": [],
     "RSVSim": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
@@ -2055,16 +2033,13 @@
         "GSVA",
         "sva"
     ],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
     "tenXplore": [
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
     "tidySingleCellExperiment": [],
@@ -2178,7 +2153,6 @@
         "MsFeatures",
         "Spectra"
     ],
-    "xcore": [],
     "XDE": [
         "GeneMeta"
     ],
