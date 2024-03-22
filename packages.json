@@ -48,15 +48,12 @@
     ],
     "ATACCoGAPS": [
         "chromVAR",
-        "motifmatchr",
         "projectR"
     ],
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -221,9 +218,7 @@
     "CONFESS": [
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [],
     "contiBAIT": [],
     "conumee": [],
@@ -319,13 +314,10 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "ensemblVEP": [],
@@ -344,14 +336,12 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "escape": [],
     "EWCE": [
         "orthogene"
     ],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -581,9 +571,7 @@
     "MetCirc": [],
     "MethylAid": [],
     "methylCC": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "clusterProfiler",
         "methylumi",
@@ -594,7 +582,6 @@
     ],
     "methylSig": [],
     "methylumi": [],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
@@ -623,7 +610,6 @@
         "MsFeatures",
         "xcms"
     ],
-    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler"
@@ -635,7 +621,6 @@
         "Gviz",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
@@ -695,9 +680,7 @@
     ],
     "NeuCA": [],
     "nnSVG": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OGRE": [
         "Gviz"
     ],
@@ -715,9 +698,7 @@
         "Repitools"
     ],
     "PAA": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
@@ -748,9 +729,7 @@
     "POWSC": [
         "MAST"
     ],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [],
     "primirTSS": [
         "Gviz"
@@ -818,7 +797,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "Risa": [
@@ -854,10 +832,8 @@
     "RnBeads": [
         "methylumi"
     ],
-    "RPA": [],
     "Rqc": [],
     "RTCGAToolbox": [],
-    "RUVSeq": [],
     "RVS": [
         "snpStats"
     ],
@@ -875,9 +851,7 @@
     "scMET": [],
     "scmeth": [],
     "SCnorm": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [
         "snpStats"
     ],
@@ -953,8 +927,7 @@
     "spaSim": [],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "speckle": [],
     "SPIAT": [
@@ -972,9 +945,7 @@
     "srnadiff": [
         "Gviz"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [],
     "surfaltr": [],
     "switchde": [],
