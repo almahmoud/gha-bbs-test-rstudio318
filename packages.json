@@ -1620,7 +1620,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "BaseSpaceR": [],
     "Basic4Cseq": [
         "BSgenome",
         "BiocIO",
@@ -2280,7 +2279,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "biocthis": [],
     "BiocVersion": [],
     "biocViews": [],
     "BiocWorkflowTools": [],
@@ -4614,7 +4612,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "clevRvis": [],
     "clippda": [],
     "clipper": [
         "AnnotationDbi",
@@ -6940,7 +6937,6 @@
         "sparseMatrixStats",
         "sva"
     ],
-    "demuxmix": [],
     "demuxSNP": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -6967,7 +6963,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "demuxmix",
         "ensembldb",
         "rtracklayer"
     ],
@@ -8594,7 +8589,6 @@
         "bumphunter",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer"
     ],
     "epivizrChart": [
@@ -8623,7 +8617,6 @@
         "biomaRt",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer"
     ],
     "epivizrData": [
@@ -8651,10 +8644,8 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "epivizrServer",
         "rtracklayer"
     ],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -8683,7 +8674,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer"
     ],
     "erccdashboard": [
@@ -10678,7 +10668,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "geva": [],
     "gg4way": [
         "BiocParallel",
         "DESeq2",
@@ -12071,9 +12060,7 @@
         "XVector",
         "edgeR"
     ],
-    "HubPub": [
-        "biocthis"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -12999,7 +12986,6 @@
         "oligoClasses"
     ],
     "iterativeBMA": [],
-    "iterativeBMAsurv": [],
     "iterClust": [],
     "IVAS": [
         "AnnotationDbi",
@@ -13501,7 +13487,6 @@
         "ggtree",
         "msa"
     ],
-    "M3C": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -14260,7 +14245,6 @@
         "XVector",
         "universalmotif"
     ],
-    "Mergeomics": [],
     "MeSHDbi": [
         "AnnotationDbi",
         "Biostrings",
@@ -14751,7 +14735,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "planet",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -16229,7 +16212,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Vectors",
         "XVector"
     ],
@@ -17051,7 +17033,6 @@
         "XVector",
         "sparseMatrixStats"
     ],
-    "netbiov": [],
     "netboost": [
         "AnnotationDbi",
         "Biostrings",
@@ -17376,7 +17357,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "NuPoP": [],
     "OCplus": [
         "multtest"
     ],
@@ -18713,7 +18693,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "planet": [],
     "planttfhunter": [
         "Biostrings",
         "DelayedArray",
@@ -18766,7 +18745,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "plotGrouper": [],
     "PLPE": [],
     "plyinteractions": [
         "BiocIO",
@@ -18874,7 +18852,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RankProd",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -19985,7 +19962,6 @@
     ],
     "randPack": [],
     "randRotation": [],
-    "RankProd": [],
     "RareVariantVis": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -23021,7 +22997,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer",
         "scater",
         "scran",
@@ -25371,9 +25346,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "SynMut": [
         "Biostrings",
         "GenomeInfoDb",
@@ -26307,7 +26280,6 @@
         "Heatplus",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -27022,7 +26994,6 @@
         "rtracklayer",
         "sva"
     ],
-    "vbmp": [],
     "VCFArray": [
         "AnnotationDbi",
         "BSgenome",
