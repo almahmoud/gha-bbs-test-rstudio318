@@ -72,7 +72,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AlpsNMR": [],
     "AMARETTO": [],
     "amplican": [],
     "AneuFinder": [],
@@ -261,7 +260,6 @@
     "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [],
-    "CelliD": [],
     "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
@@ -272,7 +270,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot",
@@ -337,7 +334,6 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "ClassifyR": [],
     "cliqueMS": [
         "MsExperiment",
         "MsFeatures",
@@ -625,7 +621,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epigenomix": [],
     "epigraHMM": [],
     "epimutacions": [
         "Gviz",
@@ -791,7 +786,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "gDRstyle": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -969,7 +963,6 @@
     "LinTInd": [],
     "lipidr": [],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "lmdme": [],
@@ -986,7 +979,6 @@
         "minfi"
     ],
     "Macarron": [],
-    "MACSr": [],
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
@@ -1017,7 +1009,6 @@
         "biovizBase"
     ],
     "MAST": [],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
@@ -1358,7 +1349,6 @@
     ],
     "peakPantheR": [],
     "peco": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -1526,7 +1516,6 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -1620,12 +1609,9 @@
     "scBFA": [],
     "scBubbletree": [],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "sccomp": [],
     "scDataviz": [],
-    "scDblFinder": [],
     "scDD": [],
     "scDesign3": [],
     "scds": [],
@@ -1638,7 +1624,6 @@
     "scider": [],
     "scifer": [],
     "scmap": [],
-    "scMerge": [],
     "scMET": [],
     "scmeth": [
         "annotatr",
@@ -1721,7 +1706,6 @@
         "consensusOV"
     ],
     "SigsPack": [],
-    "SIMAT": [],
     "SimBindProfiles": [],
     "SimBu": [
         "phyloseq"
@@ -1736,8 +1720,6 @@
         "TSCAN",
         "TrajectoryUtils",
         "celda",
-        "scDblFinder",
-        "scMerge",
         "scds"
     ],
     "SingleMoleculeFootprinting": [
@@ -1793,11 +1775,8 @@
     "SPIAT": [
         "dittoSeq"
     ],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpidermiR": [],
-    "splatter": [],
     "SpliceWiz": [
         "ompBAM"
     ],
@@ -1853,14 +1832,11 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
     "tidySingleCellExperiment": [],
-    "timeOmics": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot"
@@ -1870,9 +1846,7 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [],
     "ToxicoGx": [
         "CoreGx"
