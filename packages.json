@@ -37,7 +37,6 @@
     "AllelicImbalance": [
         "Gviz"
     ],
-    "appreci8R": [],
     "arrayMvout": [
         "lumi",
         "methylumi"
@@ -57,7 +56,6 @@
         "motifStack"
     ],
     "attract": [],
-    "ballgown": [],
     "bambu": [],
     "bandle": [
         "pRoloc"
@@ -423,7 +421,6 @@
         "flowWorkspace"
     ],
     "ggsc": [],
-    "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "GloScope": [],
@@ -485,9 +482,7 @@
     "kissDE": [],
     "lemur": [],
     "LinTInd": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -623,7 +618,6 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MSPrep": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -658,7 +652,6 @@
         "yarn"
     ],
     "NeuCA": [],
-    "nnSVG": [],
     "octad": [],
     "OGRE": [
         "Gviz"
@@ -673,10 +666,7 @@
     "optimalFlow": [],
     "OPWeight": [],
     "orthogene": [],
-    "OutSplice": [
-        "Repitools"
-    ],
-    "PAA": [],
+    "OutSplice": [],
     "pageRank": [],
     "panelcn.mops": [],
     "PanomiR": [
@@ -722,7 +712,6 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
@@ -747,7 +736,6 @@
     "RadioGx": [],
     "RAIDS": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [],
     "RCM": [],
     "ReactomePA": [],
     "reconsi": [],
@@ -756,7 +744,6 @@
     ],
     "recountmethylation": [],
     "REDseq": [],
-    "RegionalST": [],
     "regionReport": [
         "derfinder"
     ],
@@ -764,7 +751,6 @@
         "Gviz"
     ],
     "REMP": [],
-    "Repitools": [],
     "ReportingTools": [
         "ggbio"
     ],
@@ -872,7 +858,6 @@
     "signifinder": [
         "consensusOV"
     ],
-    "SimBindProfiles": [],
     "SimBu": [],
     "simpleSeg": [],
     "singleCellTK": [
@@ -901,7 +886,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "spaSim": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz"
@@ -910,7 +894,6 @@
     "SPIAT": [
         "dittoSeq"
     ],
-    "spicyR": [],
     "SpliceWiz": [
         "ompBAM"
     ],
@@ -933,13 +916,11 @@
     "TAPseq": [],
     "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
-    "tenXplore": [],
     "tidySingleCellExperiment": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
     "TNBC.CMS": [],
-    "TOP": [],
     "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
@@ -975,9 +956,7 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [],
     "VDJdive": [],
     "Voyager": [],
