@@ -1,19 +1,16 @@
 {
-    "a4": [],
     "ACE": [],
     "ADaCGH2": [
         "snapCGH"
     ],
     "ADImpute": [],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
         "biovizBase",
         "ggbio"
     ],
     "aggregateBioVar": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -70,9 +67,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "ballgown": [],
     "bambu": [],
     "bandle": [
@@ -109,7 +104,6 @@
     "blacksheepr": [],
     "BLMA": [],
     "bnbc": [],
-    "bnem": [],
     "BOBaFIT": [
         "biovizBase",
         "ggbio"
@@ -163,9 +157,7 @@
         "snpStats"
     ],
     "CATALYST": [],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -322,7 +314,6 @@
     "cytofQC": [
         "CATALYST"
     ],
-    "cytomapper": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -339,9 +330,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -441,7 +430,6 @@
         "orthogene"
     ],
     "ExperimentHubData": [],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -539,7 +527,6 @@
     "GenomicPlot": [],
     "GenProSeq": [],
     "GenVisR": [],
-    "GEOexplorer": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -555,9 +542,7 @@
     "ggtreeExtra": [],
     "GloScope": [],
     "gmapR": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -565,7 +550,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GSEABenchmarkeR": [],
     "GSEAlm": [],
     "GUIDEseq": [],
@@ -576,7 +560,6 @@
         "snpStats"
     ],
     "gwasurvivr": [],
-    "HarmonizR": [],
     "Harshlight": [],
     "HelloRanges": [],
     "HiCDCPlus": [
@@ -598,14 +581,11 @@
         "methylumi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "igvR": [],
     "ILoReg": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
     ],
@@ -647,7 +627,6 @@
     ],
     "katdetectr": [],
     "kissDE": [],
-    "KnowSeq": [],
     "lemur": [],
     "lineagespot": [],
     "LinTInd": [],
@@ -756,7 +735,6 @@
         "ggtreeExtra"
     ],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi"
     ],
@@ -764,9 +742,7 @@
     "miQC": [],
     "MIRA": [],
     "mirIntegrator": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi"
     ],
@@ -874,7 +850,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "quantro",
         "yarn"
     ],
@@ -906,15 +881,12 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
     ],
     "PathoStat": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [
         "flowWorkspace"
@@ -936,9 +908,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "PLPE": [],
     "POWSC": [
         "MAST"
@@ -983,7 +953,6 @@
         "seqTools"
     ],
     "qPLEXanalyzer": [],
-    "qsmooth": [],
     "qsvaR": [],
     "quantro": [],
     "QuartPAC": [],
@@ -1000,7 +969,6 @@
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "RCM": [],
-    "RcwlPipelines": [],
     "ReactomePA": [],
     "reconsi": [],
     "recount": [
@@ -1022,7 +990,6 @@
     "REMP": [],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
         "biovizBase",
         "ggbio"
     ],
@@ -1030,9 +997,7 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -1096,7 +1061,6 @@
     ],
     "sampleClassifier": [],
     "SC3": [],
-    "SCAN.UPC": [],
     "SCArray.sat": [],
     "scBFA": [],
     "scBubbletree": [],
@@ -1129,7 +1093,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "schex"
     ],
@@ -1151,9 +1114,7 @@
     "SeqSQC": [],
     "seqTools": [],
     "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
@@ -1168,9 +1129,7 @@
     "SigsPack": [],
     "SimBindProfiles": [],
     "SimBu": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [
         "MAST",
         "TSCAN",
@@ -1201,7 +1160,6 @@
     ],
     "SOMNiBUS": [],
     "spaSim": [],
-    "spatialDE": [],
     "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
@@ -1222,7 +1180,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [],
     "srnadiff": [
@@ -1236,7 +1193,6 @@
         "cellHTS2"
     ],
     "Statial": [],
-    "stJoincount": [],
     "surfaltr": [],
     "switchde": [],
     "synapter": [],
