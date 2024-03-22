@@ -159,9 +159,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "biovizBase",
@@ -477,9 +475,7 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEGraph": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxSNP": [],
     "DEP": [],
     "DepecheR": [],
@@ -522,13 +518,11 @@
         "annotatr"
     ],
     "DominoEffect": [],
-    "doppelgangR": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "zenith"
     ],
     "DrugVsDisease": [],
-    "DSS": [],
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
@@ -869,9 +863,7 @@
         "biovizBase"
     ],
     "katdetectr": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "KnowSeq": [],
     "lemur": [],
     "lineagespot": [],
@@ -948,7 +940,6 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "Spectra"
@@ -971,7 +962,6 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
         "EDASeq"
     ],
     "MetCirc": [
@@ -1001,9 +991,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "minfi"
     ],
@@ -1179,7 +1167,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "omicRexposome": [],
     "OMICsPCA": [
         "HelloRanges"
     ],
@@ -1504,7 +1491,6 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
         "schex"
     ],
     "scTGIF": [
