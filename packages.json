@@ -99,7 +99,6 @@
     "APAlyzer": [
         "VariantAnnotation"
     ],
-    "APL": [],
     "appreci8R": [
         "GenomicScores",
         "VariantAnnotation"
@@ -120,7 +119,6 @@
         "sva"
     ],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -177,7 +175,6 @@
         "MAST",
         "phyloseq"
     ],
-    "BgeeCall": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -460,7 +457,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "cogeqc": [],
     "comapr": [
         "Gviz",
@@ -500,8 +496,7 @@
         "RUVSeq"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "contiBAIT": [
         "GenomicFiles",
@@ -960,7 +955,6 @@
     "GeneBreak": [
         "QDNAseq"
     ],
-    "genefu": [],
     "GeneGeneInteR": [
         "snpStats"
     ],
@@ -1033,12 +1027,10 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category"
     ],
@@ -1151,7 +1143,6 @@
         "VariantAnnotation"
     ],
     "IONiseR": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -1181,7 +1172,6 @@
     "katdetectr": [
         "VariantAnnotation"
     ],
-    "KEGGlincs": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -1292,8 +1282,7 @@
     ],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
-        "MWASTools",
-        "mygene"
+        "MWASTools"
     ],
     "MetaCyto": [
         "FlowSOM"
@@ -1444,7 +1433,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -1524,7 +1512,6 @@
         "VariantAnnotation"
     ],
     "MWASTools": [],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
@@ -1651,8 +1638,7 @@
     ],
     "PCAtools": [],
     "PDATK": [
-        "CoreGx",
-        "genefu"
+        "CoreGx"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -1714,7 +1700,6 @@
         "biovizBase"
     ],
     "PrInCE": [],
-    "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
         "chipseq",
@@ -1791,7 +1776,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "VariantAnnotation"
@@ -1870,7 +1854,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rGenomeTracks": [],
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
@@ -2090,8 +2073,7 @@
     "signifinder": [
         "GSVA",
         "SpatialExperiment",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SigsPack": [
         "VariantAnnotation"
@@ -2232,7 +2214,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
@@ -2400,7 +2381,6 @@
         "minfi"
     ],
     "webbioc": [],
-    "weitrix": [],
     "xcms": [
         "MsExperiment",
         "MsFeatures",
