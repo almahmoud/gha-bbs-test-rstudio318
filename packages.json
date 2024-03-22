@@ -52,20 +52,14 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "GSEABase"
     ],
@@ -84,7 +78,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio"
     ],
@@ -286,13 +279,10 @@
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
-        "gcrma",
         "genefilter",
         "vsn"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -453,7 +443,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "BCRANK": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -494,9 +483,7 @@
     "BgeeDB": [
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "GSEABase"
     ],
@@ -563,34 +550,15 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "biomaRt": [],
     "biomformat": [],
     "BioMVCClass": [],
@@ -1740,7 +1708,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "DeconRNASeq": [],
     "decontX": [
         "BiocSingular",
         "ComplexHeatmap",
@@ -2345,7 +2312,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [],
-    "FELLA": [],
     "fenr": [
         "biomaRt"
     ],
@@ -2583,7 +2549,6 @@
     "gCrisprTools": [
         "ComplexHeatmap"
     ],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "GenomicDataCommons",
@@ -3051,7 +3016,6 @@
     ],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
-    "iasva": [],
     "icetea": [
         "GenomicFeatures",
         "ShortRead",
@@ -3243,7 +3207,6 @@
     "isobar": [
         "biomaRt"
     ],
-    "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -3452,9 +3415,7 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "HDF5Array",
         "InteractionSet",
@@ -3474,9 +3435,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [],
     "mastR": [
         "AnnotationHub",
@@ -3667,7 +3626,6 @@
         "MsCoreUtils",
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "methylKit"
     ],
@@ -3850,7 +3808,6 @@
     ],
     "mimager": [
         "affyPLM",
-        "gcrma",
         "oligo"
     ],
     "MineICA": [
@@ -4133,17 +4090,12 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -4160,13 +4112,10 @@
         "vsn"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [
         "MultiAssayExperiment"
     ],
@@ -4339,7 +4288,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [],
     "NetSAM": [
         "biomaRt"
     ],
@@ -4669,7 +4617,6 @@
     "phenomis": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -4754,7 +4701,6 @@
     "POWSC": [
         "MAST"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "biomaRt",
         "fgsea"
@@ -5415,7 +5361,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "rprimer": [],
     "Rqc": [
         "AnnotationFilter",
         "GenomicFeatures",
@@ -5760,7 +5705,6 @@
     "seq2pathway": [
         "biomaRt"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -5769,7 +5713,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [],
@@ -6242,7 +6185,6 @@
         "biomaRt",
         "msa"
     ],
-    "survtype": [],
     "sva": [
         "genefilter"
     ],
@@ -6465,7 +6407,6 @@
     "tRanslatome": [
         "topGO"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [],
     "traviz": [
@@ -6706,7 +6647,6 @@
     ],
     "webbioc": [
         "annaffy",
-        "gcrma",
         "vsn"
     ],
     "weitrix": [
