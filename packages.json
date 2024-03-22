@@ -3,7 +3,6 @@
         "a4Base"
     ],
     "a4Base": [],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -171,7 +170,6 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "vsn"
     ],
     "artMS": [],
@@ -269,7 +267,6 @@
     "beachmat.hdf5": [
         "HDF5Array"
     ],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [
         "ShortRead"
@@ -368,9 +365,7 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "ROntoTools"
     ],
@@ -775,7 +770,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "concordexR": [],
     "condiments": [
         "TrajectoryUtils",
         "distinct",
@@ -1229,9 +1223,7 @@
         "genomation"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "bamsignals",
@@ -1661,9 +1653,7 @@
         "ShortRead"
     ],
     "GRaNIE": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GreyListChIP": [],
     "groHMM": [],
     "GSCA": [],
@@ -1745,7 +1735,6 @@
         "SpatialExperiment"
     ],
     "hpar": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -1836,7 +1825,6 @@
     "IONiseR": [
         "ShortRead"
     ],
-    "iPAC": [],
     "ipdDb": [],
     "IPO": [
         "CAMERA",
@@ -1881,7 +1869,6 @@
     "ITALICS": [],
     "iterClust": [],
     "IVAS": [],
-    "ivygapSE": [],
     "karyoploteR": [
         "VariantAnnotation",
         "bamsignals",
@@ -2236,7 +2223,6 @@
         "GOstats",
         "TCGAbiolinks"
     ],
-    "miRNAtap": [],
     "missMethyl": [
         "HDF5Array",
         "bumphunter",
@@ -2426,7 +2412,6 @@
         "Mfuzz"
     ],
     "multiscan": [],
-    "multiWGCNA": [],
     "mumosa": [
         "batchelor",
         "scran"
@@ -2517,9 +2502,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
@@ -2604,7 +2587,6 @@
         "Ringo",
         "vsn"
     ],
-    "OVESEG": [],
     "PAA": [
         "sva"
     ],
@@ -2852,8 +2834,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles",
@@ -3131,10 +3112,8 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "RUVSeq": [
         "EDASeq",
@@ -3338,7 +3317,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sigFeature": [],
     "SigFuge": [],
     "signatureSearch": [
         "DOSE",
@@ -3434,7 +3412,6 @@
         "tilingArray",
         "vsn"
     ],
-    "snapcount": [],
     "snifter": [
         "basilisk"
     ],
@@ -3458,9 +3435,7 @@
         "bsseq",
         "regioneR"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "HDF5Array",
@@ -3515,9 +3490,7 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
@@ -3558,8 +3531,7 @@
         "vsn"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap"
+        "SpidermiR"
     ],
     "Statial": [
         "SpatialExperiment"
@@ -3631,7 +3603,6 @@
         "restfulSE"
     ],
     "TEQC": [],
-    "ternarynet": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -3716,7 +3687,6 @@
         "sva"
     ],
     "trio": [],
-    "triplex": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -3754,9 +3724,7 @@
         "biovizBase"
     ],
     "UNDO": [],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
