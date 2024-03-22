@@ -220,7 +220,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
@@ -254,11 +253,9 @@
     ],
     "CexoR": [],
     "cfdnakit": [],
-    "cfDNAPro": [],
     "cghMCR": [
         "CNTools"
     ],
-    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -298,7 +295,6 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "gwascat",
         "snpStats"
@@ -319,18 +315,15 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "cn.mops": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVRanger": [],
@@ -383,11 +376,9 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
-    "coseq": [],
     "cosmiq": [
         "MsExperiment",
         "MsFeatures",
@@ -530,10 +521,8 @@
     "dmrseq": [
         "annotatr"
     ],
-    "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [],
-    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "zenith"
@@ -574,7 +563,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
@@ -813,7 +801,6 @@
     "HiContacts": [],
     "HiCool": [],
     "HIPPO": [],
-    "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
@@ -826,7 +813,6 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [],
     "ideal": [
         "GOstats",
         "pcaExplorer"
@@ -1168,7 +1154,6 @@
         "Spectra",
         "xcms"
     ],
-    "nearBynding": [],
     "Nebulosa": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -1204,7 +1189,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [
         "GSVA"
     ],
@@ -1224,9 +1208,7 @@
         "motifmatchr"
     ],
     "pairedGSEA": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -1273,7 +1255,6 @@
         "GOstats"
     ],
     "PLPE": [],
-    "plyinteractions": [],
     "pogos": [],
     "POMA": [],
     "POWSC": [
@@ -1615,7 +1596,6 @@
     "SOMNiBUS": [
         "annotatr"
     ],
-    "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
