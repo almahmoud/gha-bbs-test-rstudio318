@@ -44,7 +44,6 @@
     "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
-        "AnnotationForge",
         "BSgenome",
         "BiocIO",
         "Category",
@@ -85,7 +84,6 @@
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "AnnotationFilter",
-        "AnnotationForge",
         "BSgenome",
         "BiocIO",
         "Category",
@@ -111,7 +109,6 @@
         "rtracklayer"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
@@ -315,10 +312,8 @@
         "genefilter"
     ],
     "AnnotationFilter": [],
-    "AnnotationForge": [],
     "AnnotationHub": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "BiocCheck",
         "BiocIO",
@@ -342,7 +337,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -519,7 +513,6 @@
         "rtracklayer"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -532,7 +525,6 @@
     "autonomics": [
         "MultiAssayExperiment"
     ],
-    "AWFisher": [],
     "BaalChIP": [
         "GenomicAlignments",
         "Rhtslib",
@@ -628,10 +620,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocSingular",
@@ -796,8 +785,7 @@
     "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocHubsShiny": [
         "AnnotationHub",
@@ -832,8 +820,7 @@
         "beachmat"
     ],
     "BiocSklearn": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "biodb": [],
     "biodbChebi": [
@@ -1280,7 +1267,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "gaga",
         "rtracklayer"
     ],
     "CATALYST": [
@@ -1301,7 +1287,6 @@
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -1353,11 +1338,9 @@
         "graphite"
     ],
     "cbpManager": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ccfindR": [],
-    "ccImpute": [],
     "ccmap": [],
     "CCPlotR": [
         "ComplexHeatmap"
@@ -1485,8 +1468,7 @@
     "cfTools": [
         "AnnotationHub",
         "ExperimentHub",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CGHbase": [],
     "CGHcall": [
@@ -2264,7 +2246,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "crisprBowtie",
         "crisprScore",
@@ -2273,8 +2254,7 @@
     "crisprScore": [
         "AnnotationHub",
         "ExperimentHub",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -2303,7 +2283,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "biovizBase",
         "crisprBowtie",
@@ -2326,7 +2305,6 @@
         "Rsamtools",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "biovizBase",
         "crisprBowtie",
@@ -2513,7 +2491,6 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "UniProt.ws",
         "biomaRt",
         "motifStack",
         "rtracklayer"
@@ -2710,8 +2687,7 @@
         "rtracklayer"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "ComplexHeatmap",
@@ -3008,7 +2984,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "UniProt.ws",
         "biomaRt",
         "ensembldb",
         "rtracklayer"
@@ -3115,7 +3090,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "EMDomics": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "BiocIO",
@@ -3479,7 +3453,6 @@
         "AnnotationHub"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
@@ -3650,7 +3623,6 @@
         "VariantAnnotation",
         "bambu",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "biomaRt",
         "biovizBase",
@@ -3843,7 +3815,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gaga": [],
     "gage": [],
     "GARS": [
         "BiocIO",
@@ -3977,7 +3948,6 @@
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
-    "geneRxCluster": [],
     "GENESIS": [
         "SeqArray",
         "SeqVarTools"
@@ -4228,7 +4198,6 @@
         "rtracklayer"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4244,7 +4213,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "BiocIO",
@@ -4293,7 +4261,6 @@
         "biomaRt"
     ],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "genefilter"
@@ -4543,7 +4510,6 @@
         "HiCExperiment",
         "InteractionSet",
         "basilisk",
-        "basilisk.utils",
         "rhdf5"
     ],
     "hicVennDiagram": [
@@ -4586,7 +4552,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "SpatialExperiment"
@@ -4658,7 +4623,6 @@
         "rtracklayer"
     ],
     "ideal": [
-        "AnnotationForge",
         "BiocIO",
         "Category",
         "DESeq2",
@@ -5110,8 +5074,7 @@
     "MACSr": [
         "AnnotationHub",
         "ExperimentHub",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "made4": [],
     "MADSEQ": [
@@ -5545,7 +5508,6 @@
         "rtracklayer"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "BiocCheck",
@@ -5772,7 +5734,6 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "AnnotationForge",
         "BiocIO",
         "Category",
         "DelayedMatrixStats",
@@ -5837,7 +5798,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -5921,7 +5881,6 @@
     "MOFA2": [
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "rhdf5"
     ],
     "MOGAMUN": [],
@@ -6462,7 +6421,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "BiocIO",
         "Category",
         "DelayedMatrixStats",
@@ -6634,11 +6592,9 @@
     ],
     "ompBAM": [],
     "oncomix": [],
-    "oncoscanR": [],
     "OncoScore": [
         "biomaRt"
     ],
-    "OncoSimulR": [],
     "ontoProc": [
         "AnnotationHub"
     ],
@@ -6722,7 +6678,6 @@
         "ExperimentHub",
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "rhdf5"
     ],
     "Oscope": [],
@@ -6809,7 +6764,6 @@
         "DOSE",
         "GOSemSim",
         "basilisk",
-        "basilisk.utils",
         "fgsea"
     ],
     "partCNV": [
@@ -6834,7 +6788,6 @@
         "KEGGgraph"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -7000,7 +6953,6 @@
     "planttfhunter": [],
     "plier": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -7517,13 +7469,11 @@
         "GOSemSim"
     ],
     "Rcwl": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RCyjs": [],
     "ReactomePA": [
@@ -7571,7 +7521,6 @@
         "Rhtslib",
         "Rsamtools",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -7707,7 +7656,6 @@
     ],
     "ReportingTools": [
         "AnnotationFilter",
-        "AnnotationForge",
         "BSgenome",
         "BiocIO",
         "Category",
@@ -7758,8 +7706,7 @@
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "rexposome": [],
     "rfaRm": [],
@@ -8497,7 +8444,6 @@
         "Rhtslib",
         "Rsamtools",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "biomaRt",
         "rhdf5",
@@ -8552,7 +8498,6 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "AnnotationForge",
         "AnnotationHub",
         "Category",
         "DOSE",
@@ -8607,7 +8552,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scater",
         "scuttle"
@@ -8730,7 +8674,6 @@
         "rtracklayer"
     ],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -8865,7 +8808,6 @@
     ],
     "SimBu": [
         "basilisk",
-        "basilisk.utils",
         "biomformat",
         "phyloseq",
         "rhdf5"
@@ -8930,7 +8872,6 @@
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
-        "basilisk.utils",
         "batchelor",
         "beachmat",
         "biomaRt",
@@ -9028,8 +8969,7 @@
     ],
     "snapcount": [],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SNPhood": [
         "BSgenome",
@@ -9125,8 +9065,7 @@
     "SpatialCPie": [],
     "spatialDE": [
         "SpatialExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SpatialDecon": [
         "GeomxTools",
@@ -9584,7 +9523,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tigre": [],
@@ -9608,7 +9546,6 @@
         "fgsea",
         "tkWidgets"
     ],
-    "TIN": [],
     "TissueEnrich": [
         "GSEABase"
     ],
@@ -9722,7 +9659,6 @@
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
-        "anota",
         "topGO"
     ],
     "transomics2cytoscape": [],
@@ -9894,7 +9830,6 @@
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [
         "BSgenome",
         "BiocIO",
@@ -10015,7 +9950,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scuttle",
         "zellkonverter"
@@ -10024,7 +9958,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "GOSemSim",
         "biomaRt",
         "fgsea",
@@ -10204,8 +10137,7 @@
         "rtracklayer"
     ],
     "zellkonverter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zenith": [
         "EnrichmentBrowser",
