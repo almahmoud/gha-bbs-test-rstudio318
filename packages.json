@@ -248,7 +248,6 @@
     ],
     "BgeeCall": [],
     "BgeeDB": [],
-    "bgx": [],
     "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
@@ -275,10 +274,8 @@
     "BiocSet": [],
     "BiocSklearn": [],
     "biodbExpasy": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "biomformat": [],
@@ -350,9 +347,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "breakpointR": [],
-    "BRGenomics": [],
-    "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -525,7 +519,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -743,7 +736,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [],
@@ -905,7 +897,6 @@
     ],
     "deconvR": [
         "bumphunter",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -1071,8 +1062,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1085,7 +1075,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "enrichplot",
@@ -1144,8 +1133,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -1155,7 +1143,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
         "SGSeq"
@@ -1535,7 +1522,6 @@
     "gwasurvivr": [
         "VariantAnnotation"
     ],
-    "h5vc": [],
     "HarmonizR": [
         "sva"
     ],
@@ -1717,7 +1703,6 @@
         "maftools",
         "plyranges"
     ],
-    "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
         "DSS",
@@ -1913,9 +1898,7 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -1946,10 +1929,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -2329,10 +2309,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "oposSOM": [],
     "oppar": [
         "GSVA"
@@ -2449,7 +2426,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "Category",
         "GOstats"
@@ -3234,7 +3210,6 @@
     "systemPipeR": [
         "ShortRead"
     ],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "VariantAnnotation",
