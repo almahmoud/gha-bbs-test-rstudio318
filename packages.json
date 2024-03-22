@@ -54,29 +54,24 @@
         "methylumi",
         "minfi"
     ],
-    "ASICS": [],
     "ASpli": [
         "Gviz",
         "biovizBase"
     ],
     "ASSIGN": [],
     "ATACCoGAPS": [
-        "TFBSTools",
         "chromVAR",
         "motifmatchr",
         "projectR"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [
@@ -92,8 +87,7 @@
     "bayNorm": [],
     "BEARscc": [],
     "benchdamic": [
-        "MAST",
-        "phyloseq"
+        "MAST"
     ],
     "bigmelon": [
         "lumi",
@@ -191,7 +185,6 @@
         "enrichplot"
     ],
     "ccfindR": [],
-    "CCPROMISE": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -232,16 +225,13 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
     "ChIPXpress": [],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase",
@@ -282,9 +272,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -302,7 +290,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "flowClust",
         "flowMerge"
     ],
     "consensusDE": [
@@ -347,7 +334,6 @@
     ],
     "customProDB": [],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity"
     ],
     "CyTOFpower": [
@@ -358,7 +344,6 @@
     ],
     "cytomapper": [],
     "CytoML": [
-        "flowClust",
         "flowWorkspace",
         "ggcyto",
         "openCyto"
@@ -378,7 +363,6 @@
         "cytomapper"
     ],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "DAMEfinder": [],
@@ -423,9 +407,7 @@
     "DExMA": [
         "snpStats"
     ],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [],
     "DifferentialRegulation": [],
     "diffUTR": [],
@@ -444,7 +426,6 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "easyRNASeq": [],
     "edge": [],
     "EGSEA": [],
     "ELMER": [
@@ -452,7 +433,6 @@
         "biovizBase"
     ],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -460,7 +440,6 @@
     ],
     "enrichplot": [],
     "enrichTF": [
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -480,23 +459,16 @@
         "minfi"
     ],
     "EpiTxDb": [],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "GenomicFiles"
     ],
     "esATAC": [
         "ChIPseeker",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -544,7 +516,6 @@
     ],
     "flowBin": [],
     "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity"
     ],
@@ -553,17 +524,11 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMatch": [],
-    "flowMerge": [
-        "flowClust"
-    ],
-    "flowPloidy": [],
+    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace"
@@ -604,7 +569,6 @@
         "snpStats"
     ],
     "geneRecommender": [],
-    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -651,7 +615,6 @@
     "GOstats": [],
     "GSEABenchmarkeR": [],
     "GSEAlm": [],
-    "GSReg": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -785,12 +748,8 @@
         "biovizBase"
     ],
     "MAST": [],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
-    "MBECS": [
-        "phyloseq"
-    ],
+    "MatrixRider": [],
+    "MBECS": [],
     "mCSEA": [
         "Gviz",
         "biovizBase"
@@ -857,15 +816,9 @@
     "methylumi": [
         "minfi"
     ],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
-    "microbiomeMarker": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -903,9 +856,7 @@
         "xcms"
     ],
     "MoleculeExperiment": [],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -917,16 +868,11 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -948,7 +894,6 @@
     "MsFeatures": [],
     "msgbsR": [
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msmsEDA": [],
@@ -988,7 +933,6 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "Gviz",
-        "TFBSTools",
         "biovizBase",
         "motifStack",
         "trackViewer"
@@ -1028,7 +972,6 @@
     ],
     "ompBAM": [],
     "openCyto": [
-        "flowClust",
         "flowWorkspace"
     ],
     "oppar": [],
@@ -1041,7 +984,6 @@
     ],
     "PAA": [],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "pairedGSEA": [],
@@ -1050,9 +992,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PathoStat": [
-        "phyloseq"
-    ],
+    "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -1072,7 +1012,6 @@
     ],
     "phenoTest": [],
     "philr": [],
-    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1092,13 +1031,11 @@
         "MAST"
     ],
     "prebs": [
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [],
     "primirTSS": [
         "Gviz",
-        "TFBSTools",
         "biovizBase"
     ],
     "PrInCE": [],
@@ -1152,21 +1089,15 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "RcwlPipelines": [],
     "ReactomePA": [
         "enrichplot"
     ],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -1179,7 +1110,6 @@
     ],
     "regionalpcs": [],
     "RegionalST": [],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
@@ -1204,14 +1134,12 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "rgsepd": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
     ],
     "ribosomeProfilingQC": [
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "Risa": [
@@ -1258,9 +1186,7 @@
         "methylumi",
         "minfi"
     ],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -1285,7 +1211,6 @@
     "schex": [],
     "scHOT": [],
     "scider": [],
-    "scifer": [],
     "scmap": [],
     "scMET": [],
     "scmeth": [
@@ -1318,8 +1243,7 @@
         "schex"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -1344,9 +1268,7 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
@@ -1358,9 +1280,7 @@
     ],
     "SigsPack": [],
     "SimBindProfiles": [],
-    "SimBu": [
-        "phyloseq"
-    ],
+    "SimBu": [],
     "simpleSeg": [
         "cytomapper"
     ],
@@ -1403,7 +1323,6 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "TFBSTools",
         "biovizBase",
         "motifmatchr"
     ],
@@ -1422,9 +1341,7 @@
     ],
     "SpotClean": [],
     "SPOTlight": [],
-    "SPsimSeq": [
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
@@ -1440,7 +1357,6 @@
     "surfaltr": [],
     "switchde": [],
     "synapter": [],
-    "systemPipeR": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -1455,7 +1371,6 @@
     ],
     "tenXplore": [],
     "terraTCGAdata": [],
-    "TFBSTools": [],
     "tidySingleCellExperiment": [],
     "TimiRGeN": [
         "clusterProfiler",
@@ -1528,8 +1443,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "waddR": [],
     "wateRmelon": [
