@@ -2127,7 +2127,6 @@
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment",
-        "SNPRelate",
         "SeqArray"
     ],
     "CNVrd2": [
@@ -4310,7 +4309,6 @@
         "MultiAssayExperiment"
     ],
     "GDSArray": [
-        "SNPRelate",
         "SeqArray"
     ],
     "gemma.R": [],
@@ -4353,7 +4351,6 @@
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools"
     ],
@@ -4864,7 +4861,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "SNPRelate",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -5298,7 +5294,6 @@
     ],
     "InterMineR": [],
     "IntOMICS": [],
-    "IntramiRExploreR": [],
     "IONiseR": [
         "GenomicAlignments",
         "Rhtslib",
@@ -8213,7 +8208,6 @@
         "GenomicFeatures",
         "Rhtslib",
         "Rsamtools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "VariantAnnotation",
@@ -9613,7 +9607,6 @@
     "SeqSQC": [
         "AnnotationHub",
         "ExperimentHub",
-        "SNPRelate",
         "interactiveDisplayBase"
     ],
     "seqTools": [],
@@ -9997,7 +9990,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [],
     "snpStats": [],
     "soGGi": [
         "BiocIO",
@@ -10995,7 +10987,6 @@
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
-        "SNPRelate",
         "SeqArray"
     ],
     "VariantFiltering": [
