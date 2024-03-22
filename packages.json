@@ -1,8 +1,6 @@
 {
     "a4": [],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "snapCGH"
     ],
@@ -72,7 +70,6 @@
         "biovizBase"
     ],
     "amplican": [],
-    "AneuFinder": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -151,7 +148,6 @@
     "biosigner": [],
     "biovizBase": [],
     "biscuiteer": [
-        "QDNAseq",
         "annotatr",
         "dmrseq"
     ],
@@ -176,7 +172,6 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "biovizBase",
@@ -258,9 +253,7 @@
         "snpStats"
     ],
     "CexoR": [],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "cfDNAPro": [],
     "cghMCR": [
         "CNTools"
@@ -297,7 +290,6 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -341,7 +333,6 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
@@ -737,9 +728,7 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "GeneGeneInteR": [
         "snpStats"
     ],
@@ -820,9 +809,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [],
     "HIPPO": [],
@@ -940,9 +927,7 @@
         "Spectra",
         "xcms"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "martini": [
         "snpStats"
     ],
@@ -974,7 +959,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEIGOR": [],
     "meshes": [
         "enrichplot"
     ],
@@ -1007,7 +991,6 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -1028,7 +1011,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
@@ -1064,9 +1046,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miQC": [],
     "MIRA": [],
     "mirIntegrator": [],
@@ -1151,24 +1131,18 @@
         "MsExperiment",
         "Spectra"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "Mulcom": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "MultiRNAflow": [],
     "multiscan": [],
     "MungeSumstats": [],
@@ -1211,7 +1185,6 @@
     "NeuCA": [],
     "nnSVG": [],
     "nucleR": [],
-    "nullranges": [],
     "octad": [
         "EDASeq",
         "GSVA",
@@ -1299,7 +1272,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "PLPE": [],
     "plyinteractions": [],
     "pogos": [],
@@ -1352,7 +1324,6 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "QDNAseq": [],
     "qPLEXanalyzer": [],
     "qsmooth": [],
     "qsvaR": [],
@@ -1497,7 +1468,6 @@
     "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [],
-    "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
     ],
@@ -1660,7 +1630,6 @@
     ],
     "speckle": [],
     "Spectra": [],
-    "SpectralTAD": [],
     "SPIAT": [
         "dittoSeq"
     ],
@@ -1768,9 +1737,7 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
@@ -1781,7 +1748,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz",
