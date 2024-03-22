@@ -21,14 +21,12 @@
         "multtest"
     ],
     "abseqR": [],
-    "ABSSeq": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "aCGH": [
         "multtest"
@@ -475,9 +473,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "arrayQuality": [
-        "marray"
-    ],
+    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
@@ -487,8 +483,7 @@
         "vsn"
     ],
     "artMS": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "ASAFE": [],
     "ASICS": [
@@ -910,7 +905,6 @@
         "graphite",
         "rtracklayer"
     ],
-    "BiocBook": [],
     "BiocCheck": [
         "biocViews"
     ],
@@ -1084,7 +1078,6 @@
         "bumphunter",
         "dmrseq",
         "interactiveDisplayBase",
-        "marray",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -1650,8 +1643,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "cfDNAPro": [
         "BSgenome",
@@ -1669,12 +1661,9 @@
         "basilisk.utils",
         "interactiveDisplayBase"
     ],
-    "CGHbase": [
-        "marray"
-    ],
+    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "cghMCR": [
         "CNTools",
@@ -1682,12 +1671,10 @@
     ],
     "CGHnormaliter": [
         "CGHbase",
-        "CGHcall",
-        "marray"
+        "CGHcall"
     ],
     "CGHregions": [
-        "CGHbase",
-        "marray"
+        "CGHbase"
     ],
     "ChAMP": [
         "AnnotationFilter",
@@ -1716,7 +1703,6 @@
         "illuminaio",
         "interactiveDisplayBase",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -2286,7 +2272,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "marray",
         "methylPipe",
         "rtracklayer",
         "topGO"
@@ -2393,9 +2378,7 @@
         "rtracklayer",
         "siggenes"
     ],
-    "convert": [
-        "marray"
-    ],
+    "convert": [],
     "CopyNumberPlots": [
         "AnnotationFilter",
         "BSgenome",
@@ -2422,7 +2405,6 @@
         "BumpyMatrix",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "Cormotif": [],
@@ -3274,7 +3256,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "BiocIO",
         "GenomicAlignments",
@@ -3384,9 +3365,7 @@
     "dupRadar": [
         "Rsubread"
     ],
-    "dyebias": [
-        "marray"
-    ],
+    "dyebias": [],
     "easier": [
         "AnnotationHub",
         "DESeq2",
@@ -4347,7 +4326,6 @@
         "gDRcore",
         "gDRimport",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRcore": [
@@ -4362,7 +4340,6 @@
         "PharmacoGx",
         "fgsea",
         "gDRutils",
-        "marray",
         "piano"
     ],
     "gDRstyle": [
@@ -4392,8 +4369,7 @@
         "CGHcall",
         "QDNAseq",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "GeneExpressionSignature": [],
     "genefilter": [],
@@ -5315,7 +5291,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "plgem",
         "rtracklayer"
     ],
     "InTAD": [
@@ -5802,7 +5777,6 @@
         "rtracklayer"
     ],
     "marr": [],
-    "marray": [],
     "martini": [
         "snpStats"
     ],
@@ -5824,7 +5798,6 @@
     "maskBAD": [
         "gcrma"
     ],
-    "massiR": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -6095,7 +6068,6 @@
         "NOISeq"
     ],
     "metaseqR2": [
-        "ABSSeq",
         "BSgenome",
         "BiocIO",
         "DESeq2",
@@ -6281,7 +6253,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "marray",
         "rtracklayer"
     ],
     "methylscaper": [],
@@ -6477,7 +6448,6 @@
         "genefilter",
         "illuminaio",
         "lumi",
-        "marray",
         "methylumi",
         "minfi",
         "multtest",
@@ -6900,23 +6870,18 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [
-        "marray"
-    ],
+    "MSstats": [],
     "MSstatsBig": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MSstatsLiP": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -6938,12 +6903,10 @@
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "marray"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "marray"
+        "MSstats"
     ],
     "MuData": [
         "MultiAssayExperiment",
@@ -7284,9 +7247,7 @@
         "MultiAssayExperiment",
         "fgsea"
     ],
-    "nnNorm": [
-        "marray"
-    ],
+    "nnNorm": [],
     "nnSVG": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -7394,12 +7355,9 @@
         "oligoClasses"
     ],
     "oligoClasses": [],
-    "OLIN": [
-        "marray"
-    ],
+    "OLIN": [],
     "OLINgui": [
         "OLIN",
-        "marray",
         "tkWidgets",
         "widgetTools"
     ],
@@ -7696,7 +7654,6 @@
         "biomaRt",
         "fgsea",
         "genefu",
-        "marray",
         "piano"
     ],
     "pdInfoBuilder": [
@@ -7756,7 +7713,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "phemd": [
@@ -7802,8 +7758,7 @@
         "Rgraphviz"
     ],
     "piano": [
-        "fgsea",
-        "marray"
+        "fgsea"
     ],
     "PICS": [
         "GenomicAlignments",
@@ -7859,7 +7814,6 @@
         "rtracklayer"
     ],
     "planttfhunter": [],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "AnnotationForge",
@@ -8193,8 +8147,7 @@
         "CGHbase",
         "CGHcall",
         "Rhtslib",
-        "Rsamtools",
-        "marray"
+        "Rsamtools"
     ],
     "QFeatures": [
         "AnnotationFilter",
@@ -8322,7 +8275,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "raer": [
@@ -8397,9 +8349,7 @@
     "RBGL": [],
     "RBioFormats": [],
     "RBioinf": [],
-    "RBM": [
-        "marray"
-    ],
+    "RBM": [],
     "Rbowtie2": [
         "Rhtslib",
         "Rsamtools"
@@ -10467,9 +10417,7 @@
     ],
     "statTarget": [],
     "STdeconvolve": [],
-    "stepNorm": [
-        "marray"
-    ],
+    "stepNorm": [],
     "stJoincount": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -10754,9 +10702,7 @@
         "genefilter",
         "vsn"
     ],
-    "timecourse": [
-        "marray"
-    ],
+    "timecourse": [],
     "timeOmics": [
         "mixOmics"
     ],
@@ -10841,7 +10787,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
-        "marray",
         "piano"
     ],
     "TPP": [],
@@ -10999,8 +10944,7 @@
     ],
     "TTMap": [],
     "TurboNorm": [
-        "convert",
-        "marray"
+        "convert"
     ],
     "TVTB": [
         "AnnotationFilter",
@@ -11386,7 +11330,6 @@
         "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
-        "marray",
         "piano"
     ],
     "XINA": [],
