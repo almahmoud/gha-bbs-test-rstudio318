@@ -120,7 +120,6 @@
     "amplican": [
         "ShortRead"
     ],
-    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [],
     "animalcules": [],
@@ -199,7 +198,6 @@
     ],
     "AUCell": [],
     "autonomics": [],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -269,7 +267,6 @@
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocSet": [],
     "BiocSklearn": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
@@ -423,9 +420,7 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "BiocSet"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils"
@@ -943,7 +938,6 @@
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEWSeq": [],
     "DExMA": [
         "snpStats",
         "sva"
@@ -1013,7 +1007,6 @@
         "bsseq"
     ],
     "easier": [],
-    "easylift": [],
     "easyRNASeq": [
         "ShortRead"
     ],
@@ -1319,7 +1312,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "ShortRead",
         "sva"
     ],
@@ -1330,7 +1322,6 @@
     ],
     "gatom": [],
     "GBScleanR": [],
-    "gcapc": [],
     "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
@@ -1523,7 +1514,6 @@
         "VariantAnnotation"
     ],
     "hermes": [],
-    "hiAnnotator": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1546,9 +1536,7 @@
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
@@ -1859,7 +1847,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagene2": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2006,7 +1993,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -2127,12 +2113,9 @@
     ],
     "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase"
     ],
@@ -2141,10 +2124,8 @@
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MuData": [],
     "Mulcom": [],
     "MultiBaC": [
@@ -2848,7 +2829,6 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scDDboost": [],
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
@@ -3076,9 +3056,7 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "sparrow": [
-        "BiocSet"
-    ],
+    "sparrow": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3122,7 +3100,6 @@
         "SpatialExperiment"
     ],
     "SpidermiR": [],
-    "spiky": [],
     "splatter": [],
     "SpliceWiz": [
         "ompBAM"
@@ -3148,7 +3125,6 @@
         "biovizBase"
     ],
     "sSNAPPY": [],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3369,7 +3345,6 @@
     "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [],
-    "vidger": [],
     "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
