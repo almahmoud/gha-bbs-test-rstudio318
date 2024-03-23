@@ -35,13 +35,9 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "bambu": [],
     "bandle": [],
@@ -142,9 +138,7 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -172,7 +166,6 @@
     "comapr": [
         "Gviz"
     ],
-    "combi": [],
     "coMET": [
         "Gviz"
     ],
@@ -226,9 +219,7 @@
         "PeacoQC",
         "ggcyto"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -253,7 +244,6 @@
     "DExMA": [
         "snpStats"
     ],
-    "DiffBind": [],
     "diffcyt": [],
     "dittoSeq": [],
     "DMRcate": [
@@ -278,7 +268,6 @@
         "Gviz"
     ],
     "EpiTxDb": [],
-    "epivizrChart": [],
     "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
@@ -322,13 +311,11 @@
         "ggcyto"
     ],
     "flowStats": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats"
     ],
     "GA4GHshiny": [],
     "GARS": [],
-    "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
@@ -370,7 +357,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GSEABenchmarkeR": [],
     "GSEAlm": [],
     "GUIDEseq": [],
     "Gviz": [],
@@ -451,8 +437,6 @@
         "Gviz"
     ],
     "MAST": [],
-    "MatrixRider": [],
-    "MBECS": [],
     "mCSEA": [
         "Gviz"
     ],
@@ -480,7 +464,6 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "metaseqR2": [],
     "MetCirc": [],
     "methylCC": [],
     "methylclock": [],
@@ -494,8 +477,6 @@
     ],
     "methylSig": [],
     "methylumi": [],
-    "microbiomeDASim": [],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
@@ -528,10 +509,8 @@
         "clusterProfiler"
     ],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
-    "motifStack": [],
     "MsBackendMgf": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -562,7 +541,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "ncGTW": [
@@ -596,7 +574,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "PathoStat": [],
     "pcaExplorer": [],
     "PeacoQC": [],
     "peakPantheR": [],
@@ -651,7 +628,6 @@
     ],
     "RadioGx": [],
     "RandomWalkRestartMH": [],
-    "RCM": [],
     "ReactomePA": [],
     "recount": [
         "derfinder"
@@ -673,9 +649,7 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "Risa": [
         "MsExperiment",
         "MsFeatures",
@@ -802,7 +776,6 @@
         "Gviz"
     ],
     "SPOTlight": [],
-    "SPsimSeq": [],
     "srnadiff": [
         "Gviz"
     ],
@@ -863,9 +836,7 @@
         "gwascat",
         "snpStats"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "waddR": [],
     "wateRmelon": [
         "lumi",
