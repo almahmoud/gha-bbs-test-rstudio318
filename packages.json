@@ -38,7 +38,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "bioCancer": [],
     "BiocOncoTK": [],
     "biomvRCNS": [],
     "biscuiteer": [],
@@ -58,11 +57,9 @@
         "MsFeatures",
         "xcms"
     ],
-    "canceR": [],
     "cardelino": [
         "snpStats"
     ],
-    "cbaf": [],
     "CBNplot": [],
     "ccfindR": [],
     "CDI": [],
@@ -208,7 +205,6 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "GloScope": [],
-    "GNOSIS": [],
     "goSorensen": [],
     "GSEAlm": [],
     "gwascat": [
