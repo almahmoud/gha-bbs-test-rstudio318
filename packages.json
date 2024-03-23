@@ -156,7 +156,6 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPseeker": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
@@ -245,7 +244,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -296,9 +294,7 @@
         "clusterProfiler"
     ],
     "enrichViewNet": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epimutacions": [
         "Gviz"
     ],
@@ -310,7 +306,6 @@
     ],
     "erma": [],
     "esATAC": [
-        "ChIPseeker",
         "clusterProfiler"
     ],
     "escape": [],
@@ -362,7 +357,6 @@
         "flowWorkspace"
     ],
     "flowWorkspace": [],
-    "funtooNorm": [],
     "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq"
@@ -509,7 +503,6 @@
         "methylumi",
         "wateRmelon"
     ],
-    "meshes": [],
     "MetaboAnnotation": [
         "CompoundDb"
     ],
@@ -526,7 +519,6 @@
     ],
     "metaseqR2": [],
     "MetCirc": [],
-    "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [
@@ -646,7 +638,6 @@
     ],
     "PathoStat": [],
     "pcaExplorer": [],
-    "PDATK": [],
     "PeacoQC": [
         "flowWorkspace"
     ],
@@ -676,7 +667,6 @@
         "Gviz"
     ],
     "profileplyr": [
-        "ChIPseeker",
         "soGGi"
     ],
     "projectR": [],
@@ -724,7 +714,6 @@
     ],
     "RepViz": [],
     "RESOLVE": [],
-    "ReUseData": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -778,7 +767,6 @@
     "scHOT": [],
     "scmap": [],
     "scMET": [],
-    "scmeth": [],
     "SCnorm": [],
     "scone": [],
     "scoreInvHap": [
@@ -803,18 +791,14 @@
     "scTreeViz": [
         "epivizr"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "seqArchRplus": [
-        "ChIPseeker",
         "clusterProfiler"
     ],
     "SeqSQC": [],
     "seqTools": [],
     "SGCP": [],
     "shinyepico": [],
-    "shinyMethyl": [],
     "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
