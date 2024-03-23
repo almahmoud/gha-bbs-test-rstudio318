@@ -20,10 +20,7 @@
     ],
     "BiocOncoTK": [],
     "BUSseq": [],
-    "CAGEfightR": [],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MsFeatures",
         "xcms"
@@ -58,9 +55,7 @@
         "xcms"
     ],
     "clstutils": [],
-    "CNVfilteR": [],
     "cogeqc": [],
-    "compEpiTools": [],
     "condiments": [
         "TrajectoryUtils",
         "slingshot"
@@ -69,7 +64,6 @@
         "MsFeatures",
         "xcms"
     ],
-    "crisprVerse": [],
     "ddCt": [],
     "DeepBlueR": [],
     "deepSNV": [],
@@ -84,7 +78,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "extraChIPs": [],
     "FamAgg": [],
     "fcScan": [],
     "FEAST": [
@@ -119,7 +112,6 @@
     "gwascat": [
         "snpStats"
     ],
-    "HiCDCPlus": [],
     "HIPPO": [],
     "iCheck": [],
     "ILoReg": [],
@@ -200,7 +192,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netZooR": [],
     "NeuCA": [],
     "ompBAM": [],
     "oppti": [],
@@ -219,8 +210,6 @@
     ],
     "preciseTAD": [],
     "projectR": [],
-    "Prostar": [],
-    "psichomics": [],
     "PSMatch": [],
     "qckitfastq": [
         "seqTools"
@@ -232,11 +221,6 @@
         "xcms"
     ],
     "RLSeq": [],
-    "RNAAgeCalc": [],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [],
     "RVS": [
         "snpStats"
     ],
@@ -285,7 +269,6 @@
     ],
     "SNPhood": [],
     "snpStats": [],
-    "spatzie": [],
     "speckle": [],
     "SPIAT": [
         "dittoSeq"
