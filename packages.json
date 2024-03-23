@@ -1,11 +1,7 @@
 {
     "ADImpute": [],
-    "affycoretools": [],
     "aggregateBioVar": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
-    "arrayMvout": [],
+    "AgiMicroRna": [],
     "ATACCoGAPS": [
         "projectR"
     ],
@@ -15,9 +11,7 @@
     "benchdamic": [
         "MAST"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BiocOncoTK": [],
     "BUSseq": [],
     "CAMERA": [
@@ -37,10 +31,7 @@
     "CeTF": [
         "snpStats"
     ],
-    "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "CHETAH": [],
     "cicero": [
         "monocle"
@@ -72,7 +63,6 @@
         "snpStats"
     ],
     "dittoSeq": [],
-    "DMRcate": [],
     "DrugVsDisease": [],
     "EWCE": [
         "orthogene"
@@ -84,7 +74,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "ffpe": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -112,7 +101,6 @@
         "snpStats"
     ],
     "HIPPO": [],
-    "iCheck": [],
     "ILoReg": [],
     "infercnv": [],
     "IPO": [
@@ -145,21 +133,16 @@
         "snpStats"
     ],
     "MAST": [],
-    "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "metaMS": [
         "CAMERA",
         "MsFeatures",
         "xcms"
     ],
     "MetaNeighbor": [],
-    "methylGSA": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "MineICA": [],
     "miQC": [],
     "mitoClone2": [
         "deepSNV"
@@ -260,9 +243,7 @@
     ],
     "SiPSiC": [],
     "sitePath": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "slingshot": [
         "TrajectoryUtils"
     ],
@@ -303,9 +284,7 @@
         "snpStats"
     ],
     "waddR": [],
-    "wateRmelon": [],
     "xcms": [
         "MsFeatures"
-    ],
-    "YAPSA": []
+    ]
 }
