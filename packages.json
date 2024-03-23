@@ -4,7 +4,6 @@
     ],
     "benchdamic": [],
     "BiocOncoTK": [],
-    "BUSseq": [],
     "CAMERA": [],
     "cardelino": [],
     "celaref": [],
@@ -21,14 +20,11 @@
     ],
     "cosmiq": [],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DExMA": [],
-    "DrugVsDisease": [],
     "EWCE": [
         "orthogene"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "flagme": [
@@ -42,9 +38,7 @@
     "IPO": [
         "CAMERA"
     ],
-    "iSEEpathways": [],
     "isobar": [],
-    "katdetectr": [],
     "LOBSTAHS": [
         "CAMERA"
     ],
@@ -59,27 +53,18 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "miQC": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MobilityTransformR": [],
     "monocle": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "multicrispr": [],
-    "myvariant": [],
     "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NeuCA": [],
     "orthogene": [],
     "phemd": [
         "monocle"
@@ -91,11 +76,7 @@
     "Risa": [],
     "RLSeq": [],
     "RVS": [],
-    "sampleClassifier": [],
-    "SC3": [],
-    "scMET": [],
     "scoreInvHap": [],
-    "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
@@ -106,10 +87,8 @@
     "singleCellTK": [
         "TSCAN"
     ],
-    "SiPSiC": [],
     "slingshot": [],
     "SpliceWiz": [],
-    "SPOTlight": [],
     "TAPseq": [],
     "tradeSeq": [
         "slingshot"
