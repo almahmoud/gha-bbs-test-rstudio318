@@ -9,17 +9,9 @@
         "affycoretools"
     ],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
-    "alabaster.vcf": [],
+    "alabaster.spatial": [],
     "arrayMvout": [
         "lumi"
     ],
@@ -102,7 +94,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "CONFESS": [],
     "CopyNumberPlots": [],
     "cosmiq": [
         "MsFeatures",
@@ -113,20 +104,11 @@
     ],
     "crisprViz": [],
     "cummeRbund": [],
-    "CyTOFpower": [],
-    "CytoML": [
-        "ggcyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "CytoPipeline"
     ],
-    "dagLogo": [],
     "DAPAR": [],
     "ddCt": [],
     "DeepBlueR": [],
@@ -140,11 +122,9 @@
     "DMRcate": [
         "missMethyl"
     ],
-    "dreamlet": [],
     "DrugVsDisease": [],
     "ELMER": [],
     "epimutacions": [],
-    "epivizrStandalone": [],
     "esATAC": [],
     "EWCE": [
         "orthogene"
@@ -172,13 +152,8 @@
     "FLAMES": [
         "bambu"
     ],
-    "flowGate": [
-        "ggcyto"
-    ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowGate": [],
+    "flowVS": [],
     "GDCRNATools": [],
     "gDR": [
         "gDRcore"
@@ -191,7 +166,6 @@
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenProSeq": [],
-    "ggcyto": [],
     "ggsc": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
@@ -209,7 +183,6 @@
     ],
     "ideal": [],
     "ILoReg": [],
-    "ImmuneSpaceR": [],
     "iNETgrate": [],
     "infercnv": [],
     "IPO": [
@@ -315,7 +288,6 @@
     "oppti": [],
     "OPWeight": [],
     "orthogene": [],
-    "PeacoQC": [],
     "peakPantheR": [],
     "phemd": [
         "destiny",
@@ -402,7 +374,6 @@
     "SeqSQC": [],
     "seqTools": [],
     "signeR": [],
-    "signifinder": [],
     "singleCellTK": [
         "MAST",
         "TSCAN",
@@ -449,7 +420,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "treekoR": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
@@ -463,7 +433,6 @@
         "gwascat",
         "snpStats"
     ],
-    "vulcan": [],
     "waddR": [],
     "wateRmelon": [
         "lumi"
