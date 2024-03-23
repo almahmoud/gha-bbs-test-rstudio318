@@ -33,13 +33,10 @@
     "BOBaFIT": [],
     "BUSseq": [],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MsFeatures",
@@ -80,9 +77,7 @@
     "CNVfilteR": [],
     "CNViz": [],
     "cogeqc": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "condiments": [
         "TrajectoryUtils",
         "slingshot"
@@ -91,10 +86,7 @@
         "MsFeatures",
         "xcms"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "CytoML": [],
     "CytoPipeline": [],
     "CytoPipelineGUI": [
@@ -113,15 +105,11 @@
         "missMethyl"
     ],
     "DrugVsDisease": [],
-    "ELMER": [],
     "EWCE": [
         "orthogene"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "FamAgg": [],
-    "famat": [],
     "fcScan": [],
     "FEAST": [
         "SC3",
@@ -142,7 +130,6 @@
     ],
     "flowGate": [],
     "flowVS": [],
-    "GDCRNATools": [],
     "gDR": [
         "gDRcore"
     ],
@@ -151,7 +138,6 @@
         "snpStats"
     ],
     "geneRecommender": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenProSeq": [],
     "ggsc": [],
@@ -162,9 +148,7 @@
     "gwascat": [
         "snpStats"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HIPPO": [],
     "iCheck": [
         "lumi"
@@ -205,7 +189,6 @@
         "snpStats"
     ],
     "MAST": [],
-    "mCSEA": [],
     "MEAL": [
         "missMethyl"
     ],
@@ -222,7 +205,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
@@ -240,9 +222,6 @@
         "xcms"
     ],
     "monocle": [],
-    "Moonlight2R": [],
-    "MoonlightR": [],
-    "motifbreakR": [],
     "MsFeatures": [],
     "msgbsR": [],
     "msmsEDA": [],
@@ -268,7 +247,6 @@
     ],
     "netZooR": [],
     "NeuCA": [],
-    "OGRE": [],
     "ompBAM": [],
     "oppti": [],
     "OPWeight": [],
@@ -280,13 +258,11 @@
     ],
     "philr": [],
     "Pi": [],
-    "PING": [],
     "PLPE": [],
     "POWSC": [
         "MAST"
     ],
     "preciseTAD": [],
-    "primirTSS": [],
     "projectR": [],
     "Prostar": [],
     "psichomics": [],
@@ -304,16 +280,9 @@
     ],
     "RLSeq": [],
     "RNAAgeCalc": [],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
     "RnBeads": [],
     "RVS": [
@@ -367,9 +336,7 @@
     "SNPhood": [],
     "snpStats": [],
     "SomaticSignatures": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "speckle": [],
     "SPIAT": [
         "dittoSeq"
@@ -380,7 +347,6 @@
     "SPOTlight": [],
     "surfaltr": [],
     "switchde": [],
-    "tadar": [],
     "tanggle": [],
     "TAPseq": [],
     "tidySingleCellExperiment": [],
