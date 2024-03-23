@@ -1,10 +1,8 @@
 {
-    "ADImpute": [],
     "aggregateBioVar": [],
     "ATACCoGAPS": [
         "projectR"
     ],
-    "bambu": [],
     "BEARscc": [],
     "benchdamic": [
         "MAST"
@@ -12,7 +10,6 @@
     "BiocOncoTK": [],
     "BUSseq": [],
     "CAMERA": [
-        "MsFeatures",
         "xcms"
     ],
     "cardelino": [],
@@ -30,7 +27,6 @@
         "gwascat"
     ],
     "cliqueMS": [
-        "MsFeatures",
         "xcms"
     ],
     "cogeqc": [],
@@ -38,19 +34,15 @@
         "slingshot"
     ],
     "cosmiq": [
-        "MsFeatures",
         "xcms"
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DEqMS": [],
     "DExMA": [],
-    "dittoSeq": [],
     "DrugVsDisease": [],
     "EWCE": [
         "orthogene"
     ],
-    "FamAgg": [],
     "fcScan": [],
     "FEAST": [
         "SC3",
@@ -59,12 +51,9 @@
     "fishpond": [],
     "flagme": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
-    "FLAMES": [
-        "bambu"
-    ],
+    "FLAMES": [],
     "gDR": [
         "gDRcore"
     ],
@@ -79,31 +68,25 @@
     "infercnv": [],
     "IPO": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "iSEEpathways": [],
     "isobar": [],
     "isomiRs": [],
-    "iterClust": [],
     "katdetectr": [],
-    "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "MAGAR": [],
     "MAIT": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "martini": [],
     "MAST": [],
     "metaMS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -114,13 +97,10 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "moanin": [],
     "MobilityTransformR": [
-        "MsFeatures",
         "xcms"
     ],
     "monocle": [],
-    "MsFeatures": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -132,7 +112,6 @@
     "multicrispr": [],
     "myvariant": [],
     "ncGTW": [
-        "MsFeatures",
         "xcms"
     ],
     "Nebulosa": [],
@@ -140,7 +119,6 @@
         "RandomWalkRestartMH"
     ],
     "NeuCA": [],
-    "oppti": [],
     "orthogene": [],
     "peakPantheR": [],
     "phemd": [
@@ -153,13 +131,9 @@
     "preciseTAD": [],
     "projectR": [],
     "PSMatch": [],
-    "qckitfastq": [
-        "seqTools"
-    ],
+    "qckitfastq": [],
     "RandomWalkRestartMH": [],
-    "RepViz": [],
     "Risa": [
-        "MsFeatures",
         "xcms"
     ],
     "RLSeq": [],
@@ -169,9 +143,7 @@
     "sccomp": [],
     "scds": [],
     "schex": [],
-    "scmap": [],
     "scMET": [],
-    "SCnorm": [],
     "scoreInvHap": [],
     "scReClassify": [],
     "scRepertoire": [],
@@ -185,7 +157,6 @@
         "schex"
     ],
     "SeqSQC": [],
-    "seqTools": [],
     "signeR": [],
     "singleCellTK": [
         "MAST",
@@ -197,12 +168,9 @@
     "slingshot": [],
     "SNPhood": [],
     "speckle": [],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "SpliceWiz": [],
     "SPOTlight": [],
-    "surfaltr": [],
     "TAPseq": [],
     "tidySingleCellExperiment": [],
     "tradeSeq": [
@@ -220,7 +188,5 @@
         "gwascat"
     ],
     "waddR": [],
-    "xcms": [
-        "MsFeatures"
-    ]
+    "xcms": []
 }
