@@ -10,28 +10,18 @@
         "affycoretools",
         "ggbio"
     ],
-    "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "AllelicImbalance": [
         "Gviz"
     ],
@@ -43,7 +33,6 @@
         "Gviz"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "projectR"
     ],
     "ATACseqQC": [
@@ -156,7 +145,6 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -165,7 +153,6 @@
         "gwascat",
         "snpStats"
     ],
-    "CircSeqAlignTk": [],
     "cliqueMS": [
         "MsExperiment",
         "MsFeatures",
@@ -198,9 +185,7 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [],
     "consensusOV": [],
     "contiBAIT": [],
@@ -229,25 +214,21 @@
     ],
     "cytofQC": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "dagLogo": [
         "motifStack"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -281,9 +262,7 @@
         "missMethyl"
     ],
     "dmrseq": [],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "DrugVsDisease": [],
     "ELMER": [
         "Gviz"
@@ -299,11 +278,8 @@
         "Gviz"
     ],
     "EpiTxDb": [],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
         "clusterProfiler"
@@ -341,26 +317,17 @@
         "bambu",
         "ggbio"
     ],
-    "flowBin": [],
     "flowCut": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "GA4GHshiny": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler"
@@ -391,9 +358,7 @@
     "GenProSeq": [],
     "gespeR": [],
     "ggbio": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggsc": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
@@ -427,9 +392,7 @@
     ],
     "ILoReg": [],
     "imcRtools": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -622,12 +585,9 @@
     ],
     "OMICsPCA": [],
     "ompBAM": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "oppar": [],
     "oppti": [],
-    "optimalFlow": [],
     "OPWeight": [],
     "orthogene": [],
     "OutSplice": [],
@@ -638,9 +598,7 @@
     ],
     "PathoStat": [],
     "pcaExplorer": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [],
     "PharmacoGx": [],
     "phemd": [
@@ -692,11 +650,9 @@
         "ggbio"
     ],
     "RadioGx": [],
-    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RCM": [],
     "ReactomePA": [],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
@@ -788,9 +744,7 @@
     "scTGIF": [
         "schex"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [],
     "seqArchRplus": [
         "clusterProfiler"
@@ -799,7 +753,6 @@
     "seqTools": [],
     "SGCP": [],
     "shinyepico": [],
-    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
@@ -807,7 +760,6 @@
     "signifinder": [
         "consensusOV"
     ],
-    "SimBu": [],
     "simpleSeg": [],
     "singleCellTK": [
         "MAST",
@@ -932,6 +884,5 @@
     ],
     "yarn": [
         "quantro"
-    ],
-    "zenith": []
+    ]
 }
