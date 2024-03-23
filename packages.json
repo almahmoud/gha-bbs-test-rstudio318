@@ -9,15 +9,12 @@
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [],
     "cliqueMS": [],
-    "condiments": [],
     "cosmiq": [],
     "DeepBlueR": [],
     "EWCE": [
         "orthogene"
     ],
-    "FEAST": [],
     "flagme": [
         "CAMERA"
     ],
@@ -63,16 +60,11 @@
     "Risa": [],
     "RLSeq": [],
     "scRepertoire": [],
-    "scRNAseqApp": [],
     "scTensor": [],
     "scTGIF": [],
     "SeqSQC": [],
-    "singleCellTK": [],
     "TAPseq": [],
-    "tradeSeq": [],
-    "traviz": [],
     "uSORT": [
         "monocle"
-    ],
-    "vtpnet": []
+    ]
 }
