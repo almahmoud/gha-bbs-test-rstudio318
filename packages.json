@@ -45,9 +45,7 @@
     "biomvRCNS": [],
     "biscuiteer": [],
     "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "BUSseq": [],
     "CAFE": [],
     "CAGEfightR": [
@@ -149,7 +147,6 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEqMS": [],
-    "derfinderPlot": [],
     "destiny": [],
     "DExMA": [
         "snpStats"
@@ -201,11 +198,9 @@
     "GARS": [],
     "GDCRNATools": [],
     "gDR": [
-        "gDRcore",
-        "gDRimport"
+        "gDRcore"
     ],
     "gDRcore": [],
-    "gDRimport": [],
     "GeneGeneInteR": [
         "snpStats"
     ],
@@ -239,7 +234,6 @@
         "Pigengene"
     ],
     "infercnv": [],
-    "intansv": [],
     "IPO": [
         "CAMERA",
         "MsFeatures",
@@ -389,7 +383,6 @@
     "regutools": [],
     "ReportingTools": [],
     "RepViz": [],
-    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
         "MsFeatures",
@@ -456,7 +449,6 @@
         "TrajectoryUtils",
         "scds"
     ],
-    "SingleMoleculeFootprinting": [],
     "SiPSiC": [],
     "sitePath": [],
     "skewr": [
