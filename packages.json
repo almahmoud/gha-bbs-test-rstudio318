@@ -28,8 +28,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [],
-    "atSNP": [],
     "bambu": [],
     "bayNorm": [],
     "BEARscc": [],
@@ -74,7 +72,6 @@
     "CellBench": [],
     "CellTrails": [],
     "CEMiTool": [],
-    "censcyt": [],
     "CeTF": [
         "snpStats"
     ],
@@ -86,7 +83,6 @@
     ],
     "CHETAH": [],
     "chimeraviz": [],
-    "ChIPQC": [],
     "cicero": [
         "monocle"
     ],
@@ -128,8 +124,7 @@
     "cummeRbund": [],
     "CyTOFpower": [],
     "CytoML": [
-        "ggcyto",
-        "openCyto"
+        "ggcyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
@@ -195,7 +190,6 @@
     "flowVS": [
         "flowStats"
     ],
-    "GARS": [],
     "GDCRNATools": [],
     "gDR": [
         "gDRcore"
@@ -325,7 +319,6 @@
     "multiscan": [],
     "myvariant": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "ncGTW": [
@@ -342,7 +335,6 @@
     "NeuCA": [],
     "OGRE": [],
     "ompBAM": [],
-    "openCyto": [],
     "oppti": [],
     "OPWeight": [],
     "orthogene": [],
@@ -363,7 +355,6 @@
     ],
     "preciseTAD": [],
     "primirTSS": [],
-    "profileplyr": [],
     "projectR": [],
     "Prostar": [
         "DAPAR"
@@ -383,7 +374,6 @@
     "regutools": [],
     "ReportingTools": [],
     "RepViz": [],
-    "ribosomeProfilingQC": [],
     "Risa": [
         "MsFeatures",
         "xcms"
@@ -436,7 +426,6 @@
     "scTGIF": [
         "schex"
     ],
-    "scTreeViz": [],
     "seqArchRplus": [],
     "SeqSQC": [],
     "seqTools": [],
