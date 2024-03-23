@@ -1,14 +1,12 @@
 {
     "ADImpute": [],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "alabaster": [
         "alabaster.mae",
@@ -55,23 +53,16 @@
     "biscuiteer": [
         "dmrseq"
     ],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "brainflowprobes": [
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "BUSseq": [],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
-    "cageminer": [
-        "ggbio"
-    ],
+    "cageminer": [],
     "CAGEr": [
         "CAGEfightR",
         "GenomicInteractions"
@@ -143,7 +134,6 @@
     ],
     "CONFESS": [],
     "consensusDE": [],
-    "contiBAIT": [],
     "CopyNumberPlots": [],
     "cosmiq": [
         "MsFeatures",
@@ -179,9 +169,7 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEqMS": [],
-    "derfinderPlot": [
-        "ggbio"
-    ],
+    "derfinderPlot": [],
     "destiny": [],
     "DExMA": [
         "snpStats"
@@ -200,7 +188,6 @@
     "EpiCompare": [],
     "epimutacions": [],
     "epivizrStandalone": [],
-    "erma": [],
     "esATAC": [],
     "EWCE": [
         "orthogene"
@@ -227,8 +214,7 @@
         "xcms"
     ],
     "FLAMES": [
-        "bambu",
-        "ggbio"
+        "bambu"
     ],
     "flowCut": [],
     "flowGate": [
@@ -240,7 +226,6 @@
     ],
     "GARS": [],
     "GDCRNATools": [],
-    "gDNAx": [],
     "gDR": [
         "PharmacoGx",
         "gDRcore",
@@ -256,11 +241,8 @@
     "geneRecommender": [],
     "GeneStructureTools": [],
     "GenomicInteractions": [],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenProSeq": [],
-    "ggbio": [],
     "ggcyto": [],
     "ggsc": [],
     "ggtreeDendro": [],
@@ -293,17 +275,13 @@
         "Pigengene"
     ],
     "infercnv": [],
-    "intansv": [
-        "ggbio"
-    ],
-    "IntEREst": [],
+    "intansv": [],
     "IPO": [
         "CAMERA",
         "MsFeatures",
         "xcms"
     ],
     "iSEEpathways": [],
-    "iSEEu": [],
     "isobar": [],
     "isomiRs": [],
     "iterClust": [],
@@ -386,11 +364,8 @@
     "Moonlight2R": [],
     "MoonlightR": [],
     "motifbreakR": [],
-    "MsBackendMgf": [],
     "MsFeatures": [],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -417,13 +392,11 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [],
     "netZooR": [
         "yarn"
     ],
     "NeuCA": [],
     "OGRE": [],
-    "OMICsPCA": [],
     "ompBAM": [],
     "openCyto": [],
     "oppti": [],
@@ -466,10 +439,7 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RadioGx": [],
     "RandomWalkRestartMH": [],
     "recount": [],
@@ -477,14 +447,9 @@
     "regionReport": [],
     "regutools": [],
     "REMP": [],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "RepViz": [],
-    "RESOLVE": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
         "MsFeatures",
@@ -494,7 +459,6 @@
     "RNAAgeCalc": [
         "recount"
     ],
-    "RNAinteract": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
@@ -511,7 +475,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [],
     "RVS": [
         "snpStats"
     ],
@@ -536,9 +499,7 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "schex"
     ],
@@ -561,9 +522,7 @@
         "TrajectoryUtils",
         "scds"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "SiPSiC": [],
     "sitePath": [],
     "skewr": [
@@ -576,9 +535,7 @@
     ],
     "SNPhood": [],
     "snpStats": [],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [],
     "spatzie": [
         "GenomicInteractions"
@@ -623,9 +580,7 @@
     ],
     "VariantFiltering": [],
     "VaSP": [],
-    "VCFArray": [],
     "VDJdive": [],
-    "Voyager": [],
     "vtpnet": [
         "gwascat",
         "snpStats"
@@ -643,8 +598,7 @@
         "PharmacoGx"
     ],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": []
 }
