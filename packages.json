@@ -3,7 +3,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "BEARscc": [],
     "benchdamic": [
         "MAST"
     ],
@@ -13,11 +12,9 @@
         "xcms"
     ],
     "cardelino": [],
-    "ccfindR": [],
     "celaref": [
         "MAST"
     ],
-    "CellBench": [],
     "CeTF": [],
     "CHETAH": [],
     "cicero": [
@@ -29,7 +26,6 @@
     "cliqueMS": [
         "xcms"
     ],
-    "cogeqc": [],
     "condiments": [
         "slingshot"
     ],
@@ -48,7 +44,6 @@
         "SC3",
         "TSCAN"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "xcms"
@@ -63,9 +58,7 @@
     "ggsc": [],
     "ggtreeExtra": [],
     "gwascat": [],
-    "HIPPO": [],
     "ILoReg": [],
-    "infercnv": [],
     "IPO": [
         "CAMERA",
         "xcms"
@@ -89,7 +82,6 @@
         "CAMERA",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
@@ -140,9 +132,6 @@
     "RVS": [],
     "sampleClassifier": [],
     "SC3": [],
-    "sccomp": [],
-    "scds": [],
-    "schex": [],
     "scMET": [],
     "scoreInvHap": [],
     "scReClassify": [],
@@ -150,29 +139,22 @@
     "scRNAseqApp": [
         "slingshot"
     ],
-    "scTensor": [
-        "schex"
-    ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTensor": [],
+    "scTGIF": [],
     "SeqSQC": [],
     "signeR": [],
     "singleCellTK": [
         "MAST",
-        "TSCAN",
-        "scds"
+        "TSCAN"
     ],
     "SiPSiC": [],
     "sitePath": [],
     "slingshot": [],
     "SNPhood": [],
-    "speckle": [],
     "SPIAT": [],
     "SpliceWiz": [],
     "SPOTlight": [],
     "TAPseq": [],
-    "tidySingleCellExperiment": [],
     "tradeSeq": [
         "slingshot"
     ],
@@ -183,10 +165,8 @@
     "uSORT": [
         "monocle"
     ],
-    "VDJdive": [],
     "vtpnet": [
         "gwascat"
     ],
-    "waddR": [],
     "xcms": []
 }
