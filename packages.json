@@ -20,7 +20,6 @@
         "alabaster.sce"
     ],
     "alabaster.vcf": [],
-    "AllelicImbalance": [],
     "arrayMvout": [
         "lumi"
     ],
@@ -39,7 +38,6 @@
         "wateRmelon"
     ],
     "BiocOncoTK": [],
-    "biomvRCNS": [],
     "biscuiteer": [],
     "BOBaFIT": [],
     "BUSseq": [],
@@ -66,7 +64,6 @@
     ],
     "CellBench": [],
     "CellTrails": [],
-    "CEMiTool": [],
     "CeTF": [
         "snpStats"
     ],
@@ -146,7 +143,6 @@
     "dreamlet": [],
     "DrugVsDisease": [],
     "ELMER": [],
-    "enrichTF": [],
     "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [],
@@ -192,7 +188,6 @@
         "snpStats"
     ],
     "geneRecommender": [],
-    "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenProSeq": [],
@@ -201,7 +196,6 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "GloScope": [],
-    "goSorensen": [],
     "GSEAlm": [],
     "gwascat": [
         "snpStats"
@@ -216,9 +210,7 @@
     "ideal": [],
     "ILoReg": [],
     "ImmuneSpaceR": [],
-    "iNETgrate": [
-        "Pigengene"
-    ],
+    "iNETgrate": [],
     "infercnv": [],
     "IPO": [
         "CAMERA",
@@ -251,7 +243,6 @@
     "martini": [
         "snpStats"
     ],
-    "maser": [],
     "MAST": [],
     "mCSEA": [],
     "MEAL": [
@@ -268,7 +259,6 @@
         "xcms"
     ],
     "MetaNeighbor": [],
-    "MetaPhOR": [],
     "methylGSA": [
         "missMethyl"
     ],
@@ -307,9 +297,7 @@
     "multicrispr": [],
     "multiscan": [],
     "myvariant": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "ncGTW": [
         "MsFeatures",
         "xcms"
@@ -327,7 +315,6 @@
     "oppti": [],
     "OPWeight": [],
     "orthogene": [],
-    "PanomiR": [],
     "PeacoQC": [],
     "peakPantheR": [],
     "phemd": [
@@ -336,7 +323,6 @@
     ],
     "philr": [],
     "Pi": [],
-    "Pigengene": [],
     "PING": [],
     "PLPE": [],
     "POWSC": [
@@ -352,7 +338,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "Pviz": [],
     "qckitfastq": [
         "seqTools"
     ],
@@ -448,7 +433,6 @@
     ],
     "SPLINTER": [],
     "SPOTlight": [],
-    "srnadiff": [],
     "surfaltr": [],
     "switchde": [],
     "tadar": [],
@@ -456,7 +440,6 @@
     "TAPseq": [],
     "tidySingleCellExperiment": [],
     "TimiRGeN": [],
-    "trackViewer": [],
     "tradeSeq": [
         "TrajectoryUtils",
         "slingshot"
@@ -475,7 +458,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantFiltering": [],
     "VDJdive": [],
     "vtpnet": [
         "gwascat",
