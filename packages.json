@@ -60,7 +60,6 @@
     "cardelino": [
         "snpStats"
     ],
-    "CBNplot": [],
     "ccfindR": [],
     "CDI": [],
     "celaref": [
@@ -100,7 +99,6 @@
     ],
     "cogeqc": [],
     "comapr": [],
-    "coMET": [],
     "compEpiTools": [
         "methylPipe"
     ],
@@ -135,7 +133,6 @@
     "dagLogo": [],
     "DAPAR": [],
     "ddCt": [],
-    "debrowser": [],
     "DeepBlueR": [],
     "deepSNV": [],
     "DEqMS": [],
@@ -247,7 +244,6 @@
         "RnBeads",
         "snpStats"
     ],
-    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MsFeatures",
@@ -278,7 +274,6 @@
         "missMethyl"
     ],
     "methylPipe": [],
-    "MicrobiomeProfiler": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
@@ -309,7 +304,6 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MsQuality": [],
     "Mulcom": [],
     "multicrispr": [],
     "multiscan": [],
@@ -367,7 +361,6 @@
     "RandomWalkRestartMH": [],
     "recount": [],
     "regionReport": [],
-    "regutools": [],
     "ReportingTools": [],
     "RepViz": [],
     "Risa": [
@@ -422,10 +415,8 @@
     "scTGIF": [
         "schex"
     ],
-    "seqArchRplus": [],
     "SeqSQC": [],
     "seqTools": [],
-    "signatureSearch": [],
     "signeR": [],
     "signifinder": [],
     "singleCellTK": [
@@ -480,7 +471,6 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "TVTB": [],
     "uncoverappLib": [],
     "UNDO": [],
     "uSORT": [
