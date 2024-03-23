@@ -32,7 +32,6 @@
     "ATACseqTFEA": [],
     "atSNP": [],
     "bambu": [],
-    "bandle": [],
     "bayNorm": [],
     "BEARscc": [],
     "benchdamic": [
@@ -138,7 +137,6 @@
     ],
     "crisprViz": [],
     "cummeRbund": [],
-    "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
@@ -157,7 +155,6 @@
     "dagLogo": [],
     "DAPAR": [],
     "ddCt": [],
-    "ddPCRclust": [],
     "debrowser": [],
     "DeepBlueR": [],
     "deepSNV": [],
@@ -176,7 +173,6 @@
     "ELMER": [],
     "enhancerHomologSearch": [],
     "enrichTF": [],
-    "EpiCompare": [],
     "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [],
@@ -206,7 +202,6 @@
     "FLAMES": [
         "bambu"
     ],
-    "flowCut": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -396,7 +391,6 @@
     "primirTSS": [],
     "profileplyr": [],
     "projectR": [],
-    "pRolocGUI": [],
     "Prostar": [
         "DAPAR"
     ],
@@ -471,7 +465,6 @@
         "schex"
     ],
     "scTreeViz": [],
-    "segmenter": [],
     "seqArchRplus": [],
     "SeqSQC": [],
     "seqTools": [],
