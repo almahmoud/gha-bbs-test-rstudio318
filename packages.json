@@ -155,7 +155,6 @@
     ],
     "ideal": [],
     "ILoReg": [],
-    "iNETgrate": [],
     "infercnv": [],
     "IPO": [
         "CAMERA",
@@ -236,7 +235,6 @@
     "multicrispr": [],
     "multiscan": [],
     "myvariant": [],
-    "NADfinder": [],
     "ncGTW": [
         "MsFeatures",
         "xcms"
