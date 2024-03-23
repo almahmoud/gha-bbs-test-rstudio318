@@ -5,7 +5,6 @@
         "projectR"
     ],
     "bambu": [],
-    "bayNorm": [],
     "BEARscc": [],
     "benchdamic": [
         "MAST"
@@ -16,47 +15,36 @@
         "MsFeatures",
         "xcms"
     ],
-    "cardelino": [
-        "snpStats"
-    ],
+    "cardelino": [],
     "ccfindR": [],
     "celaref": [
         "MAST"
     ],
     "CellBench": [],
-    "CeTF": [
-        "snpStats"
-    ],
+    "CeTF": [],
     "CHETAH": [],
     "cicero": [
         "monocle"
     ],
     "circRNAprofiler": [
-        "gwascat",
-        "snpStats"
+        "gwascat"
     ],
     "cliqueMS": [
         "MsFeatures",
         "xcms"
     ],
-    "clstutils": [],
     "cogeqc": [],
     "condiments": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "cosmiq": [
         "MsFeatures",
         "xcms"
     ],
-    "ddCt": [],
     "DeepBlueR": [],
     "deepSNV": [],
     "DEqMS": [],
-    "destiny": [],
-    "DExMA": [
-        "snpStats"
-    ],
+    "DExMA": [],
     "dittoSeq": [],
     "DrugVsDisease": [],
     "EWCE": [
@@ -66,8 +54,7 @@
     "fcScan": [],
     "FEAST": [
         "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fishpond": [],
     "flagme": [
@@ -82,18 +69,11 @@
         "gDRcore"
     ],
     "gDRcore": [],
-    "GeneGeneInteR": [
-        "snpStats"
-    ],
+    "GeneGeneInteR": [],
     "geneRecommender": [],
-    "GenProSeq": [],
     "ggsc": [],
     "ggtreeExtra": [],
-    "GloScope": [],
-    "GSEAlm": [],
-    "gwascat": [
-        "snpStats"
-    ],
+    "gwascat": [],
     "HIPPO": [],
     "ILoReg": [],
     "infercnv": [],
@@ -107,24 +87,19 @@
     "isomiRs": [],
     "iterClust": [],
     "katdetectr": [],
-    "LinTInd": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
         "MsFeatures",
         "xcms"
     ],
-    "MAGAR": [
-        "snpStats"
-    ],
+    "MAGAR": [],
     "MAIT": [
         "CAMERA",
         "MsFeatures",
         "xcms"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "MAST": [],
     "metaMS": [
         "CAMERA",
@@ -155,7 +130,6 @@
         "msmsTests"
     ],
     "multicrispr": [],
-    "multiscan": [],
     "myvariant": [],
     "ncGTW": [
         "MsFeatures",
@@ -170,11 +144,9 @@
     "orthogene": [],
     "peakPantheR": [],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "Pi": [],
-    "PLPE": [],
     "POWSC": [
         "MAST"
     ],
@@ -191,25 +163,19 @@
         "xcms"
     ],
     "RLSeq": [],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "sampleClassifier": [],
     "SC3": [],
     "sccomp": [],
-    "scDesign3": [],
     "scds": [],
     "schex": [],
     "scmap": [],
     "scMET": [],
     "SCnorm": [],
-    "scoreInvHap": [
-        "snpStats"
-    ],
+    "scoreInvHap": [],
     "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scTensor": [
@@ -224,16 +190,12 @@
     "singleCellTK": [
         "MAST",
         "TSCAN",
-        "TrajectoryUtils",
         "scds"
     ],
     "SiPSiC": [],
     "sitePath": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SNPhood": [],
-    "snpStats": [],
     "speckle": [],
     "SPIAT": [
         "dittoSeq"
@@ -241,29 +203,21 @@
     "SpliceWiz": [],
     "SPOTlight": [],
     "surfaltr": [],
-    "tanggle": [],
     "TAPseq": [],
     "tidySingleCellExperiment": [],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
-    "UNDO": [],
+    "TSCAN": [],
     "uSORT": [
         "monocle"
     ],
     "VDJdive": [],
     "vtpnet": [
-        "gwascat",
-        "snpStats"
+        "gwascat"
     ],
     "waddR": [],
     "xcms": [
