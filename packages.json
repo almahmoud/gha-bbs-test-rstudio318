@@ -29,7 +29,6 @@
         "projectR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "atSNP": [],
     "bambu": [],
     "bayNorm": [],
@@ -41,9 +40,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "bioCancer": [
-        "cBioPortalData"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
     "biomvRCNS": [],
     "biscuiteer": [],
@@ -65,16 +62,11 @@
         "MsFeatures",
         "xcms"
     ],
-    "canceR": [
-        "cBioPortalData"
-    ],
+    "canceR": [],
     "cardelino": [
         "snpStats"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "CBNplot": [],
     "ccfindR": [],
     "CDI": [],
@@ -126,7 +118,6 @@
         "slingshot"
     ],
     "CONFESS": [],
-    "consensusDE": [],
     "CopyNumberPlots": [],
     "cosmiq": [
         "MsFeatures",
@@ -138,7 +129,6 @@
     "crisprViz": [],
     "cummeRbund": [],
     "CyTOFpower": [],
-    "cytofQC": [],
     "CytoML": [
         "ggcyto",
         "openCyto"
@@ -171,7 +161,6 @@
     "dreamlet": [],
     "DrugVsDisease": [],
     "ELMER": [],
-    "enhancerHomologSearch": [],
     "enrichTF": [],
     "epimutacions": [],
     "epivizrStandalone": [],
@@ -230,9 +219,7 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "GloScope": [],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "goSorensen": [],
     "GSEAlm": [],
     "gwascat": [
@@ -242,7 +229,6 @@
         "GenomicInteractions"
     ],
     "HIPPO": [],
-    "HTSeqGenie": [],
     "iCheck": [
         "lumi"
     ],
@@ -265,7 +251,6 @@
     "iterClust": [],
     "katdetectr": [],
     "LinTInd": [],
-    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -305,7 +290,6 @@
     ],
     "MetaNeighbor": [],
     "MetaPhOR": [],
-    "methylclock": [],
     "methylGSA": [
         "missMethyl"
     ],
@@ -342,7 +326,6 @@
         "msmsTests"
     ],
     "MsQuality": [],
-    "MSstatsQCgui": [],
     "Mulcom": [],
     "multicrispr": [],
     "multiscan": [],
@@ -369,8 +352,6 @@
     "oppti": [],
     "OPWeight": [],
     "orthogene": [],
-    "OutSplice": [],
-    "pageRank": [],
     "PanomiR": [],
     "PeacoQC": [],
     "peakPantheR": [],
@@ -386,7 +367,6 @@
     "POWSC": [
         "MAST"
     ],
-    "prebs": [],
     "preciseTAD": [],
     "primirTSS": [],
     "profileplyr": [],
@@ -447,7 +427,6 @@
     "scmap": [],
     "scMET": [],
     "SCnorm": [],
-    "scone": [],
     "scoreInvHap": [
         "snpStats"
     ],
@@ -503,7 +482,6 @@
     "SPLINTER": [],
     "SPOTlight": [],
     "srnadiff": [],
-    "standR": [],
     "surfaltr": [],
     "switchde": [],
     "tadar": [],
@@ -532,7 +510,6 @@
         "monocle"
     ],
     "VariantFiltering": [],
-    "VaSP": [],
     "VDJdive": [],
     "vtpnet": [
         "gwascat",
