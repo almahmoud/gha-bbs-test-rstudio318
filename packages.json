@@ -1,20 +1,15 @@
 {
     "ADImpute": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "alabaster": [
         "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ATACCoGAPS": [
         "projectR"
     ],
@@ -25,16 +20,11 @@
         "MAST"
     ],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BiocOncoTK": [],
-    "biscuiteer": [],
-    "BOBaFIT": [],
     "BUSseq": [],
-    "CAFE": [],
     "CAGEfightR": [],
-    "cageminer": [],
     "CAGEr": [
         "CAGEfightR"
     ],
@@ -57,8 +47,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "CHETAH": [],
@@ -100,9 +88,7 @@
         "snpStats"
     ],
     "dittoSeq": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DrugVsDisease": [],
     "EWCE": [
         "orthogene"
@@ -115,9 +101,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -137,7 +121,6 @@
         "snpStats"
     ],
     "geneRecommender": [],
-    "GenomicOZone": [],
     "GenProSeq": [],
     "ggsc": [],
     "ggtreeDendro": [],
@@ -149,10 +132,7 @@
     ],
     "HiCDCPlus": [],
     "HIPPO": [],
-    "iCheck": [
-        "lumi"
-    ],
-    "ideal": [],
+    "iCheck": [],
     "ILoReg": [],
     "infercnv": [],
     "IPO": [
@@ -173,9 +153,7 @@
         "xcms"
     ],
     "LPEadj": [],
-    "lumi": [],
     "MAGAR": [
-        "RnBeads",
         "snpStats"
     ],
     "MAIT": [
@@ -187,11 +165,8 @@
         "snpStats"
     ],
     "MAST": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "metaMS": [
@@ -200,17 +175,12 @@
         "xcms"
     ],
     "MetaNeighbor": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "miQC": [],
-    "missMethyl": [],
     "mitoClone2": [
         "deepSNV"
     ],
@@ -221,7 +191,6 @@
     ],
     "monocle": [],
     "MsFeatures": [],
-    "msgbsR": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -267,9 +236,7 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "R3CPET": [],
     "RandomWalkRestartMH": [],
-    "ReportingTools": [],
     "RepViz": [],
     "Risa": [
         "MsFeatures",
@@ -281,7 +248,6 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "RVS": [
         "snpStats"
     ],
@@ -305,7 +271,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "scruff": [],
     "scTensor": [
         "schex"
     ],
@@ -324,7 +289,6 @@
     "SiPSiC": [],
     "sitePath": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "slingshot": [
@@ -332,7 +296,6 @@
     ],
     "SNPhood": [],
     "snpStats": [],
-    "SomaticSignatures": [],
     "spatzie": [],
     "speckle": [],
     "SPIAT": [
@@ -369,14 +332,9 @@
         "snpStats"
     ],
     "waddR": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "xcms": [
         "MsFeatures"
     ],
-    "Xeva": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ]
+    "YAPSA": []
 }
