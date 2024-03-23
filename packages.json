@@ -2,50 +2,29 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "benchdamic": [],
     "BiocOncoTK": [],
-    "CAMERA": [],
-    "celaref": [],
     "cicero": [
         "monocle"
     ],
     "cliqueMS": [],
-    "cosmiq": [],
     "DeepBlueR": [],
     "EWCE": [
         "orthogene"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
-    "gDR": [],
+    "flagme": [],
     "geneRecommender": [],
     "ggtreeExtra": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "isobar": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
-    "MAIT": [
-        "CAMERA"
-    ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
+    "MAIT": [],
+    "metaMS": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "mitoClone2": [],
-    "MobilityTransformR": [],
     "monocle": [],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "multicrispr": [],
-    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -54,14 +33,10 @@
         "monocle"
     ],
     "Pi": [],
-    "POWSC": [],
     "projectR": [],
     "RandomWalkRestartMH": [],
-    "Risa": [],
     "RLSeq": [],
     "scRepertoire": [],
-    "scTensor": [],
-    "scTGIF": [],
     "SeqSQC": [],
     "TAPseq": [],
     "uSORT": [
