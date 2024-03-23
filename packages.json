@@ -66,7 +66,6 @@
     "BOBaFIT": [
         "ggbio"
     ],
-    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
@@ -118,9 +117,7 @@
     "CEMiTool": [
         "clusterProfiler"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler",
         "snpStats"
@@ -180,7 +177,6 @@
     ],
     "CONFESS": [],
     "consensusDE": [],
-    "consensusOV": [],
     "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
@@ -202,9 +198,7 @@
         "Gviz"
     ],
     "cyanoFilter": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
         "ggcyto",
@@ -228,11 +222,9 @@
     "debrowser": [
         "clusterProfiler"
     ],
-    "decontX": [],
     "deconvR": [],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DeMixT": [],
     "DEqMS": [],
     "derfinder": [],
     "derfinderPlot": [
@@ -244,7 +236,6 @@
     "DExMA": [
         "snpStats"
     ],
-    "diffcyt": [],
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
@@ -267,13 +258,11 @@
     "epimutacions": [
         "Gviz"
     ],
-    "EpiTxDb": [],
     "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
         "clusterProfiler"
     ],
-    "escape": [],
     "EWCE": [
         "orthogene"
     ],
@@ -402,7 +391,6 @@
     "iterClust": [],
     "karyoploteR": [],
     "katdetectr": [],
-    "kissDE": [],
     "LinTInd": [],
     "lisaClust": [],
     "lmdme": [],
@@ -453,7 +441,6 @@
     "MetaboAnnotation": [
         "CompoundDb"
     ],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -475,7 +462,6 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [],
     "methylumi": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -564,13 +550,11 @@
     "OMICsPCA": [],
     "ompBAM": [],
     "openCyto": [],
-    "oppar": [],
     "oppti": [],
     "OPWeight": [],
     "orthogene": [],
     "OutSplice": [],
     "pageRank": [],
-    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -601,9 +585,7 @@
     "primirTSS": [
         "Gviz"
     ],
-    "profileplyr": [
-        "soGGi"
-    ],
+    "profileplyr": [],
     "projectR": [],
     "pRolocGUI": [],
     "Prostar": [
@@ -731,9 +713,7 @@
         "clusterProfiler"
     ],
     "signeR": [],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "simpleSeg": [],
     "singleCellTK": [
         "MAST",
@@ -756,7 +736,6 @@
     ],
     "SNPhood": [],
     "snpStats": [],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -794,7 +773,6 @@
     "TimiRGeN": [
         "clusterProfiler"
     ],
-    "TNBC.CMS": [],
     "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
@@ -804,14 +782,11 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
