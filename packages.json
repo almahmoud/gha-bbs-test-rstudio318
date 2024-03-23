@@ -1,7 +1,6 @@
 {
     "ADImpute": [],
     "aggregateBioVar": [],
-    "AgiMicroRna": [],
     "ATACCoGAPS": [
         "projectR"
     ],
@@ -11,7 +10,6 @@
     "benchdamic": [
         "MAST"
     ],
-    "bigmelon": [],
     "BiocOncoTK": [],
     "BUSseq": [],
     "CAMERA": [
@@ -31,7 +29,6 @@
     "CeTF": [
         "snpStats"
     ],
-    "ChAMP": [],
     "CHETAH": [],
     "cicero": [
         "monocle"
@@ -133,7 +130,6 @@
         "snpStats"
     ],
     "MAST": [],
-    "MEAT": [],
     "metaMS": [
         "CAMERA",
         "MsFeatures",
@@ -243,7 +239,6 @@
     ],
     "SiPSiC": [],
     "sitePath": [],
-    "skewr": [],
     "slingshot": [
         "TrajectoryUtils"
     ],
