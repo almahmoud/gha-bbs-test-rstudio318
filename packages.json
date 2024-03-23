@@ -1,22 +1,16 @@
 {
-    "aggregateBioVar": [],
     "ATACCoGAPS": [
         "projectR"
     ],
-    "benchdamic": [
-        "MAST"
-    ],
+    "benchdamic": [],
     "BiocOncoTK": [],
     "BUSseq": [],
     "CAMERA": [
         "xcms"
     ],
     "cardelino": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "CeTF": [],
-    "CHETAH": [],
     "cicero": [
         "monocle"
     ],
@@ -39,7 +33,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "fcScan": [],
     "FEAST": [
         "SC3",
         "TSCAN"
@@ -49,23 +42,17 @@
         "xcms"
     ],
     "FLAMES": [],
-    "gDR": [
-        "gDRcore"
-    ],
-    "gDRcore": [],
+    "gDR": [],
     "GeneGeneInteR": [],
     "geneRecommender": [],
-    "ggsc": [],
     "ggtreeExtra": [],
     "gwascat": [],
-    "ILoReg": [],
     "IPO": [
         "CAMERA",
         "xcms"
     ],
     "iSEEpathways": [],
     "isobar": [],
-    "isomiRs": [],
     "katdetectr": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -77,7 +64,6 @@
         "xcms"
     ],
     "martini": [],
-    "MAST": [],
     "metaMS": [
         "CAMERA",
         "xcms"
@@ -106,23 +92,17 @@
     "ncGTW": [
         "xcms"
     ],
-    "Nebulosa": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "NeuCA": [],
     "orthogene": [],
-    "peakPantheR": [],
     "phemd": [
         "monocle"
     ],
     "Pi": [],
-    "POWSC": [
-        "MAST"
-    ],
-    "preciseTAD": [],
+    "POWSC": [],
     "projectR": [],
-    "PSMatch": [],
     "qckitfastq": [],
     "RandomWalkRestartMH": [],
     "Risa": [
@@ -142,15 +122,11 @@
     "scTensor": [],
     "scTGIF": [],
     "SeqSQC": [],
-    "signeR": [],
     "singleCellTK": [
-        "MAST",
         "TSCAN"
     ],
     "SiPSiC": [],
-    "sitePath": [],
     "slingshot": [],
-    "SNPhood": [],
     "SPIAT": [],
     "SpliceWiz": [],
     "SPOTlight": [],
