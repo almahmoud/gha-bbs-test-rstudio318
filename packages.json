@@ -5,9 +5,7 @@
     "benchdamic": [],
     "BiocOncoTK": [],
     "BUSseq": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "cardelino": [],
     "celaref": [],
     "CeTF": [],
@@ -17,15 +15,11 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "condiments": [
         "slingshot"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "DeepBlueR": [],
     "deepSNV": [],
     "DExMA": [],
@@ -38,35 +32,29 @@
         "TSCAN"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
-    "FLAMES": [],
     "gDR": [],
     "GeneGeneInteR": [],
     "geneRecommender": [],
     "ggtreeExtra": [],
     "gwascat": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "iSEEpathways": [],
     "isobar": [],
     "katdetectr": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MAGAR": [],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "martini": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MicrobiotaProcess": [
         "ggtreeExtra"
@@ -75,9 +63,7 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "monocle": [],
     "msmsEDA": [],
     "msmsTests": [
@@ -89,9 +75,7 @@
     ],
     "multicrispr": [],
     "myvariant": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -103,11 +87,8 @@
     "Pi": [],
     "POWSC": [],
     "projectR": [],
-    "qckitfastq": [],
     "RandomWalkRestartMH": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RVS": [],
     "sampleClassifier": [],
@@ -127,7 +108,6 @@
     ],
     "SiPSiC": [],
     "slingshot": [],
-    "SPIAT": [],
     "SpliceWiz": [],
     "SPOTlight": [],
     "TAPseq": [],
@@ -143,6 +123,5 @@
     ],
     "vtpnet": [
         "gwascat"
-    ],
-    "xcms": []
+    ]
 }
