@@ -5,36 +5,25 @@
     "benchdamic": [],
     "BiocOncoTK": [],
     "CAMERA": [],
-    "cardelino": [],
     "celaref": [],
-    "CeTF": [],
     "cicero": [
         "monocle"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "cliqueMS": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "cosmiq": [],
     "DeepBlueR": [],
-    "DExMA": [],
     "EWCE": [
         "orthogene"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "flagme": [
         "CAMERA"
     ],
     "gDR": [],
-    "GeneGeneInteR": [],
     "geneRecommender": [],
     "ggtreeExtra": [],
-    "gwascat": [],
     "IPO": [
         "CAMERA"
     ],
@@ -42,11 +31,9 @@
     "LOBSTAHS": [
         "CAMERA"
     ],
-    "MAGAR": [],
     "MAIT": [
         "CAMERA"
     ],
-    "martini": [],
     "metaMS": [
         "CAMERA"
     ],
@@ -75,32 +62,17 @@
     "RandomWalkRestartMH": [],
     "Risa": [],
     "RLSeq": [],
-    "RVS": [],
-    "scoreInvHap": [],
     "scRepertoire": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scTensor": [],
     "scTGIF": [],
     "SeqSQC": [],
-    "singleCellTK": [
-        "TSCAN"
-    ],
-    "slingshot": [],
-    "SpliceWiz": [],
+    "singleCellTK": [],
     "TAPseq": [],
-    "tradeSeq": [
-        "slingshot"
-    ],
-    "traviz": [
-        "slingshot"
-    ],
-    "TSCAN": [],
+    "tradeSeq": [],
+    "traviz": [],
     "uSORT": [
         "monocle"
     ],
-    "vtpnet": [
-        "gwascat"
-    ]
+    "vtpnet": []
 }
