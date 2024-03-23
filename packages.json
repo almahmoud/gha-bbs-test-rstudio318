@@ -5,10 +5,7 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "arrayMvout": [],
     "ATACCoGAPS": [
         "projectR"
@@ -74,11 +71,7 @@
         "xcms"
     ],
     "crisprVerse": [],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "ddCt": [],
     "DeepBlueR": [],
     "deepSNV": [],
@@ -111,8 +104,6 @@
     "FLAMES": [
         "bambu"
     ],
-    "flowGate": [],
-    "flowVS": [],
     "gDR": [
         "gDRcore"
     ],
