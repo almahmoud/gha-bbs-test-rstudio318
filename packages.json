@@ -98,9 +98,7 @@
     "AnVILWorkflow": [],
     "APAlyzer": [],
     "apeglm": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "ArrayExpress": [
         "oligo",
         "oligoClasses"
@@ -130,7 +128,6 @@
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
@@ -966,7 +963,6 @@
         "genomation",
         "plyranges"
     ],
-    "GenomicScores": [],
     "GenomicTuples": [],
     "GenProSeq": [],
     "GeoDiff": [],
@@ -1239,7 +1235,6 @@
     ],
     "maskBAD": [],
     "MAST": [],
-    "mastR": [],
     "MatrixQCvis": [
         "proDA"
     ],
@@ -1515,7 +1510,6 @@
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -1712,7 +1706,6 @@
     ],
     "PREDA": [],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase"
@@ -1810,9 +1803,7 @@
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rbec": [
         "dada2"
     ],
@@ -1823,10 +1814,7 @@
         "aCGH"
     ],
     "RCM": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomePA": [
         "enrichplot"
@@ -1877,7 +1865,6 @@
         "rhdf5client"
     ],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "rexposome": [],
@@ -2016,7 +2003,6 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "schex": [],
     "scHOT": [],
     "scider": [],
     "scifer": [],
@@ -2048,12 +2034,9 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTHI": [],
     "scTreeViz": [
         "epivizr"
@@ -2321,7 +2304,6 @@
     ],
     "VariantExperiment": [],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
