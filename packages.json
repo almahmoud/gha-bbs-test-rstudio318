@@ -165,7 +165,6 @@
     "ballgown": [],
     "bambu": [],
     "bamsignals": [],
-    "BANDITS": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -756,7 +755,6 @@
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEsubs": [],
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
@@ -766,9 +764,7 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [
         "DEXSeq"
@@ -1297,8 +1293,7 @@
     "ISLET": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "satuRn",
-        "tximeta"
+        "satuRn"
     ],
     "isomiRs": [
         "DEGreport"
@@ -1730,7 +1725,6 @@
     "NanoMethViz": [
         "bsseq"
     ],
-    "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -1886,7 +1880,6 @@
     ],
     "peco": [],
     "pengls": [],
-    "phantasus": [],
     "phantasusLite": [
         "rhdf5client"
     ],
@@ -2646,7 +2639,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "tximeta": [],
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
