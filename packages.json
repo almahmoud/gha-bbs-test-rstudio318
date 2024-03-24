@@ -430,9 +430,7 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt"
@@ -475,9 +473,7 @@
     "dce": [
         "epiNEM"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "apeglm",
         "clusterProfiler",
@@ -596,11 +592,8 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erccdashboard": [],
     "erma": [],
     "ERSSA": [
@@ -615,12 +608,10 @@
     "escape": [
         "UCell"
     ],
-    "escheR": [],
     "EWCE": [
         "orthogene"
     ],
     "exomePeak2": [],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -653,14 +644,8 @@
         "bambu",
         "ggbio"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
-    "flowFP": [],
+    "flowBin": [],
+    "flowCut": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
@@ -682,7 +667,6 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "FRASER": [],
     "frma": [
         "oligo",
         "oligoClasses"
@@ -698,9 +682,7 @@
     "GARS": [
         "DaMiRseq"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "GenomicDataCommons",
         "clusterProfiler",
@@ -1086,7 +1068,6 @@
         "xcms"
     ],
     "MOGAMUN": [],
-    "MoleculeExperiment": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -1413,7 +1394,6 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
@@ -1555,7 +1535,6 @@
         "AUCell",
         "SingleCellSignalR"
     ],
-    "scider": [],
     "scmeth": [
         "annotatr"
     ],
@@ -1578,9 +1557,7 @@
     ],
     "scTGIF": [],
     "scTHI": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "bamsignals",
@@ -1607,7 +1584,6 @@
         "minfi",
         "siggenes"
     ],
-    "SIAMCAT": [],
     "SigCheck": [],
     "siggenes": [],
     "signatureSearch": [
@@ -1618,7 +1594,6 @@
         "consensusOV"
     ],
     "SIMAT": [],
-    "SimBu": [],
     "simpleSeg": [],
     "SingleCellSignalR": [],
     "singleCellTK": [],
@@ -1651,13 +1626,11 @@
         "Gviz",
         "motifmatchr"
     ],
-    "SPIAT": [],
     "spicyR": [],
     "SplicingFactory": [],
     "SPLINTER": [
         "Gviz"
     ],
-    "SpotClean": [],
     "spqn": [],
     "sRACIPE": [],
     "SRAdb": [],
@@ -1670,7 +1643,6 @@
         "Category",
         "cellHTS2"
     ],
-    "Statial": [],
     "statTarget": [],
     "stepNorm": [],
     "Streamer": [],
@@ -1680,7 +1652,6 @@
     ],
     "SUITOR": [],
     "svaNUMT": [],
-    "svaRetro": [],
     "synapter": [
         "MSnbase",
         "mzID"
