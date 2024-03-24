@@ -111,7 +111,6 @@
         "biovizBase"
     ],
     "ASSIGN": [],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
@@ -181,7 +180,6 @@
     ],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocSklearn": [],
     "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
@@ -234,7 +232,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -409,9 +406,7 @@
         "MSnbase",
         "mzID"
     ],
-    "clusterExperiment": [
-        "mbkmeans"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -981,7 +976,6 @@
         "maftools"
     ],
     "GOfuncR": [],
-    "GOpro": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -1214,7 +1208,6 @@
     ],
     "MBASED": [],
     "MBECS": [],
-    "mbkmeans": [],
     "mBPCR": [
         "oligoClasses"
     ],
@@ -1506,8 +1499,7 @@
         "RandomWalkRestartMH"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "mbkmeans"
+        "clusterExperiment"
     ],
     "netZooR": [
         "Category",
@@ -1517,7 +1509,6 @@
         "siggenes",
         "yarn"
     ],
-    "NeuCA": [],
     "nipalsMCIA": [],
     "nnSVG": [],
     "NormqPCR": [],
@@ -1649,7 +1640,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "Category",
         "GOstats"
@@ -1952,10 +1942,7 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [],
     "scCB2": [],
     "scClassify": [],
@@ -1970,7 +1957,6 @@
     "scHOT": [],
     "scider": [],
     "scifer": [],
-    "scMET": [],
     "scmeth": [
         "annotatr"
     ],
@@ -2060,7 +2046,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "SiPSiC": [],
     "sitePath": [],
     "skewr": [
         "lumi",
@@ -2102,7 +2087,6 @@
     "SpectralTAD": [],
     "SPIAT": [],
     "spicyR": [],
-    "SpliceWiz": [],
     "SplicingFactory": [],
     "SPLINTER": [
         "Gviz",
