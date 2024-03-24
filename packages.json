@@ -161,7 +161,6 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "BLMA": [],
     "bnbc": [
         "HiCBricks"
     ],
@@ -246,7 +245,6 @@
     ],
     "ccImpute": [],
     "CCPlotR": [],
-    "CCPROMISE": [],
     "celaref": [],
     "cellHTS2": [
         "Category"
@@ -437,7 +435,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt"
@@ -623,7 +620,6 @@
         "UCell"
     ],
     "escheR": [],
-    "EventPointer": [],
     "EWCE": [
         "orthogene"
     ],
@@ -928,7 +924,6 @@
         "minfi",
         "siggenes"
     ],
-    "Macarron": [],
     "maftools": [],
     "MAGAR": [
         "RnBeads",
@@ -1080,7 +1075,6 @@
         "oligoClasses"
     ],
     "MIRA": [],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats"
@@ -1399,7 +1393,6 @@
         "MSnbase",
         "mzID"
     ],
-    "qsmooth": [],
     "Qtlizer": [],
     "quantro": [
         "minfi",
@@ -1575,7 +1568,6 @@
         "SingleCellSignalR"
     ],
     "scider": [],
-    "scifer": [],
     "scmeth": [
         "annotatr"
     ],
