@@ -26,7 +26,6 @@
     ],
     "abseqR": [],
     "ABSSeq": [],
-    "acde": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -587,8 +586,7 @@
         "rGREAT",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqQC": [
         "AnnotationFilter",
@@ -615,8 +613,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqTFEA": [
         "BSgenome",
@@ -628,8 +625,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "atena": [
         "AnnotationHub",
@@ -648,8 +644,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "attract": [
         "AnnotationForge",
@@ -731,7 +726,6 @@
         "pcaMethods",
         "vsn"
     ],
-    "banocc": [],
     "barcodetrackR": [],
     "basecallQC": [
         "GenomicAlignments",
@@ -1773,7 +1767,6 @@
         "basilisk.utils",
         "interactiveDisplayBase"
     ],
-    "CGEN": [],
     "CGHbase": [
         "marray"
     ],
@@ -2021,8 +2014,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "CHRONOS": [
         "biomaRt"
@@ -2080,7 +2072,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cisPath": [],
     "CiteFuse": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2969,8 +2960,7 @@
         "UniProt.ws",
         "biomaRt",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "DAMEfinder": [
         "BSgenome",
@@ -3708,8 +3698,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "EnMCB": [],
     "ENmix": [
@@ -3771,8 +3760,7 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -4022,8 +4010,7 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "escape": [
         "BiocNeighbors",
@@ -4803,7 +4790,6 @@
         "genomation",
         "plyranges",
         "rtracklayer",
-        "seqLogo",
         "seqPattern"
     ],
     "GenomicScores": [
@@ -5052,7 +5038,6 @@
         "rtracklayer"
     ],
     "goTools": [],
-    "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
         "AnnotationFilter",
@@ -5506,7 +5491,6 @@
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
-    "iGC": [],
     "IgGeneUsage": [],
     "igvR": [
         "BSgenome",
@@ -5677,8 +5661,7 @@
         "biomaRt",
         "edgeR",
         "genefilter",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "InterMineR": [],
     "IntOMICS": [],
@@ -6024,7 +6007,6 @@
         "metagenomeSeq"
     ],
     "macat": [],
-    "maCorrPlot": [],
     "MACSr": [
         "AnnotationHub",
         "ExperimentHub",
@@ -6203,8 +6185,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "matter": [],
     "MBASED": [],
@@ -6367,7 +6348,6 @@
         "ComplexHeatmap"
     ],
     "metabCombiner": [],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -6950,7 +6930,6 @@
         "genefilter"
     ],
     "miRNAmeConverter": [],
-    "miRNApath": [],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
@@ -6976,7 +6955,6 @@
     "missRows": [
         "MultiAssayExperiment"
     ],
-    "mitch": [],
     "mitoClone2": [
         "BSgenome",
         "BiocIO",
@@ -7076,8 +7054,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "monocle": [
         "biocViews"
@@ -7147,8 +7124,7 @@
         "biovizBase",
         "ensembldb",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifcounter": [],
     "MotifDb": [
@@ -7167,8 +7143,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifStack": [
         "BSgenome",
@@ -7179,8 +7154,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "MouseFM": [
         "biomaRt"
@@ -7578,7 +7552,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -8074,8 +8047,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PAIRADISE": [],
     "paircompviz": [
@@ -8495,8 +8467,7 @@
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PrInCE": [
         "MSnbase",
@@ -8724,9 +8695,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PWMEnrich": [
-        "seqLogo"
-    ],
+    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
         "biomaRt",
@@ -8925,7 +8894,6 @@
     "RandomWalkRestartMH": [
         "Rgraphviz"
     ],
-    "randRotation": [],
     "RareVariantVis": [
         "AnnotationHub",
         "BSgenome",
@@ -8972,10 +8940,8 @@
         "biomaRt",
         "genomation",
         "rtracklayer",
-        "seqLogo",
         "seqPattern"
     ],
-    "RCASPAR": [],
     "rcellminer": [],
     "rCGH": [
         "BiocIO",
@@ -9300,8 +9266,7 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rGenomeTracks": [
         "AnnotationHub",
@@ -9411,8 +9376,7 @@
         "Rhtslib",
         "Rsamtools",
         "baySeq",
-        "edgeR",
-        "seqLogo"
+        "edgeR"
     ],
     "ribosomeProfilingQC": [
         "BSgenome",
@@ -9431,8 +9395,7 @@
         "biomaRt",
         "edgeR",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rifi": [
         "BiocIO",
@@ -9877,9 +9840,7 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [
-        "seqLogo"
-    ],
+    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -9892,8 +9853,7 @@
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
-        "scanMiR",
-        "seqLogo"
+        "scanMiR"
     ],
     "scAnnotatR": [
         "AnnotationHub",
@@ -9931,7 +9891,6 @@
         "beachmat",
         "scuttle"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "DESeq2",
         "SingleCellExperiment",
@@ -10396,7 +10355,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "seqLogo": [],
     "seqPattern": [],
     "seqsetvis": [
         "BiocIO",
@@ -10959,8 +10917,7 @@
         "biovizBase",
         "ensembldb",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "speckle": [
         "SingleCellExperiment",
@@ -11057,8 +11014,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "SpotClean": [
         "SingleCellExperiment",
@@ -11412,8 +11368,7 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "TFEA.ChIP": [
         "BiocIO",
@@ -11951,7 +11906,6 @@
         "scuttle",
         "zellkonverter"
     ],
-    "VERSO": [],
     "vidger": [
         "DESeq2",
         "edgeR"
