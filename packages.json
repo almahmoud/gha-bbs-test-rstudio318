@@ -607,7 +607,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot",
@@ -656,7 +655,6 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot"
@@ -825,7 +823,6 @@
     "hapFabia": [],
     "HarmonizR": [],
     "hca": [],
-    "HelloRanges": [],
     "HERON": [],
     "HiCBricks": [],
     "HiCDCPlus": [
@@ -938,7 +935,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "lineagespot": [],
     "LinTInd": [],
     "lipidr": [
         "MultiDataSet",
@@ -1297,9 +1293,7 @@
         "MultiDataSet",
         "rexposome"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsPrint": [
         "RaggedExperiment"
     ],
@@ -1731,7 +1725,6 @@
     "SpacePAC": [],
     "Spaniel": [],
     "spaSim": [],
-    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
@@ -1921,6 +1914,5 @@
     "zenith": [
         "EnrichmentBrowser",
         "safe"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
