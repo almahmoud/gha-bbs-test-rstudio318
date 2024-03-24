@@ -153,7 +153,6 @@
     ],
     "BatchQC": [],
     "beachmat.hdf5": [],
-    "BEAT": [],
     "benchdamic": [],
     "BiGGR": [
         "hyperdraw"
@@ -285,7 +284,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -418,7 +416,6 @@
         "karyoploteR"
     ],
     "CNVMetrics": [],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "RaggedExperiment"
     ],
@@ -590,14 +587,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decompTumor2Sig": [],
     "decontX": [],
     "deconvR": [
         "minfi",
         "siggenes"
     ],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEGraph": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -773,7 +768,6 @@
     "fCCAC": [
         "genomation"
     ],
-    "fcScan": [],
     "FEAST": [],
     "fedup": [],
     "ffpe": [
@@ -967,7 +961,6 @@
         "biovizBase"
     ],
     "gwascat": [],
-    "gwasurvivr": [],
     "GWENA": [],
     "hapFabia": [],
     "HarmonizR": [],
@@ -1002,7 +995,6 @@
         "minfi",
         "siggenes"
     ],
-    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1311,9 +1303,7 @@
         "siggenes"
     ],
     "missRows": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1423,10 +1413,8 @@
     "mumosa": [],
     "MungeSumstats": [],
     "musicatk": [
-        "decompTumor2Sig",
         "maftools"
     ],
-    "myvariant": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1855,7 +1843,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -1905,7 +1892,6 @@
         "RUVSeq"
     ],
     "Sconify": [],
-    "scoreInvHap": [],
     "scp": [
         "QFeatures"
     ],
@@ -1935,7 +1921,6 @@
         "bamsignals",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1965,7 +1950,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "GSVA",
         "consensusOV"
@@ -1995,7 +1979,6 @@
     "snapCGH": [
         "aCGH"
     ],
-    "SNPhood": [],
     "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
@@ -2006,7 +1989,6 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
