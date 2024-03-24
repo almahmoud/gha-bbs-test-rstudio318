@@ -142,7 +142,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1877,7 +1876,6 @@
         "Rsamtools",
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "BiocIO",
         "GenomicAlignments",
@@ -2108,7 +2106,6 @@
         "rtracklayer"
     ],
     "consensusOV": [
-        "AIMS",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSEABase",
@@ -2681,7 +2678,6 @@
         "ComplexHeatmap",
         "DESeq2"
     ],
-    "DEGseq": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
@@ -3526,7 +3522,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "fabia": [],
     "factR": [
         "BiocIO",
         "GenomicAlignments",
@@ -3966,7 +3961,6 @@
     "GeneExpressionSignature": [],
     "genefilter": [],
     "genefu": [
-        "AIMS",
         "biomaRt"
     ],
     "GeneGeneInteR": [
@@ -4449,9 +4443,7 @@
         "Rsamtools",
         "rhdf5"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -5078,7 +5070,6 @@
         "SingleCellExperiment",
         "rhdf5"
     ],
-    "LPEadj": [],
     "lpNet": [
         "KEGGgraph"
     ],
@@ -6021,8 +6012,7 @@
         "Rsamtools"
     ],
     "mosbi": [
-        "QUBIC",
-        "fabia"
+        "QUBIC"
     ],
     "MOSim": [],
     "Motif2Site": [
@@ -6905,7 +6895,6 @@
         "beachmat"
     ],
     "PDATK": [
-        "AIMS",
         "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
@@ -7982,7 +7971,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "BiocIO",
         "GenomicAlignments",
@@ -8895,7 +8883,6 @@
         "rtracklayer"
     ],
     "signifinder": [
-        "AIMS",
         "AnnotationFilter",
         "BiocIO",
         "BiocSingular",
@@ -8928,7 +8915,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "sigsquared": [],
     "SIM": [
         "globaltest"
     ],
@@ -9297,7 +9283,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "spkTools": [],
     "splatter": [
         "DelayedMatrixStats",
         "SingleCellExperiment",
@@ -9452,7 +9437,6 @@
         "rtracklayer"
     ],
     "SubCellBarCode": [],
-    "subSeq": [],
     "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
