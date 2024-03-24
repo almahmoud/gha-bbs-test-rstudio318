@@ -15,7 +15,6 @@
         "annaffy",
         "annotate",
         "genefilter",
-        "limma",
         "multtest"
     ],
     "a4Base": [
@@ -31,7 +30,6 @@
         "annaffy",
         "annotate",
         "genefilter",
-        "limma",
         "multtest"
     ],
     "a4Classif": [
@@ -47,9 +45,7 @@
     "abseqR": [
         "BiocParallel"
     ],
-    "ABSSeq": [
-        "limma"
-    ],
+    "ABSSeq": [],
     "acde": [],
     "ACE": [
         "BiocParallel",
@@ -64,7 +60,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "aCGH": [
@@ -84,7 +79,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "limma",
         "multtest",
         "snapCGH",
         "tilingArray",
@@ -232,7 +226,6 @@
         "genefilter",
         "ggbio",
         "graph",
-        "limma",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -259,8 +252,7 @@
         "affy",
         "affyPLM",
         "affyio",
-        "gcrma",
-        "limma"
+        "gcrma"
     ],
     "affyPLM": [
         "Biostrings",
@@ -300,7 +292,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -346,7 +337,6 @@
         "genefilter",
         "ggbio",
         "graph",
-        "limma",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -654,9 +644,7 @@
         "XVector",
         "multtest"
     ],
-    "alevinQC": [
-        "tximport"
-    ],
+    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -728,7 +716,6 @@
         "SummarizedExperiment",
         "XVector",
         "interactiveDisplayBase",
-        "limma",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -822,8 +809,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -972,11 +958,9 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
         "multtest"
     ],
     "AnVIL": [],
-    "AnVILBilling": [],
     "AnVILPublish": [
         "AnVIL"
     ],
@@ -1099,7 +1083,6 @@
         "XVector",
         "affxparser",
         "affyio",
-        "limma",
         "oligo",
         "oligoClasses"
     ],
@@ -1134,7 +1117,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -1147,7 +1129,6 @@
         "sparseMatrixStats"
     ],
     "arrayQuality": [
-        "limma",
         "marray"
     ],
     "arrayQualityMetrics": [
@@ -1167,10 +1148,8 @@
         "gcrma",
         "genefilter",
         "illuminaio",
-        "limma",
         "vsn"
     ],
-    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "Biostrings",
@@ -1180,7 +1159,6 @@
         "MSstats",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "ASAFE": [],
@@ -1200,7 +1178,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "ropls"
     ],
     "ASpli": [
@@ -1231,7 +1208,6 @@
         "biovizBase",
         "edgeR",
         "ensembldb",
-        "limma",
         "rtracklayer"
     ],
     "AssessORF": [
@@ -1256,7 +1232,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "ASURAT": [
@@ -1305,7 +1280,6 @@
         "chromVAR",
         "fgsea",
         "graph",
-        "limma",
         "motifmatchr",
         "projectR",
         "rGREAT",
@@ -1352,7 +1326,6 @@
         "ensembldb",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "motifStack",
         "multtest",
         "regioneR",
@@ -1384,7 +1357,6 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "limma",
         "motifmatchr",
         "rtracklayer",
         "seqLogo"
@@ -1456,8 +1428,7 @@
         "XVector",
         "annotate",
         "genefilter",
-        "graph",
-        "limma"
+        "graph"
     ],
     "AUCell": [
         "AnnotationDbi",
@@ -1492,12 +1463,10 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
         "pcaMethods"
     ],
     "AWFisher": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "awst": [
         "DelayedArray",
@@ -1577,7 +1546,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "rtracklayer",
         "sva"
     ],
@@ -1621,8 +1589,7 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "bandle": [
         "AnnotationDbi",
@@ -1647,7 +1614,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "limma",
         "mzID",
         "mzR",
         "pRoloc",
@@ -1721,7 +1687,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -1748,7 +1713,6 @@
         "bluster",
         "edgeR",
         "glmGamPoi",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -1811,7 +1775,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "BayesKnockdown": [],
@@ -1835,7 +1798,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -1862,8 +1824,7 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "BBCAnalyzer": [
         "AnnotationDbi",
@@ -1933,8 +1894,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "illuminaio",
-        "limma"
+        "illuminaio"
     ],
     "beadarraySNP": [],
     "BEARscc": [
@@ -1985,8 +1945,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "benchdamic": [
         "ALDEx2",
@@ -2025,7 +1984,6 @@
         "bluster",
         "edgeR",
         "genefilter",
-        "limma",
         "metagenomeSeq",
         "mia",
         "mixOmics",
@@ -2061,8 +2019,7 @@
         "biomaRt",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -2143,7 +2100,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -2431,7 +2387,6 @@
         "rhdf5filters"
     ],
     "BioMVCClass": [
-        "MVCClass",
         "Rgraphviz",
         "graph"
     ],
@@ -2494,7 +2449,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "BioNet": [
@@ -2523,8 +2477,7 @@
         "pathview"
     ],
     "BioQC": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "biosigner": [
         "BiocBaseUtils",
@@ -2539,7 +2492,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "ropls"
     ],
     "Biostrings": [
@@ -2567,7 +2519,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -2582,8 +2533,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "biovizBase": [
         "AnnotationDbi",
@@ -2653,7 +2603,6 @@
         "dmrseq",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "marray",
         "regioneR",
         "rhdf5",
@@ -2718,8 +2667,7 @@
         "S4Vectors",
         "XVector",
         "beadarray",
-        "illuminaio",
-        "limma"
+        "illuminaio"
     ],
     "BLMA": [
         "AnnotationDbi",
@@ -2733,8 +2681,7 @@
         "Rgraphviz",
         "S4Vectors",
         "XVector",
-        "graph",
-        "limma"
+        "graph"
     ],
     "BloodGen3Module": [
         "AnnotationDbi",
@@ -2754,8 +2701,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
-        "limma"
+        "interactiveDisplayBase"
     ],
     "bluster": [
         "BiocNeighbors",
@@ -2781,7 +2727,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "sva"
@@ -2806,7 +2751,6 @@
         "epiNEM",
         "genefilter",
         "graph",
-        "limma",
         "mnem",
         "sva",
         "vsn"
@@ -2866,7 +2810,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -2924,7 +2867,6 @@
         "ggbio",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer"
     ],
     "branchpointer": [
@@ -3047,7 +2989,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -3079,7 +3020,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "limma",
         "rtracklayer"
     ],
     "BufferedMatrixMethods": [],
@@ -3119,7 +3059,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "limma",
         "rtracklayer"
     ],
     "BumpyMatrix": [
@@ -3301,7 +3240,6 @@
         "genefilter",
         "ggbio",
         "graph",
-        "limma",
         "rtracklayer",
         "sva"
     ],
@@ -3369,7 +3307,6 @@
         "affy",
         "affyio",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -3416,7 +3353,6 @@
         "genefilter",
         "graph",
         "hopach",
-        "limma",
         "phenoTest",
         "rtracklayer"
     ],
@@ -3483,7 +3419,6 @@
         "XVector",
         "biomaRt",
         "gaga",
-        "limma",
         "rtracklayer"
     ],
     "CATALYST": [
@@ -3669,8 +3604,7 @@
         "XVector"
     ],
     "ccImpute": [
-        "BiocParallel",
-        "SIMLR"
+        "BiocParallel"
     ],
     "ccmap": [
         "AnnotationDbi",
@@ -3745,7 +3679,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scater",
         "scran",
         "scuttle",
@@ -3816,7 +3749,6 @@
         "annotate",
         "genefilter",
         "graph",
-        "limma",
         "splots",
         "vsn"
     ],
@@ -3941,8 +3873,7 @@
         "cytolib",
         "diffcyt",
         "edgeR",
-        "flowCore",
-        "limma"
+        "flowCore"
     ],
     "Cepo": [
         "AnnotationDbi",
@@ -4029,7 +3960,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "cfDNAPro": [
@@ -4072,12 +4002,10 @@
     ],
     "CGEN": [],
     "CGHbase": [
-        "limma",
         "marray"
     ],
     "CGHcall": [
         "CGHbase",
-        "limma",
         "marray"
     ],
     "cghMCR": [
@@ -4090,18 +4018,15 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "limma"
+        "genefilter"
     ],
     "CGHnormaliter": [
         "CGHbase",
         "CGHcall",
-        "limma",
         "marray"
     ],
     "CGHregions": [
         "CGHbase",
-        "limma",
         "marray"
     ],
     "ChAMP": [
@@ -4151,7 +4076,6 @@
         "goseq",
         "illuminaio",
         "interactiveDisplayBase",
-        "limma",
         "lumi",
         "marray",
         "methylumi",
@@ -4260,7 +4184,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "rtracklayer"
     ],
     "chipenrich": [
@@ -4370,7 +4293,6 @@
         "apeglm",
         "biomaRt",
         "chipseq",
-        "limma",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -4469,7 +4391,6 @@
         "affy",
         "affyio",
         "frma",
-        "limma",
         "oligo",
         "oligoClasses"
     ],
@@ -4540,7 +4461,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "rtracklayer",
         "scater",
         "scran",
@@ -4633,7 +4553,6 @@
         "biovizBase",
         "ensembldb",
         "graph",
-        "limma",
         "monocle",
         "rtracklayer"
     ],
@@ -4677,7 +4596,6 @@
         "edgeR",
         "gwascat",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer",
         "snpStats",
         "universalmotif"
@@ -4729,7 +4647,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -4781,9 +4698,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "clippda": [
-        "limma"
-    ],
+    "clippda": [],
     "clipper": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -4855,7 +4770,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -4879,7 +4793,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -4907,7 +4820,6 @@
         "beachmat",
         "edgeR",
         "genefilter",
-        "limma",
         "mbkmeans",
         "rhdf5",
         "rhdf5filters",
@@ -4937,8 +4849,7 @@
         "S4Vectors",
         "XVector",
         "baySeq",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "ClusterSignificance": [],
     "clusterStab": [],
@@ -5175,8 +5086,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "CNVrd2": [
         "AnnotationDbi",
@@ -5235,7 +5145,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5249,8 +5158,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "limma"
+        "annotate"
     ],
     "CODEX": [
         "BSgenome",
@@ -5370,7 +5278,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomformat",
-        "limma",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -5431,13 +5338,11 @@
         "biomaRt",
         "bumphunter",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer"
     ],
     "COMPASS": [],
     "compcodeR": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -5467,7 +5372,6 @@
         "biovizBase",
         "ensembldb",
         "graph",
-        "limma",
         "marray",
         "methylPipe",
         "rtracklayer",
@@ -5519,7 +5423,6 @@
         "XVector",
         "beachmat",
         "distinct",
-        "limma",
         "scater",
         "scuttle",
         "slingshot",
@@ -5536,8 +5439,7 @@
         "flowCore",
         "flowMeans",
         "flowMerge",
-        "graph",
-        "limma"
+        "graph"
     ],
     "ConsensusClusterPlus": [],
     "consensusDE": [
@@ -5568,7 +5470,6 @@
         "biomaRt",
         "edgeR",
         "ensembldb",
-        "limma",
         "pcaMethods",
         "rtracklayer"
     ],
@@ -5600,7 +5501,6 @@
         "biomaRt",
         "genefu",
         "graph",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -5696,7 +5596,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -5706,7 +5605,6 @@
         "sparseMatrixStats"
     ],
     "convert": [
-        "limma",
         "marray"
     ],
     "copa": [],
@@ -5767,14 +5665,12 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "limma",
         "marray",
         "piano"
     ],
     "Cormotif": [
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "corral": [
         "BiocBaseUtils",
@@ -5803,8 +5699,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "CoSIA": [
         "AnnotationDbi",
@@ -5846,7 +5741,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -5901,8 +5795,7 @@
         "XVector",
         "annotate",
         "edgeR",
-        "genefilter",
-        "limma"
+        "genefilter"
     ],
     "covEB": [],
     "CoverageView": [
@@ -6199,7 +6092,6 @@
         "XVector",
         "affyio",
         "illuminaio",
-        "limma",
         "oligoClasses"
     ],
     "crossmeta": [
@@ -6223,7 +6115,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "oligo",
         "oligoClasses",
         "sva"
@@ -6249,8 +6140,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "csdR": [
         "AnnotationDbi",
@@ -6316,13 +6206,10 @@
         "XVector",
         "fgsea",
         "interactiveDisplayBase",
-        "limma",
         "rhdf5",
         "rhdf5filters"
     ],
-    "ctsGE": [
-        "limma"
-    ],
+    "ctsGE": [],
     "CTSV": [
         "BiocFileCache",
         "BiocParallel",
@@ -6432,7 +6319,6 @@
         "graph"
     ],
     "cycle": [
-        "DynDoc",
         "Mfuzz",
         "tkWidgets",
         "widgetTools"
@@ -6479,8 +6365,7 @@
         "cytolib",
         "diffcyt",
         "edgeR",
-        "flowCore",
-        "limma"
+        "flowCore"
     ],
     "cytofQC": [
         "BiocNeighbors",
@@ -6711,7 +6596,6 @@
         "XVector",
         "biomaRt",
         "bumphunter",
-        "limma",
         "rtracklayer"
     ],
     "DaMiRseq": [
@@ -6741,7 +6625,6 @@
         "biomaRt",
         "edgeR",
         "genefilter",
-        "limma",
         "rtracklayer",
         "sva"
     ],
@@ -6750,7 +6633,6 @@
         "BiocParallel",
         "Biostrings",
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "GenomeInfoDb",
         "IRanges",
@@ -6767,7 +6649,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -6793,7 +6674,6 @@
         "epiNEM",
         "graph",
         "graphite",
-        "limma",
         "mnem",
         "multtest"
     ],
@@ -6850,7 +6730,6 @@
         "genefilter",
         "ggtree",
         "graph",
-        "limma",
         "pathview",
         "sva"
     ],
@@ -6910,7 +6789,6 @@
         "bluster",
         "celda",
         "edgeR",
-        "limma",
         "scater",
         "scran",
         "scuttle",
@@ -6945,7 +6823,6 @@
         "fastseg",
         "genefilter",
         "illuminaio",
-        "limma",
         "methylKit",
         "minfi",
         "multtest",
@@ -7014,8 +6891,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "DegNorm": [
         "AnnotationDbi",
@@ -7062,8 +6938,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "DEGseq": [],
     "DelayedArray": [
@@ -7125,8 +7000,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "deltaCaptureC": [
         "BiocParallel",
@@ -7168,7 +7042,6 @@
         "bsseq",
         "edgeR",
         "genefilter",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -7224,7 +7097,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7237,9 +7109,7 @@
     "DepInfeR": [
         "BiocParallel"
     ],
-    "DEqMS": [
-        "limma"
-    ],
+    "DEqMS": [],
     "derfinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -7266,7 +7136,6 @@
         "biomaRt",
         "bumphunter",
         "derfinderHelper",
-        "limma",
         "rtracklayer"
     ],
     "derfinderHelper": [
@@ -7307,7 +7176,6 @@
         "ensembldb",
         "ggbio",
         "graph",
-        "limma",
         "rtracklayer"
     ],
     "DEScan2": [
@@ -7371,8 +7239,7 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "destiny": [
         "DelayedArray",
@@ -7402,8 +7269,7 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "graph",
-        "limma"
+        "graph"
     ],
     "DEWSeq": [
         "BiocParallel",
@@ -7431,7 +7297,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "snpStats",
         "sva"
     ],
@@ -7483,7 +7348,6 @@
         "SummarizedExperiment",
         "XVector",
         "apeglm",
-        "limma",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -7519,8 +7383,7 @@
         "XVector",
         "cytolib",
         "edgeR",
-        "flowCore",
-        "limma"
+        "flowCore"
     ],
     "DifferentialRegulation": [
         "BANDITS",
@@ -7536,9 +7399,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma",
-        "tximport"
+        "edgeR"
     ],
     "diffHic": [
         "BSgenome",
@@ -7560,7 +7421,6 @@
         "XVector",
         "csaw",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -7596,7 +7456,6 @@
         "ensembldb",
         "genefilter",
         "geneplotter",
-        "limma",
         "rtracklayer"
     ],
     "diggit": [
@@ -7621,7 +7480,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -7660,7 +7518,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "limma",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -7772,7 +7629,6 @@
         "genefilter",
         "illuminaio",
         "interactiveDisplayBase",
-        "limma",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -7821,7 +7677,6 @@
         "bsseq",
         "bumphunter",
         "interactiveDisplayBase",
-        "limma",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -7904,13 +7759,11 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "Doscheda": [
         "affy",
         "affyio",
-        "limma",
         "vsn"
     ],
     "DOSE": [
@@ -7935,8 +7788,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "doubletrouble": [
         "AnnotationDbi",
@@ -7990,7 +7842,6 @@
         "edgeR",
         "graph",
         "graphite",
-        "limma",
         "pathview",
         "safe",
         "sparseMatrixStats",
@@ -8004,8 +7855,7 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "DriverNet": [],
     "DropletUtils": [
@@ -8024,7 +7874,6 @@
         "XVector",
         "beachmat",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scuttle",
@@ -8078,7 +7927,6 @@
         "affyio",
         "annotate",
         "biomaRt",
-        "limma",
         "oligo",
         "oligoClasses"
     ],
@@ -8103,7 +7951,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8130,10 +7977,8 @@
         "Rsubread"
     ],
     "dyebias": [
-        "limma",
         "marray"
     ],
-    "DynDoc": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8198,8 +8043,7 @@
         "XVector",
         "biomaRt",
         "edgeR",
-        "genomeIntervals",
-        "limma"
+        "genomeIntervals"
     ],
     "EBarrays": [],
     "EBcoexpress": [
@@ -8261,12 +8105,9 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
-    "edgeR": [
-        "limma"
-    ],
+    "edgeR": [],
     "EDIRquery": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -8280,8 +8121,7 @@
         "XVector"
     ],
     "EGAD": [
-        "GEOquery",
-        "limma"
+        "GEOquery"
     ],
     "EGSEA": [
         "AnnotationDbi",
@@ -8313,7 +8153,6 @@
         "gage",
         "globaltest",
         "graph",
-        "limma",
         "multtest",
         "pathview",
         "rhdf5",
@@ -8335,8 +8174,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "ELMER": [
         "AnnotationDbi",
@@ -8440,7 +8278,6 @@
         "geneplotter",
         "illuminaio",
         "interactiveDisplayBase",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8479,7 +8316,6 @@
         "edgeR",
         "graph",
         "graphite",
-        "limma",
         "pathview",
         "safe"
     ],
@@ -8694,8 +8530,7 @@
         "SummarizedExperiment",
         "XVector",
         "beadarray",
-        "illuminaio",
-        "limma"
+        "illuminaio"
     ],
     "epigraHMM": [
         "BSgenome",
@@ -8718,7 +8553,6 @@
         "bamsignals",
         "csaw",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -8748,7 +8582,6 @@
         "XVector",
         "biomaRt",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer"
     ],
     "epimutacions": [
@@ -8792,7 +8625,6 @@
         "graph",
         "illuminaio",
         "interactiveDisplayBase",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8806,7 +8638,6 @@
         "RBGL",
         "Rgraphviz",
         "graph",
-        "limma",
         "mnem"
     ],
     "epistack": [
@@ -8878,7 +8709,6 @@
         "ensembldb",
         "epivizrData",
         "graph",
-        "limma",
         "rtracklayer"
     ],
     "epivizrChart": [
@@ -8967,12 +8797,10 @@
         "epivizr",
         "epivizrData",
         "graph",
-        "limma",
         "rtracklayer"
     ],
     "erccdashboard": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "erma": [
         "AnnotationDbi",
@@ -9016,8 +8844,7 @@
         "SummarizedExperiment",
         "XVector",
         "apeglm",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "esATAC": [
         "AnnotationDbi",
@@ -9164,11 +8991,9 @@
         "biomaRt",
         "fgsea",
         "graph",
-        "limma",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
     "EWCE": [
         "AnnotationDbi",
@@ -9191,7 +9016,6 @@
         "XVector",
         "ggtree",
         "interactiveDisplayBase",
-        "limma",
         "orthogene"
     ],
     "ExCluster": [
@@ -9215,8 +9039,7 @@
     ],
     "ExiMiR": [
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "exomeCopy": [
         "BiocParallel",
@@ -9320,8 +9143,7 @@
         "XVector"
     ],
     "ExploreModelMatrix": [
-        "S4Vectors",
-        "limma"
+        "S4Vectors"
     ],
     "ExpressionAtlas": [
         "DelayedArray",
@@ -9332,8 +9154,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "extraChIPs": [
         "AnnotationDbi",
@@ -9368,7 +9189,6 @@
         "csaw",
         "edgeR",
         "ensembldb",
-        "limma",
         "rtracklayer"
     ],
     "fabia": [],
@@ -9576,7 +9396,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -9673,7 +9492,6 @@
         "affy",
         "affyio",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -9728,7 +9546,6 @@
         "ensembldb",
         "ggbio",
         "graph",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9755,8 +9572,7 @@
         "cytolib",
         "flowCore",
         "flowFP",
-        "flowViz",
-        "limma"
+        "flowViz"
     ],
     "flowcatchR": [
         "BiocParallel",
@@ -10047,7 +9863,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -10164,7 +9979,6 @@
         "biomaRt",
         "edgeR",
         "genefilter",
-        "limma",
         "rtracklayer",
         "sSeq",
         "sva"
@@ -10228,8 +10042,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "gcrma": [
         "Biostrings",
@@ -10268,7 +10081,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "limma",
         "pathview"
     ],
     "gDNAx": [
@@ -10320,7 +10132,6 @@
         "gDRcore",
         "gDRimport",
         "gDRutils",
-        "limma",
         "marray",
         "piano"
     ],
@@ -10358,7 +10169,6 @@
         "XVector",
         "fgsea",
         "gDRutils",
-        "limma",
         "marray",
         "piano"
     ],
@@ -10445,7 +10255,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "geneClassifiers": [],
@@ -10470,8 +10279,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "biomaRt",
-        "limma"
+        "biomaRt"
     ],
     "GeneGeneInteR": [
         "BiocParallel",
@@ -10527,9 +10335,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "GeneSelectMMD": [
-        "limma"
-    ],
+    "GeneSelectMMD": [],
     "GENESIS": [
         "BiocParallel",
         "Biostrings",
@@ -10854,7 +10660,6 @@
         "biomaRt",
         "edgeR",
         "genomation",
-        "limma",
         "plyranges",
         "rtracklayer",
         "seqLogo",
@@ -10957,12 +10762,10 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "GEOmetadb": [
-        "GEOquery",
-        "limma"
+        "GEOquery"
     ],
     "GeomxTools": [
         "Biostrings",
@@ -10972,9 +10775,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "GEOquery": [
-        "limma"
-    ],
+    "GEOquery": [],
     "GEOsubmission": [
         "affy",
         "affyio"
@@ -11024,7 +10825,6 @@
         "cellHTS2",
         "genefilter",
         "graph",
-        "limma",
         "splots",
         "vsn"
     ],
@@ -11039,7 +10839,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "GEWIST": [],
     "gg4way": [
         "BiocParallel",
         "DESeq2",
@@ -11052,8 +10851,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "ggbio": [
         "AnnotationDbi",
@@ -11208,8 +11006,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "glmGamPoi": [
         "DelayedArray",
@@ -11536,9 +11333,7 @@
         "genefilter",
         "graph"
     ],
-    "GOsummaries": [
-        "limma"
-    ],
+    "GOsummaries": [],
     "GOTHiC": [
         "BSgenome",
         "BiocIO",
@@ -11599,7 +11394,6 @@
         "ensembldb",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer",
         "topGO"
     ],
@@ -11628,7 +11422,6 @@
         "iPAC",
         "multtest"
     ],
-    "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
         "BiocIO",
@@ -11733,7 +11526,6 @@
         "graph",
         "graphite",
         "interactiveDisplayBase",
-        "limma",
         "pathview",
         "safe"
     ],
@@ -11754,7 +11546,6 @@
         "fgsea",
         "graph"
     ],
-    "GSgalgoR": [],
     "GSReg": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -11858,7 +11649,6 @@
         "biomaRt",
         "ensembldb",
         "graph",
-        "limma",
         "multtest",
         "regioneR",
         "rhdf5",
@@ -11916,9 +11706,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "GWAS.BAYES": [
-        "limma"
-    ],
+    "GWAS.BAYES": [],
     "gwascat": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -12023,7 +11811,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "Harshlight": [
@@ -12110,8 +11897,7 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "HERON": [
         "DelayedArray",
@@ -12123,7 +11909,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "multtest"
     ],
     "hiAnnotator": [
@@ -12216,7 +12001,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
         "multiHiCcompare",
         "rhdf5",
         "rhdf5filters"
@@ -12344,8 +12128,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "interactiveDisplayBase",
-        "limma"
+        "interactiveDisplayBase"
     ],
     "HIPPO": [
         "DelayedArray",
@@ -12416,7 +12199,6 @@
         "XVector"
     ],
     "hopach": [],
-    "HPAanalyze": [],
     "hpar": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -12433,8 +12215,7 @@
     ],
     "HTqPCR": [
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "HTSeqGenie": [
         "AnnotationDbi",
@@ -12477,8 +12258,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "HubPub": [],
     "HumanTranscriptomeCompendium": [
@@ -12556,7 +12336,6 @@
         "biomaRt",
         "csaw",
         "edgeR",
-        "limma",
         "rtracklayer"
     ],
     "iCheck": [
@@ -12590,7 +12369,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -12601,9 +12379,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "iChip": [
-        "limma"
-    ],
+    "iChip": [],
     "iCNV": [
         "BSgenome",
         "BiocIO",
@@ -12624,9 +12400,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "iCOBRA": [
-        "limma"
-    ],
+    "iCOBRA": [],
     "ideal": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -12660,7 +12434,6 @@
         "genefilter",
         "goseq",
         "graph",
-        "limma",
         "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
@@ -12893,7 +12666,6 @@
         "graph",
         "graphite",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -12913,8 +12685,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "infinityFlow": [
         "RProtoBufLib",
@@ -12946,7 +12717,6 @@
         "XVector",
         "biomaRt",
         "cleanUpdTSeq",
-        "limma",
         "plyranges",
         "rtracklayer"
     ],
@@ -13102,7 +12872,6 @@
         "edgeR",
         "genefilter",
         "geneplotter",
-        "limma",
         "rtracklayer",
         "seqLogo"
     ],
@@ -13201,7 +12970,6 @@
         "affy",
         "affyio",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -13241,8 +13009,7 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "iSEE",
-        "limma"
+        "iSEE"
     ],
     "iSEEhex": [
         "ComplexHeatmap",
@@ -13392,12 +13159,10 @@
         "genefilter",
         "geneplotter",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer",
         "satuRn",
         "sva",
-        "tximeta",
-        "tximport"
+        "tximeta"
     ],
     "isomiRs": [
         "AnnotationDbi",
@@ -13417,8 +13182,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "ITALICS": [
         "Biostrings",
@@ -13606,7 +13370,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -13625,7 +13388,6 @@
         "cqn",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "LACE": [
@@ -13675,16 +13437,12 @@
         "XVector",
         "beachmat",
         "glmGamPoi",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
     ],
     "les": [],
-    "limma": [],
-    "limmaGUI": [
-        "limma"
-    ],
+    "limmaGUI": [],
     "LineagePulse": [
         "BiocParallel",
         "ComplexHeatmap",
@@ -13737,9 +13495,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "Linnorm": [
-        "limma"
-    ],
+    "Linnorm": [],
     "LinTInd": [
         "Biostrings",
         "GenomeInfoDb",
@@ -13774,7 +13530,6 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "limma",
         "pcaMethods",
         "ropls"
     ],
@@ -13811,9 +13566,7 @@
         "genefilter",
         "spicyR"
     ],
-    "lmdme": [
-        "limma"
-    ],
+    "lmdme": [],
     "LOBSTAHS": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -13841,7 +13594,6 @@
         "affy",
         "affyio",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -13944,7 +13696,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "methylumi",
         "minfi",
         "multtest",
@@ -13992,7 +13743,6 @@
     "Maaslin2": [
         "Wrench",
         "edgeR",
-        "limma",
         "metagenomeSeq"
     ],
     "Macarron": [
@@ -14012,7 +13762,6 @@
         "Wrench",
         "XVector",
         "edgeR",
-        "limma",
         "metagenomeSeq"
     ],
     "macat": [
@@ -14114,7 +13863,6 @@
         "crlmm",
         "genefilter",
         "illuminaio",
-        "limma",
         "methylumi",
         "minfi",
         "multtest",
@@ -14218,7 +13966,6 @@
         "affy",
         "affyio",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -14243,8 +13990,7 @@
         "XVector",
         "affy",
         "affyio",
-        "gcrma",
-        "limma"
+        "gcrma"
     ],
     "mapscape": [],
     "mariner": [
@@ -14282,9 +14028,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "marray": [
-        "limma"
-    ],
+    "marray": [],
     "martini": [
         "snpStats"
     ],
@@ -14364,8 +14108,7 @@
         "annotate",
         "edgeR",
         "graph",
-        "interactiveDisplayBase",
-        "limma"
+        "interactiveDisplayBase"
     ],
     "matchBox": [],
     "MatrixQCvis": [
@@ -14389,7 +14132,6 @@
         "affy",
         "affyio",
         "interactiveDisplayBase",
-        "limma",
         "pcaMethods",
         "proDA",
         "vsn"
@@ -14450,7 +14192,6 @@
         "biomformat",
         "edgeR",
         "genefilter",
-        "limma",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -14496,12 +14237,10 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "mbQTL": [
         "Wrench",
-        "limma",
         "metagenomeSeq"
     ],
     "MBttest": [],
@@ -14546,7 +14285,6 @@
         "ensembldb",
         "fgsea",
         "graph",
-        "limma",
         "rtracklayer"
     ],
     "MDTS": [
@@ -14601,7 +14339,6 @@
         "ensembldb",
         "genefilter",
         "illuminaio",
-        "limma",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -14645,7 +14382,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -14675,7 +14411,6 @@
         "XVector",
         "beachmat",
         "edgeR",
-        "limma",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -14702,7 +14437,6 @@
         "XVector",
         "biomaRt",
         "edgeR",
-        "limma",
         "rtracklayer"
     ],
     "MEDME": [
@@ -14916,8 +14650,7 @@
         "rtracklayer"
     ],
     "metagenomeSeq": [
-        "Wrench",
-        "limma"
+        "Wrench"
     ],
     "metaMS": [
         "AnnotationFilter",
@@ -14946,7 +14679,6 @@
         "affy",
         "affyio",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -15027,7 +14759,6 @@
         "bsseq",
         "edgeR",
         "genefilter",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -15067,7 +14798,6 @@
         "SummarizedExperiment",
         "XVector",
         "fastseg",
-        "limma",
         "methylKit",
         "rtracklayer"
     ],
@@ -15153,7 +14883,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -15193,7 +14922,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "plyranges",
@@ -15244,7 +14972,6 @@
         "graph",
         "illuminaio",
         "interactiveDisplayBase",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -15287,7 +15014,6 @@
         "genefilter",
         "ggtree",
         "illuminaio",
-        "limma",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -15315,7 +15041,6 @@
         "SummarizedExperiment",
         "XVector",
         "fastseg",
-        "limma",
         "methylKit",
         "rtracklayer"
     ],
@@ -15336,15 +15061,11 @@
         "SummarizedExperiment",
         "XVector",
         "fastseg",
-        "limma",
         "rtracklayer"
     ],
-    "MethylMix": [
-        "limma"
-    ],
+    "MethylMix": [],
     "methylMnM": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "methylPipe": [
         "AnnotationDbi",
@@ -15373,7 +15094,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "limma",
         "marray",
         "rtracklayer"
     ],
@@ -15435,7 +15155,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -15469,7 +15188,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -15495,7 +15213,6 @@
     ],
     "mfa": [],
     "Mfuzz": [
-        "DynDoc",
         "tkWidgets",
         "widgetTools"
     ],
@@ -15615,7 +15332,6 @@
         "Wrench",
         "XVector",
         "biomformat",
-        "limma",
         "metagenomeSeq",
         "multtest",
         "phyloseq",
@@ -15636,7 +15352,6 @@
         "Wrench",
         "XVector",
         "biomformat",
-        "limma",
         "metagenomeSeq",
         "rhdf5",
         "rhdf5filters"
@@ -15673,7 +15388,6 @@
         "bluster",
         "edgeR",
         "ggtree",
-        "limma",
         "metagenomeSeq",
         "mia",
         "multtest",
@@ -15747,8 +15461,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "TOAST",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "midasHLA": [
         "BiocBaseUtils",
@@ -15779,8 +15492,7 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "mimager": [
         "Biostrings",
@@ -15838,7 +15550,6 @@
         "genefilter",
         "graph",
         "illuminaio",
-        "limma",
         "lumi",
         "marray",
         "methylumi",
@@ -15878,7 +15589,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -15907,7 +15617,6 @@
         "affyio",
         "crlmm",
         "illuminaio",
-        "limma",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -15945,7 +15654,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -15998,8 +15706,7 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "graph",
-        "limma"
+        "graph"
     ],
     "miRNAmeConverter": [
         "AnnotationDbi",
@@ -16048,7 +15755,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "methylumi",
         "minfi",
         "multtest",
@@ -16139,7 +15845,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
         "sSeq"
     ],
     "MMDiff2": [
@@ -16165,14 +15870,12 @@
         "Maaslin2",
         "Wrench",
         "edgeR",
-        "limma",
         "metagenomeSeq"
     ],
     "mnem": [
         "Linnorm",
         "Rgraphviz",
-        "graph",
-        "limma"
+        "graph"
     ],
     "moanin": [
         "AnnotationDbi",
@@ -16189,7 +15892,6 @@
         "XVector",
         "edgeR",
         "graph",
-        "limma",
         "topGO"
     ],
     "MobilityTransformR": [
@@ -16216,7 +15918,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -16305,8 +16006,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "monaLisa": [
         "AnnotationDbi",
@@ -16338,8 +16038,7 @@
     "monocle": [
         "RBGL",
         "biocViews",
-        "graph",
-        "limma"
+        "graph"
     ],
     "Moonlight2R": [
         "AnnotationDbi",
@@ -16371,7 +16070,6 @@
         "fgsea",
         "ggtree",
         "interactiveDisplayBase",
-        "limma",
         "rtracklayer"
     ],
     "MoonlightR": [
@@ -16397,8 +16095,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "limma"
+        "ggtree"
     ],
     "mosaics": [
         "BiocParallel",
@@ -16442,7 +16139,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
         "rtracklayer"
     ],
     "motifbreakR": [
@@ -16579,8 +16275,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "MPRAnalyze": [
         "BiocParallel",
@@ -16733,7 +16428,6 @@
         "genomeIntervals",
         "ggbio",
         "graph",
-        "limma",
         "rtracklayer"
     ],
     "msImpute": [
@@ -16755,7 +16449,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -16777,7 +16470,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -16792,7 +16484,6 @@
         "affy",
         "affyio",
         "edgeR",
-        "limma",
         "msmsEDA",
         "mzID",
         "mzR",
@@ -16806,7 +16497,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -16830,7 +16520,6 @@
         "affyio",
         "edgeR",
         "interactiveDisplayBase",
-        "limma",
         "msmsEDA",
         "msmsTests",
         "mzID",
@@ -16855,7 +16544,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "pcaMethods",
         "sva"
     ],
@@ -16877,8 +16565,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "MsQuality": [
         "AnnotationFilter",
@@ -16901,12 +16588,10 @@
         "XVector"
     ],
     "MSstats": [
-        "limma",
         "marray"
     ],
     "MSstatsBig": [
         "MSstats",
-        "limma",
         "marray"
     ],
     "MSstatsLiP": [
@@ -16918,7 +16603,6 @@
         "MSstatsTMT",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "MSstatsPTM": [
@@ -16929,7 +16613,6 @@
         "MSstatsTMT",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "MSstatsQC": [
@@ -16940,7 +16623,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -16956,7 +16638,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -16972,12 +16653,10 @@
         "MSstatsTMT",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "MSstatsTMT": [
         "MSstats",
-        "limma",
         "marray"
     ],
     "MuData": [
@@ -17022,7 +16701,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "pcaMethods",
         "ropls"
     ],
@@ -17071,8 +16749,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "multiGSEA": [
         "AnnotationDbi",
@@ -17106,7 +16783,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -17137,7 +16813,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "DelayedArray",
-        "DynDoc",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -17188,7 +16863,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -17238,7 +16912,6 @@
         "XVector",
         "beachmat",
         "edgeR",
-        "limma",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -17304,7 +16977,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "Biostrings",
         "ComplexHeatmap",
@@ -17417,7 +17089,6 @@
         "ensembldb",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "motifStack",
         "multtest",
         "regioneR",
@@ -17452,7 +17123,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -17478,8 +17148,7 @@
     ],
     "NanoTube": [
         "BiocParallel",
-        "fgsea",
-        "limma"
+        "fgsea"
     ],
     "NBAMSeq": [
         "AnnotationDbi",
@@ -17529,7 +17198,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -17594,7 +17262,6 @@
         "Rgraphviz",
         "epiNEM",
         "graph",
-        "limma",
         "mnem"
     ],
     "NetActivity": [
@@ -17637,7 +17304,6 @@
     ],
     "nethet": [
         "graph",
-        "limma",
         "multtest"
     ],
     "netOmics": [
@@ -17693,7 +17359,6 @@
         "clusterExperiment",
         "edgeR",
         "genefilter",
-        "limma",
         "mbkmeans",
         "rhdf5",
         "rhdf5filters",
@@ -17739,7 +17404,6 @@
         "genefilter",
         "graph",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "pandaR",
@@ -17761,8 +17425,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "NewWave": [
         "BiocParallel",
@@ -17805,7 +17468,6 @@
         "fgsea"
     ],
     "nnNorm": [
-        "limma",
         "marray"
     ],
     "nnSVG": [
@@ -17827,8 +17489,7 @@
     "nondetects": [
         "HTqPCR",
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "NoRCE": [
         "AnnotationDbi",
@@ -17869,7 +17530,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "vsn"
     ],
     "NormqPCR": [
@@ -17993,7 +17653,6 @@
         "edgeR",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18069,13 +17728,10 @@
         "affyio"
     ],
     "OLIN": [
-        "limma",
         "marray"
     ],
     "OLINgui": [
-        "DynDoc",
         "OLIN",
-        "limma",
         "marray",
         "tkWidgets",
         "widgetTools"
@@ -18144,7 +17800,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "made4",
         "omicade4",
         "pcaMethods",
@@ -18339,9 +17994,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [
-        "limma"
-    ],
+    "oppti": [],
     "optimalFlow": [
         "RProtoBufLib",
         "S4Vectors",
@@ -18557,7 +18210,6 @@
         "biomaRt",
         "edgeR",
         "genefilter",
-        "limma",
         "rtracklayer",
         "vsn"
     ],
@@ -18571,8 +18223,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "PAA": [
         "AnnotationDbi",
@@ -18586,7 +18237,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "packFinder": [
@@ -18617,8 +18267,7 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "pageRank": [
         "AnnotationDbi",
@@ -18688,7 +18337,6 @@
         "fgsea",
         "genefilter",
         "geneplotter",
-        "limma",
         "sva"
     ],
     "pairkat": [
@@ -18736,7 +18384,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "limma",
         "multtest"
     ],
     "panp": [
@@ -18818,7 +18465,6 @@
         "XVector",
         "biomformat",
         "edgeR",
-        "limma",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -18874,7 +18520,6 @@
         "biomaRt",
         "genefilter",
         "graph",
-        "limma",
         "topGO"
     ],
     "pcaMethods": [],
@@ -18919,7 +18564,6 @@
         "biomaRt",
         "fgsea",
         "genefu",
-        "limma",
         "marray",
         "piano"
     ],
@@ -18964,7 +18608,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -18982,8 +18625,7 @@
         "affy",
         "affyio",
         "annotate",
-        "genefilter",
-        "limma"
+        "genefilter"
     ],
     "peco": [
         "BiocNeighbors",
@@ -19015,8 +18657,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "periodicDNA": [
         "BSgenome",
@@ -19055,7 +18696,6 @@
         "XVector",
         "edgeR",
         "fgsea",
-        "limma",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -19084,7 +18724,6 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "limma",
         "marray",
         "piano"
     ],
@@ -19103,7 +18742,6 @@
         "biocViews",
         "destiny",
         "graph",
-        "limma",
         "monocle",
         "pcaMethods"
     ],
@@ -19123,7 +18761,6 @@
         "XVector",
         "biodb",
         "biodbChebi",
-        "limma",
         "ropls"
     ],
     "phenopath": [
@@ -19154,8 +18791,7 @@
         "biomaRt",
         "genefilter",
         "graph",
-        "hopach",
-        "limma"
+        "hopach"
     ],
     "PhenStat": [
         "graph"
@@ -19174,8 +18810,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "PhosR": [
         "DelayedArray",
@@ -19187,7 +18822,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "pcaMethods"
     ],
     "PhyloProfile": [
@@ -19232,7 +18866,6 @@
     "piano": [
         "BiocParallel",
         "fgsea",
-        "limma",
         "marray"
     ],
     "pickgene": [],
@@ -19322,7 +18955,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scater",
         "scran",
         "scuttle",
@@ -19359,7 +18991,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "plasmut": [],
     "plgem": [],
     "plier": [
         "affy",
@@ -19502,8 +19133,7 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "POMA": [
         "BiocParallel",
@@ -19518,7 +19148,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "mixOmics"
     ],
     "POWSC": [
@@ -19532,12 +19161,10 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "ppcseq": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "PPInfer": [
         "AnnotationDbi",
@@ -19627,7 +19254,6 @@
         "affy",
         "affyio",
         "biomaRt",
-        "limma",
         "multtest",
         "rCGH",
         "rtracklayer"
@@ -19692,7 +19318,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -19804,9 +19429,7 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [
-        "limma"
-    ],
+    "projectR": [],
     "pRoloc": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -19830,7 +19453,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -19859,7 +19481,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "limma",
         "mzID",
         "mzR",
         "pRoloc",
@@ -19879,8 +19500,7 @@
         "graph"
     ],
     "PROPER": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "PROPS": [
         "AnnotationDbi",
@@ -19894,7 +19514,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "Prostar": [
@@ -19903,7 +19522,6 @@
         "Biostrings",
         "DAPAR",
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "GenomeInfoDb",
         "IRanges",
@@ -19920,7 +19538,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -19978,7 +19595,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "limma",
         "vsn"
     ],
     "PSEA": [],
@@ -20014,7 +19630,6 @@
         "derfinderHelper",
         "edgeR",
         "interactiveDisplayBase",
-        "limma",
         "recount",
         "rtracklayer"
     ],
@@ -20057,7 +19672,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -20116,7 +19730,6 @@
     "pvca": [
         "affy",
         "affyio",
-        "limma",
         "vsn"
     ],
     "Pviz": [
@@ -20173,7 +19786,6 @@
         "interactiveDisplayBase"
     ],
     "qckitfastq": [
-        "RSeqAn",
         "seqTools"
     ],
     "qcmetrics": [
@@ -20191,7 +19803,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "limma",
         "marray"
     ],
     "QFeatures": [
@@ -20219,13 +19830,11 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "qpcrNorm": [
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "qpgraph": [
         "AnnotationDbi",
@@ -20264,7 +19873,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -20287,7 +19895,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "rtracklayer"
     ],
     "qsmooth": [
@@ -20307,7 +19914,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "QSutils": [
@@ -20334,7 +19940,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "QTLExperiment": [
@@ -20394,7 +19999,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -20442,9 +20046,7 @@
         "rtracklayer"
     ],
     "QUBIC": [],
-    "qusage": [
-        "limma"
-    ],
+    "qusage": [],
     "R3CPET": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -20544,7 +20146,6 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "limma",
         "marray",
         "piano"
     ],
@@ -20719,7 +20320,6 @@
         "graph"
     ],
     "RBM": [
-        "limma",
         "marray"
     ],
     "Rbowtie2": [
@@ -20787,7 +20387,6 @@
         "affy",
         "affyio",
         "biomaRt",
-        "limma",
         "multtest",
         "rtracklayer"
     ],
@@ -20799,7 +20398,6 @@
         "XVector",
         "biomformat",
         "edgeR",
-        "limma",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -20918,7 +20516,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "limma",
         "rtracklayer"
     ],
     "recount3": [
@@ -20971,7 +20568,6 @@
         "dir.expiry",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -21079,7 +20675,6 @@
         "bluster",
         "edgeR",
         "fgsea",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -21156,7 +20751,6 @@
         "derfinder",
         "derfinderHelper",
         "edgeR",
-        "limma",
         "rtracklayer"
     ],
     "regsplice": [
@@ -21169,8 +20763,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "regutools": [
         "AnnotationDbi",
@@ -21238,7 +20831,6 @@
         "genefilter",
         "illuminaio",
         "interactiveDisplayBase",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -21272,7 +20864,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "rtracklayer",
         "vsn"
     ],
@@ -21315,7 +20906,6 @@
         "genefilter",
         "ggbio",
         "graph",
-        "limma",
         "rtracklayer"
     ],
     "RepViz": [
@@ -21703,7 +21293,6 @@
         "XVector",
         "baySeq",
         "edgeR",
-        "limma",
         "seqLogo"
     ],
     "ribosomeProfilingQC": [
@@ -21737,7 +21326,6 @@
         "annotate",
         "biomaRt",
         "edgeR",
-        "limma",
         "motifStack",
         "rtracklayer",
         "seqLogo"
@@ -21792,7 +21380,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "limma",
         "vsn"
     ],
     "Risa": [
@@ -21822,7 +21409,6 @@
         "affyio",
         "biocViews",
         "graph",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -21878,7 +21464,6 @@
         "consensusSeekeR",
         "rtracklayer"
     ],
-    "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [
         "AnnotationDbi",
@@ -21920,7 +21505,6 @@
         "S4Vectors",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -21997,7 +21581,6 @@
         "bumphunter",
         "derfinder",
         "derfinderHelper",
-        "limma",
         "recount",
         "rtracklayer"
     ],
@@ -22024,7 +21607,6 @@
         "XVector",
         "biomaRt",
         "bumphunter",
-        "limma",
         "rtracklayer"
     ],
     "RNAinteract": [
@@ -22045,7 +21627,6 @@
         "genefilter",
         "geneplotter",
         "graph",
-        "limma",
         "splots",
         "vsn"
     ],
@@ -22185,8 +21766,7 @@
     ],
     "RNAseqCovarImpute": [
         "BiocParallel",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
@@ -22218,7 +21798,6 @@
         "derfinder",
         "derfinderHelper",
         "edgeR",
-        "limma",
         "recount",
         "rtracklayer"
     ],
@@ -22250,7 +21829,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "methylumi",
         "minfi",
         "multtest",
@@ -22262,8 +21840,7 @@
     ],
     "Rnits": [
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "roar": [
         "BiocIO",
@@ -22283,9 +21860,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "roastgsa": [
-        "limma"
-    ],
+    "roastgsa": [],
     "ROC": [],
     "ROCpAI": [
         "DelayedArray",
@@ -22334,12 +21909,10 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "ROSeq": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "ROTS": [],
     "RPA": [
@@ -22410,7 +21983,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "multtest",
         "ropls"
     ],
@@ -22456,7 +22028,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "RSeqAn": [],
     "Rsubread": [],
     "RSVSim": [
         "BiocParallel",
@@ -22516,7 +22087,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "viper"
     ],
     "RTNduals": [
@@ -22530,7 +22100,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "viper"
     ],
     "RTNsurvival": [
@@ -22545,11 +22114,9 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "viper"
     ],
     "RTopper": [
-        "limma",
         "multtest"
     ],
     "Rtpca": [],
@@ -22643,12 +22210,10 @@
         "XVector",
         "biomaRt",
         "edgeR",
-        "limma",
         "rtracklayer"
     ],
     "Rvisdiff": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "RVS": [
         "snpStats"
@@ -22754,8 +22319,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "SBGNview": [
         "AnnotationDbi",
@@ -22827,7 +22391,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "oligo",
         "oligoClasses",
         "sva"
@@ -22986,7 +22549,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "zinbwave"
     ],
     "scBubbletree": [
@@ -23009,7 +22571,6 @@
         "XVector",
         "beachmat",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scuttle",
@@ -23037,7 +22598,6 @@
         "annotate",
         "graph",
         "hopach",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -23093,7 +22653,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "rtracklayer",
         "scater",
         "scran",
@@ -23120,7 +22679,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scran",
         "scuttle",
         "sparseMatrixStats"
@@ -23143,7 +22701,6 @@
     "scde": [
         "BiocParallel",
         "edgeR",
-        "limma",
         "pcaMethods"
     ],
     "scDesign3": [
@@ -23213,7 +22770,6 @@
         "edgeR",
         "ensembldb",
         "graph",
-        "limma",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -23320,7 +22876,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scater",
         "scran",
         "scuttle",
@@ -23368,7 +22923,6 @@
         "biomaRt",
         "bsseq",
         "interactiveDisplayBase",
-        "limma",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -23414,7 +22968,6 @@
         "XVector",
         "biomaRt",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -23529,7 +23082,6 @@
         "biomaRt",
         "dir.expiry",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -23555,7 +23107,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -23587,8 +23138,7 @@
         "XVector"
     ],
     "ScreenR": [
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "scRepertoire": [
         "DelayedArray",
@@ -23776,7 +23326,6 @@
         "epivizr",
         "epivizrData",
         "graph",
-        "limma",
         "rtracklayer",
         "scater",
         "scran",
@@ -23820,7 +23369,6 @@
         "basilisk.utils",
         "beachmat",
         "dir.expiry",
-        "limma",
         "scater",
         "scuttle",
         "sparseMatrixStats"
@@ -23896,8 +23444,7 @@
         "SummarizedExperiment",
         "XVector",
         "baySeq",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "selectKSigs": [
         "AnnotationDbi",
@@ -24095,7 +23642,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "rtracklayer"
     ],
     "SeqSQC": [
@@ -24164,7 +23710,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sechm",
         "sva"
     ],
@@ -24265,7 +23810,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -24302,7 +23846,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "rhdf5",
@@ -24489,7 +24032,6 @@
         "ensembldb",
         "genefu",
         "graph",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -24548,7 +24090,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "limma",
         "vsn"
     ],
     "SimBu": [
@@ -24575,7 +24116,6 @@
     ],
     "SIMD": [
         "edgeR",
-        "limma",
         "methylMnM"
     ],
     "SimFFPE": [
@@ -24590,7 +24130,6 @@
         "XVector"
     ],
     "similaRpeak": [],
-    "SIMLR": [],
     "simona": [
         "ComplexHeatmap",
         "IRanges",
@@ -24674,7 +24213,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "multtest",
         "scran",
         "scuttle",
@@ -24735,7 +24273,6 @@
         "ggtree",
         "graph",
         "interactiveDisplayBase",
-        "limma",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -24748,7 +24285,6 @@
         "scuttle",
         "sparseMatrixStats",
         "sva",
-        "tximport",
         "zellkonverter",
         "zinbwave"
     ],
@@ -24815,8 +24351,7 @@
         "XVector",
         "annotate",
         "edgeR",
-        "graph",
-        "limma"
+        "graph"
     ],
     "SiPSiC": [
         "DelayedArray",
@@ -24887,7 +24422,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -24971,7 +24505,6 @@
         "affyio",
         "annotate",
         "genefilter",
-        "limma",
         "multtest",
         "tilingArray",
         "vsn"
@@ -25103,7 +24636,6 @@
         "biomaRt",
         "bsseq",
         "interactiveDisplayBase",
-        "limma",
         "regioneR",
         "rhdf5",
         "rhdf5filters",
@@ -25140,7 +24672,6 @@
         "beachmat",
         "bluster",
         "edgeR",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -25168,7 +24699,6 @@
         "annotate",
         "edgeR",
         "graph",
-        "limma",
         "sparseMatrixStats"
     ],
     "SparseArray": [
@@ -25302,7 +24832,6 @@
         "bluster",
         "edgeR",
         "genefilter",
-        "limma",
         "scater",
         "scran",
         "scuttle",
@@ -25368,8 +24897,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "SpeCond": [],
     "Spectra": [
@@ -25484,7 +25012,6 @@
         "XVector",
         "beachmat",
         "edgeR",
-        "limma",
         "scuttle",
         "sparseMatrixStats"
     ],
@@ -25568,8 +25095,7 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "graph",
-        "limma"
+        "graph"
     ],
     "SPLINTER": [
         "AnnotationDbi",
@@ -25658,7 +25184,6 @@
         "XVector",
         "biomformat",
         "edgeR",
-        "limma",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -25680,8 +25205,7 @@
     ],
     "SRAdb": [
         "GEOquery",
-        "graph",
-        "limma"
+        "graph"
     ],
     "srnadiff": [
         "AnnotationDbi",
@@ -25713,7 +25237,6 @@
         "biovizBase",
         "edgeR",
         "ensembldb",
-        "limma",
         "rtracklayer"
     ],
     "sscu": [
@@ -25739,8 +25262,7 @@
         "XVector",
         "edgeR",
         "graph",
-        "graphite",
-        "limma"
+        "graphite"
     ],
     "ssPATHS": [
         "DelayedArray",
@@ -25803,7 +25325,6 @@
         "XVector",
         "biomaRt",
         "edgeR",
-        "limma",
         "rtracklayer"
     ],
     "staRank": [
@@ -25823,7 +25344,6 @@
         "cellHTS2",
         "genefilter",
         "graph",
-        "limma",
         "splots",
         "vsn"
     ],
@@ -25843,8 +25363,7 @@
     "STATegRa": [
         "affy",
         "affyio",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "Statial": [
         "BiocFileCache",
@@ -25859,8 +25378,7 @@
         "SparseArray",
         "SpatialExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "statTarget": [
         "ROC"
@@ -25869,7 +25387,6 @@
         "BiocParallel"
     ],
     "stepNorm": [
-        "limma",
         "marray"
     ],
     "stJoincount": [
@@ -26051,8 +25568,7 @@
         "XVector",
         "annotate",
         "edgeR",
-        "genefilter",
-        "limma"
+        "genefilter"
     ],
     "svaNUMT": [
         "AnnotationDbi",
@@ -26162,7 +25678,6 @@
         "affy",
         "affyio",
         "cleaver",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -26348,7 +25863,6 @@
         "edgeR",
         "genefilter",
         "graph",
-        "limma",
         "rhdf5",
         "rhdf5filters",
         "singscore",
@@ -26369,8 +25883,7 @@
         "SummarizedExperiment",
         "XVector",
         "baySeq",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "TCGAbiolinks": [
         "AnnotationDbi",
@@ -26430,16 +25943,14 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "TDbasedUFE": [
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "tximport"
+        "XVector"
     ],
     "TDbasedUFEadv": [
         "AnnotationDbi",
@@ -26457,8 +25968,7 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "tximport"
+        "ggtree"
     ],
     "TEKRABber": [
         "AnnotationDbi",
@@ -26722,11 +26232,9 @@
         "affyio",
         "annotate",
         "genefilter",
-        "limma",
         "vsn"
     ],
     "timecourse": [
-        "limma",
         "marray"
     ],
     "timeOmics": [
@@ -26742,7 +26250,6 @@
         "Biostrings",
         "DOSE",
         "DelayedArray",
-        "DynDoc",
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -26818,7 +26325,6 @@
         "rtracklayer"
     ],
     "tkWidgets": [
-        "DynDoc",
         "widgetTools"
     ],
     "tLOH": [
@@ -26894,8 +26400,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "tomoda": [
         "DelayedArray",
@@ -26929,8 +26434,7 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "genefilter",
-        "limma"
+        "genefilter"
     ],
     "topdownr": [
         "BiocParallel",
@@ -26943,7 +26447,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -26975,17 +26478,14 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "limma",
         "marray",
         "piano"
     ],
     "TPP": [
-        "biobroom",
-        "limma"
+        "biobroom"
     ],
     "TPP2D": [
-        "BiocParallel",
-        "limma"
+        "BiocParallel"
     ],
     "tracktables": [
         "BiocParallel",
@@ -27046,7 +26546,6 @@
         "TrajectoryUtils",
         "XVector",
         "edgeR",
-        "limma",
         "slingshot"
     ],
     "TrajectoryGeometry": [],
@@ -27073,7 +26572,6 @@
         "XVector",
         "biomaRt",
         "graph",
-        "limma",
         "topGO"
     ],
     "transcriptR": [
@@ -27148,7 +26646,6 @@
         "anota",
         "edgeR",
         "graph",
-        "limma",
         "multtest",
         "topGO"
     ],
@@ -27224,8 +26721,7 @@
         "edgeR",
         "flowCore",
         "ggtree",
-        "hopach",
-        "limma"
+        "hopach"
     ],
     "TreeSummarizedExperiment": [
         "BiocParallel",
@@ -27323,7 +26819,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "limma",
         "sva"
     ],
     "trio": [
@@ -27415,7 +26910,6 @@
         "affy",
         "affyio",
         "convert",
-        "limma",
         "marray"
     ],
     "TVTB": [
@@ -27446,13 +26940,11 @@
         "biovizBase",
         "ensemblVEP",
         "ensembldb",
-        "limma",
         "rtracklayer"
     ],
     "tweeDEseq": [
         "cqn",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "twilight": [],
     "twoddpcr": [
@@ -27507,10 +26999,8 @@
         "biomaRt",
         "ensembldb",
         "interactiveDisplayBase",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
-    "tximport": [],
     "UCell": [
         "BiocNeighbors",
         "BiocParallel",
@@ -27621,8 +27111,7 @@
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "UniProt.ws": [
         "AnnotationDbi",
@@ -27674,7 +27163,6 @@
         "RBGL",
         "biocViews",
         "graph",
-        "limma",
         "monocle"
     ],
     "VAExprs": [
@@ -27720,7 +27208,6 @@
         "affyio",
         "crlmm",
         "illuminaio",
-        "limma",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -27744,8 +27231,7 @@
         "rtracklayer"
     ],
     "variancePartition": [
-        "BiocParallel",
-        "limma"
+        "BiocParallel"
     ],
     "VariantAnnotation": [
         "AnnotationDbi",
@@ -27872,7 +27358,6 @@
         "ballgown",
         "edgeR",
         "genefilter",
-        "limma",
         "rtracklayer",
         "sva"
     ],
@@ -27963,8 +27448,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "viper": [],
     "ViSEAGO": [
@@ -28046,13 +27530,11 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "limma"
+        "XVector"
     ],
     "vsn": [
         "affy",
-        "affyio",
-        "limma"
+        "affyio"
     ],
     "vtpnet": [
         "AnnotationDbi",
@@ -28120,7 +27602,6 @@
         "edgeR",
         "ensembldb",
         "graph",
-        "limma",
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -28172,7 +27653,6 @@
         "bumphunter",
         "genefilter",
         "illuminaio",
-        "limma",
         "lumi",
         "methylumi",
         "minfi",
@@ -28218,7 +27698,6 @@
         "affyio",
         "annaffy",
         "gcrma",
-        "limma",
         "multtest",
         "vsn"
     ],
@@ -28234,7 +27713,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "sparseMatrixStats"
     ],
     "widgetTools": [],
@@ -28268,9 +27746,7 @@
         "XVector"
     ],
     "wppi": [],
-    "Wrench": [
-        "limma"
-    ],
+    "Wrench": [],
     "xcms": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -28295,7 +27771,6 @@
         "XVector",
         "affy",
         "affyio",
-        "limma",
         "multtest",
         "mzID",
         "mzR",
@@ -28314,8 +27789,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "limma"
+        "edgeR"
     ],
     "XDE": [
         "AnnotationDbi",
@@ -28349,7 +27823,6 @@
         "SummarizedExperiment",
         "XVector",
         "fgsea",
-        "limma",
         "marray",
         "piano"
     ],
@@ -28388,7 +27861,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "limma",
         "mzR"
     ],
     "YAPSA": [
@@ -28456,7 +27928,6 @@
         "edgeR",
         "genefilter",
         "illuminaio",
-        "limma",
         "minfi",
         "multtest",
         "quantro",
@@ -28505,7 +27976,6 @@
         "edgeR",
         "graph",
         "graphite",
-        "limma",
         "pathview",
         "safe",
         "variancePartition"
@@ -28538,8 +28008,7 @@
         "XVector",
         "annotate",
         "edgeR",
-        "genefilter",
-        "limma"
+        "genefilter"
     ],
     "ZygosityPredictor": [
         "AnnotationDbi",
