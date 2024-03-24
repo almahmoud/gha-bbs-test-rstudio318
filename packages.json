@@ -1445,7 +1445,6 @@
         "CoGAPS",
         "DelayedArray",
         "DirichletMultinomial",
-        "GeneOverlap",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6140,7 +6139,6 @@
         "zlibbioc"
     ],
     "ComPrAn": [],
-    "compSPOT": [],
     "concordexR": [
         "BiocParallel",
         "DelayedArray",
@@ -6721,7 +6719,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "Rbwa",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -9282,7 +9279,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "eds": [],
     "EGAD": [
         "GEOquery",
         "limma"
@@ -11451,9 +11447,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gCrisprTools": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -11774,7 +11768,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
@@ -12289,7 +12282,6 @@
         "sva",
         "zlibbioc"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
         "limma"
@@ -12325,7 +12317,6 @@
         "XVector",
         "cqn",
         "preprocessCore",
-        "topconfects",
         "zlibbioc"
     ],
     "gep2pep": [
@@ -13023,7 +13014,6 @@
     "granulator": [],
     "graper": [],
     "graph": [],
-    "GraphAlignment": [],
     "GraphAT": [
         "graph"
     ],
@@ -13103,7 +13093,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "GSALightning": [],
     "GSAR": [],
     "GSCA": [
         "Rhdf5lib",
@@ -14544,7 +14533,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "INPower": [],
     "INSPEcT": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -15053,7 +15041,6 @@
         "tximport",
         "zlibbioc"
     ],
-    "ISoLDE": [],
     "isomiRs": [
         "AnnotationDbi",
         "BiocParallel",
@@ -15374,7 +15361,6 @@
     ],
     "les": [],
     "levi": [],
-    "lfa": [],
     "limma": [],
     "limmaGUI": [
         "limma"
@@ -16360,7 +16346,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "mdp": [],
     "MDTS": [
         "BiocParallel",
         "Biostrings",
@@ -21429,7 +21414,6 @@
         "limma",
         "zlibbioc"
     ],
-    "pepXMLTab": [],
     "periodicDNA": [
         "BSgenome",
         "BiocIO",
@@ -23382,7 +23366,6 @@
         "zlibbioc"
     ],
     "rbsurv": [],
-    "Rbwa": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -27857,7 +27840,6 @@
         "celda",
         "dir.expiry",
         "edgeR",
-        "eds",
         "ensembldb",
         "genefilter",
         "ggtree",
@@ -28082,7 +28064,6 @@
         "zlibbioc"
     ],
     "SMAD": [],
-    "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
@@ -28153,7 +28134,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
@@ -30345,7 +30325,6 @@
         "limma",
         "zlibbioc"
     ],
-    "topconfects": [],
     "topdownr": [
         "BiocParallel",
         "Biostrings",
@@ -31802,7 +31781,6 @@
         "XVector",
         "limma",
         "sparseMatrixStats",
-        "topconfects",
         "zlibbioc"
     ],
     "widgetTools": [],
