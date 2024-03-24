@@ -216,7 +216,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "Cardinal": [],
     "casper": [
         "gaga"
     ],
@@ -428,7 +427,6 @@
         "oligoClasses"
     ],
     "CTDquerier": [],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -597,9 +595,7 @@
         "siggenes"
     ],
     "epiNEM": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [],
     "epivizrChart": [],
     "epivizrStandalone": [
@@ -799,7 +795,6 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "hoodscanR": [],
     "HTSeqGenie": [],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
@@ -881,7 +876,6 @@
         "DEXSeq",
         "satuRn"
     ],
-    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
@@ -984,7 +978,6 @@
         "wateRmelon"
     ],
     "MEDME": [],
-    "MEIGOR": [],
     "Melissa": [
         "BPRMeth"
     ],
@@ -1047,7 +1040,6 @@
         "minfi",
         "siggenes"
     ],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1269,7 +1261,6 @@
         "enrichplot"
     ],
     "pareg": [],
-    "PathoStat": [],
     "pathRender": [],
     "pcaExplorer": [
         "Category",
@@ -1418,7 +1409,6 @@
     "rCGH": [
         "aCGH"
     ],
-    "RCM": [],
     "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomePA": [
@@ -1560,7 +1550,6 @@
         "scanMiR"
     ],
     "SCArray.sat": [],
-    "scClassify": [],
     "scDataviz": [],
     "SCFA": [],
     "scFeatures": [
@@ -1577,7 +1566,6 @@
     ],
     "scReClassify": [],
     "screenCounter": [],
-    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -1659,7 +1647,6 @@
     "SpacePAC": [],
     "Spaniel": [],
     "spaSim": [],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1673,7 +1660,6 @@
     ],
     "SpotClean": [],
     "spqn": [],
-    "SPsimSeq": [],
     "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
@@ -1762,7 +1748,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "traviz": [],
     "treekoR": [
         "diffcyt"
     ],
@@ -1770,8 +1755,6 @@
     "trio": [
         "siggenes"
     ],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TTMap": [],
     "TVTB": [
         "Gviz"
@@ -1800,9 +1783,7 @@
     "VaSP": [],
     "VCFArray": [],
     "velociraptor": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [],
     "vulcan": [
         "DiffBind",
