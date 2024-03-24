@@ -204,7 +204,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "Rgraphviz",
         "Rhtslib",
@@ -225,7 +224,6 @@
         "gcrma",
         "genefilter",
         "ggbio",
-        "graph",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -277,8 +275,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "aggregateBioVar": [
         "DelayedArray",
@@ -314,7 +311,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "ReportingTools",
         "Rgraphviz",
         "Rhtslib",
@@ -336,7 +332,6 @@
         "gcrma",
         "genefilter",
         "ggbio",
-        "graph",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -360,7 +355,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -370,7 +364,6 @@
         "XVector",
         "biocViews",
         "biomaRt",
-        "graph",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -690,7 +683,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "hypergraph",
         "makecdfenv"
     ],
@@ -899,7 +891,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -909,7 +900,6 @@
         "XVector",
         "biocViews",
         "biomaRt",
-        "graph",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -1001,11 +991,9 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "apeglm": [
         "DelayedArray",
@@ -1032,7 +1020,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "graph",
         "topGO"
     ],
     "appreci8R": [
@@ -1054,7 +1041,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -1064,7 +1050,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "graph",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -1162,7 +1147,6 @@
         "marray"
     ],
     "ASAFE": [],
-    "ASGSCA": [],
     "ASICS": [
         "BiocBaseUtils",
         "BiocParallel",
@@ -1265,7 +1249,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -1279,7 +1262,6 @@
         "biomaRt",
         "chromVAR",
         "fgsea",
-        "graph",
         "motifmatchr",
         "projectR",
         "rGREAT",
@@ -1311,7 +1293,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -1324,7 +1305,6 @@
         "biomaRt",
         "edgeR",
         "ensembldb",
-        "graph",
         "interactiveDisplayBase",
         "motifStack",
         "multtest",
@@ -1422,13 +1402,11 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "AUCell": [
         "AnnotationDbi",
@@ -1446,7 +1424,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "graph",
         "sparseMatrixStats"
     ],
     "autonomics": [
@@ -1498,7 +1475,6 @@
     "bacon": [
         "BiocParallel"
     ],
-    "BADER": [],
     "BadRegionFinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -2029,7 +2005,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "graph",
         "topGO"
     ],
     "bgx": [
@@ -2052,7 +2027,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "graph",
         "multtest"
     ],
     "BiFET": [
@@ -2064,7 +2038,6 @@
     ],
     "BiGGR": [
         "Rgraphviz",
-        "graph",
         "hyperdraw",
         "hypergraph",
         "rsbml"
@@ -2177,7 +2150,6 @@
         "fgsea",
         "geNetClassifier",
         "ggtree",
-        "graph",
         "graphite",
         "rtracklayer"
     ],
@@ -2186,13 +2158,10 @@
     "BiocCheck": [
         "BiocBaseUtils",
         "BiocFileCache",
-        "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "BiocFHIR": [
-        "BiocBaseUtils",
-        "graph"
+        "BiocBaseUtils"
     ],
     "BiocFileCache": [],
     "biocGraph": [
@@ -2205,8 +2174,7 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "geneplotter",
-        "graph"
+        "geneplotter"
     ],
     "BiocHail": [
         "BiocFileCache",
@@ -2264,7 +2232,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "graph",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -2280,15 +2247,12 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "BiocParallel": [],
     "BiocPkgTools": [
         "BiocFileCache",
-        "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -2326,10 +2290,7 @@
         "dir.expiry"
     ],
     "BiocVersion": [],
-    "biocViews": [
-        "RBGL",
-        "graph"
-    ],
+    "biocViews": [],
     "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache"
@@ -2387,8 +2348,7 @@
         "rhdf5filters"
     ],
     "BioMVCClass": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "biomvRCNS": [
         "AnnotationDbi",
@@ -2428,8 +2388,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "fgsea",
-        "graph"
+        "fgsea"
     ],
     "BioNERO": [
         "AnnotationDbi",
@@ -2457,10 +2416,8 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "BioNetStat": [
         "AnnotationDbi",
@@ -2473,7 +2430,6 @@
         "Rgraphviz",
         "S4Vectors",
         "XVector",
-        "graph",
         "pathview"
     ],
     "BioQC": [
@@ -2562,7 +2518,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -2586,7 +2541,6 @@
         "KEGGREST",
         "OrganismDbi",
         "QDNAseq",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -2601,7 +2555,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "graph",
         "interactiveDisplayBase",
         "marray",
         "regioneR",
@@ -2680,8 +2633,7 @@
         "ROntoTools",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "BloodGen3Module": [
         "AnnotationDbi",
@@ -2740,7 +2692,6 @@
         "IRanges",
         "KEGGREST",
         "Linnorm",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
@@ -2750,7 +2701,6 @@
         "edgeR",
         "epiNEM",
         "genefilter",
-        "graph",
         "mnem",
         "sva",
         "vsn"
@@ -2771,7 +2721,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -2784,7 +2733,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "plyranges",
         "rtracklayer"
     ],
@@ -2848,7 +2796,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -2865,7 +2812,6 @@
         "derfinderPlot",
         "ensembldb",
         "ggbio",
-        "graph",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -3154,7 +3100,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3170,7 +3115,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "CAGEfightR": [
@@ -3223,7 +3167,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -3239,7 +3182,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "graph",
         "rtracklayer",
         "sva"
     ],
@@ -3297,7 +3239,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -3306,7 +3247,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -3335,7 +3275,6 @@
         "IRanges",
         "KEGGREST",
         "MultiAssayExperiment",
-        "RBGL",
         "RTCGAToolbox",
         "RaggedExperiment",
         "Rhtslib",
@@ -3351,7 +3290,6 @@
         "cBioPortalData",
         "geNetClassifier",
         "genefilter",
-        "graph",
         "hopach",
         "phenoTest",
         "rtracklayer"
@@ -3455,12 +3393,10 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "categoryCompare": [
         "AnnotationDbi",
@@ -3472,14 +3408,12 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "RCy3",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "cbaf": [
         "AnVIL",
@@ -3582,7 +3516,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "graphite",
         "interactiveDisplayBase"
     ],
@@ -3630,8 +3563,7 @@
         "PROMISE",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "CDI": [
         "BiocParallel",
@@ -3741,14 +3673,12 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "affy",
         "affyio",
         "annotate",
         "genefilter",
-        "graph",
         "splots",
         "vsn"
     ],
@@ -3782,13 +3712,11 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "graph",
         "topGO"
     ],
     "CellMapper": [
         "S4Vectors"
     ],
-    "cellmigRation": [],
     "CellMixS": [
         "BiocNeighbors",
         "BiocParallel",
@@ -3811,9 +3739,7 @@
         "sparseMatrixStats"
     ],
     "CellNOptR": [
-        "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CellScore": [
         "DelayedArray",
@@ -3894,7 +3820,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -3922,7 +3847,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "snpStats"
     ],
     "CexoR": [
@@ -4145,7 +4069,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "ChIPanalyser": [
@@ -4250,7 +4173,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -4260,7 +4182,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer"
@@ -4517,11 +4438,9 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
-        "biomaRt",
-        "graph"
+        "biomaRt"
     ],
     "cicero": [
         "AnnotationDbi",
@@ -4539,7 +4458,6 @@
         "Gviz",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -4552,7 +4470,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "monocle",
         "rtracklayer"
     ],
@@ -4723,7 +4640,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "graph",
         "qpgraph",
         "rtracklayer"
     ],
@@ -4936,27 +4852,19 @@
     ],
     "CNORdt": [
         "CellNOptR",
-        "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNORfeeder": [
         "CellNOptR",
-        "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNORfuzzy": [
         "CellNOptR",
-        "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNORode": [
         "CellNOptR",
-        "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "CNTools": [
         "AnnotationDbi",
@@ -5371,7 +5279,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "marray",
         "methylPipe",
         "rtracklayer",
@@ -5438,8 +5345,7 @@
         "flowClust",
         "flowCore",
         "flowMeans",
-        "flowMerge",
-        "graph"
+        "flowMerge"
     ],
     "ConsensusClusterPlus": [],
     "consensusDE": [
@@ -5500,7 +5406,6 @@
         "beachmat",
         "biomaRt",
         "genefu",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -5537,7 +5442,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "graph",
         "topGO"
     ],
     "CONSTANd": [],
@@ -5758,10 +5662,8 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "decoupleR",
-        "graph"
+        "decoupleR"
     ],
-    "COSNet": [],
     "COTAN": [
         "BiocParallel",
         "BiocSingular",
@@ -5850,7 +5752,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "cqn": [],
@@ -6315,8 +6216,7 @@
         "flowClust",
         "flowCore",
         "flowDensity",
-        "flowViz",
-        "graph"
+        "flowViz"
     ],
     "cycle": [
         "Mfuzz",
@@ -6442,7 +6342,6 @@
     "CytoML": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -6455,7 +6354,6 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow",
         "openCyto"
     ],
@@ -6466,7 +6364,6 @@
         "DelayedArray",
         "IRanges",
         "PeacoQC",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -6478,7 +6375,6 @@
         "flowCore",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow"
     ],
     "CytoPipelineGUI": [
@@ -6489,7 +6385,6 @@
         "DelayedArray",
         "IRanges",
         "PeacoQC",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -6501,7 +6396,6 @@
         "flowCore",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow"
     ],
     "cytoviewer": [
@@ -6648,7 +6542,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -6666,13 +6559,11 @@
         "IRanges",
         "KEGGREST",
         "Linnorm",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
         "edgeR",
         "epiNEM",
-        "graph",
         "graphite",
         "mnem",
         "multtest"
@@ -6729,7 +6620,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "graph",
         "pathview",
         "sva"
     ],
@@ -6919,10 +6809,8 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RBGL",
         "RCy3",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "DEGreport": [
         "BiocParallel",
@@ -7159,7 +7047,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -7175,7 +7062,6 @@
         "derfinderHelper",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "DEScan2": [
@@ -7195,7 +7081,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -7205,7 +7090,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer"
@@ -7262,14 +7146,12 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "graph"
+        "edgeR"
     ],
     "DEWSeq": [
         "BiocParallel",
@@ -7840,7 +7722,6 @@
         "annotate",
         "beachmat",
         "edgeR",
-        "graph",
         "graphite",
         "pathview",
         "safe",
@@ -7857,7 +7738,6 @@
         "XVector",
         "edgeR"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "BiocParallel",
         "DelayedArray",
@@ -8152,7 +8032,6 @@
         "edgeR",
         "gage",
         "globaltest",
-        "graph",
         "multtest",
         "pathview",
         "rhdf5",
@@ -8314,7 +8193,6 @@
         "XVector",
         "annotate",
         "edgeR",
-        "graph",
         "graphite",
         "pathview",
         "safe"
@@ -8381,8 +8259,7 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "graph"
+        "ggtree"
     ],
     "ensembldb": [
         "AnnotationDbi",
@@ -8607,7 +8484,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8622,7 +8498,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "graph",
         "illuminaio",
         "interactiveDisplayBase",
         "minfi",
@@ -8635,9 +8510,7 @@
     ],
     "epiNEM": [
         "Linnorm",
-        "RBGL",
         "Rgraphviz",
-        "graph",
         "mnem"
     ],
     "epistack": [
@@ -8696,7 +8569,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8708,7 +8580,6 @@
         "bumphunter",
         "ensembldb",
         "epivizrData",
-        "graph",
         "rtracklayer"
     ],
     "epivizrChart": [
@@ -8726,7 +8597,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8737,7 +8607,6 @@
         "biomaRt",
         "ensembldb",
         "epivizrData",
-        "graph",
         "rtracklayer"
     ],
     "epivizrData": [
@@ -8755,7 +8624,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8765,7 +8633,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "epivizrStandalone": [
@@ -8783,7 +8650,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8796,7 +8662,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "graph",
         "rtracklayer"
     ],
     "erccdashboard": [
@@ -8818,7 +8683,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8828,7 +8692,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "ERSSA": [
@@ -8911,7 +8774,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -8978,7 +8840,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8990,7 +8851,6 @@
         "affxparser",
         "biomaRt",
         "fgsea",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -9111,7 +8971,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -9121,7 +8980,6 @@
         "XVector",
         "biocViews",
         "biomaRt",
-        "graph",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -9344,8 +9202,7 @@
         "XVector"
     ],
     "fedup": [
-        "RCy3",
-        "graph"
+        "RCy3"
     ],
     "FELLA": [
         "Biostrings",
@@ -9407,9 +9264,7 @@
         "sparseMatrixStats"
     ],
     "fgga": [
-        "BiocFileCache",
-        "RBGL",
-        "graph"
+        "BiocFileCache"
     ],
     "fgsea": [
         "BiocParallel"
@@ -9482,7 +9337,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -9491,7 +9345,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -9523,7 +9376,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -9545,7 +9397,6 @@
         "edgeR",
         "ensembldb",
         "ggbio",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9595,8 +9446,7 @@
         "RProtoBufLib",
         "S4Vectors",
         "cytolib",
-        "flowCore",
-        "graph"
+        "flowCore"
     ],
     "flowCore": [
         "RProtoBufLib",
@@ -9628,7 +9478,6 @@
     "flowGate": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -9639,7 +9488,6 @@
         "flowCore",
         "flowWorkspace",
         "ggcyto",
-        "graph",
         "ncdfFlow"
     ],
     "flowMatch": [
@@ -9660,8 +9508,7 @@
         "S4Vectors",
         "cytolib",
         "flowClust",
-        "flowCore",
-        "graph"
+        "flowCore"
     ],
     "flowPloidy": [
         "RProtoBufLib",
@@ -9687,7 +9534,6 @@
     "flowStats": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -9698,7 +9544,6 @@
         "flowCore",
         "flowViz",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "flowTime": [
@@ -9713,8 +9558,7 @@
         "cytolib",
         "flowClust",
         "flowCore",
-        "flowViz",
-        "graph"
+        "flowViz"
     ],
     "flowViz": [
         "RProtoBufLib",
@@ -9725,7 +9569,6 @@
     "flowVS": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -9737,13 +9580,11 @@
         "flowStats",
         "flowViz",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "flowWorkspace": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -9752,7 +9593,6 @@
         "XVector",
         "cytolib",
         "flowCore",
-        "graph",
         "ncdfFlow"
     ],
     "fmcsR": [
@@ -9797,7 +9637,6 @@
         "sparseMatrixStats"
     ],
     "frenchFISH": [],
-    "FRGEpistasis": [],
     "frma": [
         "Biostrings",
         "DelayedArray",
@@ -9943,12 +9782,9 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
-    "gaggle": [
-        "graph"
-    ],
+    "gaggle": [],
     "garfield": [],
     "GARS": [
         "AnnotationDbi",
@@ -9998,10 +9834,8 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "GBScleanR": [
         "Biostrings",
@@ -10080,7 +9914,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "pathview"
     ],
     "gDNAx": [
@@ -10176,9 +10009,7 @@
         "BiocBaseUtils",
         "BiocCheck",
         "BiocFileCache",
-        "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "gDRutils": [
         "BiocBaseUtils",
@@ -10305,8 +10136,7 @@
         "genefilter"
     ],
     "GeneNetworkBuilder": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "geneplast": [],
     "geneplotter": [
@@ -10560,7 +10390,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -10569,7 +10398,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "GenomicInteractions": [
@@ -10618,7 +10446,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -10631,7 +10458,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "GenomicPlot": [
@@ -10802,7 +10628,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "graph",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -10815,7 +10640,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "affy",
@@ -10824,7 +10648,6 @@
         "biomaRt",
         "cellHTS2",
         "genefilter",
-        "graph",
         "splots",
         "vsn"
     ],
@@ -10869,7 +10692,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -10881,13 +10703,11 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "ggcyto": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -10897,7 +10717,6 @@
         "cytolib",
         "flowCore",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "ggkegg": [
@@ -10990,8 +10809,7 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "GladiaTOX": [],
     "Glimma": [
@@ -11054,8 +10872,7 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "globaltest",
-        "graph"
+        "globaltest"
     ],
     "globaltest": [
         "AnnotationDbi",
@@ -11115,13 +10932,11 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "gmoviz": [
         "AnnotationDbi",
@@ -11281,11 +11096,9 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "annotate",
-        "graph",
         "topGO"
     ],
     "goSorensen": [
@@ -11325,13 +11138,11 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "GOsummaries": [],
     "GOTHiC": [
@@ -11392,17 +11203,13 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "interactiveDisplayBase",
         "rtracklayer",
         "topGO"
     ],
     "granulator": [],
     "graper": [],
-    "graph": [],
-    "GraphAT": [
-        "graph"
-    ],
+    "GraphAT": [],
     "graphite": [
         "AnnotationDbi",
         "Biostrings",
@@ -11410,8 +11217,7 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "GraphPAC": [
         "Biostrings",
@@ -11495,8 +11301,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "GSEABenchmarkeR": [
         "AnnotationDbi",
@@ -11523,7 +11328,6 @@
         "XVector",
         "annotate",
         "edgeR",
-        "graph",
         "graphite",
         "interactiveDisplayBase",
         "pathview",
@@ -11543,8 +11347,7 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "fgsea",
-        "graph"
+        "fgsea"
     ],
     "GSReg": [
         "AnnotationDbi",
@@ -11560,7 +11363,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -11569,7 +11371,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "GSRI": [
@@ -11583,7 +11384,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "graph",
         "les"
     ],
     "GSVA": [
@@ -11608,7 +11408,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -11638,7 +11437,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -11648,7 +11446,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rhdf5",
@@ -11822,7 +11619,6 @@
         "affy",
         "affyio",
         "altcdfenvs",
-        "graph",
         "hypergraph",
         "makecdfenv"
     ],
@@ -12288,12 +12084,9 @@
     "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
-        "graph",
         "hypergraph"
     ],
-    "hypergraph": [
-        "graph"
-    ],
+    "hypergraph": [],
     "iASeq": [],
     "iasva": [
         "BiocParallel",
@@ -12420,7 +12213,6 @@
         "IHW",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -12433,7 +12225,6 @@
         "biomaRt",
         "genefilter",
         "goseq",
-        "graph",
         "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
@@ -12605,7 +12396,6 @@
     "ImmuneSpaceR": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -12615,7 +12405,6 @@
         "cytolib",
         "flowCore",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "immunoClust": [
@@ -12645,7 +12434,6 @@
         "KEGGREST",
         "OrganismDbi",
         "Pigengene",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "Rhtslib",
@@ -12663,7 +12451,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "graph",
         "graphite",
         "illuminaio",
         "minfi",
@@ -12781,7 +12568,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -12794,7 +12580,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "InteractionSet": [
@@ -12821,12 +12606,10 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "annotate",
         "genefilter",
-        "graph",
         "interactiveDisplayBase"
     ],
     "interactiveDisplayBase": [],
@@ -12960,7 +12743,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -12969,7 +12751,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -13312,8 +13093,7 @@
         "XVector"
     ],
     "KEGGgraph": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "KEGGlincs": [
         "AnnotationDbi",
@@ -13324,8 +13104,7 @@
         "KEGGgraph",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "keggorthology": [
         "AnnotationDbi",
@@ -13334,8 +13113,7 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "KEGGREST": [
         "Biostrings",
@@ -13407,7 +13185,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "LBE": [],
     "ldblock": [],
     "lefser": [
         "DelayedArray",
@@ -13584,7 +13361,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -13593,7 +13369,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -13638,8 +13413,7 @@
     ],
     "lpNet": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "lpsymphony": [],
     "LRBaseDbi": [
@@ -13895,7 +13669,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "interactiveDisplayBase",
         "pathview"
     ],
@@ -13956,7 +13729,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -13965,7 +13737,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -14107,7 +13878,6 @@
         "XVector",
         "annotate",
         "edgeR",
-        "graph",
         "interactiveDisplayBase"
     ],
     "matchBox": [],
@@ -14271,7 +14041,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -14284,7 +14053,6 @@
         "biovizBase",
         "ensembldb",
         "fgsea",
-        "graph",
         "rtracklayer"
     ],
     "MDTS": [
@@ -14456,9 +14224,7 @@
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
-        "RBGL",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "Melissa": [
         "BPRMeth",
@@ -14515,12 +14281,10 @@
         "IRanges",
         "KEGGREST",
         "MeSHDbi",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "MesKit": [
         "AnnotationDbi",
@@ -14617,7 +14381,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "hpar",
         "interactiveDisplayBase",
         "mygene",
@@ -14669,7 +14432,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -14678,7 +14440,6 @@
         "XVector",
         "affy",
         "affyio",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -14713,8 +14474,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "graph"
+        "ggtree"
     ],
     "metapone": [
         "BiocParallel",
@@ -14956,7 +14716,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -14969,7 +14728,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "graph",
         "illuminaio",
         "interactiveDisplayBase",
         "minfi",
@@ -15533,7 +15291,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -15548,7 +15305,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "graph",
         "illuminaio",
         "lumi",
         "marray",
@@ -15679,8 +15435,7 @@
         "ROntoTools",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "miRLAB": [
         "AnnotationDbi",
@@ -15695,7 +15450,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "S4Vectors",
@@ -15705,8 +15459,7 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "miRNAmeConverter": [
         "AnnotationDbi",
@@ -15874,8 +15627,7 @@
     ],
     "mnem": [
         "Linnorm",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "moanin": [
         "AnnotationDbi",
@@ -15891,7 +15643,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "graph",
         "topGO"
     ],
     "MobilityTransformR": [
@@ -15959,8 +15710,7 @@
     ],
     "MOGAMUN": [
         "BiocParallel",
-        "RCy3",
-        "graph"
+        "RCy3"
     ],
     "mogsa": [
         "AnnotationDbi",
@@ -15973,7 +15723,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "graph",
         "graphite"
     ],
     "MoleculeExperiment": [
@@ -16036,9 +15785,7 @@
         "seqLogo"
     ],
     "monocle": [
-        "RBGL",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "Moonlight2R": [
         "AnnotationDbi",
@@ -16410,7 +16157,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -16427,7 +16173,6 @@
         "ensembldb",
         "genomeIntervals",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "msImpute": [
@@ -16764,7 +16509,6 @@
         "S4Vectors",
         "XVector",
         "fgsea",
-        "graph",
         "graphite",
         "interactiveDisplayBase",
         "multtest"
@@ -16991,8 +16735,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "mygene": [
         "AnnotationDbi",
@@ -17070,7 +16813,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -17087,7 +16829,6 @@
         "csaw",
         "edgeR",
         "ensembldb",
-        "graph",
         "interactiveDisplayBase",
         "motifStack",
         "multtest",
@@ -17207,10 +16948,8 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RBGL",
         "RCy3",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "ncRNAtools": [
         "GenomeInfoDb",
@@ -17258,10 +16997,8 @@
     ],
     "nempi": [
         "Linnorm",
-        "RBGL",
         "Rgraphviz",
         "epiNEM",
-        "graph",
         "mnem"
     ],
     "NetActivity": [
@@ -17303,7 +17040,6 @@
         "XVector"
     ],
     "nethet": [
-        "graph",
         "multtest"
     ],
     "netOmics": [
@@ -17315,13 +17051,11 @@
         "RandomWalkRestartMH",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "NetPathMiner": [],
     "netresponse": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -17387,7 +17121,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "RCy3",
         "Rgraphviz",
         "Rhtslib",
@@ -17402,7 +17135,6 @@
         "bumphunter",
         "edgeR",
         "genefilter",
-        "graph",
         "illuminaio",
         "minfi",
         "multtest",
@@ -17566,8 +17298,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "nucleoSim": [
         "IRanges",
@@ -17651,7 +17382,6 @@
         "beachmat",
         "biomaRt",
         "edgeR",
-        "graph",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -17746,7 +17476,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "graph",
         "topGO"
     ],
     "omicade4": [
@@ -17892,8 +17621,7 @@
         "biomaRt"
     ],
     "OncoSimulR": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "onlineFDR": [],
     "ontoProc": [
@@ -17913,13 +17641,11 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "graph",
         "interactiveDisplayBase"
     ],
     "openCyto": [
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -17931,7 +17657,6 @@
         "flowCore",
         "flowViz",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "openPrimeR": [
@@ -17963,8 +17688,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "biomaRt",
-        "graph"
+        "biomaRt"
     ],
     "oppar": [
         "AnnotationDbi",
@@ -17989,7 +17713,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -18087,7 +17810,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -18096,7 +17818,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "orthogene": [
@@ -18309,8 +18030,7 @@
         "XVector"
     ],
     "paircompviz": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "pairedGSEA": [
         "AnnotationDbi",
@@ -18383,7 +18103,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "multtest"
     ],
     "panp": [
@@ -18391,7 +18110,6 @@
         "affyio"
     ],
     "PANR": [],
-    "PanViz": [],
     "pareg": [
         "AnnotationDbi",
         "BiocParallel",
@@ -18447,7 +18165,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "pathifier": [],
     "PathNet": [],
     "PathoStat": [
         "BiocParallel",
@@ -18478,8 +18195,7 @@
         "KEGGREST",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "pathview": [
         "AnnotationDbi",
@@ -18490,8 +18206,7 @@
         "KEGGgraph",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "paxtoolsr": [],
     "pcaExplorer": [
@@ -18509,7 +18224,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "S4Vectors",
@@ -18519,7 +18233,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "graph",
         "topGO"
     ],
     "pcaMethods": [],
@@ -18587,7 +18300,6 @@
         "ComplexHeatmap",
         "DelayedArray",
         "IRanges",
-        "RBGL",
         "RProtoBufLib",
         "Rgraphviz",
         "S4Arrays",
@@ -18597,7 +18309,6 @@
         "cytolib",
         "flowCore",
         "flowWorkspace",
-        "graph",
         "ncdfFlow"
     ],
     "peakPantheR": [
@@ -18732,7 +18443,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SingleCellExperiment",
@@ -18741,7 +18451,6 @@
         "XVector",
         "biocViews",
         "destiny",
-        "graph",
         "monocle",
         "pcaMethods"
     ],
@@ -18784,18 +18493,14 @@
         "Heatplus",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "annotate",
         "biomaRt",
         "genefilter",
-        "graph",
         "hopach"
     ],
-    "PhenStat": [
-        "graph"
-    ],
+    "PhenStat": [],
     "philr": [
         "ggtree"
     ],
@@ -18839,7 +18544,6 @@
         "S4Vectors",
         "XVector",
         "bioDist",
-        "graph",
         "interactiveDisplayBase",
         "topGO"
     ],
@@ -18860,8 +18564,7 @@
         "IRanges",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "piano": [
         "BiocParallel",
@@ -18902,7 +18605,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "graphite"
     ],
     "PING": [
@@ -19006,13 +18708,11 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Vectors",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "plotgardener": [
         "BiocIO",
@@ -19124,7 +18824,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "graph",
         "interactiveDisplayBase",
         "ontoProc"
     ],
@@ -19177,8 +18876,7 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "fgsea",
-        "graph"
+        "fgsea"
     ],
     "pqsfinder": [
         "Biostrings",
@@ -19496,8 +19194,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "PROPER": [
         "edgeR"
@@ -19537,7 +19234,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -19661,7 +19357,6 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "graph",
         "topGO"
     ],
     "ptairMS": [
@@ -19782,7 +19477,6 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "graph",
         "interactiveDisplayBase"
     ],
     "qckitfastq": [
@@ -19859,7 +19553,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "qPLEXanalyzer": [
@@ -20063,7 +19756,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -20076,7 +19768,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "r3Cseq": [
@@ -20249,8 +19940,7 @@
         "biomaRt"
     ],
     "RandomWalkRestartMH": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "randPack": [],
     "randRotation": [],
@@ -20286,11 +19976,8 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "Rarr": [],
     "rawrr": [],
-    "RbcBook1": [
-        "graph"
-    ],
+    "RbcBook1": [],
     "Rbec": [
         "BiocParallel",
         "Biostrings",
@@ -20309,16 +19996,12 @@
         "XVector",
         "dada2"
     ],
-    "RBGL": [
-        "graph"
-    ],
+    "RBGL": [],
     "RBioFormats": [
         "EBImage",
         "S4Vectors"
     ],
-    "RBioinf": [
-        "graph"
-    ],
+    "RBioinf": [],
     "RBM": [
         "marray"
     ],
@@ -20429,12 +20112,9 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCy3": [
-        "graph"
-    ],
+    "RCy3": [],
     "RCyjs": [
-        "BrowserViz",
-        "graph"
+        "BrowserViz"
     ],
     "rDGIdb": [],
     "RDRToolbox": [],
@@ -20454,7 +20134,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "graphite"
     ],
     "ReadqPCR": [],
@@ -20462,8 +20141,7 @@
         "ASSET"
     ],
     "rebook": [
-        "dir.expiry",
-        "graph"
+        "dir.expiry"
     ],
     "receptLoss": [
         "DelayedArray",
@@ -20620,7 +20298,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -20630,7 +20307,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer"
@@ -20795,7 +20471,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -20888,7 +20563,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -20905,7 +20579,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "RepViz": [
@@ -21101,12 +20774,8 @@
         "rtracklayer"
     ],
     "rgoslin": [],
-    "RGraph2js": [
-        "graph"
-    ],
-    "Rgraphviz": [
-        "graph"
-    ],
+    "RGraph2js": [],
+    "Rgraphviz": [],
     "rGREAT": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -21260,7 +20929,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -21273,7 +20941,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "ribor": [
@@ -21398,7 +21065,6 @@
         "MsFeatures",
         "MultiAssayExperiment",
         "QFeatures",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -21408,7 +21074,6 @@
         "affy",
         "affyio",
         "biocViews",
-        "graph",
         "multtest",
         "mzID",
         "mzR",
@@ -21440,7 +21105,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "graph",
         "rtracklayer",
         "topGO"
     ],
@@ -21617,7 +21281,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "affy",
@@ -21626,7 +21289,6 @@
         "cellHTS2",
         "genefilter",
         "geneplotter",
-        "graph",
         "splots",
         "vsn"
     ],
@@ -21894,8 +21556,7 @@
         "KEGGgraph",
         "Rgraphviz",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "ropls": [
         "BiocBaseUtils",
@@ -22014,9 +21675,7 @@
         "S4Vectors",
         "XVector"
     ],
-    "rsbml": [
-        "graph"
-    ],
+    "rsbml": [],
     "rScudo": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -22137,9 +21796,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "Rtreemix": [
-        "graph"
-    ],
+    "Rtreemix": [],
     "rTRM": [
         "AnnotationDbi",
         "Biostrings",
@@ -22274,7 +21931,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "SANTA": [],
     "SARC": [
         "AnnotationDbi",
         "BiocBaseUtils",
@@ -22336,7 +21992,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "graph",
         "pathview"
     ],
     "SC3": [
@@ -22596,7 +22251,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "graph",
         "hopach",
         "rhdf5",
         "rhdf5filters",
@@ -22769,7 +22423,6 @@
         "bluster",
         "edgeR",
         "ensembldb",
-        "graph",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -23190,7 +22843,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "Rsubread",
@@ -23206,7 +22858,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "rtracklayer"
     ],
     "scry": [
@@ -23247,7 +22898,6 @@
         "IRanges",
         "KEGGREST",
         "MeSHDbi",
-        "RBGL",
         "ReactomePA",
         "Rgraphviz",
         "S4Arrays",
@@ -23261,7 +22911,6 @@
         "fgsea",
         "genefilter",
         "ggtree",
-        "graph",
         "graphite",
         "interactiveDisplayBase",
         "meshr",
@@ -23283,7 +22932,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "graph",
         "schex"
     ],
     "scTHI": [
@@ -23307,7 +22955,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -23325,7 +22972,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "graph",
         "rtracklayer",
         "scater",
         "scran",
@@ -23747,7 +23393,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rgraphviz",
         "S4Arrays",
         "S4Vectors",
@@ -23755,8 +23400,7 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "genefilter",
-        "graph"
+        "genefilter"
     ],
     "SGSeq": [
         "AnnotationDbi",
@@ -23917,14 +23561,12 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RBGL",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "biocViews",
-        "graph"
+        "biocViews"
     ],
     "SigFuge": [
         "GenomeInfoDb",
@@ -23964,7 +23606,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters"
@@ -24031,7 +23672,6 @@
         "consensusOV",
         "ensembldb",
         "genefu",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -24271,7 +23911,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "graph",
         "interactiveDisplayBase",
         "multtest",
         "rhdf5",
@@ -24350,8 +23989,7 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "edgeR",
-        "graph"
+        "edgeR"
     ],
     "SiPSiC": [
         "DelayedArray",
@@ -24448,8 +24086,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "slingshot": [
         "DelayedArray",
@@ -24464,7 +24101,6 @@
         "TrajectoryUtils",
         "XVector"
     ],
-    "SMAD": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
@@ -24479,7 +24115,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -24489,7 +24124,6 @@
         "XVector",
         "biomaRt",
         "goseq",
-        "graph",
         "rtracklayer"
     ],
     "snapCGH": [
@@ -24589,7 +24223,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -24602,7 +24235,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "pcaMethods",
         "rtracklayer"
     ],
@@ -24698,7 +24330,6 @@
         "XVector",
         "annotate",
         "edgeR",
-        "graph",
         "sparseMatrixStats"
     ],
     "SparseArray": [
@@ -24926,8 +24557,7 @@
     "SPEM": [],
     "SPIA": [
         "KEGGgraph",
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
     "SPIAT": [
         "BiocFileCache",
@@ -25082,7 +24712,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "graph",
         "rtracklayer"
     ],
     "splineTimeR": [
@@ -25094,8 +24723,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "SPLINTER": [
         "AnnotationDbi",
@@ -25204,8 +24832,7 @@
         "XVector"
     ],
     "SRAdb": [
-        "GEOquery",
-        "graph"
+        "GEOquery"
     ],
     "srnadiff": [
         "AnnotationDbi",
@@ -25261,7 +24888,6 @@
         "SummarizedExperiment",
         "XVector",
         "edgeR",
-        "graph",
         "graphite"
     ],
     "ssPATHS": [
@@ -25335,7 +24961,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "S4Vectors",
         "XVector",
         "affy",
@@ -25343,7 +24968,6 @@
         "annotate",
         "cellHTS2",
         "genefilter",
-        "graph",
         "splots",
         "vsn"
     ],
@@ -25356,7 +24980,6 @@
         "S4Vectors",
         "SpidermiR",
         "XVector",
-        "graph",
         "graphite",
         "miRNAtap"
     ],
@@ -25426,10 +25049,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [
-        "RBGL",
-        "graph"
-    ],
+    "Streamer": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -25862,7 +25482,6 @@
         "beachmat",
         "edgeR",
         "genefilter",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "singscore",
@@ -26021,7 +25640,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "graph",
         "interactiveDisplayBase",
         "ontoProc",
         "restfulSE",
@@ -26165,8 +25783,7 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "tidybulk": [
         "DelayedArray",
@@ -26268,7 +25885,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
         "rWikiPathways",
         "tkWidgets",
         "widgetTools"
@@ -26296,8 +25912,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "annotate",
-        "graph"
+        "annotate"
     ],
     "TitanCNA": [
         "AnnotationDbi",
@@ -26379,7 +25994,6 @@
         "XVector",
         "annotate",
         "beachmat",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "sparseMatrixStats"
@@ -26459,8 +26073,7 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "ToxicoGx": [
         "BiocBaseUtils",
@@ -26527,7 +26140,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -26571,7 +26183,6 @@
         "S4Vectors",
         "XVector",
         "biomaRt",
-        "graph",
         "topGO"
     ],
     "transcriptR": [
@@ -26645,7 +26256,6 @@
         "XVector",
         "anota",
         "edgeR",
-        "graph",
         "multtest",
         "topGO"
     ],
@@ -26656,8 +26266,7 @@
         "KEGGREST",
         "RCy3",
         "S4Vectors",
-        "XVector",
-        "graph"
+        "XVector"
     ],
     "TransView": [
         "GenomeInfoDb",
@@ -26877,10 +26486,8 @@
         "tRNA"
     ],
     "TRONCO": [
-        "Rgraphviz",
-        "graph"
+        "Rgraphviz"
     ],
-    "TSAR": [],
     "TSCAN": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -27092,7 +26699,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -27104,7 +26710,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "rtracklayer"
     ],
     "UNDO": [],
@@ -27160,9 +26765,7 @@
         "S4Vectors"
     ],
     "uSORT": [
-        "RBGL",
         "biocViews",
-        "graph",
         "monocle"
     ],
     "VAExprs": [
@@ -27293,7 +26896,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -27305,7 +26907,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "graph",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -27434,7 +27035,6 @@
         "sparseMatrixStats",
         "zellkonverter"
     ],
-    "VennDetail": [],
     "VERSO": [],
     "vidger": [
         "BiocParallel",
@@ -27465,7 +27065,6 @@
         "XVector",
         "biomaRt",
         "fgsea",
-        "graph",
         "topGO"
     ],
     "vissE": [
@@ -27482,7 +27081,6 @@
         "S4Vectors",
         "XVector",
         "annotate",
-        "graph",
         "interactiveDisplayBase"
     ],
     "Voyager": [
@@ -27561,7 +27159,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "graph",
         "gwascat",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -27587,7 +27184,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -27601,7 +27197,6 @@
         "csaw",
         "edgeR",
         "ensembldb",
-        "graph",
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -27880,7 +27475,6 @@
         "IRanges",
         "KEGGREST",
         "OrganismDbi",
-        "RBGL",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -27894,7 +27488,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "graph",
         "gtrellis",
         "pcaMethods",
         "rtracklayer"
@@ -27974,7 +27567,6 @@
         "XVector",
         "annotate",
         "edgeR",
-        "graph",
         "graphite",
         "pathview",
         "safe",
