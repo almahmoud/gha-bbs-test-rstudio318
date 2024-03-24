@@ -37,14 +37,12 @@
         "ggbio",
         "oligoClasses"
     ],
-    "AHMassBank": [],
     "airpart": [
         "apeglm"
     ],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
@@ -55,30 +53,24 @@
     "alabaster.bumpy": [],
     "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
@@ -669,7 +661,6 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [
         "DEXSeq"
@@ -797,7 +788,6 @@
         "orthogene"
     ],
     "exomePeak2": [],
-    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -1303,7 +1293,6 @@
         "siggenes"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "minfi",
         "siggenes"
     ],
