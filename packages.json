@@ -138,7 +138,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "Rsamtools",
-        "biocViews",
         "biomaRt",
         "rtracklayer"
     ],
@@ -344,7 +343,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "Rsamtools",
-        "biocViews",
         "biomaRt",
         "rtracklayer"
     ],
@@ -697,7 +695,6 @@
         "rhdf5"
     ],
     "beadarray": [],
-    "beadarraySNP": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -818,9 +815,7 @@
         "graphite",
         "rtracklayer"
     ],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [
         "basilisk",
@@ -849,9 +844,7 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSet": [
         "BiocIO"
     ],
@@ -863,7 +856,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "biocViews": [],
     "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
@@ -1097,7 +1089,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "BiocIO",
         "GenomicAlignments",
@@ -1731,7 +1722,6 @@
         "Gviz",
         "Rsamtools",
         "VariantAnnotation",
-        "biocViews",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -1792,7 +1782,6 @@
         "rtracklayer"
     ],
     "cleaver": [],
-    "clippda": [],
     "clipper": [
         "BiocIO",
         "GenomicAlignments",
@@ -3492,7 +3481,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "Rsamtools",
-        "biocViews",
         "biomaRt",
         "rtracklayer"
     ],
@@ -3933,8 +3921,7 @@
         "piano"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "gDRutils": [
         "BumpyMatrix",
@@ -4468,7 +4455,6 @@
         "rtracklayer"
     ],
     "HELP": [],
-    "HEM": [],
     "hermes": [
         "ComplexHeatmap",
         "DESeq2",
@@ -4605,7 +4591,6 @@
     "hummingbird": [],
     "hyperdraw": [],
     "iasva": [],
-    "iBMQ": [],
     "iCARE": [],
     "icetea": [
         "BSgenome",
@@ -4647,7 +4632,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "BiocIO",
@@ -4680,7 +4664,6 @@
     "igvR": [
         "BSgenome",
         "BiocIO",
-        "BrowserViz",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
@@ -5009,7 +4992,6 @@
         "glmGamPoi",
         "rhdf5"
     ],
-    "limmaGUI": [],
     "LineagePulse": [
         "ComplexHeatmap",
         "SingleCellExperiment"
@@ -5406,7 +5388,6 @@
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
-        "rols",
         "struct"
     ],
     "metabomxtr": [
@@ -5574,7 +5555,6 @@
         "HDF5Array",
         "OrganismDbi",
         "Rsamtools",
-        "biocViews",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -5622,7 +5602,6 @@
         "fastseg",
         "rtracklayer"
     ],
-    "MethylMix": [],
     "methylMnM": [],
     "methylPipe": [
         "AnnotationFilter",
@@ -5720,7 +5699,6 @@
         "scater",
         "scuttle"
     ],
-    "MiChip": [],
     "microbiome": [
         "biomformat",
         "multtest",
@@ -5982,9 +5960,7 @@
         "TFBSTools",
         "rtracklayer"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "AnnotationHub",
         "BiocIO",
@@ -6726,9 +6702,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BiocIO",
@@ -6961,7 +6935,6 @@
     ],
     "phemd": [
         "SingleCellExperiment",
-        "biocViews",
         "destiny",
         "monocle"
     ],
@@ -7526,7 +7499,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBGL": [],
     "RBioFormats": [],
     "RBM": [],
     "Rbowtie2": [
@@ -7572,10 +7544,7 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "RCyjs": [
-        "BrowserViz"
-    ],
-    "ReactomeGraph4R": [],
+    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -7952,7 +7921,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "biocViews",
         "multtest",
         "mzID",
         "mzR",
@@ -8152,7 +8120,6 @@
     ],
     "ROCpAI": [],
     "RolDE": [],
-    "rols": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
@@ -8748,7 +8715,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "seqCNA": [],
     "SeqGate": [],
     "SeqGSEA": [
         "DESeq2",
@@ -8853,9 +8819,7 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "SigFuge": [],
     "siggenes": [
         "multtest"
@@ -9418,12 +9382,9 @@
         "rtracklayer"
     ],
     "Streamer": [],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "Structstrings": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -9901,7 +9862,6 @@
         "rtracklayer"
     ],
     "tweeDEseq": [],
-    "twilight": [],
     "twoddpcr": [],
     "txcutr": [
         "BiocIO",
@@ -9985,7 +9945,6 @@
     "universalmotif": [],
     "updateObject": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
