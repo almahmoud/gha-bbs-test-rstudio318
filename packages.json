@@ -184,8 +184,7 @@
     "benchdamic": [
         "ANCOMBC",
         "MAST",
-        "phyloseq",
-        "zinbwave"
+        "phyloseq"
     ],
     "BgeeDB": [],
     "BiGGR": [
@@ -348,7 +347,6 @@
     "ccImpute": [],
     "CCPlotR": [],
     "CCPROMISE": [],
-    "CDI": [],
     "celaref": [
         "MAST"
     ],
@@ -467,8 +465,7 @@
         "mzID"
     ],
     "clusterExperiment": [
-        "mbkmeans",
-        "zinbwave"
+        "mbkmeans"
     ],
     "clusterProfiler": [
         "enrichplot"
@@ -591,17 +588,14 @@
     ],
     "crisprDesign": [
         "crisprBase",
-        "crisprBowtie",
-        "crisprScore"
+        "crisprBowtie"
     ],
-    "crisprScore": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
@@ -609,8 +603,7 @@
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crlmm": [
         "oligoClasses"
@@ -903,7 +896,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
         "orthogene"
@@ -1048,18 +1040,13 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "gDRutils"
+        "gDRimport"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "gDRutils"
+        "PharmacoGx"
     ],
-    "gDRutils": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -1681,7 +1668,6 @@
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
-    "MuData": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -1736,14 +1722,12 @@
         "epiNEM"
     ],
     "NetActivity": [],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
-        "zinbwave"
+        "mbkmeans"
     ],
     "netZooR": [
         "Category",
@@ -1788,7 +1772,6 @@
     "OLINgui": [
         "OLIN"
     ],
-    "OmaDB": [],
     "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
@@ -1890,9 +1873,7 @@
     "phenoTest": [
         "Category"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [],
     "Pi": [],
     "Pigengene": [
@@ -2241,9 +2222,7 @@
     "SCArray.sat": [
         "SCArray"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [],
     "scClassify": [
         "Cepo"
@@ -2379,8 +2358,7 @@
         "celda",
         "scDblFinder",
         "scMerge",
-        "scds",
-        "zinbwave"
+        "scds"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2505,7 +2483,6 @@
         "StructuralVariantAnnotation"
     ],
     "SVMDO": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "mzID"
@@ -2640,7 +2617,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [],
     "uSORT": [
@@ -2720,6 +2696,5 @@
         "EnrichmentBrowser",
         "safe"
     ],
-    "zinbwave": [],
     "ZygosityPredictor": []
 }
