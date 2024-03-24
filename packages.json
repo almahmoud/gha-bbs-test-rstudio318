@@ -28,7 +28,6 @@
         "Category",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
@@ -46,7 +45,6 @@
         "Category",
         "GOstats",
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
         "affycoretools",
@@ -55,8 +53,7 @@
         "oligoClasses"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
-        "OrganismDbi"
+        "AnnotationHubData"
     ],
     "airpart": [
         "apeglm"
@@ -142,9 +139,7 @@
     ],
     "animalcules": [],
     "annmap": [],
-    "AnnotationHubData": [
-        "OrganismDbi"
-    ],
+    "AnnotationHubData": [],
     "annotatr": [
         "regioneR"
     ],
@@ -159,7 +154,6 @@
     "APL": [],
     "appreci8R": [
         "GenomicScores",
-        "OrganismDbi",
         "VariantAnnotation"
     ],
     "ArrayExpress": [
@@ -194,7 +188,6 @@
     "ATACCoGAPS": [
         "CNEr",
         "CoGAPS",
-        "OrganismDbi",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -343,7 +336,6 @@
     ],
     "biscuiteer": [
         "CGHcall",
-        "OrganismDbi",
         "QDNAseq",
         "VariantAnnotation",
         "annotatr",
@@ -370,7 +362,6 @@
         "sva"
     ],
     "BOBaFIT": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio",
@@ -383,7 +374,6 @@
     "BPRMeth": [],
     "brainflowprobes": [
         "GenomicFiles",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -408,7 +398,6 @@
     ],
     "BUSseq": [],
     "CAFE": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -422,7 +411,6 @@
     ],
     "cageminer": [
         "BioNERO",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio",
@@ -440,7 +428,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -653,7 +640,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -815,7 +801,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1049,7 +1034,6 @@
     ],
     "derfinderPlot": [
         "GenomicFiles",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -1186,7 +1170,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "SPIA",
         "pathview",
@@ -1231,7 +1214,6 @@
     "EpiMix": [],
     "epimutacions": [
         "Gviz",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -1244,19 +1226,14 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "OrganismDbi",
         "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
-        "OrganismDbi",
         "epivizrData"
     ],
-    "epivizrData": [
-        "OrganismDbi"
-    ],
+    "epivizrData": [],
     "epivizrStandalone": [
-        "OrganismDbi",
         "bumphunter",
         "epivizr",
         "epivizrData"
@@ -1264,7 +1241,6 @@
     "erccdashboard": [],
     "erma": [
         "GenomicFiles",
-        "OrganismDbi",
         "VariantAnnotation"
     ],
     "ERSSA": [
@@ -1302,14 +1278,12 @@
     "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "OrganismDbi"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
@@ -1357,14 +1331,12 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
     ],
     "FLAMES": [
-        "OrganismDbi",
         "VariantAnnotation",
         "bambu",
         "biovizBase",
@@ -1493,7 +1465,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
@@ -1562,7 +1533,6 @@
         "biovizBase"
     ],
     "GenomicOZone": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -1597,7 +1567,6 @@
     "getDEE2": [],
     "gg4way": [],
     "ggbio": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -1641,7 +1610,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOexpress": [],
     "GOfuncR": [],
     "GOpro": [],
     "goseq": [],
@@ -1672,9 +1640,7 @@
     "gsean": [
         "PPInfer"
     ],
-    "GSReg": [
-        "OrganismDbi"
-    ],
+    "GSReg": [],
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
@@ -1797,7 +1763,6 @@
     ],
     "iNETgrate": [
         "DOSE",
-        "OrganismDbi",
         "Pigengene",
         "ReactomePA",
         "bumphunter",
@@ -1817,7 +1782,6 @@
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -1843,7 +1807,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1870,7 +1833,6 @@
         "iSEEhex"
     ],
     "ISLET": [],
-    "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "satuRn",
@@ -1933,7 +1895,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1982,7 +1943,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2023,7 +1983,6 @@
     "MCbiclust": [],
     "mCSEA": [
         "Gviz",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -2065,7 +2024,6 @@
     "meshr": [
         "Category"
     ],
-    "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
@@ -2091,7 +2049,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2136,7 +2093,6 @@
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData",
-        "OrganismDbi",
         "bumphunter",
         "minfi",
         "siggenes"
@@ -2258,7 +2214,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2266,7 +2221,6 @@
     ],
     "MOFA2": [],
     "MOGAMUN": [],
-    "mogsa": [],
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
@@ -2335,9 +2289,7 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
-        "OrganismDbi",
         "ShortRead",
         "VariantAnnotation",
         "biovizBase",
@@ -2467,7 +2419,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2588,7 +2539,6 @@
     "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
-    "OrganismDbi": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [
@@ -2717,7 +2667,6 @@
     ],
     "plyranges": [],
     "pmp": [],
-    "podkat": [],
     "pogos": [
         "ontoProc"
     ],
@@ -2751,12 +2700,10 @@
     ],
     "proActiv": [],
     "proBAMr": [],
-    "procoil": [],
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -2862,7 +2809,6 @@
         "VariantAnnotation"
     ],
     "R3CPET": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -2925,7 +2871,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "bumphunter",
         "minfi",
@@ -2970,7 +2915,6 @@
     "ReportingTools": [
         "Category",
         "GOstats",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -2992,7 +2936,6 @@
     ],
     "rexposome": [],
     "Rfastp": [],
-    "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
@@ -3012,7 +2955,6 @@
     ],
     "RiboDiPA": [],
     "RiboProfiling": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3034,7 +2976,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -3243,7 +3184,6 @@
         "slingshot"
     ],
     "scruff": [
-        "OrganismDbi",
         "ShortRead",
         "VariantAnnotation",
         "biovizBase",
@@ -3264,7 +3204,6 @@
     ],
     "scTHI": [],
     "scTreeViz": [
-        "OrganismDbi",
         "bumphunter",
         "epivizr",
         "epivizrData"
@@ -3283,7 +3222,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -3348,7 +3286,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
@@ -3417,7 +3354,6 @@
         "chipseq"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -3571,7 +3507,6 @@
         "HiCcompare"
     ],
     "tanggle": [],
-    "TAPseq": [],
     "target": [],
     "TargetDecoy": [
         "mzID"
@@ -3729,7 +3664,6 @@
     ],
     "uncoverappLib": [
         "Gviz",
-        "OrganismDbi",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3811,7 +3745,6 @@
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID"
@@ -3830,7 +3763,6 @@
     "XNAString": [],
     "yamss": [],
     "YAPSA": [
-        "OrganismDbi",
         "SomaticSignatures",
         "VariantAnnotation",
         "biovizBase",
