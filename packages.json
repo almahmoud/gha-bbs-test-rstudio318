@@ -125,7 +125,6 @@
     "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -332,7 +331,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ccfindR": [],
     "ccImpute": [],
     "CCPlotR": [],
     "CCPROMISE": [],
@@ -486,7 +484,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -755,7 +752,6 @@
         "safe",
         "zenith"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -1155,13 +1151,11 @@
         "minfi",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [],
     "InPAS": [
         "plyranges"
     ],
     "INSPEcT": [],
-    "InTAD": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -1434,7 +1428,6 @@
         "enrichplot"
     ],
     "microRNA": [],
-    "microSTASIS": [],
     "mimager": [
         "oligo",
         "oligoClasses"
@@ -1595,7 +1588,6 @@
     "MultiRNAflow": [],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "decompTumor2Sig",
         "maftools"
@@ -2127,7 +2119,6 @@
     "scDataviz": [],
     "scDD": [],
     "scDDboost": [],
-    "scds": [],
     "SCFA": [],
     "scFeatures": [
         "AUCell",
@@ -2236,8 +2227,7 @@
     "singleCellTK": [
         "GSVA",
         "MAST",
-        "celda",
-        "scds"
+        "celda"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2256,7 +2246,6 @@
     "snapCGH": [
         "aCGH"
     ],
-    "snifter": [],
     "SNPhood": [],
     "soGGi": [
         "chipseq"
@@ -2285,7 +2274,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [],
     "SPIAT": [],
@@ -2503,7 +2491,6 @@
         "Spectra",
         "mzID"
     ],
-    "xcore": [],
     "XDE": [
         "siggenes"
     ],
