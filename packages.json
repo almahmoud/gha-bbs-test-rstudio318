@@ -117,7 +117,6 @@
         "projectR"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "TFBSTools",
         "motifStack"
     ],
@@ -151,7 +150,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BatchQC": [],
     "beachmat.hdf5": [],
     "benchdamic": [],
     "BiGGR": [
@@ -344,7 +342,6 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "apeglm"
@@ -441,7 +438,6 @@
     "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
-        "flowClust",
         "flowMeans",
         "flowMerge"
     ],
@@ -517,7 +513,6 @@
         "biovizBase"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity"
     ],
     "cycle": [],
@@ -535,7 +530,6 @@
     "CytoGLMM": [],
     "cytoMEM": [],
     "CytoML": [
-        "flowClust",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -611,9 +605,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DEsingle": [],
     "DESpace": [],
     "DExMA": [],
@@ -789,8 +781,6 @@
         "flowFP"
     ],
     "flowCHIC": [],
-    "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity"
     ],
@@ -803,9 +793,7 @@
     ],
     "flowMatch": [],
     "flowMeans": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPloidy": [],
     "FlowSOM": [],
     "flowSpecs": [],
@@ -814,9 +802,7 @@
         "ncdfFlow"
     ],
     "flowTime": [],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
@@ -945,9 +931,7 @@
         "safe"
     ],
     "gsean": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -970,7 +954,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
         "gmapR"
@@ -1404,7 +1387,6 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "TFBSTools",
         "biovizBase",
@@ -1481,7 +1463,6 @@
     "oncoscanR": [],
     "OncoSimulR": [],
     "openCyto": [
-        "flowClust",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1699,12 +1680,9 @@
         "siggenes"
     ],
     "RedisParam": [],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionalpcs": [],
     "RegionalST": [],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
@@ -1834,7 +1812,6 @@
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
-    "sampleClassifier": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
@@ -2140,7 +2117,6 @@
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind",
         "apeglm"
     ],
