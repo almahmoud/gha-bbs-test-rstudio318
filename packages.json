@@ -2486,7 +2486,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [
         "ShortRead",
@@ -3311,7 +3310,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "methylscaper": [],
     "MethylSeekR": [],
     "methylSig": [
         "DSS",
