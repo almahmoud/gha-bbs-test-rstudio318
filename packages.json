@@ -127,7 +127,6 @@
         "bamsignals"
     ],
     "animalcules": [],
-    "annmap": [],
     "AnnotationHubData": [],
     "annotatr": [
         "regioneR"
@@ -411,9 +410,7 @@
     "ccfindR": [],
     "ccImpute": [],
     "CCPlotR": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -523,8 +520,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [],
     "ClassifyR": [],
@@ -638,7 +634,6 @@
     "consensusOV": [
         "GSVA"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "CONSTANd": [],
     "contiBAIT": [
@@ -755,7 +750,6 @@
         "flowCore"
     ],
     "CytoGLMM": [],
-    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
@@ -900,7 +894,6 @@
     "distinct": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMCFB": [],
     "DMCHMM": [],
     "DMRcate": [
         "Gviz",
@@ -995,7 +988,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
         "bamsignals"
@@ -1045,9 +1037,7 @@
         "SpatialExperiment"
     ],
     "evaluomeR": [],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "EWCE": [
         "orthogene"
     ],
@@ -1249,7 +1239,6 @@
     "gDRstyle": [],
     "gDRutils": [],
     "GDSArray": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -1325,7 +1314,6 @@
         "Category",
         "GOstats"
     ],
-    "gmoviz": [],
     "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
@@ -1590,9 +1578,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2160,7 +2146,6 @@
     ],
     "peco": [],
     "pengls": [],
-    "periodicDNA": [],
     "phantasus": [],
     "phantasusLite": [
         "rhdf5client"
@@ -2257,7 +2242,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPER": [],
     "PROPS": [],
     "Prostar": [
@@ -2431,15 +2415,12 @@
     ],
     "rexposome": [],
     "Rfastp": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
     "rgsepd": [],
     "rhdf5client": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -2469,9 +2450,7 @@
     "RITAN": [
         "BgeeDB"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR"
     ],
@@ -2687,7 +2666,6 @@
         "Category",
         "GOstats"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "minfi",
         "siggenes"
@@ -2976,7 +2954,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -2987,7 +2964,6 @@
         "flowCore"
     ],
     "Trendy": [],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [],
     "trio": [
@@ -3059,7 +3035,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "gwascat"
@@ -3098,7 +3073,6 @@
         "piano"
     ],
     "XINA": [],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
