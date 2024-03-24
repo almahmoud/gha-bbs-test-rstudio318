@@ -51,7 +51,6 @@
     ],
     "alabaster": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -62,49 +61,33 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -114,7 +97,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
     "Anaquin": [],
@@ -245,9 +227,6 @@
     "BioCor": [],
     "BiocSklearn": [],
     "biodbKegg": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
-    "biodbUniprot": [],
     "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
@@ -509,7 +488,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "clusterSeq": [],
     "clustifyr": [],
     "cmapR": [],
     "cn.farms": [
@@ -659,7 +637,6 @@
         "oligoClasses"
     ],
     "CTDquerier": [],
-    "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
     ],
@@ -1085,7 +1062,6 @@
         "flowFP",
         "flowViz"
     ],
-    "GBScleanR": [],
     "GDCRNATools": [
         "GenomicDataCommons",
         "clusterProfiler",
@@ -1162,7 +1138,6 @@
         "ncdfFlow"
     ],
     "ggkegg": [],
-    "ggmanh": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1222,9 +1197,7 @@
     "h5vc": [],
     "hapFabia": [],
     "HarmonizR": [],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "hca": [],
     "HelloRanges": [],
     "hermes": [],
@@ -1238,13 +1211,8 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "hicVennDiagram": [],
     "hipathia": [],
     "HIPPO": [],
@@ -2201,7 +2169,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -2298,7 +2265,6 @@
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
-    "SAIGEgds": [],
     "sampleClassifier": [],
     "SARC": [
         "RaggedExperiment",
