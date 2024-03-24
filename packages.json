@@ -525,8 +525,7 @@
         "Spectra"
     ],
     "condiments": [
-        "distinct",
-        "slingshot"
+        "distinct"
     ],
     "CONFESS": [
         "flowClust",
@@ -908,8 +907,7 @@
     ],
     "fcScan": [],
     "FEAST": [
-        "SC3",
-        "TSCAN"
+        "SC3"
     ],
     "fedup": [],
     "ffpe": [
@@ -2221,9 +2219,7 @@
     "scReClassify": [],
     "screenCounter": [],
     "scRepertoire": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
         "ggbio"
@@ -2305,7 +2301,6 @@
     "singleCellTK": [
         "GSVA",
         "MAST",
-        "TSCAN",
         "celda",
         "scMerge",
         "scds"
@@ -2323,7 +2318,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [],
     "snapCGH": [
         "aCGH"
@@ -2504,9 +2498,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
@@ -2518,9 +2510,7 @@
     "tRanslatome": [
         "anota"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
@@ -2533,7 +2523,6 @@
     ],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "TTMap": [],
     "TVTB": [
         "Gviz",
