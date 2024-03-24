@@ -88,7 +88,6 @@
         "biovizBase"
     ],
     "AMARETTO": [],
-    "amplican": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -173,7 +172,6 @@
     "benchdamic": [
         "MAST"
     ],
-    "BgeeDB": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -213,7 +211,6 @@
     "biscuiteer": [
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [
@@ -233,8 +230,7 @@
         "plyranges"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "BPRMeth": [],
     "brainflowprobes": [
@@ -245,7 +241,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -280,7 +275,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -334,7 +328,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -363,7 +356,6 @@
         "DMRcate",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -423,7 +415,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -470,8 +461,7 @@
     ],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "comapr": [
         "Gviz",
@@ -489,9 +479,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [
         "distinct"
     ],
@@ -531,13 +519,10 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "CRImage": [
         "aCGH"
     ],
@@ -669,8 +654,7 @@
     ],
     "deltaCaptureC": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxSNP": [],
     "DEP": [
@@ -714,7 +698,6 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -722,8 +705,7 @@
     ],
     "DMRScan": [],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -745,9 +727,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easyRNASeq": [
         "genomeIntervals"
     ],
@@ -846,14 +826,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "fCCAC": [
         "genomation"
     ],
     "fcScan": [],
-    "FEAST": [
-        "SC3"
-    ],
+    "FEAST": [],
     "fedup": [],
     "ffpe": [
         "lumi",
@@ -869,7 +846,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -993,7 +969,6 @@
     "GenomicScores": [],
     "GenomicTuples": [],
     "GenProSeq": [],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [],
     "GEOmetadb": [],
@@ -1153,7 +1128,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1200,8 +1174,7 @@
         "siggenes"
     ],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "lemur": [
@@ -1222,7 +1195,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1253,7 +1225,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1317,8 +1288,7 @@
     ],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
-        "Spectra"
+        "QFeatures"
     ],
     "metabolomicsWorkbenchR": [
         "struct"
@@ -1331,7 +1301,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1342,12 +1311,9 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
-        "bsseq"
+        "EDASeq"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
@@ -1356,7 +1322,6 @@
         "siggenes"
     ],
     "methylCC": [
-        "bsseq",
         "minfi",
         "plyranges",
         "siggenes"
@@ -1380,8 +1345,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi",
@@ -1418,10 +1382,7 @@
         "crlmm",
         "oligoClasses"
     ],
-    "miQC": [],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "Category",
@@ -1441,7 +1402,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1472,24 +1432,13 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
     "MsExperiment": [
-        "QFeatures",
-        "Spectra"
+        "QFeatures"
     ],
     "msgbsR": [
         "biovizBase",
@@ -1522,8 +1471,7 @@
     ],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
-        "Spectra"
+        "QFeatures"
     ],
     "MSstatsLiP": [
         "MSstatsPTM"
@@ -1574,15 +1522,12 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1657,7 +1602,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [
         "GSVA"
     ],
@@ -1697,7 +1641,6 @@
         "GOstats"
     ],
     "PCAN": [],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx"
     ],
@@ -1813,9 +1756,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "mzID"
@@ -1903,9 +1844,7 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
@@ -1965,13 +1904,10 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2055,7 +1991,6 @@
     ],
     "satuRn": [],
     "SBGNview": [],
-    "SC3": [],
     "Scale4C": [],
     "SCAN.UPC": [
         "oligo",
@@ -2087,8 +2022,7 @@
     "scifer": [],
     "scMET": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -2205,8 +2139,7 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [],
     "Spaniel": [],
@@ -2215,7 +2148,6 @@
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
@@ -2224,7 +2156,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [],
     "SpectralTAD": [],
     "SPIAT": [],
     "spicyR": [],
@@ -2235,7 +2166,6 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "SPOTlight": [],
     "spqn": [],
     "SPsimSeq": [],
     "sRACIPE": [],
@@ -2297,7 +2227,6 @@
     "TEKRABber": [
         "apeglm"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "restfulSE",
         "rhdf5client"
@@ -2340,7 +2269,6 @@
         "biovizBase"
     ],
     "tradeSeq": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
@@ -2429,7 +2357,6 @@
         "MSnbase",
         "MsExperiment",
         "QFeatures",
-        "Spectra",
         "mzID"
     ],
     "XDE": [
