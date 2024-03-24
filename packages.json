@@ -154,7 +154,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [],
     "altcdfenvs": [],
     "AMARETTO": [
@@ -196,7 +195,6 @@
     "APAlyzer": [
         "VariantAnnotation"
     ],
-    "apComplex": [],
     "apeglm": [],
     "APL": [
         "SingleCellExperiment",
@@ -300,7 +298,6 @@
         "mzID",
         "pRoloc"
     ],
-    "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
     ],
@@ -1458,7 +1455,6 @@
     "DOSE": [],
     "doseR": [],
     "doubletrouble": [
-        "MSA2dist",
         "syntenet"
     ],
     "dreamlet": [
@@ -1672,7 +1668,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "EnrichedHeatmap",
         "GenomicInteractions",
@@ -2101,7 +2096,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -2158,7 +2152,6 @@
         "basilisk"
     ],
     "hicVennDiagram": [],
-    "HilbertCurve": [],
     "HiLDA": [],
     "hipathia": [
         "MultiAssayExperiment"
@@ -2213,7 +2206,6 @@
     ],
     "IdeoViz": [],
     "idr2d": [],
-    "IFAA": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -2282,7 +2274,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "InterMineR": [],
     "IntOMICS": [],
     "IONiseR": [
         "ShortRead"
@@ -2418,7 +2409,6 @@
         "xcms"
     ],
     "loci2path": [],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment"
@@ -2443,7 +2433,6 @@
     "MACSr": [
         "basilisk"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -2902,7 +2891,6 @@
     ],
     "MouseFM": [],
     "msa": [],
-    "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
@@ -3208,15 +3196,12 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
     "omicRexposome": [
         "MultiDataSet",
-        "made4",
         "omicade4",
         "rexposome",
         "sva"
@@ -3414,7 +3399,6 @@
         "scuttle"
     ],
     "pipeFrame": [],
-    "planttfhunter": [],
     "PloGO2": [
         "Category",
         "GOstats"
@@ -3874,7 +3858,6 @@
         "ropls"
     ],
     "rrvgo": [],
-    "rScudo": [],
     "RSVSim": [
         "ShortRead"
     ],
@@ -3949,7 +3932,6 @@
         "SingleCellExperiment",
         "zinbwave"
     ],
-    "scBubbletree": [],
     "scCB2": [
         "DropletUtils",
         "HDF5Array",
@@ -4724,7 +4706,6 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TRONCO": [],
     "TSCAN": [
         "SingleCellExperiment",
         "TrajectoryUtils"
@@ -4893,8 +4874,7 @@
         "SomaticSignatures",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "gtrellis"
+        "ggbio"
     ],
     "yarn": [
         "HDF5Array",
