@@ -147,7 +147,6 @@
         "mzID",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -352,15 +351,11 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "apeglm",
-        "chipseq"
+        "apeglm"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
-    "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "frma",
         "oligo",
@@ -460,7 +455,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -534,7 +528,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowClust",
         "flowDensity"
@@ -586,9 +579,7 @@
         "motifStack"
     ],
     "DAMEfinder": [],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -694,7 +685,6 @@
         "genomeIntervals"
     ],
     "EBSEA": [],
-    "EDASeq": [],
     "edge": [],
     "EGAD": [],
     "EGSEA": [
@@ -867,14 +857,10 @@
         "siggenes"
     ],
     "FuseSOM": [],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "gaga": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "flowFP"
@@ -977,7 +963,6 @@
     "GOstats": [
         "Category"
     ],
-    "GOTHiC": [],
     "GRaNIE": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1015,8 +1000,6 @@
     "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HTSFilter": [],
@@ -1040,7 +1023,6 @@
     "IdeoViz": [],
     "idr2d": [],
     "IHW": [],
-    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1260,8 +1242,7 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "MetCirc": [],
     "methInheritSim": [],
@@ -1458,7 +1439,6 @@
         "decompTumor2Sig",
         "maftools"
     ],
-    "MutationalPatterns": [],
     "myvariant": [],
     "mzID": [],
     "NADfinder": [
@@ -1513,7 +1493,6 @@
     ],
     "OCplus": [],
     "octad": [
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -1558,7 +1537,6 @@
     "ORFik": [],
     "orthogene": [],
     "orthos": [],
-    "OTUbase": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -1665,7 +1643,6 @@
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -1803,9 +1780,7 @@
     "ReQON": [
         "seqbias"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "restfulSE": [
         "rhdf5client"
     ],
@@ -1827,7 +1802,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1910,9 +1884,7 @@
     "RTopper": [],
     "rTRMui": [],
     "RUVcorr": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
@@ -1950,7 +1922,6 @@
         "annotatr"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -1985,7 +1956,6 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler",
@@ -2047,9 +2017,7 @@
         "aCGH"
     ],
     "SNPhood": [],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
         "ggbio"
@@ -2064,7 +2032,6 @@
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
-    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2091,7 +2058,6 @@
     ],
     "ssPATHS": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -2161,7 +2127,6 @@
         "enrichplot"
     ],
     "TitanCNA": [],
-    "tLOH": [],
     "TMixClust": [],
     "TNBC.CMS": [
         "GSVA"
@@ -2183,9 +2148,7 @@
         "biovizBase"
     ],
     "tradeSeq": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -2236,7 +2199,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
