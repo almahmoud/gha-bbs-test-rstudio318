@@ -168,7 +168,6 @@
         "glmGamPoi"
     ],
     "BatchQC": [],
-    "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "BEARscc": [],
     "BEAT": [],
@@ -297,7 +296,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO"
     ],
@@ -338,7 +336,6 @@
         "MAST"
     ],
     "celda": [],
-    "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [
         "Category"
@@ -868,7 +865,6 @@
         "enrichplot"
     ],
     "fastLiquidAssociation": [],
-    "FastqCleaner": [],
     "fCCAC": [
         "genomation"
     ],
@@ -1658,7 +1654,6 @@
         "GSVA",
         "RUVSeq"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "biovizBase"
@@ -2214,7 +2209,6 @@
         "GSVA",
         "consensusOV"
     ],
-    "SigsPack": [],
     "SIMAT": [],
     "SimBindProfiles": [],
     "SimBu": [
@@ -2315,14 +2309,9 @@
     "structToolbox": [
         "struct"
     ],
-    "StructuralVariantAnnotation": [],
     "SUITOR": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [],
     "synapter": [
         "MSnbase",
