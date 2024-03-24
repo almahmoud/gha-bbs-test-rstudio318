@@ -405,7 +405,6 @@
         "Rsamtools",
         "genefilter"
     ],
-    "AnnotationDbi": [],
     "AnnotationFilter": [],
     "AnnotationForge": [],
     "AnnotationHub": [
@@ -1151,7 +1150,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "BiocNeighbors",
         "BiocSingular",
@@ -5990,7 +5988,6 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "KEGGREST": [],
     "KinSwingR": [],
     "kissDE": [
         "BSgenome",
