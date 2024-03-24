@@ -267,9 +267,7 @@
         "biovizBase"
     ],
     "BioNERO": [],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -507,7 +505,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -773,8 +770,7 @@
     "debrowser": [
         "apeglm",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "decompTumor2Sig": [],
     "decontX": [
@@ -788,9 +784,7 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEFormats": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -875,7 +869,6 @@
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "pathview",
         "safe",
         "zenith"
     ],
@@ -902,7 +895,6 @@
     "EGAD": [],
     "EGSEA": [
         "GSVA",
-        "pathview",
         "safe"
     ],
     "ELMER": [
@@ -919,7 +911,6 @@
         "siggenes"
     ],
     "EnrichmentBrowser": [
-        "pathview",
         "safe"
     ],
     "enrichplot": [],
@@ -1127,8 +1118,7 @@
     "GDCRNATools": [
         "GenomicDataCommons",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDNAx": [
         "GenomicFiles"
@@ -1252,7 +1242,6 @@
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "pathview",
         "safe"
     ],
     "gsean": [
@@ -1478,8 +1467,7 @@
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [],
     "MAIT": [
@@ -1519,7 +1507,6 @@
         "oligoClasses"
     ],
     "MBQN": [],
-    "mbQTL": [],
     "MCbiclust": [],
     "mCSEA": [
         "Gviz",
@@ -1661,7 +1648,6 @@
     "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -1874,7 +1860,6 @@
         "mzID",
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -2001,7 +1986,6 @@
         "phyloseq"
     ],
     "pathRender": [],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "GOstats"
@@ -2406,9 +2390,7 @@
         "plyranges"
     ],
     "satuRn": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SC3": [],
     "Scale4C": [],
     "SCAN.UPC": [
@@ -2927,7 +2909,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "pathview",
         "safe"
     ],
     "zinbwave": [],
