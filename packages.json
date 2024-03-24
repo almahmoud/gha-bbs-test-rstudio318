@@ -10,8 +10,7 @@
     "aCGH": [],
     "ADaCGH2": [
         "aCGH",
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAM": [],
     "ADAMgui": [
@@ -29,7 +28,6 @@
         "ggbio",
         "oligoClasses"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -116,7 +114,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AlpsNMR": [],
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
@@ -215,11 +212,9 @@
     "beachmat.hdf5": [],
     "BEARscc": [],
     "BEAT": [],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "MAST",
-        "biomformat",
         "phyloseq",
         "zinbwave"
     ],
@@ -250,15 +245,12 @@
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocSklearn": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbUniprot": [],
-    "biomformat": [],
     "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
@@ -551,7 +543,6 @@
     "CNVMetrics": [],
     "CNVPanelizer": [],
     "CNVRanger": [
-        "GDSArray",
         "RaggedExperiment"
     ],
     "CNVrd2": [],
@@ -565,7 +556,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -1126,9 +1116,7 @@
         "PharmacoGx",
         "gDRutils"
     ],
-    "gDRstyle": [],
     "gDRutils": [],
-    "GDSArray": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -1169,7 +1157,6 @@
     "GEOmetadb": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1253,14 +1240,12 @@
     "hermes": [],
     "HERON": [],
     "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiCExperiment": [],
@@ -1482,7 +1467,6 @@
     ],
     "MBASED": [],
     "MBECS": [
-        "biomformat",
         "phyloseq"
     ],
     "mbkmeans": [],
@@ -1609,19 +1593,14 @@
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
-        "biomformat",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1797,9 +1776,7 @@
         "plyranges"
     ],
     "MultiDataSet": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz"
@@ -1935,8 +1912,7 @@
     "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [],
     "packFinder": [],
@@ -1958,7 +1934,6 @@
     "pareg": [],
     "partCNV": [],
     "PathoStat": [
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [],
@@ -1998,7 +1973,6 @@
     ],
     "phenomis": [
         "MultiDataSet",
-        "biodbChebi",
         "ropls"
     ],
     "phenopath": [],
@@ -2008,9 +1982,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -2041,7 +2013,6 @@
     ],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -2167,7 +2138,6 @@
         "aCGH"
     ],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcwl": [],
@@ -2179,7 +2149,6 @@
         "enrichplot"
     ],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -2213,9 +2182,7 @@
         "minfi",
         "siggenes"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -2257,7 +2224,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "Ringo": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -2322,7 +2288,6 @@
         "MultiDataSet"
     ],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "Rqc": [
@@ -2480,7 +2445,6 @@
         "siggenes"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [],
@@ -2497,11 +2461,8 @@
     ],
     "SigsPack": [],
     "SIMAT": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "SimBu": [
-        "biomformat",
         "phyloseq"
     ],
     "simpleSeg": [
@@ -2539,8 +2500,7 @@
     ],
     "SMITE": [],
     "snapCGH": [
-        "aCGH",
-        "tilingArray"
+        "aCGH"
     ],
     "snifter": [],
     "SNPhood": [],
@@ -2580,9 +2540,7 @@
     ],
     "speckle": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment",
         "dittoSeq"
@@ -2604,7 +2562,6 @@
     "SPOTlight": [],
     "spqn": [],
     "SPsimSeq": [
-        "biomformat",
         "phyloseq"
     ],
     "sRACIPE": [],
@@ -2658,9 +2615,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "target": [],
     "TargetDecoy": [
@@ -2698,8 +2653,6 @@
     "tidybulk": [],
     "tidySingleCellExperiment": [],
     "TileDBArray": [],
-    "tilingArray": [],
-    "timeOmics": [],
     "TimiRGeN": [
         "Mfuzz",
         "clusterProfiler",
@@ -2799,9 +2752,7 @@
         "crlmm",
         "oligoClasses"
     ],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
