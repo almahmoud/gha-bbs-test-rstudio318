@@ -284,7 +284,6 @@
         "bsseq",
         "dmrseq"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -510,7 +509,6 @@
     "CiteFuse": [],
     "ClassifyR": [],
     "clipper": [],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -1027,7 +1025,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [],
-    "fenr": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -1919,7 +1916,6 @@
         "SpatialExperiment"
     ],
     "nondetects": [],
-    "NoRCE": [],
     "NormalyzerDE": [],
     "NormqPCR": [],
     "normr": [
@@ -2659,7 +2655,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "SpidermiR": [],
     "splatter": [],
     "SpliceWiz": [],
     "SplicingFactory": [],
@@ -2693,9 +2688,7 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
