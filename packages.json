@@ -259,7 +259,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "bsseq": [],
     "BubbleTree": [
         "biovizBase"
@@ -700,14 +699,12 @@
         "celda"
     ],
     "deconvR": [
-        "methylKit",
         "minfi",
         "siggenes"
     ],
     "DeepBlueR": [],
     "deepSNV": [],
     "DEGraph": [],
-    "DEGreport": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
         "DelayedRandomArray"
@@ -798,7 +795,6 @@
     "DSS": [
         "bsseq"
     ],
-    "easier": [],
     "easyRNASeq": [
         "genomeIntervals"
     ],
@@ -839,7 +835,6 @@
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot",
         "genomation"
@@ -856,7 +851,6 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -996,9 +990,7 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frma": [
         "oligo",
         "oligoClasses"
@@ -1270,9 +1262,7 @@
         "DEXSeq",
         "satuRn"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
@@ -1447,9 +1437,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -1475,10 +1463,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
@@ -1792,11 +1777,9 @@
         "flowMeans"
     ],
     "ORFik": [],
-    "Organism.dplyr": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -2179,7 +2162,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "RTopper": [],
     "rTRMui": [],
     "RUVcorr": [],
@@ -2468,7 +2450,6 @@
         "mzID"
     ],
     "systemPipeR": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -2566,13 +2547,8 @@
     "trio": [
         "siggenes"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TSCAN": [],
     "TTMap": [],
     "TVTB": [
@@ -2583,7 +2559,6 @@
     "tweeDEseq": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener",
         "plyranges"
     ],
