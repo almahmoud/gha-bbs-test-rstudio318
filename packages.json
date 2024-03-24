@@ -109,7 +109,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
@@ -267,9 +266,7 @@
     "casper": [
         "gaga"
     ],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "Category": [],
     "categoryCompare": [
         "Category",
@@ -305,7 +302,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -520,12 +516,10 @@
     "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "CytoGLMM": [],
     "cytoMEM": [],
@@ -537,7 +531,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -545,7 +538,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -613,9 +605,7 @@
     "DiffBind": [
         "apeglm"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "diffHic": [],
     "diffUTR": [
         "DEXSeq"
@@ -775,12 +765,9 @@
         "biovizBase",
         "ggbio"
     ],
-    "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowFP"
     ],
-    "flowCHIC": [],
     "flowCut": [
         "flowDensity"
     ],
@@ -795,7 +782,6 @@
     "flowMeans": [],
     "flowMerge": [],
     "flowPloidy": [],
-    "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
         "flowWorkspace",
@@ -983,7 +969,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -992,7 +977,6 @@
         "minfi",
         "siggenes"
     ],
-    "infinityFlow": [],
     "InPAS": [
         "plyranges"
     ],
@@ -1177,9 +1161,7 @@
     "metabolomicsWorkbenchR": [
         "struct"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1197,7 +1179,6 @@
     ],
     "MetCirc": [],
     "methInheritSim": [],
-    "MethReg": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -1340,7 +1321,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MSPrep": [],
     "msPurity": [],
     "msqrob2": [
         "QFeatures"
@@ -1476,7 +1456,6 @@
     "OutSplice": [
         "Repitools"
     ],
-    "PAA": [],
     "packFinder": [],
     "pageRank": [
         "TFBSTools",
@@ -1587,7 +1566,6 @@
         "pRoloc"
     ],
     "PROPER": [],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
@@ -1715,7 +1693,6 @@
     ],
     "rexposome": [],
     "Rfastp": [],
-    "RgnTX": [],
     "rgsepd": [],
     "rhdf5client": [],
     "Rhisat2": [],
@@ -1806,7 +1783,6 @@
         "TCGAutils"
     ],
     "RTopper": [],
-    "rTRMui": [],
     "RUVcorr": [],
     "RUVSeq": [],
     "Rvisdiff": [],
@@ -1845,7 +1821,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "Sconify": [],
     "scp": [
         "QFeatures"
     ],
@@ -1883,7 +1858,6 @@
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
-    "SEtools": [],
     "SGCP": [
         "Category",
         "GOstats"
@@ -1999,9 +1973,7 @@
     "TargetDecoy": [
         "mzID"
     ],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [],
     "TCGAutils": [
         "GenomicDataCommons",
@@ -2062,7 +2034,6 @@
     ],
     "traviz": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "Trendy": [],
