@@ -40,9 +40,7 @@
         "ggbio",
         "oligoClasses"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "airpart": [
         "apeglm"
     ],
@@ -96,13 +94,11 @@
     ],
     "AMARETTO": [],
     "amplican": [],
-    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
     "animalcules": [],
-    "AnnotationHubData": [],
     "annotatr": [],
     "anota": [],
     "anota2seq": [],
@@ -731,7 +727,6 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
@@ -762,7 +757,6 @@
     ],
     "destiny": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
@@ -922,9 +916,7 @@
         "orthogene"
     ],
     "exomePeak2": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment"
     ],
@@ -1045,8 +1037,7 @@
     "gaga": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
-        "MLSeq"
+        "EDASeq"
     ],
     "GateFinder": [
         "flowFP",
@@ -1336,7 +1327,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
     "LinTInd": [],
@@ -1505,7 +1495,6 @@
         "siggenes"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "minfi",
         "siggenes"
@@ -1593,9 +1582,7 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLSeq": [],
     "MMUPHin": [],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -2360,7 +2347,6 @@
     "seqbias": [],
     "seqCAT": [],
     "SeqGate": [],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "seqTools": [],
     "SEtools": [],
@@ -2698,7 +2684,6 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "vidger": [],
     "ViSEAGO": [],
     "Voyager": [
         "SpatialExperiment",
