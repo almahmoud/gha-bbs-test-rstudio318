@@ -92,7 +92,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [],
     "annotatr": [],
     "anota": [],
     "anota2seq": [],
@@ -151,7 +150,6 @@
         "GOstats"
     ],
     "AUCell": [],
-    "autonomics": [],
     "AWFisher": [],
     "awst": [],
     "bacon": [],
@@ -347,8 +345,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "CelliD": [],
-    "cellity": [],
     "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
@@ -359,7 +355,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -387,7 +382,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -437,7 +431,6 @@
         "Rhisat2"
     ],
     "CiteFuse": [],
-    "ClassifyR": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -818,7 +811,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -1102,7 +1094,6 @@
     "Harshlight": [],
     "hca": [],
     "HelloRanges": [],
-    "hermes": [],
     "HERON": [],
     "HiCBricks": [],
     "HiCDCPlus": [
@@ -1251,7 +1242,6 @@
         "ropls"
     ],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "lmdme": [],
@@ -1271,7 +1261,6 @@
         "siggenes"
     ],
     "Macarron": [],
-    "MACSr": [],
     "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
@@ -1446,7 +1435,6 @@
     ],
     "microRNA": [],
     "microSTASIS": [],
-    "midasHLA": [],
     "mimager": [
         "oligo",
         "oligoClasses"
@@ -1496,7 +1484,6 @@
     ],
     "MOGAMUN": [],
     "MoleculeExperiment": [],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -1641,7 +1628,6 @@
     "nearBynding": [
         "plyranges"
     ],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM"
     ],
@@ -2136,9 +2122,7 @@
     ],
     "scBFA": [],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "sccomp": [],
     "scDataviz": [],
     "scDD": [],
@@ -2150,12 +2134,10 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "schex": [],
     "scHOT": [],
     "scider": [],
     "scifer": [],
-    "scMerge": [],
     "scMET": [],
     "scmeth": [
         "annotatr",
@@ -2255,7 +2237,6 @@
         "GSVA",
         "MAST",
         "celda",
-        "scMerge",
         "scds"
     ],
     "SingleMoleculeFootprinting": [
@@ -2308,9 +2289,7 @@
     "Spectra": [],
     "SpectralTAD": [],
     "SPIAT": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpliceWiz": [],
     "SplicingFactory": [],
     "SPLINTER": [
@@ -2416,9 +2395,7 @@
     ],
     "tomoda": [],
     "tomoseqr": [],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [
         "MSnbase",
         "mzID"
