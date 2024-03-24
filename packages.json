@@ -164,9 +164,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
         "CNEr",
@@ -204,9 +202,7 @@
     "awst": [],
     "bacon": [],
     "BadRegionFinder": [],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bambu": [],
     "bamsignals": [],
     "BANDITS": [],
@@ -221,9 +217,7 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
     "bayNorm": [],
     "BBCAnalyzer": [],
@@ -284,9 +278,7 @@
         "biovizBase"
     ],
     "BioNAR": [],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "BioNetStat": [
         "pathview"
     ],
@@ -313,12 +305,10 @@
         "ROntoTools"
     ],
     "bnbc": [
-        "HiCBricks",
-        "sva"
+        "HiCBricks"
     ],
     "bnem": [
-        "epiNEM",
-        "sva"
+        "epiNEM"
     ],
     "BOBaFIT": [
         "biovizBase",
@@ -361,8 +351,7 @@
     "cageminer": [
         "BioNERO",
         "biovizBase",
-        "ggbio",
-        "sva"
+        "ggbio"
     ],
     "CAGEr": [
         "CAGEfightR",
@@ -489,7 +478,6 @@
         "minfi",
         "missMethyl",
         "siggenes",
-        "sva",
         "wateRmelon"
     ],
     "CHETAH": [],
@@ -498,7 +486,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
@@ -738,8 +725,7 @@
     ],
     "crossmeta": [
         "oligo",
-        "oligoClasses",
-        "sva"
+        "oligoClasses"
     ],
     "CTDquerier": [],
     "cTRAP": [],
@@ -825,8 +811,7 @@
     ],
     "DAMEfinder": [],
     "DaMiRseq": [
-        "EDASeq",
-        "sva"
+        "EDASeq"
     ],
     "DAPAR": [
         "DOSE",
@@ -849,8 +834,7 @@
         "apeglm",
         "clusterProfiler",
         "enrichplot",
-        "pathview",
-        "sva"
+        "pathview"
     ],
     "decompTumor2Sig": [],
     "decontX": [
@@ -876,8 +860,7 @@
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
-        "sva"
+        "bsseq"
     ],
     "demuxSNP": [],
     "densvis": [],
@@ -907,9 +890,7 @@
     "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
         "apeglm",
@@ -953,9 +934,7 @@
     ],
     "DNAshapeR": [],
     "DominoEffect": [],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "Doscheda": [],
     "DOSE": [],
     "doubletrouble": [],
@@ -984,9 +963,7 @@
     ],
     "EBSEA": [],
     "EDASeq": [],
-    "edge": [
-        "sva"
-    ],
+    "edge": [],
     "EDIRquery": [],
     "EGAD": [],
     "EGSEA": [
@@ -1095,7 +1072,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData"
@@ -1259,8 +1235,7 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
-        "sva"
+        "MLSeq"
     ],
     "GateFinder": [
         "flowCore",
@@ -1337,9 +1312,7 @@
     "GenProSeq": [],
     "GenVisR": [],
     "GeoDiff": [],
-    "GEOexplorer": [
-        "sva"
-    ],
+    "GEOexplorer": [],
     "GEOmetadb": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
@@ -1360,7 +1333,6 @@
     ],
     "ggkegg": [],
     "ggmanh": [],
-    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1396,7 +1368,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category"
     ],
@@ -1414,7 +1385,6 @@
         "PPInfer"
     ],
     "GSReg": [],
-    "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
@@ -1429,9 +1399,7 @@
     "GWENA": [],
     "h5vc": [],
     "hapFabia": [],
-    "HarmonizR": [
-        "sva"
-    ],
+    "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs"
     ],
@@ -1538,7 +1506,6 @@
     "IntOMICS": [],
     "IONiseR": [],
     "iPath": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1572,7 +1539,6 @@
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "satuRn",
-        "sva",
         "tximeta"
     ],
     "isomiRs": [
@@ -1600,9 +1566,7 @@
         "DSS",
         "bsseq"
     ],
-    "KnowSeq": [
-        "sva"
-    ],
+    "KnowSeq": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -1693,8 +1657,7 @@
     "MBASED": [],
     "MBECS": [
         "biomformat",
-        "phyloseq",
-        "sva"
+        "phyloseq"
     ],
     "mbkmeans": [],
     "mBPCR": [
@@ -1715,8 +1678,7 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
-        "sva"
+        "siggenes"
     ],
     "MEAT": [
         "lumi",
@@ -1750,8 +1712,7 @@
         "struct"
     ],
     "MetaboSignal": [
-        "MWASTools",
-        "mygene"
+        "MWASTools"
     ],
     "MetaCyto": [
         "FlowSOM",
@@ -1936,7 +1897,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
@@ -1954,7 +1914,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -1999,9 +1958,7 @@
         "msmsTests",
         "mzID"
     ],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "msPurity": [],
     "msqrob2": [
         "QFeatures"
@@ -2064,7 +2021,6 @@
     ],
     "MutationalPatterns": [],
     "MWASTools": [],
-    "mygene": [],
     "myvariant": [],
     "mzID": [],
     "NADfinder": [
@@ -2164,8 +2120,7 @@
     "omicRexposome": [
         "MultiDataSet",
         "omicade4",
-        "rexposome",
-        "sva"
+        "rexposome"
     ],
     "OMICsPCA": [
         "HelloRanges"
@@ -2204,9 +2159,7 @@
         "Repitools",
         "Ringo"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "packFinder": [],
     "padma": [],
     "pageRank": [
@@ -2215,8 +2168,7 @@
         "motifmatchr"
     ],
     "pairedGSEA": [
-        "DEXSeq",
-        "sva"
+        "DEXSeq"
     ],
     "panelcn.mops": [
         "cn.mops"
@@ -2259,7 +2211,6 @@
         "MSnbase",
         "mzID"
     ],
-    "PECA": [],
     "peco": [],
     "pengls": [],
     "periodicDNA": [],
@@ -2292,7 +2243,6 @@
     ],
     "Pi": [],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -2301,7 +2251,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "biovizBase"
     ],
     "pipeComp": [],
@@ -2365,9 +2314,7 @@
     ],
     "PROMISE": [],
     "PROPER": [],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DOSE",
@@ -2418,12 +2365,8 @@
         "mzID"
     ],
     "qsea": [],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "Qtlizer": [],
     "quantro": [
         "minfi",
@@ -2470,7 +2413,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -2683,8 +2625,7 @@
     "Scale4C": [],
     "SCAN.UPC": [
         "oligo",
-        "oligoClasses",
-        "sva"
+        "oligoClasses"
     ],
     "scanMiR": [],
     "scanMiRApp": [
@@ -2743,7 +2684,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [],
     "scp": [
         "QFeatures"
@@ -2802,9 +2742,7 @@
     "seqTools": [],
     "SeqVarTools": [],
     "sesame": [],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "sevenC": [],
     "SGCP": [
         "Category",
@@ -2861,7 +2799,6 @@
         "scDblFinder",
         "scMerge",
         "scds",
-        "sva",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -2992,7 +2929,6 @@
     "StructuralVariantAnnotation": [],
     "SUITOR": [],
     "surfaltr": [],
-    "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation"
     ],
@@ -3024,8 +2960,7 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
-        "singscore",
-        "sva"
+        "singscore"
     ],
     "TCC": [],
     "TCGAbiolinks": [],
@@ -3088,7 +3023,6 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "biovizBase"
@@ -3122,9 +3056,7 @@
     "Trendy": [],
     "TRESS": [],
     "tricycle": [],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "trio": [
         "siggenes"
     ],
@@ -3181,8 +3113,7 @@
     ],
     "VariantTools": [],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "GenomicFiles"
