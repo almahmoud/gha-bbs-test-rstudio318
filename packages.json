@@ -523,8 +523,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "geNetClassifier",
-        "graphite"
+        "geNetClassifier"
     ],
     "BiocCheck": [],
     "biocGraph": [],
@@ -691,7 +690,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "derfinderPlot",
         "ensembldb",
         "ggbio"
@@ -702,7 +700,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -849,8 +846,7 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "graphite"
+        "fgsea"
     ],
     "cbpManager": [
         "basilisk"
@@ -1121,8 +1117,7 @@
     ],
     "cleanUpdTSeq": [],
     "clipper": [
-        "KEGGgraph",
-        "qpgraph"
+        "KEGGgraph"
     ],
     "cliProfiler": [],
     "cliqueMS": [
@@ -1459,7 +1454,6 @@
     ],
     "CSAR": [],
     "csaw": [],
-    "csdR": [],
     "CSSQ": [],
     "CTdata": [],
     "CTDquerier": [],
@@ -1600,7 +1594,6 @@
     ],
     "dce": [
         "epiNEM",
-        "graphite",
         "mnem"
     ],
     "dcGSA": [],
@@ -1711,10 +1704,8 @@
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
-        "derfinderHelper"
+        "bumphunter"
     ],
-    "derfinderHelper": [],
     "derfinderPlot": [
         "AnnotationFilter",
         "GenomicFiles",
@@ -1723,7 +1714,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "ensembldb",
         "ggbio"
     ],
@@ -1870,7 +1860,6 @@
         "SPIA",
         "SingleCellExperiment",
         "beachmat",
-        "graphite",
         "pathview",
         "safe",
         "variancePartition",
@@ -1973,7 +1962,6 @@
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
@@ -2468,10 +2456,8 @@
     ],
     "GenomAutomorphism": [],
     "genomeIntervals": [],
-    "GenomicAlignments": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2627,7 +2613,6 @@
         "ensembldb",
         "topGO"
     ],
-    "graphite": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -2642,7 +2627,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
@@ -2856,7 +2840,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "graphite",
         "minfi",
         "rhdf5",
         "siggenes"
@@ -3627,9 +3610,7 @@
         "rhdf5"
     ],
     "MOGAMUN": [],
-    "mogsa": [
-        "graphite"
-    ],
+    "mogsa": [],
     "MoleculeExperiment": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -3832,8 +3813,7 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "fgsea",
-        "graphite"
+        "fgsea"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -4007,7 +3987,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "MultiAssayExperiment",
         "fgsea"
@@ -4031,7 +4010,6 @@
     ],
     "NPARC": [],
     "npGSEA": [],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -4313,8 +4291,7 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "graphite"
+        "fgsea"
     ],
     "PING": [
         "AnnotationFilter",
@@ -4458,7 +4435,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "PSMatch": [
@@ -4510,7 +4486,6 @@
     ],
     "qmtools": [],
     "qpcrNorm": [],
-    "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID",
@@ -4520,7 +4495,6 @@
     "qsmooth": [
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "sva"
     ],
@@ -4616,8 +4590,7 @@
     "ReactomePA": [
         "DOSE",
         "enrichplot",
-        "fgsea",
-        "graphite"
+        "fgsea"
     ],
     "rebook": [],
     "receptLoss": [],
@@ -4630,8 +4603,7 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "recount3": [],
     "recountmethylation": [
@@ -4685,8 +4657,7 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "regsplice": [],
     "regutools": [
@@ -4829,7 +4800,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "rnaEditr": [
@@ -4882,7 +4852,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "RnBeads": [
@@ -4964,7 +4933,6 @@
         "RaggedExperiment",
         "plyranges"
     ],
-    "sarks": [],
     "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
@@ -5228,7 +5196,6 @@
         "SingleCellExperiment",
         "enrichplot",
         "fgsea",
-        "graphite",
         "meshr",
         "schex"
     ],
@@ -5322,7 +5289,6 @@
         "sechm",
         "sva"
     ],
-    "sevenbridges": [],
     "sevenC": [
         "InteractionSet"
     ],
@@ -5679,9 +5645,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "sSNAPPY": [
-        "graphite"
-    ],
+    "sSNAPPY": [],
     "ssPATHS": [],
     "ssviz": [],
     "stageR": [],
@@ -5698,8 +5662,7 @@
         "vsn"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "graphite"
+        "SpidermiR"
     ],
     "STATegRa": [],
     "Statial": [
@@ -5753,7 +5716,6 @@
         "vsn"
     ],
     "SynExtend": [],
-    "SynMut": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -5846,7 +5808,6 @@
         "SingleCellExperiment"
     ],
     "tidySummarizedExperiment": [],
-    "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
         "vsn"
@@ -6225,7 +6186,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe",
         "variancePartition"
