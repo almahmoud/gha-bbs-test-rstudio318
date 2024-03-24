@@ -172,9 +172,7 @@
         "ggbio",
         "plyranges"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "BPRMeth": [],
     "brainflowprobes": [
         "derfinder",
@@ -375,9 +373,7 @@
         "flowMeans",
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [],
     "CONSTANd": [],
     "contiBAIT": [],
@@ -506,9 +502,7 @@
         "DelayedRandomArray"
     ],
     "deltaCaptureC": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "DEP": [
         "MSnbase",
         "mzID"
@@ -564,7 +558,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "DSS": [],
     "easyRNASeq": [
         "genomeIntervals"
     ],
@@ -914,9 +907,7 @@
     "KCsmart": [
         "siggenes"
     ],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "KnowSeq": [],
     "lemur": [
         "glmGamPoi"
@@ -1035,9 +1026,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "MetCirc": [],
     "methInheritSim": [],
     "MethylAid": [
@@ -1065,9 +1054,7 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "minfi",
         "siggenes"
@@ -1138,9 +1125,7 @@
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
     "MsExperiment": [
@@ -1251,9 +1236,7 @@
         "plyranges"
     ],
     "OCplus": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OGRE": [
         "Gviz"
     ],
@@ -1507,7 +1490,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "Risa": [
@@ -1575,7 +1557,6 @@
     ],
     "RTopper": [],
     "RUVcorr": [],
-    "RUVSeq": [],
     "Rvisdiff": [],
     "RVS": [],
     "safe": [],
@@ -1607,9 +1588,7 @@
     "scmeth": [
         "annotatr"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scp": [
         "QFeatures"
     ],
@@ -1718,9 +1697,7 @@
         "Gviz"
     ],
     "ssPATHS": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2"
