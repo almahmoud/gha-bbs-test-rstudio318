@@ -58,7 +58,6 @@
         "MultiAssayExperiment"
     ],
     "affxparser": [],
-    "affycomp": [],
     "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
@@ -267,7 +266,6 @@
     "ALDEx2": [
         "multtest"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationFilter",
         "BSgenome",
@@ -326,7 +324,6 @@
         "Rsamtools",
         "bamsignals"
     ],
-    "ANF": [],
     "animalcules": [
         "DESeq2",
         "MultiAssayExperiment"
@@ -1023,7 +1020,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "Linnorm",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -1325,7 +1321,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "RCy3",
         "genefilter"
     ],
     "cbaf": [
@@ -1482,7 +1477,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea"
@@ -1955,7 +1949,6 @@
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment",
-        "SNPRelate",
         "SeqArray"
     ],
     "CNVrd2": [
@@ -2582,7 +2575,6 @@
         "vsn"
     ],
     "dce": [
-        "Linnorm",
         "epiNEM",
         "graphite",
         "mnem",
@@ -2683,8 +2675,7 @@
     ],
     "DEGraph": [
         "KEGGgraph",
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "ComplexHeatmap",
@@ -3213,7 +3204,6 @@
     "enrichViewNet": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "enrichplot",
         "fgsea"
     ],
@@ -3322,7 +3312,6 @@
         "siggenes"
     ],
     "epiNEM": [
-        "Linnorm",
         "mnem"
     ],
     "epistack": [],
@@ -3590,9 +3579,7 @@
         "TrajectoryUtils"
     ],
     "FeatSeekR": [],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "FELLA": [],
     "fenr": [
         "biomaRt"
@@ -3959,7 +3946,6 @@
         "MultiAssayExperiment"
     ],
     "GDSArray": [
-        "SNPRelate",
         "SeqArray"
     ],
     "gemma.R": [],
@@ -3995,10 +3981,8 @@
         "affxparser"
     ],
     "geneRxCluster": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools"
     ],
@@ -4456,7 +4440,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SNPRelate",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -4648,7 +4631,6 @@
     "iCheck": [
         "BiocIO",
         "DelayedMatrixStats",
-        "GeneSelectMMD",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4926,7 +4908,6 @@
         "biomaRt"
     ],
     "IsoBayes": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -5054,7 +5035,6 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "Linnorm": [],
     "LinTInd": [],
     "lionessR": [],
     "lipidr": [
@@ -5493,7 +5473,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea"
@@ -5538,7 +5517,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationHub",
         "ExperimentHub",
@@ -5959,9 +5937,7 @@
         "Maaslin2",
         "metagenomeSeq"
     ],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -5989,9 +5965,7 @@
         "basilisk.utils",
         "rhdf5"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "GSEABase",
         "genefilter",
@@ -6484,8 +6458,7 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
-        "RCy3"
+        "KEGGgraph"
     ],
     "ncRNAtools": [],
     "nearBynding": [
@@ -6501,7 +6474,6 @@
         "SingleCellExperiment"
     ],
     "nempi": [
-        "Linnorm",
         "epiNEM",
         "mnem"
     ],
@@ -6549,7 +6521,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "RCy3",
         "Rsamtools",
         "biomaRt",
         "bumphunter",
@@ -7243,7 +7214,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
@@ -7530,7 +7500,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "VariantAnnotation",
@@ -7570,7 +7539,6 @@
     ],
     "RBGL": [],
     "RBioFormats": [],
-    "RBioinf": [],
     "RBM": [],
     "Rbowtie2": [
         "Rsamtools"
@@ -7615,7 +7583,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "RCy3": [],
     "RCyjs": [
         "BrowserViz"
     ],
@@ -7762,7 +7729,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "RCy3",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -8036,7 +8002,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
@@ -8249,7 +8214,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "RTCA": [],
     "RTCGAToolbox": [
         "BiocIO",
         "GenomicAlignments",
@@ -8811,8 +8775,7 @@
     ],
     "SeqSQC": [
         "AnnotationHub",
-        "ExperimentHub",
-        "SNPRelate"
+        "ExperimentHub"
     ],
     "seqTools": [],
     "SeqVarTools": [
@@ -9163,7 +9126,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [],
     "soGGi": [
         "BiocIO",
         "GenomicAlignments",
@@ -9310,7 +9272,6 @@
         "InteractionSet",
         "rhdf5"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -9549,7 +9510,6 @@
     "SynExtend": [
         "DECIPHER"
     ],
-    "synlet": [],
     "SynMut": [],
     "syntenet": [
         "BiocIO",
@@ -9733,7 +9693,6 @@
         "GOSemSim",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
@@ -9765,9 +9724,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -9862,9 +9819,7 @@
         "multtest",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [
         "BSgenome",
@@ -10088,7 +10043,6 @@
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
-        "SNPRelate",
         "SeqArray"
     ],
     "VariantFiltering": [
