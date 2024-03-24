@@ -200,7 +200,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "CNEr",
         "TFBSTools",
@@ -288,7 +287,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocSet": [],
     "BiocSklearn": [],
     "biodbChebi": [],
     "biodbExpasy": [],
@@ -453,9 +451,7 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "BiocSet"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -531,7 +527,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -547,7 +542,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
@@ -763,7 +757,6 @@
         "mzID",
         "xcms"
     ],
-    "cosmosR": [],
     "COTAN": [
         "PCAtools"
     ],
@@ -1471,7 +1464,6 @@
         "plyranges"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [],
     "GenomicTuples": [],
     "GenProSeq": [],
     "GenVisR": [
@@ -1513,7 +1505,6 @@
     "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
-    "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
@@ -1535,7 +1526,6 @@
     ],
     "GOfuncR": [],
     "GOpro": [],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
@@ -1651,7 +1641,6 @@
         "Category",
         "GOstats",
         "IHW",
-        "goseq",
         "pcaExplorer"
     ],
     "IdeoViz": [],
@@ -1942,7 +1931,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagene2": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2322,7 +2310,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
@@ -2607,7 +2594,6 @@
     "ProteoDisco": [
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [],
     "psichomics": [
         "GenomicFiles",
@@ -2641,7 +2627,6 @@
         "biovizBase"
     ],
     "PWMEnrich": [],
-    "pwOmics": [],
     "qckitfastq": [
         "seqTools"
     ],
@@ -2802,9 +2787,7 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "rhdf5client": [],
     "Rhisat2": [
         "SGSeq"
@@ -3177,9 +3160,7 @@
     "slingshot": [
         "TrajectoryUtils"
     ],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "aCGH",
         "tilingArray"
@@ -3203,9 +3184,7 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "sparrow": [
-        "BiocSet"
-    ],
+    "sparrow": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3270,7 +3249,6 @@
     ],
     "sSNAPPY": [],
     "ssPATHS": [],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3365,7 +3343,6 @@
     "TFBSTools": [
         "CNEr"
     ],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -3550,7 +3527,6 @@
         "minfi",
         "siggenes"
     ],
-    "wavClusteR": [],
     "webbioc": [],
     "weitrix": [],
     "wpm": [],
