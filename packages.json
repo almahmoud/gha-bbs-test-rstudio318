@@ -39,7 +39,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -191,8 +190,7 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
-        "rGREAT"
+        "projectR"
     ],
     "ATACseqQC": [
         "CNEr",
@@ -624,7 +622,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq",
         "ShortRead"
@@ -760,8 +757,7 @@
         "ShortRead"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consensusSeekeR": [],
     "consICA": [],
@@ -855,7 +851,6 @@
         "sva"
     ],
     "csaw": [],
-    "CSSQ": [],
     "CTdata": [],
     "CTDquerier": [],
     "cTRAP": [],
@@ -1243,7 +1238,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "clusterProfiler",
@@ -1459,7 +1453,6 @@
     ],
     "GBScleanR": [],
     "gcapc": [],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
         "GenomicDataCommons",
@@ -1496,7 +1489,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [],
     "geneRecommender": [],
@@ -1774,7 +1766,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category"
     ],
@@ -2558,7 +2549,6 @@
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "genefu",
         "piano"
     ],
     "pdInfoBuilder": [
@@ -2674,7 +2664,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "projectR": [],
@@ -2805,7 +2794,6 @@
         "ShortRead",
         "dada2"
     ],
-    "Rbowtie2": [],
     "RCAS": [
         "genomation"
     ],
@@ -2902,12 +2890,10 @@
     "rexposome": [],
     "Rfastp": [],
     "rGADEM": [],
-    "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -2935,7 +2921,6 @@
         "motifStack"
     ],
     "rifi": [],
-    "rifiComparative": [],
     "Ringo": [],
     "Risa": [
         "MSnbase",
@@ -3032,7 +3017,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "rrvgo": [],
     "RSVSim": [
         "ShortRead"
     ],
@@ -3244,8 +3228,7 @@
     "signifinder": [
         "GSVA",
         "SpatialExperiment",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SigsPack": [
         "VariantAnnotation"
@@ -3379,7 +3362,6 @@
     "SpliceWiz": [],
     "SplicingFactory": [],
     "SplicingGraphs": [],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
@@ -3425,7 +3407,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "Streamer": [],
     "struct": [],
     "structToolbox": [
@@ -3453,7 +3434,6 @@
         "MSnbase",
         "mzID"
     ],
-    "SynExtend": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -3484,7 +3464,6 @@
         "GenomicDataCommons",
         "RaggedExperiment"
     ],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot"
@@ -3498,7 +3477,6 @@
         "restfulSE",
         "rhdf5client"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "RaggedExperiment",
@@ -3619,7 +3597,6 @@
         "plyranges"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "ShortRead",
         "regioneR"
     ],
