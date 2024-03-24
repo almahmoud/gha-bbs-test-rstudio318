@@ -342,7 +342,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "ccfindR": [],
     "ccImpute": [],
     "CCPlotR": [],
@@ -477,8 +476,6 @@
         "oligoClasses"
     ],
     "cn.mops": [],
-    "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
@@ -529,7 +526,6 @@
         "Spectra"
     ],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "slingshot"
     ],
@@ -744,7 +740,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
@@ -923,8 +918,7 @@
     "fcScan": [],
     "FEAST": [
         "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fedup": [],
     "ffpe": [
@@ -1331,7 +1325,6 @@
         "minfi",
         "siggenes"
     ],
-    "LymphoSeq": [],
     "Macarron": [],
     "MACSr": [],
     "MADSEQ": [],
@@ -1414,7 +1407,6 @@
     "Melissa": [
         "BPRMeth"
     ],
-    "memes": [],
     "meshes": [
         "enrichplot"
     ],
@@ -1738,7 +1730,6 @@
         "yarn"
     ],
     "NeuCA": [],
-    "NewWave": [],
     "nipalsMCIA": [],
     "nnSVG": [
         "SpatialExperiment"
@@ -1811,7 +1802,6 @@
     ],
     "PAA": [],
     "packFinder": [],
-    "padma": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -1862,7 +1852,6 @@
         "CoreGx"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -2217,7 +2206,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scAnnotatR": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -2229,7 +2217,6 @@
     ],
     "sccomp": [],
     "scDataviz": [],
-    "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
     "scDesign3": [],
@@ -2269,7 +2256,6 @@
     "screenCounter": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -2354,9 +2340,7 @@
         "GSVA",
         "MAST",
         "TSCAN",
-        "TrajectoryUtils",
         "celda",
-        "scDblFinder",
         "scMerge",
         "scds"
     ],
@@ -2373,10 +2357,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slalom": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [],
     "snapCGH": [
         "aCGH"
@@ -2428,7 +2409,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "splatter": [],
     "SpliceWiz": [],
     "SplicingFactory": [],
     "SPLINTER": [
@@ -2560,10 +2540,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
@@ -2576,7 +2554,6 @@
         "anota"
     ],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -2596,9 +2573,7 @@
     "tRNAscanImport": [
         "tRNA"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "TTMap": [],
     "TVTB": [
         "Gviz",
@@ -2642,12 +2617,10 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "ViSEAGO": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "gwascat"
     ],
