@@ -44,8 +44,7 @@
     ],
     "adductomicsR": [
         "AnnotationHub",
-        "ExperimentHub",
-        "mzR"
+        "ExperimentHub"
     ],
     "ADImpute": [
         "SingleCellExperiment"
@@ -594,7 +593,6 @@
         "biomaRt",
         "genefilter",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -856,7 +854,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -1239,7 +1236,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1811,7 +1807,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1823,7 +1818,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "clusterExperiment": [
@@ -1846,7 +1840,6 @@
     "clusterSeq": [
         "baySeq"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -2146,7 +2139,6 @@
         "siggenes"
     ],
     "convert": [],
-    "copa": [],
     "CopyNumberPlots": [
         "AnnotationFilter",
         "BSgenome",
@@ -2199,7 +2191,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2556,7 +2547,6 @@
         "fgsea",
         "multtest",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn"
     ],
@@ -2721,7 +2711,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "DepecheR": [
@@ -2802,9 +2791,7 @@
         "biomaRt",
         "genefilter"
     ],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "BSgenome",
         "BiocIO",
@@ -3616,7 +3603,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -4334,7 +4320,6 @@
         "pathview",
         "safe"
     ],
-    "GSEAlm": [],
     "gsean": [
         "PPInfer",
         "biomaRt",
@@ -4527,7 +4512,6 @@
         "rtracklayer"
     ],
     "HilbertCurve": [],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "BSgenome",
         "BiocIO",
@@ -4586,7 +4570,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [],
@@ -4623,7 +4606,6 @@
         "rtracklayer",
         "siggenes"
     ],
-    "iChip": [],
     "iCNV": [
         "BSgenome",
         "BiocIO",
@@ -4836,7 +4818,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -4981,7 +4962,6 @@
     "LACE": [
         "biomaRt"
     ],
-    "ldblock": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -5040,7 +5020,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -5171,7 +5150,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -5435,7 +5413,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -5656,7 +5633,6 @@
     ],
     "MetID": [],
     "MetNet": [],
-    "mfa": [],
     "Mfuzz": [
         "tkWidgets"
     ],
@@ -5922,7 +5898,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -6126,7 +6101,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "msmsTests": [
@@ -6134,13 +6108,11 @@
         "MsCoreUtils",
         "msmsEDA",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnbase": [
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnID": [
@@ -6150,16 +6122,13 @@
         "msmsEDA",
         "msmsTests",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "AnnotationFilter",
         "MsCoreUtils",
@@ -6192,7 +6161,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "qcmetrics",
         "vsn"
     ],
@@ -6201,7 +6169,6 @@
         "MSstatsQC",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "qcmetrics",
         "vsn"
     ],
@@ -6350,7 +6317,6 @@
         "rtracklayer"
     ],
     "mzID": [],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
@@ -6419,7 +6385,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -6893,7 +6858,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "PECA": [
@@ -6952,7 +6916,6 @@
         "biomaRt",
         "genefilter"
     ],
-    "PhenStat": [],
     "philr": [],
     "PhIPData": [],
     "PhosR": [],
@@ -7133,7 +7096,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "proActiv": [
@@ -7184,7 +7146,6 @@
         "biomaRt",
         "genefilter",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "pRolocGUI": [
@@ -7194,7 +7155,6 @@
         "biomaRt",
         "genefilter",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -7218,7 +7178,6 @@
         "fgsea",
         "multtest",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn"
     ],
@@ -7271,7 +7230,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "rhdf5",
         "vsn"
     ],
@@ -7344,7 +7302,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "qsea": [
@@ -7401,7 +7358,6 @@
         "rtracklayer"
     ],
     "QUBIC": [],
-    "qusage": [],
     "R3CPET": [
         "AnnotationFilter",
         "BSgenome",
@@ -7552,7 +7508,6 @@
         "fgsea",
         "graphite"
     ],
-    "REBET": [],
     "rebook": [],
     "receptLoss": [],
     "reconsi": [
@@ -7923,7 +7878,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -7963,7 +7917,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "Rmmquant": [
@@ -8204,7 +8157,6 @@
     ],
     "runibic": [],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "BiocIO",
         "EDASeq",
@@ -8882,9 +8834,7 @@
     "SIM": [
         "globaltest"
     ],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
@@ -9449,7 +9399,6 @@
         "cleaver",
         "multtest",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "SynExtend": [
@@ -9502,8 +9451,7 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -9694,7 +9642,6 @@
         "MSnbase",
         "MsCoreUtils",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "topGO": [],
@@ -10174,7 +10121,6 @@
         "Spectra",
         "multtest",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "xcore": [
@@ -10203,9 +10149,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "AnnotationFilter",
         "BSgenome",
