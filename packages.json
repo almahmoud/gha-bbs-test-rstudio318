@@ -370,7 +370,6 @@
     "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
-        "flowMeans",
         "flowMerge"
     ],
     "consensusDE": [],
@@ -447,7 +446,6 @@
         "CATALYST"
     ],
     "CytoGLMM": [],
-    "cytoMEM": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -522,7 +520,6 @@
         "apeglm"
     ],
     "diffcyt": [],
-    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -677,7 +674,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMeans": [],
     "flowMerge": [],
     "flowSpecs": [],
     "flowStats": [
@@ -749,7 +745,6 @@
     ],
     "GenomicTuples": [],
     "GenProSeq": [],
-    "GEOexplorer": [],
     "GEOmetadb": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
@@ -800,7 +795,6 @@
     "Gviz": [],
     "GWENA": [],
     "hapFabia": [],
-    "HarmonizR": [],
     "hca": [],
     "HERON": [],
     "HiCBricks": [],
@@ -908,7 +902,6 @@
         "siggenes"
     ],
     "kissDE": [],
-    "KnowSeq": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -1265,9 +1258,7 @@
     ],
     "oppar": [],
     "oppti": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "ORFik": [],
     "orthogene": [],
     "OutSplice": [],
@@ -1713,7 +1704,6 @@
     "SUITOR": [],
     "svaNUMT": [],
     "svaRetro": [],
-    "SVMDO": [],
     "synapter": [
         "MSnbase",
         "mzID"
