@@ -17,7 +17,6 @@
         "ADAM"
     ],
     "adSplit": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -189,7 +188,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
         "QDNAseq",
@@ -382,7 +380,6 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -934,7 +931,6 @@
         "genomeIntervals"
     ],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "gmapR": [],
     "GmicR": [
         "Category",
@@ -951,7 +947,6 @@
         "maftools"
     ],
     "GOfuncR": [],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -959,13 +954,11 @@
     "GOstats": [
         "Category"
     ],
-    "GRaNIE": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
     ],
     "gsean": [],
-    "GSReg": [],
     "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
@@ -1202,7 +1195,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEDME": [],
     "MEIGOR": [],
     "Melissa": [
@@ -1232,7 +1224,6 @@
         "mzID",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
@@ -1503,7 +1494,6 @@
     "OLINgui": [
         "OLIN"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "rexposome"
@@ -1531,7 +1521,6 @@
     ],
     "ORFik": [],
     "orthogene": [],
-    "orthos": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -1710,7 +1699,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS"
@@ -2208,7 +2196,6 @@
         "DiffBind",
         "apeglm"
     ],
-    "waddR": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
