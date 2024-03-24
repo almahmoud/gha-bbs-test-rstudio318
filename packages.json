@@ -368,7 +368,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
@@ -577,7 +576,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [
@@ -608,7 +606,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [],
     "cliProfiler": [],
     "cliqueMS": [
@@ -684,7 +681,6 @@
         "bsseq"
     ],
     "CoGAPS": [],
-    "Cogito": [],
     "cola": [],
     "comapr": [
         "Gviz",
@@ -792,7 +788,6 @@
     ],
     "crisprScore": [],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "VariantAnnotation",
@@ -1378,7 +1373,6 @@
         "oligoClasses"
     ],
     "frmaTools": [],
-    "FunChIP": [],
     "funtooNorm": [
         "bumphunter",
         "minfi",
@@ -1442,7 +1436,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneGeneInteR": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -1462,7 +1455,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
@@ -1485,14 +1477,11 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "sva"
     ],
     "GEOmetadb": [],
-    "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [],
     "gep2pep": [],
@@ -1636,7 +1625,6 @@
     "hoodscanR": [
         "SpatialExperiment"
     ],
-    "hpar": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -1701,7 +1689,6 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
         "plyranges"
     ],
     "INSPEcT": [],
@@ -1949,7 +1936,6 @@
     ],
     "MetaboSignal": [
         "MWASTools",
-        "hpar",
         "mygene"
     ],
     "MetaCyto": [
@@ -2420,7 +2406,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSVA"
     ],
@@ -2867,7 +2852,6 @@
     "Rmmquant": [
         "apeglm"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2959,7 +2943,6 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
@@ -3154,7 +3137,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
@@ -3230,17 +3212,13 @@
     "spatialDE": [
         "SpatialExperiment"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
     ],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "CNEr",
         "GenomicInteractions",
@@ -3269,7 +3247,6 @@
     "splatter": [],
     "SpliceWiz": [],
     "SplicingFactory": [],
-    "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz",
         "VariantAnnotation",
