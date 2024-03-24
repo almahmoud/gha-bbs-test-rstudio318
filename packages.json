@@ -28,11 +28,9 @@
         "SingleCellExperiment"
     ],
     "adSplit": [],
-    "adverSCarial": [],
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
-    "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
         "Category",
@@ -58,7 +56,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [
         "SingleCellExperiment"
@@ -269,7 +266,6 @@
     "arrayMvout": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "affyContam",
         "bumphunter",
         "lumi",
         "methylumi",
@@ -1038,7 +1034,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "chromDraw": [],
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
@@ -1433,7 +1428,6 @@
         "oligoClasses",
         "sva"
     ],
-    "CSAR": [],
     "csaw": [],
     "CSSQ": [],
     "CTdata": [],
@@ -1575,7 +1569,6 @@
         "epiNEM",
         "mnem"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "flowCore",
         "flowDensity",
@@ -1675,7 +1668,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "DEqMS": [],
     "derfinder": [
         "GenomicFiles",
@@ -1835,7 +1827,6 @@
         "beachmat",
         "pathview",
         "safe",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -3423,9 +3414,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [
         "MultiAssayExperiment"
     ],
@@ -3582,7 +3571,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
     "MSA2dist": [],
@@ -3773,8 +3761,7 @@
         "SingleCellExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "variancePartition"
+        "scuttle"
     ],
     "musicatk": [
         "VariantAnnotation",
@@ -3903,7 +3890,6 @@
     "nipalsMCIA": [
         "MultiAssayExperiment"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -4378,7 +4364,6 @@
         "MultiAssayExperiment"
     ],
     "qmtools": [],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID",
@@ -4528,7 +4513,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "TOAST",
         "beachmat",
         "bluster",
         "rhdf5",
@@ -4735,7 +4719,6 @@
         "ensembldb"
     ],
     "RNAsense": [],
-    "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -4752,10 +4735,8 @@
         "rhdf5",
         "siggenes"
     ],
-    "Rnits": [],
     "roar": [],
     "ROCpAI": [],
-    "RolDE": [],
     "ROntoTools": [],
     "ropls": [
         "MultiAssayExperiment",
@@ -5718,7 +5699,6 @@
         "rhdf5"
     ],
     "TnT": [],
-    "TOAST": [],
     "tomoda": [],
     "tomoseqr": [],
     "TOP": [
@@ -5899,7 +5879,6 @@
         "oligoClasses"
     ],
     "VarCon": [],
-    "variancePartition": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "DelayedDataFrame",
@@ -6056,8 +6035,7 @@
         "EnrichmentBrowser",
         "SPIA",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zFPKM": [],
     "zinbwave": [
