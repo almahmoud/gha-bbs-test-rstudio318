@@ -155,7 +155,6 @@
     ],
     "BatchQC": [],
     "beachmat.hdf5": [],
-    "BEARscc": [],
     "BEAT": [],
     "benchdamic": [],
     "BiGGR": [
@@ -304,8 +303,6 @@
     "CCPlotR": [],
     "CCPROMISE": [],
     "celaref": [],
-    "celda": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category"
     ],
@@ -410,7 +407,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "clustifyr": [],
     "cmapR": [],
     "cn.farms": [
         "oligo",
@@ -611,9 +607,7 @@
         "enrichplot"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "minfi",
         "siggenes"
@@ -660,7 +654,6 @@
     "diffUTR": [
         "DEXSeq"
     ],
-    "Dino": [],
     "DiscoRhythm": [],
     "divergence": [],
     "DMCHMM": [],
@@ -1019,7 +1012,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "HIPPO": [],
     "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
@@ -1047,7 +1039,6 @@
     ],
     "IdeoViz": [],
     "idr2d": [],
-    "igvR": [],
     "IHW": [],
     "IMAS": [],
     "imcRtools": [
@@ -1714,7 +1705,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "PureCN": [],
     "pvac": [],
     "Pviz": [
         "Gviz",
@@ -1947,7 +1937,6 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDDboost": [],
     "SCFA": [],
     "scFeatures": [
         "AUCell",
@@ -2039,8 +2028,7 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "GSVA",
-        "celda"
+        "GSVA"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
