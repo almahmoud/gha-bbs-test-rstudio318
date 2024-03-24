@@ -128,9 +128,7 @@
     ],
     "animalcules": [],
     "AnnotationHubData": [],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota": [],
     "anota2seq": [],
     "AnVILPublish": [],
@@ -166,7 +164,6 @@
     "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "TFBSTools",
         "chromVAR",
@@ -174,20 +171,16 @@
         "projectR"
     ],
     "ATACseqQC": [
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -289,8 +282,7 @@
         "QDNAseq",
         "annotatr",
         "bsseq",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -380,8 +372,7 @@
         "gaga"
     ],
     "CATALYST": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "Category": [],
     "categoryCompare": [
@@ -417,7 +408,6 @@
     ],
     "celda": [],
     "CellBarcode": [],
-    "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
         "Category"
@@ -432,8 +422,7 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "Cepo": [],
     "CeTF": [
@@ -478,9 +467,7 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "apeglm",
@@ -498,13 +485,11 @@
         "oligo",
         "oligoClasses"
     ],
-    "chromPlot": [],
     "ChromSCape": [],
     "chromstaR": [
         "bamsignals"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "cicero": [
@@ -551,15 +536,12 @@
     ],
     "clusterSeq": [],
     "clustifyr": [],
-    "cmapR": [
-        "flowCore"
-    ],
+    "cmapR": [],
     "cn.farms": [
         "oligo",
         "oligoClasses"
     ],
     "cn.mops": [],
-    "CNEr": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -569,8 +551,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "cnvGSA": [],
     "CNViz": [
@@ -578,8 +559,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVMetrics": [],
     "CNVPanelizer": [],
@@ -593,7 +573,6 @@
         "bsseq"
     ],
     "CoGAPS": [],
-    "cola": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -623,7 +602,6 @@
     ],
     "CONFESS": [
         "flowClust",
-        "flowCore",
         "flowMeans",
         "flowMerge"
     ],
@@ -647,8 +625,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [
         "piano"
@@ -725,40 +702,30 @@
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "cycle": [
         "Mfuzz"
     ],
-    "cydar": [
-        "flowCore"
-    ],
-    "CytoDx": [
-        "flowCore"
-    ],
+    "cydar": [],
+    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "cytofQC": [
         "CATALYST",
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "CytoGLMM": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
-    "cytoMEM": [
-        "flowCore"
-    ],
+    "cytoMEM": [],
     "CytoML": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -768,7 +735,6 @@
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -777,7 +743,6 @@
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -788,7 +753,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "UniProt.ws",
         "motifStack"
@@ -808,7 +772,6 @@
         "epiNEM"
     ],
     "ddPCRclust": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
@@ -862,8 +825,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DEsingle": [],
     "DESpace": [
@@ -879,8 +841,7 @@
         "systemPipeR"
     ],
     "diffcyt": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "DifferentialRegulation": [
         "BANDITS"
@@ -907,8 +868,7 @@
     "DMRScan": [],
     "dmrseq": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -957,7 +917,6 @@
     ],
     "EMDomics": [],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -971,7 +930,6 @@
     ],
     "enrichplot": [],
     "enrichTF": [
-        "CNEr",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1022,7 +980,6 @@
         "apeglm"
     ],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "TFBSTools",
         "clusterProfiler",
@@ -1094,91 +1051,56 @@
         "biovizBase",
         "ggbio"
     ],
-    "flowAI": [
-        "flowCore"
-    ],
-    "flowBeads": [
-        "flowCore"
-    ],
+    "flowAI": [],
+    "flowBeads": [],
     "flowBin": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [
-        "flowCore"
-    ],
-    "flowClean": [
-        "flowCore"
-    ],
-    "flowClust": [
-        "flowCore"
-    ],
-    "flowCore": [],
+    "flowCHIC": [],
+    "flowClean": [],
+    "flowClust": [],
     "flowCut": [
-        "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [
-        "flowCore"
-    ],
-    "flowMeans": [
-        "flowCore"
-    ],
+    "flowMatch": [],
+    "flowMeans": [],
     "flowMerge": [
-        "flowClust",
-        "flowCore"
+        "flowClust"
     ],
-    "flowPloidy": [
-        "flowCore"
-    ],
-    "FlowSOM": [
-        "flowCore"
-    ],
-    "flowSpecs": [
-        "flowCore"
-    ],
+    "flowPloidy": [],
+    "FlowSOM": [],
+    "flowSpecs": [],
     "flowStats": [
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [
-        "flowCore"
-    ],
+    "flowTime": [],
     "flowTrans": [
         "flowClust",
-        "flowCore",
         "flowViz"
     ],
-    "flowViz": [
-        "flowCore"
-    ],
+    "flowViz": [],
     "flowVS": [
-        "flowCore",
         "flowStats",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "flowCore",
         "ncdfFlow"
     ],
     "FRASER": [
@@ -1205,7 +1127,6 @@
         "MLSeq"
     ],
     "GateFinder": [
-        "flowCore",
         "flowFP",
         "flowViz"
     ],
@@ -1292,7 +1213,6 @@
         "biovizBase"
     ],
     "ggcyto": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -1350,8 +1270,7 @@
     "GSVA": [],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "biovizBase"
@@ -1429,13 +1348,10 @@
         "cytomapper"
     ],
     "ImmuneSpaceR": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [
-        "flowCore"
-    ],
+    "immunoClust": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -1445,9 +1361,7 @@
         "siggenes"
     ],
     "infercnv": [],
-    "infinityFlow": [
-        "flowCore"
-    ],
+    "infinityFlow": [],
     "InPAS": [
         "plyranges"
     ],
@@ -1512,8 +1426,7 @@
     "iterClust": [],
     "karyoploteR": [
         "bamsignals",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "maftools",
@@ -1560,7 +1473,6 @@
         "siggenes"
     ],
     "LymphoSeq": [],
-    "m6Aboost": [],
     "Macarron": [],
     "MACSr": [],
     "MADSEQ": [],
@@ -1604,7 +1516,6 @@
         "proDA"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "MBASED": [],
@@ -1665,8 +1576,7 @@
     ],
     "MetaboSignal": [],
     "MetaCyto": [
-        "FlowSOM",
-        "flowCore"
+        "FlowSOM"
     ],
     "metaMS": [
         "CAMERA",
@@ -1693,9 +1603,7 @@
     "methInheritSim": [
         "methylKit"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "minfi",
@@ -1824,7 +1732,6 @@
     ],
     "MOMA": [],
     "monaLisa": [
-        "CNEr",
         "TFBSTools"
     ],
     "monocle": [],
@@ -1838,20 +1745,16 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "Motif2Site": [],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
         "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "MsBackendMassbank": [
@@ -1940,8 +1843,7 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
-        "regioneR"
+        "plyranges"
     ],
     "MultiDataSet": [],
     "multiHiCcompare": [
@@ -1963,23 +1865,19 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [
         "bsseq"
     ],
     "NBAMSeq": [],
-    "ncdfFlow": [
-        "flowCore"
-    ],
+    "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
@@ -2070,7 +1968,6 @@
     "OncoSimulR": [],
     "openCyto": [
         "flowClust",
-        "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
@@ -2081,7 +1978,6 @@
     ],
     "oppti": [],
     "optimalFlow": [
-        "flowCore",
         "flowMeans"
     ],
     "ORFhunteR": [],
@@ -2099,7 +1995,6 @@
     "packFinder": [],
     "padma": [],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2136,7 +2031,6 @@
         "oligoClasses"
     ],
     "PeacoQC": [
-        "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -2214,7 +2108,6 @@
     ],
     "PREDA": [],
     "primirTSS": [
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
@@ -2292,7 +2185,6 @@
         "MSnbase",
         "mzID"
     ],
-    "qsea": [],
     "qsmooth": [],
     "qsvaR": [],
     "Qtlizer": [],
@@ -2311,7 +2203,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx",
@@ -2361,11 +2252,9 @@
         "minfi",
         "siggenes"
     ],
-    "recoup": [],
     "RedisParam": [],
     "REDseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "regionalpcs": [
         "PCAtools"
@@ -2373,10 +2262,7 @@
     "RegionalST": [
         "BayesSpace"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -2415,9 +2301,7 @@
     ],
     "rexposome": [],
     "Rfastp": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgsepd": [],
     "rhdf5client": [],
     "Rhisat2": [],
@@ -2432,7 +2316,6 @@
     "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "TFBSTools",
@@ -2451,9 +2334,7 @@
         "BgeeDB"
     ],
     "RJMCMCNucleosomes": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase",
         "mzID"
@@ -2553,7 +2434,6 @@
         "scanMiR"
     ],
     "scAnnotatR": [],
-    "SCANVIS": [],
     "SCArray": [],
     "SCArray.sat": [
         "SCArray"
@@ -2566,9 +2446,7 @@
         "Cepo"
     ],
     "sccomp": [],
-    "scDataviz": [
-        "flowCore"
-    ],
+    "scDataviz": [],
     "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
@@ -2586,25 +2464,20 @@
     "scider": [
         "SpatialExperiment"
     ],
-    "scifer": [
-        "flowCore"
-    ],
+    "scifer": [],
     "scmap": [],
     "scMerge": [],
     "scMET": [],
     "scmeth": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
     ],
-    "Sconify": [
-        "flowCore"
-    ],
+    "Sconify": [],
     "scoreInvHap": [],
     "scp": [
         "QFeatures"
@@ -2655,11 +2528,9 @@
     "seqCAT": [],
     "SeqGate": [],
     "SeqGSEA": [],
-    "seqsetvis": [],
     "SeqSQC": [],
     "seqTools": [],
     "SeqVarTools": [],
-    "sesame": [],
     "SEtools": [],
     "sevenC": [],
     "SGCP": [
@@ -2721,7 +2592,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "singscore": [],
     "SiPSiC": [],
     "sitePath": [],
     "skewr": [
@@ -2751,8 +2621,7 @@
     ],
     "SOMNiBUS": [
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SpacePAC": [],
     "Spaniel": [],
@@ -2771,7 +2640,6 @@
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -2872,8 +2740,7 @@
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
-        "singscore"
+        "GSVA"
     ],
     "TCC": [],
     "TCGAbiolinks": [],
@@ -2897,9 +2764,7 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -2960,8 +2825,7 @@
     ],
     "treekoR": [
         "FlowSOM",
-        "diffcyt",
-        "flowCore"
+        "diffcyt"
     ],
     "Trendy": [],
     "tricycle": [],
@@ -2994,9 +2858,7 @@
         "plotgardener",
         "plyranges"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
@@ -3043,7 +2905,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "apeglm",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
