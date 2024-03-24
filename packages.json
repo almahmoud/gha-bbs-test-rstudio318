@@ -28,10 +28,7 @@
         "ggbio",
         "oligoClasses"
     ],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -127,10 +124,7 @@
         "minfi",
         "siggenes"
     ],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
-    "artMS": [],
+    "arrayQualityMetrics": [],
     "ASICS": [
         "MultiDataSet",
         "ropls"
@@ -201,7 +195,6 @@
         "zinbwave"
     ],
     "BgeeDB": [],
-    "bgx": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -226,7 +219,6 @@
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocSklearn": [],
-    "biodbKegg": [],
     "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
@@ -611,7 +603,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -814,7 +805,6 @@
     "DNAshapeR": [],
     "DominoEffect": [],
     "doppelgangR": [],
-    "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -1185,7 +1175,6 @@
     "GSReg": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1194,7 +1183,6 @@
     "gwascat": [],
     "gwasurvivr": [],
     "GWENA": [],
-    "h5vc": [],
     "hapFabia": [],
     "HarmonizR": [],
     "Harshlight": [],
@@ -1213,7 +1201,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hicVennDiagram": [],
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
@@ -1569,7 +1556,6 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
         "oligo",
         "oligoClasses"
     ],
@@ -1725,7 +1711,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "bamsignals",
         "biovizBase",
         "karyoploteR",
@@ -2012,7 +1997,6 @@
         "mzID"
     ],
     "ProteoDisco": [],
-    "protGear": [],
     "psichomics": [
         "GenomicFiles",
         "derfinder",
