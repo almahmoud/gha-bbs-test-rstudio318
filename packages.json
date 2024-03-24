@@ -1,9 +1,7 @@
 {
     "a4": [
-        "a4Base",
         "a4Classif"
     ],
-    "a4Base": [],
     "a4Classif": [],
     "abseqR": [],
     "ACE": [
@@ -177,7 +175,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "sva"
     ],
@@ -289,7 +286,6 @@
         "enrichplot"
     ],
     "BiocHail": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocSet": [],
@@ -648,9 +644,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [],
     "CNORdt": [],
     "CNORfeeder": [],
@@ -663,7 +657,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -674,14 +667,11 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
     "CNVMetrics": [],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment"
@@ -693,7 +683,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "Cogito": [],
     "cola": [],
@@ -747,8 +736,7 @@
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "exomeCopy"
+        "VariantAnnotation"
     ],
     "conumee": [
         "bumphunter",
@@ -760,7 +748,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -1078,9 +1065,7 @@
     ],
     "Doscheda": [],
     "DOSE": [],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1175,7 +1160,6 @@
         "bamsignals",
         "csaw"
     ],
-    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "VariantAnnotation",
@@ -1237,7 +1221,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData"
@@ -1460,7 +1443,6 @@
         "QDNAseq"
     ],
     "GeneGeneInteR": [],
-    "GeneMeta": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -1676,9 +1658,7 @@
         "minfi",
         "siggenes"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -1840,7 +1820,6 @@
     ],
     "loci2path": [],
     "lpNet": [],
-    "LRcell": [],
     "lumi": [
         "bumphunter",
         "methylumi",
@@ -2476,8 +2455,7 @@
         "sva"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -2607,7 +2585,6 @@
         "mzID"
     ],
     "proActiv": [],
-    "proBAMr": [],
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
@@ -2836,7 +2813,6 @@
     ],
     "rexposome": [],
     "Rfastp": [],
-    "rGADEM": [],
     "RGMQL": [],
     "RgnTX": [
         "regioneR"
@@ -2866,7 +2842,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
     "Ringo": [],
     "Risa": [
         "MSnbase",
@@ -3207,7 +3182,6 @@
     ],
     "singscore": [],
     "SiPSiC": [],
-    "sitadela": [],
     "sitePath": [],
     "skewr": [
         "bumphunter",
@@ -3250,7 +3224,6 @@
     "sparrow": [
         "BiocSet"
     ],
-    "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3368,7 +3341,6 @@
         "MSnbase",
         "mzID"
     ],
-    "syntenet": [],
     "systemPipeR": [],
     "systemPipeTools": [],
     "tadar": [
@@ -3614,7 +3586,6 @@
     ],
     "xcore": [],
     "XDE": [
-        "GeneMeta",
         "siggenes"
     ],
     "Xeva": [
