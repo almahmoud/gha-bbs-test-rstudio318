@@ -407,12 +407,10 @@
         "oligo",
         "oligoClasses"
     ],
-    "cn.mops": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "cnvGSA": [],
@@ -420,7 +418,6 @@
         "CopyNumberPlots",
         "bamsignals",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVMetrics": [],
@@ -471,7 +468,6 @@
     "CopyNumberPlots": [
         "bamsignals",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -1487,7 +1483,6 @@
         "bamsignals"
     ],
     "NPARC": [],
-    "nucleR": [],
     "nullranges": [
         "plyranges"
     ],
@@ -1549,9 +1544,7 @@
     "pairedGSEA": [
         "DEXSeq"
     ],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -1621,7 +1614,6 @@
     ],
     "plyranges": [],
     "pmp": [],
-    "pogos": [],
     "POWSC": [],
     "prebs": [
         "RPA"
@@ -2012,7 +2004,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "SMITE": [],
     "snapCGH": [
         "aCGH"
     ],
