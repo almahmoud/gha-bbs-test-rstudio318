@@ -448,9 +448,7 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -673,7 +671,6 @@
     "edge": [],
     "EGAD": [],
     "EGSEA": [
-        "GSVA",
         "safe"
     ],
     "ELMER": [
@@ -742,7 +739,6 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
         "UCell"
     ],
     "escheR": [],
@@ -774,7 +770,6 @@
         "siggenes"
     ],
     "fgga": [],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -950,7 +945,6 @@
         "safe"
     ],
     "gsean": [],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1221,7 +1215,6 @@
     "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [],
-    "methrix": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -1255,7 +1248,6 @@
         "minfi",
         "siggenes"
     ],
-    "miaSim": [],
     "miaViz": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
@@ -1461,7 +1453,6 @@
     ],
     "OCplus": [],
     "octad": [
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1494,9 +1485,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "oppti": [],
     "optimalFlow": [
         "flowMeans"
@@ -1543,7 +1532,6 @@
         "MSnbase",
         "mzID"
     ],
-    "peco": [],
     "pengls": [],
     "phantasusLite": [
         "rhdf5client"
@@ -1864,13 +1852,11 @@
     ],
     "SCArray.sat": [],
     "scBFA": [],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
     "SCFA": [],
     "scFeatures": [
         "AUCell",
-        "GSVA",
         "SingleCellSignalR"
     ],
     "scHOT": [],
@@ -1886,7 +1872,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPipe": [],
     "scReClassify": [],
     "screenCounter": [],
     "scRNAseqApp": [],
@@ -1942,7 +1927,6 @@
         "enrichplot"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SIMAT": [],
@@ -1950,9 +1934,7 @@
     "SimBu": [],
     "simpleSeg": [],
     "SingleCellSignalR": [],
-    "singleCellTK": [
-        "GSVA"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR"
@@ -2041,8 +2023,7 @@
         "mzID"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TCC": [],
     "TCGAutils": [
@@ -2076,9 +2057,7 @@
     ],
     "TitanCNA": [],
     "TMixClust": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "tomoda": [],
     "tomoseqr": [],
     "TOP": [],
