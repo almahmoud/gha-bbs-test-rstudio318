@@ -11,19 +11,13 @@
     "EWCE": [
         "orthogene"
     ],
-    "flagme": [],
     "geneRecommender": [],
     "ggtreeExtra": [],
-    "IPO": [],
     "isobar": [],
-    "LOBSTAHS": [],
-    "MAIT": [],
-    "metaMS": [],
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
     "monocle": [],
-    "MSnID": [],
     "multicrispr": [],
     "netOmics": [
         "RandomWalkRestartMH"
