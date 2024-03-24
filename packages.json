@@ -35,11 +35,9 @@
     "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -61,19 +59,15 @@
         "gcrma"
     ],
     "AffyRNADegradation": [],
-    "AGDEX": [
-        "GSEABase"
-    ],
+    "AGDEX": [],
     "aggregateBioVar": [
         "SingleCellExperiment"
     ],
     "AgiMicroRna": [
         "AnnotationFilter",
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -86,7 +80,6 @@
         "oligoClasses"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi"
@@ -219,7 +212,6 @@
     "ANCOMBC": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
@@ -240,9 +232,7 @@
     ],
     "annmap": [],
     "AnnotationFilter": [],
-    "AnnotationForge": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "BiocCheck",
         "OrganismDbi"
     ],
@@ -309,9 +299,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "sva"
     ],
@@ -356,14 +344,11 @@
         "motifStack"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "AUCell": [
-        "DelayedMatrixStats",
-        "GSEABase"
+        "DelayedMatrixStats"
     ],
     "autonomics": [
         "MultiAssayExperiment"
@@ -422,10 +407,7 @@
         "scuttle"
     ],
     "BasicSTARRseq": [],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocSingular",
@@ -482,7 +464,6 @@
         "ANCOMBC",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "MAST",
@@ -512,9 +493,7 @@
     "bgx": [
         "gcrma"
     ],
-    "BicARE": [
-        "GSEABase"
-    ],
+    "BicARE": [],
     "BiFET": [],
     "BiGGR": [
         "hyperdraw"
@@ -550,8 +529,7 @@
     "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocHubsShiny": [],
     "BiocNeighbors": [],
@@ -560,9 +538,7 @@
         "MultiAssayExperiment",
         "rhdf5"
     ],
-    "BioCor": [
-        "GSEABase"
-    ],
+    "BioCor": [],
     "BiocPkgTools": [],
     "BiocSet": [],
     "BiocSingular": [
@@ -570,8 +546,7 @@
         "beachmat"
     ],
     "BiocSklearn": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "biodb": [],
     "biodbChebi": [
@@ -811,7 +786,6 @@
     ],
     "canceR": [
         "Category",
-        "GSEABase",
         "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -842,19 +816,14 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "cytolib",
         "flowCore",
         "scater",
         "scuttle"
     ],
-    "Category": [
-        "GSEABase"
-    ],
+    "Category": [],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "cbaf": [
         "GenomicDataCommons",
@@ -884,8 +853,7 @@
         "graphite"
     ],
     "cbpManager": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -894,7 +862,6 @@
     "ccmap": [],
     "CCPlotR": [],
     "CCPROMISE": [
-        "GSEABase",
         "PROMISE"
     ],
     "CDI": [
@@ -925,7 +892,6 @@
     ],
     "cellHTS2": [
         "Category",
-        "GSEABase",
         "vsn"
     ],
     "CelliD": [
@@ -965,13 +931,11 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
     "Cepo": [
         "DelayedMatrixStats",
-        "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
         "rhdf5"
@@ -996,8 +960,7 @@
         "plyranges"
     ],
     "cfTools": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CGHbase": [],
     "CGHcall": [
@@ -1207,7 +1170,6 @@
         "fgsea"
     ],
     "cmapR": [
-        "cytolib",
         "flowCore",
         "rhdf5"
     ],
@@ -1341,7 +1303,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowMeans",
@@ -1358,7 +1319,6 @@
     "consensusOV": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -1426,9 +1386,7 @@
         "vsn",
         "xcms"
     ],
-    "cosmosR": [
-        "GSEABase"
-    ],
+    "cosmosR": [],
     "COTAN": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -1441,9 +1399,7 @@
     ],
     "CoverageView": [],
     "covRNA": [],
-    "cpvSNP": [
-        "GSEABase"
-    ],
+    "cpvSNP": [],
     "CRImage": [
         "aCGH"
     ],
@@ -1457,14 +1413,12 @@
     "crisprDesign": [
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "crisprBase",
         "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CRISPRseek": [
         "rhdf5"
@@ -1475,7 +1429,6 @@
         "Gviz",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -1489,7 +1442,6 @@
         "Gviz",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "crisprBase",
         "crisprBowtie",
@@ -1536,7 +1488,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowDensity",
@@ -1549,17 +1500,14 @@
     "cydar": [
         "BiocNeighbors",
         "SingleCellExperiment",
-        "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "cytolib",
         "flowCore"
     ],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -1572,14 +1520,12 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "cytolib",
         "flowCore",
         "scater",
         "scuttle"
     ],
     "CytoGLMM": [],
     "cytoKernel": [],
-    "cytolib": [],
     "cytomapper": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -1587,11 +1533,9 @@
         "rhdf5"
     ],
     "cytoMEM": [
-        "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -1602,7 +1546,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1612,7 +1555,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "cytolib",
         "flowAI",
         "flowCore",
         "flowWorkspace",
@@ -1663,7 +1605,6 @@
     ],
     "dcGSA": [],
     "ddPCRclust": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
@@ -1680,7 +1621,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
@@ -1756,8 +1696,7 @@
         "ensembldb"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "MSnbase",
@@ -1827,7 +1766,6 @@
     "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "DifferentialRegulation": [
@@ -1928,7 +1866,6 @@
     "dreamlet": [
         "DelayedMatrixStats",
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "SingleCellExperiment",
@@ -1994,7 +1931,6 @@
     "EGSEA": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "KEGGgraph",
@@ -2002,7 +1938,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "gage",
         "pathview",
         "rhdf5",
         "safe",
@@ -2036,7 +1971,6 @@
     ],
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
@@ -2169,7 +2103,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -2203,7 +2136,6 @@
         "DESeq2"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "OrganismDbi"
@@ -2213,7 +2145,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "AnnotationFilter",
@@ -2305,7 +2236,6 @@
         "VariantAnnotation",
         "bambu",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "biovizBase",
         "bluster",
@@ -2317,106 +2247,83 @@
         "scuttle"
     ],
     "flowAI": [
-        "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
     ],
     "flowcatchR": [],
     "flowCHIC": [
-        "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "cytolib",
         "flowCore"
     ],
-    "flowCore": [
-        "cytolib"
-    ],
+    "flowCore": [],
     "flowCut": [
-        "cytolib",
         "flowCore",
         "flowDensity",
         "flowViz"
     ],
     "flowDensity": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
     ],
     "flowMatch": [
-        "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "cytolib",
         "flowCore"
     ],
     "FlowSOM": [
-        "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
-        "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "cytolib",
         "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTime": [
-        "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "cytolib",
         "flowCore",
         "flowStats",
         "flowViz",
@@ -2424,7 +2331,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "cytolib",
         "flowCore",
         "ncdfFlow"
     ],
@@ -2462,7 +2368,6 @@
         "VariantAnnotation"
     ],
     "gaga": [],
-    "gage": [],
     "GARS": [
         "DESeq2",
         "DaMiRseq",
@@ -2472,7 +2377,6 @@
         "sva"
     ],
     "GateFinder": [
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz"
@@ -2616,12 +2520,10 @@
     "GEOsubmission": [],
     "GeoTcgaData": [],
     "gep2pep": [
-        "GSEABase",
         "rhdf5"
     ],
     "gespeR": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "vsn"
     ],
@@ -2637,7 +2539,6 @@
         "ensembldb"
     ],
     "ggcyto": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -2646,9 +2547,7 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggsc": [
         "SingleCellExperiment"
     ],
@@ -2662,9 +2561,7 @@
         "ShortRead",
         "genomeIntervals"
     ],
-    "GISPA": [
-        "GSEABase"
-    ],
+    "GISPA": [],
     "Glimma": [
         "DESeq2"
     ],
@@ -2678,9 +2575,7 @@
     "glmSparseNet": [
         "MultiAssayExperiment"
     ],
-    "GlobalAncova": [
-        "GSEABase"
-    ],
+    "GlobalAncova": [],
     "GloScope": [
         "SingleCellExperiment"
     ],
@@ -2688,10 +2583,8 @@
         "VariantAnnotation"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "gmoviz": [],
     "GMRP": [],
@@ -2722,9 +2615,7 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "GOTHiC": [
         "ShortRead"
@@ -2747,10 +2638,8 @@
         "rhdf5"
     ],
     "gscreend": [],
-    "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
@@ -2764,13 +2653,10 @@
     "GSReg": [
         "OrganismDbi"
     ],
-    "GSRI": [
-        "GSEABase"
-    ],
+    "GSRI": [],
     "GSVA": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "HDF5Array",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -2861,7 +2747,6 @@
         "HiCExperiment",
         "InteractionSet",
         "basilisk",
-        "basilisk.utils",
         "rhdf5"
     ],
     "hicVennDiagram": [
@@ -2919,11 +2804,9 @@
         "CODEX"
     ],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "IHW",
         "goseq",
         "pcaExplorer",
@@ -2955,13 +2838,11 @@
         "scuttle"
     ],
     "ImmuneSpaceR": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "immunoClust": [
-        "cytolib",
         "flowCore"
     ],
     "iNETgrate": [
@@ -2984,7 +2865,6 @@
         "SingleCellExperiment"
     ],
     "infinityFlow": [
-        "cytolib",
         "flowCore"
     ],
     "InPAS": [
@@ -3008,8 +2888,7 @@
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "InterCellar": [],
     "IntEREst": [
@@ -3114,7 +2993,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -3211,8 +3089,7 @@
         "metagenomeSeq"
     ],
     "MACSr": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "made4": [],
     "MADSEQ": [
@@ -3286,7 +3163,6 @@
         "SingleCellExperiment"
     ],
     "mastR": [
-        "GSEABase",
         "SingleCellExperiment"
     ],
     "MatrixQCvis": [
@@ -3384,8 +3260,7 @@
         "fgsea"
     ],
     "meshr": [
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "MesKit": [],
     "metabCombiner": [],
@@ -3413,7 +3288,6 @@
     ],
     "MetaCyto": [
         "FlowSOM",
-        "cytolib",
         "flowCore"
     ],
     "metagene2": [],
@@ -3494,7 +3368,6 @@
         "siggenes"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
         "DelayedMatrixStats",
@@ -3562,7 +3435,6 @@
     "mia": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
@@ -3580,7 +3452,6 @@
     "miaViz": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "MultiAssayExperiment",
         "ScaledMatrix",
@@ -3614,7 +3485,6 @@
         "ANCOMBC",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "MultiAssayExperiment",
@@ -3665,11 +3535,9 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GOstats",
-        "GSEABase",
         "HDF5Array",
         "bumphunter",
         "lumi",
@@ -3705,13 +3573,10 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
-        "GSEABase",
         "TCGAbiolinks"
     ],
-    "miRNAmeConverter": [],
     "missMethyl": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -3759,12 +3624,10 @@
     "MOFA2": [
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "rhdf5"
     ],
     "MOGAMUN": [],
     "mogsa": [
-        "GSEABase",
         "graphite"
     ],
     "MoleculeExperiment": [
@@ -4014,7 +3877,6 @@
         "scuttle",
         "variancePartition"
     ],
-    "muscle": [],
     "musicatk": [
         "VariantAnnotation",
         "decompTumor2Sig",
@@ -4067,7 +3929,6 @@
         "DESeq2"
     ],
     "ncdfFlow": [
-        "cytolib",
         "flowCore"
     ],
     "ncGTW": [
@@ -4126,11 +3987,9 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GOstats",
-        "GSEABase",
         "HDF5Array",
         "bumphunter",
         "minfi",
@@ -4171,9 +4030,7 @@
         "bamsignals"
     ],
     "NPARC": [],
-    "npGSEA": [
-        "GSEABase"
-    ],
+    "npGSEA": [],
     "nucleoSim": [],
     "nucleR": [
         "ShortRead"
@@ -4188,7 +4045,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "EDASeq",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "RUVSeq",
@@ -4252,25 +4108,20 @@
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [],
     "oppar": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -4280,7 +4131,6 @@
     ],
     "oppti": [],
     "optimalFlow": [
-        "cytolib",
         "flowCore",
         "flowMeans"
     ],
@@ -4297,7 +4147,6 @@
     "orthos": [
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "rhdf5"
     ],
     "Oscope": [],
@@ -4341,7 +4190,6 @@
     ],
     "PanomiR": [
         "DOSE",
-        "GSEABase",
         "clusterProfiler",
         "enrichplot",
         "fgsea"
@@ -4350,7 +4198,6 @@
     "pareg": [
         "DOSE",
         "basilisk",
-        "basilisk.utils",
         "fgsea"
     ],
     "partCNV": [
@@ -4368,11 +4215,9 @@
         "KEGGgraph"
     ],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "topGO"
     ],
     "PCAN": [],
@@ -4394,7 +4239,6 @@
         "oligoClasses"
     ],
     "PeacoQC": [
-        "cytolib",
         "flowCore",
         "flowWorkspace",
         "ncdfFlow"
@@ -4446,8 +4290,7 @@
     ],
     "phenopath": [],
     "phenoTest": [
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "philr": [],
     "PhIPData": [],
@@ -4497,10 +4340,8 @@
     "planttfhunter": [],
     "plier": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "plotgardener": [
         "plyranges"
@@ -4588,9 +4429,7 @@
         "pRoloc",
         "vsn"
     ],
-    "PROMISE": [
-        "GSEABase"
-    ],
+    "PROMISE": [],
     "PROPER": [],
     "PROPS": [
         "sva"
@@ -4719,7 +4558,6 @@
         "ShortRead",
         "VariantAnnotation"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
@@ -4768,13 +4606,11 @@
     ],
     "Rcpi": [],
     "Rcwl": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RCyjs": [],
     "ReactomePA": [
@@ -4802,7 +4638,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "basilisk",
-        "basilisk.utils",
         "bumphunter",
         "minfi",
         "rhdf5",
@@ -4875,11 +4710,9 @@
     ],
     "ReportingTools": [
         "AnnotationFilter",
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -4901,11 +4734,9 @@
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "rexposome": [],
-    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
@@ -5006,7 +4837,6 @@
     ],
     "RNAinteract": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "vsn"
     ],
@@ -5129,9 +4959,7 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "sangeranalyseR": [
-        "DECIPHER"
-    ],
+    "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
@@ -5204,7 +5032,6 @@
     "scClassify": [
         "Cepo",
         "DelayedMatrixStats",
-        "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
         "rhdf5"
@@ -5214,7 +5041,6 @@
     ],
     "scDataviz": [
         "SingleCellExperiment",
-        "cytolib",
         "flowCore"
     ],
     "scDblFinder": [
@@ -5258,7 +5084,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -5286,8 +5111,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
-        "cytolib",
         "flowCore"
     ],
     "scmap": [
@@ -5330,7 +5153,6 @@
         "rhdf5"
     ],
     "Sconify": [
-        "cytolib",
         "flowCore"
     ],
     "SCOPE": [],
@@ -5353,7 +5175,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "rhdf5",
         "scuttle"
@@ -5400,11 +5221,9 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "AnnotationForge",
         "Category",
         "DOSE",
         "GOstats",
-        "GSEABase",
         "ReactomePA",
         "SingleCellExperiment",
         "enrichplot",
@@ -5414,7 +5233,6 @@
         "schex"
     ],
     "scTGIF": [
-        "GSEABase",
         "SingleCellExperiment",
         "schex"
     ],
@@ -5449,7 +5267,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scater",
         "scuttle"
@@ -5510,10 +5327,8 @@
         "InteractionSet"
     ],
     "SGCP": [
-        "AnnotationForge",
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "SGSeq": [],
     "shinyepico": [
@@ -5547,7 +5362,6 @@
     "siggenes": [],
     "signatureSearch": [
         "DOSE",
-        "GSEABase",
         "HDF5Array",
         "clusterProfiler",
         "enrichplot",
@@ -5561,7 +5375,6 @@
         "AnnotationFilter",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -5584,7 +5397,6 @@
     ],
     "SimBu": [
         "basilisk",
-        "basilisk.utils",
         "biomformat",
         "phyloseq",
         "rhdf5"
@@ -5622,7 +5434,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "DropletUtils",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "MAST",
@@ -5633,7 +5444,6 @@
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
-        "basilisk.utils",
         "batchelor",
         "beachmat",
         "bluster",
@@ -5663,9 +5473,7 @@
         "ScaledMatrix",
         "beachmat"
     ],
-    "singscore": [
-        "GSEABase"
-    ],
+    "singscore": [],
     "SiPSiC": [
         "SingleCellExperiment"
     ],
@@ -5683,7 +5491,6 @@
         "wateRmelon"
     ],
     "slalom": [
-        "GSEABase",
         "SingleCellExperiment"
     ],
     "slingshot": [
@@ -5700,8 +5507,7 @@
     ],
     "snapcount": [],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SNPhood": [
         "DESeq2",
@@ -5748,8 +5554,7 @@
     ],
     "sparrow": [
         "BiocSet",
-        "DelayedMatrixStats",
-        "GSEABase"
+        "DelayedMatrixStats"
     ],
     "SparseSignatures": [],
     "spaSim": [
@@ -5760,8 +5565,7 @@
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SpatialDecon": [
         "GeomxTools"
@@ -5841,9 +5645,7 @@
     ],
     "SplicingFactory": [],
     "SplicingGraphs": [],
-    "splineTimeR": [
-        "GSEABase"
-    ],
+    "splineTimeR": [],
     "SPLINTER": [
         "AnnotationFilter",
         "Gviz",
@@ -5866,7 +5668,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "SQLDataFrame": [],
     "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
@@ -5878,7 +5679,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "graphite"
     ],
@@ -5894,7 +5694,6 @@
     ],
     "staRank": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "vsn"
     ],
@@ -5953,9 +5752,7 @@
         "mzID",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "SynMut": [],
     "syntenet": [],
     "systemPipeR": [
@@ -5987,7 +5784,6 @@
         "BiocSingular",
         "DESeq2",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -6044,9 +5840,7 @@
         "DESeq2",
         "ORFik"
     ],
-    "TFutils": [
-        "GSEABase"
-    ],
+    "TFutils": [],
     "tidybulk": [],
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
@@ -6070,10 +5864,7 @@
         "fgsea",
         "tkWidgets"
     ],
-    "TIN": [],
-    "TissueEnrich": [
-        "GSEABase"
-    ],
+    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
@@ -6085,7 +5876,6 @@
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -6165,7 +5955,6 @@
     "treekoR": [
         "FlowSOM",
         "SingleCellExperiment",
-        "cytolib",
         "diffcyt",
         "flowCore"
     ],
@@ -6315,7 +6104,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "scuttle",
         "zellkonverter"
@@ -6324,13 +6112,10 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "fgsea",
         "topGO"
     ],
-    "vissE": [
-        "GSEABase"
-    ],
+    "vissE": [],
     "Voyager": [
         "BiocNeighbors",
         "SingleCellExperiment",
@@ -6434,12 +6219,10 @@
     ],
     "zellkonverter": [
         "SingleCellExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "SPIA",
         "graphite",
