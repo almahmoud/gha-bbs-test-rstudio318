@@ -372,8 +372,7 @@
     "ChIPQC": [
         "DiffBind",
         "apeglm",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -456,7 +455,6 @@
     "CNVRanger": [
         "RaggedExperiment"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA"
     ],
@@ -653,7 +651,6 @@
     "DeMixT": [
         "DSS"
     ],
-    "demuxSNP": [],
     "DEP": [
         "MSnbase",
         "mzID"
@@ -676,8 +673,7 @@
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
-        "apeglm",
-        "systemPipeR"
+        "apeglm"
     ],
     "diffcyt": [
         "FlowSOM"
@@ -1740,7 +1736,6 @@
         "enrichplot",
         "mzID"
     ],
-    "ProteoDisco": [],
     "psichomics": [
         "GenomicFiles",
         "derfinder",
@@ -2055,7 +2050,6 @@
         "enrichplot"
     ],
     "seqbias": [],
-    "seqCAT": [],
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
@@ -2184,7 +2178,6 @@
         "MSnbase",
         "mzID"
     ],
-    "systemPipeR": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -2293,7 +2286,6 @@
         "biovizBase"
     ],
     "UniProt.ws": [],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
@@ -2324,8 +2316,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "apeglm",
-        "systemPipeR"
+        "apeglm"
     ],
     "waddR": [],
     "wateRmelon": [
