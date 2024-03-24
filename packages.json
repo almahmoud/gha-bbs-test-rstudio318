@@ -22,7 +22,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "biovizBase",
         "ggbio",
@@ -33,7 +32,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -581,7 +579,6 @@
     "COTAN": [
         "PCAtools"
     ],
-    "countsimQC": [],
     "CRImage": [
         "aCGH"
     ],
@@ -1074,7 +1071,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
@@ -1106,7 +1102,6 @@
         "cellHTS2"
     ],
     "getDEE2": [],
-    "gg4way": [],
     "ggbio": [
         "biovizBase"
     ],
@@ -1122,7 +1117,6 @@
     "girafe": [
         "genomeIntervals"
     ],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GloScope": [],
@@ -1795,11 +1789,9 @@
         "OLIN"
     ],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
-        "omicade4",
         "rexposome"
     ],
     "OMICsPCA": [
@@ -1926,7 +1918,6 @@
     "plyranges": [],
     "pmp": [],
     "pogos": [],
-    "POMA": [],
     "POWSC": [
         "MAST"
     ],
@@ -1949,7 +1940,6 @@
         "MSnbase",
         "mzID"
     ],
-    "proActiv": [],
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
@@ -2698,7 +2688,6 @@
         "minfi",
         "siggenes"
     ],
-    "weitrix": [],
     "wpm": [],
     "xcms": [
         "MSnbase",
