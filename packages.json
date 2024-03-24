@@ -82,7 +82,6 @@
     "anota2seq": [],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
-    "APAlyzer": [],
     "apeglm": [],
     "appreci8R": [],
     "ArrayExpress": [
@@ -334,9 +333,7 @@
         "maftools"
     ],
     "CINdex": [],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -627,7 +624,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -796,7 +792,6 @@
     ],
     "GenomicTuples": [],
     "GenProSeq": [],
-    "GeoDiff": [],
     "GEOexplorer": [],
     "GEOmetadb": [],
     "GEOsubmission": [],
@@ -818,7 +813,6 @@
         "genomeIntervals"
     ],
     "glmGamPoi": [],
-    "gmapR": [],
     "GmicR": [
         "Category",
         "GOstats"
@@ -847,7 +841,6 @@
     ],
     "GUIDEseq": [],
     "Gviz": [],
-    "gwascat": [],
     "GWENA": [],
     "hapFabia": [],
     "HarmonizR": [],
@@ -864,9 +857,7 @@
     "HiContacts": [],
     "HiCool": [],
     "hoodscanR": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
@@ -995,7 +986,6 @@
         "siggenes"
     ],
     "Macarron": [],
-    "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
         "RnBeads",
@@ -1261,7 +1251,6 @@
     "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "mumosa": [],
-    "MungeSumstats": [],
     "musicatk": [
         "maftools"
     ],
@@ -1507,7 +1496,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [],
     "RaggedExperiment": [],
     "RAIDS": [
@@ -1857,7 +1845,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TitanCNA": [],
     "TMixClust": [],
     "TNBC.CMS": [],
     "tomoda": [],
@@ -1895,8 +1882,7 @@
     "tRNAscanImport": [],
     "TTMap": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "tweeDEseq": [],
     "UCell": [],
@@ -1925,9 +1911,7 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "DiffBind",
         "apeglm"
