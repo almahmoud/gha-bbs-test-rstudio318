@@ -41,20 +41,14 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "ggbio",
         "oligoClasses"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [],
     "aggregateBioVar": [
         "SingleCellExperiment"
@@ -71,7 +65,6 @@
         "affycoretools",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "ggbio",
         "oligoClasses"
     ],
@@ -272,12 +265,9 @@
     ],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
-        "gcrma"
+        "beadarray"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -477,9 +467,7 @@
     "BgeeDB": [
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [],
     "BiGGR": [
         "hyperdraw"
@@ -532,34 +520,15 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "biomformat": [
         "rhdf5"
     ],
@@ -641,7 +610,6 @@
     "bnem": [
         "CellNOptR",
         "epiNEM",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -1552,8 +1520,7 @@
         "tkWidgets"
     ],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowCore",
@@ -1573,7 +1540,6 @@
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
-    "DeconRNASeq": [],
     "decontX": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1846,7 +1812,6 @@
         "ShortRead",
         "genomeIntervals"
     ],
-    "EBcoexpress": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -1963,9 +1928,7 @@
         "rhdf5",
         "siggenes"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistack": [],
     "epistasisGA": [],
     "EpiTxDb": [
@@ -2301,7 +2264,6 @@
     ],
     "gcapc": [],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -2683,7 +2645,6 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [],
-    "iasva": [],
     "icetea": [
         "DESeq2",
         "ShortRead",
@@ -2848,7 +2809,6 @@
     ],
     "ISLET": [],
     "isobar": [],
-    "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "DESeq2",
@@ -3021,9 +2981,7 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "HDF5Array",
         "InteractionSet",
@@ -3040,9 +2998,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -3207,7 +3163,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "fastseg",
         "methylKit"
@@ -3391,7 +3346,6 @@
     ],
     "mimager": [
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -3461,7 +3415,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -3623,17 +3576,12 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -3646,13 +3594,10 @@
         "mzID"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -3789,8 +3734,7 @@
         "SingleCellExperiment"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2",
@@ -3803,7 +3747,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [],
     "NetSAM": [],
     "netSmooth": [
         "BiocNeighbors",
@@ -4000,7 +3943,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "paircompviz": [],
     "pairedGSEA": [
         "DESeq2",
@@ -4098,7 +4040,6 @@
     "phenomis": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -4173,7 +4114,6 @@
         "MAST",
         "SingleCellExperiment"
     ],
-    "ppcseq": [],
     "PPInfer": [],
     "pram": [],
     "prebs": [
@@ -5049,14 +4989,12 @@
     ],
     "SELEX": [],
     "seq2pathway": [],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
         "clusterProfiler",
         "enrichplot",
         "heatmaps",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [],
@@ -5472,7 +5410,6 @@
     "surfaltr": [
         "msa"
     ],
-    "survtype": [],
     "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
@@ -5672,7 +5609,6 @@
         "anota",
         "topGO"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [],
     "traviz": [
@@ -5884,9 +5820,7 @@
         "siggenes"
     ],
     "wavClusteR": [],
-    "webbioc": [
-        "gcrma"
-    ],
+    "webbioc": [],
     "weitrix": [
         "DelayedMatrixStats"
     ],
