@@ -22,7 +22,6 @@
         "ggbio",
         "oligoClasses"
     ],
-    "affylmGUI": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -36,39 +35,25 @@
         "apeglm"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AllelicImbalance": [
         "Gviz"
@@ -94,7 +79,6 @@
         "minfi",
         "siggenes"
     ],
-    "arrayQualityMetrics": [],
     "ASICS": [
         "MultiDataSet",
         "ropls"
@@ -465,7 +449,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cycle": [],
     "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
@@ -761,10 +744,8 @@
     "gDNAx": [],
     "gDR": [
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "PharmacoGx"
     ],
@@ -772,7 +753,6 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz"
     ],
@@ -844,7 +824,6 @@
     "GWENA": [],
     "hapFabia": [],
     "HarmonizR": [],
-    "Harshlight": [],
     "hca": [],
     "HelloRanges": [],
     "HERON": [],
@@ -854,8 +833,6 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
-    "HiCool": [],
     "hoodscanR": [],
     "HTSeqGenie": [],
     "HTSFilter": [],
@@ -1249,7 +1226,6 @@
     ],
     "MultiDataSet": [],
     "MultimodalExperiment": [],
-    "MultiRNAflow": [],
     "mumosa": [],
     "musicatk": [
         "maftools"
@@ -1392,7 +1368,6 @@
     "phenoTest": [
         "Category"
     ],
-    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1498,9 +1473,7 @@
     ],
     "RadioGx": [],
     "RaggedExperiment": [],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
@@ -1656,7 +1629,6 @@
         "scanMiR"
     ],
     "SCArray.sat": [],
-    "scBFA": [],
     "scClassify": [],
     "scDataviz": [],
     "SCFA": [],
