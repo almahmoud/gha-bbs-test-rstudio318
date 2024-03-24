@@ -166,9 +166,7 @@
     "beachmat.hdf5": [],
     "BEARscc": [],
     "BEAT": [],
-    "benchdamic": [
-        "MAST"
-    ],
+    "benchdamic": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -213,7 +211,6 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "blima": [],
     "BLMA": [],
     "bnbc": [
         "HiCBricks"
@@ -317,9 +314,7 @@
     "ccImpute": [],
     "CCPlotR": [],
     "CCPROMISE": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBench": [],
     "cellHTS2": [
@@ -475,9 +470,7 @@
         "methylPipe"
     ],
     "CompoundDb": [],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowClust",
         "flowMeans",
@@ -490,7 +483,6 @@
     "consensusOV": [
         "GSVA"
     ],
-    "consICA": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -506,7 +498,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -685,7 +676,6 @@
     ],
     "Dino": [],
     "DiscoRhythm": [],
-    "distinct": [],
     "divergence": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -832,7 +822,6 @@
         "siggenes"
     ],
     "fgga": [],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1013,7 +1002,6 @@
     ],
     "GOTHiC": [],
     "GRaNIE": [],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -1047,7 +1035,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
     "hoodscanR": [],
@@ -1078,7 +1065,6 @@
     "idr2d": [],
     "igvR": [],
     "IHW": [],
-    "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
         "cytomapper"
@@ -1230,7 +1216,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "MAST": [],
     "MatrixQCvis": [
         "proDA"
     ],
@@ -1623,7 +1608,6 @@
         "enrichplot"
     ],
     "pareg": [],
-    "partCNV": [],
     "PathoStat": [],
     "pathRender": [],
     "pcaExplorer": [
@@ -1690,9 +1674,7 @@
     "plyranges": [],
     "pmp": [],
     "pogos": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "prebs": [
         "RPA"
     ],
@@ -1777,7 +1759,6 @@
         "siggenes"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
@@ -1990,7 +1971,6 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDD": [],
     "scDDboost": [],
     "SCFA": [],
     "scFeatures": [
@@ -2017,7 +1997,6 @@
     "scPipe": [],
     "scReClassify": [],
     "screenCounter": [],
-    "scRepertoire": [],
     "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
@@ -2036,7 +2015,6 @@
     "scTreeViz": [
         "epivizr"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "bamsignals",
@@ -2087,7 +2065,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
-        "MAST",
         "celda"
     ],
     "SingleMoleculeFootprinting": [
@@ -2261,7 +2238,6 @@
         "diffcyt"
     ],
     "Trendy": [],
-    "tricycle": [],
     "trigger": [],
     "trio": [
         "siggenes"
