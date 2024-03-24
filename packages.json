@@ -16,8 +16,7 @@
     "ADaCGH2": [
         "aCGH",
         "snapCGH",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "ADAM": [],
     "ADAMgui": [
@@ -189,9 +188,7 @@
         "ensembldb"
     ],
     "AlphaBeta": [],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "altcdfenvs": [
         "makecdfenv"
     ],
@@ -276,8 +273,7 @@
     "arrayQualityMetrics": [
         "affyPLM",
         "beadarray",
-        "gcrma",
-        "vsn"
+        "gcrma"
     ],
     "artMS": [
         "MSstats"
@@ -366,8 +362,7 @@
         "MLInterfaces",
         "MSnbase",
         "mzID",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "barcodetrackR": [],
     "basecallQC": [
@@ -470,7 +465,6 @@
         "biomformat",
         "bluster",
         "mia",
-        "mixOmics",
         "phyloseq",
         "rhdf5",
         "scater",
@@ -487,7 +481,6 @@
         "gcrma"
     ],
     "BicARE": [],
-    "BiFET": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -649,8 +642,7 @@
         "CellNOptR",
         "epiNEM",
         "mnem",
-        "sva",
-        "vsn"
+        "sva"
     ],
     "BOBaFIT": [
         "AnnotationFilter",
@@ -766,7 +758,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "canceR": [
@@ -874,8 +865,7 @@
         "SingleCellExperiment"
     ],
     "cellHTS2": [
-        "Category",
-        "vsn"
+        "Category"
     ],
     "CelliD": [
         "BiocNeighbors",
@@ -1110,7 +1100,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "clst": [],
@@ -1119,8 +1108,7 @@
     ],
     "CluMSID": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "clusterExperiment": [
         "BiocSingular",
@@ -1354,7 +1342,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "cosmosR": [],
@@ -1562,8 +1549,7 @@
         "clusterProfiler",
         "enrichplot",
         "mzID",
-        "tkWidgets",
-        "vsn"
+        "tkWidgets"
     ],
     "dce": [
         "epiNEM",
@@ -1625,7 +1611,6 @@
     "DEGreport": [
         "DESeq2"
     ],
-    "DelayedDataFrame": [],
     "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -1662,12 +1647,9 @@
     ],
     "DEP": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "DEqMS": [],
     "derfinder": [
         "GenomicFiles",
@@ -1810,9 +1792,7 @@
     "doppelgangR": [
         "sva"
     ],
-    "Doscheda": [
-        "vsn"
-    ],
+    "Doscheda": [],
     "DOSE": [],
     "doseR": [],
     "doubletrouble": [
@@ -2158,7 +2138,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "FLAMES": [
@@ -2196,7 +2175,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "flowCore"
     ],
@@ -2273,7 +2251,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "fobitools": [],
     "FRASER": [
         "DESeq2",
@@ -2455,8 +2432,7 @@
     ],
     "gespeR": [
         "Category",
-        "cellHTS2",
-        "vsn"
+        "cellHTS2"
     ],
     "getDEE2": [],
     "gg4way": [
@@ -2486,7 +2462,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "ggtreeExtra": [],
     "girafe": [
         "ShortRead",
         "genomeIntervals"
@@ -2840,7 +2815,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "iSEE": [
@@ -2973,7 +2947,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "loci2path": [],
@@ -3045,7 +3018,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "makecdfenv": [],
@@ -3078,8 +3050,7 @@
         "SingleCellExperiment"
     ],
     "MatrixQCvis": [
-        "proDA",
-        "vsn"
+        "proDA"
     ],
     "MatrixRider": [
         "CNEr",
@@ -3209,7 +3180,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -3231,8 +3201,7 @@
         "ShortRead",
         "beachmat",
         "bsseq",
-        "rhdf5",
-        "vsn"
+        "rhdf5"
     ],
     "MetCirc": [
         "MetaboCoreUtils",
@@ -3302,7 +3271,6 @@
     "methylKit": [
         "fastseg"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "AnnotationFilter",
         "Gviz",
@@ -3404,9 +3372,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [
         "SingleCellExperiment",
@@ -3487,7 +3453,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "mixOmics": [],
     "MLInterfaces": [],
     "MLSeq": [
         "DESeq2"
@@ -3510,7 +3475,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "Modstrings": [],
@@ -3626,25 +3590,21 @@
     "mslp": [],
     "msmsEDA": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "MSnbase": [
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "MSnID": [
         "MSnbase",
         "msmsEDA",
         "msmsTests",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "MSPrep": [
         "sva"
@@ -3678,14 +3638,12 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "MSstatsShiny": [
         "MSstats",
@@ -3821,11 +3779,9 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "NCIgraph": [],
-    "ncRNAtools": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -3897,9 +3853,7 @@
     ],
     "NoRCE": [],
     "normalize450K": [],
-    "NormalyzerDE": [
-        "vsn"
-    ],
+    "NormalyzerDE": [],
     "NormqPCR": [],
     "normr": [
         "bamsignals"
@@ -4030,8 +3984,7 @@
     ],
     "OutSplice": [
         "Repitools",
-        "Ringo",
-        "vsn"
+        "Ringo"
     ],
     "OVESEG": [],
     "PAA": [
@@ -4054,7 +4007,6 @@
         "DEXSeq",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -4111,8 +4063,7 @@
     ],
     "peakPantheR": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "PECA": [],
     "peco": [
@@ -4216,8 +4167,7 @@
         "ontoProc"
     ],
     "POMA": [
-        "DESeq2",
-        "mixOmics"
+        "DESeq2"
     ],
     "POWSC": [
         "MAST",
@@ -4251,8 +4201,7 @@
     ],
     "PrInCE": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "proActiv": [
         "DESeq2"
@@ -4274,15 +4223,13 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "mzID",
-        "pRoloc",
-        "vsn"
+        "pRoloc"
     ],
     "PROMISE": [],
     "PROPER": [],
@@ -4297,16 +4244,13 @@
         "clusterProfiler",
         "enrichplot",
         "mzID",
-        "tkWidgets",
-        "vsn"
+        "tkWidgets"
     ],
     "ProteoDisco": [
         "VariantAnnotation"
     ],
     "ProteoMM": [],
-    "protGear": [
-        "vsn"
-    ],
+    "protGear": [],
     "psichomics": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -4326,8 +4270,7 @@
     "ptairMS": [
         "MSnbase",
         "mzID",
-        "rhdf5",
-        "vsn"
+        "rhdf5"
     ],
     "puma": [
         "oligo",
@@ -4338,9 +4281,7 @@
         "rhdf5"
     ],
     "pvac": [],
-    "pvca": [
-        "vsn"
-    ],
+    "pvca": [],
     "Pviz": [
         "AnnotationFilter",
         "Gviz",
@@ -4364,8 +4305,7 @@
     "qmtools": [],
     "qPLEXanalyzer": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "qsea": [],
     "qsmooth": [
@@ -4374,7 +4314,6 @@
     "qsvaR": [
         "sva"
     ],
-    "QTLExperiment": [],
     "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
@@ -4438,7 +4377,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBM": [],
     "Rbowtie2": [],
     "RCAS": [
         "genomation",
@@ -4547,8 +4485,7 @@
         "siggenes"
     ],
     "Repitools": [
-        "Ringo",
-        "vsn"
+        "Ringo"
     ],
     "ReportingTools": [
         "AnnotationFilter",
@@ -4628,9 +4565,7 @@
     ],
     "rifi": [],
     "rifiComparative": [],
-    "Ringo": [
-        "vsn"
-    ],
+    "Ringo": [],
     "Risa": [
         "AnnotationFilter",
         "MSnbase",
@@ -4641,7 +4576,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "vsn",
         "xcms"
     ],
     "RITAN": [
@@ -4658,8 +4592,7 @@
     ],
     "RMassBank": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "Rmmquant": [
         "DESeq2",
@@ -4678,8 +4611,7 @@
     ],
     "RNAinteract": [
         "Category",
-        "cellHTS2",
-        "vsn"
+        "cellHTS2"
     ],
     "RNAmodR": [
         "AnnotationFilter",
@@ -5184,7 +5116,6 @@
         "MLInterfaces"
     ],
     "sigFeature": [],
-    "SigFuge": [],
     "siggenes": [],
     "signatureSearch": [
         "DOSE",
@@ -5217,8 +5148,7 @@
     "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
-        "Ringo",
-        "vsn"
+        "Ringo"
     ],
     "SimBu": [
         "basilisk",
@@ -5226,9 +5156,7 @@
         "phyloseq",
         "rhdf5"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
@@ -5327,8 +5255,7 @@
     ],
     "snapCGH": [
         "aCGH",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "snapcount": [],
     "snifter": [
@@ -5515,8 +5442,7 @@
     ],
     "staRank": [
         "Category",
-        "cellHTS2",
-        "vsn"
+        "cellHTS2"
     ],
     "StarBioTrek": [
         "SpidermiR"
@@ -5543,7 +5469,6 @@
     ],
     "SUITOR": [],
     "SummarizedBenchmark": [],
-    "supersigs": [],
     "surfaltr": [
         "msa"
     ],
@@ -5567,8 +5492,7 @@
     "synapsis": [],
     "synapter": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "SynExtend": [],
     "syntenet": [],
@@ -5621,10 +5545,8 @@
         "RaggedExperiment"
     ],
     "TCseq": [],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "DOSE",
-        "TDbasedUFE",
         "enrichplot"
     ],
     "TEKRABber": [
@@ -5662,13 +5584,9 @@
     ],
     "tidySummarizedExperiment": [],
     "TileDBArray": [],
-    "tilingArray": [
-        "vsn"
-    ],
+    "tilingArray": [],
     "timecourse": [],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "Mfuzz",
@@ -5705,8 +5623,7 @@
     ],
     "topdownr": [
         "MSnbase",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "topGO": [],
     "ToxicoGx": [
@@ -5879,7 +5796,6 @@
     "VarCon": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
-        "DelayedDataFrame",
         "GDSArray",
         "SeqArray"
     ],
@@ -5936,7 +5852,6 @@
     "vsclust": [
         "MultiAssayExperiment"
     ],
-    "vsn": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
@@ -5970,8 +5885,7 @@
     ],
     "wavClusteR": [],
     "webbioc": [
-        "gcrma",
-        "vsn"
+        "gcrma"
     ],
     "weitrix": [
         "DelayedMatrixStats"
@@ -5987,8 +5901,7 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "mzID",
-        "vsn"
+        "mzID"
     ],
     "xcore": [
         "MultiAssayExperiment"
