@@ -2948,7 +2948,6 @@
         "plyranges",
         "rhdf5"
     ],
-    "marr": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -3896,7 +3895,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "pareg": [
         "DOSE",
         "basilisk"
