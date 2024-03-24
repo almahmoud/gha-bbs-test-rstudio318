@@ -213,13 +213,11 @@
     "bamsignals": [],
     "BANDITS": [],
     "bandle": [
-        "MLInterfaces",
         "MSnbase",
         "mzID",
         "pRoloc"
     ],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -519,7 +517,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "apeglm",
         "chipseq",
         "systemPipeR"
@@ -545,7 +542,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "biovizBase",
@@ -759,7 +755,6 @@
         "oligoClasses",
         "sva"
     ],
-    "csaw": [],
     "CTdata": [],
     "CTDquerier": [],
     "cTRAP": [],
@@ -938,7 +933,6 @@
     ],
     "DEXSeq": [],
     "DiffBind": [
-        "GreyListChIP",
         "apeglm",
         "systemPipeR"
     ],
@@ -949,9 +943,7 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -1074,9 +1066,7 @@
     "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
-        "GreyListChIP",
-        "bamsignals",
-        "csaw"
+        "bamsignals"
     ],
     "epimutacions": [
         "Gviz",
@@ -1144,8 +1134,7 @@
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [],
     "famat": [
@@ -1174,7 +1163,6 @@
         "siggenes"
     ],
     "fgga": [],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "flagme": [
@@ -1446,8 +1434,6 @@
     "GOTHiC": [],
     "GRaNIE": [],
     "GraphPAC": [],
-    "GreyListChIP": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1522,9 +1508,7 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [],
-    "icetea": [
-        "csaw"
-    ],
+    "icetea": [],
     "iCheck": [
         "bumphunter",
         "lumi",
@@ -1893,7 +1877,6 @@
         "siggenes"
     ],
     "Mfuzz": [],
-    "MGFR": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -1968,7 +1951,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
@@ -2010,12 +1992,10 @@
     "motifbreakR": [
         "CNEr",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "CNEr",
         "TFBSTools"
@@ -2145,7 +2125,6 @@
         "Gviz",
         "TFBSTools",
         "biovizBase",
-        "csaw",
         "motifStack",
         "regioneR",
         "trackViewer"
@@ -2395,7 +2374,6 @@
         "MAST"
     ],
     "PPInfer": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -2428,12 +2406,10 @@
     ],
     "projectR": [],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase",
         "mzID"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "mzID",
         "pRoloc"
@@ -2722,7 +2698,6 @@
         "minfi",
         "siggenes"
     ],
-    "roar": [],
     "ROCpAI": [],
     "ROntoTools": [],
     "ropls": [
@@ -2748,9 +2723,7 @@
     ],
     "RTNsurvival": [],
     "RTopper": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVcorr": [],
     "RUVSeq": [
         "EDASeq"
@@ -2759,9 +2732,7 @@
     "RVS": [],
     "safe": [],
     "SAIGEgds": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SARC": [
         "RaggedExperiment",
         "plyranges"
@@ -2871,7 +2842,6 @@
         "epivizrData"
     ],
     "scviR": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -2896,7 +2866,6 @@
     "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
-        "sechm",
         "sva"
     ],
     "sevenC": [],
@@ -2919,10 +2888,7 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "siggenes": [],
     "signatureSearch": [
         "DOSE",
@@ -2945,7 +2911,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
@@ -3296,7 +3261,6 @@
     "velociraptor": [],
     "vidger": [],
     "ViSEAGO": [],
-    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
@@ -3309,9 +3273,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "apeglm",
-        "csaw",
         "regioneR",
         "systemPipeR"
     ],
