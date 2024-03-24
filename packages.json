@@ -147,7 +147,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
         "VariantAnnotation",
@@ -355,7 +354,6 @@
     ],
     "beer": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "BiocSingular",
         "MAST",
@@ -532,7 +530,6 @@
     "BUSseq": [
         "SingleCellExperiment"
     ],
-    "CaDrA": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -589,12 +586,9 @@
         "VariantAnnotation"
     ],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "casper": [
         "gaga"
     ],
@@ -1350,7 +1344,6 @@
         "apeglm",
         "systemPipeR"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "flowCore"
@@ -1417,7 +1410,6 @@
     ],
     "Doscheda": [],
     "DOSE": [],
-    "doseR": [],
     "doubletrouble": [
         "syntenet"
     ],
@@ -1446,7 +1438,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "Dune": [],
     "easier": [],
     "easylift": [],
     "easyRNASeq": [
@@ -1485,7 +1476,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "EnMCB": [],
     "ENmix": [
         "HDF5Array",
         "bumphunter",
@@ -1902,7 +1892,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
@@ -2294,7 +2283,6 @@
     "iterClust": [],
     "IVAS": [],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "VariantAnnotation",
         "bamsignals",
@@ -2409,7 +2397,6 @@
     "magpie": [
         "TRESS"
     ],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2447,7 +2434,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "matter": [],
     "MBASED": [],
     "MBECS": [
         "biomformat",
@@ -2500,7 +2486,6 @@
     ],
     "MEDIPS": [],
     "MEDME": [],
-    "megadepth": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR"
@@ -2676,7 +2661,6 @@
         "biomformat"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "BiocSingular",
         "MultiAssayExperiment",
@@ -3047,7 +3031,6 @@
     "netDx": [
         "MultiAssayExperiment"
     ],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -3133,9 +3116,7 @@
         "topGO"
     ],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "omicade4",
@@ -4400,7 +4381,6 @@
         "VariantAnnotation"
     ],
     "SUITOR": [],
-    "SummarizedBenchmark": [],
     "surfaltr": [
         "msa"
     ],
