@@ -2079,7 +2079,6 @@
         "treeio",
         "zinbwave"
     ],
-    "BG2": [],
     "BgeeCall": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -3142,10 +3141,7 @@
         "limma",
         "rtracklayer"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [
         "BiocFileCache"
     ],
@@ -5439,7 +5435,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
         "IRanges",
@@ -6838,7 +6833,6 @@
         "rtracklayer",
         "seqLogo"
     ],
-    "daMA": [],
     "DAMEfinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -7736,7 +7730,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "DiffLogo": [],
     "diffUTR": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -7862,7 +7855,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "dks": [],
     "DMCFB": [
         "BiocIO",
         "BiocParallel",
@@ -12012,7 +12004,6 @@
         "KEGGREST",
         "PPInfer",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -12885,7 +12876,6 @@
     "iChip": [
         "limma"
     ],
-    "iClusterPlus": [],
     "iCNV": [
         "BSgenome",
         "BiocIO",
@@ -13110,7 +13100,6 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "STRINGdb",
         "XVector"
     ],
     "ImmuneSpaceR": [
@@ -13137,7 +13126,6 @@
         "cytolib",
         "flowCore"
     ],
-    "immunotation": [],
     "INDEED": [],
     "iNETgrate": [
         "AnnotationDbi",
@@ -13986,7 +13974,6 @@
         "sparseMatrixStats"
     ],
     "les": [],
-    "levi": [],
     "limma": [],
     "limmaGUI": [
         "limma"
@@ -16391,7 +16378,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "mirTarRnaSeq": [],
     "missMethyl": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -18158,7 +18144,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -19337,7 +19322,6 @@
         "beachmat",
         "sparseMatrixStats"
     ],
-    "pcxn": [],
     "PDATK": [
         "AIMS",
         "AnnotationDbi",
@@ -20002,7 +19986,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -20643,7 +20626,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "graph",
@@ -22359,7 +22341,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -24584,7 +24565,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "seqcombo": [],
     "SeqGate": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -26019,7 +25999,6 @@
         "XVector",
         "miRNAtap"
     ],
-    "spikeLI": [],
     "spiky": [
         "BSgenome",
         "BiocIO",
@@ -26489,7 +26468,6 @@
         "RBGL",
         "graph"
     ],
-    "STRINGdb": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -27043,7 +27021,6 @@
         "KEGGREST",
         "RTCGA",
         "S4Vectors",
-        "STRINGdb",
         "TDbasedUFE",
         "XVector",
         "enrichplot",
@@ -27942,7 +27919,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "tripr": [],
     "tRNA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -28968,9 +28944,7 @@
         "marray",
         "piano"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
