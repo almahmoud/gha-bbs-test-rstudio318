@@ -11,7 +11,6 @@
         "a4Classif",
         "a4Core",
         "a4Preproc",
-        "a4Reporting",
         "annaffy",
         "annotate",
         "genefilter",
@@ -38,7 +37,6 @@
     ],
     "a4Core": [],
     "a4Preproc": [],
-    "a4Reporting": [],
     "ABarray": [
         "multtest"
     ],
@@ -1156,7 +1154,6 @@
         "IRanges",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -3222,7 +3219,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "calm": [],
     "CAMERA": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -3870,7 +3866,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "CFAssay": [],
     "cfdnakit": [
         "BiocParallel",
         "Biostrings",
@@ -4029,7 +4024,6 @@
         "XVector",
         "bioDist"
     ],
-    "Chicago": [],
     "chihaya": [
         "DelayedArray",
         "HDF5Array",
@@ -4767,7 +4761,6 @@
         "baySeq",
         "edgeR"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
@@ -8092,7 +8085,6 @@
         "BiocParallel"
     ],
     "EmpiricalBrownsMethod": [],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
@@ -9816,7 +9808,6 @@
         "edgeR",
         "genefilter",
         "rtracklayer",
-        "sSeq",
         "sva"
     ],
     "GateFinder": [
@@ -11873,7 +11864,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "hierGWAS": [],
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -12087,7 +12077,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iASeq": [],
     "iasva": [
         "BiocParallel",
         "DelayedArray",
@@ -13407,10 +13396,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz"
@@ -15597,8 +15583,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "sSeq"
+        "edgeR"
     ],
     "MMDiff2": [
         "BSgenome",
@@ -15685,7 +15670,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "ModCon": [],
     "Modstrings": [
         "Biostrings",
         "GenomeInfoDb",
@@ -16036,7 +16020,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "MQmetrics": [],
     "msa": [
         "Biostrings",
         "GenomeInfoDb",
@@ -18362,7 +18345,6 @@
     "pengls": [
         "BiocParallel"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -18733,9 +18715,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "PLPE": [
-        "LPE"
-    ],
+    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "BiocParallel",
@@ -21034,7 +21014,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "RImmPort": [],
     "Ringo": [
         "AnnotationDbi",
         "Biostrings",
@@ -24873,7 +24852,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "sSeq": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "Biostrings",
@@ -25453,7 +25431,6 @@
         "mzID",
         "mzR"
     ],
-    "TargetScore": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "AnnotationDbi",
