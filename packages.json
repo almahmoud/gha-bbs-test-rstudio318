@@ -535,7 +535,6 @@
         "FlowSOM"
     ],
     "CytoGLMM": [],
-    "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
@@ -559,9 +558,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [],
     "dagLogo": [
         "TFBSTools",
@@ -1004,9 +1001,7 @@
     "IdeoViz": [],
     "idr2d": [],
     "IHW": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -1262,7 +1257,6 @@
     ],
     "miaSim": [],
     "miaViz": [],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
@@ -1592,9 +1586,7 @@
     "plyranges": [],
     "pmp": [],
     "POWSC": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "aCGH",
         "rCGH"
@@ -1834,7 +1826,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -1957,9 +1948,7 @@
     "SIMAT": [],
     "SimBindProfiles": [],
     "SimBu": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA"
@@ -1990,7 +1979,6 @@
     "SpacePAC": [],
     "Spaniel": [],
     "spaSim": [],
-    "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatzie": [
@@ -2029,7 +2017,6 @@
     "Statial": [],
     "statTarget": [],
     "stepNorm": [],
-    "stJoincount": [],
     "Streamer": [],
     "struct": [],
     "structToolbox": [
