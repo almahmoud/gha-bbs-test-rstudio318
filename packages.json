@@ -237,7 +237,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -632,7 +631,6 @@
     "coseq": [
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -645,7 +643,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "cpvSNP": [],
     "CRImage": [
         "aCGH"
     ],
@@ -910,7 +907,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "EMDomics": [],
@@ -1172,7 +1168,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
@@ -1307,7 +1302,6 @@
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
@@ -1531,7 +1525,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "MultiDataSet",
@@ -1699,8 +1692,7 @@
     "mirIntegrator": [],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "TCGAbiolinks"
+        "GOstats"
     ],
     "missMethyl": [
         "methylumi",
@@ -1737,7 +1729,6 @@
         "enrichplot"
     ],
     "MoonlightR": [
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1976,7 +1967,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "orthogene": [],
@@ -2571,7 +2561,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -2677,7 +2666,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "sSNAPPY": [],
     "ssPATHS": [],
     "standR": [
         "EDASeq",
@@ -2736,7 +2724,6 @@
         "GSVA"
     ],
     "TCC": [],
-    "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicDataCommons",
         "RaggedExperiment"
