@@ -218,7 +218,6 @@
         "phyloseq",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "BgeeDB": [],
     "bgx": [],
     "BiGGR": [
@@ -245,9 +244,7 @@
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocSklearn": [],
-    "biodbExpasy": [],
     "biodbKegg": [],
-    "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbUniprot": [],
@@ -426,7 +423,6 @@
     "cfTools": [],
     "cghMCR": [],
     "CGHnormaliter": [],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -678,9 +674,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
@@ -736,7 +730,6 @@
     ],
     "DAPAR": [
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "mzID"
@@ -1123,9 +1116,7 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -1211,7 +1202,6 @@
     "GOTHiC": [],
     "GRaNIE": [],
     "GraphPAC": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -1589,7 +1579,6 @@
         "minfi",
         "siggenes"
     ],
-    "Mfuzz": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -1607,7 +1596,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
     "midasHLA": [],
@@ -1778,9 +1766,7 @@
     "MultiDataSet": [],
     "multiHiCcompare": [],
     "MultimodalExperiment": [],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "mumosa": [],
     "MungeSumstats": [],
     "muscat": [],
@@ -2053,7 +2039,6 @@
     "Prostar": [
         "DAPAR",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "mzID"
@@ -2120,8 +2105,7 @@
     "raer": [],
     "RaggedExperiment": [],
     "RAIDS": [
-        "GENESIS",
-        "SeqVarTools"
+        "GENESIS"
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
@@ -2429,9 +2413,7 @@
     "SeqGSEA": [],
     "SeqSQC": [],
     "seqTools": [],
-    "SeqVarTools": [],
     "SEtools": [],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats"
@@ -2654,7 +2636,6 @@
     "tidySingleCellExperiment": [],
     "TileDBArray": [],
     "TimiRGeN": [
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2790,7 +2771,6 @@
         "minfi",
         "siggenes"
     ],
-    "webbioc": [],
     "weitrix": [],
     "wpm": [],
     "xcms": [
