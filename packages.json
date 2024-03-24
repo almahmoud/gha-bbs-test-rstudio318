@@ -4,9 +4,7 @@
     ],
     "a4Classif": [],
     "abseqR": [],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "aCGH": [],
     "ADaCGH2": [
         "aCGH",
@@ -180,7 +178,6 @@
         "ropls"
     ],
     "biscuiteer": [
-        "QDNAseq",
         "annotatr",
         "dmrseq"
     ],
@@ -294,14 +291,11 @@
     "CexoR": [
         "genomation"
     ],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "cfDNAPro": [
         "plyranges"
     ],
     "cghMCR": [],
-    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -424,7 +418,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -778,19 +771,15 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -863,7 +852,6 @@
         "EnrichmentBrowser",
         "safe"
     ],
-    "gsean": [],
     "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [],
@@ -879,9 +867,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [],
     "hoodscanR": [],
@@ -1151,7 +1137,6 @@
     ],
     "miaViz": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1264,10 +1249,7 @@
         "MsExperiment",
         "QFeatures"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "mzID"
@@ -1277,9 +1259,7 @@
         "MSstatsQC",
         "mzID"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -1290,7 +1270,6 @@
         "plyranges"
     ],
     "MultiDataSet": [],
-    "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "mumosa": [],
@@ -1385,9 +1364,7 @@
     ],
     "ORFik": [],
     "orthogene": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "packFinder": [],
     "pageRank": [
         "TFBSTools",
@@ -1409,9 +1386,7 @@
         "GOstats"
     ],
     "PCAN": [],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [
         "oligo",
         "oligoClasses"
@@ -1428,9 +1403,7 @@
     "phantasusLite": [
         "rhdf5client"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1527,7 +1500,6 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "QDNAseq": [],
     "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -1548,9 +1520,7 @@
         "ggbio"
     ],
     "R453Plus1Toolbox": [],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS"
@@ -1595,7 +1565,6 @@
         "minfi",
         "siggenes"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -1790,7 +1759,6 @@
         "consensusOV"
     ],
     "SIMAT": [],
-    "SimBindProfiles": [],
     "SimBu": [],
     "simpleSeg": [],
     "SingleCellSignalR": [],
@@ -1827,7 +1795,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "SpectralTAD": [],
     "SPIAT": [],
     "spicyR": [],
     "SplicingFactory": [],
@@ -1870,7 +1837,6 @@
     "tadar": [
         "Gviz"
     ],
-    "TADCompare": [],
     "tanggle": [],
     "target": [],
     "TargetDecoy": [
@@ -1917,9 +1883,7 @@
         "MSnbase",
         "mzID"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "TPP": [],
     "TPP2D": [],
     "trackViewer": [
@@ -1969,7 +1933,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz"
     ],
@@ -2005,7 +1968,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XINA": [],
