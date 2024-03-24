@@ -129,8 +129,6 @@
     "AWFisher": [],
     "awst": [],
     "bacon": [],
-    "BadRegionFinder": [],
-    "ballgown": [],
     "bambu": [],
     "bamsignals": [],
     "bandle": [
@@ -276,7 +274,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
@@ -472,7 +469,6 @@
         "flowDensity"
     ],
     "cycle": [],
-    "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
@@ -503,13 +499,11 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "UniProt.ws",
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
@@ -584,7 +578,6 @@
         "bamsignals"
     ],
     "DNAshapeR": [],
-    "DominoEffect": [],
     "doppelgangR": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -878,7 +871,6 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [],
-    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -921,7 +913,6 @@
         "DEXSeq"
     ],
     "IntOMICS": [],
-    "IONiseR": [],
     "iPath": [],
     "IPO": [
         "CAMERA",
@@ -1018,7 +1009,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1135,7 +1125,6 @@
         "minfi",
         "siggenes"
     ],
-    "miaViz": [],
     "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
@@ -1176,7 +1165,6 @@
     ],
     "missRows": [],
     "mitoClone2": [],
-    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1528,9 +1516,7 @@
     "ramr": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "genomation"
     ],
@@ -1618,7 +1604,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2"
@@ -1691,7 +1676,6 @@
         "AUCell",
         "SingleCellSignalR"
     ],
-    "scHOT": [],
     "scider": [],
     "scifer": [],
     "scmeth": [
@@ -1928,7 +1912,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VAExprs": [],
     "VanillaICE": [
         "crlmm",
         "oligoClasses"
@@ -1936,9 +1919,7 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [],
     "velociraptor": [],
     "Voyager": [
