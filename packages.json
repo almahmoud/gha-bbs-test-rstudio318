@@ -14,7 +14,6 @@
         "GOstats",
         "ReportingTools"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
@@ -48,7 +47,6 @@
         "pRoloc"
     ],
     "BASiCStan": [],
-    "beachmat.hdf5": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -80,14 +78,12 @@
     "bnem": [],
     "BOBaFIT": [],
     "brendaDb": [],
-    "bugsigdbr": [],
     "BUSpaRse": [],
     "cageminer": [
         "BioNERO"
     ],
     "CAMERA": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "canceR": [
@@ -140,7 +136,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "chihaya": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -162,7 +157,6 @@
     ],
     "cliqueMS": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "clstutils": [],
@@ -193,12 +187,9 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "CRImage": [],
@@ -230,21 +221,18 @@
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "dagLogo": [
         "UniProt.ws"
@@ -351,29 +339,23 @@
     "flagme": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "FLAMES": [],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowSpecs": [],
     "flowStats": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTime": [],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "frma": [],
     "frmaTools": [],
     "funtooNorm": [
@@ -397,10 +379,8 @@
         "cellHTS2"
     ],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "ggsc": [],
     "girafe": [],
     "GmicR": [
         "GOstats"
@@ -421,7 +401,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "HTSFilter": [],
     "hummingbird": [],
     "iCheck": [
         "lumi",
@@ -435,8 +414,7 @@
     ],
     "idr2d": [],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "iNETgrate": [
         "Pigengene",
@@ -454,27 +432,14 @@
     "IPO": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -498,7 +463,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "lumi": [
@@ -520,7 +484,6 @@
     "MAIT": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "maPredictDSC": [],
@@ -547,14 +510,11 @@
     "meshes": [
         "enrichplot"
     ],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "metabolomicsWorkbenchR": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "MetaPhOR": [
@@ -612,10 +572,8 @@
         "minfi",
         "siggenes"
     ],
-    "missRows": [],
     "MobilityTransformR": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "monocle": [],
@@ -627,9 +585,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "easyRNASeq"
     ],
@@ -641,12 +597,9 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "QFeatures"
+        "MsExperiment"
     ],
     "MSstatsQC": [],
     "MSstatsQCgui": [
@@ -662,12 +615,9 @@
     ],
     "MultiDataSet": [],
     "MultimodalExperiment": [],
-    "mumosa": [],
     "musicatk": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "nearBynding": [],
@@ -696,8 +646,7 @@
     ],
     "omicsPrint": [],
     "openCyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "orthogene": [],
     "pairedGSEA": [],
@@ -711,8 +660,7 @@
     "PCAN": [],
     "pdInfoBuilder": [],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [],
     "phantasusLite": [],
@@ -755,13 +703,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "ptairMS": [],
     "puma": [],
     "qckitfastq": [],
-    "QFeatures": [],
     "qPLEXanalyzer": [],
     "quantro": [
         "minfi",
@@ -796,10 +741,8 @@
     "RiboCrypt": [],
     "Risa": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
     "Rmmquant": [],
@@ -834,15 +777,11 @@
         "scanMiR"
     ],
     "scDataviz": [],
-    "scFeatures": [
-        "SingleCellSignalR"
-    ],
+    "scFeatures": [],
     "scmeth": [
         "annotatr"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scReClassify": [],
     "scry": [],
     "scTensor": [
@@ -878,7 +817,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SingleCellSignalR": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -900,7 +838,6 @@
     "structToolbox": [],
     "synapter": [],
     "TargetDecoy": [],
-    "TCC": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
@@ -951,8 +888,7 @@
         "siggenes"
     ],
     "xcms": [
-        "MsExperiment",
-        "QFeatures"
+        "MsExperiment"
     ],
     "XDE": [
         "siggenes"
