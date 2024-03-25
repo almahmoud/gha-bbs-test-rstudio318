@@ -75,7 +75,6 @@
     "bnem": [],
     "BOBaFIT": [],
     "brendaDb": [],
-    "BUSpaRse": [],
     "cageminer": [
         "BioNERO"
     ],
@@ -110,7 +109,6 @@
         "clusterProfiler"
     ],
     "CCPlotR": [],
-    "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -146,7 +144,6 @@
     "cliqueMS": [
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [],
     "clusterProfiler": [],
     "cn.farms": [],
@@ -175,7 +172,6 @@
     "cosmiq": [
         "xcms"
     ],
-    "CRImage": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -200,7 +196,6 @@
     ],
     "crlmm": [],
     "crossmeta": [],
-    "CyTOFpower": [],
     "CytoML": [
         "ggcyto",
         "openCyto"
@@ -251,7 +246,6 @@
     ],
     "DNAshapeR": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "drugTargetInteractions": [
@@ -266,7 +260,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichmentBrowser": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -306,7 +299,6 @@
         "CAMERA",
         "xcms"
     ],
-    "FLAMES": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -327,14 +319,10 @@
     ],
     "geneRecommender": [],
     "GenomicDataCommons": [],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenomicTuples": [],
     "GeoTcgaData": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggcyto": [],
     "girafe": [],
     "GmicR": [
@@ -352,9 +340,7 @@
         "clusterProfiler"
     ],
     "GOstats": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "hummingbird": [],
     "iCheck": [
         "lumi",
@@ -377,7 +363,6 @@
     ],
     "InPAS": [],
     "interactiveDisplay": [],
-    "IntEREst": [],
     "IntOMICS": [],
     "iPath": [],
     "IPO": [
@@ -433,10 +418,7 @@
         "xcms"
     ],
     "maPredictDSC": [],
-    "mariner": [
-        "plotgardener"
-    ],
-    "MatrixQCvis": [],
+    "mariner": [],
     "mBPCR": [],
     "MEAL": [
         "MultiDataSet",
@@ -567,7 +549,6 @@
         "bamsignals"
     ],
     "NPARC": [],
-    "nullranges": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN"
@@ -589,7 +570,6 @@
     "pdInfoBuilder": [],
     "PeacoQC": [],
     "peakPantheR": [],
-    "phantasusLite": [],
     "phemd": [
         "monocle"
     ],
@@ -607,7 +587,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "plyinteractions": [],
     "preciseTAD": [
         "rCGH"
@@ -629,7 +608,6 @@
     "PSMatch": [],
     "ptairMS": [],
     "puma": [],
-    "qckitfastq": [],
     "qPLEXanalyzer": [],
     "quantro": [
         "minfi",
@@ -640,7 +618,6 @@
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "RCAS": [],
     "rCGH": [],
     "ReactomePA": [],
     "recountmethylation": [
@@ -656,7 +633,6 @@
         "GOstats"
     ],
     "ReQON": [],
-    "restfulSE": [],
     "Rfastp": [],
     "RiboCrypt": [],
     "Risa": [
@@ -665,9 +641,7 @@
     "RLSeq": [],
     "RMassBank": [],
     "Rmmquant": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RnBeads": [
         "methylumi",
         "minfi",
@@ -736,9 +710,7 @@
     "SpacePAC": [],
     "Spaniel": [],
     "sRACIPE": [],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "stepNorm": [],
     "structToolbox": [],
     "synapter": [],
@@ -748,9 +720,7 @@
     ],
     "TDbasedUFEadv": [],
     "TEKRABber": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -769,9 +739,7 @@
     ],
     "TTMap": [],
     "UCell": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "UniProt.ws": [],
     "uSORT": [
@@ -798,7 +766,5 @@
         "quantro",
         "siggenes"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
