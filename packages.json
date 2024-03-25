@@ -9,11 +9,9 @@
         "ADAM"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools"
     ],
@@ -36,9 +34,7 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "bamsignals": [],
     "bandle": [
         "pRoloc"
@@ -68,10 +64,6 @@
     "biscuiteer": [
         "dmrseq"
     ],
-    "blacksheepr": [],
-    "bnbc": [],
-    "bnem": [],
-    "BOBaFIT": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO"
@@ -88,9 +80,7 @@
     "casper": [
         "gaga"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -209,7 +199,6 @@
     "DAPAR": [
         "clusterProfiler"
     ],
-    "dce": [],
     "debrowser": [
         "clusterProfiler"
     ],
@@ -225,7 +214,6 @@
     "DEP": [],
     "DEsingle": [],
     "DiffBind": [],
-    "diffUTR": [],
     "divergence": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -249,7 +237,6 @@
         "ArrayExpress"
     ],
     "easyRNASeq": [],
-    "EGSEA": [],
     "ENmix": [
         "minfi",
         "siggenes"
@@ -318,9 +305,7 @@
     "gespeR": [],
     "ggcyto": [],
     "girafe": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -332,7 +317,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GSEABenchmarkeR": [],
     "hummingbird": [],
     "iCheck": [
@@ -342,7 +326,6 @@
         "siggenes"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "idr2d": [],
@@ -354,7 +337,6 @@
         "minfi",
         "siggenes"
     ],
-    "InPAS": [],
     "IntOMICS": [],
     "iPath": [],
     "IPO": [
@@ -425,9 +407,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "Melissa": [],
     "meshes": [],
-    "metabolomicsWorkbenchR": [],
     "metaMS": [
         "CAMERA",
         "xcms"
@@ -463,7 +443,6 @@
     ],
     "mimager": [],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi",
         "minfi",
@@ -476,9 +455,7 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi",
         "minfi",
@@ -527,7 +504,6 @@
         "RandomWalkRestartMH"
     ],
     "netZooR": [
-        "GOstats",
         "minfi",
         "quantro",
         "siggenes",
@@ -547,13 +523,10 @@
     "omicsPrint": [],
     "openCyto": [],
     "orthogene": [],
-    "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PCAN": [],
     "pdInfoBuilder": [],
     "PeacoQC": [],
@@ -571,10 +544,7 @@
         "ReactomePA",
         "clusterProfiler"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
-    "plyinteractions": [],
+    "PloGO2": [],
     "preciseTAD": [],
     "PREDA": [],
     "PrInCE": [],
@@ -613,10 +583,7 @@
         "minfi",
         "siggenes"
     ],
-    "ReportingTools": [
-        "GOstats"
-    ],
-    "ReQON": [],
+    "ReportingTools": [],
     "Rfastp": [],
     "Risa": [
         "xcms"
@@ -653,7 +620,6 @@
     ],
     "scmeth": [],
     "scTensor": [
-        "GOstats",
         "ReactomePA"
     ],
     "segmenter": [
@@ -665,9 +631,7 @@
         "clusterProfiler"
     ],
     "SeqSQC": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [
         "minfi",
         "siggenes"
@@ -695,7 +659,6 @@
     "staRank": [],
     "stepNorm": [],
     "synapter": [],
-    "TargetDecoy": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
