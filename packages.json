@@ -49,7 +49,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "biscuiteer": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO"
@@ -76,8 +75,6 @@
         "TCGAutils"
     ],
     "CCPlotR": [],
-    "CEMiTool": [],
-    "CeTF": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -148,7 +145,6 @@
     "dagLogo": [
         "UniProt.ws"
     ],
-    "DAPAR": [],
     "deconvR": [
         "minfi",
         "siggenes"
@@ -183,7 +179,6 @@
         "minfi",
         "siggenes"
     ],
-    "enrichTF": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -191,14 +186,12 @@
         "minfi",
         "siggenes"
     ],
-    "esATAC": [],
     "escape": [
         "UCell"
     ],
     "EWCE": [
         "orthogene"
     ],
-    "famat": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -231,7 +224,6 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "goSorensen": [],
     "hummingbird": [],
     "iCheck": [
         "lumi",
@@ -241,7 +233,6 @@
     ],
     "idr2d": [],
     "iNETgrate": [
-        "Pigengene",
         "minfi",
         "siggenes"
     ],
@@ -303,7 +294,6 @@
     "metaMS": [
         "CAMERA"
     ],
-    "MetaPhOR": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -346,8 +336,6 @@
     ],
     "MobilityTransformR": [],
     "monocle": [],
-    "Moonlight2R": [],
-    "MoonlightR": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -393,7 +381,6 @@
     ],
     "omicsPrint": [],
     "orthogene": [],
-    "PanomiR": [],
     "PCAN": [],
     "peakPantheR": [],
     "phemd": [
@@ -405,18 +392,14 @@
     ],
     "phenopath": [],
     "Pi": [],
-    "Pigengene": [],
     "PREDA": [],
     "PrInCE": [],
-    "profileplyr": [],
     "projectR": [],
     "pRoloc": [],
     "pRolocGUI": [
         "pRoloc"
     ],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "quantro": [
         "minfi",
         "siggenes"
@@ -463,7 +446,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scTensor": [],
     "segmenter": [
         "bamsignals"
     ],
