@@ -3,7 +3,6 @@
         "a4Classif"
     ],
     "a4Classif": [],
-    "abseqR": [],
     "ADaCGH2": [
         "snapCGH"
     ],
@@ -34,7 +33,6 @@
     ],
     "annotatr": [],
     "anota2seq": [],
-    "AnVILPublish": [],
     "AnVILWorkflow": [],
     "apeglm": [],
     "ArrayExpress": [
@@ -58,7 +56,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "AWFisher": [],
     "bambu": [],
     "bamsignals": [],
@@ -435,7 +432,6 @@
         "enrichplot"
     ],
     "fCCAC": [],
-    "fedup": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -481,7 +477,6 @@
         "minfi",
         "siggenes"
     ],
-    "FuseSOM": [],
     "gaga": [],
     "GDCRNATools": [
         "GenomicDataCommons",
@@ -508,7 +503,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggsc": [],
     "girafe": [
         "genomeIntervals"
@@ -541,7 +535,6 @@
         "safe"
     ],
     "GWENA": [],
-    "hapFabia": [],
     "HERON": [],
     "HTSFilter": [],
     "hummingbird": [],
@@ -673,9 +666,7 @@
         "plotgardener",
         "plyranges"
     ],
-    "MatrixQCvis": [
-        "proDA"
-    ],
+    "MatrixQCvis": [],
     "mBPCR": [
         "oligoClasses"
     ],
@@ -898,7 +889,6 @@
     "omicsPrint": [
         "RaggedExperiment"
     ],
-    "oncomix": [],
     "oncoscanR": [],
     "OncoSimulR": [],
     "openCyto": [
@@ -930,9 +920,7 @@
         "MSnbase",
         "mzID"
     ],
-    "phantasusLite": [
-        "rhdf5client"
-    ],
+    "phantasusLite": [],
     "phemd": [
         "monocle"
     ],
@@ -970,7 +958,6 @@
         "MSnbase",
         "mzID"
     ],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot"
@@ -1004,8 +991,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "pvac": [],
-    "PWMEnrich": [],
     "qckitfastq": [
         "seqTools"
     ],
@@ -1044,14 +1029,9 @@
         "GOstats"
     ],
     "RepViz": [],
-    "ReQON": [
-        "seqbias"
-    ],
-    "restfulSE": [
-        "rhdf5client"
-    ],
+    "ReQON": [],
+    "restfulSE": [],
     "Rfastp": [],
-    "rhdf5client": [],
     "Rhisat2": [],
     "RiboCrypt": [],
     "RiboDiPA": [],
@@ -1115,7 +1095,6 @@
     "scDataviz": [],
     "SCFA": [],
     "scFeatures": [
-        "AUCell",
         "SingleCellSignalR"
     ],
     "scmeth": [
@@ -1144,7 +1123,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
@@ -1166,7 +1144,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "SIMAT": [],
     "SingleCellSignalR": [],
     "sitePath": [],
     "skewr": [
@@ -1210,8 +1187,7 @@
         "apeglm"
     ],
     "tenXplore": [
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "terraTCGAdata": [
         "GenomicDataCommons",
@@ -1220,7 +1196,6 @@
     ],
     "TFHAZ": [],
     "tidybulk": [],
-    "TileDBArray": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot"
