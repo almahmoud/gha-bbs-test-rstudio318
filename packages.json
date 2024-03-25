@@ -80,7 +80,6 @@
         "BioNERO"
     ],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -145,7 +144,6 @@
     "CIMICE": [],
     "CircSeqAlignTk": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "clstutils": [],
@@ -175,7 +173,6 @@
     ],
     "coseq": [],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "CRImage": [],
@@ -205,19 +202,16 @@
     "crossmeta": [],
     "CyTOFpower": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "dagLogo": [
@@ -310,22 +304,16 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "frma": [],
     "frmaTools": [],
     "funtooNorm": [
@@ -347,9 +335,7 @@
     "gespeR": [
         "cellHTS2"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "girafe": [],
     "GmicR": [
         "GOstats"
@@ -381,9 +367,7 @@
         "pcaExplorer"
     ],
     "idr2d": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -398,12 +382,10 @@
     "iPath": [],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEde": [],
     "iSEEhex": [],
-    "iSEEhub": [],
     "iSEEindex": [],
     "iSEEpathways": [],
     "iSEEu": [
@@ -429,7 +411,6 @@
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "lumi": [
@@ -449,7 +430,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "maPredictDSC": [],
@@ -474,11 +454,9 @@
     ],
     "Melissa": [],
     "meshes": [],
-    "MetaboAnnotation": [],
     "metabolomicsWorkbenchR": [],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [
@@ -534,7 +512,6 @@
         "siggenes"
     ],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "monocle": [],
@@ -544,7 +521,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "easyRNASeq"
     ],
@@ -557,9 +533,7 @@
         "msmsTests"
     ],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
@@ -576,7 +550,6 @@
     "MultimodalExperiment": [],
     "musicatk": [],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "nearBynding": [],
@@ -603,9 +576,7 @@
         "MultiDataSet"
     ],
     "omicsPrint": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "orthogene": [],
     "pairedGSEA": [],
     "PanomiR": [
@@ -616,9 +587,7 @@
     ],
     "PCAN": [],
     "pdInfoBuilder": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [],
     "phantasusLite": [],
     "phemd": [
@@ -691,7 +660,6 @@
     "Rfastp": [],
     "RiboCrypt": [],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RLSeq": [],
@@ -726,9 +694,7 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scFeatures": [],
     "scmeth": [],
-    "scp": [],
     "scTensor": [
         "GOstats",
         "ReactomePA"
@@ -823,9 +789,7 @@
         "minfi",
         "siggenes"
     ],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "XDE": [
         "siggenes"
     ],
