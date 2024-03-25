@@ -53,7 +53,6 @@
     "attract": [
         "GOstats"
     ],
-    "AWFisher": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
@@ -85,7 +84,6 @@
     ],
     "BiocOncoTK": [],
     "BioNERO": [],
-    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
@@ -141,7 +139,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ccImpute": [],
     "CCPlotR": [],
     "cellHTS2": [],
     "CEMiTool": [
@@ -322,7 +319,6 @@
         "apeglm"
     ],
     "diffUTR": [],
-    "DiscoRhythm": [],
     "divergence": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -356,7 +352,6 @@
         "genomeIntervals"
     ],
     "EGSEA": [],
-    "EMDomics": [],
     "ENmix": [
         "minfi",
         "siggenes"
@@ -458,7 +453,6 @@
         "RCAS"
     ],
     "GenomicTuples": [],
-    "GenProSeq": [],
     "GEOmetadb": [],
     "GeoTcgaData": [],
     "gespeR": [
@@ -476,7 +470,6 @@
     "GmicR": [
         "GOstats"
     ],
-    "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -494,8 +487,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "GWENA": [],
-    "HERON": [],
     "HTSFilter": [],
     "hummingbird": [],
     "iCheck": [
@@ -809,8 +800,6 @@
     "omicsPrint": [
         "RaggedExperiment"
     ],
-    "oncoscanR": [],
-    "OncoSimulR": [],
     "openCyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -879,7 +868,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROPER": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
@@ -934,7 +922,6 @@
     "Rfastp": [],
     "Rhisat2": [],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -970,7 +957,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "RTopper": [],
     "RUVcorr": [],
     "RVS": [],
     "SARC": [
@@ -1049,7 +1035,6 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "SplicingFactory": [],
     "spqn": [],
     "sRACIPE": [],
     "staRank": [
