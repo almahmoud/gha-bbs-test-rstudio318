@@ -31,10 +31,7 @@
     "airpart": [
         "apeglm"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
@@ -134,13 +131,10 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
@@ -277,7 +271,6 @@
     ],
     "coMethDMR": [],
     "compcodeR": [],
-    "compEpiTools": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -479,7 +472,6 @@
         "orthogene"
     ],
     "exomePeak2": [],
-    "extraChIPs": [],
     "famat": [
         "clusterProfiler",
         "enrichplot"
@@ -603,7 +595,6 @@
     "hca": [],
     "HERON": [],
     "HiCBricks": [],
-    "HiCDCPlus": [],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
@@ -1286,7 +1277,6 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "spatzie": [],
     "SplicingFactory": [],
     "spqn": [],
     "sRACIPE": [],
