@@ -15,7 +15,6 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "airpart": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
@@ -39,7 +38,6 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCStan": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -111,9 +109,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "ChIPXpress": [],
     "chromstaR": [
@@ -148,7 +144,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "coseq": [],
     "cosmiq": [
         "xcms"
     ],
@@ -209,7 +204,6 @@
     ],
     "DEP": [],
     "DEsingle": [],
-    "DiffBind": [],
     "divergence": [],
     "DMCHMM": [],
     "DMRcate": [
@@ -250,7 +244,6 @@
         "minfi",
         "siggenes"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler"
@@ -336,13 +329,7 @@
         "CAMERA",
         "xcms"
     ],
-    "iSEEde": [],
-    "iSEEhex": [],
-    "iSEEindex": [],
-    "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
@@ -354,7 +341,6 @@
     "KCsmart": [
         "siggenes"
     ],
-    "lemur": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
@@ -472,7 +458,6 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "msqrob2": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
@@ -549,7 +534,6 @@
         "DAPAR",
         "clusterProfiler"
     ],
-    "PSMatch": [],
     "quantro": [
         "minfi",
         "siggenes"
@@ -576,7 +560,6 @@
     ],
     "RLSeq": [],
     "RMassBank": [],
-    "Rmmquant": [],
     "RNAinteract": [],
     "RnBeads": [
         "methylumi",
@@ -646,7 +629,6 @@
         "GenomicDataCommons"
     ],
     "TDbasedUFEadv": [],
-    "TEKRABber": [],
     "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
@@ -657,7 +639,6 @@
         "clusterProfiler"
     ],
     "topdownr": [],
-    "transformGamPoi": [],
     "transite": [],
     "trio": [
         "siggenes"
@@ -673,9 +654,7 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
