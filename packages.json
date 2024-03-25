@@ -13,7 +13,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "adSplit": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -78,9 +77,7 @@
         "glmGamPoi"
     ],
     "beachmat.hdf5": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -100,7 +97,6 @@
     ],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BioMVCClass": [],
     "BioNERO": [],
     "BioNetStat": [],
     "biosigner": [
@@ -111,9 +107,7 @@
         "annotatr",
         "dmrseq"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "bnbc": [
         "HiCBricks"
     ],
@@ -254,7 +248,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVMetrics": [],
     "CNVRanger": [
         "RaggedExperiment"
     ],
@@ -363,13 +356,10 @@
     ],
     "DEsingle": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [
         "apeglm"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "DiscoRhythm": [],
     "divergence": [],
     "DMCHMM": [],
@@ -567,13 +557,10 @@
     ],
     "GWENA": [],
     "hapFabia": [],
-    "hca": [],
     "HERON": [],
     "HiCBricks": [],
     "HTSFilter": [],
-    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
-    "hyperdraw": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -606,9 +593,7 @@
     "interactiveDisplay": [
         "Category"
     ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "IntOMICS": [],
     "iPath": [],
     "IPO": [
@@ -640,7 +625,6 @@
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "satuRn"
     ],
     "ITALICS": [
@@ -709,7 +693,6 @@
     "MatrixQCvis": [
         "proDA"
     ],
-    "MBASED": [],
     "mBPCR": [
         "oligoClasses"
     ],
@@ -727,7 +710,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEDME": [],
     "Melissa": [],
     "meshes": [
         "enrichplot"
@@ -928,8 +910,7 @@
         "OLIN"
     ],
     "omicRexposome": [
-        "MultiDataSet",
-        "rexposome"
+        "MultiDataSet"
     ],
     "omicsPrint": [
         "RaggedExperiment"
@@ -944,9 +925,7 @@
     "ORFik": [],
     "orthogene": [],
     "packFinder": [],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -1093,7 +1072,6 @@
     "restfulSE": [
         "rhdf5client"
     ],
-    "rexposome": [],
     "Rfastp": [],
     "rhdf5client": [],
     "Rhisat2": [],
@@ -1141,7 +1119,6 @@
     ],
     "RTopper": [],
     "RUVcorr": [],
-    "Rvisdiff": [],
     "RVS": [],
     "safe": [],
     "SARC": [
@@ -1235,12 +1212,10 @@
     "SplicingFactory": [],
     "spqn": [],
     "sRACIPE": [],
-    "SRAdb": [],
     "staRank": [
         "Category",
         "cellHTS2"
     ],
-    "statTarget": [],
     "stepNorm": [],
     "structToolbox": [],
     "synapter": [
@@ -1292,7 +1267,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "Trendy": [],
     "trio": [
         "siggenes"
     ],
@@ -1323,7 +1297,6 @@
         "minfi",
         "siggenes"
     ],
-    "wpm": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
