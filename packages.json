@@ -149,7 +149,6 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
@@ -294,7 +293,6 @@
     "CNVRanger": [
         "RaggedExperiment"
     ],
-    "COCOA": [],
     "comapr": [],
     "coMethDMR": [],
     "compcodeR": [],
@@ -565,7 +563,6 @@
     ],
     "FuseSOM": [],
     "gaga": [],
-    "GARS": [],
     "GDCRNATools": [
         "GenomicDataCommons",
         "clusterProfiler",
@@ -580,7 +577,6 @@
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicInteractions": [],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -675,7 +671,6 @@
         "plyranges"
     ],
     "INSPEcT": [],
-    "intansv": [],
     "interactiveDisplay": [
         "Category"
     ],
@@ -995,7 +990,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [],
     "netZooR": [
         "Category",
         "GOstats",
@@ -1166,7 +1160,6 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "R3CPET": [],
     "RaggedExperiment": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
@@ -1201,7 +1194,6 @@
     "restfulSE": [
         "rhdf5client"
     ],
-    "ReUseData": [],
     "rexposome": [],
     "Rfastp": [],
     "rhdf5client": [],
@@ -1210,7 +1202,6 @@
         "ORFik"
     ],
     "RiboDiPA": [],
-    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
@@ -1296,7 +1287,6 @@
     ],
     "scReClassify": [],
     "screenCounter": [],
-    "scruff": [],
     "scry": [],
     "scTensor": [
         "Category",
@@ -1341,7 +1331,6 @@
     "signifinder": [],
     "SIMAT": [],
     "SingleCellSignalR": [],
-    "SingleMoleculeFootprinting": [],
     "sitePath": [],
     "skewr": [
         "lumi",
@@ -1353,7 +1342,6 @@
     "snapCGH": [
         "aCGH"
     ],
-    "SomaticSignatures": [],
     "SOMNiBUS": [
         "annotatr"
     ],
@@ -1484,9 +1472,7 @@
     "Xeva": [],
     "XINA": [],
     "yamss": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [
         "minfi",
         "quantro",
