@@ -4,7 +4,6 @@
     ],
     "a4Classif": [],
     "abseqR": [],
-    "ACE": [],
     "aCGH": [],
     "ADaCGH2": [
         "aCGH",
@@ -35,24 +34,15 @@
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "AllelicImbalance": [],
     "AMARETTO": [],
     "AneuFinder": [
@@ -163,7 +153,6 @@
     "borealis": [],
     "BPRMeth": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
     "brendaDb": [],
@@ -232,9 +221,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -329,11 +316,8 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [],
-    "consensusOV": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -389,8 +373,7 @@
     "cummeRbund": [],
     "cyanoFilter": [],
     "CyTOFpower": [
-        "CytoGLMM",
-        "diffcyt"
+        "CytoGLMM"
     ],
     "cytofQC": [],
     "CytoGLMM": [],
@@ -449,17 +432,13 @@
         "mzID"
     ],
     "DEqMS": [],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DEsingle": [],
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
         "apeglm"
     ],
-    "diffcyt": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -590,7 +569,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMerge": [],
     "flowSpecs": [],
     "flowStats": [
         "flowWorkspace",
@@ -623,14 +601,10 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDNAx": [],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -691,7 +665,6 @@
         "EnrichmentBrowser",
         "safe"
     ],
-    "GUIDEseq": [],
     "GWENA": [],
     "hapFabia": [],
     "hca": [],
@@ -1109,7 +1082,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppar": [],
     "oppti": [],
     "optimalFlow": [],
     "ORFik": [],
@@ -1148,7 +1120,6 @@
     "phantasusLite": [
         "rhdf5client"
     ],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1213,7 +1184,6 @@
         "mzID"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "PSMatch": [
@@ -1260,17 +1230,13 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "minfi",
         "siggenes"
     ],
     "RedisParam": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "REMP": [
         "minfi",
@@ -1317,7 +1283,6 @@
         "apeglm"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAinteract": [
@@ -1335,7 +1300,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -1347,7 +1311,6 @@
     "ropls": [
         "MultiDataSet"
     ],
-    "Rqc": [],
     "rqt": [
         "MultiDataSet",
         "ropls"
@@ -1435,13 +1398,9 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SIMAT": [],
-    "simpleSeg": [],
     "SingleCellSignalR": [],
-    "singleCellTK": [],
     "SingleMoleculeFootprinting": [],
     "sitePath": [],
     "skewr": [
@@ -1540,9 +1499,7 @@
     "tRanslatome": [
         "anota"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "Trendy": [],
     "trio": [
         "siggenes"
@@ -1566,9 +1523,7 @@
         "oligoClasses"
     ],
     "VariantFiltering": [],
-    "VCFArray": [],
     "velociraptor": [],
-    "vtpnet": [],
     "vulcan": [
         "DiffBind",
         "apeglm"
@@ -1589,9 +1544,7 @@
     "XDE": [
         "siggenes"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XINA": [],
     "yamss": [],
     "YAPSA": [
