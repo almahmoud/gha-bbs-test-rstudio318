@@ -932,7 +932,6 @@
         "maftools"
     ],
     "mzID": [],
-    "NADfinder": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -1176,9 +1175,6 @@
         "Category",
         "cellHTS2"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "RnBeads": [
         "methylumi",
         "minfi",
