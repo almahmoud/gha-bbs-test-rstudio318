@@ -48,7 +48,6 @@
     ],
     "bamsignals": [],
     "bandle": [
-        "MSnbase",
         "pRoloc"
     ],
     "BASiCS": [],
@@ -57,7 +56,6 @@
         "glmGamPoi"
     ],
     "beachmat.hdf5": [],
-    "BiGGR": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -95,7 +93,6 @@
         "BioNERO"
     ],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -172,15 +169,12 @@
         "Rhisat2"
     ],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
     ],
     "clstutils": [],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -212,7 +206,6 @@
         "HTSFilter"
     ],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -266,7 +259,6 @@
         "UniProt.ws"
     ],
     "DAPAR": [
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -286,9 +278,7 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "DEsingle": [],
     "DExMA": [],
     "DiffBind": [
@@ -376,7 +366,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -482,7 +471,6 @@
     "iPath": [],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -529,7 +517,6 @@
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -552,7 +539,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -581,14 +567,12 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [],
     "MetaboAnnotation": [
         "QFeatures"
     ],
     "metabolomicsWorkbenchR": [],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -650,7 +634,6 @@
     ],
     "missRows": [],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
@@ -671,16 +654,11 @@
     "msgbsR": [
         "easyRNASeq"
     ],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -691,11 +669,8 @@
         "MsExperiment",
         "QFeatures"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC"
     ],
     "MultiBaC": [
@@ -712,13 +687,11 @@
     "musicatk": [],
     "ncdfFlow": [],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
     ],
     "nearBynding": [],
-    "nempi": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -764,9 +737,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "phantasusLite": [],
     "phemd": [
         "monocle"
@@ -792,39 +763,29 @@
         "rCGH"
     ],
     "PREDA": [],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "enrichplot"
     ],
     "projectR": [],
-    "pRoloc": [
-        "MSnbase"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MSnbase",
         "pRoloc"
     ],
     "Prostar": [
         "DAPAR",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
     "PSMatch": [
         "QFeatures"
     ],
-    "ptairMS": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
     "puma": [],
     "qckitfastq": [],
     "QFeatures": [],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "Qtlizer": [],
     "quantro": [
         "minfi",
@@ -858,16 +819,13 @@
     "Rhisat2": [],
     "RiboCrypt": [],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures",
         "xcms"
     ],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "Rmmquant": [
         "apeglm"
     ],
@@ -917,8 +875,7 @@
     "scTensor": [
         "GOstats",
         "ReactomePA",
-        "enrichplot",
-        "meshr"
+        "enrichplot"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -968,9 +925,7 @@
     ],
     "stepNorm": [],
     "structToolbox": [],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "TargetDecoy": [],
     "TCC": [],
     "TCGAutils": [
@@ -996,9 +951,7 @@
         "enrichplot"
     ],
     "tomoseqr": [],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -1032,7 +985,6 @@
         "siggenes"
     ],
     "xcms": [
-        "MSnbase",
         "MsExperiment",
         "QFeatures"
     ],
