@@ -12,15 +12,13 @@
     ],
     "affycoretools": [
         "GOstats",
-        "ReportingTools",
-        "oligoClasses"
+        "ReportingTools"
     ],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
-        "affycoretools",
-        "oligoClasses"
+        "affycoretools"
     ],
     "airpart": [
         "apeglm"
@@ -30,13 +28,8 @@
         "bamsignals"
     ],
     "annotatr": [],
-    "anota2seq": [],
-    "AnVILWorkflow": [],
     "apeglm": [],
-    "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -75,7 +68,6 @@
     "bioCancer": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -111,7 +103,6 @@
     "canceR": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "phenoTest"
@@ -125,14 +116,12 @@
     "cbaf": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -170,9 +159,7 @@
         "enrichplot"
     ],
     "ChIPXpress": [
-        "frma",
-        "oligo",
-        "oligoClasses"
+        "frma"
     ],
     "chromstaR": [
         "bamsignals"
@@ -181,7 +168,6 @@
         "monocle"
     ],
     "CIMICE": [],
-    "CINdex": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -199,10 +185,7 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "cn.farms": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -214,9 +197,7 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVRanger": [
-        "RaggedExperiment"
-    ],
+    "CNVRanger": [],
     "coMethDMR": [],
     "CONSTANd": [],
     "conumee": [
@@ -259,13 +240,8 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
-    "crossmeta": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "crlmm": [],
+    "crossmeta": [],
     "CyTOFpower": [],
     "CytoML": [
         "flowWorkspace",
@@ -344,13 +320,9 @@
         "UniProt.ws"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "oligo",
-        "oligoClasses"
+        "ArrayExpress"
     ],
-    "easyRNASeq": [
-        "genomeIntervals"
-    ],
+    "easyRNASeq": [],
     "EGSEA": [],
     "ENmix": [
         "minfi",
@@ -376,7 +348,6 @@
         "minfi",
         "siggenes"
     ],
-    "erccdashboard": [],
     "ERSSA": [
         "apeglm"
     ],
@@ -430,10 +401,7 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "frma": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "frma": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi",
@@ -446,8 +414,6 @@
         "enrichplot"
     ],
     "geneRecommender": [],
-    "GeneRegionScan": [],
-    "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicPlot": [
         "RCAS"
@@ -463,9 +429,7 @@
         "ncdfFlow"
     ],
     "ggsc": [],
-    "girafe": [
-        "genomeIntervals"
-    ],
+    "girafe": [],
     "glmGamPoi": [],
     "GmicR": [
         "GOstats"
@@ -474,7 +438,6 @@
     "GNOSIS": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
@@ -513,7 +476,6 @@
         "siggenes"
     ],
     "InPAS": [],
-    "INSPEcT": [],
     "interactiveDisplay": [],
     "IntEREst": [],
     "IntOMICS": [],
@@ -548,10 +510,7 @@
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
-    "ITALICS": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "ITALICS": [],
     "iterClust": [],
     "karyoploteR": [
         "bamsignals"
@@ -585,7 +544,6 @@
         "crlmm",
         "methylumi",
         "minfi",
-        "oligoClasses",
         "siggenes"
     ],
     "MAGeCKFlute": [
@@ -604,9 +562,7 @@
         "plotgardener"
     ],
     "MatrixQCvis": [],
-    "mBPCR": [
-        "oligoClasses"
-    ],
+    "mBPCR": [],
     "MEAL": [
         "MultiDataSet",
         "methylumi",
@@ -669,10 +625,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mimager": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "mimager": [],
     "MineICA": [
         "GOstats",
         "lumi",
@@ -685,8 +638,7 @@
     ],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "miRLAB": [
         "GOstats"
@@ -717,8 +669,7 @@
         "QFeatures"
     ],
     "msgbsR": [
-        "easyRNASeq",
-        "genomeIntervals"
+        "easyRNASeq"
     ],
     "msmsEDA": [
         "MSnbase"
@@ -733,7 +684,6 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -786,10 +736,6 @@
     ],
     "NPARC": [],
     "nullranges": [],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
     "OLIN": [],
     "OLINgui": [
         "OLIN"
@@ -797,9 +743,7 @@
     "omicRexposome": [
         "MultiDataSet"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "openCyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -811,15 +755,11 @@
         "enrichplot"
     ],
     "pareg": [],
-    "pathRender": [],
     "pcaExplorer": [
         "GOstats"
     ],
     "PCAN": [],
-    "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowWorkspace",
         "ncdfFlow"
@@ -848,7 +788,6 @@
     ],
     "plotgardener": [],
     "plyinteractions": [],
-    "pmp": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -880,10 +819,7 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "puma": [],
     "qckitfastq": [],
     "QFeatures": [],
     "qPLEXanalyzer": [
@@ -897,7 +833,6 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "RaggedExperiment": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
     "RCAS": [],
@@ -954,21 +889,15 @@
     ],
     "RTCGAToolbox": [
         "GenomicDataCommons",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RUVcorr": [],
     "RVS": [],
-    "SARC": [
-        "RaggedExperiment"
-    ],
+    "SARC": [],
     "satuRn": [],
     "SBGNview": [],
     "Scale4C": [],
-    "SCAN.UPC": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -991,7 +920,6 @@
         "enrichplot",
         "meshr"
     ],
-    "scTHI": [],
     "segmenter": [
         "ChIPseeker",
         "bamsignals",
@@ -1021,7 +949,6 @@
         "enrichplot"
     ],
     "SingleCellSignalR": [],
-    "sitePath": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -1035,7 +962,6 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "spqn": [],
     "sRACIPE": [],
     "staRank": [
         "cellHTS2"
@@ -1048,8 +974,7 @@
     "TargetDecoy": [],
     "TCC": [],
     "TCGAutils": [
-        "GenomicDataCommons",
-        "RaggedExperiment"
+        "GenomicDataCommons"
     ],
     "TDbasedUFEadv": [
         "enrichplot"
@@ -1062,7 +987,6 @@
     ],
     "terraTCGAdata": [
         "GenomicDataCommons",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFHAZ": [],
@@ -1084,7 +1008,6 @@
         "siggenes"
     ],
     "TTMap": [],
-    "tweeDEseq": [],
     "UCell": [],
     "Ularcirc": [
         "plotgardener"
@@ -1095,8 +1018,7 @@
         "monocle"
     ],
     "VanillaICE": [
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "velociraptor": [],
     "vulcan": [
