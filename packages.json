@@ -72,9 +72,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "ATACseqQC": [],
-    "ATACseqTFEA": [],
-    "atSNP": [],
     "attract": [
         "Category",
         "GOstats"
@@ -459,7 +456,6 @@
     ],
     "ELMER": [],
     "EMDomics": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "minfi",
         "siggenes"
@@ -909,7 +905,6 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "motifbreakR": [],
     "MsExperiment": [
         "QFeatures"
     ],
@@ -969,7 +964,6 @@
     ],
     "mzID": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "ncdfFlow": [],
@@ -1035,7 +1029,6 @@
     "ORFik": [],
     "orthogene": [],
     "packFinder": [],
-    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq"
     ],
@@ -1202,7 +1195,6 @@
         "ORFik"
     ],
     "RiboDiPA": [],
-    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
