@@ -99,8 +99,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "ChIPQC": [],
-    "ChIPXpress": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -296,7 +294,6 @@
         "CAMERA",
         "xcms"
     ],
-    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
@@ -404,7 +401,6 @@
     "monocle": [],
     "Moonlight2R": [],
     "MoonlightR": [],
-    "msgbsR": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -587,7 +583,6 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
