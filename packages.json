@@ -19,7 +19,6 @@
         "Category",
         "GOstats",
         "ReportingTools",
-        "ggbio",
         "oligoClasses"
     ],
     "aggregateBioVar": [],
@@ -28,7 +27,6 @@
         "GOstats",
         "ReportingTools",
         "affycoretools",
-        "ggbio",
         "oligoClasses"
     ],
     "airpart": [
@@ -166,15 +164,13 @@
         "epiNEM"
     ],
     "BOBaFIT": [
-        "ggbio",
         "plyranges"
     ],
     "borealis": [],
     "BPRMeth": [],
     "brainflowprobes": [
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "brendaDb": [],
     "BubbleTree": [],
@@ -182,16 +178,13 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions",
         "Gviz"
     ],
     "cageminer": [
-        "BioNERO",
-        "ggbio"
+        "BioNERO"
     ],
     "CAGEr": [
         "CAGEfightR",
@@ -363,7 +356,6 @@
     "consensusDE": [],
     "consensusOV": [],
     "CONSTANd": [],
-    "contiBAIT": [],
     "conumee": [
         "minfi",
         "siggenes"
@@ -487,10 +479,8 @@
     "DEqMS": [],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
-    "DEScan2": [],
     "DEsingle": [],
     "DExMA": [],
     "DEXSeq": [],
@@ -580,7 +570,6 @@
     "epiNEM": [],
     "epivizrStandalone": [],
     "erccdashboard": [],
-    "erma": [],
     "ERSSA": [
         "apeglm"
     ],
@@ -625,8 +614,7 @@
         "xcms"
     ],
     "FLAMES": [
-        "bambu",
-        "ggbio"
+        "bambu"
     ],
     "flowBin": [],
     "flowCut": [],
@@ -642,7 +630,6 @@
         "ncdfFlow"
     ],
     "flowTime": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats",
         "flowWorkspace",
@@ -677,7 +664,6 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "GeneBreak": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -690,9 +676,7 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -708,7 +692,6 @@
         "cellHTS2"
     ],
     "getDEE2": [],
-    "ggbio": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -757,7 +740,6 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "HTSeqGenie": [],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
@@ -777,7 +759,6 @@
     "IdeoViz": [],
     "idr2d": [],
     "IHW": [],
-    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -794,9 +775,7 @@
         "plyranges"
     ],
     "INSPEcT": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interactiveDisplay": [
         "Category"
     ],
@@ -1059,8 +1038,7 @@
     ],
     "msgbsR": [
         "easyRNASeq",
-        "genomeIntervals",
-        "ggbio"
+        "genomeIntervals"
     ],
     "msmsEDA": [
         "MSnbase",
@@ -1088,7 +1066,6 @@
         "MsExperiment",
         "QFeatures"
     ],
-    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "mzID"
@@ -1098,7 +1075,6 @@
         "MSstatsQC",
         "mzID"
     ],
-    "MSstatsShiny": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -1331,10 +1307,7 @@
     "QuartPAC": [
         "SpacePAC"
     ],
-    "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RadioGx": [],
     "RaggedExperiment": [],
     "RAIDS": [],
@@ -1359,7 +1332,6 @@
         "siggenes"
     ],
     "RedisParam": [],
-    "REDseq": [],
     "regionReport": [
         "derfinder"
     ],
@@ -1372,8 +1344,7 @@
     ],
     "ReportingTools": [
         "Category",
-        "GOstats",
-        "ggbio"
+        "GOstats"
     ],
     "RepViz": [],
     "ReQON": [
@@ -1391,9 +1362,7 @@
         "ORFik"
     ],
     "RiboDiPA": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "motifStack"
     ],
@@ -1494,9 +1463,7 @@
     ],
     "scReClassify": [],
     "screenCounter": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scry": [],
     "scTensor": [
         "Category",
@@ -1546,9 +1513,7 @@
     "simpleSeg": [],
     "SingleCellSignalR": [],
     "singleCellTK": [],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "sitePath": [],
     "skewr": [
         "lumi",
@@ -1560,9 +1525,7 @@
     "snapCGH": [
         "aCGH"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [
         "annotatr"
     ],
@@ -1640,14 +1603,12 @@
         "enrichplot"
     ],
     "TMixClust": [],
-    "TNBC.CMS": [],
     "tomoda": [],
     "tomoseqr": [],
     "topdownr": [
         "MSnbase",
         "mzID"
     ],
-    "ToxicoGx": [],
     "TPP": [],
     "TPP2D": [],
     "trackViewer": [
@@ -1692,7 +1653,6 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [],
     "VCFArray": [],
     "velociraptor": [],
     "vtpnet": [],
@@ -1722,8 +1682,7 @@
     "XINA": [],
     "yamss": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "minfi",
