@@ -68,7 +68,6 @@
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "apeglm": [],
-    "appreci8R": [],
     "ArrayExpress": [
         "oligo",
         "oligoClasses"
@@ -243,7 +242,6 @@
     ],
     "ccImpute": [],
     "CCPlotR": [],
-    "celaref": [],
     "cellHTS2": [
         "Category"
     ],
@@ -346,9 +344,7 @@
     "CNVRanger": [
         "RaggedExperiment"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "comapr": [
         "Gviz"
     ],
@@ -472,7 +468,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decontX": [],
     "deconvR": [
         "minfi",
         "siggenes"
@@ -666,7 +661,6 @@
         "siggenes"
     ],
     "FuseSOM": [],
-    "GA4GHshiny": [],
     "gaga": [],
     "GARS": [],
     "GateFinder": [],
@@ -1026,7 +1020,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "MIRA": [],
     "miRLAB": [
         "Category",
         "GOstats"
@@ -1061,7 +1054,6 @@
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMgf": [],
     "MsExperiment": [
         "QFeatures"
     ],
@@ -1206,7 +1198,6 @@
     "pairedGSEA": [
         "DEXSeq"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -1268,7 +1259,6 @@
     ],
     "plyranges": [],
     "pmp": [],
-    "POWSC": [],
     "prebs": [],
     "preciseTAD": [
         "aCGH",
@@ -1285,8 +1275,7 @@
     "proDA": [],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "projectR": [],
     "pRoloc": [
@@ -1313,7 +1302,6 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "mzID"
@@ -1352,7 +1340,6 @@
     "RAIDS": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [],
     "Rbec": [],
     "RCAS": [
         "genomation"
@@ -1392,7 +1379,6 @@
     "ReQON": [
         "seqbias"
     ],
-    "RESOLVE": [],
     "restfulSE": [
         "rhdf5client"
     ],
@@ -1418,7 +1404,6 @@
         "mzID",
         "xcms"
     ],
-    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
@@ -1494,7 +1479,6 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "SCArray.sat": [],
     "scDataviz": [],
     "SCFA": [],
     "scFeatures": [
@@ -1576,7 +1560,6 @@
     "snapCGH": [
         "aCGH"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -1670,7 +1653,6 @@
     "trackViewer": [
         "Gviz"
     ],
-    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
