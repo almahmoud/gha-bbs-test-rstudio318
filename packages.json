@@ -64,7 +64,6 @@
     ],
     "AUCell": [],
     "AWFisher": [],
-    "awst": [],
     "bacon": [],
     "bambu": [],
     "bamsignals": [],
@@ -118,9 +117,7 @@
     "bnbc": [
         "HiCBricks"
     ],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "plyranges"
     ],
@@ -187,9 +184,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [
         "plyranges"
     ],
@@ -236,10 +231,7 @@
         "mzID",
         "xcms"
     ],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "mzID"
@@ -353,9 +345,7 @@
         "enrichplot",
         "mzID"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "debrowser": [
         "apeglm",
         "clusterProfiler",
@@ -376,7 +366,6 @@
         "MSnbase",
         "mzID"
     ],
-    "DEqMS": [],
     "DEsingle": [],
     "DExMA": [],
     "DEXSeq": [],
@@ -443,8 +432,7 @@
     ],
     "EpiCompare": [
         "ChIPseeker",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigraHMM": [
         "bamsignals"
@@ -453,7 +441,6 @@
         "minfi",
         "siggenes"
     ],
-    "epiNEM": [],
     "erccdashboard": [],
     "ERSSA": [
         "apeglm"
@@ -474,9 +461,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fedup": [],
     "ffpe": [
         "lumi",
@@ -534,12 +519,10 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
         "plyranges"
     ],
     "GenomicTuples": [],
@@ -551,7 +534,6 @@
         "Category",
         "cellHTS2"
     ],
-    "getDEE2": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -606,12 +588,10 @@
     "ideal": [
         "Category",
         "GOstats",
-        "IHW",
         "pcaExplorer"
     ],
     "IdeoViz": [],
     "idr2d": [],
-    "IHW": [],
     "ImmuneSpaceR": [
         "flowWorkspace",
         "ncdfFlow"
@@ -687,7 +667,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LinTInd": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
@@ -733,7 +712,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "maskBAD": [],
     "MatrixQCvis": [
         "proDA"
     ],
@@ -741,7 +719,6 @@
     "mBPCR": [
         "oligoClasses"
     ],
-    "MBQN": [],
     "MCbiclust": [],
     "MEAL": [
         "MultiDataSet",
@@ -932,9 +909,7 @@
     "nearBynding": [
         "plyranges"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -979,7 +954,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppti": [],
     "ORFik": [],
     "orthogene": [],
     "packFinder": [],
@@ -1106,9 +1080,7 @@
     "RaggedExperiment": [],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [
         "aCGH"
     ],
@@ -1279,14 +1251,12 @@
     "spqn": [],
     "sRACIPE": [],
     "SRAdb": [],
-    "ssPATHS": [],
     "staRank": [
         "Category",
         "cellHTS2"
     ],
     "statTarget": [],
     "stepNorm": [],
-    "Streamer": [],
     "struct": [],
     "structToolbox": [
         "struct"
@@ -1296,7 +1266,6 @@
         "MSnbase",
         "mzID"
     ],
-    "tanggle": [],
     "target": [],
     "TargetDecoy": [
         "mzID"
@@ -1387,7 +1356,6 @@
     "XDE": [
         "siggenes"
     ],
-    "XINA": [],
     "yamss": [],
     "yarn": [
         "minfi",
