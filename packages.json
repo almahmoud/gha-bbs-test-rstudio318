@@ -371,7 +371,6 @@
     ],
     "CTDquerier": [],
     "cummeRbund": [],
-    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM"
     ],
@@ -409,7 +408,6 @@
     "dce": [
         "epiNEM"
     ],
-    "ddPCRclust": [],
     "debrowser": [
         "apeglm",
         "clusterProfiler",
@@ -515,7 +513,6 @@
         "siggenes"
     ],
     "epiNEM": [],
-    "epivizrStandalone": [],
     "erccdashboard": [],
     "ERSSA": [
         "apeglm"
@@ -562,8 +559,6 @@
     "FLAMES": [
         "bambu"
     ],
-    "flowBin": [],
-    "flowCut": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto",
@@ -595,7 +590,6 @@
     "FuseSOM": [],
     "gaga": [],
     "GARS": [],
-    "GateFinder": [],
     "GDCRNATools": [
         "GenomicDataCommons",
         "clusterProfiler",
@@ -774,7 +768,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1365,7 +1358,6 @@
         "meshr"
     ],
     "scTHI": [],
-    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker",
         "bamsignals",
