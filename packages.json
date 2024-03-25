@@ -78,7 +78,6 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CBNplot": [],
     "CCPlotR": [],
     "CEMiTool": [],
     "CeTF": [],
@@ -153,7 +152,6 @@
         "UniProt.ws"
     ],
     "DAPAR": [],
-    "debrowser": [],
     "deconvR": [
         "minfi",
         "siggenes"
@@ -189,7 +187,6 @@
         "siggenes"
     ],
     "enrichTF": [],
-    "EpiCompare": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -288,7 +285,6 @@
         "minfi",
         "siggenes"
     ],
-    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA"
     ],
@@ -334,7 +330,6 @@
         "minfi",
         "siggenes"
     ],
-    "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi",
         "methylumi",
@@ -476,7 +471,6 @@
     "segmenter": [
         "bamsignals"
     ],
-    "seqArchRplus": [],
     "SeqSQC": [],
     "shinyepico": [
         "minfi",
@@ -488,7 +482,6 @@
     ],
     "SigCheck": [],
     "siggenes": [],
-    "signatureSearch": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -508,7 +501,6 @@
         "TCGAutils"
     ],
     "tidybulk": [],
-    "TimiRGeN": [],
     "topdownr": [],
     "transite": [],
     "trio": [
