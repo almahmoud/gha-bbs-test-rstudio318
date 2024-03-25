@@ -121,7 +121,6 @@
         "glmGamPoi"
     ],
     "beachmat.hdf5": [],
-    "benchdamic": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -324,7 +323,6 @@
         "MSnbase",
         "mzID"
     ],
-    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -363,8 +361,6 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
-    "condiments": [],
     "CONFESS": [
         "flowMerge"
     ],
@@ -390,7 +386,6 @@
         "mzID",
         "xcms"
     ],
-    "COTAN": [],
     "CRImage": [
         "aCGH"
     ],
@@ -462,7 +457,6 @@
         "UniProt.ws",
         "motifStack"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -619,7 +613,6 @@
     "fCCAC": [
         "genomation"
     ],
-    "FEAST": [],
     "fedup": [],
     "ffpe": [
         "lumi",
@@ -675,9 +668,7 @@
     "FuseSOM": [],
     "GA4GHshiny": [],
     "gaga": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [],
     "GDCRNATools": [
         "GenomicDataCommons",
@@ -962,7 +953,6 @@
         "Category"
     ],
     "MetaboAnnotation": [
-        "CompoundDb",
         "QFeatures"
     ],
     "metabolomicsWorkbenchR": [
@@ -982,7 +972,6 @@
         "enrichplot"
     ],
     "metaseqR2": [],
-    "MetCirc": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -1048,7 +1037,6 @@
         "siggenes"
     ],
     "missRows": [],
-    "mitoClone2": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1074,8 +1062,6 @@
     "motifmatchr": [],
     "motifStack": [],
     "MsBackendMgf": [],
-    "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsExperiment": [
         "QFeatures"
     ],
@@ -1143,7 +1129,6 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -1162,9 +1147,7 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "Category",
         "GOstats",
@@ -1377,7 +1360,6 @@
     "rCGH": [
         "aCGH"
     ],
-    "RcwlPipelines": [],
     "RCyjs": [],
     "ReactomePA": [
         "enrichplot"
@@ -1391,7 +1373,6 @@
     ],
     "RedisParam": [],
     "REDseq": [],
-    "regionalpcs": [],
     "regionReport": [
         "derfinder"
     ],
@@ -1415,9 +1396,7 @@
     "restfulSE": [
         "rhdf5client"
     ],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "rexposome": [],
     "Rfastp": [],
     "rhdf5client": [],
@@ -1542,7 +1521,6 @@
         "enrichplot",
         "meshr"
     ],
-    "scTGIF": [],
     "scTHI": [],
     "scTreeViz": [],
     "segmenter": [
