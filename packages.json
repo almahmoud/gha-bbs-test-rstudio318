@@ -7,10 +7,7 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
@@ -242,7 +239,6 @@
         "minfi",
         "siggenes"
     ],
-    "ideal": [],
     "idr2d": [],
     "iNETgrate": [
         "Pigengene",
