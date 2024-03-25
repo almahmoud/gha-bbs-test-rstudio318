@@ -32,15 +32,9 @@
         "apeglm"
     ],
     "alabaster": [
-        "alabaster.sce",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
-    "alabaster.vcf": [],
+    "alabaster.spatial": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
@@ -65,7 +59,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "ASpli": [],
     "ATACCoGAPS": [
         "projectR"
     ],
@@ -141,15 +134,12 @@
     "BUSpaRse": [
         "plyranges"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -285,12 +275,9 @@
     "CNVRanger": [
         "RaggedExperiment"
     ],
-    "comapr": [],
     "coMethDMR": [],
     "compcodeR": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -346,7 +333,6 @@
     "CyTOFpower": [
         "CytoGLMM"
     ],
-    "cytofQC": [],
     "CytoGLMM": [],
     "CytoML": [
         "flowWorkspace",
@@ -493,9 +479,7 @@
         "orthogene"
     ],
     "exomePeak2": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "famat": [
         "clusterProfiler",
         "enrichplot"
@@ -563,7 +547,6 @@
     "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
-    "GenomicInteractions": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -620,9 +603,7 @@
     "hca": [],
     "HERON": [],
     "HiCBricks": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HTSFilter": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
@@ -773,7 +754,6 @@
     ],
     "MBQN": [],
     "MCbiclust": [],
-    "mCSEA": [],
     "MEAL": [
         "MultiDataSet",
         "methylumi",
@@ -837,7 +817,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylPipe": [],
     "methylumi": [
         "minfi",
         "siggenes"
@@ -990,7 +969,6 @@
         "plyranges"
     ],
     "OCplus": [],
-    "OGRE": [],
     "oligo": [
         "oligoClasses"
     ],
@@ -1064,7 +1042,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PING": [],
     "PloGO2": [
         "Category",
         "GOstats"
@@ -1082,7 +1059,6 @@
         "rCGH"
     ],
     "PREDA": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "mzID"
@@ -1157,7 +1133,6 @@
         "siggenes"
     ],
     "RedisParam": [],
-    "regionReport": [],
     "REMP": [
         "minfi",
         "siggenes"
@@ -1315,11 +1290,8 @@
     ],
     "SpacePAC": [],
     "Spaniel": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SplicingFactory": [],
-    "SPLINTER": [],
     "spqn": [],
     "sRACIPE": [],
     "SRAdb": [],
@@ -1402,7 +1374,6 @@
         "plyranges"
     ],
     "UMI4Cats": [],
-    "uncoverappLib": [],
     "UniProt.ws": [],
     "uSORT": [
         "monocle"
@@ -1432,7 +1403,6 @@
     "XDE": [
         "siggenes"
     ],
-    "Xeva": [],
     "XINA": [],
     "yamss": [],
     "yarn": [
