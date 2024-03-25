@@ -57,9 +57,7 @@
     "cageminer": [
         "BioNERO"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -99,9 +97,7 @@
     "cicero": [
         "monocle"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -123,9 +119,7 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -150,18 +144,10 @@
     ],
     "crlmm": [],
     "crossmeta": [],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "CytoPipeline"
     ],
     "dagLogo": [
         "UniProt.ws"
@@ -191,9 +177,7 @@
         "bamsignals"
     ],
     "DNAshapeR": [],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -228,16 +212,10 @@
         "siggenes"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
-    "flowGate": [
-        "ggcyto"
-    ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowGate": [],
+    "flowVS": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi",
@@ -249,11 +227,8 @@
     ],
     "geneRecommender": [],
     "GenomicDataCommons": [],
-    "GenomicPlot": [],
     "GenomicTuples": [],
     "GeoTcgaData": [],
-    "gespeR": [],
-    "ggcyto": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -263,7 +238,6 @@
     ],
     "GOfuncR": [],
     "goSorensen": [],
-    "GSEABenchmarkeR": [],
     "hummingbird": [],
     "iCheck": [
         "lumi",
@@ -273,7 +247,6 @@
     ],
     "ideal": [],
     "idr2d": [],
-    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
         "minfi",
@@ -282,8 +255,7 @@
     "IntOMICS": [],
     "iPath": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
@@ -302,8 +274,7 @@
     ],
     "lmdme": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "lumi": [
         "methylumi",
@@ -319,11 +290,9 @@
     ],
     "MAGeCKFlute": [],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maPredictDSC": [],
-    "mariner": [],
     "mBPCR": [],
     "MEAL": [
         "MultiDataSet",
@@ -340,8 +309,7 @@
         "wateRmelon"
     ],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [],
     "MethylAid": [
@@ -385,9 +353,7 @@
         "minfi",
         "siggenes"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "monocle": [],
     "Moonlight2R": [],
     "MoonlightR": [],
@@ -413,9 +379,7 @@
     ],
     "MultiDataSet": [],
     "MultimodalExperiment": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -437,11 +401,9 @@
         "MultiDataSet"
     ],
     "omicsPrint": [],
-    "openCyto": [],
     "orthogene": [],
     "PanomiR": [],
     "PCAN": [],
-    "PeacoQC": [],
     "peakPantheR": [],
     "phemd": [
         "monocle"
@@ -483,12 +445,9 @@
         "siggenes"
     ],
     "Rfastp": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RMassBank": [],
-    "RNAinteract": [],
     "RnBeads": [
         "methylumi",
         "minfi",
@@ -540,12 +499,10 @@
     "SpacePAC": [],
     "Spaniel": [],
     "sRACIPE": [],
-    "staRank": [],
     "stepNorm": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
@@ -559,7 +516,6 @@
     ],
     "TTMap": [],
     "UCell": [],
-    "Ularcirc": [],
     "UMI4Cats": [],
     "UniProt.ws": [],
     "uSORT": [
@@ -574,7 +530,6 @@
         "minfi",
         "siggenes"
     ],
-    "xcms": [],
     "XDE": [
         "siggenes"
     ],
@@ -582,6 +537,5 @@
         "minfi",
         "quantro",
         "siggenes"
-    ],
-    "zenith": []
+    ]
 }
