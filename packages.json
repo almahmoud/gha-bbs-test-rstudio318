@@ -121,7 +121,6 @@
     "BOBaFIT": [
         "plyranges"
     ],
-    "BPRMeth": [],
     "brendaDb": [],
     "bugsigdbr": [],
     "BUSpaRse": [
@@ -260,7 +259,6 @@
         "RaggedExperiment"
     ],
     "coMethDMR": [],
-    "compcodeR": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -313,10 +311,7 @@
         "oligoClasses"
     ],
     "CTDquerier": [],
-    "CyTOFpower": [
-        "CytoGLMM"
-    ],
-    "CytoGLMM": [],
+    "CyTOFpower": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -644,7 +639,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "satuRn"
@@ -719,7 +713,6 @@
     "mBPCR": [
         "oligoClasses"
     ],
-    "MCbiclust": [],
     "MEAL": [
         "MultiDataSet",
         "methylumi",
@@ -735,9 +728,7 @@
         "wateRmelon"
     ],
     "MEDME": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "meshes": [
         "enrichplot"
     ],
@@ -747,9 +738,7 @@
     "MetaboAnnotation": [
         "QFeatures"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -910,7 +899,6 @@
         "plyranges"
     ],
     "nempi": [],
-    "NetActivity": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -931,7 +919,6 @@
     "nullranges": [
         "plyranges"
     ],
-    "OCplus": [],
     "oligo": [
         "oligoClasses"
     ],
@@ -983,7 +970,6 @@
         "MSnbase",
         "mzID"
     ],
-    "pengls": [],
     "phantasusLite": [
         "rhdf5client"
     ],
@@ -1084,7 +1070,6 @@
     "rCGH": [
         "aCGH"
     ],
-    "RCyjs": [],
     "ReactomePA": [
         "enrichplot"
     ],
@@ -1257,16 +1242,11 @@
     ],
     "statTarget": [],
     "stepNorm": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
-    "SUITOR": [],
+    "structToolbox": [],
     "synapter": [
         "MSnbase",
         "mzID"
     ],
-    "target": [],
     "TargetDecoy": [
         "mzID"
     ],
@@ -1299,14 +1279,11 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TMixClust": [],
-    "tomoda": [],
     "tomoseqr": [],
     "topdownr": [
         "MSnbase",
         "mzID"
     ],
-    "TPP": [],
     "TPP2D": [],
     "transformGamPoi": [
         "glmGamPoi"
