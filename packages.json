@@ -3,9 +3,7 @@
         "a4Classif"
     ],
     "a4Classif": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAM": [],
     "ADAMgui": [
         "ADAM"
@@ -85,8 +83,7 @@
         "GenomicDataCommons",
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "casper": [
         "gaga"
@@ -115,8 +112,6 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "CexoR": [],
-    "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -139,7 +134,6 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [],
     "CircSeqAlignTk": [],
     "cliqueMS": [
         "xcms"
@@ -288,7 +282,6 @@
     "famat": [
         "clusterProfiler"
     ],
-    "fCCAC": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -362,7 +355,6 @@
         "siggenes"
     ],
     "InPAS": [],
-    "interactiveDisplay": [],
     "IntOMICS": [],
     "iPath": [],
     "IPO": [
@@ -384,7 +376,6 @@
     "karyoploteR": [
         "bamsignals"
     ],
-    "katdetectr": [],
     "KCsmart": [
         "siggenes"
     ],
@@ -530,11 +521,9 @@
     ],
     "MultiDataSet": [],
     "MultimodalExperiment": [],
-    "musicatk": [],
     "ncGTW": [
         "xcms"
     ],
-    "nearBynding": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -578,7 +567,6 @@
         "ropls"
     ],
     "phenopath": [],
-    "phenoTest": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -588,9 +576,7 @@
         "GOstats"
     ],
     "plyinteractions": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "PREDA": [],
     "PrInCE": [],
     "profileplyr": [
@@ -618,7 +604,6 @@
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "rCGH": [],
     "ReactomePA": [],
     "recountmethylation": [
         "minfi",
@@ -634,7 +619,6 @@
     ],
     "ReQON": [],
     "Rfastp": [],
-    "RiboCrypt": [],
     "Risa": [
         "xcms"
     ],
@@ -705,14 +689,12 @@
         "siggenes",
         "wateRmelon"
     ],
-    "snapCGH": [],
     "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [],
     "sRACIPE": [],
     "staRank": [],
     "stepNorm": [],
-    "structToolbox": [],
     "synapter": [],
     "TargetDecoy": [],
     "TCGAutils": [
@@ -725,7 +707,6 @@
         "GenomicDataCommons",
         "TCGAutils"
     ],
-    "TFHAZ": [],
     "tidybulk": [],
     "TimiRGeN": [
         "clusterProfiler"
@@ -733,7 +714,6 @@
     "topdownr": [],
     "transformGamPoi": [],
     "transite": [],
-    "tRanslatome": [],
     "trio": [
         "siggenes"
     ],
