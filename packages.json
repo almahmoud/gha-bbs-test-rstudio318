@@ -32,18 +32,15 @@
         "apeglm"
     ],
     "alabaster": [
-        "alabaster.mae",
         "alabaster.sce",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [],
     "alabaster.sce": [],
     "alabaster.spatial": [
         "alabaster.sce"
     ],
     "alabaster.vcf": [],
-    "AllelicImbalance": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
@@ -116,7 +113,6 @@
     "BiocOncoTK": [],
     "BioCor": [],
     "BioMVCClass": [],
-    "biomvRCNS": [],
     "BioNERO": [],
     "BioNetStat": [],
     "biosigner": [
@@ -295,7 +291,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CONFESS": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -453,7 +448,6 @@
     "EGSEA": [
         "safe"
     ],
-    "ELMER": [],
     "EMDomics": [],
     "ENmix": [
         "minfi",
@@ -566,7 +560,6 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneStructureTools": [],
     "genomation": [],
     "genomeIntervals": [],
     "GenomicDataCommons": [],
@@ -770,7 +763,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "maser": [],
     "maskBAD": [],
     "MatrixQCvis": [
         "proDA"
@@ -961,9 +953,7 @@
         "maftools"
     ],
     "mzID": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -1132,7 +1122,6 @@
         "oligoClasses"
     ],
     "pvac": [],
-    "Pviz": [],
     "PWMEnrich": [],
     "qckitfastq": [
         "seqTools"
@@ -1212,16 +1201,9 @@
         "Category",
         "cellHTS2"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnBeads": [
         "methylumi",
         "minfi",
@@ -1315,7 +1297,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signifinder": [],
     "SIMAT": [],
     "SingleCellSignalR": [],
     "sitePath": [],
@@ -1342,7 +1323,6 @@
     "spqn": [],
     "sRACIPE": [],
     "SRAdb": [],
-    "srnadiff": [],
     "ssPATHS": [],
     "staRank": [
         "Category",
@@ -1360,7 +1340,6 @@
         "MSnbase",
         "mzID"
     ],
-    "tadar": [],
     "tanggle": [],
     "target": [],
     "TargetDecoy": [
@@ -1404,7 +1383,6 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "trackViewer": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
@@ -1412,7 +1390,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "treekoR": [],
     "Trendy": [],
     "trio": [
         "siggenes"
@@ -1434,7 +1411,6 @@
         "crlmm",
         "oligoClasses"
     ],
-    "VariantFiltering": [],
     "velociraptor": [],
     "vulcan": [
         "DiffBind",
