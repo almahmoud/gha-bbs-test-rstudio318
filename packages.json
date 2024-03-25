@@ -115,9 +115,7 @@
         "DiffBind"
     ],
     "ChIPseeker": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -128,9 +126,7 @@
     "cliqueMS": [
         "xcms"
     ],
-    "CluMSID": [],
     "clusterProfiler": [],
-    "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -236,7 +232,6 @@
     "DrugVsDisease": [
         "ArrayExpress"
     ],
-    "easyRNASeq": [],
     "ENmix": [
         "minfi",
         "siggenes"
@@ -286,7 +281,6 @@
     "flowVS": [
         "flowStats"
     ],
-    "frma": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi",
@@ -304,7 +298,6 @@
     "GeoTcgaData": [],
     "gespeR": [],
     "ggcyto": [],
-    "girafe": [],
     "GmicR": [],
     "GNET2": [],
     "GNOSIS": [
@@ -441,7 +434,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "mimager": [],
     "MineICA": [
         "lumi",
         "methylumi",
@@ -471,9 +463,7 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "msgbsR": [
-        "easyRNASeq"
-    ],
+    "msgbsR": [],
     "msmsEDA": [],
     "msmsTests": [
         "msmsEDA"
@@ -528,7 +518,6 @@
     ],
     "pcaExplorer": [],
     "PCAN": [],
-    "pdInfoBuilder": [],
     "PeacoQC": [],
     "peakPantheR": [],
     "phemd": [
@@ -561,9 +550,6 @@
         "clusterProfiler"
     ],
     "PSMatch": [],
-    "ptairMS": [],
-    "puma": [],
-    "qPLEXanalyzer": [],
     "quantro": [
         "minfi",
         "siggenes"
@@ -611,9 +597,7 @@
     ],
     "RUVcorr": [],
     "RVS": [],
-    "SARC": [],
     "satuRn": [],
-    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
@@ -658,7 +642,6 @@
     "sRACIPE": [],
     "staRank": [],
     "stepNorm": [],
-    "synapter": [],
     "TCGAutils": [
         "GenomicDataCommons"
     ],
