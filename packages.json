@@ -3,16 +3,12 @@
         "a4Classif"
     ],
     "a4Classif": [],
-    "ADaCGH2": [],
     "ADAM": [],
     "ADAMgui": [
         "ADAM"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AMARETTO": [],
@@ -33,7 +29,6 @@
     "ATACCoGAPS": [
         "projectR"
     ],
-    "attract": [],
     "bamsignals": [],
     "bandle": [
         "pRoloc"
@@ -74,7 +69,6 @@
     "casper": [
         "gaga"
     ],
-    "categoryCompare": [],
     "cbaf": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -260,7 +254,6 @@
     "GeoTcgaData": [],
     "gespeR": [],
     "ggcyto": [],
-    "GmicR": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
@@ -278,9 +271,7 @@
         "minfi",
         "siggenes"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "idr2d": [],
     "ImmuneSpaceR": [],
     "iNETgrate": [
@@ -389,7 +380,6 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miRLAB": [],
     "missMethyl": [
         "methylumi",
         "minfi",
@@ -450,7 +440,6 @@
     "openCyto": [],
     "orthogene": [],
     "PanomiR": [],
-    "pcaExplorer": [],
     "PCAN": [],
     "PeacoQC": [],
     "peakPantheR": [],
@@ -464,8 +453,6 @@
     "phenopath": [],
     "Pi": [],
     "Pigengene": [],
-    "PloGO2": [],
-    "preciseTAD": [],
     "PREDA": [],
     "PrInCE": [],
     "profileplyr": [],
@@ -495,7 +482,6 @@
         "minfi",
         "siggenes"
     ],
-    "ReportingTools": [],
     "Rfastp": [],
     "Risa": [
         "xcms"
@@ -533,7 +519,6 @@
     ],
     "seqArchRplus": [],
     "SeqSQC": [],
-    "SGCP": [],
     "shinyepico": [
         "minfi",
         "siggenes"
