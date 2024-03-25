@@ -70,19 +70,11 @@
     ],
     "ASpli": [],
     "ATACCoGAPS": [
-        "chromVAR",
-        "motifmatchr",
         "projectR"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
+    "ATACseqTFEA": [],
+    "atSNP": [],
     "attract": [
         "Category",
         "GOstats"
@@ -150,7 +142,6 @@
     "BOBaFIT": [
         "plyranges"
     ],
-    "borealis": [],
     "BPRMeth": [],
     "brainflowprobes": [
         "derfinderPlot"
@@ -259,7 +250,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [],
     "cicero": [
         "monocle"
     ],
@@ -317,7 +307,6 @@
         "methylPipe"
     ],
     "CONFESS": [],
-    "consensusDE": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -396,8 +385,7 @@
         "ncdfFlow"
     ],
     "dagLogo": [
-        "UniProt.ws",
-        "motifStack"
+        "UniProt.ws"
     ],
     "DAPAR": [
         "MSnbase",
@@ -424,7 +412,6 @@
         "DelayedRandomArray"
     ],
     "deltaCaptureC": [],
-    "DeMixT": [],
     "DEP": [
         "MSnbase",
         "mzID"
@@ -481,9 +468,7 @@
     ],
     "ELMER": [],
     "EMDomics": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "minfi",
         "siggenes"
@@ -494,8 +479,7 @@
     "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "enrichViewNet": [
         "enrichplot"
@@ -520,8 +504,7 @@
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "enrichplot",
-        "motifmatchr"
+        "enrichplot"
     ],
     "escape": [
         "UCell"
@@ -759,7 +742,6 @@
     "KCsmart": [
         "siggenes"
     ],
-    "kissDE": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -814,7 +796,6 @@
     "MatrixQCvis": [
         "proDA"
     ],
-    "MatrixRider": [],
     "MBASED": [],
     "mBPCR": [
         "oligoClasses"
@@ -864,7 +845,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaseqR2": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -887,7 +867,6 @@
         "siggenes"
     ],
     "methylPipe": [],
-    "methylSig": [],
     "methylumi": [
         "minfi",
         "siggenes"
@@ -945,11 +924,7 @@
         "enrichplot"
     ],
     "mosbi": [],
-    "motifbreakR": [
-        "motifStack"
-    ],
-    "motifmatchr": [],
-    "motifStack": [],
+    "motifbreakR": [],
     "MsExperiment": [
         "QFeatures"
     ],
@@ -1010,7 +985,6 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "motifStack",
         "trackViewer"
     ],
     "ncdfFlow": [],
@@ -1050,7 +1024,6 @@
         "plyranges"
     ],
     "OCplus": [],
-    "octad": [],
     "OGRE": [],
     "oligo": [
         "oligoClasses"
@@ -1064,7 +1037,6 @@
         "MultiDataSet",
         "rexposome"
     ],
-    "OMICsPCA": [],
     "omicsPrint": [
         "RaggedExperiment"
     ],
@@ -1076,13 +1048,10 @@
         "ncdfFlow"
     ],
     "oppti": [],
-    "optimalFlow": [],
     "ORFik": [],
     "orthogene": [],
     "packFinder": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "pairedGSEA": [
         "DEXSeq"
     ],
@@ -1256,9 +1225,7 @@
     ],
     "RiboDiPA": [],
     "RiboProfiling": [],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -1342,7 +1309,6 @@
     "scmeth": [
         "annotatr"
     ],
-    "scone": [],
     "scp": [
         "QFeatures"
     ],
@@ -1412,8 +1378,7 @@
     "SpacePAC": [],
     "Spaniel": [],
     "spatzie": [
-        "GenomicInteractions",
-        "motifmatchr"
+        "GenomicInteractions"
     ],
     "SplicingFactory": [],
     "SPLINTER": [],
@@ -1422,7 +1387,6 @@
     "SRAdb": [],
     "srnadiff": [],
     "ssPATHS": [],
-    "standR": [],
     "staRank": [
         "Category",
         "cellHTS2"
