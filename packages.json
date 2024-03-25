@@ -48,10 +48,8 @@
     "bioCancer": [
         "GenomicDataCommons",
         "RTCGAToolbox",
-        "ReactomePA",
         "TCGAutils",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "BiocOncoTK": [],
     "BioNERO": [],
@@ -59,9 +57,7 @@
         "MultiDataSet",
         "ropls"
     ],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO"
@@ -90,16 +86,10 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
     "CCPlotR": [],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CEMiTool": [],
+    "CeTF": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -110,7 +100,6 @@
         "wateRmelon"
     ],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChIPXpress": [],
     "chromstaR": [
         "bamsignals"
@@ -118,11 +107,9 @@
     "cicero": [
         "monocle"
     ],
-    "CircSeqAlignTk": [],
     "cliqueMS": [
         "xcms"
     ],
-    "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -187,12 +174,8 @@
     "dagLogo": [
         "UniProt.ws"
     ],
-    "DAPAR": [
-        "clusterProfiler"
-    ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "DAPAR": [],
+    "debrowser": [],
     "deconvR": [
         "minfi",
         "siggenes"
@@ -212,7 +195,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -230,13 +212,8 @@
         "minfi",
         "siggenes"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
-    "enrichViewNet": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "enrichTF": [],
+    "EpiCompare": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -244,19 +221,14 @@
         "minfi",
         "siggenes"
     ],
-    "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
+    "esATAC": [],
     "escape": [
         "UCell"
     ],
     "EWCE": [
         "orthogene"
     ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "famat": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -281,8 +253,7 @@
     ],
     "gaga": [],
     "GDCRNATools": [
-        "GenomicDataCommons",
-        "clusterProfiler"
+        "GenomicDataCommons"
     ],
     "geneRecommender": [],
     "GenomicDataCommons": [],
@@ -300,9 +271,7 @@
         "cBioPortalData"
     ],
     "GOfuncR": [],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GSEABenchmarkeR": [],
     "hummingbird": [],
     "iCheck": [
@@ -318,8 +287,6 @@
     "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
-        "clusterProfiler",
         "minfi",
         "siggenes"
     ],
@@ -362,9 +329,7 @@
         "minfi",
         "siggenes"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "xcms"
@@ -386,14 +351,11 @@
         "siggenes",
         "wateRmelon"
     ],
-    "meshes": [],
     "metaMS": [
         "CAMERA",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -407,7 +369,6 @@
         "siggenes"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -417,9 +378,7 @@
         "minfi",
         "siggenes"
     ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi",
         "methylumi",
@@ -443,12 +402,8 @@
         "xcms"
     ],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "msgbsR": [],
     "msmsEDA": [],
     "msmsTests": [
@@ -498,9 +453,7 @@
     "omicsPrint": [],
     "openCyto": [],
     "orthogene": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "pcaExplorer": [],
     "PCAN": [],
     "PeacoQC": [],
@@ -514,25 +467,19 @@
     ],
     "phenopath": [],
     "Pi": [],
-    "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler"
-    ],
+    "Pigengene": [],
     "PloGO2": [],
     "preciseTAD": [],
     "PREDA": [],
     "PrInCE": [],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "projectR": [],
     "pRoloc": [],
     "pRolocGUI": [
         "pRoloc"
     ],
     "Prostar": [
-        "DAPAR",
-        "clusterProfiler"
+        "DAPAR"
     ],
     "quantro": [
         "minfi",
@@ -543,7 +490,6 @@
     ],
     "ramr": [],
     "RandomWalkRestartMH": [],
-    "ReactomePA": [],
     "recountmethylation": [
         "minfi",
         "siggenes"
@@ -585,18 +531,11 @@
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scmeth": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "segmenter": [
-        "ChIPseeker",
         "bamsignals"
     ],
-    "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
+    "seqArchRplus": [],
     "SeqSQC": [],
     "SGCP": [],
     "shinyepico": [
@@ -609,9 +548,7 @@
     ],
     "SigCheck": [],
     "siggenes": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -619,7 +556,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [],
     "sRACIPE": [],
@@ -628,16 +564,13 @@
     "TCGAutils": [
         "GenomicDataCommons"
     ],
-    "TDbasedUFEadv": [],
     "tenXplore": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
         "TCGAutils"
     ],
     "tidybulk": [],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "topdownr": [],
     "transite": [],
     "trio": [
