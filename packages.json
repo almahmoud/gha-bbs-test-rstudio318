@@ -143,9 +143,7 @@
         "plyranges"
     ],
     "BPRMeth": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "bugsigdbr": [],
     "BUSpaRse": [
@@ -212,7 +210,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -234,7 +231,6 @@
         "wateRmelon"
     ],
     "chihaya": [],
-    "chimeraviz": [],
     "ChIPQC": [
         "DiffBind",
         "apeglm"
@@ -300,7 +296,6 @@
     ],
     "COCOA": [],
     "comapr": [],
-    "coMET": [],
     "coMethDMR": [],
     "compcodeR": [],
     "compEpiTools": [
@@ -359,7 +354,6 @@
         "oligoClasses"
     ],
     "CTDquerier": [],
-    "cummeRbund": [],
     "CyTOFpower": [
         "CytoGLMM"
     ],
@@ -417,7 +411,6 @@
         "mzID"
     ],
     "DEqMS": [],
-    "derfinderPlot": [],
     "DEsingle": [],
     "DExMA": [],
     "DEXSeq": [],
@@ -578,10 +571,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
@@ -1145,9 +1135,7 @@
         "enrichplot",
         "mzID"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "PSMatch": [
         "QFeatures"
     ],
@@ -1192,14 +1180,12 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "recount": [],
     "recountmethylation": [
         "minfi",
         "siggenes"
     ],
     "RedisParam": [],
     "regionReport": [],
-    "regutools": [],
     "REMP": [
         "minfi",
         "siggenes"
@@ -1242,9 +1228,7 @@
     "Rmmquant": [
         "apeglm"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAinteract": [
         "Category",
         "cellHTS2"
@@ -1259,9 +1243,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "methylumi",
         "minfi",
@@ -1461,7 +1443,6 @@
         "siggenes"
     ],
     "TTMap": [],
-    "TVTB": [],
     "tweeDEseq": [],
     "UCell": [],
     "Ularcirc": [
