@@ -20,15 +20,12 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "airpart": [
-        "apeglm"
-    ],
+    "airpart": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
     ],
     "annotatr": [],
-    "apeglm": [],
     "ArrayExpress": [],
     "arrayMvout": [
         "lumi",
@@ -50,11 +47,7 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
-    ],
+    "BASiCStan": [],
     "beachmat.hdf5": [],
     "bigmelon": [
         "lumi",
@@ -149,8 +142,7 @@
     ],
     "chihaya": [],
     "ChIPQC": [
-        "DiffBind",
-        "apeglm"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -178,7 +170,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "cmapR": [],
     "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -264,7 +255,6 @@
     ],
     "dce": [],
     "debrowser": [
-        "apeglm",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -281,9 +271,7 @@
     "DEP": [],
     "DEsingle": [],
     "DExMA": [],
-    "DiffBind": [
-        "apeglm"
-    ],
+    "DiffBind": [],
     "diffUTR": [],
     "divergence": [],
     "DMCHMM": [],
@@ -293,7 +281,6 @@
         "missMethyl",
         "siggenes"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "annotatr"
     ],
@@ -338,9 +325,7 @@
         "minfi",
         "siggenes"
     ],
-    "ERSSA": [
-        "apeglm"
-    ],
+    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -352,7 +337,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "exomePeak2": [],
     "famat": [
         "clusterProfiler",
         "enrichplot"
@@ -408,7 +392,6 @@
         "RCAS"
     ],
     "GenomicTuples": [],
-    "GEOmetadb": [],
     "GeoTcgaData": [],
     "gespeR": [
         "cellHTS2"
@@ -419,7 +402,6 @@
     ],
     "ggsc": [],
     "girafe": [],
-    "glmGamPoi": [],
     "GmicR": [
         "GOstats"
     ],
@@ -507,9 +489,7 @@
     "KCsmart": [
         "siggenes"
     ],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lipidr": [
         "MultiDataSet",
         "ropls"
@@ -638,7 +618,6 @@
         "QFeatures",
         "xcms"
     ],
-    "MOGAMUN": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -703,7 +682,6 @@
         "yarn"
     ],
     "nipalsMCIA": [],
-    "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
@@ -727,7 +705,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pareg": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -786,7 +763,6 @@
     "qckitfastq": [],
     "QFeatures": [],
     "qPLEXanalyzer": [],
-    "Qtlizer": [],
     "quantro": [
         "minfi",
         "siggenes"
@@ -826,9 +802,7 @@
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
-    "Rmmquant": [
-        "apeglm"
-    ],
+    "Rmmquant": [],
     "RNAinteract": [
         "cellHTS2"
     ],
@@ -854,7 +828,6 @@
     "SARC": [],
     "satuRn": [],
     "SBGNview": [],
-    "Scale4C": [],
     "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
@@ -934,9 +907,7 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TEKRABber": [
-        "apeglm"
-    ],
+    "TEKRABber": [],
     "tenXplore": [
         "restfulSE"
     ],
@@ -950,11 +921,8 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "tomoseqr": [],
     "topdownr": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [],
     "trio": [
@@ -973,10 +941,8 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "velociraptor": [],
     "vulcan": [
-        "DiffBind",
-        "apeglm"
+        "DiffBind"
     ],
     "wateRmelon": [
         "lumi",
@@ -991,7 +957,6 @@
     "XDE": [
         "siggenes"
     ],
-    "yamss": [],
     "yarn": [
         "minfi",
         "quantro",
