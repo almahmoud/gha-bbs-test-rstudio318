@@ -134,7 +134,6 @@
     ],
     "crlmm": [],
     "crossmeta": [],
-    "CytoPipelineGUI": [],
     "dagLogo": [
         "UniProt.ws"
     ],
@@ -190,7 +189,6 @@
         "minfi",
         "siggenes"
     ],
-    "flagme": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi",
@@ -226,7 +224,6 @@
     ],
     "IntOMICS": [],
     "iPath": [],
-    "IPO": [],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
@@ -243,7 +240,6 @@
         "ropls"
     ],
     "lmdme": [],
-    "LOBSTAHS": [],
     "lumi": [
         "methylumi",
         "minfi",
@@ -256,7 +252,6 @@
         "minfi",
         "siggenes"
     ],
-    "MAIT": [],
     "maPredictDSC": [],
     "mBPCR": [],
     "MEAL": [
@@ -273,7 +268,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "metaMS": [],
     "MethylAid": [
         "minfi",
         "siggenes"
