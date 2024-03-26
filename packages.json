@@ -25,9 +25,7 @@
         "projectR"
     ],
     "bamsignals": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -42,15 +40,12 @@
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
-    "BioNERO": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
     ],
     "brendaDb": [],
-    "cageminer": [
-        "BioNERO"
-    ],
+    "cageminer": [],
     "canceR": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -99,7 +94,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVRanger": [],
     "CONSTANd": [],
     "conumee": [
         "minfi",
@@ -143,7 +137,6 @@
     "DelayedTensor": [
         "DelayedRandomArray"
     ],
-    "DEP": [],
     "DEsingle": [],
     "divergence": [],
     "DMCHMM": [],
@@ -174,9 +167,7 @@
         "minfi",
         "siggenes"
     ],
-    "escape": [
-        "UCell"
-    ],
+    "escape": [],
     "EWCE": [
         "orthogene"
     ],
@@ -224,7 +215,6 @@
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
-    "ITALICS": [],
     "iterClust": [],
     "karyoploteR": [
         "bamsignals"
@@ -300,10 +290,7 @@
         "siggenes"
     ],
     "monocle": [],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MultiBaC": [
         "MultiDataSet",
         "ropls"
@@ -333,10 +320,8 @@
     "omicRexposome": [
         "MultiDataSet"
     ],
-    "omicsPrint": [],
     "orthogene": [],
     "PCAN": [],
-    "peakPantheR": [],
     "phemd": [
         "monocle"
     ],
@@ -347,12 +332,8 @@
     "phenopath": [],
     "Pi": [],
     "PREDA": [],
-    "PrInCE": [],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "quantro": [
         "minfi",
         "siggenes"
@@ -373,7 +354,6 @@
     ],
     "Rfastp": [],
     "RLSeq": [],
-    "RMassBank": [],
     "RnBeads": [
         "methylumi",
         "minfi",
@@ -410,7 +390,6 @@
         "minfi",
         "siggenes"
     ],
-    "SigCheck": [],
     "siggenes": [],
     "skewr": [
         "lumi",
@@ -420,7 +399,6 @@
         "wateRmelon"
     ],
     "SpacePAC": [],
-    "Spaniel": [],
     "sRACIPE": [],
     "stepNorm": [],
     "TCGAutils": [
@@ -431,14 +409,11 @@
         "TCGAutils"
     ],
     "tidybulk": [],
-    "topdownr": [],
     "transite": [],
     "trio": [
         "siggenes"
     ],
     "TTMap": [],
-    "UCell": [],
-    "UMI4Cats": [],
     "UniProt.ws": [],
     "uSORT": [
         "monocle"
