@@ -7,7 +7,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -132,8 +131,6 @@
         "crisprBowtie",
         "crisprDesign"
     ],
-    "crlmm": [],
-    "crossmeta": [],
     "dagLogo": [
         "UniProt.ws"
     ],
@@ -247,13 +244,11 @@
     ],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "methylumi",
         "minfi",
         "siggenes"
     ],
     "maPredictDSC": [],
-    "mBPCR": [],
     "MEAL": [
         "MultiDataSet",
         "methylumi",
@@ -300,8 +295,7 @@
         "siggenes"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "missMethyl": [
         "methylumi",
@@ -309,12 +303,8 @@
         "siggenes"
     ],
     "monocle": [],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MSstatsQC": [],
@@ -330,7 +320,6 @@
         "karyoploteR"
     ],
     "MultiDataSet": [],
-    "MultimodalExperiment": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -461,9 +450,7 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
