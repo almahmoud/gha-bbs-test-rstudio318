@@ -7,7 +7,6 @@
     "ADAMgui": [
         "ADAM"
     ],
-    "AgiMicroRna": [],
     "AMARETTO": [],
     "AneuFinder": [
         "bamsignals"
@@ -53,7 +52,6 @@
     "cageminer": [
         "BioNERO"
     ],
-    "CAMERA": [],
     "canceR": [
         "GenomicDataCommons",
         "RTCGAToolbox",
@@ -112,7 +110,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "cosmiq": [],
     "crisprBase": [],
     "crisprBowtie": [
         "crisprBase"
@@ -137,11 +134,7 @@
     ],
     "crlmm": [],
     "crossmeta": [],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "dagLogo": [
         "UniProt.ws"
     ],
@@ -168,7 +161,6 @@
         "bamsignals"
     ],
     "DNAshapeR": [],
-    "dreamlet": [],
     "drugTargetInteractions": [
         "UniProt.ws"
     ],
@@ -198,11 +190,7 @@
         "minfi",
         "siggenes"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
-    "flowGate": [],
-    "flowVS": [],
+    "flagme": [],
     "frmaTools": [],
     "funtooNorm": [
         "minfi",
@@ -238,9 +226,7 @@
     ],
     "IntOMICS": [],
     "iPath": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IsoformSwitchAnalyzeR": [
         "satuRn"
     ],
@@ -257,9 +243,7 @@
         "ropls"
     ],
     "lmdme": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [
         "methylumi",
         "minfi",
@@ -272,9 +256,7 @@
         "minfi",
         "siggenes"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maPredictDSC": [],
     "mBPCR": [],
     "MEAL": [
@@ -291,9 +273,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MethylAid": [
         "minfi",
         "siggenes"
@@ -334,7 +314,6 @@
         "minfi",
         "siggenes"
     ],
-    "MobilityTransformR": [],
     "monocle": [],
     "msmsEDA": [],
     "msmsTests": [
@@ -358,7 +337,6 @@
     ],
     "MultiDataSet": [],
     "MultimodalExperiment": [],
-    "ncGTW": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -418,7 +396,6 @@
         "siggenes"
     ],
     "Rfastp": [],
-    "Risa": [],
     "RLSeq": [],
     "RMassBank": [],
     "RnBeads": [
