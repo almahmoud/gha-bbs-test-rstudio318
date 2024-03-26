@@ -294,19 +294,14 @@
     "minfi": [
         "siggenes"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "missMethyl": [
         "methylumi",
         "minfi",
         "siggenes"
     ],
     "monocle": [],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
@@ -450,7 +445,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
