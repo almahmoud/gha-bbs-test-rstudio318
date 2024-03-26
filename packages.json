@@ -294,14 +294,12 @@
     "minfi": [
         "siggenes"
     ],
-    "MinimumDistance": [],
     "missMethyl": [
         "methylumi",
         "minfi",
         "siggenes"
     ],
     "monocle": [],
-    "MSnID": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
