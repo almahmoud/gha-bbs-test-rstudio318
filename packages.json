@@ -227,7 +227,6 @@
     ],
     "Cardinal": [],
     "CARNIVAL": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM"
     ],
@@ -406,7 +405,6 @@
         "aroma.light"
     ],
     "consensusOV": [
-        "GSVA",
         "genefu",
         "impute"
     ],
@@ -629,7 +627,6 @@
         "impute"
     ],
     "EGSEA": [
-        "GSVA",
         "pathview",
         "safe"
     ],
@@ -653,7 +650,6 @@
         "motifmatchr"
     ],
     "enrichViewNet": [],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "genomation",
@@ -697,9 +693,7 @@
         "clusterProfiler",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [
         "tximport"
@@ -949,7 +943,6 @@
     "gsean": [],
     "GSgalgoR": [],
     "GSReg": [],
-    "GSVA": [],
     "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [
@@ -1198,7 +1191,6 @@
         "aroma.light"
     ],
     "MetCirc": [],
-    "methrix": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1419,7 +1411,6 @@
     "occugene": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq",
         "aroma.light"
     ],
@@ -1445,9 +1436,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -1787,14 +1776,11 @@
         "gdsfmt"
     ],
     "scBFA": [],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
     "SCFA": [],
     "scFeatureFilter": [],
-    "scFeatures": [
-        "GSVA"
-    ],
+    "scFeatures": [],
     "scider": [],
     "scifer": [],
     "scMerge": [
@@ -1811,7 +1797,6 @@
         "DNAcopy"
     ],
     "scp": [],
-    "scPipe": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -1877,7 +1862,6 @@
         "clusterProfiler"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "genefu",
         "impute"
@@ -1889,7 +1873,6 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "GSVA",
         "M3Drop",
         "TSCAN",
         "eds",
@@ -1985,8 +1968,7 @@
     ],
     "TargetSearch": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TCGAutils": [],
     "TDbasedUFE": [
@@ -2015,9 +1997,7 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "topconfects": [],
     "topdownr": [
