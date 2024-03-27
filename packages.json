@@ -103,7 +103,6 @@
     ],
     "amplican": [],
     "Anaquin": [],
-    "ANCOMBC": [],
     "AneuFinder": [
         "DNAcopy"
     ],
@@ -128,8 +127,7 @@
     "arrayMvout": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
@@ -201,7 +199,6 @@
     "BeadDataPackR": [],
     "BEAT": [],
     "benchdamic": [
-        "ANCOMBC",
         "Maaslin2",
         "phyloseq",
         "zinbwave"
@@ -220,7 +217,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "biobtreeR": [],
@@ -470,7 +466,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "wateRmelon"
     ],
     "CHETAH": [],
@@ -651,8 +646,7 @@
     ],
     "conumee": [
         "DNAcopy",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "CopyNumberPlots": [
         "biovizBase",
@@ -816,8 +810,7 @@
         "celda"
     ],
     "deconvR": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -884,7 +877,6 @@
     "diffuStats": [],
     "diffUTR": [],
     "Dino": [],
-    "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -892,8 +884,7 @@
         "bsseq",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "dmrseq": [
         "annotatr",
@@ -959,8 +950,7 @@
     ],
     "ENmix": [
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "EnrichmentBrowser": [
         "KEGGgraph",
@@ -999,8 +989,7 @@
         "Gviz",
         "OrganismDbi",
         "biovizBase",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "epiNEM": [
         "mnem"
@@ -1088,8 +1077,7 @@
     "ffpe": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "fgga": [],
     "FGNet": [],
@@ -1201,8 +1189,7 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "GA4GHclient": [],
     "GA4GHshiny": [
@@ -1464,8 +1451,7 @@
     "iCheck": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "iCNV": [],
     "ideal": [
@@ -1495,8 +1481,7 @@
         "clusterProfiler",
         "enrichplot",
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "infinityFlow": [
         "flowCore"
@@ -1562,9 +1547,7 @@
         "maftools"
     ],
     "KBoost": [],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -1582,7 +1565,6 @@
     ],
     "lfa": [],
     "lineagespot": [],
-    "LinkHD": [],
     "lipidr": [
         "impute"
     ],
@@ -1605,8 +1587,7 @@
     ],
     "lumi": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "M3C": [],
     "M3Drop": [],
@@ -1624,8 +1605,7 @@
         "RnBeads",
         "impute",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "KEGGgraph",
@@ -1691,15 +1671,13 @@
         "biovizBase",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "MEAT": [
         "impute",
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "MEB": [],
@@ -1759,13 +1737,11 @@
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "bsseq",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1775,16 +1751,14 @@
         "biocViews",
         "impute",
         "minfi",
-        "planet",
-        "siggenes"
+        "planet"
     ],
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "methylInheritance": [],
     "MethylMix": [
@@ -1799,8 +1773,7 @@
         "bsseq"
     ],
     "methylumi": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Mfuzz": [
         "DynDoc",
@@ -1816,7 +1789,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1826,7 +1798,6 @@
     "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
-    "miloR": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1835,12 +1806,9 @@
         "GOstats",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
-    "minfi": [
-        "siggenes"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "DNAcopy",
         "VanillaICE"
@@ -1860,8 +1828,7 @@
     ],
     "missMethyl": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "mistyR": [],
     "mitoClone2": [
@@ -2090,7 +2057,6 @@
         "GOstats",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "NeuCA": [],
@@ -2268,7 +2234,6 @@
         "DNAcopy",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -2360,8 +2325,7 @@
     "qsmooth": [],
     "qsvaR": [],
     "quantro": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
@@ -2438,8 +2402,7 @@
         "derfinder"
     ],
     "recountmethylation": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "REDseq": [
         "ChIPpeakAnno"
@@ -2459,8 +2422,7 @@
     ],
     "REMP": [
         "impute",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "DNAcopy",
@@ -2560,8 +2522,7 @@
     ],
     "RnBeads": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Rnits": [
         "impute"
@@ -2728,12 +2689,10 @@
         "GOstats"
     ],
     "shinyepico": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "SIAMCAT": [
         "phyloseq"
@@ -2744,7 +2703,6 @@
     "sigFeature": [
         "biocViews"
     ],
-    "siggenes": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -2757,7 +2715,6 @@
         "impute"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
@@ -2792,7 +2749,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "slalom": [],
@@ -2855,9 +2811,7 @@
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -3016,9 +2970,7 @@
         "flowCore"
     ],
     "trigger": [],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
@@ -3101,8 +3053,7 @@
     "wateRmelon": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "webbioc": [],
     "weitrix": [
@@ -3119,9 +3070,7 @@
         "mzID"
     ],
     "xcore": [],
-    "XDE": [
-        "siggenes"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
@@ -3135,8 +3084,7 @@
     ],
     "yarn": [
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zenith": [
         "EnrichmentBrowser",
