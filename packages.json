@@ -1,10 +1,8 @@
 {
     "a4": [
-        "a4Base",
-        "a4Classif"
+        "a4Base"
     ],
     "a4Base": [],
-    "a4Classif": [],
     "ABarray": [],
     "ACE": [
         "CGHcall",
@@ -21,7 +19,6 @@
     "ADAMgui": [],
     "adductomicsR": [],
     "ADImpute": [],
-    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "Category",
@@ -56,7 +53,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "airpart": [],
     "alabaster": [
         "SpatialExperiment",
         "alabaster.bumpy",
@@ -323,9 +319,7 @@
         "impute"
     ],
     "BiSeq": [],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray"
@@ -946,7 +940,6 @@
         "impute",
         "sva"
     ],
-    "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
@@ -964,9 +957,7 @@
     ],
     "diffHic": [],
     "diffuStats": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "distinct": [],
     "dittoSeq": [],
@@ -1641,7 +1632,6 @@
     ],
     "InterCellar": [],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles"
     ],
     "IntramiRExploreR": [
@@ -1684,7 +1674,6 @@
         "IsoCorrectoR"
     ],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "pfamAnalyzeR",
         "sva",
         "tximeta",
@@ -2354,7 +2343,6 @@
     ],
     "paircompviz": [],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "panelcn.mops": [
@@ -2873,7 +2861,6 @@
     "scifer": [
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [
         "M3Drop"
     ],
