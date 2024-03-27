@@ -338,7 +338,6 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "BloodGen3Module": [],
     "bnbc": [
         "sva"
     ],
@@ -1570,13 +1569,8 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -2961,7 +2955,6 @@
         "epivizrServer"
     ],
     "scviR": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
@@ -2997,7 +2990,6 @@
         "gdsfmt"
     ],
     "SEtools": [
-        "sechm",
         "sva"
     ],
     "SGCP": [
@@ -3157,7 +3149,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "SpidermiR": [],
     "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
@@ -3190,9 +3181,7 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
