@@ -196,7 +196,6 @@
     "BEAT": [],
     "benchdamic": [
         "Maaslin2",
-        "phyloseq",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -586,9 +585,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -1610,9 +1607,7 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "MBECS": [
-        "phyloseq"
-    ],
+    "MBECS": [],
     "mBPCR": [
         "DNAcopy",
         "GWASTools",
@@ -1747,16 +1742,10 @@
     ],
     "miaSim": [],
     "miaViz": [],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "phyloseq"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -2101,9 +2090,7 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "PathoStat": [
-        "phyloseq"
-    ],
+    "PathoStat": [],
     "pathRender": [],
     "pathview": [
         "KEGGgraph"
@@ -2150,7 +2137,6 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -2185,8 +2171,7 @@
     "powerTCR": [],
     "POWSC": [],
     "prebs": [
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "DNAcopy",
@@ -2330,9 +2315,7 @@
     "rCGH": [
         "DNAcopy"
     ],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcollectl": [],
     "Rcwl": [],
     "RcwlPipelines": [
@@ -2351,9 +2334,7 @@
         "ASSET"
     ],
     "rebook": [],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -2486,9 +2467,7 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -2536,7 +2515,6 @@
     "scClassify": [
         "Cepo"
     ],
-    "sccomp": [],
     "scDataviz": [
         "flowCore"
     ],
@@ -2645,9 +2623,7 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -2670,9 +2646,7 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [
-        "phyloseq"
-    ],
+    "SimBu": [],
     "SIMLR": [],
     "simpleSeg": [
         "cytomapper"
@@ -2766,8 +2740,7 @@
     ],
     "SpotClean": [],
     "SPsimSeq": [
-        "impute",
-        "phyloseq"
+        "impute"
     ],
     "srnadiff": [
         "Gviz",
@@ -2963,7 +2936,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "VDJdive": [],
     "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
