@@ -11,15 +11,13 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "AHMassBank": [
         "AnnotationHubData"
@@ -84,13 +82,9 @@
         "GeneOverlap",
         "chromVAR"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "BADER": [],
     "bandle": [
@@ -155,32 +149,24 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "bnem": [
-        "epiNEM"
-    ],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "bnem": [],
+    "BOBaFIT": [],
     "borealis": [
         "DSS"
     ],
     "brainflowprobes": [
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions",
         "Gviz"
     ],
     "cageminer": [
         "BioNERO",
-        "ggbio",
         "impute"
     ],
     "CAGEr": [
@@ -307,8 +293,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNORdt": [],
-    "CNORfeeder": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -443,9 +427,7 @@
         "ncdfFlow"
     ],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -459,9 +441,7 @@
         "tkWidgets"
     ],
     "DCATS": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowPeaks",
@@ -478,9 +458,7 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "deltaGseg": [],
     "DeMixT": [
         "DSS"
@@ -496,8 +474,7 @@
     ],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
     "DEScan2": [],
     "DExMA": [
@@ -588,7 +565,6 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epiNEM": [],
     "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
@@ -648,16 +624,12 @@
         "mzID",
         "xcms"
     ],
-    "FLAMES": [
-        "ggbio"
-    ],
+    "FLAMES": [],
     "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
     ],
-    "flowCHIC": [],
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
@@ -773,9 +745,7 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -797,7 +767,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "ggbio": [],
     "ggcyto": [
         "flowWorkspace",
         "ncdfFlow"
@@ -848,7 +817,6 @@
         "impute"
     ],
     "Harman": [],
-    "Harshlight": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -879,7 +847,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -889,9 +856,7 @@
     ],
     "infinityFlow": [],
     "INPower": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interactiveDisplay": [],
     "IntramiRExploreR": [
         "FGNet"
@@ -1092,7 +1057,6 @@
     ],
     "mistyR": [],
     "mitoClone2": [],
-    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
@@ -1106,16 +1070,12 @@
     "Moonlight2R": [],
     "MoonlightR": [],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
-    "motifStack": [],
     "MPFE": [],
     "MsBackendMgf": [],
     "MsBackendSql": [],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "mslp": [
         "RankProd"
     ],
@@ -1181,7 +1141,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -1193,13 +1152,10 @@
         "mzID",
         "xcms"
     ],
-    "NCIgraph": [],
     "ndexr": [
         "RCX"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netbiov": [],
     "netboost": [
         "impute"
@@ -1383,10 +1339,7 @@
     ],
     "quantro": [],
     "QuartPAC": [],
-    "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RadioGx": [],
     "RAIDS": [
         "DNAcopy",
@@ -1440,22 +1393,17 @@
     "Repitools": [
         "DNAcopy"
     ],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "RESOLVE": [],
     "ReUseData": [],
     "rexposome": [
         "impute"
     ],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
-        "aroma.light",
-        "motifStack"
+        "aroma.light"
     ],
     "Risa": [
         "MSnbase",
@@ -1551,9 +1499,7 @@
         "powerTCR"
     ],
     "scRNAseqApp": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "ReactomePA",
         "meshr"
@@ -1599,7 +1545,6 @@
         "genefu",
         "impute"
     ],
-    "SimBindProfiles": [],
     "SIMLR": [],
     "simpleSeg": [],
     "singleCellTK": [
@@ -1608,9 +1553,7 @@
         "scMerge",
         "tximport"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "sizepower": [],
     "skewr": [
         "lumi",
@@ -1631,9 +1574,7 @@
         "gdsfmt"
     ],
     "soGGi": [],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [],
     "spatzie": [
         "GenomicInteractions",
@@ -1703,7 +1644,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "TNBC.CMS": [],
     "topconfects": [],
     "topdownr": [
         "MSnbase",
@@ -1735,7 +1675,6 @@
         "tximport"
     ],
     "tximport": [],
-    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz"
     ],
@@ -1783,8 +1722,7 @@
         "PharmacoGx"
     ],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "quantro"
