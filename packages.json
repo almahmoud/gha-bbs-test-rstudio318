@@ -51,7 +51,6 @@
     "AnnotationHubData": [],
     "antiProfiles": [],
     "AnVILBilling": [],
-    "appreci8R": [],
     "aroma.light": [],
     "arrayMvout": [
         "lumi",
@@ -599,7 +598,6 @@
     "GateFinder": [
         "flowFP"
     ],
-    "gatom": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -1473,7 +1471,6 @@
         "impute",
         "mzID"
     ],
-    "ToxicoGx": [],
     "TPP2D": [],
     "trackViewer": [
         "Gviz"
