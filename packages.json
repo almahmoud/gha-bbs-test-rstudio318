@@ -702,9 +702,7 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -988,7 +986,6 @@
         "zenith"
     ],
     "DriverNet": [],
-    "DropletUtils": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
@@ -1326,8 +1323,7 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRcore": [
         "gDRutils"
@@ -1335,8 +1331,7 @@
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRstyle": [
         "BiocCheck",
@@ -1617,7 +1612,6 @@
     "interactiveDisplay": [
         "Category"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "GenomicFiles"
     ],
@@ -2360,8 +2354,7 @@
     "PDATK": [
         "CoreGx",
         "genefu",
-        "impute",
-        "piano"
+        "impute"
     ],
     "PeacoQC": [
         "flowCore",
@@ -2382,8 +2375,7 @@
     "pfamAnalyzeR": [],
     "phantasus": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "biocViews",
@@ -2402,7 +2394,6 @@
     ],
     "phyloseq": [],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
@@ -2565,8 +2556,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "raer": [],
     "RaggedExperiment": [],
@@ -2985,7 +2975,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -3231,8 +3220,7 @@
         "mzID"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "TPP2D": [],
     "trackViewer": [
@@ -3382,8 +3370,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "yamss": [],
     "YAPSA": [
