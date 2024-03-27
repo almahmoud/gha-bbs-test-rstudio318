@@ -131,9 +131,7 @@
     "BioNERO": [
         "impute"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
@@ -393,7 +391,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -444,8 +441,7 @@
         "flowViz"
     ],
     "debrowser": [
-        "Harman",
-        "pathview"
+        "Harman"
     ],
     "decontX": [],
     "deconvR": [],
@@ -472,7 +468,6 @@
     "derfinderPlot": [
         "derfinder"
     ],
-    "DEScan2": [],
     "DExMA": [
         "impute"
     ],
@@ -506,7 +501,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe",
         "zenith"
     ],
@@ -529,7 +523,6 @@
         "impute"
     ],
     "EGSEA": [
-        "pathview",
         "safe"
     ],
     "ELMER": [
@@ -541,7 +534,6 @@
     ],
     "EnrichmentBrowser": [
         "SPIA",
-        "pathview",
         "safe"
     ],
     "enrichTF": [],
@@ -689,9 +681,7 @@
     "gcatest": [
         "lfa"
     ],
-    "GDCRNATools": [
-        "pathview"
-    ],
+    "GDCRNATools": [],
     "gDNAx": [],
     "gDR": [
         "PharmacoGx",
@@ -784,7 +774,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ],
     "GSgalgoR": [],
@@ -819,7 +808,6 @@
     ],
     "HIREewas": [],
     "HPAanalyze": [],
-    "HTSeqGenie": [],
     "HubPub": [
         "biocthis"
     ],
@@ -912,9 +900,7 @@
         "impute",
         "methylumi"
     ],
-    "MAGeCKFlute": [
-        "pathview"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1059,7 +1045,6 @@
         "Gviz"
     ],
     "MPFE": [],
-    "MsBackendMgf": [],
     "MsBackendSql": [],
     "msgbsR": [],
     "mslp": [
@@ -1194,7 +1179,6 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [],
     "PDATK": [
@@ -1442,9 +1426,7 @@
         "gdsfmt"
     ],
     "SANTA": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SBMLR": [],
     "SCArray": [
         "gdsfmt"
@@ -1573,7 +1555,6 @@
         "impute"
     ],
     "Summix": [],
-    "svaNUMT": [],
     "svaRetro": [],
     "swfdr": [],
     "synapter": [
@@ -1599,7 +1580,6 @@
         "TDbasedUFE",
         "tximport"
     ],
-    "tenXplore": [],
     "terraTCGAdata": [],
     "TimiRGeN": [
         "DynDoc",
@@ -1697,7 +1677,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ]
 }
