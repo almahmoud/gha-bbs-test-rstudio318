@@ -79,8 +79,7 @@
     ],
     "ASSET": [],
     "ATACCoGAPS": [
-        "GeneOverlap",
-        "chromVAR"
+        "GeneOverlap"
     ],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
@@ -117,7 +116,6 @@
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
-    "BiocPkgTools": [],
     "biocthis": [],
     "BioMVCClass": [
         "MVCClass"
@@ -254,7 +252,6 @@
         "HilbertVis"
     ],
     "chopsticks": [],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -263,7 +260,6 @@
         "DNAcopy",
         "maftools"
     ],
-    "circRNAprofiler": [],
     "CircSeqAlignTk": [],
     "clevRvis": [],
     "clipper": [],
@@ -290,12 +286,10 @@
     ],
     "CNORode": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNVRanger": [
         "GDSArray",
@@ -322,11 +316,8 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "compSPOT": [],
-    "condiments": [],
     "CONFESS": [
-        "flowClust",
         "flowMerge",
         "flowPeaks"
     ],
@@ -346,9 +337,7 @@
     "conumee": [
         "DNAcopy"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -380,7 +369,6 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowViz"
     ],
@@ -398,7 +386,6 @@
         "FlowSOM"
     ],
     "CytoML": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -570,7 +557,6 @@
     ],
     "erma": [],
     "esATAC": [],
-    "escape": [],
     "EventPointer": [
         "tximport"
     ],
@@ -594,7 +580,6 @@
     ],
     "fCI": [],
     "fdrame": [],
-    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi"
@@ -614,7 +599,6 @@
         "flowViz"
     ],
     "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -630,10 +614,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMatch": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPeaks": [],
     "FlowSOM": [],
     "flowSpecs": [],
@@ -643,7 +624,6 @@
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
         "flowViz"
     ],
     "flowViz": [],
@@ -851,7 +831,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "karyoploteR": [],
     "katdetectr": [
         "DNAcopy",
         "maftools"
@@ -947,15 +926,10 @@
         "CNORode"
     ],
     "Mergeomics": [],
-    "meshes": [],
     "meshr": [],
     "messina": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboAnnotation": [],
+    "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [
         "FlowSOM"
@@ -973,7 +947,6 @@
         "EDASeq",
         "aroma.light"
     ],
-    "MetCirc": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
@@ -1078,9 +1051,7 @@
         "mzID"
     ],
     "MSstatsShiny": [],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -1094,7 +1065,6 @@
         "maftools"
     ],
     "MVCClass": [],
-    "MWASTools": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1153,7 +1123,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [
-        "flowClust",
         "flowViz",
         "flowWorkspace"
     ],
@@ -1292,7 +1261,6 @@
     "quantro": [],
     "QuartPAC": [],
     "R3CPET": [],
-    "RadioGx": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -1431,7 +1399,6 @@
     "scMerge": [
         "M3Drop"
     ],
-    "scmeth": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
