@@ -1357,7 +1357,6 @@
         "mzID"
     ],
     "MSPrep": [],
-    "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
@@ -1921,7 +1920,6 @@
         "genefu",
         "impute"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [],
     "SimBu": [],
     "SIMLR": [],
@@ -1990,7 +1988,6 @@
         "Gviz"
     ],
     "ssize": [],
-    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
