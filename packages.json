@@ -269,8 +269,7 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "BiocCheck": [
         "biocViews"
@@ -369,7 +368,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "brendaDb": [],
     "BRGenomics": [],
     "BridgeDbR": [],
@@ -454,8 +452,7 @@
     ],
     "CBNplot": [
         "clusterProfiler",
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "cbpManager": [],
     "ccfindR": [],
@@ -565,7 +562,6 @@
     "ChIPsim": [],
     "ChIPXpress": [],
     "chopsticks": [],
-    "ChromHeatMap": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -592,8 +588,7 @@
     "ClassifyR": [],
     "clevRvis": [],
     "clipper": [
-        "KEGGgraph",
-        "qpgraph"
+        "KEGGgraph"
     ],
     "cliqueMS": [
         "MSnbase",
@@ -742,7 +737,6 @@
     "coseq": [
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -768,19 +762,16 @@
         "DNAcopy",
         "aCGH"
     ],
-    "crisprBowtie": [],
     "crisprBwa": [
         "Rbwa"
     ],
     "crisprDesign": [
-        "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
@@ -788,7 +779,6 @@
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore"
     ],
@@ -898,7 +888,6 @@
     "DCATS": [],
     "dce": [
         "epiNEM",
-        "graphite",
         "mnem"
     ],
     "ddPCRclust": [
@@ -1036,7 +1025,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe",
         "zenith"
@@ -1077,7 +1065,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "enhancerHomologSearch": [
@@ -1092,7 +1079,6 @@
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
@@ -1421,7 +1407,6 @@
         "impute"
     ],
     "GeneGA": [],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
@@ -1439,7 +1424,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [
         "impute"
     ],
@@ -1542,7 +1526,6 @@
     "GRaNIE": [],
     "graper": [],
     "GraphAlignment": [],
-    "graphite": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -1553,7 +1536,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
@@ -1587,7 +1569,6 @@
         "impute"
     ],
     "h5vc": [],
-    "hapFabia": [],
     "Harman": [],
     "HarmonizR": [
         "sva"
@@ -1625,12 +1606,10 @@
     "HIPPO": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
     "HPAanalyze": [],
-    "hpar": [],
     "HTSeqGenie": [
         "VariantTools",
         "chipseq",
@@ -1677,7 +1656,6 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "graphite",
         "impute",
         "minfi",
         "siggenes"
@@ -1945,8 +1923,7 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "KEGGgraph",
-        "MWASTools",
-        "hpar"
+        "MWASTools"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -2083,7 +2060,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "TCGAbiolinks",
         "impute"
     ],
     "missMethyl": [
@@ -2118,9 +2094,7 @@
     ],
     "MOFA2": [],
     "MOGAMUN": [],
-    "mogsa": [
-        "graphite"
-    ],
+    "mogsa": [],
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
@@ -2136,7 +2110,6 @@
         "enrichplot"
     ],
     "MoonlightR": [
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2256,9 +2229,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "multiGSEA": [
-        "graphite"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
@@ -2413,7 +2384,6 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oposSOM": [],
     "oppar": [
         "GSVA"
     ],
@@ -2524,7 +2494,6 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "graphite",
         "impute"
     ],
     "PING": [
@@ -2659,7 +2628,6 @@
         "impute"
     ],
     "QFeatures": [],
-    "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -2741,8 +2709,7 @@
         "ReactomeContentService4R"
     ],
     "ReactomePA": [
-        "enrichplot",
-        "graphite"
+        "enrichplot"
     ],
     "REBET": [
         "ASSET"
@@ -3027,7 +2994,6 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "graphite",
         "meshr",
         "schex"
     ],
@@ -3131,7 +3097,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -3262,9 +3227,7 @@
         "biovizBase"
     ],
     "ssize": [],
-    "sSNAPPY": [
-        "graphite"
-    ],
+    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3276,8 +3239,7 @@
         "cellHTS2"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "graphite"
+        "SpidermiR"
     ],
     "Statial": [
         "SpatialExperiment"
@@ -3330,7 +3292,6 @@
         "sva"
     ],
     "TCC": [],
-    "TCGAbiolinks": [],
     "TCGAutils": [
         "RaggedExperiment"
     ],
@@ -3569,7 +3530,6 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "graphite",
         "pathview",
         "safe"
     ],
