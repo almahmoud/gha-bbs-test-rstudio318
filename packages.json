@@ -1513,7 +1513,6 @@
         "enrichplot"
     ],
     "PanViz": [],
-    "pareg": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
@@ -2180,7 +2179,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "ggbio"
