@@ -13,7 +13,6 @@
     "affycoretools": [
         "ReportingTools"
     ],
-    "affylmGUI": [],
     "agilp": [],
     "AgiMicroRna": [
         "ReportingTools",
@@ -25,24 +24,15 @@
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
-    "alabaster.sce": [
-        "alabaster.se"
-    ],
-    "alabaster.se": [],
+    "alabaster.mae": [],
+    "alabaster.sce": [],
     "alabaster.spatial": [
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
-    "alabaster.vcf": [
-        "alabaster.se"
-    ],
+    "alabaster.vcf": [],
     "alevinQC": [
         "tximport"
     ],
@@ -135,16 +125,13 @@
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
-        "dmrseq",
         "impute"
     ],
     "blima": [
         "BeadDataPackR",
         "beadarray"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "bnem": [],
     "BOBaFIT": [],
     "borealis": [
@@ -178,8 +165,7 @@
     ],
     "canceR": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CARNIVAL": [],
     "CATALYST": [
@@ -473,7 +459,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
     ],
@@ -617,12 +602,10 @@
     "flowMerge": [],
     "flowPeaks": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowViz"
     ],
@@ -656,7 +639,6 @@
         "lfa"
     ],
     "GDCRNATools": [],
-    "gDNAx": [],
     "gDR": [
         "PharmacoGx",
         "gDRimport"
@@ -751,7 +733,6 @@
         "safe"
     ],
     "GSgalgoR": [],
-    "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [
         "DNAcopy",
@@ -842,7 +823,6 @@
     "LBE": [],
     "LEA": [],
     "LedPred": [],
-    "lemur": [],
     "lfa": [],
     "lipidr": [
         "impute"
@@ -889,7 +869,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "MatrixRider": [],
     "mBPCR": [
         "DNAcopy",
         "GWASTools",
@@ -982,9 +961,7 @@
         "DNAcopy"
     ],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "impute"
     ],
@@ -1123,7 +1100,6 @@
         "flowViz",
         "flowWorkspace"
     ],
-    "oppar": [],
     "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
@@ -1161,7 +1137,6 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "phenoTest": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1367,7 +1342,6 @@
     "Rnits": [
         "impute"
     ],
-    "ROntoTools": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RTCGAToolbox": [],
@@ -1595,7 +1569,6 @@
     "veloviz": [],
     "VennDetail": [],
     "Voyager": [],
-    "vtpnet": [],
     "vulcan": [
         "DiffBind"
     ],
