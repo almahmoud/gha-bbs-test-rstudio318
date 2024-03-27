@@ -316,7 +316,6 @@
     "BiocPkgTools": [
         "biocViews"
     ],
-    "BiocSet": [],
     "BiocSklearn": [
         "basilisk"
     ],
@@ -491,9 +490,7 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "BiocSet"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -591,7 +588,6 @@
         "HDF5Array",
         "biovizBase",
         "bsseq",
-        "goseq",
         "impute",
         "lumi",
         "methylumi",
@@ -609,7 +605,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ChIPanalyser": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
@@ -1669,7 +1664,6 @@
         "maftools"
     ],
     "GOpro": [],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
@@ -1800,7 +1794,6 @@
     "ideal": [
         "Category",
         "GOstats",
-        "goseq",
         "pcaExplorer"
     ],
     "igvR": [],
@@ -2126,7 +2119,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagene2": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2871,7 +2863,6 @@
         "vsn"
     ],
     "ProteoDisco": [],
-    "ProteoMM": [],
     "protGear": [
         "vsn"
     ],
@@ -3080,9 +3071,7 @@
         "impute"
     ],
     "RgnTX": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
@@ -3499,8 +3488,7 @@
     "SMAD": [],
     "SMAP": [],
     "SMITE": [
-        "BioNet",
-        "goseq"
+        "BioNet"
     ],
     "snapCGH": [
         "DNAcopy",
@@ -3539,9 +3527,7 @@
         "HDF5Array",
         "scran"
     ],
-    "sparrow": [
-        "BiocSet"
-    ],
+    "sparrow": [],
     "spaSim": [
         "SpatialExperiment"
     ],
@@ -3611,7 +3597,6 @@
     "sSNAPPY": [
         "graphite"
     ],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3707,7 +3692,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -3892,7 +3876,6 @@
         "minfi",
         "siggenes"
     ],
-    "wavClusteR": [],
     "webbioc": [
         "vsn"
     ],
