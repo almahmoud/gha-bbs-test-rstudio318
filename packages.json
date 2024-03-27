@@ -1,6 +1,5 @@
 {
     "a4": [],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "DNAcopy",
@@ -392,7 +391,6 @@
         "PROMISE"
     ],
     "ccrepe": [],
-    "CDI": [],
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
@@ -1185,7 +1183,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "aroma.light"
     ],
     "GateFinder": [
@@ -1352,9 +1349,7 @@
     "GRaNIE": [],
     "graper": [],
     "GraphAlignment": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GRENITS": [],
     "GSALightning": [],
     "GSEABenchmarkeR": [
@@ -1485,7 +1480,6 @@
         "FGNet"
     ],
     "IONiseR": [],
-    "iPAC": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1813,7 +1807,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1942,7 +1935,6 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "MuData": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
@@ -2303,8 +2295,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles"
@@ -2644,7 +2635,6 @@
         "GLAD"
     ],
     "SeqGate": [],
-    "SeqGSEA": [],
     "SeqSQC": [
         "SNPRelate",
         "gdsfmt"
@@ -2753,9 +2743,7 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
@@ -2824,7 +2812,6 @@
     ],
     "SVMDO": [],
     "swfdr": [],
-    "switchde": [],
     "synapter": [
         "MSnbase",
         "impute",
