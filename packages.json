@@ -659,7 +659,6 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -1427,7 +1426,6 @@
     "MANOR": [
         "GLAD"
     ],
-    "maPredictDSC": [],
     "mariner": [],
     "maser": [
         "Gviz",
@@ -1448,7 +1446,6 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -1687,7 +1684,6 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM"
     ],
@@ -1817,7 +1813,6 @@
     "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
-    "ontoProc": [],
     "openCyto": [
         "flowClust",
         "flowCore",
@@ -1919,9 +1914,7 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "RankProd",
         "impute"
@@ -2054,9 +2047,7 @@
         "GenomicScores"
     ],
     "Rarr": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "rBiopaxParser": [],
     "Rbwa": [],
     "RCAS": [
@@ -2441,7 +2432,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
@@ -2518,9 +2508,7 @@
         "enrichplot",
         "tximport"
     ],
-    "tenXplore": [
-        "ontoProc"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -2587,7 +2575,6 @@
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TRONCO": [],
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
