@@ -811,7 +811,6 @@
     "DifferentialRegulation": [
         "tximport"
     ],
-    "diffHic": [],
     "diffuStats": [],
     "diffUTR": [],
     "Dino": [],
@@ -990,7 +989,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -2772,7 +2770,6 @@
         "OrganismDbi",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
         "monocle"
