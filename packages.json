@@ -265,7 +265,6 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPexoQual": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -310,7 +309,6 @@
     ],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -413,7 +411,6 @@
         "tkWidgets"
     ],
     "cydar": [],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -1538,7 +1535,6 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [],
-    "scifer": [],
     "scMerge": [
         "M3Drop"
     ],
