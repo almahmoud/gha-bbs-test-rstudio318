@@ -38,10 +38,7 @@
         "tilingArray",
         "vsn"
     ],
-    "ADAM": [],
-    "ADAMgui": [
-        "ADAM"
-    ],
+    "ADAMgui": [],
     "adductomicsR": [
         "mzR"
     ],
@@ -352,7 +349,6 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -546,7 +542,6 @@
     "bioCancer": [
         "BiocBaseUtils",
         "DOSE",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -713,7 +708,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "BRAIN": [],
     "brainflowprobes": [
         "GenomicFiles",
         "OrganismDbi",
@@ -808,7 +802,6 @@
         "BiocBaseUtils",
         "Category",
         "GSEABase",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RBGL",
         "RTCGAToolbox",
@@ -857,7 +850,6 @@
     "CausalR": [],
     "cbaf": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -872,7 +864,6 @@
     ],
     "cBioPortalData": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -1393,7 +1384,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "coRdon": [],
     "CoreGx": [
         "BiocBaseUtils",
         "BumpyMatrix",
@@ -2481,7 +2471,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GenomicDataCommons",
         "KEGGgraph",
         "Rgraphviz",
         "clusterProfiler",
@@ -2581,7 +2570,6 @@
         "impute",
         "seqPattern"
     ],
-    "GenomicDataCommons": [],
     "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -2620,8 +2608,7 @@
         "VariantAnnotation"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "genefilter",
@@ -2630,9 +2617,7 @@
     ],
     "GEOfastq": [],
     "GEOmetadb": [],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
         "topconfects"
@@ -2724,11 +2709,9 @@
         "impute"
     ],
     "gmoviz": [],
-    "GNET2": [],
     "GNOSIS": [
         "BiocBaseUtils",
         "DNAcopy",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -2930,7 +2913,6 @@
     "HubPub": [
         "biocthis"
     ],
-    "HumanTranscriptomeCompendium": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -3360,7 +3342,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MBASED": [],
     "MBECS": [
         "biomformat",
         "genefilter",
@@ -3432,7 +3413,6 @@
     "MEDIPS": [
         "DNAcopy"
     ],
-    "MEDME": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
@@ -4141,7 +4121,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [],
     "NBAMSeq": [
@@ -4683,7 +4662,6 @@
     "progeny": [
         "decoupleR"
     ],
-    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -4867,7 +4845,6 @@
     "rain": [
         "multtest"
     ],
-    "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
         "Rgraphviz"
@@ -4955,7 +4932,6 @@
         "siggenes"
     ],
     "recoup": [],
-    "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
         "RBGL",
@@ -5233,7 +5209,6 @@
     ],
     "RTCGAToolbox": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment",
         "TCGAutils"
@@ -5555,7 +5530,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SemDist": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -5862,8 +5836,7 @@
         "basilisk"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "SingleCellExperiment"
@@ -5883,8 +5856,7 @@
         "scuttle"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "spatzie": [
         "CNEr",
@@ -6091,7 +6063,6 @@
     "TCGAbiolinks": [],
     "TCGAutils": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment"
     ],
@@ -6120,7 +6091,6 @@
     "TEQC": [],
     "terraTCGAdata": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment",
         "TCGAutils"
@@ -6262,7 +6232,6 @@
         "SingleCellExperiment"
     ],
     "TREG": [],
-    "Trendy": [],
     "TRESS": [],
     "tricycle": [
         "BiocSingular",
@@ -6468,7 +6437,6 @@
         "topconfects"
     ],
     "wiggleplotr": [],
-    "wpm": [],
     "wppi": [
         "OmnipathR"
     ],
