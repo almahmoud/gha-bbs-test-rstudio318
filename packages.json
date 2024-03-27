@@ -403,7 +403,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -599,9 +598,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSET": [],
     "ASSIGN": [
         "genefilter",
@@ -921,7 +918,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -1125,7 +1121,6 @@
         "RBGL",
         "graph"
     ],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -1365,7 +1360,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
@@ -2353,7 +2347,6 @@
     "clusterSeq": [
         "baySeq"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -2591,7 +2584,6 @@
         "rtracklayer"
     ],
     "COMPASS": [],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationFilter",
         "BSgenome",
@@ -3081,7 +3073,6 @@
     "CyTOFpower": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
-        "CytoGLMM",
         "FlowSOM",
         "Rhdf5lib",
         "cytolib",
@@ -3106,7 +3097,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CytoGLMM": [],
     "cytoKernel": [
         "ComplexHeatmap"
     ],
@@ -3285,7 +3275,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "BSgenome",
         "BiocIO",
@@ -5268,9 +5257,7 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggsc": [
         "SingleCellExperiment"
     ],
@@ -5501,7 +5488,6 @@
         "pathview",
         "safe"
     ],
-    "GSEAlm": [],
     "gsean": [
         "PPInfer",
         "biomaRt",
@@ -5888,7 +5874,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "iChip": [],
     "iCNV": [
         "BSgenome",
         "BiocIO",
@@ -6827,9 +6812,7 @@
         "Rgraphviz",
         "graph"
     ],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "universalmotif"
     ],
@@ -7234,7 +7217,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -7255,7 +7237,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -7304,7 +7285,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "ComplexHeatmap",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -7469,7 +7449,6 @@
         "graph",
         "impute"
     ],
-    "miRNAmeConverter": [],
     "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
@@ -8522,11 +8501,8 @@
         "graph",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [
@@ -8834,7 +8810,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "pengls": [],
     "pepStat": [],
     "pepXMLTab": [],
     "periodicDNA": [
@@ -9514,7 +9489,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "BiocBaseUtils",
         "BumpyMatrix",
@@ -10501,7 +10475,6 @@
     ],
     "runibic": [],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "BiocIO",
         "EDASeq",
@@ -10529,7 +10502,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "sangerseqR": [],
@@ -10754,7 +10726,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "Rhdf5lib",
         "cytolib",
         "flowCore",
@@ -11952,7 +11923,6 @@
     ],
     "SubCellBarCode": [],
     "subSeq": [],
-    "SUITOR": [],
     "SummarizedBenchmark": [],
     "Summix": [],
     "supersigs": [],
@@ -12015,9 +11985,7 @@
         "pcaMethods",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [
         "RankProd"
     ],
@@ -12071,7 +12039,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "target": [],
     "TargetDecoy": [
         "Rhdf5lib",
         "mzID",
@@ -12299,7 +12266,6 @@
     ],
     "TnT": [],
     "TOAST": [],
-    "tomoda": [],
     "tomoseqr": [],
     "TOP": [
         "BiocBaseUtils",
