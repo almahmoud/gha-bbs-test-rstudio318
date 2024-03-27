@@ -79,9 +79,7 @@
     "antiProfiles": [],
     "AnVILBilling": [],
     "APL": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "aroma.light": [],
     "arrayMvout": [
         "lumi",
@@ -107,7 +105,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "GenomicScores",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -586,7 +583,6 @@
     "DEGraph": [
         "NCIgraph"
     ],
-    "DelayedTensor": [],
     "deltaGseg": [],
     "DeMixT": [
         "DSS"
@@ -942,7 +938,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1188,7 +1183,6 @@
         "Gviz"
     ],
     "MassArray": [],
-    "mastR": [],
     "MatrixQCvis": [
         "impute"
     ],
@@ -1448,7 +1442,6 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "GenomicScores",
         "Gviz",
         "motifStack",
         "trackViewer"
@@ -1620,7 +1613,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "GenomicScores",
         "Gviz"
     ],
     "PrInCE": [
@@ -1660,7 +1652,6 @@
         "mzID",
         "tkWidgets"
     ],
-    "ProteoDisco": [],
     "protGear": [],
     "psichomics": [
         "derfinder",
@@ -1723,9 +1714,7 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rarr": [],
     "Rbec": [],
     "rBiopaxParser": [],
@@ -1739,10 +1728,7 @@
     ],
     "RCM": [],
     "Rcollectl": [],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
-    ],
+    "RcwlPipelines": [],
     "RCX": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
@@ -1785,7 +1771,6 @@
     ],
     "RESOLVE": [],
     "ReUseData": [
-        "Rcwl",
         "RcwlPipelines"
     ],
     "rexposome": [
@@ -1948,7 +1933,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqCAT": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -2153,7 +2137,6 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptogramer": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [
@@ -2184,7 +2167,6 @@
     "uncoverappLib": [
         "Gviz"
     ],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
@@ -2199,7 +2181,6 @@
         "gdsfmt"
     ],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz"
     ],
     "VaSP": [
@@ -2221,7 +2202,6 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [],
     "weitrix": [
         "topconfects"
     ],
