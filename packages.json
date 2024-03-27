@@ -109,7 +109,6 @@
         "biocViews"
     ],
     "annotatr": [],
-    "anota2seq": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "APAlyzer": [],
@@ -171,7 +170,6 @@
     "BadRegionFinder": [],
     "ballgown": [],
     "bandle": [
-        "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID",
@@ -216,7 +214,6 @@
     "biobtreeR": [],
     "bioCancer": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -345,7 +342,6 @@
     "canceR": [
         "Category",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "phenoTest"
@@ -366,14 +362,12 @@
     "CausalR": [],
     "cbaf": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -565,7 +559,6 @@
     "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
@@ -1319,7 +1312,6 @@
     "GNOSIS": [
         "DNAcopy",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
@@ -1452,7 +1444,6 @@
     ],
     "InPAS": [],
     "INPower": [],
-    "INSPEcT": [],
     "intansv": [
         "OrganismDbi",
         "biovizBase",
@@ -1782,7 +1773,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1972,7 +1962,6 @@
         "RCX"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2034,9 +2023,7 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
     "OncoSimulR": [],
@@ -2191,13 +2178,11 @@
         "decoupleR"
     ],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID",
@@ -2278,7 +2263,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RaggedExperiment": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -2469,7 +2453,6 @@
     "RSeqAn": [],
     "RSVSim": [],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "rTRMui": [],
@@ -2484,9 +2467,7 @@
     ],
     "sampleClassifier": [],
     "SANTA": [],
-    "SARC": [
-        "RaggedExperiment"
-    ],
+    "SARC": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -2616,9 +2597,7 @@
         "minfi"
     ],
     "SIAMCAT": [],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "sigFeature": [
         "biocViews"
     ],
@@ -2789,9 +2768,7 @@
         "GSVA",
         "singscore"
     ],
-    "TCGAutils": [
-        "RaggedExperiment"
-    ],
+    "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -2804,7 +2781,6 @@
         "ontoProc"
     ],
     "terraTCGAdata": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [],
