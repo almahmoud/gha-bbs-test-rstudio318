@@ -403,7 +403,6 @@
         "aroma.light",
         "impute"
     ],
-    "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [
         "DNAcopy",
@@ -2456,7 +2455,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "semisup": [],
     "seq.hotSPOT": [],
