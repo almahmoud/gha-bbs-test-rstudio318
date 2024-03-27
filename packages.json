@@ -255,7 +255,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils"
@@ -267,9 +266,7 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "celaref": [],
     "celda": [],
@@ -1438,7 +1435,6 @@
     ],
     "MVCClass": [],
     "MWASTools": [],
-    "myvariant": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1588,7 +1584,6 @@
     "PING": [
         "Gviz"
     ],
-    "pipeComp": [],
     "planet": [],
     "plasmut": [],
     "PloGO2": [
@@ -1639,7 +1634,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
@@ -2030,7 +2024,6 @@
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
-    "SpliceWiz": [],
     "SPLINTER": [
         "Gviz"
     ],
