@@ -88,7 +88,6 @@
         "Gviz"
     ],
     "ASSET": [],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "GeneOverlap",
         "chromVAR",
@@ -1313,7 +1312,6 @@
         "msmsTests",
         "mzID"
     ],
-    "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -1953,9 +1951,7 @@
         "mzID"
     ],
     "TargetSearch": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
