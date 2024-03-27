@@ -204,7 +204,6 @@
     ],
     "CCPROMISE": [],
     "ccrepe": [],
-    "cellHTS2": [],
     "cellmigRation": [],
     "cellxgenedp": [],
     "CEMiTool": [
@@ -762,9 +761,7 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "geva": [],
     "GEWIST": [],
     "ggcyto": [
@@ -1418,9 +1415,7 @@
         "impute",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz"
     ],
@@ -1588,9 +1583,7 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "statTarget": [
         "impute"
     ],
