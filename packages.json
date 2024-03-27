@@ -154,9 +154,7 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota": [],
     "anota2seq": [],
     "antiProfiles": [],
@@ -223,8 +221,7 @@
         "GenomicScores",
         "HDF5Array",
         "TFBSTools",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
         "CNEr",
@@ -415,8 +412,7 @@
         "annotatr",
         "bsseq",
         "dmrseq",
-        "impute",
-        "regioneR"
+        "impute"
     ],
     "BiSeq": [],
     "blacksheepr": [
@@ -592,7 +588,6 @@
         "scran"
     ],
     "CellBarcode": [],
-    "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
         "Category",
@@ -692,9 +687,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "chipseq",
@@ -712,7 +705,6 @@
     "ChIPXpress": [],
     "chopsticks": [],
     "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "batchelor",
         "scran"
@@ -813,16 +805,14 @@
         "VariantAnnotation",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVPanelizer": [],
     "CNVRanger": [
@@ -843,7 +833,6 @@
     ],
     "CoGAPS": [],
     "cogeqc": [],
-    "Cogito": [],
     "cola": [
         "impute"
     ],
@@ -917,8 +906,7 @@
         "VariantAnnotation",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [
         "piano"
@@ -972,7 +960,6 @@
         "basilisk"
     ],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "VariantAnnotation",
@@ -1207,8 +1194,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DESpace": [
         "SpatialExperiment"
@@ -1265,8 +1251,7 @@
     "dmrseq": [
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
@@ -1338,7 +1323,6 @@
         "GSVA",
         "HDF5Array",
         "KEGGgraph",
-        "gage",
         "pathview",
         "safe",
         "topGO"
@@ -1676,7 +1660,6 @@
     ],
     "frenchFISH": [],
     "FRGEpistasis": [],
-    "FunChIP": [],
     "funtooNorm": [
         "HDF5Array",
         "minfi",
@@ -1690,7 +1673,6 @@
         "VariantAnnotation"
     ],
     "gaga": [],
-    "gage": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -1953,8 +1935,7 @@
     ],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "VariantAnnotation",
@@ -2180,8 +2161,7 @@
     "iterativeBMAsurv": [],
     "karyoploteR": [
         "VariantAnnotation",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "DNAcopy",
@@ -2196,7 +2176,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DSS",
         "HDF5Array",
@@ -2403,9 +2382,7 @@
         "QFeatures",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "KEGGgraph",
@@ -2788,8 +2765,7 @@
         "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "multiGSEA": [
         "graphite"
@@ -2841,7 +2817,6 @@
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -3272,7 +3247,6 @@
         "DNAcopy",
         "VariantAnnotation"
     ],
-    "pvac": [],
     "pvca": [
         "vsn"
     ],
@@ -3419,8 +3393,7 @@
     ],
     "recoup": [],
     "REDseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "regionalpcs": [
         "PCAtools"
@@ -3429,10 +3402,7 @@
         "BayesSpace",
         "scran"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -3464,9 +3434,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -3481,9 +3449,7 @@
         "impute"
     ],
     "rGenomeTracks": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "RGraph2js": [],
     "rGREAT": [],
     "rgsepd": [
@@ -3530,9 +3496,7 @@
     ],
     "RJMCMCNucleosomes": [],
     "RLassoCox": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase",
         "impute",
@@ -3542,7 +3506,6 @@
     ],
     "rmelting": [],
     "Rmmquant": [],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -3712,8 +3675,7 @@
     "scmeth": [
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SCnorm": [],
     "scone": [
@@ -3805,7 +3767,6 @@
     "SeqArray": [
         "gdsfmt"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -3890,7 +3851,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SimFFPE": [],
     "SIMLR": [],
     "simpleSeg": [
         "HDF5Array",
@@ -3987,8 +3947,7 @@
     "SOMNiBUS": [
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SpacePAC": [
         "iPAC"
@@ -4106,10 +4065,7 @@
     ],
     "strandCheckR": [],
     "Streamer": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -4200,7 +4156,6 @@
     "tilingArray": [
         "vsn"
     ],
-    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "DynDoc",
@@ -4323,9 +4278,7 @@
         "Organism.dplyr",
         "plotgardener"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "OrganismDbi",
@@ -4399,7 +4352,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
