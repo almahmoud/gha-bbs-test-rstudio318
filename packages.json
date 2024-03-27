@@ -1,5 +1,4 @@
 {
-    "a4": [],
     "ACE": [
         "CGHcall",
         "DNAcopy",
@@ -679,7 +678,6 @@
         "AnnotationHubData",
         "BiocCheck"
     ],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -1400,7 +1398,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
@@ -1542,7 +1539,6 @@
         "impute",
         "mzID"
     ],
-    "qsmooth": [],
     "quantro": [
         "minfi"
     ],
