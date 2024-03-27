@@ -299,7 +299,6 @@
         "MAST",
         "Maaslin2",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq",
         "zinbwave"
     ],
@@ -682,7 +681,6 @@
     ],
     "ChIPanalyser": [],
     "ChIPComp": [],
-    "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
         "biovizBase"
@@ -1298,7 +1296,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "dyebias": [],
     "DynDoc": [],
     "easier": [
         "decoupleR",
@@ -1327,7 +1324,6 @@
         "safe",
         "topGO"
     ],
-    "eiR": [],
     "ELMER": [
         "Gviz",
         "TCGAbiolinks",
@@ -1841,7 +1837,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1901,7 +1896,6 @@
     ],
     "graper": [],
     "GraphAlignment": [],
-    "GraphAT": [],
     "graphite": [],
     "GraphPAC": [
         "iPAC"
@@ -2234,13 +2228,10 @@
     "M3C": [],
     "M3Drop": [],
     "m6Aboost": [],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "Maaslin2",
-        "impute",
-        "metagenomeSeq"
+        "impute"
     ],
     "MACSr": [
         "basilisk"
@@ -2320,9 +2311,7 @@
         "GWASTools",
         "gdsfmt"
     ],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "impute"
@@ -2396,7 +2385,6 @@
         "flowCore"
     ],
     "metagene2": [],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2505,18 +2493,15 @@
     ],
     "microbiomeDASim": [
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "biomformat",
-        "metagenomeSeq"
+        "biomformat"
     ],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2581,8 +2566,7 @@
     "MLInterfaces": [],
     "MLSeq": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [
@@ -2633,7 +2617,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -3041,7 +3024,6 @@
         "impute",
         "piano"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
         "flowCore",
@@ -3094,7 +3076,6 @@
     ],
     "Pi": [],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -3105,7 +3086,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase"
     ],
