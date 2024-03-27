@@ -358,7 +358,6 @@
     "condiments": [],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge",
         "flowPeaks"
     ],
@@ -431,7 +430,6 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "flowClust",
         "flowViz",
@@ -697,7 +695,6 @@
         "ncdfFlow"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -1135,7 +1132,6 @@
     "MODA": [
         "impute"
     ],
-    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler"
@@ -1150,7 +1146,6 @@
     "motifStack": [],
     "MPFE": [],
     "MsBackendMgf": [],
-    "MsBackendMsp": [],
     "MsBackendSql": [],
     "msgbsR": [
         "ggbio"
@@ -1286,9 +1281,7 @@
         "ncdfFlow"
     ],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -1643,7 +1636,6 @@
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
