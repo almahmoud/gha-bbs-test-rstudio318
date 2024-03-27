@@ -11,7 +11,6 @@
         "GLAD",
         "snapCGH"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "GOstats",
         "ReportingTools",
@@ -1401,7 +1400,6 @@
     "multicrispr": [
         "karyoploteR"
     ],
-    "multiGSEA": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
