@@ -1145,7 +1145,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "microbiome": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
@@ -1416,9 +1415,7 @@
         "impute"
     ],
     "powerTCR": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "DNAcopy",
         "rCGH"
@@ -1626,7 +1623,6 @@
         "impute"
     ],
     "ROntoTools": [],
-    "RPA": [],
     "Rqc": [],
     "rsemmed": [],
     "RSeqAn": [],
@@ -1643,7 +1639,6 @@
         "gdsfmt"
     ],
     "SANTA": [],
-    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
