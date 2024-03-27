@@ -200,7 +200,6 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "CCPROMISE": [],
     "ccrepe": [],
     "cellmigRation": [],
     "cellxgenedp": [],
@@ -251,7 +250,6 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -539,7 +537,6 @@
     "enrichTF": [],
     "enrichViewNet": [],
     "EpiCompare": [
-        "ChIPseeker",
         "genomation",
         "impute"
     ],
@@ -572,9 +569,7 @@
         "epivizrServer"
     ],
     "erma": [],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "escape": [],
     "EventPointer": [
         "tximport"
@@ -640,7 +635,6 @@
         "flowClust"
     ],
     "flowPeaks": [],
-    "flowPloidy": [],
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
@@ -777,7 +771,6 @@
         "safe"
     ],
     "GSgalgoR": [],
-    "GSReg": [],
     "GUIDEseq": [],
     "Gviz": [],
     "GWASTools": [
@@ -1028,7 +1021,6 @@
         "methylumi"
     ],
     "mistyR": [],
-    "mitoClone2": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
@@ -1109,7 +1101,6 @@
         "Gviz",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "nanotatoR": [],
     "ncGTW": [
         "MSnbase",
@@ -1240,7 +1231,6 @@
         "mzID"
     ],
     "profileplyr": [
-        "ChIPseeker",
         "soGGi"
     ],
     "progeny": [
@@ -1463,17 +1453,13 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
     ],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "seqArchRplus": [],
     "SeqArray": [
         "gdsfmt"
     ],
@@ -1555,7 +1541,6 @@
         "impute"
     ],
     "Summix": [],
-    "svaRetro": [],
     "swfdr": [],
     "synapter": [
         "MSnbase",
