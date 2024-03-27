@@ -634,9 +634,7 @@
         "Gviz"
     ],
     "epiNEM": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -886,7 +884,6 @@
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
-    "GraphPAC": [],
     "GRENITS": [],
     "GSALightning": [],
     "GSEABenchmarkeR": [
@@ -988,7 +985,6 @@
         "tximport"
     ],
     "ISoLDE": [],
-    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1507,7 +1503,6 @@
     ],
     "quantro": [],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [],
@@ -1886,7 +1881,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSAR": [],
     "ttgsea": [],
