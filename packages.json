@@ -824,7 +824,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
@@ -1321,7 +1320,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -1502,7 +1500,6 @@
         "GOstats",
         "impute"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "DNAcopy",
         "RTCGAToolbox",
