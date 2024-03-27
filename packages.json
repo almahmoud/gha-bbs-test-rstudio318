@@ -100,7 +100,6 @@
         "impute"
     ],
     "amplican": [],
-    "Anaquin": [],
     "AneuFinder": [
         "DNAcopy"
     ],
@@ -834,7 +833,6 @@
     ],
     "DESpace": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "impute"
     ],
@@ -1011,7 +1009,6 @@
         "GSVA"
     ],
     "escheR": [],
-    "evaluomeR": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1662,7 +1659,6 @@
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
-    "metabomxtr": [],
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools"
@@ -2119,7 +2115,6 @@
         "DNAcopy",
         "aroma.light"
     ],
-    "peco": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "PharmacoGx": [
@@ -2939,7 +2934,6 @@
     "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
-    "vidger": [],
     "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
