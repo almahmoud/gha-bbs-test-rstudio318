@@ -174,7 +174,6 @@
         "mzID",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BaseSpaceR": [],
     "BASiCS": [],
     "BASiCStan": [
@@ -451,13 +450,11 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -542,7 +539,6 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -1362,7 +1358,6 @@
     "HPAanalyze": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HubPub": [
@@ -2016,7 +2011,6 @@
     "pathifier": [],
     "PathNet": [],
     "PathoStat": [],
-    "pathRender": [],
     "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
@@ -2112,7 +2106,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -2599,9 +2592,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "OrganismDbi",
         "biovizBase",
@@ -2758,9 +2749,7 @@
         "slingshot"
     ],
     "transcriptogramer": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
