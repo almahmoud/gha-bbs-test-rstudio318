@@ -315,7 +315,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz"
     ],
@@ -569,7 +568,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deepSNV": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -626,7 +624,6 @@
     "doppelgangR": [
         "impute"
     ],
-    "Doscheda": [],
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -637,7 +634,6 @@
     ],
     "DriverNet": [],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [],
     "DSS": [],
     "DynDoc": [],
     "easier": [
@@ -761,7 +757,6 @@
         "impute"
     ],
     "fCI": [],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "TSCAN"
@@ -1313,9 +1308,7 @@
         "minfi"
     ],
     "mistyR": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1633,7 +1626,6 @@
         "mzID",
         "tkWidgets"
     ],
-    "protGear": [],
     "psichomics": [
         "derfinder",
         "recount"
@@ -1986,7 +1978,6 @@
     ],
     "snm": [],
     "SNPediaR": [],
-    "SNPhood": [],
     "SNPRelate": [
         "gdsfmt"
     ],
@@ -1996,7 +1987,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "Spaniel": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
@@ -2074,7 +2064,6 @@
         "TCGAutils"
     ],
     "TFHAZ": [],
-    "TFutils": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
@@ -2087,7 +2076,6 @@
         "aroma.light",
         "impute"
     ],
-    "TissueEnrich": [],
     "tkWidgets": [
         "DynDoc"
     ],
