@@ -906,7 +906,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "ggspavis": [],
     "GIGSEA": [],
     "GLAD": [],
     "GladiaTOX": [],
@@ -1316,7 +1315,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MSPrep": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
@@ -1440,7 +1438,6 @@
         "DNAcopy",
         "Repitools"
     ],
-    "PAA": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -1547,7 +1544,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DynDoc",
@@ -1903,7 +1899,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
