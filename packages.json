@@ -701,9 +701,7 @@
     ],
     "fCI": [],
     "fdrame": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -1814,7 +1812,6 @@
     "simpleSeg": [],
     "singleCellTK": [
         "M3Drop",
-        "TSCAN",
         "eds",
         "scMerge",
         "tximport"
@@ -1951,7 +1948,6 @@
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSAR": [],
-    "TSCAN": [],
     "ttgsea": [],
     "TVTB": [
         "Gviz"
