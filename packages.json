@@ -75,7 +75,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "affxparser": [],
     "affy": [
         "affyio"
     ],
@@ -116,7 +115,6 @@
         "rtracklayer"
     ],
     "affyILM": [
-        "affxparser",
         "affy",
         "affyio",
         "gcrma"
@@ -545,7 +543,6 @@
     ],
     "aroma.light": [],
     "ArrayExpress": [
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -594,7 +591,6 @@
         "MSstats",
         "marray"
     ],
-    "ASAFE": [],
     "ASEB": [],
     "ASGSCA": [],
     "ASICS": [
@@ -2172,7 +2168,6 @@
     ],
     "ChIPXpress": [
         "GEOquery",
-        "affxparser",
         "affy",
         "affyio",
         "frma",
@@ -2421,7 +2416,6 @@
     ],
     "cn.farms": [
         "DNAcopy",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -2695,7 +2689,6 @@
     "CONFESS": [
         "Rgraphviz",
         "Rhdf5lib",
-        "SamSPECTRAL",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -3036,7 +3029,6 @@
     ],
     "crossmeta": [
         "GEOquery",
-        "affxparser",
         "affy",
         "affyio",
         "genefilter",
@@ -3333,7 +3325,6 @@
     "ddCt": [],
     "ddPCRclust": [
         "Rhdf5lib",
-        "SamSPECTRAL",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -3899,7 +3890,6 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
-        "affxparser",
         "affy",
         "affyio",
         "biomaRt",
@@ -4428,7 +4418,6 @@
         "Rhtslib",
         "Rsamtools",
         "SGSeq",
-        "affxparser",
         "biomaRt",
         "fgsea",
         "graph",
@@ -4896,7 +4885,6 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -5138,9 +5126,7 @@
     ],
     "GeneOverlap": [],
     "geneRecommender": [],
-    "GeneRegionScan": [
-        "affxparser"
-    ],
+    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GeneSelectMMD": [],
     "GENESIS": [
@@ -5394,7 +5380,6 @@
         "R4RNA",
         "ggtree"
     ],
-    "GGPA": [],
     "ggsc": [
         "SingleCellExperiment"
     ],
@@ -5988,7 +5973,6 @@
     ],
     "iasva": [],
     "iBMQ": [],
-    "iCARE": [],
     "icetea": [
         "BSgenome",
         "BiocIO",
@@ -6132,7 +6116,6 @@
     ],
     "IMPCdata": [],
     "impute": [],
-    "INDEED": [],
     "iNETgrate": [
         "BiocIO",
         "DOSE",
@@ -6388,7 +6371,6 @@
     ],
     "ITALICS": [
         "GLAD",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -7544,7 +7526,6 @@
         "beachmat"
     ],
     "mimager": [
-        "affxparser",
         "affy",
         "affyPLM",
         "affyio",
@@ -7838,7 +7819,6 @@
         "Rsamtools"
     ],
     "mosbi": [
-        "QUBIC",
         "fabia"
     ],
     "MOSim": [],
@@ -8639,7 +8619,6 @@
         "rtracklayer"
     ],
     "oligo": [
-        "affxparser",
         "affyio",
         "oligoClasses"
     ],
@@ -8712,7 +8691,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "onlineFDR": [],
     "ontoProc": [
         "AnnotationHub",
         "BiocVersion",
@@ -8739,7 +8717,6 @@
         "DECIPHER",
         "openPrimeR"
     ],
-    "OpenStats": [],
     "oposSOM": [
         "biomaRt",
         "graph"
@@ -9004,7 +8981,6 @@
         "piano"
     ],
     "pdInfoBuilder": [
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -9247,12 +9223,10 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "pmm": [],
     "pmp": [
         "impute",
         "pcaMethods"
     ],
-    "PoDCall": [],
     "podkat": [
         "BSgenome",
         "BiocIO",
@@ -9550,7 +9524,6 @@
         "vsn"
     ],
     "puma": [
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -9714,7 +9687,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "QUBIC": [],
     "qusage": [],
     "R3CPET": [
         "AnnotationFilter",
@@ -9873,7 +9845,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "RCASPAR": [],
     "rcellminer": [],
     "rCGH": [
         "BiocIO",
@@ -10249,7 +10220,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "rgoslin": [],
     "RGraph2js": [
         "graph"
     ],
@@ -10501,7 +10471,6 @@
         "recount",
         "rtracklayer"
     ],
-    "RNAdecay": [],
     "rnaEditr": [
         "BiocIO",
         "GenomicAlignments",
@@ -10791,7 +10760,6 @@
         "MGFR",
         "biomaRt"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "DECIPHER",
         "sangerseqR"
@@ -10827,7 +10795,6 @@
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "GEOquery",
-        "affxparser",
         "affy",
         "affyio",
         "genefilter",
@@ -12332,7 +12299,6 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
         "ggtree"
