@@ -138,13 +138,8 @@
         "pRoloc"
     ],
     "BaseSpaceR": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
-    ],
+    "BASiCStan": [],
     "BatchQC": [],
-    "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR"
     ],
@@ -1041,7 +1036,6 @@
     "GIGSEA": [],
     "GLAD": [],
     "GladiaTOX": [],
-    "glmGamPoi": [],
     "GmicR": [
         "GOstats",
         "impute"
@@ -1209,9 +1203,7 @@
     "LBE": [],
     "LEA": [],
     "LedPred": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lfa": [],
     "lipidr": [
         "impute"
@@ -1534,7 +1526,6 @@
     "multiWGCNA": [
         "impute"
     ],
-    "mumosa": [],
     "musicatk": [
         "DNAcopy",
         "maftools"
@@ -2015,8 +2006,7 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "scider": [],
     "scifer": [],
@@ -2033,7 +2023,6 @@
     "SCOPE": [
         "DNAcopy"
     ],
-    "scoreInvHap": [],
     "scp": [],
     "scPipe": [],
     "scRepertoire": [
@@ -2119,7 +2108,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "M3Drop",
@@ -2294,9 +2282,7 @@
     ],
     "transcriptogramer": [],
     "transcriptR": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "RankProd"
     ],
@@ -2353,7 +2339,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
     "Voyager": [
