@@ -78,7 +78,6 @@
     ],
     "antiProfiles": [],
     "AnVILBilling": [],
-    "APL": [],
     "appreci8R": [],
     "aroma.light": [],
     "arrayMvout": [
@@ -153,7 +152,6 @@
         "enrichplot"
     ],
     "BiocCheck": [],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BiocPkgTools": [],
     "biocthis": [],
@@ -173,7 +171,6 @@
         "pathview"
     ],
     "biosigner": [],
-    "BioTIP": [],
     "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
@@ -333,7 +330,6 @@
         "HilbertVis"
     ],
     "chopsticks": [],
-    "ChromSCape": [],
     "chromVAR": [],
     "cicero": [
         "Gviz",
@@ -482,7 +478,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "CuratedAtlasQueryR": [],
     "cyanoFilter": [
         "flowClust",
         "flowDensity",
@@ -586,7 +581,6 @@
     "demuxSNP": [
         "demuxmix"
     ],
-    "densvis": [],
     "DEP": [
         "MSnbase",
         "impute",
@@ -633,7 +627,6 @@
         "impute"
     ],
     "Doscheda": [],
-    "doubletrouble": [],
     "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -973,7 +966,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -1477,7 +1469,6 @@
         "yarn"
     ],
     "nnSVG": [],
-    "NormalyzerDE": [],
     "NTW": [],
     "NuPoP": [],
     "occugene": [],
@@ -1515,7 +1506,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "orthos": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -1767,7 +1757,6 @@
     "rexposome": [
         "impute"
     ],
-    "rgsepd": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
