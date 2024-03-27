@@ -470,7 +470,6 @@
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
-    "BCRANK": [],
     "beachmat.hdf5": [
         "HDF5Array"
     ],
@@ -597,34 +596,15 @@
     "biocViews": [
         "RBGL"
     ],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "biomformat": [],
     "BioMVCClass": [
         "MVCClass",
@@ -2250,7 +2230,6 @@
     "fedup": [
         "RCy3"
     ],
-    "FELLA": [],
     "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
@@ -2957,7 +2936,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iasva": [],
     "icetea": [
         "DESeq2",
         "ShortRead",
@@ -3142,7 +3120,6 @@
         "iSEEhex"
     ],
     "isobar": [],
-    "IsoBayes": [],
     "IsoCorrectoR": [],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR"
@@ -3358,7 +3335,6 @@
         "plotgardener",
         "plyranges"
     ],
-    "marr": [],
     "martini": [],
     "maser": [
         "Gviz",
@@ -3562,11 +3538,9 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "methylKit"
     ],
-    "MethPed": [],
     "MethReg": [
         "sesame"
     ],
@@ -4448,7 +4422,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "paircompviz": [
         "Rgraphviz"
     ],
@@ -4572,7 +4545,6 @@
     "phenomis": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -4660,7 +4632,6 @@
         "MAST",
         "SingleCellExperiment"
     ],
-    "ppcseq": [],
     "PPInfer": [],
     "pram": [],
     "prebs": [
@@ -5150,7 +5121,6 @@
     "RLSeq": [
         "regioneR"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
@@ -5242,7 +5212,6 @@
         "multtest",
         "phyloseq"
     ],
-    "rprimer": [],
     "Rqc": [
         "GenomicFiles",
         "ShortRead",
@@ -5592,14 +5561,12 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
         "clusterProfiler",
         "enrichplot",
         "heatmaps",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [
@@ -5937,7 +5904,6 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
         "Rgraphviz"
@@ -6053,7 +6019,6 @@
     "SubCellBarCode": [],
     "Summix": [],
     "surfaltr": [],
-    "survtype": [],
     "sva": [
         "genefilter"
     ],
@@ -6208,9 +6173,7 @@
     "tLOH": [
         "VariantAnnotation"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "BiocSingular",
         "DelayedMatrixStats",
