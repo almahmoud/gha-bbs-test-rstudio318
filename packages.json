@@ -165,7 +165,6 @@
     "BgeeCall": [
         "tximport"
     ],
-    "BgeeDB": [],
     "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
@@ -188,7 +187,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocPkgTools": [],
-    "BiocSklearn": [],
     "biocthis": [],
     "BioMVCClass": [
         "MVCClass"
@@ -215,7 +213,6 @@
         "DNAcopy",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq",
         "impute"
     ],
@@ -236,8 +233,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -248,7 +244,6 @@
     ],
     "brendaDb": [],
     "BridgeDbR": [],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -371,7 +366,6 @@
         "DNAcopy",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "impute",
         "lumi",
         "methylumi",
@@ -468,8 +462,7 @@
         "DNAcopy"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "cola": [
         "impute"
@@ -688,8 +681,7 @@
     "DelayedTensor": [],
     "deltaGseg": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxmix": [],
     "demuxSNP": [
@@ -736,14 +728,12 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
@@ -767,9 +757,7 @@
     "DriverNet": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "DynDoc": [],
     "easier": [
         "decoupleR",
@@ -1115,7 +1103,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [
         "impute"
@@ -1144,7 +1131,6 @@
     ],
     "ggspavis": [],
     "GIGSEA": [],
-    "GISPA": [],
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
@@ -1323,8 +1309,7 @@
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "LBE": [],
@@ -1470,8 +1455,7 @@
     "metaseqR2": [
         "DSS",
         "EDASeq",
-        "aroma.light",
-        "bsseq"
+        "aroma.light"
     ],
     "MetCirc": [],
     "methInheritSim": [],
@@ -1481,7 +1465,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -1508,8 +1491,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -1540,9 +1522,7 @@
     "MinimumDistance": [
         "DNAcopy"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1693,9 +1673,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [],
     "ncdfFlow": [
         "flowCore"
@@ -1736,7 +1714,6 @@
     ],
     "nnSVG": [],
     "NormalyzerDE": [],
-    "npGSEA": [],
     "NTW": [],
     "NuPoP": [],
     "occugene": [],
@@ -1773,7 +1750,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [
         "GSVA"
     ],
@@ -1928,9 +1904,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -2092,9 +2066,7 @@
         "mzID",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2203,8 +2175,7 @@
         "M3Drop"
     ],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -2356,8 +2327,7 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [],
     "Spaniel": [],
@@ -2366,7 +2336,6 @@
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
