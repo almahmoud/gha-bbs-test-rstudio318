@@ -409,7 +409,6 @@
         "DNAcopy",
         "impute"
     ],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "DNAcopy",
@@ -942,7 +941,6 @@
     "EventPointer": [
         "tximport"
     ],
-    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
@@ -1632,7 +1630,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "microRNA": [],
     "mimager": [
         "affyPLM"
@@ -1916,7 +1913,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "paircompviz": [],
     "pairedGSEA": [],
     "panelcn.mops": [
         "cn.mops"
