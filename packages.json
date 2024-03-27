@@ -440,11 +440,9 @@
         "Gviz",
         "crisprDesign"
     ],
-    "crossmeta": [],
     "csdR": [
         "impute"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -1489,7 +1487,6 @@
         "impute"
     ],
     "powerTCR": [],
-    "POWSC": [],
     "prebs": [
         "RPA"
     ],
@@ -1874,7 +1871,6 @@
     "SpacePAC": [],
     "spatialDE": [],
     "SpatialDecon": [],
-    "SpatialFeatureExperiment": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
@@ -2020,9 +2016,7 @@
     "VCFArray": [],
     "veloviz": [],
     "VennDetail": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [],
     "vulcan": [
         "DiffBind"
