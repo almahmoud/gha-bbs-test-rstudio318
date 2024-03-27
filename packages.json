@@ -407,23 +407,20 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowAI",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [],
     "dagLogo": [],
@@ -644,8 +641,7 @@
     ],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMatch": [],
     "flowMerge": [
@@ -657,8 +653,7 @@
     "flowSpecs": [],
     "flowStats": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTime": [],
     "flowTrans": [
@@ -669,12 +664,9 @@
     "flowVS": [
         "flowStats",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [],
@@ -765,8 +757,7 @@
     "geva": [],
     "GEWIST": [],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggmanh": [
         "SeqArray",
@@ -841,8 +832,7 @@
     ],
     "imcRtools": [],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "IMPCdata": [],
     "impute": [],
@@ -1136,7 +1126,6 @@
     ],
     "NanoMethViz": [],
     "nanotatoR": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "impute",
@@ -1190,8 +1179,7 @@
     "openCyto": [
         "flowClust",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "oppar": [],
     "optimalFlow": [],
@@ -1214,8 +1202,7 @@
         "impute"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase",
@@ -1485,7 +1472,6 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scRNAseqApp": [],
     "scruff": [],
     "scTensor": [
         "ReactomePA",
@@ -1644,7 +1630,6 @@
     "tRanslatome": [
         "RankProd"
     ],
-    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
