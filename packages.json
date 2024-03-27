@@ -305,7 +305,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "BridgeDbR": [],
     "bsseq": [],
     "BubbleTree": [
@@ -806,7 +805,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
     "deltaGseg": [],
@@ -955,7 +953,6 @@
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot",
         "genomation",
@@ -979,7 +976,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1015,8 +1011,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "evaluomeR": [],
@@ -1507,9 +1502,7 @@
         "tximport"
     ],
     "ISoLDE": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -2026,7 +2019,6 @@
         "quantro",
         "yarn"
     ],
-    "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
@@ -2509,7 +2501,6 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
@@ -2595,7 +2586,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "Category",
         "GOstats",
@@ -2918,13 +2908,8 @@
     ],
     "trigger": [],
     "trio": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSAR": [],
     "TSCAN": [],
@@ -2939,7 +2924,6 @@
         "tximport"
     ],
     "tximport": [],
-    "UCell": [],
     "Ularcirc": [
         "plotgardener"
     ],
