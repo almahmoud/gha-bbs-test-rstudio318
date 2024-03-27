@@ -58,7 +58,6 @@
     ],
     "adductomicsR": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "Rhdf5lib",
         "interactiveDisplayBase",
@@ -182,7 +181,6 @@
         "BiocBaseUtils",
         "BiocCheck",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
@@ -382,7 +380,6 @@
     "AMARETTO": [
         "AnnotationHub",
         "BiocBaseUtils",
-        "BiocVersion",
         "ComplexHeatmap",
         "ExperimentHub",
         "HDF5Array",
@@ -442,7 +439,6 @@
     "AnnotationFilter": [],
     "AnnotationForge": [],
     "AnnotationHub": [
-        "BiocVersion",
         "interactiveDisplayBase"
     ],
     "AnnotationHubData": [
@@ -451,7 +447,6 @@
         "BiocBaseUtils",
         "BiocCheck",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
@@ -469,7 +464,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -487,14 +481,9 @@
         "multtest"
     ],
     "antiProfiles": [],
-    "AnVIL": [],
     "AnVILBilling": [],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
-    "AnVILWorkflow": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
+    "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -523,7 +512,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicScores",
@@ -658,7 +646,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
         "DirichletMultinomial",
@@ -697,7 +684,6 @@
     ],
     "atena": [
         "AnnotationHub",
-        "BiocVersion",
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
@@ -1045,7 +1031,6 @@
     "biobroom": [],
     "biobtreeR": [],
     "bioCancer": [
-        "AnVIL",
         "BiocBaseUtils",
         "BiocIO",
         "DOSE",
@@ -1094,7 +1079,6 @@
     ],
     "BiocHubsShiny": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
@@ -1104,7 +1088,6 @@
         "AnnotationHub",
         "BiocBaseUtils",
         "BiocIO",
-        "BiocVersion",
         "ComplexHeatmap",
         "ExperimentHub",
         "GenomicAlignments",
@@ -1143,7 +1126,6 @@
         "basilisk.utils"
     ],
     "biocthis": [],
-    "BiocVersion": [],
     "biocViews": [
         "RBGL",
         "graph"
@@ -1263,7 +1245,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "CGHbase",
         "CGHcall",
         "DNAcopy",
@@ -1325,7 +1306,6 @@
     ],
     "BloodGen3Module": [
         "AnnotationHub",
-        "BiocVersion",
         "ComplexHeatmap",
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -1398,7 +1378,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -1630,7 +1609,6 @@
         "xcms"
     ],
     "canceR": [
-        "AnVIL",
         "BiocBaseUtils",
         "BiocIO",
         "Category",
@@ -1724,7 +1702,6 @@
     ],
     "CausalR": [],
     "cbaf": [
-        "AnVIL",
         "BiocBaseUtils",
         "BiocIO",
         "GenomicAlignments",
@@ -1748,7 +1725,6 @@
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
-        "AnVIL",
         "BiocBaseUtils",
         "BiocIO",
         "GenomicAlignments",
@@ -1765,7 +1741,6 @@
     ],
     "CBNplot": [
         "AnnotationHub",
-        "BiocVersion",
         "DOSE",
         "ExperimentHub",
         "GOSemSim",
@@ -1956,7 +1931,6 @@
     ],
     "cfTools": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "basilisk",
         "basilisk.utils",
@@ -1992,7 +1966,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DMRcate",
         "DNAcopy",
         "DelayedMatrixStats",
@@ -2258,7 +2231,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2630,7 +2602,6 @@
     "coMethDMR": [
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2832,7 +2803,6 @@
     ],
     "CoSIA": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "annotationTools",
         "biomaRt",
@@ -2932,7 +2902,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2950,7 +2919,6 @@
     ],
     "crisprScore": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "basilisk",
         "basilisk.utils",
@@ -2977,7 +2945,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3003,7 +2970,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3055,14 +3021,12 @@
     ],
     "CTdata": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
     "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
-        "BiocVersion",
         "Rhdf5lib",
         "fgsea",
         "interactiveDisplayBase",
@@ -3098,7 +3062,6 @@
     ],
     "customCMPdb": [
         "AnnotationHub",
-        "BiocVersion",
         "ChemmineR",
         "interactiveDisplayBase"
     ],
@@ -3734,7 +3697,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GEOquery",
@@ -3769,7 +3731,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3921,7 +3882,6 @@
     "DynDoc": [],
     "easier": [
         "AnnotationHub",
-        "BiocVersion",
         "DESeq2",
         "ExperimentHub",
         "decoupleR",
@@ -4042,7 +4002,6 @@
     "ENmix": [
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GEOquery",
@@ -4149,7 +4108,6 @@
         "BRGenomics",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "ChIPseeker",
         "DESeq2",
         "DOSE",
@@ -4198,7 +4156,6 @@
     "EpiMix": [
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4214,7 +4171,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GEOquery",
@@ -4428,7 +4384,6 @@
     ],
     "EWCE": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "SingleCellExperiment",
         "ggtree",
@@ -4463,7 +4418,6 @@
     ],
     "ExperimentHub": [
         "AnnotationHub",
-        "BiocVersion",
         "interactiveDisplayBase"
     ],
     "ExperimentHubData": [
@@ -4473,7 +4427,6 @@
         "BiocBaseUtils",
         "BiocCheck",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4859,7 +4812,6 @@
     "fmcsR": [
         "ChemmineR"
     ],
-    "fmrs": [],
     "fobitools": [
         "fgsea"
     ],
@@ -5024,7 +4976,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -5267,7 +5218,6 @@
     ],
     "GenomicScores": [
         "AnnotationHub",
-        "BiocVersion",
         "HDF5Array",
         "Rhdf5lib",
         "interactiveDisplayBase",
@@ -5471,7 +5421,6 @@
     "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
-        "AnVIL",
         "BiocBaseUtils",
         "BiocIO",
         "DNAcopy",
@@ -5551,7 +5500,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "ComplexHeatmap",
         "DESeq2",
         "GenomicAlignments",
@@ -5607,7 +5555,6 @@
     ],
     "GSEABenchmarkeR": [
         "AnnotationHub",
-        "BiocVersion",
         "EnrichmentBrowser",
         "ExperimentHub",
         "GSEABase",
@@ -5710,7 +5657,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -5894,7 +5840,6 @@
     "hipathia": [
         "AnnotationHub",
         "BiocBaseUtils",
-        "BiocVersion",
         "MultiAssayExperiment",
         "interactiveDisplayBase"
     ],
@@ -5928,7 +5873,6 @@
     "HPAanalyze": [],
     "hpar": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
@@ -5957,9 +5901,7 @@
     "HubPub": [
         "biocthis"
     ],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
     "hypeR": [],
@@ -6262,7 +6204,6 @@
     "iPath": [],
     "ipdDb": [
         "AnnotationHub",
-        "BiocVersion",
         "interactiveDisplayBase"
     ],
     "IPO": [
@@ -6307,7 +6248,6 @@
     ],
     "iSEEhub": [
         "AnnotationHub",
-        "BiocVersion",
         "ComplexHeatmap",
         "ExperimentHub",
         "SingleCellExperiment",
@@ -6344,7 +6284,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DESeq2",
         "DEXSeq",
         "GenomicAlignments",
@@ -6572,7 +6511,6 @@
     "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
@@ -6610,7 +6548,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "ExperimentHub",
         "GenomicAlignments",
         "Rhtslib",
@@ -6629,10 +6566,8 @@
         "metagenomeSeq"
     ],
     "macat": [],
-    "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "basilisk",
         "basilisk.utils",
@@ -6684,7 +6619,6 @@
     ],
     "MAGeCKFlute": [
         "AnnotationHub",
-        "BiocVersion",
         "DOSE",
         "ExperimentHub",
         "GOSemSim",
@@ -6745,7 +6679,6 @@
     "MANOR": [
         "GLAD"
     ],
-    "MantelCorr": [],
     "maPredictDSC": [
         "affy",
         "affyio",
@@ -6798,7 +6731,6 @@
     ],
     "mastR": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "GSEABase",
         "SingleCellExperiment",
@@ -6807,7 +6739,6 @@
     ],
     "MatrixQCvis": [
         "AnnotationHub",
-        "BiocVersion",
         "ComplexHeatmap",
         "ExperimentHub",
         "affy",
@@ -6830,7 +6761,6 @@
         "rtracklayer"
     ],
     "matter": [],
-    "MBAmethyl": [],
     "MBASED": [],
     "MBCB": [],
     "MBECS": [
@@ -6921,7 +6851,6 @@
         "sparseMatrixStats",
         "sva"
     ],
-    "MeasurementError.cor": [],
     "MEAT": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -6989,7 +6918,6 @@
     "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
-        "BiocVersion",
         "DOSE",
         "GOSemSim",
         "MeSHDbi",
@@ -7015,7 +6943,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocBaseUtils",
-        "BiocVersion",
         "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
@@ -7041,7 +6968,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "ComplexHeatmap",
         "ExperimentHub",
         "GenomicAlignments",
@@ -7167,7 +7093,6 @@
     "MethPed": [],
     "MethReg": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase",
         "sesame"
@@ -7240,7 +7165,6 @@
         "BiocBaseUtils",
         "BiocCheck",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
         "ExperimentHubData",
@@ -7787,7 +7711,6 @@
     "Moonlight2R": [
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "ComplexHeatmap",
         "DOSE",
         "GEOquery",
@@ -7916,7 +7839,6 @@
     "MsCoreUtils": [],
     "MsDataHub": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
@@ -8006,7 +7928,6 @@
     ],
     "MSnID": [
         "AnnotationHub",
-        "BiocVersion",
         "MSnbase",
         "MsCoreUtils",
         "Rhdf5lib",
@@ -8147,7 +8068,6 @@
     "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationHub",
-        "BiocVersion",
         "fgsea",
         "graph",
         "graphite",
@@ -8281,7 +8201,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
         "DirichletMultinomial",
@@ -8421,7 +8340,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "NetPathMiner": [],
     "netprioR": [],
     "netresponse": [
         "Rgraphviz",
@@ -8569,7 +8487,6 @@
         "AnnotationHub",
         "BiocIO",
         "BiocSingular",
-        "BiocVersion",
         "DESeq2",
         "DelayedMatrixStats",
         "EDASeq",
@@ -8605,7 +8522,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -8693,7 +8609,6 @@
     ],
     "ontoProc": [
         "AnnotationHub",
-        "BiocVersion",
         "Rgraphviz",
         "graph",
         "interactiveDisplayBase"
@@ -8792,7 +8707,6 @@
     ],
     "orthos": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "HDF5Array",
         "Rhdf5lib",
@@ -8910,7 +8824,6 @@
     "parglms": [],
     "partCNV": [
         "AnnotationHub",
-        "BiocVersion",
         "SingleCellExperiment",
         "interactiveDisplayBase"
     ],
@@ -9099,7 +9012,6 @@
     ],
     "PhyloProfile": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "OmaDB",
         "bioDist",
@@ -9122,7 +9034,6 @@
         "fgsea",
         "marray"
     ],
-    "pickgene": [],
     "PICS": [
         "GenomicAlignments",
         "Rhtslib",
@@ -9237,7 +9148,6 @@
     ],
     "pogos": [
         "AnnotationHub",
-        "BiocVersion",
         "Rgraphviz",
         "graph",
         "interactiveDisplayBase",
@@ -9307,7 +9217,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "CNEr",
         "DirichletMultinomial",
         "GenomicAlignments",
@@ -9480,7 +9389,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9571,7 +9479,6 @@
     "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
-        "BiocVersion",
         "biomaRt",
         "graph",
         "interactiveDisplayBase",
@@ -9789,7 +9696,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicScores",
@@ -10061,7 +9967,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -10080,7 +9985,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomicAlignments",
@@ -10166,7 +10070,6 @@
     ],
     "restfulSE": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase",
         "rhdf5client"
@@ -10199,7 +10102,6 @@
     ],
     "rGenomeTracks": [
         "AnnotationHub",
-        "BiocVersion",
         "interactiveDisplayBase"
     ],
     "RGMQL": [
@@ -10408,7 +10310,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "ComplexHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10561,7 +10462,6 @@
     ],
     "RNAsense": [],
     "RNAseqCovarImpute": [],
-    "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "BSgenome",
         "BiocIO",
@@ -10686,9 +10586,7 @@
         "Rsamtools",
         "ShortRead"
     ],
-    "rSWeeP": [],
     "RTCA": [],
-    "RTCGA": [],
     "RTCGAToolbox": [
         "BiocBaseUtils",
         "BiocIO",
@@ -10807,7 +10705,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -10820,7 +10717,6 @@
     ],
     "scAnnotatR": [
         "AnnotationHub",
-        "BiocVersion",
         "SingleCellExperiment",
         "interactiveDisplayBase"
     ],
@@ -11026,7 +10922,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11186,7 +11081,6 @@
     "scTensor": [
         "AnnotationForge",
         "AnnotationHub",
-        "BiocVersion",
         "Category",
         "DOSE",
         "GOSemSim",
@@ -11365,7 +11259,6 @@
     ],
     "SeqSQC": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "SNPRelate",
         "gdsfmt",
@@ -11378,7 +11271,6 @@
     ],
     "sesame": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
@@ -11493,7 +11385,6 @@
     "sights": [],
     "signatureSearch": [
         "AnnotationHub",
-        "BiocVersion",
         "DOSE",
         "ExperimentHub",
         "GOSemSim",
@@ -11636,7 +11527,6 @@
         "BiocIO",
         "BiocNeighbors",
         "BiocSingular",
-        "BiocVersion",
         "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
@@ -11846,7 +11736,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11897,7 +11786,6 @@
         "sparseMatrixStats"
     ],
     "sparseMatrixStats": [],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "BiocIO",
@@ -12026,7 +11914,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GenomicAlignments",
@@ -12125,7 +12012,6 @@
         "graphite"
     ],
     "ssPATHS": [],
-    "ssrch": [],
     "ssviz": [
         "Rhtslib",
         "Rsamtools"
@@ -12397,7 +12283,6 @@
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
-        "RTCGA",
         "TDbasedUFE",
         "enrichplot",
         "fgsea",
@@ -12416,7 +12301,6 @@
     ],
     "tenXplore": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "Rgraphviz",
         "graph",
@@ -12431,7 +12315,6 @@
     ],
     "ternarynet": [],
     "terraTCGAdata": [
-        "AnVIL",
         "BiocBaseUtils",
         "BiocIO",
         "GenomicAlignments",
@@ -12817,7 +12700,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
@@ -12838,7 +12720,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Organism.dplyr",
@@ -12965,7 +12846,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicScores",
@@ -13052,7 +12932,6 @@
     ],
     "vissE": [
         "AnnotationHub",
-        "BiocVersion",
         "ExperimentHub",
         "GSEABase",
         "graph",
@@ -13082,7 +12961,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocIO",
-        "BiocVersion",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rhtslib",
