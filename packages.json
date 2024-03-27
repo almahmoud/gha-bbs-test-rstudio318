@@ -21,9 +21,7 @@
         "tilingArray"
     ],
     "ADAMgui": [],
-    "adductomicsR": [
-        "mzR"
-    ],
+    "adductomicsR": [],
     "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
@@ -212,7 +210,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "pRoloc"
     ],
     "basecallQC": [],
@@ -410,7 +407,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "canceR": [
@@ -597,15 +593,13 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "Clomial": [],
     "CluMSID": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "clustComp": [],
     "clusterExperiment": [
@@ -744,7 +738,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "cosmosR": [
@@ -880,7 +873,6 @@
         "enrichplot",
         "impute",
         "mzID",
-        "mzR",
         "tkWidgets"
     ],
     "DCATS": [],
@@ -939,8 +931,7 @@
     "DEP": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "derfinder": [
         "GenomicFiles"
@@ -966,9 +957,7 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
     ],
@@ -1223,7 +1212,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "FLAMES": [
@@ -1690,7 +1678,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "iSEE": [],
@@ -1782,7 +1769,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "lpNet": [
@@ -1827,7 +1813,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "MANOR": [
@@ -1933,7 +1918,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -2081,7 +2065,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "MODA": [
@@ -2153,35 +2136,29 @@
     "msmsEDA": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "msmsTests": [
         "MSnbase",
         "impute",
         "msmsEDA",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "MSnbase": [
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "MSnID": [
         "MSnbase",
         "impute",
         "msmsEDA",
         "msmsTests",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "MSPrep": [
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -2201,15 +2178,13 @@
     "MSstatsQC": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "MSstatsShiny": [
         "MSstatsPTM",
@@ -2250,7 +2225,6 @@
     ],
     "myvariant": [],
     "mzID": [],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
@@ -2276,7 +2250,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "NCIgraph": [
@@ -2450,8 +2423,7 @@
     "peakPantheR": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "PECA": [
         "DNAcopy",
@@ -2461,7 +2433,6 @@
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "phantasus": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -2539,8 +2510,7 @@
     "PrInCE": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "proActiv": [],
     "profileplyr": [
@@ -2556,15 +2526,13 @@
         "MLInterfaces",
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "pRoloc"
     ],
     "PROMISE": [],
@@ -2580,7 +2548,6 @@
         "enrichplot",
         "impute",
         "mzID",
-        "mzR",
         "tkWidgets"
     ],
     "ProteoDisco": [],
@@ -2599,8 +2566,7 @@
     "ptairMS": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "PureCN": [
         "DNAcopy"
@@ -2626,8 +2592,7 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "qsmooth": [
         "sva"
@@ -2760,7 +2725,6 @@
     "RESOLVE": [
         "MutationalPatterns"
     ],
-    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -2796,7 +2760,6 @@
         "biocViews",
         "impute",
         "mzID",
-        "mzR",
         "xcms"
     ],
     "RITAN": [
@@ -2808,8 +2771,7 @@
     "RMassBank": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "rmelting": [],
     "Rmmquant": [],
@@ -3077,9 +3039,7 @@
     ],
     "SigsPack": [],
     "SIM": [],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
     ],
@@ -3262,8 +3222,7 @@
     "synapter": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "synlet": [
         "RankProd"
@@ -3276,8 +3235,7 @@
     ],
     "TADCompare": [],
     "TargetDecoy": [
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "TargetSearch": [],
     "TBSignatureProfiler": [
@@ -3301,8 +3259,7 @@
     "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
-        "ontoProc",
-        "restfulSE"
+        "ontoProc"
     ],
     "terraTCGAdata": [
         "RaggedExperiment",
@@ -3344,8 +3301,7 @@
     "topdownr": [
         "MSnbase",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "ToxicoGx": [
         "CoreGx",
@@ -3494,8 +3450,7 @@
         "QFeatures",
         "Spectra",
         "impute",
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "xcore": [],
     "XDE": [
@@ -3507,9 +3462,7 @@
         "PharmacoGx",
         "piano"
     ],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "SomaticSignatures",
