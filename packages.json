@@ -14,7 +14,6 @@
     ],
     "adductomicsR": [],
     "affycoretools": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "biovizBase",
@@ -27,7 +26,6 @@
     "AGDEX": [],
     "agilp": [],
     "AgiMicroRna": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "affycoretools",
@@ -137,7 +135,6 @@
         "motifStack"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "AUCell": [],
@@ -190,7 +187,6 @@
     "BiocCheck": [],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
     "biocthis": [],
@@ -287,7 +283,6 @@
         "xcms"
     ],
     "canceR": [
-        "Category",
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
@@ -301,9 +296,7 @@
         "FlowSOM",
         "flowCore"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "CausalR": [],
@@ -331,9 +324,7 @@
     "ccrepe": [],
     "celaref": [],
     "celda": [],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "cellity": [],
     "cellmigRation": [],
     "cellxgenedp": [],
@@ -363,7 +354,6 @@
         "aroma.light",
         "impute"
     ],
-    "cfTools": [],
     "CGHcall": [
         "DNAcopy",
         "impute"
@@ -421,9 +411,7 @@
         "DNAcopy",
         "maftools"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [],
     "CiteFuse": [],
     "clevRvis": [],
@@ -830,7 +818,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -1139,7 +1126,6 @@
     ],
     "gep2pep": [],
     "gespeR": [
-        "Category",
         "cellHTS2"
     ],
     "geva": [],
@@ -1165,7 +1151,6 @@
     "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
-        "Category",
         "GOstats",
         "impute"
     ],
@@ -1181,9 +1166,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GPA": [],
     "GRaNIE": [],
     "graper": [],
@@ -1208,7 +1191,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "gwascat": [],
     "GWASTools": [
         "DNAcopy",
         "gdsfmt"
@@ -1252,14 +1234,12 @@
     "HubPub": [
         "biocthis"
     ],
-    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
         "minfi"
     ],
     "ideal": [
-        "Category",
         "GOstats",
         "pcaExplorer"
     ],
@@ -1294,9 +1274,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "IntEREst": [
         "GenomicFiles"
     ],
@@ -1398,7 +1376,6 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1465,9 +1442,7 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "messina": [],
     "MetaboAnnotation": [
         "CompoundDb"
@@ -1556,7 +1531,6 @@
         "affyPLM"
     ],
     "MineICA": [
-        "Category",
         "GOstats",
         "lumi",
         "methylumi",
@@ -1573,7 +1547,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "Category",
         "GOstats",
         "impute"
     ],
@@ -1586,7 +1559,6 @@
         "deepSNV"
     ],
     "MMUPHin": [],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1757,7 +1729,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "minfi",
         "quantro",
@@ -1836,7 +1807,6 @@
     "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PDATK": [
@@ -1868,9 +1838,7 @@
     ],
     "PhenoGeneRanker": [],
     "phenomis": [],
-    "phenoTest": [
-        "Category"
-    ],
+    "phenoTest": [],
     "PhyloProfile": [
         "OmaDB"
     ],
@@ -1889,7 +1857,6 @@
     "planet": [],
     "plasmut": [],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "plotGrouper": [],
@@ -2090,7 +2057,6 @@
         "Ringo"
     ],
     "ReportingTools": [
-        "Category",
         "GOstats",
         "biovizBase",
         "ggbio"
@@ -2144,7 +2110,6 @@
         "recount"
     ],
     "RNAinteract": [
-        "Category",
         "cellHTS2"
     ],
     "RNAmodR": [
@@ -2266,7 +2231,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "Category",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -2313,7 +2277,6 @@
     ],
     "SEtools": [],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "shinyepico": [
@@ -2437,7 +2400,6 @@
         "aroma.light"
     ],
     "staRank": [
-        "Category",
         "cellHTS2"
     ],
     "StarBioTrek": [],
@@ -2558,8 +2520,7 @@
     "ttgsea": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "tximeta": [
         "tximport"
@@ -2606,9 +2567,7 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind"
