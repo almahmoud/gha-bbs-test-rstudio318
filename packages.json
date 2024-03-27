@@ -154,7 +154,6 @@
     ],
     "BatchQC": [],
     "BayesSpace": [],
-    "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR"
@@ -536,22 +535,17 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [],
     "csdR": [
@@ -1129,7 +1123,6 @@
     "GLAD": [],
     "GladiaTOX": [],
     "glmGamPoi": [],
-    "GlobalAncova": [],
     "GmicR": [
         "GOstats",
         "impute"
@@ -1720,7 +1713,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "OmaDB": [],
     "omicplotR": [],
     "omicRexposome": [
         "impute",
@@ -1803,9 +1795,7 @@
     "PhenoGeneRanker": [],
     "phenomis": [],
     "phenoTest": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
