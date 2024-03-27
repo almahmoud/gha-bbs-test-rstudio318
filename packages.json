@@ -650,7 +650,6 @@
     ],
     "COSNet": [],
     "COTAN": [],
-    "countsimQC": [],
     "cpvSNP": [],
     "CRImage": [
         "DNAcopy"
@@ -1748,7 +1747,6 @@
     ],
     "MicrobiotaProcess": [],
     "microRNA": [],
-    "microSTASIS": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1930,7 +1928,6 @@
     ],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "DNAcopy",
         "decompTumor2Sig",
@@ -2718,7 +2715,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [
@@ -2966,7 +2962,6 @@
         "impute",
         "mzID"
     ],
-    "xcore": [],
     "XDE": [],
     "Xeva": [
         "CoreGx",
