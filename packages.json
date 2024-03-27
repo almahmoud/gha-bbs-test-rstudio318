@@ -263,7 +263,6 @@
     "BindingSiteFinder": [],
     "biobtreeR": [],
     "bioCancer": [
-        "DOSE",
         "RTCGAToolbox",
         "RaggedExperiment",
         "ReactomePA",
@@ -454,7 +453,6 @@
         "TCGAutils"
     ],
     "CBNplot": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "graphite"
@@ -486,7 +484,6 @@
     "CellTrails": [],
     "cellxgenedp": [],
     "CEMiTool": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "impute"
@@ -498,7 +495,6 @@
     ],
     "Cepo": [],
     "CeTF": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -560,7 +556,6 @@
         "systemPipeR"
     ],
     "ChIPseeker": [
-        "DOSE",
         "enrichplot"
     ],
     "chipseq": [],
@@ -623,7 +618,6 @@
         "zinbwave"
     ],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot"
     ],
     "clustifyr": [],
@@ -783,7 +777,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -892,7 +885,6 @@
         "sva"
     ],
     "DAPAR": [
-        "DOSE",
         "DynDoc",
         "MSnbase",
         "Mfuzz",
@@ -916,7 +908,6 @@
         "flowViz"
     ],
     "debrowser": [
-        "DOSE",
         "Harman",
         "KEGGgraph",
         "clusterProfiler",
@@ -1039,7 +1030,6 @@
         "sva"
     ],
     "Doscheda": [],
-    "DOSE": [],
     "doubletrouble": [],
     "drawProteins": [],
     "dreamlet": [
@@ -1106,18 +1096,14 @@
         "pathview",
         "safe"
     ],
-    "enrichplot": [
-        "DOSE"
-    ],
+    "enrichplot": [],
     "enrichTF": [
-        "DOSE",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
     ],
     "enrichViewNet": [
-        "DOSE",
         "enrichplot"
     ],
     "ensemblVEP": [],
@@ -1125,7 +1111,6 @@
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
-        "DOSE",
         "enrichplot",
         "genomation",
         "impute"
@@ -1180,7 +1165,6 @@
     "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
-        "DOSE",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1217,7 +1201,6 @@
         "drawProteins"
     ],
     "famat": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1392,7 +1375,6 @@
     ],
     "gCrisprTools": [],
     "GDCRNATools": [
-        "DOSE",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -1549,7 +1531,6 @@
     "GOpro": [],
     "GOSim": [],
     "goSorensen": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1586,7 +1567,6 @@
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1692,7 +1672,6 @@
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
-        "DOSE",
         "OrganismDbi",
         "Pigengene",
         "ReactomePA",
@@ -1861,7 +1840,6 @@
         "siggenes"
     ],
     "MAGeCKFlute": [
-        "DOSE",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -1952,7 +1930,6 @@
     "memes": [],
     "Mergeomics": [],
     "meshes": [
-        "DOSE",
         "enrichplot"
     ],
     "meshr": [
@@ -1989,7 +1966,6 @@
     ],
     "MetaNeighbor": [],
     "MetaPhOR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2028,7 +2004,6 @@
         "siggenes"
     ],
     "methylGSA": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -2071,7 +2046,6 @@
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2158,12 +2132,10 @@
         "biocViews"
     ],
     "Moonlight2R": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "MoonlightR": [
-        "DOSE",
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
@@ -2281,7 +2253,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "biovizBase",
         "karyoploteR"
     ],
@@ -2328,7 +2299,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
         "flowCore"
@@ -2479,14 +2449,11 @@
         "cn.mops"
     ],
     "PanomiR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
     "PanViz": [],
-    "pareg": [
-        "DOSE"
-    ],
+    "pareg": [],
     "partCNV": [],
     "Path2PPI": [],
     "pathifier": [],
@@ -2554,7 +2521,6 @@
     "Pi": [],
     "piano": [],
     "Pigengene": [
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -2615,7 +2581,6 @@
     "proActiv": [],
     "profileplyr": [
         "ChIPseeker",
-        "DOSE",
         "chipseq",
         "enrichplot",
         "soGGi"
@@ -2644,7 +2609,6 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DOSE",
         "DynDoc",
         "MSnbase",
         "Mfuzz",
@@ -2777,7 +2741,6 @@
         "ReactomeContentService4R"
     ],
     "ReactomePA": [
-        "DOSE",
         "enrichplot",
         "graphite"
     ],
@@ -3061,7 +3024,6 @@
     "scry": [],
     "scTensor": [
         "Category",
-        "DOSE",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -3082,7 +3044,6 @@
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
-        "DOSE",
         "enrichplot"
     ],
     "segmentSeq": [],
@@ -3094,7 +3055,6 @@
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -3143,7 +3103,6 @@
     ],
     "siggenes": [],
     "signatureSearch": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -3340,9 +3299,7 @@
     "svaRetro": [
         "StructuralVariantAnnotation"
     ],
-    "SVMDO": [
-        "DOSE"
-    ],
+    "SVMDO": [],
     "swfdr": [],
     "switchde": [],
     "synapter": [
@@ -3381,7 +3338,6 @@
         "tximport"
     ],
     "TDbasedUFEadv": [
-        "DOSE",
         "TDbasedUFE",
         "enrichplot",
         "tximport"
@@ -3404,7 +3360,6 @@
     "tidySingleCellExperiment": [],
     "tilingArray": [],
     "TimiRGeN": [
-        "DOSE",
         "DynDoc",
         "Mfuzz",
         "clusterProfiler",
