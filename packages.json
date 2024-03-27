@@ -368,7 +368,6 @@
     "ccrepe": [],
     "celaref": [],
     "celda": [],
-    "CellBarcode": [],
     "cellHTS2": [
         "Category"
     ],
@@ -1793,12 +1792,9 @@
     ],
     "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -1811,10 +1807,8 @@
         "mzID"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
@@ -2245,7 +2239,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
@@ -2730,7 +2723,6 @@
     "TSAR": [],
     "TSCAN": [],
     "ttgsea": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "biovizBase",
