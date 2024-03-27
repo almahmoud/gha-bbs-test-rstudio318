@@ -39,7 +39,6 @@
         "BiocCheck"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
         "alabaster.sce",
@@ -47,8 +46,6 @@
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
         "alabaster.se"
@@ -172,7 +169,6 @@
         "tximport"
     ],
     "BgeeDB": [],
-    "bgx": [],
     "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
@@ -428,9 +424,7 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [],
     "clevRvis": [],
     "clipper": [],
@@ -1264,7 +1258,6 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -2113,7 +2106,6 @@
         "impute"
     ],
     "rgsepd": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
@@ -2137,7 +2129,6 @@
     "RITAN": [
         "BgeeDB"
     ],
-    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
@@ -2455,7 +2446,6 @@
         "impute"
     ],
     "stJoincount": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
     "svaNUMT": [
