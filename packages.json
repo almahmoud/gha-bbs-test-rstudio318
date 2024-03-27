@@ -61,7 +61,6 @@
     "affycomp": [],
     "affyContam": [],
     "affycoretools": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -98,7 +97,6 @@
     ],
     "agilp": [],
     "AgiMicroRna": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -117,7 +115,6 @@
         "graph"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocBaseUtils",
         "BiocCheck",
@@ -317,10 +314,8 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationForge": [],
     "AnnotationHub": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "BiocBaseUtils",
         "BiocCheck",
         "OrganismDbi",
@@ -464,7 +459,6 @@
         "motifStack"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -483,7 +477,6 @@
         "MultiAssayExperiment",
         "pcaMethods"
     ],
-    "AWFisher": [],
     "BaalChIP": [],
     "BADER": [],
     "BadRegionFinder": [
@@ -543,10 +536,7 @@
         "scuttle"
     ],
     "BasicSTARRseq": [],
-    "basilisk": [
-        "basilisk.utils"
-    ],
-    "basilisk.utils": [],
+    "basilisk": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocSingular",
@@ -714,8 +704,7 @@
         "graph"
     ],
     "BiocHail": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "BiocHubsShiny": [],
     "BiocNeighbors": [],
@@ -744,8 +733,7 @@
         "ScaledMatrix"
     ],
     "BiocSklearn": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "biocthis": [],
     "biocViews": [
@@ -1078,7 +1066,6 @@
         "graph"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -1122,8 +1109,7 @@
         "graphite"
     ],
     "cbpManager": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -1265,8 +1251,7 @@
         "plyranges"
     ],
     "cfTools": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CGHbase": [],
     "CGHcall": [
@@ -1733,7 +1718,6 @@
         "siggenes"
     ],
     "convert": [],
-    "copa": [],
     "CopyNumberPlots": [
         "Rhdf5lib",
         "VariantAnnotation",
@@ -1822,13 +1806,11 @@
     "crisprDesign": [
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "CRISPRseek": [
         "Rhdf5lib",
@@ -1840,7 +1822,6 @@
         "Gviz",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "crisprBowtie",
         "crisprDesign",
@@ -1851,7 +1832,6 @@
         "Gviz",
         "VariantAnnotation",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "crisprBowtie",
         "crisprDesign",
@@ -2184,8 +2164,7 @@
         "demuxmix"
     ],
     "densvis": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "DEP": [
         "ComplexHeatmap",
@@ -2304,7 +2283,6 @@
         "scuttle"
     ],
     "discordant": [],
-    "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2715,7 +2693,6 @@
     ],
     "ExperimentHub": [],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocBaseUtils",
         "BiocCheck",
@@ -2729,7 +2706,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "ComplexHeatmap",
@@ -2851,7 +2827,6 @@
         "VariantAnnotation",
         "bambu",
         "basilisk",
-        "basilisk.utils",
         "biovizBase",
         "bluster",
         "ggbio",
@@ -3371,7 +3346,6 @@
         "VariantAnnotation"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3418,7 +3392,6 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "RBGL",
@@ -3613,7 +3586,6 @@
         "HiCExperiment",
         "Rhdf5lib",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3638,7 +3610,6 @@
     ],
     "HIREewas": [],
     "HiTC": [],
-    "hmdbQuery": [],
     "hoodscanR": [
         "ComplexHeatmap",
         "SingleCellExperiment",
@@ -3697,7 +3668,6 @@
         "CODEX"
     ],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -3897,7 +3867,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "isobar": [],
     "IsoBayes": [],
     "IsoCorrectoR": [],
@@ -4086,8 +4055,7 @@
     ],
     "macat": [],
     "MACSr": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "made4": [],
     "MADSEQ": [
@@ -4456,7 +4424,6 @@
         "siggenes"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHubData",
         "BiocBaseUtils",
         "BiocCheck",
@@ -4657,7 +4624,6 @@
         "gcrma"
     ],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GOstats",
@@ -4712,7 +4678,6 @@
         "graph"
     ],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4791,7 +4756,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5269,7 +5233,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "DelayedMatrixStats",
         "GOstats",
@@ -5476,7 +5439,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5541,7 +5503,6 @@
         "DOSE",
         "GOSemSim",
         "basilisk",
-        "basilisk.utils",
         "fgsea"
     ],
     "partCNV": [
@@ -5572,7 +5533,6 @@
     ],
     "pathwayPCA": [],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -5746,7 +5706,6 @@
     "plasmut": [],
     "plier": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -5883,7 +5842,6 @@
         "GSEABase",
         "graph"
     ],
-    "PROPER": [],
     "PROPS": [
         "genefilter",
         "sva"
@@ -6030,7 +5988,6 @@
         "ShortRead",
         "VariantAnnotation"
     ],
-    "qusage": [],
     "R3CPET": [
         "OrganismDbi",
         "RBGL",
@@ -6129,13 +6086,11 @@
         "GOSemSim"
     ],
     "Rcwl": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "Rcwl",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "RCX": [],
     "RCy3": [
@@ -6185,7 +6140,6 @@
         "HDF5Array",
         "Rhdf5lib",
         "basilisk",
-        "basilisk.utils",
         "bumphunter",
         "genefilter",
         "minfi",
@@ -6267,7 +6221,6 @@
         "vsn"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -6296,14 +6249,12 @@
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "rexposome": [
         "impute",
         "pcaMethods"
     ],
-    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
@@ -6814,7 +6765,6 @@
         "Rhdf5lib",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "rhdf5",
         "rhdf5filters",
         "scuttle"
@@ -6860,7 +6810,6 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "AnnotationForge",
         "Category",
         "DOSE",
         "GOSemSim",
@@ -6914,7 +6863,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "scater",
         "scuttle"
     ],
@@ -6990,7 +6938,6 @@
     ],
     "sevenC": [],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -7102,7 +7049,6 @@
     "SimBu": [
         "Rhdf5lib",
         "basilisk",
-        "basilisk.utils",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -7161,7 +7107,6 @@
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
-        "basilisk.utils",
         "batchelor",
         "bluster",
         "celda",
@@ -7248,8 +7193,7 @@
     ],
     "snapcount": [],
     "snifter": [
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "snm": [],
     "SNPediaR": [],
@@ -7318,8 +7262,7 @@
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "SpatialDecon": [
         "GeomxTools",
@@ -7408,7 +7351,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [
         "Rgraphviz",
         "graph"
@@ -7442,7 +7384,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SQLDataFrame": [],
     "sRACIPE": [],
     "SRAdb": [
         "graph"
@@ -7660,7 +7601,6 @@
         "GSEABase",
         "graph"
     ],
-    "tidybulk": [],
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
@@ -7788,7 +7728,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "transite": [],
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
@@ -7979,7 +7918,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
         "scuttle",
         "zellkonverter"
     ],
@@ -7989,7 +7927,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "GOSemSim",
         "fgsea",
         "graph",
@@ -8132,8 +8069,7 @@
     ],
     "zellkonverter": [
         "SingleCellExperiment",
-        "basilisk",
-        "basilisk.utils"
+        "basilisk"
     ],
     "zenith": [
         "EnrichmentBrowser",
