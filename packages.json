@@ -461,7 +461,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -509,7 +508,6 @@
         "Rhisat2"
     ],
     "CiteFuse": [],
-    "ClassifyR": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph"
@@ -1294,14 +1292,11 @@
         "ttgsea"
     ],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "impute"
     ],
     "GEOfastq": [],
-    "GeomxTools": [],
     "GeoTcgaData": [
         "topconfects"
     ],
@@ -1559,7 +1554,6 @@
         "impute"
     ],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "lmdme": [],
@@ -2580,7 +2574,6 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "scHOT": [],
     "scider": [],
     "scifer": [
@@ -2775,14 +2768,10 @@
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2797,9 +2786,7 @@
         "KEGGgraph"
     ],
     "SPIAT": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -2913,9 +2900,7 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topconfects": [],
     "topdownr": [
         "MSnbase",
