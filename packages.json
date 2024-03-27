@@ -13,7 +13,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "adductomicsR": [],
     "affycoretools": [
         "Category",
@@ -145,7 +144,6 @@
     ],
     "ASSET": [],
     "ASSIGN": [],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "GeneOverlap",
         "OrganismDbi",
@@ -1972,7 +1970,6 @@
     ],
     "multiGSEA": [],
     "multiHiCcompare": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "DynDoc",
         "Mfuzz",
@@ -2010,7 +2007,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NBAMSeq": [],
     "ncdfFlow": [
         "flowCore"
     ],
@@ -2603,7 +2599,6 @@
     "scMerge": [
         "M3Drop"
     ],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq"
