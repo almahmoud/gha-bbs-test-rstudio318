@@ -40,8 +40,7 @@
     "AHMassBank": [
         "AnnotationHubData",
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "alabaster": [
         "alabaster.bumpy",
@@ -104,8 +103,7 @@
     ],
     "AnnotationHubData": [
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "annotatr": [],
     "antiProfiles": [],
@@ -188,7 +186,6 @@
         "BeadDataPackR"
     ],
     "BeadDataPackR": [],
-    "BEAT": [],
     "benchdamic": [
         "Maaslin2"
     ],
@@ -217,19 +214,14 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocCheck": [
-        "biocViews"
-    ],
+    "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSklearn": [],
     "biocthis": [],
-    "biocViews": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -468,7 +460,6 @@
     ],
     "cicero": [
         "Gviz",
-        "biocViews",
         "biovizBase",
         "monocle"
     ],
@@ -564,7 +555,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "coMethDMR": [],
     "compEpiTools": [
         "Gviz",
         "biovizBase",
@@ -982,8 +972,7 @@
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -1174,8 +1163,7 @@
         "PharmacoGx"
     ],
     "gDRstyle": [
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "GDSArray": [
         "SNPRelate",
@@ -1648,7 +1636,6 @@
         "BiocCheck",
         "ExperimentHubData",
         "OrganismDbi",
-        "biocViews",
         "impute",
         "minfi",
         "planet"
@@ -1745,9 +1732,7 @@
     "monaLisa": [
         "TFBSTools"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
         "enrichplot"
@@ -1905,7 +1890,6 @@
     "ndexr": [
         "RCX"
     ],
-    "nearBynding": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -2042,7 +2026,6 @@
         "CoreGx"
     ],
     "phemd": [
-        "biocViews",
         "monocle"
     ],
     "PhenoGeneRanker": [],
@@ -2315,7 +2298,6 @@
         "MSnbase",
         "MsExperiment",
         "Spectra",
-        "biocViews",
         "impute",
         "mzID",
         "xcms"
@@ -2525,9 +2507,7 @@
     ],
     "SIAMCAT": [],
     "SigCheck": [],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -2795,7 +2775,6 @@
     "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
