@@ -566,7 +566,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customProDB": [],
     "cyanoFilter": [
         "flowClust",
         "flowCore",
@@ -1111,7 +1110,6 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gep2pep": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -1135,7 +1133,6 @@
     "GladiaTOX": [],
     "glmGamPoi": [],
     "GlobalAncova": [],
-    "gmapR": [],
     "GmicR": [
         "GOstats",
         "impute"
@@ -1214,8 +1211,7 @@
     "hoodscanR": [],
     "HPAanalyze": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "HubPub": [
         "biocthis"
@@ -1458,7 +1454,6 @@
         "aroma.light"
     ],
     "MetCirc": [],
-    "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
@@ -1502,7 +1497,6 @@
     ],
     "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1760,8 +1754,7 @@
     "orthos": [],
     "OutSplice": [
         "DNAcopy",
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [],
     "pageRank": [
@@ -2027,8 +2020,7 @@
         "minfi"
     ],
     "Repitools": [
-        "DNAcopy",
-        "Ringo"
+        "DNAcopy"
     ],
     "ReportingTools": [
         "GOstats",
@@ -2058,7 +2050,6 @@
         "aroma.light",
         "motifStack"
     ],
-    "Ringo": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -2272,9 +2263,7 @@
     ],
     "SigsPack": [],
     "SIMAT": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "SimBu": [],
     "SIMLR": [],
     "simpleSeg": [
@@ -2295,7 +2284,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "singscore": [],
     "sizepower": [],
     "skewr": [
         "lumi",
@@ -2303,7 +2291,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SLqPCR": [],
     "SMAD": [],
@@ -2405,8 +2392,7 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
-        "singscore"
+        "GSVA"
     ],
     "TCGAutils": [],
     "TDbasedUFE": [
@@ -2438,7 +2424,6 @@
         "impute"
     ],
     "TissueEnrich": [],
-    "TitanCNA": [],
     "tkWidgets": [
         "DynDoc"
     ],
@@ -2531,7 +2516,6 @@
     "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
-    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
