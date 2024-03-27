@@ -91,7 +91,6 @@
     "BgeeCall": [
         "tximport"
     ],
-    "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
         "lumi",
@@ -101,7 +100,6 @@
     "biobtreeR": [],
     "bioCancer": [
         "RTCGAToolbox",
-        "ReactomePA",
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
@@ -133,9 +131,7 @@
     "BLMA": [],
     "bnem": [],
     "BOBaFIT": [],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot"
@@ -230,9 +226,7 @@
     "chimeraviz": [
         "Gviz"
     ],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -269,7 +263,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots"
     ],
@@ -354,8 +347,7 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cycle": [
         "DynDoc",
@@ -371,7 +363,6 @@
         "FlowSOM"
     ],
     "CytoML": [
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "openCyto"
@@ -407,8 +398,7 @@
     "dce": [],
     "ddPCRclust": [
         "flowDensity",
-        "flowPeaks",
-        "flowViz"
+        "flowPeaks"
     ],
     "debrowser": [
         "Harman"
@@ -422,9 +412,7 @@
     ],
     "DEGraph": [],
     "deltaGseg": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -441,7 +429,6 @@
     "DExMA": [
         "impute"
     ],
-    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -474,7 +461,6 @@
         "zenith"
     ],
     "DriverNet": [],
-    "DSS": [],
     "DynDoc": [],
     "easier": [
         "decoupleR",
@@ -506,7 +492,6 @@
         "safe"
     ],
     "enrichTF": [],
-    "enrichViewNet": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -539,7 +524,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "erma": [],
     "esATAC": [],
     "EventPointer": [
         "tximport"
@@ -579,20 +563,14 @@
     "FLAMES": [],
     "flowAI": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "flowCyBar": [],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -601,16 +579,11 @@
     "flowPeaks": [],
     "FlowSOM": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace"
     ],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace"
     ],
     "flowWorkspace": [],
@@ -625,8 +598,7 @@
         "aroma.light"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "gatom": [],
     "GBScleanR": [
@@ -778,7 +750,6 @@
     "impute": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
         "impute"
     ],
     "infinityFlow": [],
@@ -815,9 +786,7 @@
         "maftools"
     ],
     "KBoost": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "LBE": [],
     "LEA": [],
     "LedPred": [],
@@ -897,11 +866,8 @@
     "MEDIPS": [
         "DNAcopy"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Mergeomics": [],
-    "meshr": [],
     "messina": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
@@ -918,7 +884,6 @@
     ],
     "MetaPhOR": [],
     "metaseqR2": [
-        "DSS",
         "EDASeq",
         "aroma.light"
     ],
@@ -940,9 +905,7 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [],
     "Mfuzz": [
         "DynDoc",
@@ -950,7 +913,6 @@
     ],
     "MicrobiomeProfiler": [],
     "microRNA": [],
-    "mimager": [],
     "MineICA": [
         "lumi",
         "methylumi"
@@ -1095,7 +1057,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [
-        "flowViz",
         "flowWorkspace"
     ],
     "optimalFlow": [],
@@ -1137,7 +1098,6 @@
     "PhenoGeneRanker": [],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
         "impute"
     ],
     "PING": [
@@ -1258,7 +1218,6 @@
     "ReactomeGraph4R": [
         "ReactomeContentService4R"
     ],
-    "ReactomePA": [],
     "REBET": [
         "ASSET"
     ],
@@ -1268,7 +1227,6 @@
     ],
     "recountmethylation": [],
     "REDseq": [],
-    "RegionalST": [],
     "regionReport": [
         "derfinder"
     ],
@@ -1361,7 +1319,6 @@
         "SCArray",
         "gdsfmt"
     ],
-    "scDataviz": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scMerge": [
@@ -1379,10 +1336,7 @@
         "powerTCR"
     ],
     "scruff": [],
-    "scTensor": [
-        "ReactomePA",
-        "meshr"
-    ],
+    "scTensor": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
@@ -1566,9 +1520,7 @@
     "veloviz": [],
     "VennDetail": [],
     "Voyager": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
