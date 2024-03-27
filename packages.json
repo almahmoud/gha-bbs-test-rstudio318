@@ -187,7 +187,6 @@
         "GOstats"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BADER": [],
     "BadRegionFinder": [],
     "ballgown": [
@@ -1525,7 +1524,6 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "hermes": [],
     "HERON": [],
     "Herper": [],
     "HiCDCPlus": [
@@ -2219,7 +2217,6 @@
         "epiNEM",
         "mnem"
     ],
-    "NetActivity": [],
     "netbiov": [],
     "netboost": [
         "impute"
@@ -3221,7 +3218,6 @@
         "DynDoc"
     ],
     "tLOH": [],
-    "TMixClust": [],
     "TNBC.CMS": [
         "GSVA"
     ],
