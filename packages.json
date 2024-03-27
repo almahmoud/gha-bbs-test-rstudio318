@@ -95,7 +95,6 @@
     "AlpsNMR": [
         "impute"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "impute"
     ],
@@ -472,7 +471,6 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [
         "Gviz",
         "biocViews",
@@ -855,7 +853,6 @@
     ],
     "DNABarcodes": [],
     "DNAcopy": [],
-    "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [
         "impute"
@@ -1352,9 +1349,7 @@
     ],
     "Harman": [],
     "HarmonizR": [],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HelloRanges": [],
     "Herper": [],
     "HiCDCPlus": [
@@ -1771,7 +1766,6 @@
         "impute"
     ],
     "MOFA2": [],
-    "MOGAMUN": [],
     "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [
@@ -2428,7 +2422,6 @@
     "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
     ],
