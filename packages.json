@@ -1372,7 +1372,6 @@
         "impute"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -1462,9 +1461,7 @@
         "pathview",
         "safe"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSgalgoR": [],
     "GSReg": [
         "OrganismDbi"
@@ -1674,7 +1671,6 @@
         "glmGamPoi"
     ],
     "lfa": [],
-    "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
     "lipidr": [
@@ -2231,7 +2227,6 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "biovizBase"
@@ -2399,7 +2394,6 @@
     "POWSC": [
         "MAST"
     ],
-    "PPInfer": [],
     "prebs": [
         "RPA",
         "phyloseq"
