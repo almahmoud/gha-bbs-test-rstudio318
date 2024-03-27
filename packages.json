@@ -165,9 +165,7 @@
         "HDF5Array",
         "impute"
     ],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [
@@ -283,7 +281,6 @@
     "ballgown": [
         "sva"
     ],
-    "bambu": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -294,9 +291,7 @@
         "pRoloc",
         "vsn"
     ],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "BaseSpaceR": [],
     "Basic4Cseq": [],
     "BASiCS": [
@@ -329,9 +324,7 @@
     ],
     "BeadDataPackR": [],
     "BEARscc": [],
-    "BEAT": [
-        "ShortRead"
-    ],
+    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "ALDEx2",
@@ -487,8 +480,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -517,9 +509,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -638,9 +628,7 @@
     "celda": [
         "scran"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
@@ -690,9 +678,7 @@
         "aroma.light",
         "impute"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [
         "basilisk"
     ],
@@ -755,7 +741,6 @@
     "ChIPQC": [
         "DiffBind",
         "GreyListChIP",
-        "ShortRead",
         "chipseq",
         "systemPipeR"
     ],
@@ -763,16 +748,11 @@
         "DOSE",
         "enrichplot"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
+    "chipseq": [],
     "ChIPseqR": [
-        "HilbertVis",
-        "ShortRead"
+        "HilbertVis"
     ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "ChIPsim": [],
     "ChIPXpress": [
         "frma"
     ],
@@ -807,8 +787,7 @@
     "CircSeqAlignTk": [
         "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
-        "ShortRead"
+        "SGSeq"
     ],
     "CiteFuse": [
         "scran"
@@ -962,7 +941,6 @@
     "consensusDE": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "aroma.light"
     ],
     "consensusOV": [
@@ -1168,9 +1146,7 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
@@ -1182,7 +1158,6 @@
     ],
     "DaMiRseq": [
         "EDASeq",
-        "ShortRead",
         "aroma.light",
         "sva"
     ],
@@ -1308,7 +1283,6 @@
     ],
     "DiffBind": [
         "GreyListChIP",
-        "ShortRead",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1337,7 +1311,6 @@
     "dittoSeq": [],
     "divergence": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "HDF5Array",
@@ -1408,12 +1381,9 @@
     ],
     "easylift": [],
     "easyreporting": [],
-    "easyRNASeq": [
-        "ShortRead"
-    ],
+    "easyRNASeq": [],
     "EBSEA": [],
     "EDASeq": [
-        "ShortRead",
         "aroma.light"
     ],
     "edge": [
@@ -1552,7 +1522,6 @@
         "ChIPseeker",
         "DOSE",
         "Rbowtie2",
-        "ShortRead",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1598,8 +1567,7 @@
         "csaw"
     ],
     "factR": [
-        "drawProteins",
-        "wiggleplotr"
+        "drawProteins"
     ],
     "famat": [
         "DOSE",
@@ -1609,9 +1577,7 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -1658,7 +1624,6 @@
         "HDF5Array",
         "OrganismDbi",
         "VariantAnnotation",
-        "bambu",
         "basilisk",
         "biovizBase",
         "ggbio",
@@ -1808,7 +1773,6 @@
         "DaMiRseq",
         "EDASeq",
         "MLSeq",
-        "ShortRead",
         "aroma.light",
         "sva"
     ],
@@ -1924,8 +1888,7 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "impute",
-        "plyranges"
+        "impute"
     ],
     "GenomicScores": [
         "HDF5Array"
@@ -1983,11 +1946,8 @@
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtreeDendro": [],
     "GIGSEA": [],
-    "girafe": [
-        "ShortRead"
-    ],
+    "girafe": [],
     "GISPA": [
         "GSEABase"
     ],
@@ -2035,9 +1995,7 @@
         "Category",
         "GSEABase"
     ],
-    "GOTHiC": [
-        "ShortRead"
-    ],
+    "GOTHiC": [],
     "GPA": [],
     "GRaNIE": [
         "topGO"
@@ -2164,7 +2122,6 @@
     "hpar": [],
     "HTqPCR": [],
     "HTSeqGenie": [
-        "ShortRead",
         "VariantAnnotation",
         "VariantTools",
         "chipseq",
@@ -2176,7 +2133,6 @@
     ],
     "hyperdraw": [],
     "icetea": [
-        "ShortRead",
         "VariantAnnotation",
         "csaw"
     ],
@@ -2198,7 +2154,6 @@
         "pcaExplorer",
         "topGO"
     ],
-    "IdeoViz": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -2240,8 +2195,7 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INPower": [],
     "INSPEcT": [],
@@ -2266,9 +2220,7 @@
     "IntramiRExploreR": [
         "FGNet"
     ],
-    "IONiseR": [
-        "ShortRead"
-    ],
+    "IONiseR": [],
     "iPAC": [],
     "IPO": [
         "CAMERA",
@@ -2331,8 +2283,7 @@
     "katdetectr": [
         "DNAcopy",
         "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "maftools"
     ],
     "KBoost": [],
     "KCsmart": [
@@ -2460,8 +2411,7 @@
     ],
     "mariner": [
         "HDF5Array",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -2600,7 +2550,6 @@
         "DSS",
         "EDASeq",
         "HDF5Array",
-        "ShortRead",
         "aroma.light",
         "bsseq",
         "vsn"
@@ -2626,7 +2575,6 @@
         "HDF5Array",
         "bsseq",
         "minfi",
-        "plyranges",
         "siggenes"
     ],
     "methylclock": [
@@ -2819,7 +2767,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -2863,7 +2810,6 @@
     "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
@@ -2964,7 +2910,6 @@
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [
@@ -3052,9 +2997,7 @@
     "ndexr": [
         "RCX"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM",
@@ -3111,12 +3054,8 @@
         "GSEABase"
     ],
     "NTW": [],
-    "nucleR": [
-        "ShortRead"
-    ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nucleR": [],
+    "nullranges": [],
     "NuPoP": [],
     "occugene": [],
     "OCplus": [],
@@ -3126,7 +3065,6 @@
         "GSVA",
         "HDF5Array",
         "RUVSeq",
-        "ShortRead",
         "aroma.light"
     ],
     "odseq": [],
@@ -3135,10 +3073,8 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLIN": [],
     "OLINgui": [
         "DynDoc",
-        "OLIN",
         "tkWidgets"
     ],
     "OmaDB": [
@@ -3199,9 +3135,7 @@
         "HDF5Array",
         "basilisk"
     ],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
         "DNAcopy",
@@ -3239,7 +3173,6 @@
         "basilisk"
     ],
     "partCNV": [],
-    "PAST": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
@@ -3346,14 +3279,9 @@
         "GOstats",
         "GSEABase"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "pmp": [
         "impute"
     ],
@@ -3404,7 +3332,6 @@
         "ChIPseeker",
         "DOSE",
         "EnrichedHeatmap",
-        "ShortRead",
         "chipseq",
         "enrichplot",
         "rGREAT",
@@ -3533,7 +3460,6 @@
     ],
     "QuasR": [
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "R3CPET": [
@@ -3544,7 +3470,6 @@
     ],
     "r3Cseq": [],
     "R453Plus1Toolbox": [
-        "ShortRead",
         "VariantAnnotation"
     ],
     "RadioGx": [
@@ -3574,7 +3499,6 @@
     "Rarr": [],
     "RbcBook1": [],
     "Rbec": [
-        "ShortRead",
         "dada2"
     ],
     "rBiopaxParser": [],
@@ -3680,7 +3604,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -3698,7 +3621,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
@@ -3729,7 +3651,6 @@
         "CNEr",
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "TFBSTools",
         "aroma.light",
         "motifStack"
@@ -3836,7 +3757,6 @@
     ],
     "Rqc": [
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3846,9 +3766,7 @@
     "rrvgo": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTCGAToolbox": [
         "RaggedExperiment",
         "TCGAutils"
@@ -3860,10 +3778,8 @@
     ],
     "RUVSeq": [
         "EDASeq",
-        "ShortRead",
         "aroma.light"
     ],
-    "RVS": [],
     "safe": [],
     "SAIGEgds": [
         "SeqArray",
@@ -3875,8 +3791,7 @@
     "sangeranalyseR": [],
     "SANTA": [],
     "SARC": [
-        "RaggedExperiment",
-        "plyranges"
+        "RaggedExperiment"
     ],
     "SBGNview": [
         "KEGGgraph",
@@ -3899,7 +3814,6 @@
     "scBFA": [
         "zinbwave"
     ],
-    "scBubbletree": [],
     "scCB2": [
         "DropletUtils",
         "HDF5Array"
@@ -3961,7 +3875,6 @@
     "scone": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "aroma.light"
     ],
     "Sconify": [
@@ -3994,7 +3907,6 @@
     ],
     "scruff": [
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -4031,9 +3943,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "segmentSeq": [
-        "ShortRead"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA"
     ],
@@ -4091,7 +4001,6 @@
         "minfi",
         "siggenes"
     ],
-    "ShortRead": [],
     "SIAMCAT": [
         "biomformat",
         "phyloseq"
@@ -4178,7 +4087,6 @@
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "SingleR": [],
@@ -4229,7 +4137,6 @@
         "gdsfmt"
     ],
     "soGGi": [
-        "ShortRead",
         "chipseq"
     ],
     "SomaticSignatures": [
@@ -4338,7 +4245,6 @@
     "standR": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "SpatialExperiment",
         "aroma.light"
     ],
@@ -4398,9 +4304,7 @@
         "RankProd"
     ],
     "syntenet": [],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeTools": [],
     "tadar": [
         "Gviz",
@@ -4411,7 +4315,6 @@
         "HiCcompare"
     ],
     "tanggle": [],
-    "TAPseq": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
@@ -4528,7 +4431,6 @@
         "topGO"
     ],
     "transcriptR": [
-        "ShortRead",
         "chipseq"
     ],
     "transformGamPoi": [
@@ -4592,12 +4494,10 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "Rbowtie2",
-        "ShortRead",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -4678,7 +4578,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "GreyListChIP",
-        "ShortRead",
         "csaw",
         "regioneR",
         "systemPipeR"
@@ -4699,7 +4598,6 @@
     "weitrix": [
         "topconfects"
     ],
-    "wiggleplotr": [],
     "wppi": [
         "OmnipathR"
     ],
