@@ -411,7 +411,6 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "CoreGx": [],
     "coseq": [],
     "cosmiq": [
         "MSnbase",
@@ -815,14 +814,12 @@
     ],
     "gDNAx": [],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "gDRstyle": [
@@ -1442,7 +1439,6 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "impute"
     ],
@@ -1461,9 +1457,7 @@
     ],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -1585,9 +1579,7 @@
     "R3CPET": [
         "ggbio"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -1633,7 +1625,6 @@
         "minfi"
     ],
     "REDseq": [],
-    "regionalpcs": [],
     "RegionalST": [],
     "regionReport": [
         "derfinder"
@@ -1972,9 +1963,7 @@
         "impute",
         "mzID"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "TPP2D": [],
     "trackViewer": [
         "Gviz"
@@ -2058,7 +2047,6 @@
     ],
     "XDE": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "YAPSA": [
