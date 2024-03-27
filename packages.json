@@ -1927,7 +1927,6 @@
         "RCy3",
         "enrichplot"
     ],
-    "ensembldb": [],
     "ensemblVEP": [
         "VariantAnnotation"
     ],
@@ -2444,7 +2443,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicFeatures": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
