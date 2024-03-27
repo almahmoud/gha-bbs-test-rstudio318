@@ -433,7 +433,6 @@
     ],
     "BloodGen3Module": [],
     "bnbc": [
-        "HiCBricks",
         "sva"
     ],
     "bnem": [
@@ -2000,8 +1999,6 @@
     "hermes": [],
     "HERON": [],
     "Herper": [],
-    "HiCBricks": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -2009,7 +2006,6 @@
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiCExperiment": [],
@@ -2265,7 +2261,6 @@
         "minfi",
         "siggenes"
     ],
-    "LymphoSeq": [],
     "M3C": [],
     "M3Drop": [],
     "m6Aboost": [],
@@ -2809,9 +2804,7 @@
     "multiGSEA": [
         "graphite"
     ],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
         "DynDoc",
@@ -4056,9 +4049,7 @@
     ],
     "speckle": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -4172,9 +4163,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "TargetDecoy": [
         "mzID",
