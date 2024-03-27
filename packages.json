@@ -901,7 +901,6 @@
     "lipidr": [
         "impute"
     ],
-    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1102,10 +1101,7 @@
         "mzID"
     ],
     "MsQuality": [],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -1117,9 +1113,7 @@
         "impute",
         "mzID"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multicrispr": [
         "karyoploteR"
     ],
@@ -1352,7 +1346,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "RareVariantVis": [],
     "Rarr": [],
     "rBiopaxParser": [],
     "Rbwa": [],
@@ -1655,7 +1648,6 @@
         "Gviz"
     ],
     "tradeSeq": [],
-    "transcriptR": [],
     "tRanslatome": [
         "RankProd"
     ],
