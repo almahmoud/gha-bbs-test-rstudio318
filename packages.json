@@ -15,7 +15,6 @@
     ],
     "ADAMgui": [],
     "adductomicsR": [],
-    "ADImpute": [],
     "AffiXcan": [],
     "affycoretools": [
         "Category",
@@ -886,7 +885,6 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -2646,7 +2644,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
@@ -2858,7 +2855,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
