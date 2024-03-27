@@ -412,11 +412,9 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
     "BridgeDbR": [],
-    "BSgenomeForge": [],
     "bsseq": [
         "HDF5Array"
     ],
@@ -844,7 +842,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
@@ -1018,7 +1015,6 @@
     ],
     "deconvR": [
         "HDF5Array",
-        "methylKit",
         "minfi",
         "siggenes"
     ],
@@ -1113,7 +1109,6 @@
     "distinct": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "HDF5Array",
@@ -1224,8 +1219,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1296,8 +1290,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -1307,8 +1300,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
-    "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
         "tximport"
@@ -1770,7 +1761,6 @@
         "HiCExperiment",
         "basilisk"
     ],
-    "hicVennDiagram": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -2021,9 +2011,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -2170,9 +2158,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [],
     "methrix": [
         "HDF5Array"
@@ -2210,10 +2196,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -2389,7 +2372,6 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "QFeatures",
         "Spectra"
@@ -2667,7 +2649,6 @@
     ],
     "OrderedList": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthos": [
         "HDF5Array",
@@ -2749,7 +2730,6 @@
     ],
     "peco": [],
     "pepXMLTab": [],
-    "periodicDNA": [],
     "pfamAnalyzeR": [],
     "phantasus": [],
     "phantasusLite": [],
@@ -2794,7 +2774,6 @@
     "pipeComp": [
         "scran"
     ],
-    "pipeFrame": [],
     "planet": [],
     "plasmut": [],
     "PloGO2": [
@@ -2993,7 +2972,6 @@
         "HDF5Array"
     ],
     "Rarr": [],
-    "RbcBook1": [],
     "Rbec": [
         "dada2"
     ],
@@ -3809,7 +3787,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [
         "sva"
@@ -3842,7 +3819,6 @@
     "tximport": [],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
