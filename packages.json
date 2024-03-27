@@ -7,7 +7,6 @@
     "a4Classif": [],
     "ABarray": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
@@ -39,19 +38,13 @@
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase"
@@ -68,7 +61,6 @@
         "VariantAnnotation",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
     "AHMassBank": [
@@ -196,13 +188,10 @@
         "BeadDataPackR",
         "affyPLM",
         "beadarray",
-        "gcrma",
         "vsn"
     ],
     "ARRmNormalization": [],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASEB": [],
     "ASGSCA": [],
     "ASICS": [
@@ -285,7 +274,6 @@
         "glmGamPoi",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "basilisk": [],
     "batchelor": [],
     "BatchQC": [
@@ -324,9 +312,7 @@
     "BgeeDB": [
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "GSEABase"
     ],
@@ -421,7 +407,6 @@
     ],
     "BiRewire": [],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "HDF5Array",
@@ -651,7 +636,6 @@
         "impute"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
@@ -662,9 +646,7 @@
     "cfTools": [
         "basilisk"
     ],
-    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
         "DNAcopy",
         "impute"
     ],
@@ -673,14 +655,11 @@
         "DNAcopy"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "impute"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "DNAcopy",
@@ -762,8 +741,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "scran"
@@ -924,7 +902,6 @@
         "genefu",
         "impute"
     ],
-    "consensusSeekeR": [],
     "consICA": [
         "topGO"
     ],
@@ -939,7 +916,6 @@
         "minfi",
         "siggenes"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
         "biovizBase",
@@ -1427,7 +1403,6 @@
         "genomation",
         "impute"
     ],
-    "epidecodeR": [],
     "epigenomix": [
         "BeadDataPackR",
         "beadarray"
@@ -1502,7 +1477,6 @@
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
-        "SGSeq",
         "tximport"
     ],
     "EWCE": [
@@ -1748,7 +1722,6 @@
         "lfa"
     ],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "KEGGgraph",
@@ -1788,9 +1761,7 @@
         "gdsfmt"
     ],
     "gdsfmt": [],
-    "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "QDNAseq",
@@ -2349,9 +2320,7 @@
     "MANOR": [
         "GLAD"
     ],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "HDF5Array",
         "plotgardener"
@@ -2361,9 +2330,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MassArray": [],
     "MAST": [],
     "mastR": [
@@ -2601,8 +2568,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -2801,17 +2767,12 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -2830,13 +2791,10 @@
         "vsn"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [
         "ropls"
@@ -3095,7 +3053,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "PanViz": [],
     "pareg": [
         "DOSE",
@@ -3352,7 +3309,6 @@
         "seqTools"
     ],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall",
         "DNAcopy",
         "impute"
@@ -3547,7 +3503,6 @@
     ],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
@@ -3556,9 +3511,7 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -3597,9 +3550,7 @@
         "BgeeDB",
         "topGO"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLSeq": [
         "regioneR"
@@ -3751,7 +3702,6 @@
         "scran"
     ],
     "scDDboost": [],
-    "scde": [],
     "scDesign3": [],
     "scds": [],
     "SCFA": [],
@@ -3906,7 +3856,6 @@
         "GOstats",
         "GSEABase"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "HDF5Array",
         "minfi",
@@ -4355,7 +4304,6 @@
         "topGO"
     ],
     "transomics2cytoscape": [],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -4387,9 +4335,7 @@
         "TrajectoryUtils"
     ],
     "ttgsea": [],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
@@ -4472,7 +4418,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vsn": [],
     "vtpnet": [
@@ -4495,7 +4440,6 @@
     ],
     "wavClusteR": [],
     "webbioc": [
-        "gcrma",
         "vsn"
     ],
     "weitrix": [
@@ -4524,7 +4468,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XNAString": [],
     "yamss": [
         "mzR"
     ],
