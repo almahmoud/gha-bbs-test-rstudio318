@@ -1515,7 +1515,6 @@
     ],
     "GRENITS": [],
     "GSALightning": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -2359,7 +2358,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFik": [],
     "OrganismDbi": [],
     "orthos": [],
@@ -2832,7 +2830,6 @@
     "rqt": [
         "ropls"
     ],
-    "rrvgo": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RSVSim": [],
