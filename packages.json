@@ -19,7 +19,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "biovizBase",
@@ -35,7 +34,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "affycoretools",
@@ -143,9 +141,7 @@
     "artMS": [],
     "ASEB": [],
     "ASGSCA": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "Gviz",
         "biovizBase"
@@ -276,9 +272,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [],
     "BiRewire": [],
@@ -406,7 +400,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -689,7 +682,6 @@
     "COSNet": [],
     "COTAN": [],
     "countsimQC": [],
-    "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
         "DNAcopy"
@@ -1347,7 +1339,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "biovizBase"
@@ -1367,7 +1358,6 @@
     "GISPA": [],
     "GLAD": [],
     "GladiaTOX": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -1515,7 +1505,6 @@
         "minfi",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [
         "flowCore"
     ],
@@ -1603,8 +1592,7 @@
     "lineagespot": [],
     "LinkHD": [],
     "lipidr": [
-        "impute",
-        "ropls"
+        "impute"
     ],
     "lisaClust": [
         "ClassifyR",
@@ -2020,9 +2008,7 @@
     ],
     "MSstatsTMT": [],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
         "karyoploteR"
@@ -2238,7 +2224,6 @@
     "peco": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
-    "phantasus": [],
     "PharmacoGx": [
         "CoreGx"
     ],
@@ -2247,9 +2232,7 @@
         "monocle"
     ],
     "PhenoGeneRanker": [],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category"
     ],
@@ -2600,7 +2583,6 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
     "RPA": [
         "phyloseq"
     ],
@@ -2608,9 +2590,7 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RSVSim": [],
@@ -2660,7 +2640,6 @@
     ],
     "scDblFinder": [],
     "scDD": [],
-    "scds": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
@@ -2669,7 +2648,6 @@
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "schex": [],
     "scHOT": [],
     "scider": [],
     "scifer": [
@@ -2714,12 +2692,9 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "epivizr",
@@ -2817,7 +2792,6 @@
         "eds",
         "scDblFinder",
         "scMerge",
-        "scds",
         "tximport",
         "zinbwave"
     ],
