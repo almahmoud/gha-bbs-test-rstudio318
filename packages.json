@@ -526,7 +526,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -597,7 +596,6 @@
     "ccImpute": [
         "SIMLR"
     ],
-    "CCPlotR": [],
     "CCPROMISE": [
         "GSEABase",
         "PROMISE"
@@ -781,7 +779,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -961,7 +958,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -1572,7 +1568,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -2177,7 +2172,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -2280,7 +2274,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -2345,7 +2338,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -2452,7 +2444,6 @@
         "Category",
         "GSEABase"
     ],
-    "MesKit": [],
     "messina": [],
     "MetaboAnnotation": [
         "CompoundDb",
@@ -2480,7 +2471,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -2673,7 +2663,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -2755,7 +2744,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -2929,7 +2917,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
@@ -3582,7 +3569,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -3598,7 +3584,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "biocViews",
@@ -4159,7 +4144,6 @@
         "impute",
         "phyloseq"
     ],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "VariantAnnotation",
@@ -4523,7 +4507,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "impute",
