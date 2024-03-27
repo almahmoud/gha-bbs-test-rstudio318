@@ -1099,7 +1099,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
@@ -1210,7 +1209,6 @@
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -2618,7 +2616,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
         "soGGi"
@@ -3336,7 +3333,6 @@
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
-    "surfaltr": [],
     "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation"
