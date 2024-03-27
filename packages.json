@@ -780,7 +780,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq"
     ],
@@ -1505,7 +1504,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -3461,7 +3459,6 @@
         "dada2"
     ],
     "rBiopaxParser": [],
-    "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
         "genomation",
@@ -4394,7 +4391,6 @@
         "topGO"
     ],
     "transomics2cytoscape": [],
-    "TransView": [],
     "traseR": [],
     "traviz": [
         "TrajectoryUtils",
@@ -4447,7 +4443,6 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "regioneR"
     ],
     "uncoverappLib": [
