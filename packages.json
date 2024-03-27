@@ -88,7 +88,6 @@
         "BeadDataPackR"
     ],
     "BeadDataPackR": [],
-    "benchdamic": [],
     "BgeeCall": [
         "tximport"
     ],
@@ -583,7 +582,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowClean": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -1152,7 +1150,6 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [],
     "POMA": [
         "RankProd",
         "impute"
