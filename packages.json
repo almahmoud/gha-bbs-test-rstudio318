@@ -486,7 +486,6 @@
         "genefu",
         "impute"
     ],
-    "consICA": [],
     "contiBAIT": [
         "DNAcopy",
         "GenomicFiles"
@@ -624,7 +623,6 @@
         "enrichplot",
         "pathview"
     ],
-    "decompTumor2Sig": [],
     "decontX": [
         "celda"
     ],
@@ -1551,7 +1549,6 @@
     "MungeSumstats": [],
     "musicatk": [
         "DNAcopy",
-        "decompTumor2Sig",
         "maftools"
     ],
     "MVCClass": [],
@@ -2033,7 +2030,6 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDD": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
@@ -2080,7 +2076,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
@@ -2129,7 +2124,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "GSVA",
         "consensusOV",
@@ -2190,7 +2184,6 @@
     "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [],
-    "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
@@ -2384,7 +2377,6 @@
     "velociraptor": [],
     "veloviz": [],
     "VennDetail": [],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
