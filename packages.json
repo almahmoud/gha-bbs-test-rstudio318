@@ -12,11 +12,9 @@
         "QDNAseq",
         "impute"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "DNAcopy",
         "GLAD",
-        "aCGH",
         "snapCGH",
         "tilingArray"
     ],
@@ -223,7 +221,6 @@
         "sva"
     ],
     "BayesSpace": [],
-    "bayNorm": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "beadarray": [
@@ -747,8 +744,7 @@
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
-        "DNAcopy",
-        "aCGH"
+        "DNAcopy"
     ],
     "crisprBwa": [
         "Rbwa"
@@ -1026,7 +1022,6 @@
     ],
     "easyreporting": [],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EDASeq": [
         "aroma.light"
     ],
@@ -1385,7 +1380,6 @@
         "impute"
     ],
     "GeneGA": [],
-    "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "geneRecommender": [],
@@ -1870,7 +1864,6 @@
         "CNORode",
         "CellNOptR"
     ],
-    "memes": [],
     "Mergeomics": [],
     "meshes": [
         "enrichplot"
@@ -2277,7 +2270,6 @@
         "yarn"
     ],
     "NeuCA": [],
-    "NewWave": [],
     "nipalsMCIA": [],
     "nnSVG": [
         "SpatialExperiment"
@@ -2343,7 +2335,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
@@ -2480,7 +2471,6 @@
     ],
     "preciseTAD": [
         "DNAcopy",
-        "aCGH",
         "rCGH"
     ],
     "PREDA": [],
@@ -2633,8 +2623,7 @@
         "impute"
     ],
     "rCGH": [
-        "DNAcopy",
-        "aCGH"
+        "DNAcopy"
     ],
     "RCM": [
         "phyloseq"
@@ -2717,9 +2706,7 @@
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
@@ -3073,7 +3060,6 @@
     "snapCGH": [
         "DNAcopy",
         "GLAD",
-        "aCGH",
         "tilingArray"
     ],
     "snifter": [],
@@ -3241,9 +3227,7 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [],
@@ -3429,7 +3413,6 @@
     ],
     "xcore": [],
     "XDE": [
-        "GeneMeta",
         "siggenes"
     ],
     "Xeva": [
