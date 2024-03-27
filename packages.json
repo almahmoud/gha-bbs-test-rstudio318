@@ -635,7 +635,6 @@
     ],
     "compSPOT": [],
     "condiments": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "CONFESS": [
@@ -874,7 +873,6 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
@@ -1097,8 +1095,7 @@
     "fcScan": [],
     "fdrame": [],
     "FEAST": [
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fedup": [],
     "ffpe": [
@@ -1448,7 +1445,6 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "HERON": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1865,7 +1861,6 @@
     "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
-    "midasHLA": [],
     "miloR": [],
     "mimager": [
         "affyPLM"
@@ -2205,7 +2200,6 @@
         "Ringo"
     ],
     "PAA": [],
-    "padma": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -2265,7 +2259,6 @@
     ],
     "phemd": [
         "biocViews",
-        "destiny",
         "monocle"
     ],
     "PhenoGeneRanker": [],
@@ -2641,7 +2634,6 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
@@ -2663,7 +2655,6 @@
     ],
     "SBMLR": [],
     "SCAN.UPC": [],
-    "scAnnotatR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -2725,7 +2716,6 @@
         "powerTCR"
     ],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -2838,7 +2828,6 @@
         "GSVA",
         "M3Drop",
         "TSCAN",
-        "TrajectoryUtils",
         "celda",
         "eds",
         "scDblFinder",
@@ -2862,9 +2851,7 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -2929,7 +2916,6 @@
     "spicyR": [
         "ClassifyR"
     ],
-    "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -3063,10 +3049,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
@@ -3079,7 +3063,6 @@
     ],
     "transomics2cytoscape": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -3101,9 +3084,7 @@
     ],
     "TRONCO": [],
     "TSAR": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "ttgsea": [],
     "TurboNorm": [],
     "TVTB": [
