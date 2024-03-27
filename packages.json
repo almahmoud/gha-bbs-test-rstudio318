@@ -244,8 +244,7 @@
     ],
     "bnbc": [],
     "bnem": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "BOBaFIT": [
         "biovizBase",
@@ -419,7 +418,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "ChIPXpress": [],
     "chopsticks": [],
     "ChromSCape": [],
     "chromVAR": [
@@ -468,7 +466,6 @@
     "cn.farms": [
         "DNAcopy"
     ],
-    "cn.mops": [],
     "CNAnorm": [
         "DNAcopy"
     ],
@@ -479,13 +476,11 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVRanger": [
@@ -552,7 +547,6 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -687,8 +681,7 @@
     ],
     "DCATS": [],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowCore",
@@ -871,9 +864,7 @@
         "biovizBase",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -1267,7 +1258,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hiReadsProcessor": [],
     "HIREewas": [],
     "hoodscanR": [],
     "HPAanalyze": [],
@@ -1616,7 +1606,6 @@
         "deepSNV"
     ],
     "MMUPHin": [],
-    "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1773,8 +1762,7 @@
         "RCX"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "netbiov": [],
     "netboost": [
@@ -1784,7 +1772,6 @@
         "RandomWalkRestartMH"
     ],
     "netprioR": [],
-    "netresponse": [],
     "NetSAM": [
         "impute"
     ],
@@ -1802,7 +1789,6 @@
     "NormalyzerDE": [],
     "npGSEA": [],
     "NTW": [],
-    "nucleR": [],
     "NuPoP": [],
     "occugene": [],
     "octad": [
@@ -1859,9 +1845,7 @@
         "motifmatchr"
     ],
     "pairedGSEA": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
@@ -2244,7 +2228,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "sampleClassifier": [],
     "SANTA": [],
     "SARC": [],
     "SBGNview": [
