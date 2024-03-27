@@ -863,7 +863,6 @@
         "DeepPINCS",
         "ttgsea"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "impute"
     ],
@@ -1037,9 +1036,7 @@
     "lipidr": [
         "impute"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1860,7 +1857,6 @@
     ],
     "SPIA": [],
     "SPIAT": [],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -1929,7 +1925,6 @@
         "DynDoc"
     ],
     "TNBC.CMS": [],
-    "TOP": [],
     "topconfects": [],
     "topdownr": [
         "MSnbase",
