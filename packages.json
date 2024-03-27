@@ -9,8 +9,7 @@
     "ADaCGH2": [
         "DNAcopy",
         "GLAD",
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "adductomicsR": [],
     "affycoretools": [
@@ -83,7 +82,6 @@
     ],
     "antiProfiles": [],
     "AnVILBilling": [],
-    "APAlyzer": [],
     "APL": [],
     "appreci8R": [
         "GenomicScores"
@@ -146,7 +144,6 @@
         "glmGamPoi"
     ],
     "BatchQC": [],
-    "BayesSpace": [],
     "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR"
@@ -298,7 +295,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -593,7 +589,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -1247,7 +1242,6 @@
     "Macarron": [
         "impute"
     ],
-    "MADSEQ": [],
     "maftools": [
         "DNAcopy"
     ],
@@ -1443,7 +1437,6 @@
     "MODA": [
         "impute"
     ],
-    "MOFA2": [],
     "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [
@@ -1546,7 +1539,6 @@
         "impute"
     ],
     "mumosa": [],
-    "MungeSumstats": [],
     "musicatk": [
         "DNAcopy",
         "maftools"
@@ -1833,7 +1825,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx"
     ],
@@ -1891,9 +1882,7 @@
     ],
     "REDseq": [],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
@@ -2166,8 +2155,7 @@
     "SMITE": [],
     "snapCGH": [
         "DNAcopy",
-        "GLAD",
-        "tilingArray"
+        "GLAD"
     ],
     "snifter": [],
     "snm": [],
@@ -2275,7 +2263,6 @@
     "TFBSTools": [],
     "TFHAZ": [],
     "TFutils": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
