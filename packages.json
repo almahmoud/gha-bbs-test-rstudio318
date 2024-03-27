@@ -173,7 +173,6 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "bnbc": [],
     "bnem": [
         "epiNEM"
     ],
@@ -426,7 +425,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "COTAN": [],
     "CRImage": [
         "DNAcopy"
     ],
@@ -575,7 +573,6 @@
         "tximport"
     ],
     "diffuStats": [],
-    "diffUTR": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -788,7 +785,6 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "FRASER": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [
@@ -1405,7 +1401,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "impute",
         "rexposome"
@@ -1579,7 +1574,6 @@
         "mzID"
     ],
     "qsmooth": [],
-    "qsvaR": [],
     "quantro": [
         "minfi"
     ],
@@ -1919,7 +1913,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "Statial": [],
     "statTarget": [
         "impute"
     ],
@@ -2001,7 +1994,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "trigger": [],
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
