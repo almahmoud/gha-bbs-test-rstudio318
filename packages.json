@@ -159,9 +159,7 @@
         "VariantAnnotation"
     ],
     "apComplex": [],
-    "APL": [
-        "topGO"
-    ],
+    "APL": [],
     "appreci8R": [
         "GenomicScores",
         "HDF5Array",
@@ -207,8 +205,7 @@
         "OrganismDbi",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -293,9 +290,7 @@
     "BgeeCall": [
         "tximport"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "bgx": [],
     "BicARE": [],
     "BiGGR": [
@@ -321,7 +316,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
         "graphite"
     ],
     "BiocCheck": [
@@ -502,7 +496,6 @@
         "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "phenoTest"
     ],
     "cardelino": [
@@ -569,9 +562,7 @@
         "vsn"
     ],
     "CelliD": [],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
     "CellNOptR": [],
@@ -800,7 +791,6 @@
         "bsseq"
     ],
     "CoGAPS": [],
-    "cogeqc": [],
     "cola": [
         "impute"
     ],
@@ -823,8 +813,7 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "methylPipe",
-        "topGO"
+        "methylPipe"
     ],
     "CompoundDb": [
         "Spectra"
@@ -854,9 +843,7 @@
         "genefu",
         "impute"
     ],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "DNAcopy",
         "GenomicFiles",
@@ -1269,8 +1256,7 @@
         "HDF5Array",
         "KEGGgraph",
         "pathview",
-        "safe",
-        "topGO"
+        "safe"
     ],
     "ELMER": [
         "Gviz",
@@ -1678,7 +1664,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [],
     "geneXtendeR": [],
     "genomation": [
@@ -1785,9 +1770,7 @@
     ],
     "GOpro": [],
     "goseq": [],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -1798,9 +1781,7 @@
     ],
     "GOTHiC": [],
     "GPA": [],
-    "GRaNIE": [
-        "topGO"
-    ],
+    "GRaNIE": [],
     "graper": [],
     "GraphAlignment": [],
     "graphite": [],
@@ -1932,8 +1913,7 @@
         "Category",
         "GOstats",
         "goseq",
-        "pcaExplorer",
-        "topGO"
+        "pcaExplorer"
     ],
     "igvR": [
         "VariantAnnotation"
@@ -2247,7 +2227,6 @@
         "CNORode",
         "CellNOptR"
     ],
-    "Melissa": [],
     "memes": [],
     "Mergeomics": [],
     "meshes": [
@@ -2456,9 +2435,7 @@
         "Maaslin2"
     ],
     "mnem": [],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -2782,9 +2759,7 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicade4": [],
     "omicplotR": [
         "ALDEx2"
@@ -2883,8 +2858,7 @@
     "pathwayPCA": [],
     "pcaExplorer": [
         "Category",
-        "GOstats",
-        "topGO"
+        "GOstats"
     ],
     "PCAtools": [],
     "PDATK": [
@@ -2934,8 +2908,7 @@
     ],
     "PhosR": [],
     "PhyloProfile": [
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "phyloseq": [
         "biomformat"
@@ -3017,7 +2990,6 @@
         "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "progeny": [
@@ -3075,8 +3047,7 @@
         "QFeatures"
     ],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [
         "MSnbase",
@@ -3286,10 +3257,7 @@
     "rexposome": [
         "impute"
     ],
-    "rGenomeTracks": [],
     "RgnTX": [],
-    "RGraph2js": [],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -3311,7 +3279,6 @@
         "aroma.light",
         "motifStack"
     ],
-    "rifiComparative": [],
     "Ringo": [
         "vsn"
     ],
@@ -3328,8 +3295,7 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "RJMCMCNucleosomes": [],
     "RLassoCox": [],
@@ -3875,7 +3841,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "Streamer": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [
@@ -3947,7 +3912,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "RaggedExperiment",
         "TCGAutils"
@@ -4001,7 +3965,6 @@
         "mzR",
         "vsn"
     ],
-    "topGO": [],
     "ToxicoGx": [
         "CoreGx",
         "piano"
@@ -4017,9 +3980,7 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
@@ -4029,8 +3990,7 @@
     ],
     "tRanslatome": [
         "RankProd",
-        "anota",
-        "topGO"
+        "anota"
     ],
     "transomics2cytoscape": [],
     "traviz": [
@@ -4134,9 +4094,7 @@
     "veloviz": [],
     "VennDetail": [],
     "vidger": [],
-    "ViSEAGO": [
-        "topGO"
-    ],
+    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialExperiment",
