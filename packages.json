@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "ABarray": [],
     "ACE": [
         "CGHcall",
@@ -126,7 +123,6 @@
         "biocViews"
     ],
     "annotatr": [],
-    "anota": [],
     "anota2seq": [],
     "antiProfiles": [],
     "AnVILBilling": [],
@@ -274,9 +270,7 @@
     "BiocSklearn": [],
     "biocthis": [],
     "biocViews": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
@@ -841,7 +835,6 @@
     "dada2": [],
     "dagLogo": [
         "TFBSTools",
-        "UniProt.ws",
         "motifStack"
     ],
     "DAMEfinder": [],
@@ -999,9 +992,7 @@
     ],
     "DriverNet": [],
     "DropletUtils": [],
-    "drugTargetInteractions": [
-        "UniProt.ws"
-    ],
+    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
         "bsseq"
@@ -2406,7 +2397,6 @@
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -2695,7 +2685,6 @@
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
         "biovizBase",
@@ -3271,8 +3260,7 @@
         "glmGamPoi"
     ],
     "tRanslatome": [
-        "RankProd",
-        "anota"
+        "RankProd"
     ],
     "transomics2cytoscape": [],
     "traviz": [
@@ -3325,7 +3313,6 @@
         "biovizBase"
     ],
     "unifiedWMWqPCR": [],
-    "UniProt.ws": [],
     "Uniquorn": [],
     "uSORT": [
         "biocViews",
@@ -3367,7 +3354,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "gwascat"
     ],
