@@ -130,7 +130,6 @@
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler"
     ],
@@ -211,7 +210,6 @@
     ],
     "canceR": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -225,12 +223,10 @@
     "CausalR": [],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "clusterProfiler"
@@ -872,7 +868,6 @@
     "GNOSIS": [
         "DNAcopy",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "maftools"
     ],
@@ -1626,9 +1621,7 @@
     "Rqc": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RUVSeq": [
         "EDASeq",
         "aroma.light"
@@ -1813,7 +1806,6 @@
     ],
     "TargetSearch": [],
     "TBSignatureProfiler": [],
-    "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -1822,9 +1814,7 @@
         "tximport"
     ],
     "tenXplore": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
