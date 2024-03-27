@@ -207,13 +207,11 @@
     "arrayMvout": [
         "HDF5Array",
         "affyContam",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
         "siggenes"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "BeadDataPackR",
         "affyPLM",
@@ -365,7 +363,6 @@
     ],
     "bigmelon": [
         "HDF5Array",
-        "bumphunter",
         "gdsfmt",
         "lumi",
         "methylumi",
@@ -462,7 +459,6 @@
         "VariantAnnotation",
         "annotatr",
         "bsseq",
-        "bumphunter",
         "dmrseq",
         "impute",
         "regioneR"
@@ -508,7 +504,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -526,7 +521,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "bumphunter": [],
     "BUSpaRse": [
         "plyranges"
     ],
@@ -736,7 +730,6 @@
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "goseq",
         "impute",
         "lumi",
@@ -948,9 +941,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "coMethDMR": [
-        "bumphunter"
-    ],
+    "coMethDMR": [],
     "compEpiTools": [
         "Gviz",
         "VariantAnnotation",
@@ -1002,7 +993,6 @@
     "conumee": [
         "DNAcopy",
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1098,7 +1088,6 @@
         "impute"
     ],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1201,8 +1190,7 @@
         "motifStack"
     ],
     "DAMEfinder": [
-        "VariantAnnotation",
-        "bumphunter"
+        "VariantAnnotation"
     ],
     "DaMiRseq": [
         "EDASeq",
@@ -1255,7 +1243,6 @@
     ],
     "deconvR": [
         "HDF5Array",
-        "bumphunter",
         "methylKit",
         "minfi",
         "siggenes"
@@ -1306,15 +1293,13 @@
     "DepecheR": [],
     "derfinder": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "bumphunter"
+        "VariantAnnotation"
     ],
     "derfinderPlot": [
         "GenomicFiles",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "ggbio"
     ],
@@ -1374,7 +1359,6 @@
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -1384,7 +1368,6 @@
         "HDF5Array",
         "annotatr",
         "bsseq",
-        "bumphunter",
         "regioneR"
     ],
     "DNABarcodeCompatibility": [
@@ -1482,7 +1465,6 @@
     ],
     "ENmix": [
         "HDF5Array",
-        "bumphunter",
         "impute",
         "minfi",
         "siggenes"
@@ -1545,7 +1527,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1558,7 +1539,6 @@
     ],
     "epivizr": [
         "OrganismDbi",
-        "bumphunter",
         "epivizrData",
         "epivizrServer"
     ],
@@ -1574,7 +1554,6 @@
     "epivizrServer": [],
     "epivizrStandalone": [
         "OrganismDbi",
-        "bumphunter",
         "epivizr",
         "epivizrData",
         "epivizrServer"
@@ -1616,7 +1595,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExCluster": [],
     "ExiMiR": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -1671,7 +1649,6 @@
     "fenr": [],
     "ffpe": [
         "HDF5Array",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -1833,7 +1810,6 @@
     "FunChIP": [],
     "funtooNorm": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -2028,7 +2004,6 @@
         "SpatialExperiment"
     ],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "ShortRead"
@@ -2076,7 +2051,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category",
         "GSEABase"
@@ -2230,7 +2204,6 @@
     ],
     "iCheck": [
         "HDF5Array",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -2278,7 +2251,6 @@
         "OrganismDbi",
         "Pigengene",
         "ReactomePA",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "graphite",
@@ -2322,7 +2294,6 @@
         "ShortRead"
     ],
     "iPAC": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -2452,7 +2423,6 @@
     ],
     "lumi": [
         "HDF5Array",
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -2481,7 +2451,6 @@
     "MAGAR": [
         "HDF5Array",
         "RnBeads",
-        "bumphunter",
         "crlmm",
         "impute",
         "methylumi",
@@ -2580,7 +2549,6 @@
         "HDF5Array",
         "VariantAnnotation",
         "biovizBase",
-        "bumphunter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -2589,7 +2557,6 @@
     ],
     "MEAT": [
         "HDF5Array",
-        "bumphunter",
         "impute",
         "lumi",
         "methylumi",
@@ -2632,8 +2599,7 @@
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
-        "hpar",
-        "mygene"
+        "hpar"
     ],
     "metaCCA": [],
     "MetaCyto": [
@@ -2690,14 +2656,12 @@
     ],
     "MethylAid": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
     "methylCC": [
         "HDF5Array",
         "bsseq",
-        "bumphunter",
         "minfi",
         "plyranges",
         "siggenes"
@@ -2709,7 +2673,6 @@
         "HDF5Array",
         "OrganismDbi",
         "biocViews",
-        "bumphunter",
         "impute",
         "minfi",
         "planet",
@@ -2718,7 +2681,6 @@
     "methylGSA": [
         "DOSE",
         "HDF5Array",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -2738,7 +2700,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
@@ -2746,7 +2707,6 @@
     ],
     "methylumi": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -2783,9 +2743,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microRNA": [],
     "microSTASIS": [],
     "MICSQTL": [],
@@ -2800,7 +2758,6 @@
         "GOstats",
         "GSEABase",
         "HDF5Array",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -2808,7 +2765,6 @@
     ],
     "minfi": [
         "HDF5Array",
-        "bumphunter",
         "siggenes"
     ],
     "MinimumDistance": [
@@ -2834,7 +2790,6 @@
     ],
     "missMethyl": [
         "HDF5Array",
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -2926,7 +2881,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MPFE": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -3098,7 +3052,6 @@
     "MWASTools": [
         "KEGGgraph"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
@@ -3185,7 +3138,6 @@
         "GSEABase",
         "HDF5Array",
         "RCy3",
-        "bumphunter",
         "minfi",
         "quantro",
         "siggenes",
@@ -3561,7 +3513,6 @@
     "psichomics": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
@@ -3626,7 +3577,6 @@
     ],
     "quantro": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -3684,7 +3634,6 @@
     ],
     "RBioinf": [],
     "rBiopaxParser": [],
-    "RBM": [],
     "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
@@ -3732,14 +3681,12 @@
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder"
     ],
     "recount3": [],
     "recountmethylation": [
         "HDF5Array",
         "basilisk",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -3763,7 +3710,6 @@
         "DEFormats",
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder"
     ],
     "regutools": [
@@ -3774,7 +3720,6 @@
     ],
     "REMP": [
         "HDF5Array",
-        "bumphunter",
         "impute",
         "minfi",
         "siggenes"
@@ -3889,14 +3834,11 @@
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder",
         "impute",
         "recount"
     ],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "GSEABase",
@@ -3929,13 +3871,11 @@
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
         "HDF5Array",
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -4138,7 +4078,6 @@
     ],
     "scTreeViz": [
         "OrganismDbi",
-        "bumphunter",
         "epivizr",
         "epivizrData",
         "epivizrServer",
@@ -4206,13 +4145,11 @@
     "SGSeq": [],
     "shinyepico": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
     "shinyMethyl": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -4264,7 +4201,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [],
     "SimFFPE": [],
     "SIMLR": [],
     "simona": [],
@@ -4317,7 +4253,6 @@
     "sizepower": [],
     "skewr": [
         "HDF5Array",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -4431,7 +4366,6 @@
         "SpatialExperiment"
     ],
     "SpidermiR": [],
-    "spiky": [],
     "splatter": [],
     "SpliceWiz": [
         "HDF5Array"
@@ -4650,7 +4584,6 @@
     ],
     "TPP": [],
     "TPP2D": [],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "VariantAnnotation",
@@ -4828,7 +4761,6 @@
     "waddR": [],
     "wateRmelon": [
         "HDF5Array",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -4881,7 +4813,6 @@
     ],
     "yarn": [
         "HDF5Array",
-        "bumphunter",
         "minfi",
         "quantro",
         "siggenes"
