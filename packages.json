@@ -1354,7 +1354,6 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "PathoStat": [],
     "pathview": [],
     "pathwayPCA": [],
     "pcaExplorer": [
@@ -1485,9 +1484,7 @@
         "mzID"
     ],
     "quantro": [],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [],
     "R3CPET": [
         "ggbio"
@@ -1758,7 +1755,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1852,7 +1848,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "tRNAscanImport": [],
     "TSAR": [],
     "ttgsea": [],
     "TVTB": [
