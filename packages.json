@@ -153,7 +153,6 @@
     "BgeeCall": [
         "tximport"
     ],
-    "BicARE": [],
     "BiGGR": [],
     "bigmelon": [
         "gdsfmt",
@@ -1098,7 +1097,6 @@
     "Harman": [],
     "HarmonizR": [],
     "Harshlight": [],
-    "HelloRanges": [],
     "Herper": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1151,7 +1149,6 @@
         "minfi"
     ],
     "infinityFlow": [],
-    "InPAS": [],
     "INPower": [],
     "intansv": [
         "biovizBase",
@@ -1216,7 +1213,6 @@
         "glmGamPoi"
     ],
     "lfa": [],
-    "lineagespot": [],
     "lipidr": [
         "impute"
     ],
@@ -1617,9 +1613,7 @@
         "impute",
         "rexposome"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsPrint": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -1787,7 +1781,6 @@
     "PureCN": [
         "DNAcopy"
     ],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -2119,7 +2112,6 @@
         "genefu",
         "impute"
     ],
-    "SigsPack": [],
     "SIMAT": [],
     "SimBindProfiles": [],
     "SimBu": [],
@@ -2409,6 +2401,5 @@
         "SPIA",
         "pathview",
         "safe"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
