@@ -248,7 +248,6 @@
     "biocViews": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
-    "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
@@ -1052,7 +1051,6 @@
         "tximport"
     ],
     "EWCE": [],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
@@ -1448,7 +1446,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hipathia": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
     "hoodscanR": [],
@@ -2177,7 +2174,6 @@
     ],
     "PanViz": [],
     "pareg": [],
-    "partCNV": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
@@ -3019,7 +3015,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "tricycle": [],
     "trigger": [],
     "trio": [
         "siggenes"
