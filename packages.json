@@ -166,7 +166,6 @@
         "dmrseq",
         "impute"
     ],
-    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray"
@@ -688,7 +687,6 @@
         "motifmatchr"
     ],
     "escape": [],
-    "escheR": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1260,7 +1258,6 @@
     "MODA": [
         "impute"
     ],
-    "MoleculeExperiment": [],
     "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
