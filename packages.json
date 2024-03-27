@@ -408,7 +408,6 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -1940,7 +1939,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSAR": [],
