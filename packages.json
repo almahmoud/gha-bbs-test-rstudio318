@@ -3,24 +3,20 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
-        "a4Preproc"
+        "a4Core"
     ],
     "a4Core": [],
-    "a4Preproc": [],
     "ABarray": [
         "multtest"
     ],
@@ -366,7 +362,6 @@
         "biocViews",
         "graph"
     ],
-    "annotationTools": [],
     "annotatr": [
         "regioneR"
     ],
@@ -650,7 +645,6 @@
         "VariantAnnotation"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -728,7 +722,6 @@
         "graph",
         "multtest"
     ],
-    "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
         "graph",
@@ -1926,9 +1919,7 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "CoSIA": [
-        "annotationTools"
-    ],
+    "CoSIA": [],
     "cosmiq": [
         "BiocBaseUtils",
         "MSnbase",
@@ -2340,7 +2331,6 @@
         "DESeq2"
     ],
     "DEGseq": [],
-    "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
     ],
@@ -3135,7 +3125,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "Rhdf5lib",
         "cytolib",
@@ -4897,7 +4886,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -5667,7 +5655,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "ncRNAtools": [],
     "ndexr": [
         "RCX"
     ],
@@ -6016,7 +6003,6 @@
         "genefilter",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -6035,7 +6021,6 @@
         "affy",
         "affyio"
     ],
-    "PANR": [],
     "PanViz": [],
     "pareg": [
         "DOSE",
@@ -6562,7 +6547,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "Qtlizer": [],
     "quantiseqr": [],
     "quantro": [
@@ -6891,7 +6875,6 @@
         "graph"
     ],
     "rGREAT": [],
-    "RGSEA": [],
     "rgsepd": [
         "DESeq2",
         "goseq"
@@ -7117,7 +7100,6 @@
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -7758,9 +7740,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "SIMLR": [],
     "simona": [
@@ -8201,7 +8181,6 @@
     "subSeq": [],
     "SummarizedBenchmark": [],
     "Summix": [],
-    "supersigs": [],
     "surfaltr": [
         "msa"
     ],
@@ -8631,7 +8610,6 @@
         "VariantAnnotation"
     ],
     "universalmotif": [],
-    "updateObject": [],
     "uSORT": [
         "RBGL",
         "biocViews",
@@ -8659,7 +8637,6 @@
     "VarCon": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
-        "DelayedDataFrame",
         "GDSArray",
         "SNPRelate",
         "SeqArray",
