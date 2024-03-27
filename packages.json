@@ -318,7 +318,6 @@
         "biovizBase"
     ],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "biovizBase",
@@ -407,7 +406,6 @@
     ],
     "cellity": [],
     "cellmigRation": [],
-    "CellMixS": [],
     "CellNOptR": [],
     "CellTrails": [],
     "cellxgenedp": [],
@@ -1811,7 +1809,6 @@
         "DNAcopy",
         "VanillaICE"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -2480,7 +2477,6 @@
         "mzID"
     ],
     "rmelting": [],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
@@ -2891,7 +2887,6 @@
         "enrichplot",
         "tximport"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "ontoProc"
     ],
