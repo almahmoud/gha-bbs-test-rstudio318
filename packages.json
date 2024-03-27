@@ -273,7 +273,6 @@
         "GSEABase"
     ],
     "autonomics": [],
-    "BaalChIP": [],
     "BADER": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -751,9 +750,7 @@
         "HilbertVis"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "chopsticks": [],
     "ChromHeatMap": [],
     "chromPlot": [],
@@ -974,7 +971,6 @@
     "CoreGx": [
         "piano"
     ],
-    "Cormotif": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -1063,7 +1059,6 @@
     "CuratedAtlasQueryR": [
         "HDF5Array"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -1373,7 +1368,6 @@
         "decoupleR",
         "progeny"
     ],
-    "easylift": [],
     "easyreporting": [],
     "easyRNASeq": [],
     "EBSEA": [],
@@ -1384,7 +1378,6 @@
         "snm",
         "sva"
     ],
-    "EDIRquery": [],
     "eds": [],
     "EGAD": [
         "impute"
@@ -1538,7 +1531,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "ExiMiR": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -1739,7 +1731,6 @@
     ],
     "frenchFISH": [],
     "FRGEpistasis": [],
-    "frma": [],
     "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
@@ -1777,7 +1768,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "gcapc": [],
     "gcatest": [
         "lfa"
     ],
@@ -2063,7 +2053,6 @@
     "hermes": [],
     "HERON": [],
     "Herper": [],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -2095,9 +2084,7 @@
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HIREewas": [],
     "HiTC": [],
     "hoodscanR": [
@@ -2105,7 +2092,6 @@
     ],
     "HPAanalyze": [],
     "hpar": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -3021,9 +3007,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
@@ -3219,7 +3203,6 @@
         "GSEABase"
     ],
     "PhenStat": [],
-    "philr": [],
     "PhosR": [],
     "PhyloProfile": [
         "OmaDB",
@@ -3251,7 +3234,6 @@
     "pipeFrame": [],
     "planet": [],
     "plasmut": [],
-    "plier": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -3382,7 +3364,6 @@
         "mzR",
         "vsn"
     ],
-    "puma": [],
     "PureCN": [
         "DNAcopy",
         "VariantAnnotation"
@@ -4456,7 +4437,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "txcutr": [],
     "tximeta": [
         "tximport"
     ],
@@ -4476,9 +4456,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [
         "VariantAnnotation"
@@ -4519,7 +4497,6 @@
         "VariantAnnotation"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [
         "basilisk",
         "zellkonverter"
