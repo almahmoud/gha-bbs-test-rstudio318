@@ -31,7 +31,6 @@
     ],
     "affyPLM": [],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "agilp": [],
     "AgiMicroRna": [
         "Category",
@@ -91,7 +90,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "alevinQC": [
         "tximport"
     ],
@@ -216,7 +214,6 @@
     "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "Maaslin2",
         "phyloseq",
@@ -264,7 +261,6 @@
     "biocthis": [],
     "biocViews": [],
     "biodbExpasy": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
@@ -379,7 +375,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -559,7 +554,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -700,7 +694,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1145,7 +1138,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1245,9 +1237,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "funtooNorm": [
@@ -1587,7 +1577,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1675,7 +1664,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1719,7 +1707,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1804,7 +1791,6 @@
     "messina": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -1822,7 +1808,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -1904,7 +1889,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "phyloseq"
     ],
@@ -1968,7 +1952,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2024,7 +2007,6 @@
         "Spectra"
     ],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "msgbsR": [
@@ -2063,12 +2045,9 @@
         "sva"
     ],
     "msPurity": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsBig": [],
@@ -2150,7 +2129,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID",
@@ -2223,9 +2201,7 @@
     ],
     "OmaDB": [],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "impute",
         "omicade4",
@@ -2260,7 +2236,6 @@
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools",
@@ -2443,9 +2418,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -2474,7 +2447,6 @@
         "DNAcopy",
         "impute"
     ],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -2632,7 +2604,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "biocViews",
         "impute",
@@ -2798,11 +2769,8 @@
         "DNAcopy"
     ],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
-    "scReClassify": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -3071,7 +3039,6 @@
         "RankProd"
     ],
     "systemPipeR": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -3281,7 +3248,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "impute",
         "mzID"
