@@ -1149,7 +1149,6 @@
         "tkWidgets"
     ],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -1530,7 +1529,6 @@
     "rCGH": [
         "DNAcopy"
     ],
-    "RCM": [],
     "Rcollectl": [],
     "RcwlPipelines": [],
     "RCX": [],
