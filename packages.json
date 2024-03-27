@@ -241,7 +241,6 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "biomformat",
         "phyloseq",
         "zinbwave"
     ],
@@ -298,7 +297,6 @@
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "biomformat": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -598,7 +596,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clevRvis": [],
     "clipper": [
         "KEGGgraph",
@@ -691,7 +688,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -1714,9 +1710,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INPower": [],
     "INSPEcT": [],
     "InTAD": [],
@@ -1910,7 +1904,6 @@
         "TFBSTools"
     ],
     "MBECS": [
-        "biomformat",
         "phyloseq",
         "sva"
     ],
@@ -2069,20 +2062,15 @@
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "biomformat",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2507,7 +2495,6 @@
     "pathifier": [],
     "PathNet": [],
     "PathoStat": [
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [],
@@ -2566,9 +2553,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "Pigengene": [
@@ -2610,7 +2595,6 @@
     "PPInfer": [],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -2782,7 +2766,6 @@
         "aCGH"
     ],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcollectl": [],
@@ -2792,7 +2775,6 @@
         "Rcwl"
     ],
     "RCX": [],
-    "RCyjs": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -2808,7 +2790,6 @@
     ],
     "rebook": [],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -2959,7 +2940,6 @@
     ],
     "ropls": [],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "Rqc": [
@@ -2990,7 +2970,6 @@
         "gdsfmt"
     ],
     "sampleClassifier": [],
-    "sangeranalyseR": [],
     "SANTA": [],
     "SARC": [
         "RaggedExperiment"
@@ -3158,7 +3137,6 @@
         "siggenes"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [
@@ -3190,7 +3168,6 @@
         "Ringo"
     ],
     "SimBu": [
-        "biomformat",
         "phyloseq"
     ],
     "SIMLR": [],
@@ -3322,7 +3299,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "biomformat",
         "impute",
         "phyloseq"
     ],
