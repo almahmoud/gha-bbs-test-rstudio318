@@ -718,7 +718,6 @@
         "pcaMethods"
     ],
     "AWFisher": [],
-    "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
         "Rhtslib",
@@ -3450,7 +3449,6 @@
         "mixOmics"
     ],
     "DepInfeR": [],
-    "DEqMS": [],
     "derfinder": [
         "BSgenome",
         "BiocIO",
@@ -4421,7 +4419,6 @@
         "rtracklayer",
         "wiggleplotr"
     ],
-    "FamAgg": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -5369,7 +5366,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "BiocIO",
@@ -5390,8 +5386,7 @@
         "GOSemSim",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "goProfiles"
+        "fgsea"
     ],
     "goSTAG": [
         "biomaRt"
@@ -5632,7 +5627,6 @@
         "hypergraph",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "Rhdf5lib",
         "rhdf5",
@@ -5822,7 +5816,6 @@
         "biocthis"
     ],
     "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
     "HybridMTest": [],
     "hypeR": [],
     "hyperdraw": [
@@ -6230,7 +6223,6 @@
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
-    "iterClust": [],
     "IVAS": [
         "BiocIO",
         "GenomicAlignments",
@@ -8524,7 +8516,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "Rhdf5lib",
         "cytolib",
@@ -8741,7 +8732,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -10411,7 +10401,6 @@
         "ropls"
     ],
     "rqubic": [],
-    "rRDP": [],
     "rrvgo": [
         "GOSemSim"
     ],
@@ -10487,7 +10476,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Rvisdiff": [],
     "RVS": [
         "snpStats"
     ],
@@ -12909,7 +12897,6 @@
         "marray",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
