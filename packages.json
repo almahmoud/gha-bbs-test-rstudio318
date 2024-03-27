@@ -425,7 +425,6 @@
         "impute"
     ],
     "cghMCR": [
-        "CNTools",
         "DNAcopy"
     ],
     "CGHnormaliter": [
@@ -542,7 +541,6 @@
     "CNORode": [
         "CellNOptR"
     ],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -1045,7 +1043,6 @@
     ],
     "fgga": [],
     "FGNet": [],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1723,7 +1720,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
