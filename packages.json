@@ -2429,7 +2429,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationFilter",
         "BSgenome",
@@ -2453,7 +2452,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "NOISeq",
         "Rhtslib",
@@ -7615,7 +7613,6 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
