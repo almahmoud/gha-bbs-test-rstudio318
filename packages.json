@@ -218,7 +218,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "MAST",
         "Maaslin2",
         "phyloseq",
         "zinbwave"
@@ -434,9 +433,7 @@
     ],
     "ccrepe": [],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBarcode": [],
     "CellBench": [],
@@ -661,7 +658,6 @@
     "compSPOT": [],
     "condiments": [
         "TrajectoryUtils",
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -698,7 +694,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -932,7 +927,6 @@
     "diffuStats": [],
     "diffUTR": [],
     "Dino": [],
-    "distinct": [],
     "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
@@ -1085,7 +1079,6 @@
         "GenomicFiles",
         "OrganismDbi"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "TFBSTools",
@@ -1147,7 +1140,6 @@
     ],
     "fgga": [],
     "FGNet": [],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -1543,7 +1535,6 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
         "cytomapper"
@@ -1747,7 +1738,6 @@
     ],
     "maskBAD": [],
     "MassArray": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [
         "impute"
@@ -2387,9 +2377,7 @@
         "impute"
     ],
     "powerTCR": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "prebs": [
         "RPA",
         "phyloseq"
@@ -2933,7 +2921,6 @@
     "singleCellTK": [
         "GSVA",
         "M3Drop",
-        "MAST",
         "TSCAN",
         "TrajectoryUtils",
         "celda",
@@ -3112,7 +3099,6 @@
         "enrichplot",
         "tximport"
     ],
-    "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
         "ontoProc"
