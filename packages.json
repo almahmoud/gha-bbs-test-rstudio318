@@ -20,7 +20,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -47,7 +46,6 @@
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
     "alabaster.bumpy": [],
@@ -74,12 +72,10 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "alevinQC": [
         "tximport"
@@ -2152,7 +2148,6 @@
     "rexposome": [
         "impute"
     ],
-    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
