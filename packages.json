@@ -178,9 +178,7 @@
         "BeadDataPackR"
     ],
     "BeadDataPackR": [],
-    "benchdamic": [
-        "Maaslin2"
-    ],
+    "benchdamic": [],
     "BgeeCall": [
         "tximport"
     ],
@@ -1413,9 +1411,7 @@
     ],
     "M3C": [],
     "M3Drop": [],
-    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
         "impute"
     ],
     "MACSr": [],
@@ -1625,9 +1621,7 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "mnem": [],
     "moanin": [],
     "MobilityTransformR": [
@@ -2128,7 +2122,6 @@
     "RegionalST": [
         "BayesSpace"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
