@@ -137,7 +137,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
     "BADER": [],
     "BadRegionFinder": [],
     "ballgown": [],
@@ -333,7 +332,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -532,7 +530,6 @@
     ],
     "COSNet": [],
     "COTAN": [],
-    "cpvSNP": [],
     "CRImage": [
         "DNAcopy"
     ],
@@ -1341,7 +1338,6 @@
     "Macarron": [
         "impute"
     ],
-    "MACSr": [],
     "MADSEQ": [],
     "maftools": [
         "DNAcopy"
@@ -1652,7 +1648,6 @@
         "decompTumor2Sig",
         "maftools"
     ],
-    "MutationalPatterns": [],
     "MVCClass": [],
     "MWASTools": [],
     "myvariant": [],
@@ -2027,9 +2022,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -2143,9 +2136,7 @@
     ],
     "scBFA": [],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [
         "flowCore"
     ],
@@ -2154,7 +2145,6 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "SingleCellSignalR"
     ],
@@ -2209,7 +2199,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "selectKSigs": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -2427,7 +2416,6 @@
     "tkWidgets": [
         "DynDoc"
     ],
-    "tLOH": [],
     "TNBC.CMS": [
         "GSVA"
     ],
