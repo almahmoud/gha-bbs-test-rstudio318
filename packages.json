@@ -447,7 +447,6 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
-        "InteractionSet",
         "RBGL",
         "Rhdf5lib",
         "TFBSTools",
@@ -686,7 +685,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "biobroom": [],
     "biobtreeR": [],
     "bioCancer": [
         "BiocBaseUtils",
@@ -902,7 +900,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "epiNEM",
@@ -969,7 +966,6 @@
     "bumphunter": [],
     "BumpyMatrix": [],
     "BUS": [],
-    "BUScorrect": [],
     "BUSpaRse": [
         "plyranges"
     ],
@@ -989,7 +985,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -1013,7 +1008,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "MultiAssayExperiment",
         "VariantAnnotation",
         "biovizBase"
@@ -1353,7 +1347,6 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [
-        "InteractionSet",
         "RBGL",
         "graph",
         "multtest",
@@ -2083,7 +2076,6 @@
     ],
     "DCATS": [],
     "dce": [
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "epiNEM",
@@ -2243,7 +2235,6 @@
     ],
     "DEScan2": [
         "ChIPpeakAnno",
-        "InteractionSet",
         "RBGL",
         "graph",
         "multtest",
@@ -2306,7 +2297,6 @@
         "tximport"
     ],
     "diffHic": [
-        "InteractionSet",
         "Rhdf5lib",
         "csaw",
         "rhdf5",
@@ -2482,9 +2472,7 @@
         "snm",
         "sva"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "eds": [],
     "EGAD": [
         "impute"
@@ -2633,7 +2621,6 @@
         "siggenes"
     ],
     "epiNEM": [
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "graph",
@@ -2720,9 +2707,7 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [
         "BiocBaseUtils",
@@ -2771,7 +2756,6 @@
         "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase",
         "csaw"
@@ -3266,7 +3250,6 @@
     ],
     "GenomicInteractions": [
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3549,7 +3532,6 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "InteractionSet",
         "RBGL",
         "Rhdf5lib",
         "graph",
@@ -3625,7 +3607,6 @@
         "rhdf5filters"
     ],
     "HiCcompare": [
-        "InteractionSet",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -3633,43 +3614,36 @@
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biovizBase"
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "Rhdf5lib",
         "multiHiCcompare",
         "rhdf5",
         "rhdf5filters"
     ],
     "HiCExperiment": [
-        "InteractionSet",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
     ],
     "HiContacts": [
         "HiCExperiment",
-        "InteractionSet",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
     ],
     "HiCool": [
         "HiCExperiment",
-        "InteractionSet",
         "Rhdf5lib",
         "basilisk",
         "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
+    "hicVennDiagram": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -3857,7 +3831,6 @@
         "ggbio",
         "graph"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "ComplexHeatmap"
     ],
@@ -4058,7 +4031,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "Linnorm": [],
     "LinTInd": [],
     "lionessR": [],
     "lipidr": [
@@ -4220,7 +4192,6 @@
     ],
     "mariner": [
         "HDF5Array",
-        "InteractionSet",
         "Rhdf5lib",
         "plotgardener",
         "plyranges",
@@ -4605,7 +4576,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mia": [
         "BiocBaseUtils",
@@ -4816,7 +4786,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2"
     ],
@@ -4826,7 +4795,6 @@
         "metagenomeSeq"
     ],
     "mnem": [
-        "Linnorm",
         "Rgraphviz",
         "graph"
     ],
@@ -5131,7 +5099,6 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "InteractionSet",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -5211,7 +5178,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "InteractionSet",
         "RBGL",
         "Rgraphviz",
         "Rhdf5lib",
@@ -5287,7 +5253,6 @@
         "SingleCellExperiment"
     ],
     "nempi": [
-        "Linnorm",
         "RBGL",
         "Rgraphviz",
         "epiNEM",
@@ -5387,13 +5352,10 @@
         "HTqPCR"
     ],
     "NoRCE": [],
-    "normalize450K": [],
     "NormalyzerDE": [
         "vsn"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
@@ -5408,7 +5370,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges"
     ],
     "NuPoP": [],
@@ -5844,7 +5805,6 @@
     ],
     "plotGrouper": [],
     "plyinteractions": [
-        "InteractionSet",
         "plyranges"
     ],
     "plyranges": [],
@@ -5938,7 +5898,6 @@
         "rGREAT",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [
         "decoupleR"
     ],
@@ -6167,7 +6126,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "randPack": [],
     "RankProd": [],
     "RareVariantVis": [
         "GenomicScores",
@@ -6249,7 +6207,6 @@
         "graph",
         "graphite"
     ],
-    "ReadqPCR": [],
     "REBET": [
         "ASSET"
     ],
@@ -6292,7 +6249,6 @@
     "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
-        "InteractionSet",
         "RBGL",
         "graph",
         "multtest",
@@ -6562,7 +6518,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -6631,7 +6586,6 @@
     "RSVSim": [
         "ShortRead"
     ],
-    "RTCA": [],
     "RTCGAToolbox": [
         "BiocBaseUtils",
         "GenomicDataCommons",
@@ -6669,7 +6623,6 @@
         "gdsfmt"
     ],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "sangeranalyseR": [],
@@ -7087,9 +7040,7 @@
         "sva"
     ],
     "sevenbridges": [],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "SGCP": [
         "AnnotationForge",
         "Category",
@@ -7416,7 +7367,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -7456,7 +7406,6 @@
         "CNEr",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
@@ -7470,7 +7419,6 @@
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "InteractionSet",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -7674,7 +7622,6 @@
     ],
     "TADCompare": [
         "HiCcompare",
-        "InteractionSet",
         "Rhdf5lib",
         "rhdf5",
         "rhdf5filters"
@@ -7770,7 +7717,6 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment"
     ],
-    "tidySummarizedExperiment": [],
     "tigre": [],
     "tilingArray": [
         "genefilter",
@@ -7857,14 +7803,11 @@
         "fgsea",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
         "Gviz",
-        "InteractionSet",
         "Rgraphviz",
         "Rhdf5lib",
         "VariantAnnotation",
@@ -8133,7 +8076,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "InteractionSet",
         "RBGL",
         "ShortRead",
         "apeglm",
@@ -8258,7 +8200,6 @@
         "pathview",
         "safe"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "SingleCellExperiment",
         "genefilter"
