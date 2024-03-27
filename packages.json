@@ -152,9 +152,7 @@
         "cBioPortalData"
     ],
     "CARNIVAL": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "categoryCompare": [],
     "CausalR": [],
     "cbaf": [
@@ -175,7 +173,6 @@
         "impute"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [],
@@ -225,7 +222,6 @@
         "maftools"
     ],
     "clevRvis": [],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "impute",
@@ -262,9 +258,7 @@
     "CNVrd2": [
         "DNAcopy"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cola": [
         "impute"
     ],
@@ -329,12 +323,10 @@
         "tkWidgets"
     ],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "CytoML": [
         "flowWorkspace",
@@ -343,14 +335,12 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto"
     ],
@@ -377,7 +367,6 @@
     "debrowser": [
         "Harman"
     ],
-    "decontX": [],
     "deconvR": [],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -403,9 +392,7 @@
     "diffcoexp": [
         "impute"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
     ],
@@ -524,7 +511,6 @@
         "xcms"
     ],
     "FLAMES": [],
-    "flowAI": [],
     "flowBin": [
         "flowFP"
     ],
@@ -540,7 +526,6 @@
     ],
     "flowMerge": [],
     "flowPeaks": [],
-    "FlowSOM": [],
     "flowStats": [
         "flowWorkspace"
     ],
@@ -703,7 +688,6 @@
         "Pigengene",
         "impute"
     ],
-    "infinityFlow": [],
     "INPower": [],
     "intansv": [],
     "IntramiRExploreR": [
@@ -817,9 +801,7 @@
     "MetaboAnnotation": [],
     "MetaboSignal": [],
     "metaCCA": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -863,7 +845,6 @@
     "MinimumDistance": [
         "DNAcopy"
     ],
-    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "impute"
@@ -991,7 +972,6 @@
         "impute",
         "rexposome"
     ],
-    "OMICsPCA": [],
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [
@@ -1087,7 +1067,6 @@
     "psichomics": [
         "recount"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -1151,7 +1130,6 @@
     "rebook": [],
     "recount": [],
     "recountmethylation": [],
-    "REDseq": [],
     "regionReport": [],
     "regutools": [],
     "REMP": [
@@ -1161,7 +1139,6 @@
         "DNAcopy"
     ],
     "ReportingTools": [],
-    "RESOLVE": [],
     "ReUseData": [],
     "rexposome": [
         "impute"
@@ -1178,7 +1155,6 @@
         "mzID",
         "xcms"
     ],
-    "RITAN": [],
     "RLassoCox": [],
     "RLSeq": [],
     "RMassBank": [
@@ -1383,7 +1359,6 @@
         "RankProd"
     ],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "TSAR": [],
