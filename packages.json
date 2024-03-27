@@ -1342,7 +1342,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "KEGGgraph",
         "clusterProfiler",
@@ -1648,7 +1647,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category"
     ],
