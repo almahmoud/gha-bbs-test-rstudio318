@@ -17,11 +17,9 @@
     ],
     "AHMassBank": [],
     "alabaster": [
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "alabaster.vcf": [],
     "alevinQC": [
         "tximport"
     ],
@@ -53,7 +51,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "attract": [],
     "BADER": [],
     "bandle": [
         "MSnbase",
@@ -100,7 +97,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "borealis": [],
     "brainflowprobes": [
         "derfinderPlot"
     ],
@@ -232,7 +228,6 @@
     ],
     "compSPOT": [],
     "CONFESS": [
-        "flowMerge",
         "flowPeaks"
     ],
     "consensus": [],
@@ -276,9 +271,7 @@
         "impute"
     ],
     "cummeRbund": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "cycle": [
         "DynDoc",
         "Mfuzz",
@@ -317,7 +310,6 @@
     ],
     "DCATS": [],
     "ddPCRclust": [
-        "flowDensity",
         "flowPeaks"
     ],
     "debrowser": [
@@ -434,7 +426,6 @@
     "factR": [
         "drawProteins"
     ],
-    "famat": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -456,15 +447,11 @@
         "xcms"
     ],
     "flowBin": [],
-    "flowCut": [
-        "flowDensity"
-    ],
+    "flowCut": [],
     "flowCyBar": [],
-    "flowDensity": [],
     "flowGate": [
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowPeaks": [],
     "flowStats": [],
     "flowVS": [
@@ -521,7 +508,6 @@
         "impute"
     ],
     "GenomicInteractions": [],
-    "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -760,7 +746,6 @@
         "impute"
     ],
     "monocle": [],
-    "Moonlight2R": [],
     "motifbreakR": [],
     "MPFE": [],
     "msgbsR": [],
@@ -865,7 +850,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "openCyto": [],
-    "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -902,7 +886,6 @@
     "PING": [],
     "planet": [],
     "plasmut": [],
-    "PloGO2": [],
     "plotGrouper": [],
     "pmp": [
         "impute"
@@ -1037,7 +1020,6 @@
     "RNAAgeCalc": [
         "impute"
     ],
-    "RNAinteract": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
@@ -1089,13 +1071,11 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scTensor": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
         "epivizrServer"
     ],
-    "segmenter": [],
     "semisup": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -1117,7 +1097,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "SGCP": [],
     "signifinder": [
         "consensusOV",
         "genefu",
