@@ -215,9 +215,7 @@
         "impute"
     ],
     "comapr": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
         "flowPeaks"
@@ -691,7 +689,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylPipe": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
