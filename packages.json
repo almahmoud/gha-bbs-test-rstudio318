@@ -10,26 +10,17 @@
         "GLAD",
         "snapCGH"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "agilp": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AHMassBank": [],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
+    "alabaster.spatial": [],
     "alabaster.vcf": [],
     "alevinQC": [
         "tximport"
@@ -100,7 +91,6 @@
     "BioNERO": [
         "impute"
     ],
-    "BioNetStat": [],
     "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
@@ -119,7 +109,6 @@
     ],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
@@ -470,7 +459,6 @@
         "mzID",
         "xcms"
     ],
-    "FLAMES": [],
     "flowBin": [],
     "flowCut": [
         "flowDensity"
@@ -483,7 +471,6 @@
     "flowMerge": [],
     "flowPeaks": [],
     "flowStats": [],
-    "flowTrans": [],
     "flowVS": [
         "flowStats"
     ],
@@ -503,7 +490,6 @@
     "gcatest": [
         "lfa"
     ],
-    "GDCRNATools": [],
     "gDR": [
         "gDRimport"
     ],
@@ -617,9 +603,7 @@
     "iCheck": [
         "lumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
@@ -728,7 +712,6 @@
     "MEDIPS": [
         "DNAcopy"
     ],
-    "MEIGOR": [],
     "Mergeomics": [],
     "messina": [],
     "MetaboSignal": [],
@@ -786,7 +769,6 @@
     ],
     "monocle": [],
     "Moonlight2R": [],
-    "MoonlightR": [],
     "motifbreakR": [],
     "MPFE": [],
     "msgbsR": [],
@@ -906,7 +888,6 @@
     "pathifier": [],
     "PathNet": [],
     "pathwayPCA": [],
-    "pcaExplorer": [],
     "PDATK": [
         "genefu",
         "impute"
@@ -1048,7 +1029,6 @@
     "Repitools": [
         "DNAcopy"
     ],
-    "ReportingTools": [],
     "rexposome": [
         "impute"
     ],
@@ -1190,7 +1170,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
     ],
@@ -1298,9 +1277,7 @@
         "mzID"
     ],
     "Xeva": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
