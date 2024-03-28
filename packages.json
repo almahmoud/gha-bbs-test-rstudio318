@@ -83,7 +83,6 @@
     "BioMVCClass": [
         "MVCClass"
     ],
-    "biomvRCNS": [],
     "BioNAR": [
         "impute"
     ],
@@ -640,7 +639,6 @@
         "maftools"
     ],
     "KBoost": [],
-    "kissDE": [],
     "LBE": [],
     "LEA": [],
     "LedPred": [],
@@ -679,7 +677,6 @@
     "MANOR": [
         "GLAD"
     ],
-    "maser": [],
     "MassArray": [],
     "MatrixQCvis": [
         "impute"
@@ -793,7 +790,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -805,7 +801,6 @@
         "impute",
         "mzID"
     ],
-    "MSstatsShiny": [],
     "multicrispr": [],
     "MultiRNAflow": [
         "DynDoc",
@@ -963,7 +958,6 @@
     "PureCN": [
         "DNAcopy"
     ],
-    "Pviz": [],
     "pwOmics": [
         "rBiopaxParser"
     ],
@@ -1168,7 +1162,6 @@
     "SPsimSeq": [
         "impute"
     ],
-    "srnadiff": [],
     "ssize": [],
     "standR": [
         "EDASeq",
