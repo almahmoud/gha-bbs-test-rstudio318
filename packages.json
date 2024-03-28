@@ -53,7 +53,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "ATACseqQC": [],
     "attract": [],
     "BADER": [],
     "bandle": [
@@ -102,7 +101,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
         "derfinderPlot"
@@ -671,7 +669,6 @@
         "RnBeads",
         "impute"
     ],
-    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -745,7 +742,6 @@
         "DynDoc",
         "tkWidgets"
     ],
-    "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [
         "lumi"
@@ -797,7 +793,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MsQuality": [],
     "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
@@ -827,7 +822,6 @@
     "MVCClass": [],
     "mzID": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "nanotatoR": [],
@@ -840,7 +834,6 @@
     "ndexr": [
         "RCX"
     ],
-    "nempi": [],
     "netbiov": [],
     "netboost": [
         "impute"
@@ -1122,7 +1115,6 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchRplus": [],
     "SeqArray": [
         "gdsfmt"
     ],
@@ -1152,7 +1144,6 @@
         "scMerge",
         "tximport"
     ],
-    "SingleMoleculeFootprinting": [],
     "sizepower": [],
     "skewr": [
         "lumi",
