@@ -159,7 +159,6 @@
         "DNAcopy",
         "impute",
         "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIPseqR": [
@@ -317,9 +316,7 @@
     ],
     "diffuStats": [],
     "divergence": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
     ],
@@ -610,7 +607,6 @@
         "DNAcopy"
     ],
     "MAGAR": [
-        "RnBeads",
         "impute"
     ],
     "MAIT": [
@@ -640,9 +636,7 @@
     "MDTS": [
         "DNAcopy"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "impute",
         "lumi",
@@ -669,9 +663,7 @@
         "impute",
         "planet"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MethylMix": [
         "impute"
     ],
@@ -689,7 +681,6 @@
     "miRLAB": [
         "impute"
     ],
-    "missMethyl": [],
     "mistyR": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -967,7 +958,6 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "Rnits": [
         "impute"
     ],
