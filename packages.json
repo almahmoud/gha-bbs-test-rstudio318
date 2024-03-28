@@ -119,7 +119,6 @@
         "cBioPortalData"
     ],
     "CARNIVAL": [],
-    "CATALYST": [],
     "CausalR": [],
     "cbaf": [
         "cBioPortalData"
@@ -168,7 +167,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -261,7 +259,6 @@
     "csdR": [
         "impute"
     ],
-    "cummeRbund": [],
     "cyanoFilter": [],
     "cycle": [
         "DynDoc",
@@ -271,9 +268,7 @@
     "CyTOFpower": [
         "diffcyt"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
         "ggcyto",
         "openCyto"
