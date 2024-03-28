@@ -23,7 +23,6 @@
     "alevinQC": [
         "tximport"
     ],
-    "AllelicImbalance": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -320,7 +319,6 @@
         "ttgsea"
     ],
     "deltaGseg": [],
-    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -501,7 +499,6 @@
         "SeqVarTools",
         "gdsfmt"
     ],
-    "GeneStructureTools": [],
     "genomation": [
         "impute"
     ],
@@ -592,7 +589,6 @@
         "impute"
     ],
     "INPower": [],
-    "intansv": [],
     "IntramiRExploreR": [
         "FGNet"
     ],
@@ -714,7 +710,6 @@
         "impute"
     ],
     "methylPipe": [],
-    "methylSig": [],
     "Mfuzz": [
         "DynDoc",
         "tkWidgets"
@@ -743,7 +738,6 @@
     "monocle": [],
     "motifbreakR": [],
     "MPFE": [],
-    "msgbsR": [],
     "mslp": [
         "RankProd"
     ],
@@ -795,9 +789,7 @@
     ],
     "MVCClass": [],
     "mzID": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "nanotatoR": [],
     "ncGTW": [
         "MSnbase",
@@ -1169,7 +1161,6 @@
         "mzID"
     ],
     "TPP2D": [],
-    "trackViewer": [],
     "tRanslatome": [
         "RankProd"
     ],
@@ -1197,11 +1188,9 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "VariantFiltering": [],
     "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
-    "vulcan": [],
     "wateRmelon": [
         "lumi"
     ],
