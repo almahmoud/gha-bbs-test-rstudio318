@@ -214,7 +214,6 @@
     "cola": [
         "impute"
     ],
-    "comapr": [],
     "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
@@ -793,9 +792,7 @@
     "netSmooth": [
         "clusterExperiment"
     ],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "NTW": [],
     "NuPoP": [],
     "occugene": [],
@@ -1148,7 +1145,6 @@
         "tximport"
     ],
     "tximport": [],
-    "uncoverappLib": [],
     "uSORT": [
         "monocle"
     ],
@@ -1180,7 +1176,6 @@
         "mzID"
     ],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
