@@ -407,7 +407,6 @@
     "EpiMix": [
         "impute"
     ],
-    "epimutacions": [],
     "epivizr": [
         "epivizrData",
         "epivizrServer"
@@ -947,9 +946,7 @@
         "mzID",
         "tkWidgets"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -1007,8 +1004,6 @@
         "ASSET"
     ],
     "rebook": [],
-    "recount": [],
-    "regionReport": [],
     "regutools": [],
     "REMP": [
         "impute"
@@ -1040,8 +1035,7 @@
     ],
     "rmelting": [],
     "RNAAgeCalc": [
-        "impute",
-        "recount"
+        "impute"
     ],
     "RNAinteract": [],
     "RNAmodR": [],
@@ -1054,9 +1048,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "Rnits": [
         "impute"
@@ -1158,7 +1150,6 @@
     "spatzie": [
         "GenomicInteractions"
     ],
-    "SPLINTER": [],
     "SPsimSeq": [
         "impute"
     ],
