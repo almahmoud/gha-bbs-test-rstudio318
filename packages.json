@@ -46,7 +46,6 @@
     "ARRmNormalization": [],
     "ASEB": [],
     "ASGSCA": [],
-    "ASpli": [],
     "ASSET": [],
     "ATACCoGAPS": [
         "GeneOverlap"
@@ -674,7 +673,6 @@
     "MCbiclust": [
         "impute"
     ],
-    "mCSEA": [],
     "mdp": [],
     "MDTS": [
         "DNAcopy"
@@ -694,7 +692,6 @@
     "messina": [],
     "MetaboSignal": [],
     "metaCCA": [],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -881,7 +878,6 @@
     "Pigengene": [
         "impute"
     ],
-    "PING": [],
     "planet": [],
     "plasmut": [],
     "plotGrouper": [],
@@ -903,7 +899,6 @@
         "impute",
         "mzID"
     ],
-    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
@@ -1221,7 +1216,6 @@
         "impute",
         "mzID"
     ],
-    "Xeva": [],
     "YAPSA": [],
     "yarn": [],
     "zenith": [
