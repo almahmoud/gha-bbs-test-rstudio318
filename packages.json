@@ -112,7 +112,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "BLMA": [],
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
@@ -148,7 +147,6 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CBNplot": [],
     "ccImpute": [
         "SIMLR"
     ],
@@ -332,7 +330,6 @@
         "tkWidgets"
     ],
     "DCATS": [],
-    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowPeaks"
@@ -773,7 +770,6 @@
     "MinimumDistance": [
         "DNAcopy"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "impute"
     ],
@@ -1011,7 +1007,6 @@
         "impute",
         "mzID"
     ],
-    "R3CPET": [],
     "RAIDS": [
         "DNAcopy",
         "GENESIS",
@@ -1111,7 +1106,6 @@
         "gdsfmt"
     ],
     "SANTA": [],
-    "SBGNview": [],
     "SBMLR": [],
     "SCArray": [
         "gdsfmt"
@@ -1166,7 +1160,6 @@
         "gdsfmt"
     ],
     "SGCP": [],
-    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
