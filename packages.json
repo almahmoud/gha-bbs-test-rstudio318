@@ -63,8 +63,6 @@
         "GeneOverlap"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [],
-    "atSNP": [],
     "attract": [],
     "BADER": [],
     "bandle": [
@@ -115,7 +113,6 @@
         "beadarray"
     ],
     "BLMA": [],
-    "bnem": [],
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
@@ -164,7 +161,6 @@
     "censcyt": [
         "diffcyt"
     ],
-    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -197,7 +193,6 @@
         "wateRmelon"
     ],
     "chimeraviz": [],
-    "ChIPQC": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -231,12 +226,8 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -276,7 +267,6 @@
     "conumee": [
         "DNAcopy"
     ],
-    "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -317,19 +307,16 @@
         "CATALYST"
     ],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "DaMiRseq": [
@@ -358,7 +345,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "DEGraph": [],
     "deltaGseg": [],
     "DeMixT": [],
     "demuxmix": [],
@@ -456,7 +442,6 @@
         "epivizrData",
         "epivizrServer"
     ],
-    "esATAC": [],
     "EventPointer": [
         "tximport"
     ],
@@ -489,30 +474,22 @@
         "xcms"
     ],
     "FLAMES": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [
         "flowDensity"
     ],
     "flowCyBar": [],
     "flowDensity": [],
-    "flowFP": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowMerge": [],
     "flowPeaks": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowTrans": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "garfield": [],
@@ -521,9 +498,7 @@
         "EDASeq",
         "aroma.light"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -584,12 +559,9 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gespeR": [],
     "geva": [],
     "GEWIST": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -651,9 +623,7 @@
     "ideal": [
         "pcaExplorer"
     ],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -764,7 +734,6 @@
     "MEIGOR": [],
     "Mergeomics": [],
     "messina": [],
-    "MetaboAnnotation": [],
     "MetaboSignal": [],
     "metaCCA": [],
     "MetaCyto": [],
@@ -930,9 +899,7 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "optimalFlow": [],
     "OutSplice": [
         "DNAcopy",
@@ -948,9 +915,7 @@
         "genefu",
         "impute"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "impute",
@@ -1089,7 +1054,6 @@
         "DNAcopy"
     ],
     "ReportingTools": [],
-    "ReUseData": [],
     "rexposome": [
         "impute"
     ],
@@ -1248,7 +1212,6 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "staRank": [],
     "statTarget": [
         "impute"
     ],
