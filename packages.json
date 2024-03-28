@@ -261,10 +261,7 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "csdR": [
         "impute"
     ],
@@ -378,7 +375,6 @@
     "EGSEA": [
         "safe"
     ],
-    "ELMER": [],
     "ENmix": [
         "impute"
     ],
@@ -825,7 +821,6 @@
         "RUVSeq",
         "aroma.light"
     ],
-    "OGRE": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -1129,7 +1124,6 @@
     "synlet": [
         "RankProd"
     ],
-    "tadar": [],
     "TargetDecoy": [
         "mzID"
     ],
