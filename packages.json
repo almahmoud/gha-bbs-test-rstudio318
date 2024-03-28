@@ -18,9 +18,7 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
@@ -46,7 +44,6 @@
     "AneuFinder": [
         "DNAcopy"
     ],
-    "AnnotationHubData": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "aroma.light": [],
@@ -149,7 +146,6 @@
     ],
     "CARNIVAL": [],
     "CATALYST": [],
-    "categoryCompare": [],
     "CausalR": [],
     "cbaf": [
         "cBioPortalData"
@@ -336,7 +332,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "aroma.light"
@@ -426,14 +421,12 @@
         "safe"
     ],
     "ELMER": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "impute"
     ],
     "EnrichmentBrowser": [
         "safe"
     ],
-    "enrichTF": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -467,9 +460,7 @@
     "EventPointer": [
         "tximport"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -545,7 +536,6 @@
         "gDRimport"
     ],
     "gDRimport": [],
-    "gDRstyle": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -615,7 +605,6 @@
         "cBioPortalData",
         "maftools"
     ],
-    "goSorensen": [],
     "GPA": [],
     "graper": [],
     "GraphAlignment": [],
@@ -786,13 +775,11 @@
         "mzID",
         "xcms"
     ],
-    "MetaPhOR": [],
     "metaseqR2": [
         "EDASeq",
         "aroma.light"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "impute",
         "planet"
@@ -951,8 +938,6 @@
         "DNAcopy",
         "Repitools"
     ],
-    "pageRank": [],
-    "PanomiR": [],
     "PanViz": [],
     "Path2PPI": [],
     "pathifier": [],
@@ -1187,7 +1172,6 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scruff": [],
     "scTensor": [],
     "scTreeViz": [
         "epivizr",
