@@ -951,7 +951,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "NTW": [],
@@ -1092,7 +1091,6 @@
         "impute",
         "mzID"
     ],
-    "quantro": [],
     "QuartPAC": [],
     "R3CPET": [],
     "RAIDS": [
@@ -1403,9 +1401,7 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
