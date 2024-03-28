@@ -98,16 +98,13 @@
     "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "impute"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -133,9 +130,7 @@
     "CEMiTool": [
         "impute"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -262,9 +257,7 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
         "ggcyto",
@@ -319,7 +312,6 @@
     "diffcoexp": [
         "impute"
     ],
-    "diffcyt": [],
     "DifferentialRegulation": [
         "tximport"
     ],
@@ -399,9 +391,7 @@
     "EventPointer": [
         "tximport"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "factR": [
         "drawProteins"
     ],
@@ -482,7 +472,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicInteractions": [],
     "GenomicPlot": [
         "RCAS",
         "genomation",
@@ -542,9 +531,7 @@
     ],
     "Harman": [],
     "Herper": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -714,7 +701,6 @@
         "impute"
     ],
     "monocle": [],
-    "motifbreakR": [],
     "MPFE": [],
     "mslp": [
         "RankProd"
@@ -860,7 +846,6 @@
         "DNAcopy",
         "rCGH"
     ],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "impute",
@@ -1077,9 +1062,7 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SPsimSeq": [
         "impute"
     ],
@@ -1136,9 +1119,7 @@
     "tRanslatome": [
         "RankProd"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TSAR": [],
     "ttgsea": [],
     "tximeta": [
