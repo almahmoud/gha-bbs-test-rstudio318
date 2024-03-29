@@ -160,7 +160,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CytoML": [],
     "DaMiRseq": [
         "EDASeq"
     ],
@@ -194,10 +193,7 @@
     "DifferentialRegulation": [],
     "diffuStats": [],
     "divergence": [],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "doppelgangR": [
         "impute"
     ],
@@ -265,7 +261,6 @@
         "mzID",
         "xcms"
     ],
-    "flowVS": [],
     "frenchFISH": [],
     "garfield": [],
     "GARS": [
