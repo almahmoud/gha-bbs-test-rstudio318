@@ -9,9 +9,7 @@
         "snapCGH"
     ],
     "agilp": [],
-    "alevinQC": [
-        "tximport"
-    ],
+    "alevinQC": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -23,7 +21,6 @@
     "arrayQualityMetrics": [
         "beadarray"
     ],
-    "ARRmNormalization": [],
     "ASEB": [],
     "ASGSCA": [],
     "ASSET": [],
@@ -39,15 +36,12 @@
     ],
     "BaseSpaceR": [],
     "beadarray": [],
-    "BgeeCall": [
-        "tximport"
-    ],
+    "BgeeCall": [],
     "bigmelon": [
         "gdsfmt"
     ],
     "biobtreeR": [],
     "BiocOncoTK": [],
-    "biocthis": [],
     "BioMVCClass": [
         "MVCClass"
     ],
@@ -197,10 +191,7 @@
         "ttgsea"
     ],
     "deltaGseg": [],
-    "demuxmix": [],
-    "demuxSNP": [
-        "demuxmix"
-    ],
+    "demuxSNP": [],
     "DEP": [
         "MSnbase",
         "impute",
@@ -212,9 +203,7 @@
     "diffcoexp": [
         "impute"
     ],
-    "DifferentialRegulation": [
-        "tximport"
-    ],
+    "DifferentialRegulation": [],
     "diffuStats": [],
     "divergence": [],
     "DNABarcodeCompatibility": [
@@ -260,25 +249,17 @@
         "impute"
     ],
     "epivizr": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "epivizrChart": [
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
-    "epivizrData": [
-        "epivizrServer"
-    ],
-    "epivizrServer": [],
+    "epivizrData": [],
     "epivizrStandalone": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
-    "EventPointer": [
-        "tximport"
-    ],
+    "EventPointer": [],
     "factR": [],
     "fastLiquidAssociation": [
         "impute"
@@ -370,12 +351,10 @@
     ],
     "GPA": [],
     "graper": [],
-    "GRENITS": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
     ],
-    "GSgalgoR": [],
     "GWASTools": [
         "gdsfmt"
     ],
@@ -392,10 +371,7 @@
     "HilbertCurve": [],
     "HilbertVisGUI": [],
     "HIREewas": [],
-    "HPAanalyze": [],
-    "HubPub": [
-        "biocthis"
-    ],
+    "HubPub": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -418,8 +394,7 @@
     ],
     "IsoformSwitchAnalyzeR": [
         "pfamAnalyzeR",
-        "tximeta",
-        "tximport"
+        "tximeta"
     ],
     "ISoLDE": [],
     "ITALICS": [
@@ -443,7 +418,6 @@
         "mzID",
         "xcms"
     ],
-    "M3C": [],
     "M3Drop": [],
     "Macarron": [
         "impute"
@@ -480,7 +454,6 @@
         "impute"
     ],
     "MEDIPS": [],
-    "Mergeomics": [],
     "messina": [],
     "metaCCA": [],
     "metaMS": [
@@ -578,7 +551,6 @@
         "xcms"
     ],
     "ndexr": [],
-    "netbiov": [],
     "netboost": [
         "impute"
     ],
@@ -593,7 +565,6 @@
         "clusterExperiment"
     ],
     "NTW": [],
-    "NuPoP": [],
     "occugene": [],
     "octad": [
         "EDASeq",
@@ -637,7 +608,6 @@
         "impute"
     ],
     "planet": [],
-    "plasmut": [],
     "plotGrouper": [],
     "pmp": [
         "impute"
@@ -715,10 +685,7 @@
     "rCGH": [],
     "Rcollectl": [],
     "Rdisop": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "REBET": [
         "ASSET"
     ],
@@ -786,8 +753,7 @@
     "scRepertoire": [],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
-        "epivizrServer"
+        "epivizrData"
     ],
     "semisup": [],
     "seq.hotSPOT": [],
@@ -818,8 +784,7 @@
     "SIMLR": [],
     "singleCellTK": [
         "M3Drop",
-        "scMerge",
-        "tximport"
+        "scMerge"
     ],
     "sizepower": [],
     "SMAD": [],
@@ -856,12 +821,9 @@
         "mzID"
     ],
     "TargetSearch": [],
-    "TDbasedUFE": [
-        "tximport"
-    ],
+    "TDbasedUFE": [],
     "TDbasedUFEadv": [
-        "TDbasedUFE",
-        "tximport"
+        "TDbasedUFE"
     ],
     "TimiRGeN": [
         "DynDoc",
@@ -885,10 +847,7 @@
     ],
     "TSAR": [],
     "ttgsea": [],
-    "tximeta": [
-        "tximport"
-    ],
-    "tximport": [],
+    "tximeta": [],
     "uSORT": [
         "monocle"
     ],
@@ -902,7 +861,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
     "weitrix": [],
