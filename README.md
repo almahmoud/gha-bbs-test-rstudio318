@@ -1,12 +1,12 @@
 # Summary
 
-1805 Bioconductor sotware binaries built
+1806 Bioconductor sotware binaries built
 
-3570 Other dependency binaries built
+3571 Other dependency binaries built
 
 0 failed packages
 
-392 unclaimed packages
+391 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (392)
+## Unclaimed (391)
 | Package                  | Status    | Blocked By                                                                                           |
 |--------------------------|-----------|------------------------------------------------------------------------------------------------------|
 | ACE                      | Unclaimed | Incomplete Bioc dependencies: CGHcall, DNAcopy, QDNAseq, impute.                                     |
@@ -97,7 +97,6 @@
 | csdR                     | Unclaimed | Incomplete Bioc dependencies: impute.                                                                |
 | cycle                    | Unclaimed | Incomplete Bioc dependencies: DynDoc, Mfuzz, tkWidgets.                                              |
 | CytoML                   | Unclaimed |                                                                                                      |
-| CytoPipelineGUI          | Unclaimed |                                                                                                      |
 | DaMiRseq                 | Unclaimed | Incomplete Bioc dependencies: EDASeq, aroma.light.                                                   |
 | DAPAR                    | Unclaimed | Incomplete Bioc dependencies: DynDoc, MSnbase, Mfuzz, impute, mzID, tkWidgets.                       |
 | DCATS                    | Unclaimed |                                                                                                      |
@@ -410,7 +409,7 @@
 | xcms                     | Unclaimed | Incomplete Bioc dependencies: MSnbase, impute, mzID.                                                 |
 | zenith                   | Unclaimed | Incomplete Bioc dependencies: EnrichmentBrowser, safe.                                               |
 
-## Bioconductor Software Binaries Built (1805)
+## Bioconductor Software Binaries Built (1806)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -813,6 +812,7 @@
 | cytomapper                   | Succeeded | [cytomapper_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/cytomapper_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | cytoMEM                      | Succeeded | [cytoMEM_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/cytoMEM_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | CytoPipeline                 | Succeeded | [CytoPipeline_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/CytoPipeline_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
+| CytoPipelineGUI              | Succeeded | [CytoPipelineGUI_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/CytoPipelineGUI_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | cytoviewer                   | Succeeded | [cytoviewer_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/cytoviewer_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | dada2                        | Succeeded | [dada2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/dada2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | dagLogo                      | Succeeded | [dagLogo_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/dagLogo_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2219,7 +2219,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1805)
+## Other Dependency Binaries (1806)
 | Package                                       | Status    | Tarball                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | tissueTreg                                    | Succeeded | [tissueTreg_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/tissueTreg_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
@@ -2384,6 +2384,7 @@
 | gDNAinRNAseqData                              | Succeeded | [gDNAinRNAseqData_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/gDNAinRNAseqData_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | tenXplore                                     | Succeeded | [tenXplore_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/tenXplore_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
 | trackViewer                                   | Succeeded | [trackViewer_1.38.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/trackViewer_1.38.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
+| CytoPipelineGUI                               | Succeeded | [CytoPipelineGUI_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/CytoPipelineGUI_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
 | snowfall                                      | Succeeded | [snowfall_1.84-6.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/snowfall_1.84-6.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | SpectralTAD                                   | Succeeded | [SpectralTAD_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/SpectralTAD_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | categoryCompare                               | Succeeded | [categoryCompare_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/categoryCompare_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
