@@ -92,14 +92,11 @@
     "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "impute"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "impute",
@@ -243,7 +240,6 @@
         "tkWidgets"
     ],
     "CyTOFpower": [],
-    "cytofQC": [],
     "CytoML": [],
     "CytoPipeline": [
         "PeacoQC"
@@ -369,7 +365,6 @@
     "EventPointer": [
         "tximport"
     ],
-    "extraChIPs": [],
     "factR": [
         "drawProteins"
     ],
@@ -411,7 +406,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gDR": [],
     "GDSArray": [
         "SNPRelate",
         "SeqArray",
@@ -498,7 +492,6 @@
     ],
     "Harman": [],
     "Herper": [],
-    "HiCDCPlus": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -627,7 +620,6 @@
         "impute",
         "planet"
     ],
-    "methylGSA": [],
     "MethylMix": [
         "impute"
     ],
@@ -706,7 +698,6 @@
     ],
     "MVCClass": [],
     "mzID": [],
-    "NADfinder": [],
     "nanotatoR": [],
     "ncGTW": [
         "MSnbase",
@@ -1065,7 +1056,6 @@
     "tRanslatome": [
         "RankProd"
     ],
-    "treekoR": [],
     "TSAR": [],
     "ttgsea": [],
     "tximeta": [
