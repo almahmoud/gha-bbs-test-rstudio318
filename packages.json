@@ -11,10 +11,7 @@
         "snapCGH"
     ],
     "agilp": [],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "alevinQC": [
         "tximport"
     ],
@@ -30,7 +27,6 @@
     "antiProfiles": [],
     "AnVILBilling": [],
     "aroma.light": [],
-    "arrayMvout": [],
     "arrayQualityMetrics": [
         "BeadDataPackR",
         "beadarray"
@@ -58,11 +54,9 @@
         "tximport"
     ],
     "bigmelon": [
-        "gdsfmt",
-        "wateRmelon"
+        "gdsfmt"
     ],
     "biobtreeR": [],
-    "bioCancer": [],
     "BiocOncoTK": [],
     "biocthis": [],
     "BioMVCClass": [
@@ -133,8 +127,7 @@
     ],
     "ChAMP": [
         "DNAcopy",
-        "impute",
-        "wateRmelon"
+        "impute"
     ],
     "ChIPseqR": [
         "HilbertVis"
@@ -181,7 +174,6 @@
     "cola": [
         "impute"
     ],
-    "compEpiTools": [],
     "compSPOT": [],
     "CONFESS": [
         "flowPeaks"
@@ -219,7 +211,6 @@
     "crisprBwa": [
         "Rbwa"
     ],
-    "crisprVerse": [],
     "csdR": [
         "impute"
     ],
@@ -228,14 +219,10 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "CyTOFpower": [],
     "CytoML": [],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC"
+        "CytoPipeline"
     ],
     "DaMiRseq": [
         "EDASeq",
@@ -580,8 +567,7 @@
         "DNAcopy"
     ],
     "MEAT": [
-        "impute",
-        "wateRmelon"
+        "impute"
     ],
     "MEDIPS": [
         "DNAcopy"
@@ -612,7 +598,6 @@
         "tkWidgets"
     ],
     "microRNA": [],
-    "MineICA": [],
     "MinimumDistance": [
         "DNAcopy"
     ],
@@ -706,7 +691,6 @@
     "netSmooth": [
         "clusterExperiment"
     ],
-    "netZooR": [],
     "NTW": [],
     "NuPoP": [],
     "occugene": [],
@@ -738,7 +722,6 @@
         "genefu",
         "impute"
     ],
-    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "impute",
@@ -967,9 +950,7 @@
         "tximport"
     ],
     "sizepower": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -1060,7 +1041,6 @@
     "vbmp": [],
     "veloviz": [],
     "VennDetail": [],
-    "wateRmelon": [],
     "weitrix": [
         "topconfects"
     ],
