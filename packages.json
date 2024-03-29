@@ -1,12 +1,10 @@
 {
     "ACE": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "impute"
     ],
     "ADaCGH2": [
-        "DNAcopy",
         "GLAD",
         "snapCGH"
     ],
@@ -20,14 +18,9 @@
     "AMARETTO": [
         "impute"
     ],
-    "AneuFinder": [
-        "DNAcopy"
-    ],
-    "antiProfiles": [],
+    "AneuFinder": [],
     "AnVILBilling": [],
-    "aroma.light": [],
     "arrayQualityMetrics": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "ARRmNormalization": [],
@@ -45,10 +38,7 @@
         "pRoloc"
     ],
     "BaseSpaceR": [],
-    "beadarray": [
-        "BeadDataPackR"
-    ],
-    "BeadDataPackR": [],
+    "beadarray": [],
     "BgeeCall": [
         "tximport"
     ],
@@ -70,16 +60,13 @@
     "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "impute"
     ],
     "blima": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "brendaDb": [],
-    "BridgeDbR": [],
     "cageminer": [
         "BioNERO",
         "impute"
@@ -107,25 +94,18 @@
     ],
     "cfdnakit": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
-        "aroma.light",
         "impute"
     ],
     "CGHcall": [
-        "DNAcopy",
         "impute"
     ],
-    "cghMCR": [
-        "DNAcopy"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall",
-        "DNAcopy",
         "impute"
     ],
     "ChAMP": [
-        "DNAcopy",
         "impute"
     ],
     "ChIPseqR": [],
@@ -134,7 +114,6 @@
         "monocle"
     ],
     "CIMICE": [
-        "DNAcopy",
         "maftools"
     ],
     "clevRvis": [],
@@ -151,44 +130,30 @@
         "mzID"
     ],
     "clusterExperiment": [],
-    "ClustIRR": [],
-    "cn.farms": [
-        "DNAcopy"
-    ],
-    "CNAnorm": [
-        "DNAcopy"
-    ],
+    "cn.farms": [],
+    "CNAnorm": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [
-        "DNAcopy"
-    ],
+    "CNVrd2": [],
     "cola": [
         "impute"
     ],
-    "CONFESS": [
-        "flowPeaks"
-    ],
+    "CONFESS": [],
     "consensus": [],
     "consensusDE": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "consensusOV": [
         "genefu",
         "impute"
     ],
-    "contiBAIT": [
-        "DNAcopy"
-    ],
-    "conumee": [
-        "DNAcopy"
-    ],
+    "contiBAIT": [],
+    "conumee": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -200,9 +165,7 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "CRImage": [
-        "DNAcopy"
-    ],
+    "CRImage": [],
     "crisprBwa": [],
     "csdR": [
         "impute"
@@ -214,8 +177,7 @@
     ],
     "CytoML": [],
     "DaMiRseq": [
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "DAPAR": [
         "DynDoc",
@@ -225,10 +187,7 @@
         "mzID",
         "tkWidgets"
     ],
-    "DCATS": [],
-    "ddPCRclust": [
-        "flowPeaks"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "Harman"
     ],
@@ -262,11 +221,9 @@
         "DNABarcodes"
     ],
     "DNABarcodes": [],
-    "DNAcopy": [],
     "doppelgangR": [
         "impute"
     ],
-    "drawProteins": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
@@ -278,10 +235,7 @@
         "decoupleR",
         "progeny"
     ],
-    "easyreporting": [],
-    "EDASeq": [
-        "aroma.light"
-    ],
+    "EDASeq": [],
     "edge": [],
     "EGAD": [
         "impute"
@@ -300,7 +254,6 @@
         "impute"
     ],
     "epigenomix": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "EpiMix": [
@@ -326,9 +279,7 @@
     "EventPointer": [
         "tximport"
     ],
-    "factR": [
-        "drawProteins"
-    ],
+    "factR": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -336,7 +287,6 @@
         "genomation",
         "impute"
     ],
-    "fCI": [],
     "fdrame": [],
     "FGNet": [],
     "flagme": [
@@ -347,15 +297,13 @@
         "xcms"
     ],
     "flowGate": [],
-    "flowPeaks": [],
     "flowVS": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -372,7 +320,6 @@
     "gdsfmt": [],
     "GeneBreak": [
         "CGHcall",
-        "DNAcopy",
         "QDNAseq",
         "impute"
     ],
@@ -383,7 +330,6 @@
     "GeneOverlap": [],
     "geneRecommender": [],
     "GENESIS": [
-        "DNAcopy",
         "GWASTools",
         "SNPRelate",
         "SeqArray",
@@ -420,7 +366,6 @@
         "impute"
     ],
     "GNOSIS": [
-        "DNAcopy",
         "maftools"
     ],
     "GPA": [],
@@ -432,11 +377,9 @@
     ],
     "GSgalgoR": [],
     "GWASTools": [
-        "DNAcopy",
         "gdsfmt"
     ],
     "gwasurvivr": [
-        "DNAcopy",
         "GWASTools",
         "SNPRelate",
         "gdsfmt"
@@ -484,12 +427,10 @@
     ],
     "iterativeBMAsurv": [],
     "katdetectr": [
-        "DNAcopy",
         "maftools"
     ],
     "LBE": [],
     "LEA": [],
-    "LedPred": [],
     "lfa": [],
     "lipidr": [
         "impute"
@@ -507,9 +448,7 @@
     "Macarron": [
         "impute"
     ],
-    "maftools": [
-        "DNAcopy"
-    ],
+    "maftools": [],
     "MAGAR": [
         "impute"
     ],
@@ -528,7 +467,6 @@
         "impute"
     ],
     "mBPCR": [
-        "DNAcopy",
         "GWASTools",
         "gdsfmt"
     ],
@@ -537,15 +475,11 @@
         "impute"
     ],
     "mdp": [],
-    "MDTS": [
-        "DNAcopy"
-    ],
+    "MDTS": [],
     "MEAT": [
         "impute"
     ],
-    "MEDIPS": [
-        "DNAcopy"
-    ],
+    "MEDIPS": [],
     "Mergeomics": [],
     "messina": [],
     "metaCCA": [],
@@ -557,8 +491,7 @@
         "xcms"
     ],
     "metaseqR2": [
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "methylclock": [
         "impute",
@@ -572,13 +505,10 @@
         "tkWidgets"
     ],
     "microRNA": [],
-    "MinimumDistance": [
-        "DNAcopy"
-    ],
+    "MinimumDistance": [],
     "miRLAB": [
         "impute"
     ],
-    "mistyR": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
@@ -636,7 +566,6 @@
         "impute"
     ],
     "musicatk": [
-        "DNAcopy",
         "maftools"
     ],
     "MVCClass": [],
@@ -648,9 +577,7 @@
         "mzID",
         "xcms"
     ],
-    "ndexr": [
-        "RCX"
-    ],
+    "ndexr": [],
     "netbiov": [],
     "netboost": [
         "impute"
@@ -670,8 +597,7 @@
     "occugene": [],
     "octad": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "OLINgui": [
         "DynDoc",
@@ -684,7 +610,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "OutSplice": [
-        "DNAcopy",
         "Repitools"
     ],
     "PanViz": [],
@@ -701,10 +626,7 @@
         "impute",
         "mzID"
     ],
-    "PECA": [
-        "DNAcopy",
-        "aroma.light"
-    ],
+    "PECA": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "phemd": [
@@ -724,9 +646,7 @@
         "RankProd",
         "impute"
     ],
-    "powerTCR": [],
     "preciseTAD": [
-        "DNAcopy",
         "rCGH"
     ],
     "PrInCE": [
@@ -762,9 +682,7 @@
         "impute",
         "mzID"
     ],
-    "PureCN": [
-        "DNAcopy"
-    ],
+    "PureCN": [],
     "pwOmics": [],
     "qckitfastq": [
         "RSeqAn",
@@ -772,7 +690,6 @@
     ],
     "QDNAseq": [
         "CGHcall",
-        "DNAcopy",
         "impute"
     ],
     "qPLEXanalyzer": [
@@ -781,7 +698,6 @@
         "mzID"
     ],
     "RAIDS": [
-        "DNAcopy",
         "GENESIS",
         "GWASTools",
         "SNPRelate",
@@ -796,11 +712,8 @@
         "genomation",
         "impute"
     ],
-    "rCGH": [
-        "DNAcopy"
-    ],
+    "rCGH": [],
     "Rcollectl": [],
-    "RCX": [],
     "Rdisop": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -813,16 +726,13 @@
     "REMP": [
         "impute"
     ],
-    "Repitools": [
-        "DNAcopy"
-    ],
+    "Repitools": [],
     "rexposome": [
         "impute"
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "Risa": [
         "MSnbase",
@@ -847,8 +757,7 @@
     "rsemmed": [],
     "RSeqAn": [],
     "RUVSeq": [
-        "EDASeq",
-        "aroma.light"
+        "EDASeq"
     ],
     "safe": [],
     "SAIGEgds": [
@@ -871,15 +780,10 @@
     ],
     "scone": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
-    "SCOPE": [
-        "DNAcopy"
-    ],
-    "scRepertoire": [
-        "powerTCR"
-    ],
+    "SCOPE": [],
+    "scRepertoire": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
@@ -921,7 +825,6 @@
     "SMAD": [],
     "SMAP": [],
     "snapCGH": [
-        "DNAcopy",
         "GLAD"
     ],
     "SNPediaR": [],
@@ -934,8 +837,7 @@
     "ssize": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "aroma.light"
+        "RUVSeq"
     ],
     "statTarget": [
         "impute"
@@ -967,8 +869,6 @@
         "tkWidgets"
     ],
     "TIN": [
-        "DNAcopy",
-        "aroma.light",
         "impute"
     ],
     "tkWidgets": [
