@@ -22,12 +22,10 @@
         "beadarray"
     ],
     "ASEB": [],
-    "ASGSCA": [],
     "ASSET": [],
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "BADER": [],
     "bandle": [
         "MSnbase",
         "impute",
@@ -40,7 +38,6 @@
     "bigmelon": [
         "gdsfmt"
     ],
-    "biobtreeR": [],
     "BiocOncoTK": [],
     "BioMVCClass": [
         "MVCClass"
@@ -72,10 +69,7 @@
         "xcms"
     ],
     "CARNIVAL": [],
-    "CausalR": [],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccrepe": [],
     "cellmigRation": [],
     "cellxgenedp": [],
@@ -182,9 +176,7 @@
         "tkWidgets"
     ],
     "ddPCRclust": [],
-    "debrowser": [
-        "Harman"
-    ],
+    "debrowser": [],
     "decoupleR": [],
     "DeepBlueR": [],
     "DeepPINCS": [
@@ -307,7 +299,6 @@
     "genefu": [
         "impute"
     ],
-    "GeneGA": [],
     "GeneOverlap": [],
     "geneRecommender": [],
     "GENESIS": [
@@ -366,13 +357,11 @@
     "GWENA": [
         "impute"
     ],
-    "Harman": [],
     "Herper": [],
     "HilbertCurve": [],
     "HilbertVisGUI": [],
     "HIREewas": [],
     "HubPub": [],
-    "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
         "Pigengene",
@@ -404,7 +393,6 @@
     "katdetectr": [
         "maftools"
     ],
-    "LBE": [],
     "LEA": [],
     "lfa": [],
     "lipidr": [
@@ -418,7 +406,6 @@
         "mzID",
         "xcms"
     ],
-    "M3Drop": [],
     "Macarron": [
         "impute"
     ],
@@ -587,7 +574,6 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathNet": [],
-    "pathwayPCA": [],
     "PDATK": [
         "genefu",
         "impute"
@@ -714,7 +700,6 @@
         "impute",
         "mzID"
     ],
-    "rmelting": [],
     "RNAAgeCalc": [
         "impute"
     ],
@@ -731,7 +716,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "SANTA": [],
     "SBMLR": [],
     "SCArray": [
         "gdsfmt"
@@ -742,9 +726,7 @@
     ],
     "SCFA": [],
     "scFeatureFilter": [],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -781,13 +763,10 @@
         "genefu",
         "impute"
     ],
-    "SIMLR": [],
     "singleCellTK": [
-        "M3Drop",
         "scMerge"
     ],
     "sizepower": [],
-    "SMAD": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -807,7 +786,6 @@
     "statTarget": [
         "impute"
     ],
-    "Summix": [],
     "swfdr": [],
     "synapter": [
         "MSnbase",
