@@ -1,12 +1,12 @@
 # Summary
 
-1753 Bioconductor sotware binaries built
+1754 Bioconductor sotware binaries built
 
-3480 Other dependency binaries built
+3481 Other dependency binaries built
 
 0 failed packages
 
-444 unclaimed packages
+443 unclaimed packages
 
 
 
@@ -14,7 +14,7 @@
 | Package   | Status   | BBS Status   | Log   | Known Error   |
 |-----------|----------|--------------|-------|---------------|
 
-## Unclaimed (444)
+## Unclaimed (443)
 | Package                  | Status    | Blocked By                                                                                           |
 |--------------------------|-----------|------------------------------------------------------------------------------------------------------|
 | ACE                      | Unclaimed | Incomplete Bioc dependencies: CGHcall, DNAcopy, QDNAseq, impute.                                     |
@@ -47,7 +47,7 @@
 | BgeeCall                 | Unclaimed | Incomplete Bioc dependencies: tximport.                                                              |
 | bigmelon                 | Unclaimed | Incomplete Bioc dependencies: gdsfmt, wateRmelon.                                                    |
 | biobtreeR                | Unclaimed |                                                                                                      |
-| bioCancer                | Unclaimed | Incomplete Bioc dependencies: cBioPortalData.                                                        |
+| bioCancer                | Unclaimed |                                                                                                      |
 | BiocOncoTK               | Unclaimed |                                                                                                      |
 | biocthis                 | Unclaimed |                                                                                                      |
 | BioMVCClass              | Unclaimed | Incomplete Bioc dependencies: MVCClass.                                                              |
@@ -63,11 +63,10 @@
 | cageminer                | Unclaimed | Incomplete Bioc dependencies: BioNERO, impute.                                                       |
 | CAGEr                    | Unclaimed | Incomplete Bioc dependencies: CAGEfightR.                                                            |
 | CAMERA                   | Unclaimed | Incomplete Bioc dependencies: MSnbase, impute, mzID, xcms.                                           |
-| canceR                   | Unclaimed | Incomplete Bioc dependencies: cBioPortalData.                                                        |
+| canceR                   | Unclaimed |                                                                                                      |
 | CARNIVAL                 | Unclaimed |                                                                                                      |
 | CausalR                  | Unclaimed |                                                                                                      |
-| cbaf                     | Unclaimed | Incomplete Bioc dependencies: cBioPortalData.                                                        |
-| cBioPortalData           | Unclaimed |                                                                                                      |
+| cbaf                     | Unclaimed |                                                                                                      |
 | ccImpute                 | Unclaimed | Incomplete Bioc dependencies: SIMLR.                                                                 |
 | ccrepe                   | Unclaimed |                                                                                                      |
 | cellmigRation            | Unclaimed |                                                                                                      |
@@ -210,7 +209,7 @@
 | GLAD                     | Unclaimed |                                                                                                      |
 | GladiaTOX                | Unclaimed |                                                                                                      |
 | GmicR                    | Unclaimed | Incomplete Bioc dependencies: impute.                                                                |
-| GNOSIS                   | Unclaimed | Incomplete Bioc dependencies: DNAcopy, cBioPortalData, maftools.                                     |
+| GNOSIS                   | Unclaimed | Incomplete Bioc dependencies: DNAcopy, maftools.                                                     |
 | GPA                      | Unclaimed |                                                                                                      |
 | graper                   | Unclaimed |                                                                                                      |
 | GraphAlignment           | Unclaimed |                                                                                                      |
@@ -462,7 +461,7 @@
 | YAPSA                    | Unclaimed |                                                                                                      |
 | zenith                   | Unclaimed | Incomplete Bioc dependencies: EnrichmentBrowser, safe.                                               |
 
-## Bioconductor Software Binaries Built (1753)
+## Bioconductor Software Binaries Built (1754)
 | Package                      | Status    | Tarball                                                                                                                                                                                                                                                            |
 |------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a4                           | Succeeded | [a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/a4_1.50.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
@@ -687,6 +686,7 @@
 | Category                     | Succeeded | [Category_2.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/Category_2.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | categoryCompare              | Succeeded | [categoryCompare_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/categoryCompare_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | CBEA                         | Succeeded | [CBEA_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/CBEA_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
+| cBioPortalData               | Succeeded | [cBioPortalData_2.14.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/cBioPortalData_2.14.2_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | CBNplot                      | Succeeded | [CBNplot_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/CBNplot_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | cbpManager                   | Succeeded | [cbpManager_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/cbpManager_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | ccfindR                      | Succeeded | [ccfindR_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/ccfindR_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2219,7 +2219,7 @@
 | zlibbioc                     | Succeeded | [zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/zlibbioc_1.48.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | ZygosityPredictor            | Succeeded | [ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/ZygosityPredictor_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 
-## Other Dependency Binaries (1753)
+## Other Dependency Binaries (1754)
 | Package                                       | Status    | Tarball                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | DLBCL                                         | Succeeded | [DLBCL_1.42.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/DLBCL_1.42.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                               |
@@ -4521,6 +4521,7 @@
 | microSTASIS                                   | Succeeded | [microSTASIS_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/microSTASIS_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                     |
 | miRcompData                                   | Succeeded | [miRcompData_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/miRcompData_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
 | prettyGraphs                                  | Succeeded | [prettyGraphs_2.1.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/prettyGraphs_2.1.6_R_x86_64-pc-linux-gnu.tar.gz)                                                                   |
+| cBioPortalData                                | Succeeded | [cBioPortalData_2.14.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/cBioPortalData_2.14.2_R_x86_64-pc-linux-gnu.tar.gz)                                                             |
 | Rbowtie                                       | Succeeded | [Rbowtie_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/Rbowtie_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                           |
 | ReUseData                                     | Succeeded | [ReUseData_1.2.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/ReUseData_1.2.2_R_x86_64-pc-linux-gnu.tar.gz)                                                                         |
 | ASICSdata                                     | Succeeded | [ASICSdata_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/bioconductor_docker-3.18/x86_64/2024-03-26-21-35/binaries/src/contrib/ASICSdata_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                       |
