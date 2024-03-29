@@ -48,7 +48,6 @@
     "BioNERO": [
         "impute"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
@@ -72,7 +71,6 @@
     "ccImpute": [],
     "ccrepe": [],
     "cellmigRation": [],
-    "cellxgenedp": [],
     "CEMiTool": [
         "impute"
     ],
@@ -97,7 +95,6 @@
         "impute"
     ],
     "ChIPseqR": [],
-    "chopsticks": [],
     "cicero": [
         "monocle"
     ],
@@ -182,7 +179,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deltaGseg": [],
     "demuxSNP": [],
     "DEP": [
         "MSnbase",
@@ -269,10 +265,8 @@
         "mzID",
         "xcms"
     ],
-    "flowGate": [],
     "flowVS": [],
     "frenchFISH": [],
-    "FRGEpistasis": [],
     "garfield": [],
     "GARS": [
         "DaMiRseq",
@@ -377,10 +371,7 @@
         "mzID",
         "xcms"
     ],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "pfamAnalyzeR",
         "tximeta"
@@ -479,7 +470,6 @@
         "impute"
     ],
     "monocle": [],
-    "MPFE": [],
     "mslp": [
         "RankProd"
     ],
@@ -663,13 +653,11 @@
     ],
     "RandomWalkRestartMH": [],
     "RankProd": [],
-    "Rarr": [],
     "RCAS": [
         "genomation",
         "impute"
     ],
     "rCGH": [],
-    "Rcollectl": [],
     "Rdisop": [],
     "ReactomeGraph4R": [],
     "REBET": [
@@ -716,7 +704,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "SBMLR": [],
     "SCArray": [
         "gdsfmt"
     ],
@@ -725,7 +712,6 @@
         "gdsfmt"
     ],
     "SCFA": [],
-    "scFeatureFilter": [],
     "scMerge": [],
     "scone": [
         "EDASeq",
@@ -738,7 +724,6 @@
         "epivizrData"
     ],
     "semisup": [],
-    "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
     ],
@@ -766,7 +751,6 @@
     "singleCellTK": [
         "scMerge"
     ],
-    "sizepower": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -840,7 +824,6 @@
         "gdsfmt"
     ],
     "veloviz": [],
-    "VennDetail": [],
     "weitrix": [],
     "wppi": [
         "OmnipathR"
