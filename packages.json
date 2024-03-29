@@ -10,11 +10,8 @@
         "GLAD",
         "snapCGH"
     ],
-    "affycoretools": [],
     "agilp": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "alabaster": [
         "alabaster.spatial"
     ],
@@ -89,7 +86,6 @@
         "BeadDataPackR",
         "beadarray"
     ],
-    "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
     "cageminer": [
@@ -115,7 +111,6 @@
     "CEMiTool": [
         "impute"
     ],
-    "censcyt": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -140,7 +135,6 @@
         "impute"
     ],
     "ChAMP": [
-        "DMRcate",
         "DNAcopy",
         "impute",
         "wateRmelon"
@@ -178,7 +172,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNViz": [],
     "CNVRanger": [
         "GDSArray",
         "SNPRelate",
@@ -292,7 +285,6 @@
     ],
     "diffuStats": [],
     "divergence": [],
-    "DMRcate": [],
     "DNABarcodeCompatibility": [
         "DNABarcodes"
     ],
@@ -376,7 +368,6 @@
     ],
     "fCI": [],
     "fdrame": [],
-    "ffpe": [],
     "FGNet": [],
     "flagme": [
         "CAMERA",
@@ -385,7 +376,6 @@
         "mzID",
         "xcms"
     ],
-    "flowCut": [],
     "flowCyBar": [],
     "flowGate": [],
     "flowPeaks": [],
@@ -503,7 +493,6 @@
     "HubPub": [
         "biocthis"
     ],
-    "iCheck": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -593,7 +582,6 @@
     "MDTS": [
         "DNAcopy"
     ],
-    "MEAL": [],
     "MEAT": [
         "impute",
         "wateRmelon"
@@ -904,7 +892,6 @@
     "RNAAgeCalc": [
         "impute"
     ],
-    "RNAmodR.AlkAnilineSeq": [],
     "Rnits": [
         "impute"
     ],
@@ -998,7 +985,6 @@
     "SNPRelate": [
         "gdsfmt"
     ],
-    "spatzie": [],
     "SPsimSeq": [
         "impute"
     ],
