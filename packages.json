@@ -15,7 +15,6 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "AHMassBank": [],
     "alabaster": [
         "alabaster.spatial"
     ],
@@ -183,7 +182,6 @@
     "CNAnorm": [
         "DNAcopy"
     ],
-    "CNVfilteR": [],
     "CNViz": [],
     "CNVRanger": [
         "GDSArray",
@@ -239,7 +237,6 @@
     "csdR": [
         "impute"
     ],
-    "cyanoFilter": [],
     "cycle": [
         "DynDoc",
         "Mfuzz",
@@ -247,18 +244,13 @@
     ],
     "CyTOFpower": [],
     "cytofQC": [],
-    "CytoML": [
-        "ggcyto",
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "DaMiRseq": [
         "EDASeq",
@@ -399,17 +391,11 @@
         "mzID",
         "xcms"
     ],
-    "flowBin": [],
     "flowCut": [],
     "flowCyBar": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowPeaks": [],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "garfield": [],
@@ -418,7 +404,6 @@
         "EDASeq",
         "aroma.light"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -474,7 +459,6 @@
     ],
     "geva": [],
     "GEWIST": [],
-    "ggcyto": [],
     "ggmanh": [
         "SeqArray",
         "gdsfmt"
@@ -528,8 +512,6 @@
         "biocthis"
     ],
     "iCheck": [],
-    "ideal": [],
-    "ImmuneSpaceR": [],
     "IMPCdata": [],
     "impute": [],
     "iNETgrate": [
@@ -768,7 +750,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "openCyto": [],
     "OutSplice": [
         "DNAcopy",
         "Repitools"
@@ -845,7 +826,6 @@
         "mzID",
         "tkWidgets"
     ],
-    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -935,9 +915,6 @@
         "impute"
     ],
     "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [],
     "Rnits": [
         "impute"
     ],
@@ -1123,7 +1100,6 @@
         "impute",
         "mzID"
     ],
-    "YAPSA": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
