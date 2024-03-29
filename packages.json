@@ -9,7 +9,6 @@
         "snapCGH"
     ],
     "agilp": [],
-    "alevinQC": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -33,7 +32,6 @@
     ],
     "BaseSpaceR": [],
     "beadarray": [],
-    "BgeeCall": [],
     "bigmelon": [
         "gdsfmt"
     ],
@@ -110,7 +108,6 @@
         "mzID"
     ],
     "clusterExperiment": [],
-    "cn.farms": [],
     "CNAnorm": [],
     "CNVRanger": [
         "GDSArray",
@@ -118,7 +115,6 @@
         "SeqArray",
         "gdsfmt"
     ],
-    "CNVrd2": [],
     "cola": [
         "impute"
     ],
@@ -141,7 +137,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "crisprBwa": [],
     "csdR": [
         "impute"
     ],
@@ -166,7 +161,6 @@
     "DeepPINCS": [
         "ttgsea"
     ],
-    "demuxSNP": [],
     "DEP": [
         "MSnbase",
         "impute",
@@ -195,7 +189,6 @@
         "decoupleR",
         "progeny"
     ],
-    "edge": [],
     "EGAD": [
         "impute"
     ],
@@ -298,7 +291,6 @@
         "impute"
     ],
     "GEOfastq": [],
-    "GeoTcgaData": [],
     "geva": [],
     "GEWIST": [],
     "ggmanh": [
@@ -347,10 +339,8 @@
         "mzID",
         "xcms"
     ],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
-        "pfamAnalyzeR",
-        "tximeta"
+        "pfamAnalyzeR"
     ],
     "ISoLDE": [],
     "ITALICS": [
@@ -426,7 +416,6 @@
         "tkWidgets"
     ],
     "microRNA": [],
-    "MinimumDistance": [],
     "miRLAB": [
         "impute"
     ],
@@ -557,9 +546,7 @@
         "RankProd",
         "impute"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "PrInCE": [
         "MSnbase",
         "impute",
@@ -622,9 +609,7 @@
         "genomation",
         "impute"
     ],
-    "rCGH": [],
     "Rdisop": [],
-    "ReactomeGraph4R": [],
     "REBET": [
         "ASSET"
     ],
@@ -676,7 +661,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "SCOPE": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -764,7 +748,6 @@
     ],
     "TSAR": [],
     "ttgsea": [],
-    "tximeta": [],
     "uSORT": [
         "monocle"
     ],
@@ -779,7 +762,6 @@
         "gdsfmt"
     ],
     "veloviz": [],
-    "weitrix": [],
     "wppi": [
         "OmnipathR"
     ],
