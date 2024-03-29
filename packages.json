@@ -16,7 +16,6 @@
     "AMARETTO": [
         "impute"
     ],
-    "AneuFinder": [],
     "AnVILBilling": [],
     "arrayQualityMetrics": [
         "beadarray"
@@ -68,7 +67,6 @@
         "xcms"
     ],
     "CARNIVAL": [],
-    "ccImpute": [],
     "ccrepe": [],
     "cellmigRation": [],
     "CEMiTool": [
@@ -94,13 +92,10 @@
     "ChAMP": [
         "impute"
     ],
-    "ChIPseqR": [],
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -127,18 +122,14 @@
     "cola": [
         "impute"
     ],
-    "CONFESS": [],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
         "genefu",
         "impute"
     ],
-    "contiBAIT": [],
-    "conumee": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -150,7 +141,6 @@
         "decoupleR"
     ],
     "COSNet": [],
-    "CRImage": [],
     "crisprBwa": [],
     "csdR": [
         "impute"
@@ -160,9 +150,7 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "DynDoc",
         "MSnbase",
@@ -207,7 +195,6 @@
         "decoupleR",
         "progeny"
     ],
-    "EDASeq": [],
     "edge": [],
     "EGAD": [
         "impute"
@@ -263,8 +250,7 @@
     "frenchFISH": [],
     "garfield": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -325,9 +311,7 @@
     "GmicR": [
         "impute"
     ],
-    "GNOSIS": [
-        "maftools"
-    ],
+    "GNOSIS": [],
     "GPA": [],
     "graper": [],
     "GSEABenchmarkeR": [
@@ -347,9 +331,7 @@
     ],
     "Herper": [],
     "HilbertCurve": [],
-    "HilbertVisGUI": [],
     "HIREewas": [],
-    "HubPub": [],
     "impute": [],
     "iNETgrate": [
         "Pigengene",
@@ -375,9 +357,7 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "katdetectr": [
-        "maftools"
-    ],
+    "katdetectr": [],
     "LEA": [],
     "lfa": [],
     "lipidr": [
@@ -394,7 +374,6 @@
     "Macarron": [
         "impute"
     ],
-    "maftools": [],
     "MAGAR": [
         "impute"
     ],
@@ -421,7 +400,6 @@
         "impute"
     ],
     "mdp": [],
-    "MDTS": [],
     "MEAT": [
         "impute"
     ],
@@ -435,9 +413,7 @@
         "mzID",
         "xcms"
     ],
-    "metaseqR2": [
-        "EDASeq"
-    ],
+    "metaseqR2": [],
     "methylclock": [
         "impute",
         "planet"
@@ -509,9 +485,7 @@
     "multiWGCNA": [
         "impute"
     ],
-    "musicatk": [
-        "maftools"
-    ],
+    "musicatk": [],
     "MVCClass": [],
     "mzID": [],
     "nanotatoR": [],
@@ -538,7 +512,6 @@
     "NTW": [],
     "occugene": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "OLINgui": [
@@ -551,9 +524,7 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "PanViz": [],
     "Path2PPI": [],
     "pathifier": [],
@@ -661,12 +632,10 @@
     "REMP": [
         "impute"
     ],
-    "Repitools": [],
     "rexposome": [
         "impute"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Risa": [
@@ -690,9 +659,7 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "safe": [],
     "SAIGEgds": [
         "SeqArray",
@@ -706,13 +673,10 @@
         "gdsfmt"
     ],
     "SCFA": [],
-    "scMerge": [],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
-    "scRepertoire": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -742,9 +706,7 @@
         "genefu",
         "impute"
     ],
-    "singleCellTK": [
-        "scMerge"
-    ],
+    "singleCellTK": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -758,7 +720,6 @@
     ],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "statTarget": [
