@@ -16,7 +16,6 @@
         "impute"
     ],
     "AnVILBilling": [],
-    "arrayQualityMetrics": [],
     "ASEB": [],
     "ASSET": [],
     "ATACCoGAPS": [
@@ -47,7 +46,6 @@
         "QDNAseq",
         "impute"
     ],
-    "blima": [],
     "brendaDb": [],
     "cageminer": [
         "BioNERO",
@@ -112,7 +110,6 @@
         "impute"
     ],
     "consensus": [],
-    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute"
@@ -193,7 +190,6 @@
         "genomation",
         "impute"
     ],
-    "epigenomix": [],
     "EpiMix": [
         "impute"
     ],
@@ -483,7 +479,6 @@
     ],
     "NTW": [],
     "occugene": [],
-    "octad": [],
     "OLINgui": [
         "DynDoc",
         "tkWidgets"
@@ -599,7 +594,6 @@
     "rexposome": [
         "impute"
     ],
-    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "impute",
@@ -634,7 +628,6 @@
         "gdsfmt"
     ],
     "SCFA": [],
-    "scone": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -677,7 +670,6 @@
         "impute"
     ],
     "ssize": [],
-    "standR": [],
     "statTarget": [
         "impute"
     ],
