@@ -191,7 +191,6 @@
     "EpiMix": [
         "impute"
     ],
-    "epivizrStandalone": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -604,7 +603,6 @@
         "gdsfmt"
     ],
     "SCFA": [],
-    "scTreeViz": [],
     "semisup": [],
     "seq2pathway": [
         "impute"
