@@ -85,7 +85,6 @@
     "cicero": [
         "monocle"
     ],
-    "CIMICE": [],
     "clevRvis": [],
     "cliqueMS": [
         "MSnbase",
@@ -133,7 +132,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "DynDoc",
         "MSnbase",
@@ -193,19 +191,11 @@
     "EpiMix": [
         "impute"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
-    "EventPointer": [],
-    "factR": [],
     "fastLiquidAssociation": [
         "impute"
     ],
@@ -224,9 +214,7 @@
     ],
     "frenchFISH": [],
     "garfield": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GBScleanR": [
         "SeqArray",
         "gdsfmt"
@@ -285,7 +273,6 @@
     "GmicR": [
         "impute"
     ],
-    "GNOSIS": [],
     "GPA": [],
     "graper": [],
     "GSEABenchmarkeR": [
@@ -328,7 +315,6 @@
         "GLAD"
     ],
     "iterativeBMAsurv": [],
-    "katdetectr": [],
     "LEA": [],
     "lfa": [],
     "lipidr": [
@@ -383,7 +369,6 @@
         "mzID",
         "xcms"
     ],
-    "metaseqR2": [],
     "methylclock": [
         "impute",
         "planet"
@@ -454,7 +439,6 @@
     "multiWGCNA": [
         "impute"
     ],
-    "musicatk": [],
     "MVCClass": [],
     "mzID": [],
     "nanotatoR": [],
@@ -502,7 +486,6 @@
         "impute",
         "mzID"
     ],
-    "PECA": [],
     "pepXMLTab": [],
     "pfamAnalyzeR": [],
     "phemd": [
@@ -521,7 +504,6 @@
         "RankProd",
         "impute"
     ],
-    "preciseTAD": [],
     "PrInCE": [
         "MSnbase",
         "impute",
@@ -555,7 +537,6 @@
         "impute",
         "mzID"
     ],
-    "PureCN": [],
     "qckitfastq": [
         "RSeqAn",
         "seqTools"
@@ -629,8 +610,7 @@
     ],
     "SCFA": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "semisup": [],
     "seq2pathway": [
@@ -657,7 +637,6 @@
         "genefu",
         "impute"
     ],
-    "singleCellTK": [],
     "SMAP": [],
     "snapCGH": [
         "GLAD"
@@ -686,10 +665,7 @@
         "mzID"
     ],
     "TargetSearch": [],
-    "TDbasedUFE": [],
-    "TDbasedUFEadv": [
-        "TDbasedUFE"
-    ],
+    "TDbasedUFEadv": [],
     "TimiRGeN": [
         "DynDoc",
         "Mfuzz",
