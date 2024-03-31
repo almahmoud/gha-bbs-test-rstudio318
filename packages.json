@@ -854,7 +854,6 @@
         "RCAS"
     ],
     "GenomicScores": [],
-    "GenProSeq": [],
     "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [],
@@ -1708,7 +1707,6 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
     "SCFA": [],
@@ -1801,7 +1799,6 @@
         "GSVA",
         "TSCAN",
         "celda",
-        "scDblFinder",
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
