@@ -178,7 +178,6 @@
         "CGHcall",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [],
@@ -195,8 +194,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -206,7 +204,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -303,7 +300,6 @@
         "DMRcate",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -388,8 +384,7 @@
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "cogeqc": [],
     "comapr": [
@@ -560,8 +555,7 @@
     ],
     "DelayedTensor": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxSNP": [],
     "densvis": [],
@@ -601,14 +595,12 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [],
     "DominoEffect": [],
@@ -623,9 +615,7 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
@@ -990,8 +980,7 @@
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "KnowSeq": [],
     "lemur": [
@@ -1105,8 +1094,7 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
-        "bsseq"
+        "EDASeq"
     ],
     "MetCirc": [
         "Spectra"
@@ -1118,7 +1106,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -1139,8 +1126,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -1172,9 +1158,7 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1322,9 +1306,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [],
     "ncdfFlow": [],
     "ncGTW": [
@@ -1711,8 +1693,7 @@
     "scider": [],
     "scifer": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "EDASeq",
@@ -1818,8 +1799,7 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "SpacePAC": [],
     "Spaniel": [],
