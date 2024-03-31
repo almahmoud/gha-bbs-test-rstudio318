@@ -706,7 +706,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DExMA": [
         "sva"
     ],
@@ -1131,7 +1130,6 @@
     ],
     "HelloRanges": [],
     "hermes": [],
-    "HERON": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1795,7 +1793,6 @@
         "CoreGx"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [
@@ -2092,7 +2089,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
@@ -2277,7 +2273,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [
         "TrajectoryUtils"
     ],
@@ -2339,7 +2334,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "splatter": [],
     "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
