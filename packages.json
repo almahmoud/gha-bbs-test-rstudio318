@@ -209,7 +209,6 @@
         "bsseq",
         "dmrseq"
     ],
-    "BiSeq": [],
     "blacksheepr": [],
     "blima": [],
     "BLMA": [
@@ -1547,7 +1546,6 @@
         "enrichplot"
     ],
     "pareg": [],
-    "partCNV": [],
     "PathoStat": [
         "phyloseq"
     ],
