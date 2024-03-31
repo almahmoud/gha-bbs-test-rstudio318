@@ -169,7 +169,6 @@
     "beer": [],
     "benchdamic": [
         "ALDEx2",
-        "MAST",
         "Maaslin2",
         "phyloseq",
         "zinbwave"
@@ -314,9 +313,7 @@
     "ccfindR": [],
     "CCPROMISE": [],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBarcode": [],
     "CellBench": [],
@@ -1026,7 +1023,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
     "hoodscanR": [],
@@ -1047,7 +1043,6 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
         "cytomapper"
@@ -1172,7 +1167,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [],
     "MatrixRider": [
@@ -1631,9 +1625,7 @@
     "plyinteractions": [],
     "pogos": [],
     "POMA": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "prebs": [
         "RPA",
         "phyloseq"
@@ -2027,7 +2019,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
-        "MAST",
         "TSCAN",
         "celda",
         "scDblFinder",
@@ -2212,7 +2203,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "tricycle": [],
     "trigger": [
         "sva"
     ],
