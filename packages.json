@@ -236,7 +236,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "DOSE",
         "RTCGAToolbox",
@@ -619,7 +618,6 @@
         "GSVA",
         "genefu"
     ],
-    "consICA": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -1172,7 +1170,6 @@
         "flowViz"
     ],
     "gatom": [],
-    "GBScleanR": [],
     "GDCRNATools": [
         "DOSE",
         "KEGGgraph",
@@ -1217,7 +1214,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractionNodes": [],
@@ -1694,7 +1690,6 @@
         "siggenes"
     ],
     "Mfuzz": [],
-    "MGFR": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -2022,7 +2017,6 @@
         "HelloRanges"
     ],
     "omicsPrint": [],
-    "omicsViewer": [],
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
@@ -2148,7 +2142,6 @@
     ],
     "plotgardener": [],
     "plyinteractions": [],
-    "pmp": [],
     "podkat": [],
     "pogos": [
         "ontoProc"
@@ -2361,7 +2354,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "Rfastp": [],
     "rGADEM": [],
     "RgnTX": [],
     "rgsepd": [
@@ -2470,9 +2462,7 @@
     ],
     "RVS": [],
     "safe": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "sangeranalyseR": [],
     "SARC": [],
     "SBGNview": [
@@ -2924,7 +2914,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [],
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
