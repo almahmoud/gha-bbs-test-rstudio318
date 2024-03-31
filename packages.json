@@ -256,7 +256,6 @@
     ],
     "bnem": [
         "epiNEM",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -348,9 +347,7 @@
     ],
     "cbpManager": [],
     "ccfindR": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -681,8 +678,7 @@
         "mzID"
     ],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowCore",
@@ -855,9 +851,7 @@
         "minfi",
         "siggenes"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNA",
         "tRNAdbImport"
@@ -1589,7 +1583,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1764,8 +1757,7 @@
     "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [],
     "netDx": [],
@@ -1977,7 +1969,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
