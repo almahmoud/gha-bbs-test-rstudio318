@@ -6,7 +6,6 @@
     "a4Base": [],
     "a4Classif": [],
     "ABarray": [],
-    "abseqR": [],
     "ACE": [
         "CGHbase",
         "CGHcall",
@@ -20,9 +19,7 @@
         "vsn"
     ],
     "ADAMgui": [],
-    "adductomicsR": [
-        "mzR"
-    ],
+    "adductomicsR": [],
     "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
@@ -257,7 +254,6 @@
         "MLInterfaces",
         "MSnbase",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -477,7 +473,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -693,7 +688,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -701,7 +695,6 @@
     "CluMSID": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "clusterExperiment": [
@@ -792,7 +785,6 @@
     "coMethDMR": [
         "bumphunter"
     ],
-    "COMPASS": [],
     "compcodeR": [],
     "compEpiTools": [
         "Gviz",
@@ -863,7 +855,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1013,7 +1004,6 @@
         "clusterProfiler",
         "enrichplot",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn"
     ],
@@ -1073,7 +1063,6 @@
     "DEP": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "DepecheR": [],
@@ -1105,9 +1094,7 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "GreyListChIP",
         "ShortRead",
@@ -1405,7 +1392,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1516,7 +1502,6 @@
         "minfi",
         "siggenes"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "VariantAnnotation"
     ],
@@ -1581,7 +1566,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "geneClassifiers": [],
     "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [],
@@ -1653,7 +1637,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [],
     "ggmsa": [],
     "ggsc": [],
@@ -1686,7 +1669,6 @@
         "maftools"
     ],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [],
     "goseq": [],
     "GOSim": [],
@@ -1891,7 +1873,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1918,7 +1899,6 @@
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "satuRn",
         "sva",
         "tximeta"
     ],
@@ -1945,7 +1925,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -1954,7 +1933,6 @@
         "sva"
     ],
     "LACE": [],
-    "ldblock": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -1982,7 +1960,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2038,7 +2015,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2152,7 +2128,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2234,7 +2209,6 @@
         "siggenes"
     ],
     "MetID": [],
-    "mfa": [],
     "Mfuzz": [
         "tkWidgets"
     ],
@@ -2337,7 +2311,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2425,19 +2398,16 @@
     "msmsEDA": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "msmsTests": [
         "MSnbase",
         "msmsEDA",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnbase": [
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnID": [
@@ -2445,15 +2415,12 @@
         "msmsEDA",
         "msmsTests",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSPrep": [
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -2479,14 +2446,12 @@
     "MSstatsQC": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -2525,7 +2490,6 @@
         "VariantAnnotation"
     ],
     "muscat": [],
-    "muscle": [],
     "musicatk": [
         "VariantAnnotation",
         "decompTumor2Sig",
@@ -2542,7 +2506,6 @@
         "VariantAnnotation"
     ],
     "mzID": [],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "CNEr",
@@ -2574,7 +2537,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2671,7 +2633,6 @@
     ],
     "omicsPrint": [],
     "omicsViewer": [],
-    "oncomix": [],
     "OncoScore": [],
     "OncoSimulR": [],
     "ontoProc": [],
@@ -2766,16 +2727,13 @@
     "peakPantheR": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "PECA": [],
     "peco": [],
     "periodicDNA": [],
     "phantasus": [],
-    "phantasusLite": [
-        "rhdf5client"
-    ],
+    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -2862,7 +2820,6 @@
     "PrInCE": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "proActiv": [],
@@ -2882,14 +2839,12 @@
         "MLInterfaces",
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -2906,7 +2861,6 @@
         "clusterProfiler",
         "enrichplot",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn"
     ],
@@ -2933,7 +2887,6 @@
     "ptairMS": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "puma": [],
@@ -2964,7 +2917,6 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "qsea": [],
@@ -3113,9 +3065,7 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [
-        "rhdf5client"
-    ],
+    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -3133,7 +3083,6 @@
     "rgsepd": [
         "goseq"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -3172,7 +3121,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -3188,7 +3136,6 @@
     "RMassBank": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "Rmmquant": [],
@@ -3293,7 +3240,6 @@
     "SARC": [
         "plyranges"
     ],
-    "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -3485,9 +3431,7 @@
         "VariantAnnotation"
     ],
     "SIM": [],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "vsn"
@@ -3647,7 +3591,6 @@
         "baySeq",
         "biovizBase"
     ],
-    "sscu": [],
     "sSNAPPY": [],
     "ssviz": [],
     "standR": [
@@ -3698,7 +3641,6 @@
     "synapter": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "SynExtend": [],
@@ -3718,8 +3660,7 @@
     "tanggle": [],
     "TAPseq": [],
     "TargetDecoy": [
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -3741,8 +3682,7 @@
     "TENxIO": [],
     "tenXplore": [
         "ontoProc",
-        "restfulSE",
-        "rhdf5client"
+        "restfulSE"
     ],
     "TEQC": [],
     "terraTCGAdata": [
@@ -3787,7 +3727,6 @@
     "topdownr": [
         "MSnbase",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "ToxicoGx": [
@@ -3962,7 +3901,6 @@
         "QFeatures",
         "Spectra",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "xcore": [],
@@ -3976,9 +3914,7 @@
         "piano"
     ],
     "XNAString": [],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "OrganismDbi",
         "SomaticSignatures",
