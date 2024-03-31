@@ -409,9 +409,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -605,7 +603,6 @@
     "EDASeq": [],
     "edge": [],
     "EGSEA": [
-        "GSVA",
         "pathview",
         "safe"
     ],
@@ -673,9 +670,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [],
     "EWCE": [],
@@ -842,7 +837,6 @@
     "ggmsa": [],
     "ggspavis": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "girafe": [],
     "glmGamPoi": [],
     "gmapR": [],
@@ -869,7 +863,6 @@
     ],
     "gsean": [],
     "GSReg": [],
-    "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1084,7 +1077,6 @@
     ],
     "methInheritSim": [],
     "MethReg": [],
-    "methrix": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1124,9 +1116,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microRNA": [],
     "mimager": [
         "affyPLM"
@@ -1322,7 +1312,6 @@
     "nullranges": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "RUVSeq"
     ],
     "odseq": [],
@@ -1343,9 +1332,7 @@
         "ncdfFlow"
     ],
     "openPrimeRui": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -1651,14 +1638,10 @@
     "SCArray.sat": [],
     "scBFA": [],
     "scBubbletree": [],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDDboost": [],
     "SCFA": [],
-    "scFeatures": [
-        "GSVA"
-    ],
+    "scFeatures": [],
     "scider": [],
     "scifer": [],
     "scmeth": [
@@ -1724,7 +1707,6 @@
     ],
     "signeR": [],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SigsPack": [],
@@ -1738,7 +1720,6 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "GSVA",
         "TSCAN",
         "celda"
     ],
@@ -1831,8 +1812,7 @@
         "mzID"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA"
+        "ASSIGN"
     ],
     "TCC": [],
     "TCGAutils": [],
@@ -1855,9 +1835,7 @@
     ],
     "TitanCNA": [],
     "tLOH": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [
         "MSnbase",
