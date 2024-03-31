@@ -16,7 +16,6 @@
     ],
     "ADAMgui": [],
     "adductomicsR": [],
-    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "GOstats",
@@ -39,9 +38,7 @@
     "AHMassBank": [
         "AnnotationHubData"
     ],
-    "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -71,7 +68,6 @@
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "SpatialExperiment",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
@@ -93,7 +89,6 @@
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
-    "ANCOMBC": [],
     "AneuFinder": [],
     "annmap": [],
     "AnnotationHubData": [],
@@ -107,8 +102,7 @@
     "arrayMvout": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQualityMetrics": [
         "affyPLM"
@@ -176,7 +170,6 @@
     "beer": [],
     "benchdamic": [
         "ALDEx2",
-        "ANCOMBC",
         "MAST",
         "Maaslin2",
         "phyloseq",
@@ -189,7 +182,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -369,7 +361,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva",
         "wateRmelon"
     ],
@@ -501,8 +492,7 @@
         "GenomicFiles"
     ],
     "conumee": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "CopyNumberPlots": [
         "biovizBase",
@@ -544,9 +534,7 @@
     "crossmeta": [
         "sva"
     ],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -571,9 +559,7 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
@@ -599,7 +585,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [],
@@ -637,8 +622,7 @@
         "celda"
     ],
     "deconvR": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "DeepBlueR": [],
     "deepSNV": [],
@@ -670,9 +654,7 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "DExMA": [
         "sva"
     ],
@@ -689,7 +671,6 @@
     "diffHic": [],
     "diffUTR": [],
     "Dino": [],
-    "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -697,8 +678,7 @@
         "bsseq",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "dmrseq": [
         "annotatr",
@@ -744,8 +724,7 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "EnrichmentBrowser": [
         "SPIA",
@@ -773,8 +752,7 @@
     "epimutacions": [
         "Gviz",
         "biovizBase",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "epiNEM": [],
     "EpiTxDb": [
@@ -805,9 +783,7 @@
         "GSVA",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
@@ -816,9 +792,7 @@
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -840,8 +814,7 @@
     "ffpe": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "fishpond": [],
     "flagme": [
@@ -910,8 +883,7 @@
     ],
     "FRASER": [],
     "funtooNorm": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "GA4GHclient": [],
     "GA4GHshiny": [
@@ -995,9 +967,7 @@
         "ncdfFlow"
     ],
     "ggmsa": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [],
@@ -1062,9 +1032,7 @@
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
         "chipseq",
@@ -1074,8 +1042,7 @@
     "iCheck": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "iCNV": [],
     "ideal": [
@@ -1086,7 +1053,6 @@
     "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [
@@ -1099,8 +1065,7 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "infercnv": [],
     "infinityFlow": [],
@@ -1140,9 +1105,7 @@
         "biovizBase"
     ],
     "katdetectr": [],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
         "DSS",
@@ -1161,7 +1124,6 @@
     ],
     "lisaClust": [
         "ClassifyR",
-        "SpatialExperiment",
         "spicyR"
     ],
     "lmdme": [],
@@ -1176,8 +1138,7 @@
     "lpNet": [],
     "lumi": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "LymphoSeq": [],
     "Maaslin2": [],
@@ -1189,8 +1150,7 @@
     "MAGAR": [
         "RnBeads",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
@@ -1238,14 +1198,12 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "sva"
     ],
     "MEAT": [
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "MEB": [],
@@ -1295,27 +1253,23 @@
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "bsseq",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "methylInheritance": [],
     "methylPipe": [
@@ -1327,8 +1281,7 @@
         "bsseq"
     ],
     "methylumi": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Mfuzz": [],
     "miaSim": [],
@@ -1342,7 +1295,6 @@
     "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ALDEx2",
-        "ANCOMBC",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1354,7 +1306,6 @@
     ],
     "microRNA": [],
     "microSTASIS": [],
-    "miloR": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1362,12 +1313,9 @@
         "GOstats",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
-    "minfi": [
-        "siggenes"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "VanillaICE"
     ],
@@ -1383,8 +1331,7 @@
     ],
     "missMethyl": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "mitoClone2": [
         "deepSNV"
@@ -1402,9 +1349,7 @@
     ],
     "MOFA2": [],
     "mogsa": [],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -1568,14 +1513,11 @@
         "GOstats",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "NeuCA": [],
     "nipalsMCIA": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
     "normr": [],
@@ -1705,7 +1647,6 @@
     "preciseTAD": [
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -1781,8 +1722,7 @@
         "sva"
     ],
     "quantro": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
@@ -1833,8 +1773,7 @@
         "derfinder"
     ],
     "recountmethylation": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "REDseq": [
         "ChIPpeakAnno"
@@ -1855,8 +1794,7 @@
         "biovizBase"
     ],
     "REMP": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "Ringo"
@@ -1940,8 +1878,7 @@
     ],
     "RnBeads": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "ROntoTools": [],
     "ropls": [],
@@ -1999,9 +1936,7 @@
     ],
     "schex": [],
     "scHOT": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [],
     "scMerge": [],
     "scMET": [],
@@ -2063,12 +1998,10 @@
         "GOstats"
     ],
     "shinyepico": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "SIAMCAT": [
         "phyloseq"
@@ -2076,7 +2009,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "siggenes": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -2084,11 +2016,9 @@
     "signeR": [],
     "signifinder": [
         "GSVA",
-        "SpatialExperiment",
         "consensusOV"
     ],
     "SigsPack": [],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
@@ -2098,7 +2028,6 @@
     ],
     "SIMD": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "SingleCellSignalR": [],
@@ -2123,7 +2052,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "slingshot": [],
@@ -2149,19 +2077,12 @@
     ],
     "Spaniel": [],
     "sparrow": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
@@ -2177,22 +2098,16 @@
     "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [],
-    "SPIAT": [
-        "SpatialExperiment",
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
-        "ClassifyR",
-        "SpatialExperiment"
+        "ClassifyR"
     ],
     "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [
         "phyloseq"
@@ -2205,19 +2120,14 @@
     "sSNAPPY": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "Statial": [
-        "SpatialExperiment"
-    ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
+    "stJoincount": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "sva": [],
@@ -2313,9 +2223,7 @@
     "trigger": [
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSCAN": [],
@@ -2358,7 +2266,6 @@
     "VDJdive": [],
     "velociraptor": [],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vtpnet": [
@@ -2373,8 +2280,7 @@
     "wateRmelon": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "webbioc": [],
     "weitrix": [],
@@ -2385,9 +2291,7 @@
         "mzID"
     ],
     "xcore": [],
-    "XDE": [
-        "siggenes"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
@@ -2400,8 +2304,7 @@
     ],
     "yarn": [
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zenith": [
         "EnrichmentBrowser",
