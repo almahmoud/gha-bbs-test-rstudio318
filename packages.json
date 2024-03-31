@@ -1,8 +1,5 @@
 {
-    "a4": [
-        "a4Classif"
-    ],
-    "a4Classif": [],
+    "a4": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -1482,7 +1479,6 @@
         "MSnbase",
         "mzID"
     ],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "chipseq",
@@ -1872,7 +1868,6 @@
     ],
     "SpotClean": [],
     "SPsimSeq": [],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
