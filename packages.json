@@ -29,7 +29,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "GOstats",
         "ReportingTools",
@@ -287,7 +286,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -419,7 +417,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -517,7 +514,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -684,7 +680,6 @@
     "DiffBind": [
         "systemPipeR"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -853,7 +848,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -1126,29 +1120,16 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
-    "iSEEhub": [
-        "iSEE"
-    ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
+    "iSEEhub": [],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -1188,7 +1169,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -1222,7 +1202,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -1280,7 +1259,6 @@
     "meshr": [],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -1295,7 +1273,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -1419,7 +1396,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -1469,7 +1445,6 @@
         "Spectra"
     ],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "msgbsR": [
@@ -1500,12 +1475,9 @@
         "sva"
     ],
     "msPurity": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsBig": [],
@@ -1573,7 +1545,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -1585,7 +1556,6 @@
         "epiNEM"
     ],
     "netDx": [],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1782,9 +1752,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
@@ -1802,7 +1770,6 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID"
@@ -1927,7 +1894,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID",
         "xcms"
@@ -2049,9 +2015,7 @@
     ],
     "Sconify": [],
     "scoreInvHap": [],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scReClassify": [],
     "scRNAseqApp": [
@@ -2417,7 +2381,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "mzID"
     ],
