@@ -217,7 +217,6 @@
         "pRoloc"
     ],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -504,7 +503,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -546,7 +544,6 @@
     "clipper": [
         "KEGGgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -722,7 +719,6 @@
     "crossmeta": [
         "sva"
     ],
-    "csaw": [],
     "CSSQ": [],
     "cTRAP": [],
     "CTSV": [
@@ -889,7 +885,6 @@
     "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [],
@@ -900,9 +895,7 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -1009,9 +1002,7 @@
     ],
     "epigenomix": [],
     "epigraHMM": [
-        "GreyListChIP",
-        "bamsignals",
-        "csaw"
+        "bamsignals"
     ],
     "epimutacions": [
         "Gviz",
@@ -1084,8 +1075,7 @@
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [],
     "famat": [
@@ -1110,7 +1100,6 @@
         "minfi",
         "siggenes"
     ],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "flagme": [
@@ -1276,7 +1265,6 @@
     "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
-    "GeneRegionScan": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
@@ -1370,8 +1358,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GreyListChIP": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1444,9 +1430,7 @@
     ],
     "HTSFilter": [],
     "hyperdraw": [],
-    "icetea": [
-        "csaw"
-    ],
+    "icetea": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -1897,12 +1881,10 @@
     "motifbreakR": [
         "CNEr",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "CNEr",
         "TFBSTools"
@@ -2031,7 +2013,6 @@
         "Gviz",
         "TFBSTools",
         "biovizBase",
-        "csaw",
         "motifStack",
         "regioneR",
         "trackViewer"
@@ -2147,7 +2128,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -2264,7 +2244,6 @@
         "MAST"
     ],
     "PPInfer": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -2568,7 +2547,6 @@
         "minfi",
         "siggenes"
     ],
-    "roar": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
@@ -2591,9 +2569,7 @@
     ],
     "RTNsurvival": [],
     "RTopper": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
     ],
@@ -2706,7 +2682,6 @@
         "epivizrData"
     ],
     "scviR": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -2730,7 +2705,6 @@
     "seqTools": [],
     "sesame": [],
     "SEtools": [
-        "sechm",
         "sva"
     ],
     "SGCP": [
@@ -2750,7 +2724,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -2778,7 +2751,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
@@ -3123,8 +3095,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
-        "csaw",
         "regioneR",
         "systemPipeR"
     ],
