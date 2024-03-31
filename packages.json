@@ -238,7 +238,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
@@ -1445,7 +1444,6 @@
     "mariner": [
         "plotgardener"
     ],
-    "martini": [],
     "maser": [
         "Gviz",
         "biovizBase"
