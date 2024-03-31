@@ -96,7 +96,6 @@
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
-    "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [],
     "animalcules": [],
@@ -549,7 +548,6 @@
         "mzID",
         "xcms"
     ],
-    "cosmosR": [],
     "COTAN": [
         "PCAtools"
     ],
@@ -726,7 +724,6 @@
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEWSeq": [],
     "DExMA": [
         "sva"
     ],
@@ -2279,7 +2276,6 @@
     ],
     "seqCAT": [],
     "SeqGate": [],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "seqTools": [],
     "SEtools": [
@@ -2612,7 +2608,6 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "vidger": [],
     "ViSEAGO": [],
     "Voyager": [
         "SpatialExperiment",
