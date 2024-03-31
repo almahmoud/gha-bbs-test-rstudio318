@@ -1060,7 +1060,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "aroma.light": [],
     "ArrayExpress": [
         "Biostrings",
         "DelayedArray",
@@ -1124,7 +1123,6 @@
     ],
     "arrayQualityMetrics": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -1876,7 +1874,6 @@
     ],
     "beadarray": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -1887,7 +1884,6 @@
         "illuminaio"
     ],
     "beadarraySNP": [],
-    "BeadDataPackR": [],
     "BEARscc": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -2089,7 +2085,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "gdsfmt",
         "genefilter",
         "illuminaio",
         "lumi",
@@ -2646,7 +2641,6 @@
     ],
     "blima": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -3383,7 +3377,6 @@
         "S4Vectors",
         "matter"
     ],
-    "CARNIVAL": [],
     "casper": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -3944,7 +3937,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "aroma.light",
         "marray"
     ],
     "cfDNAPro": [
@@ -5066,8 +5058,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "edgeR",
-        "gdsfmt"
+        "edgeR"
     ],
     "CNVrd2": [
         "AnnotationDbi",
@@ -5421,7 +5412,6 @@
         "flowCore",
         "flowMeans",
         "flowMerge",
-        "flowPeaks",
         "graph"
     ],
     "ConsensusClusterPlus": [],
@@ -5450,7 +5440,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "ensembldb",
@@ -5732,7 +5721,6 @@
     "cosmosR": [
         "AnnotationDbi",
         "Biostrings",
-        "CARNIVAL",
         "GSEABase",
         "GenomeInfoDb",
         "IRanges",
@@ -6603,7 +6591,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "genefilter",
@@ -6641,7 +6628,6 @@
     ],
     "DART": [],
     "dcanr": [],
-    "DCATS": [],
     "dce": [
         "AnnotationDbi",
         "Biostrings",
@@ -6671,7 +6657,6 @@
         "cytolib",
         "flowCore",
         "flowDensity",
-        "flowPeaks",
         "flowViz"
     ],
     "debCAM": [
@@ -7409,7 +7394,6 @@
         "rtracklayer"
     ],
     "DiffLogo": [],
-    "diffuStats": [],
     "diffUTR": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -7800,7 +7784,6 @@
         "rtracklayer",
         "syntenet"
     ],
-    "drawProteins": [],
     "dreamlet": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -8006,7 +7989,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -8075,7 +8057,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "rtracklayer"
     ],
@@ -8499,7 +8480,6 @@
     ],
     "epigenomix": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
@@ -9202,7 +9182,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "drawProteins",
         "rtracklayer",
         "wiggleplotr"
     ],
@@ -9280,7 +9259,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "fCI": [],
     "fcScan": [
         "AnnotationDbi",
         "BSgenome",
@@ -9401,7 +9379,6 @@
         "RBGL",
         "graph"
     ],
-    "FGNet": [],
     "fgsea": [
         "BiocParallel"
     ],
@@ -9651,7 +9628,6 @@
         "flowCore",
         "graph"
     ],
-    "flowPeaks": [],
     "flowPloidy": [
         "RProtoBufLib",
         "S4Vectors",
@@ -9963,7 +9939,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "genefilter",
@@ -9997,8 +9972,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "gcapc": [
         "BSgenome",
@@ -10189,10 +10163,8 @@
         "SNPRelate",
         "SeqArray",
         "SparseArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
-    "gdsfmt": [],
     "gemma.R": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -10332,8 +10304,7 @@
         "SNPRelate",
         "SeqArray",
         "SeqVarTools",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "GeneStructureTools": [
         "AnnotationDbi",
@@ -10903,8 +10874,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "ggmsa": [
         "Biostrings",
@@ -11719,9 +11689,7 @@
         "rtracklayer",
         "snpStats"
     ],
-    "GWASTools": [
-        "gdsfmt"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "AnnotationDbi",
         "BSgenome",
@@ -11747,7 +11715,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "gdsfmt",
         "rtracklayer"
     ],
     "GWENA": [
@@ -12145,7 +12112,6 @@
         "hiAnnotator",
         "rtracklayer"
     ],
-    "HIREewas": [],
     "HiTC": [
         "BiocIO",
         "BiocParallel",
@@ -12885,9 +12851,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "IONiseR": [
         "BiocParallel",
         "Biostrings",
@@ -13398,7 +13362,6 @@
     "lapmix": [],
     "LBE": [],
     "ldblock": [],
-    "LedPred": [],
     "lefser": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -14209,7 +14172,6 @@
         "SummarizedExperiment",
         "XVector",
         "affyio",
-        "gdsfmt",
         "oligoClasses"
     ],
     "MBQN": [
@@ -14736,7 +14698,6 @@
         "affy",
         "affyio",
         "annotate",
-        "aroma.light",
         "beachmat",
         "biomaRt",
         "bsseq",
@@ -17616,7 +17577,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "beachmat",
         "biomaRt",
         "edgeR",
@@ -18590,7 +18550,6 @@
         "affy",
         "affyio",
         "annotate",
-        "aroma.light",
         "genefilter"
     ],
     "peco": [
@@ -19114,7 +19073,6 @@
         "XVector",
         "mixOmics"
     ],
-    "powerTCR": [],
     "POWSC": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -20177,7 +20135,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "gdsfmt",
         "rtracklayer"
     ],
     "rain": [
@@ -20401,10 +20358,7 @@
     ],
     "rDGIdb": [],
     "RDRToolbox": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -21288,7 +21242,6 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "motifStack",
@@ -22169,7 +22122,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "rtracklayer"
@@ -22203,8 +22155,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sampleClassifier": [
         "AnnotationDbi",
@@ -22450,7 +22401,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "SCArray.sat": [
@@ -22470,7 +22420,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "scater": [
@@ -22929,7 +22878,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "rhdf5",
@@ -23112,8 +23060,7 @@
         "SingleCellExperiment",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "powerTCR"
+        "XVector"
     ],
     "scRNAseqApp": [
         "BiocIO",
@@ -23513,8 +23460,7 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "seqbias": [
         "Biostrings",
@@ -23622,7 +23568,6 @@
         "S4Vectors",
         "SNPRelate",
         "XVector",
-        "gdsfmt",
         "interactiveDisplayBase"
     ],
     "seqTools": [],
@@ -23633,8 +23578,7 @@
         "IRanges",
         "S4Vectors",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sesame": [
         "AnnotationDbi",
@@ -24517,9 +24461,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [],
     "soGGi": [
         "BiocIO",
@@ -25290,7 +25232,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "rtracklayer"
@@ -26247,8 +26188,7 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "XVector",
-        "aroma.light"
+        "XVector"
     ],
     "TissueEnrich": [
         "AnnotationDbi",
@@ -27236,8 +27176,7 @@
         "SeqArray",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "VariantFiltering": [
         "AnnotationDbi",
