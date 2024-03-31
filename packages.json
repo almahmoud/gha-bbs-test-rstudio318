@@ -127,7 +127,6 @@
     "basecallQC": [],
     "BASiCStan": [],
     "BatchQC": [],
-    "BBCAnalyzer": [],
     "BEAT": [],
     "benchdamic": [
         "Maaslin2"
@@ -224,7 +223,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "cardelino": [],
     "casper": [],
     "CATALYST": [
         "FlowSOM"
@@ -556,7 +554,6 @@
         "annotatr"
     ],
     "DNAfusion": [],
-    "DominoEffect": [],
     "doppelgangR": [],
     "Doscheda": [],
     "doubletrouble": [],
@@ -1698,13 +1695,8 @@
     "Statial": [],
     "stJoincount": [],
     "structToolbox": [],
-    "StructuralVariantAnnotation": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [],
     "synapter": [
         "MSnbase",
