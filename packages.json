@@ -504,7 +504,6 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -554,7 +553,6 @@
     ],
     "DNAfusion": [],
     "doppelgangR": [],
-    "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -563,7 +561,6 @@
         "safe",
         "zenith"
     ],
-    "DrugVsDisease": [],
     "DSS": [],
     "easyRNASeq": [],
     "EDASeq": [],
@@ -654,7 +651,6 @@
     ],
     "FastqCleaner": [],
     "fCCAC": [],
-    "fcScan": [],
     "FEAST": [
         "TSCAN"
     ],
@@ -903,7 +899,6 @@
     "karyoploteR": [
         "biovizBase"
     ],
-    "katdetectr": [],
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
@@ -1082,9 +1077,7 @@
         "methylumi",
         "minfi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1641,7 +1634,6 @@
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [],
-    "SNPhood": [],
     "soGGi": [
         "chipseq"
     ],
