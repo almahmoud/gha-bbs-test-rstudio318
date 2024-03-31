@@ -181,7 +181,6 @@
     "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
-        "beadarray",
         "gcrma",
         "vsn"
     ],
@@ -272,14 +271,11 @@
         "VariantAnnotation"
     ],
     "beachmat.hdf5": [],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [
         "ShortRead"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -351,7 +347,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "BioQC": [],
     "biosigner": [
         "ropls"
     ],
@@ -375,9 +370,7 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
@@ -398,8 +391,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -426,9 +418,7 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -562,9 +552,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [],
     "CGHbase": [],
     "CGHcall": [
@@ -653,9 +641,7 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "circRNAprofiler": [
         "VariantAnnotation",
         "gwascat"
@@ -1155,7 +1141,6 @@
     "DSS": [
         "bsseq"
     ],
-    "dupRadar": [],
     "dyebias": [],
     "easier": [],
     "easylift": [],
@@ -1178,7 +1163,6 @@
         "safe"
     ],
     "eiR": [],
-    "eisaR": [],
     "ELMER": [
         "Gviz",
         "TCGAbiolinks",
@@ -1232,9 +1216,7 @@
         "genomation"
     ],
     "epidecodeR": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
         "bamsignals",
@@ -1582,8 +1564,7 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
-        "plyranges"
+        "genomation"
     ],
     "GenomicScores": [],
     "GenomicSuperSignature": [],
@@ -1646,8 +1627,7 @@
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "maftools"
+        "cBioPortalData"
     ],
     "GOexpress": [],
     "GOpro": [],
@@ -1818,8 +1798,7 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [],
     "InTAD": [],
@@ -1893,9 +1872,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "maftools",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KCsmart": [
         "siggenes"
@@ -1964,7 +1941,6 @@
     "MADSEQ": [
         "VariantAnnotation"
     ],
-    "maftools": [],
     "MAGAR": [
         "RnBeads",
         "bumphunter",
@@ -1999,8 +1975,7 @@
         "gcrma"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "martini": [],
     "maser": [
@@ -2138,7 +2113,6 @@
         "bsseq",
         "bumphunter",
         "minfi",
-        "plyranges",
         "siggenes"
     ],
     "methylclock": [
@@ -2164,7 +2138,6 @@
         "methylKit"
     ],
     "methylKit": [],
-    "methylMnM": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -2305,7 +2278,6 @@
         "enrichplot"
     ],
     "mosaics": [],
-    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -2432,7 +2404,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -2443,7 +2414,6 @@
     "MultiRNAflow": [
         "Mfuzz"
     ],
-    "multiWGCNA": [],
     "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
@@ -2451,8 +2421,7 @@
     "muscat": [],
     "musicatk": [
         "VariantAnnotation",
-        "decompTumor2Sig",
-        "maftools"
+        "decompTumor2Sig"
     ],
     "MutationalPatterns": [
         "VariantAnnotation"
@@ -2501,9 +2470,7 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM",
@@ -2554,9 +2521,7 @@
     "nucleR": [
         "ShortRead"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "OCplus": [],
     "octad": [
         "EDASeq",
@@ -2706,7 +2671,6 @@
         "Category"
     ],
     "philr": [],
-    "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
@@ -2736,13 +2700,8 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
+    "plyinteractions": [],
     "pmp": [],
     "podkat": [],
     "pogos": [
@@ -2988,7 +2947,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "regsplice": [],
     "regutools": [
         "Gviz",
         "VariantAnnotation",
@@ -3150,7 +3108,6 @@
         "KEGGgraph"
     ],
     "ropls": [],
-    "ROSeq": [],
     "RPA": [
         "biomformat",
         "phyloseq"
@@ -3188,9 +3145,7 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -3268,7 +3223,6 @@
     ],
     "scPipe": [],
     "scReClassify": [],
-    "ScreenR": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "TrajectoryUtils",
@@ -3390,9 +3344,7 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
@@ -3745,8 +3697,7 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "Rbowtie2",
