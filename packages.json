@@ -1330,7 +1330,6 @@
         "rtracklayer"
     ],
     "BufferedMatrixMethods": [],
-    "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
         "BiocIO",
@@ -2739,7 +2738,6 @@
         "oligoClasses",
         "sva"
     ],
-    "CSAR": [],
     "csaw": [
         "Rhtslib",
         "Rsamtools"
@@ -2987,7 +2985,6 @@
         "mnem",
         "multtest"
     ],
-    "dcGSA": [],
     "ddCt": [],
     "ddPCRclust": [
         "cytolib",
@@ -3176,7 +3173,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DepInfeR": [],
     "DEqMS": [],
     "derfinder": [
         "BSgenome",
@@ -3481,7 +3477,6 @@
         "pathview",
         "safe",
         "sparseMatrixStats",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -5174,7 +5169,6 @@
         "rtracklayer"
     ],
     "HELP": [],
-    "HEM": [],
     "hermes": [
         "ComplexHeatmap",
         "DESeq2",
@@ -5336,7 +5330,6 @@
     ],
     "hypergraph": [],
     "iasva": [],
-    "iBMQ": [],
     "icetea": [
         "BSgenome",
         "BiocIO",
@@ -5386,7 +5379,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "BiocIO",
@@ -5599,7 +5591,6 @@
     "iPAC": [
         "multtest"
     ],
-    "iPath": [],
     "ipdDb": [
         "AnnotationHub",
         "interactiveDisplayBase"
@@ -6722,9 +6713,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [
         "MultiAssayExperiment"
     ],
@@ -7360,8 +7349,7 @@
         "beachmat",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "variancePartition"
+        "sparseMatrixStats"
     ],
     "muscle": [],
     "musicatk": [
@@ -7653,7 +7641,6 @@
     "npGSEA": [
         "GSEABase"
     ],
-    "nucleoSim": [],
     "nucleR": [
         "GenomicAlignments",
         "Rhtslib",
@@ -8852,7 +8839,6 @@
     "RCyjs": [
         "BrowserViz"
     ],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
@@ -8959,7 +8945,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "TOAST",
         "beachmat",
         "bluster",
         "fgsea",
@@ -9627,7 +9612,6 @@
         "rtracklayer"
     ],
     "runibic": [],
-    "RUVcorr": [],
     "RUVnormalize": [],
     "RUVSeq": [
         "BiocIO",
@@ -10887,7 +10871,6 @@
         "rhdf5filters"
     ],
     "SQLDataFrame": [],
-    "sRACIPE": [],
     "SRAdb": [
         "GEOquery"
     ],
@@ -11057,7 +11040,6 @@
         "DECIPHER"
     ],
     "synlet": [],
-    "SynMut": [],
     "syntenet": [
         "BiocIO",
         "GenomicAlignments",
@@ -11315,7 +11297,6 @@
         "sparseMatrixStats"
     ],
     "TnT": [],
-    "TOAST": [],
     "tomoda": [],
     "tomoseqr": [],
     "TOP": [
@@ -11657,7 +11638,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "variancePartition": [],
     "VariantAnnotation": [
         "BSgenome",
         "BiocIO",
@@ -11980,8 +11960,7 @@
         "SPIA",
         "graphite",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zFPKM": [],
     "zinbwave": [
