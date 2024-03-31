@@ -232,7 +232,6 @@
     "AUCell": [],
     "autonomics": [],
     "AWFisher": [],
-    "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -810,7 +809,6 @@
     "CoreGx": [
         "piano"
     ],
-    "Cormotif": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -1134,7 +1132,6 @@
     ],
     "dyebias": [],
     "easier": [],
-    "easylift": [],
     "easyRNASeq": [
         "ShortRead"
     ],
@@ -1281,7 +1278,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -1475,7 +1471,6 @@
     ],
     "gatom": [],
     "GBScleanR": [],
-    "gcapc": [],
     "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
@@ -1684,7 +1679,6 @@
     ],
     "hermes": [],
     "HERON": [],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -1708,15 +1702,12 @@
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
     "hpar": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -2054,7 +2045,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagene2": [],
     "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
@@ -2488,9 +2478,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "normalize450K": [],
     "NormalyzerDE": [
@@ -2677,7 +2665,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "plier": [],
     "PloGO2": [
         "Category",
         "GOstats"
@@ -3293,7 +3280,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sigFeature": [],
     "siggenes": [],
     "signatureSearch": [
         "DOSE",
@@ -3688,9 +3674,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
