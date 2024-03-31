@@ -1331,7 +1331,6 @@
         "zlibbioc"
     ],
     "ASAFE": [],
-    "ASEB": [],
     "ASGSCA": [],
     "ASICS": [
         "BiocBaseUtils",
@@ -4993,7 +4992,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -6181,7 +6179,6 @@
         "graph",
         "limma"
     ],
-    "consensus": [],
     "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
@@ -7981,7 +7978,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "deltaGseg": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
@@ -8751,10 +8747,7 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "DNAcopy": [],
     "DNAfusion": [
         "AnnotationDbi",
@@ -10601,7 +10594,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "fdrame": [],
     "FEAST": [
         "BiocParallel",
         "DelayedArray",
@@ -14948,10 +14940,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -14988,7 +14977,6 @@
         "geneplotter",
         "interactiveDisplayBase",
         "limma",
-        "pfamAnalyzeR",
         "rtracklayer",
         "satuRn",
         "sva",
@@ -15274,7 +15262,6 @@
     "lapmix": [],
     "LBE": [],
     "ldblock": [],
-    "LEA": [],
     "LedPred": [],
     "lefser": [
         "DelayedArray",
@@ -18560,7 +18547,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "MPFE": [],
     "mpra": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -20418,7 +20404,6 @@
         "fgsea",
         "zlibbioc"
     ],
-    "Omixer": [],
     "OmnipathR": [],
     "ompBAM": [
         "zlibbioc"
@@ -21355,7 +21340,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "pfamAnalyzeR": [],
     "phantasus": [
         "AnnotationDbi",
         "BiocParallel",
@@ -23355,7 +23339,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "Rcollectl": [],
     "Rcpi": [
         "AnnotationDbi",
         "Biostrings",
@@ -23392,7 +23375,6 @@
         "graph"
     ],
     "rDGIdb": [],
-    "Rdisop": [],
     "RDRToolbox": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -25548,7 +25530,6 @@
         "pathview",
         "zlibbioc"
     ],
-    "SBMLR": [],
     "SC3": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -27873,7 +27854,6 @@
         "ggtree",
         "treeio"
     ],
-    "sizepower": [],
     "skewr": [
         "AnnotationDbi",
         "BiocFileCache",
