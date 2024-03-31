@@ -720,9 +720,7 @@
     ],
     "escheR": [],
     "EventPointer": [],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -1228,7 +1226,6 @@
         "xcms"
     ],
     "MOFA2": [],
-    "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
@@ -1407,7 +1404,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [],
     "openCyto": [
         "flowClust",
         "flowViz",
@@ -1421,7 +1417,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "orthogene": [],
     "orthos": [],
     "OTUbase": [],
     "OutSplice": [
@@ -1939,7 +1934,6 @@
         "biovizBase"
     ],
     "TADCompare": [],
-    "tanggle": [],
     "TargetDecoy": [
         "mzID"
     ],
