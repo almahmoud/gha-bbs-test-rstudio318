@@ -891,7 +891,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -3092,7 +3091,6 @@
         "seqPattern"
     ],
     "GenomAutomorphism": [],
-    "GenomicAlignments": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [
