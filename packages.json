@@ -481,7 +481,6 @@
         "xcms"
     ],
     "COTAN": [],
-    "countsimQC": [],
     "CRImage": [],
     "crisprDesign": [
         "crisprScore"
@@ -1183,7 +1182,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaSeq": [],
     "metaseqR2": [
         "DSS",
         "EDASeq",
@@ -1246,7 +1244,6 @@
         "ggtreeExtra"
     ],
     "microRNA": [],
-    "microSTASIS": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1399,7 +1396,6 @@
     ],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -1988,7 +1984,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [],
@@ -2034,7 +2029,6 @@
         "MSnbase",
         "mzID"
     ],
-    "SynExtend": [],
     "systemPipeR": [],
     "systemPipeTools": [],
     "tadar": [
@@ -2175,7 +2169,6 @@
         "Spectra",
         "mzID"
     ],
-    "xcore": [],
     "XDE": [],
     "Xeva": [
         "CoreGx",
