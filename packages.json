@@ -14,7 +14,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "adductomicsR": [],
     "AffiXcan": [],
     "affycoretools": [
@@ -750,8 +749,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "evaluomeR": [],
@@ -1454,7 +1452,6 @@
         "quantro",
         "yarn"
     ],
-    "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
@@ -2132,7 +2129,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "UCell": [],
     "Ularcirc": [
         "plotgardener"
     ],
