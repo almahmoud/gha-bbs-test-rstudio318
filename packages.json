@@ -90,7 +90,6 @@
     "AMARETTO": [],
     "amplican": [],
     "AneuFinder": [],
-    "annmap": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "anota2seq": [],
@@ -417,7 +416,6 @@
         "mzID"
     ],
     "clusterExperiment": [
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -984,7 +982,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOpro": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -1185,7 +1182,6 @@
         "phyloseq",
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [],
     "mbQTL": [],
     "mCSEA": [
@@ -1506,7 +1502,6 @@
     ],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -1515,7 +1510,6 @@
         "quantro",
         "yarn"
     ],
-    "NeuCA": [],
     "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
@@ -2046,7 +2040,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "SiPSiC": [],
     "sitePath": [],
     "skewr": [
         "lumi",
