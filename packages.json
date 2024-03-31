@@ -1757,7 +1757,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
@@ -1780,7 +1779,6 @@
     "nondetects": [],
     "NormalyzerDE": [],
     "normr": [],
-    "npGSEA": [],
     "nucleR": [],
     "nullranges": [],
     "OCplus": [],
@@ -2138,7 +2136,6 @@
         "MSnbase",
         "mzID"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
