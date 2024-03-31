@@ -263,7 +263,6 @@
         "zinbwave"
     ],
     "BgeeCall": [],
-    "BgeeDB": [],
     "bgx": [
         "gcrma"
     ],
@@ -794,7 +793,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "crossmeta": [
         "sva"
     ],
@@ -1405,9 +1403,7 @@
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -1530,7 +1526,6 @@
         "ChIPpeakAnno",
         "regioneR"
     ],
-    "Guitar": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1609,9 +1604,7 @@
     "igvR": [],
     "IHW": [],
     "ILoReg": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "SpatialExperiment",
         "cytomapper"
@@ -1702,7 +1695,6 @@
         "DEGreport"
     ],
     "ITALICS": [],
-    "IVAS": [],
     "karyoploteR": [
         "bamsignals",
         "biovizBase",
@@ -1771,7 +1763,6 @@
     "MAGAR": [
         "RnBeads",
         "bumphunter",
-        "crlmm",
         "methylumi",
         "minfi",
         "siggenes"
@@ -1900,7 +1891,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
         "DSS",
@@ -2011,8 +2001,7 @@
         "siggenes"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "miQC": [],
     "MIRA": [
@@ -2551,9 +2540,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "mzID"
@@ -2616,8 +2603,7 @@
     ],
     "raer": [],
     "RAIDS": [
-        "GENESIS",
-        "SeqVarTools"
+        "GENESIS"
     ],
     "rain": [],
     "ramwas": [],
@@ -2764,9 +2750,7 @@
         "mzID",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
@@ -2996,13 +2980,11 @@
     "seqsetvis": [],
     "SeqSQC": [],
     "seqTools": [],
-    "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
         "sechm",
         "sva"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats"
@@ -3226,7 +3208,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "SWATH2stats": [],
     "switchde": [],
     "synapter": [
         "MSnbase",
@@ -3319,7 +3300,6 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "ShortRead",
         "chipseq"
@@ -3391,9 +3371,7 @@
         "monocle"
     ],
     "VAExprs": [],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VariantExperiment": [
         "GDSArray"
     ],
