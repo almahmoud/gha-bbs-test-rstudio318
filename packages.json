@@ -408,7 +408,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -454,7 +453,6 @@
     ],
     "cbpManager": [],
     "ccfindR": [],
-    "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
@@ -602,7 +600,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -753,7 +750,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -998,7 +994,6 @@
     "dittoSeq": [],
     "divergence": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "Gviz",
         "biovizBase",
@@ -1075,7 +1070,6 @@
         "minfi",
         "siggenes"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "KEGGgraph",
         "SPIA",
@@ -1188,7 +1182,6 @@
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "biovizBase",
@@ -1230,7 +1223,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1334,7 +1326,6 @@
         "OUTRIDER"
     ],
     "frma": [],
-    "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
         "bumphunter",
@@ -1577,7 +1568,6 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "HumanTranscriptomeCompendium": [],
     "hyperdraw": [],
     "icetea": [
         "ShortRead",
@@ -1600,7 +1590,6 @@
         "goseq",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "igvR": [],
     "IHW": [],
     "ILoReg": [],
@@ -1659,7 +1648,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1685,7 +1673,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "sva",
@@ -1736,7 +1723,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1781,7 +1767,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -1855,7 +1840,6 @@
     "meshr": [
         "Category"
     ],
-    "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "QFeatures",
@@ -1879,7 +1863,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2036,7 +2019,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2104,7 +2086,6 @@
         "QFeatures",
         "Spectra"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "OrganismDbi",
         "ShortRead",
@@ -2230,7 +2211,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2309,7 +2289,6 @@
     ],
     "omicRexposome": [
         "omicade4",
-        "rexposome",
         "sva"
     ],
     "OMICsPCA": [
@@ -2496,7 +2475,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "ShortRead",
         "chipseq",
         "enrichplot",
@@ -2704,9 +2682,7 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rexposome": [],
     "Rfastp": [],
-    "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
@@ -2744,7 +2720,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID",
@@ -2966,7 +2941,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
@@ -3197,7 +3171,6 @@
         "struct"
     ],
     "StructuralVariantAnnotation": [],
-    "surfaltr": [],
     "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation"
@@ -3227,7 +3200,6 @@
         "HiCcompare"
     ],
     "tanggle": [],
-    "TAPseq": [],
     "TargetDecoy": [
         "mzID"
     ],
@@ -3429,7 +3401,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "MsFeatures",
         "QFeatures",
         "Spectra",
         "mzID"
