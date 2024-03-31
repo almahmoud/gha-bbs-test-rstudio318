@@ -116,7 +116,6 @@
         "scuttle"
     ],
     "alabaster": [
-        "BumpyMatrix",
         "HDF5Array",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -135,7 +134,6 @@
     ],
     "alabaster.base": [],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "alabaster.base"
     ],
     "alabaster.files": [
@@ -383,7 +381,6 @@
         "pRoloc",
         "vsn"
     ],
-    "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
     ],
@@ -678,7 +675,6 @@
     ],
     "BufferedMatrixMethods": [],
     "bumphunter": [],
-    "BumpyMatrix": [],
     "BUSpaRse": [
         "plyranges"
     ],
@@ -1266,7 +1262,6 @@
     ],
     "coRdon": [],
     "CoreGx": [
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "piano"
     ],
@@ -1725,7 +1720,6 @@
     "DOSE": [],
     "doseR": [],
     "doubletrouble": [
-        "MSA2dist",
         "syntenet"
     ],
     "dreamlet": [
@@ -1979,7 +1973,6 @@
         "TreeSummarizedExperiment"
     ],
     "ExploreModelMatrix": [],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "EnrichedHeatmap",
         "GenomicInteractions",
@@ -2034,7 +2027,6 @@
     "FindIT2": [
         "MultiAssayExperiment"
     ],
-    "FISHalyseR": [],
     "fishpond": [
         "SingleCellExperiment"
     ],
@@ -2254,7 +2246,6 @@
         "VariantAnnotation"
     ],
     "gDR": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -2264,12 +2255,10 @@
         "piano"
     ],
     "gDRcore": [
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -2280,7 +2269,6 @@
         "BiocCheck"
     ],
     "gDRutils": [
-        "BumpyMatrix",
         "MultiAssayExperiment"
     ],
     "GDSArray": [],
@@ -2526,7 +2514,6 @@
         "HDF5Array",
         "SingleCellExperiment"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
@@ -2591,7 +2578,6 @@
         "basilisk.utils"
     ],
     "hicVennDiagram": [],
-    "HilbertCurve": [],
     "HilbertVisGUI": [],
     "HiLDA": [],
     "hipathia": [
@@ -2658,7 +2644,6 @@
     ],
     "IdeoViz": [],
     "idpr": [],
-    "IFAA": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -2741,7 +2726,6 @@
         "VariantAnnotation",
         "genefilter"
     ],
-    "InterMineR": [],
     "IONiseR": [
         "ShortRead"
     ],
@@ -2892,7 +2876,6 @@
         "xcms"
     ],
     "loci2path": [],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment"
@@ -2928,7 +2911,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "made4": [],
     "MADSEQ": [
         "VariantAnnotation"
     ],
@@ -3518,7 +3500,6 @@
     ],
     "MouseFM": [],
     "MPRAnalyze": [],
-    "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
@@ -3896,9 +3877,7 @@
     ],
     "omada": [],
     "OmaDB": [],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [
         "ALDEx2",
         "multtest"
@@ -3906,7 +3885,6 @@
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
-        "made4",
         "omicade4",
         "rexposome",
         "sva"
@@ -3921,7 +3899,6 @@
         "RaggedExperiment"
     ],
     "omicsViewer": [],
-    "ompBAM": [],
     "oncomix": [],
     "oncoscanR": [],
     "OncoScore": [],
@@ -3961,7 +3938,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
     "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [],
@@ -4054,7 +4030,6 @@
         "DelayedMatrixStats"
     ],
     "PDATK": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "genefu",
@@ -4093,7 +4068,6 @@
         "rhdf5client"
     ],
     "PharmacoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "piano"
@@ -4386,7 +4360,6 @@
     ],
     "R4RNA": [],
     "RadioGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "piano"
@@ -4733,7 +4706,6 @@
         "ropls"
     ],
     "rrvgo": [],
-    "rScudo": [],
     "RSVSim": [
         "ShortRead"
     ],
@@ -5405,8 +5377,7 @@
     "SpliceWiz": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "genefilter",
-        "ompBAM"
+        "genefilter"
     ],
     "SplicingFactory": [],
     "SplicingGraphs": [
@@ -5485,7 +5456,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [],
     "SUITOR": [],
     "surfaltr": [],
     "sva": [
@@ -5649,7 +5619,6 @@
         "vsn"
     ],
     "ToxicoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "piano"
@@ -5912,7 +5881,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -5927,8 +5895,7 @@
         "SomaticSignatures",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "gtrellis"
+        "ggbio"
     ],
     "yarn": [
         "DelayedMatrixStats",
