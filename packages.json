@@ -115,7 +115,6 @@
     ],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr"
@@ -427,7 +426,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "cogeqc": [],
     "comapr": [
         "Gviz",
@@ -938,7 +936,6 @@
     "ggtreeExtra": [],
     "girafe": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
@@ -1029,7 +1026,6 @@
     ],
     "infinityFlow": [],
     "InPAS": [],
-    "InTAD": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -1139,7 +1135,6 @@
         "phyloseq",
         "sva"
     ],
-    "mBPCR": [],
     "mbQTL": [],
     "mCSEA": [
         "Gviz",
@@ -1163,7 +1158,6 @@
     "MEIGOR": [
         "CNORode"
     ],
-    "Melissa": [],
     "meshes": [
         "enrichplot"
     ],
@@ -1188,7 +1182,6 @@
         "mzID",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
@@ -2189,7 +2182,6 @@
         "minfi"
     ],
     "webbioc": [],
-    "weitrix": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
