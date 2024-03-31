@@ -151,7 +151,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
     "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
@@ -383,7 +382,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -1510,7 +1508,6 @@
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2093,7 +2090,6 @@
     ],
     "safe": [],
     "sampleClassifier": [],
-    "sangeranalyseR": [],
     "SARC": [],
     "SBGNview": [
         "pathview"
@@ -2126,11 +2122,9 @@
     "scds": [],
     "SCFA": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "schex": [],
     "scHOT": [],
     "scider": [
