@@ -486,7 +486,6 @@
         "Spectra"
     ],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -514,7 +513,6 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "corral": [],
     "coseq": [],
     "cosmiq": [
         "MSnbase",
@@ -696,7 +694,6 @@
     "diffHic": [],
     "diffUTR": [],
     "Dino": [],
-    "distinct": [],
     "dittoSeq": [],
     "divergence": [],
     "DMRcate": [
@@ -851,7 +848,6 @@
         "minfi",
         "siggenes"
     ],
-    "FindIT2": [],
     "fishpond": [],
     "flagme": [
         "CAMERA",
@@ -2058,7 +2054,6 @@
     ],
     "scPipe": [],
     "scReClassify": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
     ],
