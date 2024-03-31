@@ -285,7 +285,6 @@
     "celda": [],
     "CellBarcode": [],
     "cellHTS2": [],
-    "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
@@ -1750,7 +1749,6 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scHOT": [],
     "scider": [],
     "scifer": [],
     "scMerge": [],
