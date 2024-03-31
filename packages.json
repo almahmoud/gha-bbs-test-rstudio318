@@ -165,7 +165,6 @@
         "dmrseq"
     ],
     "blacksheepr": [],
-    "blima": [],
     "BLMA": [
         "ROntoTools"
     ],
@@ -227,7 +226,6 @@
         "phenoTest"
     ],
     "cardelino": [],
-    "Cardinal": [],
     "casper": [],
     "CATALYST": [
         "FlowSOM"
@@ -506,7 +504,6 @@
         "enrichplot",
         "pathview"
     ],
-    "decompTumor2Sig": [],
     "decontX": [],
     "deconvR": [
         "minfi"
@@ -838,7 +835,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "gwasurvivr": [],
     "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs"
@@ -1220,9 +1216,7 @@
     "MultiRNAflow": [
         "Mfuzz"
     ],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MWASTools": [],
     "myvariant": [],
