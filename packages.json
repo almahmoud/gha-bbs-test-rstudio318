@@ -847,7 +847,6 @@
     "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
-        "VariantTools",
         "chipseq"
     ],
     "icetea": [],
@@ -1046,7 +1045,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
@@ -1807,7 +1805,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
