@@ -391,7 +391,6 @@
         "MultiAssayExperiment"
     ],
     "AWFisher": [],
-    "awst": [],
     "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
@@ -1132,10 +1131,7 @@
         "vsn",
         "xcms"
     ],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "mzID",
@@ -1163,7 +1159,6 @@
     "clustifyr": [
         "SingleCellExperiment"
     ],
-    "CMA": [],
     "cmapR": [
         "cytolib",
         "flowCore",
@@ -1594,7 +1589,6 @@
         "mnem",
         "multtest"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "cytolib",
         "flowCore",
@@ -1661,10 +1655,8 @@
     "DEGseq": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array",
         "rhdf5"
     ],
@@ -1720,7 +1712,6 @@
         "regioneR"
     ],
     "DESeq2": [],
-    "DEsingle": [],
     "DESpace": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -2125,7 +2116,6 @@
     "factR": [
         "wiggleplotr"
     ],
-    "FamAgg": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -2534,7 +2524,6 @@
         "genefilter",
         "vsn"
     ],
-    "getDEE2": [],
     "gg4way": [
         "DESeq2"
     ],
@@ -3229,7 +3218,6 @@
     "mBPCR": [
         "GWASTools"
     ],
-    "MBQN": [],
     "mbQTL": [
         "metagenomeSeq"
     ],
@@ -3917,7 +3905,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "multiscan": [],
     "multiWGCNA": [],
     "multtest": [],
     "mumosa": [
@@ -4433,7 +4420,6 @@
     "plotgardener": [
         "plyranges"
     ],
-    "PLPE": [],
     "plyinteractions": [
         "plyranges"
     ],
@@ -4554,7 +4540,6 @@
         "genefilter",
         "vsn"
     ],
-    "PSEA": [],
     "psichomics": [
         "GEOquery",
         "GenomicFiles",
@@ -5785,7 +5770,6 @@
     "sSNAPPY": [
         "graphite"
     ],
-    "ssPATHS": [],
     "ssviz": [],
     "stageR": [],
     "standR": [
@@ -5819,7 +5803,6 @@
         "SpatialExperiment"
     ],
     "strandCheckR": [],
-    "Streamer": [],
     "struct": [],
     "Structstrings": [],
     "structToolbox": [
@@ -6132,7 +6115,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
