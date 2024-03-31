@@ -12,7 +12,6 @@
         "tilingArray"
     ],
     "adductomicsR": [],
-    "AffiXcan": [],
     "affycoretools": [
         "GOstats",
         "ReportingTools",
@@ -1085,7 +1084,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEIGOR": [
         "CNORode"
     ],
@@ -1558,11 +1556,9 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS"
     ],
-    "rain": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "GenomicScores"
@@ -2024,7 +2020,6 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "lumi",
         "methylumi",
