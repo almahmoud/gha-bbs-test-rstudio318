@@ -721,9 +721,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -774,7 +772,6 @@
     ],
     "csaw": [],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -1342,8 +1339,7 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRcore": [
         "gDRutils"
@@ -1351,8 +1347,7 @@
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
-        "piano"
+        "gDRutils"
     ],
     "gDRstyle": [],
     "gDRutils": [],
@@ -1608,7 +1603,6 @@
     "interactiveDisplay": [
         "Category"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles"
@@ -1617,7 +1611,6 @@
         "ShortRead"
     ],
     "iPAC": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -2334,8 +2327,7 @@
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "genefu",
-        "piano"
+        "genefu"
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [
@@ -2353,8 +2345,7 @@
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "destiny",
@@ -2368,7 +2359,6 @@
         "Category"
     ],
     "philr": [],
-    "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
     ],
@@ -2376,7 +2366,6 @@
         "biomformat"
     ],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -2531,8 +2520,7 @@
         "ShortRead"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "raer": [],
     "RAIDS": [
@@ -2547,7 +2535,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBM": [],
     "RCAS": [
         "genomation"
     ],
@@ -3203,8 +3190,7 @@
         "mzID"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "TPP": [],
     "TPP2D": [],
@@ -3353,8 +3339,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XNAString": [],
     "yamss": [],
