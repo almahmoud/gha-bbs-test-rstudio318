@@ -239,7 +239,6 @@
         "biovizBase"
     ],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -306,7 +305,6 @@
     "celda": [],
     "CellBarcode": [],
     "cellHTS2": [],
-    "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -777,7 +775,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [],
     "fCCAC": [],
     "fcScan": [],
@@ -940,7 +937,6 @@
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [],
-    "GISPA": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -1275,7 +1271,6 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
