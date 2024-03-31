@@ -128,7 +128,6 @@
     "annotatr": [],
     "anota": [],
     "anota2seq": [],
-    "AnVILWorkflow": [],
     "APAlyzer": [],
     "apComplex": [],
     "APL": [],
@@ -306,7 +305,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "brendaDb": [],
     "BRGenomics": [],
     "bsseq": [],
@@ -465,7 +463,6 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromHeatMap": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -485,7 +482,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [
         "KEGGgraph"
     ],
@@ -607,7 +603,6 @@
     "coseq": [
         "HTSFilter"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -626,9 +621,7 @@
     "CRImage": [
         "aCGH"
     ],
-    "crisprBowtie": [],
     "crisprDesign": [
-        "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [],
@@ -636,7 +629,6 @@
     "crisprVerse": [
         "Gviz",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
@@ -644,7 +636,6 @@
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore"
     ],
@@ -879,7 +870,6 @@
     ],
     "ELMER": [
         "Gviz",
-        "TCGAbiolinks",
         "biovizBase"
     ],
     "enhancerHomologSearch": [
@@ -940,7 +930,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles"
     ],
@@ -1167,7 +1156,6 @@
     "GeneTonic": [],
     "genomation": [],
     "GenomicFiles": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "biovizBase"
@@ -1268,7 +1256,6 @@
     "gwascat": [],
     "gwasurvivr": [],
     "h5vc": [],
-    "hapFabia": [],
     "HarmonizR": [
         "sva"
     ],
@@ -1301,11 +1288,9 @@
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
-    "hpar": [],
     "HTSeqGenie": [
         "VariantTools",
         "chipseq",
@@ -1353,9 +1338,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [
@@ -1517,7 +1500,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "biovizBase",
@@ -1558,7 +1540,6 @@
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
-        "hpar",
         "mygene"
     ],
     "MetaCyto": [
@@ -1685,8 +1666,7 @@
     ],
     "miRLAB": [
         "Category",
-        "GOstats",
-        "TCGAbiolinks"
+        "GOstats"
     ],
     "missMethyl": [
         "methylumi",
@@ -1726,7 +1706,6 @@
         "enrichplot"
     ],
     "MoonlightR": [
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1959,7 +1938,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSVA"
     ],
@@ -2539,7 +2517,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -2713,7 +2690,6 @@
         "sva"
     ],
     "TCC": [],
-    "TCGAbiolinks": [],
     "TCGAutils": [],
     "TDbasedUFEadv": [
         "enrichplot"
