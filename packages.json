@@ -242,13 +242,11 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "biodbKegg": [],
     "biomformat": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
     ],
-    "BioNAR": [],
     "BioNERO": [
         "sva"
     ],
@@ -1264,8 +1262,6 @@
     "HiCool": [
         "HiCExperiment"
     ],
-    "hicVennDiagram": [],
-    "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
@@ -1440,9 +1436,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1716,7 +1710,6 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "QFeatures",
         "Spectra"
@@ -1823,7 +1816,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
         "flowCore"
@@ -1923,7 +1915,6 @@
         "flowMeans"
     ],
     "ORFik": [],
-    "Organism.dplyr": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [],
@@ -2418,9 +2409,7 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler",
@@ -2720,7 +2709,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [
         "sva"
@@ -2747,7 +2735,6 @@
     ],
     "UCell": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
