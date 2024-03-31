@@ -160,7 +160,6 @@
         "enrichplot"
     ],
     "BiocOncoTK": [],
-    "BiocSklearn": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -1412,7 +1411,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "GOstats"
     ],
@@ -1804,7 +1802,6 @@
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
-    "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
