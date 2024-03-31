@@ -131,7 +131,6 @@
     "BatchQC": [],
     "BBCAnalyzer": [],
     "BEAT": [],
-    "beer": [],
     "benchdamic": [
         "Maaslin2"
     ],
@@ -813,7 +812,6 @@
     ],
     "ggspavis": [],
     "girafe": [],
-    "gmapR": [],
     "GmicR": [
         "GOstats"
     ],
@@ -862,8 +860,7 @@
     "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
-        "gmapR"
+        "chipseq"
     ],
     "icetea": [],
     "iCheck": [
@@ -1045,7 +1042,6 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [],
     "MethReg": [],
     "MethylAid": [
         "minfi"
@@ -1304,8 +1300,7 @@
     ],
     "OTUbase": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "PAA": [],
     "pageRank": [
@@ -1492,9 +1487,7 @@
     "REMP": [
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "biovizBase",
@@ -1522,7 +1515,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "Ringo": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -1667,9 +1659,7 @@
         "consensusOV"
     ],
     "SigsPack": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "SimBu": [],
     "SIMD": [],
     "simpleSeg": [
@@ -1782,7 +1772,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [],
     "TOP": [],
