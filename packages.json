@@ -851,7 +851,6 @@
     "EWCE": [
         "orthogene"
     ],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -1143,13 +1142,8 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "hipathia": [],
     "HIPPO": [],
     "hiReadsProcessor": [],
@@ -2355,7 +2349,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "SpidermiR": [],
     "splatter": [],
     "SpliceWiz": [],
     "SPLINTER": [
@@ -2383,9 +2376,7 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
