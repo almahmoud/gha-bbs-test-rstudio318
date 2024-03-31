@@ -91,7 +91,6 @@
     "AneuFinder": [],
     "AnnotationHubData": [],
     "annotatr": [],
-    "anota2seq": [],
     "APAlyzer": [],
     "APL": [],
     "appreci8R": [
@@ -144,7 +143,6 @@
     ],
     "BANDITS": [],
     "bandle": [
-        "MLInterfaces",
         "MSnbase",
         "mzID",
         "pRoloc"
@@ -1306,7 +1304,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -1464,7 +1461,6 @@
     ],
     "NCIgraph": [],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM"
     ],
@@ -1624,12 +1620,10 @@
         "soGGi"
     ],
     "pRoloc": [
-        "MLInterfaces",
         "MSnbase",
         "mzID"
     ],
     "pRolocGUI": [
-        "MLInterfaces",
         "MSnbase",
         "mzID",
         "pRoloc"
@@ -1958,9 +1952,7 @@
     "SIAMCAT": [
         "phyloseq"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
