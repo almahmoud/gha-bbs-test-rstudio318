@@ -51,7 +51,6 @@
     "airpart": [],
     "alabaster": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -62,49 +61,33 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "SpatialExperiment",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -1306,7 +1289,6 @@
         "flowCore"
     ],
     "InPAS": [],
-    "INSPEcT": [],
     "InTAD": [],
     "intansv": [
         "biovizBase",
@@ -1928,7 +1910,6 @@
     "PathoStat": [
         "phyloseq"
     ],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -2605,7 +2586,6 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
         "ontoProc",
