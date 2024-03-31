@@ -399,7 +399,6 @@
         "Rhisat2"
     ],
     "CiteFuse": [],
-    "ClassifyR": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
@@ -943,14 +942,11 @@
     "GenomicScores": [],
     "GenProSeq": [],
     "GenVisR": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "sva"
     ],
     "GEOmetadb": [],
-    "GeomxTools": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -1115,7 +1111,6 @@
         "ropls"
     ],
     "lisaClust": [
-        "ClassifyR",
         "spicyR"
     ],
     "lmdme": [],
@@ -2063,14 +2058,10 @@
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2083,9 +2074,7 @@
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
-    "spicyR": [
-        "ClassifyR"
-    ],
+    "spicyR": [],
     "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
@@ -2171,9 +2160,7 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [
         "MSnbase",
         "mzID"
