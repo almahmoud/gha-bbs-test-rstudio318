@@ -793,7 +793,6 @@
     "fCCAC": [],
     "fcScan": [],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "ffpe": [
@@ -1865,7 +1864,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "sva"
     ],
@@ -2055,7 +2053,6 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "SPOTlight": [],
     "SPsimSeq": [
         "phyloseq"
     ],
@@ -2112,7 +2109,6 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "restfulSE"
     ],
