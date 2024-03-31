@@ -5,7 +5,6 @@
     ],
     "a4Base": [],
     "a4Classif": [],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -297,7 +296,6 @@
     ],
     "cbpManager": [],
     "CCPROMISE": [],
-    "CDI": [],
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
@@ -932,7 +930,6 @@
     "ggtreeExtra": [],
     "girafe": [],
     "glmGamPoi": [],
-    "GlobalAncova": [],
     "gmapR": [],
     "GmicR": [
         "GOstats"
@@ -948,9 +945,7 @@
     ],
     "GOstats": [],
     "GOTHiC": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1031,7 +1026,6 @@
         "GenomicFiles"
     ],
     "IONiseR": [],
-    "iPAC": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1383,7 +1377,6 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "MuData": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
@@ -1642,8 +1635,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles"
@@ -1966,9 +1958,7 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
