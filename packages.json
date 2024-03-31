@@ -243,9 +243,7 @@
         "dmrseq"
     ],
     "BiSeq": [],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [],
     "BLMA": [
         "KEGGgraph",
@@ -741,7 +739,6 @@
     "DExMA": [
         "sva"
     ],
-    "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
@@ -755,9 +752,7 @@
         "BANDITS"
     ],
     "diffHic": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "distinct": [],
     "dittoSeq": [],
@@ -1046,7 +1041,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GDCRNATools": [
         "KEGGgraph",
         "clusterProfiler",
@@ -1262,7 +1256,6 @@
         "Category"
     ],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles"
     ],
     "IONiseR": [],
@@ -1297,7 +1290,6 @@
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "sva"
     ],
     "isomiRs": [
@@ -1851,7 +1843,6 @@
         "motifmatchr"
     ],
     "pairedGSEA": [
-        "DEXSeq",
         "sva"
     ],
     "panelcn.mops": [
@@ -2261,7 +2252,6 @@
     "scifer": [
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [],
     "scMET": [],
     "scmeth": [
