@@ -757,7 +757,6 @@
         "SpatialExperiment"
     ],
     "destiny": [],
-    "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
         "sva"
@@ -2501,7 +2500,6 @@
     "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
-    "splineTimeR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
