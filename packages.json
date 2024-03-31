@@ -867,7 +867,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "evaluomeR": [],
     "EventPointer": [],
     "EWCE": [
@@ -1007,9 +1006,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
@@ -1803,7 +1800,6 @@
     "orthogene": [],
     "orthos": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -2499,7 +2495,6 @@
     ],
     "TFBSTools": [],
     "TFHAZ": [],
-    "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [],
     "timeOmics": [],
@@ -2508,7 +2503,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [
