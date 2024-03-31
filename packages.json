@@ -607,7 +607,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epigenomix": [],
     "epigraHMM": [],
     "epimutacions": [
         "Gviz",
@@ -966,7 +965,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
@@ -1207,7 +1205,6 @@
         "Mfuzz"
     ],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MWASTools": [],
     "myvariant": [],
     "mzID": [],
@@ -1252,7 +1249,6 @@
     "NormalyzerDE": [],
     "normr": [],
     "nucleR": [],
-    "nullranges": [],
     "octad": [
         "EDASeq",
         "RUVSeq"
@@ -1473,9 +1469,7 @@
         "ggbio"
     ],
     "ReQON": [],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "ReUseData": [
         "RcwlPipelines"
     ],
@@ -1748,7 +1742,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "tLOH": [],
     "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [
