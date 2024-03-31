@@ -1715,7 +1715,6 @@
     ],
     "scider": [],
     "scifer": [],
-    "scMerge": [],
     "scmeth": [
         "annotatr",
         "bsseq"
@@ -1797,8 +1796,7 @@
     "singleCellTK": [
         "GSVA",
         "TSCAN",
-        "celda",
-        "scMerge"
+        "celda"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
