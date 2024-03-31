@@ -29,19 +29,13 @@
         "OrganismDbi",
         "ReportingTools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
@@ -52,7 +46,6 @@
         "ReportingTools",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
     "AHMassBank": [
@@ -164,12 +157,9 @@
     ],
     "arrayQuality": [],
     "arrayQualityMetrics": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [
         "ropls"
     ],
@@ -239,7 +229,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [
         "sva"
     ],
@@ -262,9 +251,7 @@
         "zinbwave"
     ],
     "BgeeCall": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [],
     "BiGGR": [
         "hyperdraw"
@@ -295,7 +282,6 @@
     "BiocSet": [],
     "BiocSklearn": [],
     "biodbChebi": [],
-    "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
@@ -762,7 +748,6 @@
         "aCGH"
     ],
     "crisprBowtie": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "crisprBowtie",
         "crisprScore"
@@ -905,7 +890,6 @@
         "sva"
     ],
     "decompTumor2Sig": [],
-    "DeconRNASeq": [],
     "decontX": [
         "celda"
     ],
@@ -1315,7 +1299,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -1344,7 +1327,6 @@
     ],
     "gatom": [],
     "GBScleanR": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "KEGGgraph",
@@ -1461,7 +1443,6 @@
         "Category",
         "GOstats"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1765,9 +1746,7 @@
         "mzID",
         "xcms"
     ],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "plotgardener"
     ],
@@ -1776,9 +1755,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [],
     "mastR": [],
     "MatrixQCvis": [],
@@ -1958,8 +1935,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -2115,17 +2091,12 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -2138,13 +2109,10 @@
         "mzID"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [
         "ropls"
@@ -2346,7 +2314,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "panp": [],
     "pareg": [
         "DOSE"
     ],
@@ -2436,7 +2403,6 @@
     "POWSC": [
         "MAST"
     ],
-    "ppcseq": [],
     "PPInfer": [],
     "pram": [],
     "prebs": [
@@ -2573,7 +2539,6 @@
         "GENESIS"
     ],
     "rain": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "GenomicScores"
@@ -3262,7 +3227,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "transomics2cytoscape": [],
     "traseR": [],
     "traviz": [
         "TrajectoryUtils",
@@ -3350,7 +3314,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "gwascat"
@@ -3373,9 +3336,7 @@
         "siggenes"
     ],
     "wavClusteR": [],
-    "webbioc": [
-        "gcrma"
-    ],
+    "webbioc": [],
     "weitrix": [],
     "wiggleplotr": [],
     "xcms": [
