@@ -165,8 +165,7 @@
         "CoGAPS",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -254,7 +253,6 @@
     "BioCor": [],
     "BiocSklearn": [],
     "biodbKegg": [],
-    "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNci": [],
     "biodbUniprot": [],
@@ -1288,7 +1286,6 @@
     ],
     "GOpro": [],
     "goseq": [],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2189,7 +2186,6 @@
         "DOSE",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "pRoloc": [
@@ -2367,9 +2363,7 @@
     ],
     "Rfastp": [],
     "rGADEM": [],
-    "rGenomeTracks": [],
     "RgnTX": [],
-    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -2790,7 +2784,6 @@
     "stJoincount": [
         "SpatialExperiment"
     ],
-    "strandCheckR": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "sva": [],
