@@ -832,7 +832,6 @@
     "Harshlight": [
         "altcdfenvs"
     ],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -916,7 +915,6 @@
     ],
     "KnowSeq": [],
     "lemur": [],
-    "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
         "spicyR"
@@ -1260,9 +1258,7 @@
     "OLINgui": [],
     "omicplotR": [],
     "omicRexposome": [],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "openCyto": [
         "flowClust",
         "flowViz",
@@ -1386,7 +1382,6 @@
         "mzID"
     ],
     "PureCN": [],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -1554,7 +1549,6 @@
     ],
     "safe": [],
     "sampleClassifier": [],
-    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
@@ -1631,7 +1625,6 @@
     "signifinder": [
         "consensusOV"
     ],
-    "SigsPack": [],
     "SimBindProfiles": [],
     "SimBu": [],
     "SIMD": [],
@@ -1787,7 +1780,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [
         "monocle"
@@ -1844,6 +1836,5 @@
         "SPIA",
         "pathview",
         "safe"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
