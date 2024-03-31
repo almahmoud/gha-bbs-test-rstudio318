@@ -567,9 +567,7 @@
     ],
     "CoreGx": [],
     "corral": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -608,7 +606,6 @@
     "crossmeta": [
         "sva"
     ],
-    "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
     ],
@@ -1203,7 +1200,6 @@
     ],
     "gwascat": [],
     "gwasurvivr": [],
-    "h5vc": [],
     "HarmonizR": [
         "sva"
     ],
@@ -1239,7 +1235,6 @@
         "chipseq",
         "gmapR"
     ],
-    "HTSFilter": [],
     "icetea": [],
     "iCheck": [
         "lumi",
