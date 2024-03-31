@@ -719,7 +719,6 @@
     "crossmeta": [
         "sva"
     ],
-    "CSSQ": [],
     "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
@@ -838,7 +837,6 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -1527,8 +1525,7 @@
     ],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "sva",
-        "tximeta"
+        "sva"
     ],
     "isomiRs": [
         "DEGreport"
@@ -1554,7 +1551,6 @@
     "KnowSeq": [
         "sva"
     ],
-    "LACE": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -2106,7 +2102,6 @@
     ],
     "omicsPrint": [],
     "omicsViewer": [],
-    "OncoScore": [],
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
@@ -2562,7 +2557,6 @@
     "rqt": [
         "ropls"
     ],
-    "rrvgo": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
@@ -2962,7 +2956,6 @@
     "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [],
-    "timecourse": [],
     "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
@@ -3044,7 +3037,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "tximeta": [],
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
