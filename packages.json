@@ -149,7 +149,6 @@
         "OrganismDbi"
     ],
     "arrayMvout": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -257,7 +256,6 @@
         "hyperdraw"
     ],
     "bigmelon": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -312,7 +310,6 @@
         "QDNAseq",
         "annotatr",
         "bsseq",
-        "bumphunter",
         "dmrseq",
         "regioneR"
     ],
@@ -348,7 +345,6 @@
         "GenomicFiles",
         "OrganismDbi",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -360,7 +356,6 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "bumphunter": [],
     "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
@@ -498,7 +493,6 @@
         "Gviz",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "goseq",
         "lumi",
         "methylumi",
@@ -541,9 +535,7 @@
     "ChIPsim": [
         "ShortRead"
     ],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [],
@@ -657,9 +649,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "coMethDMR": [
-        "bumphunter"
-    ],
+    "coMethDMR": [],
     "compcodeR": [],
     "compEpiTools": [
         "Gviz",
@@ -695,7 +685,6 @@
         "GenomicFiles"
     ],
     "conumee": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -767,7 +756,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
@@ -839,9 +827,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DAMEfinder": [
-        "bumphunter"
-    ],
+    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq",
         "ShortRead",
@@ -877,7 +863,6 @@
         "celda"
     ],
     "deconvR": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -906,14 +891,12 @@
     ],
     "DepecheR": [],
     "derfinder": [
-        "GenomicFiles",
-        "bumphunter"
+        "GenomicFiles"
     ],
     "derfinderPlot": [
         "GenomicFiles",
         "OrganismDbi",
         "biovizBase",
-        "bumphunter",
         "derfinder",
         "ggbio"
     ],
@@ -960,7 +943,6 @@
         "Gviz",
         "biovizBase",
         "bsseq",
-        "bumphunter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -969,7 +951,6 @@
     "dmrseq": [
         "annotatr",
         "bsseq",
-        "bumphunter",
         "regioneR"
     ],
     "DNAfusion": [
@@ -1026,7 +1007,6 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1071,7 +1051,6 @@
         "Gviz",
         "OrganismDbi",
         "biovizBase",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1084,7 +1063,6 @@
     ],
     "epivizr": [
         "OrganismDbi",
-        "bumphunter",
         "epivizrData"
     ],
     "epivizrChart": [
@@ -1096,7 +1074,6 @@
     ],
     "epivizrStandalone": [
         "OrganismDbi",
-        "bumphunter",
         "epivizr",
         "epivizrData"
     ],
@@ -1167,7 +1144,6 @@
         "TrajectoryUtils"
     ],
     "ffpe": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -1281,9 +1257,7 @@
     "FRASER": [
         "OUTRIDER"
     ],
-    "frma": [],
     "funtooNorm": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1522,7 +1496,6 @@
         "csaw"
     ],
     "iCheck": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -1559,7 +1532,6 @@
         "OrganismDbi",
         "Pigengene",
         "ReactomePA",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "minfi",
@@ -1678,7 +1650,6 @@
         "KEGGgraph"
     ],
     "lumi": [
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -1693,7 +1664,6 @@
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -1751,7 +1721,6 @@
     "MEAL": [
         "Gviz",
         "biovizBase",
-        "bumphunter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -1759,7 +1728,6 @@
         "sva"
     ],
     "MEAT": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -1829,13 +1797,11 @@
     ],
     "methrix": [],
     "MethylAid": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
     "methylCC": [
         "bsseq",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1843,13 +1809,11 @@
         "AnnotationHubData",
         "ExperimentHubData",
         "OrganismDbi",
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
     "methylGSA": [
         "DOSE",
-        "bumphunter",
         "clusterProfiler",
         "enrichplot",
         "methylumi",
@@ -1867,7 +1831,6 @@
         "bsseq"
     ],
     "methylumi": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -1911,14 +1874,12 @@
     "MineICA": [
         "Category",
         "GOstats",
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
         "siggenes"
     ],
     "minfi": [
-        "bumphunter",
         "siggenes"
     ],
     "MinimumDistance": [
@@ -1938,7 +1899,6 @@
         "TCGAbiolinks"
     ],
     "missMethyl": [
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -2171,7 +2131,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "bumphunter",
         "minfi",
         "quantro",
         "siggenes",
@@ -2433,7 +2392,6 @@
     "protGear": [],
     "psichomics": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
@@ -2473,7 +2431,6 @@
         "sva"
     ],
     "quantro": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -2537,12 +2494,10 @@
     ],
     "recount": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder"
     ],
     "recount3": [],
     "recountmethylation": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -2563,7 +2518,6 @@
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
-        "bumphunter",
         "derfinder"
     ],
     "regutools": [
@@ -2571,7 +2525,6 @@
         "biovizBase"
     ],
     "REMP": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -2652,13 +2605,10 @@
     "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [
-        "bumphunter"
-    ],
+    "rnaEditr": [],
     "RNAinteract": [
         "Category",
         "cellHTS2"
@@ -2684,12 +2634,10 @@
     ],
     "RnaSeqSampleSize": [
         "GenomicFiles",
-        "bumphunter",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
-        "bumphunter",
         "methylumi",
         "minfi",
         "siggenes"
@@ -2834,7 +2782,6 @@
     ],
     "scTreeViz": [
         "OrganismDbi",
-        "bumphunter",
         "epivizr",
         "epivizrData"
     ],
@@ -2874,12 +2821,10 @@
     ],
     "SGSeq": [],
     "shinyepico": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
     "shinyMethyl": [
-        "bumphunter",
         "minfi",
         "siggenes"
     ],
@@ -2921,7 +2866,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
@@ -2946,7 +2890,6 @@
     "sitadela": [],
     "sitePath": [],
     "skewr": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -3222,7 +3165,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "txcutr": [],
     "tximeta": [],
     "UCell": [],
     "Ularcirc": [
@@ -3260,7 +3202,6 @@
         "GenomicFiles"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [],
     "vidger": [],
     "ViSEAGO": [],
@@ -3284,7 +3225,6 @@
     ],
     "waddR": [],
     "wateRmelon": [
-        "bumphunter",
         "lumi",
         "methylumi",
         "minfi",
@@ -3319,7 +3259,6 @@
         "ggbio"
     ],
     "yarn": [
-        "bumphunter",
         "minfi",
         "quantro",
         "siggenes"
