@@ -442,22 +442,17 @@
     ],
     "COTAN": [],
     "CRImage": [],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "crossmeta": [],
     "CTSV": [],
@@ -1413,7 +1408,6 @@
     ],
     "phenomis": [],
     "phenoTest": [],
-    "philr": [],
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
