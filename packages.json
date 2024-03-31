@@ -63,8 +63,7 @@
         "multtest"
     ],
     "abseqR": [
-        "BiocParallel",
-        "BiocStyle"
+        "BiocParallel"
     ],
     "ABSSeq": [
         "limma"
@@ -1426,7 +1425,6 @@
         "illuminaio",
         "limma",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi",
         "multtest",
@@ -1521,7 +1519,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -2018,7 +2015,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -2135,7 +2131,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -2168,7 +2163,6 @@
         "edgeR",
         "glmGamPoi",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -2276,7 +2270,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -2943,7 +2936,6 @@
         "dir.expiry",
         "zlibbioc"
     ],
-    "BiocStyle": [],
     "biocthis": [],
     "BiocVersion": [],
     "biocViews": [
@@ -2952,9 +2944,7 @@
         "RBGL",
         "graph"
     ],
-    "BiocWorkflowTools": [
-        "BiocStyle"
-    ],
+    "BiocWorkflowTools": [],
     "biodb": [
         "BiocFileCache"
     ],
@@ -3193,7 +3183,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -3560,7 +3549,6 @@
     ],
     "BPRMeth": [
         "BiocGenerics",
-        "BiocStyle",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -3787,7 +3775,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -4623,7 +4610,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -4792,7 +4778,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "cellscape": [],
     "CellScore": [
         "Biobase",
         "BiocGenerics",
@@ -5202,7 +5187,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -5610,7 +5594,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -5833,7 +5816,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -6709,9 +6691,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "COMPASS": [
-        "BiocStyle"
-    ],
+    "COMPASS": [],
     "compcodeR": [
         "edgeR",
         "limma"
@@ -7716,7 +7696,6 @@
         "XVector",
         "edgeR",
         "limma",
-        "metapod",
         "zlibbioc"
     ],
     "csdR": [
@@ -7760,7 +7739,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "ctc": [],
     "CTdata": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8013,7 +7991,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "BiocStyle",
         "CATALYST",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -8538,7 +8515,6 @@
         "celda",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -8825,7 +8801,6 @@
         "zlibbioc"
     ],
     "deltaGseg": [],
-    "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
@@ -9344,7 +9319,6 @@
         "csaw",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -9419,7 +9393,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -9439,7 +9412,6 @@
     "DiscoRhythm": [
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -10765,7 +10737,6 @@
         "csaw",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -11492,7 +11463,6 @@
     "ExpressionAtlas": [
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -11544,7 +11514,6 @@
         "edgeR",
         "ensembldb",
         "limma",
-        "metapod",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -11997,7 +11966,6 @@
         "ggbio",
         "graph",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -12871,7 +12839,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "genArise": [],
     "geneAttribution": [
         "AnnotationDbi",
         "Biobase",
@@ -13126,7 +13093,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -15257,7 +15223,6 @@
         "zlibbioc"
     ],
     "hierGWAS": [],
-    "hierinf": [],
     "HilbertCurve": [
         "BiocGenerics",
         "GenomeInfoDb",
@@ -15535,9 +15500,7 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "hypeR": [
-        "BiocStyle"
-    ],
+    "hypeR": [],
     "hyperdraw": [
         "BiocGenerics",
         "Rgraphviz",
@@ -15604,7 +15567,6 @@
         "csaw",
         "edgeR",
         "limma",
-        "metapod",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -15975,7 +15937,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DOSE",
         "DelayedArray",
@@ -16181,7 +16142,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "interacCircos": [],
     "InteractionSet": [
         "Biobase",
         "BiocGenerics",
@@ -17234,7 +17194,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "logicFS": [],
     "LOLA": [
         "BiocGenerics",
         "GenomeInfoDb",
@@ -18108,7 +18067,6 @@
         "zlibbioc"
     ],
     "mdp": [],
-    "mdqc": [],
     "MDTS": [
         "Biobase",
         "BiocGenerics",
@@ -18324,7 +18282,6 @@
     "Melissa": [
         "BPRMeth",
         "BiocGenerics",
-        "BiocStyle",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -18386,7 +18343,6 @@
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "Biostrings",
         "Category",
         "GSEABase",
@@ -18650,7 +18606,6 @@
         "treeio",
         "zlibbioc"
     ],
-    "metapod": [],
     "metapone": [
         "BiocParallel",
         "fgsea"
@@ -19899,7 +19854,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "ctc",
         "genefilter",
         "graph",
         "impute",
@@ -20837,7 +20791,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -20928,7 +20881,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocStyle",
         "BiocVersion",
         "Biostrings",
         "GenomeInfoDb",
@@ -21213,9 +21165,7 @@
         "ropls",
         "zlibbioc"
     ],
-    "multiClust": [
-        "ctc"
-    ],
+    "multiClust": [],
     "multicrispr": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -21424,7 +21374,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -21699,7 +21648,6 @@
         "graph",
         "interactiveDisplayBase",
         "limma",
-        "metapod",
         "motifStack",
         "multtest",
         "regioneR",
@@ -21951,7 +21899,6 @@
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -22008,7 +21955,6 @@
     "netprioR": [],
     "netresponse": [
         "BiocGenerics",
-        "BiocStyle",
         "Rgraphviz",
         "graph",
         "minet",
@@ -23446,7 +23392,6 @@
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "ComplexHeatmap",
         "DESeq2",
@@ -23745,7 +23690,6 @@
         "zlibbioc"
     ],
     "pfamAnalyzeR": [],
-    "pgca": [],
     "phantasus": [
         "AnnotationDbi",
         "Biobase",
@@ -23947,7 +23891,6 @@
         "Biobase",
         "BiocFileCache",
         "BiocGenerics",
-        "BiocStyle",
         "BiocVersion",
         "Biostrings",
         "ExperimentHub",
@@ -24025,7 +23968,6 @@
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DOSE",
         "GOSemSim",
@@ -24107,7 +24049,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -24440,7 +24381,6 @@
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -24877,7 +24817,6 @@
         "widgetTools",
         "zlibbioc"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BSgenome",
@@ -26070,7 +26009,6 @@
     ],
     "rebook": [
         "BiocGenerics",
-        "BiocStyle",
         "dir.expiry",
         "graph"
     ],
@@ -26328,7 +26266,6 @@
         "edgeR",
         "fgsea",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -26392,7 +26329,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DEFormats",
         "DESeq2",
@@ -27363,7 +27299,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -27871,7 +27806,6 @@
     "RPA": [
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -27910,7 +27844,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -28331,7 +28264,6 @@
     "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BiocGenerics",
-        "BiocStyle",
         "Biostrings",
         "DECIPHER",
         "GenomeInfoDb",
@@ -28823,7 +28755,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -28855,7 +28786,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -28969,7 +28899,6 @@
         "ensembldb",
         "graph",
         "limma",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -29106,7 +29035,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -29116,7 +29044,6 @@
     "scMET": [
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -29391,7 +29318,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scuttle",
         "sparseMatrixStats",
         "zlibbioc"
@@ -29549,7 +29475,6 @@
         "BiocFileCache",
         "BiocGenerics",
         "BiocParallel",
-        "BiocStyle",
         "BiocVersion",
         "Biostrings",
         "Category",
@@ -29591,7 +29516,6 @@
         "AnnotationDbi",
         "Biobase",
         "BiocGenerics",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GSEABase",
@@ -29657,7 +29581,6 @@
         "epivizrServer",
         "graph",
         "limma",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -30768,7 +30691,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "multtest",
         "scran",
         "scuttle",
@@ -30838,7 +30760,6 @@
         "graph",
         "interactiveDisplayBase",
         "limma",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -31106,7 +31027,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biobase",
@@ -31334,7 +31254,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -31537,7 +31456,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -32027,7 +31945,6 @@
         "BiocGenerics",
         "BiocIO",
         "BiocParallel",
-        "BiocStyle",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -35049,7 +34966,6 @@
         "ensembldb",
         "graph",
         "limma",
-        "metapod",
         "multtest",
         "regioneR",
         "rtracklayer",
@@ -35150,7 +35066,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "weaver": [],
     "webbioc": [
         "AnnotationDbi",
         "Biobase",
@@ -35341,7 +35256,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "xmapbridge": [],
     "XNAString": [
         "BSgenome",
         "Biobase",
