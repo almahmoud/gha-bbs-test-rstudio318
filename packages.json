@@ -96,7 +96,6 @@
     "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "animalcules": [],
     "annmap": [],
     "AnnotationHubData": [],
     "annotatr": [],
@@ -150,7 +149,6 @@
     "attract": [
         "GOstats"
     ],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [
         "sva"
@@ -336,7 +334,6 @@
     "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [],
-    "CelliD": [],
     "CellMixS": [],
     "CellTrails": [],
     "CEMiTool": [
@@ -1125,7 +1122,6 @@
         "altcdfenvs"
     ],
     "HelloRanges": [],
-    "hermes": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1692,7 +1688,6 @@
     "normr": [],
     "nucleR": [],
     "nullranges": [],
-    "OCplus": [],
     "octad": [
         "EDASeq",
         "GSVA",
