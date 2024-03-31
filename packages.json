@@ -90,7 +90,6 @@
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
-    "APL": [],
     "appreci8R": [
         "GenomicScores"
     ],
@@ -108,9 +107,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
@@ -134,9 +131,7 @@
         "GOstats"
     ],
     "BadRegionFinder": [],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "BANDITS": [],
     "bandle": [
         "MSnbase",
@@ -149,9 +144,7 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
@@ -159,7 +152,6 @@
     "beer": [],
     "benchdamic": [
         "Maaslin2",
-        "phyloseq",
         "zinbwave"
     ],
     "bgx": [],
@@ -186,9 +178,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "BioNetStat": [
         "pathview"
     ],
@@ -207,12 +197,9 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "bnbc": [
-        "sva"
-    ],
+    "bnbc": [],
     "bnem": [
-        "epiNEM",
-        "sva"
+        "epiNEM"
     ],
     "BOBaFIT": [
         "biovizBase",
@@ -248,8 +235,7 @@
     "cageminer": [
         "BioNERO",
         "biovizBase",
-        "ggbio",
-        "sva"
+        "ggbio"
     ],
     "CAGEr": [
         "CAGEfightR",
@@ -336,7 +322,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "chihaya": [],
@@ -427,9 +412,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -497,9 +480,7 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crossmeta": [
-        "sva"
-    ],
+    "crossmeta": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -560,8 +541,7 @@
     ],
     "DAMEfinder": [],
     "DaMiRseq": [
-        "EDASeq",
-        "sva"
+        "EDASeq"
     ],
     "DAPAR": [
         "MSnbase",
@@ -580,8 +560,7 @@
     "debrowser": [
         "clusterProfiler",
         "enrichplot",
-        "pathview",
-        "sva"
+        "pathview"
     ],
     "decompTumor2Sig": [],
     "decontX": [
@@ -598,8 +577,7 @@
     "DelayedTensor": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
-        "sva"
+        "bsseq"
     ],
     "demuxSNP": [],
     "densvis": [],
@@ -621,9 +599,7 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
@@ -652,9 +628,7 @@
     ],
     "DNAfusion": [],
     "DominoEffect": [],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
@@ -671,9 +645,7 @@
     "easier": [],
     "easyRNASeq": [],
     "EDASeq": [],
-    "edge": [
-        "sva"
-    ],
+    "edge": [],
     "EGAD": [],
     "EGSEA": [
         "GSVA",
@@ -852,8 +824,7 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
-        "sva"
+        "EDASeq"
     ],
     "GateFinder": [
         "flowFP",
@@ -910,9 +881,7 @@
     "GenProSeq": [],
     "GenVisR": [],
     "GeoDiff": [],
-    "GEOexplorer": [
-        "sva"
-    ],
+    "GEOexplorer": [],
     "GEOmetadb": [],
     "gespeR": [
         "cellHTS2"
@@ -963,9 +932,7 @@
     ],
     "gwascat": [],
     "gwasurvivr": [],
-    "HarmonizR": [
-        "sva"
-    ],
+    "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs"
     ],
@@ -1042,9 +1009,7 @@
     "iSEEu": [
         "iSEEhex"
     ],
-    "IsoformSwitchAnalyzeR": [
-        "sva"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
     "karyoploteR": [
         "biovizBase"
@@ -1056,9 +1021,7 @@
         "DSS",
         "bsseq"
     ],
-    "KnowSeq": [
-        "sva"
-    ],
+    "KnowSeq": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -1121,10 +1084,7 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "MBECS": [
-        "phyloseq",
-        "sva"
-    ],
+    "MBECS": [],
     "mbQTL": [],
     "mCSEA": [
         "Gviz",
@@ -1135,8 +1095,7 @@
         "biovizBase",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MEAT": [
         "lumi",
@@ -1220,16 +1179,10 @@
     ],
     "Mfuzz": [],
     "miaViz": [],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "phyloseq"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -1346,9 +1299,7 @@
         "msmsTests",
         "mzID"
     ],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
@@ -1455,9 +1406,7 @@
     ],
     "OLINgui": [],
     "omicplotR": [],
-    "omicRexposome": [
-        "sva"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [
         "HelloRanges"
     ],
@@ -1482,16 +1431,12 @@
         "Repitools",
         "Ringo"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
     ],
-    "pairedGSEA": [
-        "sva"
-    ],
+    "pairedGSEA": [],
     "panelcn.mops": [
         "cn.mops"
     ],
@@ -1500,9 +1445,7 @@
         "enrichplot"
     ],
     "pareg": [],
-    "PathoStat": [
-        "phyloseq"
-    ],
+    "PathoStat": [],
     "pathview": [],
     "pcaExplorer": [
         "GOstats"
@@ -1518,7 +1461,6 @@
         "MSnbase",
         "mzID"
     ],
-    "PECA": [],
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
@@ -1531,7 +1473,6 @@
     "phenoTest": [],
     "philr": [],
     "PhyloProfile": [],
-    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1552,8 +1493,7 @@
     "POMA": [],
     "POWSC": [],
     "prebs": [
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "rCGH"
@@ -1584,9 +1524,7 @@
         "mzID",
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
@@ -1624,12 +1562,8 @@
         "MSnbase",
         "mzID"
     ],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantro": [
         "minfi"
     ],
@@ -1662,9 +1596,7 @@
     ],
     "RCAS": [],
     "rCGH": [],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -1673,9 +1605,7 @@
         "enrichplot"
     ],
     "rebook": [],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -1787,9 +1717,7 @@
         "minfi"
     ],
     "ROntoTools": [],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -1809,9 +1737,7 @@
     "SBGNview": [
         "pathview"
     ],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scanMiRApp": [],
     "SCArray.sat": [],
     "scBFA": [
@@ -1882,9 +1808,7 @@
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGCP": [
         "GOstats"
     ],
@@ -1894,9 +1818,7 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
@@ -1912,9 +1834,7 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [
-        "phyloseq"
-    ],
+    "SimBu": [],
     "SIMD": [],
     "simpleSeg": [
         "cytomapper"
@@ -1926,7 +1846,6 @@
         "celda",
         "scDblFinder",
         "scMerge",
-        "sva",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -1985,9 +1904,7 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "SPsimSeq": [
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "SRAdb": [],
     "srnadiff": [
         "Gviz",
@@ -2006,7 +1923,6 @@
     "stJoincount": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [],
-    "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation"
     ],
@@ -2032,8 +1948,7 @@
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
-        "sva"
+        "GSVA"
     ],
     "TCC": [],
     "TCGAutils": [],
@@ -2091,9 +2006,7 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
@@ -2127,13 +2040,11 @@
     ],
     "VariantTools": [],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "GenomicFiles"
     ],
-    "VDJdive": [],
     "velociraptor": [],
     "Voyager": [
         "SpatialFeatureExperiment"
