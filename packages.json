@@ -584,7 +584,6 @@
     ],
     "countsimQC": [],
     "covRNA": [],
-    "cpvSNP": [],
     "CRImage": [
         "aCGH"
     ],
@@ -1103,7 +1102,6 @@
         "QDNAseq"
     ],
     "genefu": [],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
