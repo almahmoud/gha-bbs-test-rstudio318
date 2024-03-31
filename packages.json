@@ -112,7 +112,6 @@
     "ASSIGN": [
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
@@ -1396,7 +1395,6 @@
     ],
     "multiGSEA": [],
     "multiHiCcompare": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz"
     ],
@@ -1424,7 +1422,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -1830,10 +1827,7 @@
         "sva"
     ],
     "scanMiRApp": [],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [
         "zinbwave"
     ],
@@ -1856,7 +1850,6 @@
     "scider": [],
     "scifer": [],
     "scMerge": [],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq"
