@@ -310,7 +310,6 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
@@ -441,7 +440,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
@@ -821,7 +819,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmsa": [],
     "ggspavis": [],
     "girafe": [],
     "gmapR": [],
