@@ -138,7 +138,6 @@
     ],
     "BatchQC": [],
     "BBCAnalyzer": [],
-    "beachmat.hdf5": [],
     "BEAT": [],
     "beer": [],
     "benchdamic": [
@@ -306,7 +305,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "biovizBase"
@@ -1282,7 +1280,6 @@
     "MultiRNAflow": [
         "Mfuzz"
     ],
-    "mumosa": [],
     "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
@@ -1681,8 +1678,7 @@
     "scDDboost": [],
     "SCFA": [],
     "scFeatures": [
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "scider": [],
     "scifer": [],
@@ -1762,7 +1758,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "TSCAN",
