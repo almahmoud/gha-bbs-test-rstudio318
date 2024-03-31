@@ -147,7 +147,6 @@
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot"
@@ -229,7 +228,6 @@
     ],
     "canceR": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -244,13 +242,11 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "clusterProfiler",
@@ -835,7 +831,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -1606,9 +1601,7 @@
     ],
     "rqt": [],
     "RSVSim": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
@@ -1722,7 +1715,6 @@
     "snapCGH": [
         "tilingArray"
     ],
-    "snifter": [],
     "SNPhood": [],
     "soGGi": [
         "chipseq"
@@ -1799,16 +1791,13 @@
         "ASSIGN"
     ],
     "TCC": [],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
     "tenXplore": [
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
     "tilingArray": [],
