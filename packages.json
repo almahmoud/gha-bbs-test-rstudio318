@@ -258,7 +258,6 @@
     ],
     "CCPROMISE": [],
     "celaref": [],
-    "celda": [],
     "CellBarcode": [],
     "cellHTS2": [],
     "CEMiTool": [
@@ -523,9 +522,7 @@
         "pathview"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "minfi"
     ],
@@ -542,7 +539,6 @@
         "MSnbase",
         "mzID"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -569,7 +565,6 @@
     ],
     "diffHic": [],
     "diffUTR": [],
-    "Dino": [],
     "divergence": [],
     "DMRcate": [
         "Gviz",
@@ -1196,7 +1191,6 @@
         "easyRNASeq",
         "ggbio"
     ],
-    "msImpute": [],
     "msmsEDA": [
         "MSnbase",
         "mzID"
@@ -1711,8 +1705,7 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "TSCAN",
-        "celda"
+        "TSCAN"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
