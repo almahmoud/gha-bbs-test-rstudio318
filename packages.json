@@ -280,7 +280,6 @@
         "ROntoTools"
     ],
     "bnbc": [
-        "HiCBricks",
         "sva"
     ],
     "bnem": [
@@ -409,9 +408,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "CGHcall",
         "QDNAseq"
@@ -492,7 +489,6 @@
         "mzID",
         "xcms"
     ],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "mzID"
@@ -898,8 +894,7 @@
     "EpiCompare": [
         "BRGenomics",
         "ChIPseeker",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epigenomix": [],
     "epigraHMM": [],
@@ -970,9 +965,7 @@
     ],
     "fastLiquidAssociation": [],
     "FastqCleaner": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcScan": [],
     "FEAST": [
         "SC3",
@@ -1151,7 +1144,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -1162,8 +1154,7 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
-        "genomation"
+        "RCAS"
     ],
     "GenomicScores": [],
     "GenProSeq": [],
@@ -1260,7 +1251,6 @@
     "HelloRanges": [],
     "hermes": [],
     "HERON": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -2166,9 +2156,7 @@
     "Rbec": [
         "dada2"
     ],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [
         "aCGH"
     ],
