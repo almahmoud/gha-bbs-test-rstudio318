@@ -215,7 +215,6 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "biomformat",
         "phyloseq",
         "zinbwave"
     ],
@@ -241,7 +240,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "biomformat": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -540,7 +538,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -1456,7 +1453,6 @@
         "TFBSTools"
     ],
     "MBECS": [
-        "biomformat",
         "phyloseq",
         "sva"
     ],
@@ -1578,20 +1574,15 @@
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "biomformat",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1935,7 +1926,6 @@
     "pareg": [],
     "partCNV": [],
     "PathoStat": [
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [],
@@ -1980,9 +1970,7 @@
     ],
     "philr": [],
     "PhyloProfile": [],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -2009,7 +1997,6 @@
     ],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -2112,7 +2099,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx"
@@ -2134,7 +2120,6 @@
         "aCGH"
     ],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcpi": [],
@@ -2147,7 +2132,6 @@
     ],
     "rebook": [],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -2274,7 +2258,6 @@
     ],
     "ropls": [],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "Rqc": [
@@ -2423,7 +2406,6 @@
         "siggenes"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [
@@ -2448,7 +2430,6 @@
         "Ringo"
     ],
     "SimBu": [
-        "biomformat",
         "phyloseq"
     ],
     "SIMD": [],
@@ -2561,7 +2542,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "biomformat",
         "phyloseq"
     ],
     "SRAdb": [],
@@ -2661,7 +2641,6 @@
     "ToxicoGx": [
         "CoreGx"
     ],
-    "TPP": [],
     "TPP2D": [],
     "trackViewer": [
         "Gviz",
