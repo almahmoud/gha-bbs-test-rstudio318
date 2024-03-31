@@ -159,7 +159,6 @@
     "BayesSpace": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
-    "BEARscc": [],
     "BEAT": [],
     "beer": [],
     "benchdamic": [
@@ -306,7 +305,6 @@
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
-    "CellBench": [],
     "cellHTS2": [],
     "CellMixS": [],
     "CellTrails": [],
@@ -331,9 +329,7 @@
     "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall"
     ],
@@ -408,14 +404,12 @@
         "enrichplot"
     ],
     "clusterSeq": [],
-    "clustifyr": [],
     "cmapR": [],
     "cn.mops": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNORode": [],
-    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -797,7 +791,6 @@
         "methylumi",
         "minfi"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -979,7 +972,6 @@
     ],
     "gsean": [],
     "GSReg": [],
-    "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
@@ -1006,7 +998,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "HIPPO": [],
     "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
