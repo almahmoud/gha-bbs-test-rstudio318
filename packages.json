@@ -318,9 +318,7 @@
         "monocle"
     ],
     "CIMICE": [],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -612,7 +610,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
@@ -845,7 +842,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "gwascat": [],
     "gwasurvivr": [],
     "HarmonizR": [],
     "Harshlight": [
@@ -1825,8 +1821,7 @@
     "TurboNorm": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "Ularcirc": [
         "plotgardener"
@@ -1857,9 +1852,7 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
