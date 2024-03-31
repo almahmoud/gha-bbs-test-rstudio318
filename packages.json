@@ -679,7 +679,6 @@
         "NCIgraph"
     ],
     "DelayedTensor": [],
-    "DELocal": [],
     "DeMixT": [
         "DSS",
         "bsseq",
@@ -1256,7 +1255,6 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
     "LinTInd": [],
@@ -1726,7 +1724,6 @@
         "HelloRanges"
     ],
     "omicsPrint": [],
-    "ontoProc": [],
     "openCyto": [
         "flowClust",
         "flowCore",
@@ -1824,9 +1821,7 @@
     ],
     "plotgardener": [],
     "plyinteractions": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "POWSC": [
         "MAST"
@@ -2417,7 +2412,6 @@
     ],
     "TENxIO": [],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
@@ -2485,7 +2479,6 @@
     ],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
     ],
