@@ -397,7 +397,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "BiocWorkflowTools": [],
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
@@ -482,7 +481,6 @@
         "HDF5Array",
         "bsseq"
     ],
-    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "GenomicFiles",
@@ -826,7 +824,6 @@
     "clusterSeq": [
         "baySeq"
     ],
-    "clusterStab": [],
     "clustifyr": [],
     "cmapR": [
         "cytolib",
@@ -1081,7 +1078,6 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "FlowSOM",
         "cytolib",
         "diffcyt",
@@ -1093,7 +1089,6 @@
         "cytolib",
         "flowCore"
     ],
-    "CytoGLMM": [],
     "cytoKernel": [],
     "cytolib": [],
     "cytomapper": [
@@ -1391,7 +1386,6 @@
         "GSVA",
         "HDF5Array",
         "KEGGgraph",
-        "gage",
         "pathview",
         "safe"
     ],
@@ -1762,7 +1756,6 @@
         "VariantAnnotation"
     ],
     "gaga": [],
-    "gage": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq",
@@ -1995,7 +1988,6 @@
         "pathview",
         "safe"
     ],
-    "GSEAlm": [],
     "gsean": [
         "PPInfer"
     ],
@@ -2081,7 +2073,6 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hyperdraw": [],
     "icetea": [
@@ -2098,7 +2089,6 @@
         "minfi",
         "siggenes"
     ],
-    "iChip": [],
     "iCNV": [
         "CODEX"
     ],
@@ -2398,7 +2388,6 @@
     "mbQTL": [
         "metagenomeSeq"
     ],
-    "MCbiclust": [],
     "mCSEA": [
         "Gviz",
         "OrganismDbi",
@@ -2436,9 +2425,7 @@
         "CNORode",
         "CellNOptR"
     ],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [],
     "meshes": [
         "DOSE",
@@ -2669,7 +2656,6 @@
         "GOstats",
         "TCGAbiolinks"
     ],
-    "miRNAmeConverter": [],
     "missMethyl": [
         "GEOquery",
         "HDF5Array",
@@ -3185,7 +3171,6 @@
     ],
     "PECA": [],
     "peco": [],
-    "pengls": [],
     "periodicDNA": [],
     "phantasus": [
         "GEOquery"
@@ -3745,7 +3730,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead"
@@ -4243,7 +4227,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "SUITOR": [],
     "surfaltr": [],
     "sva": [],
     "svaNUMT": [
@@ -4285,7 +4268,6 @@
         "ggtree"
     ],
     "TAPseq": [],
-    "target": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
