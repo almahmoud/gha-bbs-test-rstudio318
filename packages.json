@@ -123,7 +123,6 @@
         "minfi",
         "siggenes"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM"
     ],
@@ -480,7 +479,6 @@
     "cmapR": [
         "flowCore"
     ],
-    "cn.farms": [],
     "cn.mops": [],
     "CNORdt": [
         "CellNOptR"
@@ -819,7 +817,6 @@
     "DSS": [
         "bsseq"
     ],
-    "dyebias": [],
     "easier": [],
     "easyRNASeq": [],
     "EDASeq": [],
@@ -1181,7 +1178,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category"
     ],
@@ -1483,8 +1479,7 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "KEGGgraph",
-        "MWASTools",
-        "mygene"
+        "MWASTools"
     ],
     "MetaCyto": [
         "FlowSOM",
@@ -1660,7 +1655,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MouseFM": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -1763,7 +1757,6 @@
     "MWASTools": [
         "KEGGgraph"
     ],
-    "mygene": [],
     "myvariant": [],
     "mzID": [],
     "NADfinder": [
@@ -1922,7 +1915,6 @@
         "CoreGx",
         "genefu"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowCore",
         "flowWorkspace",
@@ -2103,7 +2095,6 @@
     "RCM": [
         "phyloseq"
     ],
-    "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
