@@ -214,7 +214,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -317,7 +316,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -369,9 +367,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [
         "slingshot"
     ],
@@ -401,7 +397,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -430,9 +425,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
@@ -482,7 +475,6 @@
     ],
     "DAPAR": [
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "mzID"
@@ -663,7 +655,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -882,7 +873,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -915,7 +905,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -943,7 +932,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -984,8 +972,7 @@
     ],
     "meshr": [],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
@@ -998,7 +985,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1010,9 +996,7 @@
         "DSS",
         "EDASeq"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "MethReg": [],
     "MethylAid": [
         "minfi"
@@ -1042,7 +1026,6 @@
     "methylumi": [
         "minfi"
     ],
-    "Mfuzz": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
@@ -1084,7 +1067,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1113,24 +1095,12 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -1157,8 +1127,7 @@
     "MSPrep": [],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsBig": [],
     "MSstatsLiP": [
@@ -1188,9 +1157,7 @@
         "karyoploteR"
     ],
     "multiHiCcompare": [],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "musicatk": [],
     "MWASTools": [],
     "myvariant": [],
@@ -1210,7 +1177,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1351,7 +1317,6 @@
     "Prostar": [
         "DAPAR",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot",
         "mzID"
@@ -1474,7 +1439,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID",
         "xcms"
     ],
@@ -1658,7 +1622,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
@@ -1711,7 +1674,6 @@
     "TFBSTools": [],
     "TFHAZ": [],
     "TimiRGeN": [
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1794,7 +1756,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "mzID"
     ],
     "XDE": [],
