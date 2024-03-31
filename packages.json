@@ -107,9 +107,7 @@
         "affyPLM"
     ],
     "artMS": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "Gviz",
         "biovizBase"
@@ -203,9 +201,7 @@
     "BioNetStat": [
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
@@ -310,7 +306,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "CCPROMISE": [],
     "CDI": [],
     "celaref": [],
@@ -506,7 +501,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "covRNA": [],
     "CRImage": [],
     "crisprDesign": [
         "crisprScore"
@@ -692,7 +686,6 @@
         "safe",
         "zenith"
     ],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
         "bsseq"
@@ -1055,7 +1048,6 @@
         "enrichplot",
         "minfi"
     ],
-    "infercnv": [],
     "infinityFlow": [],
     "InPAS": [],
     "InTAD": [],
@@ -1107,9 +1099,7 @@
     ],
     "lineagespot": [],
     "LinTInd": [],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "spicyR"
     ],
@@ -1433,9 +1423,7 @@
     ],
     "MSstatsTMT": [],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
         "karyoploteR"
@@ -1595,9 +1583,7 @@
     "phemd": [
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [],
     "philr": [],
     "PhyloProfile": [],
@@ -1862,7 +1848,6 @@
         "minfi"
     ],
     "ROntoTools": [],
-    "ropls": [],
     "RPA": [
         "phyloseq"
     ],
@@ -1870,9 +1855,7 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
@@ -1909,7 +1892,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
-    "scds": [],
     "SCFA": [],
     "scFeatures": [
         "GSVA",
@@ -2018,7 +2000,6 @@
         "celda",
         "scDblFinder",
         "scMerge",
-        "scds",
         "sva",
         "zinbwave"
     ],
