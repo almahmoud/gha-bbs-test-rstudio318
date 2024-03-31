@@ -122,9 +122,7 @@
     "amplican": [],
     "Anaquin": [],
     "ANCOMBC": [],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [],
     "annmap": [],
     "AnnotationHubData": [],
@@ -192,7 +190,6 @@
     "ballgown": [
         "sva"
     ],
-    "bamsignals": [],
     "BANDITS": [],
     "bandle": [
         "MLInterfaces",
@@ -247,7 +244,6 @@
     ],
     "biocGraph": [],
     "BiocHail": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocSklearn": [],
@@ -487,9 +483,7 @@
     "ChIPXpress": [],
     "ChromHeatMap": [],
     "ChromSCape": [],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -556,14 +550,12 @@
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR"
@@ -575,7 +567,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [],
     "comapr": [
@@ -627,7 +618,6 @@
     ],
     "convert": [],
     "CopyNumberPlots": [
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR"
@@ -873,9 +863,7 @@
         "annotatr",
         "bsseq"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DominoEffect": [],
     "doppelgangR": [
         "sva"
@@ -955,9 +943,7 @@
         "genomation"
     ],
     "epigenomix": [],
-    "epigraHMM": [
-        "bamsignals"
-    ],
+    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
@@ -1371,18 +1357,14 @@
         "minfi",
         "siggenes"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
-        "IHW",
         "goseq",
         "pcaExplorer"
     ],
     "igvR": [],
-    "IHW": [],
     "ILoReg": [],
     "IMAS": [],
     "imcRtools": [
@@ -1465,7 +1447,6 @@
         "DEGreport"
     ],
     "karyoploteR": [
-        "bamsignals",
         "biovizBase"
     ],
     "katdetectr": [],
@@ -1719,7 +1700,6 @@
     ],
     "microRNA": [],
     "microSTASIS": [],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -1894,7 +1874,6 @@
     ],
     "multicrispr": [
         "CRISPRseek",
-        "bamsignals",
         "biovizBase",
         "karyoploteR"
     ],
@@ -1986,9 +1965,7 @@
     "NoRCE": [],
     "NormalyzerDE": [],
     "NormqPCR": [],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "npGSEA": [],
     "nucleR": [],
     "nullranges": [],
@@ -2142,7 +2119,6 @@
     ],
     "plotgardener": [],
     "plyinteractions": [],
-    "podkat": [],
     "pogos": [
         "ontoProc"
     ],
@@ -2172,7 +2148,6 @@
         "mzID"
     ],
     "proActiv": [],
-    "proBAMr": [],
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
@@ -2308,7 +2283,6 @@
         "GenomicFiles",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "minfi",
         "siggenes"
@@ -2354,7 +2328,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rGADEM": [],
     "RgnTX": [],
     "rgsepd": [
         "goseq"
@@ -2378,7 +2351,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifi": [],
     "Ringo": [],
     "Risa": [
         "MSnbase",
@@ -2473,10 +2445,7 @@
     "SCAN.UPC": [
         "sva"
     ],
-    "scanMiR": [],
-    "scanMiRApp": [
-        "scanMiR"
-    ],
+    "scanMiRApp": [],
     "scAnnotatR": [],
     "SCArray": [],
     "SCArray.sat": [
@@ -2566,7 +2535,6 @@
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "bamsignals",
         "enrichplot"
     ],
     "segmentSeq": [],
@@ -2655,7 +2623,6 @@
     ],
     "singscore": [],
     "SiPSiC": [],
-    "sitadela": [],
     "sitePath": [],
     "skewr": [
         "lumi",
