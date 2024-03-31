@@ -860,7 +860,6 @@
     "edge": [
         "sva"
     ],
-    "EDIRquery": [],
     "EGAD": [],
     "EGSEA": [
         "GSVA",
@@ -1240,9 +1239,7 @@
         "pathview",
         "safe"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [],
     "GSRI": [],
     "GSVA": [],
@@ -1873,7 +1870,6 @@
         "RandomWalkRestartMH"
     ],
     "netresponse": [],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
@@ -1912,7 +1908,6 @@
         "biovizBase"
     ],
     "OLINgui": [],
-    "OmaDB": [],
     "omicade4": [],
     "omicplotR": [
         "ALDEx2"
@@ -2022,9 +2017,7 @@
         "Category"
     ],
     "philr": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [
         "biomformat"
     ],
@@ -2052,7 +2045,6 @@
     "POWSC": [
         "MAST"
     ],
-    "PPInfer": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -2105,7 +2097,6 @@
         "mzID"
     ],
     "ProteoDisco": [],
-    "ProteoMM": [],
     "protGear": [],
     "psichomics": [
         "GenomicFiles",
@@ -2120,7 +2111,6 @@
         "MSnbase",
         "mzID"
     ],
-    "puma": [],
     "PureCN": [],
     "pvca": [],
     "Pviz": [
@@ -2843,7 +2833,6 @@
         "minfi",
         "siggenes"
     ],
-    "wavClusteR": [],
     "webbioc": [],
     "weitrix": [],
     "xcms": [
