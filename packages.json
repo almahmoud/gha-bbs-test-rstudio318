@@ -1,9 +1,7 @@
 {
     "a4": [
-        "a4Base",
         "a4Classif"
     ],
-    "a4Base": [],
     "a4Classif": [],
     "ACE": [
         "CGHcall",
@@ -643,7 +641,6 @@
     "easyRNASeq": [],
     "EDASeq": [],
     "edge": [],
-    "EGAD": [],
     "EGSEA": [
         "GSVA",
         "pathview",
