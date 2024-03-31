@@ -1236,7 +1236,6 @@
         "regioneR",
         "rhdf5"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
@@ -1248,7 +1247,6 @@
         "regioneR",
         "rhdf5"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "NOISeq",
         "exomeCopy"
@@ -1743,7 +1741,6 @@
     "DepecheR": [
         "mixOmics"
     ],
-    "DEqMS": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2687,15 +2684,13 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "goProfiles"
+        "ggtree"
     ],
     "goSTAG": [],
     "GOstats": [
@@ -2791,7 +2786,6 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "rhdf5"
     ],
@@ -2870,7 +2864,6 @@
     ],
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
     "hyperdraw": [
         "Rgraphviz"
     ],
@@ -3069,7 +3062,6 @@
         "DESeq2"
     ],
     "ITALICS": [],
-    "iterClust": [],
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
@@ -3821,7 +3813,6 @@
     ],
     "mosaics": [],
     "mosbi": [],
-    "MOSim": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -4313,7 +4304,6 @@
         "beachmat",
         "rhdf5"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -4417,7 +4407,6 @@
         "Rgraphviz",
         "genefilter"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -4792,7 +4781,6 @@
     "rain": [
         "multtest"
     ],
-    "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
         "Rgraphviz"
@@ -4873,7 +4861,6 @@
         "siggenes"
     ],
     "recoup": [],
-    "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
         "multtest",
@@ -5148,7 +5135,6 @@
         "multtest",
         "ropls"
     ],
-    "rRDP": [],
     "rrvgo": [],
     "rScudo": [],
     "RSVSim": [
@@ -5508,7 +5494,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SemDist": [],
     "seq2pathway": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -6449,7 +6434,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [],
     "yamss": [
         "mzR"
