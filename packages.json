@@ -1075,7 +1075,6 @@
         "ncdfFlow"
     ],
     "ggmsa": [],
-    "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
     ],
@@ -1497,7 +1496,6 @@
         "minfi",
         "siggenes"
     ],
-    "missRows": [],
     "mitoClone2": [
         "deepSNV"
     ],
@@ -1736,10 +1734,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "oppar": [
         "GSVA"
     ],
