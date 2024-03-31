@@ -309,7 +309,6 @@
         "biovizBase",
         "monocle"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
@@ -1223,7 +1222,6 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [],
     "nempi": [
         "epiNEM"
     ],
@@ -1567,7 +1565,6 @@
         "RUVSeq"
     ],
     "Sconify": [],
-    "scoreInvHap": [],
     "scp": [],
     "scRNAseqApp": [
         "slingshot"
@@ -1714,7 +1711,6 @@
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
-    "TCC": [],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
