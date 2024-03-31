@@ -190,7 +190,6 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -429,7 +428,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowClust",
         "flowDensity",
@@ -738,10 +736,7 @@
     "funtooNorm": [
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq"
@@ -769,7 +764,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "gDRstyle": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -967,9 +961,7 @@
         "xcms"
     ],
     "maPredictDSC": [],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -1344,7 +1336,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "plyinteractions": [],
     "pogos": [],
     "POWSC": [],
@@ -1799,9 +1790,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
