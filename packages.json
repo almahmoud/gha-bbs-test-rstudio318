@@ -2248,7 +2248,6 @@
     "RiboCrypt": [
         "ORFik"
     ],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -2524,7 +2523,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "singscore": [],
     "SiPSiC": [],
     "sitePath": [],
     "skewr": [
@@ -2676,7 +2674,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "GSVA",
-        "singscore",
         "sva"
     ],
     "TCC": [],
