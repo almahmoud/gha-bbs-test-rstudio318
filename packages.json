@@ -24,7 +24,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "biovizBase",
         "ggbio"
@@ -34,12 +33,10 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -258,7 +255,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "mnem",
         "sva"
@@ -367,7 +363,6 @@
     ],
     "CelliD": [],
     "CellMixS": [],
-    "CellNOptR": [],
     "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -480,18 +475,10 @@
         "flowCore"
     ],
     "cn.mops": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -1132,7 +1119,6 @@
         "Category",
         "cellHTS2"
     ],
-    "gg4way": [],
     "ggbio": [
         "biovizBase"
     ],
@@ -1150,7 +1136,6 @@
     "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -1178,7 +1163,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1449,8 +1433,7 @@
     ],
     "MEB": [],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "Melissa": [],
     "memes": [],
@@ -1875,7 +1858,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
         "sva"
