@@ -80,7 +80,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
         "biovizBase"
@@ -166,7 +165,6 @@
     "BEAT": [],
     "beer": [],
     "benchdamic": [
-        "ALDEx2",
         "Maaslin2",
         "phyloseq",
         "zinbwave"
@@ -1269,7 +1267,6 @@
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ALDEx2",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1505,9 +1502,7 @@
         "biovizBase"
     ],
     "OLINgui": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "sva"
     ],
@@ -1915,7 +1910,6 @@
     "scoreInvHap": [],
     "scp": [],
     "scPipe": [],
-    "scReClassify": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -1923,7 +1917,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "GOstats",
         "ReactomePA",
