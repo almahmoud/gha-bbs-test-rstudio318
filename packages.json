@@ -3,12 +3,10 @@
         "a4Base",
         "a4Classif",
         "a4Preproc",
-        "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Preproc",
-        "genefilter",
         "multtest"
     ],
     "a4Classif": [
@@ -29,7 +27,6 @@
     ],
     "ADaCGH2": [
         "aCGH",
-        "genefilter",
         "multtest",
         "snapCGH",
         "tilingArray",
@@ -42,15 +39,11 @@
     "adductomicsR": [
         "mzR"
     ],
-    "ADImpute": [
-        "SingleCellExperiment"
-    ],
+    "ADImpute": [],
     "adSplit": [
         "multtest"
     ],
-    "AffiXcan": [
-        "MultiAssayExperiment"
-    ],
+    "AffiXcan": [],
     "affyContam": [],
     "affycoretools": [
         "AnnotationForge",
@@ -62,7 +55,6 @@
         "VariantAnnotation",
         "biovizBase",
         "gcrma",
-        "genefilter",
         "ggbio"
     ],
     "affyILM": [
@@ -77,9 +69,7 @@
     ],
     "AffyRNADegradation": [],
     "AGDEX": [],
-    "aggregateBioVar": [
-        "SingleCellExperiment"
-    ],
+    "aggregateBioVar": [],
     "AgiMicroRna": [
         "AnnotationForge",
         "Category",
@@ -91,7 +81,6 @@
         "affycoretools",
         "biovizBase",
         "gcrma",
-        "genefilter",
         "ggbio"
     ],
     "AHMassBank": [
@@ -100,17 +89,9 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "airpart": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "airpart": [],
     "alabaster": [
         "HDF5Array",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
@@ -133,7 +114,6 @@
     ],
     "alabaster.mae": [
         "HDF5Array",
-        "MultiAssayExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -148,7 +128,6 @@
     ],
     "alabaster.sce": [
         "HDF5Array",
-        "SingleCellExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -162,7 +141,6 @@
     ],
     "alabaster.spatial": [
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
@@ -197,34 +175,18 @@
         "makecdfenv"
     ],
     "AMARETTO": [
-        "HDF5Array",
-        "MultiAssayExperiment"
+        "HDF5Array"
     ],
     "amplican": [
         "ShortRead"
     ],
     "Anaquin": [],
-    "ANCOMBC": [
-        "BiocSingular",
-        "DECIPHER",
-        "DelayedMatrixStats",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment",
-        "bluster",
-        "mia",
-        "scater",
-        "scuttle"
-    ],
+    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [
-        "MultiAssayExperiment"
-    ],
-    "annmap": [
-        "genefilter"
-    ],
+    "animalcules": [],
+    "annmap": [],
     "AnnotationForge": [],
     "AnnotationHubData": [
         "AnnotationForge",
@@ -246,9 +208,7 @@
         "VariantAnnotation"
     ],
     "apComplex": [],
-    "APL": [
-        "SingleCellExperiment"
-    ],
+    "APL": [],
     "appreci8R": [
         "GenomicScores",
         "HDF5Array",
@@ -257,12 +217,10 @@
     ],
     "ArrayExpress": [],
     "arrayMvout": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "affyContam",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -274,14 +232,12 @@
         "affyPLM",
         "beadarray",
         "gcrma",
-        "genefilter",
         "vsn"
     ],
     "artMS": [
         "MSstats"
     ],
     "ASICS": [
-        "MultiAssayExperiment",
         "ropls"
     ],
     "ASpli": [
@@ -289,21 +245,15 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
-        "genefilter",
         "sva"
     ],
-    "ASURAT": [
-        "SingleCellExperiment"
-    ],
+    "ASURAT": [],
     "ATACCoGAPS": [
         "CNEr",
         "CoGAPS",
         "OrganismDbi",
-        "SingleCellExperiment",
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
@@ -334,22 +284,16 @@
     "attract": [
         "AnnotationForge",
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
-    "AUCell": [
-        "DelayedMatrixStats"
-    ],
-    "autonomics": [
-        "MultiAssayExperiment"
-    ],
+    "AUCell": [],
+    "autonomics": [],
     "AWFisher": [],
     "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
     "ballgown": [
-        "genefilter",
         "sva"
     ],
     "bambu": [],
@@ -360,7 +304,6 @@
     "bandle": [
         "MLInterfaces",
         "MSnbase",
-        "genefilter",
         "mzID",
         "mzR",
         "pRoloc",
@@ -371,23 +314,13 @@
     ],
     "Basic4Cseq": [],
     "BASiCS": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "BiocSingular",
-        "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
-        "bluster",
         "glmGamPoi",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "BasicSTARRseq": [],
     "basilisk": [
@@ -395,28 +328,15 @@
     ],
     "basilisk.utils": [],
     "batchelor": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "ResidualMatrix",
-        "SingleCellExperiment",
-        "scuttle"
+        "ResidualMatrix"
     ],
     "BatchQC": [
-        "genefilter",
         "sva"
     ],
     "BayesSpace": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "bayNorm": [
-        "SingleCellExperiment"
-    ],
+    "bayNorm": [],
     "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -425,9 +345,7 @@
         "HDF5Array"
     ],
     "beadarray": [],
-    "BEARscc": [
-        "SingleCellExperiment"
-    ],
+    "BEARscc": [],
     "BEAT": [
         "ShortRead"
     ],
@@ -438,25 +356,13 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "BiocSingular",
-        "DECIPHER",
-        "DelayedMatrixStats",
         "MAST",
         "Maaslin2",
-        "MultiAssayExperiment",
-        "NOISeq",
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment",
         "biomformat",
-        "bluster",
-        "genefilter",
         "metagenomeSeq",
-        "mia",
         "mixOmics",
         "multtest",
         "phyloseq",
-        "scater",
-        "scuttle",
         "zinbwave"
     ],
     "BgeeCall": [],
@@ -471,11 +377,9 @@
         "hyperdraw"
     ],
     "bigmelon": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -488,7 +392,6 @@
     "bioCancer": [
         "DOSE",
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "ReactomePA",
@@ -508,13 +411,11 @@
     ],
     "BiocHubsShiny": [],
     "BiocOncoTK": [
-        "HDF5Array",
-        "MultiAssayExperiment"
+        "HDF5Array"
     ],
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSet": [],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils"
@@ -538,7 +439,6 @@
     ],
     "BioNAR": [],
     "BioNERO": [
-        "genefilter",
         "sva"
     ],
     "BioNet": [],
@@ -548,16 +448,10 @@
     ],
     "BioQC": [],
     "biosigner": [
-        "MultiAssayExperiment",
         "ropls"
     ],
     "BioTIP": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "biotmle": [],
     "biovizBase": [
@@ -566,7 +460,6 @@
     "biscuiteer": [
         "CGHbase",
         "CGHcall",
-        "DelayedMatrixStats",
         "HDF5Array",
         "OrganismDbi",
         "QDNAseq",
@@ -577,12 +470,9 @@
         "dmrseq",
         "regioneR"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "blacksheepr": [
-        "DEXSeq",
-        "genefilter"
+        "DEXSeq"
     ],
     "blima": [
         "beadarray"
@@ -592,16 +482,13 @@
         "ROntoTools"
     ],
     "BloodGen3Module": [],
-    "bluster": [],
     "bnbc": [
         "HiCBricks",
-        "genefilter",
         "sva"
     ],
     "bnem": [
         "CellNOptR",
         "epiNEM",
-        "genefilter",
         "mnem",
         "sva",
         "vsn"
@@ -615,7 +502,6 @@
     ],
     "borealis": [
         "DSS",
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq"
     ],
@@ -637,21 +523,17 @@
     "BRGenomics": [],
     "BSgenomeForge": [],
     "bsseq": [
-        "DelayedMatrixStats",
         "HDF5Array"
     ],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BufferedMatrixMethods": [],
     "bumphunter": [],
     "BUSpaRse": [
         "plyranges"
     ],
-    "BUSseq": [
-        "SingleCellExperiment"
-    ],
+    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -670,17 +552,14 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "genefilter",
         "ggbio",
         "sva"
     ],
     "CAGEr": [
         "CAGEfightR",
-        "DelayedMatrixStats",
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "MultiAssayExperiment",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -689,7 +568,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -701,13 +579,11 @@
     "canceR": [
         "Category",
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
-        "genefilter",
         "phenoTest"
     ],
     "cardelino": [
@@ -722,41 +598,28 @@
         "gaga"
     ],
     "CATALYST": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "FlowSOM",
-        "SingleCellExperiment",
         "cytolib",
-        "flowCore",
-        "scater",
-        "scuttle"
+        "flowCore"
     ],
-    "Category": [
-        "genefilter"
-    ],
+    "Category": [],
     "categoryCompare": [
         "AnnotationForge",
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "cbaf": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
-        "cBioPortalData",
-        "genefilter"
+        "cBioPortalData"
     ],
     "CBEA": [
-        "BiocSet",
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment"
+        "BiocSet"
     ],
     "cBioPortalData": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils"
@@ -772,63 +635,35 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "ccfindR": [
-        "SingleCellExperiment"
-    ],
+    "ccfindR": [],
     "ccImpute": [],
     "ccmap": [],
     "CCPlotR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
-    "CDI": [
-        "SingleCellExperiment"
-    ],
+    "CDI": [],
     "celaref": [
-        "MAST",
-        "SingleCellExperiment"
+        "MAST"
     ],
     "celda": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
     "cellbaseR": [],
-    "CellBench": [
-        "SingleCellExperiment"
-    ],
+    "CellBench": [],
     "cellHTS2": [
         "Category",
-        "genefilter",
         "vsn"
     ],
-    "CelliD": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "CelliD": [],
     "cellity": [],
-    "CellMixS": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "CellMixS": [],
     "CellNOptR": [],
-    "CellTrails": [
-        "SingleCellExperiment"
-    ],
+    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -842,9 +677,7 @@
         "flowCore"
     ],
     "Cepo": [
-        "DelayedMatrixStats",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "CeTF": [
         "DOSE",
@@ -872,8 +705,7 @@
         "CGHbase"
     ],
     "cghMCR": [
-        "CNTools",
-        "genefilter"
+        "CNTools"
     ],
     "CGHnormaliter": [
         "CGHbase",
@@ -884,7 +716,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -892,8 +723,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "genefilter",
-        "globaltest",
         "goseq",
         "lumi",
         "methylumi",
@@ -904,10 +733,7 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
-    "CHETAH": [
-        "SingleCellExperiment"
-    ],
+    "CHETAH": [],
     "chihaya": [
         "HDF5Array"
     ],
@@ -955,15 +781,9 @@
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "ResidualMatrix",
-        "SingleCellExperiment",
         "batchelor",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "chromstaR": [
         "bamsignals"
@@ -994,17 +814,9 @@
         "ShortRead"
     ],
     "CiteFuse": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "ClassifyR": [
-        "MultiAssayExperiment",
-        "genefilter"
-    ],
+    "ClassifyR": [],
     "cleanUpdTSeq": [],
     "clipper": [
         "KEGGgraph",
@@ -1016,7 +828,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -1033,10 +844,7 @@
         "vsn"
     ],
     "clusterExperiment": [
-        "BiocSingular",
         "HDF5Array",
-        "SingleCellExperiment",
-        "genefilter",
         "mbkmeans",
         "zinbwave"
     ],
@@ -1049,9 +857,7 @@
         "baySeq"
     ],
     "clusterStab": [],
-    "clustifyr": [
-        "SingleCellExperiment"
-    ],
+    "clustifyr": [],
     "cmapR": [
         "cytolib",
         "flowCore"
@@ -1073,9 +879,7 @@
     "CNORode": [
         "CellNOptR"
     ],
-    "CNTools": [
-        "genefilter"
-    ],
+    "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
@@ -1097,7 +901,6 @@
         "regioneR"
     ],
     "CNVPanelizer": [
-        "NOISeq",
         "exomeCopy"
     ],
     "CNVRanger": [
@@ -1108,16 +911,12 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "MIRA",
         "bsseq"
     ],
-    "codelink": [],
     "CODEX": [],
-    "CoGAPS": [
-        "SingleCellExperiment"
-    ],
+    "CoGAPS": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -1154,13 +953,8 @@
         "Spectra"
     ],
     "condiments": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "distinct",
-        "scater",
-        "scuttle",
         "slingshot"
     ],
     "CONFESS": [
@@ -1176,11 +970,8 @@
         "ShortRead"
     ],
     "consensusOV": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "SingleCellExperiment",
         "genefu"
     ],
     "consensusSeekeR": [],
@@ -1191,11 +982,9 @@
         "exomeCopy"
     ],
     "conumee": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -1212,14 +1001,10 @@
     ],
     "coRdon": [],
     "CoreGx": [
-        "MultiAssayExperiment",
         "piano"
     ],
     "Cormotif": [],
-    "corral": [
-        "MultiAssayExperiment",
-        "SingleCellExperiment"
-    ],
+    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -1229,7 +1014,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -1240,17 +1024,11 @@
     ],
     "cosmosR": [],
     "COTAN": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "PCAtools"
     ],
-    "countsimQC": [
-        "genefilter"
-    ],
+    "countsimQC": [],
     "CoverageView": [],
-    "covRNA": [
-        "genefilter"
-    ],
+    "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
         "aCGH",
@@ -1295,7 +1073,6 @@
     "crlmm": [],
     "crossmeta": [
         "GEOquery",
-        "genefilter",
         "sva"
     ],
     "csaw": [],
@@ -1304,7 +1081,6 @@
     "CTdata": [],
     "cTRAP": [],
     "CTSV": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "cummeRbund": [
@@ -1313,8 +1089,7 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "customCMPdb": [],
     "customProDB": [
@@ -1332,7 +1107,6 @@
         "tkWidgets"
     ],
     "cydar": [
-        "SingleCellExperiment",
         "cytolib",
         "flowCore"
     ],
@@ -1348,22 +1122,16 @@
         "flowCore"
     ],
     "cytofQC": [
-        "BiocSingular",
         "CATALYST",
-        "DelayedMatrixStats",
         "FlowSOM",
-        "SingleCellExperiment",
         "cytolib",
-        "flowCore",
-        "scater",
-        "scuttle"
+        "flowCore"
     ],
     "CytoGLMM": [],
     "cytoKernel": [],
     "cytolib": [],
     "cytomapper": [
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "cytoMEM": [
@@ -1401,7 +1169,6 @@
     ],
     "cytoviewer": [
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper"
     ],
@@ -1421,7 +1188,6 @@
     "DaMiRseq": [
         "EDASeq",
         "ShortRead",
-        "genefilter",
         "sva"
     ],
     "DAPAR": [
@@ -1455,32 +1221,22 @@
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
-        "genefilter",
         "ggtree",
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
     "DeconRNASeq": [],
     "decontX": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
         "celda",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "deconvR": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "methylKit",
         "minfi",
         "multtest",
@@ -1499,23 +1255,18 @@
     ],
     "DEGreport": [],
     "DelayedDataFrame": [],
-    "DelayedMatrixStats": [],
     "DelayedTensor": [
-        "BiocSingular",
         "HDF5Array"
     ],
     "DELocal": [],
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq",
-        "genefilter",
         "sva"
     ],
     "demuxSNP": [
-        "SingleCellExperiment",
         "VariantAnnotation"
     ],
     "densvis": [
@@ -1551,22 +1302,16 @@
         "regioneR"
     ],
     "DESpace": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "destiny": [
-        "SingleCellExperiment"
-    ],
+    "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
         "GEOquery",
-        "genefilter",
         "sva"
     ],
-    "DEXSeq": [
-        "genefilter"
-    ],
+    "DEXSeq": [],
     "DIAlignR": [
         "mzR"
     ],
@@ -1585,40 +1330,23 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
-        "SingleCellExperiment"
+        "DRIMSeq"
     ],
     "diffHic": [
         "csaw"
     ],
     "diffUTR": [
-        "DEXSeq",
-        "genefilter"
+        "DEXSeq"
     ],
     "Dino": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "discordant": [],
-    "distinct": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
-    "dittoSeq": [
-        "SingleCellExperiment"
-    ],
+    "distinct": [],
+    "dittoSeq": [],
     "divergence": [],
     "DMCFB": [],
     "DMCHMM": [],
     "DMRcate": [
-        "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -1626,7 +1354,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -1634,7 +1361,6 @@
         "siggenes"
     ],
     "dmrseq": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "annotatr",
         "bsseq",
@@ -1648,7 +1374,6 @@
         "VariantAnnotation"
     ],
     "doppelgangR": [
-        "genefilter",
         "sva"
     ],
     "Doscheda": [
@@ -1660,11 +1385,9 @@
         "syntenet"
     ],
     "dreamlet": [
-        "DelayedMatrixStats",
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "SingleCellExperiment",
         "graphite",
         "pathview",
         "safe",
@@ -1672,10 +1395,7 @@
     ],
     "DRIMSeq": [],
     "DropletUtils": [
-        "DelayedMatrixStats",
-        "HDF5Array",
-        "SingleCellExperiment",
-        "scuttle"
+        "HDF5Array"
     ],
     "drugTargetInteractions": [
         "UniProt.ws"
@@ -1685,11 +1405,9 @@
         "GEOquery"
     ],
     "DSS": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq"
     ],
-    "dStruct": [],
     "dupRadar": [],
     "dyebias": [],
     "easier": [
@@ -1705,7 +1423,6 @@
         "ShortRead"
     ],
     "edge": [
-        "genefilter",
         "sva"
     ],
     "EDIRquery": [],
@@ -1713,14 +1430,10 @@
         "GEOquery"
     ],
     "EGSEA": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
         "KEGGgraph",
-        "SingleCellExperiment",
         "gage",
-        "globaltest",
         "multtest",
         "pathview",
         "safe"
@@ -1729,7 +1442,6 @@
     "eisaR": [],
     "ELMER": [
         "Gviz",
-        "MultiAssayExperiment",
         "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase"
@@ -1741,11 +1453,9 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -1802,7 +1512,6 @@
     ],
     "EpiMix": [],
     "epimutacions": [
-        "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
@@ -1810,7 +1519,6 @@
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -1862,27 +1570,20 @@
         "pipeFrame"
     ],
     "escape": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "SingleCellExperiment",
         "UCell"
     ],
     "escheR": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "esetVis": [],
     "eudysbiome": [],
-    "evaluomeR": [
-        "MultiAssayExperiment"
-    ],
+    "evaluomeR": [],
     "EventPointer": [
         "SGSeq"
     ],
     "EWCE": [
-        "SingleCellExperiment",
         "ggtree",
         "orthogene"
     ],
@@ -1897,9 +1598,7 @@
         "OrganismDbi"
     ],
     "ExperimentSubset": [
-        "SingleCellExperiment",
-        "SpatialExperiment",
-        "TreeSummarizedExperiment"
+        "SpatialExperiment"
     ],
     "extraChIPs": [
         "EnrichedHeatmap",
@@ -1933,18 +1632,15 @@
     ],
     "FEAST": [
         "SC3",
-        "SingleCellExperiment",
         "TSCAN",
         "TrajectoryUtils"
     ],
     "fedup": [],
     "fenr": [],
     "ffpe": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -1952,19 +1648,14 @@
         "siggenes"
     ],
     "FilterFFPE": [],
-    "FindIT2": [
-        "MultiAssayExperiment"
-    ],
-    "fishpond": [
-        "SingleCellExperiment"
-    ],
+    "FindIT2": [],
+    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -1974,23 +1665,16 @@
         "xcms"
     ],
     "FLAMES": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "MultiAssayExperiment",
         "OrganismDbi",
-        "SingleCellExperiment",
         "VariantAnnotation",
         "bambu",
         "basilisk",
         "basilisk.utils",
         "biovizBase",
-        "bluster",
         "ggbio",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "flowAI": [
         "cytolib",
@@ -2106,7 +1790,6 @@
     "fmcsR": [],
     "fobitools": [],
     "FRASER": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "OUTRIDER"
     ],
@@ -2114,11 +1797,9 @@
     "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -2138,7 +1819,6 @@
         "EDASeq",
         "MLSeq",
         "ShortRead",
-        "genefilter",
         "sva"
     ],
     "GateFinder": [
@@ -2169,7 +1849,6 @@
     ],
     "gDR": [
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
@@ -2177,12 +1856,10 @@
         "piano"
     ],
     "gDRcore": [
-        "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "gDRutils",
         "piano"
@@ -2190,11 +1867,8 @@
     "gDRstyle": [
         "BiocCheck"
     ],
-    "gDRutils": [
-        "MultiAssayExperiment"
-    ],
+    "gDRutils": [],
     "GDSArray": [],
-    "gemma.R": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHbase",
@@ -2203,12 +1877,9 @@
     ],
     "geneClassifiers": [],
     "GeneExpressionSignature": [],
-    "genefilter": [],
     "genefu": [],
     "GeneGeneInteR": [],
-    "GeneMeta": [
-        "genefilter"
-    ],
+    "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "geneRecommender": [],
     "GeneRegionScan": [],
@@ -2266,7 +1937,6 @@
     ],
     "GEOexplorer": [
         "GEOquery",
-        "genefilter",
         "sva"
     ],
     "GEOmetadb": [
@@ -2282,7 +1952,6 @@
     "gespeR": [
         "Category",
         "cellHTS2",
-        "genefilter",
         "vsn"
     ],
     "gg4way": [],
@@ -2302,11 +1971,8 @@
     "ggmsa": [
         "ggtree"
     ],
-    "ggsc": [
-        "SingleCellExperiment"
-    ],
+    "ggsc": [],
     "ggspavis": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "ggtree": [],
@@ -2319,40 +1985,27 @@
     "girafe": [
         "ShortRead"
     ],
-    "GISPA": [
-        "genefilter"
-    ],
+    "GISPA": [],
     "Glimma": [],
     "glmGamPoi": [
-        "DelayedMatrixStats",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
-    "glmSparseNet": [
-        "MultiAssayExperiment"
-    ],
-    "GlobalAncova": [
-        "globaltest"
-    ],
-    "globaltest": [],
-    "GloScope": [
-        "SingleCellExperiment"
-    ],
+    "glmSparseNet": [],
+    "GlobalAncova": [],
+    "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
     ],
     "GmicR": [
         "AnnotationForge",
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "gmoviz": [],
     "GMRP": [],
     "GNET2": [],
     "GNOSIS": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
         "TCGAutils",
@@ -2361,9 +2014,7 @@
     ],
     "GOexpress": [],
     "GOfuncR": [],
-    "GOpro": [
-        "MultiAssayExperiment"
-    ],
+    "GOpro": [],
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
@@ -2375,8 +2026,7 @@
     "goSTAG": [],
     "GOstats": [
         "AnnotationForge",
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "GOTHiC": [
         "ShortRead"
@@ -2407,14 +2057,9 @@
     "GSReg": [
         "OrganismDbi"
     ],
-    "GSRI": [
-        "genefilter"
-    ],
+    "GSRI": [],
     "GSVA": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "GUIDEseq": [
         "CRISPRseek",
@@ -2438,7 +2083,6 @@
     "h5vc": [],
     "hapFabia": [],
     "HarmonizR": [
-        "genefilter",
         "sva"
     ],
     "Harshlight": [
@@ -2449,9 +2093,7 @@
     "HelloRanges": [
         "VariantAnnotation"
     ],
-    "hermes": [
-        "MultiAssayExperiment"
-    ],
+    "hermes": [],
     "HERON": [
         "multtest"
     ],
@@ -2479,19 +2121,14 @@
     ],
     "hicVennDiagram": [],
     "HiLDA": [],
-    "hipathia": [
-        "MultiAssayExperiment"
-    ],
-    "HIPPO": [
-        "SingleCellExperiment"
-    ],
+    "hipathia": [],
+    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
     "HiTC": [],
     "hmdbQuery": [],
     "hoodscanR": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "hpar": [],
@@ -2513,11 +2150,9 @@
         "csaw"
     ],
     "iCheck": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -2533,7 +2168,6 @@
         "Category",
         "GOstats",
         "IHW",
-        "genefilter",
         "goseq",
         "pcaExplorer"
     ],
@@ -2543,19 +2177,14 @@
         "VariantAnnotation"
     ],
     "IHW": [],
-    "ILoReg": [
-        "SingleCellExperiment"
-    ],
+    "ILoReg": [],
     "IMAS": [
         "IVAS"
     ],
     "imcRtools": [
-        "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
-        "cytomapper",
-        "scuttle"
+        "cytomapper"
     ],
     "ImmuneSpaceR": [
         "cytolib",
@@ -2569,7 +2198,6 @@
     ],
     "iNETgrate": [
         "DOSE",
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "OrganismDbi",
@@ -2578,16 +2206,13 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "genefilter",
         "ggtree",
         "graphite",
         "minfi",
         "multtest",
         "siggenes"
     ],
-    "infercnv": [
-        "SingleCellExperiment"
-    ],
+    "infercnv": [],
     "infinityFlow": [
         "cytolib",
         "flowCore"
@@ -2597,9 +2222,7 @@
         "plyranges"
     ],
     "INSPEcT": [],
-    "InTAD": [
-        "MultiAssayExperiment"
-    ],
+    "InTAD": [],
     "intansv": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -2608,15 +2231,13 @@
     ],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "InterCellar": [],
     "IntEREst": [
         "DEXSeq",
         "GenomicFiles",
-        "VariantAnnotation",
-        "genefilter"
+        "VariantAnnotation"
     ],
     "IONiseR": [
         "ShortRead"
@@ -2631,7 +2252,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -2640,38 +2260,29 @@
         "vsn",
         "xcms"
     ],
-    "iSEE": [
-        "SingleCellExperiment"
-    ],
+    "iSEE": [],
     "iSEEde": [
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEhex": [
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEhub": [
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEindex": [
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEpathways": [
-        "SingleCellExperiment",
         "iSEE"
     ],
     "iSEEu": [
-        "SingleCellExperiment",
         "iSEE",
         "iSEEhex"
     ],
     "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
-        "genefilter",
         "satuRn",
         "sva",
         "tximeta"
@@ -2704,46 +2315,33 @@
     "keggorthology": [],
     "kissDE": [
         "DSS",
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq"
     ],
     "KnowSeq": [
-        "genefilter",
         "sva"
     ],
     "LACE": [],
     "ldblock": [],
-    "lefser": [],
     "lemur": [
-        "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "glmGamPoi"
     ],
-    "LineagePulse": [
-        "SingleCellExperiment"
-    ],
+    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
-    "LinkHD": [
-        "MultiAssayExperiment"
-    ],
+    "LinkHD": [],
     "LinTInd": [
         "ggtree"
     ],
     "lipidr": [
-        "MultiAssayExperiment",
         "ropls"
     ],
     "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
         "SpatialExperiment",
-        "genefilter",
         "spicyR"
     ],
     "lmdme": [],
@@ -2753,7 +2351,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -2763,19 +2360,16 @@
         "xcms"
     ],
     "LoomExperiment": [
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "lpNet": [
         "KEGGgraph"
     ],
     "LRcell": [],
     "lumi": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -2801,13 +2395,11 @@
     ],
     "maftools": [],
     "MAGAR": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "RnBeads",
         "bumphunter",
         "crlmm",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -2831,7 +2423,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -2858,12 +2449,8 @@
     "maskBAD": [
         "gcrma"
     ],
-    "MAST": [
-        "SingleCellExperiment"
-    ],
-    "mastR": [
-        "SingleCellExperiment"
-    ],
+    "MAST": [],
+    "mastR": [],
     "MatrixQCvis": [
         "proDA",
         "vsn"
@@ -2875,14 +2462,11 @@
     "MBASED": [],
     "MBECS": [
         "biomformat",
-        "genefilter",
         "multtest",
         "phyloseq",
         "sva"
     ],
-    "mbkmeans": [
-        "SingleCellExperiment"
-    ],
+    "mbkmeans": [],
     "mBPCR": [
         "GWASTools"
     ],
@@ -2898,14 +2482,12 @@
     ],
     "MDTS": [],
     "MEAL": [
-        "DelayedMatrixStats",
         "GEOquery",
         "Gviz",
         "HDF5Array",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -2914,11 +2496,9 @@
         "sva"
     ],
     "MEAT": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -2926,13 +2506,7 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEB": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "MEB": [],
     "MEDIPS": [],
     "MEDME": [],
     "MEIGOR": [
@@ -2945,29 +2519,23 @@
     "memes": [
         "universalmotif"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
-        "MeSHDbi",
         "enrichplot",
         "ggtree"
     ],
     "meshr": [
-        "Category",
-        "MeSHDbi",
-        "genefilter"
+        "Category"
     ],
     "MesKit": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "MetaboCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
     "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
-        "MultiAssayExperiment",
         "struct"
     ],
     "metabomxtr": [
@@ -2992,7 +2560,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -3001,9 +2568,7 @@
         "vsn",
         "xcms"
     ],
-    "MetaNeighbor": [
-        "SingleCellExperiment"
-    ],
+    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -3011,17 +2576,13 @@
         "ggtree"
     ],
     "metapone": [],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "DSS",
-        "DelayedMatrixStats",
         "EDASeq",
         "HDF5Array",
         "ShortRead",
         "bsseq",
-        "genefilter",
         "vsn"
     ],
     "MetCirc": [
@@ -3035,26 +2596,21 @@
         "sesame"
     ],
     "methrix": [
-        "DelayedMatrixStats",
         "HDF5Array"
     ],
     "MethylAid": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
     ],
     "methylCC": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bsseq",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "plyranges",
@@ -3064,26 +2620,22 @@
         "AnnotationForge",
         "AnnotationHubData",
         "BiocCheck",
-        "DelayedMatrixStats",
         "ExperimentHubData",
         "GEOquery",
         "HDF5Array",
         "OrganismDbi",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
     ],
     "methylGSA": [
         "DOSE",
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "genefilter",
         "ggtree",
         "methylumi",
         "minfi",
@@ -3105,16 +2657,13 @@
     "MethylSeekR": [],
     "methylSig": [
         "DSS",
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq"
     ],
     "methylumi": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -3125,33 +2674,10 @@
         "tkWidgets"
     ],
     "MGFR": [],
-    "mia": [
-        "BiocSingular",
-        "DECIPHER",
-        "DelayedMatrixStats",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment",
-        "bluster",
-        "scater",
-        "scuttle"
-    ],
-    "miaSim": [
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment"
-    ],
+    "mia": [],
+    "miaSim": [],
     "miaViz": [
-        "BiocSingular",
-        "DECIPHER",
-        "DelayedMatrixStats",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment",
-        "bluster",
-        "ggtree",
-        "mia",
-        "scater",
-        "scuttle"
+        "ggtree"
     ],
     "microbiome": [
         "biomformat",
@@ -3171,21 +2697,11 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "BiocSingular",
-        "DECIPHER",
-        "DelayedMatrixStats",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment",
         "biomformat",
-        "bluster",
         "ggtree",
         "metagenomeSeq",
-        "mia",
         "multtest",
-        "phyloseq",
-        "scater",
-        "scuttle"
+        "phyloseq"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -3198,18 +2714,10 @@
         "ggtreeExtra"
     ],
     "microRNA": [],
-    "microSTASIS": [
-        "SingleCellExperiment",
-        "TreeSummarizedExperiment"
-    ],
+    "microSTASIS": [],
     "MICSQTL": [],
-    "midasHLA": [
-        "MultiAssayExperiment"
-    ],
-    "miloR": [
-        "BiocSingular",
-        "SingleCellExperiment"
-    ],
+    "midasHLA": [],
+    "miloR": [],
     "mimager": [
         "affyPLM",
         "gcrma"
@@ -3217,12 +2725,10 @@
     "MineICA": [
         "AnnotationForge",
         "Category",
-        "DelayedMatrixStats",
         "GEOquery",
         "GOstats",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -3230,11 +2736,9 @@
         "siggenes"
     ],
     "minfi": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "multtest",
         "siggenes"
     ],
@@ -3242,11 +2746,8 @@
         "VanillaICE",
         "crlmm"
     ],
-    "miQC": [
-        "SingleCellExperiment"
-    ],
+    "miQC": [],
     "MIRA": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq"
     ],
@@ -3258,32 +2759,25 @@
         "AnnotationForge",
         "Category",
         "GOstats",
-        "TCGAbiolinks",
-        "genefilter"
+        "TCGAbiolinks"
     ],
     "miRNAmeConverter": [],
     "missMethyl": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
         "siggenes"
     ],
-    "missRows": [
-        "MultiAssayExperiment"
-    ],
+    "missRows": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
     ],
     "mixOmics": [],
-    "MLInterfaces": [
-        "genefilter"
-    ],
+    "MLInterfaces": [],
     "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [
@@ -3297,7 +2791,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -3306,7 +2799,6 @@
         "vsn",
         "xcms"
     ],
-    "MODA": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
@@ -3314,16 +2806,12 @@
     ],
     "MOGAMUN": [],
     "mogsa": [
-        "genefilter",
         "graphite"
     ],
     "MoleculeExperiment": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "MOMA": [
-        "MultiAssayExperiment"
-    ],
+    "MOMA": [],
     "monaLisa": [
         "CNEr",
         "TFBSTools"
@@ -3366,7 +2854,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "MPRAnalyze": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
@@ -3390,7 +2877,6 @@
     "MsDataHub": [],
     "MsExperiment": [
         "MetaboCoreUtils",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
@@ -3404,12 +2890,7 @@
         "ggbio"
     ],
     "msImpute": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "msmsEDA": [
         "MSnbase",
@@ -3438,20 +2919,17 @@
         "vsn"
     ],
     "MSPrep": [
-        "genefilter",
         "sva"
     ],
     "msPurity": [
         "mzR"
     ],
     "msqrob2": [
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "MsQuality": [
         "MetaboCoreUtils",
         "MsExperiment",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
@@ -3489,14 +2967,9 @@
     "MSstatsTMT": [
         "MSstats"
     ],
-    "MuData": [
-        "MultiAssayExperiment",
-        "SingleCellExperiment"
-    ],
+    "MuData": [],
     "Mulcom": [],
-    "MultiAssayExperiment": [],
     "MultiBaC": [
-        "MultiAssayExperiment",
         "ropls"
     ],
     "multicrispr": [
@@ -3515,9 +2988,7 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "MultimodalExperiment": [
-        "MultiAssayExperiment"
-    ],
+    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz",
         "tkWidgets"
@@ -3525,25 +2996,14 @@
     "multiWGCNA": [],
     "multtest": [],
     "mumosa": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "ResidualMatrix",
-        "SingleCellExperiment",
         "batchelor",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
-    "muscat": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "muscat": [],
     "muscle": [],
     "musicatk": [
         "VariantAnnotation",
@@ -3579,17 +3039,13 @@
         "trackViewer"
     ],
     "NanoMethViz": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "HDF5Array",
         "bsseq"
     ],
     "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [],
-    "NBAMSeq": [
-        "genefilter"
-    ],
+    "NBAMSeq": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -3599,7 +3055,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -3615,20 +3070,14 @@
     "nearBynding": [
         "plyranges"
     ],
-    "Nebulosa": [
-        "SingleCellExperiment"
-    ],
+    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
     ],
-    "NetActivity": [
-        "DelayedMatrixStats"
-    ],
+    "NetActivity": [],
     "netboost": [],
-    "netDx": [
-        "MultiAssayExperiment"
-    ],
+    "netDx": [],
     "nethet": [
         "multtest"
     ],
@@ -3638,50 +3087,34 @@
     "netresponse": [],
     "NetSAM": [],
     "netSmooth": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "clusterExperiment",
-        "genefilter",
         "mbkmeans",
-        "scater",
-        "scuttle",
         "zinbwave"
     ],
     "netZooR": [
         "AnnotationForge",
         "Category",
-        "DelayedMatrixStats",
         "GEOquery",
         "GOstats",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "quantro",
         "siggenes",
         "yarn"
     ],
-    "NeuCA": [
-        "SingleCellExperiment"
-    ],
+    "NeuCA": [],
     "NewWave": [
-        "BiocSingular",
-        "SharedObject",
-        "SingleCellExperiment"
+        "SharedObject"
     ],
     "ngsReports": [],
-    "nipalsMCIA": [
-        "MultiAssayExperiment"
-    ],
+    "nipalsMCIA": [],
     "nnNorm": [],
     "nnSVG": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR"
     ],
@@ -3705,14 +3138,11 @@
         "multtest"
     ],
     "octad": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "EDASeq",
         "GSVA",
         "HDF5Array",
         "RUVSeq",
-        "ShortRead",
-        "SingleCellExperiment"
+        "ShortRead"
     ],
     "odseq": [
         "kebabs"
@@ -3727,7 +3157,6 @@
         "OLIN",
         "tkWidgets"
     ],
-    "omada": [],
     "OmaDB": [],
     "omicade4": [],
     "omicplotR": [
@@ -3735,18 +3164,15 @@
         "multtest"
     ],
     "omicRexposome": [
-        "genefilter",
         "omicade4",
         "rexposome",
         "sva"
     ],
     "OMICsPCA": [
         "HelloRanges",
-        "MultiAssayExperiment",
         "VariantAnnotation"
     ],
     "omicsPrint": [
-        "MultiAssayExperiment",
         "RaggedExperiment"
     ],
     "omicsViewer": [],
@@ -3763,20 +3189,14 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [],
     "oppar": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "optimalFlow": [
         "cytolib",
@@ -3804,16 +3224,12 @@
     "OutSplice": [
         "Repitools",
         "Ringo",
-        "genefilter",
         "vsn"
     ],
     "PAA": [
-        "genefilter",
         "sva"
     ],
-    "padma": [
-        "MultiAssayExperiment"
-    ],
+    "padma": [],
     "pageRank": [
         "CNEr",
         "TFBSTools",
@@ -3822,7 +3238,6 @@
     "paircompviz": [],
     "pairedGSEA": [
         "DEXSeq",
-        "genefilter",
         "sva"
     ],
     "panelcn.mops": [
@@ -3842,9 +3257,7 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "partCNV": [
-        "SingleCellExperiment"
-    ],
+    "partCNV": [],
     "PAST": [],
     "PathoStat": [
         "biomformat",
@@ -3858,16 +3271,11 @@
     "pcaExplorer": [
         "AnnotationForge",
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
-    "PCAtools": [
-        "BiocSingular",
-        "DelayedMatrixStats"
-    ],
+    "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "MultiAssayExperiment",
         "genefu",
         "piano"
     ],
@@ -3884,16 +3292,8 @@
         "mzR",
         "vsn"
     ],
-    "PECA": [
-        "genefilter"
-    ],
-    "peco": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "PECA": [],
+    "peco": [],
     "pengls": [],
     "periodicDNA": [],
     "phantasus": [
@@ -3904,22 +3304,18 @@
     ],
     "PharmacoGx": [
         "CoreGx",
-        "MultiAssayExperiment",
         "piano"
     ],
     "phemd": [
-        "SingleCellExperiment",
         "destiny",
         "monocle"
     ],
     "phenomis": [
-        "MultiAssayExperiment",
         "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
-        "Category",
-        "genefilter"
+        "Category"
     ],
     "PhenStat": [],
     "philr": [
@@ -3952,21 +3348,14 @@
         "biovizBase"
     ],
     "pipeComp": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "pipeFrame": [],
     "plier": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "plotgardener": [
         "plyranges"
@@ -3984,8 +3373,7 @@
         "mixOmics"
     ],
     "POWSC": [
-        "MAST",
-        "SingleCellExperiment"
+        "MAST"
     ],
     "ppcseq": [],
     "PPInfer": [],
@@ -4041,7 +3429,6 @@
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
-        "genefilter",
         "mzID",
         "mzR",
         "vsn"
@@ -4049,7 +3436,6 @@
     "pRolocGUI": [
         "MLInterfaces",
         "MSnbase",
-        "genefilter",
         "mzID",
         "mzR",
         "pRoloc",
@@ -4058,7 +3444,6 @@
     "PROMISE": [],
     "PROPER": [],
     "PROPS": [
-        "genefilter",
         "sva"
     ],
     "Prostar": [
@@ -4080,7 +3465,6 @@
     ],
     "ProteoMM": [],
     "protGear": [
-        "genefilter",
         "vsn"
     ],
     "psichomics": [
@@ -4092,7 +3476,6 @@
         "recount"
     ],
     "PSMatch": [
-        "MultiAssayExperiment",
         "QFeatures"
     ],
     "psygenet2r": [
@@ -4126,9 +3509,7 @@
         "CGHbase",
         "CGHcall"
     ],
-    "QFeatures": [
-        "MultiAssayExperiment"
-    ],
+    "QFeatures": [],
     "qmtools": [],
     "qpcrNorm": [],
     "qpgraph": [],
@@ -4140,20 +3521,16 @@
     ],
     "qsea": [],
     "qsmooth": [
-        "genefilter",
         "sva"
     ],
     "qsvaR": [
-        "genefilter",
         "sva"
     ],
     "QTLExperiment": [],
     "quantro": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -4182,12 +3559,9 @@
     ],
     "RadioGx": [
         "CoreGx",
-        "MultiAssayExperiment",
         "piano"
     ],
-    "raer": [
-        "SingleCellExperiment"
-    ],
+    "raer": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
@@ -4257,13 +3631,11 @@
     ],
     "recount3": [],
     "recountmethylation": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -4275,19 +3647,11 @@
         "regioneR"
     ],
     "regionalpcs": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "PCAtools"
     ],
     "RegionalST": [
         "BayesSpace",
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "regioneR": [],
     "regioneReloaded": [
@@ -4307,18 +3671,15 @@
         "biovizBase"
     ],
     "REMP": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
     ],
     "Repitools": [
         "Ringo",
-        "genefilter",
         "vsn"
     ],
     "ReportingTools": [
@@ -4328,7 +3689,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "genefilter",
         "ggbio"
     ],
     "RepViz": [],
@@ -4358,7 +3718,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "RGraph2js": [],
     "rGREAT": [],
     "rgsepd": [
         "goseq"
@@ -4392,7 +3751,6 @@
     "rifi": [],
     "rifiComparative": [],
     "Ringo": [
-        "genefilter",
         "vsn"
     ],
     "Risa": [
@@ -4400,7 +3758,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -4419,7 +3776,6 @@
         "regioneR"
     ],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "mzID",
         "mzR",
@@ -4441,7 +3797,6 @@
     "RNAinteract": [
         "Category",
         "cellHTS2",
-        "genefilter",
         "vsn"
     ],
     "RNAmodR": [
@@ -4477,11 +3832,9 @@
         "recount"
     ],
     "RnBeads": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -4493,9 +3846,7 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [
-        "MultiAssayExperiment"
-    ],
+    "ropls": [],
     "ROSeq": [],
     "RPA": [
         "biomformat",
@@ -4509,7 +3860,6 @@
         "biovizBase"
     ],
     "rqt": [
-        "MultiAssayExperiment",
         "multtest",
         "ropls"
     ],
@@ -4519,7 +3869,6 @@
     ],
     "RTCGAToolbox": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RaggedExperiment",
         "TCGAutils"
     ],
@@ -4543,9 +3892,7 @@
     "sampleClassifier": [
         "MGFR"
     ],
-    "sangeranalyseR": [
-        "DECIPHER"
-    ],
+    "sangeranalyseR": [],
     "SARC": [
         "RaggedExperiment",
         "multtest",
@@ -4557,160 +3904,90 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SC3": [
-        "SingleCellExperiment"
-    ],
+    "SC3": [],
     "SCAN.UPC": [
         "GEOquery",
-        "genefilter",
         "sva"
     ],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR"
     ],
-    "scAnnotatR": [
-        "SingleCellExperiment"
-    ],
+    "scAnnotatR": [],
     "SCANVIS": [],
-    "SCArray": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment"
-    ],
+    "SCArray": [],
     "SCArray.sat": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SCArray",
-        "SingleCellExperiment"
+        "SCArray"
     ],
-    "scater": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scuttle"
-    ],
+    "scater": [],
     "scBFA": [
-        "SingleCellExperiment",
-        "genefilter",
         "zinbwave"
     ],
     "scBubbletree": [
         "ggtree"
     ],
     "scCB2": [
-        "DelayedMatrixStats",
         "DropletUtils",
-        "HDF5Array",
-        "SingleCellExperiment",
-        "scuttle"
+        "HDF5Array"
     ],
     "scClassify": [
         "Cepo",
-        "DelayedMatrixStats",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
-    "sccomp": [
-        "SingleCellExperiment"
-    ],
+    "sccomp": [],
     "scDataviz": [
-        "SingleCellExperiment",
         "cytolib",
         "flowCore"
     ],
     "scDblFinder": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scDD": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scDDboost": [
-        "Oscope",
-        "SingleCellExperiment"
+        "Oscope"
     ],
     "scde": [],
-    "scDesign3": [
-        "SingleCellExperiment"
-    ],
-    "scds": [
-        "SingleCellExperiment"
-    ],
+    "scDesign3": [],
+    "scds": [],
     "SCFA": [],
     "scFeatures": [
         "AUCell",
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "SingleCellExperiment",
         "SingleCellSignalR",
-        "bluster",
         "multtest",
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "scGPS": [
-        "SingleCellExperiment"
-    ],
-    "schex": [
-        "SingleCellExperiment"
-    ],
-    "scHOT": [
-        "SingleCellExperiment"
-    ],
+    "scGPS": [],
+    "schex": [],
+    "scHOT": [],
     "scider": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "cytolib",
         "flowCore"
     ],
-    "scmap": [
-        "SingleCellExperiment"
-    ],
+    "scmap": [],
     "scMerge": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "ResidualMatrix",
-        "SingleCellExperiment",
         "batchelor",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "scMET": [
-        "SingleCellExperiment"
-    ],
+    "scMET": [],
     "scmeth": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "annotatr",
         "bsseq",
         "regioneR"
     ],
-    "SCnorm": [
-        "SingleCellExperiment"
-    ],
+    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
-        "SingleCellExperiment"
+        "ShortRead"
     ],
     "Sconify": [
         "cytolib",
@@ -4721,97 +3998,57 @@
         "VariantAnnotation"
     ],
     "scp": [
-        "MultiAssayExperiment",
-        "QFeatures",
-        "SingleCellExperiment"
+        "QFeatures"
     ],
     "scPCA": [],
     "scPipe": [
-        "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
-        "scuttle"
+        "basilisk.utils"
     ],
-    "scran": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "scuttle"
-    ],
-    "scReClassify": [
-        "SingleCellExperiment"
-    ],
+    "scran": [],
+    "scReClassify": [],
     "ScreenR": [],
-    "scRepertoire": [
-        "SingleCellExperiment"
-    ],
+    "scRepertoire": [],
     "scRNAseqApp": [
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
         "OrganismDbi",
         "ShortRead",
-        "SingleCellExperiment",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
     ],
-    "scry": [
-        "BiocSingular",
-        "SingleCellExperiment"
-    ],
+    "scry": [],
     "scTensor": [
         "AnnotationForge",
         "Category",
         "DOSE",
         "GOstats",
-        "MeSHDbi",
         "ReactomePA",
-        "SingleCellExperiment",
         "enrichplot",
-        "genefilter",
         "ggtree",
         "graphite",
         "meshr",
         "schex"
     ],
     "scTGIF": [
-        "SingleCellExperiment",
         "schex"
     ],
     "scTHI": [],
     "scTreeViz": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "OrganismDbi",
-        "SingleCellExperiment",
-        "bluster",
         "bumphunter",
         "epivizr",
         "epivizrData",
-        "scater",
-        "scran",
-        "scuttle"
-    ],
-    "scuttle": [
-        "DelayedMatrixStats",
-        "SingleCellExperiment"
+        "scran"
     ],
     "scviR": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
         "basilisk",
-        "basilisk.utils",
-        "scater",
-        "scuttle"
+        "basilisk.utils"
     ],
     "sechm": [],
     "segmenter": [
@@ -4848,7 +4085,6 @@
     "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
-        "genefilter",
         "sechm",
         "sva"
     ],
@@ -4856,27 +4092,22 @@
     "SGCP": [
         "AnnotationForge",
         "Category",
-        "GOstats",
-        "genefilter"
+        "GOstats"
     ],
     "SGSeq": [],
     "SharedObject": [],
     "shinyepico": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
     ],
     "shinyMethyl": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "siggenes"
@@ -4889,8 +4120,7 @@
     ],
     "SICtools": [],
     "SigCheck": [
-        "MLInterfaces",
-        "genefilter"
+        "MLInterfaces"
     ],
     "sigFeature": [],
     "SigFuge": [],
@@ -4909,11 +4139,8 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "consensusOV",
         "genefu"
@@ -4921,15 +4148,12 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SIMAT": [
         "mzR"
     ],
     "SimBindProfiles": [
         "Ringo",
-        "genefilter",
         "vsn"
     ],
     "SimBu": [
@@ -4946,48 +4170,34 @@
     "simona": [],
     "simpleSeg": [
         "HDF5Array",
-        "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [],
     "single": [],
-    "SingleCellExperiment": [],
     "SingleCellSignalR": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
         "multtest",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "singleCellTK": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "DropletUtils",
         "GSVA",
         "HDF5Array",
         "MAST",
         "ResidualMatrix",
-        "SingleCellExperiment",
         "SingleR",
         "TSCAN",
         "TrajectoryUtils",
         "basilisk",
         "basilisk.utils",
         "batchelor",
-        "bluster",
         "celda",
-        "genefilter",
         "ggtree",
         "multtest",
         "scDblFinder",
         "scMerge",
-        "scater",
         "scds",
         "scran",
-        "scuttle",
         "sva",
         "zellkonverter",
         "zinbwave"
@@ -4998,24 +4208,17 @@
         "ShortRead",
         "VariantAnnotation"
     ],
-    "SingleR": [
-        "BiocSingular",
-        "DelayedMatrixStats"
-    ],
+    "SingleR": [],
     "singscore": [],
-    "SiPSiC": [
-        "SingleCellExperiment"
-    ],
+    "SiPSiC": [],
     "sitadela": [],
     "sitePath": [
         "ggtree"
     ],
     "skewr": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -5023,11 +4226,8 @@
         "siggenes",
         "wateRmelon"
     ],
-    "slalom": [
-        "SingleCellExperiment"
-    ],
+    "slalom": [],
     "slingshot": [
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "SMITE": [
@@ -5036,7 +4236,6 @@
     ],
     "snapCGH": [
         "aCGH",
-        "genefilter",
         "multtest",
         "tilingArray",
         "vsn"
@@ -5059,7 +4258,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "DelayedMatrixStats",
         "HDF5Array",
         "annotatr",
         "bsseq",
@@ -5070,27 +4268,18 @@
         "multtest"
     ],
     "Spaniel": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "DropletUtils",
         "HDF5Array",
-        "SingleCellExperiment",
-        "bluster",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "sparrow": [
-        "BiocSet",
-        "DelayedMatrixStats"
+        "BiocSet"
     ],
     "SparseSignatures": [],
     "spaSim": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "spatialDE": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "basilisk",
         "basilisk.utils"
@@ -5099,22 +4288,12 @@
         "GeomxTools",
         "NanoStringNCTools"
     ],
-    "SpatialExperiment": [
-        "SingleCellExperiment"
-    ],
+    "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "bluster",
-        "genefilter",
-        "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
@@ -5129,9 +4308,7 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [
-        "SingleCellExperiment"
-    ],
+    "speckle": [],
     "SpeCond": [],
     "Spectra": [
         "MetaboCoreUtils"
@@ -5143,28 +4320,18 @@
         "KEGGgraph"
     ],
     "SPIAT": [
-        "SingleCellExperiment",
         "SpatialExperiment",
         "dittoSeq"
     ],
     "spicyR": [
         "ClassifyR",
-        "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "SpatialExperiment",
-        "genefilter"
+        "SpatialExperiment"
     ],
     "SpidermiR": [],
     "spiky": [],
-    "splatter": [
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scuttle"
-    ],
+    "splatter": [],
     "SpliceWiz": [
-        "DelayedMatrixStats",
-        "HDF5Array",
-        "genefilter"
+        "HDF5Array"
     ],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -5174,14 +4341,10 @@
         "biovizBase"
     ],
     "SpotClean": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "SPOTlight": [
-        "SingleCellExperiment"
-    ],
+    "SPOTlight": [],
     "SPsimSeq": [
-        "SingleCellExperiment",
         "biomformat",
         "multtest",
         "phyloseq"
@@ -5204,13 +4367,11 @@
         "EDASeq",
         "RUVSeq",
         "ShortRead",
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "staRank": [
         "Category",
         "cellHTS2",
-        "genefilter",
         "vsn"
     ],
     "StarBioTrek": [
@@ -5219,13 +4380,11 @@
     ],
     "STATegRa": [],
     "Statial": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "statTarget": [],
     "stepNorm": [],
     "stJoincount": [
-        "SingleCellExperiment",
         "SpatialExperiment"
     ],
     "strandCheckR": [],
@@ -5238,9 +4397,7 @@
     ],
     "SUITOR": [],
     "surfaltr": [],
-    "sva": [
-        "genefilter"
-    ],
+    "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
         "VariantAnnotation"
@@ -5253,9 +4410,7 @@
         "DOSE"
     ],
     "SWATH2stats": [],
-    "switchde": [
-        "SingleCellExperiment"
-    ],
+    "switchde": [],
     "synapter": [
         "MSnbase",
         "multtest",
@@ -5263,9 +4418,7 @@
         "mzR",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
@@ -5292,12 +4445,8 @@
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
         "HDF5Array",
-        "SingleCellExperiment",
-        "genefilter",
         "singscore",
         "sva"
     ],
@@ -5307,7 +4456,6 @@
     "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RaggedExperiment"
     ],
     "TCseq": [],
@@ -5317,9 +4465,7 @@
         "ggtree"
     ],
     "TEKRABber": [],
-    "TENxIO": [
-        "SingleCellExperiment"
-    ],
+    "TENxIO": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE",
@@ -5328,7 +4474,6 @@
     "TEQC": [],
     "terraTCGAdata": [
         "GenomicDataCommons",
-        "MultiAssayExperiment",
         "RaggedExperiment",
         "TCGAutils"
     ],
@@ -5341,12 +4486,9 @@
     ],
     "TFutils": [],
     "tidybulk": [],
-    "tidySingleCellExperiment": [
-        "SingleCellExperiment"
-    ],
+    "tidySingleCellExperiment": [],
     "TileDBArray": [],
     "tilingArray": [
-        "genefilter",
         "vsn"
     ],
     "timecourse": [],
@@ -5356,7 +4498,6 @@
     "TimiRGeN": [
         "DOSE",
         "Mfuzz",
-        "MultiAssayExperiment",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -5373,16 +4514,11 @@
     ],
     "TMixClust": [],
     "TNBC.CMS": [
-        "BiocSingular",
-        "DelayedMatrixStats",
         "GSVA",
-        "HDF5Array",
-        "SingleCellExperiment"
+        "HDF5Array"
     ],
     "TOP": [
-        "ClassifyR",
-        "MultiAssayExperiment",
-        "genefilter"
+        "ClassifyR"
     ],
     "topdownr": [
         "MSnbase",
@@ -5392,7 +4528,6 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "MultiAssayExperiment",
         "piano"
     ],
     "TPP": [],
@@ -5404,22 +4539,17 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [
-        "SingleCellExperiment"
-    ],
+    "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
         "ShortRead",
         "chipseq"
     ],
     "transformGamPoi": [
-        "DelayedMatrixStats",
         "HDF5Array",
-        "SingleCellExperiment",
         "glmGamPoi"
     ],
     "tRanslatome": [
@@ -5430,32 +4560,20 @@
     "TransView": [],
     "traseR": [],
     "traviz": [
-        "SingleCellExperiment",
         "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
         "FlowSOM",
-        "SingleCellExperiment",
         "cytolib",
         "diffcyt",
         "flowCore",
         "ggtree"
     ],
-    "TreeSummarizedExperiment": [
-        "SingleCellExperiment"
-    ],
     "Trendy": [],
     "TRESS": [],
-    "tricycle": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
-    ],
+    "tricycle": [],
     "trigger": [
-        "genefilter",
         "sva"
     ],
     "trio": [
@@ -5471,7 +4589,6 @@
     ],
     "TRONCO": [],
     "TSCAN": [
-        "SingleCellExperiment",
         "TrajectoryUtils"
     ],
     "TurboNorm": [
@@ -5486,9 +4603,7 @@
     "tweeDEseq": [],
     "txcutr": [],
     "tximeta": [],
-    "UCell": [
-        "SingleCellExperiment"
-    ],
+    "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
         "plotgardener",
@@ -5517,12 +4632,7 @@
         "monocle"
     ],
     "VAExprs": [
-        "BiocSingular",
-        "DeepPINCS",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
-        "scater",
-        "scuttle"
+        "DeepPINCS"
     ],
     "VanillaICE": [
         "crlmm"
@@ -5545,24 +4655,17 @@
     ],
     "VaSP": [
         "ballgown",
-        "genefilter",
         "sva"
     ],
     "VCFArray": [
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VDJdive": [
-        "SingleCellExperiment"
-    ],
+    "VDJdive": [],
     "VegaMC": [],
     "velociraptor": [
-        "BiocSingular",
-        "DelayedMatrixStats",
-        "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
-        "scuttle",
         "zellkonverter"
     ],
     "vidger": [],
@@ -5571,15 +4674,11 @@
     ],
     "vissE": [],
     "Voyager": [
-        "SingleCellExperiment",
         "SpatialExperiment",
-        "SpatialFeatureExperiment",
-        "bluster"
+        "SpatialFeatureExperiment"
     ],
     "VplotR": [],
-    "vsclust": [
-        "MultiAssayExperiment"
-    ],
+    "vsclust": [],
     "vsn": [],
     "vtpnet": [
         "VariantAnnotation",
@@ -5595,15 +4694,11 @@
         "regioneR",
         "systemPipeR"
     ],
-    "waddR": [
-        "SingleCellExperiment"
-    ],
+    "waddR": [],
     "wateRmelon": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -5616,9 +4711,7 @@
         "multtest",
         "vsn"
     ],
-    "weitrix": [
-        "DelayedMatrixStats"
-    ],
+    "weitrix": [],
     "wiggleplotr": [],
     "wpm": [],
     "xcms": [
@@ -5626,7 +4719,6 @@
         "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
-        "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "multtest",
@@ -5634,18 +4726,14 @@
         "mzR",
         "vsn"
     ],
-    "xcore": [
-        "MultiAssayExperiment"
-    ],
+    "xcore": [],
     "XDE": [
         "GeneMeta",
-        "genefilter",
         "multtest",
         "siggenes"
     ],
     "Xeva": [
         "CoreGx",
-        "MultiAssayExperiment",
         "PharmacoGx",
         "piano"
     ],
@@ -5661,18 +4749,15 @@
         "ggbio"
     ],
     "yarn": [
-        "DelayedMatrixStats",
         "GEOquery",
         "HDF5Array",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "quantro",
         "siggenes"
     ],
     "zellkonverter": [
-        "SingleCellExperiment",
         "basilisk",
         "basilisk.utils"
     ],
@@ -5684,10 +4769,7 @@
         "pathview",
         "safe"
     ],
-    "zinbwave": [
-        "SingleCellExperiment",
-        "genefilter"
-    ],
+    "zinbwave": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
