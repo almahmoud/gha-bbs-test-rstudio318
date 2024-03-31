@@ -70,7 +70,6 @@
     "affy": [
         "affyio"
     ],
-    "affycomp": [],
     "affyContam": [
         "affy",
         "affyio"
@@ -876,8 +875,7 @@
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
-        "rsbml"
+        "hypergraph"
     ],
     "bigmelon": [
         "BiocIO",
@@ -3236,7 +3234,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "DMRcaller": [],
     "DMRcate": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -4434,7 +4431,6 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -4995,7 +4991,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "HELP": [],
     "hermes": [
         "DESeq2",
         "MultiAssayExperiment",
@@ -5172,7 +5167,6 @@
         "BiocIO",
         "DelayedMatrixStats",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5232,7 +5226,6 @@
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
-    "IgGeneUsage": [],
     "igvR": [
         "BSgenome",
         "BiocIO",
@@ -5465,7 +5458,6 @@
         "biomaRt"
     ],
     "IsoBayes": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -5813,7 +5805,6 @@
         "affy",
         "affyio"
     ],
-    "MANOR": [],
     "maPredictDSC": [
         "affy",
         "affyio",
@@ -6191,7 +6182,6 @@
         "rhdf5filters",
         "rtracklayer"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -7050,7 +7040,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "multiMiR": [],
     "MultimodalExperiment": [
         "MultiAssayExperiment"
     ],
@@ -7463,7 +7452,6 @@
     "omicade4": [
         "made4"
     ],
-    "OmicCircos": [],
     "omicplotR": [
         "ALDEx2",
         "multtest"
@@ -8494,8 +8482,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBioFormats": [],
-    "RBioinf": [],
     "RBM": [
         "marray"
     ],
@@ -9263,7 +9249,6 @@
     "Rsamtools": [
         "Rhtslib"
     ],
-    "rsbml": [],
     "rScudo": [],
     "RSVSim": [
         "GenomicAlignments",
@@ -10371,8 +10356,7 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
-        "RBioFormats"
+        "NanoStringNCTools"
     ],
     "spatzie": [
         "AnnotationFilter",
@@ -10671,7 +10655,6 @@
     "SynExtend": [
         "DECIPHER"
     ],
-    "synlet": [],
     "syntenet": [
         "BiocIO",
         "GenomicAlignments",
