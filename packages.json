@@ -161,7 +161,6 @@
         "pathview"
     ],
     "biosigner": [],
-    "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
         "CGHcall",
@@ -326,7 +325,6 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
@@ -368,7 +366,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "cogeqc": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -1312,7 +1309,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "orthos": [],
     "OTUbase": [],
     "OutSplice": [
         "Repitools",
