@@ -100,7 +100,6 @@
     "annmap": [],
     "AnnotationHubData": [],
     "annotatr": [],
-    "anota": [],
     "anota2seq": [],
     "APAlyzer": [],
     "APL": [],
@@ -2443,9 +2442,7 @@
     "transformGamPoi": [
         "glmGamPoi"
     ],
-    "tRanslatome": [
-        "anota"
-    ],
+    "tRanslatome": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -2505,12 +2502,10 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "ViSEAGO": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "gwascat"
     ],
