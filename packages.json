@@ -183,7 +183,6 @@
         "phyloseq",
         "zinbwave"
     ],
-    "BgeeCall": [],
     "bgx": [],
     "BicARE": [],
     "BiGGR": [],
@@ -500,8 +499,7 @@
         "RUVSeq"
     ],
     "consensusOV": [
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "contiBAIT": [
         "GenomicFiles"
@@ -967,14 +965,12 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "genefu": [],
     "geneRecommender": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -1035,7 +1031,6 @@
     ],
     "GOstats": [],
     "GOTHiC": [],
-    "GRaNIE": [],
     "GraphPAC": [
         "iPAC"
     ],
@@ -1631,12 +1626,10 @@
         "biovizBase"
     ],
     "OLINgui": [],
-    "omicade4": [],
     "omicplotR": [
         "ALDEx2"
     ],
     "omicRexposome": [
-        "omicade4",
         "sva"
     ],
     "OMICsPCA": [
@@ -1691,8 +1684,7 @@
     ],
     "PCAtools": [],
     "PDATK": [
-        "CoreGx",
-        "genefu"
+        "CoreGx"
     ],
     "PeacoQC": [
         "flowWorkspace",
@@ -1758,7 +1750,6 @@
         "MSnbase",
         "mzID"
     ],
-    "proActiv": [],
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
@@ -2135,8 +2126,7 @@
     "signifinder": [
         "GSVA",
         "SpatialExperiment",
-        "consensusOV",
-        "genefu"
+        "consensusOV"
     ],
     "SigsPack": [],
     "SIM": [],
