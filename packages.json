@@ -173,7 +173,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "TFBSTools",
         "motifStack"
@@ -244,7 +243,6 @@
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "biodbKegg": [],
-    "biodbNci": [],
     "biomformat": [],
     "biomvRCNS": [
         "Gviz",
@@ -428,7 +426,6 @@
         "Gviz",
         "biovizBase",
         "bsseq",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -1206,7 +1203,6 @@
         "cBioPortalData"
     ],
     "GOpro": [],
-    "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -1293,7 +1289,6 @@
     "ideal": [
         "Category",
         "GOstats",
-        "goseq",
         "pcaExplorer"
     ],
     "igvR": [],
@@ -1502,7 +1497,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "MEDIPS": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR"
@@ -2105,7 +2099,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pwOmics": [],
     "qckitfastq": [
         "seqTools"
     ],
@@ -2226,9 +2219,7 @@
         "RcwlPipelines"
     ],
     "RgnTX": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
         "ORFik"
@@ -2519,9 +2510,7 @@
     "slingshot": [
         "TrajectoryUtils"
     ],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "aCGH",
         "tilingArray"
@@ -2674,7 +2663,6 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
     ],
