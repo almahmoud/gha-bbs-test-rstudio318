@@ -103,7 +103,6 @@
     "anota": [],
     "anota2seq": [],
     "APAlyzer": [],
-    "apComplex": [],
     "APL": [],
     "appreci8R": [
         "GenomicScores"
@@ -998,7 +997,6 @@
     "GARS": [
         "DaMiRseq",
         "EDASeq",
-        "MLSeq",
         "sva"
     ],
     "GateFinder": [
@@ -1510,7 +1508,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
