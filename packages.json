@@ -305,7 +305,6 @@
         "biomaRt",
         "interactiveDisplayBase"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationHub",
         "GenomicFeatures",
@@ -463,8 +462,7 @@
         "GSEABase"
     ],
     "autonomics": [
-        "MultiAssayExperiment",
-        "pcaMethods"
+        "MultiAssayExperiment"
     ],
     "AWFisher": [],
     "awst": [],
@@ -494,7 +492,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "barcodetrackR": [],
@@ -567,7 +564,6 @@
         "biomaRt"
     ],
     "BCRANK": [],
-    "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -629,7 +625,6 @@
         "GSEABase",
         "multtest"
     ],
-    "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw"
@@ -829,7 +824,6 @@
     ],
     "BLMA": [
         "KEGGgraph",
-        "PADOG",
         "ROntoTools",
         "Rgraphviz"
     ],
@@ -984,7 +978,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -1420,7 +1413,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -1432,7 +1424,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "clusterExperiment": [
@@ -1634,8 +1625,7 @@
         "RUVSeq",
         "ShortRead",
         "biomaRt",
-        "ensembldb",
-        "pcaMethods"
+        "ensembldb"
     ],
     "consensusOV": [
         "AIMS",
@@ -1712,7 +1702,6 @@
     "CoSIA": [
         "AnnotationHub",
         "ExperimentHub",
-        "annotationTools",
         "biomaRt",
         "interactiveDisplayBase"
     ],
@@ -1727,7 +1716,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -1997,7 +1985,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "tkWidgets",
         "vsn"
     ],
@@ -2036,9 +2023,7 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "DeconRNASeq": [
-        "pcaMethods"
-    ],
+    "DeconRNASeq": [],
     "decontX": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -2131,7 +2116,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "DepecheR": [
@@ -2172,8 +2156,7 @@
         "SpatialExperiment"
     ],
     "destiny": [
-        "SingleCellExperiment",
-        "pcaMethods"
+        "SingleCellExperiment"
     ],
     "DEsubs": [
         "DESeq2"
@@ -2203,8 +2186,7 @@
         "systemPipeR"
     ],
     "diffcoexp": [
-        "multtest",
-        "pcaMethods"
+        "multtest"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -2294,7 +2276,6 @@
         "regioneR",
         "rhdf5"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "GenomicFeatures",
         "bamsignals",
@@ -2406,7 +2387,6 @@
         "GSVA",
         "HDF5Array",
         "KEGGgraph",
-        "PADOG",
         "Rgraphviz",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -2793,7 +2773,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -2836,7 +2815,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "cytolib",
         "flowCore"
@@ -2950,7 +2928,6 @@
         "HDF5Array",
         "OUTRIDER",
         "biomaRt",
-        "pcaMethods",
         "rhdf5"
     ],
     "frma": [],
@@ -3733,7 +3710,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3873,7 +3849,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "fgsea",
-        "pcaMethods",
         "ropls"
     ],
     "LiquidAssociation": [],
@@ -3898,7 +3873,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4001,9 +3975,7 @@
         "TRESS",
         "biomaRt"
     ],
-    "MAI": [
-        "pcaMethods"
-    ],
+    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -4016,7 +3988,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4060,7 +4031,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "interactiveDisplayBase",
-        "pcaMethods",
         "proDA",
         "vsn"
     ],
@@ -4230,7 +4200,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4634,7 +4603,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4783,7 +4751,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "msmsTests": [
@@ -4791,13 +4758,11 @@
         "msmsEDA",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnbase": [
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnID": [
@@ -4808,12 +4773,10 @@
         "msmsTests",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSPrep": [
         "genefilter",
-        "pcaMethods",
         "sva"
     ],
     "msPurity": [
@@ -4852,7 +4815,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -4861,7 +4823,6 @@
         "MSstatsQC",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -4885,7 +4846,6 @@
     "MultiBaC": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "pcaMethods",
         "ropls"
     ],
     "multiClust": [],
@@ -5037,7 +4997,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -5046,7 +5005,6 @@
         "RCy3",
         "Rgraphviz"
     ],
-    "ncRNAtools": [],
     "ndexr": [],
     "nearBynding": [
         "GenomicFeatures",
@@ -5228,7 +5186,6 @@
         "genefilter",
         "made4",
         "omicade4",
-        "pcaMethods",
         "rexposome",
         "sva"
     ],
@@ -5331,8 +5288,7 @@
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures",
-        "biomaRt",
-        "pcaMethods"
+        "biomaRt"
     ],
     "OutSplice": [
         "GenomicFeatures",
@@ -5349,7 +5305,6 @@
     "padma": [
         "MultiAssayExperiment"
     ],
-    "PADOG": [],
     "pageRank": [
         "CNEr",
         "DirichletMultinomial",
@@ -5368,7 +5323,6 @@
         "genefilter",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -5384,7 +5338,6 @@
         "multtest"
     ],
     "panp": [],
-    "PANR": [],
     "pareg": [
         "DOSE",
         "GOSemSim",
@@ -5424,7 +5377,6 @@
         "genefilter",
         "topGO"
     ],
-    "pcaMethods": [],
     "PCAN": [],
     "PCAtools": [
         "BiocSingular",
@@ -5455,7 +5407,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "PECA": [
@@ -5493,8 +5444,7 @@
     "phemd": [
         "SingleCellExperiment",
         "destiny",
-        "monocle",
-        "pcaMethods"
+        "monocle"
     ],
     "phenomis": [
         "MultiAssayExperiment",
@@ -5514,9 +5464,7 @@
         "ggtree"
     ],
     "PhIPData": [],
-    "PhosR": [
-        "pcaMethods"
-    ],
+    "PhosR": [],
     "PhyloProfile": [
         "AnnotationHub",
         "ExperimentHub",
@@ -5586,9 +5534,7 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmp": [
-        "pcaMethods"
-    ],
+    "pmp": [],
     "podkat": [],
     "pogos": [
         "AnnotationHub",
@@ -5649,7 +5595,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "proActiv": [
@@ -5689,7 +5634,6 @@
         "genefilter",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "pRolocGUI": [
@@ -5700,7 +5644,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "PROMISE": [
@@ -5724,7 +5667,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "tkWidgets",
         "vsn"
     ],
@@ -5766,7 +5708,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "rhdf5",
         "vsn"
     ],
@@ -5818,7 +5759,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "qsea": [],
@@ -6123,9 +6063,7 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "rexposome": [
-        "pcaMethods"
-    ],
+    "rexposome": [],
     "rfaRm": [],
     "Rfastp": [],
     "rfPred": [],
@@ -6146,7 +6084,6 @@
         "GenomicFeatures",
         "biomaRt"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "DESeq2",
         "GenomicFeatures",
@@ -6214,7 +6151,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -6242,7 +6178,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "Rmmquant": [
@@ -6373,7 +6308,6 @@
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rRDP": [],
     "rrvgo": [
         "GOSemSim"
@@ -6546,9 +6480,7 @@
         "Oscope",
         "SingleCellExperiment"
     ],
-    "scde": [
-        "pcaMethods"
-    ],
+    "scde": [],
     "scDesign3": [
         "SingleCellExperiment"
     ],
@@ -7122,8 +7054,7 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "pcaMethods"
+        "ggbio"
     ],
     "SOMNiBUS": [
         "AnnotationHub",
@@ -7366,7 +7297,6 @@
     "SubCellBarCode": [],
     "subSeq": [],
     "SUITOR": [],
-    "supersigs": [],
     "surfaltr": [
         "biomaRt",
         "msa"
@@ -7403,7 +7333,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "SynExtend": [
@@ -7472,11 +7401,9 @@
         "biomaRt"
     ],
     "TCseq": [],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "DOSE",
         "GOSemSim",
-        "TDbasedUFE",
         "enrichplot",
         "fgsea",
         "ggtree"
@@ -7590,7 +7517,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "topGO": [],
@@ -7786,7 +7712,6 @@
         "biomaRt"
     ],
     "universalmotif": [],
-    "updateObject": [],
     "uSORT": [
         "monocle"
     ],
@@ -7953,7 +7878,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "xcore": [
@@ -7988,8 +7912,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "gtrellis",
-        "pcaMethods"
+        "gtrellis"
     ],
     "yarn": [
         "DelayedMatrixStats",
