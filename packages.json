@@ -128,11 +128,7 @@
         "pRoloc"
     ],
     "basecallQC": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
-    ],
+    "BASiCStan": [],
     "BatchQC": [],
     "BBCAnalyzer": [],
     "BEAT": [],
@@ -838,7 +834,6 @@
     "ggspavis": [],
     "ggtreeDendro": [],
     "girafe": [],
-    "glmGamPoi": [],
     "gmapR": [],
     "GmicR": [
         "GOstats"
@@ -960,9 +955,7 @@
         "DSS"
     ],
     "KnowSeq": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
@@ -1673,7 +1666,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
@@ -1855,9 +1847,7 @@
     "transcriptR": [
         "chipseq"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [],
     "traviz": [
         "slingshot"
@@ -1904,7 +1894,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "velociraptor": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
