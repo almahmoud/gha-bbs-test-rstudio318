@@ -242,7 +242,6 @@
     "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocSklearn": [],
     "biodbKegg": [],
     "biodbNci": [],
@@ -756,7 +755,6 @@
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DEFormats": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
@@ -2210,7 +2208,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
@@ -2252,7 +2249,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
@@ -2341,7 +2337,6 @@
     "RUVSeq": [
         "EDASeq"
     ],
-    "RVS": [],
     "safe": [],
     "sampleClassifier": [],
     "sangeranalyseR": [],
