@@ -5,8 +5,7 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "affycoretools": [
         "GOstats",
@@ -80,7 +79,6 @@
     "AneuFinder": [],
     "AnnotationHubData": [],
     "annotatr": [],
-    "APAlyzer": [],
     "appreci8R": [],
     "arrayMvout": [
         "lumi",
@@ -1223,7 +1221,6 @@
     "MultiRNAflow": [
         "Mfuzz"
     ],
-    "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
     ],
@@ -1680,9 +1677,7 @@
     ],
     "slingshot": [],
     "SMITE": [],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "SNPhood": [],
     "soGGi": [
         "chipseq"
@@ -1766,7 +1761,6 @@
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "Mfuzz",
         "clusterProfiler",
