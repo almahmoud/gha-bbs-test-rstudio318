@@ -40,8 +40,6 @@
     "ACME": [],
     "ADaCGH2": [
         "aCGH",
-        "affy",
-        "affyio",
         "genefilter",
         "multtest",
         "snapCGH",
@@ -67,13 +65,8 @@
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
-    "affy": [
-        "affyio"
-    ],
-    "affyContam": [
-        "affy",
-        "affyio"
-    ],
+    "affy": [],
+    "affyContam": [],
     "affycoretools": [
         "AnnotationFilter",
         "AnnotationForge",
@@ -92,8 +85,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
-        "affyio",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -104,26 +95,16 @@
         "rtracklayer"
     ],
     "affyILM": [
-        "affy",
-        "affyio",
         "gcrma"
     ],
-    "affyio": [],
     "affylmGUI": [
-        "affy",
         "affyPLM",
-        "affyio",
         "gcrma"
     ],
     "affyPLM": [
-        "affy",
-        "affyio",
         "gcrma"
     ],
-    "AffyRNADegradation": [
-        "affy",
-        "affyio"
-    ],
+    "AffyRNADegradation": [],
     "AGDEX": [
         "GSEABase"
     ],
@@ -148,9 +129,7 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
         "affycoretools",
-        "affyio",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -211,18 +190,15 @@
         "alabaster.vcf",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "alabaster.base": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.bumpy": [
         "BumpyMatrix",
         "alabaster.base",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.files": [
         "BiocIO",
@@ -231,7 +207,6 @@
         "Rsamtools",
         "alabaster.base",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "alabaster.mae": [
@@ -241,19 +216,16 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.matrix": [
         "HDF5Array",
         "alabaster.base",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.ranges": [
         "alabaster.base",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.sce": [
         "HDF5Array",
@@ -262,16 +234,14 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.se": [
         "HDF5Array",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.spatial": [
         "HDF5Array",
@@ -282,13 +252,11 @@
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.string": [
         "alabaster.base",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "alabaster.vcf": [
         "BSgenome",
@@ -306,7 +274,6 @@
         "alabaster.string",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ALDEx2": [
@@ -328,13 +295,10 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "mixOmics"
     ],
     "altcdfenvs": [
-        "affy",
-        "affyio",
         "hypergraph",
         "makecdfenv"
     ],
@@ -344,8 +308,7 @@
         "HDF5Array",
         "MultiAssayExperiment",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "amplican": [
         "GenomicAlignments",
@@ -466,11 +429,9 @@
         "biomaRt",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ArrayExpress": [
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -483,9 +444,7 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
         "affyContam",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -494,7 +453,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -502,9 +460,7 @@
         "marray"
     ],
     "arrayQualityMetrics": [
-        "affy",
         "affyPLM",
-        "affyio",
         "beadarray",
         "gcrma",
         "genefilter",
@@ -564,7 +520,6 @@
         "projectR",
         "rGREAT",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ATACseqQC": [
@@ -590,7 +545,6 @@
         "multtest",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "ATACseqTFEA": [
@@ -689,8 +643,6 @@
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "biomaRt",
         "genefilter",
         "mzID",
@@ -735,7 +687,6 @@
         "bluster",
         "glmGamPoi",
         "rhdf5",
-        "rhdf5filters",
         "scran",
         "scuttle"
     ],
@@ -770,7 +721,6 @@
         "beachmat",
         "bluster",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle"
@@ -796,8 +746,7 @@
     "beachmat.hdf5": [
         "HDF5Array",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "beadarray": [],
     "beadarraySNP": [],
@@ -832,7 +781,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -843,7 +791,6 @@
         "multtest",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "zinbwave"
@@ -856,15 +803,12 @@
         "Rsamtools",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BgeeDB": [
         "topGO"
     ],
     "bgx": [
-        "affy",
-        "affyio",
         "gcrma"
     ],
     "BicARE": [
@@ -886,8 +830,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -896,7 +838,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "wateRmelon"
@@ -965,7 +906,6 @@
         "biomaRt",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BioCor": [
@@ -1015,8 +955,7 @@
     "bioDist": [],
     "biomaRt": [],
     "biomformat": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "BioMVCClass": [
         "Rgraphviz"
@@ -1105,7 +1044,6 @@
         "marray",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BiSeq": [
@@ -1143,15 +1081,12 @@
         "HiCBricks",
         "genefilter",
         "rhdf5",
-        "rhdf5filters",
         "sva"
     ],
     "bnem": [
         "CellNOptR",
         "Linnorm",
         "Rgraphviz",
-        "affy",
-        "affyio",
         "epiNEM",
         "genefilter",
         "mnem",
@@ -1187,7 +1122,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BPRMeth": [],
@@ -1263,7 +1197,6 @@
         "Rsamtools",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "BubbleTree": [
@@ -1319,8 +1252,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
-        "affyio",
         "biomaRt",
         "biovizBase",
         "ensembldb",
@@ -1395,8 +1326,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -1454,7 +1383,6 @@
     ],
     "CATALYST": [
         "BiocSingular",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -1575,8 +1503,6 @@
     "cellHTS2": [
         "Category",
         "GSEABase",
-        "affy",
-        "affyio",
         "genefilter",
         "vsn"
     ],
@@ -1619,7 +1545,6 @@
         "ggtree"
     ],
     "censcyt": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "diffcyt",
@@ -1630,8 +1555,7 @@
         "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "CeTF": [
         "DESeq2",
@@ -1714,8 +1638,6 @@
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
-        "affy",
-        "affyio",
         "beachmat",
         "biomaRt",
         "biovizBase",
@@ -1733,7 +1655,6 @@
         "missMethyl",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sva",
@@ -1746,8 +1667,7 @@
     ],
     "chihaya": [
         "HDF5Array",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "chimeraviz": [
         "AnnotationFilter",
@@ -1868,8 +1788,6 @@
     ],
     "ChIPXpress": [
         "GEOquery",
-        "affy",
-        "affyio",
         "frma",
         "oligo",
         "oligoClasses"
@@ -1887,7 +1805,6 @@
     "ChromSCape": [
         "BiocIO",
         "BiocSingular",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "ResidualMatrix",
@@ -1982,7 +1899,6 @@
         "beachmat",
         "bluster",
         "rhdf5",
-        "rhdf5filters",
         "scran",
         "scuttle"
     ],
@@ -2029,8 +1945,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -2045,8 +1959,6 @@
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -2061,7 +1973,6 @@
         "genefilter",
         "mbkmeans",
         "rhdf5",
-        "rhdf5filters",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -2083,11 +1994,9 @@
     "cmapR": [
         "cytolib",
         "flowCore",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "cn.farms": [
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -2096,7 +2005,6 @@
         "Rsamtools",
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "BiocIO",
         "GenomicAlignments",
@@ -2142,7 +2050,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "cnvGSA": [],
@@ -2165,7 +2072,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "CNVMetrics": [],
@@ -2205,7 +2111,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "codelink": [],
@@ -2221,8 +2126,7 @@
         "SingleCellExperiment",
         "biomaRt",
         "fgsea",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "cogeqc": [
         "ggtree"
@@ -2256,8 +2160,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "coMET": [
         "AnnotationFilter",
@@ -2334,7 +2237,6 @@
         "flowMeans",
         "flowMerge"
     ],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationFilter",
         "BiocIO",
@@ -2363,8 +2265,7 @@
         "beachmat",
         "biomaRt",
         "genefu",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "consensusSeekeR": [
         "BiocIO",
@@ -2404,7 +2305,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -2430,7 +2330,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "coRdon": [],
@@ -2441,10 +2340,7 @@
         "marray",
         "piano"
     ],
-    "Cormotif": [
-        "affy",
-        "affyio"
-    ],
+    "Cormotif": [],
     "corral": [
         "MultiAssayExperiment",
         "SingleCellExperiment"
@@ -2470,8 +2366,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -2493,7 +2387,6 @@
         "DESeq2",
         "genefilter"
     ],
-    "covEB": [],
     "CoverageView": [
         "BiocIO",
         "GenomicAlignments",
@@ -2571,7 +2464,6 @@
         "Rhtslib",
         "Rsamtools",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "CrispRVariants": [
@@ -2629,13 +2521,10 @@
         "rtracklayer"
     ],
     "crlmm": [
-        "affyio",
         "oligoClasses"
     ],
     "crossmeta": [
         "GEOquery",
-        "affy",
-        "affyio",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -2665,8 +2554,7 @@
         "AnnotationHub",
         "fgsea",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "CTSV": [
         "SingleCellExperiment",
@@ -2690,8 +2578,7 @@
     "CuratedAtlasQueryR": [
         "HDF5Array",
         "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "customCMPdb": [
         "AnnotationHub",
@@ -2729,7 +2616,6 @@
         "flowCore"
     ],
     "CyTOFpower": [
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
         "cytolib",
@@ -2739,7 +2625,6 @@
     "cytofQC": [
         "BiocSingular",
         "CATALYST",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -2757,8 +2642,7 @@
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "cytoMEM": [
         "cytolib",
@@ -2801,8 +2685,7 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "dada2": [
         "GenomicAlignments",
@@ -2856,8 +2739,6 @@
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -2943,7 +2824,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -2985,7 +2865,6 @@
         "Rgraphviz"
     ],
     "DEGreport": [
-        "ConsensusClusterPlus",
         "DESeq2"
     ],
     "DEGseq": [],
@@ -2998,8 +2877,7 @@
         "HDF5Array",
         "ScaledMatrix",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "DELocal": [
         "DESeq2"
@@ -3020,7 +2898,6 @@
         "bsseq",
         "genefilter",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "sva"
     ],
@@ -3045,8 +2922,6 @@
     "DEP": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -3158,7 +3033,6 @@
         "pcaMethods"
     ],
     "diffcyt": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "flowCore"
@@ -3177,7 +3051,6 @@
         "Rsamtools",
         "csaw",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "diffUTR": [
@@ -3262,7 +3135,6 @@
         "missMethyl",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -3285,7 +3157,6 @@
         "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "DNABarcodeCompatibility": [],
@@ -3316,8 +3187,6 @@
         "sva"
     ],
     "Doscheda": [
-        "affy",
-        "affyio",
         "vsn"
     ],
     "DOSE": [
@@ -3357,7 +3226,6 @@
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "scuttle"
     ],
     "drugTargetInteractions": [
@@ -3375,8 +3243,6 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "GEOquery",
-        "affy",
-        "affyio",
         "biomaRt",
         "oligo",
         "oligoClasses"
@@ -3392,7 +3258,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "dStruct": [],
@@ -3465,7 +3330,6 @@
         "multtest",
         "pathview",
         "rhdf5",
-        "rhdf5filters",
         "safe",
         "topGO"
     ],
@@ -3519,7 +3383,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -3642,7 +3505,6 @@
         "bamsignals",
         "csaw",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "EpiMix": [
@@ -3682,7 +3544,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -3812,8 +3673,7 @@
         "SingleCellExperiment",
         "UCell",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "escheR": [
         "SingleCellExperiment",
@@ -3840,7 +3700,6 @@
         "biomaRt",
         "fgsea",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "EWCE": [
@@ -3858,10 +3717,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "ExiMiR": [
-        "affy",
-        "affyio"
-    ],
+    "ExiMiR": [],
     "exomeCopy": [
         "Rhtslib",
         "Rsamtools"
@@ -3923,7 +3779,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "BiocIO",
@@ -3997,8 +3852,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -4007,7 +3860,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -4042,8 +3894,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -4078,7 +3928,6 @@
         "ensembldb",
         "ggbio",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scater",
         "scran",
@@ -4157,7 +4006,6 @@
         "flowCore"
     ],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "cytolib",
         "flowCore"
     ],
@@ -4220,19 +4068,13 @@
         "biomaRt",
         "pcaMethods",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "frma": [
-        "affy",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
-    "frmaTools": [
-        "affy",
-        "affyio"
-    ],
+    "frmaTools": [],
     "FunChIP": [
         "GenomicAlignments",
         "Rhtslib",
@@ -4253,7 +4095,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -4322,10 +4163,7 @@
     ],
     "gcatest": [],
     "gCrisprTools": [],
-    "gcrma": [
-        "affy",
-        "affyio"
-    ],
+    "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -4558,8 +4396,7 @@
         "AnnotationHub",
         "HDF5Array",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "GenomicSuperSignature": [],
     "GenomicTuples": [],
@@ -4593,23 +4430,17 @@
         "NanoStringNCTools"
     ],
     "GEOquery": [],
-    "GEOsubmission": [
-        "affy",
-        "affyio"
-    ],
+    "GEOsubmission": [],
     "GeoTcgaData": [
         "cqn"
     ],
     "gep2pep": [
         "GSEABase",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "gespeR": [
         "Category",
         "GSEABase",
-        "affy",
-        "affyio",
         "biomaRt",
         "cellHTS2",
         "genefilter",
@@ -4682,8 +4513,7 @@
         "HDF5Array",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "glmSparseNet": [
         "MultiAssayExperiment",
@@ -4833,8 +4663,7 @@
         "rtracklayer"
     ],
     "GSCA": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "gscreend": [],
     "GSEABase": [],
@@ -4879,8 +4708,7 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "gtrellis": [],
     "GUIDEseq": [
@@ -4899,7 +4727,6 @@
         "multtest",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Guitar": [
@@ -4957,27 +4784,21 @@
     "h5vc": [
         "Rhtslib",
         "Rsamtools",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
     ],
     "Harshlight": [
-        "affy",
-        "affyio",
         "altcdfenvs",
         "hypergraph",
         "makecdfenv"
     ],
     "hca": [],
     "HDF5Array": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "heatmaps": [],
     "HelloRanges": [
@@ -5008,13 +4829,11 @@
         "rtracklayer"
     ],
     "HiCBricks": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCcompare": [
         "InteractionSet",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCDCPlus": [
         "AnnotationFilter",
@@ -5037,21 +4856,18 @@
         "HiCcompare",
         "InteractionSet",
         "multiHiCcompare",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCExperiment": [
         "BiocIO",
         "InteractionSet",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiContacts": [
         "BiocIO",
         "HiCExperiment",
         "InteractionSet",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "HiCool": [
         "BiocIO",
@@ -5059,8 +4875,7 @@
         "InteractionSet",
         "basilisk",
         "basilisk.utils",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "hicVennDiagram": [
         "BiocIO",
@@ -5116,10 +4931,7 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "HTqPCR": [
-        "affy",
-        "affyio"
-    ],
+    "HTqPCR": [],
     "HTSeqGenie": [
         "BSgenome",
         "BiocIO",
@@ -5142,7 +4954,6 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
-    "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -5172,8 +4983,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -5182,7 +4991,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -5259,7 +5067,6 @@
         "beachmat",
         "cytomapper",
         "rhdf5",
-        "rhdf5filters",
         "scuttle"
     ],
     "ImmuneSpaceR": [
@@ -5299,7 +5106,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -5391,8 +5197,7 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "iPAC": [
         "multtest"
@@ -5412,8 +5217,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -5479,12 +5282,10 @@
         "tximeta"
     ],
     "isomiRs": [
-        "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2"
     ],
     "ITALICS": [
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -5499,7 +5300,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ivygapSE": [],
     "karyoploteR": [
         "AnnotationFilter",
         "BSgenome",
@@ -5556,7 +5356,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "KnowSeq": [
@@ -5576,8 +5375,7 @@
         "SingleCellExperiment",
         "beachmat",
         "glmGamPoi",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "limmaGUI": [],
     "LineagePulse": [
@@ -5630,8 +5428,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -5645,8 +5441,7 @@
         "BiocIO",
         "HDF5Array",
         "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "LPEadj": [],
     "lpNet": [
@@ -5668,8 +5463,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -5677,7 +5470,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -5697,12 +5489,10 @@
         "rtracklayer"
     ],
     "Maaslin2": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "Macarron": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "macat": [],
@@ -5738,7 +5528,6 @@
         "Rhtslib",
         "RnBeads",
         "Rsamtools",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "crlmm",
@@ -5748,7 +5537,6 @@
         "multtest",
         "oligoClasses",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "snpStats"
@@ -5792,8 +5580,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -5801,13 +5587,8 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [
-        "affy",
-        "affyio"
-    ],
+    "makecdfenv": [],
     "maPredictDSC": [
-        "affy",
-        "affyio",
         "gcrma"
     ],
     "mariner": [
@@ -5820,7 +5601,6 @@
         "plotgardener",
         "plyranges",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "marr": [],
@@ -5845,8 +5625,6 @@
     ],
     "maSigPro": [],
     "maskBAD": [
-        "affy",
-        "affyio",
         "gcrma"
     ],
     "massiR": [],
@@ -5863,8 +5641,6 @@
     "MatrixQCvis": [
         "AnnotationHub",
         "ExperimentHub",
-        "affy",
-        "affyio",
         "interactiveDisplayBase",
         "pcaMethods",
         "proDA",
@@ -5889,7 +5665,6 @@
         "multtest",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "sva"
     ],
     "mbkmeans": [
@@ -5898,12 +5673,10 @@
     ],
     "mBPCR": [
         "GWASTools",
-        "affyio",
         "oligoClasses"
     ],
     "MBQN": [],
     "mbQTL": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "MCbiclust": [],
@@ -5953,7 +5726,6 @@
         "missMethyl",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "sva"
@@ -5967,8 +5739,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -5977,7 +5747,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "wateRmelon"
@@ -6071,7 +5840,6 @@
         "rtracklayer"
     ],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "flowCore"
@@ -6083,9 +5851,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "metagenomeSeq": [
-        "Wrench"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "AnnotationFilter",
         "CAMERA",
@@ -6097,8 +5863,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -6138,14 +5902,11 @@
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
-        "affy",
-        "affyio",
         "beachmat",
         "biomaRt",
         "bsseq",
         "genefilter",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "vsn"
     ],
@@ -6179,7 +5940,6 @@
         "Rhtslib",
         "Rsamtools",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "MethylAid": [
@@ -6197,7 +5957,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6220,7 +5979,6 @@
         "multtest",
         "plyranges",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6247,7 +6005,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6274,7 +6031,6 @@
         "missMethyl",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6332,7 +6088,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "methylumi": [
@@ -6350,7 +6105,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6403,25 +6157,20 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "microbiomeDASim": [
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "microbiomeMarker": [
         "ALDEx2",
@@ -6435,7 +6184,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -6445,7 +6193,6 @@
         "multtest",
         "phyloseq",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle"
     ],
@@ -6477,9 +6224,7 @@
         "beachmat"
     ],
     "mimager": [
-        "affy",
         "affyPLM",
-        "affyio",
         "gcrma",
         "oligo",
         "oligoClasses"
@@ -6498,8 +6243,6 @@
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -6509,7 +6252,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6527,7 +6269,6 @@
         "genefilter",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6538,7 +6279,6 @@
         "Rhtslib",
         "Rsamtools",
         "VanillaICE",
-        "affyio",
         "crlmm",
         "oligoClasses",
         "rtracklayer"
@@ -6558,7 +6298,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "MiRaGE": [],
@@ -6596,7 +6335,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -6633,7 +6371,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "mnem": [
@@ -6653,8 +6390,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -6668,8 +6403,7 @@
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MOGAMUN": [
         "RCy3"
@@ -6682,8 +6416,7 @@
     "MoleculeExperiment": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MOMA": [
         "MultiAssayExperiment"
@@ -6732,9 +6465,7 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "MOSim": [],
     "Motif2Site": [
         "BSgenome",
@@ -6875,8 +6606,6 @@
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -6885,8 +6614,6 @@
     "msmsTests": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "msmsEDA",
         "mzID",
         "mzR",
@@ -6895,8 +6622,6 @@
     ],
     "MSnbase": [
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -6906,8 +6631,6 @@
         "AnnotationHub",
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests",
@@ -6960,8 +6683,6 @@
     "MSstatsQC": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -6972,8 +6693,6 @@
         "MSnbase",
         "MSstatsQC",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -6993,8 +6712,7 @@
     "MuData": [
         "MultiAssayExperiment",
         "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Mulcom": [],
     "MultiAssayExperiment": [],
@@ -7023,7 +6741,6 @@
         "plyranges",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "MultiDataSet": [],
@@ -7037,8 +6754,7 @@
     "multiHiCcompare": [
         "HiCcompare",
         "InteractionSet",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "MultimodalExperiment": [
         "MultiAssayExperiment"
@@ -7164,7 +6880,6 @@
         "multtest",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "trackViewer"
     ],
@@ -7181,7 +6896,6 @@
         "beachmat",
         "bsseq",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "NanoStringNCTools": [],
@@ -7207,8 +6921,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -7274,7 +6986,6 @@
         "genefilter",
         "mbkmeans",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scuttle",
         "zinbwave"
@@ -7302,7 +7013,6 @@
         "pandaR",
         "quantro",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "yarn"
@@ -7331,9 +7041,7 @@
     ],
     "NOISeq": [],
     "nondetects": [
-        "HTqPCR",
-        "affy",
-        "affyio"
+        "HTqPCR"
     ],
     "NoRCE": [
         "BiocIO",
@@ -7346,8 +7054,6 @@
     ],
     "normalize450K": [],
     "NormalyzerDE": [
-        "affy",
-        "affyio",
         "vsn"
     ],
     "NormqPCR": [
@@ -7406,7 +7112,6 @@
         "biomaRt",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "odseq": [
@@ -7431,12 +7136,9 @@
         "rtracklayer"
     ],
     "oligo": [
-        "affyio",
         "oligoClasses"
     ],
-    "oligoClasses": [
-        "affyio"
-    ],
+    "oligoClasses": [],
     "OLIN": [
         "marray"
     ],
@@ -7527,8 +7229,7 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "oppti": [],
     "optimalFlow": [
@@ -7588,8 +7289,7 @@
         "basilisk",
         "basilisk.utils",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Oscope": [],
     "OTUbase": [
@@ -7618,14 +7318,11 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "genefilter",
         "rtracklayer",
         "vsn"
     ],
-    "OVESEG": [],
     "PAA": [
         "genefilter",
         "sva"
@@ -7679,10 +7376,7 @@
         "ggtree",
         "multtest"
     ],
-    "panp": [
-        "affy",
-        "affyio"
-    ],
+    "panp": [],
     "PANR": [],
     "pareg": [
         "DOSE",
@@ -7709,8 +7403,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "pathRender": [
         "Rgraphviz"
@@ -7741,7 +7434,6 @@
     "PDATK": [
         "AIMS",
         "BumpyMatrix",
-        "ConsensusClusterPlus",
         "CoreGx",
         "MultiAssayExperiment",
         "biomaRt",
@@ -7751,7 +7443,6 @@
         "piano"
     ],
     "pdInfoBuilder": [
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -7765,8 +7456,6 @@
     "peakPantheR": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7774,8 +7463,6 @@
     ],
     "PECA": [
         "ROTS",
-        "affy",
-        "affyio",
         "genefilter"
     ],
     "peco": [
@@ -7801,8 +7488,7 @@
         "DESeq2",
         "GEOquery",
         "fgsea",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "phantasusLite": [
         "rhdf5client"
@@ -7854,8 +7540,7 @@
     "phyloseq": [
         "biomformat",
         "multtest",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Pi": [
         "Rgraphviz"
@@ -7915,11 +7600,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "planttfhunter": [],
-    "plier": [
-        "affy",
-        "affyio"
-    ],
+    "plier": [],
     "PloGO2": [
         "AnnotationForge",
         "Category",
@@ -7997,13 +7678,10 @@
         "RPA",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "preciseTAD": [
         "BiocIO",
@@ -8012,8 +7690,6 @@
         "Rhtslib",
         "Rsamtools",
         "aCGH",
-        "affy",
-        "affyio",
         "biomaRt",
         "multtest",
         "rCGH",
@@ -8043,14 +7719,11 @@
         "ensembldb",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -8107,8 +7780,6 @@
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "biomaRt",
         "genefilter",
         "mzID",
@@ -8120,8 +7791,6 @@
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "biomaRt",
         "genefilter",
         "mzID",
@@ -8145,8 +7814,6 @@
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -8173,8 +7840,6 @@
         "biomaRt"
     ],
     "protGear": [
-        "affy",
-        "affyio",
         "genefilter",
         "vsn"
     ],
@@ -8212,18 +7877,13 @@
     "ptairMS": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
         "rhdf5",
-        "rhdf5filters",
         "vsn"
     ],
     "puma": [
-        "affy",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -8237,16 +7897,10 @@
         "VariantAnnotation",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
-    "pvac": [
-        "affy",
-        "affyio"
-    ],
+    "pvac": [],
     "pvca": [
-        "affy",
-        "affyio",
         "vsn"
     ],
     "Pviz": [
@@ -8289,10 +7943,7 @@
     "qmtools": [
         "MsCoreUtils"
     ],
-    "qpcrNorm": [
-        "affy",
-        "affyio"
-    ],
+    "qpcrNorm": [],
     "qpgraph": [
         "BiocIO",
         "GenomicAlignments",
@@ -8306,8 +7957,6 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -8346,7 +7995,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -8472,7 +8120,6 @@
         "biomaRt",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Rbec": [
@@ -8510,8 +8157,6 @@
         "Rhtslib",
         "Rsamtools",
         "aCGH",
-        "affy",
-        "affyio",
         "biomaRt",
         "multtest",
         "rtracklayer"
@@ -8520,8 +8165,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "Rcpi": [
         "GOSemSim"
@@ -8552,8 +8196,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "recount": [
         "BSgenome",
@@ -8595,7 +8238,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -8642,7 +8284,6 @@
         "bluster",
         "fgsea",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle"
@@ -8718,7 +8359,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -8729,8 +8369,6 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "affy",
-        "affyio",
         "genefilter",
         "rtracklayer",
         "vsn"
@@ -8857,11 +8495,8 @@
         "goseq",
         "rtracklayer"
     ],
-    "rhdf5": [
-        "rhdf5filters"
-    ],
+    "rhdf5": [],
     "rhdf5client": [],
-    "rhdf5filters": [],
     "Rhisat2": [
         "BiocIO",
         "GenomicAlignments",
@@ -8912,8 +8547,7 @@
         "rtracklayer"
     ],
     "ribor": [
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "riboSeqR": [
         "Rhtslib",
@@ -8952,8 +8586,6 @@
         "rtracklayer"
     ],
     "Ringo": [
-        "affy",
-        "affyio",
         "genefilter",
         "vsn"
     ],
@@ -8967,8 +8599,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -9016,8 +8646,6 @@
         "ChemmineOB",
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9071,8 +8699,6 @@
     "RNAinteract": [
         "Category",
         "GSEABase",
-        "affy",
-        "affyio",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -9179,14 +8805,10 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
-    "Rnits": [
-        "affy",
-        "affyio"
-    ],
+    "Rnits": [],
     "roar": [
         "BiocIO",
         "GenomicAlignments",
@@ -9210,13 +8832,10 @@
     "ROSeq": [],
     "ROTS": [],
     "RPA": [
-        "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "rprimer": [],
     "Rqc": [
@@ -9351,8 +8970,6 @@
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "GEOquery",
-        "affy",
-        "affyio",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -9424,7 +9041,6 @@
         "SingleCellExperiment",
         "beachmat",
         "rhdf5",
-        "rhdf5filters",
         "scuttle"
     ],
     "scClassify": [
@@ -9433,8 +9049,7 @@
         "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "sccomp": [
         "SingleCellExperiment"
@@ -9506,7 +9121,6 @@
         "ensembldb",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scran",
         "scuttle"
@@ -9567,7 +9181,6 @@
         "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "SCnorm": [
@@ -9585,7 +9198,6 @@
         "SingleCellExperiment",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "Sconify": [
@@ -9637,7 +9249,6 @@
         "beachmat",
         "biomaRt",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scuttle"
     ],
@@ -9914,7 +9525,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -9933,7 +9543,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -9946,8 +9555,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SICtools": [
         "Rhtslib",
@@ -9975,8 +9583,7 @@
         "fgsea",
         "ggtree",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "signeR": [
         "BSgenome",
@@ -10011,7 +9618,6 @@
         "ensembldb",
         "genefu",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "SigsPack": [
@@ -10025,7 +9631,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "sigsquared": [],
     "SIM": [
         "globaltest"
     ],
@@ -10034,8 +9639,6 @@
     ],
     "SimBindProfiles": [
         "Ringo",
-        "affy",
-        "affyio",
         "genefilter",
         "vsn"
     ],
@@ -10045,8 +9648,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SIMD": [
         "methylMnM"
@@ -10061,8 +9663,7 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "simplifyEnrichment": [
         "GOSemSim"
@@ -10120,7 +9721,6 @@
         "interactiveDisplayBase",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "scDblFinder",
         "scMerge",
@@ -10179,8 +9779,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -10189,7 +9787,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes",
         "wateRmelon"
@@ -10215,8 +9812,6 @@
     ],
     "snapCGH": [
         "aCGH",
-        "affy",
-        "affyio",
         "genefilter",
         "multtest",
         "tilingArray",
@@ -10284,7 +9879,6 @@
         "interactiveDisplayBase",
         "regioneR",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "SpacePAC": [
@@ -10301,7 +9895,6 @@
         "beachmat",
         "bluster",
         "rhdf5",
-        "rhdf5filters",
         "scater",
         "scran",
         "scuttle"
@@ -10390,8 +9983,7 @@
     "SpectralTAD": [
         "HiCcompare",
         "InteractionSet",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SPEM": [],
     "SPIA": [
@@ -10421,7 +10013,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "spkTools": [],
     "splatter": [
         "DelayedMatrixStats",
         "SingleCellExperiment",
@@ -10442,7 +10033,6 @@
         "interactiveDisplayBase",
         "ompBAM",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "SplicingFactory": [],
@@ -10477,8 +10067,7 @@
     "SpotClean": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SPOTlight": [
         "SingleCellExperiment"
@@ -10489,8 +10078,7 @@
         "biomformat",
         "multtest",
         "phyloseq",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "SQLDataFrame": [],
     "SRAdb": [
@@ -10540,8 +10128,6 @@
     "staRank": [
         "Category",
         "GSEABase",
-        "affy",
-        "affyio",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -10551,10 +10137,7 @@
         "graphite",
         "miRNAtap"
     ],
-    "STATegRa": [
-        "affy",
-        "affyio"
-    ],
+    "STATegRa": [],
     "Statial": [
         "SingleCellExperiment",
         "SpatialExperiment"
@@ -10644,8 +10227,6 @@
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -10690,8 +10271,7 @@
     "TADCompare": [
         "HiCcompare",
         "InteractionSet",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "tanggle": [
         "ggtree"
@@ -10724,7 +10304,6 @@
         "beachmat",
         "genefilter",
         "rhdf5",
-        "rhdf5filters",
         "singscore",
         "sva"
     ],
@@ -10783,7 +10362,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "BiocIO",
         "GenomicAlignments",
@@ -10842,8 +10420,6 @@
     "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
-        "affy",
-        "affyio",
         "genefilter",
         "vsn"
     ],
@@ -10905,8 +10481,7 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "tomoda": [],
     "tomoseqr": [],
@@ -10918,8 +10493,6 @@
     "topdownr": [
         "MSnbase",
         "MsCoreUtils",
-        "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10958,7 +10531,6 @@
         "biovizBase",
         "ensembldb",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "tradeSeq": [
@@ -10990,8 +10562,7 @@
         "SingleCellExperiment",
         "beachmat",
         "glmGamPoi",
-        "rhdf5",
-        "rhdf5filters"
+        "rhdf5"
     ],
     "transite": [],
     "tRanslatome": [
@@ -11021,7 +10592,6 @@
         "slingshot"
     ],
     "treekoR": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "SingleCellExperiment",
         "cytolib",
@@ -11090,8 +10660,6 @@
     ],
     "TTMap": [],
     "TurboNorm": [
-        "affy",
-        "affyio",
         "convert",
         "marray"
     ],
@@ -11189,9 +10757,7 @@
     ],
     "UNDO": [],
     "unifiedWMWqPCR": [
-        "HTqPCR",
-        "affy",
-        "affyio"
+        "HTqPCR"
     ],
     "UniProt.ws": [],
     "Uniquorn": [
@@ -11226,7 +10792,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "affyio",
         "crlmm",
         "oligoClasses",
         "rtracklayer"
@@ -11273,7 +10838,6 @@
         "ensembldb",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer"
     ],
     "VariantTools": [
@@ -11356,10 +10920,7 @@
     "vsclust": [
         "MultiAssayExperiment"
     ],
-    "vsn": [
-        "affy",
-        "affyio"
-    ],
+    "vsn": [],
     "vtpnet": [
         "AnnotationHub",
         "BSgenome",
@@ -11410,8 +10971,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "affy",
-        "affyio",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -11420,7 +10979,6 @@
         "minfi",
         "multtest",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
@@ -11434,8 +10992,6 @@
         "rtracklayer"
     ],
     "webbioc": [
-        "affy",
-        "affyio",
         "annaffy",
         "gcrma",
         "multtest",
@@ -11453,7 +11009,6 @@
     ],
     "wpm": [],
     "wppi": [],
-    "Wrench": [],
     "xcms": [
         "AnnotationFilter",
         "MSnbase",
@@ -11464,8 +11019,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "affy",
-        "affyio",
         "multtest",
         "mzID",
         "mzR",
@@ -11537,7 +11090,6 @@
         "multtest",
         "quantro",
         "rhdf5",
-        "rhdf5filters",
         "rtracklayer",
         "siggenes"
     ],
