@@ -267,7 +267,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "bsseq": [],
     "BubbleTree": [
         "biovizBase"
@@ -560,7 +559,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -693,7 +691,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
     "DeMixT": [
@@ -822,7 +819,6 @@
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot"
     ],
@@ -836,7 +832,6 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1144,7 +1139,6 @@
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1270,9 +1264,7 @@
     "IsoformSwitchAnalyzeR": [
         "sva"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "karyoploteR": [
         "biovizBase"
     ],
@@ -1669,7 +1661,6 @@
         "ropls"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "biovizBase",
         "karyoploteR"
     ],
@@ -2159,7 +2150,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
@@ -2553,13 +2543,8 @@
     "trio": [
         "siggenes"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
