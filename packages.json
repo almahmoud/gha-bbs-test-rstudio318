@@ -23,7 +23,6 @@
     "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
-    "affyContam": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -45,7 +44,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
@@ -171,7 +169,6 @@
     ],
     "ArrayExpress": [],
     "arrayMvout": [
-        "affyContam",
         "bumphunter",
         "lumi",
         "methylumi",
@@ -408,10 +405,8 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
-    "BSgenomeForge": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -592,7 +587,6 @@
         "biovizBase"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -837,7 +831,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
     "CRImage": [
@@ -1005,7 +998,6 @@
     ],
     "deconvR": [
         "bumphunter",
-        "methylKit",
         "minfi",
         "siggenes"
     ],
@@ -1122,7 +1114,6 @@
         "vsn"
     ],
     "DOSE": [],
-    "doseR": [],
     "doubletrouble": [
         "syntenet"
     ],
@@ -1195,8 +1186,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1273,8 +1263,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -1284,7 +1273,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
         "SGSeq"
@@ -2097,9 +2085,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -2134,10 +2120,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -2694,7 +2677,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "plier": [],
     "PloGO2": [
         "Category",
@@ -2826,7 +2808,6 @@
         "CGHcall"
     ],
     "QFeatures": [],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID",
@@ -3087,7 +3068,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -3101,9 +3081,7 @@
         "minfi",
         "siggenes"
     ],
-    "Rnits": [],
     "roar": [],
-    "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
