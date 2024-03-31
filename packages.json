@@ -278,7 +278,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -1002,7 +1001,6 @@
     "Macarron": [
         "Maaslin2"
     ],
-    "MACSr": [],
     "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
@@ -1671,9 +1669,7 @@
     "scBFA": [],
     "scBubbletree": [],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [],
     "scDDboost": [],
     "SCFA": [],
@@ -1821,7 +1817,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "sSNAPPY": [],
     "standR": [
         "EDASeq",
         "RUVSeq"
