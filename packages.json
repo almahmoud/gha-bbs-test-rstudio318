@@ -679,7 +679,6 @@
         "GSVA",
         "genefu"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -782,7 +781,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
@@ -938,7 +936,6 @@
     "distinct": [],
     "dittoSeq": [],
     "divergence": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "biovizBase",
@@ -1040,7 +1037,6 @@
         "enrichplot",
         "genomation"
     ],
-    "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
@@ -2144,7 +2140,6 @@
     ],
     "nondetects": [],
     "NoRCE": [],
-    "normalize450K": [],
     "NormalyzerDE": [],
     "NormqPCR": [],
     "normr": [
@@ -2277,7 +2272,6 @@
     ],
     "PECA": [],
     "peco": [],
-    "periodicDNA": [],
     "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
@@ -2551,7 +2545,6 @@
     "Rfastp": [],
     "rGADEM": [],
     "rGenomeTracks": [],
-    "RGMQL": [],
     "RgnTX": [
         "regioneR"
     ],
@@ -2592,9 +2585,7 @@
         "xcms"
     ],
     "RITAN": [],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "regioneR"
     ],
@@ -3127,7 +3118,6 @@
     "tRanslatome": [
         "anota"
     ],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -3250,7 +3240,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
