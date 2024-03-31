@@ -147,7 +147,6 @@
     ],
     "anota": [],
     "anota2seq": [],
-    "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [],
     "apComplex": [],
@@ -464,13 +463,11 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [],
     "CellBench": [],
     "cellHTS2": [
         "Category"
     ],
     "CelliD": [],
-    "cellity": [],
     "CellMixS": [],
     "CellNOptR": [],
     "CellTrails": [],
@@ -673,7 +670,6 @@
     "CODEX": [],
     "CoGAPS": [],
     "cogeqc": [],
-    "Cogito": [],
     "cola": [],
     "comapr": [
         "Gviz",
@@ -773,7 +769,6 @@
     ],
     "crisprScore": [],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
@@ -1208,7 +1203,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [],
     "ffpe": [
         "bumphunter",
         "lumi",
@@ -1326,7 +1320,6 @@
         "OUTRIDER"
     ],
     "frma": [],
-    "FunChIP": [],
     "funtooNorm": [
         "bumphunter",
         "minfi",
@@ -1845,9 +1838,7 @@
         "QFeatures",
         "Spectra"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
         "KEGGgraph",
@@ -2525,13 +2516,11 @@
     ],
     "puma": [],
     "PureCN": [],
-    "pvac": [],
     "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
     ],
-    "PWMEnrich": [],
     "pwOmics": [],
     "qckitfastq": [
         "seqTools"
@@ -2609,7 +2598,6 @@
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
@@ -2671,9 +2659,7 @@
         "ggbio"
     ],
     "RepViz": [],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns"
     ],
@@ -2737,7 +2723,6 @@
         "mzID"
     ],
     "Rmmquant": [],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "bumphunter",
@@ -2947,7 +2932,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "seqCAT": [],
     "SeqGate": [],
     "SeqGSEA": [],
@@ -3007,7 +2991,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
@@ -3166,10 +3149,7 @@
         "SpatialExperiment"
     ],
     "strandCheckR": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "sva": [],
     "svaNUMT": [
