@@ -889,7 +889,6 @@
     "erma": [
         "GenomicFiles"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "TFBSTools",
@@ -1813,7 +1812,6 @@
     ],
     "nondetects": [],
     "NormalyzerDE": [],
-    "NormqPCR": [],
     "normr": [],
     "npGSEA": [],
     "nucleR": [],
@@ -2688,7 +2686,6 @@
     "velociraptor": [],
     "vidger": [],
     "ViSEAGO": [],
-    "vissE": [],
     "Voyager": [
         "SpatialExperiment",
         "SpatialFeatureExperiment"
