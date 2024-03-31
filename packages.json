@@ -259,7 +259,6 @@
         "MAST",
         "Maaslin2",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq",
         "zinbwave"
     ],
@@ -288,15 +287,13 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
-        "geNetClassifier"
+        "enrichplot"
     ],
     "biocGraph": [],
     "BiocHail": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
-    "BiocPkgTools": [],
     "BiocSet": [],
     "BiocSklearn": [],
     "biodbChebi": [],
@@ -423,7 +420,6 @@
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "phenoTest"
     ],
     "cardelino": [],
@@ -593,7 +589,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq",
         "ShortRead"
@@ -1164,7 +1159,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "clusterProfiler",
@@ -1368,7 +1362,6 @@
     ],
     "gatom": [],
     "GBScleanR": [],
-    "gCrisprTools": [],
     "gcrma": [],
     "GDCRNATools": [
         "DOSE",
@@ -1419,7 +1412,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [],
     "geneXtendeR": [],
     "genomation": [],
@@ -1657,7 +1649,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category"
     ],
@@ -1771,12 +1762,9 @@
     ],
     "LymphoSeq": [],
     "m6Aboost": [],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "MACSr": [],
     "MADSEQ": [],
@@ -1836,9 +1824,7 @@
     ],
     "mbkmeans": [],
     "mBPCR": [],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "mCSEA": [
         "Gviz",
         "OrganismDbi",
@@ -1898,7 +1884,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1984,18 +1969,15 @@
     ],
     "microbiomeDASim": [
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
-        "biomformat",
-        "metagenomeSeq"
+        "biomformat"
     ],
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -2058,8 +2040,7 @@
     "MLInterfaces": [],
     "MLSeq": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [],
@@ -2095,7 +2076,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -2650,7 +2630,6 @@
         "dada2"
     ],
     "RBM": [],
-    "Rbowtie2": [],
     "RCAS": [
         "genomation"
     ],
@@ -2775,7 +2754,6 @@
         "motifStack"
     ],
     "rifi": [],
-    "rifiComparative": [],
     "Ringo": [],
     "Risa": [
         "MSnbase",
@@ -2954,7 +2932,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [],
     "scp": [
         "QFeatures"
@@ -3282,7 +3259,6 @@
     "TCC": [],
     "TCGAbiolinks": [],
     "TCGAutils": [],
-    "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot"
@@ -3293,7 +3269,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
@@ -3356,7 +3331,6 @@
         "anota"
     ],
     "transomics2cytoscape": [],
-    "TransView": [],
     "traseR": [],
     "traviz": [
         "TrajectoryUtils",
@@ -3403,7 +3377,6 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "ShortRead",
         "regioneR"
     ],
