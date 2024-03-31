@@ -753,7 +753,6 @@
     "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "bsseq",
@@ -844,7 +843,6 @@
     "dyebias": [],
     "easier": [],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EDASeq": [],
     "edge": [
         "sva"
@@ -1162,7 +1160,6 @@
     ],
     "GEOmetadb": [],
     "GeomxTools": [],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1245,14 +1242,12 @@
     "HelloRanges": [],
     "hermes": [],
     "HERON": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiCExperiment": [],
@@ -1782,9 +1777,7 @@
         "karyoploteR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz"
@@ -1894,7 +1887,6 @@
         "HelloRanges"
     ],
     "omicsPrint": [],
-    "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
         "flowClust",
@@ -1914,7 +1906,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFik": [],
     "orthogene": [],
     "orthos": [],
     "OTUbase": [],
@@ -2212,9 +2203,7 @@
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -2548,9 +2537,7 @@
     ],
     "speckle": [],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -2625,9 +2612,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "TargetDecoy": [
         "mzID"
@@ -2652,9 +2637,7 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [],
