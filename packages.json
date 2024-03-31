@@ -159,7 +159,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
     "biomvRCNS": [
@@ -550,7 +549,6 @@
         "DSS"
     ],
     "demuxSNP": [],
-    "densvis": [],
     "DEP": [
         "MSnbase",
         "mzID"
