@@ -91,7 +91,6 @@
     ],
     "BioNERO": [],
     "BioNetStat": [],
-    "biosigner": [],
     "biscuiteer": [
         "QDNAseq",
         "dmrseq"
@@ -378,7 +377,6 @@
     "escheR": [],
     "EWCE": [],
     "ExperimentHubData": [],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -517,7 +515,6 @@
         "xcms"
     ],
     "iSEEhex": [],
-    "iSEEhub": [],
     "iSEEu": [
         "iSEEhex"
     ],
@@ -991,7 +988,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "SpatialDecon": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
