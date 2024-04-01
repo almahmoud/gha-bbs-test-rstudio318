@@ -227,15 +227,12 @@
         "mzID",
         "xcms"
     ],
-    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
-        "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
-        "Gviz",
-        "crisprDesign"
+        "Gviz"
     ],
     "cummeRbund": [
         "Gviz"
@@ -789,7 +786,6 @@
     "RAIDS": [],
     "RandomWalkRestartMH": [],
     "Rbec": [],
-    "RcwlPipelines": [],
     "ReactomePA": [],
     "rebook": [],
     "recount": [
@@ -809,9 +805,7 @@
         "ggbio"
     ],
     "RESOLVE": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RiboProfiling": [
         "ggbio"
     ],
