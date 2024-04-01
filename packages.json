@@ -946,9 +946,7 @@
     "prebs": [
         "RPA"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz"
     ],
@@ -1014,7 +1012,6 @@
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "Rbec": [],
-    "rCGH": [],
     "RCM": [],
     "RcwlPipelines": [],
     "ReactomePA": [],
