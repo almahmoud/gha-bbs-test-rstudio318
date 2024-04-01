@@ -534,7 +534,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot"
@@ -1224,7 +1223,6 @@
         "MSnbase",
         "mzID"
     ],
-    "PureCN": [],
     "Pviz": [
         "Gviz"
     ],
