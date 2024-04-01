@@ -506,10 +506,7 @@
         "mzID",
         "xcms"
     ],
-    "iSEEhex": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "karyoploteR": [],
     "kissDE": [
         "DSS"
@@ -725,7 +722,6 @@
     "OGRE": [
         "Gviz"
     ],
-    "omicplotR": [],
     "omicRexposome": [],
     "OMICsPCA": [],
     "openCyto": [
@@ -988,7 +984,6 @@
         "RUVSeq"
     ],
     "staRank": [],
-    "Statial": [],
     "svaNUMT": [],
     "svaRetro": [],
     "synapter": [
