@@ -494,7 +494,6 @@
         "ggbio"
     ],
     "GenomicPlot": [],
-    "GeoDiff": [],
     "GEOexplorer": [],
     "gespeR": [],
     "ggbio": [],
@@ -574,9 +573,7 @@
     "KnowSeq": [],
     "lemur": [],
     "lipidr": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -1078,7 +1075,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
@@ -1089,7 +1085,6 @@
         "motifmatchr"
     ],
     "SPIAT": [],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz"
     ],
