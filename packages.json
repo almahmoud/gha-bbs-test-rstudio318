@@ -389,7 +389,6 @@
         "FlowSOM"
     ],
     "DifferentialRegulation": [],
-    "diffHic": [],
     "diffUTR": [],
     "divergence": [],
     "DMRcate": [
@@ -456,7 +455,6 @@
     ],
     "escape": [],
     "escheR": [],
-    "EventPointer": [],
     "EWCE": [],
     "ExperimentHubData": [],
     "ExperimentSubset": [],
@@ -464,7 +462,6 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler"
     ],
