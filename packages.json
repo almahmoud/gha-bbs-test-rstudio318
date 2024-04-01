@@ -20,16 +20,13 @@
     ],
     "AHMassBank": [],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
     "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
@@ -48,11 +45,9 @@
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AllelicImbalance": [
         "Gviz"
@@ -591,9 +586,7 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GeoDiff": [],
     "GEOexplorer": [],
     "gespeR": [
@@ -1074,7 +1067,6 @@
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "Rbec": [],
-    "RCAS": [],
     "rCGH": [],
     "RCM": [],
     "RcwlPipelines": [],
