@@ -101,7 +101,6 @@
     "BASiCStan": [],
     "BatchQC": [],
     "benchdamic": [],
-    "BiGGR": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -362,7 +361,6 @@
     "cytoviewer": [
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -677,7 +675,6 @@
     ],
     "interactiveDisplay": [],
     "IntEREst": [],
-    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1088,9 +1085,7 @@
     "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [],
     "rCGH": [],
     "RCM": [],
