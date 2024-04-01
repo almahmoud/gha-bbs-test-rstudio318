@@ -7,13 +7,11 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
         "ggbio"
     ],
     "affylmGUI": [],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools",
         "ggbio"
@@ -68,9 +66,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "ballgown": [],
     "bandle": [
         "MSnbase",
@@ -146,9 +142,7 @@
         "cBioPortalData"
     ],
     "CATALYST": [],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -534,9 +528,7 @@
         "ncdfFlow"
     ],
     "ggspavis": [],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -544,7 +536,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -568,7 +559,6 @@
         "minfi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "imcRtools": [
@@ -722,7 +712,6 @@
     "microRNA": [],
     "mimager": [],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi",
         "minfi"
@@ -731,9 +720,7 @@
     "MinimumDistance": [],
     "MIRA": [],
     "mirIntegrator": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi",
         "minfi"
@@ -839,7 +826,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "minfi",
         "quantro",
         "yarn"
@@ -878,9 +864,7 @@
         "clusterProfiler"
     ],
     "PathoStat": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [
         "flowWorkspace",
@@ -903,9 +887,7 @@
     "PING": [
         "Gviz"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "pogos": [],
     "POWSC": [],
     "prebs": [
@@ -1002,7 +984,6 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
         "ggbio"
     ],
     "RESOLVE": [],
@@ -1083,7 +1064,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "meshr"
     ],
@@ -1102,9 +1082,7 @@
     "SeqSQC": [],
     "seqTools": [],
     "SEtools": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [
         "minfi"
     ],
