@@ -12,7 +12,6 @@
         "ReportingTools",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
@@ -1230,7 +1229,6 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "mzID"
@@ -1333,7 +1331,6 @@
         "mzID",
         "xcms"
     ],
-    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
