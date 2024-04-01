@@ -103,9 +103,7 @@
         "QDNAseq",
         "dmrseq"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
@@ -145,8 +143,7 @@
     ],
     "canceR": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CATALYST": [
         "FlowSOM"
@@ -750,9 +747,7 @@
     "minfi": [],
     "MinimumDistance": [],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
     ],
@@ -917,7 +912,6 @@
         "monocle"
     ],
     "phenomis": [],
-    "phenoTest": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1078,7 +1072,6 @@
         "methylumi",
         "minfi"
     ],
-    "ROntoTools": [],
     "RPA": [],
     "Rqc": [],
     "rqt": [],
