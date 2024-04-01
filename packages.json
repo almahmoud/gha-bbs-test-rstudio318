@@ -433,7 +433,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq"
     ],
@@ -873,12 +872,10 @@
     "maser": [
         "Gviz"
     ],
-    "maskBAD": [],
     "MatrixRider": [
         "TFBSTools"
     ],
     "MBECS": [],
-    "mbQTL": [],
     "mCSEA": [
         "Gviz"
     ],
@@ -1357,7 +1354,6 @@
         "derfinder",
         "recount"
     ],
-    "rnaEditr": [],
     "RNAinteract": [
         "cellHTS2"
     ],
@@ -1610,7 +1606,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz"
     ],
