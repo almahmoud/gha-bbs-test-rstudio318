@@ -380,7 +380,6 @@
     "doppelgangR": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe",
         "zenith"
     ],
@@ -399,7 +398,6 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "SPIA",
         "safe"
     ],
     "enrichTF": [
@@ -569,7 +567,6 @@
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe"
     ],
     "GUIDEseq": [],
@@ -612,7 +609,6 @@
     "intansv": [
         "ggbio"
     ],
-    "interactiveDisplay": [],
     "IntEREst": [],
     "IPO": [
         "CAMERA",
@@ -1190,7 +1186,6 @@
         "Gviz",
         "motifmatchr"
     ],
-    "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
     "SPLINTER": [
@@ -1304,7 +1299,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe"
     ]
 }
