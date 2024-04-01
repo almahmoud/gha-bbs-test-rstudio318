@@ -736,7 +736,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "PathoStat": [],
     "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [
@@ -811,9 +810,7 @@
     "qsmooth": [],
     "qsvaR": [],
     "quantro": [],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [],
     "R3CPET": [
         "ggbio"
@@ -959,7 +956,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -968,7 +964,6 @@
     "SPLINTER": [
         "Gviz"
     ],
-    "SPsimSeq": [],
     "srnadiff": [
         "Gviz"
     ],
