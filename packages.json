@@ -323,7 +323,6 @@
     ],
     "CNVPanelizer": [],
     "CNVRanger": [],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA"
     ],
@@ -468,7 +467,6 @@
     "DeMixT": [
         "DSS"
     ],
-    "demuxSNP": [],
     "DEP": [
         "MSnbase",
         "mzID"
@@ -1246,7 +1244,6 @@
         "enrichplot",
         "mzID"
     ],
-    "ProteoDisco": [],
     "psichomics": [
         "derfinder",
         "recount"
