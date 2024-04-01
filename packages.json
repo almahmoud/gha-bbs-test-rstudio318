@@ -97,9 +97,7 @@
         "Gviz"
     ],
     "BioNERO": [],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [],
     "biscuiteer": [
         "QDNAseq",
@@ -110,9 +108,7 @@
         "ROntoTools"
     ],
     "bnbc": [],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -273,7 +269,6 @@
         "xcms"
     ],
     "COTAN": [],
-    "CRImage": [],
     "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
@@ -342,16 +337,13 @@
         "clusterProfiler",
         "mzID"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity",
         "flowViz"
     ],
     "debrowser": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "decontX": [],
     "deconvR": [
@@ -392,14 +384,12 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe",
         "zenith"
     ],
     "DSS": [],
     "edge": [],
     "EGSEA": [
-        "pathview",
         "safe"
     ],
     "ELMER": [
@@ -413,7 +403,6 @@
     ],
     "EnrichmentBrowser": [
         "SPIA",
-        "pathview",
         "safe"
     ],
     "enrichTF": [
@@ -428,7 +417,6 @@
         "Gviz",
         "minfi"
     ],
-    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -538,8 +526,7 @@
         "flowViz"
     ],
     "GDCRNATools": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "gDNAx": [],
     "gDR": [
@@ -589,7 +576,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ],
     "GUIDEseq": [],
@@ -683,8 +669,7 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "MAIT": [
         "CAMERA",
@@ -887,9 +872,7 @@
         "mzID",
         "xcms"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -936,7 +919,6 @@
         "clusterProfiler"
     ],
     "PathoStat": [],
-    "pathview": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -1125,9 +1107,7 @@
     "RTCGAToolbox": [],
     "RUVSeq": [],
     "safe": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [],
     "SCArray.sat": [],
     "scBFA": [],
@@ -1338,7 +1318,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ]
 }
