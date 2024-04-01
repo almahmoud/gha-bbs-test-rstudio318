@@ -71,7 +71,6 @@
     "AllelicImbalance": [
         "Gviz"
     ],
-    "altcdfenvs": [],
     "amplican": [],
     "AneuFinder": [],
     "AnnotationHubData": [],
@@ -302,7 +301,6 @@
     "clusterProfiler": [
         "enrichplot"
     ],
-    "clusterSeq": [],
     "cmapR": [],
     "cn.mops": [],
     "CNORdt": [],
@@ -749,9 +747,7 @@
     ],
     "Gviz": [],
     "HarmonizR": [],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -1325,7 +1321,6 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -1456,7 +1451,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "consensusOV"
     ],
