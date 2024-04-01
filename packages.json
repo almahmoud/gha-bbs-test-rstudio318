@@ -191,7 +191,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "casper": [],
     "CATALYST": [
         "FlowSOM"
     ],
@@ -863,7 +862,6 @@
     "MetaboAnnotation": [
         "CompoundDb"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools"
     ],
