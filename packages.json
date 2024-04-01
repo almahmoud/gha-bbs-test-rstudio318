@@ -1001,7 +1001,6 @@
     ],
     "phenomis": [],
     "phenoTest": [],
-    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1213,7 +1212,6 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler"
