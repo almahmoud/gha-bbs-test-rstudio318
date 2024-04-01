@@ -87,7 +87,6 @@
     "biomvRCNS": [
         "Gviz"
     ],
-    "BioNERO": [],
     "BioNetStat": [],
     "biscuiteer": [
         "QDNAseq",
@@ -117,7 +116,6 @@
         "Gviz"
     ],
     "cageminer": [
-        "BioNERO",
         "ggbio"
     ],
     "CAGEr": [
