@@ -26,7 +26,6 @@
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.se"
     ],
@@ -1088,7 +1087,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
