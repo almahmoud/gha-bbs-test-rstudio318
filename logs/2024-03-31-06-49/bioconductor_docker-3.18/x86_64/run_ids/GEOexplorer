@@ -4,3 +4,5 @@ https://github.com/almahmoud/gha-bbs-test-rstudio318/actions/runs/8504575527/job
 almahmoud/gha-bbs-test-rstudio318/actions/runs/8504575527
 https://github.com/almahmoud/gha-bbs-test-rstudio318/actions/runs/8505330147/job/23294048902
 almahmoud/gha-bbs-test-rstudio318/actions/runs/8505330147
+https://github.com/almahmoud/gha-bbs-test-rstudio318/actions/runs/8506054892/job/23296773606
+almahmoud/gha-bbs-test-rstudio318/actions/runs/8506054892
