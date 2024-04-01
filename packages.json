@@ -113,7 +113,6 @@
         "GOstats"
     ],
     "ballgown": [],
-    "BANDITS": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -485,9 +484,7 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffHic": [],
     "diffUTR": [],
     "divergence": [],
@@ -713,7 +710,6 @@
     "GenomicPlot": [
         "RCAS"
     ],
-    "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [],
     "gespeR": [
@@ -1194,7 +1190,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plyinteractions": [],
     "pogos": [],
     "POWSC": [],
     "prebs": [
@@ -1442,7 +1437,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqCAT": [],
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
@@ -1602,7 +1596,6 @@
     "uncoverappLib": [
         "Gviz"
     ],
-    "Uniquorn": [],
     "uSORT": [
         "monocle"
     ],
