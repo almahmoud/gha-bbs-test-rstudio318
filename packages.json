@@ -602,7 +602,6 @@
     ],
     "methylumi": [],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -835,7 +834,6 @@
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "Rbec": [],
-    "RCM": [],
     "RcwlPipelines": [],
     "ReactomePA": [],
     "rebook": [],
