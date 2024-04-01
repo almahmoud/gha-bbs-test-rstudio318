@@ -155,7 +155,6 @@
     "cfdnakit": [
         "QDNAseq"
     ],
-    "cghMCR": [],
     "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
@@ -316,7 +315,6 @@
         "missMethyl"
     ],
     "dmrseq": [],
-    "doppelgangR": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
@@ -706,7 +704,6 @@
     "OGRE": [
         "Gviz"
     ],
-    "omicRexposome": [],
     "OMICsPCA": [],
     "openCyto": [
         "flowWorkspace"
@@ -877,7 +874,6 @@
     "RUVSeq": [],
     "safe": [],
     "SBGNview": [],
-    "SCAN.UPC": [],
     "scClassify": [],
     "SCFA": [],
     "scFeatures": [],
