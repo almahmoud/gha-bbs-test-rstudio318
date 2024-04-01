@@ -231,8 +231,7 @@
     ],
     "ChIPexoQual": [],
     "ChIPQC": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -420,9 +419,7 @@
     "DEScan2": [],
     "DESpace": [],
     "DExMA": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -1149,7 +1146,6 @@
     "REDseq": [],
     "regionalpcs": [],
     "RegionalST": [],
-    "regioneReloaded": [],
     "regionReport": [
         "derfinder"
     ],
@@ -1229,7 +1225,6 @@
         "pathview"
     ],
     "SCAN.UPC": [],
-    "scanMiRApp": [],
     "SCArray.sat": [],
     "scBFA": [],
     "scClassify": [],
@@ -1359,7 +1354,6 @@
         "MSnbase",
         "mzID"
     ],
-    "systemPipeR": [],
     "tadar": [
         "Gviz"
     ],
@@ -1432,8 +1426,7 @@
     ],
     "vtpnet": [],
     "vulcan": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "lumi",
