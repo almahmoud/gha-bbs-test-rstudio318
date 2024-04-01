@@ -265,7 +265,6 @@
     "cytofQC": [
         "CATALYST"
     ],
-    "cytomapper": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -282,9 +281,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -490,9 +487,7 @@
     "ideal": [
         "pcaExplorer"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
     ],
@@ -928,7 +923,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "scp": [],
     "scRNAseqApp": [],
     "scruff": [
         "ggbio"
@@ -964,9 +958,7 @@
     ],
     "SimBindProfiles": [],
     "SimBu": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "QuasR"
@@ -1000,7 +992,6 @@
     ],
     "staRank": [],
     "Statial": [],
-    "stJoincount": [],
     "svaNUMT": [],
     "svaRetro": [],
     "synapter": [
