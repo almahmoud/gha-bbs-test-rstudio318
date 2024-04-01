@@ -229,7 +229,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cycle": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -584,7 +583,6 @@
     "motifmatchr": [],
     "motifStack": [],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -887,7 +885,6 @@
         "RUVSeq"
     ],
     "staRank": [],
-    "svaNUMT": [],
     "svaRetro": [],
     "synapter": [
         "MSnbase",
