@@ -723,7 +723,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
@@ -797,7 +796,6 @@
         "MSnbase",
         "mzID"
     ],
-    "qsmooth": [],
     "quantro": [],
     "QuartPAC": [],
     "QuasR": [],
@@ -812,7 +810,6 @@
     "RcwlPipelines": [],
     "ReactomePA": [],
     "rebook": [],
-    "reconsi": [],
     "recount": [
         "derfinder"
     ],
@@ -900,7 +897,6 @@
     "scTensor": [
         "ReactomePA"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "epivizr"
     ],
