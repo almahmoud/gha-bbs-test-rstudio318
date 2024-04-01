@@ -113,9 +113,7 @@
     "BASiCStan": [],
     "BatchQC": [],
     "BEAT": [],
-    "benchdamic": [
-        "Maaslin2"
-    ],
+    "benchdamic": [],
     "BiGGR": [],
     "bigmelon": [
         "lumi",
@@ -813,10 +811,7 @@
         "methylumi",
         "minfi"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "MAGAR": [
         "RnBeads",
         "methylumi",
@@ -950,9 +945,7 @@
         "minfi"
     ],
     "mitoClone2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
