@@ -112,7 +112,6 @@
     "attract": [
         "GOstats"
     ],
-    "BadRegionFinder": [],
     "ballgown": [],
     "BANDITS": [],
     "bandle": [
@@ -871,7 +870,6 @@
         "mzID",
         "xcms"
     ],
-    "maPredictDSC": [],
     "mariner": [],
     "maser": [
         "Gviz"
@@ -978,9 +976,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
@@ -1059,7 +1055,6 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
         "MSstatsPTM",
         "MSstatsTMT"
@@ -1618,7 +1613,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz"
