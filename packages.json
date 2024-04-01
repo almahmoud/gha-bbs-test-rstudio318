@@ -21,7 +21,6 @@
     "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
@@ -29,24 +28,17 @@
     ],
     "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
     "alabaster.sce": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.matrix",
         "alabaster.se"
     ],
     "AllelicImbalance": [
@@ -1099,7 +1091,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "rgsepd": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
