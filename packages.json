@@ -104,7 +104,6 @@
         "mzID",
         "pRoloc"
     ],
-    "basecallQC": [],
     "BASiCStan": [],
     "BatchQC": [],
     "BEAT": [],
@@ -242,13 +241,11 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPsim": [],
     "chromVAR": [
         "TFBSTools"
@@ -712,9 +709,7 @@
     "HiContacts": [],
     "HiCool": [],
     "hoodscanR": [],
-    "HTSeqGenie": [
-        "chipseq"
-    ],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -1051,7 +1046,6 @@
     "OGRE": [
         "Gviz"
     ],
-    "OLINgui": [],
     "omicplotR": [],
     "omicRexposome": [],
     "OMICsPCA": [],
@@ -1132,7 +1126,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -1384,9 +1377,7 @@
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -1469,9 +1460,7 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [],
     "traviz": [
