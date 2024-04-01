@@ -2,9 +2,7 @@
     "ACE": [
         "QDNAseq"
     ],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools",
         "ggbio"
@@ -869,7 +867,6 @@
         "methylumi",
         "wateRmelon"
     ],
-    "snapCGH": [],
     "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
