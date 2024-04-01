@@ -216,7 +216,6 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [],
     "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
@@ -895,9 +894,7 @@
     "signatureSearch": [
         "clusterProfiler"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SimBindProfiles": [],
     "simpleSeg": [],
     "singleCellTK": [],
