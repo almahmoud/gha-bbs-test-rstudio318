@@ -469,7 +469,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -517,7 +516,6 @@
     "iSEEu": [
         "iSEEhex"
     ],
-    "IsoformSwitchAnalyzeR": [],
     "karyoploteR": [],
     "kissDE": [
         "DSS"
@@ -831,7 +829,6 @@
     "qsvaR": [],
     "quantro": [],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [],
