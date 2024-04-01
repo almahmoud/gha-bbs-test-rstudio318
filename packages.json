@@ -245,7 +245,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [],
     "CGHcall": [],
     "cghMCR": [],
     "CGHnormaliter": [
@@ -770,7 +769,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
         "chipseq"
@@ -1093,7 +1091,6 @@
     "MultiRNAflow": [],
     "musicatk": [],
     "MWASTools": [],
-    "myvariant": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1250,7 +1247,6 @@
         "mzID"
     ],
     "ProteoDisco": [],
-    "protGear": [],
     "psichomics": [
         "derfinder",
         "recount"
