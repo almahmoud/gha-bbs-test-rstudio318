@@ -224,7 +224,6 @@
     ],
     "cghMCR": [],
     "CGHnormaliter": [],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -500,7 +499,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "minfi"
