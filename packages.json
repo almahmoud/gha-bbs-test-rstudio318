@@ -78,21 +78,17 @@
     ],
     "ASSIGN": [],
     "ATACCoGAPS": [
-        "TFBSTools",
         "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [
@@ -245,9 +241,7 @@
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "monocle"
@@ -388,7 +382,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "DaMiRseq": [],
@@ -474,7 +467,6 @@
         "Gviz"
     ],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -487,7 +479,6 @@
     ],
     "enrichplot": [],
     "enrichTF": [
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -521,7 +512,6 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr"
@@ -803,9 +793,7 @@
     "maser": [
         "Gviz"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "MBECS": [],
     "mCSEA": [
         "Gviz"
@@ -918,9 +906,7 @@
         "xcms"
     ],
     "MoleculeExperiment": [],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
@@ -932,15 +918,10 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "TFBSTools",
         "motifStack"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
@@ -1003,7 +984,6 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "Gviz",
-        "TFBSTools",
         "motifStack",
         "trackViewer"
     ],
@@ -1059,7 +1039,6 @@
     ],
     "PAA": [],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "pairedGSEA": [],
@@ -1110,8 +1089,7 @@
         "rCGH"
     ],
     "primirTSS": [
-        "Gviz",
-        "TFBSTools"
+        "Gviz"
     ],
     "PrInCE": [
         "MSnbase",
@@ -1226,7 +1204,6 @@
     ],
     "ribosomeProfilingQC": [
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "Risa": [
@@ -1384,7 +1361,6 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "TFBSTools",
         "motifmatchr"
     ],
     "SpectralTAD": [],
@@ -1430,7 +1406,6 @@
     ],
     "tenXplore": [],
     "terraTCGAdata": [],
-    "TFBSTools": [],
     "TFHAZ": [],
     "TimiRGeN": [
         "clusterProfiler",
