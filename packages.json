@@ -672,9 +672,7 @@
         "flowWorkspace"
     ],
     "optimalFlow": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -775,7 +773,6 @@
         "Gviz"
     ],
     "REMP": [],
-    "Repitools": [],
     "ReportingTools": [
         "ggbio"
     ],
