@@ -171,7 +171,6 @@
     ],
     "CCPROMISE": [],
     "celaref": [],
-    "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -359,9 +358,7 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DeMixT": [
         "DSS"
     ],
@@ -570,9 +567,7 @@
     "GenomicPlot": [],
     "GeoDiff": [],
     "GEOexplorer": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [],
     "ggcyto": [
         "flowWorkspace",
@@ -892,7 +887,6 @@
         "mzID",
         "xcms"
     ],
-    "NCIgraph": [],
     "nempi": [
         "epiNEM"
     ],
@@ -1100,9 +1094,7 @@
         "derfinder",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz"
     ],
@@ -1243,9 +1235,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [],
