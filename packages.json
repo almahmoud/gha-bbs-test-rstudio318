@@ -1,7 +1,6 @@
 {
     "a4": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -19,9 +18,7 @@
         "affycoretools",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -68,7 +65,6 @@
         "Gviz"
     ],
     "amplican": [],
-    "AnnotationHubData": [],
     "annotatr": [],
     "appreci8R": [],
     "arrayMvout": [
@@ -138,7 +134,6 @@
     ],
     "biosigner": [],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq",
         "annotatr",
         "dmrseq"
@@ -227,14 +222,10 @@
     ],
     "CexoR": [],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
-    "CGHcall": [],
     "cghMCR": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "DMRcate",
@@ -552,9 +543,7 @@
     "escheR": [],
     "EventPointer": [],
     "EWCE": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -666,7 +655,6 @@
         "PharmacoGx"
     ],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "geneRecommender": [],
@@ -892,7 +880,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "minfi"
     ],
@@ -1193,9 +1180,7 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID"
