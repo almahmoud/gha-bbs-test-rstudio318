@@ -543,7 +543,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "FastqCleaner": [],
     "fCCAC": [],
     "FEAST": [
         "TSCAN"
@@ -1414,7 +1413,6 @@
     "stJoincount": [],
     "svaNUMT": [],
     "svaRetro": [],
-    "SVMDO": [],
     "synapter": [
         "MSnbase",
         "mzID"
