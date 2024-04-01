@@ -200,7 +200,6 @@
     ],
     "CCPROMISE": [],
     "celaref": [],
-    "CellBarcode": [],
     "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -656,7 +655,6 @@
         "ncdfFlow"
     ],
     "ggspavis": [],
-    "girafe": [],
     "GmicR": [
         "GOstats"
     ],
@@ -1440,7 +1438,6 @@
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TSCAN": [],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz"
     ],
