@@ -246,7 +246,6 @@
     "ChIPseeker": [
         "enrichplot"
     ],
-    "ChIPsim": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -683,7 +682,6 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GOTHiC": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1060,7 +1058,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "OTUbase": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -1225,7 +1222,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
