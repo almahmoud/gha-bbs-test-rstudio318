@@ -281,21 +281,18 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [
         "cytomapper"
@@ -440,18 +437,15 @@
     ],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMatch": [],
     "flowMerge": [],
     "flowPloidy": [],
     "flowStats": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowViz"
     ],
@@ -459,12 +453,9 @@
     "flowVS": [
         "flowStats",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "funtooNorm": [
         "minfi"
     ],
@@ -508,8 +499,7 @@
     "gespeR": [],
     "ggbio": [],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggspavis": [],
     "GmicR": [],
@@ -548,8 +538,7 @@
         "cytomapper"
     ],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "iNETgrate": [
         "Pigengene",
@@ -792,7 +781,6 @@
     ],
     "NanoMethViz": [],
     "nanotatoR": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
@@ -823,8 +811,7 @@
     "OMICsPCA": [],
     "openCyto": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "oppar": [],
     "optimalFlow": [],
@@ -844,8 +831,7 @@
     "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase",
@@ -1154,7 +1140,6 @@
     "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
-    "tRanslatome": [],
     "traviz": [],
     "treekoR": [
         "diffcyt"
