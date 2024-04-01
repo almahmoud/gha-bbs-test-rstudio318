@@ -665,7 +665,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MSPrep": [],
     "MsQuality": [
         "MsExperiment"
     ],
@@ -732,7 +731,6 @@
     "OutSplice": [
         "Repitools"
     ],
-    "PAA": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -788,7 +786,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
