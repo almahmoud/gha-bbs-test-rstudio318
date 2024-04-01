@@ -50,7 +50,6 @@
     "ASpli": [
         "Gviz"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "chromVAR",
         "motifmatchr"
@@ -993,9 +992,7 @@
     "TargetDecoy": [
         "mzID"
     ],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TDbasedUFEadv": [],
     "tenXplore": [],
     "terraTCGAdata": [],
