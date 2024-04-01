@@ -263,8 +263,7 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cycle": [],
     "CyTOFpower": [
@@ -275,7 +274,6 @@
     ],
     "cytomapper": [],
     "CytoML": [
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "openCyto"
@@ -305,8 +303,7 @@
     ],
     "dce": [],
     "ddPCRclust": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "debrowser": [
         "clusterProfiler"
@@ -419,19 +416,13 @@
         "ggbio"
     ],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -439,16 +430,11 @@
     "flowMerge": [],
     "flowPloidy": [],
     "flowStats": [
-        "flowViz",
         "flowWorkspace"
     ],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowTrans": [],
     "flowVS": [
         "flowStats",
-        "flowViz",
         "flowWorkspace"
     ],
     "flowWorkspace": [],
@@ -460,8 +446,7 @@
         "DaMiRseq"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GDCRNATools": [
         "clusterProfiler"
@@ -802,7 +787,6 @@
     "omicRexposome": [],
     "OMICsPCA": [],
     "openCyto": [
-        "flowViz",
         "flowWorkspace"
     ],
     "oppar": [],
@@ -1000,7 +984,6 @@
     "SCArray.sat": [],
     "scBFA": [],
     "scClassify": [],
-    "scDataviz": [],
     "SCFA": [],
     "scFeatures": [],
     "scmeth": [],
