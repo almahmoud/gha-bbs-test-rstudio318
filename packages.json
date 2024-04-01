@@ -229,7 +229,6 @@
     "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
-        "flowMeans",
         "flowMerge"
     ],
     "consensusDE": [
@@ -278,7 +277,6 @@
         "CATALYST"
     ],
     "cytomapper": [],
-    "cytoMEM": [],
     "CytoML": [
         "flowViz",
         "flowWorkspace",
@@ -446,7 +444,6 @@
         "ncdfFlow"
     ],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [],
     "flowPloidy": [],
     "flowStats": [
@@ -830,9 +827,7 @@
         "ncdfFlow"
     ],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OutSplice": [
         "Repitools"
     ],
