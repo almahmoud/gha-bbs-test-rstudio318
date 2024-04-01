@@ -65,7 +65,6 @@
         "motifStack"
     ],
     "attract": [],
-    "ballgown": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -1042,9 +1041,7 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
