@@ -231,7 +231,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "flowClust",
         "flowMeans",
         "flowMerge"
     ],
@@ -269,7 +268,6 @@
         "Gviz"
     ],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowViz"
     ],
@@ -284,7 +282,6 @@
     "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -436,8 +433,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -455,9 +450,7 @@
     ],
     "flowMatch": [],
     "flowMeans": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPloidy": [],
     "flowSpecs": [],
     "flowStats": [
@@ -467,7 +460,6 @@
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
         "flowViz"
     ],
     "flowViz": [],
@@ -550,7 +542,6 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
     "hoodscanR": [],
     "HTSeqGenie": [],
     "iCheck": [
@@ -841,12 +832,10 @@
     "omicRexposome": [],
     "OMICsPCA": [],
     "openCyto": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [],
     "optimalFlow": [
         "flowMeans"
@@ -888,7 +877,6 @@
         "Gviz"
     ],
     "PloGO2": [],
-    "pogos": [],
     "POWSC": [],
     "prebs": [
         "RPA"
