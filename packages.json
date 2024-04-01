@@ -280,7 +280,6 @@
         "flowViz"
     ],
     "cycle": [],
-    "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
         "diffcyt"
@@ -423,9 +422,7 @@
     "famat": [
         "clusterProfiler"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -563,7 +560,6 @@
     ],
     "HiCDOC": [],
     "HiContacts": [],
-    "HiCool": [],
     "hoodscanR": [],
     "HTSeqGenie": [],
     "iCheck": [
@@ -1128,9 +1124,7 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "singleCellTK": [
-        "TSCAN"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
@@ -1221,7 +1215,6 @@
     ],
     "trigger": [],
     "trio": [],
-    "TSCAN": [],
     "TVTB": [
         "Gviz"
     ],
