@@ -145,9 +145,7 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "categoryCompare": [
         "GOstats"
     ],
@@ -166,7 +164,6 @@
         "clusterProfiler"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -286,12 +283,10 @@
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "cytomapper": [],
     "cytoMEM": [],
@@ -305,7 +300,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -313,7 +307,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -360,9 +353,7 @@
     "DESpace": [],
     "DExMA": [],
     "DiffBind": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DifferentialRegulation": [],
     "diffUTR": [],
     "divergence": [],
@@ -450,7 +441,6 @@
     "FLAMES": [
         "ggbio"
     ],
-    "flowAI": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -478,7 +468,6 @@
         "flowClust"
     ],
     "flowPloidy": [],
-    "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
         "flowViz",
@@ -687,9 +676,7 @@
         "CompoundDb"
     ],
     "MetaboSignal": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -1230,7 +1217,6 @@
         "slingshot"
     ],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "trigger": [],
