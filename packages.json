@@ -227,9 +227,7 @@
         "methylPipe"
     ],
     "CompoundDb": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowMeans",
         "flowMerge"
@@ -648,7 +646,6 @@
     ],
     "MEIGOR": [],
     "meshes": [],
-    "meshr": [],
     "MetaboAnnotation": [
         "CompoundDb"
     ],
@@ -1045,15 +1042,12 @@
         "RUVSeq"
     ],
     "scp": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
     "scTensor": [
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTGIF": [],
     "scTreeViz": [
@@ -1100,7 +1094,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "snapCGH": [],
     "soGGi": [],
     "SomaticSignatures": [
@@ -1167,15 +1160,11 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "diffcyt"
     ],
