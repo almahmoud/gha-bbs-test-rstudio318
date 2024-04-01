@@ -693,9 +693,7 @@
     "MetaboAnnotation": [
         "CompoundDb"
     ],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM"
     ],
@@ -843,7 +841,6 @@
     ],
     "MultiRNAflow": [],
     "musicatk": [],
-    "MWASTools": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
