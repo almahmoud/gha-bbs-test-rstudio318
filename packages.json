@@ -456,7 +456,6 @@
         "zenith"
     ],
     "DSS": [],
-    "easyRNASeq": [],
     "edge": [],
     "EGSEA": [
         "pathview",
@@ -497,16 +496,10 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [],
     "esATAC": [
@@ -927,7 +920,6 @@
     "MsBackendSql": [],
     "MsExperiment": [],
     "msgbsR": [
-        "easyRNASeq",
         "ggbio"
     ],
     "msmsEDA": [
@@ -1287,8 +1279,7 @@
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "ChIPseeker",
