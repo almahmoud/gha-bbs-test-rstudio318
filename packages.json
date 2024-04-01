@@ -82,7 +82,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -232,7 +231,6 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "systemPipeR"
@@ -422,9 +420,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESpace": [],
     "DExMA": [],
     "DiffBind": [
@@ -668,9 +664,7 @@
     ],
     "gsean": [],
     "GSReg": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [],
     "HarmonizR": [],
     "Harshlight": [],
@@ -970,7 +964,6 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "motifStack",
         "trackViewer"
@@ -1001,7 +994,6 @@
         "yarn"
     ],
     "nnSVG": [],
-    "nucleR": [],
     "octad": [
         "RUVSeq"
     ],
@@ -1160,9 +1152,7 @@
     "recountmethylation": [
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionalpcs": [],
     "RegionalST": [],
     "regioneReloaded": [],
@@ -1450,7 +1440,6 @@
     ],
     "vtpnet": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind",
         "systemPipeR"
     ],
