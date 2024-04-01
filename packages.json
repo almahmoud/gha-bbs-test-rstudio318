@@ -455,7 +455,6 @@
         "ggbio"
     ],
     "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -598,7 +597,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
