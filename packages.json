@@ -416,9 +416,7 @@
         "Gviz",
         "minfi"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [],
     "epivizrChart": [],
     "epivizrStandalone": [
@@ -1263,8 +1261,6 @@
     ],
     "trigger": [],
     "trio": [],
-    "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TSCAN": [],
     "TVTB": [
         "Gviz"
