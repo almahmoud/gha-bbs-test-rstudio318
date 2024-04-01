@@ -250,9 +250,7 @@
         "enrichplot"
     ],
     "chipseq": [],
-    "ChIPseqR": [],
     "ChIPsim": [],
-    "chromstaR": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -316,7 +314,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [],
@@ -400,9 +397,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -476,7 +471,6 @@
     ],
     "DSS": [],
     "easyRNASeq": [],
-    "EDASeq": [],
     "edge": [],
     "EGSEA": [
         "pathview",
@@ -632,8 +626,7 @@
     ],
     "GA4GHshiny": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "flowFP",
@@ -868,11 +861,9 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "MetCirc": [],
-    "MethReg": [],
     "MethylAid": [
         "minfi"
     ],
@@ -1056,7 +1047,6 @@
     "normr": [],
     "nucleR": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1252,7 +1242,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1305,9 +1294,7 @@
     "RSVSim": [],
     "RTCGAToolbox": [],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "safe": [],
     "sampleClassifier": [],
     "SBGNview": [
@@ -1327,7 +1314,6 @@
         "annotatr"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -1437,7 +1423,6 @@
         "Gviz"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
