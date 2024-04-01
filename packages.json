@@ -228,7 +228,6 @@
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -724,9 +723,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "meshes": [],
     "meshr": [],
     "MetaboAnnotation": [
