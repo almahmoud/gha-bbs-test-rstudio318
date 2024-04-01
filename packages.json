@@ -101,7 +101,6 @@
     ],
     "BASiCStan": [],
     "BatchQC": [],
-    "BEAT": [],
     "benchdamic": [],
     "BiGGR": [],
     "bigmelon": [
@@ -244,9 +243,7 @@
         "monocle"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
@@ -1175,7 +1172,6 @@
         "RcwlPipelines"
     ],
     "rgsepd": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
