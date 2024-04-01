@@ -23,7 +23,6 @@
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
@@ -34,30 +33,24 @@
     "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.matrix": [],
-    "alabaster.ranges": [],
     "alabaster.sce": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.matrix",
-        "alabaster.ranges"
+        "alabaster.matrix"
     ],
     "alabaster.spatial": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.string": [],
     "alabaster.vcf": [
         "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se",
         "alabaster.string"
     ],
@@ -638,9 +631,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [],
     "hoodscanR": [],
@@ -810,7 +801,6 @@
     ],
     "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -912,7 +902,6 @@
     "multicrispr": [
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "MultiRNAflow": [],
     "musicatk": [],
     "MWASTools": [],
