@@ -132,19 +132,16 @@
     "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "cytoviewer": [],
@@ -213,17 +210,12 @@
     "flowDensity": [],
     "flowFP": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "funtooNorm": [],
     "GARS": [],
     "GateFinder": [
@@ -239,9 +231,7 @@
     "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "GNOSIS": [
         "cBioPortalData"
     ],
@@ -259,9 +249,7 @@
     ],
     "ideal": [],
     "imcRtools": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene"
     ],
@@ -397,15 +385,11 @@
     ],
     "octad": [],
     "OGRE": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "OutSplice": [],
     "pageRank": [],
     "PanomiR": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "mzID"
