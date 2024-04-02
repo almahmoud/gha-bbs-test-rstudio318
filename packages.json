@@ -172,7 +172,6 @@
     "debrowser": [],
     "deconvR": [],
     "DeepBlueR": [],
-    "DEGraph": [],
     "DeMixT": [],
     "DEP": [
         "MSnbase",
@@ -258,7 +257,6 @@
     "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "gespeR": [],
     "ggcyto": [
         "flowWorkspace"
     ],
@@ -561,7 +559,6 @@
     "SPLINTER": [],
     "srnadiff": [],
     "standR": [],
-    "staRank": [],
     "synapter": [
         "MSnbase",
         "mzID"
