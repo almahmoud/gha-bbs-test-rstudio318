@@ -35,9 +35,7 @@
         "methylumi"
     ],
     "ASpli": [],
-    "ATACCoGAPS": [
-        "chromVAR"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
@@ -119,7 +117,6 @@
         "DiffBind"
     ],
     "ChIPseeker": [],
-    "chromVAR": [],
     "cicero": [
         "monocle"
     ],
