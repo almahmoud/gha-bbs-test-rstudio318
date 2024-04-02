@@ -1,7 +1,5 @@
 {
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools"
@@ -72,7 +70,6 @@
     "biomvRCNS": [],
     "BioNetStat": [],
     "biscuiteer": [
-        "QDNAseq",
         "dmrseq"
     ],
     "BLMA": [],
@@ -118,9 +115,7 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -328,9 +323,7 @@
         "gDRimport"
     ],
     "gDRimport": [],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "geneRecommender": [],
     "GeneStructureTools": [],
     "GenomicInteractions": [],
@@ -604,7 +597,6 @@
     "qckitfastq": [
         "seqTools"
     ],
-    "QDNAseq": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "mzID"
