@@ -209,7 +209,6 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -318,9 +317,7 @@
     ],
     "flowWorkspace": [],
     "funtooNorm": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "flowFP"
     ],
