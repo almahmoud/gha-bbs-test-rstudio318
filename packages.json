@@ -104,7 +104,6 @@
     ],
     "chimeraviz": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "cicero": [
         "monocle"
     ],
@@ -213,15 +212,11 @@
         "safe"
     ],
     "enrichTF": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epimutacions": [],
     "EpiTxDb": [],
     "epivizrStandalone": [],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -476,9 +471,7 @@
         "MSnbase",
         "mzID"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "pRoloc": [
         "MSnbase",
         "mzID"
@@ -561,12 +554,8 @@
     "scruff": [],
     "scTensor": [],
     "scTreeViz": [],
-    "segmenter": [
-        "ChIPseeker"
-    ],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
+    "seqArchRplus": [],
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
