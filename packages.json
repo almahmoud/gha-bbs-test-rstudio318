@@ -6,7 +6,6 @@
     "affycoretools": [
         "ReportingTools"
     ],
-    "affylmGUI": [],
     "AgiMicroRna": [
         "ReportingTools",
         "affycoretools"
@@ -331,12 +330,9 @@
         "clusterProfiler"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -571,7 +567,6 @@
         "MSnbase",
         "mzID"
     ],
-    "PharmacoGx": [],
     "phemd": [
         "monocle"
     ],
@@ -775,9 +770,7 @@
         "MSnbase",
         "mzID"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
