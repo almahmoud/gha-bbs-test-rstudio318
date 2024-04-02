@@ -78,9 +78,7 @@
     "cBioPortalData": [],
     "CBNplot": [],
     "CEMiTool": [],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [],
     "cfdnakit": [],
     "ChAMP": [
@@ -118,9 +116,7 @@
         "methylPipe"
     ],
     "condiments": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [],
     "conumee": [],
     "CopyNumberPlots": [],
@@ -137,9 +133,7 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [
         "CATALYST"
     ],
@@ -177,7 +171,6 @@
         "mzID"
     ],
     "derfinderPlot": [],
-    "diffcyt": [],
     "divergence": [],
     "DMRcate": [
         "methylumi",
@@ -230,7 +223,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
@@ -534,7 +526,6 @@
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
-    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [],
@@ -572,9 +563,7 @@
     "trackViewer": [],
     "tradeSeq": [],
     "traviz": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TVTB": [],
     "uncoverappLib": [],
     "uSORT": [
