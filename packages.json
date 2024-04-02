@@ -30,7 +30,6 @@
     "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
-    "attract": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -199,7 +198,6 @@
         "GenomicInteractions"
     ],
     "famat": [],
-    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi"
@@ -319,7 +317,6 @@
     ],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
-    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -434,7 +431,6 @@
     "Pi": [],
     "Pigengene": [],
     "PING": [],
-    "PloGO2": [],
     "prebs": [],
     "primirTSS": [],
     "PrInCE": [
