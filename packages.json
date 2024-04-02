@@ -22,8 +22,7 @@
     "alabaster.vcf": [],
     "AllelicImbalance": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpli": [],
     "ATACCoGAPS": [],
@@ -37,7 +36,6 @@
     ],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -81,7 +79,6 @@
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -159,7 +156,6 @@
     "derfinderPlot": [],
     "divergence": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "dreamlet": [
@@ -185,8 +181,7 @@
     ],
     "famat": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "flagme": [
         "CAMERA",
@@ -229,8 +224,7 @@
         "GenomicInteractions"
     ],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [],
     "imcRtools": [],
@@ -253,12 +247,9 @@
         "mzID",
         "xcms"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [],
     "MAIT": [
@@ -270,12 +261,10 @@
     "maser": [],
     "mCSEA": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "MetaboAnnotation": [],
@@ -289,21 +278,16 @@
     "metaseqR2": [],
     "methylclock": [],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [],
     "methylSig": [],
-    "methylumi": [],
     "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "MobilityTransformR": [
         "MSnbase",
         "mzID",
@@ -423,7 +407,6 @@
     "RandomWalkRestartMH": [],
     "rebook": [],
     "recount": [],
-    "recountmethylation": [],
     "regionReport": [],
     "regutools": [],
     "REMP": [],
@@ -457,9 +440,7 @@
     "RnaSeqSampleSize": [
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "safe": [],
     "SCFA": [],
     "scone": [],
@@ -478,7 +459,6 @@
     "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SomaticSignatures": [],
@@ -514,8 +494,7 @@
     "VaSP": [],
     "vulcan": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "xcms": [
         "MSnbase",
