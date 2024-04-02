@@ -46,7 +46,6 @@
     "BiocOncoTK": [],
     "biomvRCNS": [],
     "biscuiteer": [],
-    "BLMA": [],
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
@@ -70,7 +69,6 @@
     "canceR": [
         "cBioPortalData"
     ],
-    "CATALYST": [],
     "cbaf": [
         "cBioPortalData"
     ],
@@ -133,9 +131,7 @@
         "flowDensity"
     ],
     "CyTOFpower": [],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -341,7 +337,6 @@
         "lumi",
         "methylumi"
     ],
-    "mirIntegrator": [],
     "miRLAB": [],
     "missMethyl": [
         "methylumi"
