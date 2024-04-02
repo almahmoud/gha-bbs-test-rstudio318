@@ -58,9 +58,7 @@
     "BiocOncoTK": [],
     "biomvRCNS": [],
     "BioNetStat": [],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "BLMA": [],
     "bnem": [],
     "BOBaFIT": [],
@@ -216,7 +214,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
