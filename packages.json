@@ -259,9 +259,7 @@
         "lumi",
         "methylumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
@@ -336,7 +334,6 @@
         "lumi",
         "methylumi"
     ],
-    "miRLAB": [],
     "missMethyl": [
         "methylumi"
     ],
@@ -411,7 +408,6 @@
     "OutSplice": [],
     "pageRank": [],
     "PanomiR": [],
-    "pcaExplorer": [],
     "PeacoQC": [
         "flowWorkspace"
     ],
@@ -520,7 +516,6 @@
     "signatureSearch": [],
     "signifinder": [],
     "simpleSeg": [],
-    "singleCellTK": [],
     "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
