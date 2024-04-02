@@ -164,7 +164,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
         "flowMerge"
@@ -433,9 +432,7 @@
     ],
     "MEIGOR": [],
     "meshes": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [],
     "MetaCyto": [],
     "metaMS": [
@@ -448,7 +445,6 @@
         "clusterProfiler"
     ],
     "metaseqR2": [],
-    "MetCirc": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
