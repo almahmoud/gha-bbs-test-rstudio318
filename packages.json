@@ -38,7 +38,6 @@
         "lumi",
         "methylumi"
     ],
-    "arrayQualityMetrics": [],
     "ASpli": [],
     "ATACCoGAPS": [
         "chromVAR",
@@ -512,10 +511,7 @@
         "mzID"
     ],
     "MsQuality": [],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "mzID"
@@ -525,9 +521,7 @@
         "MSstatsQC",
         "mzID"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multicrispr": [],
     "mzID": [],
     "NADfinder": [
