@@ -36,13 +36,10 @@
     ],
     "ASpli": [],
     "ATACCoGAPS": [
-        "chromVAR",
-        "motifmatchr"
+        "chromVAR"
     ],
     "ATACseqQC": [],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "attract": [],
     "bandle": [
@@ -233,16 +230,13 @@
         "safe"
     ],
     "ELMER": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
     "EnrichmentBrowser": [
         "safe"
     ],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "EpiCompare": [
@@ -250,15 +244,11 @@
     ],
     "epimutacions": [],
     "EpiTxDb": [],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "extraChIPs": [
         "GenomicInteractions"
@@ -452,7 +442,6 @@
         "clusterProfiler"
     ],
     "motifbreakR": [],
-    "motifmatchr": [],
     "msgbsR": [],
     "msmsEDA": [
         "MSnbase",
@@ -514,9 +503,7 @@
     ],
     "optimalFlow": [],
     "OutSplice": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -635,9 +622,7 @@
     "scTensor": [
         "ReactomePA"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [
         "ChIPseeker"
     ],
@@ -666,8 +651,7 @@
     "SomaticSignatures": [],
     "SOMNiBUS": [],
     "spatzie": [
-        "GenomicInteractions",
-        "motifmatchr"
+        "GenomicInteractions"
     ],
     "SPLINTER": [],
     "srnadiff": [],
