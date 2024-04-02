@@ -39,15 +39,11 @@
         "chromVAR",
         "motifmatchr"
     ],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "bandle": [
         "MSnbase",
@@ -199,9 +195,7 @@
         "ggcyto"
     ],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -464,11 +458,8 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "motifbreakR": [
-        "motifStack"
-    ],
+    "motifbreakR": [],
     "motifmatchr": [],
-    "motifStack": [],
     "msgbsR": [],
     "msmsEDA": [
         "MSnbase",
@@ -504,7 +495,6 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "motifStack",
         "trackViewer"
     ],
     "nanotatoR": [],
@@ -615,8 +605,7 @@
     "ReUseData": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "Risa": [
         "MSnbase",
