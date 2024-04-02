@@ -38,9 +38,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "bioCancer": [
-        "cBioPortalData"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [],
     "biomvRCNS": [],
     "biscuiteer": [],
@@ -64,13 +62,8 @@
         "mzID",
         "xcms"
     ],
-    "canceR": [
-        "cBioPortalData"
-    ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "canceR": [],
+    "cbaf": [],
     "CBNplot": [],
     "CEMiTool": [],
     "censcyt": [],
@@ -208,9 +201,7 @@
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "ggcyto": [],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "goSorensen": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -400,7 +391,6 @@
     "regionReport": [],
     "regutools": [],
     "ReportingTools": [],
-    "ReUseData": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
