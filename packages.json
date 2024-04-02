@@ -154,9 +154,7 @@
     "CONFESS": [
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "conumee": [],
     "CopyNumberPlots": [],
     "cosmiq": [
@@ -262,7 +260,6 @@
         "clusterProfiler",
         "motifmatchr"
     ],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -420,9 +417,7 @@
     "metaseqR2": [],
     "MethylAid": [],
     "methylCC": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "clusterProfiler",
         "methylumi",
@@ -513,9 +508,7 @@
         "quantro",
         "yarn"
     ],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OGRE": [],
     "openCyto": [
         "flowWorkspace"
@@ -603,9 +596,7 @@
     "ReportingTools": [],
     "ReUseData": [],
     "RiboProfiling": [],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "mzID",
@@ -636,14 +627,11 @@
     "RnBeads": [
         "methylumi"
     ],
-    "RUVSeq": [],
     "safe": [],
     "SBGNview": [],
     "SCFA": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scRNAseqApp": [],
     "scruff": [],
     "scTensor": [
@@ -686,9 +674,7 @@
     ],
     "SPLINTER": [],
     "srnadiff": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [],
     "synapter": [
         "MSnbase",
