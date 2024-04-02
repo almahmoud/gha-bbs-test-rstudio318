@@ -197,11 +197,8 @@
         "xcms"
     ],
     "FLAMES": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [],
-    "flowFP": [],
     "flowGate": [
         "ggcyto"
     ],
@@ -211,9 +208,7 @@
     ],
     "funtooNorm": [],
     "GARS": [],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [],
     "gDR": [
         "gDRimport"
