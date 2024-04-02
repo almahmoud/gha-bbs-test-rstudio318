@@ -85,7 +85,6 @@
         "derfinderPlot"
     ],
     "brendaDb": [],
-    "BubbleTree": [],
     "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -97,7 +96,6 @@
     ],
     "CAMERA": [
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -134,7 +132,6 @@
         "wateRmelon"
     ],
     "chimeraviz": [],
-    "ChIPexoQual": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -146,7 +143,6 @@
     "CircSeqAlignTk": [],
     "cliqueMS": [
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -180,7 +176,6 @@
     "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -301,7 +296,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -396,7 +390,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -407,7 +400,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -425,7 +417,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -452,7 +443,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -493,7 +483,6 @@
     "MMUPHin": [],
     "MobilityTransformR": [
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -510,11 +499,8 @@
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMassbank": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
     "msgbsR": [],
     "msmsEDA": [
         "MSnbase",
@@ -534,9 +520,7 @@
         "msmsTests",
         "mzID"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsLiP": [
         "MSstatsPTM"
     ],
@@ -565,7 +549,6 @@
     "nanotatoR": [],
     "ncGTW": [
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -684,7 +667,6 @@
     ],
     "Risa": [
         "MSnbase",
-        "MsExperiment",
         "mzID",
         "xcms"
     ],
@@ -811,7 +793,6 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsExperiment",
         "mzID"
     ],
     "Xeva": [
