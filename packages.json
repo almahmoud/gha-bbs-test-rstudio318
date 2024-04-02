@@ -52,8 +52,7 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "BiocOncoTK": [],
     "biomvRCNS": [],
@@ -90,18 +89,12 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
+    "CEMiTool": [],
     "censcyt": [
         "diffcyt"
     ],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "cfdnakit": [],
     "ChAMP": [
         "DMRcate",
@@ -129,7 +122,6 @@
         "mzID"
     ],
     "clusterExperiment": [],
-    "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots"
     ],
@@ -188,16 +180,13 @@
     "dagLogo": [],
     "DAPAR": [
         "MSnbase",
-        "clusterProfiler",
         "mzID"
     ],
     "dce": [],
     "ddPCRclust": [
         "flowDensity"
     ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "deconvR": [],
     "DeepBlueR": [],
     "DEGraph": [],
@@ -228,9 +217,7 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
     "enrichViewNet": [],
     "EpiCompare": [
         "ChIPseeker"
@@ -239,15 +226,12 @@
     "EpiTxDb": [],
     "epivizrStandalone": [],
     "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "extraChIPs": [
         "GenomicInteractions"
     ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "famat": [],
     "FEAST": [],
     "ffpe": [
         "lumi",
@@ -287,9 +271,7 @@
     "GateFinder": [
         "flowFP"
     ],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "gDR": [
         "gDRimport"
     ],
@@ -308,9 +290,7 @@
     "GNOSIS": [
         "cBioPortalData"
     ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -333,8 +313,7 @@
     ],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "intansv": [],
     "IPO": [
@@ -360,9 +339,7 @@
         "RnBeads",
         "methylumi"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -391,24 +368,19 @@
         "mzID",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [
-        "clusterProfiler",
         "methylumi",
         "missMethyl"
     ],
     "methylPipe": [],
     "methylSig": [],
     "methylumi": [],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [
         "lumi",
@@ -425,12 +397,8 @@
         "xcms"
     ],
     "monocle": [],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "motifbreakR": [],
     "msgbsR": [],
     "msmsEDA": [
@@ -494,9 +462,7 @@
     "optimalFlow": [],
     "OutSplice": [],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "pcaExplorer": [],
     "PeacoQC": [
         "flowWorkspace"
@@ -510,8 +476,7 @@
     ],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "PING": [],
     "PloGO2": [],
@@ -537,7 +502,6 @@
     "Prostar": [
         "DAPAR",
         "MSnbase",
-        "clusterProfiler",
         "mzID"
     ],
     "psichomics": [
@@ -616,8 +580,7 @@
         "ChIPseeker"
     ],
     "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "SeqGate": [],
     "SeqSQC": [],
@@ -625,9 +588,7 @@
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [],
     "simpleSeg": [],
     "singleCellTK": [],
@@ -655,9 +616,7 @@
         "mzID"
     ],
     "TBSignatureProfiler": [],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "topdownr": [
         "MSnbase",
         "mzID"
