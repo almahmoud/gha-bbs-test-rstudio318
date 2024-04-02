@@ -146,7 +146,6 @@
     "ddPCRclust": [],
     "debrowser": [],
     "DeepBlueR": [],
-    "DeMixT": [],
     "DEP": [
         "MSnbase",
         "mzID"
@@ -272,7 +271,6 @@
         "xcms"
     ],
     "MetaPhOR": [],
-    "metaseqR2": [],
     "methylclock": [],
     "methylGSA": [
         "missMethyl"
