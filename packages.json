@@ -51,7 +51,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "ReactomePA",
         "cBioPortalData"
     ],
     "BiocOncoTK": [],
@@ -104,9 +103,7 @@
         "wateRmelon"
     ],
     "chimeraviz": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "cicero": [
         "monocle"
@@ -195,7 +192,6 @@
         "mzID"
     ],
     "derfinderPlot": [],
-    "DiffBind": [],
     "diffcyt": [],
     "divergence": [],
     "DMRcate": [
@@ -217,7 +213,6 @@
         "safe"
     ],
     "enrichTF": [],
-    "enrichViewNet": [],
     "EpiCompare": [
         "ChIPseeker"
     ],
@@ -310,8 +305,7 @@
         "flowWorkspace"
     ],
     "iNETgrate": [
-        "Pigengene",
-        "ReactomePA"
+        "Pigengene"
     ],
     "intansv": [],
     "IPO": [
@@ -472,9 +466,7 @@
         "monocle"
     ],
     "Pi": [],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [],
     "PloGO2": [],
     "prebs": [],
@@ -521,7 +513,6 @@
     "R3CPET": [],
     "RandomWalkRestartMH": [],
     "Rbec": [],
-    "ReactomePA": [],
     "rebook": [],
     "recount": [],
     "recountmethylation": [],
@@ -568,9 +559,7 @@
     "scone": [],
     "scRNAseqApp": [],
     "scruff": [],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTreeViz": [],
     "segmenter": [
         "ChIPseeker"
@@ -631,9 +620,7 @@
     "VariantFiltering": [],
     "VaSP": [],
     "Voyager": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
