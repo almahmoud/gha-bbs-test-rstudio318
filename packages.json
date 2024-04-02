@@ -126,9 +126,7 @@
     ],
     "crisprViz": [],
     "cummeRbund": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
@@ -150,9 +148,7 @@
         "MSnbase",
         "mzID"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [],
     "deconvR": [],
     "DeepBlueR": [],
@@ -204,10 +200,7 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowFP": [],
     "flowGate": [
         "ggcyto"
