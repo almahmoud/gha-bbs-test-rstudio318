@@ -1,10 +1,7 @@
 {
     "ACE": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "alabaster": [
@@ -176,7 +173,6 @@
         "mzID",
         "xcms"
     ],
-    "FLAMES": [],
     "flowBin": [],
     "flowCut": [],
     "flowGate": [
@@ -386,7 +382,6 @@
     "recount": [],
     "regionReport": [],
     "regutools": [],
-    "ReportingTools": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
@@ -433,7 +428,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
     ],
@@ -471,9 +465,7 @@
         "mzID"
     ],
     "Xeva": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
