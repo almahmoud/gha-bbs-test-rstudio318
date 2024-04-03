@@ -19,7 +19,6 @@
     "arrayMvout": [
         "lumi"
     ],
-    "ASpli": [],
     "ATACCoGAPS": [],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
@@ -39,7 +38,6 @@
     "brainflowprobes": [],
     "brendaDb": [],
     "CAGEfightR": [],
-    "cageminer": [],
     "CAGEr": [
         "CAGEfightR"
     ],
@@ -165,7 +163,6 @@
     "gDRimport": [],
     "GeneBreak": [],
     "geneRecommender": [],
-    "GenomicOZone": [],
     "ggcyto": [],
     "GNOSIS": [],
     "goSorensen": [],
@@ -206,7 +203,6 @@
         "mzID",
         "xcms"
     ],
-    "mCSEA": [],
     "MEAL": [
         "missMethyl"
     ],
@@ -303,7 +299,6 @@
     ],
     "Pi": [],
     "Pigengene": [],
-    "PING": [],
     "PrInCE": [
         "MSnbase",
         "mzID"
