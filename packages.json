@@ -19,7 +19,6 @@
         "lumi"
     ],
     "ATACCoGAPS": [],
-    "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
     "bandle": [
@@ -256,9 +255,7 @@
         "mzID"
     ],
     "mzID": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "nanotatoR": [],
     "ncGTW": [
         "MSnbase",
@@ -274,7 +271,6 @@
     "netZooR": [
         "yarn"
     ],
-    "octad": [],
     "openCyto": [],
     "pageRank": [],
     "PanomiR": [],
@@ -340,7 +336,6 @@
     "RnBeads": [],
     "safe": [],
     "SCFA": [],
-    "scone": [],
     "scTensor": [],
     "scTreeViz": [],
     "segmenter": [],
