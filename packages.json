@@ -117,7 +117,6 @@
     "EGSEA": [
         "safe"
     ],
-    "enhancerHomologSearch": [],
     "EnrichmentBrowser": [
         "safe"
     ],
@@ -265,7 +264,6 @@
         "yarn"
     ],
     "openCyto": [],
-    "pageRank": [],
     "PanomiR": [],
     "PeacoQC": [],
     "peakPantheR": [
@@ -310,7 +308,6 @@
     ],
     "RandomWalkRestartMH": [],
     "rebook": [],
-    "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
         "mzID",
