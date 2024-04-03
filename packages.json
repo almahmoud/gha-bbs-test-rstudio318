@@ -39,13 +39,10 @@
     "brainflowprobes": [],
     "brendaDb": [],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "CAMERA": [
         "MSnbase",
@@ -87,9 +84,7 @@
         "CopyNumberPlots"
     ],
     "comapr": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CONFESS": [],
     "consensusDE": [],
     "CopyNumberPlots": [],
@@ -153,9 +148,7 @@
     "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "famat": [],
     "ffpe": [
         "lumi"
@@ -184,7 +177,6 @@
     "gDRimport": [],
     "GeneBreak": [],
     "geneRecommender": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "ggcyto": [],
     "GNOSIS": [],
@@ -193,9 +185,7 @@
         "EnrichmentBrowser",
         "safe"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "iCheck": [
         "lumi"
     ],
@@ -248,7 +238,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [
@@ -328,7 +317,6 @@
     "Pi": [],
     "Pigengene": [],
     "PING": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "mzID"
@@ -402,9 +390,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SPLINTER": [],
     "standR": [],
     "synapter": [
