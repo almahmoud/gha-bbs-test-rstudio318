@@ -38,10 +38,7 @@
     "BiocOncoTK": [],
     "biomvRCNS": [],
     "biscuiteer": [],
-    "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "CAFE": [],
     "CAGEfightR": [
@@ -92,7 +89,6 @@
         "CopyNumberPlots"
     ],
     "comapr": [],
-    "coMET": [],
     "compEpiTools": [
         "methylPipe"
     ],
@@ -137,7 +133,6 @@
         "MSnbase",
         "mzID"
     ],
-    "derfinderPlot": [],
     "divergence": [],
     "DMRcate": [
         "missMethyl"
@@ -292,7 +287,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MsQuality": [],
     "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
@@ -380,8 +374,6 @@
     "rebook": [],
     "recount": [],
     "regionReport": [],
-    "regutools": [],
-    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
         "MSnbase",
@@ -421,7 +413,6 @@
     "SeqSQC": [],
     "seqTools": [],
     "signatureSearch": [],
-    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "wateRmelon"
