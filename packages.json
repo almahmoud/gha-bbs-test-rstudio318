@@ -75,7 +75,6 @@
     "clusterExperiment": [],
     "CNVfilteR": [],
     "CNViz": [],
-    "comapr": [],
     "compEpiTools": [],
     "CONFESS": [],
     "consensusDE": [],
@@ -131,7 +130,6 @@
     ],
     "enrichTF": [],
     "EpiCompare": [],
-    "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [],
     "extraChIPs": [],
@@ -381,7 +379,6 @@
     ],
     "TPP2D": [],
     "treekoR": [],
-    "uncoverappLib": [],
     "uSORT": [
         "monocle"
     ],
