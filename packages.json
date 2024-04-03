@@ -16,7 +16,6 @@
         "alabaster.sce"
     ],
     "alabaster.vcf": [],
-    "AllelicImbalance": [],
     "arrayMvout": [
         "lumi"
     ],
@@ -186,7 +185,6 @@
     "gDRimport": [],
     "GeneBreak": [],
     "geneRecommender": [],
-    "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "ggcyto": [],
@@ -301,8 +299,7 @@
     "multicrispr": [],
     "mzID": [],
     "NADfinder": [
-        "ATACseqQC",
-        "trackViewer"
+        "ATACseqQC"
     ],
     "nanotatoR": [],
     "ncGTW": [
@@ -437,7 +434,6 @@
         "mzID"
     ],
     "TPP2D": [],
-    "trackViewer": [],
     "treekoR": [],
     "TVTB": [],
     "uncoverappLib": [],
