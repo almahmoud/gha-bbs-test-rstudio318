@@ -115,7 +115,6 @@
         "safe"
     ],
     "enrichTF": [],
-    "EpiCompare": [],
     "extraChIPs": [],
     "ffpe": [
         "lumi"
@@ -169,7 +168,6 @@
     "MAGAR": [
         "RnBeads"
     ],
-    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -309,7 +307,6 @@
     "safe": [],
     "SCFA": [],
     "segmenter": [],
-    "seqArchRplus": [],
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
