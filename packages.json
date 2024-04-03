@@ -18,7 +18,6 @@
     "arrayMvout": [
         "lumi"
     ],
-    "ATACCoGAPS": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -207,7 +206,6 @@
     ],
     "monocle": [],
     "Moonlight2R": [],
-    "MoonlightR": [],
     "msmsEDA": [
         "MSnbase",
         "mzID"
