@@ -35,7 +35,6 @@
     ],
     "bioCancer": [],
     "BiocOncoTK": [],
-    "biomvRCNS": [],
     "biscuiteer": [],
     "brainflowprobes": [],
     "brendaDb": [],
@@ -230,7 +229,6 @@
         "mzID",
         "xcms"
     ],
-    "maser": [],
     "mCSEA": [],
     "MEAL": [
         "missMethyl"
@@ -296,7 +294,6 @@
         "mzID"
     ],
     "MSstatsShiny": [],
-    "multicrispr": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC"
@@ -359,7 +356,6 @@
         "MSnbase",
         "mzID"
     ],
-    "Pviz": [],
     "qckitfastq": [
         "seqTools"
     ],
@@ -385,16 +381,9 @@
     "RNAAgeCalc": [
         "recount"
     ],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [
         "recount"
     ],
@@ -418,7 +407,6 @@
         "GenomicInteractions"
     ],
     "SPLINTER": [],
-    "srnadiff": [],
     "standR": [],
     "synapter": [
         "MSnbase",
