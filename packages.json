@@ -114,7 +114,6 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "enrichTF": [],
     "extraChIPs": [],
     "ffpe": [
         "lumi"
@@ -139,7 +138,6 @@
     "geneRecommender": [],
     "ggcyto": [],
     "GNOSIS": [],
-    "goSorensen": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -330,7 +328,6 @@
     "uSORT": [
         "monocle"
     ],
-    "vulcan": [],
     "wateRmelon": [
         "lumi"
     ],
