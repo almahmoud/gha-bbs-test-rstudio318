@@ -253,7 +253,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MSstatsLiP": [],
     "MSstatsQC": [
         "MSnbase",
         "mzID"
@@ -263,7 +262,6 @@
         "MSstatsQC",
         "mzID"
     ],
-    "MSstatsShiny": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC"
