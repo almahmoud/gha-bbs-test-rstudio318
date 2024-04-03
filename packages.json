@@ -61,7 +61,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "ChIPQC": [],
     "cicero": [
         "monocle"
@@ -76,17 +75,12 @@
         "mzID"
     ],
     "clusterExperiment": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "comapr": [],
     "compEpiTools": [],
     "CONFESS": [],
     "consensusDE": [],
-    "CopyNumberPlots": [],
     "cosmiq": [
         "MSnbase",
         "mzID",
@@ -96,7 +90,6 @@
         "crisprViz"
     ],
     "crisprViz": [],
-    "cummeRbund": [],
     "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
@@ -333,9 +326,7 @@
         "MSnbase",
         "mzID"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "mzID"
@@ -349,7 +340,6 @@
     ],
     "RandomWalkRestartMH": [],
     "rebook": [],
-    "recount": [],
     "regionReport": [],
     "ribosomeProfilingQC": [],
     "Risa": [
@@ -362,15 +352,11 @@
         "MSnbase",
         "mzID"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "safe": [],
     "SCFA": [],
@@ -388,7 +374,6 @@
         "wateRmelon"
     ],
     "spatzie": [],
-    "SPLINTER": [],
     "standR": [],
     "synapter": [
         "MSnbase",
