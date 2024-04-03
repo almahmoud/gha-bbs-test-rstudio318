@@ -30,7 +30,6 @@
     ],
     "bioCancer": [],
     "BiocOncoTK": [],
-    "biscuiteer": [],
     "brainflowprobes": [],
     "brendaDb": [],
     "CAGEfightR": [],
@@ -45,7 +44,6 @@
     "canceR": [],
     "cbaf": [],
     "CBNplot": [],
-    "CEMiTool": [],
     "censcyt": [],
     "ChAMP": [
         "DMRcate",
@@ -199,7 +197,6 @@
         "mzID",
         "xcms"
     ],
-    "MetaPhOR": [],
     "methylGSA": [
         "missMethyl"
     ],
@@ -262,7 +259,6 @@
         "yarn"
     ],
     "openCyto": [],
-    "PanomiR": [],
     "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
