@@ -43,7 +43,6 @@
     ],
     "canceR": [],
     "cbaf": [],
-    "CBNplot": [],
     "censcyt": [],
     "ChAMP": [
         "DMRcate",
@@ -199,7 +198,6 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "MicrobiomeProfiler": [],
     "microRNA": [],
     "MineICA": [
         "lumi"
@@ -325,7 +323,6 @@
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
-    "signatureSearch": [],
     "skewr": [
         "lumi",
         "wateRmelon"
