@@ -62,7 +62,6 @@
         "xcms"
     ],
     "crisprVerse": [],
-    "cyanoFilter": [],
     "CytoML": [],
     "CytoPipeline": [],
     "CytoPipelineGUI": [
@@ -103,10 +102,7 @@
         "xcms"
     ],
     "flowGate": [],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "GateFinder": [],
     "gDR": [],
     "geneRecommender": [],
@@ -119,7 +115,6 @@
     "iCheck": [
         "lumi"
     ],
-    "ImmuneSpaceR": [],
     "iNETgrate": [],
     "IPO": [
         "CAMERA",
