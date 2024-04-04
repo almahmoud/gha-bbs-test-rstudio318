@@ -64,12 +64,9 @@
     "crisprVerse": [],
     "cyanoFilter": [],
     "CytoML": [],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC"
+        "CytoPipeline"
     ],
     "DAPAR": [
         "MSnbase",
@@ -218,7 +215,6 @@
         "clusterExperiment"
     ],
     "netZooR": [],
-    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "mzID"
