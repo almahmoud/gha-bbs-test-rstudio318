@@ -117,9 +117,7 @@
         "mzID",
         "xcms"
     ],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -242,7 +240,6 @@
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "safe": [],
     "SCFA": [],
     "SeqGate": [],
