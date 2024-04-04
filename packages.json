@@ -33,7 +33,6 @@
     "cbaf": [],
     "ChAMP": [
         "DMRcate",
-        "missMethyl",
         "wateRmelon"
     ],
     "cicero": [
@@ -73,9 +72,7 @@
         "mzID"
     ],
     "divergence": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
@@ -129,9 +126,7 @@
         "mzID",
         "xcms"
     ],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -141,12 +136,9 @@
         "mzID",
         "xcms"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "microRNA": [],
     "MineICA": [],
-    "missMethyl": [],
     "MobilityTransformR": [
         "MSnbase",
         "mzID",
