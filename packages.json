@@ -7,16 +7,13 @@
         "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "bandle": [
         "MSnbase",
         "mzID",
         "pRoloc"
     ],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [],
@@ -36,7 +33,6 @@
     "cbaf": [],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -92,9 +88,7 @@
         "safe"
     ],
     "extraChIPs": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -111,9 +105,7 @@
         "safe"
     ],
     "HiCDCPlus": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "iNETgrate": [],
     "IPO": [
         "CAMERA",
@@ -128,7 +120,6 @@
         "mzID",
         "xcms"
     ],
-    "lumi": [],
     "MAGAR": [
         "RnBeads"
     ],
@@ -142,7 +133,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "metaMS": [
@@ -155,9 +145,7 @@
         "missMethyl"
     ],
     "microRNA": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "missMethyl": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -269,7 +257,6 @@
     "SeqSQC": [],
     "seqTools": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "spatzie": [],
@@ -288,9 +275,7 @@
     "uSORT": [
         "monocle"
     ],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "xcms": [
         "MSnbase",
         "mzID"
