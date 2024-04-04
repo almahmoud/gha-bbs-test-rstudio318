@@ -64,9 +64,7 @@
     "crisprVerse": [],
     "cyanoFilter": [],
     "cytofQC": [],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoPipeline": [
         "PeacoQC"
     ],
@@ -109,7 +107,6 @@
         "mzID",
         "xcms"
     ],
-    "flowBin": [],
     "flowCut": [],
     "flowGate": [],
     "flowStats": [],
@@ -221,10 +218,7 @@
     "netSmooth": [
         "clusterExperiment"
     ],
-    "netZooR": [
-        "yarn"
-    ],
-    "openCyto": [],
+    "netZooR": [],
     "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
@@ -315,7 +309,6 @@
         "mzID"
     ],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
