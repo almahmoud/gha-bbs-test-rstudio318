@@ -65,17 +65,14 @@
     "cyanoFilter": [],
     "cytofQC": [],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "DAPAR": [
         "MSnbase",
@@ -114,9 +111,7 @@
     ],
     "flowBin": [],
     "flowCut": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowStats": [],
     "flowVS": [
         "flowStats"
@@ -124,7 +119,6 @@
     "GateFinder": [],
     "gDR": [],
     "geneRecommender": [],
-    "ggcyto": [],
     "GNOSIS": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
