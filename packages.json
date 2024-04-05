@@ -48,7 +48,6 @@
         "mzID",
         "xcms"
     ],
-    "crisprVerse": [],
     "CytoML": [],
     "CytoPipeline": [],
     "CytoPipelineGUI": [
@@ -223,7 +222,6 @@
         "MSnbase",
         "mzID"
     ],
-    "RnaSeqSampleSize": [],
     "safe": [],
     "SCFA": [],
     "SeqGate": [],
