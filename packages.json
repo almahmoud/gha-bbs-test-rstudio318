@@ -3,13 +3,11 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "alabaster": [],
     "bandle": [
         "MSnbase",
         "mzID",
         "pRoloc"
     ],
-    "bigmelon": [],
     "BiocOncoTK": [],
     "brendaDb": [],
     "CAGEr": [],
@@ -103,7 +101,6 @@
         "xcms"
     ],
     "MEAL": [],
-    "MEAT": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -211,7 +208,6 @@
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
-    "skewr": [],
     "synapter": [
         "MSnbase",
         "mzID"
