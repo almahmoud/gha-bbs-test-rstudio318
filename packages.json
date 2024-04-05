@@ -17,7 +17,6 @@
         "wateRmelon"
     ],
     "BiocOncoTK": [],
-    "brainflowprobes": [],
     "brendaDb": [],
     "CAGEfightR": [],
     "CAGEr": [
@@ -231,8 +230,6 @@
         "MSnbase",
         "mzID"
     ],
-    "RNAAgeCalc": [],
-    "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
     "RnaSeqSampleSize": [],
@@ -244,7 +241,6 @@
     "skewr": [
         "wateRmelon"
     ],
-    "spatzie": [],
     "synapter": [
         "MSnbase",
         "mzID"
@@ -265,7 +261,6 @@
         "MSnbase",
         "mzID"
     ],
-    "YAPSA": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
