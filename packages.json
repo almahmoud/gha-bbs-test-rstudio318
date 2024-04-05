@@ -18,10 +18,7 @@
     ],
     "BiocOncoTK": [],
     "brendaDb": [],
-    "CAGEfightR": [],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "mzID",
@@ -44,7 +41,6 @@
         "mzID"
     ],
     "clusterExperiment": [],
-    "CNVfilteR": [],
     "CNViz": [],
     "compEpiTools": [],
     "cosmiq": [
@@ -204,7 +200,6 @@
         "MSnbase",
         "mzID"
     ],
-    "psichomics": [],
     "ptairMS": [
         "MSnbase",
         "mzID"
