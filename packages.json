@@ -3,19 +3,13 @@
     "AgiMicroRna": [
         "affycoretools"
     ],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
-    "arrayMvout": [],
+    "alabaster": [],
     "bandle": [
         "MSnbase",
         "mzID",
         "pRoloc"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BiocOncoTK": [],
     "brendaDb": [],
     "CAGEr": [],
@@ -25,8 +19,7 @@
         "xcms"
     ],
     "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
+        "DMRcate"
     ],
     "cicero": [
         "monocle"
@@ -110,9 +103,7 @@
         "xcms"
     ],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -120,7 +111,6 @@
         "xcms"
     ],
     "microRNA": [],
-    "MineICA": [],
     "MobilityTransformR": [
         "MSnbase",
         "mzID",
@@ -167,7 +157,6 @@
     "netSmooth": [
         "clusterExperiment"
     ],
-    "netZooR": [],
     "peakPantheR": [
         "MSnbase",
         "mzID"
@@ -222,9 +211,7 @@
     "SeqGate": [],
     "SeqSQC": [],
     "seqTools": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "synapter": [
         "MSnbase",
         "mzID"
@@ -240,7 +227,6 @@
     "uSORT": [
         "monocle"
     ],
-    "wateRmelon": [],
     "xcms": [
         "MSnbase",
         "mzID"
