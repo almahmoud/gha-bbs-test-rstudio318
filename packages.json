@@ -1,8 +1,5 @@
 {
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -10,15 +7,12 @@
     ],
     "BiocOncoTK": [],
     "brendaDb": [],
-    "CAGEr": [],
     "CAMERA": [
         "MSnbase",
         "mzID",
         "xcms"
     ],
-    "ChAMP": [
-        "DMRcate"
-    ],
+    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
@@ -32,18 +26,12 @@
         "mzID"
     ],
     "clusterExperiment": [],
-    "CNViz": [],
-    "compEpiTools": [],
     "cosmiq": [
         "MSnbase",
         "mzID",
         "xcms"
     ],
-    "CytoML": [],
-    "CytoPipeline": [],
-    "CytoPipelineGUI": [
-        "CytoPipeline"
-    ],
+    "CytoPipelineGUI": [],
     "DAPAR": [
         "MSnbase",
         "mzID"
@@ -54,7 +42,6 @@
         "mzID"
     ],
     "divergence": [],
-    "DMRcate": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
@@ -66,21 +53,17 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "ffpe": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
         "mzID",
         "xcms"
     ],
-    "flowVS": [],
     "geneRecommender": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
     ],
-    "iCheck": [],
-    "iNETgrate": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -100,7 +83,6 @@
         "mzID",
         "xcms"
     ],
-    "MEAL": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
