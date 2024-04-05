@@ -84,7 +84,6 @@
     ],
     "flowGate": [],
     "flowVS": [],
-    "gDR": [],
     "geneRecommender": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -159,7 +158,6 @@
         "mzID"
     ],
     "mzID": [],
-    "NADfinder": [],
     "nanotatoR": [],
     "ncGTW": [
         "MSnbase",
