@@ -122,7 +122,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AlpsNMR": [],
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
@@ -732,9 +731,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [],
     "CytoDx": [],
     "CyTOFpower": [
@@ -791,7 +788,6 @@
     "DAPAR": [
         "DOSE",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1513,7 +1509,6 @@
         "bsseq"
     ],
     "KnowSeq": [],
-    "LACE": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -1591,7 +1586,6 @@
     "mariner": [
         "plotgardener"
     ],
-    "martini": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -1731,7 +1725,6 @@
         "biovizBase"
     ],
     "methylscaper": [],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "bsseq"
@@ -1742,7 +1735,6 @@
         "siggenes"
     ],
     "MetID": [],
-    "Mfuzz": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -1956,9 +1948,7 @@
         "HiCcompare"
     ],
     "MultimodalExperiment": [],
-    "MultiRNAflow": [
-        "Mfuzz"
-    ],
+    "MultiRNAflow": [],
     "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
@@ -2072,8 +2062,7 @@
     ],
     "omicRexposome": [
         "made4",
-        "omicade4",
-        "rexposome"
+        "omicade4"
     ],
     "OMICsPCA": [
         "HelloRanges",
@@ -2248,7 +2237,6 @@
         "DAPAR",
         "DOSE",
         "MSnbase",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2422,7 +2410,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rexposome": [],
     "rGADEM": [],
     "rGenomeTracks": [],
     "RGMQL": [],
@@ -2469,7 +2456,6 @@
         "MSnbase"
     ],
     "Rmmquant": [],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2663,7 +2649,6 @@
         "VariantAnnotation"
     ],
     "SeqGSEA": [],
-    "seqsetvis": [],
     "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [],
@@ -2720,7 +2705,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "single": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
@@ -2926,7 +2910,6 @@
     "timecourse": [],
     "TimiRGeN": [
         "DOSE",
-        "Mfuzz",
         "clusterProfiler",
         "enrichplot"
     ],
