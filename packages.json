@@ -3,13 +3,11 @@
         "a4Base",
         "a4Classif",
         "a4Preproc",
-        "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Preproc",
-        "annaffy",
         "genefilter",
         "multtest"
     ],
@@ -379,7 +377,6 @@
         "DESeq2",
         "MultiAssayExperiment"
     ],
-    "annaffy": [],
     "annmap": [
         "Rhtslib",
         "Rsamtools",
@@ -872,7 +869,6 @@
         "GSEABase",
         "multtest"
     ],
-    "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
         "hyperdraw",
@@ -917,7 +913,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "biobroom": [],
     "bioCancer": [
         "BiocIO",
         "DOSE",
@@ -2073,10 +2068,7 @@
         "vsn",
         "xcms"
     ],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
@@ -5573,7 +5565,6 @@
         "rtracklayer"
     ],
     "ivygapSE": [],
-    "IWTomics": [],
     "karyoploteR": [
         "AnnotationFilter",
         "BSgenome",
@@ -5642,7 +5633,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -5930,7 +5920,6 @@
         "affyio",
         "gcrma"
     ],
-    "massiR": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -6115,7 +6104,6 @@
     "MesKit": [
         "ComplexHeatmap"
     ],
-    "metabCombiner": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -6560,9 +6548,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [
         "MultiAssayExperiment"
     ],
@@ -6642,7 +6628,6 @@
         "oligoClasses",
         "rtracklayer"
     ],
-    "MiPP": [],
     "miQC": [
         "SingleCellExperiment"
     ],
@@ -8427,7 +8412,6 @@
         "genefilter",
         "sva"
     ],
-    "QSutils": [],
     "qsvaR": [
         "genefilter",
         "sva"
@@ -8758,7 +8742,6 @@
         "DelayedMatrixStats",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "TOAST",
         "beachmat",
         "bluster",
         "fgsea",
@@ -9364,7 +9347,6 @@
         "multtest",
         "ropls"
     ],
-    "rRDP": [],
     "rrvgo": [],
     "Rsamtools": [
         "Rhtslib"
@@ -9789,7 +9771,6 @@
     "scReClassify": [
         "SingleCellExperiment"
     ],
-    "scRecover": [],
     "screenCounter": [],
     "ScreenR": [],
     "scRepertoire": [
@@ -10099,7 +10080,6 @@
     "sigFeature": [
         "biocViews"
     ],
-    "SigFuge": [],
     "siggenes": [
         "multtest"
     ],
@@ -10868,7 +10848,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "target": [],
     "TargetDecoy": [
         "mzID",
         "mzR"
@@ -11069,7 +11048,6 @@
         "sparseMatrixStats"
     ],
     "TnT": [],
-    "TOAST": [],
     "tomoda": [],
     "TOP": [
         "ClassifyR",
@@ -11094,9 +11072,7 @@
         "marray",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "TPP2D": [],
     "tracktables": [
         "Rhtslib",
@@ -11602,7 +11578,6 @@
     "webbioc": [
         "affy",
         "affyio",
-        "annaffy",
         "gcrma",
         "multtest",
         "vsn"
