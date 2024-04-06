@@ -205,9 +205,7 @@
     "BEAT": [],
     "benchdamic": [
         "ALDEx2",
-        "Maaslin2",
-        "phyloseq",
-        "zinbwave"
+        "Maaslin2"
     ],
     "BgeeCall": [],
     "BgeeDB": [],
@@ -493,9 +491,7 @@
     "CluMSID": [
         "MSnbase"
     ],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "DOSE",
         "enrichplot"
@@ -547,9 +543,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "VariantAnnotation",
@@ -830,7 +824,6 @@
     "DSS": [
         "bsseq"
     ],
-    "dyebias": [],
     "easier": [],
     "easyRNASeq": [],
     "EDASeq": [],
@@ -1222,7 +1215,6 @@
         "VariantAnnotation"
     ],
     "HERON": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -1230,7 +1222,6 @@
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiContacts": [],
@@ -1266,7 +1257,6 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "ILoReg": [],
     "IMAS": [
         "IVAS"
     ],
@@ -1423,9 +1413,7 @@
         "TFBSTools"
     ],
     "MBASED": [],
-    "MBECS": [
-        "phyloseq"
-    ],
+    "MBECS": [],
     "mBPCR": [],
     "mbQTL": [],
     "mCSEA": [
@@ -1550,16 +1538,11 @@
         "minfi",
         "siggenes"
     ],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ALDEx2",
-        "phyloseq"
+        "ALDEx2"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -1722,9 +1705,7 @@
         "karyoploteR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiRNAflow": [],
     "mumosa": [],
     "MungeSumstats": [
@@ -1781,8 +1762,7 @@
     ],
     "netresponse": [],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "Category",
@@ -1875,9 +1855,7 @@
     "pareg": [
         "DOSE"
     ],
-    "PathoStat": [
-        "phyloseq"
-    ],
+    "PathoStat": [],
     "pathRender": [],
     "pathview": [
         "KEGGgraph"
@@ -1898,7 +1876,6 @@
     "peakPantheR": [
         "MSnbase"
     ],
-    "peco": [],
     "phantasus": [],
     "PharmacoGx": [
         "CoreGx",
@@ -1914,7 +1891,6 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "Pigengene": [
@@ -1941,8 +1917,7 @@
     "POWSC": [],
     "PPInfer": [],
     "prebs": [
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "aCGH",
@@ -2065,9 +2040,7 @@
     "rCGH": [
         "aCGH"
     ],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -2077,9 +2050,7 @@
         "enrichplot"
     ],
     "rebook": [],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2236,9 +2207,7 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "RPA": [
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2266,9 +2235,7 @@
     "SCAN.UPC": [],
     "scanMiRApp": [],
     "SCArray.sat": [],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [],
     "scClassify": [
         "Cepo"
@@ -2360,9 +2327,7 @@
         "minfi",
         "siggenes"
     ],
-    "SIAMCAT": [
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [],
     "sigFeature": [],
     "siggenes": [],
@@ -2385,9 +2350,7 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "SimBu": [
-        "phyloseq"
-    ],
+    "SimBu": [],
     "SIMD": [],
     "simpleSeg": [
         "cytomapper"
@@ -2399,8 +2362,7 @@
         "TSCAN",
         "celda",
         "scDblFinder",
-        "scMerge",
-        "zinbwave"
+        "scMerge"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -2463,9 +2425,7 @@
         "motifmatchr"
     ],
     "Spectra": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -2480,9 +2440,7 @@
         "biovizBase"
     ],
     "SpotClean": [],
-    "SPsimSeq": [
-        "phyloseq"
-    ],
+    "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
         "VariantAnnotation",
@@ -2527,9 +2485,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TAPseq": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
@@ -2668,7 +2624,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "VDJdive": [],
     "velociraptor": [],
     "ViSEAGO": [],
     "vissE": [],
@@ -2727,7 +2682,6 @@
         "pathview",
         "safe"
     ],
-    "zinbwave": [],
     "ZygosityPredictor": [
         "VariantAnnotation"
     ]
