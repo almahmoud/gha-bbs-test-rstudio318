@@ -633,7 +633,6 @@
         "pcaMethods"
     ],
     "AWFisher": [],
-    "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
         "Rhtslib",
@@ -2911,7 +2910,6 @@
         "multtest"
     ],
     "dcGSA": [],
-    "ddCt": [],
     "ddPCRclust": [
         "cytolib",
         "flowCore",
@@ -3030,10 +3028,8 @@
     "DelayedMatrixStats": [
         "sparseMatrixStats"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array",
         "ScaledMatrix",
         "beachmat",
@@ -3097,7 +3093,6 @@
         "mixOmics"
     ],
     "DepInfeR": [],
-    "DEqMS": [],
     "derfinder": [
         "BSgenome",
         "BiocIO",
@@ -3983,7 +3978,6 @@
         "rtracklayer",
         "wiggleplotr"
     ],
-    "FamAgg": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -4669,7 +4663,6 @@
         "genefilter",
         "vsn"
     ],
-    "getDEE2": [],
     "gg4way": [
         "DESeq2"
     ],
@@ -5257,7 +5250,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IHW",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -5292,7 +5284,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [],
     "ILoReg": [
         "SingleCellExperiment"
     ],
@@ -5554,7 +5545,6 @@
         "oligoClasses"
     ],
     "iterativeBMA": [],
-    "iterClust": [],
     "IVAS": [
         "BiocIO",
         "GenomicAlignments",
@@ -7136,7 +7126,6 @@
         "Mfuzz",
         "tkWidgets"
     ],
-    "multiscan": [],
     "multiWGCNA": [],
     "multtest": [],
     "mumosa": [
@@ -7628,7 +7617,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -7822,7 +7810,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -8030,7 +8017,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "GenomicAlignments",
@@ -11326,7 +11312,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy",
@@ -11631,7 +11616,6 @@
         "marray",
         "piano"
     ],
-    "XINA": [],
     "XNAString": [
         "BSgenome",
         "BiocIO",
