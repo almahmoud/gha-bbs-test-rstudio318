@@ -31,7 +31,6 @@
     ],
     "affyPLM": [],
     "AGDEX": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
         "GOstats",
@@ -49,7 +48,6 @@
     ],
     "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.base",
         "alabaster.bumpy",
@@ -93,7 +91,6 @@
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -351,7 +348,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -407,7 +403,6 @@
     ],
     "CelliD": [],
     "cellity": [],
-    "CellMixS": [],
     "CellNOptR": [],
     "CEMiTool": [
         "DOSE",
@@ -504,7 +499,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -631,7 +625,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -668,9 +661,7 @@
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -697,9 +688,7 @@
         "CATALYST",
         "FlowSOM"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
         "flowClust",
@@ -725,7 +714,6 @@
         "ncdfFlow"
     ],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [],
@@ -811,9 +799,7 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
@@ -979,9 +965,7 @@
         "GSVA",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "esetVis": [],
     "EventPointer": [
         "SGSeq"
@@ -993,9 +977,7 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -1032,7 +1014,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1203,15 +1184,12 @@
         "ncdfFlow"
     ],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "girafe": [],
     "GISPA": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
-    "GloScope": [],
     "gmapR": [
         "VariantAnnotation"
     ],
@@ -1295,10 +1273,7 @@
     "HiLDA": [],
     "hipathia": [],
     "hiReadsProcessor": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
-    "hpar": [],
+    "hoodscanR": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
@@ -1332,7 +1307,6 @@
         "IVAS"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [
@@ -1375,7 +1349,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1419,7 +1392,6 @@
     ],
     "lipidr": [],
     "lisaClust": [
-        "SpatialExperiment",
         "spicyR"
     ],
     "lmdme": [],
@@ -1427,7 +1399,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1472,7 +1443,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1538,7 +1508,6 @@
     ],
     "MetaboAnnotation": [
         "CompoundDb",
-        "QFeatures",
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
@@ -1546,7 +1515,6 @@
     "MetaboSignal": [
         "KEGGgraph",
         "MWASTools",
-        "hpar",
         "mygene"
     ],
     "MetaCyto": [
@@ -1556,7 +1524,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1701,16 +1668,13 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
     "MOFA2": [],
     "MOGAMUN": [],
     "mogsa": [],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
         "TFBSTools"
@@ -1755,7 +1719,6 @@
         "Spectra"
     ],
     "MsExperiment": [
-        "QFeatures",
         "Spectra"
     ],
     "msgbsR": [
@@ -1781,12 +1744,9 @@
     ],
     "MSPrep": [],
     "msPurity": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "MSstatsBig": [],
@@ -1860,7 +1820,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -1896,9 +1855,7 @@
     "NewWave": [],
     "nipalsMCIA": [],
     "nnNorm": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [],
@@ -2110,9 +2067,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -2128,11 +2083,9 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "pwOmics": [],
     "QDNAseq": [
         "CGHcall"
     ],
-    "QFeatures": [],
     "qPLEXanalyzer": [
         "MSnbase"
     ],
@@ -2295,7 +2248,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra",
         "xcms"
     ],
@@ -2399,7 +2351,6 @@
     "scClassify": [
         "Cepo"
     ],
-    "sccomp": [],
     "scDataviz": [],
     "scDblFinder": [],
     "scDD": [],
@@ -2411,9 +2362,7 @@
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [],
     "scMerge": [
         "M3Drop"
@@ -2432,9 +2381,7 @@
     "scoreInvHap": [
         "VariantAnnotation"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [],
     "scRepertoire": [],
     "scRNAseqApp": [
@@ -2516,7 +2463,6 @@
     ],
     "signifinder": [
         "GSVA",
-        "SpatialExperiment",
         "consensusOV"
     ],
     "SigsPack": [
@@ -2532,7 +2478,6 @@
     ],
     "SIMD": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "simplifyEnrichment": [],
@@ -2593,17 +2538,10 @@
     ],
     "Spaniel": [],
     "sparrow": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
     "spatzie": [
@@ -2623,12 +2561,9 @@
         "KEGGgraph"
     ],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
-    "spicyR": [
-        "SpatialExperiment"
-    ],
+    "spicyR": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -2637,10 +2572,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
-    "SPOTlight": [],
+    "SpotClean": [],
     "SPsimSeq": [
         "biomformat",
         "phyloseq"
@@ -2653,21 +2585,16 @@
     "sSNAPPY": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "Category",
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [],
     "structToolbox": [],
     "StructuralVariantAnnotation": [
@@ -2685,7 +2612,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "switchde": [],
     "synapter": [
         "MSnbase"
     ],
@@ -2849,7 +2775,6 @@
     "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vtpnet": [
@@ -2875,7 +2800,6 @@
     "xcms": [
         "MSnbase",
         "MsExperiment",
-        "QFeatures",
         "Spectra"
     ],
     "xcore": [],
