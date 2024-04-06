@@ -536,7 +536,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "beadarraySNP": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -682,7 +681,6 @@
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "bioDist": [],
     "biomformat": [
         "rhdf5",
         "rhdf5filters"
@@ -827,7 +825,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BrowserViz": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -1167,8 +1164,7 @@
     "ChemmineOB": [],
     "ChemmineR": [],
     "CHETAH": [
-        "SingleCellExperiment",
-        "bioDist"
+        "SingleCellExperiment"
     ],
     "chihaya": [
         "HDF5Array",
@@ -1901,7 +1897,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "bumphunter",
-        "fastseg",
         "methylKit",
         "minfi",
         "multtest",
@@ -2070,7 +2065,6 @@
         "sparseMatrixStats"
     ],
     "DirichletMultinomial": [],
-    "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
         "BiocSingular",
@@ -2126,7 +2120,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "GenomicFeatures",
         "bamsignals"
@@ -2376,7 +2369,6 @@
     ],
     "EpiTxDb": [
         "GenomicFeatures",
-        "Modstrings",
         "Structstrings",
         "tRNA",
         "tRNAdbImport"
@@ -2507,7 +2499,6 @@
         "csaw",
         "ensembldb"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "GenomicFeatures",
@@ -2525,7 +2516,6 @@
     "FastqCleaner": [
         "ShortRead"
     ],
-    "fastseg": [],
     "fCCAC": [
         "genomation"
     ],
@@ -3137,9 +3127,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "sva"
     ],
@@ -3271,7 +3259,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "iChip": [],
     "iCNV": [
         "CODEX"
     ],
@@ -3292,7 +3279,6 @@
     "idpr": [],
     "IFAA": [],
     "igvR": [
-        "BrowserViz",
         "GenomicFeatures",
         "VariantAnnotation"
     ],
@@ -3926,7 +3912,6 @@
     ],
     "methimpute": [],
     "methInheritSim": [
-        "fastseg",
         "methylKit"
     ],
     "MethReg": [
@@ -4012,12 +3997,9 @@
         "sparseMatrixStats"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit"
     ],
-    "methylKit": [
-        "fastseg"
-    ],
+    "methylKit": [],
     "methylMnM": [],
     "methylPipe": [
         "GenomicFeatures",
@@ -4217,7 +4199,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -4285,7 +4266,6 @@
         "xcms"
     ],
     "MODA": [],
-    "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
@@ -4334,9 +4314,7 @@
         "fgsea"
     ],
     "mosaics": [],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -4362,8 +4340,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "mpra": [],
-    "MPRAnalyze": [],
     "msa": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
@@ -4895,9 +4871,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [
         "DESeq2",
@@ -5089,7 +5063,6 @@
         "AnnotationHub",
         "ExperimentHub",
         "OmaDB",
-        "bioDist",
         "topGO"
     ],
     "phyloseq": [
@@ -5481,9 +5454,7 @@
         "basilisk.utils"
     ],
     "RCy3": [],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot",
@@ -5777,7 +5748,6 @@
     "RNAmodR": [
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -5785,7 +5755,6 @@
     "RNAmodR.AlkAnilineSeq": [
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5794,7 +5763,6 @@
     "RNAmodR.ML": [
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5803,7 +5771,6 @@
     "RNAmodR.RiboMethSeq": [
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -6891,10 +6858,8 @@
         "RaggedExperiment"
     ],
     "TCseq": [],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "DOSE",
-        "TDbasedUFE",
         "enrichplot",
         "fgsea"
     ],
@@ -7089,16 +7054,13 @@
     ],
     "triplex": [],
     "tRNA": [
-        "Modstrings",
         "Structstrings"
     ],
     "tRNAdbImport": [
-        "Modstrings",
         "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
-        "Modstrings",
         "Structstrings",
         "tRNA"
     ],
@@ -7125,7 +7087,6 @@
     "tweeDEseq": [
         "cqn"
     ],
-    "twilight": [],
     "txcutr": [
         "GenomicFeatures"
     ],
