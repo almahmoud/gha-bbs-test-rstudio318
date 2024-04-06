@@ -386,7 +386,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
@@ -890,7 +889,6 @@
     ],
     "gwascat": [],
     "gwasurvivr": [],
-    "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs"
     ],
@@ -1724,7 +1722,6 @@
         "minfi"
     ],
     "SIAMCAT": [],
-    "SigCheck": [],
     "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
