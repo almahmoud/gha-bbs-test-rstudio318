@@ -862,7 +862,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "mia",
         "scater",
         "scuttle",
@@ -1244,7 +1243,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "parody",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -1295,7 +1293,6 @@
         "zlibbioc"
     ],
     "ASAFE": [],
-    "ASEB": [],
     "ASGSCA": [],
     "ASICS": [
         "BiocBaseUtils",
@@ -1307,7 +1304,6 @@
         "MatrixGenerics",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -2213,7 +2209,6 @@
         "biomformat",
         "bluster",
         "dearseq",
-        "decontam",
         "edgeR",
         "genefilter",
         "limma",
@@ -2230,7 +2225,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "BG2": [],
     "BgeeCall": [
         "AnnotationDbi",
         "BiocIO",
@@ -2327,7 +2321,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -4500,7 +4493,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "ProtGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -4828,7 +4820,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "MatrixGenerics",
         "Rhtslib",
@@ -5310,11 +5301,8 @@
         "zlibbioc"
     ],
     "Clomial": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -7530,7 +7518,6 @@
     "DeconRNASeq": [
         "pcaMethods"
     ],
-    "decontam": [],
     "decontX": [
         "BiocNeighbors",
         "BiocParallel",
@@ -9487,7 +9474,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
         "BiocParallel",
@@ -10773,7 +10759,6 @@
         "cytolib",
         "flowCore"
     ],
-    "flowPlots": [],
     "FlowSOM": [
         "ConsensusClusterPlus",
         "RProtoBufLib",
@@ -11113,7 +11098,6 @@
         "genefilter",
         "limma",
         "rtracklayer",
-        "sSeq",
         "sva",
         "zlibbioc"
     ],
@@ -12861,7 +12845,6 @@
         "KEGGREST",
         "PPInfer",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -13472,16 +13455,12 @@
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
-        "HilbertVis",
         "IRanges",
         "S4Vectors",
         "XVector",
         "zlibbioc"
     ],
-    "HilbertVis": [],
-    "HilbertVisGUI": [
-        "HilbertVis"
-    ],
+    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
@@ -14052,7 +14031,6 @@
         "GenomeInfoDb",
         "IRanges",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "zlibbioc"
     ],
@@ -15628,7 +15606,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "ROC",
         "S4Vectors",
         "XVector",
         "affy",
@@ -16070,7 +16047,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -17071,7 +17047,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "scater",
         "scuttle",
         "sparseMatrixStats",
@@ -17119,7 +17094,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "decontam",
         "ggtree",
         "mia",
         "scater",
@@ -17213,7 +17187,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "decontam",
         "edgeR",
         "ggtree",
         "limma",
@@ -17290,7 +17263,6 @@
     "MICSQTL": [
         "BiocParallel",
         "DelayedArray",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -17729,7 +17701,6 @@
         "XVector",
         "edgeR",
         "limma",
-        "sSeq",
         "zlibbioc"
     ],
     "MMDiff2": [
@@ -18615,7 +18586,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "MSstatsLOBD": [],
     "MSstatsPTM": [
         "Biostrings",
         "GenomeInfoDb",
@@ -19525,7 +19495,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -19746,7 +19715,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "nuCpos": [],
     "nullranges": [
         "BiocIO",
         "BiocParallel",
@@ -20089,7 +20057,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "onlineFDR": [],
     "ontoProc": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -20657,7 +20624,6 @@
         "zlibbioc"
     ],
     "parglms": [],
-    "parody": [],
     "partCNV": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -20936,7 +20902,6 @@
     "pengls": [
         "BiocParallel"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -21537,7 +21502,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "fgsea",
@@ -22229,7 +22193,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "STRINGdb",
         "XVector",
         "biomaRt",
         "graph",
@@ -22238,7 +22201,6 @@
         "zlibbioc"
     ],
     "qckitfastq": [
-        "RSeqAn",
         "seqTools",
         "zlibbioc"
     ],
@@ -23256,7 +23218,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -24107,7 +24068,6 @@
         "Rsamtools",
         "S4Arrays",
         "S4Vectors",
-        "STRINGdb",
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
@@ -24586,7 +24546,6 @@
     "roastgsa": [
         "limma"
     ],
-    "ROC": [],
     "ROCpAI": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -24778,7 +24737,6 @@
         "zlibbioc"
     ],
     "rsemmed": [],
-    "RSeqAn": [],
     "Rsubread": [],
     "RSVSim": [
         "BiocParallel",
@@ -27430,7 +27388,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -28370,7 +28327,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sSeq": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "Biostrings",
@@ -28524,7 +28480,6 @@
         "zlibbioc"
     ],
     "statTarget": [
-        "ROC",
         "impute"
     ],
     "STdeconvolve": [
@@ -28577,7 +28532,6 @@
         "RBGL",
         "graph"
     ],
-    "STRINGdb": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -29085,7 +29039,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "ROC",
         "S4Arrays",
         "S4Vectors",
         "SparseArray",
@@ -29181,7 +29134,6 @@
         "KEGGREST",
         "RTCGA",
         "S4Vectors",
-        "STRINGdb",
         "TDbasedUFE",
         "XVector",
         "enrichplot",
@@ -29651,7 +29603,6 @@
     ],
     "TOAST": [
         "DelayedArray",
-        "EpiDISH",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -31032,7 +30983,6 @@
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
-        "ROC",
         "Rhdf5lib",
         "Rhtslib",
         "Rsamtools",
@@ -31253,9 +31203,7 @@
         "piano",
         "zlibbioc"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "xmapbridge": [],
     "XNAString": [
         "BSgenome",
