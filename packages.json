@@ -203,7 +203,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "affxparser": [],
     "affy": [
         "affyio",
         "preprocessCore",
@@ -273,7 +272,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "gcrma",
@@ -1198,7 +1196,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "limma",
         "oligo",
@@ -2625,7 +2622,6 @@
         "rhdf5filters"
     ],
     "BioMVCClass": [
-        "MVCClass",
         "Rgraphviz",
         "graph"
     ],
@@ -2829,7 +2825,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -4012,7 +4007,6 @@
         "graph",
         "zlibbioc"
     ],
-    "ccrepe": [],
     "CDI": [
         "BiocParallel",
         "DelayedArray",
@@ -4864,7 +4858,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "frma",
@@ -5436,7 +5429,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -6784,7 +6776,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -8828,7 +8819,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -9997,7 +9987,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "biomaRt",
         "fgsea",
         "graph",
@@ -10913,7 +10902,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -11491,7 +11479,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "affxparser",
         "zlibbioc"
     ],
     "geneRxCluster": [
@@ -12071,7 +12058,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "GEWIST": [],
     "gg4way": [
         "BiocParallel",
         "DESeq2",
@@ -12244,7 +12230,6 @@
         "graph",
         "zlibbioc"
     ],
-    "GladiaTOX": [],
     "Glimma": [
         "BiocParallel",
         "DESeq2",
@@ -13260,7 +13245,6 @@
         "multtest",
         "zlibbioc"
     ],
-    "Herper": [],
     "HGC": [],
     "hiAnnotator": [
         "BSgenome",
@@ -13710,8 +13694,6 @@
     ],
     "ibh": [],
     "iBMQ": [],
-    "iCARE": [],
-    "Icens": [],
     "icetea": [
         "AnnotationDbi",
         "BSgenome",
@@ -13851,7 +13833,6 @@
         "goseq",
         "graph",
         "limma",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO",
@@ -13957,9 +13938,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "IHW": [
-        "lpsymphony"
-    ],
+    "IHW": [],
     "ILoReg": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -14702,7 +14681,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -15209,7 +15187,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biostrings",
@@ -16721,7 +16698,6 @@
         "limma",
         "minfi",
         "multtest",
-        "planet",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -17324,7 +17300,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyPLM",
         "affyio",
@@ -17627,7 +17602,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "mistyR": [],
     "mitoClone2": [
         "AnnotationDbi",
         "BSgenome",
@@ -19019,7 +18993,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "Biostrings",
         "ComplexHeatmap",
@@ -19844,7 +19817,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligoClasses",
         "preprocessCore",
@@ -20716,7 +20688,6 @@
         "graph",
         "zlibbioc"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
@@ -20811,7 +20782,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses",
@@ -21277,7 +21247,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "planet": [],
     "planttfhunter": [
         "Biostrings",
         "DelayedArray",
@@ -21722,9 +21691,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "PROcess": [
-        "Icens"
-    ],
+    "PROcess": [],
     "procoil": [
         "Biostrings",
         "GenomeInfoDb",
@@ -22092,7 +22059,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -25143,7 +25109,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "affxparser",
         "affy",
         "affyio",
         "annotate",
@@ -27451,7 +27416,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "SLqPCR": [],
     "SMAD": [],
     "SMITE": [
         "AnnotationDbi",
@@ -28779,7 +28743,6 @@
         "biomaRt",
         "zlibbioc"
     ],
-    "SwathXtend": [],
     "switchde": [
         "DelayedArray",
         "GenomeInfoDb",
