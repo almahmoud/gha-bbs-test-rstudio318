@@ -661,7 +661,6 @@
     "cellity": [
         "topGO"
     ],
-    "CellMapper": [],
     "CellMixS": [],
     "CellNOptR": [
         "Rgraphviz"
@@ -735,7 +734,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "CHETAH": [],
     "chihaya": [
         "HDF5Array"
@@ -2354,7 +2352,6 @@
         "Maaslin2",
         "metagenomeSeq"
     ],
-    "macat": [],
     "MACSr": [
         "basilisk"
     ],
@@ -2915,7 +2912,6 @@
         "MSnbase",
         "mzID",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -2923,7 +2919,6 @@
         "MSstatsQC",
         "mzID",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -3489,7 +3484,6 @@
     "PWMEnrich": [],
     "pwOmics": [],
     "qckitfastq": [],
-    "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall"
@@ -3766,7 +3760,6 @@
         "regioneR"
     ],
     "RMassBank": [
-        "ChemmineOB",
         "MSnbase",
         "mzID",
         "mzR",
@@ -4330,7 +4323,6 @@
         "graphite"
     ],
     "ssviz": [],
-    "stageR": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
