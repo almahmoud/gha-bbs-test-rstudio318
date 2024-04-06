@@ -990,8 +990,7 @@
         "exomeCopy"
     ],
     "CNVRanger": [
-        "GDSArray",
-        "SNPRelate"
+        "GDSArray"
     ],
     "CNVrd2": [
         "GenomicFeatures",
@@ -2018,9 +2017,7 @@
         "biocViews"
     ],
     "gDRutils": [],
-    "GDSArray": [
-        "SNPRelate"
-    ],
+    "GDSArray": [],
     "geneAttribution": [
         "GenomicFeatures"
     ],
@@ -2038,7 +2035,6 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SNPRelate",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -2258,7 +2254,6 @@
     "gwasurvivr": [
         "GWASTools",
         "GenomicFeatures",
-        "SNPRelate",
         "VariantAnnotation"
     ],
     "GWENA": [],
@@ -2334,7 +2329,6 @@
         "hypergraph"
     ],
     "hypergraph": [],
-    "iasva": [],
     "icetea": [
         "GenomicFeatures",
         "ShortRead",
@@ -3881,7 +3875,6 @@
         "GENESIS",
         "GWASTools",
         "GenomicFeatures",
-        "SNPRelate",
         "SeqVarTools",
         "VariantAnnotation",
         "ensembldb"
@@ -4220,7 +4213,6 @@
         "multtest",
         "phyloseq"
     ],
-    "rprimer": [],
     "Rqc": [
         "GenomicFeatures",
         "GenomicFiles",
@@ -4238,7 +4230,6 @@
     "RSVSim": [
         "ShortRead"
     ],
-    "RTCA": [],
     "RTCGAToolbox": [
         "GenomicFeatures",
         "TCGAutils"
@@ -4453,9 +4444,7 @@
     ],
     "SeqGSEA": [],
     "seqsetvis": [],
-    "SeqSQC": [
-        "SNPRelate"
-    ],
+    "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [],
     "SEtools": [
@@ -4634,7 +4623,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SNPRelate": [],
     "soGGi": [
         "ShortRead",
         "chipseq"
@@ -4706,7 +4694,6 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
         "Rgraphviz"
@@ -4922,9 +4909,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "GSEABase",
         "GSVA",
@@ -5080,8 +5065,7 @@
         "GenomicFeatures"
     ],
     "VariantExperiment": [
-        "GDSArray",
-        "SNPRelate"
+        "GDSArray"
     ],
     "VariantFiltering": [
         "GenomicFeatures",
