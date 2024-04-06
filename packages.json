@@ -349,8 +349,7 @@
     ],
     "cicero": [
         "Gviz",
-        "biovizBase",
-        "monocle"
+        "biovizBase"
     ],
     "CIMICE": [],
     "circRNAprofiler": [
@@ -1069,7 +1068,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "mastR": [],
     "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
@@ -1222,7 +1220,6 @@
     "monaLisa": [
         "TFBSTools"
     ],
-    "monocle": [],
     "Moonlight2R": [
         "clusterProfiler",
         "enrichplot"
@@ -1438,9 +1435,7 @@
     "PharmacoGx": [
         "CoreGx"
     ],
-    "phemd": [
-        "monocle"
-    ],
+    "phemd": [],
     "phenomis": [],
     "phenoTest": [
         "Category"
@@ -1497,7 +1492,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
@@ -1978,9 +1972,7 @@
     ],
     "unifiedWMWqPCR": [],
     "Uniquorn": [],
-    "uSORT": [
-        "monocle"
-    ],
+    "uSORT": [],
     "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
