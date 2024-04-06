@@ -339,7 +339,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
@@ -1011,8 +1010,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -1030,7 +1028,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "epidecodeR": [],
     "epigraHMM": [
         "GreyListChIP"
     ],
@@ -1081,8 +1078,7 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [
         "GSVA",
@@ -2285,7 +2281,6 @@
     "peco": [],
     "periodicDNA": [],
     "phantasus": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -2321,7 +2316,6 @@
         "biovizBase"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "Category",
         "GOstats"
@@ -2593,7 +2587,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "rifiComparative": [],
     "Ringo": [],
     "Risa": [
         "MSnbase",
@@ -3110,7 +3103,6 @@
         "CoreGx",
         "piano"
     ],
-    "tracktables": [],
     "trackViewer": [
         "Gviz",
         "VariantAnnotation",
