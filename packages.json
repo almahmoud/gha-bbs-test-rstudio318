@@ -161,9 +161,7 @@
     "artMS": [
         "MSstats"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "Gviz",
         "VariantAnnotation",
@@ -280,9 +278,7 @@
         "KEGGgraph",
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation"
@@ -1507,14 +1503,11 @@
     "lemur": [
         "glmGamPoi"
     ],
-    "LineagePulse": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
     "LinkHD": [],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "SpatialExperiment",
@@ -1731,7 +1724,6 @@
     ],
     "MetID": [],
     "miaSim": [],
-    "miaViz": [],
     "microbiome": [
         "biomformat",
         "phyloseq"
@@ -1863,7 +1855,6 @@
     "MsBackendSql": [
         "Spectra"
     ],
-    "MsDataHub": [],
     "MsExperiment": [
         "QFeatures",
         "Spectra"
@@ -1928,9 +1919,7 @@
         "MSstats"
     ],
     "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
         "VariantAnnotation",
@@ -2146,9 +2135,7 @@
         "destiny",
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category"
     ],
@@ -2497,7 +2484,6 @@
     "ROntoTools": [
         "KEGGgraph"
     ],
-    "ropls": [],
     "RPA": [
         "biomformat",
         "phyloseq"
@@ -2507,9 +2493,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [
         "TCGAutils"
@@ -2555,7 +2539,6 @@
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "schex": [],
     "scHOT": [],
     "scider": [
         "SpatialExperiment"
@@ -2602,12 +2585,9 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "bumphunter",
