@@ -100,7 +100,6 @@
     "altcdfenvs": [],
     "AMARETTO": [],
     "amplican": [],
-    "Anaquin": [],
     "AneuFinder": [],
     "AnnotationHubData": [
         "BiocCheck",
@@ -750,7 +749,6 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "DEsubs": [],
     "DExMA": [],
     "DIAlignR": [],
     "DiffBind": [
@@ -941,7 +939,6 @@
         "VariantAnnotation"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "fedup": [],
@@ -2101,7 +2098,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
@@ -2201,7 +2197,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "SC3": [],
     "SCAN.UPC": [],
     "scanMiRApp": [],
     "SCArray.sat": [],
@@ -2221,7 +2216,6 @@
     "scider": [],
     "scifer": [],
     "scMerge": [],
-    "scMET": [],
     "scmeth": [
         "annotatr",
         "bsseq"
