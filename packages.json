@@ -643,7 +643,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "FastqCleaner": [],
     "fcScan": [],
     "FEAST": [
         "TSCAN"
@@ -873,7 +872,6 @@
     "IntEREst": [
         "GenomicFiles"
     ],
-    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -1241,7 +1239,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "paircompviz": [],
     "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
