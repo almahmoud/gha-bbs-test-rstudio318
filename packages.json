@@ -343,7 +343,6 @@
     ],
     "ASICS": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "ASpli": [
@@ -683,7 +682,6 @@
     ],
     "biosigner": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -2731,7 +2729,6 @@
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
@@ -3395,7 +3392,6 @@
     "LinTInd": [],
     "lipidr": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "fgsea",
         "ropls"
     ],
@@ -3423,7 +3419,6 @@
         "vsn",
         "xcms"
     ],
-    "loci2path": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -3616,7 +3611,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "MultiDataSet",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -4320,7 +4314,6 @@
     "MultiAssayExperiment": [],
     "MultiBaC": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -4336,7 +4329,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationHub",
         "fgsea",
@@ -4633,7 +4625,6 @@
         "multtest"
     ],
     "omicRexposome": [
-        "MultiDataSet",
         "made4",
         "omicade4",
         "rexposome",
@@ -4854,7 +4845,6 @@
     ],
     "phenomis": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "biodbChebi",
         "ropls"
     ],
@@ -5577,15 +5567,13 @@
     ],
     "Rnits": [],
     "roar": [],
-    "roastgsa": [],
     "RolDE": [],
     "ROntoTools": [
         "KEGGgraph",
         "Rgraphviz"
     ],
     "ropls": [
-        "MultiAssayExperiment",
-        "MultiDataSet"
+        "MultiAssayExperiment"
     ],
     "ROSeq": [],
     "RPA": [
@@ -5607,7 +5595,6 @@
     ],
     "rqt": [
         "MultiAssayExperiment",
-        "MultiDataSet",
         "multtest",
         "ropls"
     ],
@@ -6791,7 +6778,6 @@
         "SingleCellExperiment",
         "TrajectoryUtils"
     ],
-    "TTMap": [],
     "TurboNorm": [
         "convert",
         "marray"
