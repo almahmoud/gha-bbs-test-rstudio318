@@ -1115,7 +1115,6 @@
     "EBSEA": [],
     "EDASeq": [],
     "edge": [],
-    "EDIRquery": [],
     "EGAD": [],
     "EGSEA": [
         "GSVA",
@@ -1438,7 +1437,6 @@
     "gatom": [
         "BioNet"
     ],
-    "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
     "GDCRNATools": [
@@ -1540,7 +1538,6 @@
         "ncdfFlow"
     ],
     "ggmanh": [],
-    "ggmsa": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
