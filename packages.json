@@ -957,9 +957,7 @@
     "flowWorkspace": [
         "ncdfFlow"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "funtooNorm": [
         "minfi",
         "siggenes"
@@ -1698,7 +1696,6 @@
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools",
         "Ringo"
@@ -2301,7 +2298,6 @@
     ],
     "terraTCGAdata": [],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
     "TFHAZ": [],
     "TFutils": [],
     "tilingArray": [],
@@ -2369,7 +2365,6 @@
         "ensemblVEP"
     ],
     "tweeDEseq": [],
-    "txcutr": [],
     "Ularcirc": [
         "plotgardener"
     ],
