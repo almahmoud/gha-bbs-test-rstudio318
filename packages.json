@@ -106,7 +106,6 @@
         "BiocGenerics",
         "Biostrings",
         "DNAcopy",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -1998,7 +1997,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "banocc": [],
     "barcodetrackR": [
         "Biobase",
         "BiocGenerics",
@@ -2144,12 +2142,9 @@
         "zlibbioc"
     ],
     "basilisk": [
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
-    "basilisk.utils": [
-        "dir.expiry"
-    ],
+    "basilisk.utils": [],
     "batchelor": [
         "Biobase",
         "BiocGenerics",
@@ -2737,8 +2732,7 @@
     "BiocHail": [
         "BiocGenerics",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "BiocHubsShiny": [
         "AnnotationDbi",
@@ -2868,7 +2862,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zlibbioc"
     ],
     "BiocStyle": [],
@@ -4390,8 +4383,7 @@
     ],
     "cbpManager": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "ccfindR": [
         "Biobase",
@@ -4905,7 +4897,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -7311,7 +7302,6 @@
         "crisprBase",
         "crisprBowtie",
         "crisprScore",
-        "dir.expiry",
         "interactiveDisplayBase",
         "rtracklayer",
         "zlibbioc"
@@ -7330,7 +7320,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -7421,7 +7410,6 @@
         "crisprDesign",
         "crisprScore",
         "crisprViz",
-        "dir.expiry",
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -7465,7 +7453,6 @@
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
-        "dir.expiry",
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -8180,7 +8167,6 @@
         "zlibbioc"
     ],
     "DART": [],
-    "DCATS": [],
     "dce": [
         "AnnotationDbi",
         "Biobase",
@@ -8631,7 +8617,6 @@
         "zlibbioc"
     ],
     "deltaGseg": [],
-    "DeMAND": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
@@ -8707,8 +8692,7 @@
     ],
     "densvis": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "DEP": [
         "Biobase",
@@ -9222,7 +9206,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "dir.expiry": [],
     "Director": [],
     "DirichletMultinomial": [
         "BiocGenerics",
@@ -11722,7 +11705,6 @@
         "biomaRt",
         "biovizBase",
         "bluster",
-        "dir.expiry",
         "edgeR",
         "ensembldb",
         "ggbio",
@@ -13578,7 +13560,6 @@
         "graph",
         "zlibbioc"
     ],
-    "GLAD": [],
     "GladiaTOX": [],
     "Glimma": [
         "Biobase",
@@ -14900,7 +14881,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -16320,7 +16300,6 @@
         "BiocGenerics",
         "Biostrings",
         "DelayedArray",
-        "GLAD",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -16602,7 +16581,6 @@
     "ldblock": [
         "BiocGenerics"
     ],
-    "LEA": [],
     "LedPred": [],
     "lefser": [
         "Biobase",
@@ -16647,7 +16625,6 @@
         "zlibbioc"
     ],
     "les": [],
-    "levi": [],
     "lfa": [],
     "limma": [],
     "limmaGUI": [
@@ -16991,7 +16968,6 @@
         "treeio",
         "zlibbioc"
     ],
-    "M3C": [],
     "M3Drop": [
         "Biobase",
         "BiocGenerics",
@@ -17108,7 +17084,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "zlibbioc"
     ],
@@ -17336,9 +17311,7 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "MANOR": [
-        "GLAD"
-    ],
+    "MANOR": [],
     "MantelCorr": [],
     "maPredictDSC": [
         "AnnotationDbi",
@@ -17819,7 +17792,6 @@
         "sva",
         "zlibbioc"
     ],
-    "MeasurementError.cor": [],
     "MEAT": [
         "AnnotationDbi",
         "Biobase",
@@ -19820,7 +19792,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -22582,7 +22553,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
@@ -22928,7 +22898,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "fgsea",
         "qvalue",
         "zlibbioc"
@@ -23368,7 +23337,6 @@
         "pcaMethods",
         "zlibbioc"
     ],
-    "PhenoGeneRanker": [],
     "phenomis": [
         "Biobase",
         "BiocBaseUtils",
@@ -25292,7 +25260,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "randRotation": [],
     "RankProd": [],
     "RAREsim": [],
     "RareVariantVis": [
@@ -25515,8 +25482,7 @@
         "BiocParallel",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RcwlPipelines": [
         "BiocGenerics",
@@ -25524,8 +25490,7 @@
         "Rcwl",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "RCX": [],
     "RCy3": [
@@ -25538,7 +25503,6 @@
         "graph"
     ],
     "rDGIdb": [],
-    "Rdisop": [],
     "RDRToolbox": [],
     "ReactomeContentService4R": [],
     "ReactomeGraph4R": [
@@ -25577,7 +25541,6 @@
     "rebook": [
         "BiocGenerics",
         "BiocStyle",
-        "dir.expiry",
         "graph"
     ],
     "receptLoss": [
@@ -25699,7 +25662,6 @@
         "basilisk.utils",
         "biomaRt",
         "bumphunter",
-        "dir.expiry",
         "genefilter",
         "illuminaio",
         "limma",
@@ -26234,8 +26196,7 @@
         "RcwlPipelines",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "rexposome": [
         "Biobase",
@@ -28828,7 +28789,6 @@
         "basilisk.utils",
         "beachmat",
         "biomaRt",
-        "dir.expiry",
         "edgeR",
         "limma",
         "rhdf5",
@@ -29173,7 +29133,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "dir.expiry",
         "limma",
         "scater",
         "scuttle",
@@ -29440,10 +29399,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "seqCNA": [
-        "GLAD"
-    ],
-    "seqcombo": [],
+    "seqCNA": [],
     "SeqGate": [
         "Biobase",
         "BiocGenerics",
@@ -30083,7 +30039,6 @@
         "basilisk",
         "basilisk.utils",
         "biomformat",
-        "dir.expiry",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -30155,7 +30110,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sincell": [],
     "single": [
         "Biobase",
         "BiocGenerics",
@@ -30273,7 +30227,6 @@
         "biomaRt",
         "bluster",
         "celda",
-        "dir.expiry",
         "edgeR",
         "eds",
         "ensembldb",
@@ -30551,7 +30504,6 @@
         "BiocGenerics",
         "Biostrings",
         "DNAcopy",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -30587,8 +30539,7 @@
     ],
     "snifter": [
         "basilisk",
-        "basilisk.utils",
-        "dir.expiry"
+        "basilisk.utils"
     ],
     "snm": [],
     "SNPediaR": [],
@@ -30889,7 +30840,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zlibbioc"
     ],
     "SpatialDecon": [
@@ -31997,7 +31947,6 @@
         "zlibbioc"
     ],
     "SwathXtend": [],
-    "swfdr": [],
     "switchde": [
         "Biobase",
         "BiocGenerics",
@@ -34193,7 +34142,6 @@
         "basilisk",
         "basilisk.utils",
         "beachmat",
-        "dir.expiry",
         "scuttle",
         "sparseMatrixStats",
         "zellkonverter",
@@ -34838,7 +34786,6 @@
         "XVector",
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
         "zlibbioc"
     ],
     "zenith": [
