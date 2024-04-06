@@ -634,7 +634,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "Cogito": [],
     "comapr": [
@@ -995,7 +994,6 @@
     "EBSEA": [],
     "EDASeq": [],
     "edge": [],
-    "EGAD": [],
     "EGSEA": [
         "GSVA",
         "KEGGgraph",
@@ -1522,9 +1520,7 @@
         "minfi",
         "siggenes"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "Category",
         "GOstats",
@@ -2262,7 +2258,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -2508,7 +2503,6 @@
         "VariantAnnotation"
     ],
     "rain": [],
-    "ramwas": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "GenomicScores",
@@ -2547,7 +2541,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "bumphunter",
         "minfi",
@@ -3051,7 +3044,6 @@
         "biovizBase"
     ],
     "sSNAPPY": [],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3186,7 +3178,6 @@
         "anota"
     ],
     "transomics2cytoscape": [],
-    "TransView": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
@@ -3317,7 +3308,6 @@
         "PharmacoGx",
         "piano"
     ],
-    "XNAString": [],
     "yamss": [],
     "YAPSA": [
         "OrganismDbi",
