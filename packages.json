@@ -18,7 +18,6 @@
         "tilingArray",
         "vsn"
     ],
-    "ADAMgui": [],
     "adductomicsR": [
         "mzR"
     ],
@@ -34,19 +33,13 @@
         "Rgraphviz",
         "VariantAnnotation",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [],
@@ -60,7 +53,6 @@
         "VariantAnnotation",
         "affycoretools",
         "biovizBase",
-        "gcrma",
         "ggbio"
     ],
     "AHMassBank": [
@@ -198,7 +190,6 @@
     "arrayQuality": [],
     "arrayQualityMetrics": [
         "affyPLM",
-        "gcrma",
         "vsn"
     ],
     "artMS": [
@@ -316,9 +307,7 @@
     ],
     "BgeeCall": [],
     "BgeeDB": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [],
     "BiGGR": [
         "Rgraphviz",
@@ -369,7 +358,6 @@
         "basilisk"
     ],
     "biocViews": [],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
     "biodbKegg": [],
@@ -377,7 +365,6 @@
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "biomformat": [],
     "BioMVCClass": [
         "Rgraphviz"
@@ -1645,7 +1632,6 @@
     "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DOSE",
         "KEGGgraph",
@@ -2172,9 +2158,7 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "maPredictDSC": [
-        "gcrma"
-    ],
+    "maPredictDSC": [],
     "mariner": [
         "HDF5Array",
         "plotgardener",
@@ -2186,9 +2170,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [],
     "mastR": [],
     "MatrixQCvis": [
@@ -2409,8 +2391,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -2937,7 +2918,6 @@
         "mzR",
         "vsn"
     ],
-    "PECA": [],
     "peco": [],
     "periodicDNA": [],
     "phantasus": [],
@@ -2952,7 +2932,6 @@
         "monocle"
     ],
     "phenomis": [
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -3851,7 +3830,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "SpidermiR": [],
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
@@ -3896,7 +3874,6 @@
         "vsn"
     ],
     "StarBioTrek": [
-        "SpidermiR",
         "graphite"
     ],
     "STATegRa": [],
@@ -4194,7 +4171,6 @@
     ],
     "wavClusteR": [],
     "webbioc": [
-        "gcrma",
         "vsn"
     ],
     "weitrix": [],
