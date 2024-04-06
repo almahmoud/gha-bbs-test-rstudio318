@@ -297,8 +297,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -534,9 +533,7 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM"
     ],
@@ -1213,7 +1210,6 @@
     ],
     "nnSVG": [],
     "nondetects": [],
-    "nucleR": [],
     "nullranges": [],
     "octad": [
         "GSVA",
@@ -1340,7 +1336,6 @@
     "psygenet2r": [],
     "ptairMS": [],
     "PureCN": [],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "biovizBase"
@@ -1640,7 +1635,6 @@
     "SPIAT": [],
     "spicyR": [],
     "SpliceWiz": [],
-    "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
@@ -1658,7 +1652,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [],
     "Statial": [],
     "statTarget": [],
     "stJoincount": [],
@@ -1671,7 +1664,6 @@
     ],
     "SVMDO": [],
     "synapter": [],
-    "systemPipeR": [],
     "tadar": [
         "Gviz",
         "biovizBase"
@@ -1766,8 +1758,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "lumi",
