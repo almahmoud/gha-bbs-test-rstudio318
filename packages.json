@@ -1,5 +1,4 @@
 {
-    "AgiMicroRna": [],
     "bandle": [
         "MSnbase",
         "mzID",
@@ -12,7 +11,6 @@
         "mzID",
         "xcms"
     ],
-    "ChAMP": [],
     "cicero": [
         "monocle"
     ],
@@ -31,7 +29,6 @@
         "mzID",
         "xcms"
     ],
-    "CytoPipelineGUI": [],
     "DAPAR": [
         "MSnbase",
         "mzID"
