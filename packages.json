@@ -525,7 +525,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
         "HDF5Array",
@@ -539,9 +538,7 @@
     "BEAT": [
         "ShortRead"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -809,7 +806,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "derfinderPlot",
         "ensembldb",
         "ggbio"
@@ -918,8 +914,7 @@
     ],
     "cardelino": [
         "GenomicFeatures",
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "Cardinal": [
         "CardinalIO",
@@ -1087,8 +1082,7 @@
         "RCy3",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "snpStats"
+        "fgsea"
     ],
     "CexoR": [
         "genomation"
@@ -1262,7 +1256,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "gwascat",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -1959,10 +1952,8 @@
         "GenomicFeatures",
         "GenomicFiles",
         "VariantAnnotation",
-        "bumphunter",
-        "derfinderHelper"
+        "bumphunter"
     ],
-    "derfinderHelper": [],
     "derfinderPlot": [
         "GenomicFeatures",
         "GenomicFiles",
@@ -1971,7 +1962,6 @@
         "biovizBase",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "ensembldb",
         "ggbio"
     ],
@@ -1997,7 +1987,6 @@
         "DESeq2"
     ],
     "DExMA": [
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
@@ -2219,7 +2208,6 @@
     "eiR": [
         "ChemmineR"
     ],
-    "eisaR": [],
     "ELMER": [
         "GenomicFeatures",
         "Gviz",
@@ -2505,7 +2493,6 @@
     "fedup": [
         "RCy3"
     ],
-    "FELLA": [],
     "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
@@ -2793,14 +2780,11 @@
     ],
     "GeneExpressionSignature": [],
     "genefu": [],
-    "GeneGeneInteR": [
-        "snpStats"
-    ],
+    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
-    "geneRecommender": [],
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
@@ -3070,8 +3054,7 @@
     "gwascat": [
         "AnnotationHub",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "GWASTools": [],
     "gwasurvivr": [
@@ -3259,7 +3242,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [
         "Rgraphviz",
         "flowCore",
@@ -3589,7 +3571,6 @@
         "rhdf5",
         "rhdf5filters",
         "siggenes",
-        "snpStats",
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
@@ -3637,9 +3618,7 @@
         "rhdf5filters"
     ],
     "marray": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "GenomicFeatures",
         "Gviz",
@@ -3760,18 +3739,15 @@
     "memes": [
         "universalmotif"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
         "DOSE",
-        "MeSHDbi",
         "enrichplot",
         "fgsea"
     ],
     "meshr": [
         "Category",
-        "GSEABase",
-        "MeSHDbi"
+        "GSEABase"
     ],
     "MesKit": [],
     "MetaboAnnotation": [
@@ -4877,7 +4853,6 @@
         "basilisk.utils",
         "fgsea"
     ],
-    "parglms": [],
     "partCNV": [
         "AnnotationHub",
         "SingleCellExperiment"
@@ -4983,7 +4958,6 @@
     ],
     "PhenStat": [],
     "philr": [],
-    "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
         "AnnotationHub",
@@ -5178,7 +5152,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "PSMatch": [
@@ -5222,9 +5195,7 @@
     "pwOmics": [
         "AnnotationHub"
     ],
-    "qckitfastq": [
-        "seqTools"
-    ],
+    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
@@ -5396,8 +5367,7 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "recount3": [],
     "recountmethylation": [
@@ -5465,8 +5435,7 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "derfinder",
-        "derfinderHelper"
+        "derfinder"
     ],
     "regutools": [
         "AnnotationHub",
@@ -5648,7 +5617,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "rnaEditr": [
@@ -5699,7 +5667,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "derfinderHelper",
         "recount"
     ],
     "RnBeads": [
@@ -5771,10 +5738,8 @@
         "multtest"
     ],
     "Rtreemix": [],
-    "rTRM": [],
     "rTRMui": [
-        "MotifDb",
-        "rTRM"
+        "MotifDb"
     ],
     "runibic": [],
     "RUVSeq": [
@@ -5783,9 +5748,7 @@
         "ShortRead"
     ],
     "Rvisdiff": [],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "safe": [],
     "SAIGEgds": [],
     "sampleClassifier": [
@@ -6003,8 +5966,7 @@
     "SCOPE": [],
     "scoreInvHap": [
         "GenomicFeatures",
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "scp": [
         "MultiAssayExperiment",
@@ -6070,7 +6032,6 @@
         "DOSE",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "Rgraphviz",
         "SingleCellExperiment",
@@ -6121,7 +6082,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "SDAMS": [],
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
@@ -6162,7 +6122,6 @@
         "ExperimentHub",
         "SNPRelate"
     ],
-    "seqTools": [],
     "SeqVarTools": [],
     "sesame": [
         "AnnotationHub",
@@ -6173,7 +6132,6 @@
         "sechm",
         "sva"
     ],
-    "sevenbridges": [],
     "sevenC": [],
     "SGCP": [
         "AnnotationForge",
@@ -6419,7 +6377,6 @@
         "VariantAnnotation"
     ],
     "SNPRelate": [],
-    "snpStats": [],
     "soGGi": [
         "ShortRead",
         "chipseq"
@@ -7113,8 +7070,7 @@
         "AnnotationHub",
         "GenomicFeatures",
         "VariantAnnotation",
-        "gwascat",
-        "snpStats"
+        "gwascat"
     ],
     "vulcan": [
         "ChIPpeakAnno",
