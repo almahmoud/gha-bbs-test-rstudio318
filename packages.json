@@ -818,7 +818,6 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [],
     "ideal": [
         "GOstats",
         "pcaExplorer"
@@ -1445,7 +1444,6 @@
     ],
     "rqt": [],
     "RTCGAToolbox": [],
-    "rTRMui": [],
     "RUVSeq": [],
     "safe": [],
     "sampleClassifier": [],
@@ -1460,7 +1458,6 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scDblFinder": [],
     "scDD": [],
     "scFeatures": [
         "GSVA",
@@ -1541,7 +1538,6 @@
     "singleCellTK": [
         "GSVA",
         "TSCAN",
-        "scDblFinder",
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
