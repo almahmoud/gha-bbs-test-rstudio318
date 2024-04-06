@@ -224,7 +224,6 @@
     "beachmat.hdf5": [],
     "BEARscc": [],
     "BEAT": [],
-    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -1220,9 +1219,7 @@
         "QDNAseq"
     ],
     "GeneNetworkBuilder": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "VariantAnnotation",
@@ -2306,7 +2303,6 @@
     "raer": [],
     "RAIDS": [
         "GENESIS",
-        "SeqVarTools",
         "VariantAnnotation"
     ],
     "rain": [],
@@ -2526,7 +2522,6 @@
     ],
     "safe": [],
     "sampleClassifier": [],
-    "sangeranalyseR": [],
     "SARC": [],
     "SBGNview": [
         "KEGGgraph",
@@ -2640,7 +2635,6 @@
     ],
     "SeqGSEA": [],
     "SeqSQC": [],
-    "SeqVarTools": [],
     "sesame": [],
     "SEtools": [],
     "SGCP": [
