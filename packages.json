@@ -8,7 +8,6 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "biovizBase",
@@ -16,7 +15,6 @@
     ],
     "affylmGUI": [],
     "AgiMicroRna": [
-        "Category",
         "GOstats",
         "ReportingTools",
         "affycoretools",
@@ -73,12 +71,10 @@
         "biovizBase"
     ],
     "AMARETTO": [],
-    "amplican": [],
     "AneuFinder": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
-    "APL": [],
     "appreci8R": [
         "GenomicScores"
     ],
@@ -114,12 +110,10 @@
         "motifStack"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "BadRegionFinder": [],
     "bandle": [
-        "MSnbase",
         "pRoloc"
     ],
     "BASiCS": [],
@@ -221,12 +215,10 @@
         "biovizBase"
     ],
     "CAMERA": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
     "canceR": [
-        "Category",
         "RTCGAToolbox",
         "cBioPortalData",
         "phenoTest"
@@ -237,9 +229,7 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -259,9 +249,7 @@
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "CellNOptR": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -338,13 +326,10 @@
     "CiteFuse": [],
     "clipper": [],
     "cliqueMS": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
-    "CluMSID": [
-        "MSnbase"
-    ],
+    "CluMSID": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
@@ -421,7 +406,6 @@
     "CoreGx": [],
     "coseq": [],
     "cosmiq": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -502,7 +486,6 @@
     "DAMEfinder": [],
     "DaMiRseq": [],
     "DAPAR": [
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -537,9 +520,7 @@
     ],
     "demuxSNP": [],
     "densvis": [],
-    "DEP": [
-        "MSnbase"
-    ],
+    "DEP": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -687,7 +668,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -805,7 +785,6 @@
     "GenomicScores": [],
     "GenVisR": [],
     "gespeR": [
-        "Category",
         "cellHTS2"
     ],
     "ggbio": [
@@ -820,7 +799,6 @@
     "glmGamPoi": [],
     "gmapR": [],
     "GmicR": [
-        "Category",
         "GOstats"
     ],
     "GNOSIS": [
@@ -831,9 +809,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GOTHiC": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
@@ -880,7 +856,6 @@
     ],
     "iCNV": [],
     "ideal": [
-        "Category",
         "GOstats",
         "pcaExplorer"
     ],
@@ -907,16 +882,13 @@
         "biovizBase",
         "ggbio"
     ],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "IntEREst": [
         "GenomicFiles"
     ],
     "IONiseR": [],
     "IPO": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -951,7 +923,6 @@
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -980,7 +951,6 @@
     "magpie": [],
     "MAIT": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1021,9 +991,7 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "MetaboAnnotation": [
         "CompoundDb"
     ],
@@ -1036,7 +1004,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1094,7 +1061,6 @@
     ],
     "mimager": [],
     "MineICA": [
-        "Category",
         "GOstats",
         "lumi",
         "methylumi",
@@ -1111,7 +1077,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "Category",
         "GOstats"
     ],
     "missMethyl": [
@@ -1125,7 +1090,6 @@
         "Maaslin2"
     ],
     "MobilityTransformR": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1167,16 +1131,11 @@
         "ggbio"
     ],
     "msImpute": [],
-    "msmsEDA": [
-        "MSnbase"
-    ],
+    "msmsEDA": [],
     "msmsTests": [
-        "MSnbase",
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
-        "MSnbase",
         "msmsEDA",
         "msmsTests"
     ],
@@ -1192,11 +1151,8 @@
     "MSstatsPTM": [
         "MSstatsTMT"
     ],
-    "MSstatsQC": [
-        "MSnbase"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSnbase",
         "MSstatsQC"
     ],
     "MSstatsShiny": [
@@ -1235,7 +1191,6 @@
     "nanotatoR": [],
     "ncdfFlow": [],
     "ncGTW": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
@@ -1251,7 +1206,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "minfi",
         "quantro",
@@ -1313,7 +1267,6 @@
     "PathoStat": [],
     "pathview": [],
     "pcaExplorer": [
-        "Category",
         "GOstats"
     ],
     "PDATK": [
@@ -1323,17 +1276,13 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "peakPantheR": [
-        "MSnbase"
-    ],
+    "peakPantheR": [],
     "PharmacoGx": [
         "CoreGx"
     ],
     "phemd": [],
     "phenomis": [],
-    "phenoTest": [
-        "Category"
-    ],
+    "phenoTest": [],
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
@@ -1347,7 +1296,6 @@
     ],
     "pipeComp": [],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "plotgardener": [],
@@ -1366,25 +1314,19 @@
         "TFBSTools",
         "biovizBase"
     ],
-    "PrInCE": [
-        "MSnbase"
-    ],
+    "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
         "chipseq",
         "enrichplot",
         "soGGi"
     ],
-    "pRoloc": [
-        "MSnbase"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MSnbase",
         "pRoloc"
     ],
     "Prostar": [
         "DAPAR",
-        "MSnbase",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -1396,9 +1338,7 @@
     ],
     "PSMatch": [],
     "psygenet2r": [],
-    "ptairMS": [
-        "MSnbase"
-    ],
+    "ptairMS": [],
     "PureCN": [],
     "pvca": [],
     "Pviz": [
@@ -1408,9 +1348,7 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "qPLEXanalyzer": [
-        "MSnbase"
-    ],
+    "qPLEXanalyzer": [],
     "quantro": [
         "minfi"
     ],
@@ -1477,7 +1415,6 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "Category",
         "GOstats",
         "biovizBase",
         "ggbio"
@@ -1504,16 +1441,13 @@
         "motifStack"
     ],
     "Risa": [
-        "MSnbase",
         "MsExperiment",
         "xcms"
     ],
     "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
-    "RMassBank": [
-        "MSnbase"
-    ],
+    "RMassBank": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
@@ -1521,7 +1455,6 @@
     ],
     "rnaEditr": [],
     "RNAinteract": [
-        "Category",
         "cellHTS2"
     ],
     "RNAmodR": [
@@ -1568,7 +1501,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "SCAN.UPC": [],
     "SCArray.sat": [],
     "scBFA": [],
     "scCB2": [],
@@ -1604,7 +1536,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "Category",
         "GOstats",
         "ReactomePA",
         "enrichplot",
@@ -1631,7 +1562,6 @@
     "SeqSQC": [],
     "SEtools": [],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "shinyepico": [
@@ -1698,7 +1628,6 @@
     "spatialDE": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
-    "SpatialOmicsOverlay": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1727,7 +1656,6 @@
         "RUVSeq"
     ],
     "staRank": [
-        "Category",
         "cellHTS2"
     ],
     "StarBioTrek": [],
@@ -1742,9 +1670,7 @@
         "StructuralVariantAnnotation"
     ],
     "SVMDO": [],
-    "synapter": [
-        "MSnbase"
-    ],
+    "synapter": [],
     "systemPipeR": [],
     "tadar": [
         "Gviz",
@@ -1772,9 +1698,7 @@
         "GSVA"
     ],
     "TOP": [],
-    "topdownr": [
-        "MSnbase"
-    ],
+    "topdownr": [],
     "ToxicoGx": [
         "CoreGx"
     ],
@@ -1851,7 +1775,6 @@
         "minfi"
     ],
     "xcms": [
-        "MSnbase",
         "MsExperiment"
     ],
     "XDE": [],
