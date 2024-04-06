@@ -1354,7 +1354,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "BiocParallel",
@@ -1872,7 +1871,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -1903,7 +1901,6 @@
         "edgeR",
         "glmGamPoi",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -1996,7 +1993,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -2775,7 +2771,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -3231,7 +3226,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BridgeDbR": [],
     "BrowserViz": [],
     "BSgenome": [
         "BiocIO",
@@ -4059,7 +4053,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -4940,7 +4933,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -5143,7 +5135,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scran",
@@ -5395,7 +5386,6 @@
         "fgsea",
         "zlibbioc"
     ],
-    "ClustIRR": [],
     "CMA": [],
     "cmapR": [
         "DelayedArray",
@@ -5802,7 +5792,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "coGPS": [],
     "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
@@ -6813,7 +6802,6 @@
         "XVector",
         "edgeR",
         "limma",
-        "metapod",
         "zlibbioc"
     ],
     "csdR": [
@@ -7532,7 +7520,6 @@
         "celda",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -8257,7 +8244,6 @@
         "csaw",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -8325,7 +8311,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -8701,7 +8686,6 @@
         "syntenet",
         "zlibbioc"
     ],
-    "drawProteins": [],
     "dreamlet": [
         "AnnotationDbi",
         "BiocParallel",
@@ -9019,7 +9003,6 @@
         "genefilter",
         "limma",
         "qvalue",
-        "snm",
         "sva",
         "zlibbioc"
     ],
@@ -9040,7 +9023,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "eds": [],
     "EGAD": [
         "GEOquery",
         "impute",
@@ -9509,7 +9491,6 @@
         "csaw",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -10206,7 +10187,6 @@
         "edgeR",
         "ensembldb",
         "limma",
-        "metapod",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -10233,7 +10213,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "drawProteins",
         "rtracklayer",
         "wiggleplotr",
         "zlibbioc"
@@ -10603,7 +10582,6 @@
         "ggbio",
         "graph",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -13722,7 +13700,6 @@
         "csaw",
         "edgeR",
         "limma",
-        "metapod",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -14040,7 +14017,6 @@
         "cytolib",
         "flowCore"
     ],
-    "immunotation": [],
     "impute": [],
     "iNETgrate": [
         "AnnotationDbi",
@@ -14439,7 +14415,6 @@
     "IRanges": [
         "S4Vectors"
     ],
-    "ISAnalytics": [],
     "iSEE": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -16416,7 +16391,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "metapod": [],
     "metapone": [
         "BiocParallel",
         "fgsea"
@@ -18175,7 +18149,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "MQmetrics": [],
     "msa": [
         "Biostrings",
         "GenomeInfoDb",
@@ -18351,7 +18324,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -18869,7 +18841,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -19116,7 +19087,6 @@
         "graph",
         "interactiveDisplayBase",
         "limma",
-        "metapod",
         "motifStack",
         "multtest",
         "regioneR",
@@ -19710,7 +19680,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "NuPoP": [],
     "occugene": [],
     "OCplus": [
         "multtest"
@@ -21219,7 +21188,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -22914,10 +22882,7 @@
         "graph"
     ],
     "rDGIdb": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -22939,9 +22904,7 @@
         "zlibbioc"
     ],
     "ReadqPCR": [],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "BiocStyle",
         "graph"
@@ -23202,7 +23165,6 @@
         "edgeR",
         "fgsea",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -25408,7 +25370,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -25437,7 +25398,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scran",
         "scuttle",
         "sparseMatrixStats",
@@ -25539,7 +25499,6 @@
         "ensembldb",
         "graph",
         "limma",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -25661,7 +25620,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -25918,7 +25876,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "scuttle",
         "sparseMatrixStats",
         "zlibbioc"
@@ -26161,7 +26118,6 @@
         "epivizrServer",
         "graph",
         "limma",
-        "metapod",
         "rtracklayer",
         "scater",
         "scran",
@@ -27142,7 +27098,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "multtest",
         "scran",
         "scuttle",
@@ -27200,14 +27155,12 @@
         "bluster",
         "celda",
         "edgeR",
-        "eds",
         "ensembldb",
         "genefilter",
         "ggtree",
         "graph",
         "interactiveDisplayBase",
         "limma",
-        "metapod",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -27485,7 +27438,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "snm": [],
     "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
@@ -27650,7 +27602,6 @@
         "bluster",
         "edgeR",
         "limma",
-        "metapod",
         "rhdf5",
         "rhdf5filters",
         "scater",
@@ -27829,7 +27780,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "metapod",
         "scater",
         "scran",
         "scuttle",
@@ -30121,7 +30071,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "TSAR": [],
     "TSCAN": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -30647,7 +30596,6 @@
         "sva",
         "zlibbioc"
     ],
-    "vbmp": [],
     "VCFArray": [
         "AnnotationDbi",
         "BSgenome",
@@ -30907,7 +30855,6 @@
         "ensembldb",
         "graph",
         "limma",
-        "metapod",
         "multtest",
         "regioneR",
         "rtracklayer",
