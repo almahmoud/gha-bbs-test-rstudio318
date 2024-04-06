@@ -1,6 +1,5 @@
 {
     "a4": [],
-    "ABarray": [],
     "ACE": [
         "CGHcall",
         "QDNAseq"
@@ -86,7 +85,6 @@
         "BiocCheck"
     ],
     "annotatr": [],
-    "anota": [],
     "APAlyzer": [],
     "apComplex": [],
     "APL": [],
@@ -1961,9 +1959,7 @@
     "transformGamPoi": [
         "glmGamPoi"
     ],
-    "tRanslatome": [
-        "anota"
-    ],
+    "tRanslatome": [],
     "transomics2cytoscape": [],
     "traviz": [
         "slingshot"
