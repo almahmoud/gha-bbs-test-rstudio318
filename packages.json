@@ -495,7 +495,6 @@
         "bsseq"
     ],
     "CoGAPS": [],
-    "Cogito": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -1210,9 +1209,7 @@
     "iSEEu": [
         "iSEEhex"
     ],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
     "IVAS": [],
     "karyoploteR": [
@@ -1683,7 +1680,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsViewer": [],
     "OncoSimulR": [],
     "ontoProc": [],
     "openCyto": [
@@ -2291,7 +2287,6 @@
         "biovizBase"
     ],
     "TADCompare": [],
-    "TAPseq": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -2375,7 +2370,6 @@
     ],
     "tweeDEseq": [],
     "txcutr": [],
-    "tximeta": [],
     "Ularcirc": [
         "plotgardener"
     ],
