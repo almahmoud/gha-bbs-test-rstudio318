@@ -34,7 +34,6 @@
     "adSplit": [
         "multtest"
     ],
-    "adverSCarial": [],
     "AffiXcan": [],
     "affyContam": [],
     "affycoretools": [
@@ -862,7 +861,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "chromDraw": [],
     "ChromHeatMap": [],
     "chromPlot": [],
     "ChromSCape": [
@@ -1534,7 +1532,6 @@
         "graphite",
         "pathview",
         "safe",
-        "variancePartition",
         "zenith"
     ],
     "DropletUtils": [
@@ -1552,7 +1549,6 @@
         "bsseq"
     ],
     "dStruct": [],
-    "Dune": [],
     "dupRadar": [],
     "dyebias": [],
     "easier": [
@@ -3288,9 +3284,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "musicatk": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -5153,7 +5147,6 @@
         "crlmm"
     ],
     "VarCon": [],
-    "variancePartition": [],
     "VariantAnnotation": [
         "GenomicFeatures"
     ],
@@ -5300,8 +5293,7 @@
         "SPIA",
         "graphite",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zinbwave": [],
     "ZygosityPredictor": [
