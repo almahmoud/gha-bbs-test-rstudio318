@@ -116,8 +116,7 @@
     ],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "BayesSpace": [],
     "BBCAnalyzer": [],
@@ -492,7 +491,6 @@
         "bsseq"
     ],
     "demuxSNP": [],
-    "densvis": [],
     "DEP": [],
     "derfinder": [
         "GenomicFiles"
@@ -762,7 +760,6 @@
         "ncdfFlow"
     ],
     "ggspavis": [],
-    "glmGamPoi": [],
     "gmapR": [],
     "GmicR": [
         "GOstats"
@@ -874,9 +871,7 @@
         "DSS",
         "bsseq"
     ],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [],
     "lipidr": [],
     "lisaClust": [
@@ -1552,7 +1547,6 @@
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [],
-    "snifter": [],
     "SNPhood": [],
     "soGGi": [],
     "SomaticSignatures": [
@@ -1645,9 +1639,7 @@
         "slingshot"
     ],
     "transcriptR": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [],
     "traviz": [
         "slingshot"
