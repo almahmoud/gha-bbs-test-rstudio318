@@ -337,7 +337,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "breakpointR": [],
     "brendaDb": [],
     "BRGenomics": [],
     "bsseq": [],
@@ -916,7 +915,6 @@
     "Dino": [],
     "distinct": [],
     "dittoSeq": [],
-    "DMCFB": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1329,7 +1327,6 @@
     ],
     "GeoDiff": [],
     "GEOexplorer": [],
-    "GEOmetadb": [],
     "GeoTcgaData": [],
     "gep2pep": [],
     "gespeR": [
@@ -1347,7 +1344,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
@@ -1752,7 +1748,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "metagene2": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -2265,7 +2260,6 @@
     "phenoTest": [
         "Category"
     ],
-    "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
     ],
@@ -2388,7 +2382,6 @@
     "qPLEXanalyzer": [
         "MSnbase"
     ],
-    "qsea": [],
     "qsmooth": [],
     "qsvaR": [],
     "quantro": [
