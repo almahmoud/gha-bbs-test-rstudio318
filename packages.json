@@ -171,7 +171,6 @@
     "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
     "BioMVCClass": [],
@@ -179,7 +178,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "BioNERO": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -237,7 +235,6 @@
         "biovizBase"
     ],
     "cageminer": [
-        "BioNERO",
         "biovizBase",
         "ggbio"
     ],
@@ -389,7 +386,6 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "cn.mops": [],
     "CNORdt": [
         "CellNOptR"
     ],
@@ -405,13 +401,11 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CNVPanelizer": [],
@@ -461,7 +455,6 @@
     ],
     "CopyNumberPlots": [
         "biovizBase",
-        "cn.mops",
         "karyoploteR"
     ],
     "CoreGx": [],
@@ -930,7 +923,6 @@
     ],
     "gsean": [],
     "GSReg": [],
-    "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
@@ -1434,9 +1426,7 @@
     ],
     "paircompviz": [],
     "pairedGSEA": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot"
