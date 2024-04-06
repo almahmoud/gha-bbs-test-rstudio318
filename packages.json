@@ -257,10 +257,7 @@
         "phenoTest"
     ],
     "cardelino": [],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
+    "Cardinal": [],
     "casper": [],
     "CATALYST": [
         "FlowSOM"
@@ -283,9 +280,7 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
@@ -1511,7 +1506,6 @@
         "MSnbase",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "Prostar": [
         "DAPAR",
