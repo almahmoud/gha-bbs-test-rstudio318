@@ -207,7 +207,6 @@
     ],
     "BatchQC": [],
     "BayesSpace": [],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -798,7 +797,6 @@
         "KEGGgraph",
         "NCIgraph"
     ],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
     "deltaCaptureC": [],
@@ -1431,9 +1429,7 @@
         "DEXSeq",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
@@ -1574,7 +1570,6 @@
         "CNORode",
         "CellNOptR"
     ],
-    "Melissa": [],
     "memes": [],
     "meshes": [
         "DOSE",
@@ -1869,7 +1864,6 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [],
     "mumosa": [],
     "MungeSumstats": [
@@ -2690,7 +2684,6 @@
         "ClassifyR",
         "SpatialExperiment"
     ],
-    "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
@@ -2727,7 +2720,6 @@
         "SpatialExperiment"
     ],
     "statTarget": [],
-    "stepNorm": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
