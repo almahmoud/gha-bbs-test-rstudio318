@@ -796,7 +796,6 @@
     "diffHic": [],
     "diffUTR": [],
     "Dino": [],
-    "dittoSeq": [],
     "DMRcate": [
         "Gviz",
         "VariantAnnotation",
@@ -1798,7 +1797,6 @@
         "siggenes",
         "yarn"
     ],
-    "NeuCA": [],
     "NewWave": [],
     "nipalsMCIA": [],
     "nnSVG": [],
@@ -2305,7 +2303,6 @@
     ],
     "scp": [],
     "scPipe": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -2476,9 +2473,7 @@
     "SPIA": [
         "KEGGgraph"
     ],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
