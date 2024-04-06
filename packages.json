@@ -114,13 +114,9 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BayesSpace": [],
     "BBCAnalyzer": [],
-    "beachmat.hdf5": [],
     "benchdamic": [
         "Maaslin2"
     ],
@@ -1190,7 +1186,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeRui": [],
     "oppar": [
         "GSVA"
     ],
