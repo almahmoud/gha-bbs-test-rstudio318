@@ -20,7 +20,6 @@
     "affycoretools": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -37,7 +36,6 @@
     "AgiMicroRna": [
         "Category",
         "GOstats",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -1236,7 +1234,6 @@
     ],
     "girafe": [],
     "GISPA": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
@@ -1301,7 +1298,6 @@
     "gwasurvivr": [
         "VariantAnnotation"
     ],
-    "h5vc": [],
     "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs"
@@ -1465,7 +1461,6 @@
     "lineagespot": [
         "VariantAnnotation"
     ],
-    "LinkHD": [],
     "lipidr": [],
     "lisaClust": [
         "ClassifyR",
@@ -1932,7 +1927,6 @@
         "epiNEM",
         "mnem"
     ],
-    "NetActivity": [],
     "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -2470,7 +2464,6 @@
     "scDataviz": [],
     "scDblFinder": [],
     "scDD": [],
-    "scDDboost": [],
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
@@ -2930,7 +2923,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
