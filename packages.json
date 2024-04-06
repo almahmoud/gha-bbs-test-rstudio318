@@ -934,9 +934,7 @@
     ],
     "GOTHiC": [],
     "GRaNIE": [],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1024,7 +1022,6 @@
         "GenomicFiles"
     ],
     "IONiseR": [],
-    "iPAC": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1400,7 +1397,6 @@
         "epiNEM",
         "mnem"
     ],
-    "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
@@ -1607,8 +1603,7 @@
     ],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles"
@@ -1767,7 +1762,6 @@
     "rqt": [],
     "RSVSim": [],
     "RTCGAToolbox": [],
-    "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
@@ -1918,9 +1912,7 @@
         "annotatr",
         "bsseq"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
