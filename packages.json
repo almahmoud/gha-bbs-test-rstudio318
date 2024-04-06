@@ -1046,7 +1046,6 @@
     "GenomicFiles": [
         "VariantAnnotation"
     ],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "VariantAnnotation",
@@ -1930,7 +1929,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "raer": [],
     "RAIDS": [
         "GENESIS",
         "VariantAnnotation"
@@ -2349,7 +2347,6 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "surfaltr": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
         "VariantAnnotation"
