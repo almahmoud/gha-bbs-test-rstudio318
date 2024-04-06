@@ -864,7 +864,6 @@
         "DESeq2"
     ],
     "BrowserViz": [],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -3072,7 +3071,6 @@
     ],
     "geneXtendeR": [],
     "genomation": [],
-    "GenomicAlignments": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [
         "biomaRt"
