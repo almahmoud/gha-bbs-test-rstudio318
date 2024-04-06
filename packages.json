@@ -1462,7 +1462,6 @@
     "dittoSeq": [],
     "DMCFB": [],
     "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "GenomicFeatures",
         "Gviz",
@@ -1668,7 +1667,6 @@
     ],
     "EpiTxDb": [
         "GenomicFeatures",
-        "Structstrings",
         "tRNA",
         "tRNAdbImport"
     ],
@@ -2282,7 +2280,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "HELP": [],
     "hermes": [],
     "HERON": [
         "multtest"
@@ -2657,7 +2654,6 @@
         "xcms"
     ],
     "makecdfenv": [],
-    "MANOR": [],
     "maPredictDSC": [
         "gcrma"
     ],
@@ -2840,7 +2836,6 @@
     "methrix": [
         "HDF5Array"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "GenomicFeatures",
         "HDF5Array",
@@ -3241,7 +3236,6 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "multiMiR": [],
     "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz"
@@ -4257,10 +4251,7 @@
         "GenomicFeatures",
         "TCGAutils"
     ],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "RTopper": [
         "multtest"
     ],
@@ -4811,7 +4802,6 @@
     ],
     "Streamer": [],
     "struct": [],
-    "Structstrings": [],
     "structToolbox": [
         "struct"
     ],
@@ -5026,15 +5016,11 @@
         "siggenes"
     ],
     "triplex": [],
-    "tRNA": [
-        "Structstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
-        "Structstrings",
         "tRNA"
     ],
     "TRONCO": [
