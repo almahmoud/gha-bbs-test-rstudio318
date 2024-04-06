@@ -1730,9 +1730,7 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
@@ -2216,7 +2214,6 @@
     "GreyListChIP": [],
     "groHMM": [],
     "GSCA": [],
-    "gscreend": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -3021,7 +3018,6 @@
         "deepSNV"
     ],
     "MLInterfaces": [],
-    "MLP": [],
     "MLSeq": [],
     "MMDiff2": [],
     "MMUPHin": [
@@ -3911,7 +3907,6 @@
     "RandomWalkRestartMH": [
         "Rgraphviz"
     ],
-    "randPack": [],
     "RareVariantVis": [
         "GenomicFeatures",
         "GenomicScores",
@@ -4211,7 +4206,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "RNAsense": [],
     "RnaSeqSampleSize": [
         "GenomicFeatures",
         "GenomicFiles",
@@ -4929,7 +4923,6 @@
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [],
-    "tidySummarizedExperiment": [],
     "tilingArray": [
         "vsn"
     ],
