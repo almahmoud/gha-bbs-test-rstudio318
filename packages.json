@@ -128,7 +128,6 @@
     "Anaquin": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "animalcules": [],
     "AnnotationHubData": [
         "BiocCheck",
         "OrganismDbi"
@@ -146,7 +145,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ArrayExpress": [],
     "arrayMvout": [
         "bumphunter",
         "lumi",
@@ -624,7 +622,6 @@
         "Spectra"
     ],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "slingshot"
     ],
@@ -910,9 +907,7 @@
         "zenith"
     ],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [
-        "ArrayExpress"
-    ],
+    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -1067,8 +1062,7 @@
     ],
     "FEAST": [
         "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "fedup": [],
     "ffpe": [
@@ -1341,7 +1335,6 @@
     "HelloRanges": [
         "VariantAnnotation"
     ],
-    "hermes": [],
     "HERON": [],
     "HiCBricks": [],
     "HiCcompare": [],
@@ -1656,7 +1649,6 @@
         "Spectra",
         "xcms"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "DOSE",
         "clusterProfiler",
@@ -2569,7 +2561,6 @@
     "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "scruff": [
@@ -2675,7 +2666,6 @@
         "M3Drop",
         "MAST",
         "TSCAN",
-        "TrajectoryUtils",
         "celda",
         "scDblFinder",
         "scMerge",
@@ -2688,7 +2678,6 @@
         "VariantAnnotation"
     ],
     "singscore": [],
-    "SiPSiC": [],
     "sitadela": [],
     "skewr": [
         "bumphunter",
@@ -2699,9 +2688,7 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "goseq"
     ],
@@ -2903,10 +2890,8 @@
         "biovizBase"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
@@ -2919,7 +2904,6 @@
     ],
     "transomics2cytoscape": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treekoR": [
@@ -2940,9 +2924,7 @@
         "tRNA"
     ],
     "TRONCO": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "TurboNorm": [
         "convert"
     ],
