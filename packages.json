@@ -409,7 +409,6 @@
         "GenomicFeatures",
         "GenomicScores",
         "HDF5Array",
-        "InteractionSet",
         "TFBSTools",
         "biomaRt",
         "ensembldb",
@@ -579,7 +578,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -911,7 +909,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -935,7 +932,6 @@
         "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "MultiAssayExperiment",
         "VariantAnnotation",
         "biomaRt",
@@ -1117,7 +1113,6 @@
     "CellNOptR": [
         "Rgraphviz"
     ],
-    "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment"
     ],
@@ -1250,7 +1245,6 @@
     ],
     "ChIPpeakAnno": [
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "multtest",
@@ -2114,7 +2108,6 @@
     "DEScan2": [
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "multtest",
@@ -2167,7 +2160,6 @@
         "SingleCellExperiment"
     ],
     "diffHic": [
-        "InteractionSet",
         "csaw",
         "rhdf5",
         "rhdf5filters"
@@ -2353,9 +2345,7 @@
     "edge": [
         "sva"
     ],
-    "EDIRquery": [
-        "InteractionSet"
-    ],
+    "EDIRquery": [],
     "EGAD": [
         "GEOquery"
     ],
@@ -2654,7 +2644,6 @@
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3041,7 +3030,6 @@
         "Rgraphviz"
     ],
     "geneRecommender": [],
-    "GeneRegionScan": [],
     "geneRxCluster": [],
     "GeneSelectMMD": [],
     "GENESIS": [
@@ -3080,7 +3068,6 @@
     "GenomicInteractions": [
         "GenomicFeatures",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3326,7 +3313,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "multtest",
@@ -3403,7 +3389,6 @@
         "rhdf5filters"
     ],
     "HiCcompare": [
-        "InteractionSet",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -3411,7 +3396,6 @@
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3419,33 +3403,27 @@
     ],
     "HiCDOC": [
         "HiCcompare",
-        "InteractionSet",
         "multiHiCcompare",
         "rhdf5",
         "rhdf5filters"
     ],
     "HiCExperiment": [
-        "InteractionSet",
         "rhdf5",
         "rhdf5filters"
     ],
     "HiContacts": [
         "HiCExperiment",
-        "InteractionSet",
         "rhdf5",
         "rhdf5filters"
     ],
     "HiCool": [
         "HiCExperiment",
-        "InteractionSet",
         "basilisk",
         "basilisk.utils",
         "rhdf5",
         "rhdf5filters"
     ],
-    "hicVennDiagram": [
-        "InteractionSet"
-    ],
+    "hicVennDiagram": [],
     "HilbertCurve": [],
     "HiLDA": [
         "GenomicFeatures",
@@ -3521,7 +3499,6 @@
     "iCNV": [
         "CODEX"
     ],
-    "iCOBRA": [],
     "ideal": [
         "AnnotationForge",
         "Category",
@@ -3617,8 +3594,7 @@
     "INSPEcT": [
         "DESeq2",
         "GenomicFeatures",
-        "biomaRt",
-        "plgem"
+        "biomaRt"
     ],
     "InTAD": [
         "MultiAssayExperiment"
@@ -3632,7 +3608,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
@@ -3810,7 +3785,6 @@
     ],
     "Linnorm": [],
     "LinTInd": [],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -3890,12 +3864,10 @@
         "ExperimentHub"
     ],
     "Maaslin2": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "Macarron": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "macat": [],
@@ -3971,7 +3943,6 @@
     ],
     "mariner": [
         "HDF5Array",
-        "InteractionSet",
         "plotgardener",
         "plyranges",
         "rhdf5",
@@ -4033,7 +4004,6 @@
     ],
     "MBQN": [],
     "mbQTL": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "MCbiclust": [],
@@ -4162,9 +4132,7 @@
         "flowCore"
     ],
     "metagene2": [],
-    "metagenomeSeq": [
-        "Wrench"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "MSnbase",
@@ -4399,7 +4367,6 @@
         "rhdf5filters"
     ],
     "microbiomeDASim": [
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "multtest",
@@ -4409,7 +4376,6 @@
     ],
     "microbiomeExplorer": [
         "DESeq2",
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "rhdf5",
@@ -4426,7 +4392,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -4568,7 +4533,6 @@
     "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "mnem": [
@@ -4646,7 +4610,6 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
@@ -4661,7 +4624,6 @@
         "ensembldb",
         "motifStack"
     ],
-    "motifcounter": [],
     "MotifDb": [],
     "motifmatchr": [
         "CNEr",
@@ -4855,7 +4817,6 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "InteractionSet",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -4937,7 +4898,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "InteractionSet",
         "Rgraphviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -5111,7 +5071,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges"
     ],
     "OCplus": [
@@ -5302,7 +5261,6 @@
         "fgsea",
         "sva"
     ],
-    "pairkat": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
@@ -5488,7 +5446,6 @@
         "sparseMatrixStats"
     ],
     "pipeFrame": [],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "AnnotationForge",
@@ -5501,7 +5458,6 @@
         "plyranges"
     ],
     "plyinteractions": [
-        "InteractionSet",
         "plyranges"
     ],
     "plyranges": [],
@@ -5590,7 +5546,6 @@
         "rGREAT",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [],
     "projectR": [],
     "pRoloc": [
@@ -5919,7 +5874,6 @@
     "REDseq": [
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "multtest",
@@ -6725,7 +6679,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "seqCNA": [],
     "SeqGSEA": [
         "DESeq2",
         "biomaRt"
@@ -6750,9 +6703,7 @@
         "sva"
     ],
     "sevenbridges": [],
-    "sevenC": [
-        "InteractionSet"
-    ],
+    "sevenC": [],
     "SGCP": [
         "AnnotationForge",
         "Category",
@@ -7114,7 +7065,6 @@
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "biomaRt",
@@ -7131,7 +7081,6 @@
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "InteractionSet",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -7327,7 +7276,6 @@
     ],
     "TADCompare": [
         "HiCcompare",
-        "InteractionSet",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -7495,7 +7443,6 @@
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
-        "InteractionSet",
         "Rgraphviz",
         "VariantAnnotation",
         "biomaRt",
@@ -7559,7 +7506,6 @@
         "SingleCellExperiment"
     ],
     "TREG": [],
-    "Trendy": [],
     "TRESS": [
         "GenomicFeatures",
         "biomaRt"
@@ -7785,7 +7731,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "InteractionSet",
         "ShortRead",
         "apeglm",
         "biomaRt",
@@ -7828,7 +7773,6 @@
         "sparseMatrixStats"
     ],
     "wiggleplotr": [],
-    "Wrench": [],
     "xcms": [
         "MSnbase",
         "MetaboCoreUtils",
