@@ -153,7 +153,6 @@
     ],
     "AlpsNMR": [],
     "altcdfenvs": [
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -339,9 +338,7 @@
     ],
     "BiGGR": [
         "Rgraphviz",
-        "hyperdraw",
-        "hypergraph",
-        "rsbml"
+        "hyperdraw"
     ],
     "bigmelon": [
         "HDF5Array",
@@ -362,7 +359,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "geNetClassifier",
         "graphite"
     ],
     "BiocCheck": [
@@ -551,7 +547,6 @@
         "RTCGAToolbox",
         "TCGAutils",
         "cBioPortalData",
-        "geNetClassifier",
         "phenoTest"
     ],
     "cardelino": [
@@ -991,7 +986,6 @@
     "cpvSNP": [
         "GSEABase"
     ],
-    "cqn": [],
     "CRImage": [
         "aCGH"
     ],
@@ -1340,7 +1334,6 @@
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBcoexpress": [],
     "EBSEA": [],
     "EDASeq": [
         "ShortRead"
@@ -1356,7 +1349,6 @@
         "HDF5Array",
         "KEGGgraph",
         "Rgraphviz",
-        "gage",
         "pathview",
         "safe",
         "topGO"
@@ -1699,7 +1691,6 @@
         "VariantAnnotation"
     ],
     "gaga": [],
-    "gage": [],
     "gaggle": [],
     "GARS": [
         "DaMiRseq",
@@ -1775,7 +1766,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [],
     "geneXtendeR": [],
     "genomation": [],
@@ -1816,9 +1806,7 @@
     "GEOmetadb": [],
     "GeomxTools": [],
     "GEOsubmission": [],
-    "GeoTcgaData": [
-        "cqn"
-    ],
+    "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase"
     ],
@@ -1846,7 +1834,6 @@
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtreeDendro": [],
     "ggtreeExtra": [],
     "girafe": [
         "ShortRead"
@@ -1958,7 +1945,6 @@
     ],
     "Harshlight": [
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "HDF5Array": [],
@@ -2010,10 +1996,8 @@
     ],
     "HTSFilter": [],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "icetea": [
         "ShortRead",
         "VariantAnnotation",
@@ -2141,7 +2125,6 @@
         "iSEEhex"
     ],
     "isobar": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "sva",
@@ -2180,7 +2163,6 @@
         "bsseq"
     ],
     "KnowSeq": [
-        "cqn",
         "sva"
     ],
     "LACE": [],
@@ -2322,7 +2304,6 @@
     ],
     "mbkmeans": [],
     "mBPCR": [],
-    "MBQN": [],
     "mbQTL": [
         "metagenomeSeq"
     ],
@@ -2418,7 +2399,6 @@
         "enrichplot"
     ],
     "metapone": [],
-    "metaSeq": [],
     "metaseqR2": [
         "DSS",
         "EDASeq",
@@ -2614,7 +2594,6 @@
         "vsn",
         "xcms"
     ],
-    "MODA": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk"
@@ -2930,7 +2909,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
@@ -3371,7 +3349,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBGL": [],
     "RBioinf": [],
     "RBM": [],
     "Rbowtie2": [],
@@ -3496,7 +3473,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "RGraph2js": [],
     "Rgraphviz": [],
     "rGREAT": [],
     "rgsepd": [
@@ -3636,7 +3612,6 @@
         "ropls"
     ],
     "rrvgo": [],
-    "rsbml": [],
     "RSVSim": [
         "ShortRead"
     ],
@@ -4117,7 +4092,6 @@
         "SpatialExperiment"
     ],
     "strandCheckR": [],
-    "Streamer": [],
     "struct": [],
     "structToolbox": [
         "struct"
@@ -4319,9 +4293,7 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "txcutr": [],
     "tximeta": [],
     "UCell": [],
