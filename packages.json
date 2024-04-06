@@ -244,7 +244,6 @@
     "cbpManager": [],
     "CCPROMISE": [],
     "celaref": [],
-    "celda": [],
     "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -281,7 +280,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz",
         "biovizBase"
@@ -484,9 +482,7 @@
         "pathview"
     ],
     "decompTumor2Sig": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "minfi"
     ],
@@ -1065,7 +1061,6 @@
         "MsExperiment",
         "xcms"
     ],
-    "MOFA2": [],
     "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
@@ -1555,7 +1550,6 @@
     "singleCellTK": [
         "GSVA",
         "TSCAN",
-        "celda",
         "scDblFinder",
         "scMerge"
     ],
