@@ -15,7 +15,6 @@
         "tilingArray"
     ],
     "adductomicsR": [],
-    "ADImpute": [],
     "adSplit": [],
     "affycoretools": [
         "Category",
@@ -216,7 +215,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "MAST",
         "Maaslin2",
         "biomformat",
         "phyloseq",
@@ -406,9 +404,7 @@
         "PROMISE"
     ],
     "CDI": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [],
     "CellBarcode": [],
     "CellBench": [],
@@ -637,7 +633,6 @@
     "CoreGx": [
         "piano"
     ],
-    "corral": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -1458,7 +1453,6 @@
     "lpNet": [
         "KEGGgraph"
     ],
-    "LRcell": [],
     "lumi": [
         "bumphunter",
         "methylumi",
@@ -1511,7 +1505,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "MAST": [],
     "mastR": [],
     "MatrixQCvis": [],
     "MatrixRider": [
@@ -1676,7 +1669,6 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "microSTASIS": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -2082,9 +2074,7 @@
         "ontoProc"
     ],
     "POMA": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "PPInfer": [],
     "prebs": [
         "RPA",
@@ -2444,7 +2434,6 @@
         "SingleCellSignalR"
     ],
     "scGPS": [],
-    "scHOT": [],
     "scider": [
         "SpatialExperiment"
     ],
@@ -2575,7 +2564,6 @@
     "singleCellTK": [
         "GSVA",
         "M3Drop",
-        "MAST",
         "TSCAN",
         "celda",
         "scDblFinder",
