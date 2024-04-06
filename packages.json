@@ -247,7 +247,6 @@
     "CCPROMISE": [],
     "celaref": [],
     "celda": [],
-    "CellBarcode": [],
     "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -302,7 +301,6 @@
     ],
     "chipseq": [],
     "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [],
     "chromstaR": [],
@@ -781,7 +779,6 @@
         "ncdfFlow"
     ],
     "ggspavis": [],
-    "girafe": [],
     "glmGamPoi": [],
     "gmapR": [],
     "GmicR": [
