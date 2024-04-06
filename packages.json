@@ -48,9 +48,7 @@
     "ABarray": [
         "multtest"
     ],
-    "abseqR": [
-        "BiocStyle"
-    ],
+    "abseqR": [],
     "ABSSeq": [
         "limma"
     ],
@@ -734,7 +732,6 @@
     ],
     "AlphaBeta": [],
     "AlpsNMR": [
-        "MassSpecWavelet",
         "impute",
         "mixOmics"
     ],
@@ -1252,7 +1249,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "ASAFE": [],
     "ASGSCA": [],
     "ASICS": [
         "DelayedArray",
@@ -1276,7 +1272,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -1708,7 +1703,6 @@
     ],
     "bandle": [
         "AnnotationDbi",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -2476,14 +2470,11 @@
         "basilisk.utils",
         "zlibbioc"
     ],
-    "BiocStyle": [],
     "biocViews": [
         "RBGL",
         "graph"
     ],
-    "BiocWorkflowTools": [
-        "BiocStyle"
-    ],
+    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -2995,7 +2986,6 @@
         "zlibbioc"
     ],
     "BPRMeth": [
-        "BiocStyle",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -3187,7 +3177,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -3500,7 +3489,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -4081,7 +4069,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "cellxgenedp": [],
     "CEMiTool": [
         "AnnotationDbi",
         "Biostrings",
@@ -4403,7 +4390,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -5071,7 +5057,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -5704,9 +5689,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "COMPASS": [
-        "BiocStyle"
-    ],
+    "COMPASS": [],
     "compcodeR": [
         "edgeR",
         "limma"
@@ -5811,7 +5794,6 @@
         "flowCore",
         "flowMeans",
         "flowMerge",
-        "flowPeaks",
         "graph",
         "limma"
     ],
@@ -6122,7 +6104,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -6752,7 +6733,6 @@
         "graph"
     ],
     "cycle": [
-        "DynDoc",
         "Mfuzz",
         "tkWidgets"
     ],
@@ -6809,7 +6789,6 @@
     "cytofQC": [
         "BiocNeighbors",
         "BiocSingular",
-        "BiocStyle",
         "CATALYST",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -7084,7 +7063,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "GenomeInfoDb",
         "IRanges",
@@ -7145,7 +7123,6 @@
         "cytolib",
         "flowCore",
         "flowDensity",
-        "flowPeaks",
         "flowViz"
     ],
     "dearseq": [],
@@ -7171,7 +7148,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Harman",
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
@@ -7321,9 +7297,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "deepSNV": [
         "AnnotationDbi",
         "BSgenome",
@@ -8026,7 +8000,6 @@
     ],
     "discordant": [],
     "DiscoRhythm": [
-        "BiocStyle",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -8555,7 +8528,6 @@
         "limma",
         "marray"
     ],
-    "DynDoc": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -9777,7 +9749,6 @@
         "limma"
     ],
     "ExpressionAtlas": [
-        "BiocStyle",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9936,7 +9907,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "fCI": [],
     "fcScan": [
         "AnnotationDbi",
         "BSgenome",
@@ -10062,7 +10032,6 @@
         "RBGL",
         "graph"
     ],
-    "FGNet": [],
     "fgsea": [],
     "FilterFFPE": [
         "Biostrings",
@@ -10126,7 +10095,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -10339,7 +10307,6 @@
         "flowCore",
         "graph"
     ],
-    "flowPeaks": [],
     "flowPloidy": [
         "RProtoBufLib",
         "Rhdf5lib",
@@ -11137,7 +11104,6 @@
     "geneXtendeR": [
         "AnnotationDbi",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -11468,8 +11434,7 @@
         "zlibbioc"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -12643,7 +12608,6 @@
     "hapFabia": [
         "fabia"
     ],
-    "Harman": [],
     "HarmonizR": [
         "AnnotationDbi",
         "Biostrings",
@@ -13175,9 +13139,7 @@
         "zlibbioc"
     ],
     "HybridMTest": [],
-    "hypeR": [
-        "BiocStyle"
-    ],
+    "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
         "graph",
@@ -13541,7 +13503,6 @@
     "iNETgrate": [
         "AnnotationDbi",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DOSE",
         "DelayedArray",
@@ -13833,9 +13794,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "IONiseR": [
         "Biostrings",
         "DelayedArray",
@@ -13888,7 +13847,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -14572,7 +14530,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -14983,7 +14940,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -15127,7 +15083,6 @@
         "zlibbioc"
     ],
     "massiR": [],
-    "MassSpecWavelet": [],
     "MAST": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -15558,7 +15513,6 @@
     ],
     "Melissa": [
         "BPRMeth",
-        "BiocStyle",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -15609,7 +15563,6 @@
     ],
     "meshr": [
         "AnnotationDbi",
-        "BiocStyle",
         "Biostrings",
         "Category",
         "GSEABase",
@@ -15769,7 +15722,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -16369,7 +16321,6 @@
     ],
     "mfa": [],
     "Mfuzz": [
-        "DynDoc",
         "tkWidgets"
     ],
     "MGFM": [
@@ -17110,7 +17061,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -17345,7 +17295,6 @@
         "zlibbioc"
     ],
     "mosbi": [
-        "QUBIC",
         "fabia"
     ],
     "MOSim": [
@@ -17772,7 +17721,6 @@
     "MSnID": [
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocStyle",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -18138,7 +18086,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "DelayedArray",
-        "DynDoc",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -18534,7 +18481,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -18646,7 +18592,6 @@
     ],
     "netboost": [
         "AnnotationDbi",
-        "BiocStyle",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -18690,7 +18635,6 @@
         "zlibbioc"
     ],
     "netresponse": [
-        "BiocStyle",
         "Rgraphviz",
         "graph",
         "qvalue"
@@ -19131,7 +19075,6 @@
         "marray"
     ],
     "OLINgui": [
-        "DynDoc",
         "OLIN",
         "limma",
         "marray",
@@ -19898,7 +19841,6 @@
     ],
     "PathNet": [],
     "PathoStat": [
-        "BiocStyle",
         "Biostrings",
         "ComplexHeatmap",
         "DESeq2",
@@ -20319,7 +20261,6 @@
     "PhyloProfile": [
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocStyle",
         "Biostrings",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -20383,7 +20324,6 @@
     ],
     "Pigengene": [
         "AnnotationDbi",
-        "BiocStyle",
         "Biostrings",
         "DOSE",
         "GOSemSim",
@@ -20735,7 +20675,6 @@
         "zlibbioc"
     ],
     "prebs": [
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -21083,7 +21022,6 @@
         "Biostrings",
         "DAPAR",
         "DOSE",
-        "DynDoc",
         "GOSemSim",
         "GenomeInfoDb",
         "IRanges",
@@ -21671,7 +21609,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "QUBIC": [],
     "qusage": [
         "limma"
     ],
@@ -22051,7 +21988,6 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "Rcollectl": [],
     "Rcpi": [
         "AnnotationDbi",
         "Biostrings",
@@ -22119,7 +22055,6 @@
     "ReadqPCR": [],
     "REBET": [],
     "rebook": [
-        "BiocStyle",
         "graph"
     ],
     "receptLoss": [
@@ -22303,7 +22238,6 @@
         "AnnotationDbi",
         "BiocIO",
         "BiocSet",
-        "BiocStyle",
         "Biostrings",
         "DESeq2",
         "DOSE",
@@ -22421,7 +22355,6 @@
         "AnnotationDbi",
         "BSgenome",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DEFormats",
         "DESeq2",
@@ -22700,7 +22633,6 @@
         "rhdf5client",
         "zlibbioc"
     ],
-    "retrofit": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
@@ -23120,7 +23052,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
@@ -23257,7 +23188,6 @@
     "Rmmquant": [
         "AnnotationDbi",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -23696,7 +23626,6 @@
     ],
     "ROTS": [],
     "RPA": [
-        "BiocStyle",
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
@@ -23728,7 +23657,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -24071,7 +23999,6 @@
         "zlibbioc"
     ],
     "sangeranalyseR": [
-        "BiocStyle",
         "Biostrings",
         "DECIPHER",
         "GenomeInfoDb",
@@ -24089,7 +24016,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "SANTA": [],
     "SARC": [
         "AnnotationDbi",
         "BiocIO",
@@ -24747,7 +24673,6 @@
         "zlibbioc"
     ],
     "scMET": [
-        "BiocStyle",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -25118,7 +25043,6 @@
         "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
-        "BiocStyle",
         "Biostrings",
         "Category",
         "DOSE",
@@ -25156,7 +25080,6 @@
     ],
     "scTGIF": [
         "AnnotationDbi",
-        "BiocStyle",
         "Biostrings",
         "DelayedArray",
         "GSEABase",
@@ -27242,7 +27165,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocIO",
-        "BiocStyle",
         "Biostrings",
         "DESeq2",
         "DelayedArray",
@@ -27920,7 +27842,6 @@
         "mzR"
     ],
     "TargetScore": [],
-    "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "AnnotationDbi",
@@ -28355,7 +28276,6 @@
         "Biostrings",
         "DOSE",
         "DelayedArray",
-        "DynDoc",
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -28437,9 +28357,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "tkWidgets": [
-        "DynDoc"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
@@ -29058,7 +28976,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "ttgsea": [],
     "TTMap": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -29366,7 +29283,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "ttgsea",
         "zlibbioc"
     ],
     "VanillaICE": [
@@ -29964,7 +29880,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MassSpecWavelet",
         "MatrixGenerics",
         "MetaboCoreUtils",
         "MsCoreUtils",
