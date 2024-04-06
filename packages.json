@@ -410,7 +410,6 @@
         "flowMerge"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -509,9 +508,7 @@
         "motifStack"
     ],
     "DAMEfinder": [],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "clusterProfiler",
@@ -574,7 +571,6 @@
         "FlowSOM"
     ],
     "DifferentialRegulation": [],
-    "diffHic": [],
     "diffUTR": [],
     "Dino": [],
     "DMRcate": [
@@ -590,7 +586,6 @@
         "bsseq"
     ],
     "DominoEffect": [],
-    "Doscheda": [],
     "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -606,7 +601,6 @@
     ],
     "easier": [],
     "easyRNASeq": [],
-    "EDASeq": [],
     "EGSEA": [
         "GSVA",
         "KEGGgraph",
@@ -777,8 +771,7 @@
         "GA4GHclient"
     ],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [
         "flowFP",
@@ -810,7 +803,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneNetworkBuilder": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
@@ -1081,7 +1073,6 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq"
     ],
     "MetCirc": [],
@@ -1305,7 +1296,6 @@
     "nucleR": [],
     "nullranges": [],
     "octad": [
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -1549,7 +1539,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1614,9 +1603,7 @@
     "rqt": [],
     "RTCGAToolbox": [],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "safe": [],
     "sampleClassifier": [],
     "SARC": [],
@@ -1646,7 +1633,6 @@
         "bsseq"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [],
@@ -1784,7 +1770,6 @@
     ],
     "sSNAPPY": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -1795,7 +1780,6 @@
     "Statial": [],
     "statTarget": [],
     "stJoincount": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "svaNUMT": [
         "StructuralVariantAnnotation"
