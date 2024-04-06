@@ -174,7 +174,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AssessORF": [],
     "ASSIGN": [],
     "ASURAT": [],
     "ATACCoGAPS": [
@@ -740,7 +739,6 @@
         "aCGH"
     ],
     "crisprBowtie": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprBowtie",
@@ -1448,7 +1446,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "goSTAG": [],
     "GOstats": [
         "Category"
     ],
@@ -2301,10 +2298,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "oppar": [
         "GSVA"
     ],
@@ -2313,7 +2307,6 @@
         "flowMeans"
     ],
     "OrderedList": [],
-    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -2838,7 +2831,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scDDboost": [],
-    "scde": [],
     "scDesign3": [],
     "scds": [],
     "scFeatures": [
@@ -3208,7 +3200,6 @@
     "tidySingleCellExperiment": [],
     "tilingArray": [],
     "timecourse": [],
-    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "Mfuzz",
