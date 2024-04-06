@@ -2,24 +2,20 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "a4Core",
         "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Base": [
-        "a4Core",
         "a4Preproc",
         "annaffy",
         "genefilter",
         "multtest"
     ],
     "a4Classif": [
-        "a4Core",
         "a4Preproc"
     ],
-    "a4Core": [],
     "a4Preproc": [],
     "ABarray": [
         "multtest"
@@ -192,7 +188,6 @@
     "alabaster": [
         "BSgenome",
         "BiocIO",
-        "BumpyMatrix",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -222,7 +217,6 @@
         "rhdf5filters"
     ],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "alabaster.base",
         "rhdf5",
         "rhdf5filters"
@@ -662,7 +656,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BAGS": [],
     "ballgown": [
         "BiocIO",
         "GenomicAlignments",
@@ -1004,7 +997,6 @@
         "basilisk.utils"
     ],
     "biocViews": [],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
@@ -1311,7 +1303,6 @@
     ],
     "BufferedMatrixMethods": [],
     "bugsigdbr": [],
-    "BUMHMM": [],
     "bumphunter": [
         "BiocIO",
         "GenomicAlignments",
@@ -1321,7 +1312,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BumpyMatrix": [],
     "BUS": [],
     "BUScorrect": [],
     "BUSpaRse": [
@@ -2500,7 +2490,6 @@
     ],
     "coRdon": [],
     "CoreGx": [
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "fgsea",
         "marray",
@@ -3788,7 +3777,6 @@
         "Rgraphviz",
         "mnem"
     ],
-    "epistack": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "BiocIO",
@@ -4462,7 +4450,6 @@
         "rtracklayer"
     ],
     "gDR": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -4474,12 +4461,10 @@
         "piano"
     ],
     "gDRcore": [
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -4493,7 +4478,6 @@
         "biocViews"
     ],
     "gDRutils": [
-        "BumpyMatrix",
         "MultiAssayExperiment"
     ],
     "GDSArray": [
@@ -5259,7 +5243,6 @@
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
-    "hypeR": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -6525,7 +6508,6 @@
     "Mfuzz": [
         "tkWidgets"
     ],
-    "MGFM": [],
     "MGFR": [
         "biomaRt"
     ],
@@ -7544,9 +7526,7 @@
         "affyio",
         "vsn"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "BiocIO",
         "GenomicAlignments",
@@ -7933,7 +7913,6 @@
     ],
     "PDATK": [
         "AIMS",
-        "BumpyMatrix",
         "ConsensusClusterPlus",
         "CoreGx",
         "MultiAssayExperiment",
@@ -8004,7 +7983,6 @@
         "rhdf5client"
     ],
     "PharmacoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -8376,7 +8354,6 @@
         "genefilter",
         "vsn"
     ],
-    "PSEA": [],
     "psichomics": [
         "AnnotationHub",
         "BSgenome",
@@ -8606,7 +8583,6 @@
     ],
     "R4RNA": [],
     "RadioGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -8750,7 +8726,6 @@
         "ggtree",
         "graphite"
     ],
-    "ReadqPCR": [],
     "REBET": [],
     "rebook": [],
     "receptLoss": [],
@@ -9461,7 +9436,6 @@
         "multtest",
         "ropls"
     ],
-    "rqubic": [],
     "rRDP": [],
     "rrvgo": [],
     "Rsamtools": [
@@ -9496,7 +9470,6 @@
     "RTopper": [
         "multtest"
     ],
-    "Rtpca": [],
     "rtracklayer": [
         "BiocIO",
         "GenomicAlignments",
@@ -9537,7 +9510,6 @@
         "SeqArray"
     ],
     "sampleClassifier": [
-        "MGFM",
         "MGFR",
         "biomaRt"
     ],
@@ -10751,7 +10723,6 @@
         "SingleCellExperiment",
         "sparseMatrixStats"
     ],
-    "spqn": [],
     "SPsimSeq": [
         "SingleCellExperiment",
         "biomformat",
@@ -11187,7 +11158,6 @@
     "TnT": [],
     "TOAST": [],
     "tomoda": [],
-    "tomoseqr": [],
     "TOP": [
         "ClassifyR",
         "MultiAssayExperiment",
@@ -11205,7 +11175,6 @@
     ],
     "topGO": [],
     "ToxicoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -11767,7 +11736,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BumpyMatrix",
         "ComplexHeatmap",
         "CoreGx",
         "MultiAssayExperiment",
