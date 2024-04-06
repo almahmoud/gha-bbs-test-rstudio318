@@ -72,7 +72,6 @@
     ],
     "AMARETTO": [],
     "AnnotationHubData": [],
-    "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [
         "GenomicScores"
@@ -157,7 +156,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "annotatr",
         "bsseq",
         "dmrseq"
     ],
@@ -527,7 +525,6 @@
         "missMethyl"
     ],
     "dmrseq": [
-        "annotatr",
         "bsseq"
     ],
     "DominoEffect": [],
@@ -1478,7 +1475,6 @@
     "scifer": [],
     "scMerge": [],
     "scmeth": [
-        "annotatr",
         "bsseq"
     ],
     "scone": [
@@ -1574,7 +1570,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "annotatr",
         "bsseq"
     ],
     "SpacePAC": [],
