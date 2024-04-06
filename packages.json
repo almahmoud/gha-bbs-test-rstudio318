@@ -783,7 +783,6 @@
     ],
     "DESpace": [],
     "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [],
     "DIAlignR": [],
     "DiffBind": [
@@ -1458,7 +1457,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR"
@@ -1629,7 +1627,6 @@
     "MOGAMUN": [],
     "mogsa": [],
     "MoleculeExperiment": [],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2070,7 +2067,6 @@
     "Rbec": [
         "dada2"
     ],
-    "RBM": [],
     "RCAS": [],
     "rCGH": [
         "aCGH"
@@ -2291,7 +2287,6 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scGPS": [],
     "scider": [],
     "scifer": [],
     "scMerge": [],
@@ -2700,7 +2695,6 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "bumphunter",
         "lumi",
@@ -2710,7 +2704,6 @@
     ],
     "wavClusteR": [],
     "webbioc": [],
-    "weitrix": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
