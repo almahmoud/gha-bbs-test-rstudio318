@@ -124,8 +124,7 @@
         "CoGAPS",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -1489,7 +1488,6 @@
     "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
-    "NoRCE": [],
     "NormalyzerDE": [],
     "normr": [],
     "npGSEA": [],
@@ -1501,7 +1499,6 @@
         "GSVA",
         "RUVSeq"
     ],
-    "odseq": [],
     "OGRE": [
         "Gviz",
         "biovizBase"
@@ -1632,7 +1629,6 @@
         "ChIPseeker",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "pRoloc": [
@@ -1770,7 +1766,6 @@
         "RcwlPipelines"
     ],
     "RgnTX": [],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
@@ -1799,7 +1794,6 @@
     "RMassBank": [
         "MSnbase"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "derfinder",
