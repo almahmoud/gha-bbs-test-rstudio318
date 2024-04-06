@@ -381,7 +381,6 @@
         "chromVAR",
         "fgsea",
         "motifmatchr",
-        "projectR",
         "rGREAT",
         "rhdf5",
         "rhdf5filters"
@@ -1377,7 +1376,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cnvGSA": [],
     "CNViz": [
         "CopyNumberPlots",
         "GenomicFeatures",
@@ -1392,7 +1390,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "exomeCopy"
     ],
@@ -2939,7 +2936,6 @@
         "GenomicFeatures"
     ],
     "GMRP": [],
-    "GNET2": [],
     "GNOSIS": [
         "GenomicFeatures",
         "MultiAssayExperiment",
@@ -3169,8 +3165,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -5102,7 +5096,6 @@
         "rGREAT",
         "soGGi"
     ],
-    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "MSnbase",
@@ -5289,7 +5282,6 @@
     "rain": [
         "multtest"
     ],
-    "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
         "Rgraphviz"
@@ -5387,7 +5379,6 @@
     "recoup": [
         "GenomicFeatures"
     ],
-    "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
         "GenomicFeatures",
@@ -5747,7 +5738,6 @@
         "GenomicFeatures",
         "ShortRead"
     ],
-    "Rvisdiff": [],
     "RVS": [],
     "safe": [],
     "SAIGEgds": [],
