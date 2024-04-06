@@ -6004,7 +6004,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "ComPrAn": [],
     "concordexR": [
         "BiocParallel",
         "DelayedArray",
@@ -8990,7 +8989,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "EmpiricalBrownsMethod",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -9170,7 +9168,6 @@
         "BiocParallel",
         "preprocessCore"
     ],
-    "EmpiricalBrownsMethod": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
@@ -10283,7 +10280,6 @@
         "fgsea",
         "ggtree",
         "qvalue",
-        "rWikiPathways",
         "zlibbioc"
     ],
     "fastLiquidAssociation": [
@@ -12336,7 +12332,6 @@
         "graph",
         "zlibbioc"
     ],
-    "globalSeq": [],
     "globaltest": [
         "AnnotationDbi",
         "Biostrings",
@@ -12673,7 +12668,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "GPA": [],
     "gpls": [],
     "gpuMagic": [],
     "GRaNIE": [
@@ -12792,7 +12786,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "GSALightning": [],
     "GSCA": [
         "Rhdf5lib",
         "S4Vectors",
@@ -13736,7 +13729,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iBBiG": [],
     "ibh": [],
     "iBMQ": [],
     "iCARE": [],
@@ -15233,10 +15225,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz",
@@ -19151,7 +19140,6 @@
         "ChIPpeakAnno",
         "DelayedArray",
         "DirichletMultinomial",
-        "EmpiricalBrownsMethod",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -19450,7 +19438,6 @@
         "XVector",
         "graph",
         "minet",
-        "supraHex",
         "zlibbioc"
     ],
     "netresponse": [
@@ -19672,7 +19659,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "rWikiPathways",
         "rtracklayer",
         "zlibbioc"
     ],
@@ -20063,7 +20049,6 @@
         "fgsea",
         "zlibbioc"
     ],
-    "Omixer": [],
     "OmnipathR": [],
     "ompBAM": [
         "zlibbioc"
@@ -20817,7 +20802,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "pcxn": [],
     "PDATK": [
         "AIMS",
         "AnnotationDbi",
@@ -21194,7 +21178,6 @@
         "S4Vectors",
         "XVector",
         "graph",
-        "supraHex",
         "zlibbioc"
     ],
     "piano": [
@@ -21394,9 +21377,7 @@
         "zlibbioc"
     ],
     "plotGrouper": [],
-    "PLPE": [
-        "LPE"
-    ],
+    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "BiocParallel",
@@ -21985,7 +21966,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BSgenome",
@@ -22791,8 +22771,7 @@
     ],
     "RandomWalkRestartMH": [
         "Rgraphviz",
-        "graph",
-        "supraHex"
+        "graph"
     ],
     "randPack": [],
     "RankProd": [],
@@ -22911,7 +22890,6 @@
         "seqPattern",
         "zlibbioc"
     ],
-    "RCASPAR": [],
     "rcellminer": [],
     "rCGH": [
         "AnnotationDbi",
@@ -25021,7 +24999,6 @@
         "snpStats",
         "zlibbioc"
     ],
-    "rWikiPathways": [],
     "S4Arrays": [
         "IRanges",
         "S4Vectors"
@@ -25367,7 +25344,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "AnnotationDbi",
         "BiocParallel",
@@ -28395,7 +28371,6 @@
         "zlibbioc"
     ],
     "sSeq": [],
-    "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "Biostrings",
@@ -28722,7 +28697,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "supraHex": [],
     "surfaltr": [
         "AnnotationDbi",
         "Biostrings",
@@ -29542,7 +29516,6 @@
         "ggtree",
         "graph",
         "qvalue",
-        "rWikiPathways",
         "tkWidgets",
         "zlibbioc"
     ],
