@@ -174,7 +174,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [],
     "atSNP": [
         "TFBSTools",
         "motifStack"
@@ -1009,7 +1008,6 @@
         "siggenes"
     ],
     "FindIT2": [],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -1271,7 +1269,6 @@
     "HiContacts": [],
     "HiCool": [],
     "HiLDA": [],
-    "hipathia": [],
     "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
@@ -1894,7 +1891,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "omicsPrint": [],
     "omicsViewer": [],
     "OncoSimulR": [],
     "ontoProc": [],
@@ -1922,7 +1918,6 @@
         "Ringo"
     ],
     "PAA": [],
-    "padma": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -2639,7 +2634,6 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "TENxIO": [],
     "tenXplore": [
         "ontoProc",
         "restfulSE"
