@@ -111,7 +111,6 @@
         "biocViews",
         "biomaRt"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocSingular",
@@ -971,7 +970,6 @@
         "geNetClassifier",
         "phenoTest"
     ],
-    "cancerclass": [],
     "cardelino": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -1605,7 +1603,6 @@
         "ensembldb"
     ],
     "consensusOV": [
-        "AIMS",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSEABase",
@@ -1838,8 +1835,7 @@
         "flowViz"
     ],
     "cycle": [
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "BiocNeighbors",
@@ -1959,7 +1955,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "tkWidgets",
         "vsn"
     ],
     "dce": [
@@ -2277,7 +2272,6 @@
     "doseR": [],
     "doubletrouble": [
         "GenomicFeatures",
-        "MSA2dist",
         "biomaRt",
         "syntenet"
     ],
@@ -3037,7 +3031,6 @@
     ],
     "GeneExpressionSignature": [],
     "genefu": [
-        "AIMS",
         "biomaRt"
     ],
     "GeneGeneInteR": [
@@ -3124,8 +3117,7 @@
         "biomaRt"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "GEOquery",
@@ -3134,9 +3126,7 @@
     "GEOmetadb": [
         "GEOquery"
     ],
-    "GeomxTools": [
-        "NanoStringNCTools"
-    ],
+    "GeomxTools": [],
     "GEOquery": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
@@ -3248,7 +3238,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "goseq": [
         "GenomicFeatures",
         "biomaRt"
@@ -3260,8 +3249,7 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "goProfiles"
+        "fgsea"
     ],
     "goSTAG": [
         "biomaRt"
@@ -3276,7 +3264,6 @@
         "ShortRead"
     ],
     "goTools": [],
-    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationHub",
         "DESeq2",
@@ -4367,9 +4354,7 @@
     ],
     "MetNet": [],
     "mfa": [],
-    "Mfuzz": [
-        "tkWidgets"
-    ],
+    "Mfuzz": [],
     "MGFR": [
         "biomaRt"
     ],
@@ -4694,7 +4679,6 @@
     "mpra": [],
     "MPRAnalyze": [],
     "msa": [],
-    "MSA2dist": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
@@ -4881,8 +4865,7 @@
     ],
     "MultiRNAflow": [
         "DESeq2",
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "multiWGCNA": [],
     "multtest": [],
@@ -4979,7 +4962,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [
         "fgsea"
@@ -5176,8 +5158,7 @@
     ],
     "OLINgui": [
         "OLIN",
-        "marray",
-        "tkWidgets"
+        "marray"
     ],
     "OmaDB": [
         "topGO"
@@ -5254,7 +5235,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OPWeight": [],
     "OrderedList": [
         "twilight"
     ],
@@ -5381,7 +5361,6 @@
         "sparseMatrixStats"
     ],
     "PDATK": [
-        "AIMS",
         "CoreGx",
         "MultiAssayExperiment",
         "biomaRt",
@@ -5509,7 +5488,6 @@
         "sparseMatrixStats"
     ],
     "pipeFrame": [],
-    "planttfhunter": [],
     "plgem": [],
     "plier": [],
     "PloGO2": [
@@ -5534,7 +5512,6 @@
         "Rgraphviz",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "DESeq2"
     ],
@@ -5650,7 +5627,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "tkWidgets",
         "vsn"
     ],
     "ProteoDisco": [
@@ -6854,7 +6830,6 @@
         "biomaRt"
     ],
     "signifinder": [
-        "AIMS",
         "BiocSingular",
         "DelayedMatrixStats",
         "GSEABase",
@@ -7107,8 +7082,7 @@
         "basilisk.utils"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "NanoStringNCTools"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "SingleCellExperiment"
@@ -7132,7 +7106,6 @@
     ],
     "SpatialOmicsOverlay": [
         "GeomxTools",
-        "NanoStringNCTools",
         "RBioFormats"
     ],
     "spatzie": [
@@ -7467,8 +7440,7 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "tkWidgets"
+        "fgsea"
     ],
     "TIN": [],
     "TissueEnrich": [
@@ -7479,7 +7451,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -7520,7 +7491,6 @@
         "piano"
     ],
     "TPP": [],
-    "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
         "GenomicFeatures",
@@ -7858,7 +7828,6 @@
         "sparseMatrixStats"
     ],
     "wiggleplotr": [],
-    "wppi": [],
     "Wrench": [],
     "xcms": [
         "MSnbase",
