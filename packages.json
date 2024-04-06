@@ -448,8 +448,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [],
     "clipper": [
@@ -878,9 +877,7 @@
         "GSVA"
     ],
     "escheR": [],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "EWCE": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -1031,7 +1028,6 @@
     "gDRstyle": [
         "BiocCheck"
     ],
-    "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -1295,7 +1291,6 @@
         "minfi",
         "siggenes"
     ],
-    "LymphoSeq": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -1742,8 +1737,6 @@
     "optimalFlow": [
         "flowMeans"
     ],
-    "ORFik": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthos": [],
     "OTUbase": [],
@@ -2017,12 +2010,8 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "Rhisat2": [],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -2203,7 +2192,6 @@
         "Category",
         "GOstats"
     ],
-    "SGSeq": [],
     "shinyepico": [
         "minfi",
         "siggenes"
@@ -2388,9 +2376,7 @@
     ],
     "TFBSTools": [],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tilingArray": [],
     "TimiRGeN": [
@@ -2461,7 +2447,6 @@
     "txcutr": [],
     "tximeta": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
