@@ -183,7 +183,6 @@
         "GOstats"
     ],
     "AUCell": [],
-    "autonomics": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -205,7 +204,6 @@
         "VariantAnnotation"
     ],
     "beachmat.hdf5": [],
-    "BEARscc": [],
     "BEAT": [],
     "benchdamic": [
         "ALDEx2",
@@ -1409,7 +1407,6 @@
         "siggenes"
     ],
     "LymphoSeq": [],
-    "M3Drop": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -2136,7 +2133,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "RCSL": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
@@ -2359,9 +2355,7 @@
     "scGPS": [],
     "scider": [],
     "scifer": [],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scMET": [],
     "scmeth": [
         "annotatr",
@@ -2388,7 +2382,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "Category",
         "DOSE",
@@ -2479,7 +2472,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
-        "M3Drop",
         "TSCAN",
         "celda",
         "scDblFinder",
