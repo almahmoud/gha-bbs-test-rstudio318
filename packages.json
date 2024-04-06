@@ -348,7 +348,6 @@
         "scran"
     ],
     "bayNorm": [],
-    "baySeq": [],
     "BBCAnalyzer": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -933,9 +932,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "clustifyr": [
         "fgsea"
     ],
@@ -2826,7 +2823,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "methylKit"
     ],
@@ -3519,7 +3515,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "paircompviz": [
         "Rgraphviz"
     ],
@@ -4091,9 +4086,7 @@
         "ggbio"
     ],
     "ribor": [],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -4136,7 +4129,6 @@
         "GenomicFeatures",
         "regioneR"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "ChemmineOB",
         "MSnbase",
@@ -4439,8 +4431,7 @@
         "fgsea"
     ],
     "segmentSeq": [
-        "ShortRead",
-        "baySeq"
+        "ShortRead"
     ],
     "selectKSigs": [
         "GenomicFeatures",
@@ -4762,7 +4753,6 @@
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
-        "baySeq",
         "biovizBase",
         "ensembldb"
     ],
@@ -4868,9 +4858,7 @@
         "singscore",
         "sva"
     ],
-    "TCC": [
-        "baySeq"
-    ],
+    "TCC": [],
     "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicFeatures"
