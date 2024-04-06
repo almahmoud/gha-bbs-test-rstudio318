@@ -261,7 +261,6 @@
     "ANCOMBC": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -379,9 +378,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "sva"
     ],
@@ -575,7 +572,6 @@
         "ANCOMBC",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -1423,7 +1419,6 @@
     "clusterSeq": [
         "baySeq"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -1995,7 +1990,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -3184,9 +3178,7 @@
     "ggmanh": [
         "SeqArray"
     ],
-    "ggmsa": [
-        "R4RNA"
-    ],
+    "ggmsa": [],
     "ggsc": [
         "SingleCellExperiment"
     ],
@@ -3506,7 +3498,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [
@@ -4387,7 +4378,6 @@
     "mia": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -4406,7 +4396,6 @@
     "miaViz": [
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -4448,7 +4437,6 @@
         "ANCOMBC",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -4565,7 +4553,6 @@
         "TCGAbiolinks",
         "biomaRt"
     ],
-    "miRNAmeConverter": [],
     "missMethyl": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -5245,11 +5232,8 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [
@@ -5436,7 +5420,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "pengls": [],
     "pepStat": [],
     "periodicDNA": [],
     "phantasus": [
@@ -5819,7 +5802,6 @@
         "VariantAnnotation",
         "biomaRt"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
@@ -6378,7 +6360,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "sangerseqR": [],
@@ -6546,7 +6527,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "cytolib",
         "flowCore",
         "sangerseqR"
@@ -7253,7 +7233,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "SQLDataFrame": [],
     "sRACIPE": [],
     "SRAdb": [
         "GEOquery"
@@ -7357,9 +7336,7 @@
         "mzR",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [],
     "SynMut": [],
     "syntenet": [],
@@ -7526,7 +7503,6 @@
         "sparseMatrixStats"
     ],
     "TnT": [],
-    "tomoda": [],
     "TOP": [
         "ClassifyR",
         "MultiAssayExperiment"
@@ -7588,7 +7564,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "transite": [],
     "tRanslatome": [
         "DESeq2",
         "anota",
