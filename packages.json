@@ -211,7 +211,6 @@
         "pRoloc"
     ],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
@@ -322,8 +321,7 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -348,9 +346,7 @@
         "biovizBase"
     ],
     "bumphunter": [],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
@@ -470,9 +466,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [],
     "CGHbase": [],
     "CGHcall": [
@@ -508,7 +502,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
@@ -707,10 +700,8 @@
     "CRImage": [
         "aCGH"
     ],
-    "crisprBowtie": [],
     "crisprDesign": [
         "VariantAnnotation",
-        "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [],
@@ -719,7 +710,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz"
@@ -728,7 +718,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore"
     ],
@@ -1332,8 +1321,7 @@
         "ggbio"
     ],
     "GenomicPlot": [
-        "RCAS",
-        "plyranges"
+        "RCAS"
     ],
     "GenomicScores": [],
     "GenVisR": [
@@ -1401,7 +1389,6 @@
         "iPAC"
     ],
     "GreyListChIP": [],
-    "groHMM": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1533,9 +1520,7 @@
     "infinityFlow": [
         "flowCore"
     ],
-    "InPAS": [
-        "plyranges"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "InTAD": [],
     "intansv": [
@@ -1598,8 +1583,7 @@
         "biovizBase"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KCsmart": [
         "siggenes"
@@ -1689,8 +1673,7 @@
     ],
     "maPredictDSC": [],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "martini": [],
     "maser": [
@@ -1719,7 +1702,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "VariantAnnotation",
@@ -1808,7 +1790,6 @@
         "bsseq",
         "bumphunter",
         "minfi",
-        "plyranges",
         "siggenes"
     ],
     "methylclock": [
@@ -2058,8 +2039,7 @@
         "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "plyranges"
+        "karyoploteR"
     ],
     "multiGSEA": [],
     "multiHiCcompare": [
@@ -2118,9 +2098,7 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM",
@@ -2160,9 +2138,7 @@
     "normr": [],
     "npGSEA": [],
     "nucleR": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "OCplus": [],
     "octad": [
         "EDASeq",
@@ -2314,13 +2290,8 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
+    "plyinteractions": [],
     "podkat": [],
     "pogos": [
         "ontoProc"
@@ -2440,7 +2411,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [
         "VariantAnnotation"
     ],
@@ -2683,9 +2653,7 @@
         "MGFR"
     ],
     "sangeranalyseR": [],
-    "SARC": [
-        "plyranges"
-    ],
+    "SARC": [],
     "SBGNview": [
         "KEGGgraph",
         "pathview"
@@ -3159,8 +3127,7 @@
     "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
@@ -3209,7 +3176,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "VariantAnnotation",
