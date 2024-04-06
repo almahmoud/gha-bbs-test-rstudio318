@@ -777,7 +777,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationHub",
         "GenomicFeatures",
@@ -2633,7 +2632,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "FuseSOM": [],
     "GA4GHclient": [
         "GenomicFeatures",
         "VariantAnnotation"
@@ -2833,7 +2831,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [],
     "ggmsa": [],
     "ggsc": [
@@ -3665,9 +3662,7 @@
         "CellNOptR",
         "Rgraphviz"
     ],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "universalmotif"
     ],
@@ -3886,7 +3881,6 @@
     "MetID": [
         "ChemmineR"
     ],
-    "mfa": [],
     "Mfuzz": [],
     "MGFR": [],
     "mia": [
@@ -6453,7 +6447,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "graphite"
     ],
@@ -6503,7 +6496,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SUITOR": [],
     "surfaltr": [
         "msa"
     ],
