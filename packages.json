@@ -300,7 +300,6 @@
         "bumphunter",
         "dmrseq"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -501,7 +500,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -510,7 +508,6 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -549,7 +546,6 @@
     "clipper": [
         "KEGGgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -763,7 +759,6 @@
         "FlowSOM",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
@@ -899,7 +894,6 @@
     "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [],
@@ -1014,9 +1008,7 @@
         "DOSE",
         "enrichplot"
     ],
-    "epigraHMM": [
-        "GreyListChIP"
-    ],
+    "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
         "Gviz",
@@ -1094,9 +1086,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -1384,7 +1374,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GreyListChIP": [],
     "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1426,7 +1415,6 @@
     ],
     "hermes": [],
     "HERON": [],
-    "hiAnnotator": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
@@ -1449,9 +1437,7 @@
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
@@ -1481,7 +1467,6 @@
         "goseq",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -1564,7 +1549,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta"
@@ -2707,7 +2691,6 @@
     "Sconify": [
         "flowCore"
     ],
-    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation"
     ],
@@ -2988,7 +2971,6 @@
     "synapter": [
         "MSnbase"
     ],
-    "SynExtend": [],
     "systemPipeR": [],
     "systemPipeTools": [],
     "tadar": [
@@ -3177,7 +3159,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "systemPipeR"
     ],
     "waddR": [],
@@ -3191,7 +3172,6 @@
     "wavClusteR": [],
     "webbioc": [],
     "weitrix": [],
-    "wiggleplotr": [],
     "xcms": [
         "MSnbase",
         "MsExperiment",
