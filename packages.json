@@ -17,7 +17,6 @@
     "adductomicsR": [],
     "ADImpute": [],
     "adSplit": [],
-    "AffiXcan": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -155,9 +154,7 @@
     "arrayQualityMetrics": [
         "affyPLM"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASICS": [],
     "ASpli": [
         "Gviz",
@@ -244,7 +241,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "RTCGAToolbox",
@@ -636,7 +632,6 @@
         "minfi",
         "siggenes"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
         "biovizBase",
@@ -1331,7 +1326,6 @@
     "HiCool": [],
     "HiLDA": [],
     "hipathia": [],
-    "HIPPO": [],
     "hiReadsProcessor": [],
     "hoodscanR": [
         "SpatialExperiment"
@@ -1852,17 +1846,12 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -1873,13 +1862,10 @@
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [],
     "multicrispr": [
@@ -1929,7 +1915,6 @@
     ],
     "nanotatoR": [],
     "NanoTube": [],
-    "NBAMSeq": [],
     "ncdfFlow": [],
     "ncGTW": [
         "MSnbase",
@@ -2473,10 +2458,7 @@
     "SCAN.UPC": [],
     "scanMiRApp": [],
     "scAnnotatR": [],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scBFA": [
         "zinbwave"
     ],
@@ -2888,9 +2870,7 @@
     ],
     "TRONCO": [],
     "TSCAN": [],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
