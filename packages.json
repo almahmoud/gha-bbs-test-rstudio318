@@ -121,7 +121,6 @@
     ],
     "ASSIGN": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "TFBSTools",
         "chromVAR",
         "motifmatchr"
@@ -200,7 +199,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "BioNAR": [],
     "BioNERO": [],
     "BioNetStat": [
         "KEGGgraph",
@@ -447,7 +445,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "comapr": [
         "Gviz",
         "biovizBase"
@@ -987,7 +984,6 @@
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "Guitar": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1031,9 +1027,7 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -1081,7 +1075,6 @@
     ],
     "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
-    "IVAS": [],
     "karyoploteR": [
         "biovizBase"
     ],
@@ -1141,9 +1134,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MSnbase",
@@ -1485,7 +1476,6 @@
         "yarn"
     ],
     "NewWave": [],
-    "nipalsMCIA": [],
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
@@ -1969,7 +1959,6 @@
         "QuasR"
     ],
     "singscore": [],
-    "sitadela": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -2125,7 +2114,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "TRESS": [],
     "trigger": [],
     "trio": [
         "siggenes"
