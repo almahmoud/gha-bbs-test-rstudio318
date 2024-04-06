@@ -141,7 +141,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
@@ -970,7 +969,6 @@
     "MetaboAnnotation": [
         "CompoundDb"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -1701,7 +1699,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "Uniquorn": [],
     "uSORT": [],
     "VanillaICE": [],
