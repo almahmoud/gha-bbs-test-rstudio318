@@ -855,7 +855,6 @@
     ],
     "deconvR": [
         "bumphunter",
-        "methylKit",
         "minfi",
         "siggenes"
     ],
@@ -1795,9 +1794,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "sesame"
     ],
@@ -1833,10 +1830,7 @@
         "missMethyl",
         "siggenes"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
