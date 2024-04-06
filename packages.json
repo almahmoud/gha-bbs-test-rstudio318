@@ -178,7 +178,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "RTCGAToolbox",
         "ReactomePA",
@@ -315,7 +314,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "CelliD": [],
     "cellity": [],
     "CellNOptR": [],
     "CEMiTool": [
@@ -611,7 +609,6 @@
     ],
     "DeepBlueR": [],
     "deepSNV": [],
-    "DegNorm": [],
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph"
