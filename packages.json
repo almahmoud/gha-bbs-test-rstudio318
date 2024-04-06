@@ -81,7 +81,6 @@
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
-    "apComplex": [],
     "APL": [],
     "appreci8R": [
         "GenomicScores"
@@ -190,8 +189,7 @@
     "bnbc": [],
     "bnem": [
         "CellNOptR",
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "BOBaFIT": [
         "biovizBase",
@@ -532,8 +530,7 @@
         "enrichplot"
     ],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -604,7 +601,6 @@
         "annotatr",
         "bsseq"
     ],
-    "DNAfusion": [],
     "DominoEffect": [],
     "Doscheda": [],
     "doubletrouble": [],
@@ -668,9 +664,7 @@
         "biovizBase",
         "minfi"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "EpiTxDb": [
         "tRNAdbImport"
     ],
@@ -1048,7 +1042,6 @@
         "biovizBase"
     ],
     "maskBAD": [],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
@@ -1185,7 +1178,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
@@ -1310,8 +1302,7 @@
     ],
     "nearBynding": [],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -1357,7 +1348,6 @@
         "HelloRanges"
     ],
     "OncoSimulR": [],
-    "ontoProc": [],
     "openCyto": [
         "flowClust",
         "flowViz",
@@ -1436,9 +1426,7 @@
     ],
     "plotgardener": [],
     "plyinteractions": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POWSC": [],
     "prebs": [
         "RPA"
@@ -1874,9 +1862,7 @@
     "TDbasedUFEadv": [
         "enrichplot"
     ],
-    "tenXplore": [
-        "ontoProc"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
