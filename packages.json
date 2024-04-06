@@ -561,7 +561,6 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.string",
@@ -576,7 +575,6 @@
         "BiocGenerics",
         "Rhdf5lib",
         "S4Vectors",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -587,7 +585,6 @@
         "Rhdf5lib",
         "S4Vectors",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -612,7 +609,6 @@
         "SummarizedExperiment",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -638,7 +634,6 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "rhdf5",
         "rhdf5filters",
@@ -656,7 +651,6 @@
         "SparseArray",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -670,7 +664,6 @@
         "S4Vectors",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -694,13 +687,11 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
     ],
-    "alabaster.schemas": [],
     "alabaster.se": [
         "Biobase",
         "BiocGenerics",
@@ -719,7 +710,6 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -745,7 +735,6 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "rhdf5",
         "rhdf5filters",
@@ -760,7 +749,6 @@
         "S4Vectors",
         "XVector",
         "alabaster.base",
-        "alabaster.schemas",
         "rhdf5",
         "rhdf5filters",
         "zlibbioc"
@@ -794,7 +782,6 @@
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.string",
         "biomaRt",
@@ -1419,7 +1406,6 @@
     ],
     "arrayQualityMetrics": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "Biostrings",
@@ -2348,7 +2334,6 @@
     ],
     "beadarray": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "Biostrings",
@@ -2367,7 +2352,6 @@
         "BiocGenerics",
         "quantsmooth"
     ],
-    "BeadDataPackR": [],
     "BEARscc": [
         "Biobase",
         "BiocGenerics",
@@ -3286,7 +3270,6 @@
     ],
     "blima": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "Biostrings",
@@ -4103,7 +4086,6 @@
         "GenomicDataCommons",
         "GenomicFeatures",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -7285,7 +7267,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "Rbwa",
         "Rhtslib",
         "Rsamtools",
         "S4Arrays",
@@ -8095,7 +8076,6 @@
         "seqLogo",
         "zlibbioc"
     ],
-    "daMA": [],
     "DAMEfinder": [
         "AnnotationDbi",
         "BSgenome",
@@ -8948,7 +8928,6 @@
         "BiocParallel",
         "DESeq2",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -9962,10 +9941,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "ecolitk": [
         "Biobase",
         "BiocGenerics"
@@ -10503,7 +10479,6 @@
     "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
-        "BeadDataPackR",
         "Biobase",
         "BiocGenerics",
         "BiocParallel",
@@ -11658,7 +11633,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "FitHiC": [],
     "flagme": [
         "AnnotationFilter",
         "Biobase",
@@ -11847,7 +11821,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "flowCyBar": [],
     "flowDensity": [
         "Biobase",
         "BiocGenerics",
@@ -12280,7 +12253,6 @@
         "BiocGenerics",
         "graph"
     ],
-    "garfield": [],
     "GARS": [
         "AnnotationDbi",
         "Biobase",
@@ -14668,7 +14640,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "Heatplus": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -18180,7 +18151,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "metaCCA": [],
     "MetaCyto": [
         "Biobase",
         "BiocGenerics",
@@ -22620,8 +22590,7 @@
     ],
     "OSAT": [],
     "Oscope": [
-        "BiocParallel",
-        "EBSeq"
+        "BiocParallel"
     ],
     "OTUbase": [
         "Biobase",
@@ -22944,7 +22913,6 @@
     "PANR": [
         "RedeR"
     ],
-    "PanViz": [],
     "pareg": [
         "AnnotationDbi",
         "Biobase",
@@ -23013,7 +22981,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "pathifier": [],
     "PathNet": [],
     "PathoStat": [
         "Biobase",
@@ -23447,7 +23414,6 @@
         "Category",
         "GSEABase",
         "GenomeInfoDb",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -25427,7 +25393,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "Rbwa": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -26393,7 +26358,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "rgoslin": [],
     "RGraph2js": [
         "BiocGenerics",
         "graph"
@@ -27195,7 +27159,6 @@
         "qvalue",
         "zlibbioc"
     ],
-    "rnaseqcomp": [],
     "RNAseqCovarImpute": [
         "Biobase",
         "BiocGenerics",
@@ -28356,7 +28319,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -28383,7 +28345,6 @@
         "BiocGenerics",
         "BiocParallel",
         "DelayedArray",
-        "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -33259,7 +33220,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
@@ -33514,7 +33474,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "tripr": [],
     "tRNA": [
         "BiocGenerics",
         "Biostrings",
