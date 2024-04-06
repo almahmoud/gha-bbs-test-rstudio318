@@ -163,7 +163,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [],
     "altcdfenvs": [
         "hypergraph",
@@ -2039,7 +2038,6 @@
         "basilisk"
     ],
     "hicVennDiagram": [],
-    "HilbertCurve": [],
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
@@ -2093,7 +2091,6 @@
     ],
     "IdeoViz": [],
     "idpr": [],
-    "IFAA": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -2157,7 +2154,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "InterMineR": [],
     "IONiseR": [
         "ShortRead"
     ],
