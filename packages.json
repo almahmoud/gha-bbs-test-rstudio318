@@ -71,7 +71,6 @@
         "biovizBase"
     ],
     "AMARETTO": [],
-    "AneuFinder": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -293,14 +292,11 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "chipseq"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
-    "ChIPseqR": [],
     "ChIPXpress": [],
     "ChromSCape": [],
     "chromstaR": [],
@@ -827,7 +823,6 @@
     "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "icetea": [],
@@ -1074,7 +1069,6 @@
         "xcms"
     ],
     "MOFA2": [],
-    "mogsa": [],
     "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
@@ -1294,7 +1288,6 @@
     "PrInCE": [],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -1585,9 +1578,7 @@
     "snapCGH": [],
     "snifter": [],
     "SNPhood": [],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
         "ggbio"
@@ -1648,7 +1639,6 @@
         "biovizBase"
     ],
     "TADCompare": [],
-    "TargetDecoy": [],
     "TBSignatureProfiler": [
         "GSVA"
     ],
@@ -1680,9 +1670,7 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
