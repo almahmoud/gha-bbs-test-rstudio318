@@ -129,7 +129,6 @@
     ],
     "AUCell": [],
     "BadRegionFinder": [],
-    "ballgown": [],
     "bandle": [
         "MSnbase",
         "pRoloc"
@@ -148,7 +147,6 @@
     "benchdamic": [
         "Maaslin2"
     ],
-    "BgeeDB": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -459,7 +457,6 @@
     ],
     "cosmosR": [],
     "COTAN": [],
-    "cpvSNP": [],
     "CRImage": [],
     "crisprDesign": [
         "crisprScore"
@@ -594,7 +591,6 @@
         "ChIPpeakAnno"
     ],
     "DESpace": [],
-    "DExMA": [],
     "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
@@ -738,7 +734,6 @@
     "FEAST": [
         "TSCAN"
     ],
-    "fedup": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -1274,7 +1269,6 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MSPrep": [],
     "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
@@ -1519,9 +1513,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase"
     ],
@@ -1643,9 +1635,7 @@
         "MsExperiment",
         "xcms"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [
@@ -1827,7 +1817,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slalom": [],
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [
@@ -2001,9 +1990,7 @@
         "biovizBase"
     ],
     "VariantTools": [],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "GenomicFiles"
     ],
