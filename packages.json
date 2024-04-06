@@ -389,7 +389,6 @@
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category"
     ],
@@ -945,8 +944,7 @@
         "motifmatchr"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "esetVis": [],
@@ -1123,7 +1121,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "GeneTonic": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -1163,7 +1160,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggsc": [],
     "ggspavis": [],
     "girafe": [],
     "GISPA": [],
@@ -1581,8 +1577,6 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "midasHLA": [],
-    "miloR": [],
     "mimager": [
         "affyPLM"
     ],
@@ -1835,10 +1829,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "OmaDB": [],
     "omicade4": [
         "made4"
@@ -2661,7 +2652,6 @@
     "tweeDEseq": [],
     "txcutr": [],
     "tximeta": [],
-    "UCell": [],
     "Ularcirc": [
         "Organism.dplyr",
         "plotgardener"
@@ -2703,7 +2693,6 @@
     ],
     "VDJdive": [],
     "velociraptor": [],
-    "vidger": [],
     "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
