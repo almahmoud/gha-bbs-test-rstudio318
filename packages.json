@@ -1848,7 +1848,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "Gviz",
@@ -2550,7 +2549,6 @@
     ],
     "RVS": [],
     "safe": [],
-    "SAIGEgds": [],
     "sampleClassifier": [],
     "sangeranalyseR": [],
     "SARC": [],
@@ -2839,7 +2837,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "VariantAnnotation",
