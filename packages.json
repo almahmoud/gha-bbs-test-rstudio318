@@ -943,7 +943,6 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR",
@@ -2493,7 +2492,6 @@
     "IVAS": [
         "GenomicFeatures"
     ],
-    "ivygapSE": [],
     "karyoploteR": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -4114,7 +4112,6 @@
         "ensembldb",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
@@ -4864,7 +4861,6 @@
         "restfulSE"
     ],
     "TEQC": [],
-    "ternarynet": [],
     "terraTCGAdata": [
         "GenomicFeatures",
         "TCGAutils"
@@ -4988,7 +4984,6 @@
         "multtest",
         "siggenes"
     ],
-    "triplex": [],
     "tRNA": [],
     "tRNAdbImport": [
         "tRNA"
