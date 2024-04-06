@@ -430,7 +430,6 @@
     "cellity": [],
     "CellMixS": [],
     "CellNOptR": [],
-    "CellTrails": [],
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
@@ -914,7 +913,6 @@
     "dyebias": [],
     "easier": [],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EDASeq": [],
     "edge": [],
     "EGSEA": [
@@ -1185,22 +1183,17 @@
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
-        "gDRutils",
         "piano"
     ],
-    "gDRcore": [
-        "gDRutils"
-    ],
+    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "gDRutils",
         "piano"
     ],
     "gDRstyle": [
         "BiocCheck"
     ],
-    "gDRutils": [],
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -1415,7 +1408,6 @@
         "minfi",
         "siggenes"
     ],
-    "infercnv": [],
     "infinityFlow": [],
     "InPAS": [],
     "INSPEcT": [],
@@ -1978,7 +1970,6 @@
         "mnem"
     ],
     "NetActivity": [],
-    "netDx": [],
     "nethet": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -2558,7 +2549,6 @@
         "QFeatures"
     ],
     "scPipe": [],
-    "scReClassify": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "slingshot"
