@@ -59,8 +59,7 @@
         "biovizBase",
         "ensembldb",
         "gcrma",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "affyILM": [
         "gcrma"
@@ -94,8 +93,7 @@
         "biovizBase",
         "ensembldb",
         "gcrma",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "AHMassBank": [
         "AnnotationHub",
@@ -315,10 +313,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "DelayedMatrixStats",
         "GenomicFeatures",
@@ -602,7 +597,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -893,7 +887,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
@@ -940,7 +933,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
@@ -953,7 +945,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -1192,9 +1183,7 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "frma",
-        "oligo",
-        "oligoClasses"
+        "frma"
     ],
     "chromDraw": [],
     "ChromHeatMap": [],
@@ -1233,7 +1222,6 @@
     "CIMICE": [
         "maftools"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "AnnotationHub",
         "DESeq2",
@@ -1321,10 +1309,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cn.farms": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "cn.farms": [],
     "cn.mops": [
         "exomeCopy"
     ],
@@ -1380,7 +1365,6 @@
     ],
     "CNVRanger": [
         "GDSArray",
-        "RaggedExperiment",
         "SNPRelate"
     ],
     "CNVrd2": [
@@ -1638,12 +1622,8 @@
         "crisprScore",
         "ensembldb"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
     "crossmeta": [
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "CSAR": [],
@@ -2118,9 +2098,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "oligo",
-        "oligoClasses"
+        "ArrayExpress"
     ],
     "DSS": [
         "DelayedMatrixStats",
@@ -2640,10 +2618,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "frma": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "frma": [],
     "frmaTools": [],
     "FunChIP": [],
     "funtooNorm": [
@@ -2914,7 +2889,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
@@ -3350,10 +3324,7 @@
         "DEGreport",
         "DESeq2"
     ],
-    "ITALICS": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "ITALICS": [],
     "iterativeBMA": [],
     "IVAS": [
         "GenomicFeatures"
@@ -3401,7 +3372,6 @@
         "sva"
     ],
     "LACE": [],
-    "lapmix": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -3531,7 +3501,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "oligoClasses",
         "rhdf5",
         "rhdf5filters",
         "siggenes",
@@ -3628,8 +3597,7 @@
         "beachmat"
     ],
     "mBPCR": [
-        "GWASTools",
-        "oligoClasses"
+        "GWASTools"
     ],
     "MBQN": [],
     "mbQTL": [
@@ -4025,9 +3993,7 @@
     ],
     "mimager": [
         "affyPLM",
-        "gcrma",
-        "oligo",
-        "oligoClasses"
+        "gcrma"
     ],
     "MineICA": [
         "Category",
@@ -4061,8 +4027,7 @@
     ],
     "MinimumDistance": [
         "VanillaICE",
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "miQC": [
         "SingleCellExperiment"
@@ -4656,10 +4621,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
     "OLIN": [
         "marray"
     ],
@@ -4691,8 +4652,7 @@
         "VariantAnnotation"
     ],
     "omicsPrint": [
-        "MultiAssayExperiment",
-        "RaggedExperiment"
+        "MultiAssayExperiment"
     ],
     "omicsViewer": [
         "fgsea"
@@ -4852,10 +4812,7 @@
         "marray",
         "piano"
     ],
-    "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "Rgraphviz",
         "flowCore",
@@ -5124,10 +5081,7 @@
         "rhdf5filters",
         "vsn"
     ],
-    "puma": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "puma": [],
     "PureCN": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -5229,7 +5183,6 @@
         "GenomicFeatures",
         "SingleCellExperiment"
     ],
-    "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -5673,7 +5626,6 @@
     "RTCGAToolbox": [
         "GenomicFeatures",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "RTNduals": [],
@@ -5702,7 +5654,6 @@
     "sangeranalyseR": [],
     "SARC": [
         "GenomicFeatures",
-        "RaggedExperiment",
         "multtest",
         "plyranges"
     ],
@@ -5715,8 +5666,6 @@
         "SingleCellExperiment"
     ],
     "SCAN.UPC": [
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiR": [],
@@ -6636,8 +6585,7 @@
     "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicFeatures",
-        "MultiAssayExperiment",
-        "RaggedExperiment"
+        "MultiAssayExperiment"
     ],
     "TCseq": [],
     "TDbasedUFEadv": [
@@ -6664,7 +6612,6 @@
     "terraTCGAdata": [
         "GenomicFeatures",
         "MultiAssayExperiment",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [
@@ -6925,8 +6872,7 @@
         "sparseMatrixStats"
     ],
     "VanillaICE": [
-        "crlmm",
-        "oligoClasses"
+        "crlmm"
     ],
     "VarCon": [],
     "variancePartition": [],
