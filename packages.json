@@ -706,7 +706,6 @@
     "celda": [
         "scran"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
@@ -1052,7 +1051,6 @@
         "MetaboCoreUtils",
         "Spectra"
     ],
-    "concordexR": [],
     "condiments": [
         "TrajectoryUtils",
         "distinct",
@@ -2583,7 +2581,6 @@
     "LoomExperiment": [
         "HDF5Array"
     ],
-    "LPEadj": [],
     "lpNet": [
         "KEGGgraph",
         "Rgraphviz"
@@ -4526,7 +4523,6 @@
     "siggenes": [
         "multtest"
     ],
-    "sights": [],
     "signatureSearch": [
         "DOSE",
         "GSEABase",
