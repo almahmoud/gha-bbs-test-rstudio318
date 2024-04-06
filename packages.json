@@ -1006,7 +1006,6 @@
         "SpatialExperiment"
     ],
     "esetVis": [],
-    "evaluomeR": [],
     "EventPointer": [
         "SGSeq"
     ],
@@ -1488,7 +1487,6 @@
     ],
     "LymphoSeq": [],
     "M3Drop": [],
-    "m6Aboost": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
@@ -1739,7 +1737,6 @@
         "minfi",
         "siggenes"
     ],
-    "missRows": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
@@ -1861,7 +1858,6 @@
         "MSstatsTMT"
     ],
     "MSstatsTMT": [],
-    "MuData": [],
     "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
@@ -2796,7 +2792,6 @@
     "TFutils": [],
     "tidySingleCellExperiment": [],
     "tilingArray": [],
-    "timecourse": [],
     "TimiRGeN": [
         "DOSE",
         "clusterProfiler",
