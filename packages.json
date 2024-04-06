@@ -3,12 +3,10 @@
         "a4Base",
         "a4Classif",
         "a4Preproc",
-        "genefilter",
         "multtest"
     ],
     "a4Base": [
         "a4Preproc",
-        "genefilter",
         "multtest"
     ],
     "a4Classif": [
@@ -33,7 +31,6 @@
     ],
     "ADaCGH2": [
         "aCGH",
-        "genefilter",
         "multtest",
         "snapCGH",
         "tilingArray",
@@ -82,7 +79,6 @@
         "biovizBase",
         "ensembldb",
         "gcrma",
-        "genefilter",
         "ggbio",
         "oligoClasses",
         "rtracklayer"
@@ -127,7 +123,6 @@
         "biovizBase",
         "ensembldb",
         "gcrma",
-        "genefilter",
         "ggbio",
         "oligoClasses",
         "rtracklayer"
@@ -356,8 +351,7 @@
     ],
     "annmap": [
         "Rhtslib",
-        "Rsamtools",
-        "genefilter"
+        "Rsamtools"
     ],
     "AnnotationFilter": [],
     "AnnotationForge": [],
@@ -452,7 +446,6 @@
         "affyContam",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -470,7 +463,6 @@
         "affyPLM",
         "beadarray",
         "gcrma",
-        "genefilter",
         "vsn"
     ],
     "artMS": [
@@ -501,7 +493,6 @@
         "DECIPHER"
     ],
     "ASSIGN": [
-        "genefilter",
         "sva"
     ],
     "ASURAT": [
@@ -592,8 +583,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Rgraphviz",
-        "genefilter"
+        "Rgraphviz"
     ],
     "AUCell": [
         "DelayedMatrixStats",
@@ -627,7 +617,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "genefilter",
         "rtracklayer",
         "sva"
     ],
@@ -644,15 +633,12 @@
     "bamsignals": [
         "Rhtslib"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
         "biomaRt",
-        "genefilter",
         "mzID",
         "mzR",
         "pRoloc",
@@ -724,7 +710,6 @@
         "sparseMatrixStats"
     ],
     "BatchQC": [
-        "genefilter",
         "sva"
     ],
     "BayesSpace": [
@@ -802,7 +787,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "genefilter",
         "metagenomeSeq",
         "mia",
         "mixOmics",
@@ -853,7 +837,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -953,34 +936,15 @@
         "basilisk.utils"
     ],
     "biocViews": [],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "bioDist": [],
     "biomaRt": [],
     "biomformat": [
@@ -1010,7 +974,6 @@
     ],
     "BioNERO": [
         "ComplexHeatmap",
-        "genefilter",
         "sva"
     ],
     "BioNet": [],
@@ -1093,8 +1056,7 @@
         "DEXSeq",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
-        "genefilter"
+        "biomaRt"
     ],
     "blima": [
         "beadarray"
@@ -1115,7 +1077,6 @@
     ],
     "bnbc": [
         "HiCBricks",
-        "genefilter",
         "rhdf5",
         "rhdf5filters",
         "sva"
@@ -1125,7 +1086,6 @@
         "Linnorm",
         "Rgraphviz",
         "epiNEM",
-        "genefilter",
         "mnem",
         "sva",
         "vsn"
@@ -1333,7 +1293,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "genefilter",
         "ggbio",
         "rtracklayer",
         "sva"
@@ -1393,7 +1352,6 @@
         "biomaRt",
         "cBioPortalData",
         "geNetClassifier",
-        "genefilter",
         "phenoTest",
         "rtracklayer"
     ],
@@ -1444,8 +1402,7 @@
         "sparseMatrixStats"
     ],
     "Category": [
-        "GSEABase",
-        "genefilter"
+        "GSEABase"
     ],
     "categoryCompare": [
         "AnnotationForge",
@@ -1453,8 +1410,7 @@
         "GOstats",
         "GSEABase",
         "RCy3",
-        "Rgraphviz",
-        "genefilter"
+        "Rgraphviz"
     ],
     "cbaf": [
         "BiocIO",
@@ -1469,7 +1425,6 @@
         "TCGAutils",
         "biomaRt",
         "cBioPortalData",
-        "genefilter",
         "rtracklayer"
     ],
     "CBEA": [
@@ -1555,7 +1510,6 @@
     "cellHTS2": [
         "Category",
         "GSEABase",
-        "genefilter",
         "vsn"
     ],
     "CelliD": [
@@ -1666,8 +1620,7 @@
         "marray"
     ],
     "cghMCR": [
-        "CNTools",
-        "genefilter"
+        "CNTools"
     ],
     "CGHnormaliter": [
         "CGHbase",
@@ -1700,7 +1653,6 @@
         "bsseq",
         "bumphunter",
         "ensembldb",
-        "genefilter",
         "globaltest",
         "goseq",
         "lumi",
@@ -1967,8 +1919,7 @@
         "sparseMatrixStats"
     ],
     "ClassifyR": [
-        "MultiAssayExperiment",
-        "genefilter"
+        "MultiAssayExperiment"
     ],
     "cleanUpdTSeq": [
         "BSgenome",
@@ -2032,7 +1983,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "genefilter",
         "mbkmeans",
         "rhdf5",
         "rhdf5filters",
@@ -2090,9 +2040,7 @@
         "CellNOptR",
         "Rgraphviz"
     ],
-    "CNTools": [
-        "genefilter"
-    ],
+    "CNTools": [],
     "CNVfilteR": [
         "AnnotationFilter",
         "BSgenome",
@@ -2195,7 +2143,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "cogena": [],
     "cogeqc": [],
     "Cogito": [
         "BiocIO",
@@ -2376,7 +2323,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -2461,8 +2407,7 @@
         "sparseMatrixStats"
     ],
     "countsimQC": [
-        "DESeq2",
-        "genefilter"
+        "DESeq2"
     ],
     "covEB": [],
     "CoverageView": [
@@ -2472,9 +2417,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "covRNA": [
-        "genefilter"
-    ],
+    "covRNA": [],
     "cpvSNP": [
         "BiocIO",
         "GSEABase",
@@ -2600,7 +2543,6 @@
     ],
     "crossmeta": [
         "GEOquery",
-        "genefilter",
         "oligo",
         "oligoClasses",
         "sva"
@@ -2818,7 +2760,6 @@
         "Rsamtools",
         "ShortRead",
         "biomaRt",
-        "genefilter",
         "rtracklayer",
         "sva"
     ],
@@ -2861,7 +2802,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "genefilter",
         "pathview",
         "sva"
     ],
@@ -2907,7 +2847,6 @@
         "biomaRt",
         "bumphunter",
         "fastseg",
-        "genefilter",
         "methylKit",
         "minfi",
         "multtest",
@@ -2989,7 +2928,6 @@
         "Rsamtools",
         "beachmat",
         "bsseq",
-        "genefilter",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -3096,7 +3034,6 @@
     ],
     "DExMA": [
         "GEOquery",
-        "genefilter",
         "snpStats",
         "sva"
     ],
@@ -3104,8 +3041,7 @@
         "DESeq2",
         "Rhtslib",
         "Rsamtools",
-        "biomaRt",
-        "genefilter"
+        "biomaRt"
     ],
     "DFP": [],
     "DIAlignR": [
@@ -3137,7 +3073,6 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
         "SingleCellExperiment"
     ],
     "diffHic": [
@@ -3164,7 +3099,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "genefilter",
         "rtracklayer"
     ],
     "Dino": [
@@ -3233,7 +3167,6 @@
         "bsseq",
         "bumphunter",
         "ensembldb",
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -3290,7 +3223,6 @@
         "rtracklayer"
     ],
     "doppelgangR": [
-        "genefilter",
         "sva"
     ],
     "Doscheda": [
@@ -3327,7 +3259,6 @@
         "variancePartition",
         "zenith"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -3415,7 +3346,6 @@
         "rtracklayer"
     ],
     "edge": [
-        "genefilter",
         "sva"
     ],
     "EDIRquery": [
@@ -3495,7 +3425,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -3650,7 +3579,6 @@
         "biovizBase",
         "bumphunter",
         "ensembldb",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -3965,7 +3893,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -4212,7 +4139,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -4260,7 +4186,6 @@
         "Rsamtools",
         "ShortRead",
         "biomaRt",
-        "genefilter",
         "rtracklayer",
         "sva"
     ],
@@ -4368,7 +4293,6 @@
     ],
     "geneClassifiers": [],
     "GeneExpressionSignature": [],
-    "genefilter": [],
     "genefu": [
         "AIMS",
         "biomaRt"
@@ -4378,9 +4302,7 @@
         "Rsamtools",
         "snpStats"
     ],
-    "GeneMeta": [
-        "genefilter"
-    ],
+    "GeneMeta": [],
     "GeneNetworkBuilder": [
         "Rgraphviz"
     ],
@@ -4542,7 +4464,6 @@
     ],
     "GEOexplorer": [
         "GEOquery",
-        "genefilter",
         "sva"
     ],
     "GEOmetadb": [
@@ -4566,7 +4487,6 @@
         "GSEABase",
         "biomaRt",
         "cellHTS2",
-        "genefilter",
         "vsn"
     ],
     "gg4way": [
@@ -4617,8 +4537,7 @@
         "ShortRead"
     ],
     "GISPA": [
-        "GSEABase",
-        "genefilter"
+        "GSEABase"
     ],
     "Glimma": [
         "DESeq2"
@@ -4660,8 +4579,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Rgraphviz",
-        "genefilter"
+        "Rgraphviz"
     ],
     "gmoviz": [
         "BiocIO",
@@ -4725,8 +4643,7 @@
         "AnnotationForge",
         "Category",
         "GSEABase",
-        "Rgraphviz",
-        "genefilter"
+        "Rgraphviz"
     ],
     "GOTHiC": [
         "BSgenome",
@@ -4810,8 +4727,7 @@
         "rtracklayer"
     ],
     "GSRI": [
-        "GSEABase",
-        "genefilter"
+        "GSEABase"
     ],
     "GSVA": [
         "BiocSingular",
@@ -4907,7 +4823,6 @@
         "fabia"
     ],
     "HarmonizR": [
-        "genefilter",
         "sva"
     ],
     "Harshlight": [
@@ -5115,7 +5030,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -5150,7 +5064,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "genefilter",
         "goseq",
         "pcaExplorer",
         "rtracklayer",
@@ -5237,7 +5150,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "genefilter",
         "graphite",
         "minfi",
         "multtest",
@@ -5307,8 +5219,7 @@
     ],
     "interactiveDisplay": [
         "Category",
-        "GSEABase",
-        "genefilter"
+        "GSEABase"
     ],
     "InterCellar": [
         "ComplexHeatmap",
@@ -5326,12 +5237,10 @@
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
-        "genefilter",
         "rtracklayer"
     ],
     "InterMineR": [],
     "IntOMICS": [],
-    "IntramiRExploreR": [],
     "IONiseR": [
         "GenomicAlignments",
         "Rhtslib",
@@ -5421,7 +5330,6 @@
         "Rsamtools",
         "biomaRt",
         "ensembldb",
-        "genefilter",
         "rtracklayer",
         "satuRn",
         "sva",
@@ -5509,7 +5417,6 @@
     ],
     "KnowSeq": [
         "cqn",
-        "genefilter",
         "sva"
     ],
     "LACE": [
@@ -5563,7 +5470,6 @@
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "genefilter",
         "spicyR"
     ],
     "lmdme": [],
@@ -5614,7 +5520,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -5692,7 +5597,6 @@
         "biomaRt",
         "bumphunter",
         "crlmm",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -5822,7 +5726,6 @@
     "MBCB": [],
     "MBECS": [
         "biomformat",
-        "genefilter",
         "multtest",
         "phyloseq",
         "rhdf5",
@@ -5883,7 +5786,6 @@
         "biovizBase",
         "bumphunter",
         "ensembldb",
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -5906,7 +5808,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -5962,8 +5863,7 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
-        "genefilter"
+        "MeSHDbi"
     ],
     "MesKit": [
         "ComplexHeatmap"
@@ -5984,7 +5884,6 @@
     ],
     "metabolomicsWorkbenchR": [
         "MultiAssayExperiment",
-        "rols",
         "struct"
     ],
     "metabomxtr": [
@@ -6074,7 +5973,6 @@
         "beachmat",
         "biomaRt",
         "bsseq",
-        "genefilter",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -6127,7 +6025,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6150,7 +6047,6 @@
         "biomaRt",
         "bsseq",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "plyranges",
@@ -6179,7 +6075,6 @@
         "biocViews",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6203,7 +6098,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "genefilter",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -6284,7 +6178,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -6439,7 +6332,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "marray",
         "methylumi",
@@ -6462,7 +6354,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -6513,11 +6404,9 @@
         "GSEABase",
         "Rgraphviz",
         "TCGAbiolinks",
-        "biomaRt",
-        "genefilter"
+        "biomaRt"
     ],
     "miRNAmeConverter": [],
-    "miRNAtap": [],
     "missMethyl": [
         "BiocIO",
         "DelayedMatrixStats",
@@ -6529,7 +6418,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -6555,9 +6443,7 @@
         "rtracklayer"
     ],
     "mixOmics": [],
-    "MLInterfaces": [
-        "genefilter"
-    ],
+    "MLInterfaces": [],
     "MLP": [],
     "MLSeq": [
         "DESeq2"
@@ -6613,7 +6499,6 @@
     ],
     "mogsa": [
         "GSEABase",
-        "genefilter",
         "graphite"
     ],
     "MoleculeExperiment": [
@@ -6846,7 +6731,6 @@
         "vsn"
     ],
     "MSPrep": [
-        "genefilter",
         "pcaMethods",
         "sva"
     ],
@@ -7124,8 +7008,7 @@
         "fgsea"
     ],
     "NBAMSeq": [
-        "DESeq2",
-        "genefilter"
+        "DESeq2"
     ],
     "ncdfFlow": [
         "cytolib",
@@ -7204,7 +7087,6 @@
         "SingleCellExperiment",
         "beachmat",
         "clusterExperiment",
-        "genefilter",
         "mbkmeans",
         "rhdf5",
         "rhdf5filters",
@@ -7230,7 +7112,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "quantro",
@@ -7384,7 +7265,6 @@
     ],
     "omicRexposome": [
         "MultiDataSet",
-        "genefilter",
         "made4",
         "omicade4",
         "pcaMethods",
@@ -7540,16 +7420,12 @@
         "Ringo",
         "Rsamtools",
         "biomaRt",
-        "genefilter",
         "rtracklayer",
         "vsn"
     ],
-    "OVESEG": [],
     "PAA": [
-        "genefilter",
         "sva"
     ],
-    "packFinder": [],
     "padma": [
         "MultiAssayExperiment"
     ],
@@ -7577,7 +7453,6 @@
         "Rsamtools",
         "biomaRt",
         "fgsea",
-        "genefilter",
         "sva"
     ],
     "pairkat": [],
@@ -7639,7 +7514,6 @@
         "GSEABase",
         "Rgraphviz",
         "biomaRt",
-        "genefilter",
         "topGO"
     ],
     "pcaMethods": [],
@@ -7682,8 +7556,7 @@
         "vsn"
     ],
     "PECA": [
-        "ROTS",
-        "genefilter"
+        "ROTS"
     ],
     "peco": [
         "BiocNeighbors",
@@ -7733,7 +7606,6 @@
     "phenomis": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -7741,8 +7613,7 @@
     "phenoTest": [
         "Category",
         "GSEABase",
-        "biomaRt",
-        "genefilter"
+        "biomaRt"
     ],
     "PhenStat": [],
     "philr": [],
@@ -7830,8 +7701,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Rgraphviz",
-        "genefilter"
+        "Rgraphviz"
     ],
     "plotgardener": [
         "BiocIO",
@@ -8004,7 +7874,6 @@
         "MSnbase",
         "MsCoreUtils",
         "biomaRt",
-        "genefilter",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -8015,7 +7884,6 @@
         "MSnbase",
         "MsCoreUtils",
         "biomaRt",
-        "genefilter",
         "mzID",
         "mzR",
         "pRoloc",
@@ -8026,7 +7894,6 @@
         "GSEABase"
     ],
     "PROPS": [
-        "genefilter",
         "sva"
     ],
     "Prostar": [
@@ -8061,7 +7928,6 @@
         "biomaRt"
     ],
     "protGear": [
-        "genefilter",
         "vsn"
     ],
     "psichomics": [
@@ -8191,11 +8057,9 @@
         "rtracklayer"
     ],
     "qsmooth": [
-        "genefilter",
         "sva"
     ],
     "qsvaR": [
-        "genefilter",
         "sva"
     ],
     "QTLExperiment": [],
@@ -8212,7 +8076,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8464,7 +8327,6 @@
         "basilisk.utils",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8597,7 +8459,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -8613,7 +8474,6 @@
         "Rhtslib",
         "Ringo",
         "Rsamtools",
-        "genefilter",
         "rtracklayer",
         "vsn"
     ],
@@ -8636,7 +8496,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "genefilter",
         "ggbio",
         "rtracklayer"
     ],
@@ -8831,7 +8690,6 @@
         "rtracklayer"
     ],
     "Ringo": [
-        "genefilter",
         "vsn"
     ],
     "Risa": [
@@ -8947,7 +8805,6 @@
         "Category",
         "GSEABase",
         "cellHTS2",
-        "genefilter",
         "vsn"
     ],
     "RNAmodR": [
@@ -9046,7 +8903,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "methylumi",
         "minfi",
         "multtest",
@@ -9069,7 +8925,6 @@
     "RolDE": [
         "ROTS"
     ],
-    "rols": [],
     "ROntoTools": [
         "KEGGgraph",
         "Rgraphviz"
@@ -9217,7 +9072,6 @@
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "GEOquery",
-        "genefilter",
         "oligo",
         "oligoClasses",
         "sva"
@@ -9277,7 +9131,6 @@
     "scBFA": [
         "DESeq2",
         "SingleCellExperiment",
-        "genefilter",
         "zinbwave"
     ],
     "scBubbletree": [],
@@ -9585,7 +9438,6 @@
         "SingleCellExperiment",
         "enrichplot",
         "fgsea",
-        "genefilter",
         "graphite",
         "meshr",
         "schex"
@@ -9746,7 +9598,6 @@
     "SEtools": [
         "ComplexHeatmap",
         "DESeq2",
-        "genefilter",
         "sechm",
         "sva"
     ],
@@ -9764,8 +9615,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "Rgraphviz",
-        "genefilter"
+        "Rgraphviz"
     ],
     "SGSeq": [
         "BiocIO",
@@ -9788,7 +9638,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -9808,7 +9657,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "rhdf5",
@@ -9834,8 +9682,7 @@
         "Rsamtools"
     ],
     "SigCheck": [
-        "MLInterfaces",
-        "genefilter"
+        "MLInterfaces"
     ],
     "sigFeature": [
         "biocViews"
@@ -9914,7 +9761,6 @@
     ],
     "SimBindProfiles": [
         "Ringo",
-        "genefilter",
         "vsn"
     ],
     "SimBu": [
@@ -10001,7 +9847,6 @@
         "bluster",
         "celda",
         "ensembldb",
-        "genefilter",
         "multtest",
         "rhdf5",
         "rhdf5filters",
@@ -10066,7 +9911,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -10099,7 +9943,6 @@
     ],
     "snapCGH": [
         "aCGH",
-        "genefilter",
         "multtest",
         "tilingArray",
         "vsn"
@@ -10237,7 +10080,6 @@
         "SingleCellExperiment",
         "beachmat",
         "bluster",
-        "genefilter",
         "scater",
         "scran",
         "scuttle",
@@ -10297,12 +10139,9 @@
         "ClassifyR",
         "MultiAssayExperiment",
         "SingleCellExperiment",
-        "SpatialExperiment",
-        "genefilter"
+        "SpatialExperiment"
     ],
-    "SpidermiR": [
-        "miRNAtap"
-    ],
+    "SpidermiR": [],
     "spiky": [
         "BSgenome",
         "BiocIO",
@@ -10329,7 +10168,6 @@
         "HDF5Array",
         "Rhtslib",
         "Rsamtools",
-        "genefilter",
         "ompBAM",
         "rhdf5",
         "rhdf5filters",
@@ -10433,13 +10271,11 @@
         "Category",
         "GSEABase",
         "cellHTS2",
-        "genefilter",
         "vsn"
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
-        "miRNAtap"
+        "graphite"
     ],
     "STATegRa": [],
     "Statial": [
@@ -10464,12 +10300,9 @@
         "rtracklayer"
     ],
     "Streamer": [],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "Structstrings": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -10483,7 +10316,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SubCellBarCode": [],
     "SUITOR": [],
     "SummarizedBenchmark": [],
     "supersigs": [],
@@ -10492,9 +10324,7 @@
         "msa"
     ],
     "survtype": [],
-    "sva": [
-        "genefilter"
-    ],
+    "sva": [],
     "svaNUMT": [
         "BSgenome",
         "BiocIO",
@@ -10529,7 +10359,6 @@
     "switchde": [
         "SingleCellExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
@@ -10609,7 +10438,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
-        "genefilter",
         "rhdf5",
         "rhdf5filters",
         "singscore",
@@ -10727,7 +10555,6 @@
     "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
-        "genefilter",
         "vsn"
     ],
     "timecourse": [
@@ -10794,8 +10621,7 @@
     "tomoda": [],
     "TOP": [
         "ClassifyR",
-        "MultiAssayExperiment",
-        "genefilter"
+        "MultiAssayExperiment"
     ],
     "topdownr": [
         "MSnbase",
@@ -10897,7 +10723,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -10933,7 +10758,6 @@
         "sparseMatrixStats"
     ],
     "trigger": [
-        "genefilter",
         "sva"
     ],
     "trio": [
@@ -10993,7 +10817,6 @@
         "cqn"
     ],
     "twilight": [],
-    "twoddpcr": [],
     "txcutr": [
         "BiocIO",
         "GenomicAlignments",
@@ -11168,7 +10991,6 @@
         "Rhtslib",
         "Rsamtools",
         "ballgown",
-        "genefilter",
         "rtracklayer",
         "sva"
     ],
@@ -11283,7 +11105,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "lumi",
         "methylumi",
         "minfi",
@@ -11342,7 +11163,6 @@
     ],
     "XDE": [
         "GeneMeta",
-        "genefilter",
         "multtest",
         "siggenes"
     ],
@@ -11397,7 +11217,6 @@
         "Rsamtools",
         "biomaRt",
         "bumphunter",
-        "genefilter",
         "minfi",
         "multtest",
         "quantro",
@@ -11425,8 +11244,7 @@
     ],
     "zFPKM": [],
     "zinbwave": [
-        "SingleCellExperiment",
-        "genefilter"
+        "SingleCellExperiment"
     ],
     "ZygosityPredictor": [
         "BSgenome",
