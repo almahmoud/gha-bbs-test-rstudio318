@@ -205,7 +205,6 @@
         "DOSE",
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot"
@@ -317,7 +316,6 @@
     "canceR": [
         "Category",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -339,13 +337,11 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "DOSE",
@@ -1087,10 +1083,8 @@
         "Category",
         "GOstats"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "GOSim": [],
@@ -2089,9 +2083,7 @@
     ],
     "rqt": [],
     "RSVSim": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTopper": [],
     "rTRMui": [],
     "RUVSeq": [
@@ -2354,7 +2346,6 @@
         "GSVA",
         "singscore"
     ],
-    "TCGAutils": [],
     "TDbasedUFEadv": [
         "DOSE",
         "enrichplot"
@@ -2362,9 +2353,7 @@
     "tenXplore": [
         "ontoProc"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFEA.ChIP": [],
     "TFHAZ": [],
