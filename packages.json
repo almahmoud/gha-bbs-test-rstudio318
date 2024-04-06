@@ -469,7 +469,6 @@
         "DOSE",
         "enrichplot"
     ],
-    "clustifyr": [],
     "cmapR": [],
     "cn.mops": [],
     "CNORdt": [
@@ -560,9 +559,7 @@
         "cn.mops",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [],
     "cosmiq": [
         "MSnbase",
@@ -597,7 +594,6 @@
         "crisprScore"
     ],
     "crossmeta": [],
-    "CSSQ": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -1026,14 +1022,12 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "gDRstyle": [
         "BiocCheck"
@@ -1788,8 +1782,7 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "PeacoQC": [
         "flowWorkspace",
@@ -1800,8 +1793,7 @@
     ],
     "phantasus": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [
         "monocle"
@@ -1814,7 +1806,6 @@
         "OmaDB"
     ],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -1938,8 +1929,7 @@
         "VariantAnnotation"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "raer": [],
     "RAIDS": [
@@ -2036,7 +2026,6 @@
     "RiboCrypt": [
         "ORFik"
     ],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -2428,8 +2417,7 @@
         "MSnbase"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "trackViewer": [
         "Gviz",
@@ -2546,8 +2534,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "yamss": [],
     "YAPSA": [
