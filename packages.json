@@ -46,7 +46,6 @@
         "BiocCheck",
         "OrganismDbi"
     ],
-    "airpart": [],
     "alabaster": [
         "VariantAnnotation",
         "alabaster.bumpy",
@@ -2486,7 +2485,6 @@
     "tLOH": [
         "VariantAnnotation"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "GSVA"
     ],
