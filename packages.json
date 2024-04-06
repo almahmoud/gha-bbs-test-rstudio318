@@ -532,9 +532,7 @@
         "karyoploteR"
     ],
     "CNVPanelizer": [],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "VariantAnnotation"
     ],
@@ -1103,7 +1101,6 @@
     "gDRstyle": [
         "BiocCheck"
     ],
-    "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
         "CGHcall",
@@ -2654,9 +2651,7 @@
     ],
     "VanillaICE": [],
     "VariantAnnotation": [],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
