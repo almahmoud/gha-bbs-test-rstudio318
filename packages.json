@@ -8,9 +8,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "aCGH": [],
     "ADaCGH2": [
-        "aCGH",
         "snapCGH",
         "tilingArray"
     ],
@@ -499,9 +497,7 @@
     "cosmosR": [],
     "COTAN": [],
     "cpvSNP": [],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprDesign": [
         "crisprScore"
     ],
@@ -1590,10 +1586,8 @@
         "RPA"
     ],
     "preciseTAD": [
-        "aCGH",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "GenomicScores",
         "Gviz",
@@ -1684,9 +1678,7 @@
         "dada2"
     ],
     "RCAS": [],
-    "rCGH": [
-        "aCGH"
-    ],
+    "rCGH": [],
     "RCM": [],
     "Rcwl": [],
     "RcwlPipelines": [
@@ -1958,7 +1950,6 @@
     "slingshot": [],
     "SMITE": [],
     "snapCGH": [
-        "aCGH",
         "tilingArray"
     ],
     "snifter": [],
