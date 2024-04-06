@@ -118,7 +118,6 @@
     "AMARETTO": [],
     "amplican": [],
     "Anaquin": [],
-    "ANCOMBC": [],
     "AneuFinder": [],
     "AnnotationHubData": [
         "BiocCheck",
@@ -207,7 +206,6 @@
     "BEAT": [],
     "benchdamic": [
         "ALDEx2",
-        "ANCOMBC",
         "Maaslin2",
         "biomformat",
         "phyloseq",
@@ -306,7 +304,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "BRGenomics": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -503,7 +500,6 @@
         "MSnbase"
     ],
     "clusterExperiment": [
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -581,7 +577,6 @@
         "Spectra"
     ],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -812,7 +807,6 @@
     "diffHic": [],
     "diffUTR": [],
     "Dino": [],
-    "distinct": [],
     "dittoSeq": [],
     "DMRcate": [
         "Gviz",
@@ -903,7 +897,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "DOSE",
         "enrichplot"
@@ -1460,7 +1453,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "mbkmeans": [],
     "mBPCR": [],
     "mbQTL": [],
     "mCSEA": [
@@ -1586,7 +1578,6 @@
         "minfi",
         "siggenes"
     ],
-    "miaSim": [],
     "microbiome": [
         "biomformat",
         "phyloseq"
@@ -1600,7 +1591,6 @@
     ],
     "microbiomeMarker": [
         "ALDEx2",
-        "ANCOMBC",
         "biomformat",
         "phyloseq"
     ],
@@ -1833,7 +1823,6 @@
     "netresponse": [],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
         "zinbwave"
     ],
     "netZooR": [
@@ -1848,7 +1837,6 @@
     "NeuCA": [],
     "NewWave": [],
     "nipalsMCIA": [],
-    "nnNorm": [],
     "nnSVG": [],
     "nondetects": [],
     "NoRCE": [],
@@ -2203,7 +2191,6 @@
         "MutationalPatterns",
         "VariantAnnotation"
     ],
-    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines"
@@ -2346,7 +2333,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scDesign3": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -2476,7 +2462,6 @@
         "celda",
         "scDblFinder",
         "scMerge",
-        "scds",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -2627,8 +2612,7 @@
     ],
     "TEKRABber": [],
     "tenXplore": [
-        "ontoProc",
-        "restfulSE"
+        "ontoProc"
     ],
     "terraTCGAdata": [
         "TCGAutils"
