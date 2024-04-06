@@ -207,7 +207,6 @@
     "benchdamic": [
         "ALDEx2",
         "Maaslin2",
-        "biomformat",
         "phyloseq",
         "zinbwave"
     ],
@@ -244,7 +243,6 @@
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSklearn": [],
-    "biomformat": [],
     "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
@@ -556,7 +554,6 @@
         "biovizBase"
     ],
     "combi": [
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -651,7 +648,6 @@
     ],
     "crossmeta": [],
     "CSSQ": [],
-    "CTdata": [],
     "cTRAP": [],
     "CTSV": [],
     "cummeRbund": [
@@ -1159,7 +1155,6 @@
         "Category",
         "cellHTS2"
     ],
-    "gg4way": [],
     "ggbio": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1445,7 +1440,6 @@
     ],
     "MBASED": [],
     "MBECS": [
-        "biomformat",
         "phyloseq"
     ],
     "mBPCR": [],
@@ -1574,19 +1568,14 @@
         "siggenes"
     ],
     "microbiome": [
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
-        "biomformat",
         "phyloseq"
     ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ALDEx2",
-        "biomformat",
         "phyloseq"
     ],
     "MicrobiomeProfiler": [
@@ -1616,7 +1605,6 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "miQC": [],
     "MIRA": [
         "bsseq"
     ],
@@ -1916,7 +1904,6 @@
     ],
     "partCNV": [],
     "PathoStat": [
-        "biomformat",
         "phyloseq"
     ],
     "pathRender": [],
@@ -1955,9 +1942,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "phyloseq": [
-        "biomformat"
-    ],
+    "phyloseq": [],
     "Pi": [],
     "piano": [],
     "Pigengene": [
@@ -1986,7 +1971,6 @@
     "PPInfer": [],
     "prebs": [
         "RPA",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -2112,7 +2096,6 @@
         "aCGH"
     ],
     "RCM": [
-        "biomformat",
         "phyloseq"
     ],
     "Rcwl": [],
@@ -2125,7 +2108,6 @@
     ],
     "rebook": [],
     "reconsi": [
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -2285,7 +2267,6 @@
         "KEGGgraph"
     ],
     "RPA": [
-        "biomformat",
         "phyloseq"
     ],
     "Rqc": [
@@ -2325,7 +2306,6 @@
     "scDataviz": [],
     "scDblFinder": [],
     "scDD": [],
-    "scDesign3": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -2413,7 +2393,6 @@
         "siggenes"
     ],
     "SIAMCAT": [
-        "biomformat",
         "phyloseq"
     ],
     "SigCheck": [],
@@ -2439,7 +2418,6 @@
         "Ringo"
     ],
     "SimBu": [
-        "biomformat",
         "phyloseq"
     ],
     "SIMD": [],
@@ -2538,7 +2516,6 @@
     ],
     "SpotClean": [],
     "SPsimSeq": [
-        "biomformat",
         "phyloseq"
     ],
     "srnadiff": [
@@ -2580,7 +2557,6 @@
         "MSnbase"
     ],
     "systemPipeR": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz",
         "VariantAnnotation",
