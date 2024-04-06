@@ -297,7 +297,6 @@
         "DESeq2",
         "multtest"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "DESeq2",
         "GenomicFeatures",
@@ -778,7 +777,6 @@
     ],
     "bnem": [
         "CellNOptR",
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "mnem",
@@ -1297,7 +1295,6 @@
         "MultiAssayExperiment"
     ],
     "cleanUpdTSeq": [],
-    "clippda": [],
     "clipper": [
         "GenomicFeatures",
         "KEGGgraph",
@@ -1415,8 +1412,7 @@
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment",
-        "SNPRelate",
-        "SeqArray"
+        "SNPRelate"
     ],
     "CNVrd2": [
         "GenomicFeatures",
@@ -1473,7 +1469,6 @@
         "GenomicFeatures",
         "bumphunter"
     ],
-    "COMPASS": [],
     "compEpiTools": [
         "GenomicFeatures",
         "Gviz",
@@ -1848,7 +1843,6 @@
         "vsn"
     ],
     "dce": [
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "graphite",
@@ -2363,7 +2357,6 @@
         "sparseMatrixStats"
     ],
     "epiNEM": [
-        "Linnorm",
         "Rgraphviz",
         "mnem"
     ],
@@ -2488,7 +2481,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "EnrichedHeatmap",
         "GenomicFeatures",
@@ -2759,9 +2751,7 @@
     "gatom": [
         "BioNet"
     ],
-    "GBScleanR": [
-        "SeqArray"
-    ],
+    "GBScleanR": [],
     "gcapc": [],
     "gCrisprTools": [],
     "gcrma": [],
@@ -2813,8 +2803,7 @@
         "MultiAssayExperiment"
     ],
     "GDSArray": [
-        "SNPRelate",
-        "SeqArray"
+        "SNPRelate"
     ],
     "geneAttribution": [
         "GenomicFeatures"
@@ -2839,7 +2828,6 @@
     "GENESIS": [
         "GWASTools",
         "SNPRelate",
-        "SeqArray",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -2942,9 +2930,7 @@
         "ncdfFlow"
     ],
     "ggkegg": [],
-    "ggmanh": [
-        "SeqArray"
-    ],
+    "ggmanh": [],
     "ggmsa": [],
     "ggsc": [
         "SingleCellExperiment"
@@ -3374,7 +3360,6 @@
         "VariantAnnotation"
     ],
     "InterMineR": [],
-    "IntOMICS": [],
     "IONiseR": [
         "ShortRead",
         "rhdf5",
@@ -3523,7 +3508,6 @@
     "LinkHD": [
         "MultiAssayExperiment"
     ],
-    "Linnorm": [],
     "LinTInd": [],
     "lipidr": [
         "MultiAssayExperiment",
@@ -3801,7 +3785,6 @@
     ],
     "MEDIPS": [],
     "MEDME": [],
-    "megadepth": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
@@ -4037,7 +4020,6 @@
     "MetID": [
         "ChemmineR"
     ],
-    "MetNet": [],
     "mfa": [],
     "Mfuzz": [],
     "MGFR": [],
@@ -4245,7 +4227,6 @@
         "metagenomeSeq"
     ],
     "mnem": [
-        "Linnorm",
         "Rgraphviz"
     ],
     "moanin": [
@@ -4651,7 +4632,6 @@
         "SingleCellExperiment"
     ],
     "nempi": [
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "mnem"
@@ -4893,7 +4873,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -5388,7 +5367,6 @@
         "GWASTools",
         "GenomicFeatures",
         "SNPRelate",
-        "SeqArray",
         "SeqVarTools",
         "VariantAnnotation",
         "ensembldb"
@@ -5863,7 +5841,6 @@
         "rTRM"
     ],
     "runibic": [],
-    "RUVcorr": [],
     "RUVSeq": [
         "EDASeq",
         "GenomicFeatures",
@@ -5874,9 +5851,7 @@
         "snpStats"
     ],
     "safe": [],
-    "SAIGEgds": [
-        "SeqArray"
-    ],
+    "SAIGEgds": [],
     "sampleClassifier": [
         "MGFR"
     ],
@@ -5998,7 +5973,6 @@
         "sparseMatrixStats"
     ],
     "scDDboost": [
-        "Oscope",
         "SingleCellExperiment"
     ],
     "scde": [],
@@ -6160,7 +6134,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "scShapes": [],
     "scTensor": [
         "AnnotationForge",
         "AnnotationHub",
@@ -6247,7 +6220,6 @@
         "enrichplot",
         "fgsea"
     ],
-    "SeqArray": [],
     "seqbias": [],
     "seqCAT": [
         "GenomicFeatures",
@@ -6263,9 +6235,7 @@
         "SNPRelate"
     ],
     "seqTools": [],
-    "SeqVarTools": [
-        "SeqArray"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "AnnotationHub",
         "ExperimentHub"
@@ -6771,7 +6741,6 @@
         "VariantAnnotation"
     ],
     "SUITOR": [],
-    "SummarizedBenchmark": [],
     "surfaltr": [
         "msa"
     ],
@@ -7155,8 +7124,7 @@
     ],
     "VariantExperiment": [
         "GDSArray",
-        "SNPRelate",
-        "SeqArray"
+        "SNPRelate"
     ],
     "VariantFiltering": [
         "AnnotationHub",
