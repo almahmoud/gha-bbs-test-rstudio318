@@ -2373,7 +2373,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFeatures",
         "GenomicFiles",
@@ -2858,7 +2857,6 @@
         "rhdf5filters"
     ],
     "GenomicSuperSignature": [],
-    "GenomicTuples": [],
     "GenProSeq": [],
     "GenVisR": [
         "GenomicFeatures",
@@ -3664,7 +3662,6 @@
     "MatrixQCvis": [
         "AnnotationHub",
         "ExperimentHub",
-        "proDA",
         "vsn"
     ],
     "MatrixRider": [
@@ -4494,7 +4491,6 @@
         "sparseMatrixStats",
         "variancePartition"
     ],
-    "muscle": [],
     "musicatk": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -4657,7 +4653,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "MultiAssayExperiment",
         "fgsea"
@@ -4767,7 +4762,6 @@
     "omicsViewer": [
         "fgsea"
     ],
-    "oncomix": [],
     "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz"
@@ -5122,7 +5116,6 @@
         "GenomicFeatures"
     ],
     "procoil": [],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -6532,7 +6525,6 @@
     "speckle": [
         "SingleCellExperiment"
     ],
-    "SpeCond": [],
     "Spectra": [
         "MetaboCoreUtils"
     ],
