@@ -578,7 +578,6 @@
         "plyranges"
     ],
     "BUSseq": [],
-    "CAEN": [],
     "CAFE": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -1506,7 +1505,6 @@
     "DOSE": [
         "fgsea"
     ],
-    "doseR": [],
     "doubletrouble": [
         "GenomicFeatures",
         "syntenet"
@@ -1585,7 +1583,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "EnMCB": [],
     "ENmix": [
         "GenomicFeatures",
         "HDF5Array",
@@ -2379,7 +2376,6 @@
         "topGO"
     ],
     "IdeoViz": [],
-    "idiogram": [],
     "idpr": [],
     "IFAA": [],
     "igvR": [
