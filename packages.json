@@ -716,7 +716,6 @@
     ],
     "crisprScore": [],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "Gviz",
         "VariantAnnotation",
@@ -2871,7 +2870,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
         "SpatialExperiment",
