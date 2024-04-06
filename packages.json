@@ -444,7 +444,6 @@
         "biocViews"
     ],
     "BiocSet": [],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk"
     ],
@@ -1377,7 +1376,6 @@
         "Rgraphviz"
     ],
     "DEGreport": [],
-    "DelayedMatrixStats": [],
     "DelayedTensor": [
         "HDF5Array"
     ],
@@ -2933,7 +2931,6 @@
     "MetID": [],
     "Mfuzz": [],
     "MGFR": [],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -4100,7 +4097,6 @@
         "GenomicFeatures",
         "goseq"
     ],
-    "rhdf5": [],
     "Rhisat2": [
         "GenomicFeatures",
         "SGSeq"
@@ -4331,7 +4327,6 @@
     "SCArray.sat": [
         "SCArray"
     ],
-    "scater": [],
     "scBFA": [
         "zinbwave"
     ],
@@ -4461,7 +4456,6 @@
         "epivizrData",
         "scran"
     ],
-    "scuttle": [],
     "scviR": [
         "basilisk"
     ],
