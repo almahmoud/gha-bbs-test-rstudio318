@@ -169,7 +169,6 @@
     ],
     "bnbc": [],
     "bnem": [
-        "CellNOptR",
         "epiNEM"
     ],
     "BOBaFIT": [
@@ -250,7 +249,6 @@
     "celda": [],
     "CellBarcode": [],
     "cellHTS2": [],
-    "CellNOptR": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
@@ -334,18 +332,10 @@
         "enrichplot"
     ],
     "cmapR": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "biovizBase",
@@ -982,8 +972,7 @@
         "wateRmelon"
     ],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "meshes": [
         "enrichplot"
