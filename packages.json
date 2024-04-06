@@ -157,7 +157,6 @@
     "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BiocPkgTools": [],
     "BiocSklearn": [],
     "BioMVCClass": [],
     "biomvRCNS": [
@@ -1034,7 +1033,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "maskBAD": [],
     "MatrixRider": [
         "TFBSTools"
     ],
@@ -1749,7 +1747,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "singscore": [],
     "skewr": [
         "lumi",
         "methylumi",
@@ -1841,8 +1838,7 @@
     "TADCompare": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
-        "GSVA",
-        "singscore"
+        "GSVA"
     ],
     "TDbasedUFEadv": [
         "enrichplot"
@@ -1924,7 +1920,6 @@
         "GenomicFiles"
     ],
     "velociraptor": [],
-    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
