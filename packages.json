@@ -498,9 +498,7 @@
         "CardinalIO"
     ],
     "CardinalIO": [],
-    "casper": [
-        "gaga"
-    ],
+    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "flowCore"
@@ -919,7 +917,6 @@
     ],
     "crlmm": [],
     "crossmeta": [],
-    "csaw": [],
     "CSSQ": [],
     "CTdata": [],
     "cTRAP": [],
@@ -1140,9 +1137,7 @@
     "DifferentialRegulation": [
         "BANDITS"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -1289,8 +1284,7 @@
     "epigenomix": [],
     "epigraHMM": [
         "GreyListChIP",
-        "bamsignals",
-        "csaw"
+        "bamsignals"
     ],
     "EpiMix": [],
     "epimutacions": [
@@ -1361,9 +1355,7 @@
     "EventPointer": [
         "SGSeq"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ExCluster": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -1379,8 +1371,7 @@
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [
         "wiggleplotr"
@@ -1552,7 +1543,6 @@
         "GA4GHclient",
         "VariantAnnotation"
     ],
-    "gaga": [],
     "GARS": [
         "DaMiRseq",
         "EDASeq",
@@ -1652,12 +1642,9 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [],
     "GEOmetadb": [],
-    "GeomxTools": [],
     "GeoTcgaData": [],
     "gep2pep": [],
     "gespeR": [
@@ -1817,7 +1804,6 @@
         "SpatialExperiment"
     ],
     "hpar": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -1831,8 +1817,7 @@
     ],
     "icetea": [
         "ShortRead",
-        "VariantAnnotation",
-        "csaw"
+        "VariantAnnotation"
     ],
     "iCheck": [
         "HDF5Array",
@@ -2591,7 +2576,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "csaw",
         "motifStack",
         "regioneR",
         "trackViewer"
@@ -2665,9 +2649,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "vsn"
@@ -2737,7 +2719,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSVA",
         "HDF5Array"
@@ -2751,7 +2732,6 @@
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
-    "orthogene": [],
     "orthos": [
         "HDF5Array",
         "basilisk"
@@ -2846,7 +2826,6 @@
         "Category"
     ],
     "PhenStat": [],
-    "philr": [],
     "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
@@ -2858,7 +2837,6 @@
         "Rgraphviz"
     ],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -2869,7 +2847,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3360,7 +3337,6 @@
     "scBFA": [
         "zinbwave"
     ],
-    "scBubbletree": [],
     "scCB2": [
         "DropletUtils",
         "HDF5Array"
@@ -3504,7 +3480,6 @@
     "SEtools": [
         "sechm"
     ],
-    "sevenC": [],
     "SGCP": [
         "Category",
         "GOstats",
@@ -3605,7 +3580,6 @@
     "singscore": [],
     "SiPSiC": [],
     "sitadela": [],
-    "sitePath": [],
     "skewr": [
         "HDF5Array",
         "bumphunter",
@@ -3669,9 +3643,7 @@
         "SpatialExperiment",
         "basilisk"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [],
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
@@ -3679,9 +3651,7 @@
     "spatialHeatmap": [
         "scran"
     ],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "CNEr",
         "GenomicInteractions",
@@ -3963,9 +3933,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "Uniquorn": [
         "VariantAnnotation"
     ],
@@ -4023,7 +3991,6 @@
         "DiffBind",
         "GreyListChIP",
         "ShortRead",
-        "csaw",
         "regioneR",
         "systemPipeR"
     ],
