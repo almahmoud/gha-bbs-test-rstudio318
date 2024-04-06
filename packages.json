@@ -40,7 +40,6 @@
         "affyPLM"
     ],
     "affyPLM": [],
-    "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
@@ -153,7 +152,6 @@
         "bamsignals"
     ],
     "animalcules": [],
-    "annmap": [],
     "AnnotationHubData": [
         "BiocCheck",
         "OrganismDbi"
@@ -346,7 +344,6 @@
     ],
     "biodbExpasy": [],
     "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
@@ -581,9 +578,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfdnakit": [
         "CGHbase",
         "CGHcall",
@@ -740,9 +735,7 @@
         "flowCore"
     ],
     "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR",
@@ -766,7 +759,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -776,13 +768,10 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray"
     ],
@@ -798,7 +787,6 @@
     "CoGAPS": [],
     "cogeqc": [],
     "Cogito": [],
-    "cola": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -851,8 +839,7 @@
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "exomeCopy"
+        "VariantAnnotation"
     ],
     "conumee": [
         "HDF5Array",
@@ -866,7 +853,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -1297,8 +1283,7 @@
         "BRGenomics",
         "ChIPseeker",
         "DOSE",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epidecodeR": [],
     "epigenomix": [],
@@ -1380,8 +1365,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "ExiMiR": [],
-    "exomeCopy": [],
     "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
@@ -1411,9 +1394,7 @@
     "FastqCleaner": [
         "ShortRead"
     ],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcScan": [
         "VariantAnnotation"
     ],
@@ -1645,7 +1626,6 @@
     ],
     "GeneTonic": [],
     "geneXtendeR": [],
-    "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -1663,7 +1643,6 @@
     ],
     "GenomicPlot": [
         "RCAS",
-        "genomation",
         "plyranges"
     ],
     "GenomicScores": [
@@ -2800,8 +2779,7 @@
         "DEXSeq"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -3094,9 +3072,7 @@
     "RBioinf": [],
     "RBM": [],
     "Rbowtie2": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "rCGH": [
         "aCGH"
     ],
@@ -3323,7 +3299,6 @@
         "minfi",
         "siggenes"
     ],
-    "Rnits": [],
     "roar": [],
     "ROntoTools": [
         "KEGGgraph",
@@ -3553,7 +3528,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [],
     "sigFeature": [],
     "siggenes": [],
@@ -3809,7 +3783,6 @@
     "SVMDO": [
         "DOSE"
     ],
-    "SWATH2stats": [],
     "switchde": [],
     "synapter": [
         "MSnbase",
