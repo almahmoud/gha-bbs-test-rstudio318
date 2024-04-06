@@ -868,7 +868,6 @@
         "mnem"
     ],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -2096,7 +2095,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq",
@@ -2526,13 +2524,8 @@
     "trio": [
         "siggenes"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [],
     "TurboNorm": [],
