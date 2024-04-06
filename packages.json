@@ -541,7 +541,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "ChromHeatMap": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -568,7 +567,6 @@
     ],
     "CiteFuse": [],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [
         "KEGGgraph"
     ],
@@ -1336,7 +1334,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneGeneInteR": [],
     "GeneNetworkBuilder": [],
     "GENESIS": [
         "SeqVarTools"
@@ -1468,7 +1465,6 @@
         "VariantAnnotation"
     ],
     "h5vc": [],
-    "hapFabia": [],
     "HarmonizR": [],
     "Harshlight": [
         "altcdfenvs"
@@ -1498,7 +1494,6 @@
     "HiCool": [
         "HiCExperiment"
     ],
-    "hicVennDiagram": [],
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
@@ -1572,7 +1567,6 @@
         "flowCore"
     ],
     "InPAS": [
-        "cleanUpdTSeq",
         "plyranges"
     ],
     "INSPEcT": [],
@@ -1782,7 +1776,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "MEDIPS": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR"
@@ -2380,7 +2373,6 @@
         "plyranges"
     ],
     "plyranges": [],
-    "pmp": [],
     "podkat": [],
     "pogos": [
         "ontoProc"
@@ -2470,7 +2462,6 @@
         "biovizBase"
     ],
     "pwOmics": [],
-    "qckitfastq": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall"
@@ -2605,9 +2596,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -2871,7 +2860,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "seqbias": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
@@ -2919,7 +2907,6 @@
     "SigsPack": [
         "VariantAnnotation"
     ],
-    "SIM": [],
     "SIMAT": [],
     "SimBindProfiles": [
         "Ringo"
