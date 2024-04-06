@@ -280,7 +280,6 @@
     "ALDEx2": [
         "multtest"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationFilter",
         "BSgenome",
@@ -398,7 +397,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "HybridMTest",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -863,7 +861,6 @@
         "BiocIO",
         "DOSE",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -1338,7 +1335,6 @@
         "Category",
         "GSEABase",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -1412,7 +1408,6 @@
     "cbaf": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -1433,7 +1428,6 @@
     "cBioPortalData": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -2201,7 +2195,6 @@
         "rtracklayer"
     ],
     "COMPASS": [],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationFilter",
         "BSgenome",
@@ -3098,7 +3091,6 @@
         "sparseMatrixStats"
     ],
     "DirichletMultinomial": [],
-    "discordant": [],
     "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
@@ -4191,7 +4183,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "gcatest": [],
     "gCrisprTools": [
         "ComplexHeatmap"
     ],
@@ -4199,7 +4190,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GenomicDataCommons",
         "KEGGgraph",
         "Rgraphviz",
         "biomaRt",
@@ -4334,12 +4324,10 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "GenomAutomorphism": [],
     "GenomicAlignments": [
         "Rhtslib",
         "Rsamtools"
     ],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [
         "BiocIO",
@@ -4578,7 +4566,6 @@
     "GNOSIS": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -4978,7 +4965,6 @@
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
-    "HybridMTest": [],
     "hyperdraw": [
         "Rgraphviz",
         "hypergraph"
@@ -5311,7 +5297,6 @@
         "biomaRt",
         "ensembldb",
         "rtracklayer",
-        "satuRn",
         "sva",
         "tximeta"
     ],
@@ -5608,7 +5593,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "magrene": [],
     "MAI": [
         "pcaMethods"
     ],
@@ -6767,7 +6751,6 @@
         "pcaMethods",
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "AnnotationFilter",
         "BSgenome",
@@ -6955,7 +6938,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [],
     "nanotatoR": [],
     "NanoTube": [
@@ -6989,7 +6971,6 @@
         "RCy3",
         "Rgraphviz"
     ],
-    "ncRNAtools": [],
     "nearBynding": [
         "BiocIO",
         "GenomicAlignments",
@@ -8917,7 +8898,6 @@
     "RTCGAToolbox": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RaggedExperiment",
@@ -8995,7 +8975,6 @@
         "rtracklayer"
     ],
     "sarks": [],
-    "satuRn": [],
     "SBGNview": [
         "KEGGgraph",
         "Rgraphviz",
@@ -9468,7 +9447,6 @@
     "seq2pathway": [
         "biomaRt"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "BSgenome",
         "BiocIO",
@@ -9484,7 +9462,6 @@
         "fgsea",
         "heatmaps",
         "rtracklayer",
-        "seqArchR",
         "seqPattern"
     ],
     "SeqArray": [],
@@ -9503,7 +9480,6 @@
         "rtracklayer"
     ],
     "seqCNA": [],
-    "SeqGate": [],
     "SeqGSEA": [
         "DESeq2",
         "biomaRt"
@@ -10255,7 +10231,6 @@
         "biomaRt",
         "msa"
     ],
-    "survtype": [],
     "sva": [],
     "svaNUMT": [
         "BSgenome",
@@ -10385,7 +10360,6 @@
     "TCGAutils": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RaggedExperiment",
@@ -10431,7 +10405,6 @@
     "terraTCGAdata": [
         "BiocIO",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RaggedExperiment",
