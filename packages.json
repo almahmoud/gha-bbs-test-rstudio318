@@ -630,7 +630,6 @@
         "crisprScore"
     ],
     "crisprScore": [],
-    "CRISPRseek": [],
     "crisprVerse": [
         "Gviz",
         "VariantAnnotation",
@@ -1215,7 +1214,6 @@
     "GSRI": [],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Guitar": [],
@@ -1322,7 +1320,6 @@
     ],
     "IONiseR": [],
     "iPAC": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -1737,7 +1734,6 @@
     "MSstatsTMT": [],
     "MultiBaC": [],
     "multicrispr": [
-        "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR"
@@ -1966,7 +1962,6 @@
     "pogos": [
         "ontoProc"
     ],
-    "POMA": [],
     "POWSC": [],
     "PPInfer": [],
     "prebs": [
