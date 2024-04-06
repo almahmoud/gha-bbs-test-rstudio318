@@ -796,7 +796,6 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GOTHiC": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1196,7 +1195,6 @@
         "yarn"
     ],
     "nnSVG": [],
-    "nondetects": [],
     "nullranges": [],
     "octad": [
         "GSVA",
@@ -1532,7 +1530,6 @@
         "ChIPseeker",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
@@ -1631,7 +1628,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "sSNAPPY": [],
     "standR": [
         "RUVSeq"
     ],
@@ -1759,7 +1755,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
