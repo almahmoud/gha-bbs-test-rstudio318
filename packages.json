@@ -75,7 +75,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "AllelicImbalance": [
         "Gviz",
         "biovizBase"
@@ -150,7 +149,6 @@
     "beachmat.hdf5": [],
     "BEAT": [],
     "benchdamic": [
-        "ALDEx2",
         "Maaslin2"
     ],
     "BgeeDB": [],
@@ -1197,9 +1195,7 @@
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "ALDEx2"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -1406,9 +1402,7 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "made4",
         "omicade4"
