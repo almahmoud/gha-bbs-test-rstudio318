@@ -607,7 +607,6 @@
         "frma"
     ],
     "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "batchelor",
         "scran"
@@ -1438,7 +1437,6 @@
         "BioNet"
     ],
     "gcapc": [],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
         "KEGGgraph",
@@ -3595,7 +3593,6 @@
     "VanillaICE": [
         "crlmm"
     ],
-    "VarCon": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray"
