@@ -159,7 +159,6 @@
         "biovizBase"
     ],
     "ASSIGN": [],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "OrganismDbi",
@@ -286,9 +285,7 @@
         "KEGGgraph",
         "ROntoTools"
     ],
-    "bnbc": [
-        "HiCBricks"
-    ],
+    "bnbc": [],
     "bnem": [
         "CellNOptR",
         "epiNEM",
@@ -479,9 +476,7 @@
     "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [],
     "chromstaR": [],
     "chromVAR": [
@@ -1104,7 +1099,6 @@
     "FRASER": [
         "OUTRIDER"
     ],
-    "frma": [],
     "funtooNorm": [
         "bumphunter",
         "minfi",
@@ -1247,7 +1241,6 @@
     "GraphPAC": [
         "iPAC"
     ],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "KEGGgraph",
@@ -1286,7 +1279,6 @@
         "VariantAnnotation"
     ],
     "HERON": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -2009,7 +2001,6 @@
         "CoreGx",
         "piano"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "flowWorkspace",
         "ncdfFlow"
