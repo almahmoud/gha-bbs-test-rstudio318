@@ -197,7 +197,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "annotationTools": [],
     "annotatr": [
         "GenomicFeatures",
         "regioneR"
@@ -486,7 +485,6 @@
     "BioTIP": [
         "scran"
     ],
-    "biotmle": [],
     "biovizBase": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -1120,9 +1118,7 @@
     "coseq": [
         "HTSFilter"
     ],
-    "CoSIA": [
-        "annotationTools"
-    ],
+    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MetaboCoreUtils",
@@ -1776,7 +1772,6 @@
         "csaw",
         "ensembldb"
     ],
-    "factDesign": [],
     "factR": [
         "GenomicFeatures",
         "wiggleplotr"
@@ -2905,7 +2900,6 @@
         "methylKit"
     ],
     "methylKit": [],
-    "methylMnM": [],
     "methylPipe": [
         "GenomicFeatures",
         "Gviz",
@@ -3564,7 +3558,6 @@
         "multtest"
     ],
     "panp": [],
-    "PANR": [],
     "pareg": [
         "DOSE",
         "basilisk",
@@ -3863,7 +3856,6 @@
     "qsvaR": [
         "sva"
     ],
-    "QTLExperiment": [],
     "quantiseqr": [],
     "quantro": [
         "GenomicFeatures",
@@ -4585,9 +4577,7 @@
         "multtest",
         "phyloseq"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "simona": [],
     "simpleSeg": [
