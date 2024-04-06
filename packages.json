@@ -678,7 +678,6 @@
         "safe",
         "zenith"
     ],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
         "bsseq"
@@ -728,7 +727,6 @@
         "enrichplot"
     ],
     "epigraHMM": [],
-    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
@@ -783,7 +781,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [],
     "fCCAC": [],
     "fcScan": [],
