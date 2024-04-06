@@ -320,7 +320,6 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "blima": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
@@ -576,7 +575,6 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq"
     ],
@@ -1129,7 +1127,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1304,7 +1301,6 @@
         "OUTRIDER"
     ],
     "frma": [],
-    "FunChIP": [],
     "funtooNorm": [
         "bumphunter",
         "minfi",
@@ -1380,7 +1376,6 @@
         "biovizBase"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2017,7 +2012,6 @@
         "deepSNV"
     ],
     "MLSeq": [],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
         "metagenomeSeq"
@@ -2473,7 +2467,6 @@
     ],
     "proActiv": [],
     "proBAMr": [],
-    "procoil": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -2589,7 +2582,6 @@
         "dada2"
     ],
     "RBM": [],
-    "Rbowtie2": [],
     "RCAS": [],
     "rCGH": [
         "aCGH"
@@ -2686,7 +2678,6 @@
         "RcwlPipelines"
     ],
     "rexposome": [],
-    "Rfastp": [],
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [],
@@ -2935,7 +2926,6 @@
         "epivizrData"
     ],
     "scviR": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -2960,9 +2950,7 @@
     "SeqSQC": [],
     "SeqVarTools": [],
     "sesame": [],
-    "SEtools": [
-        "sechm"
-    ],
+    "SEtools": [],
     "SGCP": [
         "Category",
         "GOstats"
@@ -3333,7 +3321,6 @@
         "plyranges"
     ],
     "UMI4Cats": [
-        "Rbowtie2",
         "regioneR"
     ],
     "uncoverappLib": [
