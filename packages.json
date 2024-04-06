@@ -139,9 +139,7 @@
     "amplican": [],
     "Anaquin": [],
     "ANCOMBC": [],
-    "AneuFinder": [
-        "bamsignals"
-    ],
+    "AneuFinder": [],
     "animalcules": [],
     "AnnotationHubData": [
         "BiocCheck",
@@ -231,7 +229,6 @@
     ],
     "ballgown": [],
     "bambu": [],
-    "bamsignals": [],
     "bandle": [
         "MSnbase",
         "pRoloc"
@@ -611,9 +608,7 @@
         "batchelor",
         "scran"
     ],
-    "chromstaR": [
-        "bamsignals"
-    ],
+    "chromstaR": [],
     "chromVAR": [
         "CNEr",
         "TFBSTools"
@@ -688,7 +683,6 @@
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR",
@@ -697,7 +691,6 @@
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR",
@@ -779,7 +772,6 @@
     "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "cn.mops",
         "karyoploteR",
@@ -1075,9 +1067,7 @@
         "bumphunter",
         "regioneR"
     ],
-    "DNAfusion": [
-        "bamsignals"
-    ],
+    "DNAfusion": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -1108,7 +1098,6 @@
     ],
     "dyebias": [],
     "easier": [],
-    "easylift": [],
     "easyRNASeq": [],
     "EBSEA": [],
     "EDASeq": [],
@@ -1176,8 +1165,7 @@
     "epidecodeR": [],
     "epigenomix": [],
     "epigraHMM": [
-        "GreyListChIP",
-        "bamsignals"
+        "GreyListChIP"
     ],
     "EpiMix": [],
     "epimutacions": [
@@ -1284,7 +1272,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [],
-    "fenr": [],
     "ffpe": [
         "HDF5Array",
         "bumphunter",
@@ -1656,7 +1643,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HiTC": [],
     "hoodscanR": [
         "SpatialExperiment"
     ],
@@ -1790,7 +1776,6 @@
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "regioneR"
     ],
@@ -2311,7 +2296,6 @@
     "multicrispr": [
         "CRISPRseek",
         "VariantAnnotation",
-        "bamsignals",
         "biovizBase",
         "karyoploteR",
         "plyranges",
@@ -2424,9 +2408,7 @@
     "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [],
-    "normr": [
-        "bamsignals"
-    ],
+    "normr": [],
     "npGSEA": [],
     "nucleR": [],
     "nullranges": [
@@ -2528,7 +2510,6 @@
         "basilisk"
     ],
     "partCNV": [],
-    "PAST": [],
     "PathoStat": [
         "biomformat",
         "phyloseq"
@@ -3143,7 +3124,6 @@
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "bamsignals",
         "enrichplot"
     ],
     "segmentSeq": [],
@@ -3614,7 +3594,6 @@
         "VariantAnnotation"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [
         "basilisk",
         "zellkonverter"
