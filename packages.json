@@ -49,7 +49,6 @@
     "airpart": [],
     "alabaster": [
         "VariantAnnotation",
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -60,49 +59,33 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
         "VariantAnnotation",
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -235,7 +218,6 @@
     "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
     "BioCor": [],
     "BiocPkgTools": [],
@@ -499,7 +481,6 @@
     "clusterSeq": [],
     "clustifyr": [],
     "cmapR": [],
-    "cn.farms": [],
     "cn.mops": [],
     "CNORdt": [
         "CellNOptR"
@@ -595,9 +576,7 @@
     "CoreGx": [
         "piano"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [],
     "cosmiq": [
         "MSnbase",
@@ -606,9 +585,7 @@
         "xcms"
     ],
     "cosmosR": [],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "cpvSNP": [],
     "CRImage": [
         "aCGH"
@@ -1235,7 +1212,6 @@
         "chipseq",
         "gmapR"
     ],
-    "HTSFilter": [],
     "hyperdraw": [],
     "icetea": [
         "VariantAnnotation"
@@ -1488,9 +1464,7 @@
         "Spectra"
     ],
     "methInheritSim": [],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [],
     "MethylAid": [
         "bumphunter",
@@ -1864,7 +1838,6 @@
         "Category",
         "GOstats"
     ],
-    "PCAtools": [],
     "PDATK": [
         "CoreGx",
         "piano"
@@ -2069,9 +2042,7 @@
     "RegEnrich": [
         "DOSE"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace"
     ],
@@ -2310,7 +2281,6 @@
         "VariantAnnotation"
     ],
     "SeqSQC": [],
-    "sesame": [],
     "SEtools": [],
     "SGCP": [
         "Category",
