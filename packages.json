@@ -250,7 +250,6 @@
         "OrganismDbi",
         "TFBSTools",
         "chromVAR",
-        "fgsea",
         "motifmatchr",
         "rGREAT"
     ],
@@ -385,7 +384,6 @@
         "cBioPortalData",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geNetClassifier",
         "graphite"
     ],
@@ -433,9 +431,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "BioNAR": [
-        "fgsea"
-    ],
+    "BioNAR": [],
     "BioNERO": [
         "sva"
     ],
@@ -624,7 +620,6 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "cbpManager": [
@@ -655,9 +650,7 @@
         "GSEABase",
         "vsn"
     ],
-    "CelliD": [
-        "fgsea"
-    ],
+    "CelliD": [],
     "cellity": [
         "topGO"
     ],
@@ -669,8 +662,7 @@
     "CEMiTool": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "censcyt": [
         "FlowSOM",
@@ -685,8 +677,7 @@
         "DOSE",
         "RCy3",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "CexoR": [
         "genomation"
@@ -764,8 +755,7 @@
     ],
     "ChIPseeker": [
         "DOSE",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "chipseq": [
         "ShortRead"
@@ -805,8 +795,7 @@
     ],
     "circRNAprofiler": [
         "VariantAnnotation",
-        "gwascat",
-        "universalmotif"
+        "gwascat"
     ],
     "CircSeqAlignTk": [
         "Rbowtie2",
@@ -852,13 +841,10 @@
     ],
     "clusterProfiler": [
         "DOSE",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "clusterSeq": [],
-    "clustifyr": [
-        "fgsea"
-    ],
+    "clustifyr": [],
     "cmapR": [
         "flowCore"
     ],
@@ -920,9 +906,7 @@
     ],
     "codelink": [],
     "CODEX": [],
-    "CoGAPS": [
-        "fgsea"
-    ],
+    "CoGAPS": [],
     "cogeqc": [],
     "Cogito": [],
     "cola": [],
@@ -1005,7 +989,6 @@
         "regioneR"
     ],
     "CoreGx": [
-        "fgsea",
         "piano"
     ],
     "Cormotif": [],
@@ -1084,9 +1067,7 @@
     "csdR": [],
     "CSSQ": [],
     "CTdata": [],
-    "cTRAP": [
-        "fgsea"
-    ],
+    "cTRAP": [],
     "CTSV": [
         "SpatialExperiment"
     ],
@@ -1192,7 +1173,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "multtest",
         "mzID",
         "mzR",
@@ -1216,7 +1196,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "pathview",
         "sva"
     ],
@@ -1365,9 +1344,7 @@
     "Doscheda": [
         "vsn"
     ],
-    "DOSE": [
-        "fgsea"
-    ],
+    "DOSE": [],
     "doubletrouble": [
         "syntenet"
     ],
@@ -1456,8 +1433,7 @@
         "safe"
     ],
     "enrichplot": [
-        "DOSE",
-        "fgsea"
+        "DOSE"
     ],
     "enrichTF": [
         "CNEr",
@@ -1465,15 +1441,13 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "motifmatchr",
         "pipeFrame"
     ],
     "enrichViewNet": [
         "DOSE",
         "RCy3",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "ensemblVEP": [
         "VariantAnnotation"
@@ -1486,7 +1460,6 @@
         "ChIPseeker",
         "DOSE",
         "enrichplot",
-        "fgsea",
         "genomation"
     ],
     "epidecodeR": [],
@@ -1549,7 +1522,6 @@
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "motifmatchr",
         "pipeFrame"
     ],
@@ -1566,8 +1538,7 @@
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
-        "SGSeq",
-        "fgsea"
+        "SGSeq"
     ],
     "EWCE": [
         "orthogene"
@@ -1599,12 +1570,9 @@
     "famat": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "ShortRead"
     ],
@@ -1633,7 +1601,6 @@
         "siggenes"
     ],
     "fgga": [],
-    "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
@@ -1755,9 +1722,7 @@
         "ncdfFlow"
     ],
     "fmcsR": [],
-    "fobitools": [
-        "fgsea"
-    ],
+    "fobitools": [],
     "FRASER": [
         "HDF5Array",
         "OUTRIDER"
@@ -1807,7 +1772,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "pathview"
     ],
     "gDNAx": [
@@ -1817,7 +1781,6 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "fgsea",
         "gDRcore",
         "gDRimport",
         "gDRutils",
@@ -1829,7 +1792,6 @@
     "gDRimport": [
         "CoreGx",
         "PharmacoGx",
-        "fgsea",
         "gDRutils",
         "piano"
     ],
@@ -1845,7 +1807,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneExpressionSignature": [],
     "genefu": [],
     "GeneGeneInteR": [],
     "GeneMeta": [],
@@ -1853,7 +1814,6 @@
         "Rgraphviz"
     ],
     "GENESIS": [
-        "GWASTools",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -1974,8 +1934,7 @@
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "goSTAG": [],
     "GOstats": [
@@ -2010,8 +1969,7 @@
         "safe"
     ],
     "gsean": [
-        "PPInfer",
-        "fgsea"
+        "PPInfer"
     ],
     "GSReg": [
         "OrganismDbi"
@@ -2037,9 +1995,7 @@
     "gwascat": [
         "VariantAnnotation"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
         "VariantAnnotation"
     ],
     "GWENA": [],
@@ -2169,7 +2125,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graphite",
         "minfi",
         "multtest",
@@ -2300,10 +2255,8 @@
     "LinkHD": [],
     "LinTInd": [],
     "lipidr": [
-        "fgsea",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "ClassifyR",
         "SpatialExperiment",
@@ -2340,9 +2293,7 @@
         "multtest",
         "siggenes"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "M3Drop": [],
     "m6Aboost": [],
     "Maaslin2": [
@@ -2376,7 +2327,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "pathview"
     ],
     "magpie": [
@@ -2436,9 +2386,7 @@
         "sva"
     ],
     "mbkmeans": [],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "MBQN": [],
     "mbQTL": [
         "metagenomeSeq"
@@ -2448,8 +2396,7 @@
         "Gviz",
         "OrganismDbi",
         "VariantAnnotation",
-        "biovizBase",
-        "fgsea"
+        "biovizBase"
     ],
     "MDTS": [],
     "MEAL": [
@@ -2483,13 +2430,10 @@
         "Rgraphviz"
     ],
     "Melissa": [],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "meshes": [
         "DOSE",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "meshr": [
         "Category",
@@ -2541,12 +2485,9 @@
         "DOSE",
         "RCy3",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
-    "metapone": [
-        "fgsea"
-    ],
+    "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
         "DSS",
@@ -2603,7 +2544,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -2664,8 +2604,7 @@
     "MicrobiomeProfiler": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "MicrobiotaProcess": [
         "ggtreeExtra"
@@ -2783,15 +2722,13 @@
     "Moonlight2R": [
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "MoonlightR": [
         "DOSE",
         "TCGAbiolinks",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "mosaics": [],
     "mosbi": [],
@@ -2815,7 +2752,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "msa": [],
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "Spectra"
@@ -2943,7 +2879,6 @@
         "regioneR"
     ],
     "multiGSEA": [
-        "fgsea",
         "graphite",
         "multtest"
     ],
@@ -3004,9 +2939,7 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NanoTube": [
-        "fgsea"
-    ],
+    "NanoTube": [],
     "NBAMSeq": [],
     "ncdfFlow": [
         "flowCore"
@@ -3073,12 +3006,8 @@
         "yarn"
     ],
     "NeuCA": [],
-    "NewWave": [
-        "SharedObject"
-    ],
-    "nipalsMCIA": [
-        "fgsea"
-    ],
+    "NewWave": [],
+    "nipalsMCIA": [],
     "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
@@ -3114,9 +3043,7 @@
         "RUVSeq",
         "ShortRead"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "Gviz",
         "VariantAnnotation",
@@ -3147,9 +3074,7 @@
         "VariantAnnotation"
     ],
     "omicsPrint": [],
-    "omicsViewer": [
-        "fgsea"
-    ],
+    "omicsViewer": [],
     "OncoScore": [],
     "OncoSimulR": [
         "Rgraphviz"
@@ -3212,7 +3137,6 @@
     ],
     "pairedGSEA": [
         "DEXSeq",
-        "fgsea",
         "sva"
     ],
     "panelcn.mops": [
@@ -3224,14 +3148,12 @@
         "GSEABase",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "multtest"
     ],
     "panp": [],
     "pareg": [
         "DOSE",
-        "basilisk",
-        "fgsea"
+        "basilisk"
     ],
     "partCNV": [],
     "PAST": [],
@@ -3257,7 +3179,6 @@
     "PCAtools": [],
     "PDATK": [
         "CoreGx",
-        "fgsea",
         "genefu",
         "piano"
     ],
@@ -3277,13 +3198,10 @@
     "PECA": [],
     "peco": [],
     "periodicDNA": [],
-    "phantasus": [
-        "fgsea"
-    ],
+    "phantasus": [],
     "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
-        "fgsea",
         "piano"
     ],
     "phemd": [
@@ -3313,9 +3231,7 @@
     "Pi": [
         "Rgraphviz"
     ],
-    "piano": [
-        "fgsea"
-    ],
+    "piano": [],
     "PICS": [],
     "Pigengene": [
         "DOSE",
@@ -3323,7 +3239,6 @@
         "Rgraphviz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "PING": [
@@ -3360,9 +3275,7 @@
     "POWSC": [
         "MAST"
     ],
-    "PPInfer": [
-        "fgsea"
-    ],
+    "PPInfer": [],
     "pram": [],
     "prebs": [
         "RPA",
@@ -3403,7 +3316,6 @@
         "ShortRead",
         "chipseq",
         "enrichplot",
-        "fgsea",
         "rGREAT",
         "soGGi"
     ],
@@ -3435,7 +3347,6 @@
         "Mfuzz",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "multtest",
         "mzID",
         "mzR",
@@ -3539,13 +3450,11 @@
     ],
     "RadioGx": [
         "CoreGx",
-        "fgsea",
         "piano"
     ],
     "raer": [],
     "RAIDS": [
         "GENESIS",
-        "GWASTools",
         "SeqVarTools",
         "VariantAnnotation"
     ],
@@ -3573,7 +3482,6 @@
     "RCAS": [
         "genomation"
     ],
-    "rcellminer": [],
     "rCGH": [
         "aCGH",
         "multtest"
@@ -3597,7 +3505,6 @@
     "ReactomePA": [
         "DOSE",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "rebook": [],
@@ -3629,15 +3536,13 @@
     ],
     "RegEnrich": [
         "BiocSet",
-        "DOSE",
-        "fgsea"
+        "DOSE"
     ],
     "regionalpcs": [
         "PCAtools"
     ],
     "RegionalST": [
         "BayesSpace",
-        "fgsea",
         "scran"
     ],
     "regioneR": [],
@@ -3829,7 +3734,6 @@
         "Rgraphviz"
     ],
     "ropls": [],
-    "ROSeq": [],
     "RPA": [
         "biomformat",
         "multtest",
@@ -3977,7 +3881,6 @@
     ],
     "scran": [],
     "scReClassify": [],
-    "ScreenR": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "TrajectoryUtils",
@@ -3999,7 +3902,6 @@
         "ReactomePA",
         "Rgraphviz",
         "enrichplot",
-        "fgsea",
         "graphite",
         "meshr",
         "schex"
@@ -4023,8 +3925,7 @@
         "ChIPseeker",
         "DOSE",
         "bamsignals",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "segmentSeq": [
         "ShortRead"
@@ -4037,8 +3938,7 @@
         "ChIPseeker",
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "seqbias": [],
     "seqCAT": [
@@ -4061,7 +3961,6 @@
         "Rgraphviz"
     ],
     "SGSeq": [],
-    "SharedObject": [],
     "shinyepico": [
         "HDF5Array",
         "bumphunter",
@@ -4097,8 +3996,7 @@
         "GSEABase",
         "HDF5Array",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "signeR": [
         "VariantAnnotation"
@@ -4357,9 +4255,7 @@
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
@@ -4370,8 +4266,7 @@
         "VariantAnnotation"
     ],
     "SVMDO": [
-        "DOSE",
-        "fgsea"
+        "DOSE"
     ],
     "SWATH2stats": [],
     "switchde": [],
@@ -4416,8 +4311,7 @@
     "TCseq": [],
     "TDbasedUFEadv": [
         "DOSE",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "TEKRABber": [],
     "TENxIO": [],
@@ -4452,8 +4346,7 @@
         "Mfuzz",
         "RCy3",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "TIN": [],
     "TissueEnrich": [
@@ -4483,7 +4376,6 @@
     "topGO": [],
     "ToxicoGx": [
         "CoreGx",
-        "fgsea",
         "piano"
     ],
     "TPP": [],
@@ -4588,7 +4480,6 @@
     "Uniquorn": [
         "VariantAnnotation"
     ],
-    "universalmotif": [],
     "uSORT": [
         "biocViews",
         "monocle"
@@ -4628,7 +4519,6 @@
     ],
     "vidger": [],
     "ViSEAGO": [
-        "fgsea",
         "topGO"
     ],
     "vissE": [
@@ -4694,7 +4584,6 @@
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
-        "fgsea",
         "piano"
     ],
     "XNAString": [],
