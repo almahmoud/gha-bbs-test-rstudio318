@@ -98,8 +98,7 @@
     "arrayMvout": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "arrayQualityMetrics": [],
     "artMS": [],
@@ -162,7 +161,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -337,7 +335,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "siggenes",
         "wateRmelon"
     ],
     "chihaya": [],
@@ -463,8 +460,7 @@
         "GenomicFiles"
     ],
     "conumee": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "CopyNumberPlots": [
         "biovizBase",
@@ -584,8 +580,7 @@
         "celda"
     ],
     "deconvR": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "DeepBlueR": [],
     "deepSNV": [],
@@ -634,8 +629,7 @@
         "bsseq",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "dmrseq": [
         "annotatr",
@@ -677,8 +671,7 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "EnrichmentBrowser": [
         "KEGGgraph",
@@ -706,8 +699,7 @@
     "epimutacions": [
         "Gviz",
         "biovizBase",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "epiNEM": [
         "mnem"
@@ -767,8 +759,7 @@
     "ffpe": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "flagme": [
         "CAMERA",
@@ -834,8 +825,7 @@
     ],
     "FRASER": [],
     "funtooNorm": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "GA4GHclient": [],
     "GA4GHshiny": [
@@ -982,8 +972,7 @@
     "iCheck": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "iCNV": [],
     "ideal": [
@@ -1006,8 +995,7 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "infinityFlow": [],
     "InPAS": [],
@@ -1042,9 +1030,7 @@
         "biovizBase"
     ],
     "katdetectr": [],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -1074,8 +1060,7 @@
     ],
     "lumi": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Maaslin2": [],
     "Macarron": [
@@ -1087,8 +1072,7 @@
     "MAGAR": [
         "RnBeads",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "MAGeCKFlute": [
         "KEGGgraph",
@@ -1129,14 +1113,12 @@
         "biovizBase",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "MEAT": [
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "MEIGOR": [
@@ -1180,28 +1162,24 @@
     "MethReg": [],
     "methrix": [],
     "MethylAid": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylCC": [
         "bsseq",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
         "BiocCheck",
         "ExperimentHubData",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "methylGSA": [
         "clusterProfiler",
         "enrichplot",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "siggenes"
+        "missMethyl"
     ],
     "methylInheritance": [],
     "methylPipe": [
@@ -1214,8 +1192,7 @@
         "bsseq"
     ],
     "methylumi": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "microbiome": [],
     "microbiomeDASim": [],
@@ -1234,12 +1211,9 @@
         "GOstats",
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
-    "minfi": [
-        "siggenes"
-    ],
+    "minfi": [],
     "MinimumDistance": [
         "VanillaICE"
     ],
@@ -1256,8 +1230,7 @@
     ],
     "missMethyl": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "mitoClone2": [
         "deepSNV"
@@ -1409,7 +1382,6 @@
         "GOstats",
         "minfi",
         "quantro",
-        "siggenes",
         "yarn"
     ],
     "nnSVG": [],
@@ -1598,8 +1570,7 @@
     "qsmooth": [],
     "qsvaR": [],
     "quantro": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "QuartPAC": [
         "GraphPAC",
@@ -1643,8 +1614,7 @@
         "derfinder"
     ],
     "recountmethylation": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "REDseq": [
         "ChIPpeakAnno"
@@ -1664,8 +1634,7 @@
         "biovizBase"
     ],
     "REMP": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "Repitools": [
         "Ringo"
@@ -1748,8 +1717,7 @@
     ],
     "RnBeads": [
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "ROntoTools": [
         "KEGGgraph"
@@ -1843,17 +1811,14 @@
         "GOstats"
     ],
     "shinyepico": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "shinyMethyl": [
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "SIAMCAT": [],
     "SigCheck": [],
     "sigFeature": [],
-    "siggenes": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -1890,7 +1855,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "siggenes",
         "wateRmelon"
     ],
     "slalom": [],
@@ -2037,9 +2001,7 @@
         "diffcyt"
     ],
     "trigger": [],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TRONCO": [],
@@ -2093,17 +2055,14 @@
     "wateRmelon": [
         "lumi",
         "methylumi",
-        "minfi",
-        "siggenes"
+        "minfi"
     ],
     "webbioc": [],
     "xcms": [
         "MSnbase",
         "MsExperiment"
     ],
-    "XDE": [
-        "siggenes"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
@@ -2116,8 +2075,7 @@
     ],
     "yarn": [
         "minfi",
-        "quantro",
-        "siggenes"
+        "quantro"
     ],
     "zenith": [
         "EnrichmentBrowser",
