@@ -97,7 +97,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
@@ -275,7 +274,6 @@
     "cellHTS2": [
         "Category"
     ],
-    "cellity": [],
     "CellNOptR": [],
     "CEMiTool": [
         "clusterProfiler",
@@ -463,7 +461,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crossmeta": [],
     "CTSV": [],
     "cummeRbund": [
         "Gviz",
@@ -1335,7 +1332,6 @@
         "biovizBase"
     ],
     "OLINgui": [],
-    "OmaDB": [],
     "omicade4": [
         "made4"
     ],
@@ -1406,9 +1402,7 @@
     "phenoTest": [
         "Category"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
@@ -1855,7 +1849,6 @@
     "TADCompare": [],
     "TargetDecoy": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
         "GSVA",
         "singscore"
     ],
@@ -1897,7 +1890,6 @@
         "glmGamPoi"
     ],
     "tRanslatome": [],
-    "transomics2cytoscape": [],
     "traviz": [
         "slingshot"
     ],
