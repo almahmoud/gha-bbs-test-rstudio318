@@ -399,7 +399,6 @@
         "VariantAnnotation",
         "biovizBase",
         "bsseq",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -879,7 +878,6 @@
     "escheR": [],
     "EventPointer": [],
     "EWCE": [],
-    "exomePeak2": [],
     "ExperimentHubData": [
         "AnnotationHubData",
         "BiocCheck",
@@ -1095,7 +1093,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "goseq": [],
     "GOSim": [],
     "goSorensen": [
         "DOSE",
@@ -1181,7 +1178,6 @@
     "ideal": [
         "Category",
         "GOstats",
-        "goseq",
         "pcaExplorer"
     ],
     "igvR": [
@@ -1210,7 +1206,6 @@
     ],
     "infinityFlow": [],
     "InPAS": [],
-    "INSPEcT": [],
     "intansv": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -2007,9 +2002,7 @@
     ],
     "RgnTX": [],
     "rGREAT": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
@@ -2252,9 +2245,7 @@
     ],
     "slalom": [],
     "slingshot": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [
         "aCGH",
         "tilingArray"
