@@ -16,7 +16,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "affyILM": [],
     "affylmGUI": [],
     "AgiMicroRna": [
         "Category",
@@ -27,8 +26,7 @@
         "ggbio"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "alabaster": [
         "alabaster.bumpy",
@@ -80,9 +78,7 @@
     "AMARETTO": [],
     "amplican": [],
     "AneuFinder": [],
-    "AnnotationHubData": [
-        "BiocCheck"
-    ],
+    "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
     "apComplex": [],
@@ -162,7 +158,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocCheck": [],
     "biocGraph": [],
     "BiocHail": [],
     "BiocOncoTK": [],
@@ -305,7 +300,6 @@
     "cfDNAPro": [],
     "cfTools": [],
     "CGHcall": [],
-    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall"
     ],
@@ -712,8 +706,7 @@
     "EventPointer": [],
     "EWCE": [],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "BiocCheck"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -836,9 +829,7 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -1141,7 +1132,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "ExperimentHubData",
         "minfi"
     ],
@@ -1173,7 +1163,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "mimager": [],
     "MineICA": [
         "Category",
@@ -1522,7 +1511,6 @@
     "qPLEXanalyzer": [
         "MSnbase"
     ],
-    "qsmooth": [],
     "qsvaR": [],
     "quantro": [
         "minfi"
