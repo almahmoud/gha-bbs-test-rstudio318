@@ -382,7 +382,6 @@
         "enrichplot"
     ],
     "cbpManager": [],
-    "ccfindR": [],
     "CCPROMISE": [
         "PROMISE"
     ],
@@ -438,7 +437,6 @@
         "siggenes",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [],
     "chimeraviz": [
         "Gviz",
@@ -1164,7 +1162,6 @@
     "girafe": [],
     "GISPA": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "gmapR": [
         "VariantAnnotation"
@@ -1741,7 +1738,6 @@
     "MungeSumstats": [
         "VariantAnnotation"
     ],
-    "muscat": [],
     "musicatk": [
         "VariantAnnotation",
         "decompTumor2Sig"
@@ -1783,7 +1779,6 @@
         "KEGGgraph"
     ],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM",
         "mnem"
@@ -1889,7 +1884,6 @@
     "pareg": [
         "DOSE"
     ],
-    "partCNV": [],
     "PathoStat": [
         "phyloseq"
     ],
@@ -2480,7 +2474,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "Spectra": [],
     "SpectralTAD": [
         "HiCcompare"
