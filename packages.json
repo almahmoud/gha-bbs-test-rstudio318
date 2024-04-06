@@ -7,7 +7,6 @@
     "ADaCGH2": [
         "snapCGH"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -156,7 +155,6 @@
     "BiocHail": [],
     "BiocOncoTK": [],
     "BiocSklearn": [],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -1304,7 +1302,6 @@
     ],
     "nnSVG": [],
     "nondetects": [],
-    "NormalyzerDE": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
@@ -1615,7 +1612,6 @@
         "biovizBase"
     ],
     "rqt": [],
-    "RSVSim": [],
     "RTCGAToolbox": [],
     "rTRMui": [],
     "RUVSeq": [
@@ -1758,7 +1754,6 @@
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
-    "SpatialDecon": [],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [],
