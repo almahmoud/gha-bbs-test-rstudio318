@@ -660,7 +660,6 @@
         "biovizBase"
     ],
     "CuratedAtlasQueryR": [],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
@@ -762,7 +761,6 @@
         "NCIgraph"
     ],
     "DelayedTensor": [],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "bsseq"
@@ -1083,8 +1081,7 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
-        "MLSeq"
+        "EDASeq"
     ],
     "GateFinder": [
         "flowFP",
@@ -1192,7 +1189,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "GOpro": [],
     "goseq": [],
     "GOSim": [],
     "goSorensen": [
@@ -1316,7 +1312,6 @@
     "infinityFlow": [],
     "InPAS": [],
     "INSPEcT": [],
-    "InTAD": [],
     "intansv": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -1643,7 +1638,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -2195,7 +2189,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "rGenomeTracks": [],
     "RgnTX": [],
     "rGREAT": [],
     "rgsepd": [
@@ -2347,7 +2340,6 @@
         "annotatr",
         "bsseq"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -2717,7 +2709,6 @@
     "uSORT": [
         "monocle"
     ],
-    "VAExprs": [],
     "VanillaICE": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
@@ -2772,7 +2763,6 @@
         "MsExperiment",
         "Spectra"
     ],
-    "xcore": [],
     "XDE": [
         "siggenes"
     ],
