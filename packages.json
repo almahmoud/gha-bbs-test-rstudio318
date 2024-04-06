@@ -1623,7 +1623,6 @@
     "crossmeta": [
         "sva"
     ],
-    "CSAR": [],
     "csaw": [],
     "csdR": [],
     "CSSQ": [
@@ -1900,7 +1899,6 @@
         "vsn"
     ],
     "DepecheR": [],
-    "DepInfeR": [],
     "derfinder": [
         "GenomicFeatures",
         "GenomicFiles",
@@ -3023,7 +3021,6 @@
         "VariantAnnotation"
     ],
     "HELP": [],
-    "HEM": [],
     "hermes": [
         "DESeq2",
         "MultiAssayExperiment"
@@ -3111,7 +3108,6 @@
     ],
     "hypergraph": [],
     "iasva": [],
-    "iBMQ": [],
     "icetea": [
         "DESeq2",
         "GenomicFeatures",
@@ -3253,7 +3249,6 @@
     "iPAC": [
         "multtest"
     ],
-    "iPath": [],
     "ipdDb": [
         "AnnotationHub"
     ],
@@ -3378,7 +3373,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "limmaGUI": [],
     "LineagePulse": [
         "SingleCellExperiment"
     ],
@@ -4567,7 +4561,6 @@
     "npGSEA": [
         "GSEABase"
     ],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -6423,7 +6416,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
         "DESeq2",
@@ -6513,7 +6505,6 @@
         "vsn"
     ],
     "SynExtend": [],
-    "SynMut": [],
     "syntenet": [],
     "systemPipeR": [
         "ShortRead"
