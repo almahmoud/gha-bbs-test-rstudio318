@@ -5,7 +5,6 @@
     "a4Base": [],
     "ABarray": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -282,7 +281,6 @@
         "VariantAnnotation"
     ],
     "biscuiteer": [
-        "CGHbase",
         "CGHcall",
         "OrganismDbi",
         "QDNAseq",
@@ -337,7 +335,6 @@
     ],
     "bumphunter": [],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -447,24 +444,17 @@
     ],
     "CexoR": [],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
     "cfDNAPro": [],
     "cfTools": [],
-    "CGHbase": [],
-    "CGHcall": [
-        "CGHbase"
-    ],
+    "CGHcall": [],
     "cghMCR": [],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -672,7 +662,6 @@
     "COTAN": [
         "PCAtools"
     ],
-    "countsimQC": [],
     "cpvSNP": [],
     "CRImage": [
         "aCGH"
@@ -698,7 +687,6 @@
         "crisprDesign",
         "crisprScore"
     ],
-    "crlmm": [],
     "crossmeta": [],
     "CSSQ": [],
     "CTdata": [],
@@ -852,7 +840,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
@@ -1197,7 +1184,6 @@
     "GDSArray": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq"
     ],
@@ -1341,13 +1327,8 @@
         "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "HiLDA": [],
     "hipathia": [],
     "HIPPO": [],
@@ -1464,7 +1445,6 @@
     "isomiRs": [
         "DEGreport"
     ],
-    "ITALICS": [],
     "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
@@ -1532,7 +1512,6 @@
     "MAGAR": [
         "RnBeads",
         "bumphunter",
-        "crlmm",
         "methylumi",
         "minfi",
         "siggenes"
@@ -1751,8 +1730,7 @@
         "siggenes"
     ],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "miQC": [],
     "MIRA": [
@@ -2115,7 +2093,6 @@
         "piano"
     ],
     "phemd": [
-        "destiny",
         "monocle"
     ],
     "phenomis": [],
@@ -2222,7 +2199,6 @@
     "ptairMS": [
         "MSnbase"
     ],
-    "puma": [],
     "PureCN": [
         "VariantAnnotation"
     ],
@@ -2234,7 +2210,6 @@
     ],
     "pwOmics": [],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall"
     ],
     "QFeatures": [],
@@ -2527,7 +2502,6 @@
         "SpatialExperiment"
     ],
     "scifer": [],
-    "scmap": [],
     "scMerge": [
         "M3Drop"
     ],
@@ -2901,7 +2875,6 @@
         "diffcyt"
     ],
     "TRESS": [],
-    "tricycle": [],
     "trigger": [],
     "trio": [
         "siggenes"
@@ -2947,9 +2920,7 @@
         "monocle"
     ],
     "VAExprs": [],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray"
