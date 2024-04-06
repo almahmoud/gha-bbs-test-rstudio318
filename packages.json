@@ -548,7 +548,6 @@
         "bsseq"
     ],
     "easier": [],
-    "easyRNASeq": [],
     "EGSEA": [
         "GSVA",
         "pathview",
@@ -1099,7 +1098,6 @@
     "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [],
