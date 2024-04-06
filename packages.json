@@ -89,9 +89,7 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "airpart": [
-        "apeglm"
-    ],
+    "airpart": [],
     "alabaster": [
         "GenomicFeatures",
         "HDF5Array",
@@ -217,7 +215,6 @@
     "apComplex": [
         "Rgraphviz"
     ],
-    "apeglm": [],
     "APL": [
         "topGO"
     ],
@@ -839,7 +836,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "chipseq",
         "systemPipeR"
     ],
@@ -1341,7 +1337,6 @@
         "DOSE",
         "KEGGgraph",
         "Rgraphviz",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1449,7 +1444,6 @@
     "DiffBind": [
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1721,9 +1715,7 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ERSSA": [
-        "apeglm"
-    ],
+    "ERSSA": [],
     "esATAC": [
         "CNEr",
         "ChIPseeker",
@@ -3426,7 +3418,6 @@
     "normr": [
         "bamsignals"
     ],
-    "NPARC": [],
     "npGSEA": [
         "GSEABase"
     ],
@@ -3645,7 +3636,6 @@
         "biodbChebi",
         "ropls"
     ],
-    "phenopath": [],
     "phenoTest": [
         "Category",
         "GSEABase"
@@ -4185,8 +4175,7 @@
         "vsn"
     ],
     "Rmmquant": [
-        "GenomicFeatures",
-        "apeglm"
+        "GenomicFeatures"
     ],
     "rmspc": [],
     "RNAAgeCalc": [
@@ -4932,9 +4921,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "TEKRABber": [
-        "apeglm"
-    ],
+    "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
         "Rgraphviz",
@@ -4963,7 +4950,6 @@
     "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
-    "tigre": [],
     "tilingArray": [
         "vsn"
     ],
@@ -5208,7 +5194,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "csaw",
         "ensembldb",
         "multtest",
