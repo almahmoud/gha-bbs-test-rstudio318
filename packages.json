@@ -5,8 +5,7 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "adductomicsR": [],
     "affycoretools": [
@@ -834,7 +833,6 @@
     "GenomicPlot": [],
     "GenomicScores": [],
     "GenVisR": [],
-    "GeoDiff": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1312,7 +1310,6 @@
     "nnSVG": [],
     "nondetects": [],
     "NormalyzerDE": [],
-    "normr": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
@@ -1353,8 +1350,7 @@
     "orthos": [],
     "OTUbase": [],
     "OutSplice": [
-        "Repitools",
-        "Ringo"
+        "Repitools"
     ],
     "pageRank": [
         "TFBSTools",
@@ -1369,7 +1365,6 @@
     ],
     "pareg": [],
     "PathoStat": [],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -1539,9 +1534,7 @@
     "REMP": [
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "Category",
         "GOstats",
@@ -1570,7 +1563,6 @@
         "TFBSTools",
         "motifStack"
     ],
-    "Ringo": [],
     "Risa": [
         "MSnbase",
         "MsExperiment",
@@ -1727,9 +1719,7 @@
     ],
     "SigsPack": [],
     "SIMAT": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "SimBu": [],
     "simpleSeg": [
         "cytomapper"
@@ -1755,9 +1745,7 @@
     ],
     "slingshot": [],
     "SMITE": [],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snifter": [],
     "SNPhood": [],
     "soGGi": [
@@ -1847,7 +1835,6 @@
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot"
@@ -1936,7 +1923,6 @@
         "methylumi",
         "minfi"
     ],
-    "webbioc": [],
     "xcms": [
         "MSnbase",
         "MsExperiment"
