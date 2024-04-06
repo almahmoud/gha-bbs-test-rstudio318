@@ -56,7 +56,6 @@
     "adductomicsR": [
         "AnnotationHub",
         "ExperimentHub",
-        "ProtGenerics",
         "interactiveDisplayBase",
         "mzR"
     ],
@@ -93,7 +92,6 @@
         "GenomicFeatures",
         "Glimma",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "ReportingTools",
         "Rgraphviz",
@@ -158,7 +156,6 @@
         "GenomicFeatures",
         "Glimma",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "ReportingTools",
         "Rgraphviz",
@@ -345,7 +342,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -473,7 +469,6 @@
         "HybridMTest",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "VariantAnnotation",
         "biomaRt",
         "rtracklayer"
@@ -572,7 +567,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -615,8 +609,7 @@
         "rGREAT",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqQC": [
         "AnnotationFilter",
@@ -631,7 +624,6 @@
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -645,8 +637,7 @@
         "regioneR",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "ATACseqTFEA": [
         "BSgenome",
@@ -658,8 +649,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "atena": [
         "AnnotationHub",
@@ -679,8 +669,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "attract": [
         "AnnotationForge",
@@ -751,7 +740,6 @@
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "biomaRt",
@@ -1135,7 +1123,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1190,7 +1177,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1297,7 +1283,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -1337,7 +1322,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -1413,7 +1397,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1443,7 +1426,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -1463,7 +1445,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -1488,7 +1469,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1506,7 +1486,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -1534,7 +1513,6 @@
         "Gviz",
         "InteractionSet",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1552,7 +1530,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -1607,11 +1584,9 @@
     ],
     "Cardinal": [
         "CardinalIO",
-        "ProtGenerics",
         "matter"
     ],
     "CardinalIO": [
-        "ProtGenerics",
         "matter"
     ],
     "casper": [
@@ -1914,7 +1889,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -1964,7 +1938,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -2004,7 +1977,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2020,7 +1992,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -2089,7 +2060,6 @@
         "oligoClasses",
         "preprocessCore"
     ],
-    "chopsticks": [],
     "chromDraw": [],
     "ChromHeatMap": [
         "BiocIO",
@@ -2137,8 +2107,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "CHRONOS": [
         "RBGL",
@@ -2152,7 +2121,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -2257,7 +2225,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra",
         "affy",
@@ -2277,7 +2244,6 @@
     "CluMSID": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -2373,7 +2339,6 @@
         "CopyNumberPlots",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2397,7 +2362,6 @@
         "CopyNumberPlots",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2494,7 +2458,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2517,7 +2480,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2548,7 +2510,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2567,7 +2528,6 @@
         "ChemmineR",
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "concordexR": [],
@@ -2602,7 +2562,6 @@
         "EDASeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "RUVSeq",
         "Rhtslib",
         "Rsamtools",
@@ -2684,7 +2643,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2736,7 +2694,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra",
         "affy",
@@ -2801,7 +2758,6 @@
         "BSgenome",
         "BiocIO",
         "GenomicAlignments",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "crisprBase",
@@ -2823,7 +2779,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2867,8 +2822,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2894,8 +2847,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -2968,7 +2919,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -3129,8 +3079,7 @@
         "UniProt.ws",
         "biomaRt",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "DAMEfinder": [
         "BSgenome",
@@ -3164,7 +3113,6 @@
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "clusterProfiler",
@@ -3357,7 +3305,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "SingleCellExperiment",
@@ -3374,7 +3321,6 @@
         "ComplexHeatmap",
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -3411,7 +3357,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -3434,7 +3379,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -3478,7 +3422,6 @@
     ],
     "DFP": [],
     "DIAlignR": [
-        "ProtGenerics",
         "mzR"
     ],
     "DiffBind": [
@@ -3532,10 +3475,8 @@
         "DEXSeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "biomaRt",
         "ensembldb",
         "genefilter",
@@ -3600,7 +3541,6 @@
         "GenomicFeatures",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -3728,7 +3668,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "UniProt.ws",
@@ -3763,9 +3702,7 @@
     ],
     "dStruct": [],
     "Dune": [],
-    "dupRadar": [
-        "Rsubread"
-    ],
+    "dupRadar": [],
     "dyebias": [
         "marray"
     ],
@@ -3858,7 +3795,6 @@
         "GenomicFeatures",
         "Gviz",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "TCGAbiolinks",
@@ -3881,8 +3817,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "EnMCB": [],
     "ENmix": [
@@ -3945,8 +3880,7 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "enrichViewNet": [
         "DOSE",
@@ -3962,7 +3896,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -4062,7 +3995,6 @@
         "Gviz",
         "HDF5Array",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -4111,7 +4043,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -4129,7 +4060,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -4146,7 +4076,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -4163,7 +4092,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -4218,8 +4146,7 @@
         "ggtree",
         "motifmatchr",
         "pipeFrame",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "escape": [
         "BiocNeighbors",
@@ -4280,7 +4207,6 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "rtracklayer"
     ],
     "ExiMiR": [
@@ -4344,7 +4270,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -4480,7 +4405,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -4509,7 +4433,6 @@
         "HDF5Array",
         "MultiAssayExperiment",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -4680,7 +4603,6 @@
         "OUTRIDER",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "biomaRt",
         "pcaMethods",
         "rhdf5",
@@ -4930,7 +4852,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -4953,7 +4874,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "genoCN": [],
     "genomation": [
         "BSgenome",
         "BiocIO",
@@ -5010,7 +4930,6 @@
         "GenomicFeatures",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -5026,7 +4945,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -5051,7 +4969,6 @@
         "genomation",
         "plyranges",
         "rtracklayer",
-        "seqLogo",
         "seqPattern"
     ],
     "GenomicScores": [
@@ -5088,7 +5005,6 @@
         "genefilter",
         "sva"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery"
     ],
@@ -5135,7 +5051,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -5328,7 +5243,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -5434,7 +5348,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -5462,7 +5375,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -5530,7 +5442,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "HDTD": [],
     "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
@@ -5581,7 +5492,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -5657,7 +5567,6 @@
         "hiAnnotator",
         "rtracklayer"
     ],
-    "HIREewas": [],
     "HiTC": [
         "BiocIO",
         "GenomicAlignments",
@@ -5677,7 +5586,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "HPiP": [],
     "HTqPCR": [
         "affy",
         "affyio",
@@ -5935,7 +5843,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -5977,8 +5884,7 @@
         "VariantAnnotation",
         "biomaRt",
         "genefilter",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "InterMineR": [],
     "IntOMICS": [],
@@ -6008,7 +5914,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -6067,10 +5972,7 @@
         "biomaRt"
     ],
     "IsoBayes": [],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -6080,7 +5982,6 @@
         "DEXSeq",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -6105,7 +6006,6 @@
         "preprocessCore"
     ],
     "iterativeBMA": [],
-    "iterativeBMAsurv": [],
     "iterClust": [],
     "IVAS": [
         "BiocIO",
@@ -6124,7 +6024,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -6256,7 +6155,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -6442,7 +6340,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -6494,7 +6391,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -6543,12 +6439,9 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
-    "matter": [
-        "ProtGenerics"
-    ],
+    "matter": [],
     "MBASED": [],
     "MBCB": [
         "preprocessCore"
@@ -6589,7 +6482,6 @@
         "GenomicFeatures",
         "Gviz",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -6617,7 +6509,6 @@
         "Gviz",
         "HDF5Array",
         "MultiDataSet",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -6732,7 +6623,6 @@
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra",
         "interactiveDisplayBase"
@@ -6758,7 +6648,6 @@
         "GenomicFeatures",
         "KEGGgraph",
         "MWASTools",
-        "ProtGenerics",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -6795,7 +6684,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -6859,7 +6747,6 @@
     "MetCirc": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "methimpute": [],
@@ -7027,7 +6914,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -7408,7 +7294,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra",
         "affy",
@@ -7462,8 +7347,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "monocle": [
         "RBGL",
@@ -7525,7 +7409,6 @@
         "GenomicFeatures",
         "Gviz",
         "MotifDb",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
@@ -7534,8 +7417,7 @@
         "biovizBase",
         "ensembldb",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifcounter": [],
     "MotifDb": [
@@ -7554,8 +7436,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "motifStack": [
         "BSgenome",
@@ -7566,8 +7447,7 @@
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "MouseFM": [
         "biomaRt"
@@ -7579,31 +7459,26 @@
     "MsBackendMassbank": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendMgf": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendMsp": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsBackendSql": [
         "MetaboCoreUtils",
         "MsCoreUtils",
-        "ProtGenerics",
         "Spectra"
     ],
     "MsCoreUtils": [],
@@ -7617,13 +7492,11 @@
         "MetaboCoreUtils",
         "MsCoreUtils",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
     "MsFeatures": [
-        "MsCoreUtils",
-        "ProtGenerics"
+        "MsCoreUtils"
     ],
     "msgbsR": [
         "AnnotationFilter",
@@ -7632,7 +7505,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -7663,7 +7535,6 @@
     "msmsEDA": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -7675,7 +7546,6 @@
     "msmsTests": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "msmsEDA",
@@ -7687,7 +7557,6 @@
     ],
     "MSnbase": [
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -7700,7 +7569,6 @@
         "AnnotationHub",
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "interactiveDisplayBase",
@@ -7719,14 +7587,12 @@
         "sva"
     ],
     "msPurity": [
-        "ProtGenerics",
         "mzR"
     ],
     "msqrob2": [
         "AnnotationFilter",
         "MsCoreUtils",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures"
     ],
     "MsQuality": [
@@ -7735,7 +7601,6 @@
         "MsCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra"
     ],
@@ -7764,7 +7629,6 @@
     "MSstatsQC": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -7778,7 +7642,6 @@
         "MSnbase",
         "MSstatsQC",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -7822,8 +7685,6 @@
         "CRISPRseek",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -7959,12 +7820,8 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "mzID": [
-        "ProtGenerics"
-    ],
-    "mzR": [
-        "ProtGenerics"
-    ],
+    "mzID": [],
+    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
@@ -7980,7 +7837,6 @@
         "Gviz",
         "HDF5Array",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rgraphviz",
         "Rhtslib",
@@ -7999,7 +7855,6 @@
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
-        "seqLogo",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -8041,7 +7896,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra",
         "affy",
@@ -8283,7 +8137,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -8521,8 +8374,7 @@
         "Rsamtools",
         "TFBSTools",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PAIRADISE": [],
     "paircompviz": [
@@ -8604,7 +8456,6 @@
         "Rgraphviz",
         "graph"
     ],
-    "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationForge",
         "Category",
@@ -8658,7 +8509,6 @@
     "peakPantheR": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -8799,7 +8649,6 @@
         "GenomicFeatures",
         "Gviz",
         "PICS",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -8960,7 +8809,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
@@ -8971,13 +8819,11 @@
         "interactiveDisplayBase",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "PrInCE": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -9039,7 +8885,6 @@
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "biomaRt",
@@ -9054,7 +8899,6 @@
         "MLInterfaces",
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "biomaRt",
@@ -9082,7 +8926,6 @@
         "MSnbase",
         "Mfuzz",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "clusterProfiler",
@@ -9120,7 +8963,6 @@
         "preprocessCore",
         "vsn"
     ],
-    "ProtGenerics": [],
     "PSEA": [],
     "psichomics": [
         "AnnotationHub",
@@ -9145,7 +8987,6 @@
         "AnnotationFilter",
         "MsCoreUtils",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures"
     ],
     "psygenet2r": [
@@ -9157,7 +8998,6 @@
     "ptairMS": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -9206,7 +9046,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -9215,9 +9054,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PWMEnrich": [
-        "seqLogo"
-    ],
+    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
         "biomaRt",
@@ -9238,8 +9075,7 @@
     "QFeatures": [
         "AnnotationFilter",
         "MsCoreUtils",
-        "MultiAssayExperiment",
-        "ProtGenerics"
+        "MultiAssayExperiment"
     ],
     "qmtools": [
         "MsCoreUtils"
@@ -9263,7 +9099,6 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -9327,7 +9162,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
@@ -9343,7 +9177,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -9403,7 +9236,6 @@
         "GWASTools",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "SNPRelate",
@@ -9466,7 +9298,6 @@
     "RBM": [
         "marray"
     ],
-    "Rbowtie": [],
     "Rbowtie2": [
         "Rhtslib",
         "Rsamtools"
@@ -9482,7 +9313,6 @@
         "biomaRt",
         "genomation",
         "rtracklayer",
-        "seqLogo",
         "seqPattern"
     ],
     "rcellminer": [],
@@ -9617,7 +9447,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -9706,7 +9535,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "RCy3",
         "Rhtslib",
         "Rsamtools",
@@ -9768,7 +9596,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rgraphviz",
         "Rhtslib",
@@ -9834,8 +9661,7 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rGenomeTracks": [
         "AnnotationHub",
@@ -9931,7 +9757,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -9950,8 +9775,7 @@
     "riboSeqR": [
         "Rhtslib",
         "Rsamtools",
-        "baySeq",
-        "seqLogo"
+        "baySeq"
     ],
     "ribosomeProfilingQC": [
         "BSgenome",
@@ -9964,13 +9788,11 @@
         "RUVSeq",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "ShortRead",
         "TFBSTools",
         "biomaRt",
         "motifStack",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "rifi": [
         "BiocIO",
@@ -10002,7 +9824,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "RBGL",
         "Spectra",
@@ -10024,7 +9845,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -10063,7 +9883,6 @@
         "ChemmineR",
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -10137,7 +9956,6 @@
         "GenomicFeatures",
         "Gviz",
         "Modstrings",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -10154,7 +9972,6 @@
         "GenomicFeatures",
         "Gviz",
         "Modstrings",
-        "ProtGenerics",
         "RNAmodR",
         "Rhtslib",
         "Rsamtools",
@@ -10172,7 +9989,6 @@
         "GenomicFeatures",
         "Gviz",
         "Modstrings",
-        "ProtGenerics",
         "RNAmodR",
         "Rhtslib",
         "Rsamtools",
@@ -10190,7 +10006,6 @@
         "GenomicFeatures",
         "Gviz",
         "Modstrings",
-        "ProtGenerics",
         "RNAmodR",
         "Rhtslib",
         "Rsamtools",
@@ -10289,7 +10104,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
@@ -10317,7 +10131,6 @@
         "graph"
     ],
     "rScudo": [],
-    "Rsubread": [],
     "RSVSim": [
         "GenomicAlignments",
         "Rhtslib",
@@ -10432,24 +10245,20 @@
         "preprocessCore",
         "sva"
     ],
-    "scanMiR": [
-        "seqLogo"
-    ],
+    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationFilter",
         "AnnotationHub",
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
         "ensembldb",
         "interactiveDisplayBase",
         "rtracklayer",
-        "scanMiR",
-        "seqLogo"
+        "scanMiR"
     ],
     "scAnnotatR": [
         "AnnotationHub",
@@ -10586,7 +10395,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -10714,7 +10522,6 @@
         "AnnotationFilter",
         "MsCoreUtils",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "SingleCellExperiment"
     ],
@@ -10730,7 +10537,6 @@
         "MultiAssayExperiment",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "SingleCellExperiment",
         "basilisk",
         "basilisk.utils",
@@ -10780,11 +10586,9 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
-        "Rsubread",
         "ShortRead",
         "SingleCellExperiment",
         "VariantAnnotation",
@@ -10841,7 +10645,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -10968,7 +10771,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "seqLogo": [],
     "seqPattern": [],
     "seqsetvis": [
         "BiocIO",
@@ -11140,7 +10942,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "ScaledMatrix",
@@ -11173,7 +10974,6 @@
         "globaltest"
     ],
     "SIMAT": [
-        "ProtGenerics",
         "mzR"
     ],
     "SimBindProfiles": [
@@ -11253,7 +11053,6 @@
         "HDF5Array",
         "M3Drop",
         "MAST",
-        "ProtGenerics",
         "ResidualMatrix",
         "Rhtslib",
         "Rsamtools",
@@ -11296,7 +11095,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "QuasR",
-        "Rbowtie",
         "Rhtslib",
         "Rsamtools",
         "ShortRead",
@@ -11425,7 +11223,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -11490,7 +11287,6 @@
         "sparseMatrixStats"
     ],
     "sparseMatrixStats": [],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "BiocIO",
@@ -11552,7 +11348,6 @@
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "TFBSTools",
@@ -11561,8 +11356,7 @@
         "biovizBase",
         "ensembldb",
         "motifmatchr",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "speckle": [
         "SingleCellExperiment"
@@ -11570,8 +11364,7 @@
     "SpeCond": [],
     "Spectra": [
         "MetaboCoreUtils",
-        "MsCoreUtils",
-        "ProtGenerics"
+        "MsCoreUtils"
     ],
     "SpectralTAD": [
         "HiCcompare",
@@ -11657,15 +11450,13 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "SpotClean": [
         "SingleCellExperiment",
@@ -11701,7 +11492,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -11856,7 +11646,6 @@
     "synapter": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "cleaver",
@@ -11896,7 +11685,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -11926,7 +11714,6 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "ProtGenerics",
         "mzID",
         "mzR"
     ],
@@ -12029,8 +11816,7 @@
         "GenomicAlignments",
         "Rhtslib",
         "Rsamtools",
-        "rtracklayer",
-        "seqLogo"
+        "rtracklayer"
     ],
     "TFEA.ChIP": [
         "BiocIO",
@@ -12155,7 +11941,6 @@
     "topdownr": [
         "MSnbase",
         "MsCoreUtils",
-        "ProtGenerics",
         "affy",
         "affyio",
         "mzID",
@@ -12191,7 +11976,6 @@
         "GenomicFeatures",
         "Gviz",
         "InteractionSet",
-        "ProtGenerics",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -12356,7 +12140,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -12387,7 +12170,6 @@
         "BiocIO",
         "GenomicAlignments",
         "GenomicFeatures",
-        "ProtGenerics",
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
@@ -12437,7 +12219,6 @@
         "GenomicFeatures",
         "Gviz",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -12534,7 +12315,6 @@
         "GenomicScores",
         "Gviz",
         "HDF5Array",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -12664,7 +12444,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "InteractionSet",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
@@ -12747,7 +12526,6 @@
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
-        "ProtGenerics",
         "QFeatures",
         "Spectra",
         "affy",
@@ -12789,7 +12567,6 @@
         "rtracklayer"
     ],
     "yamss": [
-        "ProtGenerics",
         "mzR"
     ],
     "YAPSA": [
@@ -12800,7 +12577,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "ProtGenerics",
         "RBGL",
         "Rhtslib",
         "Rsamtools",
