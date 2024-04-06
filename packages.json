@@ -575,7 +575,6 @@
         "piano"
     ],
     "coseq": [],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
@@ -893,7 +892,6 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "DOSE",
