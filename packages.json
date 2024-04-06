@@ -281,9 +281,7 @@
         "bumphunter",
         "dmrseq"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "BLMA": [
         "KEGGgraph",
         "ROntoTools"
@@ -403,7 +401,6 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "CDI": [],
     "celaref": [],
     "celda": [],
     "CellBarcode": [],
@@ -506,7 +503,6 @@
         "SGSeq"
     ],
     "CiteFuse": [],
-    "ClassifyR": [],
     "clipper": [
         "KEGGgraph"
     ],
@@ -826,7 +822,6 @@
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DIAlignR": [],
     "DiffBind": [
         "systemPipeR"
@@ -837,9 +832,7 @@
     ],
     "DifferentialRegulation": [],
     "diffHic": [],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "distinct": [],
     "dittoSeq": [],
@@ -891,7 +884,6 @@
         "pathview",
         "safe"
     ],
-    "eiR": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -1381,7 +1373,6 @@
         "Category"
     ],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles",
         "VariantAnnotation"
     ],
@@ -1405,7 +1396,6 @@
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "tximeta"
     ],
     "isomiRs": [],
@@ -1437,7 +1427,6 @@
     ],
     "lipidr": [],
     "lisaClust": [
-        "ClassifyR",
         "SpatialExperiment",
         "spicyR"
     ],
@@ -1644,7 +1633,6 @@
         "minfi",
         "siggenes"
     ],
-    "MetID": [],
     "miaSim": [],
     "microbiome": [
         "biomformat",
@@ -1991,9 +1979,7 @@
         "motifmatchr"
     ],
     "paircompviz": [],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "panelcn.mops": [
         "cn.mops"
     ],
@@ -2504,7 +2490,6 @@
     "seqCAT": [
         "VariantAnnotation"
     ],
-    "SeqGSEA": [],
     "SeqSQC": [],
     "sesame": [],
     "SEtools": [],
@@ -2651,7 +2636,6 @@
         "dittoSeq"
     ],
     "spicyR": [
-        "ClassifyR",
         "SpatialExperiment"
     ],
     "SpliceWiz": [],
@@ -2769,9 +2753,7 @@
     "TNBC.CMS": [
         "GSVA"
     ],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "topdownr": [
         "MSnbase"
     ],
