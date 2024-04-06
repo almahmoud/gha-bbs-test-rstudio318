@@ -25,7 +25,6 @@
     "ADImpute": [],
     "adSplit": [],
     "AffiXcan": [],
-    "affyContam": [],
     "affycoretools": [
         "Category",
         "GOstats",
@@ -196,7 +195,6 @@
     "ArrayExpress": [],
     "arrayMvout": [
         "HDF5Array",
-        "affyContam",
         "bumphunter",
         "lumi",
         "methylumi",
@@ -956,7 +954,6 @@
     "CoreGx": [
         "piano"
     ],
-    "Cormotif": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -1360,7 +1357,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "EMDomics": [],
     "enhancerHomologSearch": [
         "CNEr",
         "TFBSTools",
@@ -1793,7 +1789,6 @@
         "HDF5Array"
     ],
     "GenomicSuperSignature": [],
-    "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
     ],
@@ -2512,7 +2507,6 @@
         "ggtreeExtra"
     ],
     "microSTASIS": [],
-    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [],
     "mimager": [
@@ -3134,7 +3128,6 @@
         "scran"
     ],
     "pipeFrame": [],
-    "plier": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -3279,7 +3272,6 @@
     ],
     "QFeatures": [],
     "qmtools": [],
-    "qpcrNorm": [],
     "qpgraph": [
         "Rgraphviz"
     ],
@@ -3730,7 +3722,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
