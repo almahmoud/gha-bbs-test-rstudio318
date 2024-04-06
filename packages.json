@@ -292,7 +292,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CexoR": [],
     "cfdnakit": [
         "CGHcall",
         "QDNAseq"
@@ -626,7 +625,6 @@
     "easier": [],
     "easyRNASeq": [],
     "EDASeq": [],
-    "edge": [],
     "EGSEA": [
         "GSVA",
         "KEGGgraph",
@@ -849,9 +847,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "GenomicPlot": [
-        "RCAS"
-    ],
+    "GenomicPlot": [],
     "GenomicScores": [],
     "GenVisR": [],
     "GeoDiff": [],
@@ -880,7 +876,6 @@
         "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -889,7 +884,6 @@
         "Category"
     ],
     "GOTHiC": [],
-    "GRaNIE": [],
     "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
@@ -1003,7 +997,6 @@
         "DSS",
         "bsseq"
     ],
-    "KnowSeq": [],
     "lemur": [
         "glmGamPoi"
     ],
@@ -1389,7 +1382,6 @@
         "Repitools",
         "Ringo"
     ],
-    "PAA": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -1511,7 +1503,6 @@
     "qPLEXanalyzer": [
         "MSnbase"
     ],
-    "qsvaR": [],
     "quantro": [
         "minfi"
     ],
@@ -1540,7 +1531,6 @@
     "Rbec": [
         "dada2"
     ],
-    "RCAS": [],
     "rCGH": [],
     "RCM": [],
     "Rcwl": [],
@@ -1922,7 +1912,6 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptogramer": [],
     "transcriptR": [
         "chipseq"
     ],
