@@ -19,10 +19,7 @@
         "ggbio"
     ],
     "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "AGDEX": [],
     "AgiMicroRna": [
         "Category",
@@ -104,9 +101,7 @@
         "minfi",
         "siggenes"
     ],
-    "arrayQualityMetrics": [
-        "affyPLM"
-    ],
+    "arrayQualityMetrics": [],
     "artMS": [],
     "ASICS": [],
     "ASpli": [
@@ -160,8 +155,6 @@
         "Maaslin2"
     ],
     "BgeeDB": [],
-    "bgx": [],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -263,7 +256,6 @@
     "CAMERA": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "canceR": [
@@ -393,7 +385,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "CluMSID": [
@@ -451,9 +442,7 @@
         "biovizBase",
         "methylPipe"
     ],
-    "CompoundDb": [
-        "Spectra"
-    ],
+    "CompoundDb": [],
     "condiments": [
         "slingshot"
     ],
@@ -487,7 +476,6 @@
     "cosmiq": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "cosmosR": [],
@@ -786,7 +774,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "FLAMES": [
@@ -912,7 +899,6 @@
     "GenVisR": [],
     "GeoDiff": [],
     "GEOexplorer": [],
-    "gep2pep": [],
     "gespeR": [
         "Category",
         "cellHTS2"
@@ -1043,7 +1029,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "iSEEde": [],
@@ -1085,7 +1070,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "lpNet": [
@@ -1120,7 +1104,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "maPredictDSC": [],
@@ -1170,8 +1153,7 @@
         "Category"
     ],
     "MetaboAnnotation": [
-        "CompoundDb",
-        "Spectra"
+        "CompoundDb"
     ],
     "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
@@ -1185,7 +1167,6 @@
         "CAMERA",
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MetaPhOR": [
@@ -1197,9 +1178,7 @@
         "EDASeq",
         "bsseq"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [],
     "methrix": [],
@@ -1252,9 +1231,7 @@
         "enrichplot"
     ],
     "MicrobiotaProcess": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "Category",
         "GOstats",
@@ -1296,7 +1273,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "MOFA2": [],
@@ -1327,24 +1303,12 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
-    "MsExperiment": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
+    "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
         "easyRNASeq",
@@ -1368,8 +1332,7 @@
     "msPurity": [],
     "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "MSstatsBig": [],
     "MSstatsLiP": [
@@ -1427,7 +1390,6 @@
     "ncGTW": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "NCIgraph": [
@@ -1745,7 +1707,6 @@
     "Risa": [
         "MSnbase",
         "MsExperiment",
-        "Spectra",
         "xcms"
     ],
     "RITAN": [
@@ -1975,7 +1936,6 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "Spectra": [],
     "SpectralTAD": [],
     "SPIA": [
         "KEGGgraph"
@@ -2047,7 +2007,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [],
     "tLOH": [],
     "TNBC.CMS": [
@@ -2127,7 +2086,6 @@
         "GenomicFiles"
     ],
     "velociraptor": [],
-    "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
@@ -2149,8 +2107,7 @@
     "webbioc": [],
     "xcms": [
         "MSnbase",
-        "MsExperiment",
-        "Spectra"
+        "MsExperiment"
     ],
     "XDE": [
         "siggenes"
