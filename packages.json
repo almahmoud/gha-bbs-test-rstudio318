@@ -1149,7 +1149,6 @@
     ],
     "HiContacts": [],
     "HiCool": [],
-    "HiLDA": [],
     "hiReadsProcessor": [],
     "hoodscanR": [],
     "HTSeqGenie": [
@@ -1827,7 +1826,6 @@
     "PrInCE": [
         "MSnbase"
     ],
-    "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -1948,7 +1946,6 @@
         "minfi",
         "siggenes"
     ],
-    "recoup": [],
     "REDseq": [
         "ChIPpeakAnno"
     ],
@@ -2159,9 +2156,7 @@
         "enrichplot"
     ],
     "segmentSeq": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
