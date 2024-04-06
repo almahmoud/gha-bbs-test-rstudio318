@@ -556,7 +556,6 @@
     ],
     "artMS": [
         "MSstats",
-        "MSstatsConvert",
         "marray",
         "preprocessCore"
     ],
@@ -1423,10 +1422,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BufferedMatrix": [],
-    "BufferedMatrixMethods": [
-        "BufferedMatrix"
-    ],
+    "BufferedMatrixMethods": [],
     "bugsigdbr": [],
     "BUMHMM": [],
     "bumphunter": [
@@ -1718,9 +1714,7 @@
     "ccfindR": [
         "SingleCellExperiment"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [],
     "CCPlotR": [
         "ComplexHeatmap"
@@ -3186,7 +3180,6 @@
         "tkWidgets",
         "vsn"
     ],
-    "DART": [],
     "dce": [
         "Linnorm",
         "RBGL",
@@ -4884,7 +4877,6 @@
         "SeqArray"
     ],
     "gemma.R": [],
-    "genArise": [],
     "geneAttribution": [
         "BiocIO",
         "GenomicAlignments",
@@ -4909,7 +4901,6 @@
         "AIMS",
         "biomaRt"
     ],
-    "GeneGA": [],
     "GeneGeneInteR": [
         "Rhtslib",
         "Rsamtools",
@@ -5724,7 +5715,6 @@
         "graph"
     ],
     "iasva": [],
-    "ibh": [],
     "iBMQ": [],
     "icetea": [
         "BSgenome",
@@ -6204,7 +6194,6 @@
     ],
     "lapmix": [],
     "ldblock": [],
-    "LedPred": [],
     "lefser": [],
     "lemur": [
         "BiocNeighbors",
@@ -6480,7 +6469,6 @@
         "gcrma",
         "preprocessCore"
     ],
-    "mapscape": [],
     "mariner": [
         "BiocIO",
         "GenomicAlignments",
@@ -7752,20 +7740,16 @@
         "Spectra"
     ],
     "MSstats": [
-        "MSstatsConvert",
         "marray",
         "preprocessCore"
     ],
     "MSstatsBig": [
         "MSstats",
-        "MSstatsConvert",
         "marray",
         "preprocessCore"
     ],
-    "MSstatsConvert": [],
     "MSstatsLiP": [
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT",
         "marray",
@@ -7773,7 +7757,6 @@
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsConvert",
         "MSstatsTMT",
         "marray",
         "preprocessCore"
@@ -7807,7 +7790,6 @@
     ],
     "MSstatsShiny": [
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT",
         "marray",
@@ -7815,7 +7797,6 @@
     ],
     "MSstatsTMT": [
         "MSstats",
-        "MSstatsConvert",
         "marray",
         "preprocessCore"
     ],
@@ -8892,7 +8873,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "pmm": [],
     "pmp": [
         "pcaMethods"
     ],
@@ -10404,7 +10384,6 @@
         "snpStats"
     ],
     "safe": [],
-    "sagenhaft": [],
     "SAIGEgds": [
         "SeqArray"
     ],
@@ -10943,7 +10922,6 @@
     ],
     "SELEX": [],
     "SemDist": [],
-    "semisup": [],
     "seq2pathway": [
         "biomaRt",
         "preprocessCore"
@@ -11223,7 +11201,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "SIMLR": [],
     "simona": [
         "ComplexHeatmap"
     ],
@@ -12418,7 +12395,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "TypeInfo": [],
     "UCell": [
         "BiocNeighbors",
         "SingleCellExperiment"
