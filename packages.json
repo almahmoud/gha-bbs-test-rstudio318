@@ -120,7 +120,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "BadRegionFinder": [],
     "bandle": [
         "MSnbase",
@@ -132,7 +131,6 @@
         "BASiCS",
         "glmGamPoi"
     ],
-    "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
@@ -1317,7 +1315,6 @@
     "nondetects": [],
     "NormalyzerDE": [],
     "normr": [],
-    "npGSEA": [],
     "nucleR": [],
     "nullranges": [],
     "octad": [
@@ -1658,7 +1655,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "SingleCellSignalR"
     ],
@@ -1722,7 +1718,6 @@
         "minfi"
     ],
     "SIAMCAT": [],
-    "sigFeature": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
