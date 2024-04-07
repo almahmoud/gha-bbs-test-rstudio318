@@ -80,7 +80,6 @@
     ],
     "arrayQualityMetrics": [],
     "artMS": [],
-    "ASICS": [],
     "ASpli": [
         "Gviz",
         "biovizBase"
@@ -611,7 +610,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowTime": [],
     "flowTrans": [
         "flowClust",
         "flowViz"
