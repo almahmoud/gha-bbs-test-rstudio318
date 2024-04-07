@@ -1195,7 +1195,6 @@
         "RUVSeq"
     ],
     "scoreInvHap": [],
-    "scp": [],
     "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
@@ -1270,7 +1269,6 @@
     "SOMNiBUS": [],
     "SpacePAC": [],
     "spatialDE": [],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1369,9 +1367,7 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "gwascat"
     ],
