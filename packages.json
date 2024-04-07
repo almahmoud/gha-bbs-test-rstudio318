@@ -70,7 +70,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "AMARETTO": [],
     "AnnotationHubData": [],
     "APAlyzer": [],
     "appreci8R": [
@@ -94,7 +93,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "GenomicScores",
         "TFBSTools",
         "motifStack"
@@ -244,7 +242,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "Cepo": [],
     "CeTF": [
         "clusterProfiler",
         "enrichplot"
@@ -278,7 +275,6 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -492,9 +488,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DESpace": [],
     "DiffBind": [],
     "diffcyt": [
@@ -698,7 +692,6 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "GDCRNATools": [
         "clusterProfiler",
         "enrichplot",
@@ -774,9 +767,7 @@
     "gsean": [],
     "GSReg": [],
     "GSVA": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1119,7 +1110,6 @@
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
         "TFBSTools",
@@ -1328,9 +1318,7 @@
     "recountmethylation": [
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RegEnrich": [],
     "regionalpcs": [],
     "RegionalST": [
@@ -1437,9 +1425,7 @@
     "SCArray.sat": [],
     "scBFA": [],
     "scCB2": [],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [],
     "scFeatures": [
         "GSVA",
@@ -1675,7 +1661,6 @@
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "wateRmelon": [
