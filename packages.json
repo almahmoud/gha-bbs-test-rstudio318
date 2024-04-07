@@ -469,7 +469,6 @@
     "ggcyto": [
         "flowWorkspace"
     ],
-    "gmapR": [],
     "GmicR": [
         "GOstats"
     ],
@@ -496,9 +495,7 @@
         "Gviz"
     ],
     "HiCDOC": [],
-    "HTSeqGenie": [
-        "gmapR"
-    ],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi",
@@ -824,7 +821,6 @@
     ],
     "psygenet2r": [],
     "ptairMS": [],
-    "PureCN": [],
     "Pviz": [
         "Gviz"
     ],
