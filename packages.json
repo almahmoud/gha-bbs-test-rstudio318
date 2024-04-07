@@ -230,7 +230,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "cfDNAPro": [],
     "CGHcall": [],
     "CGHnormaliter": [
         "CGHcall"
@@ -555,7 +554,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot"
