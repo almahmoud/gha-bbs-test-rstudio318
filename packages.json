@@ -72,7 +72,6 @@
     "attract": [
         "GOstats"
     ],
-    "BadRegionFinder": [],
     "bandle": [
         "pRoloc"
     ],
@@ -213,7 +212,6 @@
         "CopyNumberPlots",
         "karyoploteR"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA"
     ],
@@ -1093,6 +1091,5 @@
         "SPIA",
         "pathview",
         "safe"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
