@@ -343,7 +343,6 @@
         "clusterProfiler",
         "pathview"
     ],
-    "decompTumor2Sig": [],
     "decontX": [],
     "deconvR": [
         "minfi"
@@ -454,7 +453,6 @@
     "famat": [
         "clusterProfiler"
     ],
-    "fcScan": [],
     "FEAST": [],
     "ffpe": [
         "lumi",
@@ -816,9 +814,7 @@
         "karyoploteR"
     ],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "MWASTools": [],
     "myvariant": [],
@@ -958,7 +954,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [],
     "RAIDS": [],
     "RandomWalkRestartMH": [],
