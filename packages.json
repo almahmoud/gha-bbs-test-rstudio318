@@ -169,9 +169,7 @@
         "CopyNumberPlots",
         "karyoploteR"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "comapr": [
         "Gviz"
     ],
@@ -511,7 +509,6 @@
         "methylumi"
     ],
     "MinimumDistance": [],
-    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [],
     "missMethyl": [
@@ -646,7 +643,6 @@
     "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
-    "RcwlPipelines": [],
     "ReactomePA": [],
     "rebook": [],
     "recount": [
@@ -664,9 +660,7 @@
         "ggbio"
     ],
     "RESOLVE": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "RiboProfiling": [
         "ggbio"
     ],
