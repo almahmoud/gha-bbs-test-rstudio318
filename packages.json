@@ -187,9 +187,7 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt"
     ],
@@ -218,9 +216,7 @@
         "clusterProfiler"
     ],
     "dce": [],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [
         "clusterProfiler"
     ],
@@ -299,10 +295,7 @@
     "flowBin": [
         "flowFP"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowFP": [],
     "flowGate": [
         "flowWorkspace",
