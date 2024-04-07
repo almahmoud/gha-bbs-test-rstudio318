@@ -809,8 +809,7 @@
         "minfi"
     ],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [],
     "R3CPET": [
@@ -964,7 +963,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
