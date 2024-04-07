@@ -441,7 +441,6 @@
         "motifmatchr"
     ],
     "escape": [],
-    "EventPointer": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -995,7 +994,6 @@
     "ReUseData": [
         "RcwlPipelines"
     ],
-    "rgsepd": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
