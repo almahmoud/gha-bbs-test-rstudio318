@@ -167,9 +167,7 @@
         "methylPipe"
     ],
     "condiments": [],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [],
     "contiBAIT": [],
     "conumee": [],
@@ -310,7 +308,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
