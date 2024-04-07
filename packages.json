@@ -446,9 +446,7 @@
         "minfi"
     ],
     "epiNEM": [],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [
         "epivizrData"
     ],
@@ -1278,7 +1276,6 @@
         "diffcyt"
     ],
     "trio": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TVTB": [
         "Gviz",
