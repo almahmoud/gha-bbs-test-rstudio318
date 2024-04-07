@@ -4,12 +4,10 @@
     ],
     "ADaCGH2": [],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
         "ggbio"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "ReportingTools",
         "affycoretools",
         "ggbio"
@@ -60,9 +58,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "bandle": [
         "pRoloc"
     ],
@@ -123,9 +119,7 @@
         "cBioPortalData"
     ],
     "CATALYST": [],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "cBioPortalData"
     ],
@@ -402,16 +396,13 @@
     "ggcyto": [
         "flowWorkspace"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "GNOSIS": [
         "cBioPortalData"
     ],
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -429,7 +420,6 @@
         "methylumi"
     ],
     "ideal": [
-        "GOstats",
         "pcaExplorer"
     ],
     "imcRtools": [],
@@ -537,16 +527,13 @@
         "clusterProfiler"
     ],
     "MineICA": [
-        "GOstats",
         "lumi",
         "methylumi"
     ],
     "MinimumDistance": [],
     "MIRA": [],
     "mirIntegrator": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "missMethyl": [
         "methylumi"
     ],
@@ -615,7 +602,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "quantro",
         "yarn"
     ],
@@ -645,9 +631,7 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [
         "flowWorkspace"
@@ -662,9 +646,7 @@
     "PING": [
         "Gviz"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "prebs": [],
     "preciseTAD": [],
     "primirTSS": [
@@ -719,7 +701,6 @@
     "REMP": [],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
         "ggbio"
     ],
     "RESOLVE": [],
@@ -777,7 +758,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA"
     ],
     "scTreeViz": [
@@ -791,9 +771,7 @@
         "clusterProfiler"
     ],
     "SeqSQC": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "signatureSearch": [
