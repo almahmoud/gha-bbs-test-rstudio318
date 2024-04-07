@@ -37,7 +37,6 @@
     "AllelicImbalance": [
         "Gviz"
     ],
-    "appreci8R": [],
     "arrayMvout": [
         "lumi",
         "methylumi"
@@ -75,8 +74,7 @@
     ],
     "BioNetStat": [],
     "biscuiteer": [
-        "QDNAseq",
-        "dmrseq"
+        "QDNAseq"
     ],
     "BLMA": [],
     "bnem": [],
@@ -260,7 +258,6 @@
         "methylumi",
         "missMethyl"
     ],
-    "dmrseq": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
