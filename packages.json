@@ -634,9 +634,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HTSeqGenie": [
         "VariantTools",
         "gmapR"
@@ -891,7 +889,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "multiHiCcompare": [],
     "MungeSumstats": [],
     "musicatk": [
         "decompTumor2Sig"
