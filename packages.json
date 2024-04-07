@@ -991,23 +991,17 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [],
     "multicrispr": [
         "biovizBase",
