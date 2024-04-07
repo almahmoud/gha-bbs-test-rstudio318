@@ -25,7 +25,6 @@
     ],
     "alabaster": [
         "alabaster.mae",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
@@ -33,24 +32,17 @@
     ],
     "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
     "alabaster.vcf": [
-        "alabaster.ranges",
         "alabaster.se"
     ],
     "AllelicImbalance": [
@@ -792,7 +784,6 @@
     "methylumi": [
         "minfi"
     ],
-    "microbiome": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1146,7 +1137,6 @@
     "SBGNview": [
         "pathview"
     ],
-    "scBFA": [],
     "scClassify": [],
     "scFeatures": [],
     "scMerge": [],
