@@ -336,9 +336,7 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -374,7 +372,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CuratedAtlasQueryR": [],
     "customProDB": [],
     "cyanoFilter": [
         "flowClust",
@@ -494,7 +491,6 @@
     "DrugVsDisease": [],
     "DSS": [],
     "EGSEA": [
-        "GSVA",
         "pathview",
         "safe"
     ],
@@ -561,9 +557,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "escheR": [],
     "EventPointer": [],
     "ExperimentHubData": [
@@ -738,7 +732,6 @@
     ],
     "gsean": [],
     "GSReg": [],
-    "GSVA": [],
     "GUIDEseq": [],
     "Gviz": [
         "biovizBase"
@@ -1100,7 +1093,6 @@
     "nnSVG": [],
     "nullranges": [],
     "octad": [
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1125,9 +1117,7 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "flowMeans"
     ],
@@ -1367,9 +1357,7 @@
     "scBFA": [],
     "scClassify": [],
     "scDataviz": [],
-    "scFeatures": [
-        "GSVA"
-    ],
+    "scFeatures": [],
     "scider": [],
     "scifer": [],
     "scMerge": [],
@@ -1427,7 +1415,6 @@
     ],
     "signeR": [],
     "signifinder": [
-        "GSVA",
         "consensusOV"
     ],
     "SigsPack": [],
@@ -1438,7 +1425,6 @@
     ],
     "simplifyEnrichment": [],
     "singleCellTK": [
-        "GSVA",
         "TSCAN",
         "scMerge"
     ],
@@ -1511,9 +1497,7 @@
         "biovizBase"
     ],
     "TADCompare": [],
-    "TBSignatureProfiler": [
-        "GSVA"
-    ],
+    "TBSignatureProfiler": [],
     "TDbasedUFEadv": [
         "enrichplot"
     ],
@@ -1527,9 +1511,7 @@
     ],
     "TitanCNA": [],
     "tLOH": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOP": [],
     "topdownr": [],
     "ToxicoGx": [
