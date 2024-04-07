@@ -126,7 +126,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "BiocHail": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -1477,7 +1476,6 @@
     ],
     "SOMNiBUS": [],
     "SpacePAC": [],
-    "Spaniel": [],
     "sparrow": [],
     "spaSim": [],
     "spatialDE": [],
