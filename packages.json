@@ -113,11 +113,8 @@
         "pRoloc"
     ],
     "BASiCStan": [],
-    "BayesSpace": [],
     "BBCAnalyzer": [],
-    "benchdamic": [
-        "Maaslin2"
-    ],
+    "benchdamic": [],
     "BiGGR": [],
     "bigmelon": [
         "lumi",
@@ -282,7 +279,6 @@
         "enrichplot"
     ],
     "ChIPXpress": [],
-    "ChromSCape": [],
     "chromVAR": [
         "TFBSTools"
     ],
@@ -870,10 +866,7 @@
         "methylumi",
         "minfi"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "made4": [],
     "MADSEQ": [],
     "MAGAR": [
@@ -904,7 +897,6 @@
     ],
     "MBASED": [],
     "MBECS": [],
-    "mbQTL": [],
     "mCSEA": [
         "Gviz",
         "biovizBase"
@@ -1022,9 +1014,7 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
         "xcms"
@@ -1321,9 +1311,7 @@
     "REDseq": [],
     "RegEnrich": [],
     "regionalpcs": [],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
@@ -1462,7 +1450,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker",
         "enrichplot"
