@@ -30,7 +30,6 @@
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.se"
     ],
@@ -1248,7 +1247,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [],
     "TBSignatureProfiler": [],
     "TDbasedUFEadv": [
         "enrichplot"
