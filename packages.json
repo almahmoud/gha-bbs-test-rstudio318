@@ -193,9 +193,7 @@
     ],
     "cardelino": [],
     "Cardinal": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "categoryCompare": [
         "GOstats"
     ],
@@ -218,7 +216,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -366,12 +363,10 @@
         "flowViz"
     ],
     "CyTOFpower": [
-        "FlowSOM",
         "diffcyt"
     ],
     "cytofQC": [
-        "CATALYST",
-        "FlowSOM"
+        "CATALYST"
     ],
     "cytomapper": [],
     "cytoMEM": [],
@@ -443,9 +438,7 @@
     "DEScan2": [],
     "DESpace": [],
     "DiffBind": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "diffUTR": [],
     "DMRcate": [
         "Gviz",
@@ -585,7 +578,6 @@
     ],
     "flowMeans": [],
     "flowMerge": [],
-    "FlowSOM": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace"
@@ -841,9 +833,7 @@
     "MetaboSignal": [
         "MWASTools"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metaMS": [
         "CAMERA",
         "MsExperiment",
@@ -1439,7 +1429,6 @@
         "slingshot"
     ],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "trio": [],
