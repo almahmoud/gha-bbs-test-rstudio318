@@ -59,9 +59,7 @@
         "motifStack"
     ],
     "attract": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BASiCStan": [],
     "benchdamic": [],
     "bigmelon": [
@@ -550,12 +548,8 @@
     "msgbsR": [
         "ggbio"
     ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
-        "msmsEDA",
         "msmsTests"
     ],
     "MsQuality": [],
@@ -563,10 +557,7 @@
         "MSstatsPTM"
     ],
     "MSstatsPTM": [],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstatsPTM"
     ],
@@ -646,10 +637,7 @@
     "profileplyr": [
         "ChIPseeker"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler"
@@ -707,7 +695,6 @@
         "xcms"
     ],
     "RLSeq": [],
-    "RMassBank": [],
     "RNAAgeCalc": [
         "derfinder",
         "recount"
