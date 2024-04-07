@@ -134,7 +134,6 @@
         "Gviz"
     ],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -193,7 +192,6 @@
     "CircSeqAlignTk": [],
     "clipper": [],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "CluMSID": [],
@@ -241,7 +239,6 @@
         "karyoploteR"
     ],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "crisprDesign": [],
@@ -397,7 +394,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [
@@ -520,7 +516,6 @@
     "IntEREst": [],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEu": [],
@@ -535,7 +530,6 @@
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "lpNet": [],
@@ -556,7 +550,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "mariner": [],
@@ -594,7 +587,6 @@
     "MetaCyto": [],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [
@@ -658,7 +650,6 @@
     "mitoClone2": [],
     "MMUPHin": [],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "monaLisa": [],
@@ -675,11 +666,9 @@
     "motifmatchr": [],
     "motifStack": [],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
-    "MsExperiment": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -691,9 +680,7 @@
         "msmsEDA",
         "msmsTests"
     ],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsLiP": [
         "MSstatsPTM"
     ],
@@ -719,7 +706,6 @@
     "NanoMethViz": [],
     "nanotatoR": [],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "NCIgraph": [],
@@ -875,7 +861,6 @@
         "motifStack"
     ],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RITAN": [],
@@ -1052,9 +1037,7 @@
         "methylumi",
         "minfi"
     ],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "XDE": [],
     "Xeva": [
         "PharmacoGx"
