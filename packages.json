@@ -94,9 +94,7 @@
     "BLMA": [
         "ROntoTools"
     ],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -274,9 +272,7 @@
     "DAPAR": [
         "clusterProfiler"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "flowDensity"
     ],
@@ -343,7 +339,6 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epiNEM": [],
     "EpiTxDb": [],
     "epivizr": [],
     "epivizrChart": [],
@@ -655,9 +650,7 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netOmics": [
         "RandomWalkRestartMH"
     ],
