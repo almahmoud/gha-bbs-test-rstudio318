@@ -264,7 +264,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "gwascat"
     ],
@@ -1044,7 +1043,6 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [],
     "nempi": [
         "epiNEM"
     ],
@@ -1314,7 +1312,6 @@
     "RUVSeq": [],
     "safe": [],
     "sampleClassifier": [],
-    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
