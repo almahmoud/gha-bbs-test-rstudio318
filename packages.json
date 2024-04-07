@@ -72,9 +72,7 @@
     ],
     "AnnotationHubData": [],
     "APAlyzer": [],
-    "appreci8R": [
-        "GenomicScores"
-    ],
+    "appreci8R": [],
     "arrayMvout": [
         "lumi",
         "methylumi",
@@ -93,7 +91,6 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "GenomicScores",
         "TFBSTools",
         "motifStack"
     ],
@@ -131,7 +128,6 @@
     ],
     "BiocHail": [],
     "BiocOncoTK": [],
-    "BiocSklearn": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -145,7 +141,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "bsseq",
         "dmrseq"
     ],
     "blacksheepr": [],
@@ -161,8 +156,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -172,7 +166,6 @@
         "ggbio"
     ],
     "brendaDb": [],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -257,7 +250,6 @@
         "DMRcate",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -292,7 +284,6 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [],
     "clipper": [],
     "cliqueMS": [
         "MsExperiment",
@@ -321,8 +312,7 @@
     "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "comapr": [
         "Gviz",
@@ -469,8 +459,7 @@
     ],
     "DelayedTensor": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxSNP": [],
     "DEP": [],
@@ -494,14 +483,11 @@
     "DMRcate": [
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "bsseq"
-    ],
+    "dmrseq": [],
     "DominoEffect": [],
     "doubletrouble": [],
     "dreamlet": [
@@ -512,9 +498,7 @@
         "zenith"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "EGSEA": [
         "GSVA",
         "pathview",
@@ -726,7 +710,6 @@
         "ggbio"
     ],
     "GenomicPlot": [],
-    "GenomicScores": [],
     "GenVisR": [],
     "gespeR": [
         "cellHTS2"
@@ -845,8 +828,7 @@
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "lemur": [],
     "lineagespot": [],
@@ -939,18 +921,15 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "MetCirc": [],
     "methInheritSim": [],
     "MethReg": [],
-    "methrix": [],
     "MethylAid": [
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -972,8 +951,7 @@
     ],
     "methylscaper": [],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -997,9 +975,7 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
     ],
@@ -1099,16 +1075,13 @@
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase",
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [],
     "ncdfFlow": [],
     "ncGTW": [
@@ -1225,7 +1198,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "biovizBase"
@@ -1285,9 +1257,7 @@
         "GENESIS"
     ],
     "RandomWalkRestartMH": [],
-    "RareVariantVis": [
-        "GenomicScores"
-    ],
+    "RareVariantVis": [],
     "Rbec": [],
     "rCGH": [],
     "RCM": [],
@@ -1353,7 +1323,6 @@
         "xcms"
     ],
     "RITAN": [],
-    "RJMCMCNucleosomes": [],
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
@@ -1419,9 +1388,7 @@
     "scider": [],
     "scifer": [],
     "scMerge": [],
-    "scmeth": [
-        "bsseq"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
@@ -1509,9 +1476,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "SOMNiBUS": [
-        "bsseq"
-    ],
+    "SOMNiBUS": [],
     "SpacePAC": [],
     "Spaniel": [],
     "sparrow": [],
@@ -1529,7 +1494,6 @@
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
-    "SpliceWiz": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
@@ -1627,7 +1591,6 @@
     "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
-        "GenomicScores",
         "Gviz",
         "biovizBase"
     ],
