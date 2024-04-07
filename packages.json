@@ -385,7 +385,6 @@
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -393,7 +392,6 @@
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowAI",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow"
@@ -568,7 +566,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "flowAI": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP",
@@ -1282,7 +1279,6 @@
     "RTCGAToolbox": [],
     "RUVSeq": [],
     "safe": [],
-    "sampleClassifier": [],
     "SBGNview": [
         "pathview"
     ],
