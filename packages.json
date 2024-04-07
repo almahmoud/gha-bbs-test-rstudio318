@@ -315,7 +315,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "flowMeans",
         "flowMerge"
     ],
     "consensusDE": [
@@ -369,7 +368,6 @@
         "CATALYST"
     ],
     "cytomapper": [],
-    "cytoMEM": [],
     "CytoML": [
         "flowViz",
         "flowWorkspace",
@@ -576,7 +574,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMeans": [],
     "flowMerge": [],
     "flowStats": [
         "flowViz",
@@ -1031,9 +1028,7 @@
         "flowWorkspace"
     ],
     "oppar": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -1250,7 +1245,6 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [],
     "RTCGAToolbox": [],
     "RUVSeq": [],
     "safe": [],
