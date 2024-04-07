@@ -592,10 +592,8 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx"
@@ -668,7 +666,6 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "HiCool": [],
     "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
