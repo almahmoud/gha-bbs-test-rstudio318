@@ -379,21 +379,18 @@
         "flowViz",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [
         "cytomapper"
@@ -584,16 +581,14 @@
     ],
     "flowGate": [
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMeans": [],
     "flowMerge": [],
     "FlowSOM": [],
     "flowStats": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTrans": [
         "flowViz"
@@ -602,12 +597,9 @@
     "flowVS": [
         "flowStats",
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "FRASER": [],
     "funtooNorm": [
         "minfi"
@@ -669,8 +661,7 @@
         "biovizBase"
     ],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggspavis": [],
     "gmapR": [],
@@ -734,8 +725,7 @@
         "cytomapper"
     ],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "iNETgrate": [
         "Pigengene",
@@ -1006,7 +996,6 @@
     ],
     "NanoMethViz": [],
     "nanotatoR": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "MsExperiment",
         "xcms"
@@ -1049,8 +1038,7 @@
     ],
     "openCyto": [
         "flowViz",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "oppar": [],
     "optimalFlow": [
@@ -1078,8 +1066,7 @@
         "CoreGx"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [],
     "PharmacoGx": [
