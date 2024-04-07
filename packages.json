@@ -113,9 +113,7 @@
     "CEMiTool": [
         "clusterProfiler"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler"
     ],
@@ -188,9 +186,7 @@
         "Gviz"
     ],
     "cyanoFilter": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [
         "CATALYST"
     ],
@@ -229,7 +225,6 @@
         "derfinder",
         "ggbio"
     ],
-    "diffcyt": [],
     "DMRcate": [
         "Gviz",
         "methylumi",
@@ -710,9 +705,7 @@
     ],
     "tradeSeq": [],
     "traviz": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TVTB": [
         "Gviz"
     ],
