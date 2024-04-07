@@ -165,7 +165,6 @@
     ],
     "clusterExperiment": [],
     "clusterProfiler": [],
-    "CNORdt": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -260,7 +259,6 @@
     "DeMixT": [
         "DSS"
     ],
-    "DEP": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
@@ -630,7 +628,6 @@
         "flowWorkspace"
     ],
     "PharmacoGx": [],
-    "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
         "ReactomePA",
