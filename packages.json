@@ -243,7 +243,6 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DaMiRseq": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -362,9 +361,7 @@
     "flowWorkspace": [],
     "funtooNorm": [],
     "GA4GHshiny": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "flowFP"
     ],
