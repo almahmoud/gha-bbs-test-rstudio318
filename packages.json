@@ -766,9 +766,7 @@
         "MsExperiment",
         "xcms"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -1048,7 +1046,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "pogos": [],
     "POWSC": [],
     "prebs": [
@@ -1230,7 +1227,6 @@
     "scClassify": [],
     "scFeatures": [],
     "scider": [],
-    "scifer": [],
     "scMerge": [],
     "scmeth": [],
     "scone": [
@@ -1406,9 +1402,7 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
