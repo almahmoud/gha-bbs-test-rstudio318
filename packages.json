@@ -1,7 +1,6 @@
 {
     "a4": [],
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "ADaCGH2": [
@@ -129,7 +128,6 @@
     ],
     "biovizBase": [],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq",
         "dmrseq"
     ],
@@ -221,13 +219,9 @@
         "enrichplot"
     ],
     "cfdnakit": [
-        "CGHcall",
         "QDNAseq"
     ],
-    "CGHcall": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -600,7 +594,6 @@
     ],
     "gDRstyle": [],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "GeneStructureTools": [
@@ -1075,9 +1068,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "qPLEXanalyzer": [],
     "quantro": [
         "minfi"
