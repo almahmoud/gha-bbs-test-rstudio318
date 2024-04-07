@@ -218,9 +218,7 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "clipper": [],
     "cliqueMS": [
         "MsExperiment",
@@ -1012,8 +1010,6 @@
         "RcwlPipelines"
     ],
     "rgsepd": [],
-    "Rhisat2": [],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
