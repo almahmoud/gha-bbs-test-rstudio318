@@ -796,7 +796,6 @@
         "minfi"
     ],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1200,7 +1199,6 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler",
         "enrichplot"
@@ -1250,7 +1248,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
