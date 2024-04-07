@@ -92,7 +92,6 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "RTCGAToolbox",
         "ReactomePA",
         "cBioPortalData",
         "clusterProfiler"
@@ -159,7 +158,6 @@
         "xcms"
     ],
     "canceR": [
-        "RTCGAToolbox",
         "cBioPortalData",
         "phenoTest"
     ],
@@ -170,12 +168,9 @@
         "GOstats"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "clusterProfiler"
     ],
@@ -561,7 +556,6 @@
         "GOstats"
     ],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "goSorensen": [
@@ -1078,7 +1072,6 @@
         "GenomicFiles",
         "biovizBase"
     ],
-    "RTCGAToolbox": [],
     "RUVSeq": [],
     "safe": [],
     "SBGNview": [
