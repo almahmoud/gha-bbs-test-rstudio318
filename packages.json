@@ -604,7 +604,6 @@
     "flowMerge": [
         "flowClust"
     ],
-    "flowPloidy": [],
     "FlowSOM": [],
     "flowSpecs": [],
     "flowStats": [
@@ -1324,7 +1323,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "Sconify": [],
     "scoreInvHap": [],
     "scp": [],
     "scRNAseqApp": [
