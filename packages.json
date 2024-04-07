@@ -84,9 +84,7 @@
     "biomvRCNS": [
         "Gviz"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biscuiteer": [
         "QDNAseq",
         "dmrseq"
@@ -276,8 +274,7 @@
         "flowDensity"
     ],
     "debrowser": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "decontX": [],
     "deconvR": [],
@@ -306,13 +303,11 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe",
         "zenith"
     ],
     "DSS": [],
     "EGSEA": [
-        "pathview",
         "safe"
     ],
     "ELMER": [
@@ -324,7 +319,6 @@
     "ENmix": [],
     "EnrichmentBrowser": [
         "SPIA",
-        "pathview",
         "safe"
     ],
     "enrichTF": [
@@ -402,8 +396,7 @@
         "flowFP"
     ],
     "GDCRNATools": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "gDNAx": [],
     "gDR": [
@@ -445,12 +438,10 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ],
     "GUIDEseq": [],
     "Gviz": [],
-    "Harshlight": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -507,8 +498,7 @@
         "methylumi"
     ],
     "MAGeCKFlute": [
-        "clusterProfiler",
-        "pathview"
+        "clusterProfiler"
     ],
     "MAIT": [
         "CAMERA",
@@ -688,7 +678,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -696,7 +685,6 @@
     "PeacoQC": [
         "flowWorkspace"
     ],
-    "peakPantheR": [],
     "PharmacoGx": [],
     "phenoTest": [],
     "PhyloProfile": [],
@@ -820,9 +808,7 @@
     "Rqc": [],
     "RUVSeq": [],
     "safe": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "scClassify": [],
     "scFeatures": [],
     "scMerge": [],
@@ -958,7 +944,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "safe"
     ]
 }
