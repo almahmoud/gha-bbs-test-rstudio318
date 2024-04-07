@@ -175,7 +175,6 @@
         "flowMerge"
     ],
     "consensusDE": [],
-    "consensusOV": [],
     "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
@@ -696,9 +695,7 @@
     "signatureSearch": [
         "clusterProfiler"
     ],
-    "signifinder": [
-        "consensusOV"
-    ],
+    "signifinder": [],
     "SimBu": [],
     "simpleSeg": [],
     "simplifyEnrichment": [],
