@@ -419,7 +419,6 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "gDRstyle": [],
     "GeneBreak": [
         "QDNAseq"
     ],
@@ -696,7 +695,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -952,7 +950,6 @@
     "VariantFiltering": [
         "Gviz"
     ],
-    "VaSP": [],
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
