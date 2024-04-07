@@ -319,7 +319,6 @@
         "slingshot"
     ],
     "CONFESS": [
-        "flowClust",
         "flowMeans",
         "flowMerge"
     ],
@@ -364,12 +363,10 @@
     ],
     "customProDB": [],
     "cyanoFilter": [
-        "flowClust",
         "flowDensity",
         "flowViz"
     ],
     "cycle": [],
-    "CytoDx": [],
     "CyTOFpower": [
         "FlowSOM",
         "diffcyt"
@@ -381,7 +378,6 @@
     "cytomapper": [],
     "cytoMEM": [],
     "CytoML": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -581,7 +577,6 @@
     ],
     "flowCHIC": [],
     "flowClean": [],
-    "flowClust": [],
     "flowCut": [
         "flowDensity",
         "flowViz"
@@ -598,9 +593,7 @@
         "ncdfFlow"
     ],
     "flowMeans": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "FlowSOM": [],
     "flowStats": [
         "flowViz",
@@ -608,7 +601,6 @@
         "ncdfFlow"
     ],
     "flowTrans": [
-        "flowClust",
         "flowViz"
     ],
     "flowViz": [],
@@ -1062,7 +1054,6 @@
         "HelloRanges"
     ],
     "openCyto": [
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ncdfFlow"
