@@ -227,7 +227,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "cbpManager": [],
     "CCPROMISE": [],
     "celaref": [],
     "cellHTS2": [],
@@ -1337,7 +1336,6 @@
         "Rcwl",
         "RcwlPipelines"
     ],
-    "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
@@ -1416,8 +1414,7 @@
     "scClassify": [],
     "scDataviz": [],
     "scFeatures": [
-        "GSVA",
-        "SingleCellSignalR"
+        "GSVA"
     ],
     "scider": [],
     "scifer": [],
@@ -1431,7 +1428,6 @@
     "Sconify": [],
     "scoreInvHap": [],
     "scp": [],
-    "scPipe": [],
     "scRNAseqApp": [
         "slingshot"
     ],
@@ -1489,7 +1485,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "TSCAN",
