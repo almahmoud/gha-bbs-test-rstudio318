@@ -44,16 +44,11 @@
     "ASpli": [
         "Gviz"
     ],
-    "ATACCoGAPS": [
-        "chromVAR",
-        "motifmatchr"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -146,7 +141,6 @@
     "ChIPexoQual": [],
     "ChIPQC": [],
     "ChIPseeker": [],
-    "chromVAR": [],
     "cicero": [
         "Gviz"
     ],
@@ -265,16 +259,13 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
     "EnrichmentBrowser": [
         "safe"
     ],
     "enrichTF": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "enrichViewNet": [],
     "EpiCompare": [
@@ -292,8 +283,7 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "escape": [],
     "ExperimentHubData": [],
@@ -512,7 +502,6 @@
         "Gviz",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "msgbsR": [
         "ggbio"
@@ -572,9 +561,7 @@
     ],
     "optimalFlow": [],
     "OutSplice": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -731,8 +718,7 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "SPLINTER": [
         "Gviz"
