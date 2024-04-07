@@ -703,9 +703,7 @@
     ],
     "lemur": [],
     "lineagespot": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
@@ -975,7 +973,6 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
@@ -1278,7 +1275,6 @@
     "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
