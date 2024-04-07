@@ -597,7 +597,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
         "flowClust"
@@ -758,7 +757,6 @@
         "enrichplot",
         "minfi"
     ],
-    "infinityFlow": [],
     "intansv": [
         "biovizBase",
         "ggbio"
