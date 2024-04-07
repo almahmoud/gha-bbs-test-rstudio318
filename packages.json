@@ -160,7 +160,6 @@
         "cBioPortalData",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [],
     "CATALYST": [],
     "categoryCompare": [
@@ -813,7 +812,6 @@
     ],
     "MungeSumstats": [],
     "musicatk": [],
-    "MutationalPatterns": [],
     "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
@@ -986,9 +984,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "ReUseData": [
         "RcwlPipelines"
     ],
@@ -1082,7 +1078,6 @@
         "ChIPseeker",
         "clusterProfiler"
     ],
-    "seqCAT": [],
     "SeqSQC": [],
     "SGCP": [
         "GOstats"
