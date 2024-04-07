@@ -893,7 +893,6 @@
         "DSS"
     ],
     "MetCirc": [],
-    "methInheritSim": [],
     "MethReg": [],
     "MethylAid": [
         "minfi"
@@ -913,7 +912,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [
         "Gviz",
         "biovizBase"
