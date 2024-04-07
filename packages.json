@@ -121,7 +121,6 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "biovizBase",
         "derfinder",
         "derfinderPlot",
@@ -136,7 +135,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -147,7 +145,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -265,9 +262,7 @@
         "RUVSeq"
     ],
     "consensusOV": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "minfi"
     ],
@@ -354,11 +349,8 @@
     ],
     "demuxSNP": [],
     "DEP": [],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "biovizBase",
         "derfinder",
         "ggbio"
@@ -407,7 +399,6 @@
         "motifmatchr"
     ],
     "enrichViewNet": [],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker"
@@ -430,9 +421,7 @@
         "epivizr",
         "epivizrData"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -504,9 +493,7 @@
         "clusterProfiler",
         "pathview"
     ],
-    "gDNAx": [
-        "GenomicFiles"
-    ],
+    "gDNAx": [],
     "gDR": [
         "PharmacoGx",
         "gDRimport"
@@ -522,7 +509,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
         "biovizBase"
@@ -532,7 +518,6 @@
         "ggbio"
     ],
     "GenomicPlot": [],
-    "GenVisR": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -604,9 +589,7 @@
         "ggbio"
     ],
     "interactiveDisplay": [],
-    "IntEREst": [
-        "GenomicFiles"
-    ],
+    "IntEREst": [],
     "IPO": [
         "CAMERA",
         "MsExperiment",
@@ -917,9 +900,7 @@
         "DAPAR",
         "clusterProfiler"
     ],
-    "ProteoDisco": [],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -939,9 +920,7 @@
         "GraphPAC",
         "SpacePAC"
     ],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
         "biovizBase",
         "ggbio"
@@ -956,7 +935,6 @@
     "ReactomePA": [],
     "rebook": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [
@@ -965,7 +943,6 @@
     "REDseq": [],
     "RegionalST": [],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -1001,7 +978,6 @@
     "RLSeq": [],
     "RMassBank": [],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1028,7 +1004,6 @@
         "biovizBase"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1038,7 +1013,6 @@
     ],
     "ROntoTools": [],
     "Rqc": [
-        "GenomicFiles",
         "biovizBase"
     ],
     "RUVSeq": [],
@@ -1053,7 +1027,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "scoreInvHap": [],
     "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
@@ -1100,7 +1073,6 @@
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "skewr": [
@@ -1140,13 +1112,8 @@
         "cellHTS2"
     ],
     "statTarget": [],
-    "StructuralVariantAnnotation": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "synapter": [],
     "tadar": [
         "Gviz",
@@ -1178,8 +1145,7 @@
     "trio": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "Ularcirc": [],
     "uncoverappLib": [
@@ -1193,9 +1159,7 @@
     ],
     "VariantTools": [],
     "VaSP": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "Voyager": [],
     "vtpnet": [
         "gwascat"
