@@ -981,9 +981,7 @@
         "GOstats"
     ],
     "pogos": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [
         "rCGH"
     ],
@@ -1138,7 +1136,6 @@
         "minfi"
     ],
     "ROntoTools": [],
-    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
