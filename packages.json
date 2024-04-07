@@ -122,8 +122,7 @@
         "xcms"
     ],
     "canceR": [
-        "cBioPortalData",
-        "phenoTest"
+        "cBioPortalData"
     ],
     "CATALYST": [],
     "categoryCompare": [
@@ -180,7 +179,6 @@
     "clusterProfiler": [],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -295,7 +293,6 @@
     "dmrseq": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe",
         "zenith"
     ],
@@ -311,7 +308,6 @@
     ],
     "ENmix": [],
     "EnrichmentBrowser": [
-        "SPIA",
         "safe"
     ],
     "enrichTF": [
@@ -430,7 +426,6 @@
     "GOstats": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe"
     ],
     "GUIDEseq": [],
@@ -469,7 +464,6 @@
     ],
     "iSEEu": [],
     "karyoploteR": [],
-    "KEGGlincs": [],
     "kissDE": [
         "DSS"
     ],
@@ -516,9 +510,7 @@
         "methylumi",
         "wateRmelon"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "meshes": [],
     "meshr": [],
     "MetaboAnnotation": [],
@@ -676,7 +668,6 @@
         "flowWorkspace"
     ],
     "PharmacoGx": [],
-    "phenoTest": [],
     "PhyloProfile": [],
     "Pi": [],
     "Pigengene": [
@@ -860,7 +851,6 @@
         "Gviz",
         "motifmatchr"
     ],
-    "SPIA": [],
     "SPLINTER": [
         "Gviz"
     ],
@@ -931,7 +921,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
         "safe"
     ]
 }
