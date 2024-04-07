@@ -589,7 +589,6 @@
         "pcaExplorer"
     ],
     "igvR": [],
-    "IMAS": [],
     "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
@@ -617,14 +616,12 @@
     "karyoploteR": [
         "biovizBase"
     ],
-    "katdetectr": [],
     "KCsmart": [],
     "KEGGlincs": [],
     "kissDE": [
         "DSS"
     ],
     "lemur": [],
-    "lineagespot": [],
     "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
@@ -1091,7 +1088,6 @@
     "signatureSearch": [
         "clusterProfiler"
     ],
-    "signeR": [],
     "signifinder": [
         "consensusOV"
     ],
