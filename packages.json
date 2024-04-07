@@ -166,7 +166,6 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -1270,7 +1269,6 @@
     "RegEnrich": [],
     "regionalpcs": [],
     "RegionalST": [],
-    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
