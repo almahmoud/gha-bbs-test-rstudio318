@@ -45,13 +45,9 @@
         "Gviz"
     ],
     "ATACCoGAPS": [],
-    "ATACseqQC": [
-        "motifStack"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "attract": [],
     "bandle": [],
     "bigmelon": [
@@ -219,9 +215,7 @@
         "ggcyto"
     ],
     "cytoviewer": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAPAR": [
         "clusterProfiler"
     ],
@@ -497,10 +491,8 @@
         "clusterProfiler"
     ],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
-    "motifStack": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -524,7 +516,6 @@
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "nanotatoR": [],
@@ -629,9 +620,7 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "Risa": [
         "xcms"
     ],
