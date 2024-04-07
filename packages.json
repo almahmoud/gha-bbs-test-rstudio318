@@ -24,7 +24,6 @@
         "AnnotationHubData"
     ],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.ranges",
         "alabaster.sce",
@@ -32,7 +31,6 @@
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
     "alabaster.files": [],
     "alabaster.mae": [
         "alabaster.ranges",
