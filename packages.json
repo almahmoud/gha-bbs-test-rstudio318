@@ -89,9 +89,7 @@
         "QDNAseq",
         "dmrseq"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "bnem": [],
     "BOBaFIT": [
         "ggbio"
@@ -175,7 +173,6 @@
     ],
     "circRNAprofiler": [],
     "CircSeqAlignTk": [],
-    "clipper": [],
     "cliqueMS": [
         "xcms"
     ],
@@ -184,7 +181,6 @@
     "clusterProfiler": [],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -571,9 +567,7 @@
     ],
     "MinimumDistance": [],
     "MIRA": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "GOstats"
     ],
@@ -804,7 +798,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "ROntoTools": [],
     "Rqc": [],
     "RUVSeq": [],
     "safe": [],
