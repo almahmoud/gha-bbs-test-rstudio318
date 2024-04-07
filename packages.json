@@ -533,9 +533,7 @@
         "enrichplot"
     ],
     "fcScan": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -721,7 +719,6 @@
     ],
     "iSEEde": [],
     "iSEEhex": [],
-    "iSEEhub": [],
     "iSEEindex": [],
     "iSEEpathways": [],
     "iSEEu": [
@@ -1300,7 +1297,6 @@
     ],
     "simplifyEnrichment": [],
     "singleCellTK": [
-        "TSCAN",
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
@@ -1408,7 +1404,6 @@
     "trio": [],
     "tRNAdbImport": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "TurboNorm": [],
     "TVTB": [
         "Gviz",
