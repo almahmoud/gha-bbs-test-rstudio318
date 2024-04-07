@@ -2,9 +2,7 @@
     "ACE": [
         "QDNAseq"
     ],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "GOstats",
         "ReportingTools",
@@ -135,7 +133,6 @@
     "CBNplot": [
         "clusterProfiler"
     ],
-    "cellHTS2": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -161,9 +158,7 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [],
     "chromVAR": [],
     "cicero": [
@@ -202,9 +197,7 @@
     "CONFESS": [
         "flowMerge"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [],
     "contiBAIT": [],
     "conumee": [],
@@ -281,7 +274,6 @@
         "ggbio"
     ],
     "DEScan2": [],
-    "DiffBind": [],
     "diffcyt": [],
     "DMRcate": [
         "Gviz",
@@ -405,9 +397,7 @@
     "GenomicOZone": [
         "ggbio"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [],
     "ggcyto": [
         "flowWorkspace"
@@ -510,7 +500,6 @@
     ],
     "MEIGOR": [],
     "meshes": [],
-    "meshr": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools"
@@ -630,9 +619,7 @@
         "quantro",
         "yarn"
     ],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "OGRE": [
         "Gviz"
     ],
@@ -685,8 +672,7 @@
     ],
     "PrInCE": [],
     "profileplyr": [
-        "ChIPseeker",
-        "soGGi"
+        "ChIPseeker"
     ],
     "pRoloc": [],
     "pRolocGUI": [
@@ -705,7 +691,6 @@
         "Gviz"
     ],
     "QDNAseq": [],
-    "qPLEXanalyzer": [],
     "quantro": [],
     "QuartPAC": [],
     "QuasR": [],
@@ -745,7 +730,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "Risa": [
@@ -757,9 +741,7 @@
         "derfinder",
         "recount"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz"
     ],
@@ -783,24 +765,20 @@
         "methylumi"
     ],
     "Rqc": [],
-    "RUVSeq": [],
     "safe": [],
     "SBGNview": [],
     "scClassify": [],
     "scFeatures": [],
     "scMerge": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
     "scTensor": [
         "GOstats",
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTreeViz": [
         "epivizr"
@@ -838,8 +816,6 @@
         "methylumi",
         "wateRmelon"
     ],
-    "snapCGH": [],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -855,12 +831,8 @@
     "srnadiff": [
         "Gviz"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "standR": [],
+    "staRank": [],
     "statTarget": [],
     "svaNUMT": [],
     "svaRetro": [],
@@ -899,9 +871,7 @@
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "lumi",
         "methylumi"
