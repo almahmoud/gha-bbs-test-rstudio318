@@ -651,7 +651,6 @@
     "HiCDOC": [
         "multiHiCcompare"
     ],
-    "hoodscanR": [],
     "HTSeqGenie": [
         "VariantTools",
         "gmapR"
@@ -1047,7 +1046,6 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [],
     "psygenet2r": [],
     "ptairMS": [],
     "PureCN": [],
