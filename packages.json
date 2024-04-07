@@ -988,7 +988,6 @@
         "minfi"
     ],
     "REDseq": [],
-    "RegEnrich": [],
     "RegionalST": [],
     "regionReport": [
         "GenomicFiles",
@@ -1102,7 +1101,6 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [],
     "seqArchRplus": [
         "ChIPseeker",
         "clusterProfiler"
