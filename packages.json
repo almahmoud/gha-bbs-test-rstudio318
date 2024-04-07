@@ -217,7 +217,6 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "condiments": [],
     "CONFESS": [
         "flowMerge"
@@ -458,7 +457,6 @@
         "clusterProfiler"
     ],
     "GOstats": [],
-    "GraphPAC": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "SPIA",
@@ -555,9 +553,7 @@
     ],
     "meshes": [],
     "meshr": [],
-    "MetaboAnnotation": [
-        "CompoundDb"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "MWASTools"
     ],
@@ -696,7 +692,6 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [],
     "omicRexposome": [
         "made4",
         "omicade4"
@@ -772,9 +767,7 @@
     "QDNAseq": [],
     "qPLEXanalyzer": [],
     "quantro": [],
-    "QuartPAC": [
-        "GraphPAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [],
     "R3CPET": [
         "ggbio"
