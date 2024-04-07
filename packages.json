@@ -237,7 +237,6 @@
         "QDNAseq"
     ],
     "cfDNAPro": [],
-    "cfTools": [],
     "CGHcall": [],
     "CGHnormaliter": [
         "CGHcall"
@@ -1571,7 +1570,6 @@
     "Ularcirc": [
         "plotgardener"
     ],
-    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
