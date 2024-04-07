@@ -452,7 +452,6 @@
         "CAMERA",
         "xcms"
     ],
-    "lpNet": [],
     "lumi": [
         "methylumi"
     ],
@@ -491,9 +490,7 @@
     "MEIGOR": [],
     "meshes": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [],
     "metaMS": [
         "CAMERA",
@@ -582,7 +579,6 @@
         "karyoploteR"
     ],
     "musicatk": [],
-    "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
@@ -824,7 +820,6 @@
         "clusterProfiler"
     ],
     "TNBC.CMS": [],
-    "topdownr": [],
     "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
