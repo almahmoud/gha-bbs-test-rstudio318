@@ -603,7 +603,6 @@
         "flowClust"
     ],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "flowViz",
         "flowWorkspace",
@@ -662,7 +661,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GENESIS": [],
     "GeneStructureTools": [
         "Gviz",
         "biovizBase"
@@ -1185,9 +1183,7 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
     "Rbec": [],
