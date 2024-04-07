@@ -292,7 +292,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CoreGx": [],
     "cosmiq": [
         "MsExperiment",
         "xcms"
@@ -541,12 +540,10 @@
         "GenomicFiles"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRimport"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "gDRstyle": [],
@@ -654,7 +651,6 @@
         "xcms"
     ],
     "iSEEu": [],
-    "IsoformSwitchAnalyzeR": [],
     "karyoploteR": [
         "biovizBase"
     ],
@@ -937,16 +933,12 @@
     "pcaExplorer": [
         "GOstats"
     ],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "PeacoQC": [
         "flowWorkspace"
     ],
     "peakPantheR": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [],
     "phenoTest": [],
     "PhyloProfile": [],
@@ -1017,9 +1009,7 @@
         "ggbio"
     ],
     "R453Plus1Toolbox": [],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [],
@@ -1248,7 +1238,6 @@
         "enrichplot"
     ],
     "tenXplore": [],
-    "terraTCGAdata": [],
     "TFHAZ": [],
     "TimiRGeN": [
         "clusterProfiler",
@@ -1258,9 +1247,7 @@
     "tLOH": [],
     "TNBC.CMS": [],
     "topdownr": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "Gviz",
         "biovizBase"
@@ -1312,7 +1299,6 @@
     ],
     "XDE": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "YAPSA": [
