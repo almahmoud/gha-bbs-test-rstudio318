@@ -317,7 +317,6 @@
     "DeMixT": [
         "DSS"
     ],
-    "demuxSNP": [],
     "DEP": [],
     "derfinder": [],
     "derfinderPlot": [
@@ -334,7 +333,6 @@
         "missMethyl"
     ],
     "dmrseq": [],
-    "DominoEffect": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
@@ -375,16 +373,10 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [],
     "esATAC": [
@@ -962,8 +954,7 @@
         "meshr"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "ChIPseeker"
