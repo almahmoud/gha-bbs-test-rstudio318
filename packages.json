@@ -301,9 +301,7 @@
         "methylPipe"
     ],
     "CompoundDb": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "flowMerge"
     ],
@@ -356,7 +354,6 @@
     "cytofQC": [
         "CATALYST"
     ],
-    "cytomapper": [],
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
@@ -373,9 +370,7 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "motifStack"
     ],
@@ -674,9 +669,7 @@
     ],
     "igvR": [],
     "IMAS": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "ImmuneSpaceR": [
         "flowWorkspace"
     ],
@@ -1207,9 +1200,7 @@
     ],
     "scoreInvHap": [],
     "scp": [],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "biovizBase",
         "ggbio"
@@ -1257,9 +1248,7 @@
     "SigsPack": [],
     "SimBindProfiles": [],
     "SimBu": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "simplifyEnrichment": [],
     "singleCellTK": [
         "scMerge"
@@ -1274,7 +1263,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [],
     "snapCGH": [],
     "SNPhood": [],
@@ -1302,7 +1290,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [],
     "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
@@ -1354,15 +1341,11 @@
         "Gviz",
         "biovizBase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "transformGamPoi": [],
     "tRanslatome": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "diffcyt"
     ],
