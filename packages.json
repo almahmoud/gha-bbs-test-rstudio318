@@ -381,22 +381,17 @@
     ],
     "COTAN": [],
     "CRImage": [],
-    "crisprDesign": [
-        "crisprScore"
-    ],
-    "crisprScore": [],
+    "crisprDesign": [],
     "crisprVerse": [
         "Gviz",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
         "biovizBase",
-        "crisprDesign",
-        "crisprScore"
+        "crisprDesign"
     ],
     "CTSV": [],
     "cummeRbund": [
@@ -1237,7 +1232,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [],
     "PloGO2": [
         "GOstats"
     ],
@@ -1447,7 +1441,6 @@
         "Cepo"
     ],
     "scDataviz": [],
-    "scDD": [],
     "scFeatures": [
         "GSVA",
         "SingleCellSignalR"
