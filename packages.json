@@ -81,9 +81,7 @@
     "BOBaFIT": [
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
@@ -244,9 +242,7 @@
     "deconvR": [],
     "DeepBlueR": [],
     "DEGraph": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
@@ -263,7 +259,6 @@
         "safe",
         "zenith"
     ],
-    "DSS": [],
     "EGSEA": [
         "safe"
     ],
@@ -421,9 +416,7 @@
     ],
     "iSEEu": [],
     "karyoploteR": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "lisaClust": [],
     "lmdme": [],
     "LOBSTAHS": [
@@ -476,9 +469,7 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
@@ -493,9 +484,7 @@
         "Gviz"
     ],
     "methylscaper": [],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -553,7 +542,6 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "nanotatoR": [],
     "ncGTW": [
         "xcms"
