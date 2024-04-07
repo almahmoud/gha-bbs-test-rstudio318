@@ -229,7 +229,6 @@
     "CGHnormaliter": [
         "CGHcall"
     ],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -862,9 +861,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "mirIntegrator": [
         "ROntoTools"
@@ -1407,7 +1404,6 @@
     ],
     "Uniquorn": [],
     "uSORT": [],
-    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "Gviz",
