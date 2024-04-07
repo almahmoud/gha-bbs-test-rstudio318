@@ -349,7 +349,6 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -493,7 +492,6 @@
         "flowWorkspace"
     ],
     "flowWorkspace": [],
-    "FRASER": [],
     "funtooNorm": [
         "minfi"
     ],
@@ -574,7 +572,6 @@
         "biovizBase"
     ],
     "gwascat": [],
-    "gwasurvivr": [],
     "Harshlight": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -762,9 +759,7 @@
         "methylumi",
         "minfi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMUPHin": [],
     "MobilityTransformR": [
         "MsExperiment",
