@@ -16,9 +16,7 @@
         "affycoretools",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.mae",
         "alabaster.sce",
@@ -43,7 +41,6 @@
     "AllelicImbalance": [
         "Gviz"
     ],
-    "AnnotationHubData": [],
     "appreci8R": [],
     "arrayMvout": [
         "lumi",
@@ -362,9 +359,7 @@
         "motifmatchr"
     ],
     "escape": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -571,7 +566,6 @@
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData"
     ],
     "methylGSA": [
@@ -755,7 +749,6 @@
         "derfinder",
         "recount"
     ],
-    "psygenet2r": [],
     "ptairMS": [],
     "Pviz": [
         "Gviz"
