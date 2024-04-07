@@ -603,9 +603,7 @@
     ],
     "oppar": [],
     "optimalFlow": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -644,7 +642,6 @@
         "derfinder",
         "recount"
     ],
-    "ptairMS": [],
     "Pviz": [
         "Gviz"
     ],
@@ -675,7 +672,6 @@
         "Gviz"
     ],
     "REMP": [],
-    "Repitools": [],
     "ReportingTools": [
         "ggbio"
     ],
