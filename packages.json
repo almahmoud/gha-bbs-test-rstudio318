@@ -576,7 +576,6 @@
     "gwascat": [],
     "gwasurvivr": [],
     "Harshlight": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -658,7 +657,6 @@
         "clusterProfiler",
         "pathview"
     ],
-    "magpie": [],
     "MAIT": [
         "CAMERA",
         "MsExperiment",
@@ -873,9 +871,7 @@
         "made4",
         "omicade4"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "openCyto": [
         "flowWorkspace"
     ],
