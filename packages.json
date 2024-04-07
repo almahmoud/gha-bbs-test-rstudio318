@@ -259,7 +259,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity"
     ],
@@ -432,10 +431,7 @@
     "funtooNorm": [
         "minfi"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq"
     ],
@@ -719,7 +715,6 @@
     "multicrispr": [
         "karyoploteR"
     ],
-    "MungeSumstats": [],
     "musicatk": [],
     "MWASTools": [],
     "NADfinder": [
