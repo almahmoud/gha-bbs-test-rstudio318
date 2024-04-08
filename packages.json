@@ -101,7 +101,6 @@
     "canceR": [
         "cBioPortalData"
     ],
-    "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [
         "cBioPortalData"
@@ -187,23 +186,18 @@
     ],
     "cyanoFilter": [],
     "CyTOFpower": [],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "cytoviewer": [],
@@ -290,17 +284,12 @@
     "flowBin": [],
     "flowCut": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "funtooNorm": [],
     "GA4GHshiny": [],
     "GARS": [],
@@ -330,9 +319,7 @@
     ],
     "gespeR": [],
     "ggbio": [],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "GmicR": [],
     "GNOSIS": [
         "cBioPortalData"
@@ -359,9 +346,7 @@
         "pcaExplorer"
     ],
     "imcRtools": [],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
         "ReactomePA",
@@ -516,9 +501,7 @@
         "omicade4"
     ],
     "OMICsPCA": [],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "OutSplice": [],
     "pageRank": [],
     "PanomiR": [
@@ -526,9 +509,7 @@
     ],
     "pcaExplorer": [],
     "PDATK": [],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "PharmacoGx": [],
     "Pi": [],
     "Pigengene": [
