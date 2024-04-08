@@ -245,12 +245,9 @@
     "GDCRNATools": [],
     "gDNAx": [],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "GeneBreak": [],
     "GeneStructureTools": [
         "Gviz"
@@ -426,7 +423,6 @@
     "PanomiR": [],
     "pcaExplorer": [],
     "PeacoQC": [],
-    "PharmacoGx": [],
     "Pi": [],
     "Pigengene": [],
     "PING": [
@@ -585,9 +581,7 @@
         "methylumi"
     ],
     "xcms": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures",
         "ggbio"
