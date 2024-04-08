@@ -1,7 +1,5 @@
 {
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools",
@@ -64,9 +62,7 @@
         "Gviz"
     ],
     "BioNetStat": [],
-    "biscuiteer": [
-        "QDNAseq"
-    ],
+    "biscuiteer": [],
     "BLMA": [],
     "bnem": [],
     "BOBaFIT": [
@@ -116,9 +112,7 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "cfdnakit": [
-        "QDNAseq"
-    ],
+    "cfdnakit": [],
     "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
@@ -305,9 +299,7 @@
     "gDRimport": [
         "PharmacoGx"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "GeneStructureTools": [
         "Gviz"
     ],
@@ -539,7 +531,6 @@
     "Pviz": [
         "Gviz"
     ],
-    "QDNAseq": [],
     "quantro": [],
     "QuartPAC": [],
     "QuasR": [],
