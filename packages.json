@@ -45,8 +45,7 @@
         "wateRmelon"
     ],
     "bioCancer": [
-        "ReactomePA",
-        "cBioPortalData"
+        "ReactomePA"
     ],
     "biomvRCNS": [
         "Gviz"
@@ -84,14 +83,9 @@
     "CAMERA": [
         "xcms"
     ],
-    "canceR": [
-        "cBioPortalData"
-    ],
+    "canceR": [],
     "categoryCompare": [],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "CBNplot": [],
     "CEMiTool": [],
     "censcyt": [],
@@ -211,7 +205,6 @@
         "safe"
     ],
     "enrichTF": [],
-    "enrichViewNet": [],
     "EpiCompare": [
         "ChIPseeker"
     ],
@@ -280,9 +273,7 @@
     "ggbio": [],
     "ggcyto": [],
     "GmicR": [],
-    "GNOSIS": [
-        "cBioPortalData"
-    ],
+    "GNOSIS": [],
     "goSorensen": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
