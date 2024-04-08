@@ -1,6 +1,5 @@
 {
     "ACE": [],
-    "ADaCGH2": [],
     "affycoretools": [
         "ReportingTools"
     ],
@@ -236,7 +235,6 @@
     "MineICA": [
         "lumi"
     ],
-    "mirIntegrator": [],
     "miRLAB": [],
     "missMethyl": [],
     "MobilityTransformR": [],
@@ -267,7 +265,6 @@
     "netZooR": [
         "yarn"
     ],
-    "octad": [],
     "OGRE": [],
     "omicade4": [
         "made4"
@@ -327,9 +324,7 @@
     ],
     "RnBeads": [],
     "safe": [],
-    "SBGNview": [],
     "scMerge": [],
-    "scone": [],
     "scruff": [],
     "scTensor": [],
     "scTreeViz": [],
