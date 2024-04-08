@@ -59,9 +59,7 @@
         "CAGEfightR",
         "GenomicInteractions"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [],
     "categoryCompare": [],
     "cbaf": [],
@@ -80,9 +78,7 @@
     "chimeraviz": [],
     "ChIPQC": [],
     "cicero": [],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "clusterExperiment": [],
     "CNVfilteR": [
         "CopyNumberPlots"
@@ -100,9 +96,7 @@
     "consensusDE": [],
     "conumee": [],
     "CopyNumberPlots": [],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "crisprVerse": [
         "crisprViz"
     ],
@@ -167,8 +161,7 @@
         "methylumi"
     ],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [],
     "flowBin": [],
@@ -217,14 +210,12 @@
     ],
     "intansv": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "kissDE": [],
     "lmdme": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "lumi": [
         "methylumi"
@@ -236,8 +227,7 @@
     ],
     "MAGeCKFlute": [],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maser": [],
     "MBASED": [],
@@ -255,8 +245,7 @@
     "MetaboAnnotation": [],
     "MetaboSignal": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [],
     "metaseqR2": [],
@@ -283,9 +272,7 @@
     "missMethyl": [
         "methylumi"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "Moonlight2R": [],
     "MoonlightR": [],
     "motifbreakR": [],
@@ -304,9 +291,7 @@
         "trackViewer"
     ],
     "nanotatoR": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nempi": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -362,9 +347,7 @@
     "ReUseData": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RLSeq": [],
     "RNAAgeCalc": [
         "recount"
@@ -433,7 +416,6 @@
         "lumi",
         "methylumi"
     ],
-    "xcms": [],
     "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
