@@ -178,9 +178,7 @@
     "iCheck": [
         "lumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene"
@@ -230,7 +228,6 @@
     "MineICA": [
         "lumi"
     ],
-    "miRLAB": [],
     "missMethyl": [],
     "MobilityTransformR": [],
     "Moonlight2R": [],
@@ -271,7 +268,6 @@
     "OutSplice": [],
     "pageRank": [],
     "PanomiR": [],
-    "pcaExplorer": [],
     "PeacoQC": [],
     "Pi": [],
     "Pigengene": [],
@@ -279,7 +275,6 @@
     "PloGO2": [],
     "primirTSS": [],
     "profileplyr": [],
-    "pRolocGUI": [],
     "Prostar": [
         "DAPAR"
     ],
