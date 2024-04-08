@@ -44,9 +44,7 @@
         "methylumi",
         "wateRmelon"
     ],
-    "bioCancer": [
-        "ReactomePA"
-    ],
+    "bioCancer": [],
     "biomvRCNS": [
         "Gviz"
     ],
@@ -294,8 +292,7 @@
     ],
     "ImmuneSpaceR": [],
     "iNETgrate": [
-        "Pigengene",
-        "ReactomePA"
+        "Pigengene"
     ],
     "intansv": [
         "ggbio"
@@ -440,9 +437,7 @@
     "PeacoQC": [],
     "PharmacoGx": [],
     "Pi": [],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [
         "Gviz"
     ],
@@ -472,7 +467,6 @@
         "ggbio"
     ],
     "RandomWalkRestartMH": [],
-    "ReactomePA": [],
     "rebook": [],
     "recount": [
         "derfinder"
@@ -535,9 +529,7 @@
     "scruff": [
         "ggbio"
     ],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTreeViz": [
         "epivizr"
     ],
