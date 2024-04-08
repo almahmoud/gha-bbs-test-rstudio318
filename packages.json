@@ -160,11 +160,8 @@
     "enrichTF": [],
     "EpiCompare": [],
     "epimutacions": [],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
@@ -410,9 +407,7 @@
     "scone": [],
     "scruff": [],
     "scTensor": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [],
     "seqArchRplus": [],
     "SeqSQC": [],
