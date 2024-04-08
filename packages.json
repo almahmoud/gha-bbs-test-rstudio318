@@ -46,8 +46,7 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "cBioPortalData",
-        "clusterProfiler"
+        "cBioPortalData"
     ],
     "biomvRCNS": [
         "Gviz"
@@ -93,16 +92,10 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "CBNplot": [
-        "clusterProfiler"
-    ],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CBNplot": [],
+    "CEMiTool": [],
     "censcyt": [],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "cfdnakit": [],
     "ChAMP": [
         "DMRcate",
@@ -127,7 +120,6 @@
         "xcms"
     ],
     "clusterExperiment": [],
-    "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -184,14 +176,10 @@
         "ggcyto"
     ],
     "dagLogo": [],
-    "DAPAR": [
-        "clusterProfiler"
-    ],
+    "DAPAR": [],
     "dce": [],
     "ddPCRclust": [],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "deconvR": [],
     "DeepBlueR": [],
     "DEGraph": [],
@@ -222,9 +210,7 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "enrichTF": [
-        "clusterProfiler"
-    ],
+    "enrichTF": [],
     "enrichViewNet": [],
     "EpiCompare": [
         "ChIPseeker"
@@ -239,17 +225,14 @@
     ],
     "erma": [],
     "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
     ],
-    "famat": [
-        "clusterProfiler"
-    ],
+    "famat": [],
     "ffpe": [
         "lumi",
         "methylumi"
@@ -274,9 +257,7 @@
     "GA4GHshiny": [],
     "GARS": [],
     "GateFinder": [],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "gDNAx": [],
     "gDR": [
         "PharmacoGx",
@@ -302,9 +283,7 @@
     "GNOSIS": [
         "cBioPortalData"
     ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -325,8 +304,7 @@
     "ImmuneSpaceR": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "intansv": [
         "ggbio"
@@ -351,9 +329,7 @@
         "RnBeads",
         "methylumi"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "MAIT": [
         "CAMERA",
         "xcms"
@@ -383,9 +359,7 @@
         "CAMERA",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [],
     "MethylAid": [],
     "methylCC": [],
@@ -393,7 +367,6 @@
         "ExperimentHubData"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "methylumi",
         "missMethyl"
     ],
@@ -403,9 +376,7 @@
     "methylscaper": [],
     "methylSig": [],
     "methylumi": [],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi",
         "methylumi"
@@ -419,12 +390,8 @@
     "MobilityTransformR": [
         "xcms"
     ],
-    "Moonlight2R": [
-        "clusterProfiler"
-    ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "Moonlight2R": [],
+    "MoonlightR": [],
     "motifbreakR": [
         "Gviz"
     ],
@@ -478,17 +445,14 @@
     "openCyto": [],
     "OutSplice": [],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [],
     "PharmacoGx": [],
     "Pi": [],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "PING": [
         "Gviz"
@@ -503,8 +467,7 @@
     ],
     "pRolocGUI": [],
     "Prostar": [
-        "DAPAR",
-        "clusterProfiler"
+        "DAPAR"
     ],
     "psichomics": [
         "derfinder",
@@ -594,16 +557,13 @@
         "ChIPseeker"
     ],
     "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "SeqSQC": [],
     "SGCP": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signifinder": [],
     "SimBu": [],
     "simplifyEnrichment": [],
@@ -640,9 +600,7 @@
         "Gviz"
     ],
     "TDbasedUFEadv": [],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "ToxicoGx": [],
     "trackViewer": [
         "Gviz"
