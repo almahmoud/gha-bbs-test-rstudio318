@@ -23,16 +23,12 @@
         "alabaster.sce"
     ],
     "alabaster.vcf": [],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "AllelicImbalance": [],
     "arrayMvout": [
         "lumi",
         "methylumi"
     ],
-    "ASpli": [
-        "Gviz"
-    ],
+    "ASpli": [],
     "ATACCoGAPS": [],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
@@ -45,9 +41,7 @@
         "wateRmelon"
     ],
     "bioCancer": [],
-    "biomvRCNS": [
-        "Gviz"
-    ],
+    "biomvRCNS": [],
     "BioNetStat": [],
     "biscuiteer": [],
     "BLMA": [],
@@ -67,16 +61,14 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "cageminer": [
         "ggbio"
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "CAMERA": [
         "xcms"
@@ -91,20 +83,15 @@
     "cfdnakit": [],
     "ChAMP": [
         "DMRcate",
-        "Gviz",
         "lumi",
         "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [
-        "Gviz"
-    ],
+    "chimeraviz": [],
     "ChIPexoQual": [],
     "ChIPQC": [],
-    "cicero": [
-        "Gviz"
-    ],
+    "cicero": [],
     "circRNAprofiler": [],
     "cliqueMS": [
         "xcms"
@@ -119,19 +106,13 @@
         "karyoploteR"
     ],
     "COCOA": [],
-    "comapr": [
-        "Gviz"
-    ],
-    "coMET": [
-        "Gviz"
-    ],
+    "comapr": [],
+    "coMET": [],
     "compEpiTools": [
-        "Gviz",
         "methylPipe"
     ],
     "CONFESS": [],
     "consensusDE": [],
-    "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -140,15 +121,10 @@
         "xcms"
     ],
     "crisprVerse": [
-        "Gviz",
         "crisprViz"
     ],
-    "crisprViz": [
-        "Gviz"
-    ],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "crisprViz": [],
+    "cummeRbund": [],
     "cyanoFilter": [],
     "CyTOFpower": [],
     "cytofQC": [],
@@ -180,7 +156,6 @@
         "ggbio"
     ],
     "DMRcate": [
-        "Gviz",
         "methylumi",
         "missMethyl"
     ],
@@ -192,9 +167,7 @@
     "EGSEA": [
         "safe"
     ],
-    "ELMER": [
-        "Gviz"
-    ],
+    "ELMER": [],
     "enhancerHomologSearch": [],
     "ENmix": [],
     "EnrichmentBrowser": [
@@ -202,9 +175,7 @@
     ],
     "enrichTF": [],
     "EpiCompare": [],
-    "epimutacions": [
-        "Gviz"
-    ],
+    "epimutacions": [],
     "epivizr": [],
     "epivizrChart": [],
     "epivizrStandalone": [
@@ -214,8 +185,7 @@
     "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "famat": [],
     "ffpe": [
@@ -249,12 +219,8 @@
     ],
     "gDRimport": [],
     "GeneBreak": [],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
-    "GenomicInteractions": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
+    "GenomicInteractions": [],
     "GenomicOZone": [
         "ggbio"
     ],
@@ -268,10 +234,8 @@
         "EnrichmentBrowser",
         "safe"
     ],
-    "Gviz": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HTSeqGenie": [],
     "iCheck": [
@@ -313,15 +277,10 @@
         "CAMERA",
         "xcms"
     ],
-    "maser": [
-        "Gviz"
-    ],
+    "maser": [],
     "MBASED": [],
-    "mCSEA": [
-        "Gviz"
-    ],
+    "mCSEA": [],
     "MEAL": [
-        "Gviz",
         "methylumi",
         "missMethyl"
     ],
@@ -348,9 +307,7 @@
         "methylumi",
         "missMethyl"
     ],
-    "methylPipe": [
-        "Gviz"
-    ],
+    "methylPipe": [],
     "methylscaper": [],
     "methylSig": [],
     "methylumi": [],
@@ -369,9 +326,7 @@
     ],
     "Moonlight2R": [],
     "MoonlightR": [],
-    "motifbreakR": [
-        "Gviz"
-    ],
+    "motifbreakR": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -388,7 +343,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "Gviz",
         "trackViewer"
     ],
     "nanotatoR": [],
@@ -407,9 +361,7 @@
         "yarn"
     ],
     "octad": [],
-    "OGRE": [
-        "Gviz"
-    ],
+    "OGRE": [],
     "omicade4": [
         "made4"
     ],
@@ -425,14 +377,10 @@
     "PeacoQC": [],
     "Pi": [],
     "Pigengene": [],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "PloGO2": [],
     "preciseTAD": [],
-    "primirTSS": [
-        "Gviz"
-    ],
+    "primirTSS": [],
     "profileplyr": [],
     "pRolocGUI": [],
     "Prostar": [
@@ -442,9 +390,7 @@
         "derfinder",
         "recount"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "quantro": [],
     "QuartPAC": [],
     "QuasR": [],
@@ -460,9 +406,7 @@
     "regionReport": [
         "derfinder"
     ],
-    "regutools": [
-        "Gviz"
-    ],
+    "regutools": [],
     "REMP": [],
     "ReportingTools": [
         "ggbio"
@@ -482,19 +426,14 @@
         "recount"
     ],
     "RNAinteract": [],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
@@ -543,37 +482,21 @@
         "ggbio"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
-    "SPLINTER": [
-        "Gviz"
-    ],
-    "srnadiff": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
+    "srnadiff": [],
     "standR": [],
     "staRank": [],
     "statTarget": [],
-    "svaNUMT": [],
     "svaRetro": [],
-    "tadar": [
-        "Gviz"
-    ],
+    "tadar": [],
     "TimiRGeN": [],
-    "trackViewer": [
-        "Gviz"
-    ],
+    "trackViewer": [],
     "treekoR": [],
-    "TVTB": [
-        "Gviz"
-    ],
-    "uncoverappLib": [
-        "Gviz"
-    ],
-    "VariantFiltering": [
-        "Gviz"
-    ],
+    "TVTB": [],
+    "uncoverappLib": [],
+    "VariantFiltering": [],
     "VCFArray": [],
     "vulcan": [],
     "wateRmelon": [
