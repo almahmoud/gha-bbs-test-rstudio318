@@ -142,7 +142,6 @@
     "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions"
     ],
@@ -231,9 +230,7 @@
     ],
     "MetaPhOR": [],
     "metaseqR2": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "missMethyl"
     ],
