@@ -51,7 +51,6 @@
         "derfinderPlot"
     ],
     "brendaDb": [],
-    "BubbleTree": [],
     "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -89,12 +88,10 @@
     ],
     "clusterExperiment": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "COCOA": [],
     "comapr": [],
@@ -105,9 +102,7 @@
     "CONFESS": [],
     "consensusDE": [],
     "conumee": [],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "cosmiq": [
         "xcms"
     ],
@@ -171,7 +166,6 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erma": [],
     "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
@@ -240,7 +234,6 @@
         "CAMERA",
         "xcms"
     ],
-    "karyoploteR": [],
     "kissDE": [],
     "lmdme": [],
     "LOBSTAHS": [
@@ -319,9 +312,7 @@
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "MSstatsShiny": [],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "NADfinder": [
         "ATACseqQC",
         "trackViewer"
