@@ -364,7 +364,6 @@
     "Pviz": [],
     "quantro": [],
     "QuartPAC": [],
-    "QuasR": [],
     "R3CPET": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
@@ -430,9 +429,7 @@
     "singleCellTK": [
         "scMerge"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "methylumi",
