@@ -2,13 +2,11 @@
     "ACE": [],
     "ADaCGH2": [],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "AgiMicroRna": [
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "AHMassBank": [],
     "alabaster": [
@@ -46,26 +44,19 @@
     "biscuiteer": [],
     "BLMA": [],
     "bnem": [],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
         "derfinder",
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "brendaDb": [],
     "BubbleTree": [],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
-    "cageminer": [
-        "ggbio"
-    ],
+    "cageminer": [],
     "CAGEr": [
         "CAGEfightR",
         "GenomicInteractions"
@@ -152,8 +143,7 @@
     "DeMixT": [],
     "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
-        "ggbio"
+        "derfinder"
     ],
     "DMRcate": [
         "methylumi",
@@ -196,9 +186,7 @@
         "CAMERA",
         "xcms"
     ],
-    "FLAMES": [
-        "ggbio"
-    ],
+    "FLAMES": [],
     "flowBin": [],
     "flowCut": [],
     "flowGate": [
@@ -221,11 +209,8 @@
     "GeneBreak": [],
     "GeneStructureTools": [],
     "GenomicInteractions": [],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "gespeR": [],
-    "ggbio": [],
     "ggcyto": [],
     "GmicR": [],
     "GNOSIS": [],
@@ -249,9 +234,7 @@
     "iNETgrate": [
         "Pigengene"
     ],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "IntEREst": [],
     "IPO": [
         "CAMERA",
@@ -327,9 +310,7 @@
     "Moonlight2R": [],
     "MoonlightR": [],
     "motifbreakR": [],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "msmsTests": [],
     "MSnID": [
         "msmsTests"
@@ -394,9 +375,7 @@
     "quantro": [],
     "QuartPAC": [],
     "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
     "recount": [
@@ -408,14 +387,10 @@
     ],
     "regutools": [],
     "REMP": [],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "RESOLVE": [],
     "ReUseData": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "Risa": [
         "xcms"
@@ -450,9 +425,7 @@
     "scFeatures": [],
     "scMerge": [],
     "scone": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [],
     "scTreeViz": [
         "epivizr"
@@ -478,9 +451,7 @@
         "methylumi",
         "wateRmelon"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "spatzie": [
         "GenomicInteractions"
     ],
@@ -506,8 +477,7 @@
     "xcms": [],
     "Xeva": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [
         "quantro"
