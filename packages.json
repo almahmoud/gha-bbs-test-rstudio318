@@ -47,7 +47,6 @@
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot"
     ],
     "brendaDb": [],
@@ -134,10 +133,7 @@
     "DeepBlueR": [],
     "DEGraph": [],
     "DeMixT": [],
-    "derfinder": [],
-    "derfinderPlot": [
-        "derfinder"
-    ],
+    "derfinderPlot": [],
     "DMRcate": [
         "methylumi",
         "missMethyl"
@@ -189,7 +185,6 @@
     "GARS": [],
     "GateFinder": [],
     "GDCRNATools": [],
-    "gDNAx": [],
     "gDR": [
         "gDRimport"
     ],
@@ -352,7 +347,6 @@
         "DAPAR"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "Pviz": [],
@@ -361,13 +355,9 @@
     "R3CPET": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "REMP": [],
     "ReportingTools": [],
@@ -379,7 +369,6 @@
     ],
     "RLSeq": [],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAinteract": [],
@@ -394,7 +383,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
