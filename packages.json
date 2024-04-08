@@ -82,7 +82,6 @@
         "methylPipe"
     ],
     "CONFESS": [],
-    "consensusDE": [],
     "CopyNumberPlots": [],
     "cosmiq": [],
     "crisprVerse": [
@@ -297,7 +296,6 @@
     "RNAAgeCalc": [
         "recount"
     ],
-    "RNAinteract": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
@@ -320,7 +318,6 @@
     "segmenter": [],
     "seqArchRplus": [],
     "SeqSQC": [],
-    "SGCP": [],
     "signatureSearch": [],
     "signifinder": [],
     "SimBu": [],
