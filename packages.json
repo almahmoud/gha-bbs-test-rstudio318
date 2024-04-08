@@ -287,11 +287,8 @@
     "FLAMES": [
         "ggbio"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [],
-    "flowFP": [],
     "flowGate": [
         "flowWorkspace",
         "ggcyto"
@@ -307,9 +304,7 @@
     "funtooNorm": [],
     "GA4GHshiny": [],
     "GARS": [],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
