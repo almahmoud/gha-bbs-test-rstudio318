@@ -102,7 +102,6 @@
     ],
     "ChIPexoQual": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "cicero": [
         "Gviz"
     ],
@@ -203,9 +202,7 @@
         "safe"
     ],
     "enrichTF": [],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epimutacions": [
         "Gviz"
     ],
@@ -215,9 +212,7 @@
         "epivizr"
     ],
     "erma": [],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -446,9 +441,7 @@
     "primirTSS": [
         "Gviz"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "pRolocGUI": [],
     "Prostar": [
         "DAPAR"
@@ -533,12 +526,8 @@
     "scTreeViz": [
         "epivizr"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
+    "seqArchRplus": [],
     "SeqSQC": [],
     "SGCP": [],
     "shinyepico": [],
