@@ -24,8 +24,6 @@
         "lumi"
     ],
     "ASpli": [],
-    "ATACseqQC": [],
-    "ATACseqTFEA": [],
     "bigmelon": [
         "lumi",
         "wateRmelon"
@@ -223,7 +221,6 @@
     "MSnID": [],
     "multicrispr": [],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "nanotatoR": [],
