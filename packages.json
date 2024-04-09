@@ -111,7 +111,6 @@
     "FLAMES": [],
     "flowGate": [],
     "flowVS": [],
-    "GDCRNATools": [],
     "gDR": [
         "gDRimport"
     ],
@@ -120,7 +119,6 @@
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "GNOSIS": [],
-    "goSorensen": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -172,7 +170,6 @@
     ],
     "methylPipe": [],
     "methylscaper": [],
-    "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi"
     ],
@@ -273,7 +270,6 @@
     "srnadiff": [],
     "statTarget": [],
     "tadar": [],
-    "TimiRGeN": [],
     "trackViewer": [],
     "TVTB": [],
     "uncoverappLib": [],
