@@ -52,7 +52,6 @@
     "CNViz": [
         "CopyNumberPlots"
     ],
-    "comapr": [],
     "coMET": [],
     "compEpiTools": [
         "methylPipe"
@@ -160,11 +159,8 @@
     "missMethyl": [],
     "MobilityTransformR": [],
     "motifbreakR": [],
-    "msgbsR": [],
     "MSnID": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "nanotatoR": [],
     "ncGTW": [],
     "netOmics": [
@@ -237,11 +233,9 @@
     "spatzie": [
         "GenomicInteractions"
     ],
-    "SPLINTER": [],
     "srnadiff": [],
     "statTarget": [],
     "tadar": [],
-    "trackViewer": [],
     "TVTB": [],
     "uncoverappLib": [],
     "VariantFiltering": [],
