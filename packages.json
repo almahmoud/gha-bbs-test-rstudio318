@@ -7,11 +7,8 @@
         "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "brainflowprobes": [],
@@ -22,8 +19,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "cliqueMS": [],
@@ -38,9 +33,7 @@
         "CytoPipeline"
     ],
     "DeepBlueR": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "safe",
@@ -53,9 +46,7 @@
         "safe"
     ],
     "extraChIPs": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flagme": [],
     "flowGate": [],
     "flowVS": [],
@@ -65,38 +56,27 @@
         "safe"
     ],
     "HiCDCPlus": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "ideal": [],
     "iNETgrate": [],
     "IPO": [],
     "lmdme": [],
     "LOBSTAHS": [],
-    "lumi": [],
     "made4": [],
     "MAGAR": [
         "RnBeads"
     ],
     "MAIT": [],
     "MBASED": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "metaMS": [],
     "methylclock": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "methylscaper": [],
-    "MineICA": [
-        "lumi"
-    ],
-    "missMethyl": [],
+    "MineICA": [],
     "MSnID": [],
     "NADfinder": [],
     "nanotatoR": [],
@@ -137,14 +117,11 @@
         "scMerge"
     ],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "spatzie": [],
     "statTarget": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [],
     "yarn": [],
     "zenith": [
