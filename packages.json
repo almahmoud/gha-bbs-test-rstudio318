@@ -41,7 +41,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "cicero": [],
     "cliqueMS": [],
     "clusterExperiment": [],
@@ -52,9 +51,7 @@
         "CopyNumberPlots"
     ],
     "coMET": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "CopyNumberPlots": [],
     "cosmiq": [],
     "crisprVerse": [
@@ -148,14 +145,12 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "methylPipe": [],
     "methylscaper": [],
     "MineICA": [
         "lumi"
     ],
     "missMethyl": [],
     "MobilityTransformR": [],
-    "motifbreakR": [],
     "MSnID": [],
     "NADfinder": [],
     "nanotatoR": [],
@@ -184,7 +179,6 @@
         "recount"
     ],
     "Pviz": [],
-    "R3CPET": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
     "recount": [],
