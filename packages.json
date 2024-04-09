@@ -41,7 +41,6 @@
     "compEpiTools": [],
     "cosmiq": [],
     "crisprVerse": [],
-    "cummeRbund": [],
     "CytoML": [],
     "CytoPipeline": [],
     "CytoPipelineGUI": [
@@ -63,9 +62,7 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "epimutacions": [],
     "epivizrStandalone": [],
-    "esATAC": [],
     "extraChIPs": [],
     "ffpe": [
         "lumi"
@@ -76,10 +73,7 @@
     "FLAMES": [],
     "flowGate": [],
     "flowVS": [],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -147,28 +141,20 @@
         "omicade4"
     ],
     "Pi": [],
-    "primirTSS": [],
     "Prostar": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
-    "recount": [],
     "regionReport": [],
     "ReportingTools": [],
     "RiboProfiling": [],
     "Risa": [],
     "RLSeq": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "safe": [],
     "scMerge": [],
@@ -186,7 +172,6 @@
     "SomaticSignatures": [],
     "spatzie": [],
     "statTarget": [],
-    "TVTB": [],
     "uncoverappLib": [],
     "wateRmelon": [
         "lumi"
