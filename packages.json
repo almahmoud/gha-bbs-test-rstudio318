@@ -20,7 +20,6 @@
     "CAGEr": [
         "CAGEfightR"
     ],
-    "CAMERA": [],
     "ChAMP": [
         "DMRcate",
         "lumi",
@@ -58,9 +57,7 @@
     "ffpe": [
         "lumi"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "flowGate": [],
     "flowVS": [],
     "gDR": [],
@@ -74,21 +71,15 @@
     ],
     "ideal": [],
     "iNETgrate": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "lmdme": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [],
     "made4": [],
     "MAGAR": [
         "RnBeads"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "MBASED": [],
     "MEAL": [
         "missMethyl"
@@ -97,9 +88,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "methylclock": [],
     "methylGSA": [
         "missMethyl"
