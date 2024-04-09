@@ -18,10 +18,7 @@
         "lumi",
         "wateRmelon"
     ],
-    "biomvRCNS": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "CAGEfightR": [],
     "CAGEr": [
@@ -47,7 +44,6 @@
         "CytoPipeline"
     ],
     "DeepBlueR": [],
-    "derfinderPlot": [],
     "DMRcate": [
         "missMethyl"
     ],
@@ -62,7 +58,6 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "epivizrStandalone": [],
     "extraChIPs": [],
     "ffpe": [
         "lumi"
@@ -146,7 +141,6 @@
     "RandomWalkRestartMH": [],
     "rebook": [],
     "ReportingTools": [],
-    "RiboProfiling": [],
     "Risa": [],
     "RLSeq": [],
     "RNAAgeCalc": [],
@@ -167,16 +161,13 @@
         "lumi",
         "wateRmelon"
     ],
-    "SomaticSignatures": [],
     "spatzie": [],
     "statTarget": [],
     "uncoverappLib": [],
     "wateRmelon": [
         "lumi"
     ],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
