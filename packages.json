@@ -1,9 +1,6 @@
 {
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "alabaster": [
@@ -13,7 +10,6 @@
     "arrayMvout": [
         "lumi"
     ],
-    "ASpli": [],
     "bigmelon": [
         "lumi",
         "wateRmelon"
@@ -65,7 +61,6 @@
     "flagme": [
         "CAMERA"
     ],
-    "FLAMES": [],
     "flowGate": [],
     "flowVS": [],
     "gDR": [],
@@ -140,7 +135,6 @@
     "psichomics": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
-    "ReportingTools": [],
     "Risa": [],
     "RLSeq": [],
     "RNAAgeCalc": [],
@@ -163,7 +157,6 @@
     ],
     "spatzie": [],
     "statTarget": [],
-    "uncoverappLib": [],
     "wateRmelon": [
         "lumi"
     ],
