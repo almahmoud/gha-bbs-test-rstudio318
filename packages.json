@@ -82,17 +82,14 @@
     "cummeRbund": [],
     "cytofQC": [],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "DAPAR": [],
     "debrowser": [],
@@ -129,9 +126,7 @@
         "CAMERA"
     ],
     "FLAMES": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowVS": [],
     "GDCRNATools": [],
     "gDR": [
@@ -142,7 +137,6 @@
     "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "ggcyto": [],
     "GNOSIS": [],
     "goSorensen": [],
     "GSEABenchmarkeR": [
