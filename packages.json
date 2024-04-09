@@ -7,11 +7,9 @@
         "affycoretools"
     ],
     "alabaster": [
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
     "alabaster.spatial": [],
-    "alabaster.vcf": [],
     "AllelicImbalance": [],
     "arrayMvout": [
         "lumi"
