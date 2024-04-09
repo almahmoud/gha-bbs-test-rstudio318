@@ -36,18 +36,12 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "cicero": [],
     "cliqueMS": [],
     "clusterExperiment": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "coMET": [],
     "compEpiTools": [],
-    "CopyNumberPlots": [],
     "cosmiq": [],
     "crisprVerse": [],
     "cummeRbund": [],
@@ -100,7 +94,6 @@
     ],
     "ideal": [],
     "iNETgrate": [],
-    "intansv": [],
     "IPO": [
         "CAMERA"
     ],
@@ -164,7 +157,6 @@
     "psichomics": [
         "recount"
     ],
-    "Pviz": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
     "recount": [],
@@ -186,8 +178,6 @@
     "RnBeads": [],
     "safe": [],
     "scMerge": [],
-    "scruff": [],
-    "scTreeViz": [],
     "SeqSQC": [],
     "SimBu": [],
     "simplifyEnrichment": [],
@@ -202,14 +192,12 @@
     "SomaticSignatures": [],
     "spatzie": [],
     "statTarget": [],
-    "tadar": [],
     "TVTB": [],
     "uncoverappLib": [],
     "VariantFiltering": [],
     "wateRmelon": [
         "lumi"
     ],
-    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
     ],
