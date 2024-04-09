@@ -80,16 +80,10 @@
     ],
     "crisprViz": [],
     "cummeRbund": [],
-    "cytofQC": [],
-    "CytoML": [
-        "openCyto"
-    ],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoML": [],
+    "CytoPipeline": [],
     "CytoPipelineGUI": [
-        "CytoPipeline",
-        "PeacoQC"
+        "CytoPipeline"
     ],
     "DAPAR": [],
     "debrowser": [],
@@ -225,9 +219,7 @@
         "made4",
         "omicade4"
     ],
-    "openCyto": [],
     "PanomiR": [],
-    "PeacoQC": [],
     "Pi": [],
     "Pigengene": [],
     "PING": [],
