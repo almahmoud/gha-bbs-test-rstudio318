@@ -82,7 +82,6 @@
     "crisprViz": [],
     "cummeRbund": [],
     "cyanoFilter": [],
-    "CyTOFpower": [],
     "cytofQC": [],
     "CytoML": [
         "ggcyto",
@@ -132,7 +131,6 @@
         "CAMERA"
     ],
     "FLAMES": [],
-    "flowBin": [],
     "flowCut": [],
     "flowGate": [
         "ggcyto"
