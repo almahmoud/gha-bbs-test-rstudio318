@@ -84,9 +84,7 @@
     "netSmooth": [
         "clusterExperiment"
     ],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "omicade4": [
         "made4"
     ],
@@ -120,7 +118,6 @@
     "statTarget": [],
     "wateRmelon": [],
     "YAPSA": [],
-    "yarn": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
