@@ -1,27 +1,18 @@
 {
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "alabaster": [],
     "arrayMvout": [],
     "bigmelon": [
         "wateRmelon"
     ],
     "brendaDb": [],
-    "CAGEfightR": [],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "ChAMP": [
         "DMRcate",
         "wateRmelon"
     ],
     "cliqueMS": [],
     "clusterExperiment": [],
-    "CNVfilteR": [],
-    "CNViz": [],
-    "crisprVerse": [],
     "CytoPipelineGUI": [],
     "DeepBlueR": [],
     "DMRcate": [],
@@ -36,26 +27,20 @@
     "EnrichmentBrowser": [
         "safe"
     ],
-    "extraChIPs": [],
     "ffpe": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
     ],
-    "HiCDCPlus": [],
     "iCheck": [],
-    "iNETgrate": [],
-    "IPO": [],
     "lmdme": [],
     "made4": [],
     "MAGAR": [],
-    "MAIT": [],
     "MBASED": [],
     "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
-    "metaMS": [],
     "methylGSA": [],
     "methylscaper": [],
     "MineICA": [],
@@ -79,9 +64,6 @@
     "RandomWalkRestartMH": [],
     "rebook": [],
     "RLSeq": [],
-    "RNAAgeCalc": [],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.RiboMethSeq": [],
     "safe": [],
     "scMerge": [],
     "SeqSQC": [],
