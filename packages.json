@@ -8,7 +8,6 @@
     "bigmelon": [
         "wateRmelon"
     ],
-    "brainflowprobes": [],
     "brendaDb": [],
     "CAGEfightR": [],
     "CAGEr": [
@@ -22,7 +21,6 @@
     "clusterExperiment": [],
     "CNVfilteR": [],
     "CNViz": [],
-    "compEpiTools": [],
     "crisprVerse": [],
     "CytoPipelineGUI": [],
     "DeepBlueR": [],
@@ -40,8 +38,6 @@
     ],
     "extraChIPs": [],
     "ffpe": [],
-    "flagme": [],
-    "gDR": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "safe"
@@ -51,7 +47,6 @@
     "iNETgrate": [],
     "IPO": [],
     "lmdme": [],
-    "LOBSTAHS": [],
     "made4": [],
     "MAGAR": [],
     "MAIT": [],
@@ -81,16 +76,12 @@
         "omicade4"
     ],
     "Pi": [],
-    "Prostar": [],
-    "psichomics": [],
     "RandomWalkRestartMH": [],
     "rebook": [],
     "RLSeq": [],
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [],
     "safe": [],
     "scMerge": [],
     "SeqSQC": [],
@@ -102,10 +93,8 @@
     "skewr": [
         "wateRmelon"
     ],
-    "spatzie": [],
     "statTarget": [],
     "wateRmelon": [],
-    "YAPSA": [],
     "zenith": [
         "EnrichmentBrowser",
         "safe"
