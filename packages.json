@@ -42,8 +42,7 @@
     "adductomicsR": [
         "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
-        "mzR"
+        "ExperimentHub"
     ],
     "ADImpute": [
         "SingleCellExperiment"
@@ -54,7 +53,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "affy": [],
     "affycomp": [],
     "affyContam": [],
     "affycoretools": [
@@ -520,7 +518,6 @@
         "genefilter",
         "impute",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -786,7 +783,6 @@
     "biodbNcbi": [],
     "biodbNci": [],
     "biodbUniprot": [],
-    "bioDist": [],
     "biomformat": [
         "rhdf5",
         "rhdf5filters"
@@ -933,7 +929,6 @@
         "sparseMatrixStats"
     ],
     "BPRMeth": [],
-    "BRAIN": [],
     "brainflowprobes": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -1053,7 +1048,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1346,8 +1340,7 @@
     ],
     "ChemmineR": [],
     "CHETAH": [
-        "SingleCellExperiment",
-        "bioDist"
+        "SingleCellExperiment"
     ],
     "chihaya": [
         "HDF5Array",
@@ -1511,7 +1504,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -1527,7 +1519,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "clustComp": [],
@@ -1558,7 +1549,6 @@
         "SingleCellExperiment",
         "fgsea"
     ],
-    "CMA": [],
     "cmapR": [
         "cytolib",
         "flowCore",
@@ -1850,7 +1840,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -2149,7 +2138,6 @@
         "ggtree",
         "impute",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn",
         "widgetTools"
@@ -2162,7 +2150,6 @@
         "mnem"
     ],
     "dcGSA": [],
-    "ddCt": [],
     "ddPCRclust": [
         "SamSPECTRAL",
         "cytolib",
@@ -2298,7 +2285,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "DepecheR": [
@@ -2359,9 +2345,7 @@
         "genefilter"
     ],
     "DFP": [],
-    "DIAlignR": [
-        "mzR"
-    ],
+    "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
         "GreyListChIP",
@@ -2587,7 +2571,6 @@
     "EBSeqHMM": [
         "EBSeq"
     ],
-    "ecolitk": [],
     "EDASeq": [
         "GenomicFeatures",
         "ShortRead"
@@ -2929,7 +2912,6 @@
         "csaw",
         "ensembldb"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "GenomicFeatures",
@@ -3014,7 +2996,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -3581,7 +3562,6 @@
         "Rgraphviz",
         "genefilter"
     ],
-    "GOsummaries": [],
     "GOTHiC": [
         "ShortRead"
     ],
@@ -3694,9 +3674,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "HarmonizR": [
         "genefilter",
         "sva"
@@ -3853,7 +3831,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "iChip": [],
     "iClusterPlus": [],
     "iCNV": [
         "CODEX"
@@ -4016,7 +3993,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -4202,7 +4178,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -4339,7 +4314,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -4578,7 +4552,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -4811,7 +4784,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "MiChip": [],
     "microbiome": [
         "biomformat",
         "phyloseq",
@@ -4948,7 +4920,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "MiRaGE": [],
     "mirIntegrator": [
         "KEGGgraph",
         "ROntoTools",
@@ -4973,7 +4944,6 @@
         "SPONGE",
         "clusterProfiler",
         "enrichplot",
-        "fabia",
         "fgsea",
         "ggtree",
         "graphite",
@@ -5047,7 +5017,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -5112,9 +5081,7 @@
         "ggtree"
     ],
     "mosaics": [],
-    "mosbi": [
-        "fabia"
-    ],
+    "mosbi": [],
     "Motif2Site": [],
     "motifbreakR": [
         "AnnotationFilter",
@@ -5209,7 +5176,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "msmsTests": [
@@ -5217,13 +5183,11 @@
         "impute",
         "msmsEDA",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnbase": [
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSnID": [
@@ -5234,16 +5198,13 @@
         "msmsEDA",
         "msmsTests",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "MSPrep": [
         "genefilter",
         "sva"
     ],
-    "msPurity": [
-        "mzR"
-    ],
+    "msPurity": [],
     "msqrob2": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -5277,7 +5238,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "qcmetrics",
         "vsn"
     ],
@@ -5286,7 +5246,6 @@
         "MSstatsQC",
         "impute",
         "mzID",
-        "mzR",
         "qcmetrics",
         "vsn"
     ],
@@ -5416,7 +5375,6 @@
         "VariantAnnotation"
     ],
     "mzID": [],
-    "mzR": [],
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
@@ -5478,7 +5436,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -5737,9 +5694,7 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [
         "DESeq2",
@@ -5900,7 +5855,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "PECA": [
@@ -5978,8 +5932,7 @@
         "AnnotationHub",
         "BiocVersion",
         "ExperimentHub",
-        "OmaDB",
-        "bioDist"
+        "OmaDB"
     ],
     "phyloseq": [
         "biomformat",
@@ -6112,7 +6065,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "proActiv": [
@@ -6148,7 +6100,6 @@
         "genefilter",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "pRolocGUI": [
@@ -6157,7 +6108,6 @@
         "genefilter",
         "impute",
         "mzID",
-        "mzR",
         "pRoloc",
         "vsn"
     ],
@@ -6178,7 +6128,6 @@
         "ggtree",
         "impute",
         "mzID",
-        "mzR",
         "tkWidgets",
         "vsn",
         "widgetTools"
@@ -6218,7 +6167,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "rhdf5",
         "rhdf5filters",
         "vsn"
@@ -6274,7 +6222,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "qsea": [
@@ -6387,7 +6334,6 @@
         "dada2"
     ],
     "RBioFormats": [],
-    "RBioinf": [],
     "RBM": [],
     "Rbowtie2": [],
     "Rbwa": [],
@@ -6702,7 +6648,6 @@
         "biocViews",
         "impute",
         "mzID",
-        "mzR",
         "vsn",
         "xcms"
     ],
@@ -6731,7 +6676,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "Rmmquant": [
@@ -7481,9 +7425,7 @@
         "globaltest",
         "quantsmooth"
     ],
-    "SIMAT": [
-        "mzR"
-    ],
+    "SIMAT": [],
     "SimBindProfiles": [
         "Ringo",
         "genefilter",
@@ -7924,7 +7866,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "subSeq": [],
     "SUITOR": [],
     "SummarizedBenchmark": [],
     "Summix": [],
@@ -7959,7 +7900,6 @@
         "cleaver",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "SynExtend": [
@@ -7999,8 +7939,7 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "mzID",
-        "mzR"
+        "mzID"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -8163,7 +8102,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "ToxicoGx": [
@@ -8309,7 +8247,6 @@
         "ensembldb"
     ],
     "tweeDEseq": [],
-    "twilight": [],
     "txcutr": [
         "GenomicFeatures"
     ],
@@ -8362,7 +8299,6 @@
         "VariantAnnotation"
     ],
     "universalmotif": [],
-    "updateObject": [],
     "uSORT": [
         "biocViews",
         "monocle"
@@ -8537,7 +8473,6 @@
         "Spectra",
         "impute",
         "mzID",
-        "mzR",
         "vsn"
     ],
     "xcore": [
@@ -8563,9 +8498,7 @@
         "STRINGdb"
     ],
     "XNAString": [],
-    "yamss": [
-        "mzR"
-    ],
+    "yamss": [],
     "YAPSA": [
         "AnnotationFilter",
         "ComplexHeatmap",
