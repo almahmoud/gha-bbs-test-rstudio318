@@ -25,7 +25,6 @@
     "AffiXcan": [],
     "affycomp": [],
     "affycoretools": [
-        "Category",
         "DESeq2",
         "GOstats",
         "Glimma",
@@ -42,7 +41,6 @@
     "affyPLM": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
-        "Category",
         "DESeq2",
         "GOstats",
         "Glimma",
@@ -267,7 +265,6 @@
         "motifStack"
     ],
     "attract": [
-        "Category",
         "GOstats"
     ],
     "AUCell": [],
@@ -334,7 +331,6 @@
     "BeadDataPackR": [],
     "BEARscc": [],
     "BEAT": [],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
@@ -551,7 +547,6 @@
         "xcms"
     ],
     "canceR": [
-        "Category",
         "EBarrays",
         "Heatplus",
         "RTCGAToolbox",
@@ -580,9 +575,7 @@
         "cytolib",
         "flowCore"
     ],
-    "Category": [],
     "categoryCompare": [
-        "Category",
         "GOstats"
     ],
     "cbaf": [
@@ -623,9 +616,7 @@
     ],
     "CellBarcode": [],
     "cellbaseR": [],
-    "cellHTS2": [
-        "Category"
-    ],
+    "cellHTS2": [],
     "CelliD": [
         "fgsea"
     ],
@@ -991,7 +982,6 @@
         "DESeq2"
     ],
     "CoverageView": [],
-    "covRNA": [],
     "cpvSNP": [],
     "CRImage": [],
     "crisprBowtie": [],
@@ -1364,7 +1354,6 @@
         "impute",
         "sva"
     ],
-    "Doscheda": [],
     "DOSE": [
         "fgsea"
     ],
@@ -1888,7 +1877,6 @@
     "genefu": [
         "impute"
     ],
-    "GeneMeta": [],
     "GeneOverlap": [],
     "GENESIS": [
         "GWASTools",
@@ -1953,7 +1941,6 @@
     ],
     "gep2pep": [],
     "gespeR": [
-        "Category",
         "cellHTS2"
     ],
     "geva": [],
@@ -1979,7 +1966,6 @@
     ],
     "GIGSEA": [],
     "girafe": [],
-    "GISPA": [],
     "GLAD": [],
     "Glimma": [
         "DESeq2"
@@ -1995,7 +1981,6 @@
         "VariantAnnotation"
     ],
     "GmicR": [
-        "Category",
         "GOstats",
         "impute"
     ],
@@ -2016,9 +2001,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "GOstats": [
-        "Category"
-    ],
+    "GOstats": [],
     "GOTHiC": [],
     "GPA": [],
     "gpls": [],
@@ -2173,7 +2156,6 @@
         "CODEX"
     ],
     "ideal": [
-        "Category",
         "DESeq2",
         "GOstats",
         "goseq",
@@ -2244,9 +2226,7 @@
         "ggbio"
     ],
     "InteractiveComplexHeatmap": [],
-    "interactiveDisplay": [
-        "Category"
-    ],
+    "interactiveDisplay": [],
     "InterCellar": [],
     "IntEREst": [
         "DESeq2",
@@ -2539,9 +2519,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "meshr": [
-        "Category"
-    ],
+    "meshr": [],
     "MesKit": [],
     "MetaboAnnotation": [
         "BiocVersion",
@@ -2712,7 +2690,6 @@
         "affyPLM"
     ],
     "MineICA": [
-        "Category",
         "GOstats",
         "HDF5Array",
         "bumphunter",
@@ -2741,7 +2718,6 @@
         "ROntoTools"
     ],
     "miRLAB": [
-        "Category",
         "GOstats",
         "ctc",
         "impute"
@@ -2809,7 +2785,6 @@
         "dir.expiry"
     ],
     "MOGAMUN": [],
-    "mogsa": [],
     "MoleculeExperiment": [
         "SpatialExperiment"
     ],
@@ -3074,7 +3049,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "Category",
         "GOstats",
         "HDF5Array",
         "STRINGdb",
@@ -3099,7 +3073,6 @@
     "normalize450K": [
         "illuminaio"
     ],
-    "NormalyzerDE": [],
     "normr": [
         "bamsignals"
     ],
@@ -3247,7 +3220,6 @@
         "KEGGgraph"
     ],
     "pcaExplorer": [
-        "Category",
         "DESeq2",
         "GOstats"
     ],
@@ -3272,7 +3244,6 @@
         "impute",
         "mzID"
     ],
-    "PECA": [],
     "peco": [],
     "pengls": [],
     "PepsNMR": [],
@@ -3302,7 +3273,6 @@
         "ropls"
     ],
     "phenoTest": [
-        "Category",
         "Heatplus"
     ],
     "PhosR": [],
@@ -3338,7 +3308,6 @@
     ],
     "pipeFrame": [],
     "PloGO2": [
-        "Category",
         "GOstats"
     ],
     "plotgardener": [
@@ -3471,7 +3440,6 @@
     "PureCN": [
         "VariantAnnotation"
     ],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "VariantAnnotation",
@@ -3664,7 +3632,6 @@
         "Ringo"
     ],
     "ReportingTools": [
-        "Category",
         "DESeq2",
         "GOstats",
         "OrganismDbi",
@@ -3784,7 +3751,6 @@
         "bumphunter"
     ],
     "RNAinteract": [
-        "Category",
         "cellHTS2"
     ],
     "RNAmodR": [
@@ -4008,7 +3974,6 @@
     "scShapes": [],
     "scTensor": [
         "BiocVersion",
-        "Category",
         "DOSE",
         "GOstats",
         "ReactomePA",
@@ -4083,7 +4048,6 @@
     ],
     "sevenC": [],
     "SGCP": [
-        "Category",
         "GOstats"
     ],
     "SGSeq": [],
@@ -4337,7 +4301,6 @@
         "SpatialExperiment"
     ],
     "staRank": [
-        "Category",
         "cellHTS2"
     ],
     "Statial": [
@@ -4690,9 +4653,7 @@
         "mzID"
     ],
     "xcore": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
