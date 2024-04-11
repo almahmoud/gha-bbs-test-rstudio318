@@ -48,7 +48,6 @@
     "airpart": [],
     "alabaster": [
         "HDF5Array",
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
@@ -107,7 +106,6 @@
     ],
     "alabaster.spatial": [
         "HDF5Array",
-        "SpatialExperiment",
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
@@ -198,7 +196,6 @@
     "ASSIGN": [
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "CoGAPS",
         "GeneOverlap",
@@ -281,7 +278,6 @@
         "quantsmooth"
     ],
     "BeadDataPackR": [],
-    "BEARscc": [],
     "benchdamic": [
         "ANCOMBC",
         "MAST",
@@ -615,9 +611,7 @@
         "HilbertVis"
     ],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [
         "batchelor",
         "scran"
@@ -872,9 +866,7 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "biovizBase"
@@ -920,8 +912,7 @@
     ],
     "cytolib": [],
     "cytomapper": [
-        "HDF5Array",
-        "SpatialExperiment"
+        "HDF5Array"
     ],
     "cytoMEM": [
         "cytolib",
@@ -958,7 +949,6 @@
     ],
     "cytoviewer": [
         "HDF5Array",
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dada2": [],
@@ -1060,9 +1050,7 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "DEsubs": [
         "EBSeq"
     ],
@@ -1289,9 +1277,7 @@
         "HDF5Array",
         "UCell"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "evaluomeR": [],
     "EventPointer": [
         "tximport"
@@ -1308,9 +1294,7 @@
         "BiocCheck",
         "BiocVersion"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -1491,7 +1475,6 @@
         "OUTRIDER"
     ],
     "FRGEpistasis": [],
-    "frma": [],
     "funtooNorm": [
         "HDF5Array",
         "illuminaio",
@@ -1627,9 +1610,7 @@
     ],
     "GGPA": [],
     "ggsc": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "GIGSEA": [],
     "girafe": [],
     "GLAD": [],
@@ -1667,7 +1648,6 @@
     "GRaNIE": [
         "BiocVersion"
     ],
-    "GraphPAC": [],
     "GreyListChIP": [],
     "GSALightning": [],
     "GSAR": [],
@@ -1754,14 +1734,11 @@
     "hipathia": [
         "BiocVersion"
     ],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
     "HMMcopy": [],
-    "hoodscanR": [
-        "SpatialExperiment"
-    ],
+    "hoodscanR": [],
     "hpar": [
         "BiocVersion"
     ],
@@ -1796,7 +1773,6 @@
     "IMAS": [],
     "imcRtools": [
         "HDF5Array",
-        "SpatialExperiment",
         "cytomapper"
     ],
     "IMMAN": [
@@ -1918,7 +1894,6 @@
     ],
     "lisaClust": [
         "ClassifyR",
-        "SpatialExperiment",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -2225,7 +2200,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "miQC": [],
     "MIRA": [
         "HDF5Array",
         "bsseq"
@@ -2293,9 +2267,7 @@
         "dir.expiry"
     ],
     "MOGAMUN": [],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "MOMA": [],
     "monaLisa": [
         "TFBSTools"
@@ -2521,10 +2493,7 @@
     ],
     "NeuCA": [],
     "nipalsMCIA": [],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
-    "nondetects": [],
+    "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -2554,11 +2523,9 @@
         "widgetTools"
     ],
     "OmaDB": [],
-    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "impute",
-        "omicade4",
         "rexposome",
         "sva"
     ],
@@ -2662,7 +2629,6 @@
         "impute",
         "piano"
     ],
-    "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
         "flowCore",
@@ -2865,7 +2831,6 @@
     ],
     "quantsmooth": [],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
@@ -3134,7 +3099,6 @@
     ],
     "Rvisdiff": [],
     "rWikiPathways": [],
-    "sampleClassifier": [],
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [
@@ -3190,7 +3154,6 @@
         "Oscope"
     ],
     "scde": [],
-    "scDesign3": [],
     "scds": [],
     "scFeatures": [
         "AUCell",
@@ -3201,9 +3164,7 @@
     ],
     "scGPS": [],
     "scHOT": [],
-    "scider": [
-        "SpatialExperiment"
-    ],
+    "scider": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -3339,7 +3300,6 @@
     "signifinder": [
         "GSVA",
         "HDF5Array",
-        "SpatialExperiment",
         "consensusOV",
         "genefu",
         "impute"
@@ -3359,7 +3319,6 @@
     "similaRpeak": [],
     "simpleSeg": [
         "HDF5Array",
-        "SpatialExperiment",
         "cytomapper"
     ],
     "sincell": [],
@@ -3443,11 +3402,8 @@
         "scran"
     ],
     "sparrow": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
     "spatialDE": [
-        "SpatialExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -3455,10 +3411,7 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "scran"
     ],
@@ -3480,12 +3433,10 @@
     ],
     "SPIA": [],
     "SPIAT": [
-        "SpatialExperiment",
         "dittoSeq"
     ],
     "spicyR": [
-        "ClassifyR",
-        "SpatialExperiment"
+        "ClassifyR"
     ],
     "spikeLI": [],
     "splatter": [],
@@ -3498,9 +3449,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPOTlight": [],
     "SPsimSeq": [
         "impute"
@@ -3514,25 +3463,19 @@
     "ssize": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "cellHTS2"
     ],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [
         "ROC",
         "impute"
     ],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [],
     "STRINGdb": [],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [],
     "Summix": [],
     "supraHex": [],
@@ -3762,7 +3705,6 @@
         "BiocVersion"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vsclust": [],
@@ -3776,7 +3718,6 @@
         "GreyListChIP",
         "systemPipeR"
     ],
-    "waddR": [],
     "wateRmelon": [
         "HDF5Array",
         "ROC",
