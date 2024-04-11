@@ -908,7 +908,6 @@
     "CoGAPS": [
         "fgsea"
     ],
-    "cogeqc": [],
     "Cogito": [],
     "cola": [
         "impute"
@@ -1627,7 +1626,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
@@ -1636,8 +1634,7 @@
         "tximport"
     ],
     "EWCE": [
-        "BiocVersion",
-        "orthogene"
+        "BiocVersion"
     ],
     "ExCluster": [],
     "exomePeak2": [
@@ -2028,14 +2025,11 @@
         "ncdfFlow"
     ],
     "ggmanh": [],
-    "ggmsa": [],
     "GGPA": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "GIGSEA": [],
     "girafe": [
         "ShortRead"
@@ -2416,7 +2410,6 @@
         "VariantAnnotation"
     ],
     "LinkHD": [],
-    "LinTInd": [],
     "lipidr": [
         "fgsea",
         "impute",
@@ -2457,7 +2450,6 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [],
     "M3C": [],
     "M3Drop": [],
     "m6Aboost": [
@@ -2774,9 +2766,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "microSTASIS": [],
     "MICSQTL": [
         "EpiDISH",
@@ -3270,7 +3260,6 @@
     ],
     "Organism.dplyr": [],
     "OrganismDbi": [],
-    "orthogene": [],
     "orthos": [
         "BiocVersion",
         "HDF5Array",
@@ -3302,7 +3291,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "PAIRADISE": [],
     "paircompviz": [],
     "pairedGSEA": [
         "DESeq2",
@@ -3401,7 +3389,6 @@
         "Category",
         "Heatplus"
     ],
-    "philr": [],
     "PhosR": [],
     "PhyloProfile": [
         "BiocVersion",
@@ -4012,7 +3999,6 @@
         "zinbwave"
     ],
     "SCBN": [],
-    "scBubbletree": [],
     "scCB2": [
         "DropletUtils",
         "HDF5Array"
@@ -4311,7 +4297,6 @@
     "singscore": [],
     "SiPSiC": [],
     "sitadela": [],
-    "sitePath": [],
     "skewr": [
         "HDF5Array",
         "ROC",
@@ -4524,7 +4509,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "tanggle": [],
     "TAPseq": [],
     "TargetDecoy": [
         "mzID"
