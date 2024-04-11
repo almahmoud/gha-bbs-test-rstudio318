@@ -143,7 +143,6 @@
     "aggregateBioVar": [
         "SingleCellExperiment"
     ],
-    "agilp": [],
     "AgiMicroRna": [
         "AnnotationFilter",
         "AnnotationForge",
@@ -1233,7 +1232,6 @@
     "BioNERO": [
         "BiocParallel",
         "ComplexHeatmap",
-        "GENIE3",
         "genefilter",
         "impute",
         "sva"
@@ -1282,7 +1280,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "AnnotationHub",
         "BSgenome",
@@ -1596,7 +1593,6 @@
         "BiocIO",
         "BiocParallel",
         "ComplexHeatmap",
-        "GENIE3",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
@@ -1728,7 +1724,6 @@
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
-        "RProtoBufLib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -1906,7 +1901,6 @@
     "CellNOptR": [
         "Rgraphviz"
     ],
-    "cellscape": [],
     "CellScore": [],
     "CellTrails": [
         "SingleCellExperiment"
@@ -1926,7 +1920,6 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -2456,7 +2449,6 @@
     ],
     "CMA": [],
     "cmapR": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "rhdf5",
@@ -2757,7 +2749,6 @@
         "sparseMatrixStats"
     ],
     "CONFESS": [
-        "RProtoBufLib",
         "Rgraphviz",
         "SamSPECTRAL",
         "cytolib",
@@ -3201,7 +3192,6 @@
         "rtracklayer"
     ],
     "cyanoFilter": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
@@ -3216,13 +3206,11 @@
     "cydar": [
         "BiocNeighbors",
         "BiocParallel",
-        "RProtoBufLib",
         "SingleCellExperiment",
         "cytolib",
         "flowCore"
     ],
     "CytoDx": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -3232,7 +3220,6 @@
         "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "diffcyt",
         "flowCore"
@@ -3246,7 +3233,6 @@
         "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
-        "RProtoBufLib",
         "ScaledMatrix",
         "SingleCellExperiment",
         "beachmat",
@@ -3263,9 +3249,7 @@
         "BiocParallel",
         "ComplexHeatmap"
     ],
-    "cytolib": [
-        "RProtoBufLib"
-    ],
+    "cytolib": [],
     "cytomapper": [
         "BiocParallel",
         "HDF5Array",
@@ -3275,12 +3259,10 @@
         "rhdf5filters"
     ],
     "cytoMEM": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "CytoML": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowClust",
@@ -3295,7 +3277,6 @@
         "BiocParallel",
         "ComplexHeatmap",
         "PeacoQC",
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowAI",
@@ -3309,7 +3290,6 @@
         "ComplexHeatmap",
         "CytoPipeline",
         "PeacoQC",
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowAI",
@@ -3415,7 +3395,6 @@
     ],
     "ddCt": [],
     "ddPCRclust": [
-        "RProtoBufLib",
         "SamSPECTRAL",
         "cytolib",
         "flowCore",
@@ -3754,7 +3733,6 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -4863,17 +4841,14 @@
         "sparseMatrixStats"
     ],
     "flowAI": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowBeads": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowBin": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowFP",
@@ -4883,26 +4858,21 @@
         "BiocParallel"
     ],
     "flowCHIC": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowClean": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowClust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowCore": [
-        "RProtoBufLib",
         "cytolib"
     ],
     "flowCut": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowDensity",
@@ -4910,19 +4880,16 @@
     ],
     "flowCyBar": [],
     "flowDensity": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowFP": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowViz"
     ],
     "flowGate": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -4932,42 +4899,35 @@
     ],
     "flowMap": [],
     "flowMatch": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowMeans": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowMerge": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowClust",
         "flowCore"
     ],
     "flowPloidy": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowPlots": [],
     "FlowSOM": [
         "ConsensusClusterPlus",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowSpecs": [
         "BiocParallel",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowStats": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -4976,24 +4936,20 @@
         "ncdfFlow"
     ],
     "flowTime": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowTrans": [
-        "RProtoBufLib",
         "cytolib",
         "flowClust",
         "flowCore",
         "flowViz"
     ],
     "flowViz": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
     "flowVS": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -5003,7 +4959,6 @@
         "ncdfFlow"
     ],
     "flowWorkspace": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -5127,7 +5082,6 @@
         "sva"
     ],
     "GateFinder": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowFP",
@@ -5324,7 +5278,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "GENIE3": [],
     "genomation": [
         "BSgenome",
         "BiocIO",
@@ -5521,7 +5474,6 @@
         "rtracklayer"
     ],
     "ggcyto": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -6128,7 +6080,6 @@
     ],
     "iBBiG": [],
     "iBMQ": [],
-    "iCARE": [],
     "icetea": [
         "BSgenome",
         "BiocIO",
@@ -6265,7 +6216,6 @@
         "STRINGdb"
     ],
     "ImmuneSpaceR": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -6273,7 +6223,6 @@
         "ncdfFlow"
     ],
     "immunoClust": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -6317,7 +6266,6 @@
         "SingleCellExperiment"
     ],
     "infinityFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -7201,7 +7149,6 @@
         "ComplexHeatmap"
     ],
     "metabCombiner": [],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -7256,7 +7203,6 @@
     "MetaCyto": [
         "ConsensusClusterPlus",
         "FlowSOM",
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -7463,7 +7409,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "planet",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -7595,8 +7540,7 @@
         "ChemmineR"
     ],
     "MetNet": [
-        "BiocParallel",
-        "GENIE3"
+        "BiocParallel"
     ],
     "mfa": [],
     "Mfuzz": [
@@ -8627,7 +8571,6 @@
         "genefilter"
     ],
     "ncdfFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -8987,7 +8930,6 @@
         "interactiveDisplayBase"
     ],
     "openCyto": [
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowClust",
@@ -9022,7 +8964,6 @@
     ],
     "oppti": [],
     "optimalFlow": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "flowMeans"
@@ -9291,7 +9232,6 @@
     ],
     "PeacoQC": [
         "ComplexHeatmap",
-        "RProtoBufLib",
         "Rgraphviz",
         "cytolib",
         "flowCore",
@@ -9490,7 +9430,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "planet": [],
     "planttfhunter": [],
     "plgem": [],
     "plier": [
@@ -9894,8 +9833,7 @@
         "BiocVersion",
         "STRINGdb",
         "biomaRt",
-        "interactiveDisplayBase",
-        "rBiopaxParser"
+        "interactiveDisplayBase"
     ],
     "qckitfastq": [
         "RSeqAn",
@@ -10148,7 +10086,6 @@
     ],
     "RBioFormats": [],
     "RBioinf": [],
-    "rBiopaxParser": [],
     "RBM": [
         "marray"
     ],
@@ -11027,7 +10964,6 @@
         "rhdf5filters"
     ],
     "rprimer": [],
-    "RProtoBufLib": [],
     "rpx": [],
     "Rqc": [
         "AnnotationFilter",
@@ -11074,7 +11010,6 @@
         "ShortRead"
     ],
     "RTCA": [],
-    "RTCGA": [],
     "RTCGAToolbox": [
         "BiocBaseUtils",
         "BiocIO",
@@ -11305,7 +11240,6 @@
         "SingleCellExperiment"
     ],
     "scDataviz": [
-        "RProtoBufLib",
         "SingleCellExperiment",
         "cytolib",
         "flowCore"
@@ -11363,7 +11297,6 @@
     "SCFA": [
         "BiocParallel"
     ],
-    "scFeatureFilter": [],
     "scFeatures": [
         "AUCell",
         "AnnotationFilter",
@@ -11412,7 +11345,6 @@
     ],
     "scifer": [
         "DECIPHER",
-        "RProtoBufLib",
         "cytolib",
         "flowCore",
         "sangerseqR"
@@ -11484,7 +11416,6 @@
         "rtracklayer"
     ],
     "Sconify": [
-        "RProtoBufLib",
         "cytolib",
         "flowCore"
     ],
@@ -12870,7 +12801,6 @@
         "BiocParallel",
         "DOSE",
         "GOSemSim",
-        "RTCGA",
         "STRINGdb",
         "TDbasedUFE",
         "enrichplot",
@@ -13192,7 +13122,6 @@
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "FlowSOM",
-        "RProtoBufLib",
         "SingleCellExperiment",
         "cytolib",
         "diffcyt",
