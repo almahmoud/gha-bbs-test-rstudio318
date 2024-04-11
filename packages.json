@@ -153,7 +153,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "AlphaBeta": [],
     "AlpsNMR": [
         "impute",
         "mixOmics"
@@ -447,7 +446,6 @@
     "BioTIP": [
         "scran"
     ],
-    "biotmle": [],
     "biovizBase": [
         "VariantAnnotation"
     ],
@@ -866,9 +864,7 @@
         "flowCore"
     ],
     "cn.farms": [],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR"
@@ -889,7 +885,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -900,14 +895,11 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
     "CNVMetrics": [],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [
         "GDSArray",
         "RaggedExperiment"
@@ -993,8 +985,7 @@
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
-        "VariantAnnotation",
-        "exomeCopy"
+        "VariantAnnotation"
     ],
     "conumee": [
         "HDF5Array",
@@ -1007,7 +998,6 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "exomeCopy",
         "karyoploteR",
         "regioneR"
     ],
@@ -1250,7 +1240,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -1445,7 +1434,6 @@
         "KEGGgraph",
         "SPIA",
         "pathview",
-        "variancePartition",
         "zenith"
     ],
     "DRIMSeq": [],
@@ -1475,7 +1463,6 @@
         "enrichplot",
         "fgsea"
     ],
-    "easylift": [],
     "easyRNASeq": [
         "ShortRead"
     ],
@@ -1673,7 +1660,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
     ],
@@ -2041,7 +2027,6 @@
         "impute",
         "sva"
     ],
-    "GEOmetadb": [],
     "GeomxTools": [],
     "GeoTcgaData": [
         "topconfects"
@@ -2238,7 +2223,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HiTC": [],
     "HMMcopy": [],
     "hoodscanR": [
         "SpatialExperiment"
@@ -2401,7 +2385,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "ISLET": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DESeq2",
@@ -2438,7 +2421,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "KinSwingR": [],
     "kissDE": [
         "DESeq2",
         "DSS",
@@ -2669,7 +2651,6 @@
         "Spectra"
     ],
     "metabolomicsWorkbenchR": [],
-    "metabomxtr": [],
     "MetaboSignal": [
         "BiocVersion",
         "KEGGgraph",
@@ -3123,8 +3104,7 @@
         "VariantAnnotation"
     ],
     "muscat": [
-        "DESeq2",
-        "variancePartition"
+        "DESeq2"
     ],
     "musicatk": [
         "VariantAnnotation",
@@ -3370,8 +3350,7 @@
         "sva"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
@@ -3391,7 +3370,6 @@
     "partCNV": [
         "BiocVersion"
     ],
-    "PAST": [],
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
@@ -4294,7 +4272,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -4546,7 +4523,6 @@
         "ROC",
         "impute"
     ],
-    "STdeconvolve": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
@@ -4817,8 +4793,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "VarCon": [],
-    "variancePartition": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
         "GDSArray"
@@ -4946,8 +4920,7 @@
         "EnrichmentBrowser",
         "KEGGgraph",
         "SPIA",
-        "pathview",
-        "variancePartition"
+        "pathview"
     ],
     "zinbwave": [],
     "ZygosityPredictor": [
