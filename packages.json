@@ -252,7 +252,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -361,9 +360,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "genefilter",
         "sva"
@@ -562,7 +559,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -703,7 +699,6 @@
         "impute",
         "sva"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "KEGGgraph",
         "pathview"
@@ -1895,7 +1890,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "decompTumor2Sig": [
         "VariantAnnotation"
     ],
@@ -2810,9 +2804,7 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [
-        "BioNet"
-    ],
+    "gatom": [],
     "GBScleanR": [
         "SeqArray"
     ],
@@ -3291,7 +3283,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "hyperdraw": [],
@@ -4101,7 +4092,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -4123,7 +4113,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DelayedMatrixStats",
         "DirichletMultinomial",
         "MultiAssayExperiment",
@@ -4162,7 +4151,6 @@
         "BiocBaseUtils",
         "BiocNeighbors",
         "BiocSingular",
-        "DECIPHER",
         "DESeq2",
         "DelayedMatrixStats",
         "DirichletMultinomial",
@@ -4549,7 +4537,6 @@
         "MSnbase",
         "impute",
         "mzID",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -4557,7 +4544,6 @@
         "MSstatsQC",
         "impute",
         "mzID",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -4834,7 +4820,6 @@
     ],
     "NPARC": [],
     "npGSEA": [],
-    "nucleoSim": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -4928,11 +4913,8 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "openPrimeR": [
-        "DECIPHER"
-    ],
+    "openPrimeR": [],
     "openPrimeRui": [
-        "DECIPHER",
         "openPrimeR"
     ],
     "oposSOM": [],
@@ -5283,7 +5265,6 @@
         "DESeq2"
     ],
     "proBAMr": [],
-    "PROcess": [],
     "procoil": [],
     "proDA": [],
     "profileplyr": [
@@ -5398,7 +5379,6 @@
     "qckitfastq": [
         "RSeqAn"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "CGHbase",
         "CGHcall",
@@ -5954,9 +5934,7 @@
         "MGFR"
     ],
     "SamSPECTRAL": [],
-    "sangeranalyseR": [
-        "DECIPHER"
-    ],
+    "sangeranalyseR": [],
     "SARC": [
         "BiocBaseUtils",
         "RaggedExperiment",
@@ -6130,7 +6108,6 @@
         "SpatialExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "cytolib",
         "flowCore"
     ],
@@ -6589,7 +6566,6 @@
     "SMAD": [],
     "SMAP": [],
     "SMITE": [
-        "BioNet",
         "goseq"
     ],
     "snapCGH": [
@@ -6716,7 +6692,6 @@
         "SingleCellExperiment"
     ],
     "specL": [],
-    "SpeCond": [],
     "Spectra": [
         "MetaboCoreUtils"
     ],
@@ -6877,9 +6852,7 @@
         "mzID",
         "vsn"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [
         "RankProd"
     ],
