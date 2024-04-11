@@ -210,8 +210,7 @@
         "GeneOverlap",
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "BiocVersion",
@@ -412,7 +411,6 @@
         "sva"
     ],
     "bnem": [
-        "CellNOptR",
         "epiNEM",
         "sva"
     ],
@@ -549,7 +547,6 @@
     "cellity": [],
     "cellmigRation": [],
     "CellMixS": [],
-    "CellNOptR": [],
     "CellTrails": [],
     "CEMiTool": [
         "DOSE",
@@ -726,18 +723,10 @@
     "cn.farms": [],
     "cn.mops": [],
     "CNEr": [],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
-    "CNORfuzzy": [
-        "CellNOptR"
-    ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
+    "CNORfuzzy": [],
+    "CNORode": [],
     "CNTools": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -766,7 +755,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "CoGAPS": [],
     "Cogito": [],
     "cola": [
@@ -887,7 +875,6 @@
         "dir.expiry"
     ],
     "CRISPRseek": [],
-    "CrispRVariants": [],
     "crisprVerse": [
         "BiocVersion",
         "Gviz",
@@ -1253,7 +1240,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "EMDomics": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
@@ -1368,7 +1354,6 @@
     "EWCE": [
         "BiocVersion"
     ],
-    "ExCluster": [],
     "exomePeak2": [],
     "ExperimentHub": [
         "BiocVersion"
@@ -1594,7 +1579,6 @@
         "flowViz"
     ],
     "gatom": [],
-    "gcapc": [],
     "gcatest": [
         "lfa"
     ],
@@ -1870,9 +1854,7 @@
         "minfi"
     ],
     "iClusterPlus": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "GOstats",
         "pcaExplorer"
@@ -2095,7 +2077,6 @@
     "magpie": [
         "TRESS"
     ],
-    "magrene": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -2182,8 +2163,7 @@
     ],
     "MEB": [],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "Melissa": [],
     "memes": [
@@ -2751,7 +2731,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "OrderedList": [],
     "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
@@ -2952,7 +2931,6 @@
         "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
-        "rGREAT",
         "soGGi"
     ],
     "progeny": [
@@ -3124,7 +3102,6 @@
         "GenomicFiles",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "HDF5Array",
         "basilisk",
@@ -3180,7 +3157,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "RepViz": [],
     "ReQON": [
         "seqbias"
     ],
@@ -3210,7 +3186,6 @@
         "regioneR"
     ],
     "rgoslin": [],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
@@ -3582,7 +3557,6 @@
         "phyloseq"
     ],
     "SIMD": [],
-    "SimFFPE": [],
     "similaRpeak": [],
     "simona": [],
     "simpleSeg": [
@@ -3748,8 +3722,6 @@
     ],
     "sSeq": [],
     "ssize": [],
-    "sSNAPPY": [],
-    "ssviz": [],
     "standR": [
         "EDASeq",
         "RUVSeq",
@@ -3922,7 +3894,6 @@
     ],
     "transomics2cytoscape": [],
     "TransView": [],
-    "traseR": [],
     "traviz": [
         "TrajectoryUtils",
         "slingshot"
