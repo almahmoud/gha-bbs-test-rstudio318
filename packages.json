@@ -431,7 +431,6 @@
         "BiocParallel",
         "DESeq2"
     ],
-    "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
@@ -1224,7 +1223,6 @@
     "bnem": [
         "BiocParallel",
         "CellNOptR",
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "genefilter",
@@ -2123,7 +2121,6 @@
         "rtracklayer"
     ],
     "cleaver": [],
-    "clippda": [],
     "clipper": [
         "BiocIO",
         "BiocParallel",
@@ -2442,7 +2439,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "COMPASS": [],
     "compcodeR": [],
     "compEpiTools": [
         "AnnotationFilter",
@@ -3064,7 +3060,6 @@
     ],
     "DCATS": [],
     "dce": [
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "graphite",
@@ -3982,7 +3977,6 @@
         "sparseMatrixStats"
     ],
     "epiNEM": [
-        "Linnorm",
         "Rgraphviz",
         "mnem"
     ],
@@ -6017,7 +6011,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "ggtree"
     ],
@@ -6288,7 +6281,6 @@
         "gcrma"
     ],
     "MassArray": [],
-    "massiR": [],
     "MAST": [
         "SingleCellExperiment"
     ],
@@ -7177,7 +7169,6 @@
         "metagenomeSeq"
     ],
     "mnem": [
-        "Linnorm",
         "Rgraphviz"
     ],
     "moanin": [],
@@ -7795,7 +7786,6 @@
         "SingleCellExperiment"
     ],
     "nempi": [
-        "Linnorm",
         "Rgraphviz",
         "epiNEM",
         "mnem"
@@ -9879,7 +9869,6 @@
         "ropls"
     ],
     "rqubic": [],
-    "rRDP": [],
     "rrvgo": [],
     "Rsamtools": [
         "BiocParallel"
@@ -10597,7 +10586,6 @@
         "sechm",
         "sva"
     ],
-    "sevenbridges": [],
     "sevenC": [
         "BiocIO",
         "BiocParallel",
