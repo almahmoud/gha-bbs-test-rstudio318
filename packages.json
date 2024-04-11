@@ -71,7 +71,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "Glimma",
@@ -100,9 +99,7 @@
         "gcrma"
     ],
     "AffyRNADegradation": [],
-    "AGDEX": [
-        "GSEABase"
-    ],
+    "AGDEX": [],
     "aggregateBioVar": [
         "SingleCellExperiment"
     ],
@@ -114,7 +111,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "Glimma",
@@ -630,13 +626,11 @@
     "attract": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Rgraphviz",
         "genefilter"
     ],
     "AUCell": [
         "DelayedMatrixStats",
-        "GSEABase",
         "sparseMatrixStats"
     ],
     "autonomics": [
@@ -896,9 +890,7 @@
         "gcrma"
     ],
     "BHC": [],
-    "BicARE": [
-        "GSEABase"
-    ],
+    "BicARE": [],
     "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
@@ -1014,8 +1006,7 @@
         "rtracklayer"
     ],
     "BioCor": [
-        "BiocParallel",
-        "GSEABase"
+        "BiocParallel"
     ],
     "BiocParallel": [],
     "BiocPkgTools": [
@@ -1491,7 +1482,6 @@
         "BiocParallel",
         "Category",
         "EBarrays",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicDataCommons",
         "GenomicFeatures",
@@ -1560,13 +1550,11 @@
         "sparseMatrixStats"
     ],
     "Category": [
-        "GSEABase",
         "genefilter"
     ],
     "categoryCompare": [
         "Category",
         "GOstats",
-        "GSEABase",
         "RCy3",
         "Rgraphviz",
         "genefilter"
@@ -1638,7 +1626,6 @@
         "ComplexHeatmap"
     ],
     "CCPROMISE": [
-        "GSEABase",
         "PROMISE"
     ],
     "CDI": [
@@ -1681,7 +1668,6 @@
     ],
     "cellHTS2": [
         "Category",
-        "GSEABase",
         "genefilter",
         "vsn"
     ],
@@ -1741,7 +1727,6 @@
     "Cepo": [
         "BiocParallel",
         "DelayedMatrixStats",
-        "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
         "rhdf5",
@@ -1855,7 +1840,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineOB": [],
     "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment",
@@ -2514,7 +2498,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -2637,7 +2620,6 @@
         "xcms"
     ],
     "cosmosR": [
-        "GSEABase",
         "decoupleR"
     ],
     "COTAN": [
@@ -2668,7 +2650,6 @@
     "cpvSNP": [
         "BiocIO",
         "BiocParallel",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "Rsamtools",
@@ -3576,7 +3557,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
@@ -3726,7 +3706,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "KEGGgraph",
@@ -3811,7 +3790,6 @@
         "ComplexHeatmap"
     ],
     "EnrichmentBrowser": [
-        "GSEABase",
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
@@ -4098,7 +4076,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -4937,13 +4914,11 @@
         "topconfects"
     ],
     "gep2pep": [
-        "GSEABase",
         "rhdf5",
         "rhdf5filters"
     ],
     "gespeR": [
         "Category",
-        "GSEABase",
         "biomaRt",
         "cellHTS2",
         "genefilter",
@@ -5009,7 +4984,6 @@
         "genomeIntervals"
     ],
     "GISPA": [
-        "GSEABase",
         "genefilter"
     ],
     "GLAD": [],
@@ -5032,7 +5006,6 @@
         "biomaRt"
     ],
     "GlobalAncova": [
-        "GSEABase",
         "globaltest"
     ],
     "globalSeq": [],
@@ -5055,7 +5028,6 @@
     "GmicR": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Rgraphviz",
         "genefilter",
         "impute"
@@ -5120,7 +5092,6 @@
     ],
     "GOstats": [
         "Category",
-        "GSEABase",
         "Rgraphviz",
         "genefilter"
     ],
@@ -5182,14 +5153,12 @@
     "gscreend": [
         "BiocParallel"
     ],
-    "GSEABase": [],
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "BiocParallel",
         "BiocVersion",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "GSEABase",
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
@@ -5216,7 +5185,6 @@
         "rtracklayer"
     ],
     "GSRI": [
-        "GSEABase",
         "genefilter",
         "les"
     ],
@@ -5224,7 +5192,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "HDF5Array",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -5576,7 +5543,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "IHW",
@@ -5750,7 +5716,6 @@
     ],
     "interactiveDisplay": [
         "Category",
-        "GSEABase",
         "genefilter"
     ],
     "InterCellar": [
@@ -6288,7 +6253,6 @@
         "AnnotationHub",
         "BiocVersion",
         "ExperimentHub",
-        "GSEABase",
         "SingleCellExperiment"
     ],
     "MatrixQCvis": [
@@ -6472,7 +6436,6 @@
     ],
     "meshr": [
         "Category",
-        "GSEABase",
         "MeSHDbi",
         "genefilter"
     ],
@@ -6984,7 +6947,6 @@
         "DelayedMatrixStats",
         "GEOquery",
         "GOstats",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7061,7 +7023,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Rgraphviz",
         "TCGAbiolinks",
         "biomaRt",
@@ -7077,7 +7038,6 @@
         "BiocParallel",
         "ComplexHeatmap",
         "DOSE",
-        "GSEABase",
         "ReactomePA",
         "SPONGE",
         "biomaRt",
@@ -7207,7 +7167,6 @@
         "RCy3"
     ],
     "mogsa": [
-        "GSEABase",
         "genefilter",
         "graphite"
     ],
@@ -7843,7 +7802,6 @@
         "DelayedMatrixStats",
         "GEOquery",
         "GOstats",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -7922,9 +7880,7 @@
     "NPARC": [
         "BiocParallel"
     ],
-    "npGSEA": [
-        "GSEABase"
-    ],
+    "npGSEA": [],
     "nucleoSim": [],
     "nucleR": [
         "BiocParallel",
@@ -7953,7 +7909,6 @@
         "DelayedMatrixStats",
         "EDASeq",
         "ExperimentHub",
-        "GSEABase",
         "GSVA",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8083,7 +8038,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -8242,7 +8196,6 @@
     "PanomiR": [
         "BiocParallel",
         "DOSE",
-        "GSEABase",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -8296,7 +8249,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "Rgraphviz",
         "biomaRt",
         "genefilter"
@@ -8347,7 +8299,6 @@
         "vsn"
     ],
     "PECA": [
-        "ROTS",
         "genefilter"
     ],
     "peco": [
@@ -8421,7 +8372,6 @@
     "phenopath": [],
     "phenoTest": [
         "Category",
-        "GSEABase",
         "Heatplus",
         "biomaRt",
         "genefilter",
@@ -8516,7 +8466,6 @@
     "PloGO2": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Rgraphviz",
         "genefilter"
     ],
@@ -8715,9 +8664,7 @@
         "pRoloc",
         "vsn"
     ],
-    "PROMISE": [
-        "GSEABase"
-    ],
+    "PROMISE": [],
     "PROPER": [],
     "PROPS": [
         "BiocParallel",
@@ -9351,7 +9298,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
@@ -9637,7 +9583,6 @@
     "Rmagpie": [],
     "RMassBank": [
         "BiocParallel",
-        "ChemmineOB",
         "ChemmineR",
         "MSnbase",
         "impute",
@@ -9694,7 +9639,6 @@
     ],
     "RNAinteract": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -9823,9 +9767,7 @@
     "roastgsa": [],
     "ROC": [],
     "ROCpAI": [],
-    "RolDE": [
-        "ROTS"
-    ],
+    "RolDE": [],
     "rols": [],
     "ROntoTools": [
         "KEGGgraph",
@@ -9837,7 +9779,6 @@
         "MultiDataSet"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "biomformat",
         "phyloseq",
@@ -10085,7 +10026,6 @@
         "BiocParallel",
         "Cepo",
         "DelayedMatrixStats",
-        "GSEABase",
         "HDF5Array",
         "SingleCellExperiment",
         "hopach",
@@ -10160,7 +10100,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10394,7 +10333,6 @@
         "Category",
         "DOSE",
         "GOstats",
-        "GSEABase",
         "MeSHDbi",
         "ReactomePA",
         "Rgraphviz",
@@ -10408,7 +10346,6 @@
         "schex"
     ],
     "scTGIF": [
-        "GSEABase",
         "SingleCellExperiment",
         "schex"
     ],
@@ -10597,7 +10534,6 @@
     "SGCP": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Rgraphviz",
         "genefilter"
     ],
@@ -10677,14 +10613,12 @@
     ],
     "SigFuge": [],
     "siggenes": [],
-    "sights": [],
     "signatureSearch": [
         "AnnotationHub",
         "BiocParallel",
         "BiocVersion",
         "DOSE",
         "ExperimentHub",
-        "GSEABase",
         "HDF5Array",
         "clusterProfiler",
         "enrichplot",
@@ -10711,7 +10645,6 @@
         "BiocSingular",
         "ComplexHeatmap",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10822,7 +10755,6 @@
         "DelayedMatrixStats",
         "DropletUtils",
         "ExperimentHub",
-        "GSEABase",
         "GSVA",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10886,8 +10818,7 @@
         "sparseMatrixStats"
     ],
     "singscore": [
-        "BiocParallel",
-        "GSEABase"
+        "BiocParallel"
     ],
     "SiPSiC": [
         "SingleCellExperiment"
@@ -10929,7 +10860,6 @@
         "wateRmelon"
     ],
     "slalom": [
-        "GSEABase",
         "SingleCellExperiment"
     ],
     "slingshot": [
@@ -11049,7 +10979,6 @@
         "BiocSet",
         "ComplexHeatmap",
         "DelayedMatrixStats",
-        "GSEABase",
         "sparseMatrixStats"
     ],
     "sparseMatrixStats": [],
@@ -11207,9 +11136,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "splineTimeR": [
-        "GSEABase"
-    ],
+    "splineTimeR": [],
     "SPLINTER": [
         "AnnotationFilter",
         "BSgenome",
@@ -11297,7 +11224,6 @@
     ],
     "staRank": [
         "Category",
-        "GSEABase",
         "cellHTS2",
         "genefilter",
         "vsn"
@@ -11490,7 +11416,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -11619,7 +11544,6 @@
     ],
     "TFutils": [
         "BiocParallel",
-        "GSEABase",
         "Rsamtools"
     ],
     "tidybulk": [],
@@ -11657,9 +11581,7 @@
     "TIN": [
         "impute"
     ],
-    "TissueEnrich": [
-        "GSEABase"
-    ],
+    "TissueEnrich": [],
     "TitanCNA": [
         "BSgenome",
         "BiocIO",
@@ -11693,7 +11615,6 @@
         "BiocParallel",
         "BiocSingular",
         "DelayedMatrixStats",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "ScaledMatrix",
@@ -12171,8 +12092,7 @@
     "vissE": [
         "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
-        "GSEABase"
+        "ExperimentHub"
     ],
     "Voyager": [
         "BiocNeighbors",
@@ -12387,7 +12307,6 @@
     "zenith": [
         "BiocParallel",
         "EnrichmentBrowser",
-        "GSEABase",
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
