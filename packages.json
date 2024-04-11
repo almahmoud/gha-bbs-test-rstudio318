@@ -3296,7 +3296,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "BridgeDbR": [],
     "BrowserViz": [],
     "BSgenome": [
         "Biobase",
@@ -14757,7 +14756,6 @@
     "IRanges": [
         "S4Vectors"
     ],
-    "ISAnalytics": [],
     "iSEE": [
         "Biobase",
         "ComplexHeatmap",
@@ -18655,7 +18653,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "MQmetrics": [],
     "msa": [
         "Biostrings",
         "GenomeInfoDb",
@@ -23450,10 +23447,7 @@
     "rDGIdb": [],
     "Rdisop": [],
     "RDRToolbox": [],
-    "ReactomeContentService4R": [],
-    "ReactomeGraph4R": [
-        "ReactomeContentService4R"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
