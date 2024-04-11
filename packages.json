@@ -1,9 +1,7 @@
 {
-    "alabaster": [],
     "brendaDb": [],
     "cliqueMS": [],
     "clusterExperiment": [],
-    "CytoPipelineGUI": [],
     "DeepBlueR": [],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -23,9 +21,6 @@
     "iCheck": [],
     "lmdme": [],
     "made4": [],
-    "MBASED": [],
-    "methylGSA": [],
-    "methylscaper": [],
     "nanotatoR": [],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -46,13 +41,8 @@
     "rebook": [],
     "RLSeq": [],
     "safe": [],
-    "scMerge": [],
     "SeqSQC": [],
-    "SimBu": [],
-    "simplifyEnrichment": [],
-    "singleCellTK": [
-        "scMerge"
-    ],
+    "singleCellTK": [],
     "statTarget": [],
     "zenith": [
         "EnrichmentBrowser",
