@@ -620,7 +620,6 @@
         "Rsamtools",
         "genefilter"
     ],
-    "AnnotationDbi": [],
     "AnnotationFilter": [
         "GenomicRanges"
     ],
@@ -1763,7 +1762,6 @@
         "SummarizedExperiment",
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [
         "BiocNeighbors",
         "BiocParallel",
@@ -7687,7 +7685,6 @@
         "BiocParallel",
         "GenomicRanges"
     ],
-    "GenomeInfoDb": [],
     "genomeIntervals": [
         "GenomicRanges"
     ],
@@ -9413,7 +9410,6 @@
         "vsn",
         "xcms"
     ],
-    "IRanges": [],
     "iSEE": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -9665,7 +9661,6 @@
         "Rgraphviz"
     ],
     "keggorthology": [],
-    "KEGGREST": [],
     "KinSwingR": [
         "BiocParallel"
     ],
