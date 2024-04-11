@@ -30,10 +30,7 @@
         "ggbio"
     ],
     "affyILM": [],
-    "affylmGUI": [
-        "affyPLM"
-    ],
-    "affyPLM": [],
+    "affylmGUI": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "GOstats",
@@ -186,7 +183,6 @@
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
-        "affyPLM",
         "beadarray",
         "illuminaio"
     ],
@@ -298,8 +294,6 @@
         "ANCOMBC",
         "MAST",
         "Maaslin2",
-        "biomformat",
-        "phyloseq",
         "zinbwave"
     ],
     "BG2": [],
@@ -307,7 +301,6 @@
         "tximport"
     ],
     "BgeeDB": [],
-    "bgx": [],
     "BHC": [],
     "BiGGR": [
         "hyperdraw"
@@ -356,7 +349,6 @@
         "dir.expiry"
     ],
     "BiocVersion": [],
-    "biomformat": [],
     "biomvRCNS": [
         "Gviz",
         "biovizBase"
@@ -437,7 +429,6 @@
         "biovizBase"
     ],
     "BUSpaRse": [],
-    "BUSseq": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -751,10 +742,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "combi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "Gviz",
         "biovizBase"
@@ -1094,7 +1082,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "destiny": [],
     "DEsubs": [
         "EBSeq"
     ],
@@ -1784,7 +1771,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "hicVennDiagram": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -1834,7 +1820,6 @@
     "IFAA": [],
     "igvR": [],
     "illuminaio": [],
-    "ILoReg": [],
     "IMAS": [
         "IVAS"
     ],
@@ -1904,25 +1889,14 @@
         "mzID",
         "xcms"
     ],
-    "iSEE": [],
-    "iSEEde": [
-        "iSEE"
-    ],
-    "iSEEhex": [
-        "iSEE"
-    ],
+    "iSEEde": [],
+    "iSEEhex": [],
     "iSEEhub": [
-        "BiocVersion",
-        "iSEE"
+        "BiocVersion"
     ],
-    "iSEEindex": [
-        "iSEE"
-    ],
-    "iSEEpathways": [
-        "iSEE"
-    ],
+    "iSEEindex": [],
+    "iSEEpathways": [],
     "iSEEu": [
-        "iSEE",
         "iSEEhex"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -1967,7 +1941,6 @@
     "les": [],
     "levi": [],
     "lfa": [],
-    "LineagePulse": [],
     "lineagespot": [],
     "LinkHD": [],
     "lipidr": [
@@ -2086,8 +2059,6 @@
     ],
     "matter": [],
     "MBECS": [
-        "biomformat",
-        "phyloseq",
         "sva"
     ],
     "mbkmeans": [],
@@ -2252,21 +2223,11 @@
     ],
     "miaSim": [],
     "miaViz": [],
-    "microbiome": [
-        "biomformat",
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "biomformat",
-        "phyloseq"
-    ],
-    "microbiomeExplorer": [
-        "biomformat"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "biomformat",
-        "phyloseq"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "DOSE",
@@ -2280,9 +2241,7 @@
         "TOAST"
     ],
     "miloR": [],
-    "mimager": [
-        "affyPLM"
-    ],
+    "mimager": [],
     "MineICA": [
         "GOstats",
         "HDF5Array",
@@ -2734,10 +2693,7 @@
     ],
     "Path2PPI": [],
     "pathifier": [],
-    "PathoStat": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "PathoStat": [],
     "pathview": [],
     "pcaExplorer": [
         "GOstats"
@@ -2764,10 +2720,7 @@
     ],
     "peco": [],
     "PepsNMR": [],
-    "PERFect": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "PERFect": [],
     "periodicDNA": [],
     "pfamAnalyzeR": [],
     "pgca": [],
@@ -2777,9 +2730,7 @@
         "CoreGx",
         "piano"
     ],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "PhenoGeneRanker": [],
     "phenomis": [
         "ropls"
@@ -2791,9 +2742,6 @@
     "PhyloProfile": [
         "BiocVersion",
         "OmaDB"
-    ],
-    "phyloseq": [
-        "biomformat"
     ],
     "Pi": [
         "supraHex"
@@ -2844,9 +2792,7 @@
     ],
     "pqsfinder": [],
     "prebs": [
-        "RPA",
-        "biomformat",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "rCGH"
@@ -2926,7 +2872,6 @@
         "impute",
         "mzID"
     ],
-    "puma": [],
     "PureCN": [],
     "Pviz": [
         "Gviz",
@@ -3008,10 +2953,7 @@
     ],
     "RCASPAR": [],
     "rCGH": [],
-    "RCM": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RCM": [],
     "RCSL": [],
     "Rcwl": [
         "basilisk",
@@ -3034,10 +2976,7 @@
     "rebook": [
         "dir.expiry"
     ],
-    "reconsi": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "GenomicFiles",
         "derfinder"
@@ -3227,10 +3166,7 @@
     "ROC": [],
     "ROntoTools": [],
     "ropls": [],
-    "RPA": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -3320,7 +3256,6 @@
         "scran"
     ],
     "scGPS": [],
-    "schex": [],
     "scHOT": [],
     "scider": [
         "SpatialExperiment"
@@ -3329,7 +3264,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scmap": [],
     "scMerge": [
         "M3Drop",
         "batchelor",
@@ -3343,7 +3277,6 @@
         "bsseq",
         "regioneR"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "RUVSeq"
@@ -3385,12 +3318,9 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
-        "schex"
+        "meshr"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData",
@@ -3452,10 +3382,7 @@
         "illuminaio",
         "minfi"
     ],
-    "SIAMCAT": [
-        "biomformat",
-        "phyloseq"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -3486,11 +3413,8 @@
     "SimBu": [
         "basilisk",
         "basilisk.utils",
-        "biomformat",
-        "dir.expiry",
-        "phyloseq"
+        "dir.expiry"
     ],
-    "SIMD": [],
     "similaRpeak": [],
     "simpleSeg": [
         "HDF5Array",
@@ -3641,9 +3565,7 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "biomformat",
-        "impute",
-        "phyloseq"
+        "impute"
     ],
     "sRACIPE": [],
     "srnadiff": [
@@ -3755,7 +3677,6 @@
     ],
     "TFutils": [],
     "tidybulk": [],
-    "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tilingArray": [],
     "timeOmics": [],
@@ -3897,7 +3818,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "VDJdive": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
