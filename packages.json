@@ -16,7 +16,6 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAMgui": [],
     "adductomicsR": [
         "BiocVersion"
     ],
@@ -782,7 +781,6 @@
     "CNVMetrics": [],
     "CNVPanelizer": [],
     "CNVRanger": [
-        "GDSArray",
         "RaggedExperiment"
     ],
     "CNVrd2": [],
@@ -1104,7 +1102,6 @@
         "HDF5Array",
         "bumphunter",
         "illuminaio",
-        "methylKit",
         "minfi"
     ],
     "decoupleR": [],
@@ -1376,7 +1373,6 @@
     ],
     "epiNEM": [],
     "EpiTxDb": [
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -1658,7 +1654,6 @@
         "flowViz"
     ],
     "gatom": [],
-    "GBScleanR": [],
     "gcapc": [],
     "gcatest": [
         "lfa"
@@ -1698,7 +1693,6 @@
         "BiocCheck"
     ],
     "gDRutils": [],
-    "GDSArray": [],
     "gemini": [],
     "geneAttribution": [],
     "GeneBreak": [
@@ -1712,7 +1706,6 @@
     "GeneOverlap": [],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
         "quantsmooth"
     ],
     "GeneStructureTools": [
@@ -1775,7 +1768,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggmanh": [],
     "GGPA": [],
     "ggsc": [],
     "ggspavis": [
@@ -2334,9 +2326,7 @@
     "MetCirc": [
         "Spectra"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -2382,10 +2372,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -3202,7 +3189,6 @@
     "RAIDS": [
         "GENESIS",
         "GWASTools",
-        "SeqVarTools",
         "quantsmooth"
     ],
     "ramwas": [],
@@ -3492,7 +3478,6 @@
     "Rvisdiff": [],
     "RVS": [],
     "rWikiPathways": [],
-    "SAIGEgds": [],
     "sampleClassifier": [],
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
@@ -3599,7 +3584,6 @@
     "scp": [
         "QFeatures"
     ],
-    "scPCA": [],
     "scPipe": [
         "DropletUtils",
         "HDF5Array",
@@ -3680,7 +3664,6 @@
     "SeqSQC": [
         "BiocVersion"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "BiocVersion",
         "illuminaio"
@@ -4113,13 +4096,8 @@
         "sva"
     ],
     "tripr": [],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
-    "tRNAscanImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
+    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [
         "TrajectoryUtils"
@@ -4160,9 +4138,7 @@
         "crlmm",
         "illuminaio"
     ],
-    "VariantExperiment": [
-        "GDSArray"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "BiocVersion",
         "GenomicScores",
