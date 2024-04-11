@@ -196,7 +196,6 @@
         "VariantAnnotation"
     ],
     "apComplex": [],
-    "APL": [],
     "appreci8R": [
         "BiocVersion",
         "GenomicScores",
@@ -642,7 +641,6 @@
         "ShortRead"
     ],
     "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "Category"
     ],
@@ -846,7 +844,6 @@
         "enrichplot",
         "fgsea"
     ],
-    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [
         "fgsea"
