@@ -1291,7 +1291,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "BufferedMatrixMethods": [],
     "BUMHMM": [],
     "bumphunter": [
         "BiocIO",
@@ -3432,7 +3431,6 @@
         "beachmat",
         "graphite",
         "pathview",
-        "safe",
         "sparseMatrixStats",
         "variancePartition",
         "zenith"
@@ -3582,7 +3580,6 @@
         "pathview",
         "rhdf5",
         "rhdf5filters",
-        "safe",
         "sparseMatrixStats"
     ],
     "eiR": [
@@ -3624,7 +3621,6 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "EnMCB": [],
     "ENmix": [
         "AnnotationHub",
         "BiocIO",
@@ -3656,8 +3652,7 @@
         "Rgraphviz",
         "SPIA",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "BiocParallel",
@@ -4969,8 +4964,7 @@
         "Rgraphviz",
         "SPIA",
         "graphite",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "gsean": [
         "BiocParallel",
@@ -5111,7 +5105,6 @@
         "rtracklayer"
     ],
     "HELP": [],
-    "HEM": [],
     "hermes": [
         "BiocBaseUtils",
         "BiocParallel",
@@ -5334,7 +5327,6 @@
         "GOstats",
         "GenomicAlignments",
         "GenomicFeatures",
-        "IHW",
         "Rgraphviz",
         "Rsamtools",
         "genefilter",
@@ -5364,7 +5356,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "IHW": [],
     "illuminaio": [],
     "ILoReg": [
         "SingleCellExperiment"
@@ -5630,7 +5621,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "iterativeBMA": [],
     "IVAS": [
         "BiocIO",
         "BiocParallel",
@@ -5832,8 +5822,7 @@
         "sparseMatrixStats"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "msa"
+        "ggtree"
     ],
     "M3C": [],
     "M3Drop": [
@@ -6347,7 +6336,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "BiocIO",
         "BiocParallel",
@@ -6532,7 +6520,6 @@
     "MetNet": [
         "BiocParallel"
     ],
-    "mfa": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -6764,7 +6751,6 @@
         "impute"
     ],
     "miRmine": [],
-    "miRNAmeConverter": [],
     "miRNApath": [],
     "miRSM": [
         "BicARE",
@@ -7019,7 +7005,6 @@
     "MPRAnalyze": [
         "BiocParallel"
     ],
-    "msa": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
         "BiocParallel",
@@ -7253,7 +7238,6 @@
         "rhdf5filters"
     ],
     "MultiMed": [],
-    "multiMiR": [],
     "MultimodalExperiment": [
         "BiocBaseUtils",
         "MultiAssayExperiment"
@@ -7266,7 +7250,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "multiscan": [],
     "multiWGCNA": [
         "impute"
     ],
@@ -7631,9 +7614,7 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "AnnotationFilter",
         "AnnotationHub",
@@ -8453,7 +8434,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationHub",
         "BiocVersion",
@@ -9041,7 +9021,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "RGSEA": [],
     "rgsepd": [
         "BiocIO",
         "BiocParallel",
@@ -9409,7 +9388,6 @@
         "rhdf5filters"
     ],
     "rprimer": [],
-    "rpx": [],
     "Rqc": [
         "AnnotationFilter",
         "BSgenome",
@@ -9499,7 +9477,6 @@
         "snpStats"
     ],
     "rWikiPathways": [],
-    "safe": [],
     "SAIGEgds": [
         "SeqArray"
     ],
@@ -10860,9 +10837,7 @@
     "Summix": [],
     "supersigs": [],
     "supraHex": [],
-    "surfaltr": [
-        "msa"
-    ],
+    "surfaltr": [],
     "survtype": [],
     "sva": [
         "BiocParallel",
@@ -11832,7 +11807,6 @@
         "SPIA",
         "graphite",
         "pathview",
-        "safe",
         "variancePartition"
     ],
     "zFPKM": [],
