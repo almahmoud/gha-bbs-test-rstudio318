@@ -2724,7 +2724,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "fgga": [],
     "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [
@@ -3344,7 +3343,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [
         "BiocVersion",
         "VariantAnnotation",
@@ -5762,7 +5760,6 @@
         "VariantAnnotation"
     ],
     "QuaternaryProd": [],
-    "qusage": [],
     "R3CPET": [
         "AnnotationFilter",
         "OrganismDbi",
@@ -5808,7 +5805,6 @@
     "RandomWalkRestartMH": [
         "supraHex"
     ],
-    "randPack": [],
     "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [
@@ -6114,7 +6110,6 @@
         "STRINGdb",
         "ensembldb"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
     ],
@@ -6124,7 +6119,6 @@
         "ComplexHeatmap",
         "regioneR"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "MSnbase",
         "impute",
@@ -6239,7 +6233,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "rprimer": [],
     "Rqc": [
         "AnnotationFilter",
         "GenomicFiles",
@@ -7391,7 +7384,6 @@
         "SingleCellExperiment"
     ],
     "tidySummarizedExperiment": [],
-    "tigre": [],
     "TileDBArray": [],
     "tilingArray": [
         "genefilter",
