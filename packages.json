@@ -414,7 +414,6 @@
     "BioCor": [],
     "BiocPkgTools": [],
     "BiocSet": [],
-    "BiocSingular": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -2780,7 +2779,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "mia": [],
     "miaSim": [],
     "miaViz": [],
     "microbiome": [
@@ -3508,7 +3506,6 @@
     "POWSC": [
         "MAST"
     ],
-    "ppcseq": [],
     "PPInfer": [
         "STRINGdb",
         "fgsea"
@@ -3794,7 +3791,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "regsplice": [],
     "regutools": [
         "BiocVersion",
         "Gviz",
@@ -4056,7 +4052,6 @@
     "SCATE": [
         "BiocVersion"
     ],
-    "scater": [],
     "scatterHatch": [],
     "scBFA": [
         "DESeq2",
