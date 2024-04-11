@@ -70,7 +70,6 @@
     "affyPLM": [
         "gcrma"
     ],
-    "AffyRNADegradation": [],
     "AGDEX": [],
     "aggregateBioVar": [
         "SingleCellExperiment"
@@ -331,7 +330,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "arrayQuality": [],
     "arrayQualityMetrics": [
         "BeadDataPackR",
         "affyPLM",
@@ -665,8 +663,6 @@
     "BiocVersion": [],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbHmdb": [],
-    "biodbKegg": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNcbi": [],
@@ -2460,7 +2456,6 @@
         "orthogene"
     ],
     "ExCluster": [],
-    "ExiMiR": [],
     "exomeCopy": [],
     "exomePeak2": [
         "DESeq2"
@@ -3051,9 +3046,7 @@
         "DESeq2",
         "ensembldb"
     ],
-    "GraphPAC": [
-        "iPAC"
-    ],
+    "GraphPAC": [],
     "GreyListChIP": [],
     "GRmetrics": [],
     "groHMM": [],
@@ -3379,7 +3372,6 @@
         "ShortRead",
         "rhdf5"
     ],
-    "iPAC": [],
     "iPath": [],
     "ipdDb": [
         "BiocVersion"
@@ -3835,8 +3827,7 @@
     "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "BiocBaseUtils",
-        "MultiAssayExperiment",
-        "struct"
+        "MultiAssayExperiment"
     ],
     "metabomxtr": [],
     "MetaboSignal": [
@@ -4781,9 +4772,7 @@
         "oligoClasses"
     ],
     "oligoClasses": [],
-    "OLIN": [],
     "OLINgui": [
-        "OLIN",
         "tkWidgets",
         "widgetTools"
     ],
@@ -5337,8 +5326,7 @@
     "quantsmooth": [],
     "QuartPAC": [
         "GraphPAC",
-        "SpacePAC",
-        "iPAC"
+        "SpacePAC"
     ],
     "QuasR": [
         "GenomicFiles",
@@ -5418,7 +5406,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "Rcpi": [],
     "RCSL": [
         "SingleCellExperiment"
     ],
@@ -5822,7 +5809,6 @@
     "RTNsurvival": [
         "RTNduals"
     ],
-    "RTopper": [],
     "rTRMui": [
         "MotifDb"
     ],
@@ -6506,9 +6492,7 @@
         "rhdf5",
         "sparseMatrixStats"
     ],
-    "SpacePAC": [
-        "iPAC"
-    ],
+    "SpacePAC": [],
     "Spaniel": [
         "BiocNeighbors",
         "BiocSingular",
@@ -6708,10 +6692,7 @@
     ],
     "strandCheckR": [],
     "STRINGdb": [],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -6928,7 +6909,6 @@
         "fgsea",
         "piano"
     ],
-    "TPP": [],
     "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
