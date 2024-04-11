@@ -162,9 +162,7 @@
         "impute"
     ],
     "AMOUNTAIN": [],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [
         "DESeq2"
     ],
@@ -285,9 +283,7 @@
     ],
     "bambu": [],
     "bamsignals": [],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "MSnbase",
@@ -296,9 +292,7 @@
         "pRoloc"
     ],
     "banocc": [],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "Basic4Cseq": [],
     "BASiCS": [
         "scran"
@@ -340,10 +334,7 @@
     ],
     "BeadDataPackR": [],
     "BEARscc": [],
-    "BEAT": [
-        "ShortRead"
-    ],
-    "BEclear": [],
+    "BEAT": [],
     "beer": [],
     "benchdamic": [
         "ANCOMBC",
@@ -375,7 +366,6 @@
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "EBarrays",
@@ -633,9 +623,7 @@
     "celda": [
         "scran"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "cellbaseR": [],
     "cellHTS2": [
         "Category"
@@ -744,7 +732,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "ShortRead",
         "chipseq",
         "systemPipeR"
     ],
@@ -753,16 +740,11 @@
         "enrichplot",
         "fgsea"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
+    "chipseq": [],
     "ChIPseqR": [
-        "HilbertVis",
-        "ShortRead"
+        "HilbertVis"
     ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "ChIPsim": [],
     "ChIPXpress": [
         "frma"
     ],
@@ -794,10 +776,8 @@
         "universalmotif"
     ],
     "CircSeqAlignTk": [
-        "Rbowtie2",
         "Rhisat2",
-        "SGSeq",
-        "ShortRead"
+        "SGSeq"
     ],
     "CiteFuse": [
         "scran"
@@ -955,8 +935,7 @@
     "consensusDE": [
         "DESeq2",
         "EDASeq",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "consensusOV": [
         "GSVA",
@@ -1175,9 +1154,7 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
@@ -1192,7 +1169,6 @@
     "DaMiRseq": [
         "DESeq2",
         "EDASeq",
-        "ShortRead",
         "sva"
     ],
     "DAPAR": [
@@ -1333,7 +1309,6 @@
     "DiffBind": [
         "DESeq2",
         "GreyListChIP",
-        "ShortRead",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1346,7 +1321,6 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
         "tximport"
     ],
     "diffHic": [],
@@ -1407,7 +1381,6 @@
         "pathview",
         "zenith"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "HDF5Array"
     ],
@@ -1433,9 +1406,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "easyRNASeq": [
-        "ShortRead"
-    ],
+    "easyRNASeq": [],
     "EBarrays": [],
     "EBcoexpress": [
         "EBarrays"
@@ -1448,9 +1419,7 @@
     "EBSeqHMM": [
         "EBSeq"
     ],
-    "EDASeq": [
-        "ShortRead"
-    ],
+    "EDASeq": [],
     "edge": [
         "sva"
     ],
@@ -1596,8 +1565,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "Rbowtie2",
-        "ShortRead",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1659,9 +1626,7 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -1684,7 +1649,6 @@
         "minfi"
     ],
     "fgsea": [],
-    "FilterFFPE": [],
     "FindIT2": [],
     "fishpond": [],
     "FitHiC": [],
@@ -1862,7 +1826,6 @@
         "DaMiRseq",
         "EDASeq",
         "MLSeq",
-        "ShortRead",
         "sSeq",
         "sva"
     ],
@@ -1928,7 +1891,6 @@
         "impute"
     ],
     "GeneMeta": [],
-    "GeneNetworkBuilder": [],
     "GeneOverlap": [],
     "GENESIS": [
         "GWASTools",
@@ -2018,9 +1980,7 @@
         "SpatialExperiment"
     ],
     "GIGSEA": [],
-    "girafe": [
-        "ShortRead"
-    ],
+    "girafe": [],
     "GISPA": [],
     "GLAD": [],
     "Glimma": [
@@ -2061,9 +2021,7 @@
     "GOstats": [
         "Category"
     ],
-    "GOTHiC": [
-        "ShortRead"
-    ],
+    "GOTHiC": [],
     "GPA": [],
     "gpls": [],
     "GRaNIE": [
@@ -2187,7 +2145,6 @@
         "BiocVersion"
     ],
     "HTSeqGenie": [
-        "ShortRead",
         "VariantAnnotation",
         "VariantTools",
         "chipseq",
@@ -2203,7 +2160,6 @@
     "iBBiG": [],
     "icetea": [
         "DESeq2",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "iCheck": [
@@ -2300,9 +2256,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "IONiseR": [
-        "ShortRead"
-    ],
+    "IONiseR": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -2638,7 +2592,6 @@
         "DSS",
         "EDASeq",
         "HDF5Array",
-        "ShortRead",
         "bsseq"
     ],
     "MetaVolcanoR": [
@@ -2884,7 +2837,6 @@
     ],
     "mosaics": [],
     "mosbi": [],
-    "Motif2Site": [],
     "motifbreakR": [
         "CNEr",
         "Gviz",
@@ -2928,7 +2880,6 @@
     ],
     "msgbsR": [
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
@@ -3161,9 +3112,7 @@
     "normr": [
         "bamsignals"
     ],
-    "nucleR": [
-        "ShortRead"
-    ],
+    "nucleR": [],
     "nuCpos": [],
     "nullranges": [
         "plyranges"
@@ -3174,8 +3123,7 @@
         "EDASeq",
         "GSVA",
         "HDF5Array",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "OGRE": [
         "BiocVersion",
@@ -3252,9 +3200,7 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2"
     ],
@@ -3262,7 +3208,6 @@
         "Repitools",
         "Ringo"
     ],
-    "OVESEG": [],
     "PAA": [
         "sva"
     ],
@@ -3315,7 +3260,6 @@
         "DESeq2",
         "GOstats"
     ],
-    "PCAN": [],
     "PCAtools": [],
     "pcxn": [],
     "PDATK": [
@@ -3438,7 +3382,6 @@
         "fgsea"
     ],
     "pqsfinder": [],
-    "pram": [],
     "prebs": [
         "RPA",
         "biomformat",
@@ -3471,7 +3414,6 @@
         "ChIPseeker",
         "DOSE",
         "EnrichedHeatmap",
-        "ShortRead",
         "chipseq",
         "enrichplot",
         "fgsea",
@@ -3583,7 +3525,6 @@
     ],
     "QuasR": [
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "QuaternaryProd": [],
@@ -3595,7 +3536,6 @@
     ],
     "r3Cseq": [],
     "R453Plus1Toolbox": [
-        "ShortRead",
         "VariantAnnotation"
     ],
     "RadioGx": [
@@ -3625,10 +3565,8 @@
         "VariantAnnotation"
     ],
     "Rbec": [
-        "ShortRead",
         "dada2"
     ],
-    "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
         "genomation",
@@ -3802,7 +3740,6 @@
         "CNEr",
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "TFBSTools",
         "motifStack"
     ],
@@ -3883,7 +3820,6 @@
         "biovizBase"
     ],
     "rnaseqcomp": [],
-    "RNAseqCovarImpute": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
@@ -3914,7 +3850,6 @@
     ],
     "Rqc": [
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3923,9 +3858,7 @@
     ],
     "rsemmed": [],
     "RSeqAn": [],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTCGAToolbox": [
         "RaggedExperiment",
         "TCGAutils"
@@ -3936,8 +3869,7 @@
     ],
     "RUVcorr": [],
     "RUVSeq": [
-        "EDASeq",
-        "ShortRead"
+        "EDASeq"
     ],
     "Rvisdiff": [],
     "RVS": [],
@@ -4043,8 +3975,7 @@
     "SCnorm": [],
     "scone": [
         "EDASeq",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "Sconify": [
         "cytolib",
@@ -4078,7 +4009,6 @@
     ],
     "scruff": [
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "ggbio"
@@ -4099,7 +4029,6 @@
     "scTGIF": [
         "schex"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "OrganismDbi",
         "bumphunter",
@@ -4120,9 +4049,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "segmentSeq": [
-        "ShortRead"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [
         "HiLDA"
     ],
@@ -4181,7 +4108,6 @@
         "illuminaio",
         "minfi"
     ],
-    "ShortRead": [],
     "SIAMCAT": [
         "biomformat",
         "phyloseq"
@@ -4268,7 +4194,6 @@
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "SingleR": [],
@@ -4308,7 +4233,6 @@
         "VariantAnnotation"
     ],
     "soGGi": [
-        "ShortRead",
         "chipseq"
     ],
     "SomaticSignatures": [
@@ -4419,7 +4343,6 @@
     "standR": [
         "EDASeq",
         "RUVSeq",
-        "ShortRead",
         "SpatialExperiment"
     ],
     "staRank": [
@@ -4471,9 +4394,7 @@
         "RankProd"
     ],
     "syntenet": [],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2"
@@ -4534,7 +4455,6 @@
     "TFBSTools": [
         "CNEr"
     ],
-    "TFEA.ChIP": [],
     "TFHAZ": [
         "DESeq2",
         "ORFik"
@@ -4603,7 +4523,6 @@
     "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
     "transcriptR": [
-        "ShortRead",
         "chipseq"
     ],
     "transformGamPoi": [
@@ -4659,7 +4578,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "txcutr": [],
     "tximeta": [
         "BiocVersion",
         "tximport"
@@ -4674,8 +4592,6 @@
     ],
     "UMI4Cats": [
         "DESeq2",
-        "Rbowtie2",
-        "ShortRead",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -4754,7 +4670,6 @@
         "DESeq2",
         "DiffBind",
         "GreyListChIP",
-        "ShortRead",
         "regioneR",
         "systemPipeR"
     ],
