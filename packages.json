@@ -878,7 +878,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenome": [],
     "BSgenomeForge": [],
     "bsseq": [
         "DelayedMatrixStats",
@@ -988,8 +987,7 @@
     ],
     "cardelino": [
         "VariantAnnotation",
-        "ggtree",
-        "snpStats"
+        "ggtree"
     ],
     "Cardinal": [
         "CardinalIO",
@@ -1165,8 +1163,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "snpStats"
+        "ggtree"
     ],
     "CexoR": [
         "genomation",
@@ -1341,7 +1338,6 @@
         "DESeq2",
         "VariantAnnotation",
         "gwascat",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -2052,7 +2048,6 @@
         "ComplexHeatmap",
         "DESeq2"
     ],
-    "DEGseq": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
@@ -2153,14 +2148,12 @@
         "GEOquery",
         "genefilter",
         "impute",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
         "DESeq2",
         "genefilter"
     ],
-    "DFP": [],
     "DIAlignR": [],
     "DiffBind": [
         "DESeq2",
@@ -3042,9 +3035,7 @@
     "genefu": [
         "impute"
     ],
-    "GeneGeneInteR": [
-        "snpStats"
-    ],
+    "GeneGeneInteR": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -3345,8 +3336,7 @@
     ],
     "gwascat": [
         "BiocVersion",
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "GWASTools": [
         "quantsmooth"
@@ -3913,7 +3903,6 @@
         "rhdf5",
         "rhdf5filters",
         "siggenes",
-        "snpStats",
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
@@ -3966,9 +3955,7 @@
         "rhdf5filters"
     ],
     "marr": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationFilter",
         "Gviz",
@@ -4102,18 +4089,15 @@
     "memes": [
         "universalmotif"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "BiocVersion",
         "DOSE",
-        "MeSHDbi",
         "enrichplot",
         "fgsea",
         "ggtree"
     ],
     "meshr": [
         "Category",
-        "MeSHDbi",
         "genefilter"
     ],
     "MesKit": [
@@ -4841,7 +4825,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "Mulcom": [],
     "MultiAssayExperiment": [
         "BiocBaseUtils"
     ],
@@ -6271,15 +6254,12 @@
     ],
     "runibic": [],
     "RUVcorr": [],
-    "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
         "ShortRead"
     ],
     "Rvisdiff": [],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "rWikiPathways": [],
     "SAIGEgds": [
         "SeqArray"
@@ -6526,8 +6506,7 @@
     ],
     "SCOPE": [],
     "scoreInvHap": [
-        "VariantAnnotation",
-        "snpStats"
+        "VariantAnnotation"
     ],
     "scp": [
         "AnnotationFilter",
@@ -6604,7 +6583,6 @@
         "Category",
         "DOSE",
         "GOstats",
-        "MeSHDbi",
         "ReactomePA",
         "SingleCellExperiment",
         "enrichplot",
@@ -6981,7 +6959,6 @@
         "VariantAnnotation"
     ],
     "SNPRelate": [],
-    "snpStats": [],
     "soGGi": [
         "ShortRead",
         "chipseq"
@@ -7722,8 +7699,7 @@
     "vtpnet": [
         "BiocVersion",
         "VariantAnnotation",
-        "gwascat",
-        "snpStats"
+        "gwascat"
     ],
     "vulcan": [
         "AnnotationFilter",
