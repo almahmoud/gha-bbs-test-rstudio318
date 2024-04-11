@@ -123,7 +123,6 @@
     ],
     "alabaster": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "HDF5Array",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -149,7 +148,6 @@
         "rhdf5filters"
     ],
     "alabaster.bumpy": [
-        "BumpyMatrix",
         "alabaster.base",
         "alabaster.schemas",
         "rhdf5",
@@ -895,7 +893,6 @@
     ],
     "BUMHMM": [],
     "bumphunter": [],
-    "BumpyMatrix": [],
     "BUS": [],
     "BUScorrect": [],
     "BUSpaRse": [
@@ -1663,7 +1660,6 @@
     ],
     "CoreGx": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "fgsea",
         "piano"
@@ -2983,7 +2979,6 @@
     ],
     "gDR": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -2995,13 +2990,11 @@
     ],
     "gDRcore": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "MultiAssayExperiment",
         "gDRutils"
     ],
     "gDRimport": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
@@ -3015,7 +3008,6 @@
     ],
     "gDRutils": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "MultiAssayExperiment"
     ],
     "GDSArray": [
@@ -5340,7 +5332,6 @@
     "pcxn": [],
     "PDATK": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -5403,7 +5394,6 @@
     ],
     "PharmacoGx": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -5759,7 +5749,6 @@
     "R4RNA": [],
     "RadioGx": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -7431,7 +7420,6 @@
     ],
     "ToxicoGx": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "CoreGx",
         "MultiAssayExperiment",
         "fgsea",
@@ -7775,7 +7763,6 @@
     ],
     "Xeva": [
         "BiocBaseUtils",
-        "BumpyMatrix",
         "ComplexHeatmap",
         "CoreGx",
         "MultiAssayExperiment",
