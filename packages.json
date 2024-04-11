@@ -391,7 +391,6 @@
         "impute",
         "regioneR"
     ],
-    "BiSeq": [],
     "blacksheepr": [
         "DEXSeq"
     ],
@@ -532,8 +531,6 @@
         "dir.expiry"
     ],
     "ccfindR": [],
-    "ccImpute": [],
-    "CCPlotR": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -960,7 +957,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cytoKernel": [],
     "cytolib": [],
     "cytomapper": [
         "HDF5Array",
@@ -1254,7 +1250,6 @@
         "impute",
         "minfi"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "SPIA",
         "pathview"
@@ -1367,7 +1362,6 @@
         "SpatialExperiment"
     ],
     "extraChIPs": [
-        "EnrichedHeatmap",
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
@@ -1578,11 +1572,9 @@
         "flowFP",
         "flowViz"
     ],
-    "gatom": [],
     "gcatest": [
         "lfa"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
@@ -1709,7 +1701,6 @@
         "GOstats",
         "impute"
     ],
-    "gmoviz": [],
     "GNOSIS": [
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -2175,7 +2166,6 @@
         "enrichplot"
     ],
     "meshr": [],
-    "MesKit": [],
     "MetaboAnnotation": [
         "BiocVersion",
         "CompoundDb",
@@ -2355,7 +2345,6 @@
     "miRSM": [
         "DOSE",
         "ReactomePA",
-        "SPONGE",
         "clusterProfiler",
         "enrichplot",
         "iBBiG",
@@ -2365,7 +2354,6 @@
     "miRspongeR": [
         "DOSE",
         "ReactomePA",
-        "SPONGE",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2447,7 +2435,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "MPRAnalyze": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -2928,7 +2915,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "EnrichedHeatmap",
         "chipseq",
         "enrichplot",
         "soGGi"
@@ -3110,7 +3096,6 @@
         "illuminaio",
         "minfi"
     ],
-    "recoup": [],
     "REDseq": [
         "ChIPpeakAnno",
         "regioneR"
@@ -3558,13 +3543,11 @@
     ],
     "SIMD": [],
     "similaRpeak": [],
-    "simona": [],
     "simpleSeg": [
         "HDF5Array",
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
         "scran"
@@ -3704,7 +3687,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "SPONGE": [],
     "SpotClean": [
         "SpatialExperiment"
     ],
