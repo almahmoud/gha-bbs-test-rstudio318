@@ -40,9 +40,7 @@
         "ADAM"
     ],
     "adductomicsR": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "ADImpute": [
         "SingleCellExperiment"
@@ -108,14 +106,12 @@
         "oligoClasses"
     ],
     "AHMassBank": [
-        "AnnotationHub",
         "AnnotationHubData",
         "BiocBaseUtils",
         "BiocCheck",
         "BiocVersion",
         "GenomicFeatures",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "airpart": [
         "BiocNeighbors",
@@ -270,11 +266,9 @@
         "makecdfenv"
     ],
     "AMARETTO": [
-        "AnnotationHub",
         "BiocBaseUtils",
         "BiocVersion",
         "ComplexHeatmap",
-        "ExperimentHub",
         "HDF5Array",
         "MultiAssayExperiment",
         "impute",
@@ -323,16 +317,13 @@
         "BiocVersion"
     ],
     "AnnotationHubData": [
-        "AnnotationHub",
         "BiocBaseUtils",
         "BiocCheck",
         "BiocVersion",
         "GenomicFeatures",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "annotatr": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "regioneR"
@@ -354,7 +345,6 @@
         "SingleCellExperiment"
     ],
     "appreci8R": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "GenomicScores",
@@ -445,7 +435,6 @@
     ],
     "ATACseqQC": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
@@ -468,7 +457,6 @@
         "motifmatchr"
     ],
     "atena": [
-        "AnnotationHub",
         "BiocVersion",
         "sparseMatrixStats"
     ],
@@ -721,8 +709,7 @@
     "BioCartaImage": [],
     "BiocBaseUtils": [],
     "BiocCheck": [
-        "BiocBaseUtils",
-        "biocViews"
+        "BiocBaseUtils"
     ],
     "BiocFHIR": [
         "BiocBaseUtils"
@@ -736,17 +723,13 @@
         "dir.expiry"
     ],
     "BiocHubsShiny": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "BiocNeighbors": [],
     "BiocOncoTK": [
-        "AnnotationHub",
         "BiocBaseUtils",
         "BiocVersion",
         "ComplexHeatmap",
-        "ExperimentHub",
         "GenomicFeatures",
         "HDF5Array",
         "MultiAssayExperiment",
@@ -755,9 +738,7 @@
         "rhdf5filters"
     ],
     "BioCor": [],
-    "BiocPkgTools": [
-        "biocViews"
-    ],
+    "BiocPkgTools": [],
     "BiocSet": [],
     "BiocSingular": [
         "ScaledMatrix",
@@ -769,7 +750,6 @@
         "dir.expiry"
     ],
     "BiocVersion": [],
-    "biocViews": [],
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbHmdb": [],
@@ -837,12 +817,10 @@
         "ensembldb"
     ],
     "biscuiteer": [
-        "AnnotationHub",
         "BiocVersion",
         "CGHbase",
         "CGHcall",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GenomicFeatures",
         "HDF5Array",
         "OrganismDbi",
@@ -880,10 +858,8 @@
         "Rgraphviz"
     ],
     "BloodGen3Module": [
-        "AnnotationHub",
         "BiocVersion",
-        "ComplexHeatmap",
-        "ExperimentHub"
+        "ComplexHeatmap"
     ],
     "bluster": [
         "BiocNeighbors"
@@ -927,7 +903,6 @@
     "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "GenomicFiles",
@@ -1103,7 +1078,6 @@
     "categoryCompare": [
         "Category",
         "GOstats",
-        "RCy3",
         "Rgraphviz",
         "genefilter"
     ],
@@ -1133,10 +1107,8 @@
         "TCGAutils"
     ],
     "CBNplot": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "ExperimentHub",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1152,7 +1124,6 @@
         "SingleCellExperiment"
     ],
     "ccImpute": [],
-    "ccmap": [],
     "CCPlotR": [
         "ComplexHeatmap"
     ],
@@ -1180,7 +1151,6 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
@@ -1206,7 +1176,6 @@
         "sparseMatrixStats"
     ],
     "cellity": [],
-    "CellMapper": [],
     "cellmigRation": [],
     "CellMixS": [
         "BiocNeighbors",
@@ -1254,7 +1223,6 @@
         "ComplexHeatmap",
         "DESeq2",
         "DOSE",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -1276,9 +1244,7 @@
         "plyranges"
     ],
     "cfTools": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1302,11 +1268,9 @@
     ],
     "ChAMP": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DMRcate",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures",
         "Gviz",
@@ -1433,7 +1397,6 @@
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
-        "biocViews",
         "biovizBase",
         "ensembldb",
         "monocle"
@@ -1443,7 +1406,6 @@
     ],
     "CINdex": [],
     "circRNAprofiler": [
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
         "GenomicFeatures",
@@ -1539,7 +1501,6 @@
         "baySeq"
     ],
     "ClusterSignificance": [],
-    "clusterStab": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"
@@ -1677,9 +1638,7 @@
         "ensembldb"
     ],
     "coMethDMR": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GenomicFeatures",
         "bumphunter"
     ],
@@ -1816,9 +1775,7 @@
         "HTSFilter"
     ],
     "CoSIA": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "cosmiq": [
         "AnnotationFilter",
@@ -1870,9 +1827,7 @@
         "crisprBase"
     ],
     "crisprDesign": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GenomicFeatures",
         "VariantAnnotation",
         "basilisk",
@@ -1883,9 +1838,7 @@
         "dir.expiry"
     ],
     "crisprScore": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1897,9 +1850,7 @@
     "CrispRVariants": [],
     "crisprVerse": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
@@ -1916,9 +1867,7 @@
     ],
     "crisprViz": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
         "VariantAnnotation",
@@ -1953,12 +1902,9 @@
     ],
     "ctc": [],
     "CTdata": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "cTRAP": [
-        "AnnotationHub",
         "BiocVersion",
         "fgsea",
         "rhdf5",
@@ -1983,7 +1929,6 @@
         "rhdf5filters"
     ],
     "customCMPdb": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "customProDB": [
@@ -2216,7 +2161,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "DEGreport": [
@@ -2411,10 +2355,8 @@
     "DMRcaller": [],
     "DMRcate": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures",
         "Gviz",
@@ -2437,7 +2379,6 @@
     ],
     "DMRScan": [],
     "dmrseq": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "GenomicFeatures",
@@ -2525,14 +2466,11 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "dStruct": [],
     "Dune": [],
     "dyebias": [],
     "easier": [
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
-        "ExperimentHub",
         "decoupleR",
         "progeny",
         "quantiseqr"
@@ -2625,10 +2563,8 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures",
         "HDF5Array",
@@ -2671,7 +2607,6 @@
     ],
     "enrichViewNet": [
         "DOSE",
-        "RCy3",
         "enrichplot",
         "fgsea",
         "ggtree"
@@ -2689,7 +2624,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "AnnotationHub",
         "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
@@ -2718,18 +2652,14 @@
         "rhdf5filters"
     ],
     "EpiMix": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "GenomicFeatures",
         "impute"
     ],
     "epimutacions": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "GEOquery",
         "GenomicFeatures",
         "Gviz",
@@ -2852,9 +2782,7 @@
         "tximport"
     ],
     "EWCE": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "SingleCellExperiment",
         "ggtree",
         "orthogene"
@@ -2867,19 +2795,15 @@
         "GenomicFeatures"
     ],
     "ExperimentHub": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "ExperimentHubData": [
-        "AnnotationHub",
         "AnnotationHubData",
         "BiocBaseUtils",
         "BiocCheck",
         "BiocVersion",
-        "ExperimentHub",
         "GenomicFeatures",
-        "OrganismDbi",
-        "biocViews"
+        "OrganismDbi"
     ],
     "ExperimentSubset": [
         "SingleCellExperiment",
@@ -2913,7 +2837,6 @@
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "impute"
     ],
     "FastqCleaner": [
@@ -2938,9 +2861,7 @@
         "TrajectoryUtils"
     ],
     "FeatSeekR": [],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
@@ -3232,7 +3153,6 @@
         "pathview"
     ],
     "gDNAx": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3268,8 +3188,7 @@
     ],
     "gDRstyle": [
         "BiocBaseUtils",
-        "BiocCheck",
-        "biocViews"
+        "BiocCheck"
     ],
     "gDRutils": [
         "BiocBaseUtils",
@@ -3291,7 +3210,6 @@
         "QDNAseq",
         "impute"
     ],
-    "GeneExpressionSignature": [],
     "genefilter": [],
     "genefu": [
         "impute"
@@ -3377,7 +3295,6 @@
         "seqPattern"
     ],
     "GenomicScores": [
-        "AnnotationHub",
         "BiocVersion",
         "HDF5Array",
         "rhdf5",
@@ -3553,7 +3470,6 @@
     "gpls": [],
     "GRaNIE": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "ComplexHeatmap",
         "DESeq2",
@@ -3575,10 +3491,8 @@
     ],
     "gscreend": [],
     "GSEABenchmarkeR": [
-        "AnnotationHub",
         "BiocVersion",
         "EnrichmentBrowser",
-        "ExperimentHub",
         "KEGGgraph",
         "Rgraphviz",
         "SPIA",
@@ -3634,7 +3548,6 @@
     ],
     "GWAS.BAYES": [],
     "gwascat": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -3676,7 +3589,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "HELP": [],
     "hermes": [
         "BiocBaseUtils",
         "ComplexHeatmap",
@@ -3746,7 +3658,6 @@
         "GenomicFeatures"
     ],
     "hipathia": [
-        "AnnotationHub",
         "BiocBaseUtils",
         "BiocVersion",
         "MultiAssayExperiment"
@@ -3766,9 +3677,7 @@
     ],
     "hopach": [],
     "hpar": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "HTqPCR": [],
     "HTSeqGenie": [
@@ -3829,7 +3738,6 @@
         "pcaExplorer"
     ],
     "IdeoViz": [],
-    "idpr": [],
     "idr2d": [],
     "IFAA": [],
     "IgGeneUsage": [],
@@ -3959,7 +3867,6 @@
     "iPAC": [],
     "iPath": [],
     "ipdDb": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "IPO": [
@@ -3994,10 +3901,8 @@
         "iSEE"
     ],
     "iSEEhub": [
-        "AnnotationHub",
         "BiocVersion",
         "ComplexHeatmap",
-        "ExperimentHub",
         "SingleCellExperiment",
         "iSEE"
     ],
@@ -4022,7 +3927,6 @@
     "IsoBayes": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "DESeq2",
         "DEXSeq",
@@ -4135,7 +4039,6 @@
         "impute",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "BiocBaseUtils",
         "ClassifyR",
@@ -4145,7 +4048,6 @@
         "genefilter",
         "spicyR"
     ],
-    "lmdme": [],
     "LOBSTAHS": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -4179,9 +4081,7 @@
         "Rgraphviz"
     ],
     "LRcell": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "lumi": [
         "DelayedMatrixStats",
@@ -4214,9 +4114,7 @@
         "sparseMatrixStats"
     ],
     "m6Aboost": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "Maaslin2": [
         "metagenomeSeq"
@@ -4226,12 +4124,9 @@
         "impute",
         "metagenomeSeq"
     ],
-    "macat": [],
     "MACSQuantifyR": [],
     "MACSr": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -4263,10 +4158,8 @@
         "sparseMatrixStats"
     ],
     "MAGeCKFlute": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "ExperimentHub",
         "KEGGgraph",
         "Rgraphviz",
         "clusterProfiler",
@@ -4335,16 +4228,12 @@
         "SingleCellExperiment"
     ],
     "mastR": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "SingleCellExperiment"
     ],
     "MatrixQCvis": [
-        "AnnotationHub",
         "BiocVersion",
         "ComplexHeatmap",
-        "ExperimentHub",
         "impute",
         "proDA",
         "vsn"
@@ -4463,7 +4352,6 @@
     ],
     "MeSHDbi": [],
     "meshes": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
         "MeSHDbi",
@@ -4481,7 +4369,6 @@
     ],
     "MetaboAnnotation": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocBaseUtils",
         "BiocVersion",
         "CompoundDb",
@@ -4499,10 +4386,8 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "ComplexHeatmap",
-        "ExperimentHub",
         "GenomicFeatures",
         "KEGGgraph",
         "MWASTools",
@@ -4540,7 +4425,6 @@
     ],
     "MetaPhOR": [
         "DOSE",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -4579,9 +4463,7 @@
         "methylKit"
     ],
     "MethReg": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "illuminaio",
         "sesame"
     ],
@@ -4624,19 +4506,16 @@
         "sparseMatrixStats"
     ],
     "methylclock": [
-        "AnnotationHub",
         "AnnotationHubData",
         "BiocBaseUtils",
         "BiocCheck",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "ExperimentHubData",
         "GEOquery",
         "GenomicFeatures",
         "HDF5Array",
         "OrganismDbi",
-        "biocViews",
         "bumphunter",
         "genefilter",
         "illuminaio",
@@ -5011,9 +4890,7 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "genefilter",
         "graphite"
@@ -5035,11 +4912,8 @@
         "DirichletMultinomial",
         "TFBSTools"
     ],
-    "monocle": [
-        "biocViews"
-    ],
+    "monocle": [],
     "Moonlight2R": [
-        "AnnotationHub",
         "BiocVersion",
         "ComplexHeatmap",
         "DOSE",
@@ -5110,9 +4984,7 @@
         "Spectra"
     ],
     "MsDataHub": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "MsExperiment": [
         "AnnotationFilter",
@@ -5169,7 +5041,6 @@
         "vsn"
     ],
     "MSnID": [
-        "AnnotationHub",
         "BiocVersion",
         "MSnbase",
         "impute",
@@ -5271,7 +5142,6 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "AnnotationHub",
         "BiocVersion",
         "fgsea",
         "graphite"
@@ -5356,7 +5226,6 @@
     "NADfinder": [
         "ATACseqQC",
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
@@ -5419,7 +5288,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "ncRNAtools": [],
@@ -5485,7 +5353,6 @@
         "GOstats",
         "GenomicFeatures",
         "HDF5Array",
-        "RCy3",
         "Rgraphviz",
         "STRINGdb",
         "bumphunter",
@@ -5505,7 +5372,6 @@
     "NewWave": [
         "BiocSingular",
         "ScaledMatrix",
-        "SharedObject",
         "SingleCellExperiment",
         "beachmat"
     ],
@@ -5551,13 +5417,11 @@
     ],
     "OCplus": [],
     "octad": [
-        "AnnotationHub",
         "BiocSingular",
         "BiocVersion",
         "DESeq2",
         "DelayedMatrixStats",
         "EDASeq",
-        "ExperimentHub",
         "GSVA",
         "GenomicFeatures",
         "HDF5Array",
@@ -5573,7 +5437,6 @@
     "odseq": [],
     "OGRE": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "Gviz",
@@ -5634,7 +5497,6 @@
     ],
     "onlineFDR": [],
     "ontoProc": [
-        "AnnotationHub",
         "BiocVersion",
         "Rgraphviz"
     ],
@@ -5689,9 +5551,7 @@
         "ggtree"
     ],
     "orthos": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
@@ -5769,7 +5629,6 @@
     ],
     "parody": [],
     "partCNV": [
-        "AnnotationHub",
         "BiocVersion",
         "SingleCellExperiment"
     ],
@@ -5881,7 +5740,6 @@
     ],
     "phemd": [
         "SingleCellExperiment",
-        "biocViews",
         "destiny",
         "monocle"
     ],
@@ -5907,9 +5765,7 @@
     "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "OmaDB"
     ],
     "phyloseq": [
@@ -5985,7 +5841,6 @@
     ],
     "podkat": [],
     "pogos": [
-        "AnnotationHub",
         "BiocVersion",
         "Rgraphviz",
         "ontoProc"
@@ -6024,7 +5879,6 @@
     "PREDA": [],
     "primirTSS": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "CNEr",
         "DirichletMultinomial",
@@ -6122,7 +5976,6 @@
         "vsn"
     ],
     "psichomics": [
-        "AnnotationHub",
         "BiocVersion",
         "GEOquery",
         "GenomicFeatures",
@@ -6172,7 +6025,6 @@
         "ensembldb"
     ],
     "pwOmics": [
-        "AnnotationHub",
         "BiocVersion",
         "STRINGdb"
     ],
@@ -6298,7 +6150,6 @@
     "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "GenomicScores",
@@ -6348,7 +6199,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCy3": [],
     "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
@@ -6459,17 +6309,14 @@
     "regsplice": [],
     "regutools": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "Gviz",
-        "RCy3",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
     ],
     "REMP": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "GEOquery",
@@ -6515,9 +6362,7 @@
         "VariantAnnotation"
     ],
     "restfulSE": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "rhdf5client"
     ],
     "ReUseData": [
@@ -6535,7 +6380,6 @@
     "rfPred": [],
     "rGADEM": [],
     "rGenomeTracks": [
-        "AnnotationHub",
         "BiocVersion"
     ],
     "RGMQL": [],
@@ -6623,7 +6467,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
-        "biocViews",
         "impute",
         "mzID",
         "vsn",
@@ -6642,7 +6485,6 @@
     ],
     "RLMM": [],
     "RLSeq": [
-        "AnnotationHub",
         "BiocVersion",
         "ComplexHeatmap",
         "GenomicFeatures",
@@ -6796,7 +6638,6 @@
     "RSVSim": [
         "ShortRead"
     ],
-    "RTCA": [],
     "RTCGAToolbox": [
         "BiocBaseUtils",
         "GenomicDataCommons",
@@ -6865,14 +6706,12 @@
     "scanMiR": [],
     "scanMiRApp": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "ensembldb",
         "scanMiR"
     ],
     "scAnnotatR": [
-        "AnnotationHub",
         "BiocVersion",
         "SingleCellExperiment"
     ],
@@ -6895,9 +6734,7 @@
         "sparseMatrixStats"
     ],
     "SCATE": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "scater": [
         "BiocNeighbors",
@@ -7052,7 +6889,6 @@
         "SingleCellExperiment"
     ],
     "scmeth": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "GenomicFeatures",
@@ -7159,7 +6995,6 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "AnnotationHub",
         "BiocVersion",
         "Category",
         "DOSE",
@@ -7278,18 +7113,14 @@
     "seqPattern": [],
     "seqsetvis": [],
     "SeqSQC": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "SNPRelate"
     ],
     "SeqVarTools": [
         "SeqArray"
     ],
     "sesame": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "illuminaio"
     ],
     "SEtools": [
@@ -7311,7 +7142,6 @@
     "SGSeq": [
         "GenomicFeatures"
     ],
-    "SharedObject": [],
     "shinyepico": [
         "DelayedMatrixStats",
         "GEOquery",
@@ -7352,16 +7182,12 @@
         "MLInterfaces",
         "genefilter"
     ],
-    "sigFeature": [
-        "biocViews"
-    ],
+    "sigFeature": [],
     "SigFuge": [],
     "siggenes": [],
     "signatureSearch": [
-        "AnnotationHub",
         "BiocVersion",
         "DOSE",
-        "ExperimentHub",
         "HDF5Array",
         "clusterProfiler",
         "enrichplot",
@@ -7454,7 +7280,6 @@
     ],
     "singleCellTK": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocNeighbors",
         "BiocSingular",
         "BiocVersion",
@@ -7462,7 +7287,6 @@
         "DESeq2",
         "DelayedMatrixStats",
         "DropletUtils",
-        "ExperimentHub",
         "GSVA",
         "GenomicFeatures",
         "HDF5Array",
@@ -7589,7 +7413,6 @@
         "ggbio"
     ],
     "SOMNiBUS": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
         "GenomicFeatures",
@@ -7728,10 +7551,8 @@
         "sparseMatrixStats"
     ],
     "SpliceWiz": [
-        "AnnotationHub",
         "BiocVersion",
         "DelayedMatrixStats",
-        "ExperimentHub",
         "HDF5Array",
         "genefilter",
         "rhdf5",
@@ -7972,9 +7793,7 @@
         "SingleCellExperiment"
     ],
     "tenXplore": [
-        "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
         "Rgraphviz",
         "ontoProc",
         "restfulSE",
@@ -8024,7 +7843,6 @@
         "DOSE",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -8136,9 +7954,7 @@
         "RankProd",
         "anota"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TransView": [],
     "traseR": [],
     "traviz": [
@@ -8229,7 +8045,6 @@
     ],
     "tximeta": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "ensembldb",
@@ -8242,7 +8057,6 @@
     ],
     "Ularcirc": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "Organism.dplyr",
@@ -8277,7 +8091,6 @@
     ],
     "universalmotif": [],
     "uSORT": [
-        "biocViews",
         "monocle"
     ],
     "VAExprs": [
@@ -8309,7 +8122,6 @@
     ],
     "VariantFiltering": [
         "AnnotationFilter",
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "GenomicScores",
@@ -8360,9 +8172,7 @@
         "fgsea"
     ],
     "vissE": [
-        "AnnotationHub",
-        "BiocVersion",
-        "ExperimentHub"
+        "BiocVersion"
     ],
     "Voyager": [
         "BiocNeighbors",
@@ -8378,7 +8188,6 @@
     ],
     "vsn": [],
     "vtpnet": [
-        "AnnotationHub",
         "BiocVersion",
         "GenomicFeatures",
         "VariantAnnotation",
