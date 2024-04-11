@@ -273,9 +273,7 @@
     ],
     "BgeeDB": [],
     "BHC": [],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "HDF5Array",
         "ROC",
@@ -560,14 +558,12 @@
         "Gviz",
         "biovizBase"
     ],
-    "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "chipseq",
         "systemPipeR"
     ],
@@ -611,7 +607,6 @@
     ],
     "ClassifyR": [],
     "clipper": [],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -1012,7 +1007,6 @@
     ],
     "DEXSeq": [],
     "DiffBind": [
-        "GreyListChIP",
         "systemPipeR"
     ],
     "diffcoexp": [
@@ -1173,7 +1167,6 @@
         "illuminaio"
     ],
     "epigraHMM": [
-        "GreyListChIP",
         "bamsignals"
     ],
     "EpiMix": [
@@ -1244,9 +1237,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "famat": [
         "DOSE",
         "clusterProfiler",
@@ -1586,7 +1577,6 @@
     "GRaNIE": [
         "BiocVersion"
     ],
-    "GreyListChIP": [],
     "GSALightning": [],
     "GSAR": [],
     "GSCA": [],
@@ -1635,7 +1625,6 @@
     "Heatplus": [],
     "HelloRanges": [],
     "hermes": [],
-    "hiAnnotator": [],
     "HIBAG": [],
     "HiCBricks": [],
     "HiCcompare": [],
@@ -1668,9 +1657,7 @@
     "hipathia": [
         "BiocVersion"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HMMcopy": [],
     "hoodscanR": [],
     "hpar": [
@@ -1683,7 +1670,6 @@
     ],
     "HTSFilter": [],
     "hummingbird": [],
-    "hyperdraw": [],
     "iASeq": [],
     "iBBiG": [],
     "icetea": [],
@@ -1700,7 +1686,6 @@
         "GOstats",
         "pcaExplorer"
     ],
-    "IdeoViz": [],
     "IFAA": [],
     "igvR": [],
     "illuminaio": [],
@@ -2533,7 +2518,6 @@
     "peco": [],
     "PepsNMR": [],
     "PERFect": [],
-    "periodicDNA": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "phantasus": [],
@@ -2586,7 +2570,6 @@
     "pmp": [
         "impute"
     ],
-    "podkat": [],
     "pogos": [
         "BiocVersion",
         "ontoProc"
@@ -2619,7 +2602,6 @@
         "mzID"
     ],
     "proActiv": [],
-    "proBAMr": [],
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
@@ -2841,11 +2823,9 @@
         "impute"
     ],
     "Rfastp": [],
-    "rGADEM": [],
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RGMQL": [],
     "RgnTX": [],
     "rgoslin": [],
     "rgsepd": [],
@@ -2941,7 +2921,6 @@
     "Rnits": [
         "impute"
     ],
-    "roar": [],
     "ROC": [],
     "ROntoTools": [],
     "ropls": [],
@@ -3063,7 +3042,6 @@
         "dir.expiry"
     ],
     "scran": [],
-    "scRecover": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -3365,7 +3343,6 @@
     "TCGAutils": [
         "RaggedExperiment"
     ],
-    "TCseq": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -3543,7 +3520,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "systemPipeR"
     ],
     "wateRmelon": [
@@ -3558,7 +3534,6 @@
         "topconfects"
     ],
     "widgetTools": [],
-    "wiggleplotr": [],
     "wppi": [
         "OmnipathR"
     ],
