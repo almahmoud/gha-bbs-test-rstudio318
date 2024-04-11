@@ -372,7 +372,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "AWFisher": [],
     "BaalChIP": [],
     "bacon": [],
     "BadRegionFinder": [
@@ -460,7 +459,6 @@
         "scuttle"
     ],
     "bayNorm": [],
-    "baySeq": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -1191,9 +1189,7 @@
         "enrichplot",
         "fgsea"
     ],
-    "clusterSeq": [
-        "baySeq"
-    ],
+    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [
         "fgsea"
@@ -3606,7 +3602,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "Gviz",
         "VariantAnnotation",
@@ -5099,9 +5094,7 @@
     "ribor": [
         "rhdf5"
     ],
-    "riboSeqR": [
-        "baySeq"
-    ],
+    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "CNEr",
         "EDASeq",
@@ -5587,8 +5580,7 @@
         "fgsea"
     ],
     "segmentSeq": [
-        "ShortRead",
-        "baySeq"
+        "ShortRead"
     ],
     "selectKSigs": [
         "HiLDA"
@@ -5725,9 +5717,7 @@
         "phyloseq",
         "rhdf5"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [],
     "similaRpeak": [],
     "simona": [],
@@ -5993,7 +5983,6 @@
         "DESeq2",
         "Gviz",
         "VariantAnnotation",
-        "baySeq",
         "biovizBase",
         "ensembldb"
     ],
@@ -6111,8 +6100,7 @@
     ],
     "TCC": [
         "DESeq2",
-        "ROC",
-        "baySeq"
+        "ROC"
     ],
     "TCGAbiolinks": [],
     "TCGAutils": [
