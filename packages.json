@@ -8,7 +8,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "ABarray": [],
     "abseqR": [],
     "acde": [],
     "ACE": [
@@ -41,7 +40,6 @@
         "MultiAssayExperiment"
     ],
     "affycomp": [],
-    "affyContam": [],
     "affycoretools": [
         "Category",
         "DESeq2",
@@ -53,15 +51,13 @@
         "biovizBase",
         "ensembldb",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "affyILM": [],
     "affylmGUI": [
         "affyPLM"
     ],
     "affyPLM": [],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "Category",
@@ -75,8 +71,7 @@
         "biovizBase",
         "ensembldb",
         "genefilter",
-        "ggbio",
-        "oligoClasses"
+        "ggbio"
     ],
     "AHMassBank": [
         "AnnotationHubData",
@@ -266,7 +261,6 @@
         "BiocVersion",
         "regioneR"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2"
     ],
@@ -284,14 +278,10 @@
         "VariantAnnotation",
         "rhdf5"
     ],
-    "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "DelayedMatrixStats",
         "HDF5Array",
-        "affyContam",
         "bumphunter",
         "genefilter",
         "illuminaio",
@@ -514,7 +504,6 @@
         "bluster",
         "decontam",
         "genefilter",
-        "metagenomeSeq",
         "mia",
         "mixOmics",
         "phyloseq",
@@ -608,7 +597,6 @@
     "BiocVersion": [],
     "biodbChebi": [],
     "biodbExpasy": [],
-    "biodbLipidmaps": [],
     "biodbUniprot": [],
     "biomformat": [
         "rhdf5"
@@ -1089,9 +1077,7 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "frma",
-        "oligo",
-        "oligoClasses"
+        "frma"
     ],
     "ChromHeatMap": [],
     "chromPlot": [],
@@ -1217,10 +1203,7 @@
         "flowCore",
         "rhdf5"
     ],
-    "cn.farms": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "cn.farms": [],
     "cn.mops": [
         "exomeCopy"
     ],
@@ -1516,13 +1499,10 @@
         "ensembldb"
     ],
     "crlmm": [
-        "illuminaio",
-        "oligoClasses"
+        "illuminaio"
     ],
     "crossmeta": [
         "genefilter",
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "CSAR": [],
@@ -1977,9 +1957,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "oligo",
-        "oligoClasses"
+        "ArrayExpress"
     ],
     "DSS": [
         "DelayedMatrixStats",
@@ -2490,11 +2468,7 @@
         "rhdf5"
     ],
     "FRGEpistasis": [],
-    "frma": [
-        "oligo",
-        "oligoClasses"
-    ],
-    "frmaTools": [],
+    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "DelayedMatrixStats",
@@ -2669,7 +2643,6 @@
         "rhdf5"
     ],
     "GenomicSuperSignature": [],
-    "GenProSeq": [],
     "GenVisR": [
         "VariantAnnotation"
     ],
@@ -3152,9 +3125,7 @@
         "DESeq2"
     ],
     "ITALICS": [
-        "GLAD",
-        "oligo",
-        "oligoClasses"
+        "GLAD"
     ],
     "IVAS": [],
     "ivygapSE": [],
@@ -3287,13 +3258,10 @@
     "m6Aboost": [
         "BiocVersion"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "Maaslin2",
-        "impute",
-        "metagenomeSeq"
+        "impute"
     ],
     "MACSQuantifyR": [],
     "MACSr": [
@@ -3317,7 +3285,6 @@
         "impute",
         "methylumi",
         "minfi",
-        "oligoClasses",
         "rhdf5",
         "siggenes"
     ],
@@ -3402,13 +3369,10 @@
     ],
     "mBPCR": [
         "GWASTools",
-        "oligoClasses",
         "quantsmooth"
     ],
     "MBQN": [],
-    "mbQTL": [
-        "metagenomeSeq"
-    ],
+    "mbQTL": [],
     "MCbiclust": [
         "impute"
     ],
@@ -3516,7 +3480,6 @@
         "flowCore"
     ],
     "metagene2": [],
-    "metagenomeSeq": [],
     "metaMS": [
         "BiocBaseUtils",
         "CAMERA",
@@ -3715,14 +3678,12 @@
     ],
     "microbiomeDASim": [
         "biomformat",
-        "metagenomeSeq",
         "phyloseq",
         "rhdf5"
     ],
     "microbiomeExplorer": [
         "DESeq2",
         "biomformat",
-        "metagenomeSeq",
         "rhdf5"
     ],
     "microbiomeMarker": [
@@ -3740,7 +3701,6 @@
         "biomformat",
         "bluster",
         "decontam",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -3774,9 +3734,7 @@
         "beachmat"
     ],
     "mimager": [
-        "affyPLM",
-        "oligo",
-        "oligoClasses"
+        "affyPLM"
     ],
     "MineICA": [
         "Category",
@@ -3804,8 +3762,7 @@
     "MinimumDistance": [
         "VanillaICE",
         "crlmm",
-        "illuminaio",
-        "oligoClasses"
+        "illuminaio"
     ],
     "miQC": [],
     "MIRA": [
@@ -3879,8 +3836,7 @@
     ],
     "MMDiff2": [],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [],
@@ -4332,7 +4288,6 @@
     "NormalyzerDE": [
         "vsn"
     ],
-    "NormqPCR": [],
     "normr": [
         "bamsignals"
     ],
@@ -4360,7 +4315,6 @@
         "beachmat",
         "rhdf5"
     ],
-    "odseq": [],
     "OGRE": [
         "BiocVersion",
         "Gviz",
@@ -4368,10 +4322,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
     "OLINgui": [
         "tkWidgets",
         "widgetTools"
@@ -4503,7 +4453,6 @@
         "enrichplot",
         "fgsea"
     ],
-    "panp": [],
     "PanViz": [],
     "pareg": [
         "DOSE",
@@ -4552,10 +4501,7 @@
         "impute",
         "piano"
     ],
-    "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [
         "cytolib",
         "flowCore",
@@ -4668,7 +4614,6 @@
     ],
     "pipeFrame": [],
     "planttfhunter": [],
-    "plier": [],
     "PloGO2": [
         "Category",
         "GOstats",
@@ -4825,10 +4770,7 @@
         "rhdf5",
         "vsn"
     ],
-    "puma": [
-        "oligo",
-        "oligoClasses"
-    ],
+    "puma": [],
     "PureCN": [
         "VariantAnnotation",
         "rhdf5"
@@ -4858,7 +4800,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "impute",
@@ -4948,7 +4889,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBM": [],
     "Rbowtie2": [],
     "Rbwa": [],
     "RCAS": [
@@ -4977,7 +4917,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "RCyjs": [],
     "rDGIdb": [],
     "Rdisop": [],
     "RDRToolbox": [],
@@ -5373,8 +5312,6 @@
     "ScaledMatrix": [],
     "SCAN.UPC": [
         "genefilter",
-        "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiR": [],
@@ -6330,8 +6267,7 @@
     "tRanslatome": [
         "DESeq2",
         "Heatplus",
-        "RankProd",
-        "anota"
+        "RankProd"
     ],
     "transomics2cytoscape": [],
     "TransView": [],
@@ -6446,8 +6382,7 @@
     ],
     "VanillaICE": [
         "crlmm",
-        "illuminaio",
-        "oligoClasses"
+        "illuminaio"
     ],
     "VarCon": [],
     "variancePartition": [],
