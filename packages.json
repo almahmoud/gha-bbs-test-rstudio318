@@ -2188,7 +2188,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "erccdashboard": [],
     "erma": [
         "GenomicFiles",
         "OrganismDbi",
@@ -5307,7 +5306,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "ROSeq": [],
     "RPA": [
         "biomformat",
         "phyloseq",
