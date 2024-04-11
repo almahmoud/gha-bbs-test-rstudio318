@@ -500,7 +500,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "HybridMTest",
         "Rhtslib",
         "Rsamtools",
         "VariantAnnotation",
@@ -725,8 +724,7 @@
     ],
     "autonomics": [
         "BiocBaseUtils",
-        "MultiAssayExperiment",
-        "pcaMethods"
+        "MultiAssayExperiment"
     ],
     "AWFisher": [],
     "awst": [],
@@ -793,7 +791,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "banocc": [],
@@ -908,7 +905,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BCRANK": [],
     "bcSeq": [],
     "beachmat": [],
     "beachmat.hdf5": [
@@ -1631,7 +1627,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -2365,7 +2360,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -2386,7 +2380,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "clustComp": [],
@@ -2746,7 +2739,6 @@
         "ShortRead",
         "biomaRt",
         "ensembldb",
-        "pcaMethods",
         "rtracklayer"
     ],
     "consensusOV": [
@@ -2889,7 +2881,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3101,7 +3092,6 @@
         "BiocVersion",
         "ExperimentHub"
     ],
-    "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
         "BiocParallel",
@@ -3340,7 +3330,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "tkWidgets",
         "vsn",
         "widgetTools"
@@ -3397,9 +3386,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [
-        "pcaMethods"
-    ],
+    "DeconRNASeq": [],
     "decontam": [],
     "decontX": [
         "BiocNeighbors",
@@ -3565,7 +3552,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "DepecheR": [
@@ -3642,8 +3628,7 @@
         "SpatialExperiment"
     ],
     "destiny": [
-        "SingleCellExperiment",
-        "pcaMethods"
+        "SingleCellExperiment"
     ],
     "DEsubs": [
         "BiocParallel",
@@ -3690,8 +3675,7 @@
     ],
     "diffcoexp": [
         "impute",
-        "multtest",
-        "pcaMethods"
+        "multtest"
     ],
     "diffcyt": [
         "ComplexHeatmap",
@@ -3753,7 +3737,6 @@
     "dir.expiry": [],
     "Director": [],
     "DirichletMultinomial": [],
-    "discordant": [],
     "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
@@ -4580,7 +4563,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExploreModelMatrix": [],
     "ExpressionAtlas": [],
     "extraChIPs": [
         "AnnotationFilter",
@@ -4750,7 +4732,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4938,7 +4919,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -5165,7 +5145,6 @@
         "impute",
         "marray"
     ],
-    "geneClassifiers": [],
     "GeneExpressionSignature": [],
     "genefilter": [],
     "genefu": [
@@ -5188,7 +5167,6 @@
     "geneRecommender": [],
     "GeneRegionScan": [],
     "geneRxCluster": [],
-    "GeneSelectMMD": [],
     "GENESIS": [
         "BiocParallel",
         "GWASTools",
@@ -5806,7 +5784,6 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "rhdf5",
         "rhdf5filters"
@@ -6005,7 +5982,6 @@
     "HubPub": [],
     "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
-    "HybridMTest": [],
     "hypeR": [],
     "hyperdraw": [
         "Rgraphviz"
@@ -6036,7 +6012,6 @@
         "BiocParallel",
         "DelayedMatrixStats",
         "GEOquery",
-        "GeneSelectMMD",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6329,7 +6304,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -6467,7 +6441,6 @@
         "multtest",
         "siggenes"
     ],
-    "kebabs": [],
     "KEGGgraph": [
         "Rgraphviz"
     ],
@@ -6559,7 +6532,6 @@
         "MultiDataSet",
         "fgsea",
         "impute",
-        "pcaMethods",
         "ropls"
     ],
     "LiquidAssociation": [],
@@ -6593,7 +6565,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -6773,9 +6744,7 @@
     "magrene": [
         "BiocParallel"
     ],
-    "MAI": [
-        "pcaMethods"
-    ],
+    "MAI": [],
     "MAIT": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -6795,7 +6764,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -6874,7 +6842,6 @@
         "affy",
         "affyio",
         "impute",
-        "pcaMethods",
         "proDA",
         "vsn"
     ],
@@ -7157,7 +7124,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -7227,7 +7193,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationHub",
         "BiocParallel",
@@ -7853,7 +7818,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -8113,7 +8077,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "msmsTests": [
@@ -8126,7 +8089,6 @@
         "msmsEDA",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnbase": [
@@ -8137,7 +8099,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnID": [
@@ -8153,13 +8114,11 @@
         "msmsTests",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSPrep": [
         "BiocParallel",
         "genefilter",
-        "pcaMethods",
         "sva"
     ],
     "msPurity": [
@@ -8212,7 +8171,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -8226,7 +8184,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -8255,7 +8212,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "pcaMethods",
         "ropls"
     ],
     "multiClust": [
@@ -8470,7 +8426,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "NanoStringDiff": [],
     "nanotatoR": [],
     "NanoTube": [
         "BiocParallel",
@@ -8503,7 +8458,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -8733,7 +8687,6 @@
         "sparseMatrixStats"
     ],
     "odseq": [
-        "kebabs",
         "msa"
     ],
     "OGRE": [
@@ -8790,7 +8743,6 @@
         "impute",
         "made4",
         "omicade4",
-        "pcaMethods",
         "rexposome",
         "sva"
     ],
@@ -8955,7 +8907,6 @@
         "Rhtslib",
         "Rsamtools",
         "biomaRt",
-        "pcaMethods",
         "rtracklayer"
     ],
     "OutSplice": [
@@ -9100,7 +9051,6 @@
         "genefilter",
         "topGO"
     ],
-    "pcaMethods": [],
     "PCAN": [
         "BiocParallel"
     ],
@@ -9149,7 +9099,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "PECA": [
@@ -9218,8 +9167,7 @@
         "SingleCellExperiment",
         "biocViews",
         "destiny",
-        "monocle",
-        "pcaMethods"
+        "monocle"
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
@@ -9244,9 +9192,7 @@
         "ggtree"
     ],
     "PhIPData": [],
-    "PhosR": [
-        "pcaMethods"
-    ],
+    "PhosR": [],
     "PhyloProfile": [
         "AnnotationHub",
         "BiocVersion",
@@ -9376,8 +9322,7 @@
         "rtracklayer"
     ],
     "pmp": [
-        "impute",
-        "pcaMethods"
+        "impute"
     ],
     "podkat": [
         "BSgenome",
@@ -9489,7 +9434,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "proActiv": [
@@ -9514,9 +9458,7 @@
         "rtracklayer"
     ],
     "PROcess": [],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "proDA": [],
     "profileplyr": [
         "BiocIO",
@@ -9557,7 +9499,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "pRolocGUI": [
@@ -9573,7 +9514,6 @@
         "mzID",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "PROMISE": [
@@ -9603,7 +9543,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "tkWidgets",
         "vsn",
         "widgetTools"
@@ -9674,7 +9613,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "rhdf5",
         "rhdf5filters",
         "vsn"
@@ -9778,7 +9716,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "qsea": [
@@ -9989,7 +9926,6 @@
         "Rhtslib",
         "Rsamtools"
     ],
-    "rbsurv": [],
     "Rbwa": [],
     "RCAS": [
         "BSgenome",
@@ -10359,8 +10295,7 @@
         "dir.expiry"
     ],
     "rexposome": [
-        "impute",
-        "pcaMethods"
+        "impute"
     ],
     "rfaRm": [],
     "Rfastp": [
@@ -10575,7 +10510,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -10632,7 +10566,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "Rmmquant": [
@@ -11171,8 +11104,7 @@
         "SingleCellExperiment"
     ],
     "scde": [
-        "BiocParallel",
-        "pcaMethods"
+        "BiocParallel"
     ],
     "scDesign3": [
         "BiocParallel",
@@ -12094,7 +12026,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "pcaMethods",
         "rtracklayer"
     ],
     "SOMNiBUS": [
@@ -12455,7 +12386,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [],
     "STRINGdb": [],
     "struct": [
         "rols"
@@ -12548,7 +12478,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "SynExtend": [
@@ -12880,7 +12809,6 @@
         "impute",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "topGO": [],
@@ -13523,7 +13451,6 @@
         "multtest",
         "mzID",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "xcore": [
@@ -13581,7 +13508,6 @@
         "ensembldb",
         "ggbio",
         "gtrellis",
-        "pcaMethods",
         "rtracklayer"
     ],
     "yarn": [
