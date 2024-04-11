@@ -331,7 +331,6 @@
         "OrganismDbi",
         "biocViews"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationHub",
         "BiocVersion",
@@ -699,9 +698,7 @@
         "ComplexHeatmap",
         "GenomicFeatures"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "bioCancer": [
         "BiocBaseUtils",
         "DOSE",
@@ -723,7 +720,6 @@
     ],
     "BioCartaImage": [],
     "BiocBaseUtils": [],
-    "BiocBook": [],
     "BiocCheck": [
         "BiocBaseUtils",
         "biocViews"
@@ -1338,7 +1334,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineR": [],
     "CHETAH": [
         "SingleCellExperiment"
     ],
@@ -1642,7 +1637,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "codelink": [],
     "CODEX": [],
     "CoGAPS": [
         "SingleCellExperiment",
@@ -1714,7 +1708,6 @@
     "ComplexHeatmap": [],
     "CompoundDb": [
         "AnnotationFilter",
-        "ChemmineR",
         "MetaboCoreUtils",
         "Spectra"
     ],
@@ -1825,8 +1818,7 @@
     "CoSIA": [
         "AnnotationHub",
         "BiocVersion",
-        "ExperimentHub",
-        "annotationTools"
+        "ExperimentHub"
     ],
     "cosmiq": [
         "AnnotationFilter",
@@ -1992,8 +1984,7 @@
     ],
     "customCMPdb": [
         "AnnotationHub",
-        "BiocVersion",
-        "ChemmineR"
+        "BiocVersion"
     ],
     "customProDB": [
         "GenomicFeatures",
@@ -2536,7 +2527,6 @@
     ],
     "dStruct": [],
     "Dune": [],
-    "dupRadar": [],
     "dyebias": [],
     "easier": [
         "AnnotationHub",
@@ -2611,9 +2601,7 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [],
     "ELMER": [
         "AnnotationFilter",
@@ -2912,7 +2900,6 @@
         "csaw",
         "ensembldb"
     ],
-    "factDesign": [],
     "factR": [
         "GenomicFeatures",
         "wiggleplotr"
@@ -3150,9 +3137,7 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fmrs": [],
     "fobitools": [
         "fgsea"
@@ -3455,7 +3440,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "ggkegg": [],
     "ggmanh": [
         "SeqArray"
     ],
@@ -3565,7 +3549,6 @@
     "GOTHiC": [
         "ShortRead"
     ],
-    "goTools": [],
     "GPA": [],
     "gpls": [],
     "GRaNIE": [
@@ -3846,7 +3829,6 @@
         "pcaExplorer"
     ],
     "IdeoViz": [],
-    "idiogram": [],
     "idpr": [],
     "idr2d": [],
     "IFAA": [],
@@ -4113,7 +4095,6 @@
         "sva"
     ],
     "LACE": [],
-    "lapmix": [],
     "LEA": [],
     "lefser": [],
     "lemur": [
@@ -4503,7 +4484,6 @@
         "AnnotationHub",
         "BiocBaseUtils",
         "BiocVersion",
-        "ChemmineR",
         "CompoundDb",
         "MetaboCoreUtils",
         "MultiAssayExperiment",
@@ -4733,9 +4713,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [],
     "Mfuzz": [
         "tkWidgets",
@@ -6672,7 +6650,6 @@
     ],
     "Rmagpie": [],
     "RMassBank": [
-        "ChemmineR",
         "MSnbase",
         "impute",
         "mzID",
