@@ -217,7 +217,6 @@
         "beadarray",
         "illuminaio"
     ],
-    "artMS": [],
     "ASEB": [],
     "ASICS": [
         "PepsNMR",
@@ -615,7 +614,6 @@
     "ccfindR": [],
     "ccImpute": [],
     "CCPlotR": [],
-    "CCPROMISE": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -2323,7 +2321,6 @@
         "plyranges"
     ],
     "KBoost": [],
-    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -2926,15 +2923,11 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
     "MSstatsLOBD": [],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -2947,10 +2940,8 @@
         "mzID"
     ],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "MuData": [],
     "MultiBaC": [
         "ropls"
@@ -4349,7 +4340,6 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
@@ -4558,7 +4548,6 @@
     "trigger": [
         "sva"
     ],
-    "trio": [],
     "tripr": [],
     "tRNA": [],
     "tRNAdbImport": [
@@ -4571,7 +4560,6 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
