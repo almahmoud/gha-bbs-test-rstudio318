@@ -22,7 +22,6 @@
         "BiocVersion"
     ],
     "ADImpute": [],
-    "adSplit": [],
     "adverSCarial": [],
     "AffiXcan": [
         "BiocBaseUtils",
@@ -270,8 +269,7 @@
         "methylumi",
         "minfi",
         "parody",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "arrayQualityMetrics": [
         "BeadDataPackR",
@@ -279,9 +277,7 @@
         "beadarray",
         "illuminaio"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASEB": [],
     "ASICS": [
         "BiocBaseUtils",
@@ -493,7 +489,6 @@
         "methylumi",
         "minfi",
         "rhdf5",
-        "siggenes",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -550,8 +545,6 @@
         "dir.expiry"
     ],
     "BiocVersion": [],
-    "biodbChebi": [],
-    "biodbUniprot": [],
     "biomformat": [
         "rhdf5"
     ],
@@ -822,9 +815,7 @@
     "ccfindR": [],
     "ccImpute": [],
     "CCPlotR": [],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -944,7 +935,6 @@
         "minfi",
         "missMethyl",
         "rhdf5",
-        "siggenes",
         "sva",
         "wateRmelon"
     ],
@@ -1273,10 +1263,8 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
-    "convert": [],
     "CopyNumberPlots": [
         "VariantAnnotation",
         "bamsignals",
@@ -1294,7 +1282,6 @@
         "fgsea",
         "piano"
     ],
-    "Cormotif": [],
     "corral": [
         "BiocBaseUtils",
         "MultiAssayExperiment"
@@ -1590,8 +1577,7 @@
         "illuminaio",
         "methylKit",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "decoupleR": [],
     "DeepBlueR": [],
@@ -1758,8 +1744,7 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "dmrseq": [
         "BiocVersion",
@@ -1885,7 +1870,6 @@
         "BiocBaseUtils",
         "Gviz",
         "MultiAssayExperiment",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -1906,8 +1890,7 @@
         "illuminaio",
         "impute",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
@@ -1981,8 +1964,7 @@
         "ensembldb",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "epiNEM": [
         "mnem"
@@ -2131,8 +2113,7 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "fgsea": [],
     "FilterFFPE": [],
@@ -2314,8 +2295,7 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "FuseSOM": [],
     "GA4GHclient": [
@@ -2753,8 +2733,7 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "iClusterPlus": [],
     "iCNV": [
@@ -2816,8 +2795,7 @@
         "illuminaio",
         "impute",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "infercnv": [],
     "infinityFlow": [
@@ -2898,7 +2876,6 @@
         "iSEEhex"
     ],
     "ISLET": [],
-    "isobar": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "DESeq2",
@@ -2932,9 +2909,7 @@
         "plyranges"
     ],
     "KBoost": [],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "KEGGgraph": [],
     "KEGGlincs": [
         "KEGGgraph"
@@ -3022,8 +2997,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "LymphoSeq": [],
     "M3C": [],
@@ -3064,8 +3038,7 @@
         "impute",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "MAGeCKFlute": [
         "BiocVersion",
@@ -3171,7 +3144,6 @@
         "minfi",
         "missMethyl",
         "rhdf5",
-        "siggenes",
         "sva"
     ],
     "MeasurementError.cor": [],
@@ -3186,7 +3158,6 @@
         "methylumi",
         "minfi",
         "rhdf5",
-        "siggenes",
         "wateRmelon"
     ],
     "MEB": [
@@ -3303,8 +3274,7 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "methylCC": [
         "DelayedMatrixStats",
@@ -3315,8 +3285,7 @@
         "illuminaio",
         "minfi",
         "plyranges",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -3331,8 +3300,7 @@
         "illuminaio",
         "impute",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "methylGSA": [
         "DOSE",
@@ -3346,8 +3314,7 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "methylInheritance": [
         "methylKit"
@@ -3378,8 +3345,7 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "MetID": [],
     "MetNet": [],
@@ -3490,16 +3456,14 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "minfi": [
         "DelayedMatrixStats",
         "HDF5Array",
         "bumphunter",
         "illuminaio",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "MinimumDistance": [
         "VanillaICE",
@@ -3521,7 +3485,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "TCGAbiolinks",
         "ctc",
         "impute"
     ],
@@ -3552,8 +3515,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "missRows": [
         "BiocBaseUtils",
@@ -3622,7 +3584,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
         "fgsea"
@@ -3734,18 +3695,13 @@
         "QFeatures",
         "Spectra"
     ],
-    "MSstats": [],
-    "MSstatsBig": [
-        "MSstats"
-    ],
+    "MSstatsBig": [],
     "MSstatsLiP": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
     "MSstatsLOBD": [],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT"
     ],
     "MSstatsQC": [
@@ -3760,13 +3716,10 @@
         "mzID"
     ],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
@@ -3959,7 +3912,6 @@
         "minfi",
         "quantro",
         "rhdf5",
-        "siggenes",
         "yarn"
     ],
     "NeuCA": [],
@@ -3994,7 +3946,6 @@
     "nullranges": [
         "plyranges"
     ],
-    "OCplus": [],
     "octad": [
         "BiocSingular",
         "BiocVersion",
@@ -4064,7 +4015,6 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oposSOM": [],
     "oppar": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -4239,7 +4189,6 @@
     "phenomis": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "biodbChebi",
         "ropls"
     ],
     "phenoTest": [
@@ -4387,7 +4336,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
@@ -4478,8 +4426,7 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "quantsmooth": [],
     "QuartPAC": [
@@ -4597,8 +4544,7 @@
         "dir.expiry",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "recoup": [],
     "RedisParam": [],
@@ -4663,8 +4609,7 @@
         "illuminaio",
         "impute",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "Repitools": [
         "Ringo"
@@ -4852,8 +4797,7 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "Rnits": [
         "impute"
@@ -5241,8 +5185,7 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "shinyMethyl": [
         "DelayedMatrixStats",
@@ -5250,8 +5193,7 @@
         "bumphunter",
         "illuminaio",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "ShortRead": [],
     "SIAMCAT": [
@@ -5264,7 +5206,6 @@
         "MLInterfaces"
     ],
     "sigFeature": [],
-    "siggenes": [],
     "signatureSearch": [
         "BiocVersion",
         "DOSE",
@@ -5390,7 +5331,6 @@
         "methylumi",
         "minfi",
         "rhdf5",
-        "siggenes",
         "wateRmelon"
     ],
     "slalom": [],
@@ -5516,7 +5456,6 @@
         "MultiAssayExperiment",
         "SpatialExperiment"
     ],
-    "SpidermiR": [],
     "spikeLI": [],
     "spiky": [],
     "splatter": [
@@ -5572,9 +5511,7 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [
         "SpatialExperiment"
     ],
@@ -5660,7 +5597,6 @@
         "DESeq2",
         "ROC"
     ],
-    "TCGAbiolinks": [],
     "TCGAutils": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
@@ -5832,9 +5768,7 @@
     "trigger": [
         "sva"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "tripr": [],
     "tRNA": [],
     "tRNAdbImport": [
@@ -5847,9 +5781,7 @@
     "TSCAN": [
         "TrajectoryUtils"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "Gviz",
         "VariantAnnotation",
@@ -5994,8 +5926,7 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "wavClusteR": [],
     "webbioc": [],
@@ -6023,8 +5954,7 @@
         "MultiAssayExperiment"
     ],
     "XDE": [
-        "GeneMeta",
-        "siggenes"
+        "GeneMeta"
     ],
     "Xeva": [
         "BiocBaseUtils",
@@ -6054,8 +5984,7 @@
         "illuminaio",
         "minfi",
         "quantro",
-        "rhdf5",
-        "siggenes"
+        "rhdf5"
     ],
     "zellkonverter": [
         "basilisk",
