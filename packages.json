@@ -427,7 +427,6 @@
         "BiocParallel",
         "DESeq2"
     ],
-    "AnVILWorkflow": [],
     "APAlyzer": [
         "BSgenome",
         "BiocIO",
@@ -855,7 +854,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -1537,7 +1535,6 @@
         "BiocParallel",
         "BiocSingular",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -1718,7 +1715,6 @@
     "censcyt": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "diffcyt",
@@ -1988,7 +1984,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "GenomicAlignments",
         "ResidualMatrix",
@@ -2478,7 +2473,6 @@
         "flowMerge"
     ],
     "consensus": [],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationFilter",
         "BiocIO",
@@ -2885,7 +2879,6 @@
     "CyTOFpower": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "FlowSOM",
         "cytolib",
@@ -2898,7 +2891,6 @@
         "BiocSingular",
         "CATALYST",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedMatrixStats",
         "FlowSOM",
         "ScaledMatrix",
@@ -3168,7 +3160,6 @@
     "DEGreport": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DESeq2"
     ],
     "DEGseq": [],
@@ -3361,7 +3352,6 @@
     ],
     "diffcyt": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "flowCore"
@@ -4446,7 +4436,6 @@
     ],
     "flowPlots": [],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "cytolib",
         "flowCore"
     ],
@@ -5123,7 +5112,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "GraphAT": [],
     "graphite": [],
     "GraphPAC": [
         "iPAC"
@@ -5444,7 +5432,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "HMMcopy": [],
     "hoodscanR": [
         "ComplexHeatmap",
@@ -5536,7 +5523,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "iCOBRA": [],
     "ideal": [
         "BiocIO",
         "BiocParallel",
@@ -5681,7 +5667,6 @@
         "GenomicFeatures",
         "Rsamtools",
         "biomaRt",
-        "plgem",
         "rtracklayer"
     ],
     "INTACT": [],
@@ -5846,7 +5831,6 @@
     "isomiRs": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2"
     ],
@@ -5856,7 +5840,6 @@
         "oligoClasses"
     ],
     "iterativeBMA": [],
-    "iterClust": [],
     "IVAS": [
         "BiocIO",
         "BiocParallel",
@@ -6038,7 +6021,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
         "BiocParallel",
@@ -6095,13 +6077,11 @@
         "rtracklayer"
     ],
     "Maaslin2": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "Macarron": [
         "BiocParallel",
         "Maaslin2",
-        "Wrench",
         "impute",
         "metagenomeSeq"
     ],
@@ -6302,7 +6282,6 @@
     ],
     "MBQN": [],
     "mbQTL": [
-        "Wrench",
         "metagenomeSeq"
     ],
     "MCbiclust": [
@@ -6487,7 +6466,6 @@
     ],
     "metaCCA": [],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "cytolib",
         "flowCore"
@@ -6499,9 +6477,7 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "metagenomeSeq": [
-        "Wrench"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "AnnotationFilter",
         "BiocBaseUtils",
@@ -6852,7 +6828,6 @@
         "rhdf5filters"
     ],
     "microbiomeDASim": [
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "phyloseq",
@@ -6862,7 +6837,6 @@
     "microbiomeExplorer": [
         "BiocParallel",
         "DESeq2",
-        "Wrench",
         "biomformat",
         "metagenomeSeq",
         "rhdf5",
@@ -6884,7 +6858,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "beachmat",
         "biomformat",
         "bluster",
@@ -7125,7 +7098,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "Wrench",
         "metagenomeSeq"
     ],
     "mnem": [
@@ -7232,7 +7204,6 @@
     "mosbi": [
         "fabia"
     ],
-    "MOSim": [],
     "Motif2Site": [
         "BSgenome",
         "BiocIO",
@@ -7261,7 +7232,6 @@
         "motifStack",
         "rtracklayer"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "BiocIO",
         "BiocParallel",
@@ -8000,7 +7970,6 @@
     ],
     "Omixer": [],
     "OmnipathR": [],
-    "ompBAM": [],
     "oncomix": [],
     "oncoscanR": [],
     "OncoScore": [
@@ -8269,7 +8238,6 @@
         "BiocBaseUtils",
         "BiocParallel",
         "BumpyMatrix",
-        "ConsensusClusterPlus",
         "CoreGx",
         "MultiAssayExperiment",
         "biomaRt",
@@ -8461,7 +8429,6 @@
         "rtracklayer"
     ],
     "planttfhunter": [],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "Category",
@@ -8637,7 +8604,6 @@
         "rtracklayer",
         "soGGi"
     ],
-    "profileScoreDist": [],
     "progeny": [
         "decoupleR"
     ],
@@ -9909,7 +9875,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "sarks": [],
     "satuRn": [
         "BiocParallel"
     ],
@@ -11119,7 +11084,6 @@
         "HDF5Array",
         "Rsamtools",
         "genefilter",
-        "ompBAM",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -11744,7 +11708,6 @@
     "TreeAndLeaf": [],
     "treekoR": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "FlowSOM",
         "SingleCellExperiment",
         "cytolib",
@@ -11930,7 +11893,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
@@ -12207,7 +12169,6 @@
     "wppi": [
         "OmnipathR"
     ],
-    "Wrench": [],
     "xcms": [
         "AnnotationFilter",
         "BiocBaseUtils",
