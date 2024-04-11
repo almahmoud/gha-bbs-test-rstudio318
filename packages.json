@@ -6028,7 +6028,6 @@
         "Rsamtools",
         "rtracklayer"
     ],
-    "hierGWAS": [],
     "HilbertCurve": [
         "HilbertVis"
     ],
@@ -6494,7 +6493,6 @@
         "iSEE",
         "iSEEhex"
     ],
-    "iSeq": [],
     "ISLET": [
         "BiocParallel"
     ],
@@ -6724,7 +6722,6 @@
     "loci2path": [
         "BiocParallel"
     ],
-    "logicFS": [],
     "LOLA": [],
     "LoomExperiment": [
         "BiocIO",
@@ -8003,7 +8000,6 @@
         "AMOUNTAIN",
         "impute"
     ],
-    "ModCon": [],
     "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
