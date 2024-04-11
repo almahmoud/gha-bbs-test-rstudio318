@@ -154,8 +154,7 @@
         "biovizBase"
     ],
     "AlpsNMR": [
-        "impute",
-        "mixOmics"
+        "impute"
     ],
     "altcdfenvs": [],
     "AMARETTO": [
@@ -356,7 +355,6 @@
         "MAST",
         "Maaslin2",
         "biomformat",
-        "mixOmics",
         "phyloseq",
         "zinbwave"
     ],
@@ -518,7 +516,6 @@
     "BRGenomics": [
         "DESeq2"
     ],
-    "BSgenomeForge": [],
     "bsseq": [
         "HDF5Array"
     ],
@@ -980,7 +977,6 @@
         "genefu",
         "impute"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -1086,7 +1082,6 @@
     "crossmeta": [
         "sva"
     ],
-    "csaw": [],
     "csdR": [
         "impute"
     ],
@@ -1231,7 +1226,6 @@
         "epiNEM",
         "mnem"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "SamSPECTRAL",
         "cytolib",
@@ -1311,10 +1305,7 @@
         "impute",
         "mzID"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
-    "DepInfeR": [],
+    "DepecheR": [],
     "derfinder": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1373,9 +1364,7 @@
         "DRIMSeq",
         "tximport"
     ],
-    "diffHic": [
-        "csaw"
-    ],
+    "diffHic": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq"
@@ -1388,7 +1377,6 @@
     "distinct": [],
     "dittoSeq": [],
     "DMCFB": [],
-    "DMCHMM": [],
     "DMRcate": [
         "BiocVersion",
         "Gviz",
@@ -1500,7 +1488,6 @@
         "KEGGgraph",
         "pathview"
     ],
-    "eiR": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -1573,8 +1560,7 @@
     ],
     "epigraHMM": [
         "GreyListChIP",
-        "bamsignals",
-        "csaw"
+        "bamsignals"
     ],
     "EpiMix": [
         "BiocVersion",
@@ -1679,8 +1665,7 @@
         "GenomicInteractions",
         "Gviz",
         "VariantAnnotation",
-        "biovizBase",
-        "csaw"
+        "biovizBase"
     ],
     "factR": [
         "wiggleplotr"
@@ -2247,8 +2232,7 @@
     "icetea": [
         "DESeq2",
         "ShortRead",
-        "VariantAnnotation",
-        "csaw"
+        "VariantAnnotation"
     ],
     "iCheck": [
         "HDF5Array",
@@ -2773,7 +2757,6 @@
         "illuminaio",
         "minfi"
     ],
-    "MetID": [],
     "MetNet": [],
     "Mfuzz": [
         "tkWidgets",
@@ -2887,7 +2870,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "mixOmics": [],
     "MLInterfaces": [],
     "MLSeq": [
         "DESeq2",
@@ -3132,7 +3114,6 @@
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
-        "csaw",
         "motifStack",
         "regioneR",
         "trackViewer"
@@ -3375,7 +3356,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "pathRender": [],
     "pathview": [
         "KEGGgraph"
     ],
@@ -3455,7 +3435,6 @@
         "fgsea"
     ],
     "pickgene": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -3466,7 +3445,6 @@
     ],
     "PING": [
         "Gviz",
-        "PICS",
         "VariantAnnotation",
         "biovizBase"
     ],
@@ -3499,8 +3477,7 @@
     "POMA": [
         "DESeq2",
         "RankProd",
-        "impute",
-        "mixOmics"
+        "impute"
     ],
     "powerTCR": [],
     "POWSC": [
@@ -3757,7 +3734,6 @@
         "minfi"
     ],
     "recoup": [],
-    "RedisParam": [],
     "REDseq": [
         "ChIPpeakAnno",
         "regioneR"
@@ -3903,9 +3879,7 @@
         "BgeeDB",
         "STRINGdb"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLMM": [],
     "RLSeq": [
         "BiocVersion",
@@ -4466,7 +4440,6 @@
         "SpatialExperiment"
     ],
     "spikeLI": [],
-    "spiky": [],
     "splatter": [],
     "SpliceWiz": [
         "BiocVersion",
@@ -4613,7 +4586,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "ternarynet": [],
     "terraTCGAdata": [
         "RaggedExperiment",
@@ -4632,9 +4604,7 @@
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
     "tilingArray": [],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "DOSE",
         "Mfuzz",
@@ -4845,7 +4815,6 @@
         "DiffBind",
         "GreyListChIP",
         "ShortRead",
-        "csaw",
         "regioneR",
         "systemPipeR"
     ],
