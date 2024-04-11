@@ -265,7 +265,6 @@
     "BayesSpace": [
         "scran"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [
         "HDF5Array"
@@ -503,7 +502,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "ccfindR": [],
     "CDI": [],
     "celaref": [
         "MAST"
@@ -583,7 +581,6 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [],
     "chihaya": [
         "HDF5Array"
     ],
@@ -1086,7 +1083,6 @@
     "dir.expiry": [],
     "Director": [],
     "distinct": [],
-    "dittoSeq": [],
     "DMRcate": [
         "BiocVersion",
         "Gviz",
@@ -1160,7 +1156,6 @@
     "edge": [
         "sva"
     ],
-    "EDIRquery": [],
     "eegc": [
         "DOSE",
         "clusterProfiler",
@@ -1332,7 +1327,6 @@
         "minfi"
     ],
     "FindIT2": [],
-    "fishpond": [],
     "FitHiC": [],
     "flagme": [
         "CAMERA",
@@ -1609,7 +1603,6 @@
         "ncdfFlow"
     ],
     "GGPA": [],
-    "ggsc": [],
     "ggspavis": [],
     "GIGSEA": [],
     "girafe": [],
@@ -1985,7 +1978,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "maskBAD": [],
     "MassArray": [],
     "MAST": [],
     "mastR": [
@@ -2042,7 +2034,6 @@
     "MEIGOR": [
         "CNORode"
     ],
-    "Melissa": [],
     "memes": [
         "universalmotif"
     ],
@@ -2459,7 +2450,6 @@
     ],
     "NCIgraph": [],
     "nearBynding": [],
-    "Nebulosa": [],
     "nempi": [
         "epiNEM"
     ],
@@ -2491,7 +2481,6 @@
         "quantro",
         "yarn"
     ],
-    "NeuCA": [],
     "nipalsMCIA": [],
     "nnSVG": [],
     "NoRCE": [
@@ -2846,7 +2835,6 @@
         "CoreGx",
         "piano"
     ],
-    "raer": [],
     "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
@@ -2874,7 +2862,6 @@
     "RCASPAR": [],
     "rCGH": [],
     "RCM": [],
-    "RCSL": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -3425,16 +3412,13 @@
         "biovizBase",
         "motifmatchr"
     ],
-    "speckle": [],
     "specL": [],
     "Spectra": [],
     "SpectralTAD": [
         "HiCcompare"
     ],
     "SPIA": [],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR"
     ],
@@ -3666,7 +3650,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "unifiedWMWqPCR": [],
     "UniProt.ws": [],
     "Uniquorn": [],
     "universalmotif": [],
