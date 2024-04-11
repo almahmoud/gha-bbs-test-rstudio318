@@ -659,8 +659,7 @@
     ],
     "cicero": [
         "Gviz",
-        "biovizBase",
-        "monocle"
+        "biovizBase"
     ],
     "CIMICE": [
         "maftools"
@@ -753,7 +752,6 @@
         "bsseq"
     ],
     "CoGAPS": [],
-    "Cogito": [],
     "cola": [
         "impute"
     ],
@@ -1102,7 +1100,6 @@
         "ChIPpeakAnno",
         "regioneR"
     ],
-    "DEsingle": [],
     "DESpace": [
         "SpatialExperiment"
     ],
@@ -1543,7 +1540,6 @@
     ],
     "FRGEpistasis": [],
     "frma": [],
-    "FunChIP": [],
     "funtooNorm": [
         "HDF5Array",
         "illuminaio",
@@ -1628,11 +1624,9 @@
         "EBarrays"
     ],
     "GeneTonic": [],
-    "geneXtendeR": [],
     "genomation": [
         "impute"
     ],
-    "GenomAutomorphism": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -1951,7 +1945,6 @@
         "BiocVersion",
         "DEXSeq",
         "pfamAnalyzeR",
-        "satuRn",
         "sva",
         "tximeta",
         "tximport"
@@ -2372,7 +2365,6 @@
     "MLSeq": [
         "sSeq"
     ],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2"
     ],
@@ -2405,7 +2397,6 @@
         "CNEr",
         "TFBSTools"
     ],
-    "monocle": [],
     "Moonlight2R": [
         "BiocVersion",
         "DOSE",
@@ -2816,8 +2807,7 @@
         "piano"
     ],
     "phemd": [
-        "destiny",
-        "monocle"
+        "destiny"
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
@@ -3033,7 +3023,6 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "ramwas": [],
     "RandomWalkRestartMH": [
         "supraHex"
     ],
@@ -3307,7 +3296,6 @@
         "RaggedExperiment",
         "plyranges"
     ],
-    "satuRn": [],
     "SBGNview": [
         "pathview"
     ],
@@ -3360,7 +3348,6 @@
     "scde": [],
     "scDesign3": [],
     "scds": [],
-    "SCFA": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -3463,13 +3450,11 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchR": [],
     "seqArchRplus": [
         "ChIPseeker",
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "seqArchR"
+        "enrichplot"
     ],
     "seqbias": [],
     "seqCAT": [],
@@ -3759,7 +3744,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "TAPseq": [],
     "TargetDecoy": [
         "mzID"
     ],
@@ -3850,7 +3834,6 @@
         "CoreGx",
         "piano"
     ],
-    "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
         "Gviz",
@@ -3930,9 +3913,7 @@
     "UniProt.ws": [],
     "Uniquorn": [],
     "universalmotif": [],
-    "uSORT": [
-        "monocle"
-    ],
+    "uSORT": [],
     "VAExprs": [],
     "VanillaICE": [
         "crlmm",
@@ -4021,8 +4002,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "XNAString": [],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "biovizBase",
