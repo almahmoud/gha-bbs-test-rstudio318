@@ -114,7 +114,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "affxparser": [],
     "affy": [
         "affyio"
     ],
@@ -161,7 +160,6 @@
         "rtracklayer"
     ],
     "affyILM": [
-        "affxparser",
         "affy",
         "affyio",
         "gcrma"
@@ -769,7 +767,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -1173,7 +1170,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "BaseSpaceR": [],
     "Basic4Cseq": [
         "BSgenome",
         "BiocIO",
@@ -1428,7 +1424,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "dearseq",
         "decontam",
         "edgeR",
         "genefilter",
@@ -1701,7 +1696,6 @@
         "rhdf5filters"
     ],
     "BioMVCClass": [
-        "MVCClass",
         "Rgraphviz"
     ],
     "biomvRCNS": [
@@ -2594,7 +2588,6 @@
         "GSEABase",
         "PROMISE"
     ],
-    "ccrepe": [],
     "CDI": [
         "BiocParallel",
         "DelayedArray",
@@ -3167,7 +3160,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyio",
         "frma",
@@ -3540,7 +3532,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -4456,7 +4447,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyio",
         "edgeR",
@@ -4887,7 +4877,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "dearseq": [],
     "debCAM": [
         "BiocParallel",
         "DelayedArray",
@@ -5821,7 +5810,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyio",
         "biomaRt",
@@ -6638,7 +6626,6 @@
         "SGSeq",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "biomaRt",
         "fgsea",
         "rhdf5",
@@ -7253,7 +7240,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -7613,9 +7599,7 @@
     "GeneOverlap": [],
     "geneplast": [],
     "geneRecommender": [],
-    "GeneRegionScan": [
-        "affxparser"
-    ],
+    "GeneRegionScan": [],
     "geneRxCluster": [
         "GenomicRanges"
     ],
@@ -7958,7 +7942,6 @@
         "SummarizedExperiment"
     ],
     "geva": [],
-    "GEWIST": [],
     "gg4way": [
         "BiocParallel",
         "DESeq2",
@@ -8066,7 +8049,6 @@
         "genefilter"
     ],
     "GLAD": [],
-    "GladiaTOX": [],
     "Glimma": [
         "BiocParallel",
         "DESeq2",
@@ -8305,7 +8287,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "granulator": [],
     "graper": [],
     "GraphAT": [],
     "graphite": [],
@@ -8650,7 +8631,6 @@
         "SummarizedExperiment",
         "multtest"
     ],
-    "Herper": [],
     "hiAnnotator": [
         "BSgenome",
         "BiocIO",
@@ -8955,7 +8935,6 @@
     "iBBiG": [],
     "iBMQ": [],
     "iCARE": [],
-    "Icens": [],
     "icetea": [
         "BSgenome",
         "BiocIO",
@@ -9053,7 +9032,6 @@
         "biomaRt",
         "genefilter",
         "goseq",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO"
@@ -9112,9 +9090,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [
-        "lpsymphony"
-    ],
+    "IHW": [],
     "illuminaio": [],
     "ILoReg": [
         "DelayedArray",
@@ -9598,7 +9574,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -9913,7 +9888,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
@@ -11327,7 +11301,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyPLM",
         "affyio",
@@ -11573,7 +11546,6 @@
         "SparseArray",
         "SummarizedExperiment"
     ],
-    "mistyR": [],
     "mitch": [],
     "mitoClone2": [
         "BSgenome",
@@ -12447,7 +12419,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "MVCClass": [],
     "MWASTools": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -12984,7 +12955,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affyio",
         "oligoClasses"
     ],
@@ -13519,7 +13489,6 @@
         "KEGGgraph",
         "Rgraphviz"
     ],
-    "pathwayPCA": [],
     "pcaExplorer": [
         "AnnotationForge",
         "BiocParallel",
@@ -13584,7 +13553,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affyio",
         "oligo",
         "oligoClasses"
@@ -14176,9 +14144,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "PROcess": [
-        "Icens"
-    ],
+    "PROcess": [],
     "procoil": [
         "kebabs"
     ],
@@ -14404,7 +14370,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyio",
         "oligo",
@@ -16391,7 +16356,6 @@
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
-        "affxparser",
         "affy",
         "affyio",
         "edgeR",
@@ -17963,7 +17927,6 @@
         "SummarizedExperiment",
         "TrajectoryUtils"
     ],
-    "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
     "SMITE": [
@@ -18802,7 +18765,6 @@
     "SWATH2stats": [
         "biomaRt"
     ],
-    "SwathXtend": [],
     "swfdr": [],
     "switchde": [
         "DelayedArray",
