@@ -3547,7 +3547,6 @@
         "DESeq2"
     ],
     "DEGseq": [],
-    "DelayedArray": [],
     "DelayedDataFrame": [],
     "DelayedMatrixStats": [
         "sparseMatrixStats"
@@ -11095,7 +11094,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RTN": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
