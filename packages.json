@@ -892,8 +892,7 @@
     "BiFET": [],
     "BiGGR": [
         "Rgraphviz",
-        "hyperdraw",
-        "rsbml"
+        "hyperdraw"
     ],
     "bigmelon": [
         "BiocIO",
@@ -1026,34 +1025,15 @@
     "BiocVersion": [],
     "biocViews": [],
     "BiocWorkflowTools": [],
-    "biodb": [],
-    "biodbChebi": [
-        "biodb"
-    ],
-    "biodbExpasy": [
-        "biodb"
-    ],
-    "biodbHmdb": [
-        "biodb"
-    ],
-    "biodbKegg": [
-        "biodb"
-    ],
-    "biodbLipidmaps": [
-        "biodb"
-    ],
-    "biodbMirbase": [
-        "biodb"
-    ],
-    "biodbNcbi": [
-        "biodb"
-    ],
-    "biodbNci": [
-        "biodb"
-    ],
-    "biodbUniprot": [
-        "biodb"
-    ],
+    "biodbChebi": [],
+    "biodbExpasy": [],
+    "biodbHmdb": [],
+    "biodbKegg": [],
+    "biodbLipidmaps": [],
+    "biodbMirbase": [],
+    "biodbNcbi": [],
+    "biodbNci": [],
+    "biodbUniprot": [],
     "bioDist": [],
     "biomaRt": [],
     "biomformat": [
@@ -2650,7 +2630,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cqn": [],
     "CRImage": [
         "aCGH"
     ],
@@ -4899,7 +4878,6 @@
     "GEOquery": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
-        "cqn",
         "topconfects"
     ],
     "gep2pep": [
@@ -5914,7 +5892,6 @@
     ],
     "KnowSeq": [
         "BiocParallel",
-        "cqn",
         "genefilter",
         "sva"
     ],
@@ -6438,7 +6415,6 @@
     "metabolomicsWorkbenchR": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
-        "rols",
         "struct"
     ],
     "metabomxtr": [
@@ -8016,7 +7992,6 @@
         "rhdf5filters",
         "sparseMatrixStats"
     ],
-    "oppti": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -8333,7 +8308,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "biodb",
         "biodbChebi",
         "ropls"
     ],
@@ -9045,7 +9019,6 @@
         "graphite"
     ],
     "ReadqPCR": [],
-    "REBET": [],
     "rebook": [
         "dir.expiry"
     ],
@@ -9734,7 +9707,6 @@
     "ROC": [],
     "ROCpAI": [],
     "RolDE": [],
-    "rols": [],
     "ROntoTools": [
         "KEGGgraph",
         "Rgraphviz"
@@ -9780,7 +9752,6 @@
     "Rsamtools": [
         "BiocParallel"
     ],
-    "rsbml": [],
     "rScudo": [],
     "rsemmed": [],
     "RSeqAn": [],
@@ -11224,12 +11195,9 @@
         "rtracklayer"
     ],
     "STRINGdb": [],
-    "struct": [
-        "rols"
-    ],
+    "struct": [],
     "Structstrings": [],
     "structToolbox": [
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -11243,7 +11211,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SubCellBarCode": [],
     "subSeq": [],
     "SUITOR": [
         "BiocParallel"
@@ -11813,11 +11780,8 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twilight": [],
-    "twoddpcr": [],
     "txcutr": [
         "BiocIO",
         "BiocParallel",
