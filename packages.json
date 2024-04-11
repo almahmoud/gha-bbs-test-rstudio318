@@ -2299,7 +2299,6 @@
     "biobroom": [
         "Biobase"
     ],
-    "biobtreeR": [],
     "bioCancer": [
         "AnnotationDbi",
         "Biobase",
@@ -13168,8 +13167,7 @@
         "S4Vectors",
         "SparseArray",
         "SummarizedExperiment",
-        "XVector",
-        "ssrch"
+        "XVector"
     ],
     "hummingbird": [
         "Biobase",
@@ -14391,7 +14389,6 @@
     "lapmix": [
         "Biobase"
     ],
-    "LBE": [],
     "ldblock": [],
     "LEA": [],
     "LedPred": [],
@@ -26411,7 +26408,6 @@
         "ggtree",
         "treeio"
     ],
-    "sizepower": [],
     "skewr": [
         "AnnotationDbi",
         "Biobase",
@@ -27378,7 +27374,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ssrch": [],
     "ssviz": [
         "BiocParallel",
         "Biostrings",
