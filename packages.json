@@ -689,7 +689,6 @@
         "edgeR",
         "multtest"
     ],
-    "AnVILBilling": [],
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "APAlyzer": [
@@ -9708,7 +9707,6 @@
     "lapmix": [],
     "ldblock": [],
     "LEA": [],
-    "LedPred": [],
     "lefser": [
         "DelayedArray",
         "GenomicRanges",
@@ -10236,7 +10234,6 @@
         "edgeR",
         "interactiveDisplayBase"
     ],
-    "matchBox": [],
     "MatrixGenerics": [],
     "MatrixQCvis": [
         "AnnotationHub",
@@ -12874,7 +12871,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "occugene": [],
     "OCplus": [
         "multtest"
     ],
@@ -13417,9 +13413,7 @@
         "affy",
         "affyio"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [],
     "pareg": [
         "BiocParallel",
@@ -13925,7 +13919,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "pmm": [],
     "pmp": [
         "DelayedArray",
         "GenomicRanges",
@@ -15028,7 +15021,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RedeR": [],
     "RedisParam": [
         "BiocParallel"
     ],
@@ -16156,7 +16148,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MatrixGenerics",
-        "RedeR",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -16168,7 +16159,6 @@
         "GenomicRanges",
         "MatrixGenerics",
         "RTN",
-        "RedeR",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -16181,7 +16171,6 @@
         "MatrixGenerics",
         "RTN",
         "RTNduals",
-        "RedeR",
         "S4Arrays",
         "SparseArray",
         "SummarizedExperiment",
@@ -17221,7 +17210,6 @@
     ],
     "SELEX": [],
     "SemDist": [],
-    "semisup": [],
     "SEPIRA": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -19402,7 +19390,6 @@
         "SummarizedExperiment"
     ],
     "transcriptogramer": [
-        "RedeR",
         "biomaRt",
         "topGO"
     ],
@@ -19493,9 +19480,7 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [],
     "treekoR": [
         "ComplexHeatmap",
