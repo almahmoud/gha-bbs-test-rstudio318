@@ -256,7 +256,6 @@
     ],
     "banocc": [],
     "basecallQC": [],
-    "Basic4Cseq": [],
     "BASiCS": [
         "scran"
     ],
@@ -415,8 +414,7 @@
     ],
     "BOBaFIT": [
         "biovizBase",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -439,9 +437,7 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [
-        "plyranges"
-    ],
+    "BUSpaRse": [],
     "BUSseq": [],
     "CAFE": [
         "biovizBase",
@@ -575,9 +571,7 @@
         "QDNAseq",
         "impute"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -620,7 +614,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ChIPanalyser": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "biovizBase"
@@ -849,7 +842,6 @@
         "PCAtools"
     ],
     "countsimQC": [],
-    "cpvSNP": [],
     "CRImage": [],
     "crisprBowtie": [],
     "crisprBwa": [
@@ -1113,7 +1105,6 @@
         "sva"
     ],
     "DEXSeq": [],
-    "DIAlignR": [],
     "DiffBind": [
         "GreyListChIP",
         "systemPipeR"
@@ -1639,8 +1630,7 @@
     "GenomicPlot": [
         "RCAS",
         "genomation",
-        "impute",
-        "plyranges"
+        "impute"
     ],
     "GenomicScores": [
         "BiocVersion",
@@ -1718,11 +1708,9 @@
     ],
     "GraphPAC": [],
     "GreyListChIP": [],
-    "groHMM": [],
     "GSALightning": [],
     "GSAR": [],
     "GSCA": [],
-    "gscreend": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
         "EnrichmentBrowser",
@@ -1828,7 +1816,6 @@
     "hummingbird": [],
     "hyperdraw": [],
     "iASeq": [],
-    "iasva": [],
     "iBBiG": [],
     "icetea": [],
     "iCheck": [
@@ -1889,9 +1876,7 @@
         "flowCore"
     ],
     "Informeasure": [],
-    "InPAS": [
-        "plyranges"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "INTACT": [],
     "InTAD": [],
@@ -1963,8 +1948,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "maftools",
-        "plyranges"
+        "maftools"
     ],
     "KBoost": [],
     "KEGGlincs": [],
@@ -2081,8 +2065,7 @@
     ],
     "mariner": [
         "HDF5Array",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -2123,7 +2106,6 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MDTS": [],
     "MEAL": [
         "Gviz",
         "HDF5Array",
@@ -2225,8 +2207,7 @@
         "HDF5Array",
         "bsseq",
         "illuminaio",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -2408,7 +2389,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosbi": [],
     "motifbreakR": [
         "CNEr",
         "Gviz",
@@ -2524,7 +2504,6 @@
         "bamsignals",
         "biovizBase",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [
@@ -2593,9 +2572,7 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "Nebulosa": [],
     "nempi": [
         "epiNEM"
@@ -2646,9 +2623,7 @@
     ],
     "nucleR": [],
     "nuCpos": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "octad": [
         "BiocVersion",
         "EDASeq",
@@ -2683,7 +2658,6 @@
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
         "BiocVersion"
@@ -2847,16 +2821,11 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "PLPE": [
         "LPE"
     ],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "pmp": [
         "impute"
     ],
@@ -3010,7 +2979,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "r3Cseq": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx",
@@ -3293,8 +3261,7 @@
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [
-        "RaggedExperiment",
-        "plyranges"
+        "RaggedExperiment"
     ],
     "SBGNview": [
         "pathview"
@@ -3682,7 +3649,6 @@
         "phyloseq"
     ],
     "sRACIPE": [],
-    "SRAdb": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
@@ -3899,8 +3865,7 @@
     "Ularcirc": [
         "BiocVersion",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "regioneR"
@@ -3952,7 +3917,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vsclust": [],
     "vtpnet": [
         "BiocVersion",
@@ -3974,7 +3938,6 @@
         "methylumi",
         "minfi"
     ],
-    "wavClusteR": [],
     "webbioc": [],
     "weitrix": [
         "topconfects"
