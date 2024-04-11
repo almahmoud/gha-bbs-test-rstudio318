@@ -144,7 +144,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "ALDEx2": [],
     "alevinQC": [
         "tximport"
     ],
@@ -349,7 +348,6 @@
     "BEclear": [],
     "beer": [],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "DESeq2",
         "MAST",
@@ -774,7 +772,6 @@
     "ChIPXpress": [
         "frma"
     ],
-    "ChromHeatMap": [],
     "ChromSCape": [
         "batchelor",
         "scran"
@@ -812,7 +809,6 @@
         "scran"
     ],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
     "clipper": [
         "KEGGgraph"
     ],
@@ -950,7 +946,6 @@
     ],
     "ComPrAn": [],
     "compSPOT": [],
-    "concordexR": [],
     "condiments": [
         "TrajectoryUtils",
         "distinct",
@@ -1696,7 +1691,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [],
     "ffpe": [
         "HDF5Array",
         "bumphunter",
@@ -1848,7 +1842,6 @@
         "flowCore",
         "ncdfFlow"
     ],
-    "fmcsR": [],
     "fmrs": [],
     "fobitools": [
         "fgsea"
@@ -1950,7 +1943,6 @@
     "genefu": [
         "impute"
     ],
-    "GeneGeneInteR": [],
     "GeneMeta": [],
     "GeneNetworkBuilder": [],
     "GeneOverlap": [],
@@ -2152,7 +2144,6 @@
         "impute"
     ],
     "h5vc": [],
-    "hapFabia": [],
     "HarmonizR": [
         "sva"
     ],
@@ -2304,7 +2295,6 @@
     ],
     "Informeasure": [],
     "InPAS": [
-        "cleanUpdTSeq",
         "plyranges"
     ],
     "INSPEcT": [
@@ -2447,7 +2437,6 @@
         "mzID",
         "xcms"
     ],
-    "loci2path": [],
     "LoomExperiment": [
         "HDF5Array"
     ],
@@ -2608,7 +2597,6 @@
         "wateRmelon"
     ],
     "MEB": [],
-    "MEDIPS": [],
     "MEIGOR": [
         "CNORode",
         "CellNOptR"
@@ -2744,8 +2732,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "methylscaper": [],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
@@ -2777,7 +2763,6 @@
         "biomformat"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "DESeq2",
         "biomformat",
@@ -3165,7 +3150,6 @@
         "supraHex"
     ],
     "NetPathMiner": [],
-    "netresponse": [],
     "NetSAM": [
         "impute"
     ],
@@ -3234,9 +3218,7 @@
     ],
     "OmaDB": [],
     "omicade4": [],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "impute",
         "omicade4",
@@ -4010,10 +3992,8 @@
     "SCAN.UPC": [
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
-        "BiocVersion",
-        "scanMiR"
+        "BiocVersion"
     ],
     "scAnnotatR": [
         "BiocVersion"
@@ -4586,7 +4566,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "RaggedExperiment",
         "TCGAutils"
