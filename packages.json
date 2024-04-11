@@ -5407,7 +5407,6 @@
         "zinbwave",
         "zlibbioc"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "AnnotationDbi",
         "Biobase",
@@ -7512,7 +7511,6 @@
         "widgetTools",
         "zlibbioc"
     ],
-    "dcanr": [],
     "DCATS": [],
     "dce": [
         "AnnotationDbi",
@@ -8680,10 +8678,7 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "DNAcopy": [],
     "DNAfusion": [
         "AnnotationDbi",
@@ -10474,7 +10469,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "fastreeR": [],
     "fastseg": [
         "Biobase",
         "GenomeInfoDb",
@@ -11082,7 +11076,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [
         "Biobase",
@@ -12938,7 +12931,6 @@
         "multtest",
         "zlibbioc"
     ],
-    "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
         "Biobase",
@@ -14169,7 +14161,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "Biobase",
         "DelayedArray",
@@ -14321,7 +14312,6 @@
         "flowCore"
     ],
     "immunotation": [],
-    "IMPCdata": [],
     "impute": [],
     "INDEED": [],
     "iNETgrate": [
@@ -14429,7 +14419,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "INPower": [],
     "INSPEcT": [
         "AnnotationDbi",
         "Biobase",
@@ -16200,7 +16189,6 @@
         "Wrench",
         "metagenomeSeq"
     ],
-    "MBttest": [],
     "MCbiclust": [
         "AnnotationDbi",
         "Biobase",
@@ -19245,7 +19233,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "dcanr",
         "impute",
         "zlibbioc"
     ],
@@ -19742,7 +19729,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "netbiov": [],
     "netboost": [
         "AnnotationDbi",
         "Biobase",
@@ -21209,7 +21195,6 @@
         "marray",
         "piano",
         "survcomp",
-        "switchBox",
         "zlibbioc"
     ],
     "pdInfoBuilder": [
@@ -21513,7 +21498,6 @@
         "edgeR",
         "zlibbioc"
     ],
-    "phosphonormalizer": [],
     "PhosR": [
         "Biobase",
         "DelayedArray",
@@ -25170,7 +25154,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "RRHO": [],
     "rrvgo": [
         "AnnotationDbi",
         "Biobase",
@@ -29378,7 +29361,6 @@
     ],
     "SwathXtend": [],
     "swfdr": [],
-    "switchBox": [],
     "switchde": [
         "Biobase",
         "DelayedArray",
@@ -31711,7 +31693,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "weaver": [],
     "webbioc": [
         "AnnotationDbi",
         "Biobase",
