@@ -8,15 +8,12 @@
     "abseqR": [],
     "acde": [],
     "ACE": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq",
         "impute"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "GLAD",
-        "aCGH",
         "snapCGH",
         "tilingArray",
         "vsn"
@@ -488,7 +485,6 @@
     "BgeeDB": [],
     "bgx": [],
     "BHC": [],
-    "BicARE": [],
     "BiGGR": [
         "hyperdraw"
     ],
@@ -606,7 +602,6 @@
     ],
     "biscuiteer": [
         "BiocVersion",
-        "CGHbase",
         "CGHcall",
         "DelayedMatrixStats",
         "HDF5Array",
@@ -749,7 +744,6 @@
     "CAMERA": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -915,7 +909,6 @@
         "impute"
     ],
     "cfdnakit": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq",
         "impute"
@@ -929,22 +922,17 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CGHbase": [],
     "CGHcall": [
-        "CGHbase",
         "impute"
     ],
     "cghMCR": [
         "CNTools"
     ],
     "CGHnormaliter": [
-        "CGHbase",
         "CGHcall",
         "impute"
     ],
-    "CGHregions": [
-        "CGHbase"
-    ],
+    "CGHregions": [],
     "ChAMP": [
         "BiocVersion",
         "DMRcate",
@@ -1020,7 +1008,6 @@
         "frma"
     ],
     "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1086,7 +1073,6 @@
     "cliqueMS": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1247,7 +1233,6 @@
         "methylPipe"
     ],
     "CompoundDb": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "ComPrAn": [],
@@ -1339,7 +1324,6 @@
     "cosmiq": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -1365,9 +1349,7 @@
     "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBowtie": [],
     "crisprBwa": [
         "Rbwa"
@@ -1864,7 +1846,6 @@
         "rhdf5"
     ],
     "Dune": [],
-    "dyebias": [],
     "easier": [
         "BiocVersion",
         "DESeq2",
@@ -2163,7 +2144,6 @@
     ],
     "FeatSeekR": [],
     "fedup": [],
-    "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -2187,7 +2167,6 @@
         "BiocBaseUtils",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -2447,7 +2426,6 @@
     "gemini": [],
     "geneAttribution": [],
     "GeneBreak": [
-        "CGHbase",
         "CGHcall",
         "QDNAseq",
         "impute"
@@ -2917,7 +2895,6 @@
         "BiocBaseUtils",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3005,7 +2982,6 @@
     "KnowSeq": [
         "sva"
     ],
-    "LACE": [],
     "LEA": [],
     "lefser": [],
     "lemur": [
@@ -3046,7 +3022,6 @@
         "BiocBaseUtils",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3143,7 +3118,6 @@
         "BiocBaseUtils",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3282,12 +3256,10 @@
         "BiocBaseUtils",
         "BiocVersion",
         "CompoundDb",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "BiocBaseUtils",
         "MultiAssayExperiment"
@@ -3312,7 +3284,6 @@
         "BiocBaseUtils",
         "CAMERA",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3350,7 +3321,6 @@
         "topconfects"
     ],
     "MetCirc": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "methInheritSim": [
@@ -3596,7 +3566,6 @@
     ],
     "miRNApath": [],
     "miRSM": [
-        "BicARE",
         "DOSE",
         "ReactomePA",
         "SPONGE",
@@ -3649,7 +3618,6 @@
     "MobilityTransformR": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -3725,23 +3693,18 @@
     "MouseFM": [],
     "MPRAnalyze": [],
     "MsBackendMassbank": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsBackendSql": [
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "MsDataHub": [
@@ -3749,7 +3712,6 @@
     ],
     "MsExperiment": [
         "BiocBaseUtils",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra"
@@ -3814,7 +3776,6 @@
     ],
     "MsQuality": [
         "BiocBaseUtils",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MultiAssayExperiment",
         "QFeatures",
@@ -3984,7 +3945,6 @@
     "ncGTW": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4433,10 +4393,8 @@
         "rhdf5"
     ],
     "preciseTAD": [
-        "aCGH",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "BiocVersion",
         "CNEr",
@@ -4560,7 +4518,6 @@
         "RSeqAn"
     ],
     "QDNAseq": [
-        "CGHbase",
         "CGHcall",
         "impute"
     ],
@@ -4658,9 +4615,7 @@
         "impute"
     ],
     "RCASPAR": [],
-    "rCGH": [
-        "aCGH"
-    ],
+    "rCGH": [],
     "RCM": [
         "biomformat",
         "phyloseq",
@@ -4878,7 +4833,6 @@
     "Risa": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
@@ -4981,7 +4935,6 @@
     ],
     "roar": [],
     "ROC": [],
-    "RolDE": [],
     "ROntoTools": [
         "KEGGgraph"
     ],
@@ -5527,7 +5480,6 @@
     ],
     "snapCGH": [
         "GLAD",
-        "aCGH",
         "tilingArray",
         "vsn"
     ],
@@ -5623,9 +5575,7 @@
     ],
     "speckle": [],
     "specL": [],
-    "Spectra": [
-        "MetaboCoreUtils"
-    ],
+    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "rhdf5"
@@ -5742,7 +5692,6 @@
         "DOSE",
         "fgsea"
     ],
-    "SWATH2stats": [],
     "swfdr": [],
     "switchde": [],
     "synapter": [
@@ -5848,7 +5797,6 @@
     "tilingArray": [
         "vsn"
     ],
-    "timecourse": [],
     "timeOmics": [
         "mixOmics"
     ],
@@ -5867,7 +5815,6 @@
     "TIN": [
         "impute"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
@@ -5923,7 +5870,6 @@
     ],
     "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "ShortRead",
         "chipseq"
@@ -6077,7 +6023,6 @@
         "VariantAnnotation"
     ],
     "VDJdive": [],
-    "VegaMC": [],
     "velociraptor": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -6155,7 +6100,6 @@
     "xcms": [
         "BiocBaseUtils",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsExperiment",
         "MsFeatures",
         "MultiAssayExperiment",
