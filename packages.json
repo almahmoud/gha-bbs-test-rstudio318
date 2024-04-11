@@ -1313,7 +1313,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "Biobase",
@@ -5174,7 +5173,6 @@
         "XVector",
         "fgsea"
     ],
-    "ClustIRR": [],
     "CMA": [
         "Biobase"
     ],
@@ -7916,7 +7914,6 @@
         "edgeR",
         "tximport"
     ],
-    "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
         "Biobase",
@@ -8693,7 +8690,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "snm",
         "sva"
     ],
     "edgeR": [],
@@ -8711,7 +8707,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "eds": [],
     "eegc": [
         "AnnotationDbi",
         "Biobase",
@@ -10330,7 +10325,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowGraph": [],
     "flowMap": [],
     "flowMatch": [
         "Biobase",
@@ -13089,7 +13083,6 @@
     "hopach": [
         "Biobase"
     ],
-    "HPAanalyze": [],
     "hpar": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13544,7 +13537,6 @@
         "cytolib",
         "flowCore"
     ],
-    "immunotation": [],
     "impute": [],
     "INDEED": [],
     "iNETgrate": [
@@ -15750,7 +15742,6 @@
         "Biobase",
         "Wrench"
     ],
-    "metahdep": [],
     "metaMS": [
         "AnnotationFilter",
         "Biobase",
@@ -16695,7 +16686,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "mina": [],
     "MineICA": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -19029,7 +19019,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "NuPoP": [],
     "occugene": [],
     "OCplus": [
         "Biobase",
@@ -22134,9 +22123,7 @@
     "ReadqPCR": [
         "Biobase"
     ],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "dir.expiry"
     ],
@@ -26275,7 +26262,6 @@
         "celda",
         "dir.expiry",
         "edgeR",
-        "eds",
         "ensembldb",
         "genefilter",
         "ggtree",
@@ -26554,8 +26540,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "snm": [],
-    "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
@@ -27984,7 +27968,6 @@
         "mzID",
         "mzR"
     ],
-    "TargetScore": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "AnnotationDbi",
@@ -29142,7 +29125,6 @@
     "TRONCO": [
         "Rgraphviz"
     ],
-    "TSAR": [],
     "TSCAN": [
         "Biobase",
         "DelayedArray",
@@ -29652,7 +29634,6 @@
         "rtracklayer",
         "sva"
     ],
-    "vbmp": [],
     "VCFArray": [
         "AnnotationDbi",
         "BSgenome",
