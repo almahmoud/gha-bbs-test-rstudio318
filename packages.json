@@ -53,21 +53,15 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "oligoClasses"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
@@ -82,7 +76,6 @@
         "affycoretools",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "ggbio",
         "oligoClasses"
@@ -323,7 +316,6 @@
         "BeadDataPackR",
         "affyPLM",
         "beadarray",
-        "gcrma",
         "genefilter",
         "illuminaio",
         "vsn"
@@ -557,9 +549,7 @@
         "tximport"
     ],
     "BgeeDB": [],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BHC": [],
     "BicARE": [],
     "BiFET": [],
@@ -640,9 +630,6 @@
     "biodbChebi": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
-    "biodbMirbase": [],
-    "biodbNcbi": [],
-    "biodbNci": [],
     "biodbUniprot": [],
     "biomformat": [
         "rhdf5"
@@ -2685,7 +2672,6 @@
         "lfa"
     ],
     "gCrisprTools": [],
-    "gcrma": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -2830,7 +2816,6 @@
     ],
     "GEOmetadb": [],
     "GeomxTools": [],
-    "GEOsubmission": [],
     "GeoTcgaData": [
         "topconfects"
     ],
@@ -3114,7 +3099,6 @@
     "hpar": [
         "BiocVersion"
     ],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "ShortRead",
         "VariantAnnotation",
@@ -3544,8 +3528,7 @@
     ],
     "MantelCorr": [],
     "maPredictDSC": [
-        "ROC",
-        "gcrma"
+        "ROC"
     ],
     "mariner": [
         "HDF5Array",
@@ -3563,9 +3546,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MassArray": [],
     "MAST": [],
     "mastR": [
@@ -3889,7 +3870,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MGFR": [],
     "mia": [
         "BiocBaseUtils",
         "BiocNeighbors",
@@ -3992,7 +3972,6 @@
     ],
     "mimager": [
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -4562,13 +4541,10 @@
         "MultiAssayExperiment",
         "fgsea"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -4659,7 +4635,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "oncoscanR": [],
-    "OncoScore": [],
     "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
@@ -5065,7 +5040,6 @@
     "ProteoDisco": [
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [
         "genefilter",
         "vsn"
@@ -5102,7 +5076,6 @@
         "VariantAnnotation",
         "rhdf5"
     ],
-    "pvac": [],
     "pvca": [
         "vsn"
     ],
@@ -5130,7 +5103,6 @@
         "BiocBaseUtils",
         "MultiAssayExperiment"
     ],
-    "qmtools": [],
     "qpcrNorm": [],
     "qPLEXanalyzer": [
         "MSnbase",
@@ -5208,7 +5180,6 @@
         "ensembldb",
         "quantsmooth"
     ],
-    "rain": [],
     "ramr": [],
     "ramwas": [],
     "RandomWalkRestartMH": [
@@ -5624,7 +5595,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "rrvgo": [],
     "rScudo": [],
     "rsemmed": [],
     "RSeqAn": [],
@@ -5657,9 +5627,7 @@
     "SAIGEgds": [
         "SeqArray"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [
@@ -6763,7 +6731,6 @@
         "ensemblVEP",
         "ensembldb"
     ],
-    "tweeDEseq": [],
     "txcutr": [],
     "tximeta": [
         "AnnotationFilter",
@@ -6796,9 +6763,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [
         "BiocBaseUtils"
     ],
@@ -6927,7 +6892,6 @@
     ],
     "wavClusteR": [],
     "webbioc": [
-        "gcrma",
         "vsn"
     ],
     "weitrix": [
