@@ -1182,7 +1182,6 @@
     "cn.mops": [
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [],
     "CNORdt": [
         "CellNOptR"
@@ -1676,7 +1675,6 @@
         "DelayedMatrixStats",
         "HDF5Array",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "illuminaio",
         "methylKit",
@@ -1831,7 +1829,6 @@
     ],
     "dir.expiry": [],
     "Director": [],
-    "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
         "BiocSingular",
@@ -1843,7 +1840,6 @@
     "dittoSeq": [],
     "DMCFB": [],
     "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "BiocVersion",
         "DelayedMatrixStats",
@@ -1937,8 +1933,7 @@
         "BiocVersion",
         "DESeq2",
         "decoupleR",
-        "progeny",
-        "quantiseqr"
+        "progeny"
     ],
     "EasyCellType": [
         "DOSE",
@@ -2104,7 +2099,6 @@
     "epistack": [],
     "epistasisGA": [],
     "EpiTxDb": [
-        "Modstrings",
         "tRNA",
         "tRNAdbImport"
     ],
@@ -2225,7 +2219,6 @@
     "FastqCleaner": [
         "ShortRead"
     ],
-    "fastseg": [],
     "fCCAC": [
         "genomation",
         "impute",
@@ -3079,7 +3072,6 @@
         "GLAD"
     ],
     "IVAS": [],
-    "ivygapSE": [],
     "karyoploteR": [
         "VariantAnnotation",
         "bamsignals",
@@ -3473,7 +3465,6 @@
         "Spectra"
     ],
     "methInheritSim": [
-        "fastseg",
         "methylKit"
     ],
     "MethReg": [
@@ -3543,12 +3534,9 @@
         "siggenes"
     ],
     "methylInheritance": [
-        "fastseg",
         "methylKit"
     ],
-    "methylKit": [
-        "fastseg"
-    ],
+    "methylKit": [],
     "MethylMix": [
         "impute"
     ],
@@ -3799,7 +3787,6 @@
         "AMOUNTAIN",
         "impute"
     ],
-    "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
@@ -3861,7 +3848,6 @@
         "TFBSTools"
     ],
     "MouseFM": [],
-    "mpra": [],
     "MPRAnalyze": [],
     "MSA2dist": [],
     "MsBackendMassbank": [
@@ -4748,7 +4734,6 @@
         "sva"
     ],
     "Qtlizer": [],
-    "quantiseqr": [],
     "quantro": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -5106,14 +5091,12 @@
     ],
     "RNAmodR": [
         "Gviz",
-        "Modstrings",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5121,7 +5104,6 @@
     ],
     "RNAmodR.ML": [
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5129,7 +5111,6 @@
     ],
     "RNAmodR.RiboMethSeq": [
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "VariantAnnotation",
         "biovizBase",
@@ -5231,7 +5212,6 @@
         "pathview"
     ],
     "SC3": [],
-    "Scale4C": [],
     "SCAN.UPC": [
         "genefilter",
         "sva"
@@ -6195,15 +6175,11 @@
         "siggenes"
     ],
     "tripr": [],
-    "tRNA": [
-        "Modstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
-        "Modstrings",
         "tRNA"
     ],
     "TRONCO": [],
