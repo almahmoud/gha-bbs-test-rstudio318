@@ -161,8 +161,7 @@
         "BiocVersion"
     ],
     "annotatr": [
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "anota2seq": [],
     "APAlyzer": [],
@@ -201,7 +200,6 @@
     ],
     "ASURAT": [],
     "ATACCoGAPS": [
-        "CNEr",
         "CoGAPS",
         "GeneOverlap",
         "TFBSTools",
@@ -210,16 +208,13 @@
     ],
     "ATACseqQC": [
         "BiocVersion",
-        "CNEr",
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
         "TFBSTools",
-        "motifStack",
-        "regioneR"
+        "motifStack"
     ],
     "ATACseqTFEA": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -227,7 +222,6 @@
         "BiocVersion"
     ],
     "atSNP": [
-        "CNEr",
         "TFBSTools",
         "motifStack"
     ],
@@ -236,7 +230,6 @@
     ],
     "AUCell": [],
     "autonomics": [],
-    "BaalChIP": [],
     "BadRegionFinder": [],
     "ballgown": [
         "sva"
@@ -261,7 +254,6 @@
         "glmGamPoi",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "basilisk": [
         "basilisk.utils",
         "dir.expiry"
@@ -378,8 +370,7 @@
         "annotatr",
         "bsseq",
         "dmrseq",
-        "impute",
-        "regioneR"
+        "impute"
     ],
     "blacksheepr": [
         "DEXSeq"
@@ -608,9 +599,7 @@
     "ChIPexoQual": [
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "GreyListChIP",
@@ -637,7 +626,6 @@
         "bamsignals"
     ],
     "chromVAR": [
-        "CNEr",
         "TFBSTools"
     ],
     "cicero": [
@@ -701,7 +689,6 @@
     ],
     "cn.farms": [],
     "cn.mops": [],
-    "CNEr": [],
     "CNORdt": [],
     "CNORfeeder": [],
     "CNORfuzzy": [],
@@ -712,8 +699,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVgears": [],
     "CNViz": [
@@ -721,8 +707,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVPanelizer": [],
     "CNVRanger": [
@@ -800,8 +785,7 @@
         "bamsignals",
         "biovizBase",
         "cn.mops",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CoreGx": [
         "piano"
@@ -979,7 +963,6 @@
     ],
     "dada2": [],
     "dagLogo": [
-        "CNEr",
         "TFBSTools",
         "UniProt.ws",
         "motifStack"
@@ -1034,7 +1017,6 @@
     "DeepBlueR": [],
     "deepSNV": [],
     "DEFormats": [],
-    "DegNorm": [],
     "DEGraph": [
         "NCIgraph"
     ],
@@ -1076,8 +1058,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DESpace": [
         "SpatialExperiment"
@@ -1133,8 +1114,7 @@
         "BiocVersion",
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -1213,7 +1193,6 @@
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -1232,7 +1211,6 @@
         "DOSE"
     ],
     "enrichTF": [
-        "CNEr",
         "DOSE",
         "TFBSTools",
         "clusterProfiler",
@@ -1298,7 +1276,6 @@
     ],
     "ERSSA": [],
     "esATAC": [
-        "CNEr",
         "ChIPseeker",
         "DOSE",
         "TFBSTools",
@@ -1315,7 +1292,6 @@
     "escheR": [
         "SpatialExperiment"
     ],
-    "eudysbiome": [],
     "evaluomeR": [],
     "EventPointer": [
         "tximport"
@@ -1408,7 +1384,6 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [],
     "flowCHIC": [
         "cytolib",
         "flowCore"
@@ -1717,10 +1692,8 @@
     ],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
-    "Guitar": [],
     "Gviz": [
         "biovizBase"
     ],
@@ -1820,9 +1793,7 @@
     "IFAA": [],
     "igvR": [],
     "illuminaio": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "HDF5Array",
         "SpatialExperiment",
@@ -1914,11 +1885,9 @@
     "ITALICS": [
         "GLAD"
     ],
-    "IVAS": [],
     "karyoploteR": [
         "bamsignals",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "maftools"
@@ -2014,9 +1983,7 @@
         "enrichplot",
         "pathview"
     ],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -2054,7 +2021,6 @@
         "impute"
     ],
     "MatrixRider": [
-        "CNEr",
         "TFBSTools"
     ],
     "matter": [],
@@ -2332,7 +2298,6 @@
     ],
     "MOMA": [],
     "monaLisa": [
-        "CNEr",
         "TFBSTools"
     ],
     "Moonlight2R": [
@@ -2347,20 +2312,15 @@
         "enrichplot"
     ],
     "motifbreakR": [
-        "CNEr",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
-        "CNEr",
         "TFBSTools"
     ],
     "motifStack": [
-        "CNEr",
         "TFBSTools"
     ],
     "MsBackendMassbank": [
@@ -2460,8 +2420,7 @@
         "CRISPRseek",
         "bamsignals",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "multiGSEA": [
         "BiocVersion"
@@ -2496,7 +2455,6 @@
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
-        "CNEr",
         "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
         "GenomicScores",
@@ -2505,7 +2463,6 @@
         "TFBSTools",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [
@@ -2664,7 +2621,6 @@
     ],
     "padma": [],
     "pageRank": [
-        "CNEr",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2799,7 +2755,6 @@
     ],
     "primirTSS": [
         "BiocVersion",
-        "CNEr",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -2990,8 +2945,7 @@
         "minfi"
     ],
     "REDseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "RegEnrich": [
         "DOSE",
@@ -3006,10 +2960,7 @@
         "TOAST",
         "scran"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -3060,9 +3011,7 @@
         "BiocVersion"
     ],
     "RGMQL": [],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rgoslin": [],
     "rgsepd": [],
     "Rhisat2": [],
@@ -3077,7 +3026,6 @@
     "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "CNEr",
         "EDASeq",
         "RUVSeq",
         "TFBSTools",
@@ -3088,8 +3036,7 @@
     "RIPAT": [
         "bamsignals",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "Risa": [
         "MSnbase",
@@ -3107,8 +3054,7 @@
     "RJMCMCNucleosomes": [],
     "RLMM": [],
     "RLSeq": [
-        "BiocVersion",
-        "regioneR"
+        "BiocVersion"
     ],
     "RMassBank": [
         "MSnbase",
@@ -3182,9 +3128,7 @@
         "TCGAutils"
     ],
     "RTNsurvival": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq"
     ],
@@ -3274,8 +3218,7 @@
         "BiocVersion",
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "scone": [
         "EDASeq",
@@ -3299,7 +3242,6 @@
     "scran": [],
     "scReClassify": [],
     "scRecover": [],
-    "screenCounter": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -3386,7 +3328,6 @@
     "SigCheck": [
         "MLInterfaces"
     ],
-    "sigFeature": [],
     "signatureSearch": [
         "BiocVersion",
         "DOSE",
@@ -3456,7 +3397,6 @@
     "SingleR": [],
     "singscore": [],
     "SiPSiC": [],
-    "sitadela": [],
     "skewr": [
         "HDF5Array",
         "ROC",
@@ -3494,8 +3434,7 @@
         "BiocVersion",
         "HDF5Array",
         "annotatr",
-        "bsseq",
-        "regioneR"
+        "bsseq"
     ],
     "SpacePAC": [],
     "Spaniel": [
@@ -3527,7 +3466,6 @@
         "GeomxTools"
     ],
     "spatzie": [
-        "CNEr",
         "GenomicInteractions",
         "Gviz",
         "TFBSTools",
@@ -3669,9 +3607,7 @@
         "RaggedExperiment",
         "TCGAutils"
     ],
-    "TFBSTools": [
-        "CNEr"
-    ],
+    "TFBSTools": [],
     "TFHAZ": [
         "ORFik"
     ],
@@ -3741,7 +3677,6 @@
         "Heatplus",
         "RankProd"
     ],
-    "transomics2cytoscape": [],
     "TransView": [],
     "traviz": [
         "TrajectoryUtils",
@@ -3754,10 +3689,8 @@
         "flowCore"
     ],
     "trena": [
-        "MotifDb",
         "impute"
     ],
-    "TRESS": [],
     "tricycle": [],
     "trigger": [
         "sva"
@@ -3785,9 +3718,7 @@
         "Organism.dplyr",
         "plotgardener"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "biovizBase"
@@ -3843,7 +3774,6 @@
         "ChIPpeakAnno",
         "DiffBind",
         "GreyListChIP",
-        "regioneR",
         "systemPipeR"
     ],
     "waddR": [],
