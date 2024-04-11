@@ -253,7 +253,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -371,7 +370,6 @@
     "ATACCoGAPS": [
         "CNEr",
         "CoGAPS",
-        "DirichletMultinomial",
         "GeneOverlap",
         "OrganismDbi",
         "SingleCellExperiment",
@@ -387,7 +385,6 @@
         "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
-        "DirichletMultinomial",
         "GenomicScores",
         "HDF5Array",
         "InteractionSet",
@@ -399,7 +396,6 @@
     ],
     "ATACseqTFEA": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -409,7 +405,6 @@
     ],
     "atSNP": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifStack"
     ],
@@ -561,7 +556,6 @@
         "BiocSingular",
         "DESeq2",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MAST",
         "Maaslin2",
         "MultiAssayExperiment",
@@ -1244,7 +1238,6 @@
     ],
     "chromVAR": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "CHRONOS": [],
@@ -1416,7 +1409,6 @@
         "BiocBaseUtils",
         "GDSArray",
         "RaggedExperiment",
-        "SNPRelate",
         "SeqArray"
     ],
     "CNVrd2": [
@@ -1832,7 +1824,6 @@
     "dagLogo": [
         "BiocBaseUtils",
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "UniProt.ws",
         "motifStack"
@@ -2089,7 +2080,6 @@
     ],
     "dir.expiry": [],
     "Director": [],
-    "DirichletMultinomial": [],
     "DiscoRhythm": [],
     "distinct": [
         "BiocNeighbors",
@@ -2292,7 +2282,6 @@
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -2323,7 +2312,6 @@
     "enrichTF": [
         "CNEr",
         "DOSE",
-        "DirichletMultinomial",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -2445,7 +2433,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "DirichletMultinomial",
         "Rbowtie2",
         "ShortRead",
         "TFBSTools",
@@ -2473,9 +2460,7 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "eudysbiome": [],
     "evaluomeR": [
         "BiocBaseUtils",
@@ -2864,7 +2849,6 @@
         "MultiAssayExperiment"
     ],
     "GDSArray": [
-        "SNPRelate",
         "SeqArray"
     ],
     "gemini": [],
@@ -2889,7 +2873,6 @@
     "geneRxCluster": [],
     "GENESIS": [
         "GWASTools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "quantsmooth"
@@ -3167,7 +3150,6 @@
     ],
     "gwasurvivr": [
         "GWASTools",
-        "SNPRelate",
         "VariantAnnotation",
         "quantsmooth"
     ],
@@ -3767,7 +3749,6 @@
     ],
     "MatrixRider": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "matter": [],
@@ -4093,7 +4074,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4114,7 +4094,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4153,7 +4132,6 @@
         "BiocSingular",
         "DESeq2",
         "DelayedMatrixStats",
-        "DirichletMultinomial",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4310,7 +4288,6 @@
     "MLInterfaces": [
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2",
         "sSeq"
@@ -4364,7 +4341,6 @@
     ],
     "monaLisa": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "monocle": [],
@@ -4390,7 +4366,6 @@
     "motifbreakR": [
         "AnnotationFilter",
         "CNEr",
-        "DirichletMultinomial",
         "Gviz",
         "MotifDb",
         "TFBSTools",
@@ -4402,12 +4377,10 @@
     "MotifDb": [],
     "motifmatchr": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "motifStack": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools"
     ],
     "MouseFM": [],
@@ -4660,7 +4633,6 @@
         "BiocVersion",
         "CNEr",
         "ChIPpeakAnno",
-        "DirichletMultinomial",
         "EmpiricalBrownsMethod",
         "GenomicScores",
         "Gviz",
@@ -4791,7 +4763,6 @@
         "SingleCellExperiment",
         "beachmat"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "BiocBaseUtils",
         "MultiAssayExperiment",
@@ -4982,7 +4953,6 @@
     ],
     "pageRank": [
         "CNEr",
-        "DirichletMultinomial",
         "TFBSTools",
         "motifmatchr"
     ],
@@ -5245,7 +5215,6 @@
         "AnnotationFilter",
         "BiocVersion",
         "CNEr",
-        "DirichletMultinomial",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -5464,7 +5433,6 @@
         "AnnotationFilter",
         "GENESIS",
         "GWASTools",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "VariantAnnotation",
@@ -5499,7 +5467,6 @@
         "seqPattern"
     ],
     "RCASPAR": [],
-    "rcellminer": [],
     "rCGH": [
         "aCGH"
     ],
@@ -5723,7 +5690,6 @@
     ],
     "ribosomeProfilingQC": [
         "CNEr",
-        "DirichletMultinomial",
         "EDASeq",
         "RUVSeq",
         "ShortRead",
@@ -6337,8 +6303,7 @@
     "seqPattern": [],
     "seqsetvis": [],
     "SeqSQC": [
-        "BiocVersion",
-        "SNPRelate"
+        "BiocVersion"
     ],
     "SeqVarTools": [
         "SeqArray"
@@ -6585,7 +6550,6 @@
         "DESeq2",
         "VariantAnnotation"
     ],
-    "SNPRelate": [],
     "soGGi": [
         "ShortRead",
         "chipseq"
@@ -6678,7 +6642,6 @@
     "spatzie": [
         "AnnotationFilter",
         "CNEr",
-        "DirichletMultinomial",
         "GenomicInteractions",
         "Gviz",
         "InteractionSet",
@@ -6952,8 +6915,7 @@
     ],
     "TFARM": [],
     "TFBSTools": [
-        "CNEr",
-        "DirichletMultinomial"
+        "CNEr"
     ],
     "TFEA.ChIP": [],
     "TFHAZ": [
@@ -7224,7 +7186,6 @@
     "VariantExperiment": [
         "DelayedDataFrame",
         "GDSArray",
-        "SNPRelate",
         "SeqArray"
     ],
     "VariantFiltering": [
