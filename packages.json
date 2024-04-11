@@ -2,20 +2,16 @@
     "a4": [
         "a4Base",
         "a4Classif",
-        "a4Core",
         "a4Preproc",
         "genefilter"
     ],
     "a4Base": [
-        "a4Core",
         "a4Preproc",
         "genefilter"
     ],
     "a4Classif": [
-        "a4Core",
         "a4Preproc"
     ],
-    "a4Core": [],
     "a4Preproc": [],
     "ABarray": [],
     "abseqR": [],
@@ -344,7 +340,6 @@
     ],
     "arrayMvout": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "affyContam",
         "bumphunter",
@@ -639,7 +634,6 @@
     ],
     "bigmelon": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "ROC",
         "bumphunter",
@@ -1204,7 +1198,6 @@
         "BiocVersion",
         "DMRcate",
         "DelayedMatrixStats",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "ROC",
@@ -1286,7 +1279,6 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "GEOquery",
         "frma",
         "oligo",
         "oligoClasses"
@@ -1498,7 +1490,6 @@
     "CNVrd2": [
         "VariantAnnotation"
     ],
-    "CoCiteStats": [],
     "COCOA": [
         "ComplexHeatmap",
         "DelayedMatrixStats",
@@ -1633,7 +1624,6 @@
     ],
     "conumee": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -1781,7 +1771,6 @@
         "oligoClasses"
     ],
     "crossmeta": [
-        "GEOquery",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -2014,7 +2003,6 @@
     ],
     "deconvR": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "fastseg",
@@ -2141,7 +2129,6 @@
         "DESeq2"
     ],
     "DExMA": [
-        "GEOquery",
         "genefilter",
         "impute",
         "sva"
@@ -2226,7 +2213,6 @@
         "AnnotationFilter",
         "BiocVersion",
         "DelayedMatrixStats",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "VariantAnnotation",
@@ -2314,7 +2300,6 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "GEOquery",
         "oligo",
         "oligoClasses"
     ],
@@ -2379,7 +2364,6 @@
         "ggtree"
     ],
     "EGAD": [
-        "GEOquery",
         "impute"
     ],
     "EGSEA": [
@@ -2423,7 +2407,6 @@
     "ENmix": [
         "BiocVersion",
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -2510,7 +2493,6 @@
         "AnnotationFilter",
         "BiocVersion",
         "DelayedMatrixStats",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "OrganismDbi",
@@ -2700,7 +2682,6 @@
     "fenr": [],
     "ffpe": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -2907,7 +2888,6 @@
     "FunChIP": [],
     "funtooNorm": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -3111,16 +3091,12 @@
         "GeomxTools"
     ],
     "GEOexplorer": [
-        "GEOquery",
         "genefilter",
         "impute",
         "sva"
     ],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
+    "GEOmetadb": [],
     "GeomxTools": [],
-    "GEOquery": [],
     "GEOsubmission": [],
     "GeoTcgaData": [
         "topconfects"
@@ -3157,7 +3133,6 @@
         "SeqArray"
     ],
     "ggmsa": [
-        "R4RNA",
         "ggtree"
     ],
     "GGPA": [],
@@ -3476,7 +3451,6 @@
     ],
     "iCheck": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -3546,7 +3520,6 @@
     "iNETgrate": [
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "OrganismDbi",
         "Pigengene",
@@ -3727,7 +3700,6 @@
     "KEGGlincs": [
         "KEGGgraph"
     ],
-    "keggorthology": [],
     "KinSwingR": [],
     "kissDE": [
         "DESeq2",
@@ -3829,7 +3801,6 @@
     ],
     "lumi": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -3881,7 +3852,6 @@
     "maftools": [],
     "MAGAR": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "RnBeads",
         "bumphunter",
@@ -4019,7 +3989,6 @@
     "MEAL": [
         "AnnotationFilter",
         "DelayedMatrixStats",
-        "GEOquery",
         "Gviz",
         "HDF5Array",
         "MultiDataSet",
@@ -4041,7 +4010,6 @@
     "MeasurementError.cor": [],
     "MEAT": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "ROC",
         "bumphunter",
@@ -4069,7 +4037,6 @@
         "sparseMatrixStats"
     ],
     "MEDIPS": [],
-    "MEDME": [],
     "megadepth": [],
     "MEIGOR": [
         "CNORode",
@@ -4201,7 +4168,6 @@
     ],
     "MethylAid": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -4214,7 +4180,6 @@
     ],
     "methylCC": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "beachmat",
         "bsseq",
@@ -4235,7 +4200,6 @@
         "BiocVersion",
         "DelayedMatrixStats",
         "ExperimentHubData",
-        "GEOquery",
         "HDF5Array",
         "OrganismDbi",
         "bumphunter",
@@ -4251,7 +4215,6 @@
     "methylGSA": [
         "DOSE",
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "clusterProfiler",
@@ -4300,7 +4263,6 @@
     ],
     "methylumi": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -4448,7 +4410,6 @@
     "MineICA": [
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "HDF5Array",
         "bumphunter",
@@ -4464,7 +4425,6 @@
     ],
     "minfi": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -4532,7 +4492,6 @@
     ],
     "missMethyl": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -4623,7 +4582,6 @@
         "BiocVersion",
         "ComplexHeatmap",
         "DOSE",
-        "GEOquery",
         "clusterProfiler",
         "enrichplot",
         "fgsea",
@@ -4631,7 +4589,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "GEOquery",
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
@@ -5035,7 +4992,6 @@
     "netZooR": [
         "Category",
         "DelayedMatrixStats",
-        "GEOquery",
         "GOstats",
         "HDF5Array",
         "STRINGdb",
@@ -5384,7 +5340,6 @@
     "pgca": [],
     "phantasus": [
         "DESeq2",
-        "GEOquery",
         "fgsea",
         "rhdf5",
         "rhdf5filters"
@@ -5624,7 +5579,6 @@
     ],
     "psichomics": [
         "BiocVersion",
-        "GEOquery",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
@@ -5710,7 +5664,6 @@
     "quantiseqr": [],
     "quantro": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -5746,7 +5699,6 @@
         "ShortRead",
         "VariantAnnotation"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "BiocBaseUtils",
         "CoreGx",
@@ -5791,7 +5743,6 @@
         "ShortRead",
         "dada2"
     ],
-    "RBioFormats": [],
     "RBM": [],
     "Rbowtie2": [],
     "Rbwa": [],
@@ -5847,7 +5798,6 @@
         "rhdf5filters"
     ],
     "recount": [
-        "GEOquery",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
@@ -5856,7 +5806,6 @@
     "recount3": [],
     "recountmethylation": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "basilisk",
         "basilisk.utils",
@@ -5939,7 +5888,6 @@
     "REMP": [
         "BiocVersion",
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -6103,7 +6051,6 @@
     ],
     "rmspc": [],
     "RNAAgeCalc": [
-        "GEOquery",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
@@ -6161,7 +6108,6 @@
     "RNAseqCovarImpute": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
-        "GEOquery",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
@@ -6170,7 +6116,6 @@
     ],
     "RnBeads": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -6258,10 +6203,8 @@
     ],
     "SamSPECTRAL": [],
     "sangeranalyseR": [
-        "DECIPHER",
-        "sangerseqR"
+        "DECIPHER"
     ],
-    "sangerseqR": [],
     "SARC": [
         "BiocBaseUtils",
         "RaggedExperiment",
@@ -6278,7 +6221,6 @@
     "Scale4C": [],
     "ScaledMatrix": [],
     "SCAN.UPC": [
-        "GEOquery",
         "genefilter",
         "oligo",
         "oligoClasses",
@@ -6441,8 +6383,7 @@
     "scifer": [
         "DECIPHER",
         "cytolib",
-        "flowCore",
-        "sangerseqR"
+        "flowCore"
     ],
     "scmap": [
         "SingleCellExperiment"
@@ -6645,7 +6586,6 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SELEX": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
@@ -6706,7 +6646,6 @@
     "SGSeq": [],
     "shinyepico": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -6719,7 +6658,6 @@
     ],
     "shinyMethyl": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
@@ -6902,7 +6840,6 @@
     ],
     "skewr": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "ROC",
         "bumphunter",
@@ -7038,8 +6975,7 @@
         "sparseMatrixStats"
     ],
     "SpatialOmicsOverlay": [
-        "GeomxTools",
-        "RBioFormats"
+        "GeomxTools"
     ],
     "spatzie": [
         "AnnotationFilter",
@@ -7138,9 +7074,7 @@
     ],
     "SQLDataFrame": [],
     "sRACIPE": [],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "AnnotationFilter",
         "DESeq2",
@@ -7708,7 +7642,6 @@
     ],
     "wateRmelon": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "ROC",
         "bumphunter",
@@ -7788,7 +7721,6 @@
     ],
     "yarn": [
         "DelayedMatrixStats",
-        "GEOquery",
         "HDF5Array",
         "bumphunter",
         "genefilter",
