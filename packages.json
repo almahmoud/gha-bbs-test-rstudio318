@@ -429,7 +429,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "beachmat",
         "scuttle"
     ],
@@ -531,7 +530,6 @@
         "BiocBaseUtils",
         "DOSE",
         "EBarrays",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -725,7 +723,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BUMHMM": [],
     "bumphunter": [],
     "BUS": [],
     "BUScorrect": [],
@@ -792,7 +789,6 @@
         "BiocBaseUtils",
         "Category",
         "EBarrays",
-        "GenomicDataCommons",
         "Heatplus",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -838,7 +834,6 @@
     ],
     "cbaf": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -852,7 +847,6 @@
     ],
     "cBioPortalData": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -949,8 +943,7 @@
     ],
     "CexoR": [
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "cfdnakit": [
         "CGHbase",
@@ -1065,7 +1058,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "batchelor",
         "beachmat",
         "bluster",
@@ -1698,7 +1690,6 @@
     "DEGreport": [
         "DESeq2"
     ],
-    "DelayedDataFrame": [],
     "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -1874,7 +1865,6 @@
         "BiocBaseUtils",
         "bamsignals"
     ],
-    "DNAshapeR": [],
     "DominoEffect": [
         "VariantAnnotation"
     ],
@@ -2057,8 +2047,7 @@
         "enrichplot",
         "fgsea",
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "epidecodeR": [],
     "EpiDISH": [],
@@ -2096,7 +2085,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistack": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "tRNA",
@@ -2221,8 +2209,7 @@
     ],
     "fCCAC": [
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "fcScan": [
         "VariantAnnotation"
@@ -2474,7 +2461,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GenomicDataCommons",
         "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
@@ -2557,11 +2543,9 @@
     ],
     "geneXtendeR": [],
     "genomation": [
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "GenomAutomorphism": [],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -2584,8 +2568,7 @@
         "RCAS",
         "genomation",
         "impute",
-        "plyranges",
-        "seqPattern"
+        "plyranges"
     ],
     "GenomicScores": [
         "BiocVersion",
@@ -2680,7 +2663,6 @@
     "gmoviz": [],
     "GNOSIS": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RTCGAToolbox",
         "RaggedExperiment",
@@ -3713,7 +3695,6 @@
         "genefilter",
         "impute"
     ],
-    "miRmine": [],
     "miRNApath": [],
     "miRSM": [
         "BicARE",
@@ -4035,7 +4016,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DelayedMatrixStats",
-        "ResidualMatrix",
         "batchelor",
         "beachmat",
         "bluster",
@@ -4127,7 +4107,6 @@
     "NCIgraph": [
         "KEGGgraph"
     ],
-    "ncRNAtools": [],
     "nearBynding": [
         "plyranges"
     ],
@@ -4733,7 +4712,6 @@
         "genefilter",
         "sva"
     ],
-    "Qtlizer": [],
     "quantro": [
         "DelayedMatrixStats",
         "HDF5Array",
@@ -4807,8 +4785,7 @@
     "Rbwa": [],
     "RCAS": [
         "genomation",
-        "impute",
-        "seqPattern"
+        "impute"
     ],
     "RCASPAR": [],
     "rCGH": [
@@ -4954,7 +4931,6 @@
     "ReQON": [
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "MutationalPatterns",
         "VariantAnnotation"
@@ -5176,7 +5152,6 @@
     ],
     "RTCGAToolbox": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment",
         "TCGAutils"
@@ -5335,7 +5310,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "M3Drop",
-        "ResidualMatrix",
         "batchelor",
         "beachmat",
         "bluster",
@@ -5492,8 +5466,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "seqArchR",
-        "seqPattern"
+        "seqArchR"
     ],
     "seqbias": [],
     "seqCAT": [
@@ -5503,11 +5476,9 @@
         "GLAD"
     ],
     "seqcombo": [],
-    "SeqGate": [],
     "SeqGSEA": [
         "DESeq2"
     ],
-    "seqPattern": [],
     "seqsetvis": [],
     "SeqSQC": [
         "BiocVersion"
@@ -5641,7 +5612,6 @@
         "HDF5Array",
         "M3Drop",
         "MAST",
-        "ResidualMatrix",
         "SingleR",
         "TSCAN",
         "TrajectoryUtils",
@@ -5841,7 +5811,6 @@
         "genefilter",
         "rhdf5"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [],
     "splineTimeR": [],
     "SPLINTER": [
@@ -5856,7 +5825,6 @@
         "rhdf5"
     ],
     "SPOTlight": [],
-    "spqn": [],
     "SPsimSeq": [
         "biomformat",
         "impute",
@@ -5917,7 +5885,6 @@
     "supersigs": [],
     "supraHex": [],
     "surfaltr": [],
-    "survtype": [],
     "sva": [
         "genefilter"
     ],
@@ -5989,7 +5956,6 @@
     "TCGAbiolinks": [],
     "TCGAutils": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment"
     ],
@@ -6022,7 +5988,6 @@
     "ternarynet": [],
     "terraTCGAdata": [
         "BiocBaseUtils",
-        "GenomicDataCommons",
         "MultiAssayExperiment",
         "RaggedExperiment",
         "TCGAutils"
@@ -6039,7 +6004,6 @@
     "tidybulk": [],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
-    "TileDBArray": [],
     "tilingArray": [
         "genefilter",
         "vsn"
@@ -6252,7 +6216,6 @@
     "variancePartition": [],
     "VariantAnnotation": [],
     "VariantExperiment": [
-        "DelayedDataFrame",
         "GDSArray"
     ],
     "VariantFiltering": [
