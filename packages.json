@@ -470,9 +470,7 @@
         "ShortRead"
     ],
     "BEclear": [],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
@@ -1691,10 +1689,8 @@
         "DESeq2"
     ],
     "DelayedMatrixStats": [],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array",
         "beachmat",
         "rhdf5"
@@ -1976,7 +1972,6 @@
         "rhdf5"
     ],
     "eiR": [],
-    "eisaR": [],
     "ELMER": [
         "BiocBaseUtils",
         "Gviz",
@@ -2181,7 +2176,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "EnrichedHeatmap",
         "GenomicInteractions",
@@ -2985,7 +2979,6 @@
         "VariantAnnotation",
         "genefilter"
     ],
-    "IntOMICS": [],
     "IONiseR": [
         "ShortRead",
         "rhdf5"
@@ -4464,7 +4457,6 @@
         "genefilter"
     ],
     "philr": [],
-    "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
         "BiocVersion",
@@ -5440,7 +5432,6 @@
         "scater",
         "scuttle"
     ],
-    "SDAMS": [],
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
