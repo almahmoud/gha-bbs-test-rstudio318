@@ -148,16 +148,12 @@
     "ASpli": [],
     "AssessORF": [],
     "ATACCoGAPS": [
-        "GeneOverlap",
-        "chromVAR",
-        "motifmatchr"
+        "GeneOverlap"
     ],
     "ATACseqQC": [
         "BiocVersion"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atena": [
         "BiocVersion"
     ],
@@ -379,7 +375,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [],
     "cicero": [],
     "CIMICE": [
         "maftools"
@@ -441,7 +436,6 @@
     ],
     "ComPrAn": [],
     "compSPOT": [],
-    "condiments": [],
     "CONFESS": [
         "SamSPECTRAL",
         "cytolib",
@@ -707,9 +701,7 @@
     "ELMER": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "BiocVersion",
         "illuminaio",
@@ -718,7 +710,6 @@
     ],
     "enrichTF": [
         "clusterProfiler",
-        "motifmatchr",
         "pipeFrame"
     ],
     "enrichViewNet": [],
@@ -751,7 +742,6 @@
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "motifmatchr",
         "pipeFrame"
     ],
     "EventPointer": [
@@ -782,7 +772,6 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [],
     "ffpe": [
         "illuminaio",
         "lumi",
@@ -1089,7 +1078,6 @@
     "ideal": [],
     "IFAA": [],
     "illuminaio": [],
-    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1154,7 +1142,6 @@
     "KBoost": [],
     "kissDE": [],
     "LEA": [],
-    "lemur": [],
     "les": [],
     "levi": [],
     "lfa": [],
@@ -1405,7 +1392,6 @@
         "clusterProfiler"
     ],
     "motifbreakR": [],
-    "motifmatchr": [],
     "MsDataHub": [
         "BiocVersion"
     ],
@@ -1569,10 +1555,7 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OutSplice": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -1685,8 +1668,7 @@
     ],
     "proteinProfiles": [],
     "psichomics": [
-        "BiocVersion",
-        "recount"
+        "BiocVersion"
     ],
     "psygenet2r": [
         "BgeeDB"
@@ -1761,7 +1743,6 @@
     "rebook": [
         "dir.expiry"
     ],
-    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -1769,7 +1750,6 @@
         "illuminaio",
         "minfi"
     ],
-    "REDseq": [],
     "RegEnrich": [
         "impute"
     ],
@@ -1777,7 +1757,6 @@
         "EpiDISH",
         "TOAST"
     ],
-    "regionReport": [],
     "regutools": [
         "BiocVersion"
     ],
@@ -1836,8 +1815,7 @@
         "mzID"
     ],
     "RNAAgeCalc": [
-        "impute",
-        "recount"
+        "impute"
     ],
     "RNAdecay": [],
     "RNAmodR": [],
@@ -1852,9 +1830,7 @@
     ],
     "rnaseqcomp": [],
     "RNASeqPower": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -1916,7 +1892,6 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scRNAseqApp": [],
     "scruff": [],
     "scTensor": [
         "BiocVersion",
@@ -1982,7 +1957,6 @@
         "dir.expiry"
     ],
     "similaRpeak": [],
-    "simpleSeg": [],
     "sincell": [],
     "singleCellTK": [
         "BiocVersion",
@@ -2029,8 +2003,7 @@
         "GeomxTools"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "motifmatchr"
+        "GenomicInteractions"
     ],
     "specL": [],
     "spikeLI": [],
@@ -2110,7 +2083,6 @@
         "widgetTools"
     ],
     "TMixClust": [],
-    "TNBC.CMS": [],
     "TOAST": [
         "EpiDISH"
     ],
@@ -2124,7 +2096,6 @@
     "tracktables": [],
     "trackViewer": [],
     "TrajectoryGeometry": [],
-    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "Heatplus",
@@ -2160,7 +2131,6 @@
     "VariantFiltering": [
         "BiocVersion"
     ],
-    "VaSP": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
