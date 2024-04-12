@@ -125,7 +125,6 @@
         "impute"
     ],
     "AMOUNTAIN": [],
-    "amplican": [],
     "Anaquin": [],
     "AneuFinder": [
         "bamsignals"
@@ -161,8 +160,7 @@
     ],
     "ASEB": [],
     "ASICS": [
-        "PepsNMR",
-        "ropls"
+        "PepsNMR"
     ],
     "ASpli": [
         "Gviz",
@@ -208,13 +206,10 @@
         "pRoloc"
     ],
     "banocc": [],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
-        "scran"
+        "glmGamPoi"
     ],
     "basilisk": [
         "basilisk.utils",
@@ -224,9 +219,7 @@
         "dir.expiry"
     ],
     "BatchQC": [],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "beadarray": [
@@ -296,12 +289,8 @@
     "BioNetStat": [
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
-    "BioTIP": [
-        "scran"
-    ],
+    "biosigner": [],
+    "BioTIP": [],
     "biovizBase": [],
     "biscuiteer": [
         "BiocVersion",
@@ -432,10 +421,7 @@
         "dir.expiry"
     ],
     "celaref": [],
-    "celda": [
-        "scran"
-    ],
-    "CellBarcode": [],
+    "celda": [],
     "cellHTS2": [],
     "CelliD": [],
     "cellity": [],
@@ -514,11 +500,8 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "ChIPsim": [],
     "ChIPXpress": [],
-    "ChromSCape": [
-        "scran"
-    ],
+    "ChromSCape": [],
     "chromstaR": [
         "bamsignals"
     ],
@@ -540,9 +523,7 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
@@ -841,8 +822,7 @@
     "decompTumor2Sig": [],
     "DeconRNASeq": [],
     "decontX": [
-        "celda",
-        "scran"
+        "celda"
     ],
     "deconvR": [
         "illuminaio",
@@ -914,9 +894,7 @@
     "diffUTR": [
         "DEXSeq"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "dir.expiry": [],
     "Director": [],
     "DMRcate": [
@@ -1079,7 +1057,6 @@
         "GSVA"
     ],
     "escheR": [],
-    "evaluomeR": [],
     "EventPointer": [
         "tximport"
     ],
@@ -1139,8 +1116,7 @@
         "basilisk.utils",
         "biovizBase",
         "dir.expiry",
-        "ggbio",
-        "scran"
+        "ggbio"
     ],
     "flowAI": [
         "cytolib",
@@ -1383,7 +1359,6 @@
     "GGPA": [],
     "ggspavis": [],
     "GIGSEA": [],
-    "girafe": [],
     "GLAD": [],
     "Glimma": [],
     "glmGamPoi": [],
@@ -1453,22 +1428,16 @@
     "HelloRanges": [],
     "hermes": [],
     "HIBAG": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
         "biovizBase"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
     "HiCool": [
-        "HiCExperiment",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -1617,8 +1586,7 @@
     "lfa": [],
     "lineagespot": [],
     "lipidr": [
-        "impute",
-        "ropls"
+        "impute"
     ],
     "lisaClust": [
         "spicyR"
@@ -1843,7 +1811,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeMarker": [],
@@ -1901,7 +1868,6 @@
         "methylumi",
         "minfi"
     ],
-    "missRows": [],
     "mitch": [],
     "mitoClone2": [
         "deepSNV"
@@ -1966,9 +1932,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "mslp": [
         "RankProd"
     ],
@@ -2014,10 +1978,7 @@
         "mzID"
     ],
     "MSstatsShiny": [],
-    "MuData": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multiClust": [
         "ctc"
     ],
@@ -2029,9 +1990,7 @@
     "multiGSEA": [
         "BiocVersion"
     ],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiMed": [],
     "MultiRNAflow": [
         "Mfuzz",
@@ -2041,9 +2000,7 @@
     "multiWGCNA": [
         "impute"
     ],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
@@ -2236,7 +2193,6 @@
         "impute",
         "mzID"
     ],
-    "peco": [],
     "PepsNMR": [],
     "PERFect": [],
     "pfamAnalyzeR": [],
@@ -2247,9 +2203,7 @@
     ],
     "phemd": [],
     "PhenoGeneRanker": [],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Heatplus"
     ],
@@ -2273,9 +2227,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "pipeFrame": [],
     "PloGO2": [
         "GOstats"
@@ -2476,8 +2428,7 @@
     "RegionalST": [
         "BayesSpace",
         "EpiDISH",
-        "TOAST",
-        "scran"
+        "TOAST"
     ],
     "regioneReloaded": [],
     "regionReport": [
@@ -2616,15 +2567,12 @@
     ],
     "ROC": [],
     "ROntoTools": [],
-    "ropls": [],
     "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
     "RTCGAToolbox": [
@@ -2664,12 +2612,9 @@
         "cytolib",
         "flowCore"
     ],
-    "scDblFinder": [
-        "scran"
-    ],
+    "scDblFinder": [],
     "scDD": [
-        "EBSeq",
-        "scran"
+        "EBSeq"
     ],
     "scDDboost": [
         "EBSeq",
@@ -2678,8 +2623,7 @@
     "scde": [],
     "scFeatures": [
         "GSVA",
-        "SingleCellSignalR",
-        "scran"
+        "SingleCellSignalR"
     ],
     "scGPS": [],
     "scider": [],
@@ -2687,9 +2631,7 @@
         "cytolib",
         "flowCore"
     ],
-    "scMerge": [
-        "scran"
-    ],
+    "scMerge": [],
     "scmeth": [
         "BiocVersion",
         "annotatr",
@@ -2710,7 +2652,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scran": [],
     "scRepertoire": [
         "powerTCR"
     ],
@@ -2731,8 +2672,7 @@
     "scTGIF": [],
     "scTreeViz": [
         "epivizr",
-        "epivizrData",
-        "scran"
+        "epivizrData"
     ],
     "scviR": [
         "basilisk",
@@ -2812,9 +2752,7 @@
         "cytomapper"
     ],
     "sincell": [],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
         "DropletUtils",
@@ -2826,7 +2764,6 @@
         "dir.expiry",
         "scDblFinder",
         "scMerge",
-        "scran",
         "tximport",
         "zellkonverter"
     ],
@@ -2867,8 +2804,7 @@
         "bsseq"
     ],
     "Spaniel": [
-        "DropletUtils",
-        "scran"
+        "DropletUtils"
     ],
     "sparrow": [],
     "spaSim": [],
@@ -2881,9 +2817,7 @@
         "GeomxTools"
     ],
     "SpatialFeatureExperiment": [],
-    "spatialHeatmap": [
-        "scran"
-    ],
+    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
@@ -2895,9 +2829,7 @@
         "motifmatchr"
     ],
     "specL": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
@@ -2961,9 +2893,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TargetDecoy": [
         "mzID"
     ],
@@ -3068,7 +2998,6 @@
     "trena": [
         "impute"
     ],
-    "tricycle": [],
     "trigger": [],
     "tripr": [],
     "tRNAdbImport": [],
@@ -3097,7 +3026,6 @@
     "Uniquorn": [],
     "universalmotif": [],
     "uSORT": [],
-    "VAExprs": [],
     "VanillaICE": [
         "crlmm",
         "illuminaio"
