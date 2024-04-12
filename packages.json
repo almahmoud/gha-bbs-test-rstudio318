@@ -17,11 +17,8 @@
         "BiocVersion"
     ],
     "affycomp": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AHMassBank": [
@@ -248,7 +245,6 @@
         "BiocVersion"
     ],
     "BOBaFIT": [],
-    "borealis": [],
     "brainflowprobes": [
         "BiocVersion",
         "derfinderPlot"
@@ -1104,7 +1100,6 @@
         "maftools"
     ],
     "KBoost": [],
-    "kissDE": [],
     "LEA": [],
     "les": [],
     "levi": [],
@@ -1270,7 +1265,6 @@
         "impute"
     ],
     "methylPipe": [],
-    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -1339,11 +1333,9 @@
         "BiocVersion"
     ],
     "MoonlightR": [],
-    "motifbreakR": [],
     "MsDataHub": [
         "BiocVersion"
     ],
-    "msgbsR": [],
     "mslp": [
         "RankProd"
     ],
@@ -1644,7 +1636,6 @@
     ],
     "quantsmooth": [],
     "QuaternaryProd": [],
-    "R3CPET": [],
     "RadioGx": [],
     "RAIDS": [
         "GENESIS",
@@ -1705,7 +1696,6 @@
         "impute",
         "minfi"
     ],
-    "ReportingTools": [],
     "ReQON": [
         "seqbias"
     ],
