@@ -190,7 +190,6 @@
     "BindingSiteFinder": [],
     "bioCancer": [
         "EBarrays",
-        "cBioPortalData",
         "geNetClassifier"
     ],
     "BioCartaImage": [],
@@ -238,14 +237,11 @@
         "BiocVersion"
     ],
     "branchpointer": [],
-    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "impute"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "calm": [],
     "CAMERA": [
         "MSnbase",
@@ -256,7 +252,6 @@
     "canceR": [
         "EBarrays",
         "Heatplus",
-        "cBioPortalData",
         "geNetClassifier",
         "phenoTest"
     ],
@@ -276,10 +271,7 @@
         "cytolib",
         "flowCore"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "CBNplot": [
         "BiocVersion"
     ],
@@ -686,7 +678,6 @@
     "ExperimentHubData": [
         "BiocVersion"
     ],
-    "extraChIPs": [],
     "famat": [
         "rWikiPathways"
     ],
@@ -915,7 +906,6 @@
         "impute"
     ],
     "GNOSIS": [
-        "cBioPortalData",
         "maftools"
     ],
     "GOSim": [],
@@ -952,7 +942,6 @@
     ],
     "Heatplus": [],
     "HIBAG": [],
-    "HiCDCPlus": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1671,9 +1660,6 @@
         "impute"
     ],
     "RNAdecay": [],
-    "RNAmodR.AlkAnilineSeq": [],
-    "RNAmodR.ML": [],
-    "RNAmodR.RiboMethSeq": [],
     "rnaseqcomp": [],
     "RNASeqPower": [],
     "RnBeads": [
@@ -1833,7 +1819,6 @@
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
-    "spatzie": [],
     "specL": [],
     "spikeLI": [],
     "SpliceWiz": [
