@@ -246,8 +246,6 @@
         "impute"
     ],
     "BioNetStat": [],
-    "biosigner": [],
-    "BioTIP": [],
     "biscuiteer": [
         "BiocVersion",
         "CGHcall",
@@ -410,7 +408,6 @@
         "gwascat",
         "universalmotif"
     ],
-    "CircSeqAlignTk": [],
     "CiteFuse": [],
     "cliqueMS": [
         "MSnbase",
@@ -489,7 +486,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "coseq": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -624,7 +620,6 @@
         "motifStack"
     ],
     "daMA": [],
-    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "Mfuzz",
@@ -635,7 +630,6 @@
         "widgetTools"
     ],
     "DCATS": [],
-    "dce": [],
     "ddPCRclust": [
         "SamSPECTRAL",
         "cytolib",
@@ -693,7 +687,6 @@
     "DifferentialRegulation": [
         "tximport"
     ],
-    "Dino": [],
     "dir.expiry": [],
     "Director": [],
     "DMRcate": [
@@ -972,7 +965,6 @@
     "GAprediction": [],
     "garfield": [],
     "GARS": [
-        "DaMiRseq",
         "MLSeq",
         "sSeq"
     ],
@@ -1042,7 +1034,6 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gespeR": [],
     "geva": [],
     "ggbio": [],
     "ggcyto": [
@@ -1475,7 +1466,6 @@
     "msgbsR": [
         "ggbio"
     ],
-    "msImpute": [],
     "mslp": [
         "RankProd"
     ],
@@ -1502,7 +1492,6 @@
         "msmsTests",
         "mzID"
     ],
-    "msqrob2": [],
     "MsQuality": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
@@ -1535,7 +1524,6 @@
     "multiWGCNA": [
         "impute"
     ],
-    "mumosa": [],
     "musicatk": [
         "maftools"
     ],
@@ -1870,7 +1858,6 @@
     "ReQON": [
         "seqbias"
     ],
-    "RESOLVE": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -1987,7 +1974,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scMerge": [],
     "scmeth": [
         "BiocVersion",
         "annotatr"
@@ -2081,7 +2067,6 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
-        "scMerge",
         "tximport",
         "zellkonverter"
     ],
@@ -2143,7 +2128,6 @@
     "sSeq": [],
     "ssize": [],
     "standR": [],
-    "staRank": [],
     "statTarget": [
         "ROC",
         "impute"
@@ -2164,7 +2148,6 @@
     ],
     "systemPipeShiny": [],
     "tadar": [],
-    "TADCompare": [],
     "TargetDecoy": [
         "mzID"
     ],
