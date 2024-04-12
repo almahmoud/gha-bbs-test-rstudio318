@@ -16,17 +16,9 @@
     "adductomicsR": [],
     "affycomp": [],
     "alabaster": [
-        "alabaster.mae",
-        "alabaster.sce",
-        "alabaster.spatial",
-        "alabaster.vcf"
+        "alabaster.spatial"
     ],
-    "alabaster.mae": [],
-    "alabaster.sce": [],
-    "alabaster.spatial": [
-        "alabaster.sce"
-    ],
-    "alabaster.vcf": [],
+    "alabaster.spatial": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -37,7 +29,6 @@
         "bamsignals"
     ],
     "arrayMvout": [
-        "lumi",
         "mdqc",
         "parody"
     ],
@@ -76,7 +67,6 @@
     "BHC": [],
     "bigmelon": [
         "ROC",
-        "lumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -184,8 +174,6 @@
         "DMRcate",
         "ROC",
         "impute",
-        "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIPseqR": [
@@ -404,9 +392,7 @@
     "DifferentialRegulation": [],
     "dir.expiry": [],
     "Director": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
@@ -461,9 +447,7 @@
         "impute"
     ],
     "fdrame": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -692,9 +676,7 @@
     "hummingbird": [],
     "iASeq": [],
     "iBBiG": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "iClusterPlus": [],
     "IFAA": [],
     "IMMAN": [
@@ -760,7 +742,6 @@
     "LPEadj": [
         "LPE"
     ],
-    "lumi": [],
     "Macarron": [
         "impute"
     ],
@@ -772,7 +753,6 @@
     ],
     "maftools": [],
     "MAGAR": [
-        "RnBeads",
         "impute"
     ],
     "MAGeCKFlute": [],
@@ -805,14 +785,11 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MeasurementError.cor": [],
     "MEAT": [
         "ROC",
         "impute",
-        "lumi",
         "wateRmelon"
     ],
     "memes": [
@@ -843,9 +820,7 @@
     "methylclock": [
         "impute"
     ],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MethylMix": [
         "impute"
     ],
@@ -857,9 +832,7 @@
         "EpiDISH",
         "TOAST"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MinimumDistance": [
         "VanillaICE"
     ],
@@ -871,7 +844,6 @@
         "iBBiG",
         "impute"
     ],
-    "missMethyl": [],
     "mitch": [],
     "MLSeq": [
         "sSeq"
@@ -1219,7 +1191,6 @@
     ],
     "RNAdecay": [],
     "RNASeqPower": [],
-    "RnBeads": [],
     "Rnits": [
         "impute"
     ],
@@ -1294,7 +1265,6 @@
     "singscore": [],
     "skewr": [
         "ROC",
-        "lumi",
         "wateRmelon"
     ],
     "SMAD": [],
@@ -1403,8 +1373,7 @@
     ],
     "VERSO": [],
     "wateRmelon": [
-        "ROC",
-        "lumi"
+        "ROC"
     ],
     "widgetTools": [],
     "wppi": [
