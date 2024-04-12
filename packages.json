@@ -19,14 +19,12 @@
     "affycomp": [],
     "affycoretools": [
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "biovizBase",
         "ggbio"
     ],
     "AgiMicroRna": [
         "GOstats",
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -194,7 +192,6 @@
     "attract": [
         "GOstats"
     ],
-    "BadRegionFinder": [],
     "ballgown": [],
     "bamsignals": [],
     "bandle": [
@@ -284,9 +281,7 @@
     "BioNERO": [
         "impute"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [],
     "BioTIP": [],
     "biovizBase": [],
@@ -299,9 +294,7 @@
         "dmrseq",
         "impute"
     ],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray",
@@ -554,7 +547,6 @@
     ],
     "CNORdt": [],
     "CNORfeeder": [],
-    "CNORfuzzy": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -570,7 +562,6 @@
         "karyoploteR"
     ],
     "CNVRanger": [],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA",
         "bsseq"
@@ -710,7 +701,6 @@
     "customCMPdb": [
         "BiocVersion"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -809,8 +799,7 @@
     ],
     "debrowser": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "decompTumor2Sig": [],
     "DeconRNASeq": [],
@@ -869,7 +858,6 @@
     "DExMA": [
         "impute"
     ],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcoexp": [
         "impute"
@@ -882,9 +870,7 @@
     "DifferentialRegulation": [
         "tximport"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [],
     "dir.expiry": [],
     "Director": [],
@@ -914,7 +900,6 @@
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
-        "pathview",
         "zenith"
     ],
     "DropletUtils": [],
@@ -952,8 +937,7 @@
         "impute"
     ],
     "EGSEA": [
-        "GSVA",
-        "pathview"
+        "GSVA"
     ],
     "ELMER": [
         "Gviz",
@@ -972,8 +956,7 @@
         "minfi"
     ],
     "EnrichmentBrowser": [
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "enrichplot": [],
     "enrichTF": [
@@ -1053,7 +1036,6 @@
     "EWCE": [
         "BiocVersion"
     ],
-    "exomePeak2": [],
     "ExperimentHub": [
         "BiocVersion"
     ],
@@ -1233,10 +1215,7 @@
         "minfi"
     ],
     "FuseSOM": [],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "gaga": [
         "EBarrays"
     ],
@@ -1258,8 +1237,7 @@
     ],
     "GDCRNATools": [
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "gDNAx": [
         "BiocVersion",
@@ -1348,7 +1326,6 @@
     "ggspavis": [],
     "GIGSEA": [],
     "GLAD": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "GlobalAncova": [],
     "globalSeq": [],
@@ -1378,8 +1355,7 @@
     "GSEABenchmarkeR": [
         "BiocVersion",
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
+        "SPIA"
     ],
     "gsean": [
         "PPInfer",
@@ -1502,7 +1478,6 @@
     ],
     "Informeasure": [],
     "InPAS": [],
-    "INSPEcT": [],
     "INTACT": [],
     "intansv": [
         "biovizBase",
@@ -1512,7 +1487,6 @@
     "interactiveDisplay": [],
     "InterCellar": [],
     "IntEREst": [
-        "DEXSeq",
         "GenomicFiles"
     ],
     "ipdDb": [
@@ -1538,7 +1512,6 @@
     ],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
-        "DEXSeq",
         "pfamAnalyzeR",
         "tximeta",
         "tximport"
@@ -1627,8 +1600,7 @@
     "MAGeCKFlute": [
         "BiocVersion",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [],
     "MAI": [],
@@ -1647,9 +1619,7 @@
     "maPredictDSC": [
         "ROC"
     ],
-    "mariner": [
-        "plotgardener"
-    ],
+    "mariner": [],
     "maser": [
         "Gviz",
         "biovizBase"
@@ -2028,7 +1998,6 @@
     "NCIgraph": [],
     "nearBynding": [],
     "nempi": [],
-    "NetActivity": [],
     "netboost": [
         "impute"
     ],
@@ -2133,9 +2102,7 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler",
@@ -2154,7 +2121,6 @@
     "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [],
-    "pathview": [],
     "pcaExplorer": [
         "GOstats"
     ],
@@ -2212,7 +2178,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "PLPE": [
         "LPE"
     ],
@@ -2234,9 +2199,7 @@
         "STRINGdb"
     ],
     "pqsfinder": [],
-    "prebs": [
-        "RPA"
-    ],
+    "prebs": [],
     "preciseTAD": [],
     "primirTSS": [
         "BiocVersion",
@@ -2545,7 +2508,6 @@
     ],
     "ROC": [],
     "ROntoTools": [],
-    "RPA": [],
     "Rqc": [
         "GenomicFiles",
         "biovizBase"
@@ -2563,9 +2525,7 @@
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SCAN.UPC": [],
     "scanMiRApp": [
         "BiocVersion"
@@ -2678,7 +2638,6 @@
         "GLAD"
     ],
     "seqcombo": [],
-    "SeqGSEA": [],
     "SeqSQC": [
         "BiocVersion"
     ],
@@ -2991,8 +2950,7 @@
     ],
     "tximport": [],
     "Ularcirc": [
-        "BiocVersion",
-        "plotgardener"
+        "BiocVersion"
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
@@ -3084,8 +3042,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "SPIA",
-        "pathview"
-    ],
-    "ZygosityPredictor": []
+        "SPIA"
+    ]
 }
