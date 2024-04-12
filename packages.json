@@ -66,13 +66,10 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "annotatr": [],
-    "appreci8R": [],
     "arrayMvout": [
         "lumi",
         "mdqc",
         "methylumi",
-        "minfi",
         "parody"
     ],
     "arrayQualityMetrics": [],
@@ -115,7 +112,6 @@
         "ROC",
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -145,12 +141,10 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "annotatr",
         "dmrseq",
         "impute"
     ],
     "blima": [],
-    "BloodGen3Module": [],
     "brainflowprobes": [],
     "branchpointer": [],
     "cageminer": [
@@ -229,7 +223,6 @@
         "impute",
         "lumi",
         "methylumi",
-        "minfi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -298,9 +291,7 @@
         "genefu",
         "impute"
     ],
-    "conumee": [
-        "minfi"
-    ],
+    "conumee": [],
     "CopyNumberPlots": [
         "bamsignals",
         "karyoploteR"
@@ -344,7 +335,6 @@
     "csdR": [
         "impute"
     ],
-    "cTRAP": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -426,9 +416,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "deconvR": [
-        "minfi"
-    ],
+    "deconvR": [],
     "decoupleR": [],
     "DeepBlueR": [],
     "demuxSNP": [],
@@ -458,12 +446,9 @@
     "Director": [],
     "DMRcate": [
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -479,14 +464,12 @@
     "EBcoexpress": [
         "EBarrays"
     ],
-    "EBSEA": [],
     "EGAD": [
         "impute"
     ],
     "EnhancedVolcano": [],
     "ENmix": [
-        "impute",
-        "minfi"
+        "impute"
     ],
     "enrichTF": [
         "pipeFrame"
@@ -504,13 +487,10 @@
     "EpiMix": [
         "impute"
     ],
-    "epimutacions": [
-        "minfi"
-    ],
+    "epimutacions": [],
     "esATAC": [
         "pipeFrame"
     ],
-    "EWCE": [],
     "ExperimentHubData": [],
     "famat": [
         "rWikiPathways"
@@ -525,8 +505,7 @@
     "fdrame": [],
     "ffpe": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "flagme": [
         "CAMERA",
@@ -653,9 +632,7 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "funtooNorm": [
-        "minfi"
-    ],
+    "funtooNorm": [],
     "gaga": [
         "EBarrays"
     ],
@@ -761,8 +738,7 @@
     "iBBiG": [],
     "iCheck": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "iClusterPlus": [],
     "IFAA": [],
@@ -783,8 +759,7 @@
     "INDEED": [],
     "iNETgrate": [
         "Pigengene",
-        "impute",
-        "minfi"
+        "impute"
     ],
     "infinityFlow": [
         "cytolib",
@@ -830,10 +805,8 @@
     "LPEadj": [
         "LPE"
     ],
-    "LRcell": [],
     "lumi": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "Macarron": [
         "impute"
@@ -848,8 +821,7 @@
     "MAGAR": [
         "RnBeads",
         "impute",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "MAGeCKFlute": [],
     "MAI": [],
@@ -883,7 +855,6 @@
     "mdqc": [],
     "MEAL": [
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
     "MeasurementError.cor": [],
@@ -892,14 +863,12 @@
         "impute",
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "memes": [
         "universalmotif"
     ],
     "meshes": [],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "hpar"
     ],
@@ -920,27 +889,19 @@
     "MethReg": [
         "sesame"
     ],
-    "MethylAid": [
-        "minfi"
-    ],
-    "methylCC": [
-        "minfi"
-    ],
+    "MethylAid": [],
+    "methylCC": [],
     "methylclock": [
-        "impute",
-        "minfi"
+        "impute"
     ],
     "methylGSA": [
         "methylumi",
-        "minfi",
         "missMethyl"
     ],
     "MethylMix": [
         "impute"
     ],
-    "methylumi": [
-        "minfi"
-    ],
+    "methylumi": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -951,10 +912,8 @@
     ],
     "MineICA": [
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
-    "minfi": [],
     "MinimumDistance": [
         "VanillaICE"
     ],
@@ -967,8 +926,7 @@
         "impute"
     ],
     "missMethyl": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "mitch": [],
     "MLSeq": [
@@ -1075,7 +1033,6 @@
     ],
     "netZooR": [
         "STRINGdb",
-        "minfi",
         "quantro",
         "yarn"
     ],
@@ -1086,7 +1043,6 @@
         "bamsignals"
     ],
     "nuCpos": [],
-    "OGRE": [],
     "OLINgui": [
         "tkWidgets",
         "widgetTools"
@@ -1098,7 +1054,6 @@
     "Omixer": [],
     "OmnipathR": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "openCyto": [
         "cytolib",
         "flowClust",
@@ -1169,9 +1124,7 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "RankProd",
         "impute"
@@ -1233,9 +1186,7 @@
         "impute",
         "mzID"
     ],
-    "quantro": [
-        "minfi"
-    ],
+    "quantro": [],
     "quantsmooth": [],
     "RAIDS": [
         "GENESIS",
@@ -1272,8 +1223,7 @@
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
-        "dir.expiry",
-        "minfi"
+        "dir.expiry"
     ],
     "RegEnrich": [
         "impute"
@@ -1283,13 +1233,11 @@
         "TOAST"
     ],
     "REMP": [
-        "impute",
-        "minfi"
+        "impute"
     ],
     "ReQON": [
         "seqbias"
     ],
-    "restfulSE": [],
     "ReUseData": [
         "Rcwl",
         "RcwlPipelines",
@@ -1331,8 +1279,7 @@
     "RNAdecay": [],
     "RNASeqPower": [],
     "RnBeads": [
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "Rnits": [
         "impute"
@@ -1342,7 +1289,6 @@
     "RSeqAn": [],
     "rWikiPathways": [],
     "scanMiRApp": [],
-    "scAnnotatR": [],
     "SCATE": [],
     "scatterHatch": [],
     "SCBN": [],
@@ -1355,9 +1301,7 @@
         "cytolib",
         "flowCore"
     ],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -1388,12 +1332,8 @@
     ],
     "SeqSQC": [],
     "sesame": [],
-    "shinyepico": [
-        "minfi"
-    ],
-    "shinyMethyl": [
-        "minfi"
-    ],
+    "shinyepico": [],
+    "shinyMethyl": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -1419,7 +1359,6 @@
         "ROC",
         "lumi",
         "methylumi",
-        "minfi",
         "wateRmelon"
     ],
     "SMAD": [],
@@ -1432,9 +1371,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SOMNiBUS": [
-        "annotatr"
-    ],
+    "SOMNiBUS": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -1442,7 +1379,6 @@
     ],
     "specL": [],
     "spikeLI": [],
-    "SpliceWiz": [],
     "SplicingGraphs": [],
     "SPsimSeq": [
         "impute"
@@ -1484,10 +1420,7 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "tenXplore": [
-        "ontoProc",
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "tidybulk": [],
     "TimiRGeN": [
         "Mfuzz",
@@ -1542,8 +1475,7 @@
     "wateRmelon": [
         "ROC",
         "lumi",
-        "methylumi",
-        "minfi"
+        "methylumi"
     ],
     "widgetTools": [],
     "wppi": [
@@ -1558,7 +1490,6 @@
         "STRINGdb"
     ],
     "yarn": [
-        "minfi",
         "quantro"
     ],
     "zellkonverter": [
