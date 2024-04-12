@@ -17,7 +17,6 @@
     "affycomp": [],
     "AHMassBank": [],
     "alabaster": [
-        "alabaster.base",
         "alabaster.bumpy",
         "alabaster.mae",
         "alabaster.matrix",
@@ -28,48 +27,32 @@
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [],
-    "alabaster.bumpy": [
-        "alabaster.base"
-    ],
-    "alabaster.files": [
-        "alabaster.base"
-    ],
+    "alabaster.bumpy": [],
+    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [
-        "alabaster.base"
-    ],
-    "alabaster.ranges": [
-        "alabaster.base"
-    ],
+    "alabaster.matrix": [],
+    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se"
     ],
     "alabaster.se": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges"
     ],
     "alabaster.spatial": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [
-        "alabaster.base"
-    ],
+    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.se",
@@ -95,9 +78,7 @@
         "minfi",
         "parody"
     ],
-    "arrayQualityMetrics": [
-        "beadarray"
-    ],
+    "arrayQualityMetrics": [],
     "ASEB": [],
     "ASICS": [
         "PepsNMR"
@@ -127,7 +108,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "beadarray": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
@@ -173,9 +153,7 @@
         "dmrseq",
         "impute"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BloodGen3Module": [],
     "brainflowprobes": [],
     "branchpointer": [],
@@ -343,7 +321,6 @@
     "cosmosR": [
         "decoupleR"
     ],
-    "crisprBwa": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
@@ -474,7 +451,6 @@
         "impute",
         "mzID"
     ],
-    "DEsubs": [],
     "DExMA": [
         "impute"
     ],
@@ -513,7 +489,6 @@
         "EBarrays"
     ],
     "EBSEA": [],
-    "EBSeqHMM": [],
     "EGAD": [
         "impute"
     ],
@@ -531,9 +506,7 @@
     ],
     "epidecodeR": [],
     "EpiDISH": [],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -737,7 +710,6 @@
         "impute"
     ],
     "GenomicSuperSignature": [],
-    "GeoDiff": [],
     "GEOexplorer": [
         "impute"
     ],
@@ -1176,7 +1148,6 @@
         "dir.expiry"
     ],
     "OSAT": [],
-    "Oscope": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1410,10 +1381,7 @@
         "cytolib",
         "flowCore"
     ],
-    "scDD": [],
-    "scDDboost": [
-        "Oscope"
-    ],
+    "scDDboost": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -1505,8 +1473,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [],
-    "SpatialOmicsOverlay": [],
     "specL": [],
     "spikeLI": [],
     "SpliceWiz": [],
