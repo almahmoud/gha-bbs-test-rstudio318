@@ -137,7 +137,6 @@
     "ASICS": [
         "PepsNMR"
     ],
-    "ASpli": [],
     "AssessORF": [],
     "ATACCoGAPS": [
         "GeneOverlap"
@@ -341,7 +340,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chimeraviz": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -397,13 +395,10 @@
     "cola": [
         "impute"
     ],
-    "comapr": [],
     "coMethDMR": [
         "BiocVersion"
     ],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "ComPrAn": [],
     "compSPOT": [],
     "CONFESS": [
@@ -574,7 +569,6 @@
     ],
     "debrowser": [],
     "DeconRNASeq": [],
-    "decontX": [],
     "deconvR": [
         "illuminaio",
         "minfi"
@@ -657,7 +651,6 @@
     "EGAD": [
         "impute"
     ],
-    "ELMER": [],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [],
@@ -884,12 +877,9 @@
         "BiocVersion"
     ],
     "gDR": [
-        "PharmacoGx",
         "gDRimport"
     ],
-    "gDRimport": [
-        "PharmacoGx"
-    ],
+    "gDRimport": [],
     "gemini": [],
     "GeneBreak": [
         "CGHcall",
@@ -1143,7 +1133,6 @@
     "maPredictDSC": [
         "ROC"
     ],
-    "maser": [],
     "MassArray": [],
     "mastR": [
         "BiocVersion"
@@ -1160,7 +1149,6 @@
     "MCbiclust": [
         "impute"
     ],
-    "mCSEA": [],
     "mdp": [],
     "mdqc": [],
     "MEAL": [
@@ -1238,7 +1226,6 @@
     "MethylMix": [
         "impute"
     ],
-    "methylPipe": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -1374,8 +1361,7 @@
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
-        "EmpiricalBrownsMethod",
-        "trackViewer"
+        "EmpiricalBrownsMethod"
     ],
     "nanotatoR": [],
     "ncdfFlow": [
@@ -1501,7 +1487,6 @@
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "PharmacoGx": [],
     "PhenoGeneRanker": [],
     "phenoTest": [
         "Heatplus"
@@ -1770,7 +1755,6 @@
         "BiocVersion",
         "annotatr"
     ],
-    "scone": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -1850,7 +1834,6 @@
         "tximport",
         "zellkonverter"
     ],
-    "SingleMoleculeFootprinting": [],
     "singscore": [],
     "skewr": [
         "ROC",
@@ -1893,14 +1876,12 @@
         "BiocVersion"
     ],
     "SplicingGraphs": [],
-    "SPLINTER": [],
     "SPsimSeq": [
         "impute"
     ],
     "sRACIPE": [],
     "sSeq": [],
     "ssize": [],
-    "standR": [],
     "statTarget": [
         "ROC",
         "impute"
@@ -1970,9 +1951,7 @@
         "impute",
         "mzID"
     ],
-    "ToxicoGx": [],
     "tracktables": [],
-    "trackViewer": [],
     "TrajectoryGeometry": [],
     "transite": [],
     "tRanslatome": [
@@ -2040,9 +2019,7 @@
         "impute",
         "mzID"
     ],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
