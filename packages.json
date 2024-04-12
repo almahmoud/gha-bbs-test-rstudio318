@@ -23,69 +23,55 @@
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.spatial",
         "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.base": [
-        "alabaster.schemas"
-    ],
+    "alabaster.base": [],
     "alabaster.bumpy": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.files": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.mae": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se"
     ],
     "alabaster.matrix": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.ranges": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.sce": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se"
     ],
-    "alabaster.schemas": [],
     "alabaster.se": [
         "alabaster.base",
         "alabaster.matrix",
-        "alabaster.ranges",
-        "alabaster.schemas"
+        "alabaster.ranges"
     ],
     "alabaster.spatial": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
         "alabaster.sce",
-        "alabaster.schemas",
         "alabaster.se"
     ],
     "alabaster.string": [
-        "alabaster.base",
-        "alabaster.schemas"
+        "alabaster.base"
     ],
     "alabaster.vcf": [
         "alabaster.base",
         "alabaster.matrix",
         "alabaster.ranges",
-        "alabaster.schemas",
         "alabaster.se",
         "alabaster.string"
     ],
@@ -111,7 +97,6 @@
         "parody"
     ],
     "arrayQualityMetrics": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "ASEB": [],
@@ -143,13 +128,10 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "beadarray": [
-        "BeadDataPackR"
-    ],
+    "beadarray": [],
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BeadDataPackR": [],
     "BG2": [],
     "BgeeCall": [],
     "BgeeDB": [],
@@ -194,7 +176,6 @@
         "impute"
     ],
     "blima": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "BloodGen3Module": [],
@@ -233,7 +214,6 @@
         "cytolib",
         "flowCore"
     ],
-    "cbaf": [],
     "CBNplot": [],
     "cbpManager": [
         "basilisk",
@@ -366,9 +346,7 @@
     "cosmosR": [
         "decoupleR"
     ],
-    "crisprBwa": [
-        "Rbwa"
-    ],
+    "crisprBwa": [],
     "crisprDesign": [
         "basilisk",
         "basilisk.utils",
@@ -500,9 +478,7 @@
         "impute",
         "mzID"
     ],
-    "DEsubs": [
-        "EBSeq"
-    ],
+    "DEsubs": [],
     "DExMA": [
         "impute"
     ],
@@ -541,10 +517,7 @@
         "EBarrays"
     ],
     "EBSEA": [],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EGAD": [
         "impute"
     ],
@@ -563,7 +536,6 @@
     "epidecodeR": [],
     "EpiDISH": [],
     "epigenomix": [
-        "BeadDataPackR",
         "beadarray"
     ],
     "epigraHMM": [
@@ -598,7 +570,6 @@
         "methylumi",
         "minfi"
     ],
-    "FitHiC": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -646,7 +617,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "flowCyBar": [],
     "flowDensity": [
         "cytolib",
         "flowCore",
@@ -773,13 +743,10 @@
     ],
     "GenomicScores": [],
     "GenomicSuperSignature": [],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "impute"
     ],
-    "GeomxTools": [],
     "GeoTcgaData": [],
     "geva": [],
     "ggcyto": [
@@ -809,7 +776,6 @@
         "PPInfer",
         "STRINGdb"
     ],
-    "GSgalgoR": [],
     "GSRI": [
         "les"
     ],
@@ -1067,7 +1033,6 @@
     "MLSeq": [
         "sSeq"
     ],
-    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
@@ -1222,9 +1187,7 @@
         "dir.expiry"
     ],
     "OSAT": [],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1358,7 +1321,6 @@
     "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [],
-    "Rbwa": [],
     "RCAS": [
         "genomation",
         "impute"
@@ -1442,7 +1404,6 @@
         "impute"
     ],
     "RNAdecay": [],
-    "rnaseqcomp": [],
     "RNASeqPower": [],
     "RnBeads": [
         "methylumi",
@@ -1465,11 +1426,8 @@
         "cytolib",
         "flowCore"
     ],
-    "scDD": [
-        "EBSeq"
-    ],
+    "scDD": [],
     "scDDboost": [
-        "EBSeq",
         "Oscope"
     ],
     "scde": [],
@@ -1502,7 +1460,6 @@
     "segmenter": [
         "bamsignals"
     ],
-    "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
     ],
@@ -1535,7 +1492,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "similaRpeak": [],
     "sincell": [],
     "singleCellTK": [
         "basilisk",
@@ -1569,12 +1525,8 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
+    "SpatialOmicsOverlay": [],
     "specL": [],
     "spikeLI": [],
     "SpliceWiz": [],
@@ -1599,7 +1551,6 @@
         "impute",
         "mzID"
     ],
-    "SynExtend": [],
     "synlet": [
         "RankProd"
     ],
@@ -1648,7 +1599,6 @@
         "mzID"
     ],
     "tracktables": [],
-    "TrajectoryGeometry": [],
     "transite": [],
     "tRanslatome": [
         "Heatplus",
