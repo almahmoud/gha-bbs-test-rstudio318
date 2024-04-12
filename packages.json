@@ -48,7 +48,6 @@
     "arrayMvout": [
         "lumi",
         "mdqc",
-        "methylumi",
         "parody"
     ],
     "ASEB": [],
@@ -87,7 +86,6 @@
     "bigmelon": [
         "ROC",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "bioCancer": [
@@ -196,7 +194,6 @@
         "ROC",
         "impute",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -417,7 +414,6 @@
     "dir.expiry": [],
     "Director": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "dmrseq": [],
@@ -475,8 +471,7 @@
     ],
     "fdrame": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "flagme": [
         "CAMERA",
@@ -707,8 +702,7 @@
     "iASeq": [],
     "iBBiG": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "iClusterPlus": [],
     "IFAA": [],
@@ -775,9 +769,7 @@
     "LPEadj": [
         "LPE"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "Macarron": [
         "impute"
     ],
@@ -790,8 +782,7 @@
     "maftools": [],
     "MAGAR": [
         "RnBeads",
-        "impute",
-        "methylumi"
+        "impute"
     ],
     "MAGeCKFlute": [],
     "MAI": [],
@@ -824,7 +815,6 @@
     "mdp": [],
     "mdqc": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MeasurementError.cor": [],
@@ -832,7 +822,6 @@
         "ROC",
         "impute",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "memes": [
@@ -864,13 +853,11 @@
         "impute"
     ],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "MethylMix": [
         "impute"
     ],
-    "methylumi": [],
     "Mfuzz": [
         "tkWidgets",
         "widgetTools"
@@ -880,8 +867,7 @@
         "TOAST"
     ],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MinimumDistance": [
         "VanillaICE"
@@ -894,9 +880,7 @@
         "iBBiG",
         "impute"
     ],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mitch": [],
     "MLSeq": [
         "sSeq"
@@ -1244,9 +1228,7 @@
     ],
     "RNAdecay": [],
     "RNASeqPower": [],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rnits": [
         "impute"
     ],
@@ -1322,7 +1304,6 @@
     "skewr": [
         "ROC",
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SMAD": [],
@@ -1335,7 +1316,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SOMNiBUS": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -1433,8 +1413,7 @@
     "VERSO": [],
     "wateRmelon": [
         "ROC",
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "widgetTools": [],
     "wppi": [
