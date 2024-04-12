@@ -312,7 +312,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "BRGenomics": [],
     "bsseq": [],
     "BubbleTree": [],
     "CAFE": [
@@ -388,7 +387,6 @@
     ],
     "celaref": [],
     "celda": [],
-    "cellHTS2": [],
     "CelliD": [],
     "cellity": [],
     "cellmigRation": [],
@@ -515,7 +513,6 @@
         "flowCore"
     ],
     "CNORdt": [],
-    "CNORfeeder": [],
     "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -757,7 +754,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "decompTumor2Sig": [],
     "DeconRNASeq": [],
     "decontX": [
         "celda"
@@ -768,11 +764,9 @@
     ],
     "decoupleR": [],
     "DeepBlueR": [],
-    "DEFormats": [],
     "DEGraph": [],
     "DEGreport": [],
     "DelayedTensor": [],
-    "DELocal": [],
     "DeMAND": [],
     "DeMixT": [
         "DSS",
@@ -917,7 +911,6 @@
         "enrichplot"
     ],
     "EpiCompare": [
-        "BRGenomics",
         "BiocVersion",
         "ChIPseeker",
         "enrichplot",
@@ -1003,7 +996,6 @@
         "genomation",
         "impute"
     ],
-    "fcScan": [],
     "fdrame": [],
     "FEAST": [
         "TSCAN"
@@ -1145,7 +1137,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "fobitools": [],
     "FRASER": [
         "OUTRIDER"
     ],
@@ -1242,9 +1233,7 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "geva": [],
     "ggbio": [],
     "ggcyto": [
@@ -1360,7 +1349,6 @@
         "minfi"
     ],
     "iClusterPlus": [],
-    "iCNV": [],
     "ideal": [
         "pcaExplorer"
     ],
@@ -1399,7 +1387,6 @@
         "flowCore"
     ],
     "Informeasure": [],
-    "InPAS": [],
     "INTACT": [],
     "intansv": [
         "ggbio"
@@ -1590,7 +1577,6 @@
         "BiocVersion",
         "enrichplot"
     ],
-    "meshr": [],
     "MetaboAnnotation": [
         "BiocVersion",
         "CompoundDb"
@@ -1863,7 +1849,6 @@
     "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
-        "decompTumor2Sig",
         "maftools"
     ],
     "MutationalPatterns": [],
@@ -1932,7 +1917,6 @@
         "bamsignals"
     ],
     "nuCpos": [],
-    "nullranges": [],
     "octad": [
         "BiocVersion",
         "GSVA",
@@ -2075,7 +2059,6 @@
     "PLPE": [
         "LPE"
     ],
-    "plyinteractions": [],
     "pmp": [
         "impute"
     ],
@@ -2106,7 +2089,6 @@
         "impute",
         "mzID"
     ],
-    "proActiv": [],
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
@@ -2189,7 +2171,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "RadioGx": [
         "CoreGx"
     ],
@@ -2259,7 +2240,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "derfinder"
     ],
     "regutools": [
@@ -2344,9 +2324,7 @@
         "recount"
     ],
     "RNAdecay": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz"
     ],
@@ -2467,8 +2445,7 @@
     "scTensor": [
         "BiocVersion",
         "ReactomePA",
-        "enrichplot",
-        "meshr"
+        "enrichplot"
     ],
     "scTreeViz": [
         "epivizr",
@@ -2647,9 +2624,7 @@
     "standR": [
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "Statial": [],
     "statTarget": [
         "ROC",
