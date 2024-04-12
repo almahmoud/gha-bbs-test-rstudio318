@@ -307,7 +307,6 @@
     ],
     "brainflowprobes": [
         "BiocVersion",
-        "GenomicFiles",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -320,7 +319,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -331,7 +329,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -375,7 +372,6 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
         "TCGAutils"
@@ -579,9 +575,7 @@
         "genefu",
         "impute"
     ],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "illuminaio",
         "minfi"
@@ -591,9 +585,7 @@
         "karyoploteR"
     ],
     "CoreGx": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [
         "BiocVersion"
     ],
@@ -800,11 +792,8 @@
         "impute",
         "mzID"
     ],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "derfinder",
         "ggbio"
     ],
@@ -927,8 +916,6 @@
     "enrichViewNet": [
         "enrichplot"
     ],
-    "ensemblVEP": [],
-    "epialleleR": [],
     "EpiCompare": [
         "BRGenomics",
         "BiocVersion",
@@ -971,9 +958,7 @@
         "epivizr",
         "epivizrData"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
@@ -1195,8 +1180,7 @@
         "enrichplot"
     ],
     "gDNAx": [
-        "BiocVersion",
-        "GenomicFiles"
+        "BiocVersion"
     ],
     "gDR": [
         "CoreGx",
@@ -1233,7 +1217,6 @@
     "genomation": [
         "impute"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -1249,7 +1232,6 @@
         "BiocVersion"
     ],
     "GenomicSuperSignature": [],
-    "GenVisR": [],
     "GeoDiff": [
         "GeomxTools"
     ],
@@ -1368,11 +1350,9 @@
     "HTSeqGenie": [
         "VariantTools"
     ],
-    "HTSFilter": [],
     "hummingbird": [],
     "iASeq": [],
     "iBBiG": [],
-    "icetea": [],
     "iCheck": [
         "illuminaio",
         "lumi",
@@ -1385,7 +1365,6 @@
         "pcaExplorer"
     ],
     "IFAA": [],
-    "igvR": [],
     "illuminaio": [],
     "IMAS": [],
     "imcRtools": [
@@ -1428,9 +1407,7 @@
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [],
     "InterCellar": [],
-    "IntEREst": [
-        "GenomicFiles"
-    ],
+    "IntEREst": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -1503,7 +1480,6 @@
     "LPEadj": [
         "LPE"
     ],
-    "lpNet": [],
     "LRcell": [
         "BiocVersion"
     ],
@@ -1621,7 +1597,6 @@
     ],
     "MetaboSignal": [
         "BiocVersion",
-        "MWASTools",
         "hpar"
     ],
     "metaCCA": [],
@@ -1892,7 +1867,6 @@
         "maftools"
     ],
     "MutationalPatterns": [],
-    "MWASTools": [],
     "myvariant": [],
     "mzID": [],
     "NADfinder": [
@@ -2166,10 +2140,8 @@
         "widgetTools"
     ],
     "proteinProfiles": [],
-    "ProteoDisco": [],
     "psichomics": [
         "BiocVersion",
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -2212,9 +2184,7 @@
     ],
     "quantsmooth": [],
     "QuartPAC": [],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "QuaternaryProd": [],
     "R3CPET": [
         "ggbio"
@@ -2266,7 +2236,6 @@
         "dir.expiry"
     ],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [
@@ -2291,7 +2260,6 @@
     "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -2371,7 +2339,6 @@
         "mzID"
     ],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "impute",
         "recount"
@@ -2398,7 +2365,6 @@
     "rnaseqcomp": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -2412,9 +2378,7 @@
     ],
     "ROC": [],
     "ROntoTools": [],
-    "Rqc": [
-        "GenomicFiles"
-    ],
+    "Rqc": [],
     "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
@@ -2484,7 +2448,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scoreInvHap": [],
     "scp": [],
     "scPipe": [
         "DropletUtils",
@@ -2557,7 +2520,6 @@
         "illuminaio",
         "minfi"
     ],
-    "SIAMCAT": [],
     "SigCheck": [],
     "signatureSearch": [
         "BiocVersion",
@@ -2602,7 +2564,6 @@
         "zellkonverter"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "singscore": [],
@@ -2697,15 +2658,10 @@
     "stJoincount": [],
     "strandCheckR": [],
     "STRINGdb": [],
-    "StructuralVariantAnnotation": [],
     "Summix": [],
     "supraHex": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SVMDO": [],
     "swfdr": [],
     "synapter": [
@@ -2830,8 +2786,7 @@
     "TRONCO": [],
     "TSCAN": [],
     "TVTB": [
-        "Gviz",
-        "ensemblVEP"
+        "Gviz"
     ],
     "tximeta": [
         "BiocVersion",
@@ -2846,7 +2801,6 @@
         "Gviz"
     ],
     "universalmotif": [],
-    "uSORT": [],
     "VanillaICE": [
         "crlmm",
         "illuminaio"
@@ -2860,9 +2814,7 @@
     "VaSP": [
         "ballgown"
     ],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
