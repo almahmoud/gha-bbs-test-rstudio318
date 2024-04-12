@@ -203,8 +203,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
-    "autonomics": [],
     "BadRegionFinder": [],
     "ballgown": [],
     "bamsignals": [],
@@ -615,7 +613,6 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [
         "RaggedExperiment"
     ],
@@ -724,7 +721,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "CRISPRseek": [],
     "crisprVerse": [
         "BiocVersion",
         "Gviz",
@@ -1005,7 +1001,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "easyRNASeq": [],
     "EBarrays": [],
     "EBcoexpress": [
         "EBarrays"
@@ -1455,7 +1450,6 @@
         "enrichplot"
     ],
     "GOstats": [],
-    "GOTHiC": [],
     "GPA": [],
     "gpls": [],
     "GRaNIE": [
@@ -1481,7 +1475,6 @@
     ],
     "GSVA": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno"
     ],
     "Gviz": [
@@ -1702,7 +1695,6 @@
         "minfi"
     ],
     "M3C": [],
-    "M3Drop": [],
     "m6Aboost": [
         "BiocVersion"
     ],
@@ -1801,7 +1793,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEB": [],
     "MEIGOR": [
         "CNORode"
     ],
@@ -1817,7 +1808,6 @@
         "BiocVersion",
         "CompoundDb"
     ],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "BiocVersion",
         "MWASTools",
@@ -1995,7 +1985,6 @@
     ],
     "MOGAMUN": [],
     "MoleculeExperiment": [],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -2031,7 +2020,6 @@
     "MsExperiment": [],
     "msgbsR": [
         "biovizBase",
-        "easyRNASeq",
         "ggbio"
     ],
     "msImpute": [
@@ -2090,7 +2078,6 @@
         "ctc"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "bamsignals",
         "biovizBase",
         "karyoploteR"
@@ -2265,7 +2252,6 @@
         "Repitools"
     ],
     "PAA": [],
-    "padma": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -2770,7 +2756,6 @@
     ],
     "scde": [],
     "scFeatures": [
-        "AUCell",
         "GSVA",
         "SingleCellSignalR",
         "scran"
@@ -2782,7 +2767,6 @@
         "flowCore"
     ],
     "scMerge": [
-        "M3Drop",
         "batchelor",
         "scran"
     ],
@@ -2818,7 +2802,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "scry": [],
     "scTensor": [
         "BiocVersion",
         "GOstats",
@@ -2843,7 +2826,6 @@
         "bamsignals",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -2918,7 +2900,6 @@
         "BiocVersion",
         "DropletUtils",
         "GSVA",
-        "M3Drop",
         "SingleR",
         "TSCAN",
         "basilisk",
@@ -3096,7 +3077,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "BiocVersion",
         "ontoProc",
