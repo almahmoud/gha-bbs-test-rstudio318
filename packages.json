@@ -16,7 +16,6 @@
     "adductomicsR": [
         "BiocVersion"
     ],
-    "AffiXcan": [],
     "affycomp": [],
     "affycoretools": [
         "GOstats",
@@ -36,10 +35,8 @@
     ],
     "AHMassBank": [
         "AnnotationHubData",
-        "BiocCheck",
         "BiocVersion"
     ],
-    "airpart": [],
     "alabaster": [
         "alabaster.base",
         "alabaster.bumpy",
@@ -139,7 +136,6 @@
         "BiocVersion"
     ],
     "AnnotationHubData": [
-        "BiocCheck",
         "BiocVersion"
     ],
     "annotatr": [
@@ -275,7 +271,6 @@
         "geNetClassifier"
     ],
     "BioCartaImage": [],
-    "BiocCheck": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -337,9 +332,7 @@
     "BloodGen3Module": [
         "BiocVersion"
     ],
-    "bnbc": [
-        "HiCBricks"
-    ],
+    "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
         "biovizBase",
@@ -522,13 +515,11 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "chipseq"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot"
     ],
-    "chipseq": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -662,7 +653,6 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "consensusOV": [
@@ -701,9 +691,7 @@
     "cosmosR": [
         "decoupleR"
     ],
-    "COTAN": [
-        "PCAtools"
-    ],
+    "COTAN": [],
     "countsimQC": [],
     "crisprBwa": [
         "Rbwa"
@@ -843,9 +831,7 @@
     ],
     "daMA": [],
     "DAMEfinder": [],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
         "Mfuzz",
@@ -910,7 +896,6 @@
         "impute",
         "mzID"
     ],
-    "DepecheR": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -944,7 +929,6 @@
     "DifferentialRegulation": [
         "tximport"
     ],
-    "diffHic": [],
     "diffUTR": [
         "DEXSeq"
     ],
@@ -1012,7 +996,6 @@
     "EBSeqHMM": [
         "EBSeq"
     ],
-    "EDASeq": [],
     "edge": [],
     "eegc": [
         "clusterProfiler",
@@ -1130,7 +1113,6 @@
     ],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "BiocCheck",
         "BiocVersion"
     ],
     "ExperimentSubset": [],
@@ -1317,7 +1299,6 @@
     "garfield": [],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "MLSeq",
         "sSeq"
     ],
@@ -1352,9 +1333,7 @@
         "PharmacoGx",
         "piano"
     ],
-    "gDRstyle": [
-        "BiocCheck"
-    ],
+    "gDRstyle": [],
     "gemini": [],
     "GeneBreak": [
         "CGHcall",
@@ -1457,7 +1436,6 @@
     ],
     "GSALightning": [],
     "GSAR": [],
-    "GSCA": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
         "EnrichmentBrowser",
@@ -1499,7 +1477,6 @@
     "HelloRanges": [],
     "hermes": [],
     "HIBAG": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1537,8 +1514,7 @@
         "BiocVersion"
     ],
     "HTSeqGenie": [
-        "VariantTools",
-        "chipseq"
+        "VariantTools"
     ],
     "HTSFilter": [],
     "hummingbird": [],
@@ -1835,7 +1811,6 @@
     "metaSeq": [],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq"
     ],
     "MetaVolcanoR": [
@@ -1860,7 +1835,6 @@
     ],
     "methylclock": [
         "AnnotationHubData",
-        "BiocCheck",
         "BiocVersion",
         "ExperimentHubData",
         "illuminaio",
@@ -1906,7 +1880,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [],
     "MICSQTL": [
         "EpiDISH",
         "TOAST"
@@ -2182,7 +2155,6 @@
     "nullranges": [],
     "octad": [
         "BiocVersion",
-        "EDASeq",
         "GSVA",
         "RUVSeq"
     ],
@@ -2196,7 +2168,6 @@
         "widgetTools"
     ],
     "OmaDB": [],
-    "omicplotR": [],
     "omicRexposome": [
         "impute",
         "rexposome"
@@ -2281,7 +2252,6 @@
     "pcaExplorer": [
         "GOstats"
     ],
-    "PCAtools": [],
     "pcxn": [],
     "PDATK": [
         "CoreGx",
@@ -2386,7 +2356,6 @@
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
-        "chipseq",
         "enrichplot",
         "soGGi"
     ],
@@ -2538,9 +2507,7 @@
     "RegEnrich": [
         "impute"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "EpiDISH",
@@ -2605,9 +2572,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribor": [],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -2703,9 +2668,7 @@
     ],
     "RTNsurvival": [],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "Rvisdiff": [],
     "rWikiPathways": [],
     "SamSPECTRAL": [],
@@ -2723,10 +2686,7 @@
     "scAnnotatR": [
         "BiocVersion"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "SCATE": [
         "BiocVersion"
     ],
@@ -2776,7 +2736,6 @@
         "bsseq"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Sconify": [
@@ -2900,7 +2859,6 @@
         "BiocVersion",
         "DropletUtils",
         "GSVA",
-        "SingleR",
         "TSCAN",
         "basilisk",
         "basilisk.utils",
@@ -2917,7 +2875,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "SingleR": [],
     "singscore": [],
     "skewr": [
         "ROC",
@@ -2940,9 +2897,7 @@
         "dir.expiry"
     ],
     "SNPhood": [],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "SomaticSignatures": [
         "biovizBase",
         "ggbio"
@@ -3008,7 +2963,6 @@
     "sSeq": [],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [
@@ -3136,9 +3090,7 @@
         "slingshot"
     ],
     "TrajectoryGeometry": [],
-    "transcriptR": [
-        "chipseq"
-    ],
+    "transcriptR": [],
     "transformGamPoi": [
         "glmGamPoi"
     ],
