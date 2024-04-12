@@ -208,7 +208,6 @@
     "BadRegionFinder": [],
     "ballgown": [],
     "bamsignals": [],
-    "BANDITS": [],
     "bandle": [
         "MSnbase",
         "impute",
@@ -279,7 +278,6 @@
     ],
     "BioCartaImage": [],
     "BiocCheck": [],
-    "BiocFHIR": [],
     "BiocHail": [
         "basilisk",
         "basilisk.utils",
@@ -527,8 +525,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "chipseq",
-        "systemPipeR"
+        "chipseq"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -939,9 +936,7 @@
         "impute"
     ],
     "DEXSeq": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -951,7 +946,6 @@
         "flowCore"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
         "tximport"
     ],
     "diffHic": [],
@@ -1125,8 +1119,7 @@
         "pipeFrame"
     ],
     "escape": [
-        "GSVA",
-        "UCell"
+        "GSVA"
     ],
     "escheR": [],
     "evaluomeR": [],
@@ -1160,7 +1153,6 @@
     "fastLiquidAssociation": [
         "impute"
     ],
-    "FastqCleaner": [],
     "fCCAC": [
         "genomation",
         "impute"
@@ -1176,7 +1168,6 @@
         "methylumi",
         "minfi"
     ],
-    "FindIT2": [],
     "FitHiC": [],
     "flagme": [
         "CAMERA",
@@ -1444,7 +1435,6 @@
     "GLAD": [],
     "Glimma": [],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "GlobalAncova": [],
     "globalSeq": [],
     "GmicR": [
@@ -1625,7 +1615,6 @@
         "DEXSeq",
         "GenomicFiles"
     ],
-    "IONiseR": [],
     "ipdDb": [
         "BiocVersion"
     ],
@@ -1932,7 +1921,6 @@
         "EpiDISH",
         "TOAST"
     ],
-    "miloR": [],
     "mimager": [],
     "MineICA": [
         "GOstats",
@@ -2080,11 +2068,8 @@
     "MsQuality": [
         "MsExperiment"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
     "MSstatsLOBD": [],
-    "MSstatsPTM": [],
     "MSstatsQC": [
         "MSnbase",
         "impute",
@@ -2096,9 +2081,7 @@
         "impute",
         "mzID"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MuData": [],
     "MultiBaC": [
         "ropls"
@@ -2119,7 +2102,6 @@
         "HiCcompare"
     ],
     "MultiMed": [],
-    "MultimodalExperiment": [],
     "MultiRNAflow": [
         "Mfuzz",
         "tkWidgets",
@@ -2209,7 +2191,6 @@
     "normr": [
         "bamsignals"
     ],
-    "nucleR": [],
     "nuCpos": [],
     "nullranges": [],
     "octad": [
@@ -2338,7 +2319,6 @@
     "PERFect": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "phantasusLite": [],
     "PharmacoGx": [
         "CoreGx",
         "piano"
@@ -3027,7 +3007,6 @@
     "SPIAT": [],
     "spicyR": [],
     "spikeLI": [],
-    "splatter": [],
     "SpliceWiz": [
         "BiocVersion"
     ],
@@ -3082,7 +3061,6 @@
     "synlet": [
         "RankProd"
     ],
-    "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [],
     "tadar": [
@@ -3135,7 +3113,6 @@
     "TFutils": [],
     "tidybulk": [],
     "tidySummarizedExperiment": [],
-    "timeOmics": [],
     "TimiRGeN": [
         "Mfuzz",
         "clusterProfiler",
@@ -3220,7 +3197,6 @@
         "tximport"
     ],
     "tximport": [],
-    "UCell": [],
     "Ularcirc": [
         "BiocVersion",
         "plotgardener"
@@ -3273,8 +3249,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "ROC",
