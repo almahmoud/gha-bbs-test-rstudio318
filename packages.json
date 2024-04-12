@@ -266,9 +266,7 @@
     "BOBaFIT": [
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "BiocVersion",
         "derfinderPlot",
@@ -447,9 +445,7 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "cola": [
         "impute"
     ],
@@ -649,9 +645,7 @@
     "decoupleR": [],
     "DeepBlueR": [],
     "DeMAND": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -710,7 +704,6 @@
     "dreamlet": [
         "zenith"
     ],
-    "DSS": [],
     "easier": [
         "BiocVersion",
         "decoupleR",
@@ -1194,9 +1187,7 @@
         "maftools"
     ],
     "KBoost": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "LEA": [],
     "lemur": [],
     "les": [],
@@ -1334,9 +1325,7 @@
         "clusterProfiler"
     ],
     "metaSeq": [],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "MetaVolcanoR": [
         "topconfects"
     ],
@@ -1372,9 +1361,7 @@
         "impute"
     ],
     "methylPipe": [],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "illuminaio",
         "minfi"
@@ -1404,7 +1391,6 @@
         "crlmm",
         "illuminaio"
     ],
-    "MIRA": [],
     "miRLAB": [
         "ctc",
         "impute"
@@ -1535,7 +1521,6 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [],
     "nanotatoR": [],
     "ncdfFlow": [
         "cytolib",
@@ -1953,7 +1938,6 @@
     ],
     "scatterHatch": [],
     "SCBN": [],
-    "scCB2": [],
     "scClassify": [],
     "scDataviz": [
         "cytolib",
@@ -2097,7 +2081,6 @@
         "BiocVersion",
         "annotatr"
     ],
-    "Spaniel": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -2255,7 +2238,6 @@
     "vissE": [
         "BiocVersion"
     ],
-    "Voyager": [],
     "vtpnet": [
         "BiocVersion",
         "gwascat"
