@@ -167,7 +167,6 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
@@ -216,7 +215,6 @@
         "EBarrays",
         "RTCGAToolbox",
         "ReactomePA",
-        "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
         "geNetClassifier"
@@ -267,7 +265,6 @@
         "BiocVersion"
     ],
     "bnbc": [],
-    "bnem": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -298,7 +295,6 @@
     "calm": [],
     "CAMERA": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -307,7 +303,6 @@
         "EBarrays",
         "Heatplus",
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
         "phenoTest"
@@ -330,12 +325,10 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [
         "BiocVersion",
@@ -346,7 +339,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "celda": [],
     "cellity": [],
     "cellmigRation": [],
     "CEMiTool": [
@@ -422,7 +414,6 @@
     "CiteFuse": [],
     "cliqueMS": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -459,7 +450,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVRanger": [],
     "COCOA": [
         "MIRA"
     ],
@@ -471,7 +461,6 @@
     "coMethDMR": [
         "BiocVersion"
     ],
-    "compartmap": [],
     "compEpiTools": [
         "methylPipe"
     ],
@@ -487,9 +476,7 @@
         "flowMerge"
     ],
     "consensus": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute"
@@ -502,14 +489,12 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CoreGx": [],
     "coseq": [],
     "CoSIA": [
         "BiocVersion"
     ],
     "cosmiq": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -662,9 +647,7 @@
         "clusterProfiler"
     ],
     "DeconRNASeq": [],
-    "decontX": [
-        "celda"
-    ],
+    "decontX": [],
     "deconvR": [
         "illuminaio",
         "minfi"
@@ -851,7 +834,6 @@
     "flagme": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -977,7 +959,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "FRASER": [],
     "FRGEpistasis": [],
     "funtooNorm": [
         "illuminaio",
@@ -1011,12 +992,10 @@
         "BiocVersion"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRimport"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "gemini": [],
@@ -1082,7 +1061,6 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "maftools"
     ],
@@ -1128,7 +1106,6 @@
         "GenomicInteractions"
     ],
     "HiCDOC": [],
-    "HiContacts": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1202,7 +1179,6 @@
     "IPO": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -1242,7 +1218,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -1290,7 +1265,6 @@
     "MAIT": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -1302,7 +1276,6 @@
     "maPredictDSC": [
         "ROC"
     ],
-    "mariner": [],
     "maser": [],
     "MassArray": [],
     "mastR": [
@@ -1362,7 +1335,6 @@
     "metaMS": [
         "CAMERA",
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -1470,7 +1442,6 @@
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -1501,7 +1472,6 @@
     "MsDataHub": [
         "BiocVersion"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -1533,10 +1503,7 @@
         "mzID"
     ],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
-    "MSstatsLiP": [],
+    "MsQuality": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
         "MSnbase",
@@ -1588,12 +1555,10 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
     ],
-    "nempi": [],
     "netboost": [
         "impute"
     ],
@@ -1626,8 +1591,7 @@
     ],
     "nuCpos": [],
     "octad": [
-        "BiocVersion",
-        "RUVSeq"
+        "BiocVersion"
     ],
     "OGRE": [
         "BiocVersion"
@@ -1697,7 +1661,6 @@
     "pathifier": [],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
         "genefu",
         "impute"
     ],
@@ -1715,9 +1678,7 @@
     "PepsNMR": [],
     "pfamAnalyzeR": [],
     "pgca": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "PhenoGeneRanker": [],
     "phenomis": [],
     "phenoTest": [
@@ -1833,14 +1794,11 @@
         "minfi"
     ],
     "quantsmooth": [],
-    "QuasR": [],
     "QuaternaryProd": [],
     "R3CPET": [
         "ggbio"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1935,7 +1893,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "rifiComparative": [],
@@ -1945,7 +1902,6 @@
     ],
     "Risa": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID",
         "xcms"
@@ -1994,10 +1950,7 @@
     "ROC": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
-    "RUVSeq": [],
+    "RTCGAToolbox": [],
     "Rvisdiff": [],
     "rWikiPathways": [],
     "SamSPECTRAL": [],
@@ -2039,9 +1992,7 @@
         "BiocVersion",
         "annotatr"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -2129,15 +2080,12 @@
         "BiocVersion",
         "basilisk",
         "basilisk.utils",
-        "celda",
         "dir.expiry",
         "scMerge",
         "tximport",
         "zellkonverter"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "singscore": [],
     "skewr": [
         "ROC",
@@ -2194,9 +2142,7 @@
     "srnadiff": [],
     "sSeq": [],
     "ssize": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [],
     "statTarget": [
         "ROC",
@@ -2228,7 +2174,6 @@
     "TCC": [
         "ROC"
     ],
-    "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -2245,9 +2190,7 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFutils": [],
     "tidybulk": [],
     "tidySummarizedExperiment": [],
@@ -2276,9 +2219,7 @@
         "impute",
         "mzID"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [],
     "tradeSeq": [],
@@ -2353,12 +2294,10 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsExperiment",
         "impute",
         "mzID"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XINA": [
