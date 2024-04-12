@@ -294,7 +294,6 @@
     ],
     "brainflowprobes": [
         "BiocVersion",
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
@@ -731,7 +730,6 @@
     ],
     "decoupleR": [],
     "DeepBlueR": [],
-    "DEGraph": [],
     "DeMAND": [],
     "DeMixT": [
         "DSS",
@@ -751,9 +749,7 @@
         "impute",
         "mzID"
     ],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "DEScan2": [
@@ -2002,7 +1998,6 @@
     "proteinProfiles": [],
     "psichomics": [
         "BiocVersion",
-        "derfinder",
         "recount"
     ],
     "PSMatch": [],
@@ -2092,9 +2087,7 @@
     "rebook": [
         "dir.expiry"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "basilisk",
         "basilisk.utils",
@@ -2114,9 +2107,7 @@
         "EpiDISH",
         "TOAST"
     ],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [
         "BiocVersion",
         "Gviz"
@@ -2188,7 +2179,6 @@
         "mzID"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "impute",
         "recount"
     ],
@@ -2212,7 +2202,6 @@
     "rnaseqcomp": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
@@ -2238,7 +2227,6 @@
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
     "SARC": [],
-    "SBGNview": [],
     "scanMiRApp": [
         "BiocVersion"
     ],
@@ -2349,7 +2337,6 @@
     "SEtools": [
         "sechm"
     ],
-    "SGCP": [],
     "shinyepico": [
         "illuminaio",
         "minfi"
@@ -2483,7 +2470,6 @@
     "Summix": [],
     "supraHex": [],
     "svaNUMT": [],
-    "svaRetro": [],
     "SVMDO": [],
     "swfdr": [],
     "synapter": [
