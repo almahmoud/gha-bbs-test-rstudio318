@@ -270,7 +270,6 @@
         "beadarray",
         "illuminaio"
     ],
-    "BLMA": [],
     "BloodGen3Module": [
         "BiocVersion"
     ],
@@ -769,7 +768,6 @@
     ],
     "doseR": [],
     "dreamlet": [
-        "EnrichmentBrowser",
         "zenith"
     ],
     "drugTargetInteractions": [],
@@ -816,7 +814,6 @@
         "impute",
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
@@ -854,12 +851,7 @@
         "illuminaio",
         "minfi"
     ],
-    "EpiTxDb": [],
-    "epivizr": [],
-    "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [
         "ChIPseeker",
@@ -1164,8 +1156,7 @@
     "GSALightning": [],
     "GSAR": [],
     "GSEABenchmarkeR": [
-        "BiocVersion",
-        "EnrichmentBrowser"
+        "BiocVersion"
     ],
     "gsean": [
         "PPInfer",
@@ -1217,7 +1208,6 @@
     "hpar": [
         "BiocVersion"
     ],
-    "HTSeqGenie": [],
     "hummingbird": [],
     "iASeq": [],
     "iBBiG": [],
@@ -1291,7 +1281,6 @@
         "tximport"
     ],
     "ISoLDE": [],
-    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1423,7 +1412,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEIGOR": [],
     "memes": [
         "universalmotif"
     ],
@@ -1533,7 +1521,6 @@
         "illuminaio"
     ],
     "MIRA": [],
-    "mirIntegrator": [],
     "miRLAB": [
         "ctc",
         "impute"
@@ -2049,7 +2036,6 @@
         "BiocVersion"
     ],
     "rgoslin": [],
-    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -2191,9 +2177,7 @@
         "ReactomePA",
         "enrichplot"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
@@ -2395,7 +2379,6 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFHAZ": [],
     "TFutils": [],
     "tidybulk": [],
     "tidySummarizedExperiment": [],
@@ -2536,7 +2519,5 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ]
+    "zenith": []
 }
