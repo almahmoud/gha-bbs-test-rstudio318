@@ -436,7 +436,6 @@
         "flowMerge"
     ],
     "consensus": [],
-    "consensusDE": [],
     "consensusOV": [
         "genefu",
         "impute"
@@ -507,7 +506,6 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "cummeRbund": [],
     "customCMPdb": [
         "BiocVersion"
     ],
@@ -2049,7 +2047,6 @@
     ],
     "tripr": [],
     "TRONCO": [],
-    "TVTB": [],
     "tximeta": [
         "BiocVersion",
         "tximport"
@@ -2058,7 +2055,6 @@
     "Ularcirc": [
         "BiocVersion"
     ],
-    "uncoverappLib": [],
     "universalmotif": [],
     "VanillaICE": [
         "crlmm",
