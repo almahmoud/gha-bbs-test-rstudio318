@@ -153,7 +153,6 @@
     "ATACseqQC": [
         "BiocVersion"
     ],
-    "ATACseqTFEA": [],
     "atena": [
         "BiocVersion"
     ],
@@ -1235,7 +1234,6 @@
         "mzID",
         "xcms"
     ],
-    "MetaPhOR": [],
     "metaSeq": [],
     "metaseqR2": [],
     "MetaVolcanoR": [
@@ -1585,7 +1583,6 @@
         "mzID"
     ],
     "procoil": [],
-    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
