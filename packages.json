@@ -154,7 +154,6 @@
         "Gviz"
     ],
     "AssessORF": [],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "GeneOverlap",
         "chromVAR",
@@ -194,7 +193,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "BatchQC": [],
     "BayesSpace": [],
     "beadarray": [
         "BeadDataPackR",
@@ -211,7 +209,6 @@
     ],
     "BgeeDB": [],
     "BHC": [],
-    "BiGGR": [],
     "bigmelon": [
         "ROC",
         "illuminaio",
@@ -533,7 +530,6 @@
         "RUVSeq"
     ],
     "consensusOV": [
-        "GSVA",
         "genefu",
         "impute"
     ],
@@ -600,7 +596,6 @@
     "crlmm": [
         "illuminaio"
     ],
-    "crossmeta": [],
     "csdR": [
         "impute"
     ],
@@ -614,7 +609,6 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "CuratedAtlasQueryR": [],
     "customCMPdb": [
         "BiocVersion"
     ],
@@ -825,9 +819,7 @@
     "EGAD": [
         "impute"
     ],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz"
     ],
@@ -894,9 +886,7 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "EventPointer": [
         "tximport"
     ],
@@ -910,7 +900,6 @@
         "AnnotationHubData",
         "BiocVersion"
     ],
-    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -1208,7 +1197,6 @@
     "GSRI": [
         "les"
     ],
-    "GSVA": [],
     "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [
@@ -1646,8 +1634,6 @@
     "motifStack": [],
     "MsBackendMassbank": [],
     "MsBackendMsp": [],
-    "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsDataHub": [
         "BiocVersion"
     ],
@@ -1785,7 +1771,6 @@
     "nuCpos": [],
     "octad": [
         "BiocVersion",
-        "GSVA",
         "RUVSeq"
     ],
     "OGRE": [
@@ -1821,9 +1806,7 @@
     "openPrimeRui": [
         "openPrimeR"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "optimalFlow": [
         "cytolib",
         "flowCore",
@@ -1840,9 +1823,7 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -1934,7 +1915,6 @@
     ],
     "pqsfinder": [],
     "prebs": [],
-    "preciseTAD": [],
     "primirTSS": [
         "BiocVersion",
         "GenomicScores",
@@ -1965,7 +1945,6 @@
         "mzID",
         "pRoloc"
     ],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "MSnbase",
@@ -2097,7 +2076,6 @@
         "impute",
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "ggbio"
     ],
@@ -2236,7 +2214,6 @@
     ],
     "scde": [],
     "scFeatures": [
-        "GSVA",
         "SingleCellSignalR"
     ],
     "scifer": [
@@ -2327,7 +2304,6 @@
         "enrichplot"
     ],
     "signifinder": [
-        "GSVA",
         "consensusOV",
         "genefu",
         "impute"
@@ -2347,7 +2323,6 @@
     "singleCellTK": [
         "BiocVersion",
         "DropletUtils",
-        "GSVA",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -2411,7 +2386,6 @@
     ],
     "specL": [],
     "SpectralTAD": [],
-    "SPIAT": [],
     "spicyR": [],
     "spikeLI": [],
     "SpliceWiz": [
@@ -2438,7 +2412,6 @@
         "ROC",
         "impute"
     ],
-    "stJoincount": [],
     "strandCheckR": [],
     "STRINGdb": [],
     "Summix": [],
@@ -2464,8 +2437,6 @@
         "mzID"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "GSVA",
         "singscore"
     ],
     "TCC": [
@@ -2511,9 +2482,7 @@
         "widgetTools"
     ],
     "TMixClust": [],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "TOAST": [
         "EpiDISH"
     ],
@@ -2564,7 +2533,6 @@
     "Ularcirc": [
         "BiocVersion"
     ],
-    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz"
     ],
