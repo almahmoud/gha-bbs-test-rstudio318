@@ -158,7 +158,6 @@
     "AssessORF": [],
     "ASSIGN": [],
     "ATACCoGAPS": [
-        "CoGAPS",
         "GeneOverlap",
         "TFBSTools",
         "chromVAR",
@@ -385,7 +384,6 @@
     ],
     "celaref": [],
     "celda": [],
-    "CelliD": [],
     "cellity": [],
     "cellmigRation": [],
     "CEMiTool": [
@@ -510,7 +508,6 @@
         "flowCore"
     ],
     "CNORdt": [],
-    "CNORode": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -527,7 +524,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CoGAPS": [],
     "cola": [
         "impute"
     ],
@@ -838,7 +834,6 @@
     "doseR": [],
     "dreamlet": [
         "EnrichmentBrowser",
-        "SPIA",
         "zenith"
     ],
     "DropletUtils": [],
@@ -893,9 +888,7 @@
         "impute",
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "SPIA"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
@@ -937,16 +930,10 @@
     "EpiTxDb": [
         "tRNAdbImport"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [],
     "esATAC": [
@@ -1266,15 +1253,13 @@
     "GSAR": [],
     "GSEABenchmarkeR": [
         "BiocVersion",
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ],
     "gsean": [
         "PPInfer",
         "STRINGdb"
     ],
     "GSgalgoR": [],
-    "GSReg": [],
     "GSRI": [
         "les"
     ],
@@ -1330,9 +1315,7 @@
     "hpar": [
         "BiocVersion"
     ],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "hummingbird": [],
     "iASeq": [],
     "iBBiG": [],
@@ -1400,7 +1383,6 @@
         "mzID",
         "xcms"
     ],
-    "iSEEde": [],
     "iSEEhub": [
         "BiocVersion"
     ],
@@ -1425,7 +1407,6 @@
         "maftools"
     ],
     "KBoost": [],
-    "KEGGlincs": [],
     "kissDE": [
         "DSS",
         "bsseq"
@@ -1480,7 +1461,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
         "RnBeads",
@@ -1558,9 +1538,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "memes": [
         "universalmotif"
     ],
@@ -1594,7 +1572,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaSeq": [],
     "metaseqR2": [
         "DSS",
@@ -1837,7 +1814,6 @@
     ],
     "mumosa": [],
     "MungeSumstats": [],
-    "muscat": [],
     "musicatk": [
         "maftools"
     ],
@@ -1892,7 +1868,6 @@
         "quantro",
         "yarn"
     ],
-    "nipalsMCIA": [],
     "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
@@ -2430,8 +2405,7 @@
         "enrichplot"
     ],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "scviR": [
         "basilisk",
@@ -2490,7 +2464,6 @@
         "genefu",
         "impute"
     ],
-    "SigsPack": [],
     "SIM": [
         "quantsmooth"
     ],
@@ -2544,7 +2517,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "SNPhood": [],
     "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
@@ -2580,7 +2552,6 @@
     ],
     "specL": [],
     "SpectralTAD": [],
-    "SPIA": [],
     "SPIAT": [],
     "spicyR": [],
     "spikeLI": [],
@@ -2764,7 +2735,6 @@
         "GenomicScores",
         "Gviz"
     ],
-    "VariantTools": [],
     "VaSP": [
         "ballgown"
     ],
@@ -2833,7 +2803,6 @@
         "dir.expiry"
     ],
     "zenith": [
-        "EnrichmentBrowser",
-        "SPIA"
+        "EnrichmentBrowser"
     ]
 }
