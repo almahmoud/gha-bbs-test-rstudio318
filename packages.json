@@ -81,7 +81,6 @@
     "ATACCoGAPS": [
         "GeneOverlap"
     ],
-    "ATACseqQC": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
@@ -105,7 +104,6 @@
         "quantsmooth"
     ],
     "BG2": [],
-    "BgeeCall": [],
     "BgeeDB": [],
     "BHC": [],
     "bigmelon": [
@@ -145,7 +143,6 @@
         "impute"
     ],
     "blima": [],
-    "brainflowprobes": [],
     "branchpointer": [],
     "cageminer": [
         "BioNERO",
@@ -278,7 +275,6 @@
     "cola": [
         "impute"
     ],
-    "coMethDMR": [],
     "CONFESS": [
         "cytolib",
         "flowClust",
@@ -419,7 +415,6 @@
     "deconvR": [],
     "decoupleR": [],
     "DeepBlueR": [],
-    "demuxSNP": [],
     "densvis": [
         "basilisk",
         "basilisk.utils",
@@ -650,7 +645,6 @@
     "gcatest": [
         "lfa"
     ],
-    "gDNAx": [],
     "gemini": [],
     "GeneBreak": [
         "CGHcall",
@@ -885,7 +879,6 @@
         "mzID",
         "xcms"
     ],
-    "MetaVolcanoR": [],
     "MethReg": [
         "sesame"
     ],
@@ -1003,9 +996,7 @@
         "maftools"
     ],
     "mzID": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "nanotatoR": [],
     "ncdfFlow": [
         "cytolib",
@@ -1084,7 +1075,6 @@
         "dir.expiry"
     ],
     "parody": [],
-    "partCNV": [],
     "Path2PPI": [],
     "pathifier": [],
     "pcxn": [],
@@ -1288,7 +1278,6 @@
     "rsemmed": [],
     "RSeqAn": [],
     "rWikiPathways": [],
-    "scanMiRApp": [],
     "SCATE": [],
     "scatterHatch": [],
     "SCBN": [],
@@ -1412,10 +1401,8 @@
     "TCC": [
         "ROC"
     ],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
-        "STRINGdb",
-        "TDbasedUFE"
+        "STRINGdb"
     ],
     "TEKRABber": [
         "SCBN"
@@ -1460,7 +1447,6 @@
     ],
     "tripr": [],
     "TRONCO": [],
-    "Ularcirc": [],
     "universalmotif": [],
     "VanillaICE": [],
     "velociraptor": [
@@ -1470,7 +1456,6 @@
         "zellkonverter"
     ],
     "VERSO": [],
-    "vissE": [],
     "wateRmelon": [
         "ROC",
         "lumi",
