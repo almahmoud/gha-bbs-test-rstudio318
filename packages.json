@@ -361,7 +361,6 @@
         "wateRmelon"
     ],
     "chimeraviz": [],
-    "ChIPQC": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -659,9 +658,7 @@
         "impute"
     ],
     "doseR": [],
-    "dreamlet": [
-        "zenith"
-    ],
+    "dreamlet": [],
     "easier": [
         "BiocVersion",
         "decoupleR",
@@ -720,7 +717,6 @@
         "illuminaio",
         "minfi"
     ],
-    "epivizrStandalone": [],
     "esATAC": [
         "pipeFrame"
     ],
@@ -1020,7 +1016,6 @@
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
-    "HiCDOC": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1845,7 +1840,6 @@
     "scTensor": [
         "BiocVersion"
     ],
-    "scTreeViz": [],
     "scviR": [
         "basilisk",
         "basilisk.utils",
@@ -2087,7 +2081,6 @@
         "BiocVersion",
         "gwascat"
     ],
-    "vulcan": [],
     "wateRmelon": [
         "ROC",
         "illuminaio",
@@ -2125,6 +2118,5 @@
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
-    ],
-    "zenith": []
+    ]
 }
