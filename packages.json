@@ -130,8 +130,7 @@
         "BiocVersion"
     ],
     "appreci8R": [
-        "BiocVersion",
-        "GenomicScores"
+        "BiocVersion"
     ],
     "arrayMvout": [
         "illuminaio",
@@ -161,7 +160,6 @@
     ],
     "ATACseqQC": [
         "BiocVersion",
-        "GenomicScores",
         "motifStack"
     ],
     "ATACseqTFEA": [
@@ -264,7 +262,6 @@
         "CGHcall",
         "QDNAseq",
         "annotatr",
-        "bsseq",
         "dmrseq",
         "impute"
     ],
@@ -284,8 +281,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "BiocVersion",
@@ -293,7 +289,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "bsseq": [],
     "BubbleTree": [],
     "CAFE": [
         "ggbio"
@@ -411,7 +406,6 @@
         "DMRcate",
         "Gviz",
         "ROC",
-        "bsseq",
         "illuminaio",
         "impute",
         "lumi",
@@ -494,8 +488,7 @@
     ],
     "CNVRanger": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "cola": [
         "impute"
@@ -719,8 +712,7 @@
     "DeepBlueR": [],
     "DeMAND": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxmix": [],
     "demuxSNP": [
@@ -765,7 +757,6 @@
     "DMRcate": [
         "BiocVersion",
         "Gviz",
-        "bsseq",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -773,8 +764,7 @@
     ],
     "dmrseq": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DNAfusion": [
         "bamsignals"
@@ -787,11 +777,8 @@
         "EnrichmentBrowser",
         "zenith"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "easier": [
         "BiocVersion",
         "decoupleR",
@@ -934,7 +921,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry",
@@ -1159,7 +1145,6 @@
         "ncdfFlow"
     ],
     "GGPA": [],
-    "ggspavis": [],
     "GIGSEA": [],
     "GLAD": [],
     "GlobalAncova": [],
@@ -1212,7 +1197,6 @@
     "GWENA": [
         "impute"
     ],
-    "Harshlight": [],
     "Heatplus": [],
     "HIBAG": [],
     "HiCDCPlus": [
@@ -1239,7 +1223,6 @@
         "BiocVersion"
     ],
     "HMMcopy": [],
-    "hoodscanR": [],
     "hpar": [
         "BiocVersion"
     ],
@@ -1259,7 +1242,6 @@
     ],
     "IFAA": [],
     "illuminaio": [],
-    "IMAS": [],
     "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
@@ -1331,8 +1313,7 @@
     ],
     "KBoost": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "LEA": [],
     "lemur": [],
@@ -1423,7 +1404,6 @@
     ],
     "MatrixRider": [],
     "matter": [],
-    "MBECS": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -1488,8 +1468,7 @@
     ],
     "metaSeq": [],
     "metaseqR2": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "MetaVolcanoR": [
         "topconfects"
@@ -1499,13 +1478,11 @@
         "illuminaio",
         "sesame"
     ],
-    "methrix": [],
     "MethylAid": [
         "illuminaio",
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "illuminaio",
         "minfi"
     ],
@@ -1532,8 +1509,7 @@
         "Gviz"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "illuminaio",
@@ -1566,9 +1542,7 @@
         "crlmm",
         "illuminaio"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "mirIntegrator": [],
     "miRLAB": [
         "ctc",
@@ -1632,8 +1606,6 @@
     ],
     "motifmatchr": [],
     "motifStack": [],
-    "MsBackendMassbank": [],
-    "MsBackendMsp": [],
     "MsDataHub": [
         "BiocVersion"
     ],
@@ -1668,7 +1640,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MSPrep": [],
     "msqrob2": [],
     "MsQuality": [
         "MsExperiment"
@@ -1717,14 +1688,11 @@
         "ATACseqQC",
         "BiocVersion",
         "EmpiricalBrownsMethod",
-        "GenomicScores",
         "Gviz",
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "nanotatoR": [],
     "ncdfFlow": [
         "cytolib",
@@ -1917,7 +1885,6 @@
     "prebs": [],
     "primirTSS": [
         "BiocVersion",
-        "GenomicScores",
         "Gviz"
     ],
     "PrInCE": [
@@ -1997,7 +1964,6 @@
         "minfi"
     ],
     "quantsmooth": [],
-    "QuartPAC": [],
     "QuasR": [],
     "QuaternaryProd": [],
     "R3CPET": [
@@ -2017,8 +1983,7 @@
     "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [
-        "BiocVersion",
-        "GenomicScores"
+        "BiocVersion"
     ],
     "Rbec": [],
     "Rbwa": [],
@@ -2100,7 +2065,6 @@
     "rGenomeTracks": [
         "BiocVersion"
     ],
-    "RgnTX": [],
     "rgoslin": [],
     "RiboCrypt": [],
     "RiboProfiling": [
@@ -2177,7 +2141,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "rTRMui": [],
     "RUVSeq": [],
     "Rvisdiff": [],
     "rWikiPathways": [],
@@ -2196,9 +2159,7 @@
     ],
     "scatterHatch": [],
     "SCBN": [],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [],
     "scDataviz": [
         "cytolib",
@@ -2223,8 +2184,7 @@
     "scMerge": [],
     "scmeth": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "RUVSeq"
@@ -2235,7 +2195,6 @@
     ],
     "scp": [],
     "scPipe": [
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
@@ -2322,7 +2281,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
-        "DropletUtils",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -2360,12 +2318,9 @@
     ],
     "SOMNiBUS": [
         "BiocVersion",
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
-    "Spaniel": [
-        "DropletUtils"
-    ],
+    "Spaniel": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -2374,7 +2329,6 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
@@ -2543,7 +2497,6 @@
     ],
     "VariantFiltering": [
         "BiocVersion",
-        "GenomicScores",
         "Gviz"
     ],
     "VaSP": [],
@@ -2558,9 +2511,7 @@
     "vissE": [
         "BiocVersion"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "BiocVersion",
         "gwascat"
