@@ -205,7 +205,6 @@
     ],
     "BatchQC": [],
     "BayesSpace": [],
-    "BBCAnalyzer": [],
     "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR",
@@ -507,7 +506,6 @@
         "cytolib",
         "flowCore"
     ],
-    "CNORdt": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "bamsignals",
@@ -530,7 +528,6 @@
     "comapr": [
         "Gviz"
     ],
-    "combi": [],
     "coMET": [
         "Gviz"
     ],
@@ -722,7 +719,6 @@
         "motifStack"
     ],
     "daMA": [],
-    "DAMEfinder": [],
     "DaMiRseq": [],
     "DAPAR": [
         "MSnbase",
@@ -758,7 +754,6 @@
     "decoupleR": [],
     "DeepBlueR": [],
     "DEGraph": [],
-    "DEGreport": [],
     "DelayedTensor": [],
     "DeMAND": [],
     "DeMixT": [
@@ -827,7 +822,6 @@
     "DNAfusion": [
         "bamsignals"
     ],
-    "DominoEffect": [],
     "doppelgangR": [
         "impute"
     ],
@@ -1369,7 +1363,6 @@
         "ggbio"
     ],
     "InteractiveComplexHeatmap": [],
-    "interactiveDisplay": [],
     "InterCellar": [],
     "IntEREst": [],
     "ipdDb": [
@@ -1394,9 +1387,7 @@
         "tximport"
     ],
     "ISoLDE": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "GLAD"
     ],
@@ -1581,7 +1572,6 @@
         "topconfects"
     ],
     "MetCirc": [],
-    "methInheritSim": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -1613,7 +1603,6 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "MethylMix": [
         "impute"
     ],
@@ -1632,7 +1621,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "microbiome": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1834,7 +1822,6 @@
         "bsseq"
     ],
     "nanotatoR": [],
-    "NanoTube": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -2238,7 +2225,6 @@
     ],
     "RgnTX": [],
     "rgoslin": [],
-    "rgsepd": [],
     "RiboCrypt": [
         "ORFik"
     ],
@@ -2508,7 +2494,6 @@
     "slingshot": [],
     "SMAD": [],
     "SMAP": [],
-    "SMITE": [],
     "snapCGH": [
         "GLAD"
     ],
@@ -2529,7 +2514,6 @@
     "Spaniel": [
         "DropletUtils"
     ],
-    "sparrow": [],
     "spaSim": [],
     "spatialDE": [
         "basilisk",
@@ -2707,7 +2691,6 @@
     "trigger": [],
     "tripr": [],
     "tRNAdbImport": [],
-    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [],
     "TVTB": [
