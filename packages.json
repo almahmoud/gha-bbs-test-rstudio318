@@ -16,46 +16,25 @@
     "adductomicsR": [],
     "affycomp": [],
     "alabaster": [
-        "alabaster.bumpy",
         "alabaster.mae",
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se",
         "alabaster.spatial",
-        "alabaster.string",
         "alabaster.vcf"
     ],
-    "alabaster.bumpy": [],
-    "alabaster.files": [],
     "alabaster.mae": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.matrix": [],
-    "alabaster.ranges": [],
     "alabaster.sce": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.se"
     ],
-    "alabaster.se": [
-        "alabaster.matrix",
-        "alabaster.ranges"
-    ],
+    "alabaster.se": [],
     "alabaster.spatial": [
-        "alabaster.matrix",
-        "alabaster.ranges",
         "alabaster.sce",
         "alabaster.se"
     ],
-    "alabaster.string": [],
     "alabaster.vcf": [
-        "alabaster.matrix",
-        "alabaster.ranges",
-        "alabaster.se",
-        "alabaster.string"
+        "alabaster.se"
     ],
     "AlpsNMR": [
         "impute"
@@ -72,7 +51,6 @@
         "methylumi",
         "parody"
     ],
-    "arrayQualityMetrics": [],
     "ASEB": [],
     "ASICS": [
         "PepsNMR"
@@ -142,7 +120,6 @@
         "dmrseq",
         "impute"
     ],
-    "blima": [],
     "branchpointer": [],
     "cageminer": [
         "BioNERO",
@@ -475,7 +452,6 @@
     ],
     "epidecodeR": [],
     "EpiDISH": [],
-    "epigenomix": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -1285,7 +1261,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scDDboost": [],
     "scifer": [
         "cytolib",
         "flowCore"
