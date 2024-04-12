@@ -17,7 +17,6 @@
         "BiocVersion"
     ],
     "affycomp": [],
-    "AgiMicroRna": [],
     "AHMassBank": [
         "BiocVersion"
     ],
@@ -393,7 +392,6 @@
     "coMethDMR": [
         "BiocVersion"
     ],
-    "compEpiTools": [],
     "ComPrAn": [],
     "compSPOT": [],
     "CONFESS": [
@@ -868,10 +866,7 @@
     "gDNAx": [
         "BiocVersion"
     ],
-    "gDR": [
-        "gDRimport"
-    ],
-    "gDRimport": [],
+    "gDR": [],
     "gemini": [],
     "GeneBreak": [
         "CGHcall",
@@ -2004,7 +1999,6 @@
         "impute",
         "mzID"
     ],
-    "Xeva": [],
     "XINA": [
         "STRINGdb"
     ],
