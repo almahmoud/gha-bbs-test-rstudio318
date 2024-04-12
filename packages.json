@@ -15,7 +15,6 @@
     ],
     "adductomicsR": [],
     "affycomp": [],
-    "AHMassBank": [],
     "alabaster": [
         "alabaster.bumpy",
         "alabaster.mae",
@@ -67,7 +66,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "AnnotationHubData": [],
     "annotatr": [],
     "appreci8R": [],
     "arrayMvout": [
@@ -188,7 +186,6 @@
         "cytolib",
         "flowCore"
     ],
-    "CBNplot": [],
     "cbpManager": [
         "basilisk",
         "basilisk.utils",
@@ -344,12 +341,10 @@
         "crisprScore",
         "dir.expiry"
     ],
-    "crlmm": [],
     "csdR": [
         "impute"
     ],
     "cTRAP": [],
-    "customCMPdb": [],
     "cyanoFilter": [
         "cytolib",
         "flowClust",
@@ -708,7 +703,6 @@
     "GEOexplorer": [
         "impute"
     ],
-    "GeoTcgaData": [],
     "geva": [],
     "ggcyto": [
         "cytolib",
@@ -729,9 +723,7 @@
     "GOSim": [],
     "GPA": [],
     "gpls": [],
-    "GRaNIE": [],
     "GSALightning": [],
-    "GSEABenchmarkeR": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
@@ -808,7 +800,6 @@
         "mzID",
         "xcms"
     ],
-    "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
         "pfamAnalyzeR"
     ],
@@ -844,7 +835,6 @@
         "methylumi",
         "minfi"
     ],
-    "m6Aboost": [],
     "Macarron": [
         "impute"
     ],
@@ -857,7 +847,6 @@
     "maftools": [],
     "MAGAR": [
         "RnBeads",
-        "crlmm",
         "impute",
         "methylumi",
         "minfi"
@@ -967,8 +956,7 @@
     ],
     "minfi": [],
     "MinimumDistance": [
-        "VanillaICE",
-        "crlmm"
+        "VanillaICE"
     ],
     "miRLAB": [
         "impute"
@@ -1002,7 +990,6 @@
     ],
     "MOGAMUN": [],
     "Moonlight2R": [],
-    "MsDataHub": [],
     "mslp": [
         "RankProd"
     ],
@@ -1246,7 +1233,6 @@
         "impute",
         "mzID"
     ],
-    "qsea": [],
     "quantro": [
         "minfi"
     ],
@@ -1296,7 +1282,6 @@
         "EpiDISH",
         "TOAST"
     ],
-    "regutools": [],
     "REMP": [
         "impute",
         "minfi"
@@ -1316,7 +1301,6 @@
         "impute"
     ],
     "Rfastp": [],
-    "rGenomeTracks": [],
     "rgoslin": [],
     "RiboProfiling": [],
     "rifiComparative": [],
@@ -1410,7 +1394,6 @@
     "shinyMethyl": [
         "minfi"
     ],
-    "signatureSearch": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -1546,9 +1529,7 @@
     "TRONCO": [],
     "Ularcirc": [],
     "universalmotif": [],
-    "VanillaICE": [
-        "crlmm"
-    ],
+    "VanillaICE": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
