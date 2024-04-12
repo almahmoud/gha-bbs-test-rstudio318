@@ -127,7 +127,6 @@
     "AMOUNTAIN": [],
     "amplican": [],
     "Anaquin": [],
-    "ANCOMBC": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -209,7 +208,6 @@
         "pRoloc"
     ],
     "banocc": [],
-    "basecallQC": [],
     "BASiCS": [
         "scran"
     ],
@@ -225,7 +223,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "batchelor": [],
     "BatchQC": [],
     "BayesSpace": [
         "scran"
@@ -240,9 +237,7 @@
         "quantsmooth"
     ],
     "BeadDataPackR": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "BG2": [],
     "BgeeCall": [
         "tximport"
@@ -262,7 +257,6 @@
     "bioCancer": [
         "EBarrays",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "ReactomePA",
         "TCGAutils",
         "cBioPortalData",
@@ -392,7 +386,6 @@
         "EBarrays",
         "Heatplus",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "geNetClassifier",
@@ -420,14 +413,12 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData"
     ],
     "CBEA": [],
     "cBioPortalData": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "CBNplot": [
@@ -526,7 +517,6 @@
     "ChIPsim": [],
     "ChIPXpress": [],
     "ChromSCape": [
-        "batchelor",
         "scran"
     ],
     "chromstaR": [
@@ -575,9 +565,7 @@
         "mzID"
     ],
     "clustComp": [],
-    "clusterExperiment": [
-        "mbkmeans"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -604,9 +592,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CNVRanger": [
-        "RaggedExperiment"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [],
     "COCOA": [
         "MIRA",
@@ -628,9 +614,7 @@
     "coMethDMR": [
         "BiocVersion"
     ],
-    "compartmap": [
-        "RaggedExperiment"
-    ],
+    "compartmap": [],
     "compEpiTools": [
         "Gviz",
         "biovizBase",
@@ -640,7 +624,6 @@
     "ComPrAn": [],
     "compSPOT": [],
     "condiments": [
-        "distinct",
         "slingshot"
     ],
     "CONFESS": [
@@ -826,7 +809,6 @@
     ],
     "dagLogo": [
         "TFBSTools",
-        "UniProt.ws",
         "motifStack"
     ],
     "daMA": [],
@@ -937,7 +919,6 @@
     ],
     "dir.expiry": [],
     "Director": [],
-    "distinct": [],
     "DMRcate": [
         "BiocVersion",
         "Gviz",
@@ -969,9 +950,7 @@
         "zenith"
     ],
     "DropletUtils": [],
-    "drugTargetInteractions": [
-        "UniProt.ws"
-    ],
+    "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [
         "bsseq"
@@ -1387,7 +1366,6 @@
     "GeoTcgaData": [
         "topconfects"
     ],
-    "gep2pep": [],
     "gespeR": [
         "cellHTS2"
     ],
@@ -1417,12 +1395,10 @@
     ],
     "GNOSIS": [
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "maftools"
     ],
-    "GOpro": [],
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
@@ -1572,7 +1548,6 @@
     "InPAS": [],
     "INSPEcT": [],
     "INTACT": [],
-    "InTAD": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -1737,7 +1712,6 @@
     ],
     "matter": [],
     "MBECS": [],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -1869,13 +1843,10 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "miaSim": [],
     "miaViz": [],
     "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot"
@@ -2071,7 +2042,6 @@
         "impute"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [],
@@ -2129,8 +2099,7 @@
         "impute"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "mbkmeans"
+        "clusterExperiment"
     ],
     "netZooR": [
         "GOstats",
@@ -2175,9 +2144,7 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
@@ -2217,7 +2184,6 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OTUbase": [],
     "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
@@ -2446,7 +2412,6 @@
         "CoreGx",
         "piano"
     ],
-    "RaggedExperiment": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -2663,19 +2628,15 @@
     "rsemmed": [],
     "RSeqAn": [],
     "RTCGAToolbox": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "rTRMui": [],
     "RUVSeq": [],
     "Rvisdiff": [],
     "rWikiPathways": [],
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
-    "SARC": [
-        "RaggedExperiment"
-    ],
+    "SARC": [],
     "SBGNview": [
         "pathview"
     ],
@@ -2727,7 +2688,6 @@
         "flowCore"
     ],
     "scMerge": [
-        "batchelor",
         "scran"
     ],
     "scmeth": [
@@ -2862,7 +2822,6 @@
         "TSCAN",
         "basilisk",
         "basilisk.utils",
-        "batchelor",
         "celda",
         "dir.expiry",
         "scDblFinder",
@@ -3016,9 +2975,7 @@
     "TCC": [
         "ROC"
     ],
-    "TCGAutils": [
-        "RaggedExperiment"
-    ],
+    "TCGAutils": [],
     "TDbasedUFE": [
         "tximport"
     ],
@@ -3037,7 +2994,6 @@
         "restfulSE"
     ],
     "terraTCGAdata": [
-        "RaggedExperiment",
         "TCGAutils"
     ],
     "TFBSTools": [],
@@ -3138,7 +3094,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "UniProt.ws": [],
     "Uniquorn": [],
     "universalmotif": [],
     "uSORT": [],
@@ -3203,7 +3158,6 @@
         "impute",
         "mzID"
     ],
-    "xcore": [],
     "XDE": [],
     "Xeva": [
         "CoreGx",
