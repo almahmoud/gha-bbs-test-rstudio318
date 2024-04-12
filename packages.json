@@ -203,9 +203,7 @@
     "bioCancer": [
         "EBarrays",
         "RTCGAToolbox",
-        "ReactomePA",
         "cBioPortalData",
-        "clusterProfiler",
         "geNetClassifier"
     ],
     "BioCartaImage": [],
@@ -308,8 +306,7 @@
         "RTCGAToolbox"
     ],
     "CBNplot": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
     "cbpManager": [
         "basilisk",
@@ -319,7 +316,6 @@
     "cellity": [],
     "cellmigRation": [],
     "CEMiTool": [
-        "clusterProfiler",
         "impute"
     ],
     "censcyt": [
@@ -329,9 +325,7 @@
         "flowCore"
     ],
     "ceRNAnetsim": [],
-    "CeTF": [
-        "clusterProfiler"
-    ],
+    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -368,7 +362,6 @@
     ],
     "chimeraviz": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -405,7 +398,6 @@
     ],
     "clustComp": [],
     "clusterExperiment": [],
-    "clusterProfiler": [],
     "ClusterSignificance": [],
     "cmapR": [
         "cytolib",
@@ -591,7 +583,6 @@
     "DAPAR": [
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "mzID",
         "tkWidgets",
@@ -605,9 +596,7 @@
         "flowDensity",
         "flowViz"
     ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "DeconRNASeq": [],
     "decontX": [],
     "deconvR": [
@@ -678,9 +667,7 @@
         "decoupleR",
         "progeny"
     ],
-    "EasyCellType": [
-        "clusterProfiler"
-    ],
+    "EasyCellType": [],
     "EBarrays": [],
     "EBcoexpress": [
         "EBarrays"
@@ -692,9 +679,7 @@
     "EBSeqHMM": [
         "EBSeq"
     ],
-    "eegc": [
-        "clusterProfiler"
-    ],
+    "eegc": [],
     "EGAD": [
         "impute"
     ],
@@ -709,13 +694,10 @@
         "minfi"
     ],
     "enrichTF": [
-        "clusterProfiler",
         "pipeFrame"
     ],
-    "enrichViewNet": [],
     "EpiCompare": [
         "BiocVersion",
-        "ChIPseeker",
         "genomation",
         "impute"
     ],
@@ -740,8 +722,6 @@
     ],
     "epivizrStandalone": [],
     "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler",
         "pipeFrame"
     ],
     "EventPointer": [
@@ -761,7 +741,6 @@
         "GenomicInteractions"
     ],
     "famat": [
-        "clusterProfiler",
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
@@ -930,9 +909,7 @@
     "gcatest": [
         "lfa"
     ],
-    "GDCRNATools": [
-        "clusterProfiler"
-    ],
+    "GDCRNATools": [],
     "gDNAx": [
         "BiocVersion"
     ],
@@ -1006,9 +983,7 @@
         "maftools"
     ],
     "GOSim": [],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GPA": [],
     "gpls": [],
     "GRaNIE": [
@@ -1075,7 +1050,6 @@
         "minfi"
     ],
     "iClusterPlus": [],
-    "ideal": [],
     "IFAA": [],
     "illuminaio": [],
     "IMMAN": [
@@ -1095,8 +1069,6 @@
     "INDEED": [],
     "iNETgrate": [
         "Pigengene",
-        "ReactomePA",
-        "clusterProfiler",
         "illuminaio",
         "impute",
         "minfi"
@@ -1148,7 +1120,6 @@
     "lipidr": [
         "impute"
     ],
-    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -1192,8 +1163,7 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
     "MAI": [],
     "MAIT": [
@@ -1272,9 +1242,7 @@
         "mzID",
         "xcms"
     ],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaSeq": [],
     "metaseqR2": [],
     "MetaVolcanoR": [
@@ -1302,7 +1270,6 @@
         "minfi"
     ],
     "methylGSA": [
-        "clusterProfiler",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -1321,9 +1288,7 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MICSQTL": [
         "EpiDISH",
         "TOAST"
@@ -1348,16 +1313,11 @@
     ],
     "miRNApath": [],
     "miRSM": [
-        "ReactomePA",
-        "clusterProfiler",
         "iBBiG",
         "impute",
         "miRspongeR"
     ],
-    "miRspongeR": [
-        "ReactomePA",
-        "clusterProfiler"
-    ],
+    "miRspongeR": [],
     "missMethyl": [
         "illuminaio",
         "methylumi",
@@ -1385,12 +1345,9 @@
     ],
     "MOGAMUN": [],
     "Moonlight2R": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "MoonlightR": [],
     "motifbreakR": [],
     "MsDataHub": [
         "BiocVersion"
@@ -1556,9 +1513,7 @@
         "EBSeq"
     ],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1605,8 +1560,6 @@
     ],
     "pickgene": [],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler",
         "impute"
     ],
     "PING": [],
@@ -1639,9 +1592,7 @@
         "mzID"
     ],
     "procoil": [],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "progeny": [
         "decoupleR"
     ],
@@ -1660,7 +1611,6 @@
         "DAPAR",
         "MSnbase",
         "Mfuzz",
-        "clusterProfiler",
         "impute",
         "mzID",
         "tkWidgets",
@@ -1739,7 +1689,6 @@
     "rDGIdb": [],
     "Rdisop": [],
     "RDRToolbox": [],
-    "ReactomePA": [],
     "rebook": [
         "dir.expiry"
     ],
@@ -1894,8 +1843,7 @@
     ],
     "scruff": [],
     "scTensor": [
-        "BiocVersion",
-        "ReactomePA"
+        "BiocVersion"
     ],
     "scTreeViz": [],
     "scviR": [
@@ -1905,17 +1853,13 @@
     ],
     "sechm": [],
     "segmenter": [
-        "ChIPseeker",
         "bamsignals"
     ],
     "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
     ],
-    "seqArchRplus": [
-        "ChIPseeker",
-        "clusterProfiler"
-    ],
+    "seqArchRplus": [],
     "seqbias": [],
     "seqCNA": [
         "GLAD"
@@ -1940,8 +1884,7 @@
         "minfi"
     ],
     "signatureSearch": [
-        "BiocVersion",
-        "clusterProfiler"
+        "BiocVersion"
     ],
     "signifinder": [
         "consensusOV",
@@ -2071,7 +2014,6 @@
     "tidySummarizedExperiment": [],
     "TimiRGeN": [
         "Mfuzz",
-        "clusterProfiler",
         "rWikiPathways",
         "tkWidgets",
         "widgetTools"
