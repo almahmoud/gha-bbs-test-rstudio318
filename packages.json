@@ -17,10 +17,7 @@
         "BiocVersion"
     ],
     "affycomp": [],
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "AHMassBank": [
         "BiocVersion"
     ],
