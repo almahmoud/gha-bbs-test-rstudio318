@@ -162,7 +162,6 @@
     ],
     "ATACseqQC": [
         "BiocVersion",
-        "ChIPpeakAnno",
         "GenomicScores",
         "motifStack"
     ],
@@ -197,7 +196,6 @@
     ],
     "BatchQC": [],
     "BayesSpace": [],
-    "beachmat.hdf5": [],
     "beadarray": [
         "BeadDataPackR",
         "illuminaio"
@@ -384,7 +382,6 @@
         "diffcyt",
         "flowCore"
     ],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
@@ -408,7 +405,6 @@
     "CGHcall": [
         "impute"
     ],
-    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall",
         "impute"
@@ -431,7 +427,6 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -441,7 +436,6 @@
     "ChIPseqR": [
         "HilbertVis"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [],
     "chromstaR": [
         "bamsignals"
@@ -523,7 +517,6 @@
         "Gviz",
         "methylPipe"
     ],
-    "CompoundDb": [],
     "ComPrAn": [],
     "compSPOT": [],
     "condiments": [],
@@ -752,9 +745,7 @@
     "derfinderPlot": [
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DEsubs": [
         "EBSeq"
     ],
@@ -906,7 +897,6 @@
     "escape": [
         "GSVA"
     ],
-    "escheR": [],
     "EventPointer": [
         "tximport"
     ],
@@ -925,7 +915,6 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "factR": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
@@ -1220,9 +1209,7 @@
         "les"
     ],
     "GSVA": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [],
     "gwascat": [
         "BiocVersion"
@@ -1378,7 +1365,6 @@
         "mzID",
         "xcms"
     ],
-    "LoomExperiment": [],
     "LPE": [],
     "LPEadj": [
         "LPE"
@@ -1488,8 +1474,7 @@
         "enrichplot"
     ],
     "MetaboAnnotation": [
-        "BiocVersion",
-        "CompoundDb"
+        "BiocVersion"
     ],
     "MetaboSignal": [
         "BiocVersion",
@@ -1625,7 +1610,6 @@
     "MLSeq": [
         "sSeq"
     ],
-    "MMUPHin": [],
     "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
@@ -1746,7 +1730,6 @@
     "NADfinder": [
         "ATACseqQC",
         "BiocVersion",
-        "ChIPpeakAnno",
         "EmpiricalBrownsMethod",
         "GenomicScores",
         "Gviz",
@@ -1946,7 +1929,6 @@
         "impute"
     ],
     "powerTCR": [],
-    "POWSC": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -2031,7 +2013,6 @@
     "qsea": [
         "HMMcopy"
     ],
-    "qsmooth": [],
     "quantro": [
         "illuminaio",
         "minfi"
@@ -2095,9 +2076,7 @@
         "illuminaio",
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RegEnrich": [
         "impute"
     ],
@@ -2242,9 +2221,7 @@
     "scCB2": [
         "DropletUtils"
     ],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDataviz": [
         "cytolib",
         "flowCore"
@@ -2262,7 +2239,6 @@
         "GSVA",
         "SingleCellSignalR"
     ],
-    "scider": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -2359,7 +2335,6 @@
     "SIM": [
         "quantsmooth"
     ],
-    "SimBindProfiles": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
@@ -2459,7 +2434,6 @@
         "RUVSeq"
     ],
     "staRank": [],
-    "Statial": [],
     "statTarget": [
         "ROC",
         "impute"
@@ -2624,7 +2598,6 @@
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "wateRmelon": [
