@@ -24,7 +24,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "affylmGUI": [],
     "AgiMicroRna": [
         "GOstats",
         "Glimma",
@@ -139,7 +138,6 @@
     "annotatr": [
         "BiocVersion"
     ],
-    "anota2seq": [],
     "APAlyzer": [],
     "appreci8R": [
         "BiocVersion",
@@ -339,7 +337,6 @@
     "BubbleTree": [
         "biovizBase"
     ],
-    "BUSpaRse": [],
     "CAFE": [
         "biovizBase",
         "ggbio"
@@ -551,7 +548,6 @@
         "enrichplot"
     ],
     "ClusterSignificance": [],
-    "clustifyr": [],
     "cmapR": [
         "cytolib",
         "flowCore"
@@ -636,9 +632,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -656,7 +650,6 @@
         "decoupleR"
     ],
     "COTAN": [],
-    "countsimQC": [],
     "crisprBwa": [
         "Rbwa"
     ],
@@ -830,7 +823,6 @@
     ],
     "decoupleR": [],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEFormats": [],
     "DEGraph": [
         "NCIgraph"
@@ -838,7 +830,6 @@
     "DEGreport": [],
     "DelayedTensor": [],
     "DELocal": [],
-    "deltaCaptureC": [],
     "DeMAND": [],
     "DeMixT": [
         "DSS",
@@ -920,7 +911,6 @@
         "impute"
     ],
     "doseR": [],
-    "doubletrouble": [],
     "dreamlet": [
         "EnrichmentBrowser",
         "SPIA",
@@ -1279,14 +1269,12 @@
         "CoreGx",
         "PharmacoGx",
         "gDRcore",
-        "gDRimport",
-        "piano"
+        "gDRimport"
     ],
     "gDRcore": [],
     "gDRimport": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "gDRstyle": [],
     "gemini": [],
@@ -1425,7 +1413,6 @@
     "HarmonizR": [],
     "Harshlight": [],
     "Heatplus": [],
-    "HelloRanges": [],
     "hermes": [],
     "HIBAG": [],
     "HiCDCPlus": [
@@ -1869,9 +1856,7 @@
         "minfi"
     ],
     "mitch": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MLSeq": [
         "sSeq"
     ],
@@ -2098,9 +2083,7 @@
         "impute",
         "rexposome"
     ],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
@@ -2179,8 +2162,7 @@
     "PDATK": [
         "CoreGx",
         "genefu",
-        "impute",
-        "piano"
+        "impute"
     ],
     "PeacoQC": [
         "cytolib",
@@ -2198,8 +2180,7 @@
     "pfamAnalyzeR": [],
     "pgca": [],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phemd": [],
     "PhenoGeneRanker": [],
@@ -2215,7 +2196,6 @@
     "Pi": [
         "supraHex"
     ],
-    "piano": [],
     "pickgene": [],
     "Pigengene": [
         "ReactomePA",
@@ -2361,8 +2341,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "RAIDS": [
         "GENESIS",
@@ -2483,7 +2462,6 @@
     "RiboCrypt": [
         "ORFik"
     ],
-    "RiboDiPA": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
@@ -2669,7 +2647,6 @@
         "enrichplot",
         "meshr"
     ],
-    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
@@ -2964,8 +2941,7 @@
         "mzID"
     ],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "tracktables": [],
     "trackViewer": [
@@ -3023,14 +2999,12 @@
         "Gviz",
         "biovizBase"
     ],
-    "Uniquorn": [],
     "universalmotif": [],
     "uSORT": [],
     "VanillaICE": [
         "crlmm",
         "illuminaio"
     ],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "BiocVersion",
         "GenomicScores",
@@ -3051,7 +3025,6 @@
         "zellkonverter"
     ],
     "VERSO": [],
-    "ViSEAGO": [],
     "vissE": [
         "BiocVersion"
     ],
@@ -3089,8 +3062,7 @@
     "XDE": [],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [
         "STRINGdb"
