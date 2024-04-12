@@ -58,7 +58,6 @@
         "alabaster.se",
         "alabaster.string"
     ],
-    "alevinQC": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -88,7 +87,6 @@
         "GeneOverlap"
     ],
     "ATACseqQC": [],
-    "atena": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
@@ -248,7 +246,6 @@
         "maftools"
     ],
     "circRNAprofiler": [
-        "gwascat",
         "universalmotif"
     ],
     "cliqueMS": [
@@ -351,7 +348,6 @@
     "csdR": [
         "impute"
     ],
-    "CTdata": [],
     "cTRAP": [],
     "customCMPdb": [],
     "cyanoFilter": [
@@ -743,7 +739,6 @@
     "GSRI": [
         "les"
     ],
-    "gwascat": [],
     "GWASTools": [
         "quantsmooth"
     ],
@@ -768,7 +763,6 @@
     "HilbertVisGUI": [
         "HilbertVis"
     ],
-    "hipathia": [],
     "hpar": [],
     "hummingbird": [],
     "iASeq": [],
@@ -807,7 +801,6 @@
     "Informeasure": [],
     "INTACT": [],
     "InteractiveComplexHeatmap": [],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "MSnbase",
@@ -817,8 +810,7 @@
     ],
     "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
-        "pfamAnalyzeR",
-        "tximeta"
+        "pfamAnalyzeR"
     ],
     "ISoLDE": [],
     "ITALICS": [
@@ -887,7 +879,6 @@
         "ROC"
     ],
     "MassArray": [],
-    "mastR": [],
     "MatrixQCvis": [
         "impute"
     ],
@@ -1049,7 +1040,6 @@
         "impute",
         "mzID"
     ],
-    "multiClust": [],
     "multicrispr": [
         "bamsignals",
         "karyoploteR"
@@ -1105,12 +1095,10 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "normalize450K": [],
     "normr": [
         "bamsignals"
     ],
     "nuCpos": [],
-    "octad": [],
     "OGRE": [],
     "OLINgui": [
         "tkWidgets",
@@ -1235,7 +1223,6 @@
         "widgetTools"
     ],
     "proteinProfiles": [],
-    "psichomics": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -1557,13 +1544,11 @@
     ],
     "tripr": [],
     "TRONCO": [],
-    "tximeta": [],
     "Ularcirc": [],
     "universalmotif": [],
     "VanillaICE": [
         "crlmm"
     ],
-    "VariantFiltering": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -1572,16 +1557,13 @@
     ],
     "VERSO": [],
     "vissE": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "wateRmelon": [
         "ROC",
         "lumi",
         "methylumi",
         "minfi"
     ],
-    "weitrix": [],
     "widgetTools": [],
     "wppi": [
         "OmnipathR"
