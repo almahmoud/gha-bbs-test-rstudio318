@@ -117,7 +117,6 @@
         "impute"
     ],
     "AMOUNTAIN": [],
-    "Anaquin": [],
     "AneuFinder": [
         "bamsignals"
     ],
@@ -348,7 +347,6 @@
         "geNetClassifier",
         "phenoTest"
     ],
-    "cardelino": [],
     "Cardinal": [
         "CardinalIO",
         "matter"
@@ -416,7 +414,6 @@
         "QDNAseq",
         "impute"
     ],
-    "cfDNAPro": [],
     "cfTools": [
         "BiocVersion",
         "basilisk",
@@ -952,7 +949,6 @@
         "epivizrData"
     ],
     "erma": [],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "TFBSTools",
@@ -1137,9 +1133,7 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "FRGEpistasis": [],
     "funtooNorm": [
         "illuminaio",
@@ -1407,13 +1401,10 @@
         "xcms"
     ],
     "iSEEde": [],
-    "iSEEhex": [],
     "iSEEhub": [
         "BiocVersion"
     ],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "pfamAnalyzeR",
@@ -1665,7 +1656,6 @@
         "widgetTools"
     ],
     "microbiome": [],
-    "microbiomeDASim": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1851,7 +1841,6 @@
     "musicatk": [
         "maftools"
     ],
-    "MutationalPatterns": [],
     "myvariant": [],
     "mzID": [],
     "NADfinder": [
@@ -1870,7 +1859,6 @@
     ],
     "nanotatoR": [],
     "NanoTube": [],
-    "NBAMSeq": [],
     "ncdfFlow": [
         "cytolib",
         "flowCore"
@@ -1882,7 +1870,6 @@
         "mzID",
         "xcms"
     ],
-    "nearBynding": [],
     "nempi": [],
     "netboost": [
         "impute"
@@ -1937,7 +1924,6 @@
     ],
     "OMICsPCA": [],
     "omicsPrint": [],
-    "omicsViewer": [],
     "Omixer": [],
     "OmnipathR": [],
     "onlineFDR": [],
@@ -1976,7 +1962,6 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -2023,7 +2008,6 @@
         "mzID"
     ],
     "PepsNMR": [],
-    "PERFect": [],
     "pfamAnalyzeR": [],
     "pgca": [],
     "PharmacoGx": [
@@ -2259,9 +2243,7 @@
     "ReQON": [
         "seqbias"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "restfulSE": [
         "BiocVersion"
     ],
@@ -2462,7 +2444,6 @@
         "bamsignals",
         "enrichplot"
     ],
-    "selectKSigs": [],
     "seq.hotSPOT": [],
     "seq2pathway": [
         "impute"
@@ -2473,7 +2454,6 @@
         "enrichplot"
     ],
     "seqbias": [],
-    "seqCAT": [],
     "seqCNA": [
         "GLAD"
     ],
@@ -2649,7 +2629,6 @@
         "RankProd"
     ],
     "systemPipeShiny": [],
-    "systemPipeTools": [],
     "tadar": [
         "Gviz"
     ],
