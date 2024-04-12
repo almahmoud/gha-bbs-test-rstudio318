@@ -383,8 +383,6 @@
     "coMethDMR": [
         "BiocVersion"
     ],
-    "ComPrAn": [],
-    "compSPOT": [],
     "CONFESS": [
         "SamSPECTRAL",
         "cytolib",
@@ -542,7 +540,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "DCATS": [],
     "ddPCRclust": [
         "SamSPECTRAL",
         "cytolib",
@@ -557,7 +554,6 @@
     ],
     "decoupleR": [],
     "DeepBlueR": [],
-    "DeMAND": [],
     "demuxmix": [],
     "demuxSNP": [
         "demuxmix"
@@ -618,9 +614,7 @@
     "EBcoexpress": [
         "EBarrays"
     ],
-    "EBSEA": [
-        "EmpiricalBrownsMethod"
-    ],
+    "EBSEA": [],
     "EBSeq": [],
     "EBSeqHMM": [
         "EBSeq"
@@ -628,7 +622,6 @@
     "EGAD": [
         "impute"
     ],
-    "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "ENmix": [
         "BiocVersion",
@@ -761,7 +754,6 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "flowMap": [],
     "flowMatch": [
         "cytolib",
         "flowCore"
@@ -828,7 +820,6 @@
         "illuminaio",
         "minfi"
     ],
-    "FuseSOM": [],
     "gaga": [
         "EBarrays"
     ],
@@ -1033,7 +1024,6 @@
     "KBoost": [],
     "LEA": [],
     "les": [],
-    "levi": [],
     "lfa": [],
     "lipidr": [
         "impute"
@@ -1057,7 +1047,6 @@
         "methylumi",
         "minfi"
     ],
-    "M3C": [],
     "m6Aboost": [
         "BiocVersion"
     ],
@@ -1320,8 +1309,7 @@
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
-        "BiocVersion",
-        "EmpiricalBrownsMethod"
+        "BiocVersion"
     ],
     "nanotatoR": [],
     "ncdfFlow": [
@@ -1449,7 +1437,6 @@
     "phenoTest": [
         "Heatplus"
     ],
-    "PhosR": [],
     "PhyloProfile": [
         "BiocVersion",
         "OmaDB"
@@ -1549,7 +1536,6 @@
         "minfi"
     ],
     "quantsmooth": [],
-    "QuaternaryProd": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1582,7 +1568,6 @@
     ],
     "rDGIdb": [],
     "Rdisop": [],
-    "RDRToolbox": [],
     "rebook": [
         "dir.expiry"
     ],
@@ -1672,7 +1657,6 @@
     "ROC": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "Rvisdiff": [],
     "rWikiPathways": [],
     "SamSPECTRAL": [],
     "sangeranalyseR": [],
@@ -1739,7 +1723,6 @@
     "seqCNA": [
         "GLAD"
     ],
-    "seqcombo": [],
     "SeqSQC": [
         "BiocVersion"
     ],
@@ -1876,7 +1859,6 @@
     ],
     "TFutils": [],
     "tidybulk": [],
-    "tidySummarizedExperiment": [],
     "TimiRGeN": [
         "Mfuzz",
         "rWikiPathways",
