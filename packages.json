@@ -85,7 +85,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "AnnotationHub": [],
     "AnnotationHubData": [],
     "annotatr": [],
     "appreci8R": [],
@@ -550,7 +549,6 @@
     "esATAC": [
         "pipeFrame"
     ],
-    "EventPointer": [],
     "EWCE": [],
     "ExperimentHub": [],
     "ExperimentHubData": [],
@@ -741,7 +739,6 @@
         "genomation",
         "impute"
     ],
-    "GenomicScores": [],
     "GenomicSuperSignature": [],
     "GeoDiff": [],
     "GEOexplorer": [
@@ -1250,7 +1247,6 @@
         "STRINGdb"
     ],
     "pqsfinder": [],
-    "primirTSS": [],
     "PrInCE": [
         "MSnbase",
         "impute",
