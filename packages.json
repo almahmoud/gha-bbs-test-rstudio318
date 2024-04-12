@@ -157,7 +157,6 @@
     "ASSIGN": [],
     "ATACCoGAPS": [
         "GeneOverlap",
-        "TFBSTools",
         "chromVAR",
         "motifmatchr"
     ],
@@ -165,18 +164,15 @@
         "BiocVersion",
         "ChIPpeakAnno",
         "GenomicScores",
-        "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atena": [
         "BiocVersion"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [],
@@ -375,7 +371,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "celaref": [],
     "celda": [],
     "cellity": [],
     "cellmigRation": [],
@@ -452,9 +447,7 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz"
     ],
@@ -534,9 +527,7 @@
     "CompoundDb": [],
     "ComPrAn": [],
     "compSPOT": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "CONFESS": [
         "SamSPECTRAL",
         "cytolib",
@@ -628,7 +619,6 @@
     "cTRAP": [
         "BiocVersion"
     ],
-    "CTSV": [],
     "cummeRbund": [
         "Gviz"
     ],
@@ -704,7 +694,6 @@
     ],
     "cytoviewer": [],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "daMA": [],
@@ -743,7 +732,6 @@
     "decoupleR": [],
     "DeepBlueR": [],
     "DEGraph": [],
-    "DelayedTensor": [],
     "DeMAND": [],
     "DeMixT": [
         "DSS",
@@ -771,7 +759,6 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESpace": [],
     "DEsubs": [
         "EBSeq"
     ],
@@ -821,7 +808,6 @@
     ],
     "DropletUtils": [],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [],
     "DSS": [
         "bsseq"
     ],
@@ -861,7 +847,6 @@
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -873,7 +858,6 @@
     "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr",
@@ -918,7 +902,6 @@
     "erma": [],
     "esATAC": [
         "ChIPseeker",
-        "TFBSTools",
         "clusterProfiler",
         "enrichplot",
         "motifmatchr",
@@ -1258,7 +1241,6 @@
     "GWENA": [
         "impute"
     ],
-    "HarmonizR": [],
     "Harshlight": [],
     "Heatplus": [],
     "HIBAG": [],
@@ -1469,9 +1451,7 @@
         "BiocVersion",
         "impute"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "matter": [],
     "MBECS": [],
     "mBPCR": [
@@ -1545,7 +1525,6 @@
     "MetaVolcanoR": [
         "topconfects"
     ],
-    "MetCirc": [],
     "MethReg": [
         "BiocVersion",
         "illuminaio",
@@ -1669,10 +1648,7 @@
         "dir.expiry"
     ],
     "MOGAMUN": [],
-    "MoleculeExperiment": [],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "Moonlight2R": [
         "BiocVersion",
         "clusterProfiler",
@@ -1684,15 +1660,10 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "TFBSTools",
         "motifStack"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MsBackendMassbank": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
@@ -1783,7 +1754,6 @@
         "EmpiricalBrownsMethod",
         "GenomicScores",
         "Gviz",
-        "TFBSTools",
         "motifStack",
         "trackViewer"
     ],
@@ -1895,7 +1865,6 @@
         "Repitools"
     ],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "pairedGSEA": [],
@@ -1991,8 +1960,7 @@
     "primirTSS": [
         "BiocVersion",
         "GenomicScores",
-        "Gviz",
-        "TFBSTools"
+        "Gviz"
     ],
     "PrInCE": [
         "MSnbase",
@@ -2146,7 +2114,6 @@
         "EpiDISH",
         "TOAST"
     ],
-    "regioneReloaded": [],
     "regionReport": [
         "derfinder"
     ],
@@ -2193,7 +2160,6 @@
     ],
     "ribosomeProfilingQC": [
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "rifiComparative": [],
@@ -2273,7 +2239,6 @@
     "sangeranalyseR": [],
     "SARC": [],
     "SBGNview": [],
-    "SCAN.UPC": [],
     "scanMiRApp": [
         "BiocVersion"
     ],
@@ -2285,7 +2250,6 @@
         "BiocVersion"
     ],
     "scatterHatch": [],
-    "scBFA": [],
     "SCBN": [],
     "scCB2": [
         "DropletUtils"
@@ -2338,9 +2302,7 @@
     "scRepertoire": [
         "powerTCR"
     ],
-    "scRNAseqApp": [
-        "slingshot"
-    ],
+    "scRNAseqApp": [],
     "scruff": [
         "ggbio"
     ],
@@ -2396,7 +2358,6 @@
         "illuminaio",
         "minfi"
     ],
-    "SigCheck": [],
     "signatureSearch": [
         "BiocVersion",
         "clusterProfiler",
@@ -2446,7 +2407,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMAD": [],
     "SMAP": [],
     "snapCGH": [
@@ -2485,7 +2445,6 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "TFBSTools",
         "motifmatchr"
     ],
     "specL": [],
@@ -2573,7 +2532,6 @@
     "terraTCGAdata": [
         "TCGAutils"
     ],
-    "TFBSTools": [],
     "TFHAZ": [],
     "TFutils": [],
     "tidybulk": [],
@@ -2613,9 +2571,7 @@
     "trackViewer": [
         "Gviz"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "TrajectoryGeometry": [],
     "transcriptR": [],
     "transformGamPoi": [],
@@ -2625,9 +2581,7 @@
         "RankProd"
     ],
     "TransView": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "cytolib",
@@ -2637,7 +2591,6 @@
     "trena": [
         "impute"
     ],
-    "trigger": [],
     "tripr": [],
     "TRONCO": [],
     "TVTB": [
