@@ -300,7 +300,6 @@
         "flowCore"
     ],
     "ceRNAnetsim": [],
-    "CeTF": [],
     "CexoR": [
         "genomation",
         "impute"
@@ -559,7 +558,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "debrowser": [],
     "DeconRNASeq": [],
     "deconvR": [
         "illuminaio",
@@ -619,13 +617,11 @@
         "impute"
     ],
     "doseR": [],
-    "dreamlet": [],
     "easier": [
         "BiocVersion",
         "decoupleR",
         "progeny"
     ],
-    "EasyCellType": [],
     "EBarrays": [],
     "EBcoexpress": [
         "EBarrays"
@@ -637,13 +633,11 @@
     "EBSeqHMM": [
         "EBSeq"
     ],
-    "eegc": [],
     "EGAD": [
         "impute"
     ],
     "EmpiricalBrownsMethod": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "BiocVersion",
         "illuminaio",
@@ -862,7 +856,6 @@
     "gcatest": [
         "lfa"
     ],
-    "GDCRNATools": [],
     "gDNAx": [
         "BiocVersion"
     ],
@@ -926,7 +919,6 @@
         "maftools"
     ],
     "GOSim": [],
-    "goSorensen": [],
     "GPA": [],
     "gpls": [],
     "GRaNIE": [
@@ -1218,7 +1210,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MicrobiomeProfiler": [],
     "MICSQTL": [
         "EpiDISH",
         "TOAST"
@@ -1244,10 +1235,8 @@
     "miRNApath": [],
     "miRSM": [
         "iBBiG",
-        "impute",
-        "miRspongeR"
+        "impute"
     ],
-    "miRspongeR": [],
     "missMethyl": [
         "illuminaio",
         "methylumi",
@@ -1277,7 +1266,6 @@
     "Moonlight2R": [
         "BiocVersion"
     ],
-    "MoonlightR": [],
     "MsDataHub": [
         "BiocVersion"
     ],
@@ -1438,8 +1426,6 @@
     "Oscope": [
         "EBSeq"
     ],
-    "pageRank": [],
-    "PanomiR": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
@@ -1690,7 +1676,6 @@
     "RNAmodR.RiboMethSeq": [],
     "rnaseqcomp": [],
     "RNASeqPower": [],
-    "RnaSeqSampleSize": [],
     "RnBeads": [
         "illuminaio",
         "methylumi",
@@ -1765,7 +1750,6 @@
     "seq2pathway": [
         "impute"
     ],
-    "seqArchRplus": [],
     "seqbias": [],
     "seqCNA": [
         "GLAD"
