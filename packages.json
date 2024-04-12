@@ -223,7 +223,6 @@
         "TCGAutils",
         "cBioPortalData",
         "clusterProfiler",
-        "enrichplot",
         "geNetClassifier"
     ],
     "BioCartaImage": [],
@@ -287,7 +286,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "BubbleTree": [],
     "CAFE": [
         "ggbio"
     ],
@@ -349,8 +347,7 @@
     ],
     "CBNplot": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "cbpManager": [
         "basilisk",
@@ -362,7 +359,6 @@
     "cellmigRation": [],
     "CEMiTool": [
         "clusterProfiler",
-        "enrichplot",
         "impute"
     ],
     "censcyt": [
@@ -373,8 +369,7 @@
     ],
     "ceRNAnetsim": [],
     "CeTF": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "CexoR": [
         "genomation",
@@ -416,9 +411,7 @@
     ],
     "ChIPexoQual": [],
     "ChIPQC": [],
-    "ChIPseeker": [
-        "enrichplot"
-    ],
+    "ChIPseeker": [],
     "ChIPseqR": [
         "HilbertVis"
     ],
@@ -462,9 +455,7 @@
     ],
     "clustComp": [],
     "clusterExperiment": [],
-    "clusterProfiler": [
-        "enrichplot"
-    ],
+    "clusterProfiler": [],
     "ClusterSignificance": [],
     "cmapR": [
         "cytolib",
@@ -676,7 +667,6 @@
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
-        "enrichplot",
         "impute",
         "mzID",
         "tkWidgets",
@@ -692,8 +682,7 @@
         "flowViz"
     ],
     "debrowser": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "DeconRNASeq": [],
     "decontX": [
@@ -770,7 +759,6 @@
     "dreamlet": [
         "zenith"
     ],
-    "drugTargetInteractions": [],
     "DSS": [],
     "easier": [
         "BiocVersion",
@@ -778,8 +766,7 @@
         "progeny"
     ],
     "EasyCellType": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "EBarrays": [],
     "EBcoexpress": [
@@ -793,8 +780,7 @@
         "EBSeq"
     ],
     "eegc": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "EGAD": [
         "impute"
@@ -814,20 +800,15 @@
         "impute",
         "minfi"
     ],
-    "enrichplot": [],
     "enrichTF": [
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr",
         "pipeFrame"
     ],
-    "enrichViewNet": [
-        "enrichplot"
-    ],
+    "enrichViewNet": [],
     "EpiCompare": [
         "BiocVersion",
         "ChIPseeker",
-        "enrichplot",
         "genomation",
         "impute"
     ],
@@ -852,11 +833,9 @@
         "minfi"
     ],
     "epivizrStandalone": [],
-    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
-        "enrichplot",
         "motifmatchr",
         "pipeFrame"
     ],
@@ -880,7 +859,6 @@
     ],
     "famat": [
         "clusterProfiler",
-        "enrichplot",
         "rWikiPathways"
     ],
     "fastLiquidAssociation": [
@@ -1056,8 +1034,7 @@
         "lfa"
     ],
     "GDCRNATools": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "gDNAx": [
         "BiocVersion"
@@ -1071,7 +1048,6 @@
         "CoreGx",
         "PharmacoGx"
     ],
-    "gDRstyle": [],
     "gemini": [],
     "GeneBreak": [
         "CGHcall",
@@ -1145,8 +1121,7 @@
     ],
     "GOSim": [],
     "goSorensen": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "GPA": [],
     "gpls": [],
@@ -1218,9 +1193,7 @@
         "minfi"
     ],
     "iClusterPlus": [],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "IFAA": [],
     "illuminaio": [],
     "imcRtools": [],
@@ -1243,7 +1216,6 @@
         "Pigengene",
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "illuminaio",
         "impute",
         "minfi"
@@ -1302,9 +1274,7 @@
     "lipidr": [
         "impute"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LOBSTAHS": [
         "CAMERA",
         "MSnbase",
@@ -1350,8 +1320,7 @@
     ],
     "MAGeCKFlute": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MAI": [],
     "MAIT": [
@@ -1416,8 +1385,7 @@
         "universalmotif"
     ],
     "meshes": [
-        "BiocVersion",
-        "enrichplot"
+        "BiocVersion"
     ],
     "MetaboAnnotation": [
         "BiocVersion"
@@ -1441,8 +1409,7 @@
         "xcms"
     ],
     "MetaPhOR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "metaSeq": [],
     "metaseqR2": [
@@ -1474,7 +1441,6 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "enrichplot",
         "illuminaio",
         "methylumi",
         "minfi",
@@ -1499,8 +1465,7 @@
     ],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MICSQTL": [
         "EpiDISH",
@@ -1529,15 +1494,13 @@
     "miRSM": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "iBBiG",
         "impute",
         "miRspongeR"
     ],
     "miRspongeR": [
         "ReactomePA",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "missMethyl": [
         "illuminaio",
@@ -1569,12 +1532,10 @@
     "monaLisa": [],
     "Moonlight2R": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "MoonlightR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "motifbreakR": [
         "Gviz",
@@ -1633,7 +1594,6 @@
         "impute",
         "mzID"
     ],
-    "MultiBaC": [],
     "multiClust": [
         "ctc"
     ],
@@ -1769,11 +1729,8 @@
     "pageRank": [
         "motifmatchr"
     ],
-    "pairedGSEA": [],
-    "panelcn.mops": [],
     "PanomiR": [
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "PanViz": [],
     "pareg": [
@@ -1787,7 +1744,6 @@
     ],
     "Path2PPI": [],
     "pathifier": [],
-    "pcaExplorer": [],
     "pcxn": [],
     "PDATK": [
         "CoreGx",
@@ -1828,14 +1784,12 @@
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
         "impute"
     ],
     "PING": [
         "Gviz"
     ],
     "pipeFrame": [],
-    "PloGO2": [],
     "PLPE": [
         "LPE"
     ],
@@ -1867,8 +1821,7 @@
     ],
     "procoil": [],
     "profileplyr": [
-        "ChIPseeker",
-        "enrichplot"
+        "ChIPseeker"
     ],
     "progeny": [
         "decoupleR"
@@ -1889,7 +1842,6 @@
         "MSnbase",
         "Mfuzz",
         "clusterProfiler",
-        "enrichplot",
         "impute",
         "mzID",
         "tkWidgets",
@@ -1976,9 +1928,7 @@
     "rDGIdb": [],
     "Rdisop": [],
     "RDRToolbox": [],
-    "ReactomePA": [
-        "enrichplot"
-    ],
+    "ReactomePA": [],
     "rebook": [
         "dir.expiry"
     ],
@@ -2174,8 +2124,7 @@
     ],
     "scTensor": [
         "BiocVersion",
-        "ReactomePA",
-        "enrichplot"
+        "ReactomePA"
     ],
     "scTreeViz": [],
     "scviR": [
@@ -2186,8 +2135,7 @@
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
-        "bamsignals",
-        "enrichplot"
+        "bamsignals"
     ],
     "seq.hotSPOT": [],
     "seq2pathway": [
@@ -2195,8 +2143,7 @@
     ],
     "seqArchRplus": [
         "ChIPseeker",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "seqbias": [],
     "seqCNA": [
@@ -2223,8 +2170,7 @@
     ],
     "signatureSearch": [
         "BiocVersion",
-        "clusterProfiler",
-        "enrichplot"
+        "clusterProfiler"
     ],
     "signifinder": [
         "consensusOV",
@@ -2291,7 +2237,6 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
@@ -2301,8 +2246,6 @@
         "motifmatchr"
     ],
     "specL": [],
-    "SpectralTAD": [],
-    "spicyR": [],
     "spikeLI": [],
     "SpliceWiz": [
         "BiocVersion"
@@ -2333,7 +2276,6 @@
     "Summix": [],
     "supraHex": [],
     "svaNUMT": [],
-    "SVMDO": [],
     "swfdr": [],
     "synapter": [
         "MSnbase",
@@ -2365,7 +2307,6 @@
     "TDbasedUFEadv": [
         "STRINGdb",
         "TDbasedUFE",
-        "enrichplot",
         "tximport"
     ],
     "TEKRABber": [
@@ -2385,7 +2326,6 @@
     "TimiRGeN": [
         "Mfuzz",
         "clusterProfiler",
-        "enrichplot",
         "rWikiPathways",
         "tkWidgets",
         "widgetTools"
