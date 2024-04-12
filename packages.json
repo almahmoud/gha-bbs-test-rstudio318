@@ -265,7 +265,6 @@
         "dmrseq",
         "impute"
     ],
-    "blacksheepr": [],
     "blima": [
         "BeadDataPackR",
         "beadarray",
@@ -340,7 +339,6 @@
         "cytolib",
         "flowCore"
     ],
-    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -418,9 +416,7 @@
         "Gviz"
     ],
     "ChIPexoQual": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
     ],
@@ -738,7 +734,6 @@
     "DExMA": [
         "impute"
     ],
-    "DiffBind": [],
     "diffcoexp": [
         "impute"
     ],
@@ -1078,10 +1073,8 @@
     "gDR": [
         "CoreGx",
         "PharmacoGx",
-        "gDRcore",
         "gDRimport"
     ],
-    "gDRcore": [],
     "gDRimport": [
         "CoreGx",
         "PharmacoGx"
@@ -1203,9 +1196,7 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "HiCool": [
         "basilisk",
@@ -1293,7 +1284,6 @@
     "iSEEhub": [
         "BiocVersion"
     ],
-    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "BiocVersion",
         "pfamAnalyzeR",
@@ -1568,7 +1558,6 @@
         "minfi"
     ],
     "mitch": [],
-    "mitoClone2": [],
     "MLSeq": [
         "sSeq"
     ],
@@ -1657,7 +1646,6 @@
         "impute",
         "mzID"
     ],
-    "MSstatsShiny": [],
     "MultiBaC": [],
     "multiClust": [
         "ctc"
@@ -1669,7 +1657,6 @@
     "multiGSEA": [
         "BiocVersion"
     ],
-    "multiHiCcompare": [],
     "MultiMed": [],
     "MultiRNAflow": [
         "Mfuzz",
@@ -1860,7 +1847,6 @@
     "PING": [
         "Gviz"
     ],
-    "pipeComp": [],
     "pipeFrame": [],
     "PloGO2": [],
     "PLPE": [
@@ -1895,8 +1881,7 @@
     "procoil": [],
     "profileplyr": [
         "ChIPseeker",
-        "enrichplot",
-        "soGGi"
+        "enrichplot"
     ],
     "progeny": [
         "decoupleR"
@@ -1928,7 +1913,6 @@
         "BiocVersion",
         "recount"
     ],
-    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB"
     ],
@@ -1985,7 +1969,6 @@
     "RareVariantVis": [
         "BiocVersion"
     ],
-    "Rbec": [],
     "Rbwa": [],
     "RCAS": [
         "genomation",
@@ -2134,7 +2117,6 @@
         "impute"
     ],
     "ROC": [],
-    "Rqc": [],
     "rqt": [],
     "rsemmed": [],
     "RSeqAn": [],
@@ -2165,7 +2147,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scDblFinder": [],
     "scDD": [
         "EBSeq"
     ],
@@ -2193,7 +2174,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scp": [],
     "scPipe": [
         "basilisk",
         "basilisk.utils",
@@ -2285,7 +2265,6 @@
         "basilisk.utils",
         "celda",
         "dir.expiry",
-        "scDblFinder",
         "scMerge",
         "tximport",
         "zellkonverter"
@@ -2312,7 +2291,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "ggbio"
     ],
@@ -2516,9 +2494,7 @@
         "BiocVersion",
         "gwascat"
     ],
-    "vulcan": [
-        "DiffBind"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "ROC",
         "illuminaio",
