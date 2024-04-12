@@ -120,7 +120,6 @@
     "AneuFinder": [
         "bamsignals"
     ],
-    "animalcules": [],
     "AnnotationHub": [
         "BiocVersion"
     ],
@@ -130,7 +129,6 @@
     "annotatr": [
         "BiocVersion"
     ],
-    "APAlyzer": [],
     "appreci8R": [
         "BiocVersion",
         "GenomicScores"
@@ -287,9 +285,7 @@
         "beadarray",
         "illuminaio"
     ],
-    "BLMA": [
-        "ROntoTools"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [
         "BiocVersion"
     ],
@@ -475,7 +471,6 @@
     ],
     "CircSeqAlignTk": [],
     "CiteFuse": [],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "MsExperiment",
@@ -921,9 +916,7 @@
         "illuminaio",
         "minfi"
     ],
-    "EpiTxDb": [
-        "tRNAdbImport"
-    ],
+    "EpiTxDb": [],
     "epivizr": [],
     "epivizrChart": [],
     "epivizrStandalone": [
@@ -1278,7 +1271,6 @@
     "HarmonizR": [],
     "Harshlight": [],
     "Heatplus": [],
-    "hermes": [],
     "HIBAG": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -1410,7 +1402,6 @@
     "les": [],
     "levi": [],
     "lfa": [],
-    "lineagespot": [],
     "lipidr": [
         "impute"
     ],
@@ -1647,9 +1638,7 @@
     "MIRA": [
         "bsseq"
     ],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "ctc",
         "impute"
@@ -1801,11 +1790,9 @@
         "impute"
     ],
     "mumosa": [],
-    "MungeSumstats": [],
     "musicatk": [
         "maftools"
     ],
-    "myvariant": [],
     "mzID": [],
     "NADfinder": [
         "ATACseqQC",
@@ -1913,7 +1900,6 @@
         "flowMeans"
     ],
     "ORFhunteR": [],
-    "ORFik": [],
     "orthos": [
         "BiocVersion",
         "basilisk",
@@ -1950,7 +1936,6 @@
     ],
     "Path2PPI": [],
     "pathifier": [],
-    "PathoStat": [],
     "pcaExplorer": [],
     "pcxn": [],
     "PDATK": [
@@ -1975,7 +1960,6 @@
     "PharmacoGx": [
         "CoreGx"
     ],
-    "phemd": [],
     "PhenoGeneRanker": [],
     "phenomis": [],
     "phenoTest": [
@@ -2141,7 +2125,6 @@
         "impute"
     ],
     "RCASPAR": [],
-    "RCM": [],
     "Rcwl": [
         "basilisk",
         "basilisk.utils",
@@ -2225,9 +2208,7 @@
     ],
     "RgnTX": [],
     "rgoslin": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "ggbio"
     ],
@@ -2298,7 +2279,6 @@
         "impute"
     ],
     "ROC": [],
-    "ROntoTools": [],
     "Rqc": [],
     "rqt": [],
     "rsemmed": [],
@@ -2443,7 +2423,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "signeR": [],
     "signifinder": [
         "GSVA",
         "consensusOV",
@@ -2621,9 +2600,7 @@
         "TCGAutils"
     ],
     "TFBSTools": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TFutils": [],
     "tidybulk": [],
     "tidySummarizedExperiment": [],
@@ -2690,7 +2667,6 @@
     ],
     "trigger": [],
     "tripr": [],
-    "tRNAdbImport": [],
     "TRONCO": [],
     "TSCAN": [],
     "TVTB": [
@@ -2763,7 +2739,6 @@
         "impute",
         "mzID"
     ],
-    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
