@@ -180,7 +180,6 @@
         "motifStack"
     ],
     "attract": [],
-    "ballgown": [],
     "bamsignals": [],
     "bandle": [
         "MSnbase",
@@ -191,8 +190,7 @@
     "banocc": [],
     "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "glmGamPoi"
+        "BASiCS"
     ],
     "basilisk": [
         "basilisk.utils",
@@ -435,7 +433,6 @@
         "missMethyl",
         "wateRmelon"
     ],
-    "chihaya": [],
     "chimeraviz": [
         "Gviz"
     ],
@@ -672,7 +669,6 @@
         "flowCore"
     ],
     "cytolib": [],
-    "cytomapper": [],
     "cytoMEM": [
         "cytolib",
         "flowCore"
@@ -706,9 +702,7 @@
         "ggcyto",
         "ncdfFlow"
     ],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -851,7 +845,6 @@
     "EBSeqHMM": [
         "EBSeq"
     ],
-    "edge": [],
     "eegc": [
         "clusterProfiler",
         "enrichplot"
@@ -967,9 +960,7 @@
         "impute"
     ],
     "fdrame": [],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "illuminaio",
         "lumi",
@@ -1214,7 +1205,6 @@
     "ggspavis": [],
     "GIGSEA": [],
     "GLAD": [],
-    "glmGamPoi": [],
     "GlobalAncova": [],
     "globalSeq": [],
     "GmicR": [
@@ -1295,7 +1285,6 @@
     "hipathia": [
         "BiocVersion"
     ],
-    "hiReadsProcessor": [],
     "HMMcopy": [],
     "hoodscanR": [],
     "hpar": [
@@ -1318,9 +1307,7 @@
     "IFAA": [],
     "illuminaio": [],
     "IMAS": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "IMMAN": [
         "STRINGdb"
     ],
@@ -1394,11 +1381,8 @@
         "DSS",
         "bsseq"
     ],
-    "KnowSeq": [],
     "LEA": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "les": [],
     "levi": [],
     "lfa": [],
@@ -1457,7 +1441,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "magpie": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -1711,7 +1694,6 @@
         "TFBSTools"
     ],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsBackendSql": [],
@@ -1842,7 +1824,6 @@
         "quantro",
         "yarn"
     ],
-    "nnSVG": [],
     "NoRCE": [
         "rWikiPathways"
     ],
@@ -1913,7 +1894,6 @@
     "OutSplice": [
         "Repitools"
     ],
-    "PAA": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -2089,7 +2069,6 @@
         "HMMcopy"
     ],
     "qsmooth": [],
-    "qsvaR": [],
     "quantro": [
         "illuminaio",
         "minfi"
@@ -2439,16 +2418,13 @@
         "dir.expiry"
     ],
     "similaRpeak": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "sincell": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "BiocVersion",
         "DropletUtils",
         "GSVA",
-        "TSCAN",
         "basilisk",
         "basilisk.utils",
         "celda",
@@ -2493,7 +2469,6 @@
     "Spaniel": [
         "DropletUtils"
     ],
-    "spaSim": [],
     "spatialDE": [
         "basilisk",
         "basilisk.utils",
@@ -2525,7 +2500,6 @@
     "SPLINTER": [
         "Gviz"
     ],
-    "SpotClean": [],
     "SPsimSeq": [
         "impute"
     ],
@@ -2644,9 +2618,7 @@
     ],
     "TrajectoryGeometry": [],
     "transcriptR": [],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [
         "Heatplus",
@@ -2668,7 +2640,6 @@
     "trigger": [],
     "tripr": [],
     "TRONCO": [],
-    "TSCAN": [],
     "TVTB": [
         "Gviz"
     ],
@@ -2694,9 +2665,7 @@
         "GenomicScores",
         "Gviz"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [],
     "velociraptor": [
         "basilisk",
