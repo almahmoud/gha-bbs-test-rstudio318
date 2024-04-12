@@ -142,7 +142,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [
         "EBarrays",
         "geNetClassifier"
@@ -219,7 +218,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "cellity": [],
     "cellmigRation": [],
     "CEMiTool": [
         "impute"
@@ -460,7 +458,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "DeconRNASeq": [],
     "deconvR": [
         "minfi"
     ],
@@ -755,7 +752,6 @@
     "GGPA": [],
     "GIGSEA": [],
     "GLAD": [],
-    "GlobalAncova": [],
     "globalSeq": [],
     "GmicR": [
         "impute"
@@ -840,7 +836,6 @@
     "Informeasure": [],
     "INTACT": [],
     "InteractiveComplexHeatmap": [],
-    "InterCellar": [],
     "ipdDb": [],
     "IPO": [
         "CAMERA",
@@ -970,7 +965,6 @@
         "mzID",
         "xcms"
     ],
-    "metaSeq": [],
     "MetaVolcanoR": [],
     "MethReg": [
         "sesame"
@@ -1151,7 +1145,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "OmaDB": [],
     "omicRexposome": [
         "impute",
         "rexposome"
@@ -1177,7 +1170,6 @@
         "flowCore",
         "flowMeans"
     ],
-    "ORFhunteR": [],
     "orthos": [
         "basilisk",
         "basilisk.utils",
@@ -1218,9 +1210,7 @@
     "phenoTest": [
         "Heatplus"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pi": [
         "supraHex"
     ],
@@ -1252,7 +1242,6 @@
         "impute",
         "mzID"
     ],
-    "procoil": [],
     "progeny": [
         "decoupleR"
     ],
@@ -1412,7 +1401,6 @@
     "rsemmed": [],
     "RSeqAn": [],
     "rWikiPathways": [],
-    "sangeranalyseR": [],
     "scanMiRApp": [],
     "scAnnotatR": [],
     "SCATE": [],
@@ -1426,7 +1414,6 @@
     "scDDboost": [
         "Oscope"
     ],
-    "scde": [],
     "scifer": [
         "cytolib",
         "flowCore"
@@ -1452,7 +1439,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "sechm": [],
     "segmenter": [
         "bamsignals"
     ],
@@ -1465,9 +1451,7 @@
     ],
     "SeqSQC": [],
     "sesame": [],
-    "SEtools": [
-        "sechm"
-    ],
+    "SEtools": [],
     "shinyepico": [
         "minfi"
     ],
@@ -1571,7 +1555,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TFutils": [],
     "tidybulk": [],
     "TimiRGeN": [
         "Mfuzz",
@@ -1585,7 +1568,6 @@
     "tkWidgets": [
         "widgetTools"
     ],
-    "TMixClust": [],
     "TOAST": [
         "EpiDISH"
     ],
