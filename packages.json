@@ -22,7 +22,6 @@
         "affycoretools"
     ],
     "AHMassBank": [
-        "AnnotationHubData",
         "BiocVersion"
     ],
     "alabaster": [
@@ -101,7 +100,6 @@
     "alevinQC": [
         "tximport"
     ],
-    "AllelicImbalance": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -198,7 +196,6 @@
     "BindingSiteFinder": [],
     "bioCancer": [
         "EBarrays",
-        "RTCGAToolbox",
         "cBioPortalData",
         "geNetClassifier"
     ],
@@ -221,7 +218,6 @@
         "dir.expiry"
     ],
     "BiocVersion": [],
-    "biomvRCNS": [],
     "BioNAR": [
         "impute"
     ],
@@ -251,16 +247,13 @@
     ],
     "branchpointer": [],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "impute"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "calm": [],
     "CAMERA": [
@@ -272,7 +265,6 @@
     "canceR": [
         "EBarrays",
         "Heatplus",
-        "RTCGAToolbox",
         "cBioPortalData",
         "geNetClassifier",
         "phenoTest"
@@ -294,12 +286,9 @@
         "flowCore"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [
         "BiocVersion"
     ],
@@ -362,7 +351,6 @@
     "chromstaR": [
         "bamsignals"
     ],
-    "cicero": [],
     "CIMICE": [
         "maftools"
     ],
@@ -413,7 +401,6 @@
         "impute"
     ],
     "comapr": [],
-    "coMET": [],
     "coMethDMR": [
         "BiocVersion"
     ],
@@ -723,12 +710,9 @@
         "BiocVersion"
     ],
     "ExperimentHubData": [
-        "AnnotationHubData",
         "BiocVersion"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "famat": [
         "rWikiPathways"
     ],
@@ -923,14 +907,12 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "GeneStructureTools": [],
     "geNetClassifier": [
         "EBarrays"
     ],
     "genomation": [
         "impute"
     ],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicPlot": [
         "RCAS",
@@ -967,7 +949,6 @@
         "impute"
     ],
     "GNOSIS": [
-        "RTCGAToolbox",
         "cBioPortalData",
         "maftools"
     ],
@@ -1006,9 +987,7 @@
     ],
     "Heatplus": [],
     "HIBAG": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCool": [
         "basilisk",
         "basilisk.utils",
@@ -1248,9 +1227,7 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "BiocVersion",
-        "ExperimentHubData",
         "illuminaio",
         "impute",
         "minfi"
@@ -1362,7 +1339,6 @@
         "msmsTests",
         "mzID"
     ],
-    "MsQuality": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [
         "MSnbase",
@@ -1545,7 +1521,6 @@
     "Pigengene": [
         "impute"
     ],
-    "PING": [],
     "pipeFrame": [],
     "PLPE": [
         "LPE"
@@ -1610,7 +1585,6 @@
         "impute",
         "mzID"
     ],
-    "Pviz": [],
     "pwOmics": [
         "BiocVersion",
         "STRINGdb"
@@ -1636,7 +1610,6 @@
     ],
     "quantsmooth": [],
     "QuaternaryProd": [],
-    "RadioGx": [],
     "RAIDS": [
         "GENESIS",
         "GWASTools",
@@ -1747,16 +1720,9 @@
         "impute"
     ],
     "RNAdecay": [],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "rnaseqcomp": [],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [],
@@ -1771,7 +1737,6 @@
     "ROC": [],
     "rsemmed": [],
     "RSeqAn": [],
-    "RTCGAToolbox": [],
     "Rvisdiff": [],
     "rWikiPathways": [],
     "SamSPECTRAL": [],
@@ -1924,9 +1889,7 @@
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "spikeLI": [],
     "SpliceWiz": [
@@ -1938,7 +1901,6 @@
         "impute"
     ],
     "sRACIPE": [],
-    "srnadiff": [],
     "sSeq": [],
     "ssize": [],
     "standR": [],
@@ -1961,7 +1923,6 @@
         "RankProd"
     ],
     "systemPipeShiny": [],
-    "tadar": [],
     "TargetDecoy": [
         "mzID"
     ],
@@ -1987,7 +1948,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "terraTCGAdata": [],
     "TFutils": [],
     "tidybulk": [],
     "tidySummarizedExperiment": [],
