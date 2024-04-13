@@ -14,7 +14,6 @@
         "snapCGH"
     ],
     "adductomicsR": [],
-    "affycomp": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -25,8 +24,7 @@
         "bamsignals"
     ],
     "arrayMvout": [
-        "mdqc",
-        "parody"
+        "mdqc"
     ],
     "ASEB": [],
     "ASICS": [
@@ -58,15 +56,12 @@
     "beadarraySNP": [
         "quantsmooth"
     ],
-    "BG2": [],
     "BgeeDB": [],
     "BHC": [],
     "bigmelon": [
-        "ROC",
         "wateRmelon"
     ],
     "bioCancer": [
-        "EBarrays",
         "geNetClassifier"
     ],
     "BioCartaImage": [],
@@ -107,7 +102,6 @@
         "xcms"
     ],
     "canceR": [
-        "EBarrays",
         "Heatplus",
         "geNetClassifier",
         "phenoTest"
@@ -117,7 +111,6 @@
     ],
     "CardinalIO": [],
     "casper": [
-        "EBarrays",
         "gaga"
     ],
     "CATALYST": [
@@ -163,7 +156,6 @@
         "impute"
     ],
     "ChAMP": [
-        "ROC",
         "impute",
         "wateRmelon"
     ],
@@ -176,9 +168,7 @@
     "CIMICE": [
         "maftools"
     ],
-    "circRNAprofiler": [
-        "universalmotif"
-    ],
+    "circRNAprofiler": [],
     "cliqueMS": [
         "MSnbase",
         "impute",
@@ -186,11 +176,8 @@
         "xcms"
     ],
     "Clomial": [],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -210,7 +197,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CNVgears": [],
     "CNViz": [
         "CopyNumberPlots",
         "bamsignals",
@@ -380,7 +366,6 @@
     ],
     "DifferentialRegulation": [],
     "dir.expiry": [],
-    "Director": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -392,10 +377,7 @@
         "decoupleR",
         "progeny"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EGAD": [
         "impute"
     ],
@@ -409,7 +391,6 @@
         "impute"
     ],
     "epidecodeR": [],
-    "EpiDISH": [],
     "epigraHMM": [
         "bamsignals"
     ],
@@ -554,13 +535,10 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "gaga": [
-        "EBarrays"
-    ],
+    "gaga": [],
     "garfield": [],
     "GARS": [
-        "MLSeq",
-        "sSeq"
+        "MLSeq"
     ],
     "GateFinder": [
         "cytolib",
@@ -585,9 +563,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "geNetClassifier": [
-        "EBarrays"
-    ],
+    "geNetClassifier": [],
     "genomation": [
         "impute"
     ],
@@ -617,7 +593,6 @@
     "GNOSIS": [
         "maftools"
     ],
-    "GOSim": [],
     "GPA": [],
     "gpls": [],
     "GSALightning": [],
@@ -654,7 +629,6 @@
     ],
     "hpar": [],
     "hummingbird": [],
-    "iASeq": [],
     "iBBiG": [],
     "iClusterPlus": [],
     "IFAA": [],
@@ -747,9 +721,7 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [
-        "ROC"
-    ],
+    "maPredictDSC": [],
     "MassArray": [],
     "MatrixQCvis": [
         "impute"
@@ -765,13 +737,10 @@
     "mdqc": [],
     "MeasurementError.cor": [],
     "MEAT": [
-        "ROC",
         "impute",
         "wateRmelon"
     ],
-    "memes": [
-        "universalmotif"
-    ],
+    "memes": [],
     "meshes": [],
     "MetaboSignal": [
         "hpar"
@@ -803,7 +772,6 @@
         "widgetTools"
     ],
     "MICSQTL": [
-        "EpiDISH",
         "TOAST"
     ],
     "miRLAB": [
@@ -815,9 +783,7 @@
         "impute"
     ],
     "mitch": [],
-    "MLSeq": [
-        "sSeq"
-    ],
+    "MLSeq": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
@@ -904,8 +870,7 @@
         "impute"
     ],
     "netOmics": [
-        "RandomWalkRestartMH",
-        "supraHex"
+        "RandomWalkRestartMH"
     ],
     "NetPathMiner": [],
     "NetSAM": [
@@ -923,7 +888,6 @@
     "normr": [
         "bamsignals"
     ],
-    "nuCpos": [],
     "OLINgui": [
         "tkWidgets",
         "widgetTools"
@@ -957,14 +921,12 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "OSAT": [],
     "PanViz": [],
     "pareg": [
         "basilisk",
         "basilisk.utils",
         "dir.expiry"
     ],
-    "parody": [],
     "Path2PPI": [],
     "pathifier": [],
     "pcxn": [],
@@ -990,9 +952,7 @@
     "phenoTest": [
         "Heatplus"
     ],
-    "Pi": [
-        "supraHex"
-    ],
+    "Pi": [],
     "pickgene": [],
     "Pigengene": [
         "impute"
@@ -1070,9 +1030,7 @@
         "GWASTools",
         "quantsmooth"
     ],
-    "RandomWalkRestartMH": [
-        "supraHex"
-    ],
+    "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
     "RareVariantVis": [],
@@ -1106,7 +1064,6 @@
         "impute"
     ],
     "RegionalST": [
-        "EpiDISH",
         "TOAST"
     ],
     "REMP": [
@@ -1158,7 +1115,6 @@
     "Rnits": [
         "impute"
     ],
-    "ROC": [],
     "rsemmed": [],
     "RSeqAn": [],
     "rWikiPathways": [],
@@ -1224,7 +1180,6 @@
         "zellkonverter"
     ],
     "skewr": [
-        "ROC",
         "wateRmelon"
     ],
     "SMAD": [],
@@ -1249,16 +1204,13 @@
         "impute"
     ],
     "sRACIPE": [],
-    "sSeq": [],
     "ssize": [],
     "statTarget": [
-        "ROC",
         "impute"
     ],
     "strandCheckR": [],
     "STRINGdb": [],
     "Summix": [],
-    "supraHex": [],
     "swfdr": [],
     "synapter": [
         "MSnbase",
@@ -1272,9 +1224,7 @@
         "mzID"
     ],
     "TBSignatureProfiler": [],
-    "TCC": [
-        "ROC"
-    ],
+    "TCC": [],
     "TDbasedUFEadv": [
         "STRINGdb"
     ],
@@ -1294,9 +1244,7 @@
     "tkWidgets": [
         "widgetTools"
     ],
-    "TOAST": [
-        "EpiDISH"
-    ],
+    "TOAST": [],
     "topdownr": [
         "MSnbase",
         "impute",
@@ -1320,7 +1268,6 @@
     ],
     "tripr": [],
     "TRONCO": [],
-    "universalmotif": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -1328,9 +1275,7 @@
         "zellkonverter"
     ],
     "VERSO": [],
-    "wateRmelon": [
-        "ROC"
-    ],
+    "wateRmelon": [],
     "widgetTools": [],
     "wppi": [
         "OmnipathR"
