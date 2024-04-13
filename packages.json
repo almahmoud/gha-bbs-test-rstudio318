@@ -96,7 +96,6 @@
     "biscuiteer": [
         "CGHcall",
         "QDNAseq",
-        "dmrseq",
         "impute"
     ],
     "branchpointer": [],
@@ -240,7 +239,6 @@
         "genefu",
         "impute"
     ],
-    "conumee": [],
     "CopyNumberPlots": [
         "bamsignals",
         "karyoploteR"
@@ -365,7 +363,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "deconvR": [],
     "decoupleR": [],
     "DeepBlueR": [],
     "densvis": [
@@ -393,7 +390,6 @@
     "dir.expiry": [],
     "Director": [],
     "DMRcate": [],
-    "dmrseq": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -431,7 +427,6 @@
     "EpiMix": [
         "impute"
     ],
-    "epimutacions": [],
     "esATAC": [
         "pipeFrame"
     ],
@@ -573,7 +568,6 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "funtooNorm": [],
     "gaga": [
         "EBarrays"
     ],
@@ -815,8 +809,6 @@
     "MethReg": [
         "sesame"
     ],
-    "MethylAid": [],
-    "methylCC": [],
     "methylclock": [
         "impute"
     ],
@@ -833,9 +825,7 @@
         "TOAST"
     ],
     "MineICA": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miRLAB": [
         "impute"
     ],
@@ -919,7 +909,6 @@
         "maftools"
     ],
     "mzID": [],
-    "NADfinder": [],
     "nanotatoR": [],
     "ncdfFlow": [
         "cytolib",
@@ -947,7 +936,6 @@
     ],
     "netZooR": [
         "STRINGdb",
-        "quantro",
         "yarn"
     ],
     "NoRCE": [
@@ -1037,7 +1025,6 @@
     "pmp": [
         "impute"
     ],
-    "pogos": [],
     "POMA": [
         "RankProd",
         "impute"
@@ -1099,7 +1086,6 @@
         "impute",
         "mzID"
     ],
-    "quantro": [],
     "quantsmooth": [],
     "RAIDS": [
         "GENESIS",
@@ -1209,7 +1195,6 @@
         "cytolib",
         "flowCore"
     ],
-    "scmeth": [],
     "Sconify": [
         "cytolib",
         "flowCore"
@@ -1240,8 +1225,6 @@
     ],
     "SeqSQC": [],
     "sesame": [],
-    "shinyepico": [],
-    "shinyMethyl": [],
     "signifinder": [
         "consensusOV",
         "genefu",
@@ -1323,7 +1306,6 @@
     "TEKRABber": [
         "SCBN"
     ],
-    "tenXplore": [],
     "tidybulk": [],
     "TimiRGeN": [
         "Mfuzz",
@@ -1364,7 +1346,6 @@
     "tripr": [],
     "TRONCO": [],
     "universalmotif": [],
-    "VanillaICE": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
@@ -1387,9 +1368,7 @@
     "XINA": [
         "STRINGdb"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zellkonverter": [
         "basilisk",
         "basilisk.utils",
