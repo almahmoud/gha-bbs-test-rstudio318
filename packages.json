@@ -53,12 +53,8 @@
         "dir.expiry"
     ],
     "BHC": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
-    "bioCancer": [
-        "geNetClassifier"
-    ],
+    "bigmelon": [],
+    "bioCancer": [],
     "BioCartaImage": [],
     "BiocHail": [
         "basilisk",
@@ -97,16 +93,10 @@
     ],
     "canceR": [
         "Heatplus",
-        "geNetClassifier",
         "phenoTest"
     ],
-    "Cardinal": [
-        "CardinalIO"
-    ],
-    "CardinalIO": [],
-    "casper": [
-        "gaga"
-    ],
+    "Cardinal": [],
+    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "cytolib",
@@ -150,8 +140,7 @@
         "impute"
     ],
     "ChAMP": [
-        "impute",
-        "wateRmelon"
+        "impute"
     ],
     "ChIPseqR": [
         "HilbertVis"
@@ -162,7 +151,6 @@
     "CIMICE": [
         "maftools"
     ],
-    "circRNAprofiler": [],
     "cliqueMS": [
         "MSnbase",
         "impute",
@@ -170,10 +158,7 @@
         "xcms"
     ],
     "Clomial": [],
-    "clst": [],
-    "clstutils": [
-        "clst"
-    ],
+    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "impute",
@@ -370,7 +355,6 @@
         "decoupleR",
         "progeny"
     ],
-    "EBcoexpress": [],
     "EGAD": [
         "impute"
     ],
@@ -378,7 +362,6 @@
     "ENmix": [
         "impute"
     ],
-    "enrichTF": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -527,11 +510,8 @@
         "ncdfFlow"
     ],
     "fmrs": [],
-    "gaga": [],
     "garfield": [],
-    "GARS": [
-        "MLSeq"
-    ],
+    "GARS": [],
     "GateFinder": [
         "cytolib",
         "flowCore",
@@ -552,7 +532,6 @@
     ],
     "GeneOverlap": [],
     "GENESIS": [],
-    "geNetClassifier": [],
     "genomation": [
         "impute"
     ],
@@ -700,7 +679,6 @@
         "GLAD"
     ],
     "MantelCorr": [],
-    "maPredictDSC": [],
     "MassArray": [],
     "MatrixQCvis": [
         "impute"
@@ -713,10 +691,8 @@
     "mdqc": [],
     "MeasurementError.cor": [],
     "MEAT": [
-        "impute",
-        "wateRmelon"
+        "impute"
     ],
-    "memes": [],
     "MetaboSignal": [
         "hpar"
     ],
@@ -746,9 +722,7 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "miRLAB": [
         "impute"
     ],
@@ -757,7 +731,6 @@
         "impute"
     ],
     "mitch": [],
-    "MLSeq": [],
     "MobilityTransformR": [
         "MSnbase",
         "impute",
@@ -1028,9 +1001,7 @@
     "RegEnrich": [
         "impute"
     ],
-    "RegionalST": [
-        "TOAST"
-    ],
+    "RegionalST": [],
     "REMP": [
         "impute"
     ],
@@ -1135,9 +1106,7 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "SMAD": [],
     "SMAP": [],
     "snapCGH": [
@@ -1179,8 +1148,6 @@
     "TargetDecoy": [
         "mzID"
     ],
-    "TBSignatureProfiler": [],
-    "TCC": [],
     "TDbasedUFEadv": [
         "STRINGdb"
     ],
@@ -1200,7 +1167,6 @@
     "tkWidgets": [
         "widgetTools"
     ],
-    "TOAST": [],
     "topdownr": [
         "MSnbase",
         "impute",
@@ -1231,7 +1197,6 @@
         "zellkonverter"
     ],
     "VERSO": [],
-    "wateRmelon": [],
     "widgetTools": [],
     "wppi": [
         "OmnipathR"
