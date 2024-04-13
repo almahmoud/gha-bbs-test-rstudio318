@@ -825,7 +825,6 @@
         "TOAST"
     ],
     "MineICA": [],
-    "MinimumDistance": [],
     "miRLAB": [
         "impute"
     ],
@@ -935,8 +934,7 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "STRINGdb",
-        "yarn"
+        "STRINGdb"
     ],
     "NoRCE": [
         "rWikiPathways"
@@ -1368,7 +1366,6 @@
     "XINA": [
         "STRINGdb"
     ],
-    "yarn": [],
     "zellkonverter": [
         "basilisk",
         "basilisk.utils",
