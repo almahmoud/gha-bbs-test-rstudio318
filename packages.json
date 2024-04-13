@@ -15,10 +15,7 @@
     ],
     "adductomicsR": [],
     "affycomp": [],
-    "alabaster": [
-        "alabaster.spatial"
-    ],
-    "alabaster.spatial": [],
+    "alabaster": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -170,7 +167,6 @@
         "impute"
     ],
     "ChAMP": [
-        "DMRcate",
         "ROC",
         "impute",
         "wateRmelon"
@@ -389,7 +385,6 @@
     "DifferentialRegulation": [],
     "dir.expiry": [],
     "Director": [],
-    "DMRcate": [],
     "DNAfusion": [
         "bamsignals"
     ],
@@ -442,7 +437,6 @@
         "impute"
     ],
     "fdrame": [],
-    "ffpe": [],
     "flagme": [
         "CAMERA",
         "MSnbase",
@@ -670,7 +664,6 @@
     "hummingbird": [],
     "iASeq": [],
     "iBBiG": [],
-    "iCheck": [],
     "iClusterPlus": [],
     "IFAA": [],
     "IMMAN": [
@@ -779,7 +772,6 @@
     ],
     "mdp": [],
     "mdqc": [],
-    "MEAL": [],
     "MeasurementError.cor": [],
     "MEAT": [
         "ROC",
@@ -812,7 +804,6 @@
     "methylclock": [
         "impute"
     ],
-    "methylGSA": [],
     "MethylMix": [
         "impute"
     ],
@@ -824,7 +815,6 @@
         "EpiDISH",
         "TOAST"
     ],
-    "MineICA": [],
     "miRLAB": [
         "impute"
     ],
