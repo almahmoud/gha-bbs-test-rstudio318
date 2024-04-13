@@ -113,12 +113,9 @@
         "phenoTest"
     ],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "casper": [
         "EBarrays",
         "gaga"
@@ -406,9 +403,7 @@
     "ENmix": [
         "impute"
     ],
-    "enrichTF": [
-        "pipeFrame"
-    ],
+    "enrichTF": [],
     "EpiCompare": [
         "genomation",
         "impute"
@@ -421,9 +416,7 @@
     "EpiMix": [
         "impute"
     ],
-    "esATAC": [
-        "pipeFrame"
-    ],
+    "esATAC": [],
     "ExperimentHubData": [],
     "famat": [
         "rWikiPathways"
@@ -761,7 +754,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "matter": [],
     "mBPCR": [
         "GWASTools",
         "quantsmooth"
@@ -1005,7 +997,6 @@
     "Pigengene": [
         "impute"
     ],
-    "pipeFrame": [],
     "PLPE": [
         "LPE"
     ],
@@ -1232,7 +1223,6 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "singscore": [],
     "skewr": [
         "ROC",
         "wateRmelon"
@@ -1281,9 +1271,7 @@
     "TargetDecoy": [
         "mzID"
     ],
-    "TBSignatureProfiler": [
-        "singscore"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [
         "ROC"
     ],
