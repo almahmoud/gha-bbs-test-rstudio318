@@ -526,7 +526,6 @@
         "impute"
     ],
     "GeneOverlap": [],
-    "GENESIS": [],
     "genomation": [
         "impute"
     ],
@@ -564,7 +563,6 @@
     "GSRI": [
         "les"
     ],
-    "gwasurvivr": [],
     "GWENA": [
         "impute"
     ],
@@ -678,7 +676,6 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "mBPCR": [],
     "MCbiclust": [
         "impute"
     ],
@@ -957,9 +954,7 @@
         "impute",
         "mzID"
     ],
-    "RAIDS": [
-        "GENESIS"
-    ],
+    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
