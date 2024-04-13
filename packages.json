@@ -13,7 +13,6 @@
         "GLAD",
         "snapCGH"
     ],
-    "adductomicsR": [],
     "AlpsNMR": [
         "impute"
     ],
@@ -53,10 +52,7 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
-    "BgeeDB": [],
+    "beadarraySNP": [],
     "BHC": [],
     "bigmelon": [
         "wateRmelon"
@@ -94,7 +90,6 @@
         "BioNERO",
         "impute"
     ],
-    "calm": [],
     "CAMERA": [
         "MSnbase",
         "impute",
@@ -364,7 +359,6 @@
         "cytolib",
         "flowCore"
     ],
-    "DifferentialRegulation": [],
     "dir.expiry": [],
     "DNAfusion": [
         "bamsignals"
@@ -560,8 +554,7 @@
     ],
     "GeneOverlap": [],
     "GENESIS": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "geNetClassifier": [],
     "genomation": [
@@ -594,8 +587,6 @@
         "maftools"
     ],
     "GPA": [],
-    "gpls": [],
-    "GSALightning": [],
     "gsean": [
         "PPInfer",
         "STRINGdb"
@@ -603,12 +594,9 @@
     "GSRI": [
         "les"
     ],
-    "GWASTools": [
-        "quantsmooth"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "GWENA": [
         "impute"
@@ -629,7 +617,6 @@
     ],
     "hpar": [],
     "hummingbird": [],
-    "iBBiG": [],
     "iClusterPlus": [],
     "IFAA": [],
     "IMMAN": [
@@ -708,7 +695,6 @@
     "MAGAR": [
         "impute"
     ],
-    "MAGeCKFlute": [],
     "MAI": [],
     "MAIT": [
         "CAMERA",
@@ -727,8 +713,7 @@
         "impute"
     ],
     "mBPCR": [
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "MCbiclust": [
         "impute"
@@ -741,7 +726,6 @@
         "wateRmelon"
     ],
     "memes": [],
-    "meshes": [],
     "MetaboSignal": [
         "hpar"
     ],
@@ -779,7 +763,6 @@
     ],
     "miRNApath": [],
     "miRSM": [
-        "iBBiG",
         "impute"
     ],
     "mitch": [],
@@ -842,7 +825,6 @@
         "karyoploteR"
     ],
     "multiGSEA": [],
-    "MultiMed": [],
     "MultiRNAflow": [
         "Mfuzz",
         "tkWidgets",
@@ -967,7 +949,6 @@
         "RankProd",
         "impute"
     ],
-    "powerTCR": [],
     "PPInfer": [
         "STRINGdb"
     ],
@@ -1000,10 +981,7 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "proteinProfiles": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -1024,11 +1002,9 @@
         "impute",
         "mzID"
     ],
-    "quantsmooth": [],
     "RAIDS": [
         "GENESIS",
-        "GWASTools",
-        "quantsmooth"
+        "GWASTools"
     ],
     "RandomWalkRestartMH": [],
     "randRotation": [],
@@ -1084,7 +1060,6 @@
     ],
     "Rfastp": [],
     "rgoslin": [],
-    "RiboProfiling": [],
     "rifiComparative": [],
     "RIPAT": [
         "bamsignals",
@@ -1097,7 +1072,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "STRINGdb"
     ],
     "RLMM": [],
@@ -1111,7 +1085,6 @@
         "impute"
     ],
     "RNAdecay": [],
-    "RNASeqPower": [],
     "Rnits": [
         "impute"
     ],
@@ -1138,9 +1111,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scRepertoire": [
-        "powerTCR"
-    ],
+    "scRepertoire": [],
     "scTensor": [],
     "scviR": [
         "basilisk",
@@ -1164,9 +1135,7 @@
         "genefu",
         "impute"
     ],
-    "SIM": [
-        "quantsmooth"
-    ],
+    "SIM": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
