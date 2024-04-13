@@ -61,9 +61,7 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [],
-    "BiocPkgTools": [],
     "BiocSklearn": [
         "basilisk",
         "basilisk.utils",
@@ -80,7 +78,6 @@
         "QDNAseq",
         "impute"
     ],
-    "branchpointer": [],
     "cageminer": [
         "BioNERO",
         "impute"
@@ -200,7 +197,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "CoSIA": [],
     "cosmiq": [
         "MSnbase",
         "impute",
@@ -373,7 +369,6 @@
     "EpiMix": [
         "impute"
     ],
-    "ExperimentHubData": [],
     "famat": [
         "rWikiPathways"
     ],
@@ -745,8 +740,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "MOGAMUN": [],
-    "Moonlight2R": [],
     "mslp": [
         "RankProd"
     ],
@@ -788,7 +781,6 @@
         "bamsignals",
         "karyoploteR"
     ],
-    "multiGSEA": [],
     "MultiRNAflow": [
         "Mfuzz",
         "tkWidgets",
@@ -971,7 +963,6 @@
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
-    "RareVariantVis": [],
     "RCAS": [
         "genomation",
         "impute"
@@ -1020,7 +1011,6 @@
     ],
     "Rfastp": [],
     "rgoslin": [],
-    "rifiComparative": [],
     "RIPAT": [
         "bamsignals",
         "karyoploteR"
@@ -1051,7 +1041,6 @@
     "rsemmed": [],
     "RSeqAn": [],
     "rWikiPathways": [],
-    "SCATE": [],
     "scatterHatch": [],
     "SCBN": [],
     "scDataviz": [
@@ -1124,7 +1113,6 @@
     ],
     "specL": [],
     "spikeLI": [],
-    "SplicingGraphs": [],
     "SPsimSeq": [
         "impute"
     ],
@@ -1133,7 +1121,6 @@
     "statTarget": [
         "impute"
     ],
-    "strandCheckR": [],
     "STRINGdb": [],
     "Summix": [],
     "swfdr": [],
@@ -1189,7 +1176,6 @@
         "impute"
     ],
     "tripr": [],
-    "TRONCO": [],
     "velociraptor": [
         "basilisk",
         "basilisk.utils",
