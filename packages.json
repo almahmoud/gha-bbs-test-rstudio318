@@ -52,7 +52,6 @@
     "basilisk.utils": [
         "dir.expiry"
     ],
-    "beadarraySNP": [],
     "BHC": [],
     "bigmelon": [
         "wateRmelon"
@@ -552,9 +551,7 @@
         "impute"
     ],
     "GeneOverlap": [],
-    "GENESIS": [
-        "GWASTools"
-    ],
+    "GENESIS": [],
     "geNetClassifier": [],
     "genomation": [
         "impute"
@@ -593,10 +590,7 @@
     "GSRI": [
         "les"
     ],
-    "GWASTools": [],
-    "gwasurvivr": [
-        "GWASTools"
-    ],
+    "gwasurvivr": [],
     "GWENA": [
         "impute"
     ],
@@ -711,9 +705,7 @@
     "MatrixQCvis": [
         "impute"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "MCbiclust": [
         "impute"
     ],
@@ -980,7 +972,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "MSnbase",
         "impute",
@@ -1002,8 +993,7 @@
         "mzID"
     ],
     "RAIDS": [
-        "GENESIS",
-        "GWASTools"
+        "GENESIS"
     ],
     "RandomWalkRestartMH": [],
     "randRotation": [],
@@ -1110,7 +1100,6 @@
         "basilisk.utils",
         "dir.expiry"
     ],
-    "scRepertoire": [],
     "scTensor": [],
     "scviR": [
         "basilisk",
@@ -1134,7 +1123,6 @@
         "genefu",
         "impute"
     ],
-    "SIM": [],
     "SimBu": [
         "basilisk",
         "basilisk.utils",
