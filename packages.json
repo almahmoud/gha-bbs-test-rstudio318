@@ -53,8 +53,6 @@
         "dir.expiry"
     ],
     "BHC": [],
-    "bigmelon": [],
-    "bioCancer": [],
     "BioCartaImage": [],
     "BiocHail": [
         "basilisk",
@@ -92,8 +90,6 @@
         "Heatplus",
         "phenoTest"
     ],
-    "Cardinal": [],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "cytolib",
@@ -155,7 +151,6 @@
         "xcms"
     ],
     "Clomial": [],
-    "clstutils": [],
     "CluMSID": [
         "MSnbase",
         "impute",
@@ -506,7 +501,6 @@
     ],
     "fmrs": [],
     "garfield": [],
-    "GARS": [],
     "GateFinder": [
         "cytolib",
         "flowCore",
@@ -714,7 +708,6 @@
         "tkWidgets",
         "widgetTools"
     ],
-    "MICSQTL": [],
     "miRLAB": [
         "impute"
     ],
@@ -954,7 +947,6 @@
         "impute",
         "mzID"
     ],
-    "RAIDS": [],
     "RandomWalkRestartMH": [],
     "randRotation": [],
     "RankProd": [],
@@ -987,7 +979,6 @@
     "RegEnrich": [
         "impute"
     ],
-    "RegionalST": [],
     "REMP": [
         "impute"
     ],
@@ -1090,7 +1081,6 @@
         "dir.expiry",
         "zellkonverter"
     ],
-    "skewr": [],
     "SMAD": [],
     "SMAP": [],
     "snapCGH": [
